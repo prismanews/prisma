@@ -92,4 +92,6 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
+with open("hoy/index.html", "w", encoding="utf-8") as f:
+    f.write(html)
 print("Página generada correctamente")
