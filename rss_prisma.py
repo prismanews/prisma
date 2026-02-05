@@ -1,76 +1,59 @@
 import feedparser
 from datetime import datetime
-from difflib import SequenceMatcher
+from collections import defaultdict
 
-# ----------------------------
-# RSS PERIÓDICOS
-# ----------------------------
-
+# =========================
+# FUENTES RSS
+# =========================
 feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
     "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
-    "20 Minutos": "https://www.20minutos.es/rss/",
-    "eldiario.es": "https://www.eldiario.es/rss/",
-    "RTVE": "https://www.rtve.es/rss/portada.xml",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "Público": "https://www.publico.es/rss/",
-    "Europa Press": "https://www.europapress.es/rss/rss.aspx"
+    "20 Minutos": "https://www.20minutos.es/rss/",
 }
 
-# ----------------------------
-# SIMILITUD TITULARES
-# ----------------------------
+# =========================
+# CLASIFICACIÓN DE TEMAS
+# =========================
+TEMAS = {
+    "Reforma fiscal": ["reforma", "fiscal", "impuestos", "hacienda"],
+    "Tipos del BCE": ["bce", "tipos", "interés", "europeo"],
+    "Gobierno y política": ["gobierno", "psoe", "pp", "congreso", "senado"],
+    "Economía": ["inflación", "economía", "crecimiento", "déficit"],
+}
 
-def similar(a, b):
-    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+# =========================
+# AGRUPADOR
+# =========================
+comparativas = defaultdict(list)
 
+def detectar_tema(titulo):
+    t = titulo.lower()
+    for tema, claves in TEMAS.items():
+        if any(c in t for c in claves):
+            return tema
+    return "Otros"
 
-# ----------------------------
-# LEER RSS
-# ----------------------------
-
-noticias = []
-
+# =========================
+# LECTURA RSS
+# =========================
 for medio, url in feeds.items():
-    try:
-        feed = feedparser.parse(url)
-        if feed.entries:
-            noticias.append({
-                "medio": medio,
-                "titulo": feed.entries[0].title,
-                "link": feed.entries[0].link
-            })
-    except:
-        pass
+    feed = feedparser.parse(url)
+    if not feed.entries:
+        continue
 
+    noticia = feed.entries[0]
+    titulo = noticia.title
+    link = noticia.link
+    tema = detectar_tema(titulo)
 
-# ----------------------------
-# AGRUPAR NOTICIAS
-# ----------------------------
+    comparativas[tema].append((medio, titulo, link))
 
-grupos = []
-
-for noticia in noticias:
-    añadido = False
-
-    for grupo in grupos:
-        if similar(noticia["titulo"], grupo[0]["titulo"]) > 0.55:
-            grupo.append(noticia)
-            añadido = True
-            break
-
-    if not añadido:
-        grupos.append([noticia])
-
-grupos.sort(key=len, reverse=True)
-
-
-# ----------------------------
-# GENERAR HTML PORTADA
-# ----------------------------
-
+# =========================
+# GENERAR HTML
+# =========================
 fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
 
 html = f"""<!DOCTYPE html>
@@ -79,45 +62,52 @@ html = f"""<!DOCTYPE html>
 <meta charset="UTF-8">
 <title>Prisma</title>
 <link rel="stylesheet" href="prisma.css">
-<style>
-body{{font-family:system-ui;max-width:900px;margin:auto;padding:40px}}
-.card{{background:#f7f7f7;padding:20px;border-radius:12px;margin:20px 0}}
-h1{{text-align:center}}
-</style>
 </head>
 <body>
 
-<h1>PRISMA</h1>
-<p style="text-align:center">
-La misma noticia observada desde distintos ángulos<br>
-Actualizado: {fecha}
-</p>
+<header>
+  <h1>PRISMA</h1>
+  <p>La misma noticia observada desde distintos ángulos</p>
+  <p class="fecha">Actualizado: {fecha}</p>
+</header>
+
+<main>
 """
 
-for grupo in grupos[:5]:  # Top 5 noticias principales
-    html += "<div class='card'>"
-    html += "<h2>Comparativa de medios</h2>"
+for tema, items in comparativas.items():
+    if len(items) < 2:
+        continue  # Solo comparativas reales
 
-    for noticia in grupo:
+    html += f"""
+<section class="tema">
+  <h2>{tema}</h2>
+  <div class="comparativa">
+"""
+
+    for medio, titulo, link in items:
         html += f"""
-        <p>
-        <strong>{noticia['medio']}:</strong>
-        <a href="{noticia['link']}" target="_blank">
-        {noticia['titulo']}
-        </a>
-        </p>
-        """
+    <div class="card">
+      <strong>{medio}</strong>
+      <p>{titulo}</p>
+      <a href="{link}" target="_blank">Leer noticia →</a>
+    </div>
+"""
 
-    html += "</div>"
+    html += """
+  </div>
+</section>
+"""
 
-html += "</body></html>"
+html += """
+</main>
+</body>
+</html>
+"""
 
-
-# ----------------------------
-# GUARDAR PORTADA
-# ----------------------------
-
+# =========================
+# ESCRIBIR ARCHIVO
+# =========================
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Portada Prisma actualizada")
+print("Página generada correctamente")
