@@ -36,7 +36,7 @@ feeds = {
     "La Nueva España": "https://www.lne.es/rss/portada.xml",
     "Diario de Sevilla": "https://www.diariodesevilla.es/rss/",
     "Ideal": "https://www.ideal.es/rss/portada.xml",
-    "Sur": "https://www.diariosur.es/rss/portada.xml"
+    "Sur": "https://www.diariosur.es/rss/portada.xml",
 }
 
 html = """<!DOCTYPE html>
