@@ -2,27 +2,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <title>Prisma</title>
-
-<style>
-body{font-family:-apple-system,Arial;background:#f5f6f8;margin:0;color:#222}
-header{text-align:center;padding:32px}
-nav{text-align:center;margin:20px}
-main{max-width:800px;margin:auto;padding:20px}
-.evento{background:white;padding:20px;border-radius:8px;margin-bottom:16px}
-</style>
-
+<link rel="stylesheet" href="prisma.css">
 </head>
 <body>
+
 <header>
 <h1>PRISMA</h1>
-<p>La misma noticia, observada desde distintos ángulos</p>
+<p>La misma noticia observada desde distintos ángulos</p>
 </header>
-<nav>Hoy · Ayer · Archivo</nav>
-<main>
-<div class="evento"><h2>Reforma fiscal aprobada</h2><p>Comparación en varios medios</p></div>
-<div class="evento"><h2>Tipos del BCE</h2><p>Comparación en varios medios</p></div>
-</main>
+
+<nav>
+<a href="index.html">Hoy</a>
+<a href="hoy/index.html">Comparativas</a>
+<a href="archivo/index.html">Archivo</a>
+</nav>
+
+<div class="container">
+
+<div class="card">
+<h2>Reforma fiscal aprobada</h2>
+<p>Comparación en varios medios.</p>
+<a href="hoy/index.html">Ver comparativa →</a>
+</div>
+
+<div class="card">
+<h2>Tipos del BCE</h2>
+<p>Cómo lo cuentan distintos periódicos.</p>
+<a href="hoy/index.html">Ver comparativa →</a>
+</div>
+
+</div>
 </body>
 </html>
