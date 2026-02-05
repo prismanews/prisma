@@ -22,7 +22,7 @@ jobs:
         run: pip install feedparser
 
       - name: Generar página
-        run: python ./rss_prisma.py
+        run: python rss_prisma.py
 
       - name: Commit cambios
         run: |
