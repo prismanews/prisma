@@ -5,7 +5,11 @@ feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
-    "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml"
+    "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
+    "20 Minutos": "https://www.20minutos.es/rss/",
+    "eldiario.es": "https://www.eldiario.es/rss/",
+    "RTVE": "https://www.rtve.es/rss/portada.xml",
+    "El Confidencial": "https://www.elconfidencial.com/rss/"
 }
 
 html = """<!DOCTYPE html>
