@@ -59,7 +59,16 @@ html = """<!DOCTYPE html>
 """.format(datetime.now().strftime("%d/%m/%Y %H:%M"))
 
 for medio, url in feeds.items():
-    feed = feedparser.parse(url)
+    try:
+        feed = feedparser.parse(url)
+
+        if not feed.entries:
+            print(f"Sin noticias en {medio}")
+            continue
+    except Exception as e:
+        print(f"Error en {medio}: {e}")
+        continue
+        
     if feed.entries:
         noticia = feed.entries[0]
         html += f"""
