@@ -1,0 +1,33 @@
+name: Prisma Auto Update
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repo
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install feedparser
+
+      - name: Generar página
+        run: python rss_prisma.py
+
+      - name: Commit cambios
+        run: |
+          git config user.name "Prisma Bot"
+          git config user.email "bot@prisma.com"
+          git add .
+          git commit -m "Auto update noticias" || echo "Nada que actualizar"
+          git push
