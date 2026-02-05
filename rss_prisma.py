@@ -13,6 +13,13 @@ feeds = {
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
     "La Razón": "https://www.larazon.es/rss/",
+    "OK Diario": "https://okdiario.com/feed/",
+    "Libertad Digital": "https://www.libertaddigital.com/rss/portada.xml",
+    "Europa Press": "https://www.europapress.es/rss/rss.aspx",
+    "Telecinco": "https://www.telecinco.es/rss/",
+    "Antena 3": "https://www.antena3.com/rss/",
+    "Infolibre": "https://www.infolibre.es/rss/"
+}
 
     # Económicos
     "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
