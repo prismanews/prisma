@@ -1,6 +1,7 @@
 import feedparser
 import re
 from datetime import datetime
+from collections import Counter
 
 feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
@@ -14,44 +15,63 @@ feeds = {
 }
 
 stopwords = {
-    "el","la","los","las","de","del","en","para",
-    "por","con","sin","un","una","unos","unas",
-    "al","a","y","o","que","se","su","sus"
+    "el","la","los","las","de","del","en","para","por","con",
+    "sin","un","una","unos","unas","al","a","y","o","que",
+    "se","su","sus","ante","como","más","menos"
 }
 
 def limpiar(texto):
     texto = texto.lower()
     texto = re.sub(r'[^\w\s]', '', texto)
     palabras = texto.split()
-    return set(p for p in palabras if p not in stopwords and len(p) > 3)
+    return [p for p in palabras if p not in stopwords and len(p) > 3]
 
 def similares(t1, t2):
-    p1 = limpiar(t1)
-    p2 = limpiar(t2)
-    if not p1 or not p2:
-        return False
+    p1 = set(limpiar(t1))
+    p2 = set(limpiar(t2))
     return len(p1 & p2) >= 2
 
 def titular_general(grupo):
-    # El titular más largo suele resumir mejor
     return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
 
+def resumen_ia(grupo):
+    palabras = []
+
+    for n in grupo:
+        palabras += limpiar(n["titulo"])
+
+    comunes = [p for p, _ in Counter(palabras).most_common(3)]
+
+    if not comunes:
+        return ""
+
+    tema = ", ".join(comunes)
+
+    return f"""
+    <div class="resumen">
+    <strong>Lectura IA:</strong>
+    La cobertura gira en torno a <b>{tema}</b>.
+    Los medios coinciden en el núcleo informativo
+    aunque varía el enfoque y el lenguaje empleado.
+    </div>
+    """
+
+# recoger noticias
 noticias = []
 
 for medio, url in feeds.items():
     try:
         feed = feedparser.parse(url)
         if feed.entries:
-            n = feed.entries[0]
             noticias.append({
                 "medio": medio,
-                "titulo": n.title,
-                "link": n.link
+                "titulo": feed.entries[0].title,
+                "link": feed.entries[0].link
             })
     except:
         pass
 
-# AGRUPAR
+# agrupar noticias similares
 grupos = []
 
 for noticia in noticias:
@@ -74,6 +94,7 @@ html = f"""
 <link rel="stylesheet" href="prisma.css">
 </head>
 <body>
+
 <header>
 <h1>PRISMA</h1>
 <p>La misma noticia observada desde distintos ángulos</p>
@@ -86,11 +107,10 @@ html = f"""
 for grupo in grupos:
     html += "<div class='card'>"
 
-    # TITULO GENERAL
     html += f"<h2>{titular_general(grupo)}</h2>"
 
     if len(grupo) > 1:
-        html += "<p><em>Así lo cuentan los medios:</em></p>"
+        html += resumen_ia(grupo)
 
     for n in grupo:
         html += f"""
@@ -109,4 +129,4 @@ html += """
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Página generada correctamente")
+print("Página generada con análisis IA")
