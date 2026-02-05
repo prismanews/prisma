@@ -1,0 +1,32 @@
+name: Prisma Auto Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # cada día 06:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Instalar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
+
+    - name: Instalar librerías
+      run: pip install feedparser
+
+    - name: Ejecutar script Prisma
+      run: python scripts/prisma_bot.py
+
+    - name: Commit cambios
+      run: |
+        git config user.name "Prisma Bot"
+        git config user.email "bot@prisma"
+        git add .
+        git commit -m "Actualización automática Prisma" || echo "Sin cambios"
+        git push
