@@ -1,4 +1,3 @@
-2"}
 import feedparser
 from datetime import datetime
 import os
