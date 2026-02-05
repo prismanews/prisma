@@ -2,7 +2,6 @@ import feedparser
 import re
 from datetime import datetime
 
-# ---------- FEEDS ----------
 feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
@@ -11,17 +10,13 @@ feeds = {
     "20 Minutos": "https://www.20minutos.es/rss/",
     "eldiario.es": "https://www.eldiario.es/rss/",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "Público": "https://www.publico.es/rss/",
-    "La Razón": "https://www.larazon.es/rss/",
-    "OK Diario": "https://okdiario.com/feed/",
-    "Libertad Digital": "https://www.libertaddigital.com/rss/portada.xml"
+    "Público": "https://www.publico.es/rss/"
 }
 
-# ---------- STOPWORDS ----------
 stopwords = {
-    "el","la","los","las","de","del","en","para","por",
-    "con","sin","un","una","unos","unas","al","a",
-    "y","o","que","se","su","sus"
+    "el","la","los","las","de","del","en","para",
+    "por","con","sin","un","una","unos","unas",
+    "al","a","y","o","que","se","su","sus"
 }
 
 def limpiar(texto):
@@ -35,10 +30,12 @@ def similares(t1, t2):
     p2 = limpiar(t2)
     if not p1 or not p2:
         return False
-    inter = len(p1 & p2)
-    return inter >= 2
+    return len(p1 & p2) >= 2
 
-# ---------- LEER NOTICIAS ----------
+def titular_general(grupo):
+    # El titular más largo suele resumir mejor
+    return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
+
 noticias = []
 
 for medio, url in feeds.items():
@@ -54,7 +51,7 @@ for medio, url in feeds.items():
     except:
         pass
 
-# ---------- AGRUPAR ----------
+# AGRUPAR
 grupos = []
 
 for noticia in noticias:
@@ -67,7 +64,7 @@ for noticia in noticias:
     if not colocado:
         grupos.append([noticia])
 
-# ---------- GENERAR HTML ----------
+# HTML
 html = f"""
 <!DOCTYPE html>
 <html lang="es">
@@ -89,10 +86,11 @@ html = f"""
 for grupo in grupos:
     html += "<div class='card'>"
 
+    # TITULO GENERAL
+    html += f"<h2>{titular_general(grupo)}</h2>"
+
     if len(grupo) > 1:
-        html += "<h2>Comparativa de medios</h2>"
-    else:
-        html += "<h2>Otros titulares</h2>"
+        html += "<p><em>Así lo cuentan los medios:</em></p>"
 
     for n in grupo:
         html += f"""
