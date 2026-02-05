@@ -1,10 +1,9 @@
 import feedparser
 from datetime import datetime
 from difflib import SequenceMatcher
-import os
 
 # ----------------------------
-# FUENTES RSS (puedes ampliar)
+# RSS PERIÓDICOS
 # ----------------------------
 
 feeds = {
@@ -17,9 +16,6 @@ feeds = {
     "RTVE": "https://www.rtve.es/rss/portada.xml",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
-    "La Razón": "https://www.larazon.es/rss/",
-    "OK Diario": "https://okdiario.com/feed/",
-    "Libertad Digital": "https://www.libertaddigital.com/rss/portada.xml",
     "Europa Press": "https://www.europapress.es/rss/rss.aspx"
 }
 
@@ -32,7 +28,7 @@ def similar(a, b):
 
 
 # ----------------------------
-# CARGAR NOTICIAS RSS
+# LEER RSS
 # ----------------------------
 
 noticias = []
@@ -46,12 +42,12 @@ for medio, url in feeds.items():
                 "titulo": feed.entries[0].title,
                 "link": feed.entries[0].link
             })
-    except Exception as e:
-        print(f"Error en {medio}: {e}")
+    except:
+        pass
 
 
 # ----------------------------
-# AGRUPAR NOTICIAS SIMILARES
+# AGRUPAR NOTICIAS
 # ----------------------------
 
 grupos = []
@@ -68,13 +64,11 @@ for noticia in noticias:
     if not añadido:
         grupos.append([noticia])
 
-
-# Ordenar por relevancia (más medios = primero)
 grupos.sort(key=len, reverse=True)
 
 
 # ----------------------------
-# GENERAR HTML
+# GENERAR HTML PORTADA
 # ----------------------------
 
 fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
@@ -83,27 +77,25 @@ html = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Hoy · Prisma</title>
-<link rel="stylesheet" href="../prisma.css">
+<title>Prisma</title>
+<link rel="stylesheet" href="prisma.css">
+<style>
+body{{font-family:system-ui;max-width:900px;margin:auto;padding:40px}}
+.card{{background:#f7f7f7;padding:20px;border-radius:12px;margin:20px 0}}
+h1{{text-align:center}}
+</style>
 </head>
 <body>
 
-<header>
-<h1>Hoy</h1>
-<p>Comparativa automática · {fecha}</p>
-<nav>
-<a href="../">Inicio</a>
-<a href="../archivo/">Archivo</a>
-</nav>
-</header>
-
-<div class="container">
+<h1>PRISMA</h1>
+<p style="text-align:center">
+La misma noticia observada desde distintos ángulos<br>
+Actualizado: {fecha}
+</p>
 """
 
-
-for grupo in grupos:
+for grupo in grupos[:5]:  # Top 5 noticias principales
     html += "<div class='card'>"
-
     html += "<h2>Comparativa de medios</h2>"
 
     for noticia in grupo:
@@ -118,21 +110,14 @@ for grupo in grupos:
 
     html += "</div>"
 
-
-html += """
-</div>
-</body>
-</html>
-"""
+html += "</body></html>"
 
 
 # ----------------------------
-# GUARDAR ARCHIVO
+# GUARDAR PORTADA
 # ----------------------------
 
-os.makedirs("hoy", exist_ok=True)
-
-with open("hoy/index.html", "w", encoding="utf-8") as f:
+with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Página generada correctamente")
+print("Portada Prisma actualizada")
