@@ -30,4 +30,4 @@ jobs:
           git config user.email "bot@prisma.com"
           git add .
           git commit -m "Auto update noticias" || echo "Nada que actualizar"
-          git push
+          git push origin main
