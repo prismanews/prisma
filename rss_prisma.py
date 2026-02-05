@@ -8,7 +8,6 @@ feeds = {
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
     "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "20 Minutos": "https://www.20minutos.es/rss/",
 }
 
 noticias = []
@@ -33,14 +32,11 @@ grupos = []
 
 for noticia in noticias:
     colocado = False
-
     for grupo in grupos:
-        base = grupo[0]["titulo"]
-
         similitud = SequenceMatcher(
             None,
             noticia["titulo"].lower(),
-            base.lower()
+            grupo[0]["titulo"].lower()
         ).ratio()
 
         if similitud > 0.45:
@@ -73,8 +69,24 @@ html = f"""
 </header>
 
 <main>
+
+<section>
+<h2>Noticias del día</h2>
 """
 
+# Noticias simples
+for n in noticias:
+    html += f"""
+    <div class="card">
+    <strong>{n['medio']}</strong>
+    <p>{n['titulo']}</p>
+    <a href="{n['link']}">Leer noticia →</a>
+    </div>
+    """
+
+html += "</section>"
+
+# Comparativas reales
 for grupo in grupos:
     if len(grupo) < 2:
         continue
@@ -97,4 +109,4 @@ html += "</main></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Página generada")
+print("Página generada correctamente")
