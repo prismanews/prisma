@@ -1,8 +1,12 @@
+}
 name: Prisma Auto Update
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"   # cada 3 horas
   workflow_dispatch:
 
 jobs:
@@ -20,6 +24,9 @@ jobs:
 
       - name: Instalar dependencias
         run: pip install feedparser
+
+      - name: Debug estructura
+        run: ls -la
 
       - name: Generar página
         run: python rss_prisma.py
