@@ -89,7 +89,7 @@ for medio, url in feeds.items():
 html += "</div></body></html>"
 
 # Guardar página
-with open("hoy/index.html", "w", encoding="utf-8") as f:
+with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
 print("Página generada correctamente")
