@@ -122,6 +122,11 @@ for noticia in noticias:
     if not colocado:
         grupos.append([noticia])
 
+# ordenar por impacto (más medios primero)
+grupos.sort(key=len, reverse=True)
+
+max_medios = max(len(g) for g in grupos)
+
 # HTML
 html = f"""
 <!DOCTYPE html>
@@ -131,11 +136,12 @@ html = f"""
 <title>Prisma</title>
 <link rel="stylesheet" href="prisma.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="favicon.png">
 </head>
 <body>
 
 <header>
-<h1>PRISMA</h1>
+<h1>📰 PRISMA</h1>
 <p>Misma noticia, distintos ángulos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
 </header>
@@ -144,7 +150,10 @@ html = f"""
 """
 
 for grupo in grupos:
-    html += "<div class='card'>"
+    if len(grupo) == max_medios and len(grupo) > 1:
+    html += "<div class='trending'>🔥 Trending</div>"
+    
+   # html += "<div class='card'>"
 
     # Indicador consenso
     num = len(grupo)
@@ -162,6 +171,8 @@ for grupo in grupos:
     
     html += f"<h2>{titular_general(grupo)}</h2>"
 
+    html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
+    
     if len(grupo) > 1:
         html += resumen_ia(grupo)
 
