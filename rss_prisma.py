@@ -130,6 +130,18 @@ def resumen_ia(grupo):
     """
 
 from collections import Counter
+def tema_dominante(grupo):
+    palabras = []
+
+    for n in grupo:
+        palabras += limpiar(n["titulo"])
+
+    comunes = Counter(palabras).most_common(2)
+
+    if not comunes:
+        return ""
+
+    return " / ".join(p for p, _ in comunes)
 
 def tema_dominante(grupo):
     palabras = []
@@ -227,7 +239,8 @@ for i, grupo in enumerate(grupos, 1):
     html += f"<h2>{titular_general(grupo)}</h2>"
 
     html += f"<div class='tema'>🧭 Tema: {tema_dominante(grupo)}</div>"
-    
+    tema = tema_dominante(grupo) 
+   
     html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
     
     if len(grupo) > 1:
