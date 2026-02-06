@@ -21,7 +21,23 @@ feeds = {
     "RTVE": "https://www.rtve.es/rss/",
     "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
     "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
-    
+    "El Periódico de España": "https://www.epe.es/rss/portada.xml",
+    "Infolibre": "https://www.infolibre.es/rss/",
+    "Vozpópuli": "https://www.vozpopuli.com/rss/",
+    "El Independiente": "https://www.elindependiente.com/rss/",
+    "El Debate": "https://www.eldebate.com/rss/",
+    "Servimedia": "https://www.servimedia.es/rss",
+    "Infolibre": "https://www.infolibre.es/rss/",
+    "The Objective": "https://theobjective.com/feed/",
+    "Xataka": "https://www.xataka.com/feed.xml",
+    "Hipertextual": "https://hipertextual.com/feed",
+    "Genbeta": "https://www.genbeta.com/feed.xml",
+    "El Androide Libre": "https://www.elespanol.com/elandroidelibre/rss/",
+    "CTXT": "https://ctxt.es/rss.xml",
+    "Nuevatribuna": "https://www.nuevatribuna.es/"BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "France24 Español": "https://www.france24.com/es/rss",
+    "DW Español": "https://rss.dw.com/xml/rss-es-all",
+   
     # Regional / prensa general
     "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
     "El Periódico de Extremadura": "https://www.elperiodicoextremadura.com/rss/portada.xml",
@@ -32,7 +48,11 @@ feeds = {
     "Diario de Sevilla": "https://www.diariodesevilla.es/rss/",
     "Diario de Cádiz": "https://www.diariodecadiz.es/rss/",
     "El Periódico de Aragón": "https://www.elperiodicodearagon.com/rss/portada.xml",
-
+    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
+    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
+    "Sur": "https://www.diariosur.es/rss/portada.xml",
+    "La Opinión de Málaga": "https://www.laopiniondemalaga.es/rss/portada.xml",
+    
     # Deportes
     "AS": "https://as.com/rss/tags/ultimas_noticias.xml",
     "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
