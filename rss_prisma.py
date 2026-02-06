@@ -27,7 +27,6 @@ feeds = {
     "El Independiente": "https://www.elindependiente.com/rss/",
     "El Debate": "https://www.eldebate.com/rss/",
     "Servimedia": "https://www.servimedia.es/rss",
-    "Infolibre": "https://www.infolibre.es/rss/",
     "The Objective": "https://theobjective.com/feed/",
     "Xataka": "https://www.xataka.com/feed.xml",
     "Hipertextual": "https://hipertextual.com/feed",
@@ -130,6 +129,21 @@ def resumen_ia(grupo):
    </div>
     """
 
+from collections import Counter
+
+def tema_dominante(grupo):
+    palabras = []
+
+    for n in grupo:
+        palabras += limpiar(n["titulo"])
+
+    comunes = Counter(palabras).most_common(2)
+
+    if not comunes:
+        return ""
+
+    return " / ".join(p for p, _ in comunes)
+
 # recoger noticias
 noticias = []
 
@@ -212,6 +226,8 @@ for i, grupo in enumerate(grupos, 1):
     
     html += f"<h2>{titular_general(grupo)}</h2>"
 
+    html += f"<div class='tema'>🧭 Tema: {tema_dominante(grupo)}</div>"
+    
     html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
     
     if len(grupo) > 1:
