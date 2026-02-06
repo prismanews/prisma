@@ -59,3 +59,15 @@ nav a{
 .consenso {
     color: #800020;
 }
+
+.trending {
+    color: #b30000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.impacto {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 10px;
+}
