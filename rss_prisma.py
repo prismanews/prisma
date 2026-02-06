@@ -33,7 +33,15 @@ def limpiar(texto):
     texto = texto.lower()
     texto = re.sub(r'[^\w\s]', '', texto)
     palabras = texto.split()
-    return [p for p in palabras if p not in stopwords and len(p) > 3]
+    resultado = []
+
+    for p in palabras:
+        if p.endswith("s"):
+            p = p[:-1]
+        if p not in stopwords and len(p) > 3:
+            resultado.append(p)
+
+    return resultado
 
 def similares(t1, t2):
     p1 = set(limpiar(t1))
@@ -42,10 +50,13 @@ def similares(t1, t2):
     if not p1 or not p2:
         return False
 
-    coincidencias = len(p1 & p2)
-    total = min(len(p1), len(p2))
+    comunes = p1 & p2
+    total = p1 | p2
 
-    return coincidencias / total >= 0.4
+    # porcentaje de similitud tipo IA básica
+    similitud = len(comunes) / len(total)
+
+    return similitud >= 0.25
 
 def titular_general(grupo):
     return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
