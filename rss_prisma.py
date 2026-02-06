@@ -14,6 +14,8 @@ feeds = {
     "Público": "https://www.publico.es/rss/",
     "OK Diario": "https://okdiario.com/feed/",
     "Libertad Digital": "https://www.libertaddigital.com/rss/",
+    "Europa Press": "https://www.europapress.es/rss/rss.aspx",
+    "La Sexta": "https://www.lasexta.com/rss.xml",
 }
 
 stopwords = {
@@ -79,7 +81,7 @@ grupos = []
 for noticia in noticias:
     colocado = False
     for grupo in grupos:
-        if similares(noticia["titulo"], grupo[0]["titulo"]):
+        if any(similares(noticia["titulo"], n["titulo"]) for n in grupo):
             grupo.append(noticia)
             colocado = True
             break
