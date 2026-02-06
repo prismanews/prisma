@@ -86,15 +86,14 @@ nav a{
 }
 
 .cabecera {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    justify-content: center;
-    margin-bottom: 20px;
+    text-align: center;
+    margin-bottom: 30px;
 }
+
 .logo-inline {
-    width: 28px;
+    width: 32px;
+    height: 32px;
     vertical-align: middle;
-    margin-right: 6px;
+    margin-right: 8px;
 }
 
