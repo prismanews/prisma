@@ -11,7 +11,9 @@ feeds = {
     "20 Minutos": "https://www.20minutos.es/rss/",
     "eldiario.es": "https://www.eldiario.es/rss/",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "Público": "https://www.publico.es/rss/"
+    "Público": "https://www.publico.es/rss/",
+    "OK Diario": "https://okdiario.com/feed/",
+    "Libertad Digital": "https://www.libertaddigital.com/rss/",
 }
 
 stopwords = {
