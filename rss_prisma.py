@@ -153,8 +153,6 @@ for grupo in grupos:
     if len(grupo) == max_medios and len(grupo) > 1:
     html += "<div class='trending'>🔥 Trending</div>"
     
-   # html += "<div class='card'>"
-
     # Indicador consenso
     num = len(grupo)
 
