@@ -34,7 +34,8 @@ feeds = {
     "Genbeta": "https://www.genbeta.com/feed.xml",
     "El Androide Libre": "https://www.elespanol.com/elandroidelibre/rss/",
     "CTXT": "https://ctxt.es/rss.xml",
-    "Nuevatribuna": "https://www.nuevatribuna.es/"BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "Nuevatribuna": "https://www.nuevatribuna.es/rss/",
+    "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
     "France24 Español": "https://www.france24.com/es/rss",
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
    
