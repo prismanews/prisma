@@ -150,9 +150,11 @@ html = f"""
 """
 
 for grupo in grupos:
+    html += "<div class='card'>"
+
     if len(grupo) == max_medios and len(grupo) > 1:
-    html += "<div class='trending'>🔥 Trending</div>"
-    
+        html += "<div class='trending'>🔥 Trending</div>"
+        
     # Indicador consenso
     num = len(grupo)
 
