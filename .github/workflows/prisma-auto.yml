@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # cada 3 horas
+    - cron: "0 */1 * * *"   # cada 3 horas
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install feedparser
+        run: pip install feedparser sentence-transformers
 
       - name: Debug estructura
         run: ls -la
