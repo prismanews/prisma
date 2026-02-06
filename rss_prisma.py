@@ -151,11 +151,12 @@ html = f"""
 <title>Prisma</title>
 <link rel="stylesheet" href="prisma.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<img src="logo.png" class="logo">
 </head>
+
 <body>
 
 <header>
+<img src="logo.png" class="logo">
 <h1>📰 PRISMA</h1>
 <p>Misma noticia, distintos ángulos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
