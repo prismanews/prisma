@@ -142,6 +142,8 @@ grupos.sort(key=len, reverse=True)
 
 max_medios = max(len(g) for g in grupos)
 
+total_medios = sum(len(g) for g in grupos)
+
 # HTML
 html = f"""
 <!DOCTYPE html>
@@ -164,11 +166,20 @@ html = f"""
     <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
 </header>
 
+<header class="cabecera">
+        <h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
+        <p>Misma noticia, distintos ángulos</p>
+        <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
+        <div class="contador">📰 {total_medios} medios analizados hoy</div>
+</header>
+
 <div class="container">
 """
 
-for grupo in grupos:
+for i, grupo in enumerate(grupos, 1):
     html += "<div class='card'>"
+    if len(grupo) > 1:
+        html += f"<div class='ranking'>#{i} noticia del día</div>"
 
     if len(grupo) == max_medios and len(grupo) > 1:
         html += "<div class='trending'>🔥 Trending</div>"
