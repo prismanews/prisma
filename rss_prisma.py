@@ -156,7 +156,7 @@ html = f"""
 <body>
 
 <header>
-<img src="logo.png" class="logo">
+<img src="Logo.PNG" class="logo">
 <h1>📰 PRISMA</h1>
 <p>Misma noticia, distintos ángulos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
