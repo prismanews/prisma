@@ -94,6 +94,7 @@ html = f"""
 <meta charset="UTF-8">
 <title>Prisma</title>
 <link rel="stylesheet" href="prisma.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 
