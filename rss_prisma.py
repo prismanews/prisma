@@ -146,6 +146,20 @@ html = f"""
 for grupo in grupos:
     html += "<div class='card'>"
 
+    # Indicador consenso
+    num = len(grupo)
+
+    if num >= 4:
+        consenso = "🟢 Consenso alto"
+    elif num >= 2:
+        consenso = "🟡 Cobertura variada"
+    else:
+        consenso = "🔴 Solo un medio"
+
+    html += f"<div class='consenso'>{consenso} — {num} medios</div>"
+
+    html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
+    
     html += f"<h2>{titular_general(grupo)}</h2>"
 
     if len(grupo) > 1:
