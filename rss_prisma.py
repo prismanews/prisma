@@ -3,6 +3,16 @@ import re
 from datetime import datetime
 from collections import Counter
 
+# IA embeddings reales
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
+
+# modelo semántico (ligero y muy bueno)
+modelo = SentenceTransformer('all-MiniLM-L6-v2')
+
+
+# ---------------- FEEDS ----------------
+
 feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
@@ -37,8 +47,8 @@ feeds = {
     "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
     "France24 Español": "https://www.france24.com/es/rss",
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
-   
-    # Regional / prensa general
+
+    # Regional
     "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
     "El Periódico de Extremadura": "https://www.elperiodicoextremadura.com/rss/portada.xml",
     "La Nueva España": "https://www.lne.es/rss/portada.xml",
@@ -52,11 +62,14 @@ feeds = {
     "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
     "Sur": "https://www.diariosur.es/rss/portada.xml",
     "La Opinión de Málaga": "https://www.laopiniondemalaga.es/rss/portada.xml",
-    
+
     # Deportes
     "AS": "https://as.com/rss/tags/ultimas_noticias.xml",
     "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
 }
+
+
+# ---------------- LIMPIAR TEXTO ----------------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
@@ -68,95 +81,49 @@ def limpiar(texto):
     texto = texto.lower()
     texto = re.sub(r'[^\w\s]', '', texto)
     palabras = texto.split()
-    resultado = []
+    return [p for p in palabras if p not in stopwords and len(p) > 3]
 
-    for p in palabras:
-        if p.endswith("s"):
-            p = p[:-1]
-        if p not in stopwords and len(p) > 3:
-            resultado.append(p)
 
-    return resultado
+# ---------------- IA SEMÁNTICA ----------------
 
 def similares(t1, t2):
+    emb = modelo.encode([t1, t2])
+    score = cosine_similarity([emb[0]], [emb[1]])[0][0]
+    return score > 0.55
 
-    def limpiar_total(texto):
-        texto = texto.lower()
-        texto = re.sub(r'[^\w\s]', '', texto)
-        palabras = texto.split()
-        return set(p for p in palabras if len(p) > 3)
 
-    p1 = limpiar_total(t1)
-    p2 = limpiar_total(t2)
+# ---------------- TEMA DOMINANTE ----------------
 
-    if not p1 or not p2:
-        return False
-
-    # similitud Jaccard mejorada
-    comunes = p1 & p2
-    union = p1 | p2
-    score = len(comunes) / len(union)
-
-    # bonus por entidades (mayúsculas)
-    entidades1 = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', t1))
-    entidades2 = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', t2))
-
-    if entidades1 & entidades2:
-        score += 0.08
-
-    return score >= 0.20
-
-def titular_general(grupo):
-    return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
-
-def resumen_ia(grupo):
+def tema_dominante(grupo):
     palabras = []
-
     for n in grupo:
         palabras += limpiar(n["titulo"])
 
-    comunes = [p for p, _ in Counter(palabras).most_common(3)]
+    comunes = Counter(palabras).most_common(2)
+    return " / ".join(p for p, _ in comunes) if comunes else ""
 
+
+def resumen_ia(grupo):
+    palabras = []
+    for n in grupo:
+        palabras += limpiar(n["titulo"])
+
+    comunes = Counter(palabras).most_common(3)
     if not comunes:
         return ""
 
-    tema = ", ".join(comunes)
+    tema = ", ".join(p for p, _ in comunes)
 
     return f"""
     <div class="resumen">
     <strong>Lectura IA:</strong>
     La noticia gira en torno a <b>{tema}</b>.
-   </div>
+    </div>
     """
 
-from collections import Counter
-def tema_dominante(grupo):
-    palabras = []
 
-    for n in grupo:
-        palabras += limpiar(n["titulo"])
+# ---------------- RECOGER NOTICIAS ----------------
 
-    comunes = Counter(palabras).most_common(2)
-
-    if not comunes:
-        return ""
-
-    return " / ".join(p for p, _ in comunes)
-
-def tema_dominante(grupo):
-    palabras = []
-
-    for n in grupo:
-        palabras += limpiar(n["titulo"])
-
-    comunes = Counter(palabras).most_common(2)
-
-    if not comunes:
-        return ""
-
-    return " / ".join(p for p, _ in comunes)
-
-# recoger noticias
 noticias = []
 
 for medio, url in feeds.items():
@@ -171,27 +138,43 @@ for medio, url in feeds.items():
     except:
         pass
 
-# agrupar noticias similares
+
+# ---------------- CLUSTERING IA ----------------
+
 grupos = []
 
 for noticia in noticias:
-    colocado = False
+
+    if not grupos:
+        grupos.append([noticia])
+        continue
+
+    mejor_grupo = None
+    mejor_score = 0
+
     for grupo in grupos:
-        if any(similares(noticia["titulo"], n["titulo"]) for n in grupo):
-            grupo.append(noticia)
-            colocado = True
-            break
-    if not colocado:
+        emb = modelo.encode([noticia["titulo"], grupo[0]["titulo"]])
+        score = cosine_similarity([emb[0]], [emb[1]])[0][0]
+
+        if score > mejor_score:
+            mejor_score = score
+            mejor_grupo = grupo
+
+    if mejor_score > 0.55:
+        mejor_grupo.append(noticia)
+    else:
         grupos.append([noticia])
 
-# ordenar por impacto (más medios primero)
+
+# ordenar impacto
 grupos.sort(key=len, reverse=True)
 
 max_medios = max(len(g) for g in grupos)
-
 total_medios = sum(len(g) for g in grupos)
 
-# HTML
+
+# ---------------- HTML ----------------
+
 html = f"""
 <!DOCTYPE html>
 <html lang="es">
@@ -201,49 +184,44 @@ html = f"""
 <link rel="stylesheet" href="prisma.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-
 <body>
 
 <header class="cabecera">
-        <h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
-        <p>Más contexto, menos ruido. La actualidad sin sesgos</p>
-        <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
-        <div class="contador">📰 {total_medios} medios analizados hoy</div>
+<h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
+<p>Más contexto, menos ruido. La actualidad sin sesgos</p>
+<p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
+<div class="contador">📰 {total_medios} medios analizados hoy</div>
 </header>
 
 <div class="container">
 """
 
+
 for i, grupo in enumerate(grupos, 1):
+
+    tema = tema_dominante(grupo)
+
     html += "<div class='card'>"
+
     if len(grupo) > 1:
         html += f"<div class='ranking'>#{i} noticia del día</div>"
 
     if len(grupo) == max_medios and len(grupo) > 1:
         html += "<div class='trending'>🔥 Trending</div>"
-        
-    # Indicador consenso
+
     num = len(grupo)
 
-    if num >= 4:
-        consenso = "🟢 Consenso alto"
-    elif num >= 2:
-        consenso = "🟡 Cobertura variada"
-    else:
-        consenso = "🔴 Solo un medio"
+    consenso = (
+        "🟢 Consenso alto" if num >= 4 else
+        "🟡 Cobertura variada" if num >= 2 else
+        "🔴 Solo un medio"
+    )
 
     html += f"<div class='consenso'>{consenso} — {num} medios</div>"
+    html += f"<h2>{max(grupo, key=lambda n: len(n['titulo']))['titulo']}</h2>"
+    html += f"<div class='tema'>🧭 Tema: {tema}</div>"
 
-    html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
-    
-    html += f"<h2>{titular_general(grupo)}</h2>"
-
-    html += f"<div class='tema'>🧭 Tema: {tema_dominante(grupo)}</div>"
-    tema = tema_dominante(grupo) 
-   
-    html += f"<div class='impacto'>{len(grupo)} medios hablan de esto</div>"
-    
-    if len(grupo) > 1:
+    if num > 1:
         html += resumen_ia(grupo)
 
     for n in grupo:
@@ -254,13 +232,10 @@ for i, grupo in enumerate(grupos, 1):
 
     html += "</div>"
 
-html += """
-</div>
-</body>
-</html>
-"""
+html += "</div></body></html>"
+
 
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Página generada con análisis IA")
+print("PRISMA generado con clustering IA semántico")
