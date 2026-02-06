@@ -44,19 +44,30 @@ def limpiar(texto):
     return resultado
 
 def similares(t1, t2):
-    p1 = set(limpiar(t1))
-    p2 = set(limpiar(t2))
+    p1 = limpiar(t1)
+    p2 = limpiar(t2)
 
     if not p1 or not p2:
         return False
 
-    comunes = p1 & p2
-    total = p1 | p2
+    # frecuencia de palabras
+    c1 = Counter(p1)
+    c2 = Counter(p2)
 
-    # porcentaje de similitud tipo IA básica
-    similitud = len(comunes) / len(total)
+    # producto escalar (cosine simplificado)
+    comunes = set(c1) & set(c2)
+    num = sum(c1[w] * c2[w] for w in comunes)
 
-    return similitud >= 0.25
+    # norma de cada vector
+    den1 = sum(v*v for v in c1.values()) ** 0.5
+    den2 = sum(v*v for v in c2.values()) ** 0.5
+
+    if not den1 or not den2:
+        return False
+
+    similitud = num / (den1 * den2)
+
+    return similitud >= 0.20
 
 def titular_general(grupo):
     return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
