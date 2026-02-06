@@ -58,12 +58,25 @@ nav a{
 
 .consenso {
     color: #800020;
+} 
+
+.trending{
+    background:#ff4757;
+    color:white;
+    padding:4px 10px;
+    border-radius:8px;
+    display:inline-block;
+    font-size:12px;
+    margin-bottom:10px;
+    font-weight:bold;
 }
 
-.trending {
-    color: #b30000;
-    font-weight: bold;
-    margin-bottom: 5px;
+.card{
+    background:white;
+    padding:20px;
+    margin:20px 0;
+    border-radius:14px;
+    box-shadow:0 6px 20px rgba(0,0,0,0.08);
 }
 
 .impacto {
