@@ -188,7 +188,7 @@ html = f"""
 
 <header class="cabecera">
 <h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
-<p>Más contexto, menos ruido. La actualidad sin sesgos</p>
+<p>Más contexto menos ruido. La actualidad sin sesgos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
 <div class="contador">📰 {total_medios} medios analizados hoy</div>
 </header>
