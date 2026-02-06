@@ -155,11 +155,13 @@ html = f"""
 
 <body>
 
-<header>
-<img src="Logo.PNG" class="logo">
-<h1>📰 PRISMA</h1>
-<p>Misma noticia, distintos ángulos</p>
-<p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
+<header class="cabecera">
+    <img src="Logo.PNG" class="logo">
+    <div>
+        <h1>PRISMA</h1>
+        <p>Misma noticia, distintos ángulos</p>
+        <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
+    </div>
 </header>
 
 <div class="container">
