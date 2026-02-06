@@ -80,30 +80,32 @@ def limpiar(texto):
     return resultado
 
 def similares(t1, t2):
-    p1 = limpiar(t1)
-    p2 = limpiar(t2)
+
+    def limpiar_total(texto):
+        texto = texto.lower()
+        texto = re.sub(r'[^\w\s]', '', texto)
+        palabras = texto.split()
+        return set(p for p in palabras if len(p) > 3)
+
+    p1 = limpiar_total(t1)
+    p2 = limpiar_total(t2)
 
     if not p1 or not p2:
         return False
 
-    # frecuencia de palabras
-    c1 = Counter(p1)
-    c2 = Counter(p2)
+    # similitud Jaccard mejorada
+    comunes = p1 & p2
+    union = p1 | p2
+    score = len(comunes) / len(union)
 
-    # producto escalar (cosine simplificado)
-    comunes = set(c1) & set(c2)
-    num = sum(c1[w] * c2[w] for w in comunes)
+    # bonus por entidades (mayúsculas)
+    entidades1 = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', t1))
+    entidades2 = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', t2))
 
-    # norma de cada vector
-    den1 = sum(v*v for v in c1.values()) ** 0.5
-    den2 = sum(v*v for v in c2.values()) ** 0.5
+    if entidades1 & entidades2:
+        score += 0.08
 
-    if not den1 or not den2:
-        return False
-
-    similitud = num / (den1 * den2)
-
-    return similitud >= 0.20
+    return score >= 0.20
 
 def titular_general(grupo):
     return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
