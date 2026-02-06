@@ -16,6 +16,11 @@ feeds = {
     "Libertad Digital": "https://www.libertaddigital.com/rss/",
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
     "La Sexta": "https://www.lasexta.com/rss.xml",
+    "La Razón": "https://www.larazon.es/rss/",
+    "El Español": "https://www.elespanol.com/rss/",
+    "RTVE": "https://www.rtve.es/rss/",
+    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
 }
 
 stopwords = {
@@ -119,7 +124,7 @@ for grupo in grupos:
 
     for n in grupo:
         html += f"""
-        <p><span class="medio">{n['medio']}</span>:
+        <p><strong class="medio">{n['medio']}:</strong>
         <a href="{n['link']}" target="_blank">{n['titulo']}</a></p>
         """
 
