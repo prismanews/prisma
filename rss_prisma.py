@@ -21,6 +21,21 @@ feeds = {
     "RTVE": "https://www.rtve.es/rss/",
     "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
     "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
+    
+    # Regional / prensa general
+    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
+    "El Periódico de Extremadura": "https://www.elperiodicoextremadura.com/rss/portada.xml",
+    "La Nueva España": "https://www.lne.es/rss/portada.xml",
+    "Heraldo de Aragón": "https://www.heraldo.es/rss/portada/",
+    "El Periódico de Catalunya": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "Levante EMV": "https://www.levante-emv.com/rss/portada.xml",
+    "Diario de Sevilla": "https://www.diariodesevilla.es/rss/",
+    "Diario de Cádiz": "https://www.diariodecadiz.es/rss/",
+    "El Periódico de Aragón": "https://www.elperiodicodearagon.com/rss/portada.xml",
+
+    # Deportes
+    "AS": "https://as.com/rss/tags/ultimas_noticias.xml",
+    "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
 }
 
 stopwords = {
