@@ -92,7 +92,9 @@ nav a{
     justify-content: center;
     margin-bottom: 20px;
 }
-
-.logo {
-    width: 60px;
+.logo-inline {
+    width: 28px;
+    vertical-align: middle;
+    margin-right: 6px;
 }
+
