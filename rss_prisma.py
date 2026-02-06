@@ -156,11 +156,12 @@ html = f"""
 <body>
 
 <header class="cabecera">
-    <div>
-        <h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
-        <p>Misma noticia, distintos ángulos</p>
-        <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
-    </div>
+    <h1>
+        <img src="Logo.PNG" class="logo-inline">
+        PRISMA
+    </h1>
+    <p>Misma noticia, distintos ángulos</p>
+    <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
 </header>
 
 <div class="container">
