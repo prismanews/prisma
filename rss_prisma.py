@@ -151,7 +151,7 @@ html = f"""
 <title>Prisma</title>
 <link rel="stylesheet" href="prisma.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="6A5E0290-A35E-4F4B-B1D5-63D56E8748FA.png">
+<img src="logo.png" class="logo">
 </head>
 <body>
 
