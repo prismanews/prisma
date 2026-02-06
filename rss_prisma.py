@@ -52,9 +52,9 @@ def resumen_ia(grupo):
     return f"""
     <div class="resumen">
     <strong>Lectura IA:</strong>
-    La cobertura gira en torno a <b>{tema}</b>.
-    Los medios coinciden en el núcleo informativo
-    aunque varía el enfoque y el lenguaje empleado.
+    La noticia gira en torno a <b>{tema}</b>.
+    Coinciden varios medios en el hecho principal,
+    aunque cambian el enfoque editorial y los matices.
     </div>
     """
 
@@ -99,7 +99,7 @@ html = f"""
 
 <header>
 <h1>PRISMA</h1>
-<p>La misma noticia observada desde distintos ángulos</p>
+<p>Misma noticia, distintos ángulos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
 </header>
 
@@ -116,7 +116,7 @@ for grupo in grupos:
 
     for n in grupo:
         html += f"""
-        <p><strong>{n['medio']}:</strong>
+        <p><span class="medio">{n['medio']}</span>:
         <a href="{n['link']}" target="_blank">{n['titulo']}</a></p>
         """
 
