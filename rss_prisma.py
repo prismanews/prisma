@@ -38,7 +38,14 @@ def limpiar(texto):
 def similares(t1, t2):
     p1 = set(limpiar(t1))
     p2 = set(limpiar(t2))
-    return len(p1 & p2) >= 2
+
+    if not p1 or not p2:
+        return False
+
+    coincidencias = len(p1 & p2)
+    total = min(len(p1), len(p2))
+
+    return coincidencias / total >= 0.4
 
 def titular_general(grupo):
     return max(grupo, key=lambda n: len(n["titulo"]))["titulo"]
