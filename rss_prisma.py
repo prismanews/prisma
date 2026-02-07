@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# ---------------- CONFIGURACIÓN ----------------
+# ---------------- CONFIG ----------------
 
 UMBRAL_CLUSTER = 0.60
 MAX_NOTICIAS_FEED = 5
@@ -37,7 +37,7 @@ feeds = {
 }
 
 
-# ---------------- LIMPIEZA TEXTO ----------------
+# ---------------- LIMPIAR TEXTO ----------------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
@@ -74,26 +74,25 @@ for medio, url in feeds.items():
 
 # ---------------- ELIMINAR DUPLICADOS ----------------
 
-titulos_vistos = set()
+vistos = set()
 noticias_filtradas = []
 
 for n in noticias:
-    key = re.sub(r'\W+', '', n["titulo"].lower())
-
-    if key not in titulos_vistos:
-        titulos_vistos.add(key)
+    clave = re.sub(r'\W+', '', n["titulo"].lower())
+    if clave not in vistos:
+        vistos.add(clave)
         noticias_filtradas.append(n)
 
 noticias = noticias_filtradas
 
 
-# ---------------- EMBEDDINGS IA ----------------
+# ---------------- EMBEDDINGS ----------------
 
 titulos = [n["titulo"] for n in noticias]
 embeddings = modelo.encode(titulos)
 
 
-# ---------------- CLUSTERING ----------------
+# ---------------- CLUSTERING IA ----------------
 
 grupos = []
 
@@ -121,7 +120,6 @@ for i, noticia in enumerate(noticias):
     else:
         grupos.append([i])
 
-
 grupos.sort(key=len, reverse=True)
 
 
@@ -135,7 +133,6 @@ medios_unicos = len(set(n["medio"] for n in noticias))
 
 def tema_dominante(indices):
     palabras = []
-
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
@@ -145,7 +142,6 @@ def tema_dominante(indices):
 
 def resumen_ia(indices):
     palabras = []
-
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
@@ -158,8 +154,8 @@ def resumen_ia(indices):
 
     return f"""
     <div class="resumen">
-    <strong>Lectura IA:</strong>
-    La noticia gira en torno a <b>{tema}</b>.
+    🧠 <b>Lectura IA:</b> Cobertura centrada en
+    <b>{tema}</b>.
     </div>
     """
 
@@ -170,7 +166,7 @@ def titular_representativo(indices):
     return noticias[indices[scores.argmax()]]["titulo"]
 
 
-# ---------------- HTML ----------------
+# ---------------- HTML MODERNO ----------------
 
 html = f"""
 <!DOCTYPE html>
@@ -183,11 +179,13 @@ html = f"""
 </head>
 <body>
 
-<header class="cabecera">
-<h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
-<p>Más contexto menos ruido. La actualidad sin sesgos</p>
-<p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
-<div class="contador">📰 {medios_unicos} medios analizados</div>
+<header class="header">
+<div class="logo">🧠 PRISMA</div>
+<p class="tagline">Más contexto · menos ruido</p>
+<div class="stats">
+📰 {medios_unicos} medios analizados ·
+{datetime.now().strftime("%d/%m %H:%M")}
+</div>
 </header>
 
 <div class="container">
@@ -199,23 +197,24 @@ for i, grupo in enumerate(grupos, 1):
     num = len(grupo)
     tema = tema_dominante(grupo)
 
-    html += "<div class='card'>"
-
-    if num > 1:
-        html += f"<div class='ranking'>#{i} noticia del día</div>"
-
-    if num == max_medios and num > 1:
-        html += "<div class='trending'>🔥 Trending</div>"
-
     consenso = (
         "🟢 Consenso alto" if num >= 4 else
         "🟡 Cobertura variada" if num >= 2 else
         "🔴 Solo un medio"
     )
 
-    html += f"<div class='consenso'>{consenso} — {num} medios</div>"
-    html += f"<h2>{titular_representativo(grupo)}</h2>"
-    html += f"<div class='tema'>🧭 Tema: {tema}</div>"
+    html += f"""
+    <div class="card">
+
+    <div class="meta">
+      <span>{consenso}</span>
+      <span>#{i}</span>
+    </div>
+
+    <h2>{titular_representativo(grupo)}</h2>
+
+    <div class="tema">🧭 {tema}</div>
+    """
 
     if num > 1:
         html += resumen_ia(grupo)
@@ -223,11 +222,23 @@ for i, grupo in enumerate(grupos, 1):
     for idx in grupo:
         n = noticias[idx]
         html += f"""
-        <p><strong class="medio">{n['medio']}:</strong>
-        <a href="{n['link']}" target="_blank">{n['titulo']}</a></p>
+        <p>
+        <strong class="medio">{n['medio']}:</strong>
+        <a href="{n['link']}" target="_blank">
+        {n['titulo']}
+        </a>
+        </p>
         """
 
-    html += "</div>"
+    html += """
+    <button class="share"
+    onclick="navigator.share?.({title:'Prisma',
+    url:window.location.href})">
+    Compartir
+    </button>
+
+    </div>
+    """
 
 
 html += "</div></body></html>"
@@ -236,4 +247,4 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("PRISMA generado correctamente")
+print("PRISMA generado correctamente 🚀")
