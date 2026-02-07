@@ -1,5 +1,6 @@
 import feedparser
 import re
+import html
 from datetime import datetime
 from collections import Counter
 
@@ -48,6 +49,13 @@ stopwords = {
     "algunos","segun","entre","tambien"
 }
 
+
+def limpiar_html(texto):
+    texto = html.unescape(texto)
+    texto = re.sub(r'<.*?>', '', texto)
+    return texto.strip()
+
+
 def limpiar(texto):
     texto = texto.lower()
     texto = re.sub(r'[^\w\s]', '', texto)
@@ -67,7 +75,7 @@ for medio, url in feeds.items():
             if "title" in entry and "link" in entry:
                 noticias.append({
                     "medio": medio,
-                    "titulo": entry.title.strip(),
+                    "titulo": limpiar_html(entry.title),
                     "link": entry.link.strip()
                 })
     except Exception:
@@ -90,7 +98,11 @@ noticias = noticias_filtradas
 
 # ---------------- EMBEDDINGS ----------------
 
-titulos = [n["titulo"] for n in noticias]
+titulos = [n["titulo"] for n in noticias if n["titulo"]]
+
+if not titulos:
+    raise ValueError("No hay titulares válidos.")
+
 embeddings = modelo.encode(titulos)
 
 
@@ -161,10 +173,19 @@ def resumen_ia(indices):
     """
 
 
-def titular_representativo(indices):
-    centro = embeddings[indices].mean(axis=0)
-    scores = cosine_similarity([centro], embeddings[indices])[0]
-    return noticias[indices[scores.argmax()]]["titulo"]
+# ⭐ TITULAR PRISMA NEUTRAL
+def titular_prisma(indices):
+    palabras = []
+    for i in indices:
+        palabras += limpiar(noticias[i]["titulo"])
+
+    comunes = Counter(palabras).most_common(4)
+
+    if not comunes:
+        return "Panorama informativo del día"
+
+    tema = " ".join(p for p, _ in comunes)
+    return f"Panorama informativo: {tema.capitalize()}"
 
 
 # ---------------- HTML PREMIUM ----------------
@@ -180,19 +201,14 @@ html = f"""
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Cache limpio -->
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<!-- Iconos app -->
 <link rel="icon" href="Logo.PNG">
 <link rel="apple-touch-icon" href="Logo.PNG">
-
-<!-- Estilo -->
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 
-<!-- PWA look -->
 <meta name="theme-color" content="#ffffff">
 <meta name="apple-mobile-web-app-capable" content="yes">
 
@@ -201,26 +217,26 @@ html = f"""
 
 <header class="header">
 
-  <div class="logo">
-    <img src="Logo.PNG" class="logo-img" alt="Prisma logo">
-    <a href="index.html" class="logo-link">PRISMA</a>
-  </div>
+<div class="logo">
+<img src="Logo.PNG" class="logo-img" alt="Prisma logo">
+<a href="index.html" class="logo-link">PRISMA</a>
+</div>
 
-  <p class="tagline">Más contexto · menos ruido</p>
+<p class="tagline">Más contexto · menos ruido</p>
 
-  <p style="font-size:12px;color:#999;margin-top:-6px;">
-  👉 Puedes guardar Prisma como app desde tu navegador
-  </p>
+<p style="font-size:12px;color:#999;margin-top:-6px;">
+👉 Puedes guardar Prisma como app desde tu navegador
+</p>
 
-  <div class="stats">
-    📰 {medios_unicos} medios analizados ·
-    {datetime.now().strftime("%d/%m %H:%M")}
-  </div>
+<div class="stats">
+📰 {medios_unicos} medios analizados ·
+{datetime.now().strftime("%d/%m %H:%M")}
+</div>
 
-  <nav class="nav">
-    <a href="index.html">Inicio</a>
-    <a href="sobre.html">Sobre Prisma</a>
-  </nav>
+<nav class="nav">
+<a href="index.html">Inicio</a>
+<a href="sobre.html">Sobre Prisma</a>
+</nav>
 
 </header>
 
@@ -247,7 +263,7 @@ for i, grupo in enumerate(grupos, 1):
       <span>#{i}</span>
     </div>
 
-    <h2>{titular_representativo(grupo)}</h2>
+    <h2>{titular_prisma(grupo)}</h2>
     <div class="tema">🧭 {tema}</div>
     """
 
