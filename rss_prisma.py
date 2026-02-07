@@ -1,6 +1,7 @@
 import feedparser
 import re
 import html
+import random
 from datetime import datetime
 from collections import Counter
 
@@ -38,7 +39,7 @@ feeds = {
 }
 
 
-# ---------------- LIMPIAR TEXTO ----------------
+# ---------------- LIMPIEZA TEXTO ----------------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
@@ -49,12 +50,10 @@ stopwords = {
     "algunos","segun","entre","tambien"
 }
 
-
 def limpiar_html(texto):
     texto = html.unescape(texto)
     texto = re.sub(r'<.*?>', '', texto)
     return texto.strip()
-
 
 def limpiar(texto):
     texto = texto.lower()
@@ -78,46 +77,41 @@ for medio, url in feeds.items():
                     "titulo": limpiar_html(entry.title),
                     "link": entry.link.strip()
                 })
-    except Exception:
+    except:
         continue
 
 
-# ---------------- ELIMINAR DUPLICADOS ----------------
+# ---------------- DEDUPLICADO ----------------
 
 vistos = set()
-noticias_filtradas = []
-
-for n in noticias:
-    clave = re.sub(r'\W+', '', n["titulo"].lower())
-    if clave not in vistos:
-        vistos.add(clave)
-        noticias_filtradas.append(n)
-
-noticias = noticias_filtradas
+noticias = [
+    n for n in noticias
+    if not (clave := re.sub(r'\W+', '', n["titulo"].lower())) in vistos
+    and not vistos.add(clave)
+]
 
 
 # ---------------- EMBEDDINGS ----------------
 
-titulos = [n["titulo"] for n in noticias if n["titulo"]]
+titulos = [n["titulo"] for n in noticias]
 
 if not titulos:
-    raise ValueError("No hay titulares válidos.")
+    raise ValueError("Sin titulares.")
 
 embeddings = modelo.encode(titulos)
 
 
-# ---------------- CLUSTERING IA ----------------
+# ---------------- CLUSTERING ----------------
 
 grupos = []
 
-for i, noticia in enumerate(noticias):
+for i in range(len(noticias)):
 
     if not grupos:
         grupos.append([i])
         continue
 
-    mejor_grupo = None
-    mejor_score = 0
+    mejor, score_max = None, 0
 
     for grupo in grupos:
         score = cosine_similarity(
@@ -125,14 +119,11 @@ for i, noticia in enumerate(noticias):
             [embeddings[grupo[0]]]
         )[0][0]
 
-        if score > mejor_score:
-            mejor_score = score
-            mejor_grupo = grupo
+        if score > score_max:
+            score_max, mejor = score, grupo
 
-    if mejor_score > UMBRAL_CLUSTER:
-        mejor_grupo.append(i)
-    else:
-        grupos.append([i])
+    (mejor.append(i) if score_max > UMBRAL_CLUSTER
+     else grupos.append([i]))
 
 grupos.sort(key=len, reverse=True)
 
@@ -142,18 +133,55 @@ grupos.sort(key=len, reverse=True)
 medios_unicos = len(set(n["medio"] for n in noticias))
 
 
-# ---------------- IA EXTRA ----------------
+# ⭐ TITULAR PRISMA EDITORIAL
 
-def tema_dominante(indices):
+def titular_prisma(indices):
+
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
-    comunes = Counter(palabras).most_common(2)
-    return " / ".join(p for p, _ in comunes)
+    comunes = Counter(palabras).most_common(3)
 
+    if not comunes:
+        return "Actualidad destacada"
+
+    tema = ", ".join(p for p, _ in comunes)
+
+    num = len(indices)
+
+    if num >= 5:
+        prefijos = [
+            "Claves del día:",
+            "Lo que domina la actualidad:",
+            "Tema principal:",
+            "En foco:",
+            "Cobertura total:"
+        ]
+    elif num >= 3:
+        prefijos = [
+            "Actualidad:",
+            "En desarrollo:",
+            "Tema del momento:",
+            "Así evoluciona:",
+            "Lo más seguido:"
+        ]
+    else:
+        prefijos = [
+            "Ahora mismo:",
+            "Empieza a sonar:",
+            "Radar informativo:",
+            "Última hora:",
+            "Tema emergente:"
+        ]
+
+    return f"{random.choice(prefijos)} {tema.capitalize()}"
+
+
+# ---------------- RESUMEN IA ----------------
 
 def resumen_ia(indices):
+
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
@@ -173,22 +201,7 @@ def resumen_ia(indices):
     """
 
 
-# ⭐ TITULAR PRISMA NEUTRAL
-def titular_prisma(indices):
-    palabras = []
-    for i in indices:
-        palabras += limpiar(noticias[i]["titulo"])
-
-    comunes = Counter(palabras).most_common(4)
-
-    if not comunes:
-        return "Panorama informativo del día"
-
-    tema = " ".join(p for p, _ in comunes)
-    return f"Panorama informativo: {tema.capitalize()}"
-
-
-# ---------------- HTML PREMIUM ----------------
+# ---------------- HTML ----------------
 
 cachebuster = datetime.now().timestamp()
 
@@ -197,20 +210,20 @@ html = f"""
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Prisma</title>
+
+<title>Prisma · Más contexto, menos ruido</title>
+<meta name="description" content="Prisma agrupa titulares de múltiples medios para entender la actualidad sin ruido informativo.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
 
 <link rel="icon" href="Logo.PNG">
 <link rel="apple-touch-icon" href="Logo.PNG">
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 
 <meta name="theme-color" content="#ffffff">
-<meta name="apple-mobile-web-app-capable" content="yes">
 
 </head>
 <body>
@@ -218,14 +231,14 @@ html = f"""
 <header class="header">
 
 <div class="logo">
-<img src="Logo.PNG" class="logo-img" alt="Prisma logo">
+<img src="Logo.PNG" class="logo-img">
 <a href="index.html" class="logo-link">PRISMA</a>
 </div>
 
 <p class="tagline">Más contexto · menos ruido</p>
 
-<p style="font-size:12px;color:#999;margin-top:-6px;">
-👉 Puedes guardar Prisma como app desde tu navegador
+<p style="font-size:12px;color:#888;margin-top:-6px;">
+✨ Guarda Prisma como app y sigue la actualidad sin ruido
 </p>
 
 <div class="stats">
@@ -246,49 +259,44 @@ html = f"""
 
 for i, grupo in enumerate(grupos, 1):
 
-    num = len(grupo)
-    tema = tema_dominante(grupo)
-
     consenso = (
-        "🔥 Consenso total" if num >= 4 else
-        "🟡 Cobertura amplia" if num >= 2 else
+        "🔥 Consenso total" if len(grupo) >= 4 else
+        "🟡 Cobertura amplia" if len(grupo) >= 2 else
         "⚪ Tema emergente"
     )
 
     html += f"""
-    <div class="card">
+<div class="card">
 
-    <div class="meta">
-      <span>{consenso}</span>
-      <span>#{i}</span>
-    </div>
+<div class="meta">
+<span>{consenso}</span>
+<span>#{i}</span>
+</div>
 
-    <h2>{titular_prisma(grupo)}</h2>
-    <div class="tema">🧭 {tema}</div>
-    """
+<h2>{titular_prisma(grupo)}</h2>
+"""
 
-    if num > 1:
+    if len(grupo) > 1:
         html += resumen_ia(grupo)
 
     for idx in grupo:
         n = noticias[idx]
         html += f"""
-        <p>
-        <strong class="medio">{n['medio']}:</strong>
-        <a href="{n['link']}" target="_blank">
-        {n['titulo']}
-        </a>
-        </p>
-        """
+<p>
+<strong class="medio">{n['medio']}:</strong>
+<a href="{n['link']}" target="_blank">{n['titulo']}</a>
+</p>
+"""
 
     html += """
-    <button class="share"
-    onclick="navigator.share?.({title:'Prisma',url:window.location.href})">
-    Compartir
-    </button>
+<button class="share"
+onclick="navigator.share?.({title:'Prisma',url:window.location.href})">
+Compartir
+</button>
 
-    </div>
-    """
+</div>
+"""
+
 
 html += "</div></body></html>"
 
@@ -296,4 +304,4 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("PRISMA generado correctamente 🚀")
+print("PRISMA generado 🚀")
