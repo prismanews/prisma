@@ -108,13 +108,13 @@ body{
 
 /* ---------------- TARJETAS ---------------- */
 
-.card{
-    background:white;
-    padding:22px;
-    border-radius:18px;
-    margin-bottom:24px;
-    box-shadow:0 6px 18px rgba(0,0,0,0.06);
-    transition:all .25s ease;
+.card {
+  background: white;
+  border-radius: 14px;
+  padding: 22px;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+  border: 1px solid #e6e8ec;
 }
 
 .card:hover{
@@ -218,53 +218,4 @@ a:hover{
         padding:20px;
         border-radius:14px;
     }
-}
-
-/* ===== DARK MODE PREMIUM ===== */
-@media (prefers-color-scheme: dark) {
-
-  body {
-    background: #0f1115;
-    color: #e8eaed;
-  }
-
-  .header {
-    background: #151922;
-    border-bottom: 1px solid #2a2f3a;
-  }
-
-  .card, .about-card {
-    background: #171b24;
-    border: 1px solid #2a2f3a;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-  }
-
-  h1, h2 {
-    color: #ffffff;
-  }
-
-  .tagline {
-    color: #aab2bf;
-  }
-
-  .stats {
-    color: #8892a6;
-  }
-
-  .tema {
-    color: #9fb3ff;
-  }
-
-  .resumen {
-    background: #222836;
-    color: #dbe2ff;
-  }
-
-  a {
-    color: #6ea8ff;
-  }
-
-  a:hover {
-    color: #9fc5ff;
-  }
 }
