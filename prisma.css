@@ -6,6 +6,7 @@ body{
     margin:0;
     background:#f4f6f8;
     color:#222;
+    -webkit-font-smoothing:antialiased;
 }
 
 
@@ -13,22 +14,42 @@ body{
 
 .header{
     text-align:center;
-    padding:35px 20px 20px;
-    border-bottom:1px solid #e5e7eb;
+    padding:35px 20px 25px;
+    border-bottom:1px solid #e6e8ec;
     background:white;
 }
 
+/* Logo texto */
+
 .logo{
-    font-size:28px;
+    font-size:30px;
     font-weight:700;
     letter-spacing:2px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
 }
+
+/* Logo imagen inline */
+
+.logo-inline{
+    height:44px;
+    width:auto;
+    background:white;
+    padding:4px;
+    border-radius:10px;
+}
+
+/* Tagline */
 
 .tagline{
     color:#666;
     margin:6px 0;
     font-size:15px;
 }
+
+/* Estadísticas */
 
 .stats{
     font-size:13px;
@@ -41,7 +62,7 @@ body{
 .container{
     max-width:820px;
     margin:auto;
-    padding:20px;
+    padding:22px 18px;
 }
 
 
@@ -49,15 +70,16 @@ body{
 
 .card{
     background:white;
-    padding:20px;
+    padding:22px;
     border-radius:18px;
-    margin-bottom:22px;
-    box-shadow:0 6px 20px rgba(0,0,0,0.06);
-    transition:.25s;
+    margin-bottom:24px;
+    box-shadow:0 8px 24px rgba(0,0,0,0.06);
+    transition:all .25s ease;
 }
 
 .card:hover{
-    transform:translateY(-2px);
+    transform:translateY(-3px);
+    box-shadow:0 12px 30px rgba(0,0,0,0.08);
 }
 
 
@@ -76,16 +98,17 @@ body{
 
 .consenso{
     font-weight:600;
-    color:#7a1f2b; /* burdeos marca */
+    color:#7a1f2b;
 }
 
 
 /* ---------------- TITULAR ---------------- */
 
 h2{
-    margin:10px 0 12px;
-    font-size:22px;
+    margin:12px 0 14px;
+    font-size:23px;
     line-height:1.4;
+    letter-spacing:-0.2px;
 }
 
 
@@ -102,11 +125,11 @@ h2{
 /* ---------------- RESUMEN IA ---------------- */
 
 .resumen{
-    background:#f1f3f5;
-    padding:10px 14px;
-    border-radius:10px;
+    background:#f1f3f6;
+    padding:12px 16px;
+    border-radius:12px;
     font-size:14px;
-    margin:10px 0 14px;
+    margin:12px 0 16px;
 }
 
 
@@ -120,6 +143,7 @@ h2{
 a{
     color:#1a73e8;
     text-decoration:none;
+    line-height:1.5;
 }
 
 a:hover{
@@ -132,11 +156,12 @@ a:hover{
 .share{
     background:#eef2f7;
     border:none;
-    padding:8px 14px;
-    border-radius:10px;
-    margin-top:10px;
+    padding:9px 16px;
+    border-radius:12px;
+    margin-top:14px;
     cursor:pointer;
     font-size:13px;
+    transition:.2s;
 }
 
 .share:hover{
@@ -144,19 +169,27 @@ a:hover{
 }
 
 
-/* ---------------- MOBILE FIRST ---------------- */
+/* ---------------- MOBILE ---------------- */
 
 @media (max-width:600px){
+
+    .logo{
+        font-size:26px;
+    }
+
+    .logo-inline{
+        height:38px;
+    }
 
     h2{
         font-size:20px;
     }
 
     .card{
-        padding:16px;
+        padding:18px;
     }
 
-    .logo{
-        font-size:24px;
+    .container{
+        padding:18px 14px;
     }
 }
