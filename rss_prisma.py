@@ -36,19 +36,17 @@ feeds = {
     "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
 }
 
+
 # ---------------- LIMPIAR TEXTO ----------------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
     "sin","un","una","unos","unas","al","a","y","o","que",
-    "se","su","sus","ante","como","más","menos"
-}
-
-stopwords.update({
+    "se","su","sus","ante","como","más","menos",
     "cuales","quien","donde","cuando","porque",
     "sobre","tras","este","esta","estos","estas",
     "algunos","segun","entre","tambien"
-})
+}
 
 def limpiar(texto):
     texto = texto.lower()
@@ -72,7 +70,6 @@ for medio, url in feeds.items():
                     "titulo": entry.title.strip(),
                     "link": entry.link.strip()
                 })
-
     except Exception:
         continue
 
@@ -130,7 +127,6 @@ grupos.sort(key=len, reverse=True)
 
 # ---------------- MÉTRICAS ----------------
 
-max_medios = max(len(g) for g in grupos)
 medios_unicos = len(set(n["medio"] for n in noticias))
 
 
@@ -171,7 +167,9 @@ def titular_representativo(indices):
     return noticias[indices[scores.argmax()]]["titulo"]
 
 
-# ---------------- HTML MODERNO ----------------
+# ---------------- HTML PREMIUM ----------------
+
+cachebuster = datetime.now().timestamp()
 
 html = f"""
 <!DOCTYPE html>
@@ -179,11 +177,25 @@ html = f"""
 <head>
 <meta charset="UTF-8">
 <title>Prisma</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Cache limpio -->
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<link rel="stylesheet" href="prisma.css?v=3">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Iconos app -->
+<link rel="icon" href="Logo.PNG">
+<link rel="apple-touch-icon" href="Logo.PNG">
+
+<!-- Estilo -->
+<link rel="stylesheet" href="prisma.css?v={cachebuster}">
+
+<!-- PWA look -->
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
 </head>
 <body>
 
@@ -195,6 +207,10 @@ html = f"""
   </div>
 
   <p class="tagline">Más contexto · menos ruido</p>
+
+  <p style="font-size:12px;color:#999;margin-top:-6px;">
+  👉 Puedes guardar Prisma como app desde tu navegador
+  </p>
 
   <div class="stats">
     📰 {medios_unicos} medios analizados ·
@@ -218,10 +234,10 @@ for i, grupo in enumerate(grupos, 1):
     tema = tema_dominante(grupo)
 
     consenso = (
-    "🔥 Consenso total" if num >= 5 else
-    "🟡 Cobertura amplia" if num >= 3 else
-    "⚪ Tema emergente"
-)
+        "🔥 Consenso total" if num >= 5 else
+        "🟡 Cobertura amplia" if num >= 3 else
+        "⚪ Tema emergente"
+    )
 
     html += f"""
     <div class="card">
@@ -232,7 +248,6 @@ for i, grupo in enumerate(grupos, 1):
     </div>
 
     <h2>{titular_representativo(grupo)}</h2>
-
     <div class="tema">🧭 {tema}</div>
     """
 
@@ -252,14 +267,12 @@ for i, grupo in enumerate(grupos, 1):
 
     html += """
     <button class="share"
-    onclick="navigator.share?.({title:'Prisma',
-    url:window.location.href})">
+    onclick="navigator.share?.({title:'Prisma',url:window.location.href})">
     Compartir
     </button>
 
     </div>
     """
-
 
 html += "</div></body></html>"
 
