@@ -9,8 +9,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------------- CONFIG ----------------
 
-UMBRAL_CLUSTER = 0.68
-MAX_NOTICIAS_FEED = 5
+UMBRAL_CLUSTER = 0.60
+MAX_NOTICIAS_FEED = 10
 
 modelo = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -234,8 +234,8 @@ for i, grupo in enumerate(grupos, 1):
     tema = tema_dominante(grupo)
 
     consenso = (
-        "🔥 Consenso total" if num >= 5 else
-        "🟡 Cobertura amplia" if num >= 3 else
+        "🔥 Consenso total" if num >= 4 else
+        "🟡 Cobertura amplia" if num >= 2 else
         "⚪ Tema emergente"
     )
 
