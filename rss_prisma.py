@@ -3,11 +3,15 @@ import re
 from datetime import datetime
 from collections import Counter
 
-# IA embeddings reales
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# modelo semántico (ligero y muy bueno)
+
+# ---------------- CONFIGURACIÓN ----------------
+
+UMBRAL_CLUSTER = 0.60
+MAX_NOTICIAS_FEED = 5
+
 modelo = SentenceTransformer('all-MiniLM-L6-v2')
 
 
@@ -20,56 +24,20 @@ feeds = {
     "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
     "20 Minutos": "https://www.20minutos.es/rss/",
     "eldiario.es": "https://www.eldiario.es/rss/",
-    "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "Público": "https://www.publico.es/rss/",
-    "OK Diario": "https://okdiario.com/feed/",
-    "Libertad Digital": "https://www.libertaddigital.com/rss/",
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
-    "La Sexta": "https://www.lasexta.com/rss.xml",
-    "La Razón": "https://www.larazon.es/rss/",
     "El Español": "https://www.elespanol.com/rss/",
     "RTVE": "https://www.rtve.es/rss/",
-    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
-    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
-    "El Periódico de España": "https://www.epe.es/rss/portada.xml",
-    "Infolibre": "https://www.infolibre.es/rss/",
-    "Vozpópuli": "https://www.vozpopuli.com/rss/",
-    "El Independiente": "https://www.elindependiente.com/rss/",
-    "El Debate": "https://www.eldebate.com/rss/",
-    "Servimedia": "https://www.servimedia.es/rss",
-    "The Objective": "https://theobjective.com/feed/",
-    "Xataka": "https://www.xataka.com/feed.xml",
-    "Hipertextual": "https://hipertextual.com/feed",
-    "Genbeta": "https://www.genbeta.com/feed.xml",
-    "El Androide Libre": "https://www.elespanol.com/elandroidelibre/rss/",
-    "CTXT": "https://ctxt.es/rss.xml",
-    "Nuevatribuna": "https://www.nuevatribuna.es/rss/",
     "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
     "France24 Español": "https://www.france24.com/es/rss",
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
-
-    # Regional
-    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
-    "El Periódico de Extremadura": "https://www.elperiodicoextremadura.com/rss/portada.xml",
-    "La Nueva España": "https://www.lne.es/rss/portada.xml",
-    "Heraldo de Aragón": "https://www.heraldo.es/rss/portada/",
-    "El Periódico de Catalunya": "https://www.elperiodico.com/es/rss/rss_portada.xml",
-    "Levante EMV": "https://www.levante-emv.com/rss/portada.xml",
-    "Diario de Sevilla": "https://www.diariodesevilla.es/rss/",
-    "Diario de Cádiz": "https://www.diariodecadiz.es/rss/",
-    "El Periódico de Aragón": "https://www.elperiodicodearagon.com/rss/portada.xml",
-    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
-    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
-    "Sur": "https://www.diariosur.es/rss/portada.xml",
-    "La Opinión de Málaga": "https://www.laopiniondemalaga.es/rss/portada.xml",
-
-    # Deportes
+    "Xataka": "https://www.xataka.com/feed.xml",
+    "Genbeta": "https://www.genbeta.com/feed.xml",
     "AS": "https://as.com/rss/tags/ultimas_noticias.xml",
     "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
 }
 
 
-# ---------------- LIMPIAR TEXTO ----------------
+# ---------------- LIMPIEZA TEXTO ----------------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
@@ -84,31 +52,105 @@ def limpiar(texto):
     return [p for p in palabras if p not in stopwords and len(p) > 3]
 
 
-# ---------------- IA SEMÁNTICA ----------------
+# ---------------- RECOGER NOTICIAS ----------------
 
-def similares(t1, t2):
-    emb = modelo.encode([t1, t2])
-    score = cosine_similarity([emb[0]], [emb[1]])[0][0]
-    return score > 0.60
+noticias = []
+
+for medio, url in feeds.items():
+    try:
+        feed = feedparser.parse(url)
+
+        for entry in feed.entries[:MAX_NOTICIAS_FEED]:
+            if "title" in entry and "link" in entry:
+                noticias.append({
+                    "medio": medio,
+                    "titulo": entry.title.strip(),
+                    "link": entry.link.strip()
+                })
+
+    except Exception:
+        continue
 
 
-# ---------------- TEMA DOMINANTE ----------------
+# ---------------- ELIMINAR DUPLICADOS ----------------
 
-def tema_dominante(grupo):
+titulos_vistos = set()
+noticias_filtradas = []
+
+for n in noticias:
+    key = re.sub(r'\W+', '', n["titulo"].lower())
+
+    if key not in titulos_vistos:
+        titulos_vistos.add(key)
+        noticias_filtradas.append(n)
+
+noticias = noticias_filtradas
+
+
+# ---------------- EMBEDDINGS IA ----------------
+
+titulos = [n["titulo"] for n in noticias]
+embeddings = modelo.encode(titulos)
+
+
+# ---------------- CLUSTERING ----------------
+
+grupos = []
+
+for i, noticia in enumerate(noticias):
+
+    if not grupos:
+        grupos.append([i])
+        continue
+
+    mejor_grupo = None
+    mejor_score = 0
+
+    for grupo in grupos:
+        score = cosine_similarity(
+            [embeddings[i]],
+            [embeddings[grupo[0]]]
+        )[0][0]
+
+        if score > mejor_score:
+            mejor_score = score
+            mejor_grupo = grupo
+
+    if mejor_score > UMBRAL_CLUSTER:
+        mejor_grupo.append(i)
+    else:
+        grupos.append([i])
+
+
+grupos.sort(key=len, reverse=True)
+
+
+# ---------------- MÉTRICAS ----------------
+
+max_medios = max(len(g) for g in grupos)
+medios_unicos = len(set(n["medio"] for n in noticias))
+
+
+# ---------------- IA EXTRA ----------------
+
+def tema_dominante(indices):
     palabras = []
-    for n in grupo:
-        palabras += limpiar(n["titulo"])
+
+    for i in indices:
+        palabras += limpiar(noticias[i]["titulo"])
 
     comunes = Counter(palabras).most_common(2)
-    return " / ".join(p for p, _ in comunes) if comunes else ""
+    return " / ".join(p for p, _ in comunes)
 
 
-def resumen_ia(grupo):
+def resumen_ia(indices):
     palabras = []
-    for n in grupo:
-        palabras += limpiar(n["titulo"])
+
+    for i in indices:
+        palabras += limpiar(noticias[i]["titulo"])
 
     comunes = Counter(palabras).most_common(3)
+
     if not comunes:
         return ""
 
@@ -122,56 +164,10 @@ def resumen_ia(grupo):
     """
 
 
-# ---------------- RECOGER NOTICIAS ----------------
-
-noticias = []
-
-for medio, url in feeds.items():
-    try:
-        feed = feedparser.parse(url)
-
-        for entry in feed.entries[:5]:   # ← AQUÍ EL CAMBIO
-            noticias.append({
-                "medio": medio,
-                "titulo": entry.title,
-                "link": entry.link
-            })
-
-    except:
-        pass
-
-# ---------------- CLUSTERING IA ----------------
-
-grupos = []
-
-for noticia in noticias:
-
-    if not grupos:
-        grupos.append([noticia])
-        continue
-
-    mejor_grupo = None
-    mejor_score = 0
-
-    for grupo in grupos:
-        emb = modelo.encode([noticia["titulo"], grupo[0]["titulo"]])
-        score = cosine_similarity([emb[0]], [emb[1]])[0][0]
-
-        if score > mejor_score:
-            mejor_score = score
-            mejor_grupo = grupo
-
-    if mejor_score > 0.60:
-        mejor_grupo.append(noticia)
-    else:
-        grupos.append([noticia])
-
-
-# ordenar impacto
-grupos.sort(key=len, reverse=True)
-
-max_medios = max(len(g) for g in grupos)
-total_medios = sum(len(g) for g in grupos)
+def titular_representativo(indices):
+    centro = embeddings[indices].mean(axis=0)
+    scores = cosine_similarity([centro], embeddings[indices])[0]
+    return noticias[indices[scores.argmax()]]["titulo"]
 
 
 # ---------------- HTML ----------------
@@ -191,7 +187,7 @@ html = f"""
 <h1><img src="Logo.PNG" class="logo-inline"> PRISMA</h1>
 <p>Más contexto menos ruido. La actualidad sin sesgos</p>
 <p>Actualizado: {datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
-<div class="contador">📰 {total_medios} medios analizados hoy</div>
+<div class="contador">📰 {medios_unicos} medios analizados</div>
 </header>
 
 <div class="container">
@@ -200,17 +196,16 @@ html = f"""
 
 for i, grupo in enumerate(grupos, 1):
 
+    num = len(grupo)
     tema = tema_dominante(grupo)
 
     html += "<div class='card'>"
 
-    if len(grupo) > 1:
+    if num > 1:
         html += f"<div class='ranking'>#{i} noticia del día</div>"
 
-    if len(grupo) == max_medios and len(grupo) > 1:
+    if num == max_medios and num > 1:
         html += "<div class='trending'>🔥 Trending</div>"
-
-    num = len(grupo)
 
     consenso = (
         "🟢 Consenso alto" if num >= 4 else
@@ -219,13 +214,14 @@ for i, grupo in enumerate(grupos, 1):
     )
 
     html += f"<div class='consenso'>{consenso} — {num} medios</div>"
-    html += f"<h2>{max(grupo, key=lambda n: len(n['titulo']))['titulo']}</h2>"
+    html += f"<h2>{titular_representativo(grupo)}</h2>"
     html += f"<div class='tema'>🧭 Tema: {tema}</div>"
 
     if num > 1:
         html += resumen_ia(grupo)
 
-    for n in grupo:
+    for idx in grupo:
+        n = noticias[idx]
         html += f"""
         <p><strong class="medio">{n['medio']}:</strong>
         <a href="{n['link']}" target="_blank">{n['titulo']}</a></p>
@@ -233,10 +229,11 @@ for i, grupo in enumerate(grupos, 1):
 
     html += "</div>"
 
+
 html += "</div></body></html>"
 
 
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("PRISMA generado con clustering IA semántico")
+print("PRISMA generado correctamente")
