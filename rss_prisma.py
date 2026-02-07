@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------------- CONFIG ----------------
 
-UMBRAL_CLUSTER = 0.60
+UMBRAL_CLUSTER = 0.68
 MAX_NOTICIAS_FEED = 5
 
 modelo = SentenceTransformer('all-MiniLM-L6-v2')
