@@ -185,8 +185,13 @@ html = f"""
 <body>
 
 <header class="header">
-<div class="logo">🧠 PRISMA</div>
+<div class="logo">
+<img src="Logo.PNG" class="logo-img">
+PRISMA
+</div>
+
 <p class="tagline">Más contexto · menos ruido</p>
+
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
 {datetime.now().strftime("%d/%m %H:%M")}
