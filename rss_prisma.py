@@ -186,8 +186,8 @@ html = f"""
 
 <header class="header">
 <div class="logo">
-<img src="Logo.PNG" class="logo-img">
-PRISMA
+<img src="Logo.PNG" class="logo-img" alt="Prisma logo">
+<span>PRISMA</span>
 </div>
 
 <p class="tagline">Más contexto · menos ruido</p>
