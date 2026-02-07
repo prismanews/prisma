@@ -36,7 +36,6 @@ feeds = {
     "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
 }
 
-
 # ---------------- LIMPIAR TEXTO ----------------
 
 stopwords = {
@@ -44,6 +43,12 @@ stopwords = {
     "sin","un","una","unos","unas","al","a","y","o","que",
     "se","su","sus","ante","como","más","menos"
 }
+
+stopwords.update({
+    "cuales","quien","donde","cuando","porque",
+    "sobre","tras","este","esta","estos","estas",
+    "algunos","segun","entre","tambien"
+})
 
 def limpiar(texto):
     texto = texto.lower()
@@ -198,10 +203,10 @@ for i, grupo in enumerate(grupos, 1):
     tema = tema_dominante(grupo)
 
     consenso = (
-        "🟢 Consenso alto" if num >= 4 else
-        "🟡 Cobertura variada" if num >= 2 else
-        "🔴 Solo un medio"
-    )
+    "🔥 Consenso total" if num >= 5 else
+    "🟡 Cobertura amplia" if num >= 3 else
+    "⚪ Tema emergente"
+)
 
     html += f"""
     <div class="card">
