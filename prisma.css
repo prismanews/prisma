@@ -23,20 +23,21 @@ body{
 /* Logo texto + imagen */
 
 .logo{
-    font-size:30px;
+    font-size:26px;
     font-weight:700;
     letter-spacing:2px;
     display:flex;
     align-items:center;
     justify-content:center;
+    gap:8px;
 }
 
 .logo-img{
-    height:40px;
+    height:34px;
     width:auto;
-    vertical-align:middle;
-    margin-right:8px;
-    object-fit:contain;
+    max-width:none;
+    flex-shrink:0;
+    display:block;
 }
 
 /* Logo imagen INLINE (CONTROLADO) */
