@@ -182,7 +182,7 @@ html = f"""
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<link rel="stylesheet" href="prisma.css?v={datetime.now().timestamp()}">
+<link rel="stylesheet" href="prisma.css?v=3">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
