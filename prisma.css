@@ -220,29 +220,51 @@ a:hover{
     }
 }
 
-/* --- MODO OSCURO AUTOMÁTICO --- */
+/* ===== DARK MODE PREMIUM ===== */
 @media (prefers-color-scheme: dark) {
 
   body {
-    background: #121212;
-    color: #e6e6e6;
-  }
-
-  .card, .about-card {
-    background: #1e1e1e;
-    border-color: #2a2a2a;
+    background: #0f1115;
+    color: #e8eaed;
   }
 
   .header {
-    background: #181818;
+    background: #151922;
+    border-bottom: 1px solid #2a2f3a;
+  }
+
+  .card, .about-card {
+    background: #171b24;
+    border: 1px solid #2a2f3a;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  }
+
+  h1, h2 {
+    color: #ffffff;
+  }
+
+  .tagline {
+    color: #aab2bf;
+  }
+
+  .stats {
+    color: #8892a6;
+  }
+
+  .tema {
+    color: #9fb3ff;
+  }
+
+  .resumen {
+    background: #222836;
+    color: #dbe2ff;
   }
 
   a {
-    color: #4da3ff;
+    color: #6ea8ff;
   }
 
-  .tagline,
-  .stats {
-    color: #aaa;
+  a:hover {
+    color: #9fc5ff;
   }
 }
