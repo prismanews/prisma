@@ -179,6 +179,9 @@ html = f"""
 <head>
 <meta charset="UTF-8">
 <title>Prisma</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <link rel="stylesheet" href="prisma.css?v={datetime.now().timestamp()}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
