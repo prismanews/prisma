@@ -89,7 +89,7 @@ def limpiar(texto):
 def similares(t1, t2):
     emb = modelo.encode([t1, t2])
     score = cosine_similarity([emb[0]], [emb[1]])[0][0]
-    return score > 0.55
+    return score > 0.60
 
 
 # ---------------- TEMA DOMINANTE ----------------
@@ -129,15 +129,16 @@ noticias = []
 for medio, url in feeds.items():
     try:
         feed = feedparser.parse(url)
-        if feed.entries:
+
+        for entry in feed.entries[:5]:   # ← AQUÍ EL CAMBIO
             noticias.append({
                 "medio": medio,
-                "titulo": feed.entries[0].title,
-                "link": feed.entries[0].link
+                "titulo": entry.title,
+                "link": entry.link
             })
+
     except:
         pass
-
 
 # ---------------- CLUSTERING IA ----------------
 
@@ -160,7 +161,7 @@ for noticia in noticias:
             mejor_score = score
             mejor_grupo = grupo
 
-    if mejor_score > 0.55:
+    if mejor_score > 0.60:
         mejor_grupo.append(noticia)
     else:
         grupos.append([noticia])
