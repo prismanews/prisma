@@ -198,6 +198,11 @@ html = f"""
 </div>
 </header>
 
+<nav class="menu">
+<a href="index.html">Inicio</a>
+<a href="sobre.html">Sobre Prisma</a>
+</nav>
+
 <div class="container">
 """
 
