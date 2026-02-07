@@ -188,23 +188,25 @@ html = f"""
 <body>
 
 <header class="header">
-<div class="logo">
-<img src="Logo.PNG" class="logo-img" alt="Prisma logo">
-<span>PRISMA</span>
-</div>
 
-<p class="tagline">Más contexto · menos ruido</p>
+  <div class="logo">
+    <img src="Logo.PNG" class="logo-img" alt="Prisma logo">
+    <a href="index.html" class="logo-link">PRISMA</a>
+  </div>
 
-<div class="stats">
-📰 {medios_unicos} medios analizados ·
-{datetime.now().strftime("%d/%m %H:%M")}
-</div>
+  <p class="tagline">Más contexto · menos ruido</p>
+
+  <div class="stats">
+    📰 {medios_unicos} medios analizados ·
+    {datetime.now().strftime("%d/%m %H:%M")}
+  </div>
+
+  <nav class="nav">
+    <a href="index.html">Inicio</a>
+    <a href="sobre.html">Sobre Prisma</a>
+  </nav>
+
 </header>
-
-<nav class="menu">
-<a href="index.html">Inicio</a>
-<a href="sobre.html">Sobre Prisma</a>
-</nav>
 
 <div class="container">
 """
