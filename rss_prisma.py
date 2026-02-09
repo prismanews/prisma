@@ -4,6 +4,7 @@ import html
 import random
 from datetime import datetime
 from collections import Counter
+import numpy as np
 
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -50,10 +51,13 @@ stopwords = {
     "algunos","segun","entre","tambien"
 }
 
+
 def limpiar_html(texto):
     texto = html.unescape(texto)
     texto = re.sub(r'<.*?>', '', texto)
+    texto = re.sub(r'\s+', ' ', texto)
     return texto.strip()
+
 
 def limpiar(texto):
     texto = texto.lower()
@@ -77,7 +81,8 @@ for medio, url in feeds.items():
                     "titulo": limpiar_html(entry.title),
                     "link": entry.link.strip()
                 })
-    except:
+
+    except Exception:
         continue
 
 
@@ -94,14 +99,10 @@ noticias = [
 # ---------------- EMBEDDINGS ----------------
 
 titulos = [n["titulo"] for n in noticias]
-
-if not titulos:
-    raise ValueError("Sin titulares.")
-
 embeddings = modelo.encode(titulos)
 
 
-# ---------------- CLUSTERING ----------------
+# ---------------- CLUSTERING MEJORADO ----------------
 
 grupos = []
 
@@ -111,29 +112,30 @@ for i in range(len(noticias)):
         grupos.append([i])
         continue
 
-    mejor, score_max = None, 0
+    mejor_grupo = None
+    mejor_score = 0
 
     for grupo in grupos:
+        centroide = np.mean(embeddings[grupo], axis=0)
+
         score = cosine_similarity(
             [embeddings[i]],
-            [embeddings[grupo[0]]]
+            [centroide]
         )[0][0]
 
-        if score > score_max:
-            score_max, mejor = score, grupo
+        if score > mejor_score:
+            mejor_score = score
+            mejor_grupo = grupo
 
-    (mejor.append(i) if score_max > UMBRAL_CLUSTER
-     else grupos.append([i]))
+    if mejor_score > UMBRAL_CLUSTER:
+        mejor_grupo.append(i)
+    else:
+        grupos.append([i])
 
 grupos.sort(key=len, reverse=True)
 
 
-# ---------------- MÉTRICAS ----------------
-
-medios_unicos = len(set(n["medio"] for n in noticias))
-
-
-# ⭐ TITULAR PRISMA EDITORIAL
+# ---------------- TITULAR IA EDITORIAL ----------------
 
 def titular_prisma(indices):
 
@@ -148,32 +150,14 @@ def titular_prisma(indices):
 
     tema = ", ".join(p for p, _ in comunes)
 
-    num = len(indices)
-
-    if num >= 5:
-        prefijos = [
-            "Claves del día:",
-            "Lo que domina la actualidad:",
-            "Tema principal:",
-            "En foco:",
-            "Cobertura total:"
-        ]
-    elif num >= 3:
-        prefijos = [
-            "Actualidad:",
-            "En desarrollo:",
-            "Tema del momento:",
-            "Así evoluciona:",
-            "Lo más seguido:"
-        ]
-    else:
-        prefijos = [
-            "Ahora mismo:",
-            "Empieza a sonar:",
-            "Radar informativo:",
-            "Última hora:",
-            "Tema emergente:"
-        ]
+    prefijos = [
+        "🧭 Claves informativas:",
+        "📊 En el foco:",
+        "📰 Lo que domina hoy:",
+        "🔥 Tema principal:",
+        "📡 Actualidad destacada:",
+        "✨ Radar informativo:"
+    ]
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
@@ -204,6 +188,7 @@ def resumen_ia(indices):
 # ---------------- HTML ----------------
 
 cachebuster = datetime.now().timestamp()
+medios_unicos = len(set(n["medio"] for n in noticias))
 
 html = f"""
 <!DOCTYPE html>
@@ -211,13 +196,10 @@ html = f"""
 <head>
 <meta charset="UTF-8">
 
-<title>Prisma · Más contexto, menos ruido</title>
-<meta name="description" content="Prisma agrupa titulares de múltiples medios para entender la actualidad sin ruido informativo.">
+<title>Prisma · Más contexto menos ruido</title>
+<meta name="description" content="Prisma agrupa titulares de múltiples medios para entender la actualidad sin ruido.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Pragma" content="no-cache">
 
 <link rel="icon" href="Logo.PNG">
 <link rel="apple-touch-icon" href="Logo.PNG">
@@ -236,10 +218,6 @@ html = f"""
 </div>
 
 <p class="tagline">Más contexto · menos ruido</p>
-
-<p style="font-size:12px;color:#888;margin-top:-6px;">
-✨ Guarda Prisma como app y sigue la actualidad sin ruido
-</p>
 
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
@@ -260,7 +238,7 @@ html = f"""
 for i, grupo in enumerate(grupos, 1):
 
     consenso = (
-        "🔥 Consenso total" if len(grupo) >= 4 else
+        "🔥 Consenso alto" if len(grupo) >= 4 else
         "🟡 Cobertura amplia" if len(grupo) >= 2 else
         "⚪ Tema emergente"
     )
@@ -299,7 +277,6 @@ Compartir
 
 
 html += "</div></body></html>"
-
 
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
