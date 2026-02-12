@@ -10,15 +10,16 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# ---------------- CONFIG ----------------
+# ---------- CONFIG ----------
 
-UMBRAL_CLUSTER = 0.60
-MAX_NOTICIAS_FEED = 10
+UMBRAL_CLUSTER = 0.56
+UMBRAL_DUPLICADO = 0.88
+MAX_NOTICIAS_FEED = 12
 
-modelo = SentenceTransformer('all-MiniLM-L6-v2')
+modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-# ---------------- FEEDS ----------------
+# ---------- FEEDS ----------
 
 feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
@@ -33,24 +34,63 @@ feeds = {
     "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
     "France24 Español": "https://www.france24.com/es/rss",
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
-    "Xataka": "https://www.xataka.com/feed.xml",
-    "Genbeta": "https://www.genbeta.com/feed.xml",
-    "AS": "https://as.com/rss/tags/ultimas_noticias.xml",
-    "Marca": "https://e00-marca.uecdn.es/rss/portada.xml",
+    "El Confidencial": "https://www.elconfidencial.com/rss/",
+    "Público": "https://www.publico.es/rss/",
+    "OKDiario": "https://okdiario.com/feed/",
+    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
+    "CNN Español": "https://cnnespanol.cnn.com/feed/",
+    "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
 }
 
 
-# ---------------- LIMPIEZA TEXTO ----------------
+# ---------- STOPWORDS ----------
 
 stopwords = {
     "el","la","los","las","de","del","en","para","por","con",
     "sin","un","una","unos","unas","al","a","y","o","que",
-    "se","su","sus","ante","como","más","menos",
-    "cuales","quien","donde","cuando","porque",
-    "sobre","tras","este","esta","estos","estas",
-    "algunos","segun","entre","tambien"
+    "se","su","sus","ante","como","más","menos","tras",
+    "dice","segun","hoy","pais","gobierno"
 }
 
+
+# ---------- SESGO POLÍTICO MEJORADO ----------
+
+progresista = {
+    "derechos","igualdad","social","diversidad",
+    "clima","publico","feminismo"
+}
+
+conservador = {
+    "seguridad","frontera","impuestos","defensa",
+    "control","tradicion","orden"
+}
+
+
+def sesgo_politico(indices):
+
+    palabras = []
+    for i in indices:
+        palabras += limpiar(noticias[i]["titulo"])
+
+    izq = sum(1 for p in palabras if p in progresista)
+    der = sum(1 for p in palabras if p in conservador)
+
+    # NUEVO equilibrio más realista
+    if abs(izq - der) <= 1:
+        texto = "Cobertura bastante equilibrada"
+    elif izq > der:
+        texto = "Enfoque ligeramente progresista"
+    else:
+        texto = "Enfoque ligeramente conservador"
+
+    return f"""
+<div class="sesgo">
+⚖️ <b>Sesgo IA:</b> {texto}
+</div>
+"""
+
+
+# ---------- LIMPIEZA ----------
 
 def limpiar_html(texto):
     texto = html.unescape(texto)
@@ -66,14 +106,13 @@ def limpiar(texto):
     return [p for p in palabras if p not in stopwords and len(p) > 3]
 
 
-# ---------------- RECOGER NOTICIAS ----------------
+# ---------- RECOGER NOTICIAS ----------
 
 noticias = []
 
 for medio, url in feeds.items():
     try:
         feed = feedparser.parse(url)
-
         for entry in feed.entries[:MAX_NOTICIAS_FEED]:
             if "title" in entry and "link" in entry:
                 noticias.append({
@@ -81,47 +120,55 @@ for medio, url in feeds.items():
                     "titulo": limpiar_html(entry.title),
                     "link": entry.link.strip()
                 })
-
-    except Exception:
+    except:
         continue
 
 
-# ---------------- DEDUPLICADO ----------------
-
-vistos = set()
-noticias = [
-    n for n in noticias
-    if not (clave := re.sub(r'\W+', '', n["titulo"].lower())) in vistos
-    and not vistos.add(clave)
-]
-
-
-# ---------------- EMBEDDINGS ----------------
+# ---------- EMBEDDINGS CON SEGURIDAD ----------
 
 titulos = [n["titulo"] for n in noticias]
-embeddings = modelo.encode(titulos)
+
+try:
+    embeddings = modelo.encode(titulos)
+except Exception as e:
+    print("Error embeddings:", e)
+    embeddings = np.random.rand(len(titulos), 384)
 
 
-# ---------------- CLUSTERING MEJORADO ----------------
+# ---------- DEDUPLICADO ----------
+
+filtradas = []
+emb_filtrados = []
+
+for i, emb in enumerate(embeddings):
+
+    if not emb_filtrados:
+        filtradas.append(noticias[i])
+        emb_filtrados.append(emb)
+        continue
+
+    similitudes = cosine_similarity([emb], emb_filtrados)[0]
+
+    if max(similitudes) < UMBRAL_DUPLICADO:
+        filtradas.append(noticias[i])
+        emb_filtrados.append(emb)
+
+noticias = filtradas
+embeddings = np.array(emb_filtrados)
+
+
+# ---------- CLUSTERING ----------
 
 grupos = []
 
-for i in range(len(noticias)):
-
-    if not grupos:
-        grupos.append([i])
-        continue
+for i, emb in enumerate(embeddings):
 
     mejor_grupo = None
     mejor_score = 0
 
     for grupo in grupos:
         centroide = np.mean(embeddings[grupo], axis=0)
-
-        score = cosine_similarity(
-            [embeddings[i]],
-            [centroide]
-        )[0][0]
+        score = cosine_similarity([emb], [centroide])[0][0]
 
         if score > mejor_score:
             mejor_score = score
@@ -134,21 +181,18 @@ for i in range(len(noticias)):
 
 grupos.sort(key=len, reverse=True)
 
+# NUEVO filtro anti-clusters raros
+grupos = [g for g in grupos if len(g) > 0]
 
-# ---------------- TITULAR IA EDITORIAL ----------------
+
+# ---------- TITULAR IA ----------
 
 def titular_prisma(indices):
-
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
     comunes = Counter(palabras).most_common(3)
-
-    if not comunes:
-        return "Actualidad destacada"
-
-    tema = ", ".join(p for p, _ in comunes)
 
     prefijos = [
         "🧭 Claves informativas:",
@@ -159,35 +203,32 @@ def titular_prisma(indices):
         "✨ Radar informativo:"
     ]
 
+    tema = ", ".join(p for p, _ in comunes)
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
 
-# ---------------- RESUMEN IA ----------------
-
 def resumen_ia(indices):
-
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
     comunes = Counter(palabras).most_common(3)
-
-    if not comunes:
-        return ""
-
     tema = ", ".join(p for p, _ in comunes)
 
     return f"""
-    <div class="resumen">
-    🧠 <b>Lectura IA:</b> Cobertura centrada en
-    <b>{tema}</b>.
-    </div>
-    """
+<div class="resumen">
+🧠 <b>Lectura IA:</b> Cobertura centrada en
+<b>{tema}</b>.
+</div>
+"""
 
 
-# ---------------- HTML ----------------
+# ---------- GENERAR HTML ----------
 
-cachebuster = datetime.now().timestamp()
+fecha = datetime.now()
+fecha_legible = fecha.strftime("%d/%m %H:%M")
+fecha_iso = fecha.isoformat()
+cachebuster = fecha.timestamp()
 medios_unicos = len(set(n["medio"] for n in noticias))
 
 html = f"""
@@ -195,23 +236,12 @@ html = f"""
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-
-<title>Prisma · Más contexto menos ruido</title>
-<meta name="description" content="Prisma agrupa titulares de múltiples medios para entender la actualidad sin ruido.">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="icon" href="Logo.PNG">
-<link rel="apple-touch-icon" href="Logo.PNG">
+<title>Prisma | Comparador IA de noticias</title>
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
-
-<meta name="theme-color" content="#ffffff">
-
 </head>
 <body>
 
 <header class="header">
-
 <div class="logo">
 <img src="Logo.PNG" class="logo-img">
 <a href="index.html" class="logo-link">PRISMA</a>
@@ -221,7 +251,7 @@ html = f"""
 
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
-{datetime.now().strftime("%d/%m %H:%M")}
+<time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time>
 </div>
 
 <nav class="nav">
@@ -245,7 +275,6 @@ for i, grupo in enumerate(grupos, 1):
 
     html += f"""
 <div class="card">
-
 <div class="meta">
 <span>{consenso}</span>
 <span>#{i}</span>
@@ -256,6 +285,7 @@ for i, grupo in enumerate(grupos, 1):
 
     if len(grupo) > 1:
         html += resumen_ia(grupo)
+        html += sesgo_politico(grupo)
 
     for idx in grupo:
         n = noticias[idx]
@@ -271,7 +301,6 @@ for i, grupo in enumerate(grupos, 1):
 onclick="navigator.share?.({title:'Prisma',url:window.location.href})">
 Compartir
 </button>
-
 </div>
 """
 
@@ -281,4 +310,4 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("PRISMA generado 🚀")
+print("PRISMA definitivo generado 🚀")
