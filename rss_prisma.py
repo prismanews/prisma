@@ -10,13 +10,27 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# ---------- CONFIG ----------
+# ---------- CONFIG PRO ----------
 
-UMBRAL_CLUSTER = 0.56
-UMBRAL_DUPLICADO = 0.88
-MAX_NOTICIAS_FEED = 12
+UMBRAL_CLUSTER = 0.60
+UMBRAL_DUPLICADO = 0.87
+MAX_NOTICIAS_FEED = 10
 
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
+
+
+# ---------- REFERENCIAS NLP SESGO ----------
+
+referencias_politicas = {
+    "progresista": modelo.encode([
+        "derechos sociales igualdad feminismo políticas públicas diversidad justicia social",
+        "progresismo cambio climático políticas sociales regulación bienestar"
+    ]),
+    "conservador": modelo.encode([
+        "seguridad fronteras defensa tradición economía mercado estabilidad control migratorio",
+        "valores tradicionales seguridad nacional impuestos bajos orden"
+    ])
+}
 
 
 # ---------- FEEDS ----------
@@ -36,67 +50,23 @@ feeds = {
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
-    "OKDiario": "https://okdiario.com/feed/",
-    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
-    "CNN Español": "https://cnnespanol.cnn.com/feed/",
-    "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml"
 }
-
-
-# ---------- STOPWORDS ----------
-
-stopwords = {
-    "el","la","los","las","de","del","en","para","por","con",
-    "sin","un","una","unos","unas","al","a","y","o","que",
-    "se","su","sus","ante","como","más","menos","tras",
-    "dice","segun","hoy","pais","gobierno"
-}
-
-
-# ---------- SESGO POLÍTICO MEJORADO ----------
-
-progresista = {
-    "derechos","igualdad","social","diversidad",
-    "clima","publico","feminismo"
-}
-
-conservador = {
-    "seguridad","frontera","impuestos","defensa",
-    "control","tradicion","orden"
-}
-
-
-def sesgo_politico(indices):
-
-    palabras = []
-    for i in indices:
-        palabras += limpiar(noticias[i]["titulo"])
-
-    izq = sum(1 for p in palabras if p in progresista)
-    der = sum(1 for p in palabras if p in conservador)
-
-    # NUEVO equilibrio más realista
-    if abs(izq - der) <= 1:
-        texto = "Cobertura bastante equilibrada"
-    elif izq > der:
-        texto = "Enfoque ligeramente progresista"
-    else:
-        texto = "Enfoque ligeramente conservador"
-
-    return f"""
-<div class="sesgo">
-⚖️ <b>Sesgo IA:</b> {texto}
-</div>
-"""
 
 
 # ---------- LIMPIEZA ----------
 
+stopwords = {
+    "el","la","los","las","de","del","en","para","por","con",
+    "sin","un","una","unos","unas","al","a","y","o","que",
+    "se","su","sus","ante","como","más","menos","tras"
+}
+
+
 def limpiar_html(texto):
     texto = html.unescape(texto)
     texto = re.sub(r'<.*?>', '', texto)
-    texto = re.sub(r'\s+', ' ', texto)
-    return texto.strip()
+    return re.sub(r'\s+', ' ', texto).strip()
 
 
 def limpiar(texto):
@@ -124,18 +94,13 @@ for medio, url in feeds.items():
         continue
 
 
-# ---------- EMBEDDINGS CON SEGURIDAD ----------
+# ---------- EMBEDDINGS ----------
 
 titulos = [n["titulo"] for n in noticias]
-
-try:
-    embeddings = modelo.encode(titulos)
-except Exception as e:
-    print("Error embeddings:", e)
-    embeddings = np.random.rand(len(titulos), 384)
+embeddings = modelo.encode(titulos)
 
 
-# ---------- DEDUPLICADO ----------
+# ---------- DEDUPLICADO SEMÁNTICO ----------
 
 filtradas = []
 emb_filtrados = []
@@ -157,7 +122,7 @@ noticias = filtradas
 embeddings = np.array(emb_filtrados)
 
 
-# ---------- CLUSTERING ----------
+# ---------- CLUSTERING IA REFINADO ----------
 
 grupos = []
 
@@ -179,51 +144,66 @@ for i, emb in enumerate(embeddings):
     else:
         grupos.append([i])
 
+
+# eliminar clusters demasiado pequeños
+grupos = [g for g in grupos if len(g) >= 2]
 grupos.sort(key=len, reverse=True)
 
-# NUEVO filtro anti-clusters raros
-grupos = [g for g in grupos if len(g) > 0]
+
+# ---------- SESGO NLP REAL ----------
+
+def sesgo_politico(indices):
+
+    textos = [noticias[i]["titulo"] for i in indices]
+    emb = modelo.encode(textos)
+    centroide = np.mean(emb, axis=0).reshape(1, -1)
+
+    prog = cosine_similarity(
+        centroide,
+        referencias_politicas["progresista"]
+    ).mean()
+
+    cons = cosine_similarity(
+        centroide,
+        referencias_politicas["conservador"]
+    ).mean()
+
+    if abs(prog - cons) < 0.02:
+        texto = "Cobertura bastante equilibrada"
+    elif prog > cons:
+        texto = "Enfoque algo progresista"
+    else:
+        texto = "Enfoque algo conservador"
+
+    return f"""
+<div class="sesgo">
+⚖️ <b>Sesgo IA:</b> {texto}
+</div>
+"""
 
 
 # ---------- TITULAR IA ----------
 
 def titular_prisma(indices):
+
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
     comunes = Counter(palabras).most_common(3)
+    tema = ", ".join(p for p, _ in comunes)
 
     prefijos = [
         "🧭 Claves informativas:",
         "📊 En el foco:",
         "📰 Lo que domina hoy:",
-        "🔥 Tema principal:",
-        "📡 Actualidad destacada:",
-        "✨ Radar informativo:"
+        "🔥 Tema principal:"
     ]
 
-    tema = ", ".join(p for p, _ in comunes)
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
 
-def resumen_ia(indices):
-    palabras = []
-    for i in indices:
-        palabras += limpiar(noticias[i]["titulo"])
-
-    comunes = Counter(palabras).most_common(3)
-    tema = ", ".join(p for p, _ in comunes)
-
-    return f"""
-<div class="resumen">
-🧠 <b>Lectura IA:</b> Cobertura centrada en
-<b>{tema}</b>.
-</div>
-"""
-
-
-# ---------- GENERAR HTML ----------
+# ---------- SEO AUTOMÁTICO ----------
 
 fecha = datetime.now()
 fecha_legible = fecha.strftime("%d/%m %H:%M")
@@ -231,13 +211,24 @@ fecha_iso = fecha.isoformat()
 cachebuster = fecha.timestamp()
 medios_unicos = len(set(n["medio"] for n in noticias))
 
+
+# ---------- HTML ----------
+
 html = f"""
 <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
+
 <title>Prisma | Comparador IA de noticias</title>
+<meta name="description"
+content="Comparador inteligente de noticias. Analiza múltiples medios para ofrecer contexto y reducir ruido informativo.">
+
+<meta name="robots" content="index, follow">
+
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 </head>
 <body>
 
@@ -258,7 +249,6 @@ html = f"""
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
 </nav>
-
 </header>
 
 <div class="container">
@@ -267,42 +257,22 @@ html = f"""
 
 for i, grupo in enumerate(grupos, 1):
 
-    consenso = (
-        "🔥 Consenso alto" if len(grupo) >= 4 else
-        "🟡 Cobertura amplia" if len(grupo) >= 2 else
-        "⚪ Tema emergente"
-    )
-
     html += f"""
 <div class="card">
-<div class="meta">
-<span>{consenso}</span>
-<span>#{i}</span>
-</div>
-
 <h2>{titular_prisma(grupo)}</h2>
+{sesgo_politico(grupo)}
 """
-
-    if len(grupo) > 1:
-        html += resumen_ia(grupo)
-        html += sesgo_politico(grupo)
 
     for idx in grupo:
         n = noticias[idx]
         html += f"""
 <p>
-<strong class="medio">{n['medio']}:</strong>
+<strong>{n['medio']}:</strong>
 <a href="{n['link']}" target="_blank">{n['titulo']}</a>
 </p>
 """
 
-    html += """
-<button class="share"
-onclick="navigator.share?.({title:'Prisma',url:window.location.href})">
-Compartir
-</button>
-</div>
-"""
+    html += "</div>"
 
 
 html += "</div></body></html>"
@@ -310,4 +280,29 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("PRISMA definitivo generado 🚀")
+
+# ---------- SITEMAP ----------
+
+sitemap = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://prismanews.github.io/</loc></url>
+</urlset>
+"""
+
+with open("sitemap.xml", "w", encoding="utf-8") as f:
+    f.write(sitemap)
+
+
+# ---------- ROBOTS ----------
+
+robots = """User-agent: *
+Allow: /
+
+Sitemap: https://prismanews.github.io/sitemap.xml
+"""
+
+with open("robots.txt", "w", encoding="utf-8") as f:
+    f.write(robots)
+
+
+print("PRISMA NLP PRO generado 🚀")
