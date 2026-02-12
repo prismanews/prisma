@@ -50,9 +50,42 @@ feeds = {
     "DW Español": "https://rss.dw.com/xml/rss-es-all",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
-    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml"
+    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
+    "CNN Español": "https://cnnespanol.cnn.com/feed/",
+    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    # ----- REGIONALES IMPORTANTES (SEO y diversidad) -----
+    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
+    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
+    "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
+    "Levante": "https://www.levante-emv.com/rss/portada.xml",
+    "Heraldo": "https://www.heraldo.es/rss/portada/",
+    # ----- TECNOLOGÍA / DIGITAL (atrae público joven) -----
+    "Xataka": "https://www.xataka.com/feedburner.xml",
+    "Genbeta": "https://www.genbeta.com/feedburner.xml",
+    "Trendencias": "https://www.trendencias.com/feedburner.xml",
+    # ----- CULTURA / VIRAL CONTROLADO -----
+    "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
+    "Yorokobu": "https://www.yorokobu.es/feed/",
+    "The Guardian": "https://www.theguardian.com/world/rss",
+    "Reuters": "https://www.reutersagency.com/feed/?best-topics=general-news",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
+    "Información Alicante": "https://www.informacion.es/rss/portada.xml",
+    "Hipertextual": "https://hipertextual.com/feed",
+    "Microsiervos": "https://www.microsiervos.com/index.xml",
+    "Applesfera": "https://www.applesfera.com/feedburner.xml",
+    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
+    "Nature News": "https://www.nature.com/nature.rss",
+    "Scientific American": "https://rss.sciam.com/ScientificAmerican-Global",
+    "Infolibre": "https://www.infolibre.es/rss",
+    "El Salto": "https://www.elsaltodiario.com/rss",
+    "CTXT": "https://ctxt.es/es/feed/",
+    "Jacobin": "https://jacobin.com/feed",
+    "Politico EU": "https://www.politico.eu/feed/",
+    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
 }
-
 
 # ---------- LIMPIEZA ----------
 
