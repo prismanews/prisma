@@ -19,23 +19,68 @@ MAX_NOTICIAS_FEED = 8
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-# ---------- REFERENCIAS NLP SESGO ----------
+# ---------- REFERENCIAS NLP SESGO (mejoradas) ----------
 
 referencias_politicas = {
     "progresista": modelo.encode([
-        "derechos sociales igualdad feminismo políticas públicas diversidad justicia social",
-        "progresismo cambio climático políticas sociales regulación bienestar"
+        "derechos sociales igualdad feminismo políticas públicas diversidad justicia social bienestar",
+        "progresismo cambio climático políticas sociales regulación inclusión servicios públicos"
     ]),
     "conservador": modelo.encode([
         "seguridad fronteras defensa tradición economía mercado estabilidad control migratorio",
-        "valores tradicionales seguridad nacional impuestos bajos orden"
+        "valores tradicionales seguridad nacional impuestos bajos orden liberalismo económico"
     ])
 }
 
 
 # ---------- FEEDS ----------
 feeds = {
-    # (tu lista completa intacta)
+    "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+    "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
+    "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
+    "20 Minutos": "https://www.20minutos.es/rss/",
+    "eldiario.es": "https://www.eldiario.es/rss/",
+    "Europa Press": "https://www.europapress.es/rss/rss.aspx",
+    "El Español": "https://www.elespanol.com/rss/",
+    "RTVE": "https://www.rtve.es/rss/",
+    "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "France24 Español": "https://www.france24.com/es/rss",
+    "DW Español": "https://rss.dw.com/xml/rss-es-all",
+    "El Confidencial": "https://www.elconfidencial.com/rss/",
+    "Público": "https://www.publico.es/rss/",
+    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
+    "CNN Español": "https://cnnespanol.cnn.com/feed/",
+    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
+    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
+    "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
+    "Levante": "https://www.levante-emv.com/rss/portada.xml",
+    "Heraldo": "https://www.heraldo.es/rss/portada/",
+    "Xataka": "https://www.xataka.com/feedburner.xml",
+    "Genbeta": "https://www.genbeta.com/feedburner.xml",
+    "Trendencias": "https://www.trendencias.com/feedburner.xml",
+    "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
+    "Yorokobu": "https://www.yorokobu.es/feed/",
+    "The Guardian": "https://www.theguardian.com/world/rss",
+    "Reuters": "https://www.reutersagency.com/feed/?best-topics=general-news",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
+    "Información Alicante": "https://www.informacion.es/rss/portada.xml",
+    "Hipertextual": "https://hipertextual.com/feed",
+    "Microsiervos": "https://www.microsiervos.com/index.xml",
+    "Applesfera": "https://www.applesfera.com/feedburner.xml",
+    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
+    "Nature News": "https://www.nature.com/nature.rss",
+    "Scientific American": "https://rss.sciam.com/ScientificAmerican-Global",
+    "Infolibre": "https://www.infolibre.es/rss",
+    "El Salto": "https://www.elsaltodiario.com/rss",
+    "CTXT": "https://ctxt.es/es/feed/",
+    "Jacobin": "https://jacobin.com/feed",
+    "Politico EU": "https://www.politico.eu/feed/",
+    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
 }
 
 
@@ -78,14 +123,21 @@ for medio, url in feeds.items():
     except Exception as e:
         print(f"Error feed {medio}: {e}")
 
+print("Noticias recogidas:", len(noticias))
 
-# ---------- EMBEDDINGS (más eficiente) ----------
+
+# ---------- EMBEDDINGS ----------
 
 titulos = [n["titulo"] for n in noticias]
-embeddings = modelo.encode(titulos, batch_size=32)
+
+if not titulos:
+    print("⚠️ No hay titulares.")
+    embeddings = np.array([])
+else:
+    embeddings = modelo.encode(titulos, batch_size=32)
 
 
-# ---------- DEDUPLICADO SEMÁNTICO ----------
+# ---------- DEDUPLICADO ----------
 
 filtradas = []
 emb_filtrados = []
@@ -107,7 +159,7 @@ noticias = filtradas
 embeddings = np.array(emb_filtrados)
 
 
-# ---------- CLUSTERING IA ----------
+# ---------- CLUSTERING PRO (NO PÁGINA VACÍA) ----------
 
 grupos = []
 
@@ -130,16 +182,23 @@ for i, emb in enumerate(embeddings):
         grupos.append([i])
 
 
-grupos = [g for g in grupos if len(g) >= 2]
+# 👉 FIX PROFESIONAL:
+# evita página vacía si no hay clusters claros
+if not grupos or all(len(g) < 2 for g in grupos):
+    grupos = [[i] for i in range(len(noticias))]
+else:
+    grupos = [g for g in grupos if len(g) >= 2]
+
 grupos.sort(key=len, reverse=True)
 
 
-# ---------- SESGO NLP ----------
+# ---------- SESGO NLP MEJORADO ----------
 
 def sesgo_politico(indices):
 
     textos = [noticias[i]["titulo"] for i in indices]
     emb = modelo.encode(textos, batch_size=16)
+
     centroide = np.mean(emb, axis=0).reshape(1, -1)
 
     prog = cosine_similarity(
@@ -152,7 +211,8 @@ def sesgo_politico(indices):
         referencias_politicas["conservador"]
     ).mean()
 
-    if abs(prog - cons) < 0.02:
+    # ajuste fino NLP
+    if abs(prog - cons) < 0.015:
         texto = "Cobertura bastante equilibrada"
     elif prog > cons:
         texto = "Enfoque algo progresista"
@@ -220,11 +280,16 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://prismanews.github.io/prisma/">
+
 <!-- Open Graph -->
 <meta property="og:title" content="Prisma noticias IA">
 <meta property="og:description" content="Comparador inteligente de noticias con IA">
 <meta property="og:image" content="Logo.PNG">
 <meta property="og:type" content="website">
+
+<!-- SEO extra -->
+<meta name="theme-color" content="#ffffff">
+<meta name="author" content="Prisma News">
 
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -263,7 +328,6 @@ for i, grupo in enumerate(grupos, 1):
 {sesgo_politico(grupo)}
 """
 
-    # 👉 LIMITAMOS A 6 TITULARES POR CLUSTER
     for idx in grupo[:6]:
         n = noticias[idx]
         html += f"""
@@ -275,6 +339,13 @@ for i, grupo in enumerate(grupos, 1):
 
     html += "</div>"
 
+
+# 👉 Truco tráfico joven (SEO + UX)
+html += """
+<footer style="text-align:center;opacity:.7;margin:40px 0;font-size:.9em">
+Comparador automático de noticias con IA · Actualización continua
+</footer>
+"""
 
 html += "</div></body></html>"
 
