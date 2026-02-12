@@ -319,11 +319,14 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 <div class="container">
 """
 
-
 for i, grupo in enumerate(grupos, 1):
 
+    clase = "card"
+    if i == 1:
+        clase = "card portada"
     html += f"""
-<div class="card">
+<div class="{clase}">
+
 <h2>{titular_prisma(grupo)}</h2>
 {sesgo_politico(grupo)}
 """
