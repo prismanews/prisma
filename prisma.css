@@ -240,3 +240,7 @@ a:hover{
         font-size:15px;
     }
 }
+.logo-link{
+    text-decoration:none;
+    color:#222;
+}
