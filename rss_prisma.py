@@ -305,6 +305,10 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 
 <p class="tagline">Más contexto · menos ruido</p>
 
+<p class="gancho">
+Comparador inteligente de medios · Detecta sesgos · Entiende la actualidad mejor
+</p>
+
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
 <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time>
