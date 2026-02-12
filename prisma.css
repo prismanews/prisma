@@ -338,3 +338,10 @@ body{
 .card a:hover{
     color:#063a8f;
 }
+
+.gancho{
+    margin-top:10px;
+    font-size:14px;
+    color:#888;
+    letter-spacing:.3px;
+}
