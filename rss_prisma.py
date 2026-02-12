@@ -220,6 +220,15 @@ html = f"""
 <head>
 <meta charset="UTF-8">
 
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-9WZC3GQSN8');
+</script>
+
 <title>Prisma | Comparador IA de noticias</title>
 <meta name="description"
 content="Comparador inteligente de noticias. Analiza múltiples medios para ofrecer contexto y reducir ruido informativo.">
