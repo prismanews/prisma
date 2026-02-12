@@ -4,7 +4,7 @@ body{
     font-family:-apple-system,BlinkMacSystemFont,
     "Segoe UI",Roboto,Inter,Arial,sans-serif;
     margin:0;
-    background:#f6f7fb;
+    background:#f2f3f7;
     color:#222;
     -webkit-font-smoothing:antialiased;
     line-height:1.65;
@@ -94,7 +94,7 @@ body{
 }
 
 
-/* ---------------- TARJETAS ---------------- */
+/* ---------------- TARJETAS NOTICIAS ---------------- */
 
 .card{
     background:white;
@@ -109,18 +109,6 @@ body{
 .card:hover{
     transform:translateY(-6px);
     box-shadow:0 20px 50px rgba(0,0,0,0.08);
-}
-
-
-/* ---------------- META INFO ---------------- */
-
-.meta{
-    display:flex;
-    justify-content:space-between;
-    font-size:13px;
-    color:#888;
-    margin-bottom:14px;
-    font-weight:500;
 }
 
 
@@ -173,7 +161,7 @@ h2{
 /* Links */
 
 a{
-    color:#1a73e8;
+    color:#0b57d0;
     text-decoration:none;
 }
 
@@ -200,7 +188,7 @@ a:hover{
 }
 
 
-/* ---------------- SOBRE / ABOUT MODERNO ---------------- */
+/* ---------------- SOBRE / ABOUT PAGE ---------------- */
 
 .about-card{
     max-width:760px;
@@ -261,6 +249,37 @@ a:hover{
 }
 
 
+/* -------- PORTADA ESTILO PERIÓDICO -------- */
+
+.portada{
+    padding:40px;
+    border-radius:20px;
+    background:white;
+    box-shadow:0 20px 50px rgba(0,0,0,.08);
+    border:1px solid #e6e8ec;
+}
+
+.portada h2{
+    font-size:32px;
+    line-height:1.25;
+    font-weight:700;
+}
+
+.portada p{
+    font-size:17px;
+}
+
+
+/* Gancho editorial */
+
+.gancho{
+    margin-top:10px;
+    font-size:14px;
+    color:#888;
+    letter-spacing:.3px;
+}
+
+
 /* ---------------- MOBILE ---------------- */
 
 @media (max-width:600px){
@@ -290,58 +309,4 @@ a:hover{
     .hero-about h1{
         font-size:1.6rem;
     }
-}
-/* -------- PORTADA ESTILO PERIÓDICO -------- */
-
-.portada{
-    padding:40px;
-    border-radius:20px;
-    background:white;
-    box-shadow:0 20px 50px rgba(0,0,0,.08);
-    border:1px solid #e6e8ec;
-}
-
-.portada h2{
-    font-size:32px;
-    line-height:1.25;
-    font-weight:700;
-}
-
-.portada p{
-    font-size:17px;
-}
-
-
-/* -------- LOOK EDITORIAL GLOBAL -------- */
-
-body{
-    background:#f2f3f7;
-}
-
-.card{
-    border-radius:18px;
-    transition:.25s ease;
-}
-
-.card:hover{
-    transform:translateY(-5px);
-}
-
-
-/* Links más periodístico */
-
-.card a{
-    color:#0b57d0;
-    font-weight:500;
-}
-
-.card a:hover{
-    color:#063a8f;
-}
-
-.gancho{
-    margin-top:10px;
-    font-size:14px;
-    color:#888;
-    letter-spacing:.3px;
 }
