@@ -234,8 +234,13 @@ def titular_prisma(indices):
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
-    comunes = Counter(palabras).most_common(3)
-    tema = ", ".join(p for p, _ in comunes)
+    comunes = [p for p, _ in Counter(palabras).most_common(5)]
+
+    # elimina palabras muy genéricas
+    blacklist = {"gobierno", "españa", "hoy", "última", "últimas"}
+    comunes = [p for p in comunes if p not in blacklist][:3]
+
+    tema = ", ".join(comunes)
 
     prefijos = [
         "🧭 Claves informativas:",
@@ -245,16 +250,6 @@ def titular_prisma(indices):
     ]
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
-
-
-# ---------- SEO + FECHA ----------
-
-fecha = datetime.now()
-fecha_legible = fecha.strftime("%d/%m %H:%M")
-fecha_iso = fecha.isoformat()
-cachebuster = fecha.timestamp()
-medios_unicos = len(set(n["medio"] for n in noticias))
-
 
 # ---------- HTML ----------
 
