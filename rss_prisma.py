@@ -369,7 +369,8 @@ for i, grupo in enumerate(grupos, 1):
 <div class="{clase}">
 
 <h2>{titular_prisma(grupo)}</h2>
-{sesgo_politico(grupo)}
+{resumen_prisma(grupo)}
+{sesgo_politico(grupo)} 
 """
 
     for idx in grupo[:6]:
