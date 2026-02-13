@@ -318,6 +318,9 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 <nav class="nav">
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
+<a href="mailto:tuemail@gmail.com?subject=Contacto%20Prisma">
+Contacto
+</a>
 </nav>
 </header>
 
