@@ -353,7 +353,7 @@ html += """
 html += """
 <footer style="text-align:center;opacity:.75;margin:40px 0;font-size:.9em;line-height:1.6">
 
-📩 Contacto: <a href="mailto:contacto@prismanews.com">
+Contacto: <a href="mailto:contacto@prismanews.com">
 contacto@prismanews.com
 </a><br>
 
