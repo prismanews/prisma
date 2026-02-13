@@ -76,12 +76,16 @@ body{
 }
 
 
-/* Stats */
+/* ⭐ NUEVO: badge stats */
 
 .stats{
     font-size:13px;
-    color:#888;
-    margin-top:6px;
+    color:#666;
+    margin-top:10px;
+    display:inline-block;
+    background:#f6f7fb;
+    padding:6px 14px;
+    border-radius:20px;
 }
 
 
@@ -94,7 +98,7 @@ body{
 }
 
 
-/* ---------------- TARJETAS NOTICIAS ---------------- */
+/* ---------------- TARJETAS ---------------- */
 
 .card{
     background:white;
@@ -118,19 +122,6 @@ h2{
     margin:14px 0 18px;
     font-size:25px;
     line-height:1.35;
-    letter-spacing:-0.2px;
-}
-
-
-/* ---------------- RESUMEN IA ---------------- */
-
-.resumen{
-    background:#f2f4f8;
-    padding:15px 20px;
-    border-radius:16px;
-    font-size:14px;
-    margin:16px 0 20px;
-    border:1px solid #e7e9ef;
 }
 
 
@@ -146,26 +137,15 @@ h2{
 }
 
 
-/* ---------------- MEDIOS ---------------- */
+/* ⭐ NUEVO: enlaces más pro */
 
-.medio{
-    color:#7a1f2b;
-    font-weight:700;
-}
-
-.card p{
-    margin:12px 0;
-}
-
-
-/* Links */
-
-a{
+.card a{
     color:#0b57d0;
     text-decoration:none;
+    transition:.2s;
 }
 
-a:hover{
+.card a:hover{
     text-decoration:underline;
 }
 
@@ -188,98 +168,6 @@ a:hover{
 }
 
 
-/* ---------------- SOBRE / ABOUT PAGE ---------------- */
-
-.about-card{
-    max-width:760px;
-    margin:40px auto;
-    padding:42px;
-    background:white;
-    border-radius:20px;
-    box-shadow:0 12px 40px rgba(0,0,0,0.06);
-    line-height:1.75;
-}
-
-.hero-about{
-    text-align:center;
-    margin-bottom:42px;
-}
-
-.hero-about h1{
-    font-size:2.1rem;
-    margin-bottom:12px;
-}
-
-.hero-about p{
-    font-size:1.1rem;
-    color:#666;
-}
-
-.about-card h2{
-    margin-top:42px;
-}
-
-.about-card p{
-    color:#444;
-}
-
-
-/* Contacto moderno */
-
-.contacto-box{
-    margin-top:42px;
-    padding:20px;
-    background:linear-gradient(135deg,#f6f7fb,#eef1ff);
-    border-radius:16px;
-    text-align:center;
-}
-
-.contacto-box a{
-    font-weight:600;
-    font-size:1.1rem;
-}
-
-
-/* Firma */
-
-.firma{
-    margin-top:35px;
-    text-align:center;
-    opacity:.7;
-}
-
-
-/* -------- PORTADA ESTILO PERIÓDICO -------- */
-
-.portada{
-    padding:40px;
-    border-radius:20px;
-    background:white;
-    box-shadow:0 20px 50px rgba(0,0,0,.08);
-    border:1px solid #e6e8ec;
-}
-
-.portada h2{
-    font-size:32px;
-    line-height:1.25;
-    font-weight:700;
-}
-
-.portada p{
-    font-size:17px;
-}
-
-
-/* Gancho editorial */
-
-.gancho{
-    margin-top:10px;
-    font-size:14px;
-    color:#888;
-    letter-spacing:.3px;
-}
-
-
 /* ---------------- MOBILE ---------------- */
 
 @media (max-width:600px){
@@ -296,17 +184,8 @@ a:hover{
         padding:22px;
     }
 
-    .about-card{
-        padding:26px;
-        border-radius:16px;
-    }
-
     .nav a{
         margin:0 8px;
         font-size:15px;
-    }
-
-    .hero-about h1{
-        font-size:1.6rem;
     }
 }
