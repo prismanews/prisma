@@ -251,6 +251,33 @@ def titular_prisma(indices):
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
+def resumen_prisma(indices):
+
+    palabras = []
+    for i in indices:
+        palabras += limpiar(noticias[i]["titulo"])
+
+    comunes = [p for p, _ in Counter(palabras).most_common(6)]
+
+    blacklist = {
+        "gobierno","españa","última","hoy","tras",
+        "según","dice","años","parte"
+    }
+
+    comunes = [p for p in comunes if p not in blacklist][:2]
+
+    if not comunes:
+        return ""
+
+    tema = " y ".join(comunes)
+
+    return f"""
+<p class="resumen">
+🧠 <b>Resumen IA:</b>
+La actualidad informativa se centra en <b>{tema}</b>.
+</p>
+"""
+    
 fecha = datetime.now()
 fecha_legible = fecha.strftime("%d/%m %H:%M")
 fecha_iso = fecha.isoformat()
