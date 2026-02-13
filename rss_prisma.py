@@ -324,7 +324,7 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 <nav class="nav">
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
-<a href="mailto:tuemail@gmail.com?subject=Contacto%20Prisma">
+<a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
 Contacto
 </a>
 </nav>
@@ -346,14 +346,14 @@ for i, grupo in enumerate(grupos, 1):
 """
 
     for idx in grupo[:6]:
-        n = noticias[idx]
-        html += f"""
+    n = noticias[idx]
+    html += f"""
 <p>
 <strong>{n['medio']}:</strong>
-<a href="{n['link']}" target="_blank" rel="noopener">{n['titulo']}</a>
+<a href="{n['link']}" target="_blank" rel="noopener noreferrer">{n['titulo']}</a>
 </p>
 """
-
+  
     html += "</div>"
 
 
@@ -387,7 +387,7 @@ with open("sitemap.xml", "w", encoding="utf-8") as f:
 robots = """User-agent: *
 Allow: /
 
-Sitemap: https://prismanews.github.io/sitemap.xml
+Sitemap: https://prismanews.github.io/prisma/sitemap.xml
 """
 
 with open("robots.txt", "w", encoding="utf-8") as f:
