@@ -286,6 +286,8 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 <meta property="og:description" content="Comparador inteligente de noticias con IA">
 <meta property="og:image" content="Logo.PNG">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://prismanews.github.io/prisma/">
+<meta http-equiv="content-language" content="es">
 
 <!-- SEO extra -->
 <meta name="theme-color" content="#ffffff">
