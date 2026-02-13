@@ -346,8 +346,8 @@ for i, grupo in enumerate(grupos, 1):
 """
 
     for idx in grupo[:6]:
-    n = noticias[idx]
-    html += f"""
+        n = noticias[idx]
+        html += f"""
 <p>
 <strong>{n['medio']}:</strong>
 <a href="{n['link']}" target="_blank" rel="noopener noreferrer">{n['titulo']}</a>
