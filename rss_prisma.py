@@ -309,6 +309,10 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 Comparador inteligente de medios · Detecta sesgos · Entiende la actualidad mejor
 </p>
 
+<p style="font-size:14px;color:#666;margin-top:6px;">
+Análisis automático de titulares de más de 25 medios para detectar tendencias informativas y comparar enfoques editoriales.
+</p>
+
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
 <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time>
