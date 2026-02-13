@@ -256,6 +256,7 @@ fecha_legible = fecha.strftime("%d/%m %H:%M")
 fecha_iso = fecha.isoformat()
 cachebuster = fecha.timestamp()
 medios_unicos = len(set(n["medio"] for n in noticias))
+
 # ---------- HTML ----------
 
 html = f"""
