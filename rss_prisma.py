@@ -349,9 +349,18 @@ for i, grupo in enumerate(grupos, 1):
 
 # 👉 Truco tráfico joven (SEO + UX)
 html += """
-<footer style="text-align:center;opacity:.7;margin:40px 0;font-size:.9em">
+# 👉 Footer completo con contacto (FIX MAIL)
+html += """
+<footer style="text-align:center;opacity:.75;margin:40px 0;font-size:.9em;line-height:1.6">
+
+📩 Contacto: <a href="mailto:contacto@prismanews.com">
+contacto@prismanews.com
+</a><br>
+
 Comparador automático de noticias con IA · Actualización continua
+
 </footer>
+"""
 """
 
 html += "</div></body></html>"
