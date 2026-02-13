@@ -346,7 +346,7 @@ for i, grupo in enumerate(grupos, 1):
         html += f"""
 <p>
 <strong>{n['medio']}:</strong>
-<a href="{n['link']}" target="_blank">{n['titulo']}</a>
+<a href="{n['link']}" target="_blank" rel="noopener">{n['titulo']}</a>
 </p>
 """
 
