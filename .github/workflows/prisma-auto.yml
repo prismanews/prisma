@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # cada 3 horas
+    - cron: "0 */2 * * *"   # cada 2 horas
   workflow_dispatch:
 
 jobs:
@@ -15,14 +15,25 @@ jobs:
     steps:
       - name: Descargar repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Instalar Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
+          cache: "pip"
+
+      - name: Actualizar pip
+        run: python -m pip install --upgrade pip
 
       - name: Instalar dependencias
-        run: pip install feedparser sentence-transformers
+        run: |
+          pip install \
+          feedparser \
+          sentence-transformers \
+          numpy \
+          scikit-learn
 
       - name: Debug estructura
         run: ls -la
@@ -35,5 +46,5 @@ jobs:
           git config user.name "Prisma Bot"
           git config user.email "bot@prisma.com"
           git add .
-          git commit -m "Auto update noticias" || echo "Nada que actualizar"
-          git push origin main
+          git diff --cached --quiet || git commit -m "Auto update noticias"
+          git push
