@@ -160,9 +160,14 @@ for medio, url in feeds_internacionales.items():
             continue
 
         for entry in feed.entries[:6]:
-            titulo = limpiar_html(entry.title)
 
-            if any(k in titulo.lower() for k in KEYWORDS_ESPANA):
+    # evita feeds rotos o incompletos
+    if "title" not in entry or "link" not in entry:
+        continue
+
+    titulo = limpiar_html(entry.title)
+
+    if any(k in titulo.lower() for k in KEYWORDS_ESPANA):
                 noticias_espana.append({
                     "medio": medio,
                     "titulo": titulo,
@@ -174,6 +179,7 @@ for medio, url in feeds_internacionales.items():
 
 # quitar duplicados
 noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
+noticias_espana.sort(key=lambda x: len(x["titulo"]), reverse=True)
 
 # ---------- EMBEDDINGS ----------
 
@@ -355,7 +361,7 @@ gtag('config', 'G-9WZC3GQSN8');
 <meta name="description"
 content="Comparador inteligente de noticias. Analiza múltiples medios para ofrecer contexto y reducir ruido informativo.">
 
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://prismanews.github.io/prisma/">
 
 <!-- Open Graph -->
