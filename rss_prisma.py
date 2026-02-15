@@ -468,6 +468,10 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 <meta name="theme-color" content="#ffffff">
 <meta name="author" content="Prisma News">
 
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -496,9 +500,9 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 </div>
 
 <nav class="nav">
-<a href="index.html">Inicio</a>
+<a href="index.html?v={cachebuster}">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
-<a href="espana.html">España en el mundo</a>
+<a href="espana.html?v={cachebuster}">España en el mundo</a>
 <a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
 Contacto
 </a>
