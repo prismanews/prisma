@@ -135,7 +135,7 @@ noticias = []
 
 for medio, url in feeds.items():
     try:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
         for entry in feed.entries[:MAX_NOTICIAS_FEED]:
             if "title" in entry and "link" in entry:
                 noticias.append({
