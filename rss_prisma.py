@@ -19,19 +19,35 @@ MAX_NOTICIAS_FEED = 8
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-# ---------- REFERENCIAS NLP SESGO (mejoradas) ----------
+# ---------- REFERENCIAS NLP SESGO (MEJORADAS PRO) ----------
 
 referencias_politicas = {
     "progresista": modelo.encode([
-        "derechos sociales igualdad feminismo políticas públicas diversidad justicia social bienestar",
-        "progresismo cambio climático políticas sociales regulación inclusión servicios públicos"
+        # español
+        "derechos sociales igualdad feminismo justicia social diversidad políticas públicas bienestar",
+        "progresismo cambio climático políticas sociales regulación inclusión servicios públicos",
+
+        # inglés
+        "social justice equality progressive politics climate action diversity welfare public services",
+        "left wing policies regulation social rights inclusion government intervention",
+
+        # internacional neutro
+        "environmental protection social equality human rights public healthcare welfare state"
     ]),
+
     "conservador": modelo.encode([
+        # español
         "seguridad fronteras defensa tradición economía mercado estabilidad control migratorio",
-        "valores tradicionales seguridad nacional impuestos bajos orden liberalismo económico"
+        "valores tradicionales seguridad nacional impuestos bajos orden liberalismo económico",
+
+        # inglés
+        "border security national defense free market traditional values low taxes immigration control",
+        "conservative policies economic freedom national identity law and order",
+
+        # internacional neutro
+        "fiscal responsibility strong military traditional culture business friendly policies"
     ])
 }
-
 
 # ---------- FEEDS ----------
 feeds = {
@@ -160,9 +176,35 @@ KEYWORDS_ESPANA = [
 # ---------- LIMPIEZA ----------
 
 stopwords = {
-    "el","la","los","las","de","del","en","para","por","con",
-    "sin","un","una","unos","unas","al","a","y","o","que",
-    "se","su","sus","ante","como","más","menos","tras"
+    # artículos / básicos español
+    "el","la","los","las","un","una","unos","unas",
+    "de","del","al","a","en","por","para","con","sin",
+    "sobre","entre","hasta","desde",
+
+    # conjunciones / conectores
+    "y","o","e","ni","que","como","pero","aunque",
+    "porque","ya","también","solo",
+
+    # posesivos / pronombres
+    "su","sus","se","lo","le","les","esto","esta",
+    "estos","estas","ese","esa","esos","esas",
+
+    # tiempo típico noticias
+    "hoy","ayer","mañana","tras","antes","después",
+    "última","últimas","último","últimos",
+
+    # palabras periodísticas vacías
+    "dice","según","afirma","asegura","explica",
+    "parte","caso","forma","vez","años",
+
+    # inglés frecuente en feeds
+    "the","a","an","of","to","in","on","for","with",
+    "and","or","but","from","by","about","as",
+    "after","before","over","under",
+
+    # prensa internacional típica
+    "says","said","report","reports","new","latest",
+    "update","breaking","news"
 }
 
 
