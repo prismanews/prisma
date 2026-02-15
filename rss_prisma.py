@@ -109,7 +109,7 @@ feeds_internacionales = {
     # 🇪🇺 Europa general
     "Politico EU": "https://www.politico.eu/feed/",
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
-     "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml",
+    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml",
     
     # 🌏 Asia
     "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
@@ -121,7 +121,7 @@ feeds_internacionales = {
     "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
     "Granma": "http://www.granma.cu/feed",
     "Cubadebate": "http://www.cubadebate.cu/feed/",
-    "Prensa Latina": "https://www.prensa-latina.cu/feed/"la
+    "Prensa Latina": "https://www.prensa-latina.cu/feed/"
 }
 
 # ---------- LIMPIEZA ----------
