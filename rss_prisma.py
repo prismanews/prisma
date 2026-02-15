@@ -171,7 +171,9 @@ KEYWORDS_ESPANA = [
 
     # UE / geopolítica
     "spain eu","spanish presidency eu",
-    "nato spain"
+    "nato spain","southern europe","iberian peninsula",
+    "iberia","spanish coast",
+    "mediterranean spain"
 ]
 # ---------- LIMPIEZA ----------
 
@@ -250,7 +252,7 @@ for medio, url in feeds_internacionales.items():
         if feed.bozo:
             continue
 
-        for entry in feed.entries[:6]:
+        for entry in feed.entries[:16]:
 
             # evita feeds rotos o incompletos
             if "title" not in entry or "link" not in entry:
