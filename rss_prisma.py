@@ -35,7 +35,7 @@ referencias_politicas = {
 
 # ---------- FEEDS PORTADA (España / español) ----------
 
-feeds = {
+feeds_es = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
@@ -52,7 +52,6 @@ feeds = {
     "Público": "https://www.publico.es/rss/",
     "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
     "CNN Español": "https://cnnespanol.cnn.com/feed/",
-    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
     "El Correo": "https://www.elcorreo.com/rss/portada.xml",
     "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
@@ -63,9 +62,6 @@ feeds = {
     "Trendencias": "https://www.trendencias.com/feedburner.xml",
     "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
     "Yorokobu": "https://www.yorokobu.es/feed/",
-    "The Guardian": "https://www.theguardian.com/world/rss",
-    "Reuters": "https://www.reutersagency.com/feed/?best-topics=general-news",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
     "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
     "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
     "Información Alicante": "https://www.informacion.es/rss/portada.xml",
@@ -79,9 +75,7 @@ feeds = {
     "Infolibre": "https://www.infolibre.es/rss",
     "El Salto": "https://www.elsaltodiario.com/rss",
     "CTXT": "https://ctxt.es/es/feed/",
-    "Jacobin": "https://jacobin.com/feed",
-    "Politico EU": "https://www.politico.eu/feed/",
-    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
+    "Jacobin": "https://jacobin.com/feed"
 }
 
 feeds_internacionales = {
@@ -115,7 +109,8 @@ feeds_internacionales = {
     # 🇪🇺 Europa general
     "Politico EU": "https://www.politico.eu/feed/",
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
-
+     "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml",
+    
     # 🌏 Asia
     "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
     "Japan Times": "https://www.japantimes.co.jp/feed/",
