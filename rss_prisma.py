@@ -288,28 +288,27 @@ for medio, url in feeds_internacionales.items():
 
         for entry in feed.entries[:16]:
 
-    # evita feeds rotos o incompletos
-    if "title" not in entry or "link" not in entry:
-        continue
+            # evita feeds rotos o incompletos
+            if "title" not in entry or "link" not in entry:
+                continue
 
-    titulo = limpiar_html(entry.title)
+            titulo = limpiar_html(entry.title)
 
-    # 🔎 filtro mejorado: título + descripción RSS
-    texto = titulo.lower()
+            # 🔎 filtro mejorado: título + descripción RSS
+            texto = titulo.lower()
 
-    if "summary" in entry:
-        texto += " " + limpiar_html(entry.summary).lower()
+            if "summary" in entry:
+                texto += " " + limpiar_html(entry.summary).lower()
 
-    if any(k in texto for k in KEYWORDS_ESPANA):
-        noticias_espana.append({
-            "medio": medio,
-            "titulo": titulo,
-            "link": entry.link
-        })
+            if any(k in texto for k in KEYWORDS_ESPANA):
+                noticias_espana.append({
+                    "medio": medio,
+                    "titulo": titulo,
+                    "link": entry.link
+                })
 
     except Exception:
         pass
-
 # quitar duplicados internacionales
 noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
 noticias_espana.sort(key=lambda x: len(x["titulo"]), reverse=True)
