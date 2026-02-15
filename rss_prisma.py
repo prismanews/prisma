@@ -159,23 +159,23 @@ for medio, url in feeds_internacionales.items():
         if feed.bozo:
             continue
 
-       for entry in feed.entries[:6]:
+        for entry in feed.entries[:6]:
 
-    # evita feeds rotos o incompletos
-    if "title" not in entry or "link" not in entry:
-        continue
+            # evita feeds rotos o incompletos
+            if "title" not in entry or "link" not in entry:
+                continue
 
-    titulo = limpiar_html(entry.title)
+            titulo = limpiar_html(entry.title)
 
-    if any(k in titulo.lower() for k in KEYWORDS_ESPANA):
-        noticias_espana.append({
-            "medio": medio,
-            "titulo": titulo,
-            "link": entry.link
-        })
+            if any(k in titulo.lower() for k in KEYWORDS_ESPANA):
+                noticias_espana.append({
+                    "medio": medio,
+                    "titulo": titulo,
+                    "link": entry.link
+                })
+
     except Exception:
-    pass
-
+        pass
 
 # quitar duplicados internacionales
 noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
