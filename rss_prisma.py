@@ -143,37 +143,71 @@ feeds_internacionales = {
     "Cubadebate": "http://www.cubadebate.cu/feed/",
     "Prensa Latina": "https://www.prensa-latina.cu/feed/"
 }
+
 KEYWORDS_ESPANA = [
-    # país básico
-    "españa","espana","spain","espagne","spanien","spagna",
+
+    # ----- País básico (multilenguaje) -----
+    "españa","espana","spain",
+    "espagne","spanien","spagna","espanya",
+    "西班牙","スペイン","스페인",
+
+    # gentilicios
     "spanish","español","spaniard","spaniards",
+    "espagnol","espagnols",
+    "spanisch",
+    "spagnolo","spagnoli",
+    "espanhol","espanhóis",
 
-    # ciudades clave internacionales
-    "madrid","barcelona","valencia","seville","sevilla",
-    "bilbao","zaragoza","malaga","granada","ibiza",
+    # ----- Ciudades internacionales -----
+    "madrid","barcelona","valencia","sevilla","seville",
+    "bilbao","zaragoza","malaga","málaga",
+    "granada","ibiza","mallorca","majorca",
 
-    # regiones y territorios
-    "catalonia","cataluña","basque","galicia",
-    "andalusia","balearic","canary islands","canarias",
+    # ----- Regiones / territorios -----
+    "catalonia","cataluña","catalunya",
+    "basque country","pais vasco",
+    "andalusia","andalucía",
+    "galicia",
+    "balearic islands","canary islands",
+    "islas canarias",
 
-    # política / gobierno
+    # ----- Política española internacional -----
     "spanish government","gobierno español",
-    "pedro sanchez","sánchez","feijoo","vox spain",
+    "gobierno de españa",
+    "pedro sanchez","sánchez","feijoo",
+    "vox spain","psoe","pp spain",
 
-    # economía / sociedad
+    # francés / alemán política frecuente
+    "gouvernement espagnol",
+    "regierung spanien",
+
+    # italiano / portugués política
+    "governo spagnolo",
+    "governo espanhol",
+
+    # ----- Economía / turismo -----
     "spanish economy","economía española",
-    "housing spain","tourism spain",
-    "spanish tourism",
+    "economia spagnola","economia espanhola",
+    "spanische wirtschaft",
 
-    # cultura / deporte (muy internacional)
-    "la liga","real madrid","fc barcelona",
+    "tourism spain","turismo españa",
+    "turismo spagna","turismo espanhol",
+
+    "housing spain","crisis vivienda españa",
+
+    # ----- Cultura / deporte -----
+    "la liga",
+    "real madrid","fc barcelona",
     "spanish football",
+    "fútbol español",
 
-    # UE / geopolítica
+    # ----- Geopolítica / ubicación -----
+    "iberian peninsula","península ibérica",
+    "iberia",
+    "southern europe",
+    "mediterranean spain",
     "spain eu","spanish presidency eu",
-    "nato spain","southern europe","iberian peninsula",
-    "iberia","spanish coast",
-    "mediterranean spain"
+    "nato spain"
 ]
 # ---------- LIMPIEZA ----------
 
