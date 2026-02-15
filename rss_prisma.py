@@ -19,7 +19,7 @@ MAX_NOTICIAS_FEED = 8
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-# ---------- REFERENCIAS NLP SESGO (mejoradas) ----------
+# ---------- REFERENCIAS SESGO IA ----------
 
 referencias_politicas = {
     "progresista": modelo.encode([
@@ -33,8 +33,9 @@ referencias_politicas = {
 }
 
 
-# ---------- FEEDS ----------
-feeds = {
+# ---------- FEEDS PORTADA (España / español) ----------
+
+feeds_es = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
@@ -44,48 +45,17 @@ feeds = {
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
     "El Español": "https://www.elespanol.com/rss/",
     "RTVE": "https://www.rtve.es/rss/",
-    "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
-    "France24 Español": "https://www.france24.com/es/rss",
-    "DW Español": "https://rss.dw.com/xml/rss-es-all",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
-    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
-    "CNN Español": "https://cnnespanol.cnn.com/feed/",
-    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
-    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
-    "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
-    "Levante": "https://www.levante-emv.com/rss/portada.xml",
-    "Heraldo": "https://www.heraldo.es/rss/portada/",
-    "Xataka": "https://www.xataka.com/feedburner.xml",
-    "Genbeta": "https://www.genbeta.com/feedburner.xml",
-    "Trendencias": "https://www.trendencias.com/feedburner.xml",
-    "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
-    "Yorokobu": "https://www.yorokobu.es/feed/",
-    "The Guardian": "https://www.theguardian.com/world/rss",
-    "Reuters": "https://www.reutersagency.com/feed/?best-topics=general-news",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
     "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
-    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
-    "Información Alicante": "https://www.informacion.es/rss/portada.xml",
-    "Hipertextual": "https://hipertextual.com/feed",
-    "Microsiervos": "https://www.microsiervos.com/index.xml",
-    "Applesfera": "https://www.applesfera.com/feedburner.xml",
-    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
-    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
-    "Nature News": "https://www.nature.com/nature.rss",
-    "Scientific American": "https://rss.sciam.com/ScientificAmerican-Global",
-    "Infolibre": "https://www.infolibre.es/rss",
-    "El Salto": "https://www.elsaltodiario.com/rss",
-    "CTXT": "https://ctxt.es/es/feed/",
-    "Jacobin": "https://jacobin.com/feed",
-    "Politico EU": "https://www.politico.eu/feed/",
-    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
+    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
+    "Heraldo": "https://www.heraldo.es/rss/portada/",
 }
 
-feeds_internacionales = {
 
-    # 🇬🇧 Inglés
+# ---------- FEEDS INTERNACIONALES (solo España en mundo) ----------
+
+feeds_internacionales = {
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
     "Reuters": "https://www.reutersagency.com/feed/?best-topics=world",
@@ -93,40 +63,21 @@ feeds_internacionales = {
     "Guardian": "https://www.theguardian.com/world/rss",
     "Bloomberg": "https://feeds.bloomberg.com/markets/news.rss",
     "Financial Times": "https://www.ft.com/world?format=rss",
-
-    # 🇫🇷 Francés
     "Le Monde": "https://www.lemonde.fr/rss/une.xml",
     "France24 FR": "https://www.france24.com/fr/rss",
-    "Le Figaro": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-
-    # 🇩🇪 Alemán
     "Der Spiegel": "https://www.spiegel.de/international/index.rss",
-    "Die Welt": "https://www.welt.de/feeds/latest.rss",
-
-    # 🇮🇹 Italiano
     "Corriere": "https://xml2.corriereobjects.it/rss/homepage.xml",
-    "La Repubblica": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
-
-    # 🇵🇹 Portugués
     "Publico PT": "https://www.publico.pt/rss",
-    "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
-
-    # 🇪🇺 Europa general
     "Politico EU": "https://www.politico.eu/feed/",
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
-
-    # 🌏 Asia
-    "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
     "Japan Times": "https://www.japantimes.co.jp/feed/",
     "China Daily": "http://www.chinadaily.com.cn/rss/world_rss.xml",
-
-    # 🌎 América Latina internacional
     "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
-    "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
-    "Granma": "http://www.granma.cu/feed",
-    "Cubadebate": "http://www.cubadebate.cu/feed/",
-    "Prensa Latina": "https://www.prensa-latina.cu/feed/"la
+    "El Tiempo": "https://www.eltiempo.com/rss/colombia.xml",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
 }
+
+
 # ---------- LIMPIEZA ----------
 
 stopwords = {
@@ -149,60 +100,38 @@ def limpiar(texto):
     return [p for p in palabras if p not in stopwords and len(p) > 3]
 
 
-# ---------- RECOGER NOTICIAS ----------
+# ---------- RECOGER NOTICIAS PORTADA ----------
 
 noticias = []
 
-for medio, url in feeds.items():
-    try:
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:MAX_NOTICIAS_FEED]:
-            if "title" in entry and "link" in entry:
-                noticias.append({
-                    "medio": medio,
-                    "titulo": limpiar_html(entry.title),
-                    "link": entry.link.strip()
-                })
-    except Exception as e:
-        print(f"Error feed {medio}: {e}")
+for medio, url in feeds_es.items():
+    feed = feedparser.parse(url)
 
-print("Noticias recogidas:", len(noticias))
+    if feed.bozo:
+        continue
+
+    for entry in feed.entries[:MAX_NOTICIAS_FEED]:
+        if "title" in entry and "link" in entry:
+            noticias.append({
+                "medio": medio,
+                "titulo": limpiar_html(entry.title),
+                "link": entry.link.strip()
+            })
+
+
+# 👉 quitar duplicados exactos por URL
+noticias = list({n["link"]: n for n in noticias}.values())
+
+print("Noticias portada:", len(noticias))
 
 
 # ---------- EMBEDDINGS ----------
 
 titulos = [n["titulo"] for n in noticias]
-
-if not titulos:
-    print("⚠️ No hay titulares.")
-    embeddings = np.array([])
-else:
-    embeddings = modelo.encode(titulos, batch_size=32)
+embeddings = modelo.encode(titulos, batch_size=32) if titulos else np.array([])
 
 
-# ---------- DEDUPLICADO ----------
-
-filtradas = []
-emb_filtrados = []
-
-for i, emb in enumerate(embeddings):
-
-    if not emb_filtrados:
-        filtradas.append(noticias[i])
-        emb_filtrados.append(emb)
-        continue
-
-    similitudes = cosine_similarity([emb], emb_filtrados)[0]
-
-    if max(similitudes) < UMBRAL_DUPLICADO:
-        filtradas.append(noticias[i])
-        emb_filtrados.append(emb)
-
-noticias = filtradas
-embeddings = np.array(emb_filtrados)
-
-
-# ---------- CLUSTERING PRO (NO PÁGINA VACÍA) ----------
+# ---------- CLUSTERING ----------
 
 grupos = []
 
@@ -224,49 +153,10 @@ for i, emb in enumerate(embeddings):
     else:
         grupos.append([i])
 
-
-# 👉 FIX PROFESIONAL:
-# evita página vacía si no hay clusters claros
-if not grupos or all(len(g) < 2 for g in grupos):
+if not grupos:
     grupos = [[i] for i in range(len(noticias))]
-else:
-    grupos = [g for g in grupos if len(g) >= 2]
 
 grupos.sort(key=len, reverse=True)
-
-
-# ---------- SESGO NLP MEJORADO ----------
-
-def sesgo_politico(indices):
-
-    textos = [noticias[i]["titulo"] for i in indices]
-    emb = modelo.encode(textos, batch_size=16)
-
-    centroide = np.mean(emb, axis=0).reshape(1, -1)
-
-    prog = cosine_similarity(
-        centroide,
-        referencias_politicas["progresista"]
-    ).mean()
-
-    cons = cosine_similarity(
-        centroide,
-        referencias_politicas["conservador"]
-    ).mean()
-
-    # ajuste fino NLP
-    if abs(prog - cons) < 0.015:
-        texto = "Cobertura bastante equilibrada"
-    elif prog > cons:
-        texto = "Enfoque algo progresista"
-    else:
-        texto = "Enfoque algo conservador"
-
-    return f"""
-<div class="sesgo">
-⚖️ <b>Sesgo IA:</b> {texto}
-</div>
-"""
 
 
 # ---------- TITULAR IA ----------
@@ -278,9 +168,8 @@ def titular_prisma(indices):
         palabras += limpiar(noticias[i]["titulo"])
 
     comunes = [p for p, _ in Counter(palabras).most_common(5)]
+    blacklist = {"gobierno","españa","hoy","última","últimas"}
 
-    # elimina palabras muy genéricas
-    blacklist = {"gobierno", "españa", "hoy", "última", "últimas"}
     comunes = [p for p in comunes if p not in blacklist][:3]
 
     tema = ", ".join(comunes)
@@ -294,6 +183,7 @@ def titular_prisma(indices):
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
+
 def resumen_prisma(indices):
 
     palabras = []
@@ -303,7 +193,7 @@ def resumen_prisma(indices):
     comunes = [p for p, _ in Counter(palabras).most_common(6)]
 
     blacklist = {
-        "gobierno","españa","última","hoy","tras",
+        "gobierno","españa","última","hoy",
         "según","dice","años","parte"
     }
 
@@ -314,59 +204,70 @@ def resumen_prisma(indices):
 
     tema = " y ".join(comunes)
 
+    frases = [
+        f"Panorama informativo centrado en <b>{tema}</b>.",
+        f"Las noticias destacan especialmente <b>{tema}</b>.",
+        f"El foco mediático gira en torno a <b>{tema}</b>."
+    ]
+
     return f"""
 <p class="resumen">
-🧠 <b>Resumen IA:</b>
-La actualidad informativa se centra en <b>{tema}</b>.
+🧠 <b>Resumen IA:</b> {random.choice(frases)}
 </p>
 """
-    
+
+
+# ---------- FEEDS INTERNACIONALES → ESPAÑA ----------
+
+KEYWORDS_ESPANA = [
+    "españa","spain","espagne","spanien","spagna",
+    "spanish","español","madrid","barcelona",
+    "catalonia","andalusia","valencia","canary",
+    "spaniard","spaniards"
+]
+
+noticias_espana = []
+
+for medio, url in feeds_internacionales.items():
+    feed = feedparser.parse(url)
+
+    if feed.bozo:
+        continue
+
+    for entry in feed.entries[:10]:
+        if "title" in entry:
+            titulo = limpiar_html(entry.title)
+
+            if any(k in titulo.lower() for k in KEYWORDS_ESPANA):
+                noticias_espana.append({
+                    "medio": medio,
+                    "titulo": titulo,
+                    "link": entry.link
+                })
+
+
+# 👉 ordenar por relevancia simple
+noticias_espana.sort(key=lambda x: len(x["titulo"]), reverse=True)
+
+
+# ---------- FECHAS ----------
+
 fecha = datetime.now()
 fecha_legible = fecha.strftime("%d/%m %H:%M")
 fecha_iso = fecha.isoformat()
 cachebuster = fecha.timestamp()
 medios_unicos = len(set(n["medio"] for n in noticias))
 
-# ---------- HTML ----------
 
-html = f"""
-<!DOCTYPE html>
+# ---------- HTML PORTADA ----------
+
+html = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){{dataLayer.push(arguments);}}
-gtag('js', new Date());
-gtag('config', 'G-9WZC3GQSN8');
-</script>
-
-<title>Prisma | Comparador IA de noticias</title>
-
-<meta name="description"
-content="Comparador inteligente de noticias. Analiza múltiples medios para ofrecer contexto y reducir ruido informativo.">
-
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://prismanews.github.io/prisma/">
-
-<!-- Open Graph -->
-<meta property="og:title" content="Prisma noticias IA">
-<meta property="og:description" content="Comparador inteligente de noticias con IA">
-<meta property="og:image" content="Logo.PNG">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://prismanews.github.io/prisma/">
-<meta http-equiv="content-language" content="es">
-
-<!-- SEO extra -->
-<meta name="theme-color" content="#ffffff">
-<meta name="author" content="Prisma News">
-
+<title>Prisma | Comparador IA noticias</title>
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 </head>
 <body>
 
@@ -378,14 +279,6 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 
 <p class="tagline">Más contexto · menos ruido</p>
 
-<p class="gancho">
-Comparador inteligente de medios · Detecta sesgos · Entiende la actualidad mejor
-</p>
-
-<p style="font-size:14px;color:#666;margin-top:6px;">
-Análisis automático de titulares de más de 25 medios para detectar tendencias informativas y comparar enfoques editoriales.
-</p>
-
 <div class="stats">
 📰 {medios_unicos} medios analizados ·
 <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time>
@@ -395,9 +288,7 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
 <a href="espana.html">España en el mundo</a>
-<a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
-Contacto
-</a>
+<a href="mailto:ovalero@gmail.com">Contacto</a>
 </nav>
 </header>
 
@@ -406,52 +297,32 @@ Contacto
 
 for i, grupo in enumerate(grupos, 1):
 
-    clase = "card"
-    if i == 1:
-        clase = "card portada"
+    clase = "card portada" if i == 1 else "card"
+
     html += f"""
 <div class="{clase}">
-
 <h2>{titular_prisma(grupo)}</h2>
 {resumen_prisma(grupo)}
-{sesgo_politico(grupo)} 
 """
 
     for idx in grupo[:6]:
         n = noticias[idx]
         html += f"""
-<p>
-<strong>{n['medio']}:</strong>
-<a href="{n['link']}" target="_blank" rel="noopener noreferrer">{n['titulo']}</a>
-</p>
+<p><strong>{n['medio']}:</strong>
+<a href="{n['link']}" target="_blank" rel="noopener noreferrer">
+{n['titulo']}
+</a></p>
 """
-  
+
     html += "</div>"
-
-
-# 👉 Truco tráfico joven (SEO + UX)
-html += """
-<footer style="text-align:center;opacity:.7;margin:40px 0;font-size:.9em">
-Comparador automático de noticias con IA · Actualización continua
-</footer>
-"""
 
 html += "</div></body></html>"
 
-with open("index.html", "w", encoding="utf-8") as f:
+with open("index.html","w",encoding="utf-8") as f:
     f.write(html)
 
-# ---------- PÁGINA ESPAÑA EN EL MUNDO ----------
 
-KEYWORDS_ESPANA = [
-    "españa","spain","espagne","spanien","spagna",
-    "spanish","español","madrid","barcelona"
-]
-
-noticias_espana = [
-    n for n in noticias
-    if any(k in n["titulo"].lower() for k in KEYWORDS_ESPANA)
-]
+# ---------- HTML ESPAÑA EN EL MUNDO ----------
 
 html_espana = f"""
 <!DOCTYPE html>
@@ -470,8 +341,6 @@ html_espana = f"""
 <a href="index.html" class="logo-link">PRISMA</a>
 </div>
 
-<p class="tagline">Cómo ve la prensa internacional a España</p>
-
 <nav class="nav">
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
@@ -483,54 +352,20 @@ html_espana = f"""
 <div class="container">
 <div class="card portada">
 <h2>🌍 España en el mundo</h2>
-<p class="resumen">
-Selección automática de medios internacionales que mencionan España.
-</p>
 """
 
 for n in noticias_espana[:40]:
     html_espana += f"""
-<p>
-<strong>{n['medio']}:</strong>
+<p><strong>{n['medio']}:</strong>
 <a href="{n['link']}" target="_blank" rel="noopener noreferrer">
 {n['titulo']}
-</a>
-</p>
+</a></p>
 """
 
-html_espana += """
-</div>
-</div>
-</body>
-</html>
-"""
+html_espana += "</div></div></body></html>"
 
-with open("espana.html", "w", encoding="utf-8") as f:
+with open("espana.html","w",encoding="utf-8") as f:
     f.write(html_espana)
 
-# ---------- SITEMAP ----------
 
-sitemap = """<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://prismanews.github.io/prisma/</loc></url>
-<url><loc>https://prismanews.github.io/prisma/espana.html</loc></url>
-</urlset>
-"""
-
-with open("sitemap.xml", "w", encoding="utf-8") as f:
-    f.write(sitemap)
-
-
-# ---------- ROBOTS ----------
-
-robots = """User-agent: *
-Allow: /
-
-Sitemap: https://prismanews.github.io/prisma/sitemap.xml
-"""
-
-with open("robots.txt", "w", encoding="utf-8") as f:
-    f.write(robots)
-
-
-print("PRISMA NLP PRO generado 🚀")
+print("PRISMA OPTIMIZADO GENERADO 🚀")
