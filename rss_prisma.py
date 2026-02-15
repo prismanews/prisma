@@ -154,8 +154,7 @@ noticias_espana = []
 
 for medio, url in feeds_internacionales.items():
     try:
-        feed = feedparser.parse(url)
-
+        feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
         if feed.bozo:
             continue
 
@@ -180,9 +179,6 @@ for medio, url in feeds_internacionales.items():
 # quitar duplicados internacionales
 noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
 noticias_espana.sort(key=lambda x: len(x["titulo"]), reverse=True)
-
-
-# ---------- EMBEDDINGS ----------
 
 # ---------- EMBEDDINGS ----------
 
@@ -476,6 +472,8 @@ html_espana = f"""
 <html lang="es">
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
 <title>España en el mundo | Prisma</title>
 <link rel="stylesheet" href="prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
