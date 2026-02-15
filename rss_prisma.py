@@ -141,7 +141,7 @@ feeds_internacionales = {
     "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
     "Granma": "http://www.granma.cu/feed",
     "Cubadebate": "http://www.cubadebate.cu/feed/",
-    "Prensa Latina": "https://www.prensa-latina.cu/feed/"la
+    "Prensa Latina": "https://www.prensa-latina.cu/feed/"
 }
 KEYWORDS_ESPANA = [
     # país básico
