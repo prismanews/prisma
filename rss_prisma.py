@@ -83,7 +83,50 @@ feeds = {
     "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
 }
 
+feeds_internacionales = {
 
+    # 🇬🇧 Inglés
+    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
+    "Reuters": "https://www.reutersagency.com/feed/?best-topics=world",
+    "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "Guardian": "https://www.theguardian.com/world/rss",
+    "Bloomberg": "https://feeds.bloomberg.com/markets/news.rss",
+    "Financial Times": "https://www.ft.com/world?format=rss",
+
+    # 🇫🇷 Francés
+    "Le Monde": "https://www.lemonde.fr/rss/une.xml",
+    "France24 FR": "https://www.france24.com/fr/rss",
+    "Le Figaro": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+
+    # 🇩🇪 Alemán
+    "Der Spiegel": "https://www.spiegel.de/international/index.rss",
+    "Die Welt": "https://www.welt.de/feeds/latest.rss",
+
+    # 🇮🇹 Italiano
+    "Corriere": "https://xml2.corriereobjects.it/rss/homepage.xml",
+    "La Repubblica": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+
+    # 🇵🇹 Portugués
+    "Publico PT": "https://www.publico.pt/rss",
+    "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+
+    # 🇪🇺 Europa general
+    "Politico EU": "https://www.politico.eu/feed/",
+    "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
+
+    # 🌏 Asia
+    "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
+    "Japan Times": "https://www.japantimes.co.jp/feed/",
+    "China Daily": "http://www.chinadaily.com.cn/rss/world_rss.xml",
+
+    # 🌎 América Latina internacional
+    "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
+    "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
+    "Granma": "http://www.granma.cu/feed",
+    "Cubadebate": "http://www.cubadebate.cu/feed/",
+    "Prensa Latina": "https://www.prensa-latina.cu/feed/"la
+}
 # ---------- LIMPIEZA ----------
 
 stopwords = {
