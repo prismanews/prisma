@@ -35,7 +35,7 @@ referencias_politicas = {
 
 # ---------- FEEDS PORTADA (España / español) ----------
 
-feeds_es = {
+feeds = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
@@ -45,17 +45,48 @@ feeds_es = {
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
     "El Español": "https://www.elespanol.com/rss/",
     "RTVE": "https://www.rtve.es/rss/",
+    "BBC Mundo": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "France24 Español": "https://www.france24.com/es/rss",
+    "DW Español": "https://rss.dw.com/xml/rss-es-all",
     "El Confidencial": "https://www.elconfidencial.com/rss/",
     "Público": "https://www.publico.es/rss/",
-    "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
+    "CNN Español": "https://cnnespanol.cnn.com/feed/",
+    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
+    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
+    "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
+    "Levante": "https://www.levante-emv.com/rss/portada.xml",
     "Heraldo": "https://www.heraldo.es/rss/portada/",
+    "Xataka": "https://www.xataka.com/feedburner.xml",
+    "Genbeta": "https://www.genbeta.com/feedburner.xml",
+    "Trendencias": "https://www.trendencias.com/feedburner.xml",
+    "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
+    "Yorokobu": "https://www.yorokobu.es/feed/",
+    "The Guardian": "https://www.theguardian.com/world/rss",
+    "Reuters": "https://www.reutersagency.com/feed/?best-topics=general-news",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
+    "Información Alicante": "https://www.informacion.es/rss/portada.xml",
+    "Hipertextual": "https://hipertextual.com/feed",
+    "Microsiervos": "https://www.microsiervos.com/index.xml",
+    "Applesfera": "https://www.applesfera.com/feedburner.xml",
+    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
+    "Nature News": "https://www.nature.com/nature.rss",
+    "Scientific American": "https://rss.sciam.com/ScientificAmerican-Global",
+    "Infolibre": "https://www.infolibre.es/rss",
+    "El Salto": "https://www.elsaltodiario.com/rss",
+    "CTXT": "https://ctxt.es/es/feed/",
+    "Jacobin": "https://jacobin.com/feed",
+    "Politico EU": "https://www.politico.eu/feed/",
+    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml"
 }
 
-
-# ---------- FEEDS INTERNACIONALES (solo España en mundo) ----------
-
 feeds_internacionales = {
+
+    # 🇬🇧 Inglés
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
     "Reuters": "https://www.reutersagency.com/feed/?best-topics=world",
@@ -63,20 +94,40 @@ feeds_internacionales = {
     "Guardian": "https://www.theguardian.com/world/rss",
     "Bloomberg": "https://feeds.bloomberg.com/markets/news.rss",
     "Financial Times": "https://www.ft.com/world?format=rss",
+
+    # 🇫🇷 Francés
     "Le Monde": "https://www.lemonde.fr/rss/une.xml",
     "France24 FR": "https://www.france24.com/fr/rss",
+    "Le Figaro": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+
+    # 🇩🇪 Alemán
     "Der Spiegel": "https://www.spiegel.de/international/index.rss",
+    "Die Welt": "https://www.welt.de/feeds/latest.rss",
+
+    # 🇮🇹 Italiano
     "Corriere": "https://xml2.corriereobjects.it/rss/homepage.xml",
+    "La Repubblica": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+
+    # 🇵🇹 Portugués
     "Publico PT": "https://www.publico.pt/rss",
+    "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+
+    # 🇪🇺 Europa general
     "Politico EU": "https://www.politico.eu/feed/",
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
+
+    # 🌏 Asia
+    "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
     "Japan Times": "https://www.japantimes.co.jp/feed/",
     "China Daily": "http://www.chinadaily.com.cn/rss/world_rss.xml",
-    "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
-    "El Tiempo": "https://www.eltiempo.com/rss/colombia.xml",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-}
 
+    # 🌎 América Latina internacional
+    "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
+    "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
+    "Granma": "http://www.granma.cu/feed",
+    "Cubadebate": "http://www.cubadebate.cu/feed/",
+    "Prensa Latina": "https://www.prensa-latina.cu/feed/"la
+}
 
 # ---------- LIMPIEZA ----------
 
