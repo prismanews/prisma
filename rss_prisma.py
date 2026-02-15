@@ -351,6 +351,7 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 <nav class="nav">
 <a href="index.html">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
+<a href="espana.html">España en el mundo</a>
 <a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
 Contacto
 </a>
@@ -397,6 +398,72 @@ html += "</div></body></html>"
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
+# ---------- PÁGINA ESPAÑA EN EL MUNDO ----------
+
+KEYWORDS_ESPANA = [
+    "españa","spain","espagne","spanien","spagna",
+    "spanish","español","madrid","barcelona"
+]
+
+noticias_espana = [
+    n for n in noticias
+    if any(k in n["titulo"].lower() for k in KEYWORDS_ESPANA)
+]
+
+html_espana = f"""
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>España en el mundo | Prisma</title>
+<link rel="stylesheet" href="prisma.css?v={cachebuster}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<header class="header">
+<div class="logo">
+<img src="Logo.PNG" class="logo-img">
+<a href="index.html" class="logo-link">PRISMA</a>
+</div>
+
+<p class="tagline">Cómo ve la prensa internacional a España</p>
+
+<nav class="nav">
+<a href="index.html">Inicio</a>
+<a href="sobre.html">Sobre Prisma</a>
+<a href="espana.html">España en el mundo</a>
+<a href="mailto:ovalero@gmail.com">Contacto</a>
+</nav>
+</header>
+
+<div class="container">
+<div class="card portada">
+<h2>🌍 España en el mundo</h2>
+<p class="resumen">
+Selección automática de medios internacionales que mencionan España.
+</p>
+"""
+
+for n in noticias_espana[:40]:
+    html_espana += f"""
+<p>
+<strong>{n['medio']}:</strong>
+<a href="{n['link']}" target="_blank" rel="noopener noreferrer">
+{n['titulo']}
+</a>
+</p>
+"""
+
+html_espana += """
+</div>
+</div>
+</body>
+</html>
+"""
+
+with open("espana.html", "w", encoding="utf-8") as f:
+    f.write(html_espana)
 
 # ---------- SITEMAP ----------
 
