@@ -470,6 +470,7 @@ with open("espana.html", "w", encoding="utf-8") as f:
 sitemap = """<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://prismanews.github.io/prisma/</loc></url>
+<url><loc>https://prismanews.github.io/prisma/espana.html</loc></url>
 </urlset>
 """
 
