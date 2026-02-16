@@ -768,14 +768,13 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 <a href="index.html" class="logo-link">PRISMA</a>
 </div>
 
-<p class="tagline">Más contexto · menos ruido</p>
+<!-- NUEVO: Claim y explicación mejorada -->
+<p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
 
-<p class="gancho">
-Comparador inteligente de medios · Detecta sesgos · Entiende la actualidad mejor
-</p>
-
-<p style="font-size:14px;color:#666;margin-top:6px;">
-Análisis automático de titulares de más de 25 medios para detectar tendencias informativas y comparar enfoques editoriales.
+<p class="explicacion">
+    Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar 
+    <strong>enfoques editoriales, sesgos y tendencias informativas</strong> en tiempo real.
+    <br><span class="highlight">Entiende cómo te cuentan la actualidad.</span>
 </p>
 
 <div class="stats">
@@ -787,12 +786,12 @@ Análisis automático de titulares de más de 25 medios para detectar tendencias
 <a href="index.html?v={cachebuster}">Inicio</a>
 <a href="sobre.html">Sobre Prisma</a>
 <a href="espana.html?v={cachebuster}">España en el mundo</a>
-<a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
-Contacto
-</a>
+<a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">Contacto</a>
 </nav>
 </header>
 
+<div class="container">
+"""
 <div class="container">
 """
 
