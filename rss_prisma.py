@@ -754,7 +754,7 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<link rel="stylesheet" href="prisma.css?v={cachebuster}">
+<link rel="stylesheet" href="https://prismanews.github.io/prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
@@ -871,8 +871,7 @@ html_espana = f"""
 <meta charset="UTF-8">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
-<title>España en el mundo | Prisma</title>
-<link rel="stylesheet" href="prisma.css?v={cachebuster}">
+<title>España en el mundo | Prisma</title><link rel="stylesheet" href="https://prismanews.github.io/prisma.css?v={cachebuster}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
