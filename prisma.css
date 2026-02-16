@@ -1,51 +1,853 @@
-/* ========== CORRECCIÓN PARA EMOJIS HUÉRFANOS EN MÓVIL ========== */
-
-/* Identificamos el contenedor de los emojis (ajusta la clase según tu HTML real) */
-.hero-icons, 
-.emoji-list,
-section:has(> .emoji) {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 12px !important;
-    justify-content: center !important;
-    margin: 16px 0 !important;
+/* ================ VARIABLES Y CONFIGURACIÓN ================ */
+:root {
+  /* Paleta moderna - Azul vibrante + acentos cálidos */
+  --primary: #2563eb;
+  --primary-light: #3b82f6;
+  --primary-dark: #1d4ed8;
+  --primary-soft: #dbeafe;
+  --accent: #f59e0b;
+  --accent-light: #fcd34d;
+  --accent-soft: #fef3c7;
+  --success: #10b981;
+  --success-soft: #d1fae5;
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-tertiary: #64748b;
+  --text-inverse: #ffffff;
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #f1f5f9;
+  --border-light: #e2e8f0;
+  --border-medium: #cbd5e1;
+  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+  --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.01);
+  --shadow-xl: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+  --shadow-primary: 0 10px 25px -5px rgba(37, 99, 235, 0.25);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* Cada emoji con su texto */
-.hero-icons li,
-.emoji-list li {
-    display: flex !important;
-    align-items: center !important;
-    gap: 6px !important;
-    background: var(--bg-secondary) !important;
+/* Modo oscuro automático */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #0f172a;
+    --bg-secondary: #1e293b;
+    --bg-tertiary: #334155;
+    --text-primary: #f1f5f9;
+    --text-secondary: #cbd5e1;
+    --text-tertiary: #94a3b8;
+    --border-light: #334155;
+    --border-medium: #475569;
+    --primary-soft: #1e3a8a;
+    --accent-soft: #92400e;
+    --success-soft: #065f46;
+    --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+    --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* ================ BASE ================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: #0b57d0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================ HEADER ================ */
+.header {
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-light);
+  padding: 24px 20px;
+  margin-bottom: 48px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  justify-content: center;
+}
+
+.logo-img {
+  height: 40px;
+  width: auto;
+  transition: var(--transition);
+}
+
+.logo-img:hover {
+  transform: scale(1.05);
+}
+
+.logo-link {
+  font-size: 26px;
+  font-weight: 800;
+  text-decoration: none;
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.5px;
+}
+
+.tagline {
+  color: var(--text-tertiary);
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.stats {
+  font-size: 13px;
+  color: var(--text-tertiary);
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.stats::before {
+  content: "•";
+  color: var(--primary);
+  font-weight: bold;
+}
+
+/* ================ NAVEGACIÓN ================ */
+.nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nav a {
+  padding: 8px 16px;
+  color: #2563eb !important;
+  background: rgba(37, 99, 235, 0.1) !important;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  border-radius: 20px !important;
+  transition: var(--transition);
+}
+
+.nav a:hover {
+  background: #2563eb !important;
+  color: white !important;
+  transform: translateY(-1px);
+}
+
+.nav a.active {
+  background: var(--primary);
+  color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .nav a {
+    color: #60a5fa !important;
+    background: rgba(96, 165, 250, 0.15) !important;
+  }
+  
+  .nav a:hover {
+    background: #60a5fa !important;
+    color: #0f172a !important;
+  }
+}
+
+/* ================ CONTENEDOR PRINCIPAL ================ */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px 64px;
+}
+
+/* ================ TARJETAS ================ */
+.card {
+  background: var(--bg-primary);
+  border-radius: var(--radius-xl);
+  padding: 32px;
+  margin-bottom: 32px;
+  border: 1px solid var(--border-light);
+  transition: var(--transition-slow);
+  position: relative;
+  word-wrap: break-word;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  opacity: 0;
+  transition: var(--transition);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg), var(--shadow-primary);
+  border-color: transparent;
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+/* Nombres de medios */
+.medio, 
+.card p strong,
+strong.medio,
+.card p strong a {
+  color: #e67e22 !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+
+.card h2 {
+  font-size: 26px;
+  margin: 0 0 20px 0;
+  color: var(--text-primary);
+  line-height: 1.3;
+  word-wrap: break-word;
+}
+
+.card h2 a {
+  color: inherit;
+  text-decoration: none;
+  background: linear-gradient(to right, var(--primary), var(--accent));
+  background-size: 0% 2px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  transition: background-size 0.3s ease;
+}
+
+.card h2 a:hover {
+  background-size: 100% 2px;
+}
+
+.card p {
+  color: var(--text-secondary);
+  margin: 12px 0;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  word-wrap: break-word;
+}
+
+/* Resumen IA */
+.resumen {
+  background: var(--bg-secondary);
+  border-radius: var(--radius-lg);
+  padding: 20px 24px;
+  margin: 20px 0;
+  font-size: 15px;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-light);
+  position: relative;
+  line-height: 1.7;
+  word-wrap: break-word;
+}
+
+.resumen::before {
+  content: "🤖";
+  position: absolute;
+  top: -10px;
+  left: 20px;
+  background: var(--bg-primary);
+  padding: 0 8px;
+  font-size: 14px;
+  color: var(--primary);
+}
+
+/* Sesgo IA */
+.sesgo-card {
+  background: var(--accent-soft);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid var(--accent-light);
+}
+
+.sesgo-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.sesgo-texto {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.sesgo-info {
+  color: var(--text-tertiary);
+  cursor: help;
+  font-size: 14px;
+}
+
+.sesgo-barra {
+  display: flex;
+  height: 24px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 12px 0 8px;
+}
+
+.barra-progresista {
+  background: #3b82f6;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.barra-conservadora {
+  background: #f97316;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.sesgo-etiquetas {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.sesgo-nota {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  font-style: italic;
+  margin-top: 8px;
+}
+
+/* Botón share */
+.share {
+  background: transparent;
+  border: 1px solid var(--border-light);
+  padding: 12px 24px;
+  border-radius: var(--radius-lg);
+  margin-top: 24px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+
+.share:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-primary);
+}
+
+/* ================ PÁGINA SOBRE NOSOTROS ================ */
+.about-card {
+  max-width: 860px;
+  margin: 0 auto 48px;
+  padding: 48px;
+  background: var(--bg-primary);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-light);
+}
+
+.hero-about {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.hero-about h1 {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-about p {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.about-card h2 {
+  font-size: 1.8rem;
+  margin: 40px 0 20px;
+  color: var(--text-primary);
+}
+
+.contacto-box {
+  margin-top: 48px;
+  padding: 32px;
+  background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
+  border-radius: var(--radius-lg);
+  text-align: center;
+  border: 1px solid var(--border-light);
+}
+
+.contacto-box a {
+  color: var(--primary-dark);
+  font-weight: 700;
+  font-size: 1.2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+
+.contacto-box a:hover {
+  color: var(--primary);
+  transform: translateX(4px);
+}
+
+.contacto-box a::after {
+  content: "→";
+  transition: var(--transition);
+}
+
+/* ================ PORTADA ================ */
+.portada {
+  padding: 48px;
+  border-radius: var(--radius-xl);
+  background: var(--bg-primary);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-light);
+  margin-bottom: 32px;
+  position: relative;
+  overflow: hidden;
+}
+
+.portada::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, var(--primary-soft) 0%, transparent 70%);
+  opacity: 0.5;
+  border-radius: 50%;
+}
+
+.portada h2 {
+  font-size: 36px;
+  line-height: 1.2;
+  margin-bottom: 24px;
+  max-width: 80%;
+  color: var(--text-primary);
+}
+
+.portada p {
+  font-size: 18px;
+  color: var(--text-secondary);
+  max-width: 70%;
+}
+
+/* ================ BOTONES FLOTANTES COMPARTIR ================ */
+.compartir-flotante {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 1000;
+}
+
+.share-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  cursor: pointer;
+  transition: var(--transition);
+  box-shadow: var(--shadow-md);
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.share-btn:hover {
+  transform: scale(1.1);
+  box-shadow: var(--shadow-lg);
+}
+
+.share-btn.twitter:hover { background: #1DA1F2; color: white; }
+.share-btn.facebook:hover { background: #4267B2; color: white; }
+.share-btn.whatsapp:hover { background: #25D366; color: white; }
+.share-btn.telegram:hover { background: #0088cc; color: white; }
+.share-btn.copy:hover { background: var(--primary); color: white; }
+
+/* ================ CALL TO ACTION ================ */
+.cta-section {
+  text-align: center;
+  padding: 48px 24px;
+  background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
+  border-radius: var(--radius-xl);
+  margin: 48px 0;
+}
+
+.cta-section h3 {
+  font-size: 24px;
+  margin-bottom: 12px;
+  color: var(--text-primary);
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
+.cta-btn {
+  padding: 12px 24px;
+  border-radius: var(--radius-lg);
+  font-weight: 600;
+  transition: var(--transition);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.cta-btn.primary {
+  background: var(--primary);
+  color: white;
+  border: none;
+}
+
+.cta-btn.primary:hover {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-primary);
+}
+
+.cta-btn.secondary {
+  background: transparent;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.cta-btn.secondary:hover {
+  background: var(--primary);
+  color: white;
+}
+
+.cta-btn.github {
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  border: none;
+}
+
+.cta-btn.github:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+
+/* ================ ANIMACIONES ================ */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translate(-50%, 20px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -20px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+/* ================ UTILIDADES ================ */
+.text-gradient {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* ================ MEDIA QUERIES ================ */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .nav {
+    justify-content: center;
+  }
+
+  .container {
+    padding: 0 16px 48px;
+  }
+
+  .card {
+    padding: 24px;
+  }
+
+  .card h2 {
+    font-size: 22px;
+  }
+
+  .portada {
+    padding: 32px;
+  }
+
+  .portada h2 {
+    font-size: 28px;
+    max-width: 100%;
+  }
+
+  .portada p {
+    max-width: 100%;
+    font-size: 16px;
+  }
+
+  .about-card {
+    padding: 32px;
+  }
+
+  .hero-about h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    padding: 12px 16px !important;
+    margin-bottom: 16px !important;
+  }
+  
+  .logo {
+    gap: 6px;
+  }
+  
+  .logo-img {
+    height: 24px !important;
+  }
+  
+  .logo-link {
+    font-size: 20px !important;
+  }
+  
+  .tagline,
+  .gancho {
+    display: none !important;
+  }
+  
+  .stats {
+    font-size: 11px !important;
+    margin-top: 2px !important;
+  }
+  
+  .stats::before {
+    display: none !important;
+  }
+  
+  .nav {
+    margin-top: 8px !important;
+    gap: 4px !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    padding: 0 4px 4px 4px !important;
+    -webkit-overflow-scrolling: touch;
+    justify-content: flex-start;
+  }
+  
+  .nav a {
     padding: 6px 12px !important;
-    border-radius: 30px !important;
     font-size: 14px !important;
     white-space: nowrap !important;
+    background: #f2f4f8;
+    border-radius: 20px;
+  }
+  
+  .nav a:hover {
+    transform: none !important;
+  }
+  
+  .card {
+    padding: 18px !important;
+    margin-bottom: 14px !important;
+  }
+  
+  .card h2 {
+    font-size: 18px !important;
+    margin: 8px 0 12px !important;
+    word-break: break-word !important;
+    line-height: 1.4 !important;
+  }
+  
+  .resumen {
+    padding: 12px 16px !important;
+    font-size: 13px !important;
+    margin: 12px 0 !important;
+  }
+  
+  .sesgo-card {
+    padding: 14px !important;
+    margin: 12px 0 !important;
+  }
+  
+  .sesgo-barra {
+    height: 20px !important;
+  }
+  
+  .medio, 
+  .card p strong,
+  strong.medio {
+    font-size: 13px !important;
+    margin-bottom: 6px !important;
+  }
+  
+  .share {
+    padding: 8px 18px !important;
+    font-size: 13px !important;
+    margin-top: 16px !important;
+  }
+  
+  .container {
+    padding: 0 12px 24px !important;
+  }
+  
+  .portada {
+    padding: 20px !important;
+  }
+  
+  .portada h2 {
+    font-size: 22px !important;
+  }
+  
+  .portada p {
+    font-size: 14px !important;
+  }
+  
+  .contacto-box a {
+    word-break: break-all !important;
+    font-size: 1rem !important;
+  }
+  
+  .compartir-flotante {
+    bottom: 10px;
+    right: 10px;
+    gap: 6px;
+  }
+  
+  .share-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+  }
+  
+  .cta-section {
+    padding: 32px 16px !important;
+  }
+  
+  .cta-btn {
+    padding: 10px 20px !important;
+    font-size: 14px !important;
+  }
 }
 
-/* En móvil, si queremos que ocupen todo el ancho */
-@media (max-width: 600px) {
-    .hero-icons li,
-    .emoji-list li {
-        white-space: normal !important;
-        text-align: center !important;
-        flex: 1 1 auto !important;
-        min-width: 120px !important;
-    }
-}
-
-/* SOLUCIÓN DE EMERGENCIA: Si no encuentras la clase, esto oculta los emojis solitarios */
-@media (max-width: 600px) {
-    /* Esto selecciona cualquier párrafo o div que contenga SOLO emojis */
-    p:contains("📱"):empty,
-    div:contains("📱"):empty {
-        display: none !important;
-    }
-    
-    /* O más directo: oculta los elementos que contienen los emojis problemáticos */
-    .card > p:has(> .emoji-only),
-    .card > div:has(> .emoji) {
-        display: none !important;
-    }
+@media (max-width: 380px) {
+  .logo-link {
+    font-size: 18px !important;
+  }
+  
+  .nav a {
+    padding: 4px 10px !important;
+    font-size: 13px !important;
+  }
+  
+  .card h2 {
+    font-size: 16px !important;
+  }
 }
