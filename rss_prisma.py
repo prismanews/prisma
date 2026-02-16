@@ -286,7 +286,7 @@ for medio, url in feeds_internacionales.items():
         if feed.bozo:
             continue
 
-        for entry in feed.entries[:16]:
+        for entry in feed.entries[:25]:
 
             # evita feeds rotos o incompletos
             if "title" not in entry or "link" not in entry:
