@@ -928,7 +928,6 @@ with open("robots.txt", "w", encoding="utf-8") as f:
 # ---------- EXTRAS PARA VIRALIDAD Y ENGANCHE JOVEN ----------
 
 def generar_widgets_compartir():
-    """Genera botones de compartir para redes sociales"""
     url_actual = "https://prismanews.github.io/prisma/"
     texto_compartir = "📊 Descubre cómo la IA analiza el sesgo de los medios en Prisma"
     
@@ -941,51 +940,9 @@ def generar_widgets_compartir():
         <a href="https://t.me/share/url?url={url_actual}&text={texto_compartir}" target="_blank" class="share-btn telegram">📨</a>
         <button onclick="copiarPortapapeles('{url_actual}')" class="share-btn copy">📋</button>
     </div>
-
-    <style>
-    .compartir-flotante {{
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        z-index: 9999;
-    }}
-    .share-btn {{
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        background: white;
-        border: none;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 24px;
-        text-decoration: none;
-        transition: all 0.3s;
-        animation: aparecer 0.5s ease;
-    }}
-    .share-btn:hover {{
-        transform: scale(1.15);
-        box-shadow: 0 8px 25px rgba(0,0,0,0.3);
-    }}
-    .twitter {{ background: #1DA1F2; color: white; }}
-    .facebook {{ background: #4267B2; color: white; }}
-    .whatsapp {{ background: #25D366; color: white; }}
-    .telegram {{ background: #0088cc; color: white; }}
-    .copy {{ background: #6c757d; color: white; }}
-    @keyframes aparecer {{
-        from {{ transform: scale(0); opacity: 0; }}
-        to {{ transform: scale(1); opacity: 1; }}
-    }}
-    </style>
-    """
+    """  # 👈 SIN <style>
 
 def generar_scripts_virales():
-    """Genera JavaScript para funcionalidades virales"""
     return """
     <script>
     function copiarPortapapeles(texto) {
@@ -1046,18 +1003,7 @@ def generar_scripts_virales():
         }
     });
     </script>
-
-    <style>
-    @keyframes slideUp {
-        from { transform: translateX(-50%) translateY(100px); opacity: 0; }
-        to { transform: translateX(-50%) translateY(0); opacity: 1; }
-    }
-    @keyframes slideDown {
-        from { transform: translateX(-50%) translateY(-100px); opacity: 0; }
-        to { transform: translateX(-50%) translateY(0); opacity: 1; }
-    }
-    </style>
-    """
+    """  # 👈 SIN <style>
 
 # ---------- APLICAR LAS MEJORAS A LOS HTML ----------
 
