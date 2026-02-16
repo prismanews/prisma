@@ -791,3 +791,101 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 16px !important;
   }
 }
+
+/* ================ AJUSTES SOLICITADOS ================ */
+
+/* 1. TÍTULOS CENTRADOS EN CABECERA */
+.header {
+  text-align: center !important;
+}
+
+.header .logo {
+  justify-content: center !important;
+}
+
+.header .header-meta {
+  text-align: center !important;
+  width: 100%;
+}
+
+.header .stats {
+  justify-content: center !important;
+}
+
+.header .tagline {
+  text-align: center !important;
+}
+
+/* 2. NOMBRES DE MEDIOS DESTACADOS (OTRO COLOR) */
+.medio {
+  background: transparent !important;
+  color: #e67e22 !important;  /* Naranja vibrante - visible pero elegante */
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  padding: 0 !important;
+  margin-bottom: 8px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Opcional: si quieres que el nombre del medio tenga su propio color y fondo más visible */
+.medio-vibrante {
+  background: rgba(230, 126, 34, 0.1) !important;
+  color: #e67e22 !important;
+  padding: 4px 12px !important;
+  border-radius: 20px;
+  display: inline-block;
+  font-weight: 700;
+}
+
+/* 3. QUE NO QUEDE CORTADO (CONTACTO Y METADATOS) */
+.container {
+  overflow: visible !important;
+}
+
+.card {
+  overflow: visible !important;
+  word-wrap: break-word !important;
+}
+
+/* Asegurar que textos largos no se corten */
+.card p, 
+.card h2, 
+.resumen, 
+.sesgo {
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  max-width: 100% !important;
+}
+
+/* En móvil, asegurar que nada se corte */
+@media (max-width: 600px) {
+  .card h2 {
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    word-break: break-word !important;
+  }
+  
+  .medio {
+    font-size: 13px !important;
+    margin-bottom: 6px !important;
+  }
+  
+  /* Si hay elementos de contacto */
+  .contacto-box a {
+    word-break: break-all !important;
+  }
+}
+
+/* 4. MEJORA CONTRASTE ENTRE TITULAR Y MEDIO */
+.card h2 {
+  color: var(--text-primary) !important;
+  font-weight: 700 !important;
+}
+
+.card h2 a {
+  color: var(--text-primary) !important;
+  font-weight: 700 !important;
+}
+
+/* Los nombres de medios ahora destacan en naranja sobre el fondo blanco */
