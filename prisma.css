@@ -292,7 +292,7 @@ article .card p strong,
 }
 
 .resumen::before {
-  content: "";
+  content: "🤖";
   position: absolute;
   top: -10px;
   left: 20px;
