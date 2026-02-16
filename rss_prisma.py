@@ -650,12 +650,12 @@ def titular_prisma(indices):
         tema = "actualidad"
 
     prefijos = [
-        "🧭 Claves informativas:",
-        "📊 En el foco:",
-        "📰 Lo que domina hoy:",
-        "🔥 Tema principal:",
-        "🎯 En portada:",
-        "📌 Lo más relevante:"
+        "Claves informativas:",
+        "En el foco:",
+        "Lo que domina hoy:",
+        "Tema principal:",
+        "En portada:",
+        "Lo más relevante:"
     ]
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
@@ -703,8 +703,6 @@ def resumen_prisma(indices):
 {emoji} <b>Resumen IA:</b>
 {len(set(medios_cluster))} medios · {sentimiento} · 
 {', '.join(angulos) if angulos else 'enfoque directo'}
-<br>
-<small>🎯 Tema central: {tema_principal}</small>
 </p>
 """
     
