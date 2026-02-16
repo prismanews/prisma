@@ -569,7 +569,7 @@ else:
 grupos.sort(key=len, reverse=True)
 
 
-# ---------- SESGO NLP MEJORADO ----------
+# ---------- SESGO NLP MEJORADO CON BARRA VISUAL ----------
 
 def sesgo_politico(indices):
     textos = [noticias[i]["titulo"] for i in indices]
@@ -587,34 +587,46 @@ def sesgo_politico(indices):
         referencias_politicas["conservador"]
     ).mean()
 
-    confianza = abs(prog - cons) * 100
-    confianza_texto = "alta" if confianza > 15 else "media" if confianza > 8 else "baja"
-
+    # Calcular porcentajes para la barra
+    total = prog + cons
+    porcentaje_prog = (prog / total) * 100 if total > 0 else 50
+    porcentaje_cons = (cons / total) * 100 if total > 0 else 50
+    
+    # Determinar texto y colores
     if abs(prog - cons) < 0.015:
         texto = "⚖️ Cobertura muy equilibrada"
-        icono = "🤝"
+        color_prog = "#94a3b8"
+        color_cons = "#94a3b8"
     elif prog > cons:
         diferencia = (prog - cons) * 100
         if diferencia > 20:
-            texto = f"⬅️️ Enfoque marcadamente progresista ({diferencia:.1f}%)"
+            texto = f"⬅️️ Enfoque marcadamente progresista"
         else:
-            texto = f"📊 Enfoque ligeramente progresista"
-        icono = "🌿"
+            texto = f"🌿 Enfoque ligeramente progresista"
     else:
         diferencia = (cons - prog) * 100
         if diferencia > 20:
-            texto = f"➡️ Enfoque marcadamente conservador ({diferencia:.1f}%)"
+            texto = f"➡️ Enfoque marcadamente conservador"
         else:
-            texto = f"📊 Enfoque ligeramente conservador"
-        icono = "🏛️"
+            texto = f"🏛️ Enfoque ligeramente conservador"
 
     return f"""
-<div class="sesgo">
-{icono} <b>Sesgo IA:</b> {texto}
-<span class="confianza" title="Confianza del análisis">· {confianza_texto}</span>
-</div>
-"""
-
+    <div class="sesgo-card">
+        <div class="sesgo-header">
+            <span class="sesgo-texto">{texto}</span>
+            <span class="sesgo-info" title="Basado en análisis semántico de los titulares mediante IA">ⓘ</span>
+        </div>
+        <div class="sesgo-barra">
+            <div class="barra-progresista" style="width: {porcentaje_prog:.0f}%;"></div>
+            <div class="barra-conservadora" style="width: {porcentaje_cons:.0f}%;"></div>
+        </div>
+        <div class="sesgo-etiquetas">
+            <span>🌿 Progresista {porcentaje_prog:.0f}%</span>
+            <span>🏛️ Conservador {porcentaje_cons:.0f}%</span>
+        </div>
+        <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
+    </div>
+    """
 
 # ---------- TITULAR IA ----------
 
