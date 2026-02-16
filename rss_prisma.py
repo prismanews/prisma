@@ -792,8 +792,6 @@ content="Comparador inteligente de noticias. Analiza múltiples medios para ofre
 
 <div class="container">
 """
-<div class="container">
-"""
 
 for i, grupo in enumerate(grupos, 1):
 
