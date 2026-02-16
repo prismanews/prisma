@@ -881,3 +881,143 @@ a strong {
     word-break: break-all !important;
   }
 }
+
+/* ================ CORRECCIÓN URGENTE PARA MÓVIL ================ */
+@media (max-width: 600px) {
+  
+  /* Compactar cabecera */
+  .header {
+    padding: 12px 16px !important;
+    margin-bottom: 16px !important;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white;
+  }
+  
+  /* Logo más pequeño */
+  .logo {
+    gap: 6px;
+  }
+  
+  .logo-img {
+    height: 24px !important;
+  }
+  
+  .logo-link {
+    font-size: 20px !important;
+  }
+  
+  /* Ocultar elementos no esenciales en móvil */
+  .tagline {
+    display: none !important;
+  }
+  
+  .gancho {
+    display: none !important;
+  }
+  
+  /* Compactar stats */
+  .stats {
+    font-size: 11px !important;
+    margin-top: 2px !important;
+  }
+  
+  .stats::before {
+    display: none !important;
+  }
+  
+  /* Navegación horizontal compacta */
+  .nav {
+    margin-top: 8px !important;
+    gap: 4px !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    padding-bottom: 4px !important;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .nav a {
+    padding: 6px 12px !important;
+    margin: 0 !important;
+    font-size: 14px !important;
+    white-space: nowrap !important;
+    background: #f2f4f8;
+    border-radius: 20px;
+  }
+  
+  .nav a:hover {
+    transform: none !important;
+  }
+  
+  /* Reducir espacio de tarjetas */
+  .card {
+    padding: 18px !important;
+    margin-bottom: 16px !important;
+  }
+  
+  .card h2 {
+    font-size: 18px !important;
+    margin: 8px 0 12px !important;
+  }
+  
+  /* Compactar resumen y sesgo */
+  .resumen {
+    padding: 12px 16px !important;
+    font-size: 13px !important;
+    margin: 12px 0 !important;
+  }
+  
+  .sesgo {
+    padding: 10px 14px !important;
+    font-size: 13px !important;
+    margin: 10px 0 !important;
+    gap: 6px !important;
+  }
+  
+  /* Botón share más pequeño */
+  .share {
+    padding: 8px 18px !important;
+    font-size: 13px !important;
+    margin-top: 16px !important;
+  }
+  
+  /* Contenedor principal */
+  .container {
+    padding: 0 12px 24px !important;
+  }
+  
+  /* Si hay portada, compactarla */
+  .portada {
+    padding: 20px !important;
+  }
+  
+  .portada h2 {
+    font-size: 22px !important;
+  }
+  
+  .portada p {
+    font-size: 14px !important;
+  }
+  
+  /* Ocultar estadísticas secundarias si existen */
+  .stats span:not(:first-child) {
+    display: none !important;
+  }
+}
+
+/* Ajuste extra para pantallas muy pequeñas */
+@media (max-width: 380px) {
+  .logo-link {
+    font-size: 18px !important;
+  }
+  
+  .nav a {
+    padding: 4px 10px !important;
+    font-size: 13px !important;
+  }
+  
+  .card h2 {
+    font-size: 16px !important;
+  }
+}
