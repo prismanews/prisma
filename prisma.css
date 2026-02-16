@@ -743,3 +743,51 @@ a:hover {
     font-size: 16px !important;
   }
 }
+
+/* ================ CORRECCIÓN URGENTE - ENLACES DEL MENÚ VISIBLES ================ */
+
+/* Hacer visibles los enlaces del menú */
+.nav a {
+  color: #2563eb !important;  /* Azul vibrante que contrasta con el fondo */
+  background: rgba(37, 99, 235, 0.1) !important;  /* Fondo suave para destacar */
+  padding: 8px 16px !important;
+  border-radius: 20px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+}
+
+.nav a:hover {
+  background: #2563eb !important;
+  color: white !important;
+  transform: translateY(-2px);
+}
+
+/* Versión para modo oscuro si es necesario */
+@media (prefers-color-scheme: dark) {
+  .nav a {
+    color: #60a5fa !important;
+    background: rgba(96, 165, 250, 0.15) !important;
+  }
+  
+  .nav a:hover {
+    background: #60a5fa !important;
+    color: #0f172a !important;
+  }
+}
+
+/* También asegurar que el texto del header sea visible */
+.header,
+.header-content,
+.header-meta,
+.stats,
+.tagline {
+  color: var(--text-primary) !important;
+}
+
+/* El logo debe mantenerse con su gradiente */
+.logo-link {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
