@@ -791,3 +791,76 @@ a:hover {
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+/* ========== SOLUCIÓN DEFINITIVA PARA EMOJIS EN MÓVIL ========== */
+
+/* Para el div.stats actual que contiene los emojis como texto plano */
+.header .stats {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px 12px !important;
+    white-space: normal !important;
+    word-break: keep-all !important;
+    line-height: 2 !important;
+}
+
+/* Hacemos que cada emoji se comporte como un elemento independiente */
+.header .stats::before {
+    display: none !important; /* Oculta el punto que tenías antes */
+}
+
+/* Versión específica para móvil */
+@media (max-width: 600px) {
+    .header .stats {
+        gap: 6px 8px !important;
+        font-size: 0 !important; /* Oculta el texto temporalmente */
+    }
+    
+    /* Mostramos cada emoji como bloque individual */
+    .header .stats {
+        font-size: 1.5rem !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+    }
+    
+    /* El texto "medios analizados" y la fecha en una línea aparte */
+    .header .stats time,
+    .header .stats strong {
+        width: 100% !important;
+        font-size: 0.8rem !important;
+        margin-top: 8px !important;
+        color: var(--text-tertiary) !important;
+    }
+}
+
+/* Si quieres una solución más elegante, podemos separar emojis del texto */
+@media (max-width: 600px) {
+    .header .stats {
+        flex-direction: column !important;
+    }
+    
+    /* Línea de emojis */
+    .header .stats::before {
+        content: "📱 🗞️ 📺 📻 💻 📡 🎙️ 📸 📝 🔍 🌐 📊 📈 📉 🎯 ⚡ 💡 🔔 📌 📍 🎬 🎧 📖 🔬 ⚖️ 🌍";
+        display: block !important;
+        font-size: 1.8rem !important;
+        line-height: 1.8 !important;
+        word-spacing: 8px !important;
+        white-space: normal !important;
+        margin-bottom: 8px !important;
+    }
+    
+    /* Ocultamos los emojis originales */
+    .header .stats {
+        font-size: 0 !important;
+    }
+    
+    /* Mostramos la info de texto */
+    .header .stats time,
+    .header .stats strong {
+        font-size: 0.8rem !important;
+        display: inline !important;
+    }
+}
