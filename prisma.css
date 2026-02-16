@@ -589,153 +589,240 @@ a:hover {
   }
 }
 
-/* Móviles - VERSIÓN UNIFICADA Y OPTIMIZADA */
+/* ================ MÓVIL - VERSIÓN ULTRA COMPACTA (REESCRITA COMPLETAMENTE) ================ */
 @media (max-width: 600px) {
   
-  /* Compactar cabecera */
+  /* ===== HEADER MUY COMPACTO ===== */
   .header {
-    padding: 12px 16px !important;
-    margin-bottom: 16px !important;
+    padding: 8px 12px !important;
+    margin-bottom: 12px !important;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.98);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
   }
   
-  /* Logo más pequeño */
+  /* Ocultar completamente elementos no esenciales */
+  .tagline,
+  .gancho,
+  .stats::before,
+  .resumen::before {
+    display: none !important;
+  }
+  
+  /* Logo ultra compacto */
   .logo {
     gap: 6px;
+    margin-bottom: 4px;
   }
   
   .logo-img {
-    height: 24px !important;
+    height: 22px !important;
+    width: auto !important;
   }
   
   .logo-link {
-    font-size: 20px !important;
+    font-size: 18px !important;
+    letter-spacing: -0.3px;
   }
   
-  /* Ocultar elementos no esenciales en móvil */
-  .tagline,
-  .gancho {
-    display: none !important;
+  /* Header meta compacto - UNA SOLA LÍNEA */
+  .header-meta {
+    margin: 2px 0 !important;
   }
   
-  /* Compactar stats - esto se sobreescribirá más abajo con la solución de emojis */
+  /* Stats en una línea con emojis pequeños */
   .stats {
-    font-size: 11px !important;
-    margin-top: 2px !important;
+    font-size: 12px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 4px 8px !important;
+    margin: 2px 0 !important;
+    padding: 0 !important;
+    color: var(--text-tertiary) !important;
   }
   
-  .stats::before {
-    display: none !important;
+  /* La fecha en línea aparte pero pequeña */
+  .stats time {
+    font-size: 10px !important;
+    opacity: 0.8;
+    width: 100%;
+    order: 10;
+    margin-top: 2px;
   }
   
-  /* Navegación horizontal con scroll */
+  /* Navegación horizontal ultra compacta */
   .nav {
-    margin-top: 8px !important;
+    margin-top: 6px !important;
+    margin-bottom: 2px !important;
     gap: 4px !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto !important;
-    padding: 0 4px 4px 4px !important;
-    -webkit-overflow-scrolling: touch;
-    justify-content: flex-start;
-  }
-  
-  .nav a {
-    padding: 6px 12px !important;
-    margin: 0 !important;
-    font-size: 14px !important;
-    white-space: nowrap !important;
-    background: #f2f4f8;
-    border-radius: 20px;
-  }
-  
-  .nav a:hover {
-    transform: none !important;
-  }
-  
-  /* Reducir espacio de tarjetas */
-  .card {
-    padding: 18px !important;
-    margin-bottom: 14px !important;
-  }
-  
-  .card h2 {
-    font-size: 18px !important;
-    margin: 8px 0 12px !important;
-    word-break: break-word !important;
-    line-height: 1.4 !important;
-  }
-  
-  /* Compactar resumen y sesgo */
-  .resumen {
-    padding: 12px 16px !important;
-    font-size: 13px !important;
-    margin: 12px 0 !important;
-  }
-  
-  .sesgo {
-    padding: 10px 14px !important;
-    font-size: 13px !important;
-    margin: 10px 0 !important;
-    gap: 6px !important;
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  
-  /* Nombres de medio en móvil - con área de clic mejorada */
-  .medio, 
-  .card p strong,
-  strong.medio,
-  .card p strong a {
-    font-size: 13px !important;
-    margin-bottom: 6px !important;
-    padding: 4px 0 !important;
-    display: inline-block;
-  }
-  
-  /* Botón share más pequeño */
-  .share {
-    padding: 8px 18px !important;
-    font-size: 13px !important;
-    margin-top: 16px !important;
-  }
-  
-  /* Contenedor principal */
-  .container {
-    padding: 0 12px 24px !important;
-  }
-  
-  /* Portada en móvil */
-  .portada {
-    padding: 20px !important;
-  }
-  
-  .portada h2 {
-    font-size: 22px !important;
-  }
-  
-  .portada p {
-    font-size: 14px !important;
-  }
-  
-  /* Contacto en móvil */
-  .contacto-box a {
-    word-break: break-all !important;
-    font-size: 1rem !important;
-  }
-}
-
-/* Pantallas muy pequeñas */
-@media (max-width: 380px) {
-  .logo-link {
-    font-size: 18px !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    padding: 0 !important;
   }
   
   .nav a {
     padding: 4px 10px !important;
+    font-size: 12px !important;
+    background: #f0f2f5 !important;
+    border-radius: 30px !important;
+    color: #2563eb !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+  }
+  
+  .nav a:hover {
+    transform: none !important;
+    background: #2563eb !important;
+    color: white !important;
+  }
+  
+  /* ===== CONTENEDOR PRINCIPAL ===== */
+  .container {
+    padding: 0 10px 20px !important;
+  }
+  
+  /* ===== TARJETAS ===== */
+  .card {
+    padding: 16px !important;
+    margin-bottom: 12px !important;
+    border-radius: 18px !important;
+  }
+  
+  .card h2 {
+    font-size: 17px !important;
+    margin: 6px 0 10px !important;
+    line-height: 1.4 !important;
+  }
+  
+  /* ===== NOMBRES DE MEDIOS EN MÓVIL ===== */
+  .medio, 
+  .card p strong,
+  strong.medio {
+    font-size: 11px !important;
+    margin-bottom: 4px !important;
+    letter-spacing: 0.3px;
+  }
+  
+  /* ===== RESUMEN IA COMPACTO ===== */
+  .resumen {
+    padding: 12px 14px !important;
     font-size: 13px !important;
+    margin: 10px 0 !important;
+    line-height: 1.5 !important;
+    background: var(--bg-secondary);
+    border-radius: 16px !important;
+  }
+  
+  /* Eliminar el emoji flotante del resumen */
+  .resumen::before {
+    display: none !important;
+  }
+  
+  /* ===== SESGO COMPACTO ===== */
+  .sesgo {
+    padding: 12px 14px !important;
+    font-size: 13px !important;
+    margin: 8px 0 !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    border-radius: 16px !important;
+  }
+  
+  .sesgo::before {
+    font-size: 16px !important;
+    margin-right: 4px !important;
+  }
+  
+  /* ===== ENLACES DE NOTICIAS ===== */
+  .card p {
+    font-size: 13px !important;
+    margin: 8px 0 !important;
+    line-height: 1.4 !important;
+    display: block !important;
+  }
+  
+  .card p a {
+    display: inline !important;
+    word-break: break-word !important;
+  }
+  
+  /* ===== PORTADA EN MÓVIL ===== */
+  .portada {
+    padding: 16px !important;
+  }
+  
+  .portada h2 {
+    font-size: 20px !important;
+    max-width: 100% !important;
+    margin-bottom: 8px !important;
+  }
+  
+  .portada p {
+    font-size: 13px !important;
+    max-width: 100% !important;
+  }
+  
+  /* ===== BOTÓN SHARE ===== */
+  .share {
+    padding: 8px 16px !important;
+    font-size: 13px !important;
+    margin-top: 12px !important;
+  }
+  
+  /* ===== PÁGINA ABOUT ===== */
+  .about-card {
+    padding: 20px !important;
+  }
+  
+  .hero-about h1 {
+    font-size: 1.8rem !important;
+  }
+  
+  .hero-about p {
+    font-size: 1rem !important;
+  }
+  
+  .contacto-box {
+    padding: 20px !important;
+  }
+  
+  .contacto-box a {
+    font-size: 1rem !important;
+    word-break: break-word !important;
+  }
+  
+  .contacto-box a::after {
+    display: none !important;
+  }
+}
+
+/* Pantallas muy pequeñas (iPhone SE, etc) */
+@media (max-width: 380px) {
+  .logo-link {
+    font-size: 16px !important;
+  }
+  
+  .nav a {
+    padding: 3px 8px !important;
+    font-size: 11px !important;
   }
   
   .card h2 {
     font-size: 16px !important;
+  }
+  
+  .stats {
+    font-size: 11px !important;
+  }
+  
+  .stats time {
+    font-size: 9px !important;
   }
 }
 
@@ -812,44 +899,5 @@ a:hover {
 @media (min-width: 601px) {
     .header .stats {
         font-size: 1.2rem !important;
-    }
-}
-
-/* Versión específica para móvil */
-@media (max-width: 600px) {
-    .header .stats {
-        display: flex !important;
-        flex-wrap: wrap !important;
-        gap: 8px 12px !important;
-        font-size: 2rem !important;
-        line-height: 1.4 !important;
-        padding: 10px 5px !important;
-    }
-    
-    /* La parte de texto (medios analizados y fecha) en una línea aparte */
-    .header .stats time,
-    .header .stats .fecha,
-    .header .stats strong {
-        width: 100% !important;
-        font-size: 0.85rem !important;
-        margin-top: 8px !important;
-        color: var(--text-tertiary) !important;
-        order: 999 !important;
-    }
-    
-    /* Si el texto "medios analizados" está junto al número */
-    .header .stats strong {
-        display: inline-block !important;
-        width: auto !important;
-        font-size: 0.9rem !important;
-        margin-right: 4px !important;
-    }
-}
-
-/* Para móviles muy pequeños */
-@media (max-width: 380px) {
-    .header .stats {
-        gap: 6px 8px !important;
-        font-size: 1.6rem !important;
     }
 }
