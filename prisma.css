@@ -86,7 +86,8 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   z-index: 50;
   backdrop-filter: blur(10px);
-  background: rgba(var(--bg-primary), 0.8);
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
 }
 
 .header-content {
@@ -103,6 +104,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   gap: 12px;
+  justify-content: center;
 }
 
 .logo-img {
@@ -155,7 +157,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-meta {
-  text-align: right;
+  text-align: center;
+  width: 100%;
 }
 
 .tagline {
@@ -172,6 +175,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 4px;
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 6px;
 }
 
@@ -186,6 +190,7 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px 64px;
+  overflow: visible;
 }
 
 /* ================ TARJETAS DE NOTICIAS ================ */
@@ -197,7 +202,8 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--border-light);
   transition: var(--transition-slow);
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+  word-wrap: break-word;
 }
 
 .card::before {
@@ -222,27 +228,26 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 
-/* Etiqueta de medio - VERSIÓN CORREGIDA (naranja) */
+/* Etiqueta de medio - VERSIÓN NARANJA DEFINITIVA */
 .medio, 
-.card p strong {
-  color: #e67e22 !important;  /* Naranja vibrante */
+.card p strong,
+strong.medio {
+  color: #e67e22 !important;
   font-weight: 700 !important;
   font-size: 14px !important;
   background: transparent !important;
   padding: 0 !important;
-  margin-bottom: 8px !important;
+  margin: 0 0 8px 0 !important;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
-/* Si quieres con fondo suave (opcional) */
-.medio-badge {
-  background: rgba(230, 126, 34, 0.1) !important;
+/* Forzar que ningún enlace herede el azul en los medios */
+.card p strong a,
+a .medio,
+a strong,
+.card a strong {
   color: #e67e22 !important;
-  padding: 4px 12px !important;
-  border-radius: 20px;
-  display: inline-block;
-  font-weight: 700;
 }
 
 /* Título */
@@ -251,6 +256,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px 0;
   color: var(--text-primary);
   line-height: 1.3;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
 
 .card h2 a {
@@ -278,6 +286,9 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--border-light);
   position: relative;
   line-height: 1.7;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
 
 .resumen::before {
@@ -303,6 +314,9 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   gap: 12px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
 
 .sesgo::before {
@@ -319,9 +333,12 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   gap: 8px;
   flex-wrap: wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
 
-/* Links generales - esto es lo que estaba causando el conflicto */
+/* Links generales */
 a {
   color: #0b57d0;
   text-decoration: none;
@@ -329,12 +346,6 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-/* Los nombres de medio NO deben heredar el azul de los enlaces */
-.card p strong a,
-.card p strong {
-  color: #e67e22 !important;
 }
 
 /* Botón share moderno */
@@ -518,28 +529,17 @@ a:hover {
   animation: fadeIn 0.5s ease-out;
 }
 
-/* Loading skeleton */
-.skeleton {
-  background: linear-gradient(
-    90deg,
-    var(--bg-secondary) 25%,
-    var(--border-light) 50%,
-    var(--bg-secondary) 75%
-  );
-  background-size: 200% 100%;
-  animation: loading 1.5s infinite;
+/* ================ UTILIDADES ================ */
+.text-gradient {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-@keyframes loading {
-  0% {
-    background-position: 200% 0;
-  }
-  100% {
-    background-position: -200% 0;
-  }
-}
+/* ================ MEDIA QUERIES UNIFICADAS ================ */
 
-/* ================ MEDIA QUERIES ================ */
+/* Tablets */
 @media (max-width: 768px) {
   .header-content {
     flex-direction: column;
@@ -589,87 +589,13 @@ a:hover {
   }
 }
 
-@media (max-width: 480px) {
-  .logo-link {
-    font-size: 22px;
-  }
-
-  .logo-img {
-    height: 32px;
-  }
-
-  .nav a {
-    padding: 6px 12px;
-    font-size: 14px;
-  }
-
-  .card {
-    padding: 20px;
-  }
-
-  .resumen, .sesgo {
-    padding: 16px;
-  }
-
-  .sesgo {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-
-  .about-card {
-    padding: 24px;
-  }
-
-  .contacto-box {
-    padding: 24px;
-  }
-}
-
-/* ================ UTILIDADES ================ */
-.text-gradient {
-  background: linear-gradient(135deg, var(--primary), var(--accent));
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.badge {
-  display: inline-block;
-  padding: 4px 12px;
-  border-radius: var(--radius-lg);
-  font-size: 12px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.badge-primary {
-  background: var(--primary-soft);
-  color: var(--primary-dark);
-}
-
-.badge-accent {
-  background: var(--accent-soft);
-  color: var(--accent);
-}
-
-.badge-success {
-  background: var(--success-soft);
-  color: var(--success);
-}
-
-/* ================ CORRECCIÓN MÓVIL URGENTE ================ */
+/* Móviles (UNIFICADO) */
 @media (max-width: 600px) {
   
   /* Compactar cabecera */
   .header {
     padding: 12px 16px !important;
     margin-bottom: 16px !important;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: white;
   }
   
   /* Logo más pequeño */
@@ -686,10 +612,7 @@ a:hover {
   }
   
   /* Ocultar elementos no esenciales en móvil */
-  .tagline {
-    display: none !important;
-  }
-  
+  .tagline,
   .gancho {
     display: none !important;
   }
@@ -704,7 +627,7 @@ a:hover {
     display: none !important;
   }
   
-  /* Navegación horizontal compacta */
+  /* Navegación horizontal con scroll */
   .nav {
     margin-top: 8px !important;
     gap: 4px !important;
@@ -712,6 +635,7 @@ a:hover {
     overflow-x: auto !important;
     padding-bottom: 4px !important;
     -webkit-overflow-scrolling: touch;
+    justify-content: flex-start;
   }
   
   .nav a {
@@ -736,6 +660,8 @@ a:hover {
   .card h2 {
     font-size: 18px !important;
     margin: 8px 0 12px !important;
+    word-break: break-word !important;
+    line-height: 1.4 !important;
   }
   
   /* Compactar resumen y sesgo */
@@ -750,231 +676,18 @@ a:hover {
     font-size: 13px !important;
     margin: 10px 0 !important;
     gap: 6px !important;
+    flex-direction: column;
+    align-items: flex-start;
   }
   
-  /* Botón share más pequeño */
-  .share {
-    padding: 8px 18px !important;
-    font-size: 13px !important;
-    margin-top: 16px !important;
-  }
-  
-  /* Contenedor principal */
-  .container {
-    padding: 0 12px 24px !important;
-  }
-  
-  /* Si hay portada, compactarla */
-  .portada {
-    padding: 20px !important;
-  }
-  
-  .portada h2 {
-    font-size: 22px !important;
-  }
-  
-  .portada p {
-    font-size: 14px !important;
-  }
-  
-  /* Ocultar estadísticas secundarias si existen */
-  .stats span:not(:first-child) {
-    display: none !important;
-  }
-}
-
-/* Ajuste extra para pantallas muy pequeñas */
-@media (max-width: 380px) {
-  .logo-link {
-    font-size: 18px !important;
-  }
-  
-  .nav a {
-    padding: 4px 10px !important;
-    font-size: 13px !important;
-  }
-  
-  .card h2 {
-    font-size: 16px !important;
-  }
-}
-
-/* ================ AJUSTES SOLICITADOS ================ */
-
-/* 1. TÍTULOS CENTRADOS EN CABECERA */
-.header {
-  text-align: center !important;
-}
-
-.header .logo {
-  justify-content: center !important;
-}
-
-.header .header-meta {
-  text-align: center !important;
-  width: 100%;
-}
-
-.header .stats {
-  justify-content: center !important;
-}
-
-.header .tagline {
-  text-align: center !important;
-}
-
-/* 2. NOMBRES DE MEDIOS DESTACADOS (NARANJA) - VERSIÓN DEFINITIVA */
-.medio, 
-.card p strong,
-strong.medio {
-  color: #e67e22 !important;
-  font-weight: 700 !important;
-  font-size: 14px !important;
-  background: transparent !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  text-transform: uppercase;
-}
-
-/* Forzar que ningún enlace herede el color azul en los medios */
-.card p strong a,
-a .medio,
-a strong {
-  color: #e67e22 !important;
-}
-
-/* 3. QUE NO QUEDE CORTADO (CONTACTO Y METADATOS) */
-.container {
-  overflow: visible !important;
-}
-
-.card {
-  overflow: visible !important;
-  word-wrap: break-word !important;
-}
-
-/* Asegurar que textos largos no se corten */
-.card p, 
-.card h2, 
-.resumen, 
-.sesgo {
-  word-wrap: break-word !important;
-  overflow-wrap: break-word !important;
-  max-width: 100% !important;
-}
-
-/* En móvil, asegurar que nada se corte */
-@media (max-width: 600px) {
-  .card h2 {
-    font-size: 18px !important;
-    line-height: 1.4 !important;
-    word-break: break-word !important;
-  }
-  
-  .medio {
+  /* Nombres de medio en móvil */
+  .medio, 
+  .card p strong,
+  strong.medio {
     font-size: 13px !important;
     margin-bottom: 6px !important;
   }
   
-  /* Si hay elementos de contacto */
-  .contacto-box a {
-    word-break: break-all !important;
-  }
-}
-
-/* ================ CORRECCIÓN URGENTE PARA MÓVIL ================ */
-@media (max-width: 600px) {
-  
-  /* Compactar cabecera */
-  .header {
-    padding: 12px 16px !important;
-    margin-bottom: 16px !important;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: white;
-  }
-  
-  /* Logo más pequeño */
-  .logo {
-    gap: 6px;
-  }
-  
-  .logo-img {
-    height: 24px !important;
-  }
-  
-  .logo-link {
-    font-size: 20px !important;
-  }
-  
-  /* Ocultar elementos no esenciales en móvil */
-  .tagline {
-    display: none !important;
-  }
-  
-  .gancho {
-    display: none !important;
-  }
-  
-  /* Compactar stats */
-  .stats {
-    font-size: 11px !important;
-    margin-top: 2px !important;
-  }
-  
-  .stats::before {
-    display: none !important;
-  }
-  
-  /* Navegación horizontal compacta */
-  .nav {
-    margin-top: 8px !important;
-    gap: 4px !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto !important;
-    padding-bottom: 4px !important;
-    -webkit-overflow-scrolling: touch;
-  }
-  
-  .nav a {
-    padding: 6px 12px !important;
-    margin: 0 !important;
-    font-size: 14px !important;
-    white-space: nowrap !important;
-    background: #f2f4f8;
-    border-radius: 20px;
-  }
-  
-  .nav a:hover {
-    transform: none !important;
-  }
-  
-  /* Reducir espacio de tarjetas */
-  .card {
-    padding: 18px !important;
-    margin-bottom: 16px !important;
-  }
-  
-  .card h2 {
-    font-size: 18px !important;
-    margin: 8px 0 12px !important;
-  }
-  
-  /* Compactar resumen y sesgo */
-  .resumen {
-    padding: 12px 16px !important;
-    font-size: 13px !important;
-    margin: 12px 0 !important;
-  }
-  
-  .sesgo {
-    padding: 10px 14px !important;
-    font-size: 13px !important;
-    margin: 10px 0 !important;
-    gap: 6px !important;
-  }
-  
   /* Botón share más pequeño */
   .share {
     padding: 8px 18px !important;
@@ -987,7 +700,7 @@ a strong {
     padding: 0 12px 24px !important;
   }
   
-  /* Si hay portada, compactarla */
+  /* Portada en móvil */
   .portada {
     padding: 20px !important;
   }
@@ -1000,13 +713,19 @@ a strong {
     font-size: 14px !important;
   }
   
-  /* Ocultar estadísticas secundarias si existen */
+  /* Ocultar estadísticas secundarias */
   .stats span:not(:first-child) {
     display: none !important;
   }
+  
+  /* Contacto en móvil */
+  .contacto-box a {
+    word-break: break-all !important;
+    font-size: 1rem !important;
+  }
 }
 
-/* Ajuste extra para pantallas muy pequeñas */
+/* Pantallas muy pequeñas */
 @media (max-width: 380px) {
   .logo-link {
     font-size: 18px !important;
