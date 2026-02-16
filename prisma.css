@@ -133,6 +133,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   gap: 8px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .nav a {
@@ -228,10 +229,14 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 
-/* Etiqueta de medio - VERSIÓN NARANJA DEFINITIVA */
+/* ================ NOMBRES DE MEDIOS (NARANJA DEFINITIVO) ================ */
 .medio, 
 .card p strong,
-strong.medio {
+strong.medio,
+.card p strong a,
+article .card p strong,
+.card .medio a,
+.card strong a {
   color: #e67e22 !important;
   font-weight: 700 !important;
   font-size: 14px !important;
@@ -240,14 +245,7 @@ strong.medio {
   margin: 0 0 8px 0 !important;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-}
-
-/* Forzar que ningún enlace herede el azul en los medios */
-.card p strong a,
-a .medio,
-a strong,
-.card a strong {
-  color: #e67e22 !important;
+  display: inline-block;
 }
 
 /* Título */
@@ -275,7 +273,7 @@ a strong,
   background-size: 100% 2px;
 }
 
-/* Resumen IA */
+/* Resumen IA - MEJORADO */
 .resumen {
   background: var(--bg-secondary);
   border-radius: var(--radius-lg);
@@ -285,10 +283,12 @@ a strong,
   color: var(--text-secondary);
   border: 1px solid var(--border-light);
   position: relative;
-  line-height: 1.7;
+  line-height: 1.7 !important;
   word-wrap: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
+  white-space: normal !important;
+  word-break: break-word !important;
 }
 
 .resumen::before {
@@ -589,7 +589,7 @@ a:hover {
   }
 }
 
-/* Móviles (UNIFICADO) */
+/* Móviles - VERSIÓN UNIFICADA Y OPTIMIZADA */
 @media (max-width: 600px) {
   
   /* Compactar cabecera */
@@ -633,7 +633,7 @@ a:hover {
     gap: 4px !important;
     flex-wrap: nowrap !important;
     overflow-x: auto !important;
-    padding-bottom: 4px !important;
+    padding: 0 4px 4px 4px !important;
     -webkit-overflow-scrolling: touch;
     justify-content: flex-start;
   }
@@ -654,7 +654,7 @@ a:hover {
   /* Reducir espacio de tarjetas */
   .card {
     padding: 18px !important;
-    margin-bottom: 16px !important;
+    margin-bottom: 14px !important;
   }
   
   .card h2 {
@@ -680,12 +680,15 @@ a:hover {
     align-items: flex-start;
   }
   
-  /* Nombres de medio en móvil */
+  /* Nombres de medio en móvil - con área de clic mejorada */
   .medio, 
   .card p strong,
-  strong.medio {
+  strong.medio,
+  .card p strong a {
     font-size: 13px !important;
     margin-bottom: 6px !important;
+    padding: 4px 0 !important;
+    display: inline-block;
   }
   
   /* Botón share más pequeño */
