@@ -5,6 +5,16 @@ import random
 from datetime import datetime
 from collections import Counter
 import numpy as np
+import hashlib
+import json
+import os
+import time
+import logging
+import urllib.request
+import socket
+from difflib import SequenceMatcher
+from typing import List, Dict, Any, Tuple
+from functools import lru_cache
 
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -12,9 +22,24 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------- CONFIG PRO ----------
 
+# Configuración de logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('prisma.log'),
+        logging.StreamHandler()
+    ]
+)
+
 UMBRAL_CLUSTER = 0.63
 UMBRAL_DUPLICADO = 0.87
+UMBRAL_AGRUPACION_MIN = 0.5
 MAX_NOTICIAS_FEED = 8
+MAX_NOTICIAS_TOTAL = 250
+MAX_NOTICIAS_INTERNACIONAL = 40
+CACHE_EMBEDDINGS = True
+CACHE_FILE = "embeddings_cache.json"
 
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
@@ -26,26 +51,34 @@ referencias_politicas = {
         # español
         "derechos sociales igualdad feminismo justicia social diversidad políticas públicas bienestar",
         "progresismo cambio climático políticas sociales regulación inclusión servicios públicos",
+        "derechos humanos libertad expresión manifestación protesta social sindicatos",
+        "sanidad pública educación universal pensiones justas derechos laborales",
 
         # inglés
         "social justice equality progressive politics climate action diversity welfare public services",
         "left wing policies regulation social rights inclusion government intervention",
+        "human rights free speech protests unions workers rights minimum wage",
 
         # internacional neutro
-        "environmental protection social equality human rights public healthcare welfare state"
+        "environmental protection social equality human rights public healthcare welfare state",
+        "climate change sustainability renewable energy green transition"
     ]),
 
     "conservador": modelo.encode([
         # español
         "seguridad fronteras defensa tradición economía mercado estabilidad control migratorio",
         "valores tradicionales seguridad nacional impuestos bajos orden liberalismo económico",
+        "familia libertad individual propiedad privada mérito esfuerzo autoridad",
+        "unidad de españa constitución monarquía fuerzas armadas ley orden",
 
         # inglés
         "border security national defense free market traditional values low taxes immigration control",
         "conservative policies economic freedom national identity law and order",
+        "family values individual liberty private property merit authority",
 
         # internacional neutro
-        "fiscal responsibility strong military traditional culture business friendly policies"
+        "fiscal responsibility strong military traditional culture business friendly policies",
+        "economic growth tax cuts deregulation free trade"
     ])
 }
 
@@ -150,6 +183,16 @@ KEYWORDS_ESPANA = [
     "españa","espana","spain",
     "espagne","spanien","spagna","espanya",
     "西班牙","スペイン","스페인",
+    # Árabe (transliterado)
+    "isbania", "isbaniya", "اسبانیا",
+    # Ruso (transliterado)
+    "ispaniya", "ispanya", "испания",
+    # Chino (pinyin)
+    "xibanya", "xībānyá",
+    # Japonés (romaji)
+    "supein",
+    # Coreano (romaji)
+    "seupain",
 
     # gentilicios
     "spanish","español","spaniard","spaniards",
@@ -209,7 +252,8 @@ KEYWORDS_ESPANA = [
     "spain eu","spanish presidency eu",
     "nato spain"
 ]
-# ---------- LIMPIEZA ----------
+
+# ---------- STOPWORDS MEJORADAS ----------
 
 stopwords = {
     # artículos / básicos español
@@ -231,18 +275,19 @@ stopwords = {
 
     # palabras periodísticas vacías
     "dice","según","afirma","asegura","explica",
-    "parte","caso","forma","vez","años",
+    "parte","caso","forma","vez","años","días","meses",
 
     # inglés frecuente en feeds
     "the","a","an","of","to","in","on","for","with",
     "and","or","but","from","by","about","as",
-    "after","before","over","under",
+    "after","before","over","under","during",
 
     # prensa internacional típica
     "says","said","report","reports","new","latest",
-    "update","breaking","news"
+    "update","breaking","news","live","video","photos"
 }
 
+# ---------- FUNCIONES DE UTILIDAD ----------
 
 def limpiar_html(texto):
     texto = html.unescape(texto)
@@ -257,63 +302,145 @@ def limpiar(texto):
     return [p for p in palabras if p not in stopwords and len(p) > 3]
 
 
+def get_embedding_cache_key(texto):
+    return hashlib.md5(texto.encode('utf-8')).hexdigest()
+
+
+def cargar_cache_embeddings():
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            logging.warning(f"Error cargando caché: {e}")
+    return {}
+
+
+def guardar_cache_embeddings(cache):
+    try:
+        with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(cache, f)
+    except Exception as e:
+        logging.warning(f"Error guardando caché: {e}")
+
+
+def son_duplicados_texto(texto1, texto2, umbral_texto=0.8):
+    if not texto1 or not texto2:
+        return False
+    ratio = SequenceMatcher(None, texto1.lower(), texto2.lower()).ratio()
+    return ratio > umbral_texto
+
+
+def extraer_fecha_noticia(entry):
+    try:
+        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+            return time.mktime(entry.published_parsed)
+        elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+            return time.mktime(entry.updated_parsed)
+    except:
+        pass
+    return time.time()
+
+
+def obtener_feeds_seguro(url, medio, max_intentos=2):
+    for intento in range(max_intentos):
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+            feed = feedparser.parse(url, request_headers=headers)
+            if not feed.bozo or intento == max_intentos - 1:
+                return feed
+            time.sleep(1)
+        except Exception as e:
+            if intento == max_intentos - 1:
+                logging.error(f"Error feed {medio} tras {max_intentos} intentos: {e}")
+            time.sleep(1)
+    return None
+
 # ---------- RECOGER NOTICIAS ----------
+
+start_time = time.time()
+logging.info("Iniciando proceso de recogida de noticias")
+
+embedding_cache = cargar_cache_embeddings() if CACHE_EMBEDDINGS else {}
 
 noticias = []
 
 for medio, url in feeds.items():
+    feed = obtener_feeds_seguro(url, medio)
+    if not feed:
+        continue
+
     try:
-        feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-        for entry in feed.entries[:MAX_NOTICIAS_FEED]:
+        entradas = sorted(feed.entries, 
+                         key=extraer_fecha_noticia, 
+                         reverse=True)[:MAX_NOTICIAS_FEED]
+
+        for entry in entradas:
             if "title" in entry and "link" in entry:
                 noticias.append({
                     "medio": medio,
                     "titulo": limpiar_html(entry.title),
-                    "link": entry.link.strip()
+                    "link": entry.link.strip(),
+                    "fecha": extraer_fecha_noticia(entry)
                 })
     except Exception as e:
-        print(f"Error feed {medio}: {e}")
+        logging.error(f"Error procesando entradas de {medio}: {e}")
 
 print("Noticias recogidas:", len(noticias))
 
-# ---------- INTERNACIONAL ESPAÑA (solo nueva página) ----------
+# ---------- INTERNACIONAL ESPAÑA ----------
 
 noticias_espana = []
+visto = set()
 
 for medio, url in feeds_internacionales.items():
+    feed = obtener_feeds_seguro(url, medio)
+    if not feed or feed.bozo:
+        continue
+
     try:
-        feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-        if feed.bozo:
-            continue
-
-        for entry in feed.entries[:25]:
-
-            # evita feeds rotos o incompletos
+        for entry in feed.entries[:MAX_NOTICIAS_INTERNACIONAL]:
             if "title" not in entry or "link" not in entry:
                 continue
 
-            titulo = limpiar_html(entry.title)
+            link = entry.link.strip()
+            if link in visto:
+                continue
 
-            # 🔎 filtro mejorado: título + descripción RSS
+            titulo = limpiar_html(entry.title)
             texto = titulo.lower()
 
             if "summary" in entry:
                 texto += " " + limpiar_html(entry.summary).lower()
+            if "description" in entry:
+                texto += " " + limpiar_html(entry.description).lower()
 
-            if any(k in texto for k in KEYWORDS_ESPANA):
+            if any(k.lower() in texto for k in KEYWORDS_ESPANA):
                 noticias_espana.append({
                     "medio": medio,
                     "titulo": titulo,
-                    "link": entry.link
+                    "link": link,
+                    "fecha": extraer_fecha_noticia(entry)
                 })
+                visto.add(link)
 
-    except Exception:
-        pass
+    except Exception as e:
+        logging.error(f"Error procesando feed internacional {medio}: {e}")
+
 # quitar duplicados internacionales
 noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
-noticias_espana.sort(key=lambda x: len(x["titulo"]), reverse=True)
+noticias_espana.sort(key=lambda x: x.get("fecha", 0), reverse=True)
+noticias_espana = noticias_espana[:MAX_NOTICIAS_INTERNACIONAL]
 
-# ---------- EMBEDDINGS ----------
+# ---------- LIMITAR NOTICIAS TOTALES ----------
+
+if len(noticias) > MAX_NOTICIAS_TOTAL:
+    logging.info(f"Limitando noticias de {len(noticias)} a {MAX_NOTICIAS_TOTAL}")
+    noticias = noticias[:MAX_NOTICIAS_TOTAL]
+
+# ---------- EMBEDDINGS CON CACHÉ ----------
 
 titulos = [n["titulo"] for n in noticias]
 
@@ -321,30 +448,78 @@ if not titulos:
     print("⚠️ No hay titulares.")
     embeddings = np.array([])
 else:
-    embeddings = modelo.encode(titulos, batch_size=32)
+    embeddings_list = []
+    titulos_procesar = []
+    indices_procesar = []
 
+    for i, titulo in enumerate(titulos):
+        if CACHE_EMBEDDINGS:
+            key = get_embedding_cache_key(titulo)
+            if key in embedding_cache:
+                embeddings_list.append(np.array(embedding_cache[key]))
+            else:
+                titulos_procesar.append(titulo)
+                indices_procesar.append(i)
+        else:
+            titulos_procesar.append(titulo)
+            indices_procesar.append(i)
 
-# ---------- DEDUPLICADO ----------
+    if titulos_procesar:
+        nuevos_embeddings = modelo.encode(titulos_procesar, batch_size=32)
+        
+        if CACHE_EMBEDDINGS:
+            for idx, emb in zip(indices_procesar, nuevos_embeddings):
+                key = get_embedding_cache_key(titulos[idx])
+                embedding_cache[key] = emb.tolist()
+            
+            guardar_cache_embeddings(embedding_cache)
+
+        if CACHE_EMBEDDINGS:
+            emb_completos = [None] * len(titulos)
+            for i, emb in zip(indices_procesar, nuevos_embeddings):
+                emb_completos[i] = emb
+            
+            for i in range(len(titulos)):
+                if emb_completos[i] is None:
+                    key = get_embedding_cache_key(titulos[i])
+                    emb_completos[i] = np.array(embedding_cache[key])
+            
+            embeddings = np.array(emb_completos)
+        else:
+            embeddings = nuevos_embeddings
+    else:
+        embeddings = np.array(embeddings_list)
+
+# ---------- DEDUPLICADO MEJORADO ----------
 
 filtradas = []
 emb_filtrados = []
+links_vistos = set()
 
 for i, emb in enumerate(embeddings):
+    if noticias[i]["link"] in links_vistos:
+        continue
 
     if not emb_filtrados:
         filtradas.append(noticias[i])
         emb_filtrados.append(emb)
+        links_vistos.add(noticias[i]["link"])
         continue
 
     similitudes = cosine_similarity([emb], emb_filtrados)[0]
 
     if max(similitudes) < UMBRAL_DUPLICADO:
-        filtradas.append(noticias[i])
-        emb_filtrados.append(emb)
+        es_duplicado_texto = any(
+            son_duplicados_texto(noticias[i]["titulo"], n["titulo"])
+            for n in filtradas
+        )
+        if not es_duplicado_texto:
+            filtradas.append(noticias[i])
+            emb_filtrados.append(emb)
+            links_vistos.add(noticias[i]["link"])
 
 noticias = filtradas
 embeddings = np.array(emb_filtrados)
-
 
 # ---------- CLUSTERING PRO (NO PÁGINA VACÍA) ----------
 
@@ -368,11 +543,26 @@ for i, emb in enumerate(embeddings):
     else:
         grupos.append([i])
 
-
 # 👉 FIX PROFESIONAL:
 # evita página vacía si no hay clusters claros
 if not grupos or all(len(g) < 2 for g in grupos):
-    grupos = [[i] for i in range(len(noticias))]
+    logging.info("No hay clusters claros, agrupando por similitud mínima")
+    grupos = []
+    usados = set()
+    
+    for i in range(len(noticias)):
+        if i in usados:
+            continue
+        grupo = [i]
+        for j in range(i + 1, len(noticias)):
+            if j in usados:
+                continue
+            sim = cosine_similarity([embeddings[i]], [embeddings[j]])[0][0]
+            if sim > UMBRAL_AGRUPACION_MIN:
+                grupo.append(j)
+                usados.add(j)
+        grupos.append(grupo)
+        usados.add(i)
 else:
     grupos = [g for g in grupos if len(g) >= 2]
 
@@ -382,7 +572,6 @@ grupos.sort(key=len, reverse=True)
 # ---------- SESGO NLP MEJORADO ----------
 
 def sesgo_politico(indices):
-
     textos = [noticias[i]["titulo"] for i in indices]
     emb = modelo.encode(textos, batch_size=16)
 
@@ -398,17 +587,31 @@ def sesgo_politico(indices):
         referencias_politicas["conservador"]
     ).mean()
 
-    # ajuste fino NLP
+    confianza = abs(prog - cons) * 100
+    confianza_texto = "alta" if confianza > 15 else "media" if confianza > 8 else "baja"
+
     if abs(prog - cons) < 0.015:
-        texto = "Cobertura bastante equilibrada"
+        texto = "⚖️ Cobertura muy equilibrada"
+        icono = "🤝"
     elif prog > cons:
-        texto = "Enfoque algo progresista"
+        diferencia = (prog - cons) * 100
+        if diferencia > 20:
+            texto = f"⬅️️ Enfoque marcadamente progresista ({diferencia:.1f}%)"
+        else:
+            texto = f"📊 Enfoque ligeramente progresista"
+        icono = "🌿"
     else:
-        texto = "Enfoque algo conservador"
+        diferencia = (cons - prog) * 100
+        if diferencia > 20:
+            texto = f"➡️ Enfoque marcadamente conservador ({diferencia:.1f}%)"
+        else:
+            texto = f"📊 Enfoque ligeramente conservador"
+        icono = "🏛️"
 
     return f"""
 <div class="sesgo">
-⚖️ <b>Sesgo IA:</b> {texto}
+{icono} <b>Sesgo IA:</b> {texto}
+<span class="confianza" title="Confianza del análisis">· {confianza_texto}</span>
 </div>
 """
 
@@ -416,62 +619,90 @@ def sesgo_politico(indices):
 # ---------- TITULAR IA ----------
 
 def titular_prisma(indices):
-
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
-    comunes = [p for p, _ in Counter(palabras).most_common(5)]
+    comunes = [p for p, _ in Counter(palabras).most_common(7)]
 
-    # elimina palabras muy genéricas
-    blacklist = {"gobierno", "españa", "hoy", "última", "últimas"}
-    comunes = [p for p in comunes if p not in blacklist][:3]
+    blacklist = {"gobierno", "españa", "hoy", "última", "últimas", "nuevo", "nueva", "tras", "sobre"}
+    comunes = [p for p in comunes if p not in blacklist][:4]
 
-    tema = ", ".join(comunes)
+    if len(comunes) >= 3:
+        tema = f"{comunes[0]}, {comunes[1]} y {comunes[2]}"
+    elif len(comunes) == 2:
+        tema = f"{comunes[0]} y {comunes[1]}"
+    elif comunes:
+        tema = comunes[0]
+    else:
+        tema = "actualidad"
 
     prefijos = [
         "🧭 Claves informativas:",
         "📊 En el foco:",
         "📰 Lo que domina hoy:",
-        "🔥 Tema principal:"
+        "🔥 Tema principal:",
+        "🎯 En portada:",
+        "📌 Lo más relevante:"
     ]
 
     return f"{random.choice(prefijos)} {tema.capitalize()}"
 
 def resumen_prisma(indices):
+    titulos_cluster = [noticias[i]["titulo"] for i in indices]
+    medios_cluster = [noticias[i]["medio"] for i in indices]
+
+    angulos = []
+    if len(set(medios_cluster)) > 3:
+        angulos.append("múltiples perspectivas")
+    if len(set(medios_cluster)) > 5:
+        angulos.append("amplia cobertura mediática")
+
+    palabras_positivas = {"acuerdo", "mejora", "éxito", "avance", "logro", "beneficio"}
+    palabras_negativas = {"crisis", "conflicto", "problema", "preocupación", "riesgo", "amenaza"}
+
+    texto_completo = " ".join(titulos_cluster).lower()
+
+    positivas = sum(1 for p in palabras_positivas if p in texto_completo)
+    negativas = sum(1 for p in palabras_negativas if p in texto_completo)
+
+    if positivas > negativas + 2:
+        sentimiento = "🌞 tono positivo"
+        emoji = "📈"
+    elif negativas > positivas + 2:
+        sentimiento = "🌧️ tono preocupante"
+        emoji = "📉"
+    else:
+        sentimiento = "⚖️ tono equilibrado"
+        emoji = "📊"
 
     palabras = []
     for i in indices:
         palabras += limpiar(noticias[i]["titulo"])
 
     comunes = [p for p, _ in Counter(palabras).most_common(6)]
+    blacklist = {"gobierno", "españa", "última", "hoy", "tras", "según", "dice", "años", "parte", "caso"}
+    comunes = [p for p in comunes if p not in blacklist][:3]
 
-    blacklist = {
-        "gobierno","españa","última","hoy","tras",
-        "según","dice","años","parte"
-    }
-
-    comunes = [p for p in comunes if p not in blacklist][:2]
-
-    if not comunes:
-        return ""
-
-    tema = " y ".join(comunes)
+    tema_principal = ", ".join(comunes) if comunes else "la actualidad"
 
     return f"""
 <p class="resumen">
-🧠 <b>Resumen IA:</b>
-La actualidad informativa se centra en <b>{tema}</b>.
+{emoji} <b>Resumen IA:</b>
+{len(set(medios_cluster))} medios · {sentimiento} · 
+{', '.join(angulos) if angulos else 'enfoque directo'}
+<br>
+<small>🎯 Tema central: {tema_principal}</small>
 </p>
 """
     
 fecha = datetime.now()
-fecha_legible = fecha.strftime("%d/%m %H:%M")
+fecha_legible = fecha.strftime("%d/%m/%Y %H:%M")
 fecha_iso = fecha.isoformat()
-cachebuster = fecha.timestamp()
+cachebuster = int(fecha.timestamp())
 medios_unicos = len(set(n["medio"] for n in noticias))
 
-# ---------- HTML ----------
+# ---------- TU HTML ORIGINAL COMPLETAMENTE INTACTO ----------
 
 html = f"""
 <!DOCTYPE html>
@@ -667,4 +898,4 @@ with open("robots.txt", "w", encoding="utf-8") as f:
     f.write(robots)
 
 
-print("PRISMA NLP PRO generado 🚀")
+print("PRISMA NLP PRO generadom 🚀")
