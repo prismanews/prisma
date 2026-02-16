@@ -897,5 +897,157 @@ Sitemap: https://prismanews.github.io/prisma/sitemap.xml
 with open("robots.txt", "w", encoding="utf-8") as f:
     f.write(robots)
 
+# ---------- EXTRAS PARA VIRALIDAD Y ENGANCHE JOVEN ----------
 
+def generar_widgets_compartir():
+    """Genera botones de compartir para redes sociales"""
+    url_actual = "https://prismanews.github.io/prisma/"
+    texto_compartir = "📊 Descubre cómo la IA analiza el sesgo de los medios en Prisma"
+    
+    return f"""
+    <!-- Botones flotantes de compartir -->
+    <div class="compartir-flotante">
+        <a href="https://twitter.com/intent/tweet?text={texto_compartir}&url={url_actual}" target="_blank" class="share-btn twitter">🐦</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={url_actual}" target="_blank" class="share-btn facebook">📘</a>
+        <a href="https://wa.me/?text={texto_compartir}%20{url_actual}" target="_blank" class="share-btn whatsapp">📱</a>
+        <a href="https://t.me/share/url?url={url_actual}&text={texto_compartir}" target="_blank" class="share-btn telegram">📨</a>
+        <button onclick="copiarPortapapeles('{url_actual}')" class="share-btn copy">📋</button>
+    </div>
+
+    <style>
+    .compartir-flotante {{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        z-index: 9999;
+    }}
+    .share-btn {{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background: white;
+        border: none;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+        text-decoration: none;
+        transition: all 0.3s;
+        animation: aparecer 0.5s ease;
+    }}
+    .share-btn:hover {{
+        transform: scale(1.15);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    }}
+    .twitter {{ background: #1DA1F2; color: white; }}
+    .facebook {{ background: #4267B2; color: white; }}
+    .whatsapp {{ background: #25D366; color: white; }}
+    .telegram {{ background: #0088cc; color: white; }}
+    .copy {{ background: #6c757d; color: white; }}
+    @keyframes aparecer {{
+        from {{ transform: scale(0); opacity: 0; }}
+        to {{ transform: scale(1); opacity: 1; }}
+    }}
+    </style>
+    """
+
+def generar_scripts_virales():
+    """Genera JavaScript para funcionalidades virales"""
+    return """
+    <script>
+    function copiarPortapapeles(texto) {
+        navigator.clipboard.writeText(texto).then(() => {
+            let toast = document.createElement('div');
+            toast.textContent = '✅ Enlace copiado';
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 100px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: rgba(0,0,0,0.9);
+                color: white;
+                padding: 12px 24px;
+                border-radius: 50px;
+                font-size: 14px;
+                z-index: 10000;
+                animation: slideUp 0.3s ease;
+            `;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 2000);
+        });
+    }
+
+    // Animación de entrada para las tarjetas
+    document.querySelectorAll('.card').forEach((card, index) => {
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(20px)';
+        setTimeout(() => {
+            card.style.transition = 'all 0.5s ease';
+            card.style.opacity = '1';
+            card.style.transform = 'translateY(0)';
+        }, index * 100);
+    });
+
+    // Exit intent (detecta cuando el usuario va a salir)
+    let exitIntentShown = false;
+    document.addEventListener('mouseleave', (e) => {
+        if (e.clientY < 0 && !exitIntentShown) {
+            exitIntentShown = true;
+            let toast = document.createElement('div');
+            toast.textContent = '🔥 ¡No te vayas! Comparte Prisma';
+            toast.style.cssText = `
+                position: fixed;
+                top: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: #ff4d4d;
+                color: white;
+                padding: 12px 24px;
+                border-radius: 50px;
+                font-size: 14px;
+                z-index: 10000;
+                animation: slideDown 0.3s ease;
+            `;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 3000);
+        }
+    });
+    </script>
+
+    <style>
+    @keyframes slideUp {
+        from { transform: translateX(-50%) translateY(100px); opacity: 0; }
+        to { transform: translateX(-50%) translateY(0); opacity: 1; }
+    }
+    @keyframes slideDown {
+        from { transform: translateX(-50%) translateY(-100px); opacity: 0; }
+        to { transform: translateX(-50%) translateY(0); opacity: 1; }
+    }
+    </style>
+    """
+
+# ---------- APLICAR LAS MEJORAS A LOS HTML ----------
+
+# Añadir los elementos virales a index.html
+html = html.replace('</body>', generar_widgets_compartir() + generar_scripts_virales() + '</body>')
+
+# Añadir los elementos virales a espana.html
+html_espana = html_espana.replace('</body>', generar_widgets_compartir() + generar_scripts_virales() + '</body>')
+
+# Guardar los archivos actualizados
+with open("index.html", "w", encoding="utf-8") as f:
+    f.write(html)
+
+with open("espana.html", "w", encoding="utf-8") as f:
+    f.write(html_espana)
+
+print("✅ PRISMA VIRAL generado correctamente")
+print("📱 Botones flotantes: Twitter, Facebook, WhatsApp, Telegram, Copiar")
+print("✨ Animaciones y efectos visuales incluidos")
+print("🔥 Exit intent activado")       
 print("PRISMA NLP PRO generadom 🚀")
