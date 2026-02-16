@@ -817,6 +817,34 @@ for i, grupo in enumerate(grupos, 1):
   
     html += "</div>"
 
+# ========== CALL TO ACTION ==========
+html += """
+<!-- CALL TO ACTION -->
+<div class="cta-section">
+    <h3>¿Te gusta Prisma?</h3>
+    <p>Ayúdanos a crecer y entender mejor los medios de comunicación</p>
+    
+    <div class="cta-buttons">
+        <button onclick="compartirPrisma()" class="cta-btn primary">
+            📢 Compartir
+        </button>
+        <a href="sobre.html" class="cta-btn secondary">
+            🔍 Cómo funciona
+        </a>
+        <a href="https://github.com/tu-usuario/prisma" target="_blank" class="cta-btn github">
+            ⭐ Seguir proyecto
+        </a>
+    </div>
+</div>
+"""
+# ========== FIN DEL CALL TO ACTION ==========
+
+# 👉 Truco tráfico joven (SEO + UX)
+html += """
+<footer style="text-align:center;opacity:.7;margin:40px 0;font-size:.9em">
+Comparador automático de noticias con IA · Actualización continua
+</footer>
+"""
 
 # 👉 Truco tráfico joven (SEO + UX)
 html += """
