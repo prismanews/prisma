@@ -594,21 +594,21 @@ def sesgo_politico(indices):
     
     # Determinar texto y colores
     if abs(prog - cons) < 0.015:
-        texto = "⚖️ Cobertura muy equilibrada"
+        texto = "Cobertura muy equilibrada"
         color_prog = "#94a3b8"
         color_cons = "#94a3b8"
     elif prog > cons:
         diferencia = (prog - cons) * 100
         if diferencia > 20:
-            texto = f"⬅️️ Enfoque marcadamente progresista"
+            texto = f"Enfoque marcadamente progresista"
         else:
-            texto = f"🌿 Enfoque ligeramente progresista"
+            texto = f"Enfoque ligeramente progresista"
     else:
         diferencia = (cons - prog) * 100
         if diferencia > 20:
-            texto = f"➡️ Enfoque marcadamente conservador"
+            texto = f"Enfoque marcadamente conservador"
         else:
-            texto = f"🏛️ Enfoque ligeramente conservador"
+            texto = f"Enfoque ligeramente conservador"
 
     return f"""
     <div class="sesgo-card">
@@ -621,8 +621,8 @@ def sesgo_politico(indices):
             <div class="barra-conservadora" style="width: {porcentaje_cons:.0f}%;"></div>
         </div>
         <div class="sesgo-etiquetas">
-            <span>🌿 Progresista {porcentaje_prog:.0f}%</span>
-            <span>🏛️ Conservador {porcentaje_cons:.0f}%</span>
+            <span>Progresista {porcentaje_prog:.0f}%</span>
+            <span>Conservador {porcentaje_cons:.0f}%</span>
         </div>
         <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
     </div>
@@ -679,13 +679,13 @@ def resumen_prisma(indices):
     negativas = sum(1 for p in palabras_negativas if p in texto_completo)
 
     if positivas > negativas + 2:
-        sentimiento = "🌞 tono positivo"
+        sentimiento = "tono positivo"
         emoji = "📈"
     elif negativas > positivas + 2:
-        sentimiento = "🌧️ tono preocupante"
+        sentimiento = "tono preocupante"
         emoji = "📉"
     else:
-        sentimiento = "⚖️ tono equilibrado"
+        sentimiento = "tono equilibrado"
         emoji = "📊"
 
     palabras = []
