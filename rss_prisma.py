@@ -846,13 +846,6 @@ Comparador automático de noticias con IA · Actualización continua
 </footer>
 """
 
-# 👉 Truco tráfico joven (SEO + UX)
-html += """
-<footer style="text-align:center;opacity:.7;margin:40px 0;font-size:.9em">
-Comparador automático de noticias con IA · Actualización continua
-</footer>
-"""
-
 html += "</div></body></html>"
 
 with open("index.html", "w", encoding="utf-8") as f:
