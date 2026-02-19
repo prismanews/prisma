@@ -1,63 +1,169 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>España en el mundo | Prisma</title>
-    <meta name="description" content="Visión de la prensa internacional sobre España.">
-    <link rel="stylesheet" href="prisma.css?v=1771520154">
+    <title>España en el mundo | Visión internacional · Prisma</title>
+    <meta name="description" content="Lo que la prensa internacional publica sobre España. Análisis en tiempo real de medios de todo el mundo.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://prismanews.github.io/prisma/espana.html">
+    <meta property="og:title" content="🌍 España en el mundo | Prisma">
+    <meta property="og:description" content="Sigue la actualidad de España vista por la prensa internacional.">
+    <meta property="og:image" content="Logo.PNG">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-9WZC3GQSN8');
+    </script>
+    
+    <link rel="stylesheet" href="prisma.css?v=1771522736">
+    <style>
+        .internacional-header {
+            background: linear-gradient(135deg, #1e3a8a20, #0d948820);
+            border-radius: var(--radius-xl);
+            padding: 32px;
+            margin-bottom: 32px;
+            border: 1px solid var(--border-light);
+        }
+        .internacional-header h2 {
+            font-size: 2.2rem;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .filtro-medios {
+            background: var(--bg-primary);
+            border-radius: var(--radius-lg);
+            padding: 20px 24px;
+            margin-bottom: 32px;
+            border: 1px solid var(--border-light);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .filtro-medios select {
+            padding: 10px 20px;
+            border-radius: 40px;
+            border: 1px solid var(--border-medium);
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-width: 200px;
+        }
+        .lista-noticias {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .noticia-item {
+            background: var(--bg-primary);
+            border-radius: var(--radius-lg);
+            padding: 20px 24px;
+            border: 1px solid var(--border-light);
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        .noticia-item:hover {
+            transform: translateX(4px);
+            box-shadow: var(--shadow-md);
+            border-color: var(--primary);
+        }
+        .noticia-medio {
+            font-weight: 700;
+            color: var(--accent);
+            background: var(--accent-soft);
+            padding: 4px 16px;
+            border-radius: 40px;
+            font-size: 0.85rem;
+            white-space: nowrap;
+            border: 1px solid var(--accent-light);
+        }
+        .noticia-titulo {
+            flex: 1;
+            color: var(--text-primary);
+        }
+        .noticia-titulo a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .noticia-titulo a:hover {
+            color: var(--primary);
+            text-decoration: underline;
+        }
+        .noticia-fecha {
+            color: var(--text-tertiary);
+            font-size: 0.85rem;
+            white-space: nowrap;
+        }
+        .sin-noticias {
+            text-align: center;
+            padding: 60px 20px;
+            background: var(--bg-secondary);
+            border-radius: var(--radius-xl);
+            color: var(--text-tertiary);
+        }
+        @media (max-width: 640px) {
+            .noticia-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            .noticia-fecha {
+                align-self: flex-end;
+            }
+        }
+    </style>
 </head>
 <body>
     <header class="header glass">
         <div class="header-content">
             <div class="logo">
-                <img src="Logo.PNG" class="logo-img" alt="Prisma">
+                <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
                 <a href="index.html" class="logo-link">PRISMA</a>
             </div>
             <nav class="nav">
                 <a href="index.html">Inicio</a>
                 <a href="sobre.html">Sobre Prisma</a>
-                <a href="espana.html" class="active">España en el mundo</a>
+                <a href="espana.html" class="active">🌍 España en el mundo</a>
                 <a href="mailto:ovalero@gmail.com">Contacto</a>
             </nav>
         </div>
     </header>
 
     <div class="container">
-        <div class="card portada">
-            <h2>🌍 España en el mundo</h2>
-            <p>Visión de la prensa internacional sobre España.</p>
-            <div class="filtro-container">
-                <label for="filtro-medio-int">Filtrar por medio:</label>
-                <select id="filtro-medio-int">
-                    <option value="todos">Todos los medios</option>
-                    
-                    <option value="Euronews">Euronews</option>
-                    
-                    <option value="Guardian">Guardian</option>
-                    
-                </select>
+        <div class="internacional-header">
+            <h2><span>🌍</span> España en el mundo</h2>
+            <p>Lo que la prensa internacional publica sobre España. Actualizado: 19/02/2026 17:39</p>
+            <div class="stats" style="margin-top: 16px; justify-content: flex-start;">
+                <span>📰 0 noticias encontradas</span>
             </div>
         </div>
-
-        <div id="noticias-int">
-            
-            <p class="noticia-item" data-medio="Euronews"><strong>Euronews:</strong> <a href="http://www.euronews.com/2026/02/19/telegram-might-be-fully-blocked-in-russia-question-is-when-will-it-happen" target="_blank" rel="noopener">Telegram might be fully blocked in Russia. Question is, when will it happen?</a></p>
-            
-            <p class="noticia-item" data-medio="Guardian"><strong>Guardian:</strong> <a href="https://www.theguardian.com/sport/2026/feb/19/winter-paralympics-italy-absolute-opposition-russia-belarus" target="_blank" rel="noopener">Hosts Italy voice ‘absolute opposition’ to Russia flag flying at Winter Paralympics</a></p>
-            
-            <p class="noticia-item" data-medio="Guardian"><strong>Guardian:</strong> <a href="https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates" target="_blank" rel="noopener">Starmer appoints Antonia Romeo as Britain’s first female cabinet secretary – UK politics live</a></p>
-            
+        
+        <div class="filtro-medios">
+            <label for="filtro-medio">📋 Filtrar por medio:</label>
+            <select id="filtro-medio">
+                <option value="todos">🌐 Todos los medios</option>
+            </select>
+        </div>
+        
+        <div class="lista-noticias" id="lista-noticias">
+            <p class='sin-noticias'>🌍 No hay noticias sobre España en este momento. Pronto se actualizará.</p>
         </div>
     </div>
-
-    <!-- Botones flotantes (igual que en index) -->
+    
+    <!-- Botones flotantes -->
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=🌍%20España%20en%20el%20mundo%20según%20Prisma&url=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn facebook">📘</a>
         <a href="https://wa.me/?text=🌍%20España%20en%20el%20mundo%20según%20Prisma%20https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn whatsapp">📱</a>
-        <a href="https://t.me/share/url?url=https://prismanews.github.io/prisma/espana.html&text=🌍%20España%20en%20el%20mundo%20según%20Prisma" target="_blank" class="share-btn telegram">📨</a>
         <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/espana.html')" class="share-btn copy">📋</button>
     </div>
 
@@ -76,11 +182,26 @@
             });
         }
 
-        document.getElementById('filtro-medio-int').addEventListener('change', function(e) {
+        // Cargar medios en el filtro
+        const medios = new Set();
+        document.querySelectorAll('.noticia-item').forEach(item => {
+            medios.add(item.dataset.medio);
+        });
+        
+        const select = document.getElementById('filtro-medio');
+        [...medios].sort().forEach(medio => {
+            const option = document.createElement('option');
+            option.value = medio;
+            option.textContent = medio;
+            select.appendChild(option);
+        });
+        
+        // Filtrar al cambiar
+        select.addEventListener('change', function(e) {
             const medio = e.target.value;
             document.querySelectorAll('.noticia-item').forEach(item => {
                 if (medio === 'todos' || item.dataset.medio === medio) {
-                    item.style.display = 'block';
+                    item.style.display = 'flex';
                 } else {
                     item.style.display = 'none';
                 }
