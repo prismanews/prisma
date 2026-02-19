@@ -31,7 +31,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 UMBRAL_CLUSTER = 0.63
 UMBRAL_DUPLICADO = 0.87
 UMBRAL_AGRUPACION_MIN = 0.5
-MAX_NOTICIAS_FEED = 8
+MAX_NOTICIAS_FEED_ES = 8
+MAX_NOTICIAS_FEED_INT = 20
 MAX_NOTICIAS_TOTAL = 250
 MAX_NOTICIAS_INTERNACIONAL = 80  # ✅ CAMBIADO DE 40 A 80
 CACHE_EMBEDDINGS = True
@@ -363,7 +364,7 @@ def menciona_espana(texto):
     return False
 
 # ========== RECOGER NOTICIAS PARALELO ==========
-def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
+def recoger_noticias_paralelo(feeds_dict, max_por_feed_es, max_total):
     noticias = []
     
     with ThreadPoolExecutor(max_workers=15) as executor:
@@ -371,7 +372,7 @@ def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
         for medio, url in feeds_dict.items():
             future = executor.submit(obtener_feed_seguro, url, medio)
             future_to_medio[future] = medio
-        
+        km
         for future in as_completed(future_to_medio):
             medio = future_to_medio[future]
             feed = future.result()
