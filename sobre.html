@@ -1,124 +1,328 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-
-<title>Sobre Prisma | Comparador IA de noticias</title>
-
-<meta name="description" content="Prisma es un comparador inteligente de noticias que analiza titulares de distintos medios para ofrecer contexto, detectar tendencias y reducir ruido informativo.">
-
-<meta name="robots" content="index, follow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="canonical" href="https://prismanews.github.io/prisma/sobre.html">
-
-<!-- Open Graph -->
-<meta property="og:title" content="Sobre Prisma">
-<meta property="og:description" content="Comparador de noticias con IA que analiza distintos medios para entender mejor la actualidad.">
-<meta property="og:image" content="Logo.PNG">
-<meta property="og:type" content="website">
-
-<link rel="stylesheet" href="prisma.css">
-<link rel="icon" href="Logo.PNG">
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-9WZC3GQSN8');
-</script>
-
+    <meta charset="UTF-8">
+    <title>Sobre Prisma | Comparador IA de noticias</title>
+    <meta name="description" content="Prisma es un comparador inteligente de noticias que analiza titulares de distintos medios para ofrecer contexto, detectar tendencias y reducir ruido informativo.">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://prismanews.github.io/prisma/sobre.html">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Sobre Prisma | IA para entender los medios">
+    <meta property="og:description" content="Comparador de noticias con IA que analiza distintos medios para entender mejor la actualidad.">
+    <meta property="og:image" content="Logo.PNG">
+    <meta property="og:type" content="website">
+    
+    <link rel="stylesheet" href="prisma.css">
+    <link rel="icon" href="Logo.PNG">
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-9WZC3GQSN8');
+    </script>
+    
+    <style>
+        /* Estilos específicos para la página "Sobre" - más elegantes */
+        .about-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px 0 60px;
+        }
+        
+        .about-card {
+            background: var(--bg-primary);
+            border-radius: var(--radius-xl);
+            padding: 48px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border-light);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .about-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, var(--primary), var(--accent), var(--primary));
+            background-size: 200% 100%;
+            animation: gradientMove 8s ease infinite;
+        }
+        
+        @keyframes gradientMove {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        .hero-about {
+            text-align: center;
+            margin-bottom: 48px;
+            padding-bottom: 32px;
+            border-bottom: 2px dashed var(--border-light);
+        }
+        
+        .hero-about h1 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            line-height: 1.2;
+        }
+        
+        .hero-about p {
+            font-size: 1.3rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 0 auto;
+            font-weight: 300;
+            line-height: 1.6;
+        }
+        
+        .about-section {
+            margin-bottom: 48px;
+            padding: 0 16px;
+        }
+        
+        .about-section h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .about-section h2::before {
+            content: '◆';
+            color: var(--accent);
+            font-size: 1.8rem;
+            opacity: 0.7;
+        }
+        
+        .about-section p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+            margin-bottom: 24px;
+        }
+        
+        .about-section p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .about-highlight {
+            background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
+            padding: 24px 32px;
+            border-radius: var(--radius-lg);
+            margin: 32px 0;
+            border-left: 4px solid var(--primary);
+            font-style: italic;
+        }
+        
+        .about-highlight p {
+            margin: 0;
+            font-size: 1.2rem;
+            color: var(--text-primary);
+        }
+        
+        .firma {
+            text-align: center;
+            margin-top: 48px;
+            padding-top: 32px;
+            border-top: 2px dashed var(--border-light);
+            font-size: 1.2rem;
+            color: var(--text-tertiary);
+            font-style: italic;
+        }
+        
+        .contacto-box {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: 32px;
+            text-align: center;
+            border: 1px solid var(--border-light);
+            margin: 40px 0 20px;
+        }
+        
+        .contacto-box p {
+            font-size: 1.1rem;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+        
+        .contacto-box a {
+            display: inline-block;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-decoration: none;
+            padding: 12px 32px;
+            border-radius: 50px;
+            background: var(--bg-primary);
+            border: 2px solid var(--primary);
+            transition: var(--transition);
+        }
+        
+        .contacto-box a:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-primary);
+        }
+        
+        @media (max-width: 768px) {
+            .about-card {
+                padding: 32px 24px;
+            }
+            
+            .hero-about h1 {
+                font-size: 2.2rem;
+            }
+            
+            .hero-about p {
+                font-size: 1.1rem;
+            }
+            
+            .about-section h2 {
+                font-size: 1.8rem;
+            }
+            
+            .about-section h2::before {
+                font-size: 1.5rem;
+            }
+            
+            .contacto-box a {
+                font-size: 1.2rem;
+                padding: 10px 24px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .about-card {
+                padding: 24px 16px;
+            }
+            
+            .hero-about h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
 </head>
-
 <body>
 
-<header class="header">
-
-<div class="logo">
-<img src="Logo.PNG" class="logo-img">
-<a href="index.html" class="logo-link">PRISMA</a>
-</div>
-
-<p class="tagline">Más contexto · menos ruido</p>
-
-<nav class="nav">
-<a href="index.html">Inicio</a>
-<a href="sobre.html">Sobre Prisma</a>
-<a href="mailto:ovalero@gmail.com">Contacto</a>
-</nav>
-
+<header class="header glass">
+    <div class="header-content">
+        <div class="logo">
+            <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
+            <a href="index.html" class="logo-link">PRISMA</a>
+        </div>
+        <div class="header-text">
+            <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
+        </div>
+        <nav class="nav">
+            <a href="index.html">Inicio</a>
+            <a href="sobre.html" class="active">Sobre Prisma</a>
+            <a href="espana.html">España en el mundo</a>
+            <a href="mailto:ovalero@gmail.com">Contacto</a>
+        </nav>
+    </div>
 </header>
 
-
-<div class="container">
-
-<div class="about-card">
-
-<div class="hero-about">
-<h1>IA para entender mejor las noticias</h1>
-<p>
-Prisma compara titulares de múltiples medios para detectar tendencias,
-enfoques y temas dominantes.  
-Más contexto. Menos ruido.
-</p>
+<div class="container about-container">
+    <div class="about-card">
+        
+        <div class="hero-about">
+            <h1>IA para entender mejor las noticias</h1>
+            <p>
+                Prisma compara titulares de múltiples medios para detectar tendencias, 
+                enfoques y temas dominantes. <br>Más contexto. Menos ruido.
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>Qué es Prisma</h2>
+            <p>
+                Prisma es un proyecto independiente que utiliza inteligencia artificial 
+                para analizar cómo distintos medios cuentan la actualidad. 
+                No genera noticias ni opinión: solo agrupa titulares existentes y aplica 
+                análisis semántico para facilitar una visión más amplia.
+            </p>
+            <div class="about-highlight">
+                <p>
+                    "Si varios medios hablan de lo mismo, compararlos ayuda a entender mejor 
+                    qué está ocurriendo en el mundo."
+                </p>
+            </div>
+        </div>
+        
+        <div class="about-section">
+            <h2>Por qué nace</h2>
+            <p>
+                Como lector habitual de prensa y profesional técnico, me interesaba 
+                explorar cómo la IA puede reducir el ruido informativo, 
+                evitar burbujas mediáticas y ofrecer una perspectiva más completa 
+                de la actualidad.
+            </p>
+            <p>
+                Es un experimento abierto: sin ánimo comercial ni ideológico. 
+                Solo curiosidad, aprendizaje y ganas de crear algo útil.
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>Estado del proyecto</h2>
+            <p>
+                Prisma está en evolución constante. Se irán incorporando nuevas fuentes, 
+                mejor análisis semántico y mejoras visuales. Este es solo el comienzo.
+            </p>
+        </div>
+        
+        <div class="contacto-box">
+            <p>📩 <strong>Contacto directo</strong></p>
+            <a href="mailto:ovalero@gmail.com">ovalero@gmail.com</a>
+        </div>
+        
+        <p class="firma">
+            Proyecto personal creado con curiosidad, IA y muchas ganas 🙂
+        </p>
+        
+    </div>
 </div>
 
-
-<h2>Qué es Prisma</h2>
-
-<p>
-Prisma es un proyecto independiente que utiliza inteligencia artificial
-para analizar cómo distintos medios cuentan la actualidad.
-No genera noticias ni opinión: solo agrupa titulares existentes y aplica
-análisis semántico para facilitar una visión más amplia.
-</p>
-
-<p>
-Si varios medios hablan de lo mismo, compararlos ayuda a entender mejor
-qué está pasando realmente.
-</p>
-
-
-<h2>Por qué nace</h2>
-
-<p>
-Como lector habitual de prensa y profesional técnico, me interesaba
-explorar cómo la IA puede reducir el ruido informativo,
-evitar burbujas mediáticas y ofrecer una perspectiva más completa
-de la actualidad.
-</p>
-
-<p>
-Es un experimento abierto:
-sin ánimo comercial ni ideológico.
-Solo curiosidad, aprendizaje y ganas de crear algo útil.
-</p>
-
-
-<h2>Estado del proyecto</h2>
-
-<p>
-Prisma está en evolución constante.
-Se irán incorporando nuevas fuentes,
-mejor análisis semántico y mejoras visuales.
-</p>
-
-
-<div class="contacto-box">
-<p>📩 <strong>Contacto directo</strong></p>
-<a href="mailto:ovalero@gmail.com">ovalero@gmail.com</a>
+<!-- Botones flotantes de compartir (opcional, mismos que en index) -->
+<div class="compartir-flotante">
+    <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA&url=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn twitter" title="Compartir en X">🐦</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn facebook" title="Compartir en Facebook">📘</a>
+    <a href="https://wa.me/?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA%20https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn whatsapp" title="Compartir en WhatsApp">📱</a>
+    <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/sobre.html')" class="share-btn copy" title="Copiar enlace">📋</button>
 </div>
 
-
-<p class="firma">
-Proyecto personal creado con curiosidad, IA y muchas ganas 🙂
-</p>
-
-</div>
-
-</div>
+<script>
+    function copiarPortapapeles(texto) {
+        navigator.clipboard.writeText(texto).then(() => {
+            let toast = document.createElement('div');
+            toast.textContent = '✅ Enlace copiado';
+            toast.style.cssText = `
+                position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
+                background: rgba(0,0,0,0.9); color: white; padding: 12px 24px;
+                border-radius: 50px; font-size: 14px; z-index: 10000;
+                animation: slideUp 0.3s ease;
+            `;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 2000);
+        });
+    }
+</script>
 
 </body>
 </html>
