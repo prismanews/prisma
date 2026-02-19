@@ -86,7 +86,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ================ HEADER GLASS ================ */
+/* ================ HEADER GLASS MEJORADO ================ */
 .header {
   position: sticky;
   top: 0;
@@ -94,8 +94,8 @@ a:hover {
   background: var(--glass-bg);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--glass-border);
-  padding: 16px 20px;
-  margin-bottom: 48px;
+  padding: 12px 20px;
+  margin-bottom: 32px;
 }
 
 .header-content {
@@ -105,24 +105,45 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 12px;
 }
 
+/* LOGO MEJORADO - CON SOMBRA Y BRILLO */
 .logo {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
+  background: rgba(255,255,255,0.05);
+  padding: 4px 12px 4px 8px;
+  border-radius: 40px;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.1);
 }
+
 .logo-img {
-  height: 40px;
+  height: 36px;
   width: auto;
   transition: var(--transition);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2)) brightness(1.05);
 }
+
 .logo-img:hover {
   transform: scale(1.1) rotate(2deg);
+  filter: drop-shadow(0 4px 8px rgba(37,99,235,0.4)) brightness(1.1);
 }
+
+/* Versión modo oscuro para el logo */
+@media (prefers-color-scheme: dark) {
+  .logo-img {
+    filter: drop-shadow(0 2px 4px rgba(255,255,255,0.2)) brightness(1.1);
+  }
+  .logo-img:hover {
+    filter: drop-shadow(0 4px 8px rgba(245,158,11,0.4)) brightness(1.2);
+  }
+}
+
 .logo-link {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 800;
   background: linear-gradient(135deg, var(--primary), var(--accent));
   -webkit-background-clip: text;
@@ -135,32 +156,43 @@ a:hover {
   text-align: center;
   flex: 1;
 }
+
 .claim {
-  font-size: 14px;
+  font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: var(--accent);
   font-weight: 600;
+  margin-bottom: 2px;
 }
+
 .explicacion {
   color: var(--text-secondary);
-  margin: 4px 0;
+  margin: 2px 0;
+  font-size: 14px;
+  line-height: 1.4;
 }
+
 .highlight {
   background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
   padding: 2px 8px;
   border-radius: 20px;
   font-weight: 500;
-}
-.stats {
   font-size: 13px;
+  display: inline-block;
+}
+
+.stats {
+  font-size: 12px;
   color: var(--text-tertiary);
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
   margin-top: 4px;
+  flex-wrap: wrap;
 }
+
 .stats time {
   font-weight: 600;
   color: var(--primary);
@@ -168,42 +200,48 @@ a:hover {
 
 .nav {
   display: flex;
-  gap: 8px;
+  gap: 6px;
   flex-wrap: wrap;
 }
+
 .nav a {
-  padding: 8px 16px;
+  padding: 6px 14px;
   color: var(--primary);
   background: rgba(37, 99, 235, 0.1);
-  border-radius: 20px;
+  border-radius: 30px;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
   transition: var(--transition);
+  border: 1px solid transparent;
 }
+
 .nav a:hover {
   background: var(--primary);
   color: white;
   transform: translateY(-2px);
   text-decoration: none;
+  border-color: var(--primary-light);
 }
+
 .nav a.active {
   background: var(--primary);
   color: white;
+  border-color: var(--primary-light);
 }
 
 /* ================ CONTENEDOR ================ */
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 24px 64px;
+  padding: 0 20px 48px;
 }
 
 /* ================ FILTRO ================ */
 .filtro-container {
   background: var(--bg-primary);
   border-radius: var(--radius-lg);
-  padding: 16px 24px;
-  margin-bottom: 32px;
+  padding: 14px 20px;
+  margin-bottom: 28px;
   border: 1px solid var(--border-light);
   display: flex;
   align-items: center;
@@ -211,20 +249,24 @@ a:hover {
   flex-wrap: wrap;
   box-shadow: var(--shadow-sm);
 }
+
 .filtro-container label {
   font-weight: 600;
   color: var(--text-secondary);
+  font-size: 14px;
 }
+
 .filtro-container select {
-  padding: 8px 16px;
-  border-radius: var(--radius-md);
+  padding: 6px 14px;
+  border-radius: 30px;
   border: 1px solid var(--border-medium);
   background: var(--bg-primary);
   color: var(--text-primary);
-  font-size: 14px;
+  font-size: 13px;
   cursor: pointer;
   transition: var(--transition);
 }
+
 .filtro-container select:hover {
   border-color: var(--primary);
 }
@@ -233,8 +275,8 @@ a:hover {
 .card {
   background: var(--bg-primary);
   border-radius: var(--radius-xl);
-  padding: 32px;
-  margin-bottom: 32px;
+  padding: 28px;
+  margin-bottom: 28px;
   border: 1px solid var(--border-light);
   transition: var(--transition-slow);
   position: relative;
@@ -242,6 +284,7 @@ a:hover {
   animation: fadeIn 0.5s ease-out;
   box-shadow: var(--shadow-sm);
 }
+
 .card::before {
   content: "";
   position: absolute;
@@ -253,20 +296,24 @@ a:hover {
   opacity: 0;
   transition: var(--transition);
 }
+
 .card:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-xl), var(--shadow-primary);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg), var(--shadow-primary);
   border-color: transparent;
 }
+
 .card:hover::before {
   opacity: 1;
 }
 
 .card h2 {
-  font-size: 26px;
-  margin: 0 0 20px;
+  font-size: 24px;
+  margin: 0 0 16px;
   color: var(--text-primary);
+  line-height: 1.3;
 }
+
 .card h2 a {
   color: inherit;
   background: linear-gradient(to right, var(--primary), var(--accent));
@@ -275,64 +322,71 @@ a:hover {
   background-position: left bottom;
   transition: background-size 0.3s;
 }
+
 .card h2 a:hover {
   background-size: 100% 2px;
 }
 
 .card p {
   color: var(--text-secondary);
-  margin: 12px 0;
-  font-size: 15px;
+  margin: 10px 0;
+  font-size: 14px;
   display: flex;
   align-items: baseline;
   gap: 8px;
   flex-wrap: wrap;
 }
+
 .card p strong {
   color: var(--accent);
   font-weight: 700;
-  font-size: 14px;
+  font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  min-width: 120px;
+  min-width: 100px;
 }
 
 /* ================ RESUMEN IA ================ */
 .resumen {
   background: var(--bg-secondary);
   border-radius: var(--radius-lg);
-  padding: 16px 24px;
-  margin: 20px 0;
-  font-size: 15px;
+  padding: 14px 20px;
+  margin: 16px 0;
+  font-size: 14px;
   color: var(--text-secondary);
   border-left: 4px solid var(--primary);
-  line-height: 1.7;
+  line-height: 1.6;
 }
 
 /* ================ SESGO ================ */
 .sesgo-card {
   background: var(--accent-soft);
   border-radius: var(--radius-lg);
-  padding: 20px;
-  margin: 20px 0;
+  padding: 16px;
+  margin: 16px 0;
   border: 1px solid var(--accent-light);
 }
+
 .sesgo-header {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
+
 .sesgo-texto {
   font-weight: 600;
   color: var(--text-primary);
+  font-size: 14px;
 }
+
 .sesgo-info {
   color: var(--text-tertiary);
   cursor: help;
-  font-size: 16px;
+  font-size: 14px;
   position: relative;
 }
+
 .sesgo-info:hover::after {
   content: attr(title);
   position: absolute;
@@ -341,68 +395,76 @@ a:hover {
   transform: translateX(-50%);
   background: var(--text-primary);
   color: var(--bg-primary);
-  padding: 6px 12px;
-  border-radius: 8px;
-  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 11px;
   white-space: nowrap;
   z-index: 10;
   box-shadow: var(--shadow-md);
 }
+
 .sesgo-barra {
   display: flex;
-  height: 28px;
-  border-radius: 14px;
+  height: 24px;
+  border-radius: 12px;
   overflow: hidden;
-  margin: 12px 0 8px;
+  margin: 10px 0 6px;
   box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
 }
+
 .barra-progresista {
   background: linear-gradient(90deg, #3b82f6, #60a5fa);
   height: 100%;
   transition: width 0.3s ease;
 }
+
 .barra-conservadora {
   background: linear-gradient(90deg, #f97316, #fb923c);
   height: 100%;
   transition: width 0.3s ease;
 }
+
 .sesgo-etiquetas {
   display: flex;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 600;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
+
 .sesgo-nota {
-  font-size: 12px;
+  font-size: 11px;
   color: var(--text-tertiary);
   font-style: italic;
-  margin-top: 8px;
+  margin-top: 6px;
 }
 
 /* ================ CALL TO ACTION ================ */
 .cta-section {
   text-align: center;
-  padding: 48px 24px;
+  padding: 40px 20px;
   background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
   border-radius: var(--radius-xl);
-  margin: 48px 0;
+  margin: 40px 0;
   border: 1px solid var(--border-light);
 }
+
 .cta-section h3 {
-  font-size: 28px;
-  margin-bottom: 12px;
+  font-size: 24px;
+  margin-bottom: 10px;
   color: var(--text-primary);
 }
+
 .cta-buttons {
   display: flex;
-  gap: 16px;
+  gap: 12px;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 24px;
+  margin-top: 20px;
 }
+
 .cta-btn {
-  padding: 12px 28px;
+  padding: 10px 24px;
   border-radius: 40px;
   font-weight: 600;
   transition: var(--transition);
@@ -410,30 +472,36 @@ a:hover {
   display: inline-block;
   cursor: pointer;
   border: none;
-  font-size: 16px;
+  font-size: 14px;
 }
+
 .cta-btn.primary {
   background: var(--primary);
   color: white;
 }
+
 .cta-btn.primary:hover {
   background: var(--primary-dark);
   transform: translateY(-2px);
   box-shadow: var(--shadow-primary);
 }
+
 .cta-btn.secondary {
   background: transparent;
   color: var(--primary);
   border: 2px solid var(--primary);
 }
+
 .cta-btn.secondary:hover {
   background: var(--primary);
   color: white;
 }
+
 .cta-btn.github {
   background: var(--text-primary);
   color: var(--bg-primary);
 }
+
 .cta-btn.github:hover {
   opacity: 0.9;
   transform: translateY(-2px);
@@ -442,34 +510,37 @@ a:hover {
 /* ================ BOTONES FLOTANTES ================ */
 .compartir-flotante {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 16px;
+  right: 16px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
   z-index: 1000;
 }
+
 .share-btn {
-  width: 48px;
-  height: 48px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   background: var(--bg-primary);
   border: 1px solid var(--border-light);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 22px;
+  font-size: 20px;
   cursor: pointer;
   transition: var(--transition);
   box-shadow: var(--shadow-md);
   text-decoration: none;
   color: var(--text-primary);
 }
+
 .share-btn:hover {
-  transform: scale(1.15);
+  transform: scale(1.1);
   box-shadow: var(--shadow-lg);
   color: white;
 }
+
 .share-btn.twitter:hover { background: #1DA1F2; }
 .share-btn.facebook:hover { background: #4267B2; }
 .share-btn.whatsapp:hover { background: #25D366; }
@@ -478,62 +549,179 @@ a:hover {
 
 /* ================ ANIMACIONES ================ */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
+  from { opacity: 0; transform: translateY(15px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
 @keyframes slideUp {
-  from { opacity: 0; transform: translate(-50%, 20px); }
-  to { opacity: 1; transform: translate(-50%, 0); }
-}
-@keyframes slideDown {
-  from { opacity: 0; transform: translate(-50%, -20px); }
+  from { opacity: 0; transform: translate(-50%, 15px); }
   to { opacity: 1; transform: translate(-50%, 0); }
 }
 
-/* ================ RESPONSIVE ================ */
+/* ================ RESPONSIVE MEJORADO ================ */
 @media (max-width: 768px) {
+  .header {
+    padding: 10px 16px;
+    margin-bottom: 20px;
+  }
+  
   .header-content {
-    flex-direction: column;
-    text-align: center;
+    gap: 8px;
   }
-  .nav {
-    justify-content: center;
+  
+  .logo {
+    padding: 2px 10px 2px 6px;
   }
-  .card {
-    padding: 24px;
+  
+  .logo-img {
+    height: 30px;
   }
-  .card h2 {
+  
+  .logo-link {
     font-size: 22px;
   }
+  
+  .header-text {
+    text-align: left;
+    width: 100%;
+  }
+  
+  .claim {
+    font-size: 11px;
+  }
+  
+  .explicacion {
+    font-size: 12px;
+    line-height: 1.3;
+  }
+  
+  .highlight {
+    font-size: 11px;
+    padding: 1px 6px;
+  }
+  
+  .stats {
+    font-size: 10px;
+    justify-content: flex-start;
+  }
+  
+  .nav {
+    width: 100%;
+    justify-content: flex-start;
+    gap: 4px;
+  }
+  
+  .nav a {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+  
+  .card {
+    padding: 20px;
+  }
+  
+  .card h2 {
+    font-size: 20px;
+  }
+  
   .filtro-container {
-    flex-direction: column;
-    align-items: flex-start;
+    padding: 12px 16px;
+    gap: 10px;
   }
+  
   .compartir-flotante {
-    bottom: 10px;
-    right: 10px;
+    bottom: 12px;
+    right: 12px;
   }
+  
   .share-btn {
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
     font-size: 18px;
   }
 }
 
 @media (max-width: 480px) {
+  .header {
+    padding: 8px 12px;
+  }
+  
+  .logo-img {
+    height: 26px;
+  }
+  
   .logo-link {
-    font-size: 22px;
+    font-size: 20px;
   }
+  
+  .claim {
+    font-size: 10px;
+  }
+  
+  .explicacion {
+    font-size: 11px;
+  }
+  
+  .stats {
+    font-size: 9px;
+  }
+  
   .nav a {
-    padding: 6px 12px;
-    font-size: 13px;
+    padding: 4px 8px;
+    font-size: 11px;
   }
+  
+  .card {
+    padding: 16px;
+  }
+  
+  .card h2 {
+    font-size: 18px;
+  }
+  
   .card p {
     flex-direction: column;
     align-items: flex-start;
-    gap: 4px;
+    gap: 2px;
+    font-size: 13px;
   }
+  
   .card p strong {
     min-width: auto;
+    font-size: 12px;
+  }
+  
+  .resumen {
+    padding: 12px 16px;
+    font-size: 13px;
+  }
+  
+  .sesgo-card {
+    padding: 12px;
+  }
+  
+  .sesgo-texto {
+    font-size: 13px;
+  }
+  
+  .sesgo-barra {
+    height: 20px;
+  }
+  
+  .sesgo-etiquetas {
+    font-size: 12px;
+  }
+  
+  .cta-section {
+    padding: 30px 16px;
+  }
+  
+  .cta-section h3 {
+    font-size: 20px;
+  }
+  
+  .cta-btn {
+    padding: 8px 18px;
+    font-size: 13px;
   }
 }
