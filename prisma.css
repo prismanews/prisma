@@ -990,3 +990,69 @@ a:hover {
     font-size: 13px;
   }
 }
+
+/* ================ NUEVAS MÉTRICAS DE SESGO ================ */
+.metricas-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.metrica-item {
+  background: var(--bg-primary);
+  padding: 8px 10px;
+  border-radius: var(--radius-md);
+  text-align: center;
+}
+
+.metrica-label {
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 2px;
+}
+
+.metrica-valor {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+/* Mini gráfico de tono */
+.tono-mini {
+  margin: 16px 0 8px;
+}
+
+.tono-barra {
+  display: flex;
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.tono-positivo {
+  background: #10b981;
+  height: 100%;
+}
+
+.tono-negativo {
+  background: #ef4444;
+  height: 100%;
+}
+
+.tono-etiquetas {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--text-tertiary);
+}
+
+@media (max-width: 640px) {
+  .metricas-grid {
+    grid-template-columns: 1fr;
+  }
+}
