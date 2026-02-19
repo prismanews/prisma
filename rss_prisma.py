@@ -364,7 +364,7 @@ def menciona_espana(texto):
     return False
 
 # ========== RECOGER NOTICIAS PARALELO ==========
-def recoger_noticias_paralelo(feeds_dict, max_por_feed_es, max_total):
+def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
     noticias = []
     
     with ThreadPoolExecutor(max_workers=15) as executor:
@@ -372,7 +372,6 @@ def recoger_noticias_paralelo(feeds_dict, max_por_feed_es, max_total):
         for medio, url in feeds_dict.items():
             future = executor.submit(obtener_feed_seguro, url, medio)
             future_to_medio[future] = medio
-        km
         for future in as_completed(future_to_medio):
             medio = future_to_medio[future]
             feed = future.result()
@@ -1297,7 +1296,7 @@ if __name__ == "__main__":
     
     # 1. Noticias españolas
     logging.info("📰 Recogiendo noticias españolas...")
-    noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED, MAX_NOTICIAS_TOTAL)
+    noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED_ES, MAX_NOTICIAS_TOTAL)
     logging.info(f"✅ {len(noticias)} noticias recogidas")
     
     if not noticias:
@@ -1336,7 +1335,7 @@ if __name__ == "__main__":
     
     # 2. Noticias internacionales sobre España - ✅ AHORA CON LÍMITE CORREGIDO
     logging.info("🌍 Recogiendo noticias internacionales...")
-    noticias_int = recoger_noticias_paralelo(feeds_internacionales, MAX_NOTICIAS_FEED, MAX_NOTICIAS_INTERNACIONAL)  # ✅ CAMBIADO
+    noticias_int = recoger_noticias_paralelo(feeds_internacionales, MAX_NOTICIAS_FEED_INT, MAX_NOTICIAS_INTERNACIONAL)  # ✅ CAMBIADO
     
     # Filtrar las que mencionan España
     noticias_espana = []
