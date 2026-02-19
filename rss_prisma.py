@@ -353,7 +353,7 @@ def menciona_espana(texto):
     # Patrones adicionales (inglés/español)
     patrones = [
         r'\bspanish\b', r'\bspain\b', r'\besp(a|á)ñol\b', r'\bespaña\b',
-        r'\bmadrid\b', r'\bbarcelona\b', r'\bcatalon ia\b', r'\bbasque\b',
+        r'\bmadrid\b', r'\bbarcelona\b', r'\bcatalonia\b', r'\bbasque\b',
         r'pedro sánchez', r'\bfeijóo\b', r'\bvox\b', r'\bpsoe\b', r'\bpp\b',
     ]
     
@@ -367,7 +367,7 @@ def menciona_espana(texto):
 def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
     noticias = []
     
-    with ThreadPoolExecutor(max_workers=15) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_medio = {}
         for medio, url in feeds_dict.items():
             future = executor.submit(obtener_feed_seguro, url, medio)
