@@ -2,144 +2,90 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="robots" content="index, follow">
-<meta name="googlebot" content="index, follow">
-<title>España en el mundo | Prisma</title>
-<link rel="stylesheet" href="/prisma/prisma.css?v=1771512400">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>España en el mundo | Prisma</title>
+    <meta name="description" content="Visión de la prensa internacional sobre España.">
+    <link rel="stylesheet" href="prisma.css?v=1771519169">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+    <header class="header glass">
+        <div class="header-content">
+            <div class="logo">
+                <img src="Logo.PNG" class="logo-img" alt="Prisma">
+                <a href="index.html" class="logo-link">PRISMA</a>
+            </div>
+            <nav class="nav">
+                <a href="index.html">Inicio</a>
+                <a href="sobre.html">Sobre Prisma</a>
+                <a href="espana.html" class="active">España en el mundo</a>
+                <a href="mailto:ovalero@gmail.com">Contacto</a>
+            </nav>
+        </div>
+    </header>
 
-<header class="header">
-<div class="logo">
-<img src="Logo.PNG" class="logo-img">
-<a href="index.html" class="logo-link">PRISMA</a>
-</div>
+    <div class="container">
+        <div class="card portada">
+            <h2>🌍 España en el mundo</h2>
+            <p>Visión de la prensa internacional sobre España.</p>
+            <div class="filtro-container">
+                <label for="filtro-medio-int">Filtrar por medio:</label>
+                <select id="filtro-medio-int">
+                    <option value="todos">Todos los medios</option>
+                    
+                    <option value="Guardian">Guardian</option>
+                    
+                    <option value="Le Figaro">Le Figaro</option>
+                    
+                </select>
+            </div>
+        </div>
 
-<nav class="nav">
-<a href="index.html">Inicio</a>
-<a href="sobre.html">Sobre Prisma</a>
-<a href="espana.html">España en el mundo</a>
-<a href="mailto:ovalero@gmail.com?subject=Contacto%20Prisma">
-Contacto
-</a>
-</nav>
-</header>
-
-<div class="container">
-<div class="card portada">
-<h2>🌍 España en el mundo</h2>
-<p>Visión de la prensa internacional sobre España.</p>
-
-<p>
-<strong>Le Figaro:</strong>
-<a href="https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-athletes-espagnols-sexy-chinois-avec-le-telephone-a-la-main-le-chef-des-sports-de-la-rai-demissionne-apres-des-derapages-verbaux-a-l-antenne-20260219" target="_blank" rel="noopener noreferrer">
-JO 2026 : «athlètes espagnols sexy», «Chinois avec le téléphone à la main», le chef des sports de la Rai démissionne après des dérapages verbaux à l’antenne
-</a>
-</p>
-
-<p>
-<strong>Financial Times:</strong>
-<a href="https://www.ft.com/content/8b2037bf-0950-42e4-999f-e7df5bf8c7dd" target="_blank" rel="noopener noreferrer">
-Spain’s Repsol to increase Venezuelan oil production after securing US permit
-</a>
-</p>
-
-<p>
-<strong>France24 FR:</strong>
-<a href="https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260219-maryam-touzani-rue-malaga-son-film-le-plus-intime" target="_blank" rel="noopener noreferrer">
-Maryam Touzani : "Rue Malaga", son film le plus intime
-</a>
-</p>
-
-<p>
-<strong>Prensa Latina:</strong>
-<a href="https://www.prensa-latina.cu/2026/02/19/figuras-de-la-cultura-espanola-destacan-apoyo-a-cuba/" target="_blank" rel="noopener noreferrer">
-Figuras de la cultura española destacan apoyo a Cuba
-</a>
-</p>
-
-<p>
-<strong>Guardian:</strong>
-<a href="https://www.theguardian.com/business/2026/feb/19/airbus-suggests-split-solution-for-europe-faltering-fighter-jet-programme" target="_blank" rel="noopener noreferrer">
-Airbus suggests split solution for Europe’s faltering fighter jet programme
-</a>
-</p>
-
-<p>
-<strong>NYTimes:</strong>
-<a href="https://www.nytimes.com/2026/02/18/world/spain-immigration-isis-prison-syria.html" target="_blank" rel="noopener noreferrer">
-The Country Betting on Immigrants
-</a>
-</p>
-</div></div>
-    <!-- Botones flotantes de compartir -->
-    <div class="compartir-flotante">
-        <a href="https://twitter.com/intent/tweet?text=📊 Descubre cómo la IA analiza el sesgo de los medios en Prisma&url=https://prismanews.github.io/prisma/" target="_blank" class="share-btn twitter">🐦</a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/" target="_blank" class="share-btn facebook">📘</a>
-        <a href="https://wa.me/?text=📊 Descubre cómo la IA analiza el sesgo de los medios en Prisma%20https://prismanews.github.io/prisma/" target="_blank" class="share-btn whatsapp">📱</a>
-        <a href="https://t.me/share/url?url=https://prismanews.github.io/prisma/&text=📊 Descubre cómo la IA analiza el sesgo de los medios en Prisma" target="_blank" class="share-btn telegram">📨</a>
-        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/')" class="share-btn copy">📋</button>
+        <div id="noticias-int">
+            
+            <p class="noticia-item" data-medio="Le Figaro"><strong>Le Figaro:</strong> <a href="https://www.lefigaro.fr/faits-divers/le-proces-en-appel-de-cedric-jubillar-pour-le-meurtre-de-son-epouse-delphine-debutera-le-21-septembre-20260219" target="_blank" rel="noopener">Le procès en appel de Cédric Jubillar pour le meurtre de son épouse Delphine débutera le 21 septembre</a></p>
+            
+            <p class="noticia-item" data-medio="Guardian"><strong>Guardian:</strong> <a href="https://www.theguardian.com/sport/2026/feb/19/winter-paralympics-italy-absolute-opposition-russia-belarus" target="_blank" rel="noopener">Hosts Italy voice ‘absolute opposition’ to Russia flag flying at Winter Paralympics</a></p>
+            
+            <p class="noticia-item" data-medio="Guardian"><strong>Guardian:</strong> <a href="https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates" target="_blank" rel="noopener">Starmer appoints Antonia Romeo as Britain’s first female cabinet secretary – UK politics live</a></p>
+            
+        </div>
     </div>
-    
+
+    <!-- Botones flotantes (igual que en index) -->
+    <div class="compartir-flotante">
+        <a href="https://twitter.com/intent/tweet?text=🌍%20España%20en%20el%20mundo%20según%20Prisma&url=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn twitter">🐦</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn facebook">📘</a>
+        <a href="https://wa.me/?text=🌍%20España%20en%20el%20mundo%20según%20Prisma%20https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn whatsapp">📱</a>
+        <a href="https://t.me/share/url?url=https://prismanews.github.io/prisma/espana.html&text=🌍%20España%20en%20el%20mundo%20según%20Prisma" target="_blank" class="share-btn telegram">📨</a>
+        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/espana.html')" class="share-btn copy">📋</button>
+    </div>
+
     <script>
-    function copiarPortapapeles(texto) {
-        navigator.clipboard.writeText(texto).then(() => {
-            let toast = document.createElement('div');
-            toast.textContent = '✅ Enlace copiado';
-            toast.style.cssText = `
-                position: fixed;
-                bottom: 100px;
-                left: 50%;
-                transform: translateX(-50%);
-                background: rgba(0,0,0,0.9);
-                color: white;
-                padding: 12px 24px;
-                border-radius: 50px;
-                font-size: 14px;
-                z-index: 10000;
-                animation: slideUp 0.3s ease;
-            `;
-            document.body.appendChild(toast);
-            setTimeout(() => toast.remove(), 2000);
-        });
-    }
-
-    // Animación de entrada para las tarjetas
-    document.querySelectorAll('.card').forEach((card, index) => {
-        card.style.opacity = '0';
-        card.style.transform = 'translateY(20px)';
-        setTimeout(() => {
-            card.style.transition = 'all 0.5s ease';
-            card.style.opacity = '1';
-            card.style.transform = 'translateY(0)';
-        }, index * 100);
-    });
-
-    // Exit intent (detecta cuando el usuario va a salir)
-    let exitIntentShown = false;
-    document.addEventListener('mouseleave', (e) => {
-        if (e.clientY < 0 && !exitIntentShown) {
-            exitIntentShown = true;
-            let toast = document.createElement('div');
-            toast.textContent = '🔥 ¡No te vayas! Comparte Prisma';
-            toast.style.cssText = `
-                position: fixed;
-                top: 20px;
-                left: 50%;
-                transform: translateX(-50%);
-                background: #ff4d4d;
-                color: white;
-                padding: 12px 24px;
-                border-radius: 50px;
-                font-size: 14px;
-                z-index: 10000;
-                animation: slideDown 0.3s ease;
-            `;
-            document.body.appendChild(toast);
-            setTimeout(() => toast.remove(), 3000);
+        function copiarPortapapeles(texto) {
+            navigator.clipboard.writeText(texto).then(() => {
+                let toast = document.createElement('div');
+                toast.textContent = '✅ Enlace copiado';
+                toast.style.cssText = `
+                    position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
+                    background: rgba(0,0,0,0.9); color: white; padding: 12px 24px;
+                    border-radius: 50px; font-size: 14px; z-index: 10000;
+                `;
+                document.body.appendChild(toast);
+                setTimeout(() => toast.remove(), 2000);
+            });
         }
-    });
+
+        document.getElementById('filtro-medio-int').addEventListener('change', function(e) {
+            const medio = e.target.value;
+            document.querySelectorAll('.noticia-item').forEach(item => {
+                if (medio === 'todos' || item.dataset.medio === medio) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
     </script>
-    </body></html>
+</body>
+</html>
