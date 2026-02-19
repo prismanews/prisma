@@ -89,13 +89,13 @@ referencias_politicas = {
     ])
 }
 
-# ========== FEEDS ESPAÑOLES ==========
+# ========== FEEDS ESPAÑOLES ==========ñ
 feeds_espanoles = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
     "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
-    "20 Minutos": "https://www.20minutos.es/rss/",
+    "20 Minutos": "https://www.20minutos.es/feed/",  # ✅ CORREGIDO
     "eldiario.es": "https://www.eldiario.es/rss/",
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
     "El Español": "https://www.elespanol.com/rss/",
@@ -116,9 +116,19 @@ feeds_espanoles = {
     "El Salto": "https://www.elsaltodiario.com/rss",
     "CTXT": "https://ctxt.es/es/feed/",
     "Jacobin ES": "https://jacobin.com/feed",
+    "Infobae España": "https://www.infobae.com/espana/arc/outboundfeeds/rss/",
+    "OK Diario": "https://okdiario.com/feed/",
+    "El Plural": "https://www.elplural.com/feed",
+    "Vozpópuli": "https://www.vozpopuli.com/feed.xml",
+    "Moncloa.com": "https://www.moncloa.com/feed",
+    "El Independiente": "https://www.elindependiente.com/feed",
+    "The Objective": "https://theobjective.com/feed",
+    "Crónica Global": "https://cronicaglobal.elespanol.com/feed",
+    "El Debate": "https://www.eldebate.com/feed",
+    "Libertad Digital": "https://www.libertaddigital.com/feed",
+    "El Periódico de España": "https://www.epe.es/es/rss/portada.xml",
 }
 
-# ========== FEEDS INTERNACIONALES ==========
 feeds_internacionales = {
     # 🇬🇧 Inglés
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -128,6 +138,22 @@ feeds_internacionales = {
     "Guardian": "https://www.theguardian.com/world/rss",
     "Bloomberg": "https://feeds.bloomberg.com/markets/news.rss",
     "Financial Times": "https://www.ft.com/world?format=rss",
+    "RT News": "https://www.rt.com/rss/news/",
+    "RT en Español": "https://actualidad.rt.com/feeds/noticias.rss",
+    # "Sputnik Mundo": "https://sputniknews.com/export/rss2/archive/index.xml",  # ❌ ELIMINADO (no funciona)
+    "TASS": "http://tass.com/rss/v2.xml",
+    # "RIA Novosti": "https://ria.ru/export/rss2/archive/index.xml",  # ❌ ELIMINADO (no funciona)
+    "Yonhap News": "https://en.yna.co.kr/feed/",
+    "Korea Times": "https://www.koreatimes.co.kr/www/rss/news.xml",
+    "Korea Herald": "http://www.koreaherald.com/rss_xml.php",
+    "Arirang News": "https://www.arirang.com/news/rss.xml",
+    # "Chosun Ilbo": "http://english.chosun.com/site/data/rss/rss.xml",  # ❌ ELIMINADO (problemas)
+    "Al Jazeera English": "https://www.aljazeera.com/xml/rss/all.xml",
+    "Al Arabiya English": "https://english.alarabiya.net/alarabiya-rss",
+    "Middle East Eye": "https://www.middleeasteye.net/rss",
+    "The National": "https://www.thenationalnews.com/arc/outboundfeeds/rss/",
+    "Arab News": "https://www.arabnews.com/rss",
+    
     # 🇫🇷 Francés
     "Le Monde": "https://www.lemonde.fr/rss/une.xml",
     "France24 FR": "https://www.france24.com/fr/rss",
@@ -153,7 +179,12 @@ feeds_internacionales = {
     "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
     "Granma": "http://www.granma.cu/feed",
     "Cubadebate": "http://www.cubadebate.cu/feed/",
-    "Prensa Latina": "https://www.prensa-latina.cu/feed/"
+    "Prensa Latina": "https://www.prensa-latina.cu/feed/",
+    "Infobae América": "https://www.infobae.com/america/arc/outboundfeeds/rss/",
+    "El Universal MX": "https://www.eluniversal.com.mx/rss",
+    "La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+    "El Comercio PE": "https://elcomercio.pe/arc/outboundfeeds/rss/",
+    # "El Mercurio CL": "http://www.elmercurio.com/rss/"  # ❌ ELIMINADO (vacío)
 }
 
 # ========== KEYWORDS MULTILINGÜES ==========
