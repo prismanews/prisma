@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador completo (VERSIÓN CORREGIDA CON MÁS INTERNACIONALES)
+PRISMA - Generador principal (versión modular)
 """
 
 import feedparser
@@ -27,18 +27,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# ========== CONFIGURACIÓN ==========
-UMBRAL_CLUSTER = 0.63
-UMBRAL_DUPLICADO = 0.87
-UMBRAL_AGRUPACION_MIN = 0.5
-MAX_NOTICIAS_FEED_ES = 8
-MAX_NOTICIAS_FEED_INT = 30
-MAX_NOTICIAS_TOTAL = 300
-MAX_NOTICIAS_INTERNACIONAL = 150 # ✅ CAMBIADO DE 40 A 80
-CACHE_EMBEDDINGS = True
-CACHE_FILE = "embeddings_cache.pkl"
-LOG_FILE = "prisma.log"
+# ========== IMPORTAR CONFIGURACIÓN Y FEEDS ==========
+from config import *
+from feeds import feeds_espanoles, feeds_internacionales
 
+# ========== CONFIGURAR LOGGING ==========
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -48,6 +41,7 @@ logging.basicConfig(
     ]
 )
 
+# ========== MODELO IA ==========
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 # ========== REFERENCIAS DE SESGO ==========
@@ -89,194 +83,6 @@ referencias_politicas = {
         "economic growth tax cuts deregulation free trade"
     ])
 }
-
-# ========== FEEDS ESPAÑOLES ==========
-feeds_espanoles = {
-    "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-    "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-    "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
-    "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
-    "20 Minutos": "https://www.20minutos.es/feed/",
-    "eldiario.es": "https://www.eldiario.es/rss/",
-    "Europa Press": "https://www.europapress.es/rss/rss.aspx",
-    "El Español": "https://www.elespanol.com/rss/",
-    "RTVE": "https://www.rtve.es/rss/",
-    "El Confidencial": "https://www.elconfidencial.com/rss/",
-    "Público": "https://www.publico.es/rss/",
-    "HuffPost": "https://www.huffingtonpost.es/feeds/index.xml",
-    "La Voz de Galicia": "https://www.lavozdegalicia.es/rss/portada.xml",
-    "El Correo": "https://www.elcorreo.com/rss/portada.xml",
-    "Diario Sur": "https://www.diariosur.es/rss/portada.xml",
-    "Levante": "https://www.levante-emv.com/rss/portada.xml",
-    "Heraldo": "https://www.heraldo.es/rss/portada/",
-    "Diario Vasco": "https://www.diariovasco.com/rss/portada.xml",
-    "Información Alicante": "https://www.informacion.es/rss/portada.xml",
-    "Expansión": "https://e00-expansion.uecdn.es/rss/portada.xml",
-    "Cinco Días": "https://cincodias.elpais.com/seccion/rss/portada/",
-    "Infolibre": "https://www.infolibre.es/rss",
-    "El Salto": "https://www.elsaltodiario.com/rss",
-    "CTXT": "https://ctxt.es/es/feed/",
-    "Jacobin ES": "https://jacobin.com/feed",
-    "Infobae España": "https://www.infobae.com/espana/arc/outboundfeeds/rss/",
-    "OK Diario": "https://okdiario.com/feed/",
-    "El Plural": "https://www.elplural.com/feed",
-    "Vozpópuli": "https://www.vozpopuli.com/feed.xml",
-    "Moncloa.com": "https://www.moncloa.com/feed",
-    "El Independiente": "https://www.elindependiente.com/feed",
-    "The Objective": "https://theobjective.com/feed",
-    "Crónica Global": "https://cronicaglobal.elespanol.com/feed",
-    "El Debate": "https://www.eldebate.com/feed",
-    "Libertad Digital": "https://www.libertaddigital.com/feed",
-    "El Periódico de España": "https://www.epe.es/es/rss/portada.xml",
-    "Xataka": "https://www.xataka.com/feedburner.xml",
-    "Genbeta": "https://www.genbeta.com/feedburner.xml",
-    "Trendencias": "https://www.trendencias.com/feedburner.xml",
-    "Verne": "https://feeds.elpais.com/mrss-s/pages/ep/site/verne.elpais.com/portada",
-    "Yorokobu": "https://www.yorokobu.es/feed/",
-    "El Periódico": "https://www.elperiodico.com/es/rss/rss_portada.xml",
-    "Hipertextual": "https://hipertextual.com/feed",
-    "Microsiervos": "https://www.microsiervos.com/index.xml",
-    "Applesfera": "https://www.applesfera.com/feedburner.xml",
-}
-
-feeds_internacionales = {
-    # 🇬🇧 Inglés
-    "Nature News": "https://www.nature.com/nature.rss",
-    "Scientific American": "https://rss.sciam.com/ScientificAmerican-Global",
-    "Politico EU": "https://www.politico.eu/feed/",
-    "OpenDemocracy": "https://www.opendemocracy.net/en/rss.xml",
-    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
-    "Reuters": "https://www.reutersagency.com/feed/?best-topics=world",
-    "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "Guardian": "https://www.theguardian.com/world/rss",
-    "Bloomberg": "https://feeds.bloomberg.com/markets/news.rss",
-    "Financial Times": "https://www.ft.com/world?format=rss",
-    "RT News": "https://www.rt.com/rss/news/",
-    "RT en Español": "https://actualidad.rt.com/feeds/noticias.rss",
-    "TASS": "http://tass.com/rss/v2.xml",
-    "Yonhap News": "https://en.yna.co.kr/feed/",
-    "Korea Times": "https://www.koreatimes.co.kr/www/rss/news.xml",
-    "Korea Herald": "http://www.koreaherald.com/rss_xml.php",
-    "Arirang News": "https://www.arirang.com/news/rss.xml",
-    "Al Jazeera English": "https://www.aljazeera.com/xml/rss/all.xml",
-    "Al Arabiya English": "https://english.alarabiya.net/alarabiya-rss",
-    "Middle East Eye": "https://www.middleeasteye.net/rss",
-    "The National": "https://www.thenationalnews.com/arc/outboundfeeds/rss/",
-    "Arab News": "https://www.arabnews.com/rss",
-    "KBS World": "http://world.kbs.co.kr/feed/",
-    "MBC News": "http://imnews.imbc.com/rss/news.xml",
-    "Al Jazeera (Árabe)": "https://www.aljazeera.net/aljazeerarss/a7c186e5-2c6f-46e3-8782-3d64c6b721a6/7f7b6d64-2f6f-4b6c-9d8e-1f7f3b8c9d0a",
-    "Al Mayadeen": "https://english.almayadeen.net/rss",
-    "Al Araby": "https://www.alaraby.co.uk/rss",
-    # 🇫🇷 Francés
-    "Le Monde": "https://www.lemonde.fr/rss/une.xml",
-    "France24 FR": "https://www.france24.com/fr/rss",
-    "Le Figaro": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-    # 🇩🇪 Alemán
-    "Der Spiegel": "https://www.spiegel.de/international/index.rss",
-    "Die Welt": "https://www.welt.de/feeds/latest.rss",
-    # 🇮🇹 Italiano
-    "Corriere": "https://xml2.corriereobjects.it/rss/homepage.xml",
-    "La Repubblica": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
-    # 🇵🇹 Portugués
-    "Publico PT": "https://www.publico.pt/rss",
-    "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
-    # 🇪🇺 Europa general
-    "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
-    # 🌏 Asia
-    "SCMP Hong Kong": "https://www.scmp.com/rss/91/feed",
-    "Japan Times": "https://www.japantimes.co.jp/feed/",
-    "China Daily": "http://www.chinadaily.com.cn/rss/world_rss.xml",
-    # 🌎 América Latina
-    "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
-    "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
-    "Granma": "http://www.granma.cu/feed",
-    "Cubadebate": "http://www.cubadebate.cu/feed/",
-    "Prensa Latina": "https://www.prensa-latina.cu/feed/",
-    "Infobae América": "https://www.infobae.com/america/arc/outboundfeeds/rss/",
-    "El Universal MX": "https://www.eluniversal.com.mx/rss",
-    "La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
-    "El Comercio PE": "https://elcomercio.pe/arc/outboundfeeds/rss/",
-    "El Nuevo Día (Puerto Rico)": "https://www.elnuevodia.com/rss/",
-    "El Universal (Venezuela)": "https://www.eluniversal.com/rss/",
-    "The Hindu (India)": "https://www.thehindu.com/news/feeder/default.rss",
-    "Times of India": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
-}
-# ========== KEYWORDS MULTILINGÜES MEJORADAS ==========
-KEYWORDS_ESPANA = [
-    # Castellano / Español (todo lo que ya tenías)
-    "españa", "espana", "español", "española", "españoles",
-    "madrid", "barcelona", "valencia", "sevilla", "bilbao",
-    "cataluña", "catalunya", "país vasco", "euskadi", "andalucía",
-    "galicia", "canarias", "balears", "ibiza", "mallorca",
-    "pedro sanchez", "feijoo", "abascal", "yolanda díaz",
-    "gobierno español", "moncloa", "congreso", "senado",
-    "la liga", "real madrid", "fc barcelona", "atlético",
-    
-    # English (mejorado)
-    "spain", "spanish", "spaniard", "spain's", "spanish prime minister", "pedro sanchez",
-    "catalonia", "basque country", "andalusia", "catalan", "basque", "andalusian",
-    "spanish government", "prime minister spain", "valencia", "seville",
-    "barcelona", "madrid", "real madrid", "fc barcelona",
-    
-    # Français (mejorado)
-    "espagne", "espagnol", "espagnole", "espagnole", "espagnols",
-    "catalogne", "pays basque", "andalousie",
-    "gouvernement espagnol", "pedro sanchez", "premier ministre espagnol",
-    
-    # Deutsch (mejorado)
-    "spanien", "spanisch", "spanier", "spanische", "spanischer",
-    "katalonien", "baskenland", "andalusien",
-    "spanische regierung", "ministerpräsident", "madrid", "barcelona",
-    
-    # Italiano (mejorado)
-    "spagna", "spagnolo", "spagnola", "spagnoli",
-    "catalogna", "paesi baschi", "andalusia",
-    "governo spagnolo", "primo ministro spagnolo",
-    
-    # Português (mejorado)
-    "espanha", "espanhol", "espanhola", "espanhóis",
-    "catalunha", "país basco", "andalucia",
-    "governo espanhol", "primeiro-ministro espanhol",
-    
-    # Русский (Ruso) - MEJORADO
-    "испания", "испанский", "испанская", "испанские",
-    "мадрид", "барселона", "каталония",
-    "премьер-министр испании", "правительство испании",
-    
-    # 中文 (Chino) - MEJORADO
-    "西班牙", "西班牙的", "西班牙人", "西班牙首相", "西班牙政府",
-    "马德里", "巴塞罗那", "加泰罗尼亚",
-    
-    # 日本語 (Japonés) - MEJORADO
-    "スペイン", "スペインの", "スペイン人",
-    "マドリード", "バルセロナ", "カタルーニャ",
-    "スペイン首相", "スペイン政府",
-    
-    # 한국어 (Coreano) - MEJORADO
-    "스페인", "스페인의", "스페인 사람",
-    "마드리드", "바르셀로나", "카탈루냐",
-    "스페인 총리", "스페인 정부",
-    
-    # العربية (Árabe) - MEJORADO
-    "إسبانيا", "الإسبانية", "الإسبان",
-    "مدريد", "برشلونة", "كاتالونيا",
-    "رئيس الوزراء الإسباني", "الحكومة الإسبانية",
-]
-
-# Stopwords
-STOPWORDS = set([
-    "el","la","los","las","un","una","unos","unas","de","del","al","a","en","por","para","con","sin",
-    "sobre","entre","hasta","desde","y","o","e","ni","que","como","pero","aunque","porque","ya","también","solo",
-    "su","sus","se","lo","le","les","esto","esta","estos","estas","ese","esa","esos","esas",
-    "hoy","ayer","mañana","tras","antes","después","dice","según","afirma","asegura","explica",
-    "the","a","an","of","to","in","on","for","with","and","or","but","from","by","about","as","at",
-    "le","la","les","du","des","sur","dans","avec","pour","par","est","sont","ont","été",
-    "der","die","das","und","mit","von","für","auf","bei","nach","aus","durch","über","unter",
-    "il","la","le","gli","i","del","della","dei","con","per","tra","fra","che","cui",
-    "o","a","os","as","do","da","dos","das","para","com","sem","sob","entre","após",
-])
 
 # ========== FUNCIONES DE UTILIDAD ==========
 def limpiar_html(texto):
@@ -363,8 +169,8 @@ def menciona_espana(texto):
     
     return False
 
-# ========== RECOGER NOTICIAS PARALELO ==========
-def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
+# ========== RECOGER NOTICIAS PARALELO (VERSIÓN MEJORADA) ==========
+def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total, filtrar_espana=False):
     noticias = []
     
     with ThreadPoolExecutor(max_workers=10) as executor:
@@ -382,16 +188,27 @@ def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
                 entradas = sorted(feed.entries, key=extraer_fecha_noticia, reverse=True)[:max_por_feed]
                 for entry in entradas:
                     if "title" in entry and "link" in entry:
-                       resumen = ""
-                       if hasattr(entry, "summary"):
-                          resumen = limpiar_html(entry.summary)
-                       noticias.append({
-                           "medio": medio,
-                           "titulo": limpiar_html(entry.title),
-                           "resumen": resumen,
-                           "link": entry.link.strip(),
-                           "fecha": extraer_fecha_noticia(entry)
-                       })
+                        titulo = limpiar_html(entry.title)
+                        resumen = limpiar_html(entry.summary) if hasattr(entry, "summary") else ""
+                        
+                        # ✅ MEJORA: Filtrar por España si es necesario
+                        if filtrar_espana:
+                            texto_completo = titulo + " " + resumen
+                            
+                            # ✅ MEJORA: Lista negra de medios locales
+                            if medio in MEDIOS_SOLO_LOCALES and not menciona_espana(texto_completo):
+                                continue  # ❌ Medio local y no menciona España, saltamos
+                            
+                            if not menciona_espana(texto_completo):
+                                continue  # ❌ No menciona España, saltamos
+                        
+                        noticias.append({
+                            "medio": medio,
+                            "titulo": titulo,
+                            "resumen": resumen,
+                            "link": entry.link.strip(),
+                            "fecha": extraer_fecha_noticia(entry)
+                        })
             except Exception as e:
                 logging.error(f"Error procesando entradas de {medio}: {e}")
     
@@ -1300,7 +1117,7 @@ if __name__ == "__main__":
     
     # 1. Noticias españolas
     logging.info("📰 Recogiendo noticias españolas...")
-    noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED_ES, MAX_NOTICIAS_TOTAL)
+    noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED_ES, MAX_NOTICIAS_TOTAL, filtrar_espana=False)
     logging.info(f"✅ {len(noticias)} noticias recogidas")
     
     if not noticias:
@@ -1337,20 +1154,16 @@ if __name__ == "__main__":
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_index)
     
-    # 2. Noticias internacionales sobre España - ✅ AHORA CON LÍMITE CORREGIDO
+    # 2. Noticias internacionales sobre España - ✅ CON FILTRO INTEGRADO
     logging.info("🌍 Recogiendo noticias internacionales...")
-    noticias_int = recoger_noticias_paralelo(feeds_internacionales, MAX_NOTICIAS_FEED_INT, MAX_NOTICIAS_INTERNACIONAL)  # ✅ CAMBIADO
+    noticias_espana = recoger_noticias_paralelo(
+        feeds_internacionales, 
+        MAX_NOTICIAS_FEED_INT, 
+        MAX_NOTICIAS_INTERNACIONAL,
+        filtrar_espana=True
+    )
     
-    # Filtrar las que mencionan España
-    noticias_espana = []
-    for n in noticias_int:
-        texto = n["titulo"] + " "
-        if "resumen" in n:
-            texto += n["resumen"]
-        if menciona_espana(texto):
-            noticias_espana.append(n)
-    
-    # Eliminar duplicados
+    # Eliminar duplicados y ordenar
     noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
     noticias_espana.sort(key=lambda x: x["fecha"], reverse=True)
     noticias_espana = noticias_espana[:MAX_NOTICIAS_INTERNACIONAL]
