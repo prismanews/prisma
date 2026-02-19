@@ -5,52 +5,59 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # cada 2 horas
+    - cron: "30 */2 * * *"   # cada 2 horas (minuto 30, para no saturar)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10        # IMPORTANTE: límite de tiempo
 
     steps:
       - name: Descargar repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 1        # Solo último commit (más rápido)
 
       - name: Instalar Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: "3.10"  # 3.10 es más estable que 3.11
           cache: "pip"
-
-      - name: Actualizar pip
-        run: python -m pip install --upgrade pip
 
       - name: Instalar dependencias
         run: |
-          pip install \
-          feedparser \
-          sentence-transformers \
-          numpy \
-          scikit-learn
+          pip install --upgrade pip
+          pip install feedparser sentence-transformers numpy scikit-learn jinja2
 
       - name: Debug estructura
-        run: ls -la
+        run: |
+          ls -la
+          pwd
 
-      - name: Generar página
+      - name: Generar página principal
         run: python rss_prisma.py
+        continue-on-error: false  # Si falla, para todo
 
-      # 👇 ESTE ES EL BLOQUE CORREGIDO
-      - name: Commit cambios
+      - name: Verificar cambios
+        id: verificar
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "cambios=true" >> $GITHUB_OUTPUT
+          else
+            echo "cambios=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit y push
+        if: steps.verificar.outputs.cambios == 'true'
         run: |
           git config user.name "Prisma Bot"
           git config user.email "bot@prisma.com"
-
-          git add .
-          git diff --cached --quiet || git commit -m "Auto update noticias"
-
-          # 👉 clave para evitar el error que te salió
-          git pull --rebase origin main
-
+          
+          git add index.html espana.html sitemap.xml robots.txt
+          git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
+          
+          # ESTRATEGIA SEGURA: pull con rebase y push
+          git pull --rebase origin main --strategy-option=theirs
           git push origin main
