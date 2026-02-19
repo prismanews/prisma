@@ -381,18 +381,17 @@ def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total):
             try:
                 entradas = sorted(feed.entries, key=extraer_fecha_noticia, reverse=True)[:max_por_feed]
                 for entry in entradas:
-    if "title" in entry and "link" in entry:
-        resumen = ""
-        if hasattr(entry, "summary"):
-            resumen = limpiar_html(entry.summary)
-
-        noticias.append({
-            "medio": medio,
-            "titulo": limpiar_html(entry.title),
-            "resumen": resumen,
-            "link": entry.link.strip(),
-            "fecha": extraer_fecha_noticia(entry)
-        })
+                    if "title" in entry and "link" in entry:
+                       resumen = ""
+                       if hasattr(entry, "summary"):
+                          resumen = limpiar_html(entry.summary)
+                       noticias.append({
+                           "medio": medio,
+                           "titulo": limpiar_html(entry.title),
+                           "resumen": resumen,
+                           "link": entry.link.strip(),
+                           "fecha": extraer_fecha_noticia(entry)
+                       })
             except Exception as e:
                 logging.error(f"Error procesando entradas de {medio}: {e}")
     
