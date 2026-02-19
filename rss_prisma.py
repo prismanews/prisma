@@ -150,7 +150,11 @@ feeds_internacionales = {
     "Middle East Eye": "https://www.middleeasteye.net/rss",
     "The National": "https://www.thenationalnews.com/arc/outboundfeeds/rss/",
     "Arab News": "https://www.arabnews.com/rss",
-    
+    "KBS World": "http://world.kbs.co.kr/feed/",  # Radio/TV coreana
+    "MBC News": "http://imnews.imbc.com/rss/news.xml",  # Otro medio coreano
+    "Al Jazeera (árabe)": "https://www.aljazeera.net/aljazeerarss/a7c186e5-2c6f-46e3-8782-3d64c6b721a6/7f7b6d64-2f6f-4b6c-9d8e-1f7f3b8c9d0a",  # Versión árabe
+    "Al Mayadeen": "https://english.almayadeen.net/rss",  # Medio libanés
+    "Al Araby": "https://www.alaraby.co.uk/rss",  # Medio qatarí
     # 🇫🇷 Francés
     "Le Monde": "https://www.lemonde.fr/rss/une.xml",
     "France24 FR": "https://www.france24.com/fr/rss",
@@ -181,6 +185,14 @@ feeds_internacionales = {
     "El Universal MX": "https://www.eluniversal.com.mx/rss",
     "La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
     "El Comercio PE": "https://elcomercio.pe/arc/outboundfeeds/rss/",
+    "El Nuevo Día (Puerto Rico)": "https://www.elnuevodia.com/rss/",
+    "El Universal (Venezuela)": "https://www.eluniversal.com/rss/",
+    "El Colombiano": "https://www.elcolombiano.com/rss",
+    "La Tercera (Chile)": "https://www.latercera.com/arc/outboundfeeds/rss/",
+    "El Comercio (Ecuador)": "https://www.elcomercio.com/rss/",
+"NHK World (Japón)": "https://www3.nhk.or.jp/nhkworld/en/news/rss/",
+    "The Hindu (India)": "https://www.thehindu.com/news/feeder/default.rss",
+    "Times of India": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
 }
 
 # ========== KEYWORDS MULTILINGÜES MEJORADAS ==========
