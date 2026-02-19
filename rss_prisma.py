@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador completo con Google Analytics
+PRISMA - Generador completo (SIN TIMEOUT para compatibilidad)
 """
 
 import feedparser
@@ -277,7 +277,8 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
     for intento in range(max_intentos):
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            feed = feedparser.parse(url, request_headers=headers, timeout=10)
+            # 👇 QUITADO EL TIMEOUT QUE DABA ERROR
+            feed = feedparser.parse(url, request_headers=headers)
             if not feed.bozo or intento == max_intentos-1:
                 return feed
             time.sleep(1)
