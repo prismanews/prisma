@@ -5,24 +5,24 @@ permissions:
 
 on:
   schedule:
-    - cron: "30 */2 * * *"   # cada 2 horas (minuto 30, para no saturar)
+    - cron: "30 */2 * * *"   # cada 2 horas (minuto 30)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10        # IMPORTANTE: límite de tiempo
+    timeout-minutes: 10
 
     steps:
       - name: Descargar repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 1        # Solo último commit (más rápido)
+          fetch-depth: 1
 
       - name: Instalar Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"  # 3.10 es más estable que 3.11
+          python-version: "3.10"
           cache: "pip"
 
       - name: Instalar dependencias
@@ -31,13 +31,11 @@ jobs:
           pip install feedparser sentence-transformers numpy scikit-learn jinja2
 
       - name: Debug estructura
-        run: |
-          ls -la
-          pwd
+        run: ls -la
 
       - name: Generar página principal
         run: python rss_prisma.py
-        continue-on-error: false  # Si falla, para todo
+        continue-on-error: false
 
       - name: Verificar cambios
         id: verificar
@@ -56,8 +54,8 @@ jobs:
           git config user.email "bot@prisma.com"
           
           git add index.html espana.html sitemap.xml robots.txt
-          git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
+          git diff --cached --quiet || git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
           
-          # ESTRATEGIA SEGURA: pull con rebase y push
-          git pull --rebase origin main --strategy-option=theirs
+          # PULL SEGURO (SIN REBASE) Y PUSH
+          git pull --no-rebase origin main --strategy-option=theirs
           git push origin main
