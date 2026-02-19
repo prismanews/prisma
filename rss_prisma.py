@@ -828,7 +828,7 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
     return html
 
 # ========== GENERAR ESPANA.HTML (CON GOOGLE ANALYTICS) ==========
-def generar_espana_html(noticias_espana, cachebuster):
+def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     fecha_actual = datetime.now().strftime("%d/%m/%Y %H:%M")
     
     if not noticias_espana:
@@ -988,6 +988,12 @@ def generar_espana_html(noticias_espana, cachebuster):
                 <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
                 <a href="index.html" class="logo-link">PRISMA</a>
             </div>
+            <!-- ✅ AÑADIDO: MISMO HEADER-TEXT QUE EN INDEX -->
+            <div class="header-text">
+                <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
+                <p class="explicacion">Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 {medios_unicos} medios · <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time></div>
+            </div>
             <nav class="nav">
                 <a href="index.html">Inicio</a>
                 <a href="sobre.html">Sobre Prisma</a>
@@ -1073,8 +1079,8 @@ def generar_espana_html(noticias_espana, cachebuster):
     return html
 
 # ========== GENERAR SOBRE.HTML (CON GOOGLE ANALYTICS) ==========
-def generar_sobre_html():
-    html = """<!DOCTYPE html>
+def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
+    html = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -1091,15 +1097,15 @@ def generar_sobre_html():
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag(){{dataLayer.push(arguments);}}
         gtag('js', new Date());
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css">
+    <link rel="stylesheet" href="prisma.css?v={cachebuster}">
     <style>
-        .about-container { max-width: 900px; margin: 0 auto; }
-        .about-card {
+        .about-container {{ max-width: 900px; margin: 0 auto; }}
+        .about-card {{
             background: var(--bg-primary);
             border-radius: var(--radius-xl);
             padding: 48px;
@@ -1107,8 +1113,8 @@ def generar_sobre_html():
             border: 1px solid var(--border-light);
             position: relative;
             overflow: hidden;
-        }
-        .about-card::before {
+        }}
+        .about-card::before {{
             content: '';
             position: absolute;
             top: 0;
@@ -1118,73 +1124,73 @@ def generar_sobre_html():
             background: linear-gradient(90deg, var(--primary), var(--accent), var(--primary));
             background-size: 200% 100%;
             animation: gradientMove 8s ease infinite;
-        }
-        @keyframes gradientMove {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-        .hero-about {
+        }}
+        @keyframes gradientMove {{
+            0% {{ background-position: 0% 50%; }}
+            50% {{ background-position: 100% 50%; }}
+            100% {{ background-position: 0% 50%; }}
+        }}
+        .hero-about {{
             text-align: center;
             margin-bottom: 48px;
             padding-bottom: 32px;
             border-bottom: 2px dashed var(--border-light);
-        }
-        .hero-about h1 {
+        }}
+        .hero-about h1 {{
             font-size: 2.8rem;
             margin-bottom: 20px;
             background: linear-gradient(135deg, var(--primary), var(--accent));
             -webkit-background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
-        }
-        .hero-about p {
+        }}
+        .hero-about p {{
             font-size: 1.3rem;
             color: var(--text-secondary);
             max-width: 700px;
             margin: 0 auto;
             font-weight: 300;
-        }
-        .about-section {
+        }}
+        .about-section {{
             margin-bottom: 40px;
-        }
-        .about-section h2 {
+        }}
+        .about-section h2 {{
             font-size: 2rem;
             margin-bottom: 20px;
             color: var(--text-primary);
             display: flex;
             align-items: center;
             gap: 12px;
-        }
-        .about-section h2::before {
+        }}
+        .about-section h2::before {{
             content: '◆';
             color: var(--accent);
             font-size: 1.8rem;
             opacity: 0.7;
-        }
-        .about-section p {
+        }}
+        .about-section p {{
             font-size: 1.1rem;
             line-height: 1.8;
             color: var(--text-secondary);
             margin-bottom: 20px;
-        }
-        .about-highlight {
+        }}
+        .about-highlight {{
             background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
             padding: 24px 32px;
             border-radius: var(--radius-lg);
             margin: 32px 0;
             border-left: 4px solid var(--primary);
             font-style: italic;
-        }
-        .contacto-box {
+        }}
+        .contacto-box {{
             background: var(--bg-secondary);
             border-radius: var(--radius-lg);
             padding: 32px;
             text-align: center;
             border: 1px solid var(--border-light);
             margin: 40px 0 20px;
-        }
-        .contacto-box a {
+        }}
+        .contacto-box a {{
             display: inline-block;
             font-size: 1.5rem;
             font-weight: 700;
@@ -1195,13 +1201,13 @@ def generar_sobre_html():
             background: var(--bg-primary);
             border: 2px solid var(--primary);
             transition: var(--transition);
-        }
-        .contacto-box a:hover {
+        }}
+        .contacto-box a:hover {{
             background: var(--primary);
             color: white;
             transform: translateY(-2px);
-        }
-        .firma {
+        }}
+        .firma {{
             text-align: center;
             margin-top: 48px;
             padding-top: 32px;
@@ -1209,11 +1215,11 @@ def generar_sobre_html():
             font-size: 1.2rem;
             color: var(--text-tertiary);
             font-style: italic;
-        }
-        @media (max-width: 768px) {
-            .about-card { padding: 32px 24px; }
-            .hero-about h1 { font-size: 2.2rem; }
-        }
+        }}
+        @media (max-width: 768px) {{
+            .about-card {{ padding: 32px 24px; }}
+            .hero-about h1 {{ font-size: 2.2rem; }}
+        }}
     </style>
 </head>
 <body>
@@ -1222,6 +1228,12 @@ def generar_sobre_html():
             <div class="logo">
                 <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
                 <a href="index.html" class="logo-link">PRISMA</a>
+            </div>
+            <!-- ✅ AÑADIDO: MISMO HEADER-TEXT QUE EN INDEX -->
+            <div class="header-text">
+                <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
+                <p class="explicacion">Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 {medios_unicos} medios · <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html">Inicio</a>
@@ -1275,8 +1287,8 @@ def generar_sobre_html():
     </div>
 
     <script>
-        function copiarPortapapeles(texto) {
-            navigator.clipboard.writeText(texto).then(() => {
+        function copiarPortapapeles(texto) {{
+            navigator.clipboard.writeText(texto).then(() => {{
                 let toast = document.createElement('div');
                 toast.textContent = '✅ Enlace copiado';
                 toast.style.cssText = `
@@ -1286,8 +1298,8 @@ def generar_sobre_html():
                 `;
                 document.body.appendChild(toast);
                 setTimeout(() => toast.remove(), 2000);
-            });
-        }
+            }});
+        }}
     </script>
 </body>
 </html>
@@ -1375,13 +1387,13 @@ if __name__ == "__main__":
     
     # Generar espana.html
     logging.info("📝 Generando espana.html...")
-    html_espana = generar_espana_html(noticias_espana, cachebuster)
+    html_espana = generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos)
     with open("espana.html", "w", encoding="utf-8") as f:
         f.write(html_espana)
     
     # Generar sobre.html
     logging.info("📝 Generando sobre.html...")
-    html_sobre = generar_sobre_html()
+    html_sobre = generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos)
     with open("sobre.html", "w", encoding="utf-8") as f:
         f.write(html_sobre)
     
