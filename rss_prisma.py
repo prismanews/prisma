@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador principal (versión modular)
+PRISMA - Generador principal (versión modular con sesgo mejorado)
 """
 
 import feedparser
@@ -44,44 +44,162 @@ logging.basicConfig(
 # ========== MODELO IA ==========
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
-# ========== REFERENCIAS DE SESGO ==========
+# ========== REFERENCIAS DE SESGO MEJORADAS (VERSIÓN FRASES CORTAS) ==========
 referencias_politicas = {
     "progresista": modelo.encode([
-        # español
-        "derechos sociales igualdad feminismo justicia social diversidad políticas públicas bienestar",
-        "progresismo cambio climático políticas sociales regulación inclusión servicios públicos",
-        "derechos humanos libertad expresión manifestación protesta social sindicatos",
-        "sanidad pública educación universal pensiones justas derechos laborales",
-        "acogida refugiados inmigración regularización derechos LGTBI",
-        "vivienda pública alquiler asequible okupación ley vivienda",
-        "memoria histórica exhumación Franco víctimas guerra civil",
-        # inglés
-        "social justice equality progressive politics climate action diversity welfare public services",
-        "left wing policies regulation social rights inclusion government intervention",
-        "human rights free speech protests unions workers rights minimum wage",
-        "refugee welcome immigration reform lgbtq rights gender equality",
-        # internacional
-        "environmental protection social equality human rights public healthcare welfare state",
-        "climate change sustainability renewable energy green transition"
+        # --- DERECHOS SOCIALES ---
+        "derecho a la vivienda",
+        "sanidad pública universal",
+        "pensiones públicas dignas",
+        "educación pública gratuita",
+        "servicios sociales",
+        "derechos laborales",
+        "sindicatos",
+        
+        # --- FEMINISMO E IGUALDAD ---
+        "igualdad real",
+        "brecha salarial",
+        "derechos LGTBI",
+        "ley de paridad",
+        "feminismo",
+        "diversidad",
+        "inclusión",
+        
+        # --- INMIGRACIÓN (TONO POSITIVO) ---
+        "acogida refugiados",
+        "derechos humanos inmigrantes",
+        "regularización",
+        "menores migrantes",
+        "políticas migratorias inclusivas",
+        
+        # --- MEMORIA HISTÓRICA ---
+        "memoria histórica",
+        "exhumación Franco",
+        "fosas comunes",
+        "víctimas guerra civil",
+        "reparación víctimas",
+        
+        # --- CAMBIO CLIMÁTICO ---
+        "transición ecológica",
+        "cambio climático",
+        "energías renovables",
+        "protección medio ambiente",
+        
+        # --- VIVIENDA ---
+        "alquiler asequible",
+        "vivienda pública",
+        "limitar precios alquiler",
+        "okupación",
+        "parque público vivienda",
+        
+        # --- JUSTICIA SOCIAL ---
+        "justicia social",
+        "redistribución riqueza",
+        "desigualdad",
+        "pobreza infantil",
+        "salario mínimo",
     ]),
+    
     "conservador": modelo.encode([
-        # español
-        "seguridad fronteras defensa tradición economía mercado estabilidad control migratorio",
-        "valores tradicionales seguridad nacional impuestos bajos orden liberalismo económico",
-        "familia libertad individual propiedad privada mérito esfuerzo autoridad",
-        "unidad de españa constitución monarquía fuerzas armadas ley orden",
-        "inmigración ilegal devoluciones control fronteras acuerdo con mafias",
-        "reforma laboral despido libre bajada impuestos empresas emprendedores",
-        "tauromaquia caza tradiciones culturales patrimonio",
-        # inglés
-        "border security national defense free market traditional values low taxes immigration control",
-        "conservative policies economic freedom national identity law and order",
-        "family values individual liberty private property merit authority",
-        "illegal immigration deportation border wall crime rates",
-        # internacional
-        "fiscal responsibility strong military traditional culture business friendly policies",
-        "economic growth tax cuts deregulation free trade"
-    ])
+        # --- SEGURIDAD Y ORDEN ---
+        "seguridad ciudadana",
+        "mano dura",
+        "control fronteras",
+        "penas más duras",
+        "ley mordaza",
+        "presencia policial",
+        "orden público",
+        
+        # --- UNIDAD DE ESPAÑA ---
+        "unidad de españa",
+        "constitución española",
+        "igualdad entre españoles",
+        "rechazo independentismo",
+        "nación española",
+        "soberanía nacional",
+        
+        # --- ECONOMÍA LIBERAL ---
+        "bajar impuestos",
+        "libertad económica",
+        "emprendedores",
+        "menos trabas",
+        "reforma laboral",
+        "flexibilidad laboral",
+        "libre mercado",
+        
+        # --- INMIGRACIÓN (TONO RESTRICTIVO) ---
+        "inmigración ilegal",
+        "devoluciones",
+        "control migratorio",
+        "fronteras seguras",
+        "expulsión inmigrantes",
+        
+        # --- FAMILIA Y TRADICIÓN ---
+        "familia tradicional",
+        "valores tradicionales",
+        "tauromaquia",
+        "patrimonio cultural",
+        "libertad educativa",
+        "objeción conciencia",
+        
+        # --- JUSTICIA ---
+        "cadena perpetua",
+        "mano dura delincuencia",
+        "independencia judicial",
+        "multirreincidencia",
+        "delincuencia",
+        
+        # --- AUTORIDAD ---
+        "autoridad",
+        "ley y orden",
+        "respeto instituciones",
+        "fuerzas armadas",
+        "monarquía",
+    ]),
+    
+    "tono_positivo": modelo.encode([
+        "avance", "mejora", "éxito", "logro", "beneficio",
+        "crecimiento", "oportunidad", "esperanza", "solución",
+        "acuerdo positivo", "datos optimistas", "hito",
+        "progreso", "éxito español", "buenas noticias"
+    ]),
+    
+    "tono_negativo": modelo.encode([
+        "crisis", "conflicto", "problema", "preocupación",
+        "riesgo", "amenaza", "grave", "emergencia",
+        "colapso", "fracaso", "peor", "alarma",
+        "preocupante", "crítico", "tensión"
+    ]),
+    
+    "nacionalismo_alto": modelo.encode([
+        "unidad nacional",
+        "bandera españa",
+        "orgullo español",
+        "nación española",
+        "patria",
+        "españa unida",
+        "territorio nacional"
+    ]),
+    
+    "nacionalismo_bajo": modelo.encode([
+        "derecho decidir",
+        "autodeterminación",
+        "república catalana",
+        "país vasco",
+        "nación catalana",
+        "independencia",
+        "referéndum"
+    ]),
+    
+    "populismo_alto": modelo.encode([
+        "casta política",
+        "élites",
+        "que se vayan todos",
+        "el pueblo",
+        "los de siempre",
+        "clase política",
+        "dictadura"
+    ]),
 }
 
 # ========== FUNCIONES DE UTILIDAD ==========
@@ -329,32 +447,109 @@ def clusterizar(embeddings):
     grupos.sort(key=len, reverse=True)
     return grupos
 
-# ========== ANÁLISIS DE SESGO ==========
+# ========== ANÁLISIS DE SESGO MEJORADO (VERSIÓN 2.0) ==========
 def analizar_sesgo(indices, noticias):
+    """
+    Análisis multidimensional con referencias cortas
+    """
     textos = [noticias[i]["titulo"] for i in indices]
     emb = modelo.encode(textos, batch_size=16, show_progress_bar=False)
     centroide = np.mean(emb, axis=0).reshape(1, -1)
     
+    # Progresista vs Conservador
     prog = cosine_similarity(centroide, referencias_politicas["progresista"]).mean()
     cons = cosine_similarity(centroide, referencias_politicas["conservador"]).mean()
     
-    total = prog + cons
-    pct_prog = (prog / total) * 100 if total > 0 else 50
-    pct_cons = (cons / total) * 100 if total > 0 else 50
+    # Tono
+    tono_pos = cosine_similarity(centroide, referencias_politicas["tono_positivo"]).mean()
+    tono_neg = cosine_similarity(centroide, referencias_politicas["tono_negativo"]).mean()
     
+    # Nacionalismo
+    nac_alto = cosine_similarity(centroide, referencias_politicas["nacionalismo_alto"]).mean()
+    nac_bajo = cosine_similarity(centroide, referencias_politicas["nacionalismo_bajo"]).mean()
+    
+    # Populismo
+    pop_alto = cosine_similarity(centroide, referencias_politicas["populismo_alto"]).mean()
+    
+    # Calcular porcentajes políticos
+    total_politico = prog + cons
+    if total_politico > 0:
+        pct_prog = (prog / total_politico) * 100
+        pct_cons = (cons / total_politico) * 100
+    else:
+        pct_prog = 50
+        pct_cons = 50
+    
+    # Texto principal
     if abs(prog - cons) < 0.015:
-        texto = "Cobertura muy equilibrada"
+        texto_principal = "Cobertura muy equilibrada"
     elif prog > cons:
         diff = (prog - cons) * 100
-        texto = "Enfoque marcadamente progresista" if diff > 20 else "Enfoque ligeramente progresista"
+        if diff > 20:
+            texto_principal = "Enfoque marcadamente progresista"
+        else:
+            texto_principal = "Enfoque ligeramente progresista"
     else:
         diff = (cons - prog) * 100
-        texto = "Enfoque marcadamente conservador" if diff > 20 else "Enfoque ligeramente conservador"
+        if diff > 20:
+            texto_principal = "Enfoque marcadamente conservador"
+        else:
+            texto_principal = "Enfoque ligeramente conservador"
+    
+    # Análisis de tono
+    if tono_pos > tono_neg:
+        tono_texto = "tono positivo"
+        tono_emoji = "😊"
+    else:
+        tono_texto = "tono preocupante"
+        tono_emoji = "😟"
+    
+    # Análisis de nacionalismo
+    if nac_alto > nac_bajo:
+        nacionalismo_texto = "enfoque españolista"
+    else:
+        nacionalismo_texto = "enfoque periférico"
+    
+    # Análisis de populismo
+    if pop_alto > 0.6:
+        populismo_texto = "lenguaje populista"
+        populismo_emoji = "📢"
+    else:
+        populismo_texto = "lenguaje institucional"
+        populismo_emoji = "🏛️"
+    
+    # Normalizar tono para porcentajes
+    total_tono = tono_pos + tono_neg
+    if total_tono > 0:
+        pct_tono_pos = (tono_pos / total_tono) * 100
+        pct_tono_neg = (tono_neg / total_tono) * 100
+    else:
+        pct_tono_pos = 50
+        pct_tono_neg = 50
     
     return {
-        "texto": texto,
+        "texto": texto_principal,
         "pct_prog": round(pct_prog),
-        "pct_cons": round(pct_cons)
+        "pct_cons": round(pct_cons),
+        "tono": {
+            "texto": tono_texto,
+            "emoji": tono_emoji,
+            "positivo": round(pct_tono_pos),
+            "negativo": round(pct_tono_neg)
+        },
+        "nacionalismo": nacionalismo_texto,
+        "populismo": {
+            "texto": populismo_texto,
+            "emoji": populismo_emoji,
+            "intensidad": round(pop_alto * 100)
+        },
+        "completo": {
+            "progresista": round(prog * 100, 1),
+            "conservador": round(cons * 100, 1),
+            "tono_positivo": round(tono_pos * 100, 1),
+            "nacionalismo": round(nac_alto * 100, 1),
+            "populismo": round(pop_alto * 100, 1)
+        }
     }
 
 def titular_prisma(indices, noticias):
@@ -412,7 +607,7 @@ def resumen_prisma(indices, noticias):
         "emoji": emoji
     }
 
-# ========== GENERAR INDEX.HTML (CON GOOGLE ANALYTICS) ==========
+# ========== GENERAR INDEX.HTML (CON NUEVAS MÉTRICAS) ==========
 def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     html = f"""<!DOCTYPE html>
 <html lang="es">
@@ -508,7 +703,36 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                     <span>Progresista {sesgo['pct_prog']}%</span>
                     <span>Conservador {sesgo['pct_cons']}%</span>
                 </div>
-                <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
+                
+                <!-- NUEVAS MÉTRICAS -->
+                <div class="metricas-grid">
+                    <div class="metrica-item">
+                        <span class="metrica-label">😊 Tono</span>
+                        <span class="metrica-valor">{sesgo['tono']['texto']} {sesgo['tono']['emoji']}</span>
+                    </div>
+                    <div class="metrica-item">
+                        <span class="metrica-label">🌍 Enfoque</span>
+                        <span class="metrica-valor">{sesgo['nacionalismo']}</span>
+                    </div>
+                    <div class="metrica-item">
+                        <span class="metrica-label">📢 Lenguaje</span>
+                        <span class="metrica-valor">{sesgo['populismo']['texto']} {sesgo['populismo']['emoji']}</span>
+                    </div>
+                </div>
+                
+                <!-- Mini gráfico de tono -->
+                <div class="tono-mini">
+                    <div class="tono-barra">
+                        <div class="tono-positivo" style="width: {sesgo['tono']['positivo']}%;"></div>
+                        <div class="tono-negativo" style="width: {sesgo['tono']['negativo']}%;"></div>
+                    </div>
+                    <div class="tono-etiquetas">
+                        <span>😊 {sesgo['tono']['positivo']}%</span>
+                        <span>😟 {sesgo['tono']['negativo']}%</span>
+                    </div>
+                </div>
+                
+                <p class="sesgo-nota">Análisis multidimensional basado en el lenguaje de los titulares</p>
             </div>
 """
         
