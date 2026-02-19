@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador completo (SIN TIMEOUT para compatibilidad)
+PRISMA - Generador completo (VERSIÓN CORREGIDA CON MÁS INTERNACIONALES)
 """
 
 import feedparser
@@ -33,7 +33,7 @@ UMBRAL_DUPLICADO = 0.87
 UMBRAL_AGRUPACION_MIN = 0.5
 MAX_NOTICIAS_FEED = 8
 MAX_NOTICIAS_TOTAL = 250
-MAX_NOTICIAS_INTERNACIONAL = 40
+MAX_NOTICIAS_INTERNACIONAL = 80  # ✅ CAMBIADO DE 40 A 80
 CACHE_EMBEDDINGS = True
 CACHE_FILE = "embeddings_cache.pkl"
 LOG_FILE = "prisma.log"
@@ -89,13 +89,13 @@ referencias_politicas = {
     ])
 }
 
-# ========== FEEDS ESPAÑOLES ==========ñ
+# ========== FEEDS ESPAÑOLES ==========
 feeds_espanoles = {
     "El País": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
     "El Mundo": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
     "ABC": "https://www.abc.es/rss/feeds/abcPortada.xml",
     "La Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
-    "20 Minutos": "https://www.20minutos.es/feed/",  # ✅ CORREGIDO
+    "20 Minutos": "https://www.20minutos.es/feed/",
     "eldiario.es": "https://www.eldiario.es/rss/",
     "Europa Press": "https://www.europapress.es/rss/rss.aspx",
     "El Español": "https://www.elespanol.com/rss/",
@@ -140,14 +140,11 @@ feeds_internacionales = {
     "Financial Times": "https://www.ft.com/world?format=rss",
     "RT News": "https://www.rt.com/rss/news/",
     "RT en Español": "https://actualidad.rt.com/feeds/noticias.rss",
-    # "Sputnik Mundo": "https://sputniknews.com/export/rss2/archive/index.xml",  # ❌ ELIMINADO (no funciona)
     "TASS": "http://tass.com/rss/v2.xml",
-    # "RIA Novosti": "https://ria.ru/export/rss2/archive/index.xml",  # ❌ ELIMINADO (no funciona)
     "Yonhap News": "https://en.yna.co.kr/feed/",
     "Korea Times": "https://www.koreatimes.co.kr/www/rss/news.xml",
     "Korea Herald": "http://www.koreaherald.com/rss_xml.php",
     "Arirang News": "https://www.arirang.com/news/rss.xml",
-    # "Chosun Ilbo": "http://english.chosun.com/site/data/rss/rss.xml",  # ❌ ELIMINADO (problemas)
     "Al Jazeera English": "https://www.aljazeera.com/xml/rss/all.xml",
     "Al Arabiya English": "https://english.alarabiya.net/alarabiya-rss",
     "Middle East Eye": "https://www.middleeasteye.net/rss",
@@ -184,12 +181,11 @@ feeds_internacionales = {
     "El Universal MX": "https://www.eluniversal.com.mx/rss",
     "La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
     "El Comercio PE": "https://elcomercio.pe/arc/outboundfeeds/rss/",
-    # "El Mercurio CL": "http://www.elmercurio.com/rss/"  # ❌ ELIMINADO (vacío)
 }
 
-# ========== KEYWORDS MULTILINGÜES ==========
+# ========== KEYWORDS MULTILINGÜES MEJORADAS ==========
 KEYWORDS_ESPANA = [
-    # Castellano / Español
+    # Castellano / Español (todo lo que ya tenías)
     "españa", "espana", "español", "española", "españoles",
     "madrid", "barcelona", "valencia", "sevilla", "bilbao",
     "cataluña", "catalunya", "país vasco", "euskadi", "andalucía",
@@ -198,50 +194,55 @@ KEYWORDS_ESPANA = [
     "gobierno español", "moncloa", "congreso", "senado",
     "la liga", "real madrid", "fc barcelona", "atlético",
     
-    # English
-    "spain", "spanish", "spaniard",
-    "catalonia", "basque country", "andalusia",
-    "spanish government", "prime minister spain",
+    # English (mejorado)
+    "spain", "spanish", "spaniard", "spain's", "spanish prime minister", "pedro sanchez",
+    "catalonia", "basque country", "andalusia", "catalan", "basque", "andalusian",
+    "spanish government", "prime minister spain", "valencia", "seville",
+    "barcelona", "madrid", "real madrid", "fc barcelona",
     
-    # Français
-    "espagne", "espagnol", "espagnole",
+    # Français (mejorado)
+    "espagne", "espagnol", "espagnole", "espagnole", "espagnols",
     "catalogne", "pays basque", "andalousie",
-    "gouvernement espagnol", "pedro sanchez",
+    "gouvernement espagnol", "pedro sanchez", "premier ministre espagnol",
     
-    # Deutsch
-    "spanien", "spanisch", "spanier",
+    # Deutsch (mejorado)
+    "spanien", "spanisch", "spanier", "spanische", "spanischer",
     "katalonien", "baskenland", "andalusien",
-    "spanische regierung",
+    "spanische regierung", "ministerpräsident", "madrid", "barcelona",
     
-    # Italiano
-    "spagna", "spagnolo", "spagnola",
+    # Italiano (mejorado)
+    "spagna", "spagnolo", "spagnola", "spagnoli",
     "catalogna", "paesi baschi", "andalusia",
-    "governo spagnolo",
+    "governo spagnolo", "primo ministro spagnolo",
     
-    # Português
-    "espanha", "espanhol", "espanhola",
+    # Português (mejorado)
+    "espanha", "espanhol", "espanhola", "espanhóis",
     "catalunha", "país basco", "andalucia",
-    "governo espanhol",
+    "governo espanhol", "primeiro-ministro espanhol",
     
-    # Русский (Ruso)
-    "испания", "ispaniya", "испанский", "ispanskiy",
-    "мадрид", "madrid", "барселона", "barselona",
+    # Русский (Ruso) - MEJORADO
+    "испания", "испанский", "испанская", "испанские",
+    "мадрид", "барселона", "каталония",
+    "премьер-министр испании", "правительство испании",
     
-    # 中文 (Chino)
-    "西班牙", "xībānyá", "西班牙人", "xībānyá rén",
-    "马德里", "mǎdélǐ", "巴塞罗那", "bāsāiluónà",
+    # 中文 (Chino) - MEJORADO
+    "西班牙", "西班牙的", "西班牙人", "西班牙首相", "西班牙政府",
+    "马德里", "巴塞罗那", "加泰罗尼亚",
     
-    # 日本語 (Japonés)
-    "スペイン", "supein", "スペイン人", "supeinjin",
-    "マドリード", "madorīdo", "バルセロナ", "baruserona",
+    # 日本語 (Japonés) - MEJORADO
+    "スペイン", "スペインの", "スペイン人",
+    "マドリード", "バルセロナ", "カタルーニャ",
+    "スペイン首相", "スペイン政府",
     
-    # 한국어 (Coreano)
-    "스페인", "seupain", "스페인 사람", "seupain saram",
-    "마드리드", "madeurideu", "바르셀로나", "bareusellona",
+    # 한국어 (Coreano) - MEJORADO
+    "스페인", "스페인의", "스페인 사람",
+    "마드리드", "바르셀로나", "카탈루냐",
+    "스페인 총리", "스페인 정부",
     
-    # العربية (Árabe)
-    "إسبانيا", "isbania", "إسباني", "isbani",
-    "مدريد", "madrid", "برشلونة", "barshiluna",
+    # العربية (Árabe) - MEJORADO
+    "إسبانيا", "الإسبانية", "الإسبان",
+    "مدريد", "برشلونة", "كاتالونيا",
+    "رئيس الوزراء الإسباني", "الحكومة الإسبانية",
 ]
 
 # Stopwords
@@ -308,7 +309,6 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
     for intento in range(max_intentos):
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            # 👇 QUITADO EL TIMEOUT QUE DABA ERROR
             feed = feedparser.parse(url, request_headers=headers)
             if not feed.bozo or intento == max_intentos-1:
                 return feed
@@ -320,16 +320,17 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
     return None
 
 def menciona_espana(texto):
-    """Detecta si el texto menciona España (versión multilingüe)"""
+    """Detecta si el texto menciona España (versión multilingüe mejorada)"""
     if not texto:
         return False
     texto_lower = texto.lower()
     
+    # Buscar keywords exactas
     for keyword in KEYWORDS_ESPANA:
         if keyword.lower() in texto_lower:
             return True
     
-    # Patrones adicionales
+    # Patrones adicionales (inglés/español)
     patrones = [
         r'\bspanish\b', r'\bspain\b', r'\besp(a|á)ñol\b', r'\bespaña\b',
         r'\bmadrid\b', r'\bbarcelona\b', r'\bcatalon ia\b', r'\bbasque\b',
@@ -1313,9 +1314,9 @@ if __name__ == "__main__":
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_index)
     
-    # 2. Noticias internacionales sobre España
+    # 2. Noticias internacionales sobre España - ✅ AHORA CON LÍMITE CORREGIDO
     logging.info("🌍 Recogiendo noticias internacionales...")
-    noticias_int = recoger_noticias_paralelo(feeds_internacionales, MAX_NOTICIAS_FEED, MAX_NOTICIAS_INTERNACIONAL * 2)
+    noticias_int = recoger_noticias_paralelo(feeds_internacionales, MAX_NOTICIAS_FEED, MAX_NOTICIAS_INTERNACIONAL)  # ✅ CAMBIADO
     
     # Filtrar las que mencionan España
     noticias_espana = []
