@@ -439,26 +439,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
     </script>
     
     <link rel="stylesheet" href="prisma.css?v={cachebuster}">
-    <style>
-        .filtro-container {{
-            background: var(--bg-primary);
-            border-radius: var(--radius-lg);
-            padding: 16px 24px;
-            margin-bottom: 32px;
-            border: 1px solid var(--border-light);
-            display: flex;
-            align-items: center;
-            gap: 16px;
-            flex-wrap: wrap;
-        }}
-        .filtro-container select {{
-            padding: 8px 16px;
-            border-radius: 40px;
-            border: 1px solid var(--border-medium);
-            background: var(--bg-primary);
-            color: var(--text-primary);
-        }}
-    </style>
 </head>
 <body>
     <header class="header glass">
