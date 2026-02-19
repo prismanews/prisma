@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -22,7 +22,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1771533840">
+    <link rel="stylesheet" href="prisma.css?v=1771535822">
     <style>
         .filtro-container {
             background: var(--bg-primary);
@@ -53,8 +53,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-02-19T20:44:00.024706">Actualizado: 19/02/2026 20:44</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-02-19T21:17:02.868691">Actualizado: 19/02/2026 21:17</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -73,6 +73,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -96,8 +97,8 @@
             </select>
         </div>
 
-        <div class="card" data-medios="El Mundo,Yorokobu,Europa Press,La Vanguardia">
-            <h2>En portada: Oriol, cardona y olímpico</h2>
+        <div class="card" data-medios="El Mundo,Yorokobu,La Vanguardia,Europa Press">
+            <h2>En el foco: Oriol, cardona y olímpico</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 4 medios · tono equilibrado · 
@@ -131,7 +132,7 @@
         </div>
 
         <div class="card" data-medios="El Mundo,HuffPost,Europa Press">
-            <h2>Tema principal: Andrés, detenido y horas</h2>
+            <h2>Lo más relevante: Andrés, detenido y horas</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -160,8 +161,38 @@
             <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/influencers-celebrities/el-exprincipe-andres-libertad-pasar-11-horas-detenido-impactante-primera-imagen-salir-comisaria-f202602.html" target="_blank" rel="noopener">El exprincipe Andrés, en libertad tras pasar 11 horas detenido: su impactante primera imagen al salir de comisaria</a></p>
         </div>
 
-        <div class="card" data-medios="El País,Infolibre,OK Diario">
-            <h2>Claves informativas: Competición, juez y único</h2>
+        <div class="card" data-medios="OK Diario,El País">
+            <h2>En el foco: Comprobar, jueves y febrero</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-card">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+                <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/loteria/comprobar-primitiva-resultado-numero-premiado-hoy-jueves-19-febrero-2026-16273268" target="_blank" rel="noopener">La Primitiva: resultado y comprobar número premiado hoy, jueves 19 de febrero de 2026</a></p>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/loteria/comprobar-bonoloto-resultado-numero-premiado-hoy-jueves-19-febrero-2026-16273159" target="_blank" rel="noopener">Bonoloto: comprobar el resultado del sorteo de hoy, jueves 19 de febrero de 2026</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/sorteos/2026-02-19/loteria-nacional-sorteo-del-jueves-19-de-febrero.html" target="_blank" rel="noopener">Lotería Nacional: comprobar sorteo del jueves 19 de febrero</a></p>
+        </div>
+
+        <div class="card" data-medios="Infolibre,OK Diario,El País">
+            <h2>Lo que domina hoy: Competición, juez y único</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -190,8 +221,8 @@
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/abogacia-pide-gobierno-extranjeros-sean-asistidos-letrados-especializados_1_2148430.html" target="_blank" rel="noopener">La Abogacía pide al Gobierno que los extranjeros sean asistidos por letrados especializados</a></p>
         </div>
 
-        <div class="card" data-medios="Europa Press,Infolibre,OK Diario">
-            <h2>En el foco: Irán, trump y decisión</h2>
+        <div class="card" data-medios="El Español,La Vanguardia,El País">
+            <h2>En portada: Copa, valencia y primer</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -203,25 +234,25 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
                 </div>
                 <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
             </div>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/ultima-hora-del-posible-ataque-estados-unidos-iran-directo-todas-novedades-noticias-donald-trump-vivo-16271570" target="_blank" rel="noopener">Posible ataque de EEUU a Irán, en directo: última hora de la decisión de Trump y noticias en vivo hoy</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/baloncesto/2026-02-19/el-valencia-da-el-primer-paso-hacia-la-reconquista-de-la-copa-del-rey.html" target="_blank" rel="noopener">El Valencia da el primer paso hacia la reconquista de la Copa del Rey</a></p>
 
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/trump-decision-atacar-iran-diez-dias_1_2148440.html" target="_blank" rel="noopener">Trump podría tomar una decisión sobre atacar a Irán en unos "diez días"</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/20260219/real-madrid-unicaja-directo-copa-rey-resultado-valoraciones-estadisticas-vivo/1003744137880_22.html" target="_blank" rel="noopener">Real Madrid - Unicaja, en directo Copa del Rey: resultado, valoraciones y estadísticas en vivo</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-trump-asegura-habra-claridad-iran-proximos-diez-dias-inicio-reunion-junta-paz-20260219165535.html" target="_blank" rel="noopener">Trump asegura que habrá "claridad" sobre Irán en "los próximos diez días" al inicio de la reunión sobre la Junta de Paz</a></p>
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/baloncesto/20260219/11470876/valencia-joventut-cuartos-final-copa-del-rey-resumen.html" target="_blank" rel="noopener">El Joventut firma otro adiós tempranero en la Copa del Rey</a></p>
         </div>
 
-        <div class="card" data-medios="Trendencias,El Independiente,Genbeta">
-            <h2>Tema principal: 2026, colores y llevar</h2>
+        <div class="card" data-medios="El Independiente,Genbeta,Trendencias">
+            <h2>En portada: 2026, colores y llevar</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -250,36 +281,8 @@
             <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial" target="_blank" rel="noopener">El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial</a></p>
         </div>
 
-        <div class="card" data-medios="El País,The Objective">
-            <h2>En portada: Gaza, trump y borrell</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-card">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-                <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
-            </div>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-02-19/borrell-von-der-leyen-presencia-ue-junta-paz-gaza-trump/" target="_blank" rel="noopener">Borrell afea a Von der Leyen la presencia de la UE en la Junta de Paz para Gaza de Trump</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-02-19/trump-promete-10000-millones-de-dolares-para-la-reconstruccion-de-gaza.html" target="_blank" rel="noopener">Trump promete 10.000 millones de dólares para la reconstrucción de Gaza</a></p>
-        </div>
-
-        <div class="card" data-medios="El Mundo,OK Diario">
-            <h2>Lo que domina hoy: Alcaraz, semifinales y doha</h2>
+        <div class="card" data-medios="The Objective,El País">
+            <h2>Lo que domina hoy: Trump, junta y gaza</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -291,23 +294,23 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
                 </div>
                 <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
             </div>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/tenis/2026/02/19/69976a09fdddffcf058b4582.html" target="_blank" rel="noopener">El enfado de Alcaraz en su camino hacia las semifinales del torneo de Doha: "Las reglas ATP son una mierda"</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-02-19/trump-promete-10000-millones-de-dolares-para-la-reconstruccion-de-gaza.html" target="_blank" rel="noopener">Trump lanza la Junta de Paz para Gaza sin apoyos de los aliados occidentales</a></p>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/cuando-juega-carlos-alcaraz-semifinales-del-atp-500-doha-contra-rublev-donde-ver-television-directo-gratis-16275411" target="_blank" rel="noopener">Cuándo juega Carlos Alcaraz las semifinales del ATP 500 de Doha contra Rublev y dónde ver por televisión en directo gratis</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-02-19/borrell-von-der-leyen-presencia-ue-junta-paz-gaza-trump/" target="_blank" rel="noopener">Borrell afea a Von der Leyen la presencia de la UE en la Junta de Paz para Gaza de Trump</a></p>
         </div>
 
-        <div class="card" data-medios="HuffPost,La Vanguardia">
-            <h2>Lo más relevante: Carlos, hermano y hizo</h2>
+        <div class="card" data-medios="El Español,Europa Press">
+            <h2>Claves informativas: Ortega, smith y expulsará</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -319,23 +322,51 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 39%;"></div>
-                    <div class="barra-conservadora" style="width: 61%;"></div>
+                    <div class="barra-progresista" style="width: 43%;"></div>
+                    <div class="barra-conservadora" style="width: 57%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 39%</span>
-                    <span>Conservador 61%</span>
+                    <span>Progresista 43%</span>
+                    <span>Conservador 57%</span>
                 </div>
                 <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
             </div>
 
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/gente/20260219/11470886/que-hizo-rey-carlos-iii-inglaterra-arresto-hermano.html" target="_blank" rel="noopener">¿Qué hizo el rey Carlos III de Inglaterra tras el arresto de su hermano?</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/politica/20260219/vox-expulsara-carla-toscano-sigue-alineada-ortega-smith-no-reconoce-nueva-portavoz-madrid/1003744137975_0.html" target="_blank" rel="noopener">Vox también expulsará a Carla Toscano si sigue alineada con Ortega Smith y no reconoce a la nueva portavoz de Madrid</a></p>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/el-exprincipe-andres-historia-detencion-sobrevivira-monarquia-hundimiento-verguenza-hermano-carlos-iii-f202602.html" target="_blank" rel="noopener">El expríncipe Andrés hace historia con su detención: ¿sobrevivirá la monarquía al hundimiento y la vergüenza del hermano de Carlos III?</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/castilla-y-leon/noticia-abascal-expulsion-ortega-smith-no-temo-nada-nadie-direccion-manda-eso-va-seguir-siendo-asi-20260219144403.html" target="_blank" rel="noopener">Abascal sobre la expulsión de Ortega Smith: "No temo a nada ni a nadie. La dirección manda y eso va a seguir siendo así"</a></p>
         </div>
 
-        <div class="card" data-medios="El País,La Vanguardia">
-            <h2>Lo más relevante: Epstein, expríncipe y andres</h2>
+        <div class="card" data-medios="El Español,HuffPost">
+            <h2>En el foco: Expríncipe, andrés y hace</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-card">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 40%;"></div>
+                    <div class="barra-conservadora" style="width: 60%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 40%</span>
+                    <span>Conservador 60%</span>
+                </div>
+                <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/el-exprincipe-andres-historia-detencion-sobrevivira-monarquia-hundimiento-verguenza-hermano-carlos-iii-f202602.html" target="_blank" rel="noopener">El expríncipe Andrés hace historia con su detención: ¿sobrevivirá la monarquía al hundimiento y la vergüenza del hermano de Carlos III?</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/otros-deportes/20260219/oro-historico-cardona-milagro-alonso-sufrir-atropello-pareja-esqui-maria-perez-alvaro-martin/1003744138092_0.html" target="_blank" rel="noopener">Del oro histórico de Cardona al milagro de Alonso tras sufrir un atropello: una pareja en el esquí a lo María Pérez y Álvaro Martín</a></p>
+        </div>
+
+        <div class="card" data-medios="La Vanguardia,El País">
+            <h2>Tema principal: Epstein, expríncipe y andres</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -362,7 +393,7 @@
             <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/gente/20260219/11470880/rey-federico-dinamarca-aparece-papeles-epstein-principe.html" target="_blank" rel="noopener">El rey Federico de Dinamarca también aparece en los “papeles de Epstein” cuando era príncipe</a></p>
         </div>
 
-        <div class="card" data-medios="Xataka,Genbeta">
+        <div class="card" data-medios="Genbeta,Xataka">
             <h2>Lo que domina hoy: Teletrabajo, vivirá y segunda</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
@@ -390,8 +421,8 @@
             <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/laboral/jefe-boomer-no-entendia-que-sus-empleados-millennials-no-quisieran-cargos-directivos-ellos-tienen-claras-razones" target="_blank" rel="noopener">Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos. Ellos tienen claras las razones</a></p>
         </div>
 
-        <div class="card" data-medios="eldiario.es,Infolibre">
-            <h2>Lo más relevante: Reforma, laboral y huelga</h2>
+        <div class="card" data-medios="Infolibre,eldiario.es">
+            <h2>Tema principal: Reforma, laboral y huelga</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -418,8 +449,8 @@
             <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/argentina-javier-milei-reforma-laboral_1_13005480.html" target="_blank" rel="noopener">Milei intenta aprobar su reforma laboral ultraliberal en un día de huelga general y tensión en las calles</a></p>
         </div>
 
-        <div class="card" data-medios="eldiario.es,El Mundo">
-            <h2>Claves informativas: Gatos, cáncer y convierten</h2>
+        <div class="card" data-medios="El Mundo,eldiario.es">
+            <h2>Lo más relevante: Gatos, cáncer y convierten</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -446,8 +477,8 @@
             <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/sociedad/estudio-tumores-gatos-domesticos-ofrece-nuevas-claves-entender-cancer-humano_1_12995130.html" target="_blank" rel="noopener">El estudio de los tumores en gatos domésticos ofrece nuevas claves para entender el cáncer humano</a></p>
         </div>
 
-        <div class="card" data-medios="eldiario.es,El Mundo">
-            <h2>Lo que domina hoy: Gibson, secuela y pasión</h2>
+        <div class="card" data-medios="Infolibre,Europa Press">
+            <h2>En el foco: Trump, irán y diez</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -459,51 +490,23 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
                 </div>
                 <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
             </div>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/cultura/cine/secuela-pasion-cristo-contara-obispo-ultra-excomulgado-papa-francisco-asesor-religioso_1_13005753.html" target="_blank" rel="noopener">Mel Gibson elige como asesor religioso para la secuela de 'La pasión de Cristo' a un obispo ultra excomulgado por el papa Francisco</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/trump-decision-atacar-iran-diez-dias_1_2148440.html" target="_blank" rel="noopener">Trump podría tomar una decisión sobre atacar a Irán en unos "diez días"</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/cultura/cine/2026/02/19/69974cdbe9cf4aeb3a8b4576.html" target="_blank" rel="noopener">Mel Gibson rueda en Italia la secuela de 'La pasión de Cristo' con un obispo excomulgado</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-trump-asegura-habra-claridad-iran-proximos-diez-dias-inicio-reunion-junta-paz-20260219165535.html" target="_blank" rel="noopener">Trump asegura que habrá "claridad" sobre Irán en "los próximos diez días" al inicio de la reunión sobre la Junta de Paz</a></p>
         </div>
 
         <div class="card" data-medios="Applesfera">
-            <h2>Claves informativas: Iphone, compartir y ubicación</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-card">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-                <p class="sesgo-nota">Análisis automático basado en el lenguaje de los titulares</p>
-            </div>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/iphone/he-compartido-mi-ubicacion-mi-pareja-durante-30-dias-seguidos-esto-que-le-ha-pasado-a-bateria-mi-iphone" target="_blank" rel="noopener">Compartir la ubicación por WhatsApp y por Buscar no hace lo mismo con la batería del iPhone. Un mes de prueba lo deja bastante claro</a></p>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/trucos/cinco-razones-que-utilizar-pendrive-iphone-sigue-siendo-util-pleno-2026" target="_blank" rel="noopener">Cinco razones por las que utilizar un pendrive en el iPhone sigue siendo útil en pleno 2026</a></p>
-        </div>
-
-        <div class="card" data-medios="Applesfera">
-            <h2>Tema principal: Apple, podcast y justo</h2>
+            <h2>Lo que domina hoy: Apple, podcast y justo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 1 medios · tono equilibrado · 
