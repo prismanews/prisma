@@ -89,7 +89,7 @@ feeds_internacionales = {
     "La Repubblica": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
     # 🇵🇹 Portugués
     "Publico PT": "https://www.publico.pt/rss",
-    "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+    # "Folha Brasil": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
     # 🇪🇺 Europa general
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
     # 🌏 Asia
@@ -97,14 +97,14 @@ feeds_internacionales = {
     "Japan Times": "https://www.japantimes.co.jp/feed/",
     "China Daily": "http://www.chinadaily.com.cn/rss/world_rss.xml",
     # 🌎 América Latina
-    "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
+    # "Clarin": "https://www.clarin.com/rss/lo-ultimo/",
     "El Tiempo CO": "https://www.eltiempo.com/rss/colombia.xml",
     "Granma": "http://www.granma.cu/feed",
     "Cubadebate": "http://www.cubadebate.cu/feed/",
     "Prensa Latina": "https://www.prensa-latina.cu/feed/",
     "Infobae América": "https://www.infobae.com/america/arc/outboundfeeds/rss/",
     "El Universal MX": "https://www.eluniversal.com.mx/rss",
-    "La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+    #"La Nación AR": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
     "El Comercio PE": "https://elcomercio.pe/arc/outboundfeeds/rss/",
     "El Nuevo Día (Puerto Rico)": "https://www.elnuevodia.com/rss/",
     "El Universal (Venezuela)": "https://www.eluniversal.com/rss/",
