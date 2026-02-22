@@ -1109,64 +1109,20 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
 '''
     return html
 
-# ========== GENERAR VIGILANTE.HTML (con JavaScript para leer URL) ==========
+# ========== GENERAR VIGILANTE.HTML (con búsqueda real desde JSON) ==========
 def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     consulta_url = urllib.parse.quote(consulta)
     
-    # Generar HTML de resultados (igual que antes)
-    resultados_html = ""
-    if not grupos:
-        resultados_html = f'''
-        <div class="card" style="text-align: center; padding: 60px;" id="no-resultados">
-            <h2>😕 No encontramos noticias sobre "<span id="consulta-actual">{consulta}</span>"</h2>
-            <p>Prueba con otras palabras o términos más generales.</p>
-            <p style="margin-top: 20px; font-size: 14px; color: var(--text-tertiary);">
-                La búsqueda es semántica, no solo por palabras exactas. 
-                Intenta con: vivienda, sanidad, inmigración, cambio climático...
-            </p>
-        </div>
-'''
-    else:
-        for i, grupo in enumerate(grupos[:10]):
-            sesgo = analizar_sesgo(grupo, noticias_filtradas)
-            resumen = resumen_prisma(grupo, noticias_filtradas)
-            titular = titular_prisma(grupo, noticias_filtradas)
-            
-            resultados_html += f'''
-        <div class="card">
-            <h2>{titular}</h2>
-            <div class="resumen">
-                {resumen['emoji']} <strong>Resumen IA:</strong>
-                {resumen['num_medios']} medios · {resumen['sentimiento']} · 
-                {', '.join(resumen['angulos']) if resumen['angulos'] else 'enfoque directo'}
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">{sesgo['texto']}</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: {sesgo['pct_prog']}%;"></div>
-                    <div class="barra-conservadora" style="width: {sesgo['pct_cons']}%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista {sesgo['pct_prog']}%</span>
-                    <span>Conservador {sesgo['pct_cons']}%</span>
-                </div>
-            </div>
-'''
-            for idx in grupo[:5]:
-                n = noticias_filtradas[idx]
-                resultados_html += f'''
-            <p><strong>{n['medio']}:</strong> <a href="{n['link']}" target="_blank" rel="noopener">{n['titulo']}</a></p>
-'''
-            resultados_html += '''        </div>
-'''
+    # Convertir TODAS las noticias a JSON para JavaScript (no solo las filtradas)
+    with open("noticias_cache.json", "r", encoding="utf-8") as f:
+        todas_noticias = json.load(f)
     
-    # Estadísticas
-    medios_encontrados = len(set(n["medio"] for n in noticias_filtradas)) if noticias_filtradas else 0
-    num_noticias = len(noticias_filtradas)
-    num_grupos = len(grupos)
+    noticias_json = json.dumps(todas_noticias, ensure_ascii=False)
+    
+    # Generar HTML de resultados (inicialmente vacío, lo llenará JS)
+    resultados_html = '''
+        <div id="resultados-container"></div>
+    '''
     
     html = f'''<!DOCTYPE html>
 <html lang="es">
@@ -1257,10 +1213,85 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             font-size: 14px;
             flex-wrap: wrap;
         }}
-        .loading {{
-            text-align: center;
-            padding: 60px;
-            color: var(--text-tertiary);
+        .card {{
+            background: var(--bg-primary);
+            border-radius: var(--radius-xl);
+            padding: 28px;
+            margin-bottom: 28px;
+            border: 1px solid var(--border-light);
+            transition: var(--transition-slow);
+            position: relative;
+            overflow: hidden;
+            animation: fadeIn 0.5s ease-out;
+            box-shadow: var(--shadow-sm);
+        }}
+        .card:hover {{
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg), var(--shadow-primary);
+            border-color: transparent;
+        }}
+        .card h2 {{
+            font-size: 24px;
+            margin: 0 0 16px;
+            color: var(--text-primary);
+            line-height: 1.3;
+        }}
+        .resumen {{
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: 14px 20px;
+            margin: 16px 0;
+            font-size: 14px;
+            color: var(--text-secondary);
+            border-left: 4px solid var(--primary);
+            line-height: 1.6;
+        }}
+        .sesgo-simple {{
+            background: var(--accent-soft);
+            border-radius: var(--radius-lg);
+            padding: 16px;
+            margin: 16px 0;
+            border: 1px solid var(--accent-light);
+        }}
+        .sesgo-header {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+        }}
+        .sesgo-texto {{
+            font-weight: 600;
+            color: var(--text-primary);
+            font-size: 14px;
+        }}
+        .sesgo-barra {{
+            display: flex;
+            height: 24px;
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 10px 0 6px;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+        }}
+        .barra-progresista {{
+            background: linear-gradient(90deg, #3b82f6, #60a5fa);
+            height: 100%;
+            transition: width 0.3s ease;
+        }}
+        .barra-conservadora {{
+            background: linear-gradient(90deg, #f97316, #fb923c);
+            height: 100%;
+            transition: width 0.3s ease;
+        }}
+        .sesgo-etiquetas {{
+            display: flex;
+            justify-content: space-between;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }}
+        @keyframes fadeIn {{
+            from {{ opacity: 0; transform: translateY(15px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
         }}
     </style>
 </head>
@@ -1287,26 +1318,26 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
 
     <div class="container">
         <div class="vigilante-header">
-            <h2><span>👁️</span> Modo Vigilante: <span id="consulta-titulo">{consulta}</span></h2>
-            <p>Estamos vigilando cómo los medios hablan de <strong>"<span id="consulta-descripcion">{consulta}</span>"</strong>. Aquí tienes las noticias relacionadas y su análisis.</p>
+            <h2><span>👁️</span> Modo Vigilante: <span id="consulta-titulo"></span></h2>
+            <p>Estamos vigilando cómo los medios hablan de <strong>"<span id="consulta-descripcion"></span>"</strong>. Aquí tienes las noticias relacionadas y su análisis.</p>
         </div>
 
         <!-- Buscador -->
         <div class="search-box">
             <form class="search-form" id="search-form" onsubmit="return buscar(event)">
-                <input type="text" id="search-input" placeholder="Ej: vivienda, inmigración, sanidad..." value="{consulta}" autofocus>
+                <input type="text" id="search-input" placeholder="Ej: vivienda, inmigración, sanidad..." autofocus>
                 <button type="submit">🔍 Vigilar</button>
             </form>
             <div class="stats-vigilante" id="stats">
-                <span>📊 {num_noticias} noticias encontradas</span>
-                <span>📰 {medios_encontrados} medios diferentes</span>
-                <span>⚡ {num_grupos} enfoques detectados</span>
+                <span>📊 <span id="num-noticias">0</span> noticias encontradas</span>
+                <span>📰 <span id="num-medios">0</span> medios diferentes</span>
+                <span>⚡ <span id="num-grupos">0</span> enfoques detectados</span>
             </div>
         </div>
 
         <!-- Resultados -->
-        <div id="resultados">
-            {resultados_html}
+        <div id="resultados-container" class="loading">
+            Cargando resultados...
         </div>
         
     </div>
@@ -1318,6 +1349,9 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
     </div>
 
     <script>
+        // TODAS las noticias cargadas desde el JSON de Python
+        const todasNoticias = {noticias_json};
+        
         // Función para obtener parámetro de URL
         function getQueryParam(param) {{
             const urlParams = new URLSearchParams(window.location.search);
@@ -1334,18 +1368,86 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             return false;
         }}
         
-        // Actualizar título con la consulta
-        function actualizarTitulo() {{
-            const consulta = getQueryParam('q');
-            if (consulta) {{
-                document.getElementById('consulta-titulo').textContent = consulta;
-                document.getElementById('consulta-descripcion').textContent = consulta;
-                document.getElementById('search-input').value = consulta;
-                
-                // Actualizar enlace de Twitter
-                const twitterBtn = document.getElementById('twitter-share');
-                twitterBtn.href = `https://twitter.com/intent/tweet?text=👁️%20Estoy%20vigilando%20'${{consulta}}'%20con%20Prisma&url=https://prismanews.github.io/prisma/vigilante.html?q=${{encodeURIComponent(consulta)}}`;
+        // Función para filtrar noticias por consulta (búsqueda simple en títulos)
+        function filtrarNoticias(consulta) {{
+            if (!consulta) return [];
+            
+            const consultaLower = consulta.toLowerCase();
+            return todasNoticias.filter(noticia => 
+                noticia.titulo.toLowerCase().includes(consultaLower)
+            );
+        }}
+        
+        // Función para agrupar noticias (versión simplificada)
+        function agruparNoticias(noticias) {{
+            // Por ahora, devolvemos todas como un solo grupo
+            // En una versión futura, podrías implementar clustering en JS
+            return [noticias];
+        }}
+        
+        // Función para mostrar resultados
+        function mostrarResultados(consulta) {{
+            const noticiasFiltradas = filtrarNoticias(consulta);
+            const grupos = agruparNoticias(noticiasFiltradas);
+            
+            // Actualizar títulos
+            document.getElementById('consulta-titulo').textContent = consulta || "sin consulta";
+            document.getElementById('consulta-descripcion').textContent = consulta || "sin consulta";
+            document.getElementById('search-input').value = consulta;
+            
+            // Actualizar estadísticas
+            document.getElementById('num-noticias').textContent = noticiasFiltradas.length;
+            document.getElementById('num-medios').textContent = [...new Set(noticiasFiltradas.map(n => n.medio))].length;
+            document.getElementById('num-grupos').textContent = grupos.length;
+            
+            // Actualizar enlace de Twitter
+            const twitterBtn = document.getElementById('twitter-share');
+            twitterBtn.href = consulta 
+                ? `https://twitter.com/intent/tweet?text=👁️%20Estoy%20vigilando%20'${{consulta}}'%20con%20Prisma&url=https://prismanews.github.io/prisma/vigilante.html?q=${{encodeURIComponent(consulta)}}`
+                : '#';
+            
+            // Mostrar resultados
+            const container = document.getElementById('resultados-container');
+            container.innerHTML = '';
+            
+            if (noticiasFiltradas.length === 0) {{
+                container.innerHTML = `
+                    <div class="card" style="text-align: center; padding: 60px;">
+                        <h2>😕 No encontramos noticias sobre "${{consulta}}"</h2>
+                        <p>Prueba con otras palabras o términos más generales.</p>
+                        <p style="margin-top: 20px; font-size: 14px; color: var(--text-tertiary);">
+                            La búsqueda es semántica, no solo por palabras exactas. 
+                            Intenta con: vivienda, sanidad, inmigración, cambio climático...
+                        </p>
+                    </div>
+                `;
+                return;
             }}
+            
+            // Mostrar cada grupo
+            grupos.forEach(grupo => {{
+                // Aquí podrías calcular sesgo si tuvieras referencias en JS
+                const card = document.createElement('div');
+                card.className = 'card';
+                
+                let noticiasHTML = '';
+                grupo.slice(0, 5).forEach(noticia => {{
+                    noticiasHTML += `
+                        <p><strong>${{noticia.medio}}:</strong> <a href="${{noticia.link}}" target="_blank" rel="noopener">${{noticia.titulo}}</a></p>
+                    `;
+                }});
+                
+                card.innerHTML = `
+                    <h2>Noticias sobre "${{consulta}}"</h2>
+                    <div class="resumen">
+                        📊 <strong>Resumen IA:</strong>
+                        ${{grupo.length}} noticias
+                    </div>
+                    ${{noticiasHTML}}
+                `;
+                
+                container.appendChild(card);
+            }});
         }}
         
         // Copiar enlace
@@ -1370,24 +1472,16 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
         }}
         
         // Inicializar
-        document.addEventListener('DOMContentLoaded', actualizarTitulo);
-        
-        // Animación de entrada
-        document.querySelectorAll('.card').forEach((card, index) => {{
-            card.style.opacity = '0';
-            card.style.transform = 'translateY(20px)';
-            setTimeout(() => {{
-                card.style.transition = 'all 0.5s ease';
-                card.style.opacity = '1';
-                card.style.transform = 'translateY(0)';
-            }}, index * 100);
+        document.addEventListener('DOMContentLoaded', () => {{
+            const consulta = getQueryParam('q');
+            mostrarResultados(consulta);
         }});
     </script>
 </body>
 </html>
 '''
     return html
-
+    
 # ========== GENERAR SITEMAP Y ROBOTS ==========
 def generar_sitemap():
     fecha_iso = datetime.now().isoformat()
