@@ -23,7 +23,121 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1771770792">
+    <link rel="stylesheet" href="prisma.css?v=1771772209">
+    <style>
+        .about-container { max-width: 900px; margin: 0 auto; }
+        .about-card {
+            background: var(--bg-primary);
+            border-radius: var(--radius-xl);
+            padding: 48px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border-light);
+            position: relative;
+            overflow: hidden;
+        }
+        .about-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, var(--primary), var(--accent), var(--primary));
+            background-size: 200% 100%;
+            animation: gradientMove 8s ease infinite;
+        }
+        @keyframes gradientMove {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .hero-about {
+            text-align: center;
+            margin-bottom: 48px;
+            padding-bottom: 32px;
+            border-bottom: 2px dashed var(--border-light);
+        }
+        .hero-about h1 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero-about p {
+            font-size: 1.3rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 0 auto;
+            font-weight: 300;
+        }
+        .about-section {
+            margin-bottom: 40px;
+        }
+        .about-section h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .about-section h2::before {
+            content: '◆';
+            color: var(--accent);
+            font-size: 1.8rem;
+            opacity: 0.7;
+        }
+        .about-section p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+            margin-bottom: 20px;
+        }
+        .about-highlight {
+            background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
+            padding: 24px 32px;
+            border-radius: var(--radius-lg);
+            margin: 32px 0;
+            border-left: 4px solid var(--primary);
+            font-style: italic;
+        }
+        .contacto-box {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: 32px;
+            text-align: center;
+            border: 1px solid var(--border-light);
+            margin: 40px 0 20px;
+        }
+        .contacto-box a {
+            display: inline-block;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-decoration: none;
+            padding: 12px 32px;
+            border-radius: 50px;
+            background: var(--bg-primary);
+            border: 2px solid var(--primary);
+            transition: var(--transition);
+        }
+        .contacto-box a:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
+        .firma {
+            text-align: center;
+            margin-top: 48px;
+            padding-top: 32px;
+            border-top: 2px dashed var(--border-light);
+            font-size: 1.2rem;
+            color: var(--text-tertiary);
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
     <header class="header glass">
@@ -34,8 +148,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-02-22T14:33:12.052996">Actualizado: 22/02/2026 14:33</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-02-22T14:56:49.088467">Actualizado: 22/02/2026 14:56</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html">Inicio</a>
@@ -85,7 +199,6 @@
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA&url=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn facebook">📘</a>
-        <a href="https://wa.me/?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA%20https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn whatsapp">📱</a>
         <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/sobre.html')" class="share-btn copy">📋</button>
     </div>
 
@@ -98,7 +211,6 @@
                     position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
                     background: rgba(0,0,0,0.9); color: white; padding: 12px 24px;
                     border-radius: 50px; font-size: 14px; z-index: 10000;
-                    animation: slideUp 0.3s ease;
                 `;
                 document.body.appendChild(toast);
                 setTimeout(() => toast.remove(), 2000);
