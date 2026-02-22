@@ -546,7 +546,7 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
 '''
     return html
     
-# ========== GENERAR ESPANA.HTML (SIN FECHA DUPLICADA) ==========
+# ========== GENERAR ESPANA.HTML (SIN FECHA DUPLICADA) - VERSIÓN CORREGIDA ==========
 def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     
     if not noticias_espana:
@@ -574,7 +574,7 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
             </div>
             """
     
-    html = f"""<!DOCTYPE html>
+    html = f'''<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -622,7 +622,7 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     <div class="container">
         <div class="internacional-header">
             <h2><span>🌍</span> España en el mundo</h2>
-            <p>Lo que la prensa internacional publica sobre España.</p>  <!-- ✅ SIN FECHA DUPLICADA -->
+            <p>Lo que la prensa internacional publica sobre España.</p>
             <div class="stats" style="margin-top: 16px; justify-content: flex-start;">
                 <span>📰 {len(noticias_espana)} noticias encontradas</span>
             </div>
@@ -651,4 +651,43 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     <script>
         function copiarPortapapeles(texto) {{
             navigator.clipboard.writeText(texto).then(() => {{
-                let toast = document.createElement
+                let toast = document.createElement('div');
+                toast.textContent = '✅ Enlace copiado';
+                toast.style.cssText = `
+                    position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
+                    background: rgba(0,0,0,0.9); color: white; padding: 12px 24px;
+                    border-radius: 50px; font-size: 14px; z-index: 10000;
+                `;
+                document.body.appendChild(toast);
+                setTimeout(() => toast.remove(), 2000);
+            }});
+        }}
+
+        const medios = new Set();
+        document.querySelectorAll('.noticia-item').forEach(item => {{
+            medios.add(item.dataset.medio);
+        }});
+        
+        const select = document.getElementById('filtro-medio');
+        [...medios].sort().forEach(medio => {{
+            const option = document.createElement('option');
+            option.value = medio;
+            option.textContent = medio;
+            select.appendChild(option);
+        }});
+        
+        select.addEventListener('change', function(e) {{
+            const medio = e.target.value;
+            document.querySelectorAll('.noticia-item').forEach(item => {{
+                if (medio === 'todos' || item.dataset.medio === medio) {{
+                    item.style.display = 'flex';
+                }} else {{
+                    item.style.display = 'none';
+                }}
+            }});
+        }});
+    </script>
+</body>
+</html>
+'''
+    return html
