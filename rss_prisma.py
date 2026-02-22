@@ -435,21 +435,19 @@ def resumen_prisma(indices, noticias):
         "emoji": emoji
     }
 
-# ========== GENERAR INDEX.HTML (VERSIÓN SIMPLIFICADA) ==========
-def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
-    html = f"""<!DOCTYPE html>
+# ========== GENERAR SOBRE.HTML (CON CABECERA COMPLETA) - VERSIÓN CORREGIDA ==========
+def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
+    html = f'''<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente {medios_unicos} medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <title>Sobre Prisma | Comparador IA de noticias</title>
+    <meta name="description" content="Prisma es un comparador inteligente de noticias que analiza titulares de distintos medios para ofrecer contexto, detectar tendencias y reducir ruido informativo.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://prismanews.github.io/prisma/">
-    <meta property="og:title" content="Prisma noticias IA">
-    <meta property="og:description" content="Comparador inteligente de noticias con IA">
+    <link rel="canonical" href="https://prismanews.github.io/prisma/sobre.html">
+    <meta property="og:title" content="Sobre Prisma | IA para entender los medios">
+    <meta property="og:description" content="Comparador de noticias con IA que analiza distintos medios para entender mejor la actualidad.">
     <meta property="og:image" content="Logo.PNG">
-    <meta property="og:url" content="https://prismanews.github.io/prisma/">
-    <meta name="twitter:card" content="summary_large_image">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- Google Analytics -->
@@ -476,97 +474,60 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                 <div class="stats">📰 {medios_unicos} medios · <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time></div>
             </div>
             <nav class="nav">
-                <a href="index.html" class="active">Inicio</a>
-                <a href="sobre.html">Sobre Prisma</a>
+                <a href="index.html">Inicio</a>
+                <a href="sobre.html" class="active">Sobre Prisma</a>
                 <a href="espana.html">🌍 España en el mundo</a>
                 <a href="mailto:ovalero@gmail.com">Contacto</a>
             </nav>
         </div>
     </header>
 
-    <div class="container">
-        <!-- Filtro interactivo -->
-        <div class="filtro-container">
-            <label for="filtro-medio">📋 Filtrar por medio:</label>
-            <select id="filtro-medio">
-                <option value="todos">Todos los medios</option>
-"""
-    
-    # Añadir opciones de medios
-    medios_lista = sorted(set(n["medio"] for n in noticias))
-    for medio in medios_lista:
-        html += f'                <option value="{medio}">{medio}</option>\n'
-    
-    html += """            </select>
-        </div>
-"""
-    
-    # Añadir grupos
-    for i, grupo in enumerate(grupos[:15]):
-        sesgo = analizar_sesgo(grupo, noticias)
-        resumen = resumen_prisma(grupo, noticias)
-        titular = titular_prisma(grupo, noticias)
-        
-        medios_grupo = list(set(noticias[i]["medio"] for i in grupo))
-        medios_str = ",".join(medios_grupo)
-        
-        html += f"""
-        <div class="card" data-medios="{medios_str}">
-            <h2>{titular}</h2>
-            <div class="resumen">
-                {resumen['emoji']} <strong>Resumen IA:</strong>
-                {resumen['num_medios']} medios · {resumen['sentimiento']} · 
-                {', '.join(resumen['angulos']) if resumen['angulos'] else 'enfoque directo'}
+    <div class="container about-container">
+        <div class="about-card">
+            <div class="hero-about">
+                <h1>IA para entender mejor las noticias</h1>
+                <p>Prisma compara titulares de múltiples medios para detectar tendencias, enfoques y temas dominantes. Más contexto. Menos ruido.</p>
             </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">{sesgo['texto']}</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: {sesgo['pct_prog']}%;"></div>
-                    <div class="barra-conservadora" style="width: {sesgo['pct_cons']}%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista {sesgo['pct_prog']}%</span>
-                    <span>Conservador {sesgo['pct_cons']}%</span>
+            
+            <div class="about-section">
+                <h2>Qué es Prisma</h2>
+                <p>Prisma es un proyecto independiente que utiliza inteligencia artificial para analizar cómo distintos medios cuentan la actualidad. No genera noticias ni opinión: solo agrupa titulares existentes y aplica análisis semántico para facilitar una visión más amplia.</p>
+                <div class="about-highlight">
+                    <p>"Si varios medios hablan de lo mismo, compararlos ayuda a entender mejor qué está ocurriendo en el mundo."</p>
                 </div>
             </div>
-"""
-        
-        for idx in grupo[:6]:
-            n = noticias[idx]
-            html += f"""
-            <p><strong>{n['medio']}:</strong> <a href="{n['link']}" target="_blank" rel="noopener">{n['titulo']}</a></p>
-"""
-        
-        html += "        </div>\n"
-    
-    # Call to Action
-    html += """
-        <div class="cta-section">
-            <h3>¿Te gusta Prisma?</h3>
-            <p>Ayúdanos a crecer y entender mejor los medios de comunicación</p>
-            <div class="cta-buttons">
-                <button onclick="compartirPrisma()" class="cta-btn primary">📢 Compartir</button>
-                <a href="sobre.html" class="cta-btn secondary">🔍 Cómo funciona</a>
-                <a href="https://github.com/tu-usuario/prisma" target="_blank" class="cta-btn github">⭐ Seguir proyecto</a>
+            
+            <div class="about-section">
+                <h2>Por qué nace</h2>
+                <p>Como lector habitual de prensa y profesional técnico, me interesaba explorar cómo la IA puede reducir el ruido informativo, evitar burbujas mediáticas y ofrecer una perspectiva más completa de la actualidad.</p>
+                <p>Es un experimento abierto: sin ánimo comercial ni ideológico. Solo curiosidad, aprendizaje y ganas de crear algo útil.</p>
             </div>
+            
+            <div class="about-section">
+                <h2>Estado del proyecto</h2>
+                <p>Prisma está en evolución constante. Se irán incorporando nuevas fuentes, mejor análisis semántico y mejoras visuales. Este es solo el comienzo.</p>
+            </div>
+            
+            <div class="contacto-box">
+                <p>📩 <strong>Contacto directo</strong></p>
+                <a href="mailto:ovalero@gmail.com">ovalero@gmail.com</a>
+            </div>
+            
+            <p class="firma">Proyecto personal creado con curiosidad, IA y muchas ganas 🙂</p>
         </div>
     </div>
 
-    <!-- Botones flotantes compartir -->
+    <!-- Botones flotantes -->
     <div class="compartir-flotante">
-        <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma&url=https://prismanews.github.io/prisma/" target="_blank" class="share-btn twitter">🐦</a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/" target="_blank" class="share-btn facebook">📘</a>
-        <a href="https://wa.me/?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma%20https://prismanews.github.io/prisma/" target="_blank" class="share-btn whatsapp">📱</a>
-        <a href="https://t.me/share/url?url=https://prismanews.github.io/prisma/&text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma" target="_blank" class="share-btn telegram">📨</a>
-        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/')" class="share-btn copy">📋</button>
+        <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA&url=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn twitter">🐦</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn facebook">📘</a>
+        <a href="https://wa.me/?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA%20https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn whatsapp">📱</a>
+        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/sobre.html')" class="share-btn copy">📋</button>
     </div>
 
     <script>
-        function copiarPortapapeles(texto) {
-            navigator.clipboard.writeText(texto).then(() => {
+        function copiarPortapapeles(texto) {{
+            navigator.clipboard.writeText(texto).then(() => {{
                 let toast = document.createElement('div');
                 toast.textContent = '✅ Enlace copiado';
                 toast.style.cssText = `
@@ -577,54 +538,14 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                 `;
                 document.body.appendChild(toast);
                 setTimeout(() => toast.remove(), 2000);
-            });
-        }
-
-        function compartirPrisma() {
-            if (navigator.share) {
-                navigator.share({
-                    title: 'Prisma | Comparador IA de noticias',
-                    text: 'Analizamos el sesgo de los medios con IA',
-                    url: 'https://prismanews.github.io/prisma/'
-                });
-            } else {
-                copiarPortapapeles('https://prismanews.github.io/prisma/');
-            }
-        }
-
-        // Filtro por medio
-        document.getElementById('filtro-medio').addEventListener('change', function(e) {
-            const medio = e.target.value;
-            document.querySelectorAll('.card').forEach(card => {
-                if (medio === 'todos') {
-                    card.style.display = 'block';
-                } else {
-                    const mediosCard = card.dataset.medios.split(',');
-                    if (mediosCard.includes(medio)) {
-                        card.style.display = 'block';
-                    } else {
-                        card.style.display = 'none';
-                    }
-                }
-            });
-        });
-
-        // Animación de entrada
-        document.querySelectorAll('.card').forEach((card, index) => {
-            card.style.opacity = '0';
-            card.style.transform = 'translateY(20px)';
-            setTimeout(() => {
-                card.style.transition = 'all 0.5s ease';
-                card.style.opacity = '1';
-                card.style.transform = 'translateY(0)';
-            }, index * 100);
-        });
+            }});
+        }}
     </script>
 </body>
 </html>
-"""
+'''
     return html
-
+    
 # ========== GENERAR ESPANA.HTML (SIN FECHA DUPLICADA) ==========
 def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     
