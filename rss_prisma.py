@@ -1109,18 +1109,9 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
 '''
     return html
 
-# ========== GENERAR VIGILANTE.HTML ==========
-# ========== GENERAR VIGILANTE.HTML (con JavaScript) ==========
+# ========== GENERAR VIGILANTE.HTML (con JavaScript para leer URL) ==========
 def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     consulta_url = urllib.parse.quote(consulta)
-    
-    # Convertir noticias a JSON para JavaScript
-    noticias_json = json.dumps([{
-        "titulo": n["titulo"],
-        "medio": n["medio"],
-        "link": n["link"],
-        "fecha": n["fecha"]
-    } for n in noticias_filtradas], ensure_ascii=False)
     
     # Generar HTML de resultados (igual que antes)
     resultados_html = ""
@@ -1129,6 +1120,10 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
         <div class="card" style="text-align: center; padding: 60px;" id="no-resultados">
             <h2>😕 No encontramos noticias sobre "<span id="consulta-actual">{consulta}</span>"</h2>
             <p>Prueba con otras palabras o términos más generales.</p>
+            <p style="margin-top: 20px; font-size: 14px; color: var(--text-tertiary);">
+                La búsqueda es semántica, no solo por palabras exactas. 
+                Intenta con: vivienda, sanidad, inmigración, cambio climático...
+            </p>
         </div>
 '''
     else:
@@ -1185,6 +1180,9 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
     <meta property="og:description" content="Busca cualquier tema y analizamos cómo lo cubren los medios.">
     <meta property="og:image" content="Logo.PNG">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
@@ -1264,86 +1262,6 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             padding: 60px;
             color: var(--text-tertiary);
         }}
-        .card {{
-            background: var(--bg-primary);
-            border-radius: var(--radius-xl);
-            padding: 28px;
-            margin-bottom: 28px;
-            border: 1px solid var(--border-light);
-            transition: var(--transition-slow);
-            position: relative;
-            overflow: hidden;
-            animation: fadeIn 0.5s ease-out;
-            box-shadow: var(--shadow-sm);
-        }}
-        .card:hover {{
-            transform: translateY(-4px);
-            box-shadow: var(--shadow-lg), var(--shadow-primary);
-            border-color: transparent;
-        }}
-        .card h2 {{
-            font-size: 24px;
-            margin: 0 0 16px;
-            color: var(--text-primary);
-            line-height: 1.3;
-        }}
-        .resumen {{
-            background: var(--bg-secondary);
-            border-radius: var(--radius-lg);
-            padding: 14px 20px;
-            margin: 16px 0;
-            font-size: 14px;
-            color: var(--text-secondary);
-            border-left: 4px solid var(--primary);
-            line-height: 1.6;
-        }}
-        .sesgo-simple {{
-            background: var(--accent-soft);
-            border-radius: var(--radius-lg);
-            padding: 16px;
-            margin: 16px 0;
-            border: 1px solid var(--accent-light);
-        }}
-        .sesgo-header {{
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-bottom: 10px;
-        }}
-        .sesgo-texto {{
-            font-weight: 600;
-            color: var(--text-primary);
-            font-size: 14px;
-        }}
-        .sesgo-barra {{
-            display: flex;
-            height: 24px;
-            border-radius: 12px;
-            overflow: hidden;
-            margin: 10px 0 6px;
-            box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
-        }}
-        .barra-progresista {{
-            background: linear-gradient(90deg, #3b82f6, #60a5fa);
-            height: 100%;
-            transition: width 0.3s ease;
-        }}
-        .barra-conservadora {{
-            background: linear-gradient(90deg, #f97316, #fb923c);
-            height: 100%;
-            transition: width 0.3s ease;
-        }}
-        .sesgo-etiquetas {{
-            display: flex;
-            justify-content: space-between;
-            font-size: 13px;
-            font-weight: 600;
-            margin-bottom: 6px;
-        }}
-        @keyframes fadeIn {{
-            from {{ opacity: 0; transform: translateY(15px); }}
-            to {{ opacity: 1; transform: translateY(0); }}
-        }}
     </style>
 </head>
 <body>
@@ -1400,21 +1318,13 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
     </div>
 
     <script>
-        // NOTICIAS PRE-CARGADAS (generadas por Python)
-        const todasLasNoticias = {json.dumps([{
-            "titulo": n["titulo"],
-            "medio": n["medio"],
-            "link": n["link"],
-            "fecha": n["fecha"]
-        } for n in noticias], ensure_ascii=False)};
-        
         // Función para obtener parámetro de URL
         function getQueryParam(param) {{
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(param) || "";
         }}
         
-        // Función para buscar (simulada - en versión real usaría API)
+        // Función para buscar
         function buscar(event) {{
             if (event) event.preventDefault();
             const consulta = document.getElementById('search-input').value;
