@@ -53,9 +53,19 @@ jobs:
           git config user.name "Prisma Bot"
           git config user.email "bot@prisma.com"
           
-          git add index.html espana.html sitemap.xml robots.txt
+          # ✅ AÑADIDO sobre.html
+          git add index.html espana.html sobre.html sitemap.xml robots.txt
           git diff --cached --quiet || git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
           
           # PULL SEGURO (SIN REBASE) Y PUSH
           git pull --no-rebase origin main --strategy-option=theirs
           git push origin main
+
+      # ✅ NUEVO: Forzar despliegue de GitHub Pages
+      - name: Trigger GitHub Pages rebuild
+        if: steps.verificar.outputs.cambios == 'true'
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
