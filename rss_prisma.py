@@ -435,7 +435,201 @@ def resumen_prisma(indices, noticias):
         "emoji": emoji
     }
 
-# ========== GENERAR SOBRE.HTML (CON CABECERA COMPLETA) - VERSIÓN CORREGIDA ==========
+# ========== GENERAR INDEX.HTML (VERSIÓN SIMPLIFICADA) ==========
+def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
+    html = f'''<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Prisma | Comparador IA de noticias</title>
+    <meta name="description" content="Analizamos automáticamente {medios_unicos} medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://prismanews.github.io/prisma/">
+    <meta property="og:title" content="Prisma noticias IA">
+    <meta property="og:description" content="Comparador inteligente de noticias con IA">
+    <meta property="og:image" content="Logo.PNG">
+    <meta property="og:url" content="https://prismanews.github.io/prisma/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+        gtag('config', 'G-9WZC3GQSN8');
+    </script>
+    
+    <link rel="stylesheet" href="prisma.css?v={cachebuster}">
+</head>
+<body>
+    <header class="header glass">
+        <div class="header-content">
+            <div class="logo">
+                <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
+                <a href="index.html" class="logo-link">PRISMA</a>
+            </div>
+            <div class="header-text">
+                <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
+                <p class="explicacion">Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 {medios_unicos} medios · <time datetime="{fecha_iso}">Actualizado: {fecha_legible}</time></div>
+            </div>
+            <nav class="nav">
+                <a href="index.html" class="active">Inicio</a>
+                <a href="sobre.html">Sobre Prisma</a>
+                <a href="espana.html">🌍 España en el mundo</a>
+                <a href="mailto:ovalero@gmail.com">Contacto</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Filtro interactivo -->
+        <div class="filtro-container">
+            <label for="filtro-medio">📋 Filtrar por medio:</label>
+            <select id="filtro-medio">
+                <option value="todos">Todos los medios</option>
+'''
+    
+    # Añadir opciones de medios
+    medios_lista = sorted(set(n["medio"] for n in noticias))
+    for medio in medios_lista:
+        html += f'                <option value="{medio}">{medio}</option>\n'
+    
+    html += '''            </select>
+        </div>
+'''
+    
+    # Añadir grupos
+    for i, grupo in enumerate(grupos[:15]):
+        sesgo = analizar_sesgo(grupo, noticias)
+        resumen = resumen_prisma(grupo, noticias)
+        titular = titular_prisma(grupo, noticias)
+        
+        medios_grupo = list(set(noticias[i]["medio"] for i in grupo))
+        medios_str = ",".join(medios_grupo)
+        
+        html += f'''
+        <div class="card" data-medios="{medios_str}">
+            <h2>{titular}</h2>
+            <div class="resumen">
+                {resumen['emoji']} <strong>Resumen IA:</strong>
+                {resumen['num_medios']} medios · {resumen['sentimiento']} · 
+                {', '.join(resumen['angulos']) if resumen['angulos'] else 'enfoque directo'}
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">{sesgo['texto']}</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: {sesgo['pct_prog']}%;"></div>
+                    <div class="barra-conservadora" style="width: {sesgo['pct_cons']}%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista {sesgo['pct_prog']}%</span>
+                    <span>Conservador {sesgo['pct_cons']}%</span>
+                </div>
+            </div>
+'''
+        
+        for idx in grupo[:6]:
+            n = noticias[idx]
+            html += f'''
+            <p><strong>{n['medio']}:</strong> <a href="{n['link']}" target="_blank" rel="noopener">{n['titulo']}</a></p>
+'''
+        
+        html += '''        </div>
+'''
+    
+    # Call to Action
+    html += '''
+        <div class="cta-section">
+            <h3>¿Te gusta Prisma?</h3>
+            <p>Ayúdanos a crecer y entender mejor los medios de comunicación</p>
+            <div class="cta-buttons">
+                <button onclick="compartirPrisma()" class="cta-btn primary">📢 Compartir</button>
+                <a href="sobre.html" class="cta-btn secondary">🔍 Cómo funciona</a>
+                <a href="https://github.com/tu-usuario/prisma" target="_blank" class="cta-btn github">⭐ Seguir proyecto</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Botones flotantes compartir -->
+    <div class="compartir-flotante">
+        <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma&url=https://prismanews.github.io/prisma/" target="_blank" class="share-btn twitter">🐦</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/" target="_blank" class="share-btn facebook">📘</a>
+        <a href="https://wa.me/?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma%20https://prismanews.github.io/prisma/" target="_blank" class="share-btn whatsapp">📱</a>
+        <a href="https://t.me/share/url?url=https://prismanews.github.io/prisma/&text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma" target="_blank" class="share-btn telegram">📨</a>
+        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/')" class="share-btn copy">📋</button>
+    </div>
+
+    <script>
+        function copiarPortapapeles(texto) {
+            navigator.clipboard.writeText(texto).then(() => {
+                let toast = document.createElement('div');
+                toast.textContent = '✅ Enlace copiado';
+                toast.style.cssText = `
+                    position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
+                    background: rgba(0,0,0,0.9); color: white; padding: 12px 24px;
+                    border-radius: 50px; font-size: 14px; z-index: 10000;
+                    animation: slideUp 0.3s ease;
+                `;
+                document.body.appendChild(toast);
+                setTimeout(() => toast.remove(), 2000);
+            });
+        }
+
+        function compartirPrisma() {
+            if (navigator.share) {
+                navigator.share({
+                    title: 'Prisma | Comparador IA de noticias',
+                    text: 'Analizamos el sesgo de los medios con IA',
+                    url: 'https://prismanews.github.io/prisma/'
+                });
+            } else {
+                copiarPortapapeles('https://prismanews.github.io/prisma/');
+            }
+        }
+
+        // Filtro por medio
+        document.getElementById('filtro-medio').addEventListener('change', function(e) {
+            const medio = e.target.value;
+            document.querySelectorAll('.card').forEach(card => {
+                if (medio === 'todos') {
+                    card.style.display = 'block';
+                } else {
+                    const mediosCard = card.dataset.medios.split(',');
+                    if (mediosCard.includes(medio)) {
+                        card.style.display = 'block';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                }
+            });
+        });
+
+        // Animación de entrada
+        document.querySelectorAll('.card').forEach((card, index) => {
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                card.style.transition = 'all 0.5s ease';
+                card.style.opacity = '1';
+                card.style.transform = 'translateY(0)';
+            }, index * 100);
+        });
+    </script>
+</body>
+</html>
+'''
+    return html
+
+# ========== GENERAR SOBRE.HTML (CON CABECERA COMPLETA) ==========
 def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
     html = f'''<!DOCTYPE html>
 <html lang="es">
@@ -449,6 +643,9 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
     <meta property="og:description" content="Comparador de noticias con IA que analiza distintos medios para entender mejor la actualidad.">
     <meta property="og:image" content="Logo.PNG">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
@@ -546,7 +743,7 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
 '''
     return html
     
-# ========== GENERAR ESPANA.HTML (SIN FECHA DUPLICADA) - VERSIÓN CORREGIDA ==========
+# ========== GENERAR ESPANA.HTML (SIN FECHA DUPLICADA) ==========
 def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     
     if not noticias_espana:
@@ -586,6 +783,9 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     <meta property="og:description" content="Sigue la actualidad de España vista por la prensa internacional.">
     <meta property="og:image" content="Logo.PNG">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
@@ -691,3 +891,93 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
 </html>
 '''
     return html
+
+# ========== GENERAR SITEMAP Y ROBOTS ==========
+def generar_sitemap():
+    fecha_iso = datetime.now().isoformat()
+    return f'''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>https://prismanews.github.io/prisma/</loc><lastmod>{fecha_iso}</lastmod></url>
+    <url><loc>https://prismanews.github.io/prisma/sobre.html</loc><lastmod>{fecha_iso}</lastmod></url>
+    <url><loc>https://prismanews.github.io/prisma/espana.html</loc><lastmod>{fecha_iso}</lastmod></url>
+</urlset>
+'''
+
+def generar_robots():
+    return '''User-agent: *
+Allow: /
+Sitemap: https://prismanews.github.io/prisma/sitemap.xml
+'''
+
+# ========== MAIN ==========
+if __name__ == "__main__":
+    inicio_total = time.time()
+    logging.info("🚀 Iniciando generación de Prisma")
+    
+    embedding_cache = cargar_cache_embeddings() if CACHE_EMBEDDINGS else {}
+    
+    logging.info("📰 Recogiendo noticias españolas...")
+    noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED_ES, MAX_NOTICIAS_TOTAL, filtrar_espana=False)
+    logging.info(f"✅ {len(noticias)} noticias recogidas")
+    
+    if not noticias:
+        logging.error("❌ No hay noticias. Abortando.")
+        exit(1)
+    
+    logging.info("🧠 Calculando embeddings...")
+    embeddings = calcular_embeddings(noticias, embedding_cache)
+    
+    if CACHE_EMBEDDINGS:
+        guardar_cache_embeddings(embedding_cache)
+    
+    logging.info("🔄 Deduplicando...")
+    noticias, embeddings = deduplicar_noticias(noticias, embeddings)
+    logging.info(f"✅ {len(noticias)} noticias tras deduplicar")
+    
+    logging.info("📊 Clusterizando...")
+    grupos = clusterizar(embeddings)
+    logging.info(f"✅ {len(grupos)} grupos formados")
+    
+    logging.info("📝 Generando index.html...")
+    fecha = datetime.now()
+    fecha_legible = fecha.strftime("%d/%m/%Y %H:%M")
+    fecha_iso = fecha.isoformat()
+    cachebuster = int(fecha.timestamp())
+    medios_unicos = len(set(n["medio"] for n in noticias))
+    
+    html_index = generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos)
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html_index)
+    
+    logging.info("🌍 Recogiendo noticias internacionales...")
+    noticias_espana = recoger_noticias_paralelo(
+        feeds_internacionales, 
+        MAX_NOTICIAS_FEED_INT, 
+        MAX_NOTICIAS_INTERNACIONAL,
+        filtrar_espana=True
+    )
+    
+    noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
+    noticias_espana.sort(key=lambda x: x["fecha"], reverse=True)
+    noticias_espana = noticias_espana[:MAX_NOTICIAS_INTERNACIONAL]
+    logging.info(f"✅ {len(noticias_espana)} noticias sobre España encontradas")
+    
+    logging.info("📝 Generando espana.html...")
+    html_espana = generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos)
+    with open("espana.html", "w", encoding="utf-8") as f:
+        f.write(html_espana)
+    
+    logging.info("📝 Generando sobre.html...")
+    html_sobre = generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos)
+    with open("sobre.html", "w", encoding="utf-8") as f:
+        f.write(html_sobre)
+    
+    logging.info("🗺️ Generando sitemap.xml...")
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(generar_sitemap())
+    
+    with open("robots.txt", "w", encoding="utf-8") as f:
+        f.write(generar_robots())
+    
+    tiempo_total = time.time() - inicio_total
+    logging.info(f"✅ Generación completada en {tiempo_total:.2f} segundos")
