@@ -37,6 +37,21 @@ jobs:
         run: python rss_prisma.py
         continue-on-error: false
 
+      - name: Guardar caché para modo vigilante
+        run: |
+          # Verificar que se creó el archivo de caché
+          if [ -f "noticias_cache.json" ]; then
+            echo "✅ Caché de noticias guardado correctamente"
+          else
+            echo "⚠️ No se encontró noticias_cache.json"
+          fi
+
+      - name: Limpiar búsquedas antiguas del modo vigilante
+        run: |
+          # Eliminar archivos de búsqueda anteriores (opcional)
+          rm -f vigilante_*.html
+          echo "🧹 Limpieza de búsquedas antiguas completada"
+
       - name: Verificar cambios
         id: verificar
         run: |
@@ -53,10 +68,18 @@ jobs:
           git config user.name "Prisma Bot"
           git config user.email "bot@prisma.com"
           
-          # ✅ AHORA SÍ: AÑADIMOS TODOS LOS HTML
-          git add index.html espana.html sobre.html sitemap.xml robots.txt
+          # Añadimos TODOS los archivos importantes
+          git add index.html espana.html sobre.html vigilante.html sitemap.xml robots.txt noticias_cache.json
           git diff --cached --quiet || git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
           
           # PULL SEGURO (SIN REBASE) Y PUSH
           git pull --no-rebase origin main --strategy-option=theirs
           git push origin main
+
+      - name: Trigger GitHub Pages rebuild
+        if: steps.verificar.outputs.cambios == 'true'
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
