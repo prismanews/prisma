@@ -1110,20 +1110,25 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     return html
 
 # ========== GENERAR VIGILANTE.HTML ==========
+# ========== GENERAR VIGILANTE.HTML (con JavaScript) ==========
 def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     consulta_url = urllib.parse.quote(consulta)
     
-    # Generar HTML de resultados
+    # Convertir noticias a JSON para JavaScript
+    noticias_json = json.dumps([{
+        "titulo": n["titulo"],
+        "medio": n["medio"],
+        "link": n["link"],
+        "fecha": n["fecha"]
+    } for n in noticias_filtradas], ensure_ascii=False)
+    
+    # Generar HTML de resultados (igual que antes)
     resultados_html = ""
     if not grupos:
         resultados_html = f'''
-        <div class="card" style="text-align: center; padding: 60px;">
-            <h2>😕 No encontramos noticias sobre "{consulta}"</h2>
+        <div class="card" style="text-align: center; padding: 60px;" id="no-resultados">
+            <h2>😕 No encontramos noticias sobre "<span id="consulta-actual">{consulta}</span>"</h2>
             <p>Prueba con otras palabras o términos más generales.</p>
-            <p style="margin-top: 20px; font-size: 14px; color: var(--text-tertiary);">
-                La búsqueda es semántica, no solo por palabras exactas. 
-                Intenta con: vivienda, sanidad, inmigración, cambio climático...
-            </p>
         </div>
 '''
     else:
@@ -1172,17 +1177,14 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Prisma Vigilante: {consulta} | Comparador IA</title>
-    <meta name="description" content="Resultados de búsqueda semántica para: {consulta}. Análisis de cómo los medios abordan este tema.">
-    <meta name="robots" content="noindex, follow">
-    <link rel="canonical" href="https://prismanews.github.io/prisma/vigilante.html?q={consulta_url}">
-    <meta property="og:title" content="Vigilante: {consulta} | Prisma">
-    <meta property="og:description" content="Análisis de {num_noticias} noticias sobre {consulta} en {medios_encontrados} medios.">
+    <title>Prisma Vigilante | Comparador IA</title>
+    <meta name="description" content="Busca cualquier tema y descubre cómo lo tratan los medios.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://prismanews.github.io/prisma/vigilante.html">
+    <meta property="og:title" content="Modo Vigilante | Prisma">
+    <meta property="og:description" content="Busca cualquier tema y analizamos cómo lo cubren los medios.">
     <meta property="og:image" content="Logo.PNG">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9WZC3GQSN8"></script>
@@ -1257,6 +1259,91 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             font-size: 14px;
             flex-wrap: wrap;
         }}
+        .loading {{
+            text-align: center;
+            padding: 60px;
+            color: var(--text-tertiary);
+        }}
+        .card {{
+            background: var(--bg-primary);
+            border-radius: var(--radius-xl);
+            padding: 28px;
+            margin-bottom: 28px;
+            border: 1px solid var(--border-light);
+            transition: var(--transition-slow);
+            position: relative;
+            overflow: hidden;
+            animation: fadeIn 0.5s ease-out;
+            box-shadow: var(--shadow-sm);
+        }}
+        .card:hover {{
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg), var(--shadow-primary);
+            border-color: transparent;
+        }}
+        .card h2 {{
+            font-size: 24px;
+            margin: 0 0 16px;
+            color: var(--text-primary);
+            line-height: 1.3;
+        }}
+        .resumen {{
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: 14px 20px;
+            margin: 16px 0;
+            font-size: 14px;
+            color: var(--text-secondary);
+            border-left: 4px solid var(--primary);
+            line-height: 1.6;
+        }}
+        .sesgo-simple {{
+            background: var(--accent-soft);
+            border-radius: var(--radius-lg);
+            padding: 16px;
+            margin: 16px 0;
+            border: 1px solid var(--accent-light);
+        }}
+        .sesgo-header {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+        }}
+        .sesgo-texto {{
+            font-weight: 600;
+            color: var(--text-primary);
+            font-size: 14px;
+        }}
+        .sesgo-barra {{
+            display: flex;
+            height: 24px;
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 10px 0 6px;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+        }}
+        .barra-progresista {{
+            background: linear-gradient(90deg, #3b82f6, #60a5fa);
+            height: 100%;
+            transition: width 0.3s ease;
+        }}
+        .barra-conservadora {{
+            background: linear-gradient(90deg, #f97316, #fb923c);
+            height: 100%;
+            transition: width 0.3s ease;
+        }}
+        .sesgo-etiquetas {{
+            display: flex;
+            justify-content: space-between;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }}
+        @keyframes fadeIn {{
+            from {{ opacity: 0; transform: translateY(15px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
+        }}
     </style>
 </head>
 <body>
@@ -1282,17 +1369,17 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
 
     <div class="container">
         <div class="vigilante-header">
-            <h2><span>👁️</span> Modo Vigilante: {consulta}</h2>
-            <p>Estamos vigilando cómo los medios hablan de <strong>"{consulta}"</strong>. Aquí tienes las noticias relacionadas y su análisis.</p>
+            <h2><span>👁️</span> Modo Vigilante: <span id="consulta-titulo">{consulta}</span></h2>
+            <p>Estamos vigilando cómo los medios hablan de <strong>"<span id="consulta-descripcion">{consulta}</span>"</strong>. Aquí tienes las noticias relacionadas y su análisis.</p>
         </div>
 
         <!-- Buscador -->
         <div class="search-box">
-            <form class="search-form" action="vigilante.html" method="get">
-                <input type="text" name="q" placeholder="Ej: vivienda, inmigración, sanidad..." value="{consulta}" autofocus>
+            <form class="search-form" id="search-form" onsubmit="return buscar(event)">
+                <input type="text" id="search-input" placeholder="Ej: vivienda, inmigración, sanidad..." value="{consulta}" autofocus>
                 <button type="submit">🔍 Vigilar</button>
             </form>
-            <div class="stats-vigilante">
+            <div class="stats-vigilante" id="stats">
                 <span>📊 {num_noticias} noticias encontradas</span>
                 <span>📰 {medios_encontrados} medios diferentes</span>
                 <span>⚡ {num_grupos} enfoques detectados</span>
@@ -1300,19 +1387,65 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
         </div>
 
         <!-- Resultados -->
-        {resultados_html}
+        <div id="resultados">
+            {resultados_html}
+        </div>
         
     </div>
 
     <!-- Botones flotantes -->
     <div class="compartir-flotante">
-        <a href="https://twitter.com/intent/tweet?text=👁️%20Estoy%20vigilando%20'{consulta}'%20con%20Prisma&url=https://prismanews.github.io/prisma/vigilante.html?q={consulta_url}" target="_blank" class="share-btn twitter">🐦</a>
-        <button onclick="copiarPortapapeles('https://prismanews.github.io/prisma/vigilante.html?q={consulta_url}')" class="share-btn copy">📋</button>
+        <a href="#" id="twitter-share" target="_blank" class="share-btn twitter">🐦</a>
+        <button onclick="copiarPortapapeles()" class="share-btn copy">📋</button>
     </div>
 
     <script>
-        function copiarPortapapeles(texto) {{
-            navigator.clipboard.writeText(texto).then(() => {{
+        // NOTICIAS PRE-CARGADAS (generadas por Python)
+        const todasLasNoticias = {json.dumps([{
+            "titulo": n["titulo"],
+            "medio": n["medio"],
+            "link": n["link"],
+            "fecha": n["fecha"]
+        } for n in noticias], ensure_ascii=False)};
+        
+        // Función para obtener parámetro de URL
+        function getQueryParam(param) {{
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param) || "";
+        }}
+        
+        // Función para buscar (simulada - en versión real usaría API)
+        function buscar(event) {{
+            if (event) event.preventDefault();
+            const consulta = document.getElementById('search-input').value;
+            if (consulta) {{
+                window.location.href = `vigilante.html?q=${{encodeURIComponent(consulta)}}`;
+            }}
+            return false;
+        }}
+        
+        // Actualizar título con la consulta
+        function actualizarTitulo() {{
+            const consulta = getQueryParam('q');
+            if (consulta) {{
+                document.getElementById('consulta-titulo').textContent = consulta;
+                document.getElementById('consulta-descripcion').textContent = consulta;
+                document.getElementById('search-input').value = consulta;
+                
+                // Actualizar enlace de Twitter
+                const twitterBtn = document.getElementById('twitter-share');
+                twitterBtn.href = `https://twitter.com/intent/tweet?text=👁️%20Estoy%20vigilando%20'${{consulta}}'%20con%20Prisma&url=https://prismanews.github.io/prisma/vigilante.html?q=${{encodeURIComponent(consulta)}}`;
+            }}
+        }}
+        
+        // Copiar enlace
+        function copiarPortapapeles() {{
+            const consulta = getQueryParam('q');
+            const url = consulta 
+                ? `https://prismanews.github.io/prisma/vigilante.html?q=${{encodeURIComponent(consulta)}}`
+                : 'https://prismanews.github.io/prisma/vigilante.html';
+            
+            navigator.clipboard.writeText(url).then(() => {{
                 let toast = document.createElement('div');
                 toast.textContent = '✅ Enlace copiado';
                 toast.style.cssText = `
@@ -1325,7 +1458,10 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
                 setTimeout(() => toast.remove(), 2000);
             }});
         }}
-
+        
+        // Inicializar
+        document.addEventListener('DOMContentLoaded', actualizarTitulo);
+        
         // Animación de entrada
         document.querySelectorAll('.card').forEach((card, index) => {{
             card.style.opacity = '0';
