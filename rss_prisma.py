@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador principal (versión modular con sesgo mejorado)
+PRISMA - Generador principal (VERSIÓN SIMPLIFICADA)
 """
 
 import feedparser
@@ -44,7 +44,7 @@ logging.basicConfig(
 # ========== MODELO IA ==========
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
-# ========== REFERENCIAS DE SESGO MEJORADAS (VERSIÓN FRASES CORTAS) ==========
+# ========== REFERENCIAS DE SESGO (SOLO PROGRESISTA/CONSERVADOR) ==========
 referencias_politicas = {
     "progresista": modelo.encode([
         # --- DERECHOS SOCIALES ---
@@ -55,48 +55,18 @@ referencias_politicas = {
         "servicios sociales",
         "derechos laborales",
         "sindicatos",
-        
-        # --- FEMINISMO E IGUALDAD ---
         "igualdad real",
         "brecha salarial",
         "derechos LGTBI",
-        "ley de paridad",
         "feminismo",
-        "diversidad",
-        "inclusión",
-        
-        # --- INMIGRACIÓN (TONO POSITIVO) ---
         "acogida refugiados",
         "derechos humanos inmigrantes",
-        "regularización",
-        "menores migrantes",
-        "políticas migratorias inclusivas",
-        
-        # --- MEMORIA HISTÓRICA ---
         "memoria histórica",
-        "exhumación Franco",
-        "fosas comunes",
-        "víctimas guerra civil",
-        "reparación víctimas",
-        
-        # --- CAMBIO CLIMÁTICO ---
         "transición ecológica",
         "cambio climático",
-        "energías renovables",
-        "protección medio ambiente",
-        
-        # --- VIVIENDA ---
         "alquiler asequible",
         "vivienda pública",
-        "limitar precios alquiler",
-        "okupación",
-        "parque público vivienda",
-        
-        # --- JUSTICIA SOCIAL ---
         "justicia social",
-        "redistribución riqueza",
-        "desigualdad",
-        "pobreza infantil",
         "salario mínimo",
     ]),
     
@@ -107,98 +77,24 @@ referencias_politicas = {
         "control fronteras",
         "penas más duras",
         "ley mordaza",
-        "presencia policial",
         "orden público",
-        
-        # --- UNIDAD DE ESPAÑA ---
         "unidad de españa",
         "constitución española",
-        "igualdad entre españoles",
-        "rechazo independentismo",
         "nación española",
-        "soberanía nacional",
-        
-        # --- ECONOMÍA LIBERAL ---
         "bajar impuestos",
         "libertad económica",
         "emprendedores",
-        "menos trabas",
         "reforma laboral",
-        "flexibilidad laboral",
         "libre mercado",
-        
-        # --- INMIGRACIÓN (TONO RESTRICTIVO) ---
         "inmigración ilegal",
         "devoluciones",
-        "control migratorio",
-        "fronteras seguras",
-        "expulsión inmigrantes",
-        
-        # --- FAMILIA Y TRADICIÓN ---
         "familia tradicional",
         "valores tradicionales",
         "tauromaquia",
-        "patrimonio cultural",
-        "libertad educativa",
-        "objeción conciencia",
-        
-        # --- JUSTICIA ---
         "cadena perpetua",
-        "mano dura delincuencia",
-        "independencia judicial",
-        "multirreincidencia",
-        "delincuencia",
-        
-        # --- AUTORIDAD ---
         "autoridad",
-        "ley y orden",
-        "respeto instituciones",
         "fuerzas armadas",
         "monarquía",
-    ]),
-    
-    "tono_positivo": modelo.encode([
-        "avance", "mejora", "éxito", "logro", "beneficio",
-        "crecimiento", "oportunidad", "esperanza", "solución",
-        "acuerdo positivo", "datos optimistas", "hito",
-        "progreso", "éxito español", "buenas noticias"
-    ]),
-    
-    "tono_negativo": modelo.encode([
-        "crisis", "conflicto", "problema", "preocupación",
-        "riesgo", "amenaza", "grave", "emergencia",
-        "colapso", "fracaso", "peor", "alarma",
-        "preocupante", "crítico", "tensión"
-    ]),
-    
-    "nacionalismo_alto": modelo.encode([
-        "unidad nacional",
-        "bandera españa",
-        "orgullo español",
-        "nación española",
-        "patria",
-        "españa unida",
-        "territorio nacional"
-    ]),
-    
-    "nacionalismo_bajo": modelo.encode([
-        "derecho decidir",
-        "autodeterminación",
-        "república catalana",
-        "país vasco",
-        "nación catalana",
-        "independencia",
-        "referéndum"
-    ]),
-    
-    "populismo_alto": modelo.encode([
-        "casta política",
-        "élites",
-        "que se vayan todos",
-        "el pueblo",
-        "los de siempre",
-        "clase política",
-        "dictadura"
     ]),
 }
 
@@ -287,7 +183,7 @@ def menciona_espana(texto):
     
     return False
 
-# ========== RECOGER NOTICIAS PARALELO (VERSIÓN MEJORADA) ==========
+# ========== RECOGER NOTICIAS PARALELO ==========
 def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total, filtrar_espana=False):
     noticias = []
     
@@ -309,16 +205,12 @@ def recoger_noticias_paralelo(feeds_dict, max_por_feed, max_total, filtrar_espan
                         titulo = limpiar_html(entry.title)
                         resumen = limpiar_html(entry.summary) if hasattr(entry, "summary") else ""
                         
-                        # ✅ MEJORA: Filtrar por España si es necesario
                         if filtrar_espana:
                             texto_completo = titulo + " " + resumen
-                            
-                            # ✅ MEJORA: Lista negra de medios locales
                             if medio in MEDIOS_SOLO_LOCALES and not menciona_espana(texto_completo):
-                                continue  # ❌ Medio local y no menciona España, saltamos
-                            
+                                continue
                             if not menciona_espana(texto_completo):
-                                continue  # ❌ No menciona España, saltamos
+                                continue
                         
                         noticias.append({
                             "medio": medio,
@@ -447,109 +339,45 @@ def clusterizar(embeddings):
     grupos.sort(key=len, reverse=True)
     return grupos
 
-# ========== ANÁLISIS DE SESGO MEJORADO (VERSIÓN 2.0) ==========
+# ========== ANÁLISIS DE SESGO SIMPLIFICADO ==========
 def analizar_sesgo(indices, noticias):
     """
-    Análisis multidimensional con referencias cortas
+    Análisis simplificado: solo progresista vs conservador
     """
     textos = [noticias[i]["titulo"] for i in indices]
     emb = modelo.encode(textos, batch_size=16, show_progress_bar=False)
     centroide = np.mean(emb, axis=0).reshape(1, -1)
     
-    # Progresista vs Conservador
     prog = cosine_similarity(centroide, referencias_politicas["progresista"]).mean()
     cons = cosine_similarity(centroide, referencias_politicas["conservador"]).mean()
     
-    # Tono
-    tono_pos = cosine_similarity(centroide, referencias_politicas["tono_positivo"]).mean()
-    tono_neg = cosine_similarity(centroide, referencias_politicas["tono_negativo"]).mean()
-    
-    # Nacionalismo
-    nac_alto = cosine_similarity(centroide, referencias_politicas["nacionalismo_alto"]).mean()
-    nac_bajo = cosine_similarity(centroide, referencias_politicas["nacionalismo_bajo"]).mean()
-    
-    # Populismo
-    pop_alto = cosine_similarity(centroide, referencias_politicas["populismo_alto"]).mean()
-    
-    # Calcular porcentajes políticos
-    total_politico = prog + cons
-    if total_politico > 0:
-        pct_prog = (prog / total_politico) * 100
-        pct_cons = (cons / total_politico) * 100
+    total = prog + cons
+    if total > 0:
+        pct_prog = (prog / total) * 100
+        pct_cons = (cons / total) * 100
     else:
         pct_prog = 50
         pct_cons = 50
     
-    # Texto principal
-    if abs(prog - cons) < 0.015:
-        texto_principal = "Cobertura muy equilibrada"
-    elif prog > cons:
-        diff = (prog - cons) * 100
-        if diff > 20:
-            texto_principal = "Enfoque marcadamente progresista"
+    # Texto principal con umbrales ajustados
+    diff = abs(pct_prog - pct_cons)
+    if diff < 5:
+        texto = "⚪ Cobertura muy equilibrada"
+    elif pct_prog > pct_cons:
+        if diff > 15:
+            texto = "🔵 Enfoque marcadamente progresista"
         else:
-            texto_principal = "Enfoque ligeramente progresista"
+            texto = "🔵 Enfoque ligeramente progresista"
     else:
-        diff = (cons - prog) * 100
-        if diff > 20:
-            texto_principal = "Enfoque marcadamente conservador"
+        if diff > 15:
+            texto = "🟠 Enfoque marcadamente conservador"
         else:
-            texto_principal = "Enfoque ligeramente conservador"
-    
-    # Análisis de tono
-    if tono_pos > tono_neg:
-        tono_texto = "tono positivo"
-        tono_emoji = "😊"
-    else:
-        tono_texto = "tono preocupante"
-        tono_emoji = "😟"
-    
-    # Análisis de nacionalismo
-    if nac_alto > nac_bajo:
-        nacionalismo_texto = "enfoque españolista"
-    else:
-        nacionalismo_texto = "enfoque periférico"
-    
-    # Análisis de populismo
-    if pop_alto > 0.6:
-        populismo_texto = "lenguaje populista"
-        populismo_emoji = "📢"
-    else:
-        populismo_texto = "lenguaje institucional"
-        populismo_emoji = "🏛️"
-    
-    # Normalizar tono para porcentajes
-    total_tono = tono_pos + tono_neg
-    if total_tono > 0:
-        pct_tono_pos = (tono_pos / total_tono) * 100
-        pct_tono_neg = (tono_neg / total_tono) * 100
-    else:
-        pct_tono_pos = 50
-        pct_tono_neg = 50
+            texto = "🟠 Enfoque ligeramente conservador"
     
     return {
-        "texto": texto_principal,
+        "texto": texto,
         "pct_prog": round(pct_prog),
-        "pct_cons": round(pct_cons),
-        "tono": {
-            "texto": tono_texto,
-            "emoji": tono_emoji,
-            "positivo": round(pct_tono_pos),
-            "negativo": round(pct_tono_neg)
-        },
-        "nacionalismo": nacionalismo_texto,
-        "populismo": {
-            "texto": populismo_texto,
-            "emoji": populismo_emoji,
-            "intensidad": round(pop_alto * 100)
-        },
-        "completo": {
-            "progresista": round(prog * 100, 1),
-            "conservador": round(cons * 100, 1),
-            "tono_positivo": round(tono_pos * 100, 1),
-            "nacionalismo": round(nac_alto * 100, 1),
-            "populismo": round(pop_alto * 100, 1)
-        }
+        "pct_cons": round(pct_cons)
     }
 
 def titular_prisma(indices, noticias):
@@ -607,7 +435,7 @@ def resumen_prisma(indices, noticias):
         "emoji": emoji
     }
 
-# ========== GENERAR INDEX.HTML (CON NUEVAS MÉTRICAS) ==========
+# ========== GENERAR INDEX.HTML (VERSIÓN SIMPLIFICADA) ==========
 def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     html = f"""<!DOCTYPE html>
 <html lang="es">
@@ -690,7 +518,7 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                 {resumen['num_medios']} medios · {resumen['sentimiento']} · 
                 {', '.join(resumen['angulos']) if resumen['angulos'] else 'enfoque directo'}
             </div>
-            <div class="sesgo-card">
+            <div class="sesgo-simple">
                 <div class="sesgo-header">
                     <span class="sesgo-texto">{sesgo['texto']}</span>
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
@@ -703,36 +531,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                     <span>Progresista {sesgo['pct_prog']}%</span>
                     <span>Conservador {sesgo['pct_cons']}%</span>
                 </div>
-                
-                <!-- NUEVAS MÉTRICAS -->
-                <div class="metricas-grid">
-                    <div class="metrica-item">
-                        <span class="metrica-label">😊 Tono</span>
-                        <span class="metrica-valor">{sesgo['tono']['texto']} {sesgo['tono']['emoji']}</span>
-                    </div>
-                    <div class="metrica-item">
-                        <span class="metrica-label">🌍 Enfoque</span>
-                        <span class="metrica-valor">{sesgo['nacionalismo']}</span>
-                    </div>
-                    <div class="metrica-item">
-                        <span class="metrica-label">📢 Lenguaje</span>
-                        <span class="metrica-valor">{sesgo['populismo']['texto']} {sesgo['populismo']['emoji']}</span>
-                    </div>
-                </div>
-                
-                <!-- Mini gráfico de tono -->
-                <div class="tono-mini">
-                    <div class="tono-barra">
-                        <div class="tono-positivo" style="width: {sesgo['tono']['positivo']}%;"></div>
-                        <div class="tono-negativo" style="width: {sesgo['tono']['negativo']}%;"></div>
-                    </div>
-                    <div class="tono-etiquetas">
-                        <span>😊 {sesgo['tono']['positivo']}%</span>
-                        <span>😟 {sesgo['tono']['negativo']}%</span>
-                    </div>
-                </div>
-                
-                <p class="sesgo-nota">Análisis multidimensional basado en el lenguaje de los titulares</p>
             </div>
 """
         
@@ -827,7 +625,7 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
 """
     return html
 
-# ========== GENERAR ESPANA.HTML (CON GOOGLE ANALYTICS) ==========
+# ========== GENERAR ESPANA.HTML ==========
 def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     fecha_actual = datetime.now().strftime("%d/%m/%Y %H:%M")
     
@@ -836,7 +634,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     else:
         noticias_html = ""
         for n in noticias_espana[:40]:
-            # Formatear fecha
             fecha_str = ""
             if "fecha" in n:
                 fecha = datetime.fromtimestamp(n["fecha"])
@@ -880,106 +677,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
     </script>
     
     <link rel="stylesheet" href="prisma.css?v={cachebuster}">
-    <style>
-        .internacional-header {{
-            background: linear-gradient(135deg, #1e3a8a20, #0d948820);
-            border-radius: var(--radius-xl);
-            padding: 32px;
-            margin-bottom: 32px;
-            border: 1px solid var(--border-light);
-        }}
-        .internacional-header h2 {{
-            font-size: 2.2rem;
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }}
-        .filtro-medios {{
-            background: var(--bg-primary);
-            border-radius: var(--radius-lg);
-            padding: 20px 24px;
-            margin-bottom: 32px;
-            border: 1px solid var(--border-light);
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }}
-        .filtro-medios select {{
-            padding: 10px 20px;
-            border-radius: 40px;
-            border: 1px solid var(--border-medium);
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            min-width: 200px;
-        }}
-        .lista-noticias {{
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-        }}
-        .noticia-item {{
-            background: var(--bg-primary);
-            border-radius: var(--radius-lg);
-            padding: 20px 24px;
-            border: 1px solid var(--border-light);
-            transition: var(--transition);
-            display: flex;
-            align-items: center;
-            gap: 16px;
-            flex-wrap: wrap;
-        }}
-        .noticia-item:hover {{
-            transform: translateX(4px);
-            box-shadow: var(--shadow-md);
-            border-color: var(--primary);
-        }}
-        .noticia-medio {{
-            font-weight: 700;
-            color: var(--accent);
-            background: var(--accent-soft);
-            padding: 4px 16px;
-            border-radius: 40px;
-            font-size: 0.85rem;
-            white-space: nowrap;
-            border: 1px solid var(--accent-light);
-        }}
-        .noticia-titulo {{
-            flex: 1;
-            color: var(--text-primary);
-        }}
-        .noticia-titulo a {{
-            color: inherit;
-            text-decoration: none;
-        }}
-        .noticia-titulo a:hover {{
-            color: var(--primary);
-            text-decoration: underline;
-        }}
-        .noticia-fecha {{
-            color: var(--text-tertiary);
-            font-size: 0.85rem;
-            white-space: nowrap;
-        }}
-        .sin-noticias {{
-            text-align: center;
-            padding: 60px 20px;
-            background: var(--bg-secondary);
-            border-radius: var(--radius-xl);
-            color: var(--text-tertiary);
-        }}
-        @media (max-width: 640px) {{
-            .noticia-item {{
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-            }}
-            .noticia-fecha {{
-                align-self: flex-end;
-            }}
-        }}
-    </style>
 </head>
 <body>
     <header class="header glass">
@@ -988,7 +685,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
                 <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
                 <a href="index.html" class="logo-link">PRISMA</a>
             </div>
-            <!-- ✅ AÑADIDO: MISMO HEADER-TEXT QUE EN INDEX -->
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
                 <p class="explicacion">Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
@@ -1047,7 +743,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
             }});
         }}
 
-        // Cargar medios en el filtro
         const medios = new Set();
         document.querySelectorAll('.noticia-item').forEach(item => {{
             medios.add(item.dataset.medio);
@@ -1061,7 +756,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
             select.appendChild(option);
         }});
         
-        // Filtrar al cambiar
         select.addEventListener('change', function(e) {{
             const medio = e.target.value;
             document.querySelectorAll('.noticia-item').forEach(item => {{
@@ -1078,7 +772,7 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
 """
     return html
 
-# ========== GENERAR SOBRE.HTML (CON GOOGLE ANALYTICS) ==========
+# ========== GENERAR SOBRE.HTML ==========
 def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
     html = f"""<!DOCTYPE html>
 <html lang="es">
@@ -1103,124 +797,6 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
     </script>
     
     <link rel="stylesheet" href="prisma.css?v={cachebuster}">
-    <style>
-        .about-container {{ max-width: 900px; margin: 0 auto; }}
-        .about-card {{
-            background: var(--bg-primary);
-            border-radius: var(--radius-xl);
-            padding: 48px;
-            box-shadow: var(--shadow-lg);
-            border: 1px solid var(--border-light);
-            position: relative;
-            overflow: hidden;
-        }}
-        .about-card::before {{
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 6px;
-            background: linear-gradient(90deg, var(--primary), var(--accent), var(--primary));
-            background-size: 200% 100%;
-            animation: gradientMove 8s ease infinite;
-        }}
-        @keyframes gradientMove {{
-            0% {{ background-position: 0% 50%; }}
-            50% {{ background-position: 100% 50%; }}
-            100% {{ background-position: 0% 50%; }}
-        }}
-        .hero-about {{
-            text-align: center;
-            margin-bottom: 48px;
-            padding-bottom: 32px;
-            border-bottom: 2px dashed var(--border-light);
-        }}
-        .hero-about h1 {{
-            font-size: 2.8rem;
-            margin-bottom: 20px;
-            background: linear-gradient(135deg, var(--primary), var(--accent));
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }}
-        .hero-about p {{
-            font-size: 1.3rem;
-            color: var(--text-secondary);
-            max-width: 700px;
-            margin: 0 auto;
-            font-weight: 300;
-        }}
-        .about-section {{
-            margin-bottom: 40px;
-        }}
-        .about-section h2 {{
-            font-size: 2rem;
-            margin-bottom: 20px;
-            color: var(--text-primary);
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }}
-        .about-section h2::before {{
-            content: '◆';
-            color: var(--accent);
-            font-size: 1.8rem;
-            opacity: 0.7;
-        }}
-        .about-section p {{
-            font-size: 1.1rem;
-            line-height: 1.8;
-            color: var(--text-secondary);
-            margin-bottom: 20px;
-        }}
-        .about-highlight {{
-            background: linear-gradient(135deg, var(--primary-soft), var(--accent-soft));
-            padding: 24px 32px;
-            border-radius: var(--radius-lg);
-            margin: 32px 0;
-            border-left: 4px solid var(--primary);
-            font-style: italic;
-        }}
-        .contacto-box {{
-            background: var(--bg-secondary);
-            border-radius: var(--radius-lg);
-            padding: 32px;
-            text-align: center;
-            border: 1px solid var(--border-light);
-            margin: 40px 0 20px;
-        }}
-        .contacto-box a {{
-            display: inline-block;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: var(--primary);
-            text-decoration: none;
-            padding: 12px 32px;
-            border-radius: 50px;
-            background: var(--bg-primary);
-            border: 2px solid var(--primary);
-            transition: var(--transition);
-        }}
-        .contacto-box a:hover {{
-            background: var(--primary);
-            color: white;
-            transform: translateY(-2px);
-        }}
-        .firma {{
-            text-align: center;
-            margin-top: 48px;
-            padding-top: 32px;
-            border-top: 2px dashed var(--border-light);
-            font-size: 1.2rem;
-            color: var(--text-tertiary);
-            font-style: italic;
-        }}
-        @media (max-width: 768px) {{
-            .about-card {{ padding: 32px 24px; }}
-            .hero-about h1 {{ font-size: 2.2rem; }}
-        }}
-    </style>
 </head>
 <body>
     <header class="header glass">
@@ -1229,7 +805,6 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
                 <img src="Logo.PNG" class="logo-img" alt="Prisma" onerror="this.style.display='none'">
                 <a href="index.html" class="logo-link">PRISMA</a>
             </div>
-            <!-- ✅ AÑADIDO: MISMO HEADER-TEXT QUE EN INDEX -->
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
                 <p class="explicacion">Analizamos automáticamente <strong>{medios_unicos} medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
@@ -1328,10 +903,8 @@ if __name__ == "__main__":
     inicio_total = time.time()
     logging.info("🚀 Iniciando generación de Prisma")
     
-    # Cargar caché
     embedding_cache = cargar_cache_embeddings() if CACHE_EMBEDDINGS else {}
     
-    # 1. Noticias españolas
     logging.info("📰 Recogiendo noticias españolas...")
     noticias = recoger_noticias_paralelo(feeds_espanoles, MAX_NOTICIAS_FEED_ES, MAX_NOTICIAS_TOTAL, filtrar_espana=False)
     logging.info(f"✅ {len(noticias)} noticias recogidas")
@@ -1340,25 +913,20 @@ if __name__ == "__main__":
         logging.error("❌ No hay noticias. Abortando.")
         exit(1)
     
-    # Calcular embeddings
     logging.info("🧠 Calculando embeddings...")
     embeddings = calcular_embeddings(noticias, embedding_cache)
     
-    # Guardar caché
     if CACHE_EMBEDDINGS:
         guardar_cache_embeddings(embedding_cache)
     
-    # Deduplicar
     logging.info("🔄 Deduplicando...")
     noticias, embeddings = deduplicar_noticias(noticias, embeddings)
     logging.info(f"✅ {len(noticias)} noticias tras deduplicar")
     
-    # Clusterizar
     logging.info("📊 Clusterizando...")
     grupos = clusterizar(embeddings)
     logging.info(f"✅ {len(grupos)} grupos formados")
     
-    # Generar index.html
     logging.info("📝 Generando index.html...")
     fecha = datetime.now()
     fecha_legible = fecha.strftime("%d/%m/%Y %H:%M")
@@ -1370,7 +938,6 @@ if __name__ == "__main__":
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_index)
     
-    # 2. Noticias internacionales sobre España - ✅ CON FILTRO INTEGRADO
     logging.info("🌍 Recogiendo noticias internacionales...")
     noticias_espana = recoger_noticias_paralelo(
         feeds_internacionales, 
@@ -1379,25 +946,21 @@ if __name__ == "__main__":
         filtrar_espana=True
     )
     
-    # Eliminar duplicados y ordenar
     noticias_espana = list({n["link"]: n for n in noticias_espana}.values())
     noticias_espana.sort(key=lambda x: x["fecha"], reverse=True)
     noticias_espana = noticias_espana[:MAX_NOTICIAS_INTERNACIONAL]
     logging.info(f"✅ {len(noticias_espana)} noticias sobre España encontradas")
     
-    # Generar espana.html
     logging.info("📝 Generando espana.html...")
     html_espana = generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, medios_unicos)
     with open("espana.html", "w", encoding="utf-8") as f:
         f.write(html_espana)
     
-    # Generar sobre.html
     logging.info("📝 Generando sobre.html...")
     html_sobre = generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos)
     with open("sobre.html", "w", encoding="utf-8") as f:
         f.write(html_sobre)
     
-    # Generar sitemap y robots
     logging.info("🗺️ Generando sitemap.xml...")
     with open("sitemap.xml", "w", encoding="utf-8") as f:
         f.write(generar_sitemap())
