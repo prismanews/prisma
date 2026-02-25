@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PRISMA - Generador principal (VERSIÓN SIMPLIFICADA CON MODO VIGILANTE)
+PRISMA - Generador principal (VERSIÓN MEJORADA CON MODO VIGILANTE Y ANÁLISIS DE ENFOQUES)
 """
 
 import feedparser
@@ -150,7 +150,6 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
     for intento in range(max_intentos):
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            # ELIMINADO: timeout NO es válido en feedparser
             feed = feedparser.parse(url, request_headers=headers)
             if not feed.bozo or intento == max_intentos-1:
                 return feed
@@ -167,12 +166,10 @@ def menciona_espana(texto):
         return False
     texto_lower = texto.lower()
     
-    # Buscar keywords exactas
     for keyword in KEYWORDS_ESPANA:
         if keyword.lower() in texto_lower:
             return True
     
-    # Patrones adicionales (inglés/español)
     patrones = [
         r'\bspanish\b', r'\bspain\b', r'\besp(a|á)ñol\b', r'\bespaña\b',
         r'\bmadrid\b', r'\bbarcelona\b', r'\bcatalonia\b', r'\bbasque\b',
@@ -343,9 +340,6 @@ def clusterizar(embeddings):
 
 # ========== ANÁLISIS DE SESGO SIMPLIFICADO ==========
 def analizar_sesgo(indices, noticias):
-    """
-    Análisis simplificado: solo progresista vs conservador
-    """
     textos = [noticias[i]["titulo"] for i in indices]
     emb = modelo.encode(textos, batch_size=16, show_progress_bar=False)
     centroide = np.mean(emb, axis=0).reshape(1, -1)
@@ -361,7 +355,6 @@ def analizar_sesgo(indices, noticias):
         pct_prog = 50
         pct_cons = 50
     
-    # Texto principal con umbrales ajustados
     diff = abs(pct_prog - pct_cons)
     if diff < 5:
         texto = "⚪ Cobertura muy equilibrada"
@@ -400,12 +393,11 @@ def titular_prisma(indices, noticias):
     else:
         tema = "actualidad"
     
-    # Versión más corta para móvil
     tema = tema.capitalize()
-    if len(tema) > 40:  # Si es muy largo, recortar
+    if len(tema) > 40:
         tema = tema[:37] + "..."
     
-    prefijos = ["Claves:", "En foco:", "Hoy:", "Tema:", "Portada:", "Relevante:"]  # Prefijos más cortos
+    prefijos = ["Claves:", "En foco:", "Hoy:", "Tema:", "Portada:", "Relevante:"]
     return f"{random.choice(prefijos)} {tema}"
 
 def resumen_prisma(indices, noticias):
@@ -444,13 +436,9 @@ def resumen_prisma(indices, noticias):
 
 # ========== BÚSQUEDA SEMÁNTICA PARA MODO VIGILANTE ==========
 def buscar_noticias_semantico(consulta, noticias, embedding_cache, top_n=50):
-    """
-    Busca noticias relacionadas semánticamente con la consulta.
-    """
     if not consulta or not noticias:
         return []
     
-    # Crear embedding de la consulta
     key_consulta = get_embedding_cache_key(consulta)
     if key_consulta in embedding_cache:
         emb_consulta = np.array(embedding_cache[key_consulta])
@@ -458,7 +446,6 @@ def buscar_noticias_semantico(consulta, noticias, embedding_cache, top_n=50):
         emb_consulta = modelo.encode([consulta])[0]
         embedding_cache[key_consulta] = emb_consulta.tolist()
     
-    # Obtener embeddings de las noticias
     titulos = [n["titulo"] for n in noticias]
     embeddings_noticias = []
     indices_validos = []
@@ -477,14 +464,12 @@ def buscar_noticias_semantico(consulta, noticias, embedding_cache, top_n=50):
     if not embeddings_noticias:
         return []
     
-    # Calcular similitudes
     embeddings_noticias = np.array(embeddings_noticias)
     similitudes = cosine_similarity([emb_consulta], embeddings_noticias)[0]
     
-    # Ordenar y devolver top resultados
     resultados = []
     for idx, sim in zip(indices_validos, similitudes):
-        if sim > 0.5:  # Umbral de relevancia
+        if sim > 0.5:
             resultados.append({
                 "noticia": noticias[idx],
                 "similitud": sim
@@ -617,7 +602,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
     </header>
 
     <div class="container">
-        <!-- NUEVO: Buscador del Modo Vigilante -->
         <div class="buscador-rapido">
             <form action="vigilante.html" method="get">
                 <input type="text" name="q" placeholder="👁️ Modo Vigilante: busca un tema (ej. vivienda, inmigración, sanidad...)" autocomplete="off">
@@ -628,14 +612,12 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
             </p>
         </div>
 
-        <!-- Filtro interactivo -->
         <div class="filtro-container">
             <label for="filtro-medio">📋 Filtrar por medio:</label>
             <select id="filtro-medio">
                 <option value="todos">Todos los medios</option>
 '''
     
-    # Añadir opciones de medios
     medios_lista = sorted(set(n["medio"] for n in noticias))
     for medio in medios_lista:
         html += f'                <option value="{medio}">{medio}</option>\n'
@@ -644,7 +626,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
         </div>
 '''
     
-    # Añadir grupos
     for i, grupo in enumerate(grupos[:15]):
         sesgo = analizar_sesgo(grupo, noticias)
         resumen = resumen_prisma(grupo, noticias)
@@ -677,7 +658,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
             </div>
 '''
         
-        # Mostrar solo 3 noticias inicialmente en móvil (con "ver más")
         for idx in grupo[:3]:
             n = noticias[idx]
             html += f'''
@@ -704,7 +684,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
         html += '''        </div>
 '''
     
-    # Call to Action
     html += '''
         <div class="cta-section">
             <h3>¿Te gusta Prisma?</h3>
@@ -717,7 +696,6 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
         </div>
     </div>
 
-    <!-- Botones flotantes compartir -->
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma&url=https://prismanews.github.io/prisma/" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/" target="_blank" class="share-btn facebook">📘</a>
@@ -727,8 +705,8 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
     </div>
 
     <script>
-        function copiarPortapapeles(texto) {
-            navigator.clipboard.writeText(texto).then(() => {
+        function copiarPortapapeles(texto) {{
+            navigator.clipboard.writeText(texto).then(() => {{
                 let toast = document.createElement('div');
                 toast.textContent = '✅ Enlace copiado';
                 toast.style.cssText = `
@@ -739,48 +717,46 @@ def generar_index_html(noticias, grupos, fecha_legible, fecha_iso, cachebuster, 
                 `;
                 document.body.appendChild(toast);
                 setTimeout(() => toast.remove(), 2000);
-            });
-        }
+            }});
+        }}
 
-        function compartirPrisma() {
-            if (navigator.share) {
-                navigator.share({
+        function compartirPrisma() {{
+            if (navigator.share) {{
+                navigator.share({{
                     title: 'Prisma | Comparador IA de noticias',
                     text: 'Analizamos el sesgo de los medios con IA',
                     url: 'https://prismanews.github.io/prisma/'
-                });
-            } else {
+                }});
+            }} else {{
                 copiarPortapapeles('https://prismanews.github.io/prisma/');
-            }
-        }
+            }}
+        }}
 
-        // Filtro por medio
-        document.getElementById('filtro-medio').addEventListener('change', function(e) {
+        document.getElementById('filtro-medio').addEventListener('change', function(e) {{
             const medio = e.target.value;
-            document.querySelectorAll('.card').forEach(card => {
-                if (medio === 'todos') {
+            document.querySelectorAll('.card').forEach(card => {{
+                if (medio === 'todos') {{
                     card.style.display = 'block';
-                } else {
+                }} else {{
                     const mediosCard = card.dataset.medios.split(',');
-                    if (mediosCard.includes(medio)) {
+                    if (mediosCard.includes(medio)) {{
                         card.style.display = 'block';
-                    } else {
+                    }} else {{
                         card.style.display = 'none';
-                    }
-                }
-            });
-        });
+                    }}
+                }}
+            }});
+        }});
 
-        // Animación de entrada
-        document.querySelectorAll('.card').forEach((card, index) => {
+        document.querySelectorAll('.card').forEach((card, index) => {{
             card.style.opacity = '0';
             card.style.transform = 'translateY(20px)';
-            setTimeout(() => {
+            setTimeout(() => {{
                 card.style.transition = 'all 0.5s ease';
                 card.style.opacity = '1';
                 card.style.transform = 'translateY(0)';
-            }, index * 100);
-        });
+            }}, index * 100);
+        }});
     </script>
 </body>
 </html>
@@ -986,7 +962,6 @@ def generar_sobre_html(fecha_legible, fecha_iso, cachebuster, medios_unicos):
         </div>
     </div>
 
-    <!-- Botones flotantes -->
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20Prisma%2C%20el%20comparador%20de%20medios%20con%20IA&url=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/sobre.html" target="_blank" class="share-btn facebook">📘</a>
@@ -1110,7 +1085,6 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
         </div>
     </div>
     
-    <!-- Botones flotantes -->
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=🌍%20España%20en%20el%20mundo%20según%20Prisma&url=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/espana.html" target="_blank" class="share-btn facebook">📘</a>
@@ -1166,13 +1140,11 @@ def generar_espana_html(noticias_espana, fecha_legible, fecha_iso, cachebuster, 
 def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, fecha_iso, cachebuster, medios_unicos):
     consulta_url = urllib.parse.quote(consulta)
     
-    # Convertir TODAS las noticias a JSON para JavaScript (no solo las filtradas)
     with open("noticias_cache.json", "r", encoding="utf-8") as f:
         todas_noticias = json.load(f)
     
     noticias_json = json.dumps(todas_noticias, ensure_ascii=False)
     
-    # Generar HTML de resultados (inicialmente vacío, lo llenará JS)
     resultados_html = '''
         <div id="resultados-container"></div>
     '''
@@ -1404,7 +1376,6 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             <p>Estamos vigilando cómo los medios hablan de <strong>"<span id="consulta-descripcion"></span>"</strong>. Aquí tienes las noticias relacionadas y su análisis.</p>
         </div>
 
-        <!-- Buscador -->
         <div class="search-box">
             <form class="search-form" id="search-form" onsubmit="return buscar(event)">
                 <input type="text" id="search-input" placeholder="Ej: vivienda, inmigración, sanidad..." autofocus>
@@ -1417,30 +1388,25 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             </div>
         </div>
 
-        <!-- Resultados -->
         <div id="resultados-container" class="loading">
             Cargando resultados...
         </div>
         
     </div>
 
-    <!-- Botones flotantes -->
     <div class="compartir-flotante">
         <a href="#" id="twitter-share" target="_blank" class="share-btn twitter">🐦</a>
         <button onclick="copiarPortapapeles()" class="share-btn copy">📋</button>
     </div>
 
     <script>
-        // TODAS las noticias cargadas desde el JSON de Python
         const todasNoticias = {noticias_json};
         
-        // Función para obtener parámetro de URL
         function getQueryParam(param) {{
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(param) || "";
         }}
         
-        // Función para buscar
         function buscar(event) {{
             if (event) event.preventDefault();
             const consulta = document.getElementById('search-input').value;
@@ -1450,26 +1416,19 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             return false;
         }}
         
-        // Función para filtrar noticias por consulta (búsqueda simple en títulos)
         function filtrarNoticias(consulta) {{
             if (!consulta) return [];
-            
             const consultaLower = consulta.toLowerCase();
             return todasNoticias.filter(noticia => 
                 noticia.titulo.toLowerCase().includes(consultaLower)
             );
         }}
         
-        // Función para agrupar noticias (versión simplificada)
         function agruparNoticias(noticias) {{
-            // Por ahora, devolvemos todas como un solo grupo
-            // En una versión futura, podrías implementar clustering en JS
             return [noticias];
         }}
 
-        // Función para analizar enfoques por sesgo
-        function analizarEnfoques(noticias) {
-            // Palabras clave para detectar enfoques
+        function analizarEnfoques(noticias) {{
             const palabrasProgresista = [
                 "derecho", "vivienda", "pública", "social", "igualdad", 
                 "LGTBI", "feminismo", "refugiados", "climático", "públicas"
@@ -1484,7 +1443,7 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             let conservador = 0;
             let neutro = 0;
     
-            noticias.forEach(noticia => {
+            noticias.forEach(noticia => {{
                 const titulo = noticia.titulo.toLowerCase();
                 let esProgresista = palabrasProgresista.some(p => titulo.includes(p));
                 let esConservador = palabrasConservador.some(p => titulo.includes(p));
@@ -1492,19 +1451,16 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
                 if (esProgresista && !esConservador) progresista++;
                 else if (esConservador && !esProgresista) conservador++;
                 else neutro++;
-            });
+            }});
     
-            return { progresista, conservador, neutro };        
-        }
+            return {{ progresista, conservador, neutro }};        
+        }}
         
-        // Función para mostrar resultados
         function mostrarResultados(consulta) {{
             const noticiasFiltradas = filtrarNoticias(consulta);
             const grupos = agruparNoticias(noticiasFiltradas);
-            // Mostrar estadísticas de enfoque
             const enfoques = analizarEnfoques(noticiasFiltradas);
 
-            // Crear un mini-resumen de enfoques
             const enfoquesHTML = `
                 <div class="enfoques-mini">
                     <h3>📊 Enfoques detectados</h3>
@@ -1512,50 +1468,44 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
                         <div class="enfoque-item">
                             <span class="enfoque-label">Progresista</span>
                             <div class="barra-container">
-                                <div class="barra barra-progresista" style="width: ${(enfoques.progresista/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                                <div class="barra barra-progresista" style="width: ${{(enfoques.progresista/noticiasFiltradas.length*100).toFixed(0)}}%"></div>
                             </div>
-                            <span class="enfoque-numero">${enfoques.progresista}</span>
+                            <span class="enfoque-numero">${{enfoques.progresista}}</span>
                         </div>
                         <div class="enfoque-item">
                             <span class="enfoque-label">Conservador</span>
                             <div class="barra-container">
-                                <div class="barra barra-conservadora" style="width: ${(enfoques.conservador/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                                <div class="barra barra-conservadora" style="width: ${{(enfoques.conservador/noticiasFiltradas.length*100).toFixed(0)}}%"></div>
                             </div>
-                            <span class="enfoque-numero">${enfoques.conservador}</span>
+                            <span class="enfoque-numero">${{enfoques.conservador}}</span>
                         </div>
                         <div class="enfoque-item">
                             <span class="enfoque-label">Neutro</span>
                             <div class="barra-container">
-                                <div class="barra barra-neutra" style="width: ${(enfoques.neutro/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                                <div class="barra barra-neutra" style="width: ${{(enfoques.neutro/noticiasFiltradas.length*100).toFixed(0)}}%"></div>
                             </div>
-                            <span class="enfoque-numero">${enfoques.neutro}</span>
+                            <span class="enfoque-numero">${{enfoques.neutro}}</span>
                         </div>
                     </div>
                 </div>
-`            ;
+            `;
 
-            // Insertar antes de los resultados
             const container = document.getElementById('resultados-container');
             container.insertAdjacentHTML('beforebegin', enfoquesHTML);
             
-            // Actualizar títulos
             document.getElementById('consulta-titulo').textContent = consulta || "sin consulta";
             document.getElementById('consulta-descripcion').textContent = consulta || "sin consulta";
             document.getElementById('search-input').value = consulta;
             
-            // Actualizar estadísticas
             document.getElementById('num-noticias').textContent = noticiasFiltradas.length;
             document.getElementById('num-medios').textContent = [...new Set(noticiasFiltradas.map(n => n.medio))].length;
             document.getElementById('num-grupos').textContent = grupos.length;
             
-            // Actualizar enlace de Twitter
             const twitterBtn = document.getElementById('twitter-share');
             twitterBtn.href = consulta 
                 ? `https://twitter.com/intent/tweet?text=👁️%20Estoy%20vigilando%20'${{consulta}}'%20con%20Prisma&url=https://prismanews.github.io/prisma/vigilante.html?q=${{encodeURIComponent(consulta)}}`
                 : '#';
             
-            // Mostrar resultados
-            const container = document.getElementById('resultados-container');
             container.innerHTML = '';
             
             if (noticiasFiltradas.length === 0) {{
@@ -1572,7 +1522,6 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
                 return;
             }}
             
-            // Mostrar cada grupo - AHORA MUESTRA TODAS LAS NOTICIAS
             grupos.forEach(grupo => {{
                 let noticiasHTML = '';
                 grupo.forEach(noticia => {{
@@ -1596,7 +1545,6 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             }});
         }}
         
-        // Copiar enlace
         function copiarPortapapeles() {{
             const consulta = getQueryParam('q');
             const url = consulta 
@@ -1617,7 +1565,6 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             }});
         }}
         
-        // Inicializar
         document.addEventListener('DOMContentLoaded', () => {{
             const consulta = getQueryParam('q');
             mostrarResultados(consulta);
@@ -1686,7 +1633,6 @@ if __name__ == "__main__":
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_index)
     
-    # ========== MODO VIGILANTE: Guardar caché de noticias ==========
     logging.info("👁️ Preparando modo vigilante...")
     with open("noticias_cache.json", "w", encoding="utf-8") as f:
         json.dump([{
@@ -1721,7 +1667,6 @@ if __name__ == "__main__":
     with open("sobre.html", "w", encoding="utf-8") as f:
         f.write(html_sobre)
     
-    # ========== GENERAR PÁGINA DE VIGILANTE (búsqueda por defecto) ==========
     logging.info("👁️ Generando página de vigilante (búsqueda vacía)...")
     html_vigilante = generar_vigilante_html("", [], [], fecha_legible, fecha_iso, cachebuster, medios_unicos)
     with open("vigilante.html", "w", encoding="utf-8") as f:
