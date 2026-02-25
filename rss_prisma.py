@@ -1535,6 +1535,7 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
 `            ;
 
             // Insertar antes de los resultados
+            const container = document.getElementById('resultados-container');
             container.insertAdjacentHTML('beforebegin', enfoquesHTML);
             
             // Actualizar títulos
