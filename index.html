@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1772050755">
+    <link rel="stylesheet" href="prisma.css?v=1772054172">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -108,7 +108,7 @@
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
                 <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 23 medios · <time datetime="2026-02-25T20:19:15.387543">Actualizado: 25/02/2026 20:19</time></div>
+                <div class="stats">📰 23 medios · <time datetime="2026-02-25T21:16:12.876527">Actualizado: 25/02/2026 21:16</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -120,7 +120,6 @@
     </header>
 
     <div class="container">
-        <!-- NUEVO: Buscador del Modo Vigilante -->
         <div class="buscador-rapido">
             <form action="vigilante.html" method="get">
                 <input type="text" name="q" placeholder="👁️ Modo Vigilante: busca un tema (ej. vivienda, inmigración, sanidad...)" autocomplete="off">
@@ -131,7 +130,6 @@
             </p>
         </div>
 
-        <!-- Filtro interactivo -->
         <div class="filtro-container">
             <label for="filtro-medio">📋 Filtrar por medio:</label>
             <select id="filtro-medio">
@@ -163,7 +161,7 @@
         </div>
 
         <div class="card" data-medios="Hipertextual,Xataka,Expansión">
-            <h2>En foco: Galaxy, samsung y ultra</h2>
+            <h2>Claves: Galaxy, samsung y ultra</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -214,12 +212,52 @@
             </details>
         </div>
 
-        <div class="card" data-medios="HuffPost,El País,OK Diario,Europa Press,Expansión,La Vanguardia,Infolibre,El Mundo">
-            <h2>En foco: Tejero, antonio y muere</h2>
+        <div class="card" data-medios="El Mundo,Europa Press,El País,OK Diario,Infolibre">
+            <h2>Portada: Cuatro, tripulantes y cuba</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                8 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
+                5 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/cuba-asegura-que-abatido-cuatro-tripulantes-embarcacion-rapida-eeuu-tiroteo-16309125" target="_blank" rel="noopener">Cuba asegura que ha abatido a cuatro tripulantes de una embarcación rápida de EEUU en un tiroteo</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/america/2026-02-25/cuba-abate-a-cuatro-tripulantes-de-una-embarcacion-civil-de-estados-unidos.html" target="_blank" rel="noopener">Cuba mata a cuatro tripulantes de una lancha rápida civil de Estados Unidos</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/policia-cubana-abate-cuatro-tripulantes-embarcacion-civil-eeuu_1_2151702.html" target="_blank" rel="noopener">La policía cubana abate a cuatro tripulantes de una embarcación civil de EEUU</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 2 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/02/25/699f4df7fdddffbb0a8b45b9.html" target="_blank" rel="noopener">El Gobierno cubano confirma un enfrentamiento armado con una lancha civil procedente de Florida: cuatro muertos y seis heridos</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-cuba-anuncia-muerte-cuatro-tripulantes-embarcacion-estadounidense-20260225202603.html" target="_blank" rel="noopener">Cuba anuncia la muerte de cuatro tripulantes de una embarcación estadounidense</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="La Vanguardia,Europa Press,Infolibre,Expansión">
+            <h2>Hoy: Antonio, tejero y muere</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -238,79 +276,27 @@
 
             <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/politica/20260225/11475533/muere-antonio-tejero-directo-ultima-hora-reacciones-protagonista-intento-golpe-23-f.html" target="_blank" rel="noopener">Última hora y reacciones a la muerte de Antonio Tejero a los 93 años</a></p>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/ex-teniente-coronel-tejero-denuncia-sanchez-poner-peligro-integridad-patria-11769171" target="_blank" rel="noopener">El día que Antonio Tejero denunció a Sánchez por poner «en peligro la integridad de la patria»</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-muere-exteniente-coronel-antonio-tejero-rostro-golpe-estado-23-20260225193349.html" target="_blank" rel="noopener">Muere el exteniente coronel Antonio Tejero, el rostro del golpe de Estado del 23-F</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/02/25/68fa8b58fc6c83d27c8b45a8.html" target="_blank" rel="noopener">Muere Antonio Tejero, el ejecutor del 23-F: el peón exaltado, el golpista indomable</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/muere-93-anos-antonio-tejero-reponsable-golpe-23-f_1_2151656.html" target="_blank" rel="noopener">Muere a los 93 años Antonio Tejero, protagonista del golpe de Estado del 23-F</a></p>
 
             <details class="ver-mas">
-                <summary>+ 7 noticias más</summary>
+                <summary>+ 2 noticias más</summary>
                 <div class="noticias-extra">
-
-                    <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/virales/a-xavier-sarda-le-pilla-muerte-antonio-tejero-directo-le-despide-sola-palabra-f202602.html" target="_blank" rel="noopener">A Xavier Sardà le pilla la muerte de Antonio Tejero en directo: su cara cuando se entera lo dice todo</a></p>
-
-                    <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-02-25/los-interrogatorios-de-tejero-tras-el-23-f-para-esto-no-habia-que-dar-semejante-campanazo.html" target="_blank" rel="noopener">Los interrogatorios de Tejero tras el 23-F: “Para esto no había que dar semejante campanazo”</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-muere-exteniente-coronel-antonio-tejero-rostro-golpe-estado-23-20260225193349.html" target="_blank" rel="noopener">Muere el exteniente coronel Antonio Tejero, el rostro del golpe de Estado del 23-F</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/muere-93-anos-antonio-tejero-reponsable-golpe-23-f_1_2151656.html" target="_blank" rel="noopener">Muere a los 93 años Antonio Tejero, protagonista del golpe de Estado del 23-F</a></p>
 
                     <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/politica/2026/02/25/699f3d0fe5fdeaa3448b4593.html" target="_blank" rel="noopener">Muere Antonio Tejero, el guardia civil que protagonizó el intento de golpe del 23F</a></p>
 
                     <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/peligroso-urgente-ejercito-tierra-aviso-espias-23-f_1_2151494.html" target="_blank" rel="noopener">"Lo más peligroso y urgente es el Ejército de Tierra": el aviso a los espías tras el 23-F</a></p>
 
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/esposa-hijas-tejero-ejercito-rey-detras_1_2151515.html" target="_blank" rel="noopener">La esposa y las hijas de Tejero: "Estaba el Ejército y el rey detrás"</a></p>
-
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="HuffPost,El Español,El País,La Vanguardia,El Mundo,The Objective">
-            <h2>Relevante: Cuatro, tripulantes y cuba</h2>
+        <div class="card" data-medios="The Objective,El País,OK Diario,El Español">
+            <h2>Hoy: Directo, real y madrid</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                6 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/america/2026-02-25/cuba-abate-a-cuatro-tripulantes-de-una-embarcacion-civil-de-estados-unidos.html" target="_blank" rel="noopener">Cuba mata a cuatro tripulantes de una lancha rápida civil de Estados Unidos</a></p>
-
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/global/cuba-anuncia-muerte-cuatro-tripulantes-embarcacion-estadounidense-tiroteo-f202602.html" target="_blank" rel="noopener">Cuba anuncia la muerte de cuatro tripulantes de una embarcación estadounidense tras un tiroteo</a></p>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/02/25/699f4df7fdddffbb0a8b45b9.html" target="_blank" rel="noopener">El Gobierno cubano confirma un enfrentamiento armado con una lancha civil procedente de Florida: cuatro muertos y seis heridos</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 3 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-02-25/guardacostas-cubanos-embarcacion-eeuu/" target="_blank" rel="noopener">Guardacostas cubanos abaten a cuatro tripulantes de una embarcación de EEUU</a></p>
-
-                    <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260225/11475554/ee-uu-autoriza-venta-petroleo-venezuela-cuba-impone-condiciones.html" target="_blank" rel="noopener">EE.UU. autoriza la venta del petróleo de Venezuela en Cuba, pero impone condiciones</a></p>
-
-                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/america/20260225/policia-cubana-abate-tripulantes-embarcacion-civil-unidos-ras-intercambio-disparos/1003744146098_0.html" target="_blank" rel="noopener">La Policía cubana abate a cuatro tripulantes y hiere a otros 6 de una embarcación civil de EEUU tras un intercambio de disparos</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="El Español,El País,OK Diario,La Vanguardia,The Objective">
-            <h2>Claves: Directo, real y madrid</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                5 medios · tono equilibrado · 
+                4 medios · tono equilibrado · 
                 múltiples perspectivas
             </div>
             <div class="sesgo-simple">
@@ -328,26 +314,82 @@
                 </div>
             </div>
 
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/futbol/20260225/real-madrid-benfica-directo-ultima-hora-partido-playoff-champions-league-hoy-vivo-resultado-goles-futbol/1003744145658_10.html" target="_blank" rel="noopener">Real Madrid - Benfica, en directo | Gol de Tchouaméni, resultado y goles del fútbol de Champions League, hoy en vivo</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-02-25/real-madrid-benfica-en-directo-el-partido-de-playoff-de-la-champions-en-vivo.html" target="_blank" rel="noopener">Real Madrid - Benfica en directo | Comienza la segunda mitad en el Bernabéu</a></p>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/directo/deportes/futbol/2026-02-25/real-madrid-benfica-directo-champions-league-vivo-online/" target="_blank" rel="noopener">Cómo va el Real Madrid – Benfica, en directo: dónde mirar la Champions League en vivo online hoy</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/directo/deportes/futbol/2026-02-25/real-madrid-benfica-directo-champions-league-vivo-online/" target="_blank" rel="noopener">Cronología Real Madrid – Benfica, en directo: dónde mirar y cómo va la Champions League en vivo online hoy</a></p>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-02-25/real-madrid-benfica-en-directo-el-partido-de-playoff-de-la-champions-en-vivo.html" target="_blank" rel="noopener">Real Madrid - Benfica en directo | Comienza el partido en el Bernabéu</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/futbol/20260225/real-madrid-benfica-directo-ultima-hora-partido-playoff-champions-league-hoy-vivo-resultado-goles-futbol/1003744145658_10.html" target="_blank" rel="noopener">Real Madrid vs Benfica, en directo | Resultado y goles del fútbol de Champions League</a></p>
 
             <details class="ver-mas">
-                <summary>+ 2 noticias más</summary>
+                <summary>+ 1 noticias más</summary>
                 <div class="noticias-extra">
 
                     <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/celta-paok-horario-donde-ver-television-directo-vivo-online-gratis-partido-europa-league-16296203" target="_blank" rel="noopener">Celta – PAOK: horario y dónde ver por televisión en directo y en vivo online gratis el partido de la Europa League</a></p>
-
-                    <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/real-madrid/20260225/11475550/real-madrid-benfica-aficionados-tension.html" target="_blank" rel="noopener">Tensión antes del Madrid-Benfica con los más de 4.000 portugueses... y Mourinho, a su 'palquito'</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="Expansión,Infolibre">
-            <h2>Portada: Pensiones, nuevas y jubilación</h2>
+        <div class="card" data-medios="The Objective,OK Diario,eldiario.es">
+            <h2>Relevante: Cádiz, kichi y prevaricación</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 44%;"></div>
+                    <div class="barra-conservadora" style="width: 56%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 44%</span>
+                    <span>Conservador 56%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/ex-alcalde-cadiz-kichi-procesado-prevaricacion-fichaje-asesor-podemos-16309414" target="_blank" rel="noopener">El ex alcalde de Cádiz Kichi es procesado por prevaricación en el fichaje de un asesor de Podemos</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/tribunales/2026-02-25/procesan-exalcalde-cadiz-kichi-asesor-ayuntamiento/" target="_blank" rel="noopener">Procesan al exalcalde de Cádiz ‘Kichi’ por presunta prevaricación administrativa</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/andalucia/cadiz/juzgado-cadiz-procesa-exalcalde-jose-maria-gonzalez-kichi-tareas-asesor-ayuntamiento_1_13021319.html" target="_blank" rel="noopener">Un juzgado de Cádiz procesa al exalcalde José María González 'Kichi' por las tareas de un asesor en el Ayuntamiento</a></p>
+        </div>
+
+        <div class="card" data-medios="Hipertextual,Applesfera,Expansión">
+            <h2>Tema: Gemini, logra y siri</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/inteligencia-artificial/gemini-modo-agentico-android/" target="_blank" rel="noopener">Gemini logra lo que Siri no pudo: su nuevo modo agéntico toma el control de tus apps y hace todo por ti</a></p>
+
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/tecnologia/2026/02/25/699f3e66e5fdead0468b45b2.html" target="_blank" rel="noopener">Google anuncia nuevas capacidades autónomas de Gemini en el sistema operativo Android</a></p>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/cada-20-preguntas-chatgpt-se-bebe-medio-litro-agua-apple-era-unica-que-no-pasaba-sed-que-ha-llamado-a-puerta-google" target="_blank" rel="noopener">Apple logró encerrar a la IA en el iPhone para evitar su gran problema. Pero entonces Gemini llamó a la puerta</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,HuffPost">
+            <h2>En foco: Directo, archivos y secretos</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -359,24 +401,24 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
                 </div>
             </div>
 
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/2026/02/25/699f3aaa468aeb03478b457e.html" target="_blank" rel="noopener">Las nuevas pensiones de jubilación ya rozan los 2.000 euros mensuales</a></p>
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/en-directo-ultima-hora-desclasificacion-archivos-secretos-intento-golpe-estado-23f-f202602.html" target="_blank" rel="noopener">En directo: última hora de la desclasificación de los archivos secretos del 23-F</a></p>
 
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/ateneo-madrid-acoge-presentacion-manifiesto-blindaje-pensiones_1_2151610.html" target="_blank" rel="noopener">El Ateneo de Madrid acoge la presentación de un manifiesto por el blindaje de las pensiones</a></p>
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/19-cosas-han-desvelado-documentos-desclasificados-23f-f202602.html" target="_blank" rel="noopener">¡Quieto todo el mundo! 19 cosas que han desvelado los documentos desclasificados del 23-F</a></p>
 
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/directivos/deporte-negocio/2026/02/25/699f345e468aeba0198b4571.html" target="_blank" rel="noopener">Despidos, comidas gratis y la pensión de Alex Ferguson: así cuadra sus cuentas el Manchester United</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/videos/espana/2026-02-25/video-archivos-secretos-descubierto-objetivo-directo-yolanda-diaz-pedro-sanchez-policia-nacional-errejon/" target="_blank" rel="noopener">VÍDEO | Los archivos SECRETOS del 23-F, al descubierto | OBJETIVO DIRECTO</a></p>
         </div>
 
         <div class="card" data-medios="Europa Press,Infolibre,eldiario.es">
-            <h2>Relevante: Protocolo, acoso y policía</h2>
+            <h2>Portada: Protocolo, acoso y policía</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -404,37 +446,8 @@
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/congreso-dara-luz-verde-jueves-ayudas-victimas-adamuz-gelida_1_2151627.html" target="_blank" rel="noopener">El Congreso dará luz verde este jueves a las ayudas para las víctimas de Adamuz y Gelida</a></p>
         </div>
 
-        <div class="card" data-medios="Europa Press,El Español,El Mundo">
-            <h2>Portada: Detenido, alemania y ucraniano</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/madrid/2026/02/25/699f25c7e85ecedc3d8b457f.html" target="_blank" rel="noopener">Detenido en Alemania el asesino que tiroteó al ex asesor ucraniano Andriy Portnov frente a un colegio de Pozuelo</a></p>
-
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/europa/20260225/detenido-alemania-presunto-asesino-expolitico-ucraniano-andrei-portnov-tiroteado-pozuelo/1003744145819_0.html" target="_blank" rel="noopener">Detenido en Alemania el presunto asesino del eneolítico ucraniano Andréi Portnov, tiroteado en Pozuelo en 2025</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-detenido-alemania-autor-asesinato-ucraniano-tiroteado-pozuelo-madrid-mayo-2025-20260225171159.html" target="_blank" rel="noopener">Detenido en Alemania el autor del asesinato del ucraniano tiroteado en Pozuelo (Madrid) en mayo de 2025</a></p>
-        </div>
-
-        <div class="card" data-medios="HuffPost,The Objective">
-            <h2>Relevante: Archivos, secretos y directo</h2>
+        <div class="card" data-medios="La Vanguardia,OK Diario">
+            <h2>Portada: Todo, necesitas y saber</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -442,26 +455,80 @@
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
                 </div>
             </div>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/videos/espana/2026-02-25/video-archivos-secretos-descubierto-objetivo-directo-yolanda-diaz-pedro-sanchez-policia-nacional-errejon/" target="_blank" rel="noopener">VÍDEO | Los archivos SECRETOS del 23-F, al descubierto | OBJETIVO DIRECTO</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/todo-lo-que-necesitas-saber-sobre-benfica-que-pais-que-significa-rivalidad-oporto-16147926" target="_blank" rel="noopener">Todo lo que necesitas saber sobre el Benfica: de qué país es, qué significa, su rivalidad con el Oporto…</a></p>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/en-directo-ultima-hora-desclasificacion-archivos-secretos-intento-golpe-estado-23f-f202602.html" target="_blank" rel="noopener">En directo: última hora de la desclasificación de los archivos secretos del 23-F</a></p>
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/real-madrid/20260225/11475550/real-madrid-benfica-aficionados-tension.html" target="_blank" rel="noopener">Tensión antes del Madrid-Benfica con los más de 4.000 portugueses... y Mourinho, a su 'palquito'</a></p>
         </div>
 
-        <div class="card" data-medios="OK Diario,La Vanguardia">
-            <h2>Hoy: Penalti, sánchez y martínez</h2>
+        <div class="card" data-medios="La Vanguardia,OK Diario">
+            <h2>Tema: Zaragoza, sellan y zona</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/pp-vox-sellan-paz-zaragoza-fin-zona-bajas-emisiones-luz-verde-presupuestos-16309049" target="_blank" rel="noopener">PP y Vox sellan la paz en Zaragoza: fin a la Zona de Bajas Emisiones y luz verde a los Presupuestos</a></p>
+
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/politica/20260225/11475564/pp-vox-cierra-in-extremis-pacto-presupuestario-zaragoza.html" target="_blank" rel="noopener">PP y Vox cierra in extremis un pacto presupuestario para Zaragoza</a></p>
+        </div>
+
+        <div class="card" data-medios="El Mundo,Europa Press">
+            <h2>Relevante: Yolanda, díaz y izquierda</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/02/25/699f450ce85ecec0768b45cd.html" target="_blank" rel="noopener">Yolanda Díaz, la refundadora de la izquierda que aspiró a lo más alto pero la realidad apagó su estrella</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-yolanda-diaz-dirigente-unio-izquierda-pese-chocar-podemos-sufrio-desgaste-destacar-trabajo-20260225145134.html" target="_blank" rel="noopener">Yolanda Díaz: la dirigente que unió a la izquierda pese a chocar con Podemos y sufrió desgaste tras destacar en Trabajo</a></p>
+        </div>
+
+        <div class="card" data-medios="La Vanguardia,OK Diario">
+            <h2>Portada: Penalti, sánchez y martínez</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -487,8 +554,8 @@
             <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/otro-espanto-del-arbitraje-espanol-champions-sanchez-martinez-traga-penalti-salvado-var-16309073" target="_blank" rel="noopener">Otro espanto del arbitraje español en Champions: Sánchez Martínez se traga un penalti y es salvado por el VAR</a></p>
         </div>
 
-        <div class="card" data-medios="El País,La Vanguardia">
-            <h2>Relevante: Dimite, comisario y jefe</h2>
+        <div class="card" data-medios="La Vanguardia,El País">
+            <h2>Hoy: Dimite, comisario y jefe</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -514,8 +581,8 @@
             <p><strong>El País:</strong> <a href="https://elpais.com/espana/madrid/2026-02-25/dimite-el-comisario-jefe-de-la-policia-de-alcala-de-henares-tras-la-denuncia-de-dos-mujeres-por-violencia-de-genero.html" target="_blank" rel="noopener">Dimite el comisario jefe de la Policía de Alcalá de Henares tras la denuncia de dos mujeres por violencia de género</a></p>
         </div>
 
-        <div class="card" data-medios="Trendencias,El País">
-            <h2>Claves: Euros, suizo y aprueba</h2>
+        <div class="card" data-medios="Infolibre,Expansión">
+            <h2>Claves: Pensiones, nuevas y jubilación</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -523,22 +590,22 @@
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-02-25/el-gobierno-suizo-aprueba-una-ayuda-de-casi-55000-euros-para-los-afectados-del-incendio-de-crans-montana.html" target="_blank" rel="noopener">El Gobierno suizo aprueba una ayuda de casi 55.000 euros para los afectados del incendio de Crans-Montana</a></p>
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/2026/02/25/699f3aaa468aeb03478b457e.html" target="_blank" rel="noopener">Las nuevas pensiones de jubilación ya rozan los 2.000 euros mensuales</a></p>
 
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/shopping/llega-proximo-sabado-28-febrero-a-aldi-solucion-para-limpiar-cristales-esfuerzo-solo-cuesta-24-99-euros" target="_blank" rel="noopener">Llega el próximo sábado 28 de febrero a Aldi la solución para limpiar los cristales sin esfuerzo: solo cuesta 24,99 euros</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/ateneo-madrid-acoge-presentacion-manifiesto-blindaje-pensiones_1_2151610.html" target="_blank" rel="noopener">El Ateneo de Madrid acoge la presentación de un manifiesto por el blindaje de las pensiones</a></p>
         </div>
 
         <div class="card" data-medios="El Mundo,Microsiervos">
@@ -568,87 +635,6 @@
             <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2026/02/25/699f2cede4d4d82e538b4595.html" target="_blank" rel="noopener">El astronauta de la NASA Mike Fincke revela que él era el tripulante enfermo que obligó a evacuar a su tripulación de la Estación Espacial</a></p>
         </div>
 
-        <div class="card" data-medios="Trendencias,Yorokobu">
-            <h2>En foco: Camiseta, lencera y buscada</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 51%;"></div>
-                    <div class="barra-conservadora" style="width: 49%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 51%</span>
-                    <span>Conservador 49%</span>
-                </div>
-            </div>
-
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/shopping/camiseta-lencera-buscada-2026-ahora-stradivarius-disponible-tres-colores-ideales-para-primavera" target="_blank" rel="noopener">La camiseta lencera más buscada de 2026 ahora en Stradivarius: disponible en tres colores ideales para primavera</a></p>
-
-            <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/antropologia-del-color-cuando-la-cultura-cambia-el-significado-del-tono-con-el-que-pintas-las-cosas/" target="_blank" rel="noopener">Antropología del color: Cuando la cultura cambia el significado del tono con el que pintas las cosas</a></p>
-        </div>
-
-        <div class="card" data-medios="El Español,El Independiente">
-            <h2>Tema: Harald, noruega y infección</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🔵 Enfoque ligeramente progresista</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 53%;"></div>
-                    <div class="barra-conservadora" style="width: 47%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 53%</span>
-                    <span>Conservador 47%</span>
-                </div>
-            </div>
-
-            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/gente/2026/02/25/las-vacaciones-de-harald-de-noruega-en-tenerife-acaban-en-el-hospital-cuando-una-persona-de-casi-90-anos-es-ingresada-con-una-infeccion-es-algo-serio/" target="_blank" rel="noopener">Las vacaciones de Harald de Noruega en Tenerife acaban en el hospital: "Cuando una persona de casi 90 años es ingresada con una infección es algo serio"</a></p>
-
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/corazon/casas-reales/20260225/preocupacion-salud-harald-noruega-medico-dice-infeccion-padece-grave/1003744145722_0.html" target="_blank" rel="noopener">Preocupación por el estado de salud de Harald de Noruega: su médico dice que la infección que padece es "grave"</a></p>
-        </div>
-
-        <div class="card" data-medios="Applesfera">
-            <h2>Relevante: Iphone, predice y turbulencia</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/aplicaciones-ios/hay-app-para-iphone-que-predice-turbulencia-tu-vuelo-como-lleves-puede-ser-mejor-peor-que-puedes-mirar-antes-embarcar" target="_blank" rel="noopener">Hay una app para iPhone que predice la turbulencia de tu vuelo. Según cómo lo lleves, puede ser lo mejor o lo peor que puedes mirar antes de embarcar</a></p>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/cada-20-preguntas-chatgpt-se-bebe-medio-litro-agua-apple-era-unica-que-no-pasaba-sed-que-ha-llamado-a-puerta-google" target="_blank" rel="noopener">Apple logró encerrar a la IA en el iPhone para evitar su gran problema. Pero entonces Gemini llamó a la puerta</a></p>
-        </div>
-
         <div class="cta-section">
             <h3>¿Te gusta Prisma?</h3>
             <p>Ayúdanos a crecer y entender mejor los medios de comunicación</p>
@@ -660,7 +646,6 @@
         </div>
     </div>
 
-    <!-- Botones flotantes compartir -->
     <div class="compartir-flotante">
         <a href="https://twitter.com/intent/tweet?text=📊%20Descubre%20cómo%20la%20IA%20analiza%20el%20sesgo%20de%20los%20medios%20en%20Prisma&url=https://prismanews.github.io/prisma/" target="_blank" class="share-btn twitter">🐦</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://prismanews.github.io/prisma/" target="_blank" class="share-btn facebook">📘</a>
@@ -670,8 +655,8 @@
     </div>
 
     <script>
-        function copiarPortapapeles(texto) {
-            navigator.clipboard.writeText(texto).then(() => {
+        function copiarPortapapeles(texto) {{
+            navigator.clipboard.writeText(texto).then(() => {{
                 let toast = document.createElement('div');
                 toast.textContent = '✅ Enlace copiado';
                 toast.style.cssText = `
@@ -682,48 +667,46 @@
                 `;
                 document.body.appendChild(toast);
                 setTimeout(() => toast.remove(), 2000);
-            });
-        }
+            }});
+        }}
 
-        function compartirPrisma() {
-            if (navigator.share) {
-                navigator.share({
+        function compartirPrisma() {{
+            if (navigator.share) {{
+                navigator.share({{
                     title: 'Prisma | Comparador IA de noticias',
                     text: 'Analizamos el sesgo de los medios con IA',
                     url: 'https://prismanews.github.io/prisma/'
-                });
-            } else {
+                }});
+            }} else {{
                 copiarPortapapeles('https://prismanews.github.io/prisma/');
-            }
-        }
+            }}
+        }}
 
-        // Filtro por medio
-        document.getElementById('filtro-medio').addEventListener('change', function(e) {
+        document.getElementById('filtro-medio').addEventListener('change', function(e) {{
             const medio = e.target.value;
-            document.querySelectorAll('.card').forEach(card => {
-                if (medio === 'todos') {
+            document.querySelectorAll('.card').forEach(card => {{
+                if (medio === 'todos') {{
                     card.style.display = 'block';
-                } else {
+                }} else {{
                     const mediosCard = card.dataset.medios.split(',');
-                    if (mediosCard.includes(medio)) {
+                    if (mediosCard.includes(medio)) {{
                         card.style.display = 'block';
-                    } else {
+                    }} else {{
                         card.style.display = 'none';
-                    }
-                }
-            });
-        });
+                    }}
+                }}
+            }});
+        }});
 
-        // Animación de entrada
-        document.querySelectorAll('.card').forEach((card, index) => {
+        document.querySelectorAll('.card').forEach((card, index) => {{
             card.style.opacity = '0';
             card.style.transform = 'translateY(20px)';
-            setTimeout(() => {
+            setTimeout(() => {{
                 card.style.transition = 'all 0.5s ease';
                 card.style.opacity = '1';
                 card.style.transform = 'translateY(0)';
-            }, index * 100);
-        });
+            }}, index * 100);
+        }});
     </script>
 </body>
 </html>
