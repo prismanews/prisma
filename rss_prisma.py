@@ -1429,20 +1429,19 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             grupo.forEach(noticia => {
                 noticiasHTML += `
                     <p><strong>${noticia.medio}:</strong> <a href="${noticia.link}" target="_blank" rel="noopener">${noticia.titulo}</a></p>
-                 `;
-            });            
-                card.innerHTML = `
-                    <h2>Noticias sobre "${{consulta}}"</h2>
-                    <div class="resumen">
-                        📊 <strong>Resumen IA:</strong>
-                        ${{grupo.length}} noticias
-                    </div>
-                    ${{noticiasHTML}}
                 `;
-                
+            });   
+                card.innerHTML = `
+                    <h2>Noticias sobre "${consulta}"</h2>
+                    <div class="resumen">
+                        <strong>Resumen IA:</strong>
+                        ${grupo.length} noticias
+                    </div>
+                    ${noticiasHTML}
+               `;
+    
                 container.appendChild(card);
-            }});
-        }}
+            });
         
         // Copiar enlace
         function copiarPortapapeles() {{
