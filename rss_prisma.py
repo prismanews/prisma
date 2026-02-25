@@ -1424,24 +1424,29 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
                 return;
             }}
             
-            // Mostrar cada grupo
-            let noticiasHTML = '';
-            grupo.forEach(noticia => {
-                noticiasHTML += `
-                    <p><strong>${noticia.medio}:</strong> <a href="${noticia.link}" target="_blank" rel="noopener">${noticia.titulo}</a></p>
-                `;
-            });   
+            // Mostrar cada grupo - AHORA MUESTRA TODAS LAS NOTICIAS
+            grupos.forEach(grupo => {{
+                let noticiasHTML = '';
+                grupo.forEach(noticia => {{
+                    noticiasHTML += `
+                        <p><strong>${{noticia.medio}}:</strong> <a href="${{noticia.link}}" target="_blank" rel="noopener">${{noticia.titulo}}</a></p>
+                    `;
+                }});
+                
+                const card = document.createElement('div');
+                card.className = 'card';
                 card.innerHTML = `
-                    <h2>Noticias sobre "${consulta}"</h2>
+                    <h2>Noticias sobre "${{consulta}}"</h2>
                     <div class="resumen">
-                        <strong>Resumen IA:</strong>
-                        ${grupo.length} noticias
+                        📊 <strong>Resumen IA:</strong>
+                        ${{grupo.length}} noticias
                     </div>
-                    ${noticiasHTML}
-               `;
-    
+                    ${{noticiasHTML}}
+                `;
+                
                 container.appendChild(card);
-            });
+            }});
+        }}
         
         // Copiar enlace
         function copiarPortapapeles() {{
