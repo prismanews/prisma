@@ -1466,11 +1466,76 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             // En una versión futura, podrías implementar clustering en JS
             return [noticias];
         }}
+
+        // Función para analizar enfoques por sesgo
+        function analizarEnfoques(noticias) {
+            // Palabras clave para detectar enfoques
+            const palabrasProgresista = [
+                "derecho", "vivienda", "pública", "social", "igualdad", 
+                "LGTBI", "feminismo", "refugiados", "climático", "públicas"
+            ];
+    
+            const palabrasConservador = [
+                "seguridad", "orden", "fronteras", "unidad", "nación",
+                "impuestos", "mercado", "familia", "tradicional", "autoridad"
+            ];
+
+            let progresista = 0;
+            let conservador = 0;
+            let neutro = 0;
+    
+            noticias.forEach(noticia => {
+                const titulo = noticia.titulo.toLowerCase();
+                let esProgresista = palabrasProgresista.some(p => titulo.includes(p));
+                let esConservador = palabrasConservador.some(p => titulo.includes(p));
+        
+                if (esProgresista && !esConservador) progresista++;
+                else if (esConservador && !esProgresista) conservador++;
+                else neutro++;
+            });
+    
+            return { progresista, conservador, neutro };        
+        }
         
         // Función para mostrar resultados
         function mostrarResultados(consulta) {{
             const noticiasFiltradas = filtrarNoticias(consulta);
             const grupos = agruparNoticias(noticiasFiltradas);
+            // Mostrar estadísticas de enfoque
+            const enfoques = analizarEnfoques(noticiasFiltradas);
+
+            // Crear un mini-resumen de enfoques
+            const enfoquesHTML = `
+                <div class="enfoques-mini">
+                    <h3>📊 Enfoques detectados</h3>
+                    <div class="enfoques-barras">
+                        <div class="enfoque-item">
+                            <span class="enfoque-label">Progresista</span>
+                            <div class="barra-container">
+                                <div class="barra barra-progresista" style="width: ${(enfoques.progresista/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                            </div>
+                            <span class="enfoque-numero">${enfoques.progresista}</span>
+                        </div>
+                        <div class="enfoque-item">
+                            <span class="enfoque-label">Conservador</span>
+                            <div class="barra-container">
+                                <div class="barra barra-conservadora" style="width: ${(enfoques.conservador/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                            </div>
+                            <span class="enfoque-numero">${enfoques.conservador}</span>
+                        </div>
+                        <div class="enfoque-item">
+                            <span class="enfoque-label">Neutro</span>
+                            <div class="barra-container">
+                                <div class="barra barra-neutra" style="width: ${(enfoques.neutro/noticiasFiltradas.length*100).toFixed(0)}%"></div>
+                            </div>
+                            <span class="enfoque-numero">${enfoques.neutro}</span>
+                        </div>
+                    </div>
+                </div>
+`            ;
+
+            // Insertar antes de los resultados
+            container.insertAdjacentHTML('beforebegin', enfoquesHTML);
             
             // Actualizar títulos
             document.getElementById('consulta-titulo').textContent = consulta || "sin consulta";
