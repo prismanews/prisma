@@ -25,6 +25,17 @@ jobs:
           python-version: "3.10"
           cache: "pip"
 
+      # 🚀 NUEVO: Cache para el modelo de HuggingFace
+      - name: Cache modelo HuggingFace
+        uses: actions/cache@v3
+        id: cache-modelo
+        with:
+          path: ~/.cache/huggingface
+          key: huggingface-modelo-${{ runner.os }}-${{ hashFiles('**/rss_prisma.py') }}
+          restore-keys: |
+            huggingface-modelo-${{ runner.os }}-
+            huggingface-modelo-
+
       - name: Instalar dependencias
         run: |
           pip install --upgrade pip
@@ -39,7 +50,6 @@ jobs:
 
       - name: Guardar caché para modo vigilante
         run: |
-          # Verificar que se creó el archivo de caché
           if [ -f "noticias_cache.json" ]; then
             echo "✅ Caché de noticias guardado correctamente"
           else
@@ -48,7 +58,6 @@ jobs:
 
       - name: Limpiar búsquedas antiguas del modo vigilante
         run: |
-          # Eliminar archivos de búsqueda anteriores (opcional)
           rm -f vigilante_*.html
           echo "🧹 Limpieza de búsquedas antiguas completada"
 
@@ -68,11 +77,9 @@ jobs:
           git config user.name "Prisma Bot"
           git config user.email "bot@prisma.com"
           
-          # Añadimos TODOS los archivos importantes
           git add index.html espana.html sobre.html vigilante.html sitemap.xml robots.txt noticias_cache.json
           git diff --cached --quiet || git commit -m "🤖 Actualización automática $(date +'%d/%m/%Y %H:%M')"
           
-          # PULL SEGURO (SIN REBASE) Y PUSH
           git pull --no-rebase origin main --strategy-option=theirs
           git push origin main
 
