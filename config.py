@@ -10,6 +10,9 @@ CACHE_EMBEDDINGS = True
 CACHE_FILE = "embeddings_cache.pkl"
 LOG_FILE = "prisma.log"
 
+# Añadir timeout para feeds
+FEED_TIMEOUT = 5  # segundos
+
 # ✅ NUEVO: Lista negra de medios que rara vez hablan de España
 MEDIOS_SOLO_LOCALES = ["La Nación AR", "Folha Brasil", "Clarin", "El Tiempo CO", "Infobae América"]
 
