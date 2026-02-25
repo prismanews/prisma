@@ -1425,18 +1425,12 @@ def generar_vigilante_html(consulta, noticias_filtradas, grupos, fecha_legible, 
             }}
             
             // Mostrar cada grupo
-            grupos.forEach(grupo => {{
-                // Aquí podrías calcular sesgo si tuvieras referencias en JS
-                const card = document.createElement('div');
-                card.className = 'card';
-                
-                let noticiasHTML = '';
-                grupo.slice(0, 5).forEach(noticia => {{
-                    noticiasHTML += `
-                        <p><strong>${{noticia.medio}}:</strong> <a href="${{noticia.link}}" target="_blank" rel="noopener">${{noticia.titulo}}</a></p>
-                    `;
-                }});
-                
+            let noticiasHTML = '';
+            grupo.forEach(noticia => {
+                noticiasHTML += `
+                    <p><strong>${noticia.medio}:</strong> <a href="${noticia.link}" target="_blank" rel="noopener">${noticia.titulo}</a></p>
+                 `;
+            });            
                 card.innerHTML = `
                     <h2>Noticias sobre "${{consulta}}"</h2>
                     <div class="resumen">
