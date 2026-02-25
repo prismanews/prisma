@@ -150,8 +150,8 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
     for intento in range(max_intentos):
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            # Añadir timeout
-            feed = feedparser.parse(url, request_headers=headers, timeout=FEED_TIMEOUT)
+            # ELIMINADO: timeout NO es válido en feedparser
+            feed = feedparser.parse(url, request_headers=headers)
             if not feed.bozo or intento == max_intentos-1:
                 return feed
             time.sleep(1)
@@ -159,7 +159,7 @@ def obtener_feed_seguro(url, medio, max_intentos=2):
             if intento == max_intentos-1:
                 logging.error(f"Error feed {medio} tras {max_intentos} intentos: {e}")
             time.sleep(1)
-    return None
+    return None    
 
 def menciona_espana(texto):
     """Detecta si el texto menciona España (versión multilingüe mejorada)"""
