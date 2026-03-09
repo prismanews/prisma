@@ -1,17 +1,241 @@
 [
   {
-    "titulo": "Detenidos diez neonazis de Núcleo Nacional por provocar altercados en la manifestación del 8-M en Madrid",
-    "medio": "El Mundo",
-    "fecha": 1773090050.0,
-    "link": "https://www.elmundo.es/madrid/2026/03/09/69af3261e9cf4a5b708b45b0.html",
-    "resumen": "Trataron de subirse al escenario al final de la marcha en la calle de Alcalá Leer"
+    "titulo": "Feijóo señala: «nadie puede entender que Vox sea útil a la izquierda, que sea útil a Sánchez»",
+    "medio": "The Objective",
+    "fecha": 1773096646.0,
+    "link": "https://theobjective.com/espana/castilla-y-leon/2026-03-09/feijoo-entender-vox-util-izquierda-sanchez/",
+    "resumen": "El líder del Partido Popular, Alberto Núñez Feijóo, ha pedido el voto para Alfonso Fernández Mañueco, porque representa el «antídoto contra el bloqueo» de Vox, una […]"
   },
   {
-    "titulo": "Alineación posible del Barcelona contra el Newcastle: Pedri será titular",
+    "titulo": "Trump se muestra optimista sobre el final de la guerra en Irán pero manda mensajes contradictorios: \"No hemos ganado suficiente\"",
+    "medio": "El Mundo",
+    "fecha": 1773096397.0,
+    "link": "https://www.elmundo.es/internacional/2026/03/09/69af4dc6e85ecedd398b4573.html",
+    "resumen": "Dice que su conversación de hoy con Putin ha sido \"positiva\" y se abre a retirar más sanciones para contener el precio del petróleo Leer"
+  },
+  {
+    "titulo": "Trump anuncia suspensión temporal de sanciones petroleras para reducir precios",
+    "medio": "HuffPost",
+    "fecha": 1773096035.0,
+    "link": "https://www.huffingtonpost.es/global/trump-valoracion-situacion-consecuencias-iran-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Casi 400 empleados del CNIO alertan de la grave situación que atraviesa el centro",
+    "medio": "The Objective",
+    "fecha": 1773096014.0,
+    "link": "https://theobjective.com/economia/2026-03-09/400-empleados-cnio-patronato-situacion-centro/",
+    "resumen": "Casi 400 trabajadores del Centro Nacional de Investigaciones Oncológicas (CNIO) se han dirigido al Patronato de esta institución para expresar su preocupación por la situación que […]"
+  },
+  {
+    "titulo": "Juanma Moreno cree que Vox se desinflará cuando asuma responsabilidades de Gobierno \"o cuando desaparezca el sanchismo\"",
+    "medio": "El Mundo",
+    "fecha": 1773095884.0,
+    "link": "https://www.elmundo.es/andalucia/2026/03/09/69af1fb6e85ece2e268b45a5.html",
+    "resumen": "El presidente de la Junta reconoce en una entrevista en El Hormiguero que tuvo que acudir a un psicólogo para superar lo vivido en Adamuz Leer"
+  },
+  {
+    "titulo": "Lula: “Si no nos preparamos para defendernos, en cualquier momento nos invaden”",
+    "medio": "El País",
+    "fecha": 1773095824.0,
+    "link": "https://elpais.com/america/2026-03-09/lula-si-no-nos-preparamos-para-defendernos-en-cualquier-momento-nos-invaden.html",
+    "resumen": "El brasileño se refiere a la tensa situación regional mundial, sin mencionar a Trump, al recibir a su homólogo sudafricano en Brasilia"
+  },
+  {
+    "titulo": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump dice que la guerra en Irán está “prácticamente terminada”",
+    "medio": "El País",
+    "fecha": 1773095693.0,
+    "link": "https://elpais.com/internacional/2026-03-09/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
+    "resumen": "Wall Street sube y el petróleo baja tras el anuncio | La Casa Blanca anuncia una suspensión temporal de algunas sanciones al petróleo para mitigar los precios | Irán dice que China, Rusia y Francia iniciaron contactos ayer para tratar la posibilidad de un alto el fuego"
+  },
+  {
+    "titulo": "Juanma Moreno reconoce en ‘El Hormiguero’ que fue a terapia tras la tragedia de Adamuz: «Me quebró»",
     "medio": "OK Diario",
-    "fecha": 1773090033.0,
-    "link": "https://okdiario.com/deportes/alineacion-posible-del-barcelona-contra-newcastle-pedri-sera-titular-16381603",
-    "resumen": "La alineación del Barcelona para medirse este martes (21:00 horas) al Newcastle en la ida de los octavos de final de la Champions League será la titular de Hansi Flick con Pedri de nuevo como titular al frente de los mandos de la nave blaugrana. Una alineación sin rotaciones, pero con las bajas obligatorias de … Continuar leyendo \"Alineación posible del Barcelona contra el Newcastle: Pedri será titular\""
+    "fecha": 1773095421.0,
+    "link": "https://okdiario.com/trailer/juanma-moreno-reconoce-hormiguero-que-fue-terapia-tragedia-adamuz-quebro-16384611",
+    "resumen": "Hoy lunes 9 de marzo, Juanma Moreno Bonilla, presidente de la Junta de Andalucía y líder del Partido Popular andaluz, se ha estrenado como invitado de El Hormiguero en Antena 3. Allí, ante Pablo Motos, el político ha confesado, entre otras muchas cosas, que tras el accidente ferroviario de Adamuz en el que murieron 46 … Continuar leyendo \"Juanma Moreno reconoce en ‘El Hormiguero’ que fue a terapia tras la tragedia de Adamuz: «Me quebró»\""
+  },
+  {
+    "titulo": "Paga 5,25 euros por un donut en Madrid y su veredicto es claro",
+    "medio": "HuffPost",
+    "fecha": 1773095359.0,
+    "link": "https://www.huffingtonpost.es/virales/paga-525-euros-donut-madrid-veredicto-claro-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Todos los combates de 'La Velada del Año VI': participantes confirmados del evento de Ibai Llanos",
+    "medio": "El Mundo",
+    "fecha": 1773095056.0,
+    "link": "https://www.elmundo.es/cultura/2026/03/09/69af24b8e9cf4a47378b458b.html",
+    "resumen": "El evento se celebra este 25 de julio en el Estadio de La Cartuja, en Sevilla Leer"
+  },
+  {
+    "titulo": "Un japonés que vivió en España confiesa que quiere abrazar a su madre pero no se atreve: \"En Japón solo se abrazan las parejas. Dejé de abrazar a mi madre a los 12 o 13 años\"",
+    "medio": "HuffPost",
+    "fecha": 1773094823.0,
+    "link": "https://www.huffingtonpost.es/sociedad/un-japones-vivio-espana-confiesa-quiere-abrazar-madre-atreve-en-japon-abrazan-parejas-deje-abrazar-mi-madre-12-13-anos-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Moreno se hará otro tatuaje si revalida la mayoría y reta a Sánchez en 'El Hormiguero' : \"En Andalucía no te van a votar\"",
+    "medio": "El Español",
+    "fecha": 1773094789.0,
+    "link": "https://www.elespanol.com/corazon/bluper/20260309/moreno-hara-tatuaje-revalida-mayoria-reta-sanchez-hormiguero-andalucia-no-van-votar/1003744162814_0.html",
+    "resumen": "Durante la entrevista imitó a José María Aznar y a Rajoy y confiesa con la voz quebrada que ha ido a un psicólogo tras Adamuz: \"Ha sido un punto emocional muy duro\" Más información: Page deja en el aire si intentará o no repetir en 2027 como presidente de Castilla-La Mancha: \"No lo tengo decidido\""
+  },
+  {
+    "titulo": "Trump, sobre Cuba: \"Puede que sea una toma de control amistosa, o puede que no\"",
+    "medio": "eldiario.es",
+    "fecha": 1773094618.0,
+    "link": "https://www.eldiario.es/internacional/trump-cuba-sea-toma-control-amistosa-no-sea_1_13054652.html",
+    "resumen": "El presidente de EEUU vuelve a apuntar Cuba como el siguiente objetivo de su política: \"Vivían de Venezuela y ya no les envía energía, ni combustible, ni petróleo, ni dinero, ni nada. Les hemos cortado el suministro de todo. Así que sí, o llegan a un acuerdo o lo haremos nosotros mismos\" Donald Trump sigue con Cuba en la diana. “Puede que la toma de control sea amistosa, o puede que no”. El presidente de EEUU sostiene que la Administración cubana “confía en Marco”, en alusión al secretario de Estado de EEUU: “Habla el idioma, lo cual siempre es útil, pero está negociando, y puede que sea una toma de control amistosa, o puede que no lo sea. No importaría, porque realmente están en las últimas”. Trump que está asfixiando a Cuba con su bloqueo energético, ha asegurado, como si no tuviera que ver lo que está viviendo la isla con sus políticas: “No tienen energía, no tienen dinero. Están en serios problemas desde el punto de vista humanitario, y no queremos ver eso, pero fueron muy malos con mucha gente y yo en niveles récord en el voto cubano-estadounidense”. En relación con la comunidad cubano-estadounidense, Trump ha afirmado: “Esas personas son muy importantes para mí. Pasaron por un infierno. Algunos de ellos se han convertido en algunas de las personas más exitosas del país, empresarios cubanoamericanos. Y muchos de ellos son amigos míos, porque he estado luchando esta batalla con ellos durante mucho tiempo. El régimen de Castro era brutal, y vivían de Venezuela. Ahora ya no viven de ella. Venezuela no les envía energía, ni combustible, ni petróleo, ni dinero, ni nada. Les hemos cortado el suministro de todo. Así que sí, o llegan a un acuerdo o lo haremos nosotros mismos”."
+  },
+  {
+    "titulo": "El Espanyol, carne de diván: tampoco puede con el colista",
+    "medio": "La Vanguardia",
+    "fecha": 1773094282.0,
+    "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/20260309/11485600/espanyol-carne-divan-tampoco-colista.html",
+    "resumen": "El conjunto de Manolo González sigue sumido en una crisis de identidad: poco queda de aquel equipo asombroso en la primera vuelta"
+  },
+  {
+    "titulo": "La maldición del Oscar: actrices ganadoras cuya carrera se estancó después del premio (y por qué pasa más con ellas)",
+    "medio": "Trendencias",
+    "fecha": 1773093677.0,
+    "link": "https://www.trendencias.com/cine/maldicion-oscar-actrices-ganadoras-cuya-carrera-se-estanco-despues-premio-que-pasa-ellas",
+    "resumen": "En teoría ganar un Oscar podría decirse que es el equivalente cinematográfico de desbloquear una nueva pantalla si la vida real fuera un videojuego. Se supone que la estatuilla trae bajo el brazo prestigio, visibilidad a nivel global y, sobre todo, llamadas para trabajar con los directores más interesantes del momento y libertad para poder elegir proyectos y negociar mejores salarios... ¿No? Pues no necesariamente porque algo de lo que se habla menos es que, en la práctica, para muchas actrices y actores ese momento de gloria termina funcionando casi como una cima tras la que solo se puede descender. Para muchos actores ha supuesto un punto de inflexión que, en lugar de disparar su trayectoria, marcó el inicio de una etapa laboral inestable e irregular. Es un fenómeno tan habitual que en Hollywood tiene hasta nombre propio: la maldición del Oscar. Aunque lo curioso es que este patrón suele darse con mucha más frecuencia en mujeres que en hombres. Después del premio, el sistema simplemente no sabe qué hacer con ellas y ese ansiado premio se acaba viendo más como el culmen de una carrera y no como el comienzo de una nueva etapa. Esa misma lógica, por otro lado, se aplica menos a los hombres de la industria. Como grandes ejemplos tenemos los nombres de actores como Matthew McConaughey (que tras el premio dejó atrás su eterna fama de chico de comedia romántica), Leonardo DiCaprio o Daniel Day-Lewis que han seguido ampliado su prestigio y libertad creativa después de ganar el Oscar. Un problema estructural: hay menos papelesDiversos estudios académicos sobre la industria cinematográfica llevan años señalando un factor estructural detrás de este fenómeno: hay menos papeles protagonistas para mujeres. Informes del la Iniciativa de Inclusión Annenberg de la USC y del Centro de Estudio de la Mujer en la Televisión y el Cine muestran que, incluso en el cine comercial reciente, los personajes femeninos solo representan aproximadamente un tercio de los roles protagonistas. Además, esa desigualdad aparece tanto en número de personajes como en su diversidad narrativa. Las historias centradas en hombres siguen dominando gran parte de la producción comercial, lo que significa que incluso una actriz ganadora del Oscar compite por conseguir un abanico mucho más reducido de roles. La edad también juega un papel determinante. Hollywood lleva décadas mostrando su preferencia a ofrecer papeles protagonistas a hombres de más edad mientras reduce drásticamente las oportunidades para mujeres a partir de los cuarenta. Los datos de los análisis de Martha M. Lauzen, directora del Centro de Estudio de la Mujer en la Televisión y el Cine, muestran que la mayoría de personajes femeninos importantes están en sus 20 y 30 años (60%), mientras que solo 16 % están en sus 40. Ellen Burstyn en 'Requiem por un sueño', por la que fue nominada al Oscar En cambio, los personajes masculinos se concentran más en sus 30 y 40 años. Estadísticas del sindicato SAG-AFTRA confirman una tendencia similar: los actores mayores de 40 obtienen muchos más papeles protagonistas que las actrices de la misma edad. Otra consecuencia indirecta de esto es que el margen de error para las actrices es mucho menor. Por lo tanto, un proyecto fallido o una mala elección puede tener consecuencias mucho más duraderas en su carrera. El encasillamiento del sufrimientoNo obstante, hay otro patrón curioso y es que muchas actrices ganan el premio por papeles extremadamente intensos, a menudo vinculados al sufrimiento. Personajes traumatizados, víctimas de violencia, madres desesperadas o mujeres que atraviesan experiencias límite. Son interpretaciones poderosas, pero también difíciles de repetir sin caer en el encasillamiento. Después del premio, muchas actrices han descubierto que los guiones que reciben son variaciones del mismo arquetipo. Es decir, el mismo tipo de papel que les dio el Oscar… una y otra vez. La industria tiende a asociar su identidad profesional con ese registro concreto, lo que limita la posibilidad de explorar otros géneros o tonos. Al final, el éxito y el reconocimiento terminan convirtiéndose en una jaula. Natalie Portman en 'Cisne negro', con la que ganó el Oscar Hilary Swank: dos Oscar y una carrera irregular Si hay un caso que suele aparecer en los debates sobre la \"maldición del Oscar” es el de Hilary Swank. Pocas actrices han acumulado tanto prestigio en tan poco tiempo como ella y aun así su carrera posterior ha sido sorprendentemente irregular. Swank ganó su primer Oscar a mejor actriz en 2000 por 'Boys Don't Cry', una interpretación intensísima en la que encarnaba a Brandon Teena, un joven trans asesinado en Nebraska. La película la convirtió de la noche a la mañana en una de las actrices más respetadas de su generación. Cinco años después volvió a ganar el mismo premio por 'Million Dollar Baby'. Con apenas 30 años, Swank tenía ya dos Oscars, algo extremadamente poco habitual. Ese tipo de reconocimiento debería haberle garantizado una carrera de primera durante décadas. Sin embargo, la trayectoria posterior de Swank ha tenido muchos altibajos. Durante los años siguientes protagonizó películas con resultados muy desiguales (como 'La cosecha', 'Amelia' o 'Deuda de honor') sin volver a entrar en la conversación de la misma manera. 'Boys Don't Cry' Aunque la propia actriz ha explicado que, después de sus Oscars, su prioridad durante un tiempo fue cuidar de su padre tras un trasplante de pulmón, su caso ilustra cómo ganar el Oscar por interpretaciones extremadamente intensas puede terminar encasillando a quien las interpreta. Swank se hizo famosa por personajes físicos, dramáticos y emocionalmente devastadores. Después del premio, muchos de los proyectos que le ofrecían se movían dentro de ese mismo registro, lo que limitaba las posibilidades de reinventarse en otros géneros. El resultado es una paradoja en la que una actriz con uno de los logros más raros del cine contemporáneo tiene una carrera posterior que nunca termina de asentarse. Halle Berry: el Oscar que no cambió nada 'Monster's Ball' Probablemente, el caso de Halle Berry sea uno de los mejores ejemplos. En 2002 hizo historia al convertirse en la primera mujer negra en ganar el Oscar a mejor actriz por su papel en 'Monster's Ball'. Su discurso de aceptación, por consiguiente, se convirtió en uno de los momentos más emblemáticos de estos premios. También parecía marcar el inicio de una nueva era. Pero no lo fue. Dos décadas después, la propia actriz ha reconocido que el premio no transformó su carrera como esperaba. Tras ganar el Oscar pensó que los guiones llegarían en avalancha. \"Pensé que habría un camión lleno de guiones delante de mi casa\", explicó en una reciente entrevista con 'The Cut'. Pero nunca ocurrió. \"Aunque estaba increíblemente orgullosa, a la mañana siguiente seguía siendo una mujer negra\", recordó. Según Berry, muchos directores seguían planteándose si elegir a una actriz negra cambiaría toda la narrativa de la película o la percepción comercial del proyecto. De hecho, más de veinte años después ella sigue siendo la única en haber ganado el Oscar a mejor actriz protagonista. No obstante, este año se ha producido un hito histórico al haber dos mujeres negras nominadas a la vez en la categoría de Mejor actriz de reparto: Teyana Taylor ('Una batalla tras otra'), Wunmi Mosaku ('Sinners'). Mira Sorvino: de ganadora a persona non grata 'Poderosa Afrodita' Si el caso de Berry habla de los techos de cristal de Hollywood, el de Mira Sorvino muestra algo todavía más oscuro. Ganadora del Oscar a mejor actriz de reparto en 1996 por 'Poderosa Afrodita', su carrera pegó un frenazo abrupto pocos años después. Y eso que, además del aval de la Academia, tenía talento y presencia hegemónica. Durante mucho tiempo nadie entendió el porqué. La explicación llegaría décadas más tarde, gracias al movimiento #MeToo. El director Peter Jackson reveló en 2017 que el productor Harvey Weinstein había calificado a Sorvino como una actriz \"difícil\" y presionado para evitarla a toda costa, lo que contribuyó a que no la contratara para proyectos como 'El señor de los anillos: La comunidad del anillo'. El motivo es que la actriz había rechazado tener encuentros sexuales con Weinstein, y el productor la vetó profesionalmente. Durante años, se interpretó ese silencio como falta de interés de la industria pero su caso fue el del clásico castigo invisible que ahora sabemos que muchas sufrieron. Mo'Nique: el precio de decir lo que no conviene Mo'Nique en 'Precious' Mo'Nique ganó el premio a mejor actriz de reparto en 2010 por su interpretación brutal y muy celebrada en 'Precious'. Su personaje era el de una madre abusiva y devastadora ha quedado como una de las actuaciones más impactantes de aquella década. Sin embargo, pocos la recuerdan ya. Poco después de su victoria, Mo’Nique denunció públicamente a los productores de la película y a figuras influyentes de Hollywood por exigirle que promocionara el film sin recibir compensación económica adicional. Sin embargo, en Hollywood, las relaciones personales pesan tanto como el talento y señalar prácticas injustas puede convertirse en una forma de aislamiento profesional. La propia actriz relató que el director Lee Daniels le dijo que había acabado en una lista negra por no seguir las reglas no escritas del sistema. En entrevistas posteriores, la actriz también ha explicado que esperaba que el Oscar trajera \"más respeto, más opciones y más dinero\", pero ero el resultado fue el contrario: su presencia en Hollywood disminuyó hasta quedarse prácticamente en cero. Wunmi Mosaku en 'Pecadores' ¿Podría volver a pasar?Algunos analistas del circuito de premios han señalado que algo parecido podría volver ocurrir este año con Wunmi Mosaku, una de las actrices que más atención está generando durante la temporada actual por su papel en 'Pecadores'. Su talento es incuestionable y su presencia en pantalla magnética, pero acabamos de ver en detalle cómo la historia reciente de Hollywood invita a mirar el triunfos de determinados perfiles con cierta cautela. Su victoria en los BAFTA podría haber aumentado de forma inmediata sus probabilidades en los Oscar, porque siete de los últimos diez ganadores del BAFTA en dicha categoría también terminaron ganando el Oscar. Sin embargo, esto también la puede convierte en un ejemplo de manual de \"ascenso rápido\" propiciado por el marketing y la narrativa del momento en medios. La atención mediática y las campañas de premios influye en el éxito percibido de una película y en su recepción pública, pero también muestra que ese impulso está fuertemente correlacionado con factores de publicidad y percepción más que con méritos permanentes. Es decir, la visibilidad en la temporada de premios puede ser intensa y efímera, sin garantizar un éxito de largo plazo. Así que, sí, el de Wunmi Mosaku podría pasar el próximo domingo a engrosar la escueta lista de actrices negras que han ganado un Oscar, pero también puede significar meter su nombre en una coctelera llena de factores que juegan en su contra. Como ahora ya sabemos, el Oscar no siempre es el principio de algo, a veces solo es un momento de visibilidad excepcional que después resulta difícil de mantener. Foto de portada | Sgt. Michael Connors y Manfred Werner En Trendencias | Los modernos no inventaron nada: el pendiente de Paul Mescal en 'Hamnet' no es una licencia estética, sino un símbolo de estatus En Trendencias | 111 películas que ver una vez en la vida - La noticia La maldición del Oscar: actrices ganadoras cuya carrera se estancó después del premio (y por qué pasa más con ellas) fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "Un multivitamínico al día podría ralentizar el envejecimiento biológico en mayores",
+    "medio": "The Objective",
+    "fecha": 1773093434.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-09/multivitaminico-dia-envejecimiento-biologico-mayores/",
+    "resumen": "El llamado ‘envejecimiento biológico’ se refiere a los cambios que se producen en el organismo con el paso del tiempo, y que puede diferir de la […]"
+  },
+  {
+    "titulo": "Jornada 27 de la Liga: resumen de los partidos",
+    "medio": "OK Diario",
+    "fecha": 1773093305.0,
+    "link": "https://okdiario.com/deportes/jornada-liga-ea-sports-resumen-partidos-13325184",
+    "resumen": "La jornada 27 de la Liga 2025-2026 ya está en marcha. A las puertas de los octavos de Champions, equipos como Real Madrid, Barcelona y Atlético deberán dosificar fuerzas en el campeonato doméstico sin olvidarse de los objetivos. Los de Arbeloa arrancarán jugando en Vigo contra un peligroso Celta que quiere Europa. Otra visita complicada … Continuar leyendo \"Jornada 27 de la Liga: resumen de los partidos\""
+  },
+  {
+    "titulo": "El primer ministro iraquí y Pedro Sánchez acuerdan llevar la guerra de Irán a la Asamblea General de la ONU",
+    "medio": "Europa Press",
+    "fecha": 1773093223.0,
+    "link": "https://www.europapress.es/internacional/noticia-primer-ministro-iraqui-pedro-sanchez-acuerdan-llevar-guerra-iran-asamblea-general-onu-20260309225343.html",
+    "resumen": "El presidente del Gobierno, Pedro Sánchez, ha mantenido este lunes una conversación telefónica con el primer ministro iraquí, Mohamed al Sudani, en el que ambos han acordado llevar la guerra de Irán a la Asamblea General de la ONU."
+  },
+  {
+    "titulo": "Joan Laporta y Víctor Font elevan la tensión de las elecciones entre reproches tras la irrupción en campaña de Xavi y el nombre de Messi",
+    "medio": "El País",
+    "fecha": 1773093222.0,
+    "link": "https://elpais.com/deportes/futbol/2026-03-09/joan-laporta-y-victor-font-elevan-la-tension-de-las-elecciones-entre-reproches-uno-gobierna-desde-la-mentira-el-otro-hace-peligrar-el-proyecto-deportivo.html",
+    "resumen": "El primer debate entre los dos candidatos a la presidencia del Barça gira en torno a las declaraciones del ex técnico, que acusa al exmandatario azulgrana de vetar el regreso del 10 en 2023"
+  },
+  {
+    "titulo": "Macron anuncia que el portaaviones que escolta la fragata española realizará una misión «sin precedentes» en Ormuz",
+    "medio": "OK Diario",
+    "fecha": 1773092977.0,
+    "link": "https://okdiario.com/internacional/macron-anuncia-que-portaaviones-que-escolta-fragata-espanola-realizara-mision-sin-precedentes-ormuz-16383661",
+    "resumen": "El presidente francés, Emmanuel Macron, ha informado este lunes que se está preparando una gran operación internacional «sin precedentes», de naturaleza estrictamente defensiva, con el propósito de garantizar la reapertura gradual del estrecho de Ormuz; en este operativo participará el buque insignia de la marina francesa, el portaaviones Charles de Gaulle y recordemos que la … Continuar leyendo \"Macron anuncia que el portaaviones que escolta la fragata española realizará una misión «sin precedentes» en Ormuz\""
+  },
+  {
+    "titulo": "A qué hora es el Newcastle – Barcelona y dónde ver el partido de octavos de final de la Champions League",
+    "medio": "OK Diario",
+    "fecha": 1773092590.0,
+    "link": "https://okdiario.com/deportes/cuando-newcastle-barcelona-que-hora-empieza-donde-ver-partido-octavos-final-champions-league-video-16377794",
+    "resumen": "El Barcelona y el Newcastle se vuelven a ver las caras esta temporada, pero en esta ocasión es en la ida de los octavos de final de la Champions League. Los culés ya consiguieron ganar en Inglaterra en la fase de liga y esperan poder repetir victoria para afrontar el choque de vuelta con la … Continuar leyendo \"A qué hora es el Newcastle – Barcelona y dónde ver el partido de octavos de final de la Champions League\""
+  },
+  {
+    "titulo": "Trump: «Irán debería estar llorando y suplicando piedad ahora, pensaban que eran grandes y los aplastamos»",
+    "medio": "OK Diario",
+    "fecha": 1773092394.0,
+    "link": "https://okdiario.com/internacional/trump-iran-deberia-estar-llorando-suplicando-piedad-ahora-pensaban-que-eran-grandes-aplastamos-16384319",
+    "resumen": "El presidente de Estados Unidos Donald Trump ha destacado este lunes durante una conferencia de la Cámara de Representantes republicana en Miami (Florida) la victoria de Estados Unidos sobre la dictadura de los ayatolás: «Irán debería estar llorando y suplicando piedad ahora, pensaban que eran grandes y los aplastamos», ha destacado el presidente de Estados … Continuar leyendo \"Trump: «Irán debería estar llorando y suplicando piedad ahora, pensaban que eran grandes y los aplastamos»\""
+  },
+  {
+    "titulo": "Debut a lo grande de Granollers: elimina a Sinner en Indian Wells",
+    "medio": "OK Diario",
+    "fecha": 1773092184.0,
+    "link": "https://okdiario.com/deportes/debut-lo-grande-granollers-elimina-sinner-indian-wells-16384280",
+    "resumen": "Un tenista español cruzándose en el camino de Jannik Sinner. La historia de vida deportiva del italiano, que una y otra vez tiene su némesis en nuestro país. Este lunes ha caído de nuevo ante una raqueta nacional y seguramente la mayoría de ustedes, cuando lean estas líneas, piensen en Carlos Alcaraz como brazo ejecutor. … Continuar leyendo \"Debut a lo grande de Granollers: elimina a Sinner en Indian Wells\""
+  },
+  {
+    "titulo": "Susane Pata, entrenadora personal: “Caminar 30 minutos durante siete días puede hacernos gastar hasta 1400 calorías”",
+    "medio": "Trendencias",
+    "fecha": 1773091877.0,
+    "link": "https://www.trendencias.com/salud/susane-pata-entrenadora-personal-caminar-30-minutos-durante-siete-dias-puede-hacernos-gastar-1400-calorias",
+    "resumen": "La excusa de no tener tiempo, en lo que ha salud se refiere, es mala excusa. Sobre todo si hacemos caso a los expertos porque hay algo que podemos hacer para quemar calorías sin ir al gimnasio: caminar. Eso sí, no vale con darnos un paseo al sol escuchando algo de música o un podcast. Hay que caminar como si llegáramos tarde. Y no, no hace falta seguir la regla de los 10.000 pasos de la OMS para conseguirlo. La experta Susane Pata, instructora certificada de fitness grupal y estratega de contenido de la Academia Nacional de Medicina del Deporte (NASM), afirma que aunque es difícil calcular la cantidad exacta de pasos necesarios para bajar de peso, “caminar 30 minutos durante siete días puede generar un gasto calórico semanal de entre 700 y 1400 calorías. Estas cifras pueden acumularse a largo plazo y producir una pérdida de peso para alguien con sobrepeso que antes llevaba una vida sedentaria\". Una persona puede quemar hasta 5600 calorías al mes caminando según Pata, aunque la cantidad exacta depende no solo de lo que se mueva, sino de cómo lo haga. Si queremos realmente quemar calorías, no es un paseo lo que debemos dar, sino aumentar la intensidad del movimiento. El punto óptimo según David Carrizo, médico experto en nutrición, obesidad y riesgo, es que caminemos como si llegáramos tarde. \"Ese ritmo en el que hablar te cuesta un poco, pero aún puedes mantener una conversación es perfecto”. El cardiólogo José Abellán está de acuerdo y asegura que \"los que caminan algo más rápido tienen un mejor pronóstico que los lentos\" si hablamos de salud cardiaca. Caminar rápido se asocia con un 20% menos de riesgo de muerte según los estudios, menos riesgo de diabetes tipo 2, un menor riesgo de arritmias y una mejora de fuerza muscular y función motora en personas mayores. También ayuda a controlar la glucosa (especialmente si lo hacemos después de comer) y la presión arterial, y hasta influye en el estado de ánimo. Si caminamos a buen ritmo, es decir rápido y si dar un “paseo”, con 30 minutos de entreno tendremos los mismos beneficios que con una caminata de una hora a paso lento, así que podemos ahorrarnos algo de tiempo si pisamos el acelerador. Si andamos durante 30 minutos en una caminata enérgica, según la clínica Mayo podrías quemar alrededor de 150 calorías más al día. “Cuanto más camines y cuanto más rápido sea el ritmo, más calorías quemarás”, pero si lo queremos es aumentar aún más el gasto calórico, caminar con pendiente puede ser la solución perfecta. Cuando caminamos con inclinación aumentamos el consumo de oxígeno y la intensidad cardiovascular, y permite mantener un estímulo metabólico incluso a una velocidad menor, y también aumenta el gasto calórico. No hay excusas. Solo necesitas unas buenas zapatillas para caminar y salir a la calle media hora. Nada imposible. Fotos | Instagram @fitnessshazam, Emma Simpson en Unsplash En Trendencias | Las mejores zapatillas de running 2026: cómo elegir bien y cuáles comprar En Trendencias | 23 recetas de tartas y postres saludables para incluir en tu dieta sin miedo - La noticia Susane Pata, entrenadora personal: “Caminar 30 minutos durante siete días puede hacernos gastar hasta 1400 calorías” fue publicada originalmente en Trendencias por Anabel Palomares ."
+  },
+  {
+    "titulo": "Intel destroza a AMD y Qualcomm con sus nuevos procesadores Core Series 2",
+    "medio": "Hipertextual",
+    "fecha": 1773091800.0,
+    "link": "https://hipertextual.com/hardware/intel-core-serie-2-ultra-3-edge-ai-industrial/",
+    "resumen": "Intel ha aprovechado el inicio del Embedded World 2026 para presentar sus procesadores Core Series 2 con núcleos de rendimiento P. El fabricante no quiere quedar rezagado frente a Qualcomm y AMD y anunció una batería de chips que prometen superar a sus rivales en rendimiento y latencia. De acuerdo con el comunicado de prensa, […] Seguir leyendo: Intel destroza a AMD y Qualcomm con sus nuevos procesadores Core Series 2"
+  },
+  {
+    "titulo": "Trump afirma que la guerra con Irán está \"prácticamente terminada\" y plantea tomar el control del estrecho de Ormuz",
+    "medio": "HuffPost",
+    "fecha": 1773091798.0,
+    "link": "https://www.huffingtonpost.es/global/trump-afirma-guerraan-esta-practicamente-terminada-plantea-tomar-control-estrecho-ormuz-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "LA ANTORCHA | Sánchez y Marlaska taparon una fiesta con cocaína del socialista Sicilia en pandemia",
+    "medio": "OK Diario",
+    "fecha": 1773091744.0,
+    "link": "https://okdiario.com/espana/antorcha-sanchez-marlaska-taparon-fiesta-cocaina-del-socialista-sicilia-pandemia-16375118",
+    "resumen": "Vicente Gil analiza en La Antorcha la jornada con Eric Frattini, Cake Minuesa y Fran Carrillo. Sánchez y Marlaska hicieron desaparecer el atestado policial de una fiesta del socialista Felipe Sicilia con altas dosis de cocaína celebrada en un hotel durante la pandemia. ¿Quiénes son los escoltas macarras de los ministros del PSOE Óscar López … Continuar leyendo \"LA ANTORCHA | Sánchez y Marlaska taparon una fiesta con cocaína del socialista Sicilia en pandemia\""
+  },
+  {
+    "titulo": "Daños en el Palacio de Golestán en Teherán tras ataques atribuidos a EEUU e Israel",
+    "medio": "OK Diario",
+    "fecha": 1773091459.0,
+    "link": "https://okdiario.com/internacional/danos-palacio-golestan-teheran-ataques-atribuidos-eeuu-israel-16382393",
+    "resumen": "El histórico Palacio de Golestán, ubicado en el centro de Teherán y declarado Sitio del Patrimonio Mundial por la UNESCO, sufrió daños significativos tras los recientes ataques aéreos atribuidos a Estados Unidos y Israel en el contexto de la guerra contra la tiranía de los ayatolás. El Palacio de Golestán es un complejo palaciego histórico … Continuar leyendo \"Daños en el Palacio de Golestán en Teherán tras ataques atribuidos a EEUU e Israel\""
+  },
+  {
+    "titulo": "El Supremo ratifica los 36 años de cárcel para un taxista por un doble asesinato en Parla",
+    "medio": "The Objective",
+    "fecha": 1773091313.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-03-09/supremo-parla-taxista-asesinato-bar-parla/",
+    "resumen": "El Tribunal Supremo ha ratificado la condena a 36 años de cárcel impuesta a un taxista por asesinar a dos hombres en un bar de Parla […]"
+  },
+  {
+    "titulo": "La Eurocámara respalda y endurece las normas para la creación de centros de deportación de migrantes fuera de la UE",
+    "medio": "El País",
+    "fecha": 1773091062.0,
+    "link": "https://elpais.com/internacional/2026-03-09/la-eurocamara-respalda-y-endurece-las-normas-para-la-creacion-de-centros-de-deportacion-de-migrantes-fuera-de-la-ue.html",
+    "resumen": "Conservadores y ultraderecha sacan adelante un texto que va más allá incluso de la propuesta original de la Comisión Europea, al incluir, entre otras medidas, la posibilidad de enviar a familias a los centros en terceros países"
+  },
+  {
+    "titulo": "Detenidos diez neonazis de Núcleo Nacional por provocar altercados en la manifestación del 8-M en Madrid",
+    "medio": "El Mundo",
+    "fecha": 1773090414.0,
+    "link": "https://www.elmundo.es/madrid/2026/03/09/69af3261e9cf4a5b708b45b0.html",
+    "resumen": "Trataron de subirse al escenario tras la marcha y boictear el acto final en la calle de Alcalá Leer"
+  },
+  {
+    "titulo": "El acusado de apuñalar a su ex novia 16 veces dice que ella se cayó y se clavó el cuchillo",
+    "medio": "El Mundo",
+    "fecha": 1773090258.0,
+    "link": "https://www.elmundo.es/andalucia/2026/03/09/69af0f6be85ece4c5d8b4583.html",
+    "resumen": "La víctima presentaba dos heridas de 12 y 15 centimetros de profundidad en espalda y el costado que el abogado de la familia sostiene \"no se pudo hacer ella misma\" Leer"
+  },
+  {
+    "titulo": "Los seis tonos de pelo más favorecedores a partir de los 40 para este 2026",
+    "medio": "Trendencias",
+    "fecha": 1773090077.0,
+    "link": "https://www.trendencias.com/belleza/seis-tonos-pelo-favorecedores-a-partir-40-para-este-2026",
+    "resumen": "Este año 2026 las tonalidades capilares siguen primando en una línea muy natural. No importa que lo que se busque sea una coloración integral o un perfecto trabajo de mechas tendencia, los tonos de pelo más demandados son los que resaltan la belleza natural y transforman el cabello con elegancia. Precisamente las tendencias del momento son las ideales para rejuvenecer el cabello, aportando brillo y un efecto sano inmediato. Concretamente se trata de tonos que no endurecen las facciones, porque todos ellos tienen un acabado cálido y logran aportar mucha luz al rostro, incluso parece que las mejillas tienen mejor tono. Color cobre 2026, el tono más luminoso Este espectacular tono cobre tiene un efecto buena cara brutal, y ya se ha ganado un hueco importante entre las mujeres de más de 40 que quieren un cambio de look muy transformador y primaveral. Este tipo de tonalidades tan soleadas son perfectas para rejuvenecer y si tienes los ojos verdes o hazel se verán increíbles. Los tonos miel transmiten lujo silencioso y quitan años Una melena de base oscura o un rubio ya muy apagado, se transforman con un color de pelo rubio miel. Si eres de las que busca aclarar la melena con un resultado natural y perfectamente integrado, el honey blonde es tu tono. Es un color de pelo que suaviza las facciones, y si apostamos por mechas el acabado es tridimensional. Una apuesta ideal para acompañar a los días de verano con este tono tendencia 2026. El rubio más pedido es el butter blonde El rubio mantequilla tiene algo muy especial, y es que tiene una cremosidad y un color súper atractivo. Es un tono tan seductor que muchas mujeres piden este rubio para transformar y rejuvenecer su melena y queda muy bien a quienes tienen una base clara o media pero muy apagada. El butter blonde es ideal para quienes buscan un rubio elegante, natural y muy luminoso. El tono de pelo caramelo más rejuvenecedor No es la primera vez que lo decimos pero el color caramelo es uno de los más rejuvenecedores porque suaviza arrugas, ilumina el rostro y no endurece. Este tono que está entre el rubio beige y el castaño claro, luce muy natural y mejora el aspecto de la melena, consiguiendo un cambio de esos que no dejan indiferente. Castaño avellana para ganar mucho brillo Si por algo se caracteriza el castaño avellana, es por ser un castaño medio con un subtono cálido con un punto cobrizo. Y si algo tiene este color es lo mucho que refleja la luz, y justamente por eso es un tono de pelo que en verano se ve precioso, porque con la luz del sol logra que resalten todos sus reflejos. Los ojos verdes, miel, avellana y pardos se potencian un montón. El color chocolate aporta mucha profundidad y luminosidad Es el tono más intenso de la primavera 2026 pero a la vez no es un color excesivamente oscuro, porque tiene muchos matices de marrón praliné. Irradia brillo lo que confiere una efecto de cabello sano al instante y también logra que la melena parezca más densa. Y qué decir que las mujeres de ojos claros se ven espectaculares con el tono cacao. Fotos | Chermiti Mohamed en Pexels En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Los seis tonos de pelo más favorecedores a partir de los 40 para este 2026 fue publicada originalmente en Trendencias por Carolina L. ."
+  },
+  {
+    "titulo": "Países Bajos advierten de ciberataques rusos contra Signal y WhatsApp en todo el mundo: no necesitan malware",
+    "medio": "Xataka",
+    "fecha": 1773090061.0,
+    "link": "https://www.xataka.com/seguridad/paises-bajos-advierten-ciberataques-rusos-signal-whatsapp-todo-mundo-no-necesitan-malware",
+    "resumen": "Cuando pensamos en aplicaciones como Signal o WhatsApp solemos asociarlas de inmediato con la idea de privacidad. Ambas se han construido sobre una promesa muy clara: el cifrado de extremo a extremo impide que terceros, incluidas las propias compañías, puedan leer los mensajes de los usuarios. Ese modelo de seguridad ha hecho que millones de personas confíen en estas plataformas para conversaciones personales, profesionales e incluso sensibles. Sin embargo, esa protección no significa que las cuentas estén completamente a salvo. Los servicios de inteligencia de Países Bajos han advertido ahora de una campaña global que busca comprometer cuentas de estas aplicaciones sin utilizar malware ni explotar fallos técnicos. Los objetivos. El servicio de inteligencia militar (MIVD) y el servicio general de inteligencia y seguridad (AIVD) señalan que los ataques buscan acceder a cuentas pertenecientes a dignatarios, funcionarios públicos y personal militar. Las autoridades también reconocen que empleados del Gobierno de Países Bajos han sido tanto objetivo como víctimas de estos intentos. Además, el informe indica que otros perfiles que puedan resultar de interés para el Gobierno ruso, como periodistas, también podrían estar entre los destinatarios de este tipo de ataques. Ingeniería social en lugar de software espía. A diferencia de otros episodios de espionaje digital que han afectado a servicios de mensajería en el pasado, la campaña descrita por los servicios neerlandeses no depende de malware ni de la explotación de fallos técnicos. El informe explica que los atacantes recurren principalmente a phishing y a técnicas de ingeniería social para conseguir acceso a las cuentas. Esa diferencia es relevante si se compara con herramientas como Pegasus, el famoso software espía capaz de infiltrarse en teléfonos móviles. En este caso, el objetivo no es comprometer el sistema del teléfono, sino aprovechar el comportamiento del usuario para tomar el control de su cuenta o vincular un dispositivo ajeno. “Account take-over”. Uno de los métodos es la toma directa del control de la cuenta. Los atacantes, explican en el informe, se hacen pasar por el equipo oficial de soporte de la aplicación y envían mensajes a la víctima alertando de supuestas actividades sospechosas, posibles filtraciones de datos o intentos de acceso a su cuenta. A partir de ahí solicitan que el usuario complete un proceso de verificación y comparta el código que recibe por SMS, así como el PIN configurado en la aplicación. Si la víctima facilita esos datos, el actor malicioso puede tomar el control de la cuenta y llegar a reasociarla a un número bajo su control. El truco de los QR y los dispositivos vinculados. El informe también describe una segunda vía de acceso que no implica necesariamente que la víctima pierda el control inmediato de su cuenta. En este caso, los atacantes recurren a técnicas de ingeniería social para convencer al usuario de que escanee un código QR o haga clic en un enlace aparentemente legítimo, por ejemplo con la excusa de unirse a un grupo de chat. Ese QR o enlace puede estar diseñado para vincular el dispositivo del atacante a la cuenta de la víctima mediante las funciones de dispositivos vinculados de las aplicaciones. Una vez conectado, el atacante puede acceder a las conversaciones y, según la plataforma y el modo de acceso, llegar a ver mensajes en curso o incluso parte del historial, además de poder enviar mensajes en nombre del usuario. En Xataka Cada cuánto debemos cambiar TODAS nuestras contraseñas según tres expertos en ciberseguridad Qué recomiendan los servicios de inteligencia. El informe también incluye varias recomendaciones prácticas para reducir el riesgo de este tipo de ataques. Las autoridades advierten de que nunca se deben compartir códigos de verificación o el PIN de la cuenta a través de mensajes, incluso si la solicitud parece provenir del servicio de soporte de la aplicación. También recomiendan desconfiar de enlaces o códigos QR enviados por contactos desconocidos y verificar siempre estas solicitudes por otro canal antes de interactuar con ellas. Otra medida importante consiste en revisar periódicamente la lista de dispositivos vinculados a la cuenta y eliminar cualquier dispositivo que no sea reconocido. El documento añade además otras medidas útiles, como activar el bloqueo de registro en Signal y avisar a los contactos por otra vía si existe la sospecha de que la cuenta ha sido comprometida. Imágenes | BoliviaInteligente | Adem AY En Xataka | Que puedan hackear un móvil sólo entrando a una web da miedo. Si además ese móvil es un iPhone, da terror - La noticia Países Bajos advierten de ciberataques rusos contra Signal y WhatsApp en todo el mundo: no necesitan malware fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
     "titulo": "Isabel Pantoja pierde el control de su patrimonio y se queda sin su refugio más sagrado",
@@ -21,11 +245,11 @@
     "resumen": "Cinco años sin pagar ni un solo euro de hipoteca. Esa es la cifra que resume la caída económica de Isabel Pantoja y que ha precipitado la pérdida de Cantora, la finca que durante décadas fue su castillo, su refugio y, sobre todo, su principal escudo frente a cualquier frente judicial o financiero. No hay […] La entrada Isabel Pantoja pierde el control de su patrimonio y se queda sin su refugio más sagrado aparece primero en Moncloa."
   },
   {
-    "titulo": "Un grupo de iraníes pide apoyo en la sede de Vox tras ser ignorados por Sánchez: «Sois un faro de integridad»",
-    "medio": "OK Diario",
-    "fecha": 1773089970.0,
-    "link": "https://okdiario.com/espana/grupo-iranies-pide-apoyo-sede-vox-ser-ignorados-sanchez-sois-faro-integridad-16384103",
-    "resumen": "Un grupo de exiliados iraníes se ha manifestado este lunes a las puertas de Bambú para pedir apoyo a Vox. Los manifestantes denunciaban que han sido ignorados por Pedro Sánchez, mientras han agradecido la postura de la formación que lidera Santiago Abascal reconociéndola como «faro de integridad». La plataforma Todo por Irán de Madrid ha … Continuar leyendo \"Un grupo de iraníes pide apoyo en la sede de Vox tras ser ignorados por Sánchez: «Sois un faro de integridad»\""
+    "titulo": "EEUU envía a Irán el dron cazadrones que ha derribado más de 1.000 Shaheds en Ucrania: cada interceptor cuesta 15.000 euros frente al millón de un misil Patriot",
+    "medio": "HuffPost",
+    "fecha": 1773089809.0,
+    "link": "https://www.huffingtonpost.es/global/eeuuenviaan-droncazadronesque-derribado-mas-1000shahedsen-ucrania-interceptor-cuesta-15000-euros-frente-millon-misilpatriot-f202603.html",
+    "resumen": ""
   },
   {
     "titulo": "La Primitiva: comprobar sorteo del lunes 9 de marzo",
@@ -42,25 +266,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump dice que la guerra en Irán está “prácticamente terminada”",
-    "medio": "El País",
-    "fecha": 1773089243.0,
-    "link": "https://elpais.com/internacional/2026-03-09/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
-    "resumen": "Wall Street sube y el petróleo baja tras el anuncio | Trump y Putin hablan por teléfono sobre Irán y Venezuela | La Casa Blanca se plantea aliviar las sanciones petroleras a Rusia para mitigar la subida del precio de la energía"
-  },
-  {
-    "titulo": "'La Velada del Año VI': combates y participantes confirmados del evento de Ibai Llanos",
-    "medio": "El Mundo",
-    "fecha": 1773089154.0,
-    "link": "https://www.elmundo.es/cultura/2026/03/09/69af24b8e9cf4a47378b458b.html",
-    "resumen": "El evento se celebra este 25 de julio en el Estadio de La Cartuja, en Sevilla Leer"
-  },
-  {
-    "titulo": "Lula: “Si no nos preparamos para defendernos, en cualquier momento nos invaden”",
-    "medio": "El País",
-    "fecha": 1773088922.0,
-    "link": "https://elpais.com/america/2026-03-09/lula-si-no-nos-preparamos-para-defendernos-en-cualquier-momento-nos-invaden.html",
-    "resumen": "El brasileño se refiere a la tensa situación regional mundial, sin mencionar a Trump, al recibir a su homólogo sudafricano en Brasilia"
+    "titulo": "León XIV eleva el tono ante la guerra de Trump y Netanyahu",
+    "medio": "La Vanguardia",
+    "fecha": 1773089128.0,
+    "link": "https://www.lavanguardia.com/internacional/20260309/11485590/leon-xiv-eleva-tono-guerra-trump-netanyahu.html",
+    "resumen": "El Papa lamenta las víctimas de los bombardeos en Oriente Medio, entre ellas un sacerdote muerto en un ataque en el sur del Líbano"
   },
   {
     "titulo": "MacBook Pro con M5 Pro: más músculo para el MacBook más potente",
@@ -70,32 +280,11 @@
     "resumen": "El último portátil profesional de Apple es un equipo sobresaliente que combina potencia bruta, los últimos avances para ejecutar de forma local herramientas de inteligencia artificial y una buena batería Leer"
   },
   {
-    "titulo": "Alfonso Rueda asegura que la opinión de Ayuso sobre la guerra contra Irán «no representa’ la posición del PP gallego",
-    "medio": "OK Diario",
-    "fecha": 1773088596.0,
-    "link": "https://okdiario.com/espana/alfonso-rueda-asegura-que-opinion-ayuso-sobre-guerra-contra-iran-no-representa-posicion-del-pp-gallego-16383938",
-    "resumen": "El presidente de la Xunta de Galicia, Alfonso Rueda, ha asegurado que la posición de su homóloga en la Comunidad de Madrid, Isabel Díaz Ayuso -ambos del Partido Popular- no representa la opinión de los populares gallegos, además de censurar la «demagogia» de Pedro Sánchez con el asunto de la guerra contra Irán. Lo ha … Continuar leyendo \"Alfonso Rueda asegura que la opinión de Ayuso sobre la guerra contra Irán «no representa’ la posición del PP gallego\""
-  },
-  {
-    "titulo": "Trump dice que la guerra contra Irán está «prácticamente terminada»",
-    "medio": "The Objective",
-    "fecha": 1773088506.0,
-    "link": "https://theobjective.com/internacional/2026-03-09/putin-trump-telefono-iran-venezuela/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha asegurado este lunes que la ofensiva contra Irán está «prácticamente terminada», más de una semana después de que […]"
-  },
-  {
     "titulo": "Sánchez, ante la jueza por el muñeco con su figura apaleado en Nochevieja: \"Fue una apelación a mi muerte\"",
     "medio": "eldiario.es",
     "fecha": 1773088432.0,
     "link": "https://www.eldiario.es/politica/sanchez-jueza-muneco-figura-apaleado-nochevieja-apelacion-muerte_1_13052261.html",
     "resumen": "En su declaración por escrito afirma que no fue una simple crítica sino “una ceremonia de escarnio público y violencia explícita” y cree que podría dar pie a \"legitimar\" ataques a \"personas y espacios\" del PSOEApalean un muñeco de Pedro Sánchez en la Nochevieja de la extrema derecha en Ferraz: “Hay que acabar así con él” El presidente del Gobierno, Pedro Sánchez, ha declarado por escrito ante el Juzgado de Instrucción número 26 de Madrid, que investiga un presunto delito de amenazas contra él por el linchamiento en la Nochevieja de 2023 frente a la sede socialista de la calle Ferraz de un muñeco que le representaba. Sánchez sostiene en su declaración que aquel acto fue “una apelación directa” a su muerte y que se trató “de una ceremonia de escarnio público y de violencia explícita” que excedió el derecho a la crítica. Así consta en la declaración presentada por el jefe del Ejecutivo, que ejerce la acusación particular en esa causa, en la que indica que, si bien esa manifestación en apariencia había sido convocada como un acto lúdico y de protesta política —tomar las doce uvas ante la sede del PSOE—, ocultaba una acción perfectamente organizada de “violencia política e intimidación”. Para Sánchez, el encuentro convocado por Revuelta, la marca juvenil de Vox, desembocó “en una violenta manifestación de odio, con exhibición de símbolos preconstitucionales, coacciones y amenazas” dirigidos directamente contra él. Lamenta que también “se vertieron graves ofensas e insinuaciones homicidas” que alcanzaban incluso a miembros de su familia, y que el momento culmen de esa teatralización incluía que la figura representativa de su persona fuera “colgada de un semáforo, golpeada, apaleada y despedazada” mientras todo era retransmitido en directo a través de las redes sociales. “Los actos eran una manifestación brutal de odio, encaminada a crear un clima de amenaza física real hacia mi persona y familia. El grado de violencia y amenaza directa excedía claramente los límites razonables del derecho a la crítica y a la protesta pública amparados por la libertad de expresión y manifestación. En ningún caso la amenaza, el odio organizado, el insulto, la insidia y la descalificación personal encuentran amparo en nuestra Constitución”, subraya Sánchez. Ataque a los trabajadores del PSOE El presidente del Gobierno indica que lo ocurrido en esa noche “no era una simple crítica” a su gestión política, sino “una proclamación expresa de odio” hacia su persona y hacia su familia. “Acompañada de ”una ceremonia de escarnio público y violencia explícita, que incluía una apelación directa a mi muerte“, señala. Y entiende que esa ”deshumanización“ no solo atentaba contra su propia dignidad, sino que podía ”legitimar la comisión de actos violentos contra personas y espacios“ vinculados al PSOE. ”Tuve la íntima convicción de que esos hechos suponían un salto cualitativo. Y que suponían una invitación real para que alguien se atreviera a pasar de la mera puesta en escena al ataque real“, añade. En este sentido, en la declaración firmada de su puño y letra, y fechada el pasado 27 de febrero, el jefe del Ejecutivo indica que “el perjuicio sufrido es (…) irreparable” y que ese apaleamiento público de una piñata con su figura supone “un salto sin precedentes desde el terreno de lo virtual al de lo real” que no se ha vivido con anterioridad. Y advierte de que la violencia verbal y la violencia representada “siempre anteceden a la violencia física” y afecta tanto al conjunto de la organización política de la que es secretario general como al simpatizante y al militante anónimo. Cree, de este modo, que no es a Pedro Sánchez “a quien se estaba colgando, apaleando y quemando en público” sino a quienes exhiben sintonía o militancia con el proyecto político que representa y, especialmente, a los trabajadores que desempeñan su labor en la sede del partido y que no cuentan con medio alguno de protección a su integridad. “Desde entonces, temo por la seguridad de todos ellos”, apuntala. Sánchez concluye su testifical escrita advirtiendo de que esa amenaza personal es también una amenaza colectiva, y avisa de que “la simbología del terror nunca ha sido una expresión inocente”. “Por desgracia, para los españoles es una lección duramente aprendida”, remarca. La causa en la que ahora ha testificado Sánchez se reabrió por expreso mandato de la Audiencia Provincial de Madrid en julio de 2025 después de que la instructora acordara el archivo al entender que “la falta de educación no es delito”. El tribunal, que enmendó esa decisión, acotó el delito investigado al de amenazas, descartando delitos de odio y de injurias. Además, rechazó la petición de la representación legal de Sánchez y del PSOE de que el asunto acabara siendo ventilado en la Audiencia Nacional."
-  },
-  {
-    "titulo": "Feijóo carga contra Vox por su bloqueo en Extremadura: «Estafa a sus votantes y da alegría al sanchismo»",
-    "medio": "OK Diario",
-    "fecha": 1773088324.0,
-    "link": "https://okdiario.com/castilla-leon/feijoo-carga-contra-vox-bloqueo-extremadura-estafa-sus-votantes-da-alegria-sanchismo-16381779",
-    "resumen": "Alberto Núñez Feijóo, líder del Partido Popular, ha acusado a Vox de bloquear el Gobierno de Extremadura al votar en contra de la investidura de María Guardiola quien, dos meses después de ganar las elecciones, sigue sin sumar apoyos para gobernar. Para Feijóo, «nadie puede entender que Vox estafe a sus votantes dando alegría al … Continuar leyendo \"Feijóo carga contra Vox por su bloqueo en Extremadura: «Estafa a sus votantes y da alegría al sanchismo»\""
   },
   {
     "titulo": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
@@ -119,25 +308,18 @@
     "resumen": "Si Google pensaba mantener en secreto las principales novedades de su próxima línea de móviles, el plan no está funcionando. Una filtración acaba de revelar al completo el diseño del Pixel 11 Pro Fold, el próximo plegable de Google. Y si bien no trae grandes sorpresas, sí llega con un cambio notorio. Android Headlines ha […] Seguir leyendo: Se filtra el primer vistazo al próximo plegable de Google: sin grandes sorpresas, pero con un cambio notorio"
   },
   {
-    "titulo": "El «indice del miedo» de EEUU cae un 11% tras arrancar el día a niveles del inicio de la guerra de Ucrania",
-    "medio": "OK Diario",
-    "fecha": 1773088107.0,
-    "link": "https://okdiario.com/economia/indice-del-miedo-eeuu-cae-11-cuando-esta-manana-estaba-niveles-del-inicio-guerra-ucrania-16383899",
-    "resumen": "El índice de riesgo VIX (conocido como el «índice del miedo» de Wall Street) ha experimentado esta mañana una notable caída del 11%, cuando esta mañana ha comenzado la cotización en los niveles del inicio de la guerra de Ucrania en febrero de 2022. En aquel entonces, el VIX se disparó rápidamente por encima de … Continuar leyendo \"El «indice del miedo» de EEUU cae un 11% tras arrancar el día a niveles del inicio de la guerra de Ucrania\""
+    "titulo": "Trump afirma que la guerra en Irán está “casi terminada”",
+    "medio": "La Vanguardia",
+    "fecha": 1773087932.0,
+    "link": "https://www.lavanguardia.com/internacional/20260309/11485587/trump-afirma-guerra-iran-esta-practicamente-terminada.html",
+    "resumen": "El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año"
   },
   {
-    "titulo": "El petróleo se gira a la baja y cae hasta los 90 dólares por barril tras haber llegado a rozar los 120",
+    "titulo": "El petróleo vive una jornada de agitación histórica: cae hasta los 90 dólares tras rozar los 120",
     "medio": "El País",
     "fecha": 1773087852.0,
     "link": "https://elpais.com/economia/2026-03-09/el-petroleo-se-dispara-y-cotiza-por-encima-de-los-100-dolares-el-barril-tras-ganar-un-46-desde-que-empezo-la-contienda.html",
     "resumen": "Las palabras de Trump dando la guerra por “prácticamente terminada” revolucionan una sesión de alto voltaje, con una diferencia de hasta el 30%"
-  },
-  {
-    "titulo": "El PSOE se pone en evidencia: es el único partido que no pedirá al Gobierno el convenio de carreteras de Mallorca",
-    "medio": "OK Diario",
-    "fecha": 1773087820.0,
-    "link": "https://okdiario.com/baleares/psoe-pone-evidencia-unico-partido-que-no-pedira-gobierno-convenio-carreteras-mallorca-16381591",
-    "resumen": "Representantes de Més per Mallorca, El PI, Vox y el PP han firmado este lunes una moción conjunta que se debatirá en el pleno del Consell de Mallorca de este jueves para reclamar al Gobierno de España los 230 millones de euros pendientes del convenio de carreteras liquidado en 2022 y que con la actualización … Continuar leyendo \"El PSOE se pone en evidencia: es el único partido que no pedirá al Gobierno el convenio de carreteras de Mallorca\""
   },
   {
     "titulo": "Abascal aumenta su presión sobre Mañueco y le cambia el nombre: \"Alfonso Fernández Marruecos\"",
@@ -161,18 +343,11 @@
     "resumen": "La presidenta madrileña anuncia en Nueva York que la Comunidad celebrará los 250 años de la independencia de EE UU, el 4 de julio"
   },
   {
-    "titulo": "demo short",
-    "medio": "OK Diario",
-    "fecha": 1773087700.0,
-    "link": "https://okdiario.com/actualidad/demo-short-16383840",
-    "resumen": ""
-  },
-  {
-    "titulo": "Mucho «No a la guerra», pero la única que se forra con la guerra es Hacienda",
-    "medio": "OK Diario",
-    "fecha": 1773087673.0,
-    "link": "https://okdiario.com/opinion/mucho-no-guerra-pero-unica-que-forra-guerra-hacienda-16382036",
-    "resumen": "Resulta que el «No a la guerra» con el que el Gobierno de España pretende encontrar la piedra filosofal para invertir su descenso en las encuestas no ha venido acompañado de un plan para paliar los efectos que el conflicto puede provocar en el bolsillo de los ciudadanos. Dice el Ejecutivo que está «monitorizando» la … Continuar leyendo \"Mucho «No a la guerra», pero la única que se forra con la guerra es Hacienda\""
+    "titulo": "La cruz de la Sagrada Família ya es visible al completo",
+    "medio": "La Vanguardia",
+    "fecha": 1773087543.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20260309/11485585/cruz-sagrada-familia-visible-completo.html",
+    "resumen": "La retirada del andamio deja al descubierto el terminal de la torre de Jesús"
   },
   {
     "titulo": "Trump asegura que la guerra de Irán está \"prácticamente terminada\" y el petróleo baja a 90 dólares",
@@ -180,6 +355,13 @@
     "fecha": 1773087118.0,
     "link": "https://www.expansion.com/economia/politica/2026/03/09/69af2974468aebfe348b4579.html",
     "resumen": "La Bolsa de Wall Street se da la vuelta y registra avances tras las declaraciones del presidente de Estados Unidos. Leer"
+  },
+  {
+    "titulo": "El 85, uno de los fundadores del Cartel Jalisco, se declarará culpable en Estados Unidos",
+    "medio": "El País",
+    "fecha": 1773086981.0,
+    "link": "https://elpais.com/mexico/2026-03-09/el-85-uno-de-los-fundadores-del-cartel-jalisco-se-declarara-culpable-en-estados-unidos.html",
+    "resumen": "Erick Valencia Salazar llega a un acuerdo con la Fiscalía estadounidense. Es uno de los 29 narcos enviados por México en febrero"
   },
   {
     "titulo": "Trump afirma que la guerra con Irán \"está prácticamente terminada\" y que tiene a un sustituto de Jamenei \"en mente\"",
@@ -194,6 +376,13 @@
     "fecha": 1773086700.0,
     "link": "https://www.huffingtonpost.es/global/dominique-villepin-ex-primer-ministro-frances-es-pedro-sanchez-esta-salvando-honor-europa-f202603.html",
     "resumen": ""
+  },
+  {
+    "titulo": "La Eurocámara endurece su posición sobre los retornos tras pactar el mandato el PPE con la ultraderecha",
+    "medio": "Europa Press",
+    "fecha": 1773086696.0,
+    "link": "https://www.europapress.es/internacional/noticia-eurocamara-endurece-posicion-retornos-pactar-mandato-ppe-ultraderecha-20260309210456.html",
+    "resumen": "La comisión de Libertades Civiles, Justicia e Interior (LIBE) del Parlamento Europeo ha adoptado este lunes la posición para negociar con los 27 la reforma de la directiva de retorno, con un mandato que consolida el apoyo a los centros de deportación en países terceros y que ha salido adelante con el apoyo del Partido Popular Europeo (PPE) y los grupos de la ultraderecha, mientras socialistas, verdes e izquierda han puesto en duda que respete derechos fundamentales."
   },
   {
     "titulo": "El PP europeo se une a la ultraderecha y da el primer paso para permitir centros de migrantes fuera de la UE",
@@ -231,11 +420,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Europa ha triplicado sus importaciones de armas en cinco años: ya compra el 33% de todas las armas pesadas que se comercializan en el mundo",
-    "medio": "HuffPost",
+    "titulo": "Un bólido recorre los cielos de Europa central sin que nadie lo viera venir",
+    "medio": "Microsiervos",
     "fecha": 1773086400.0,
-    "link": "https://www.huffingtonpost.es/global/europa-triplicado-importaciones-armas-cinco-anos-compra-33-todas-armas-pesadas-comercializan-mundo-f202603.html",
-    "resumen": ""
+    "link": "https://www.microsiervos.com/archivo/ciencia/bolido-recorre-cielos-europa-nadie-viera-venir.html",
+    "resumen": "A última hora de la tarde de ayer un bólido recorrió los cielos de Europa central. Fue visible durante unos segundos desde Alemania, Bélgica, Francia, Luxemburgo y los Países Bajos. Para variar, no lo vimos venir. Aunque afortunadamente era lo suficientemente pequeño como para haberse desintegrado en la atmósfera. Así sólo unos pequeños restos cayeron sobre una casa del barrio de Güls en Coblenza sin causar daños ni materiales ni personales. La Agencia Espacial Europea (ESA) estima que apenas tenía unos metros de diámetro. Lo que pasa es que si hubiera sido más grande –estilo el de Cheliabinsk, con el que llevábamos miles o millones de años cruzándonos sin verlo– tampoco lo habríamos visto venir porque su trayectoria no está cubierta por ninguno de los programas de observación activos. De hecho desde que tenemos datos sólo hemos sido capaces de detectar once objetos naturales en rumbo de colisión con la Tierra antes de que se precipitaran en la atmósfera. Y eso que se calcula que cada día caen sobre la Tierra unas cien toneladas de material procedente del espacio. Claro que aunque lo hubiéramos visto venir con tiempo apenas estamos empezando a ver cómo podríamos desviarlo, aunque sea a golpes. Relacionado, Un ejercicio de «defensa planetaria» ante el impacto de un asteroide contra la Tierra en 2027 acaba tan mal como cabría esperar La Defensa Planetaria define los objetivos para la próxima década, todo en pos de que no nos pille el asteroide desprevenidos Un simulador de impactos de asteroides muestra su capacidad destructiva, que no es poca, en lugares reconocibles Así suena un meteorito al estrellarse en el suelo de la entrada de una casa # Enlace Permanente"
   },
   {
     "titulo": "He probado el MacBook Pro con M5 Pro y ahora no hay vuelta atrás: es lo más cercano a la perfección",
@@ -243,13 +432,6 @@
     "fecha": 1773086400.0,
     "link": "https://hipertextual.com/analisis/macbook-pro-m5-pro/",
     "resumen": "Una vez más, Apple ha lanzado un MacBook que parece sacado de otro planeta. Hablo, en concreto, del MacBook Pro con procesador M5 Pro, que debutó la pasada semana, llegará a las tiendas a finales de esta y desde hace unos días estamos probando en la oficina de Hipertextual. Esta nueva generación apenas trae cambios […] Seguir leyendo: He probado el MacBook Pro con M5 Pro y ahora no hay vuelta atrás: es lo más cercano a la perfección"
-  },
-  {
-    "titulo": "Un bólido recorre los cielos de Europa central sin que nadie lo viera venir",
-    "medio": "Microsiervos",
-    "fecha": 1773086400.0,
-    "link": "https://www.microsiervos.com/archivo/ciencia/bolido-recorre-cielos-europa-nadie-viera-venir.html",
-    "resumen": "A última hora de la tarde de ayer un bólido recorrió los cielos de Europa central. Fue visible durante unos segundos desde Alemania, Bélgica, Francia, Luxemburgo y los Países Bajos. Para variar, no lo vimos venir. Aunque afortunadamente era lo suficientemente pequeño como para haberse desintegrado en la atmósfera. Así sólo unos pequeños restos cayeron sobre una casa del barrio de Güls en Coblenza sin causar daños ni materiales ni personales. La Agencia Espacial Europea (ESA) estima que apenas tenía unos metros de diámetro. Lo que pasa es que si hubiera sido más grande –estilo el de Cheliabinsk, con el que llevábamos miles o millones de años cruzándonos sin verlo– tampoco lo habríamos visto venir porque su trayectoria no está cubierta por ninguno de los programas de observación activos. De hecho desde que tenemos datos sólo hemos sido capaces de detectar once objetos naturales en rumbo de colisión con la Tierra antes de que se precipitaran en la atmósfera. Y eso que se calcula que cada día caen sobre la Tierra unas cien toneladas de material procedente del espacio. Claro que aunque lo hubiéramos visto venir con tiempo apenas estamos empezando a ver cómo podríamos desviarlo, aunque sea a golpes. Relacionado, Un ejercicio de «defensa planetaria» ante el impacto de un asteroide contra la Tierra en 2027 acaba tan mal como cabría esperar La Defensa Planetaria define los objetivos para la próxima década, todo en pos de que no nos pille el asteroide desprevenidos Un simulador de impactos de asteroides muestra su capacidad destructiva, que no es poca, en lugares reconocibles Así suena un meteorito al estrellarse en el suelo de la entrada de una casa # Enlace Permanente"
   },
   {
     "titulo": "Último sondeo en CYL: Mañueco se mantiene al alza, el PSOE resiste a la baja y Vox supera por primera vez el 20%",
@@ -266,13 +448,6 @@
     "resumen": "López Miras y Ballesta han sido los encargados de impulsar el proyecto arqueológico con una financiación de 600.000 euros de la Comunidad Autónoma y el Ayuntamiento de Murcia. Más información: Hallazgo sin precedentes en Murcia: sale a la luz el palacio de un rey musulmán del siglo XII"
   },
   {
-    "titulo": "Misiles iraníes atacan un campamento militar alemán en Jordania con tropas de EEUU, según 'Der Spiegel'",
-    "medio": "HuffPost",
-    "fecha": 1773086172.0,
-    "link": "https://www.huffingtonpost.es/global/misiles-iranies-atacan-campamento-militar-aleman-jordania-tropas-ee-uu-der-spiegel-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Abascal llama «canalla» a Mañueco y le cambia el nombre por «Alfonso Fernández Marrueco»",
     "medio": "The Objective",
     "fecha": 1773086042.0,
@@ -280,32 +455,11 @@
     "resumen": "El líder de Vox, Santiago Abascal, ha llamado este lunes «canalla» al presidente de la Junta de Castilla y León y candidato del PP a la […]"
   },
   {
-    "titulo": "Feijóo augura que Vox “bloqueará” también Castilla y León “por las elecciones andaluzas”",
-    "medio": "El País",
-    "fecha": 1773085578.0,
-    "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-09/feijoo-augura-que-vox-bloqueara-tambien-castilla-y-leon-por-las-elecciones-andaluzas.html",
-    "resumen": "“Nadie puede entender que Vox estafe a sus votantes dando alegrías al sanchismo”, percute el líder del PP contra los de Abascal"
-  },
-  {
     "titulo": "Vuelve La Velada del Año, el 'ring' donde las marcas buscan conquistar a la Generación Z",
     "medio": "Expansión",
     "fecha": 1773085425.0,
     "link": "https://www.expansion.com/directivos/deporte-negocio/2026/03/09/69af22ef468aebe3408b4570.html",
     "resumen": "La Velada del Año, el evento de boxeo entre creadores de contenido impulsado por Ibai Llanos, se ha consolidado como uno de los mayores fenómenos de entretenimiento digital del mundo hispanohablante. Con millones de espectadores en Twitch, miles de asistentes en el estadio y el interés de grandes marcas internacionales, el espectáculo se ha convertido en una de las plataformas más eficaces para conectar con la generación Z a través del streaming, el deporte y el marketing digital. Leer"
-  },
-  {
-    "titulo": "CNIO: El mayor centro de cáncer intenta evitar despidos por la falta de gerente",
-    "medio": "El País",
-    "fecha": 1773085035.0,
-    "link": "https://elpais.com/ciencia/2026-03-09/cnio-el-mayor-centro-de-cancer-intenta-evitar-despidos-por-la-falta-de-gerente.html",
-    "resumen": "El Gobierno tranquiliza a los científicos del organismo en una carta, pero no aporta soluciones concretas"
-  },
-  {
-    "titulo": "Tensión, protestas, casi pleno de la familia real tras la detención de Andrés y una presencia sorprendente en el Día de la Commonwealth",
-    "medio": "HuffPost",
-    "fecha": 1773084903.0,
-    "link": "https://www.huffingtonpost.es/life/influencers-celebrities/tension-protestas-pleno-familia-real-detencion-andres-presencia-sorprendente-dia-commonwealth-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "La Fiscalía ve contradictorio que la jueza de la dana diga que Mazón \"impartió órdenes\" y, a la vez, estuvo \"ajeno\"",
@@ -350,13 +504,6 @@
     "resumen": "Emiratos Árabes Unidos, Qatar, Kuwait y Bahréin, que interrumpe la producción en una refinería, siguen recibiendo ataques por parte de Irán"
   },
   {
-    "titulo": "Àngels Barceló, periodista, 62 años, viaja a Israel en medio de la guerra: \"Lo han vuelto a hacer, han vuelto a normalizar otro conflicto\"",
-    "medio": "HuffPost",
-    "fecha": 1773084600.0,
-    "link": "https://www.huffingtonpost.es/global/angels-barcelo-periodista-62-anos-viaja-israel-medio-guerra-lo-han-vuelto-hacer-han-vuelto-normalizar-conflicto-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "La canción que es la adaptación “más apasionada y romántica” de Cumbres Borrascosas: un éxito de Celine Dion de hace 30 años",
     "medio": "eldiario.es",
     "fecha": 1773084600.0,
@@ -369,6 +516,13 @@
     "fecha": 1773084600.0,
     "link": "https://hipertextual.com/tecnologia/microsoft-resolvera-el-fallo-mas-molesto-del-explorador-de-windows-11-ya-era-hora/",
     "resumen": "Microsoft ha confirmado que resolverá uno de los problemas más molestos de la interfaz de Windows 11. Tras meses de espera, el gigante tecnológico decidió corregir el fallo que mostraba flashazos aleatorios en el Explorador de archivos. Si hacemos memoria, este problema se originó a partir de la actualización de diciembre y todavía afecta a […] Seguir leyendo: Microsoft resolverá el fallo más molesto del Explorador de Windows 11 (ya era hora)"
+  },
+  {
+    "titulo": "Feijóo pide a votantes del PSOE y de Vox que apoyen a Mañueco porque es el \"antídoto contra el bloqueo\"",
+    "medio": "Europa Press",
+    "fecha": 1773084582.0,
+    "link": "https://www.europapress.es/nacional/noticia-feijoo-pide-voto-socialistas-cyl-quieren-dinero-quede-bolsillos-familias-20260309202942.html",
+    "resumen": "Acusa al partido de Abascal de \"estafar a sus votantes dando alegría al sanchismo\": \"Nadie puede entender que sea útil a la izquierda\""
   },
   {
     "titulo": "Putin ofrece a la UE retomar el suministro energético si hay una cooperación a largo plazo",
@@ -390,20 +544,6 @@
     "fecha": 1773084309.0,
     "link": "https://www.elmundo.es/madrid/2026/03/09/69af0447e85ecebc1e8b458e.html",
     "resumen": "Leer"
-  },
-  {
-    "titulo": "China despliega en el estrecho de Ormuz el mayor buque de inteligencia del mundo, con sensores capaces de rastrear 1.200 misiles simultáneamente desde el conflicto con Irán",
-    "medio": "HuffPost",
-    "fecha": 1773084219.0,
-    "link": "https://www.huffingtonpost.es/global/china-despliega-estrecho-ormuz-mayor-buque-inteligencia-mundo-sensores-capaces-rastrear-1200-misiles-simultaneamente-conflictoan-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Irán redobla sus ataques sobre Israel y el Golfo",
-    "medio": "El País",
-    "fecha": 1773084164.0,
-    "link": "https://elpais.com/internacional/2026-03-09/iran-redobla-sus-ataques-sobre-israel-y-el-golfo.html",
-    "resumen": "Teherán prosigue su estrategia de extender el conflicto por la región al día siguiente de elegir nuevo líder supremo y de que Israel bombardease instalaciones petrolíferas"
   },
   {
     "titulo": "Veritas crece un 14% y apunta al centenar de supermercados",
@@ -469,13 +609,6 @@
     "resumen": "El debilitamiento del mercado laboral de EEUU y las tensiones financieras se producen mientras aumenta el precio del crudo. Leer"
   },
   {
-    "titulo": "\"Hoy empieza el resto de mi vida\": Iceta agradeció así a Koldo que colocara a su 'marido' como piloto de la rescatada Ávoris",
-    "medio": "El Español",
-    "fecha": 1773082803.0,
-    "link": "https://www.elespanol.com/espana/20260309/hoy-empieza-resto-vida-iceta-agradecio-koldo-colocara-marido-piloto-rescatada-avoris/1003744161792_0.html",
-    "resumen": "\"Cada vez que me pongo los galones, pienso en ti\", le escribió a su vez el 'marido' del ministro al asesor de Ábalos. Más información: Koldo colocó como piloto al 'marido' del ministro Iceta en una filial de Ávoris cuando recibió un rescate de 320M"
-  },
-  {
     "titulo": "Si te gustó Grey’s Anatomy, esta serie de HBO Max podría engancharte desde el primer episodio",
     "medio": "Moncloa.com",
     "fecha": 1773082800.0,
@@ -490,25 +623,11 @@
     "resumen": "Viven juntos cerca de la vivienda de la mujer y ha sido sometidos a un 'careo' con otros vecinos Leer"
   },
   {
-    "titulo": "Macron anuncia que el portaaviones al que acompaña la fragata española formará parte de una \"operación sin precedentes\" para proteger el Estrecho de Ormuz",
-    "medio": "El Mundo",
-    "fecha": 1773082411.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/09/69aede7321efa0254e8b45a5.html",
-    "resumen": "El presidente francés visita Chipre y hace una parada en el portaaviones Charles de Gaulle, fondeado frente a las costas de Creta Leer"
-  },
-  {
     "titulo": "En Sumario de tarde: de la crisis por el precio del petróleo a los vínculos políticos de Forestalia",
     "medio": "The Objective",
     "fecha": 1773082229.0,
     "link": "https://theobjective.com/espana/2026-03-09/sumario-tarde-precio-petroleo-vinculos-politicos-forestalia/",
     "resumen": "Macron anuncia una misión para reabrir el estrecho de Ormuz y envía ocho fragatas más; Mañueco deberá pactar con Vox para seguir gobernando en Castilla y […]"
-  },
-  {
-    "titulo": "Por qué Trump quiere que todos los estadounidenses usen un anillo inteligente antes de 2030",
-    "medio": "El Mundo",
-    "fecha": 1773082174.0,
-    "link": "https://www.elmundo.es/tecnologia/2026/03/09/69af0b49fc6c8323358b458a.html",
-    "resumen": "El dispositivo europeo está teniendo un enorme éxito en EEUU, hasta el punto de ganarse la simpatía de la administración, que querría uno para cada ciudadano en los próximos cuatro años Leer"
   },
   {
     "titulo": "Robinhood acerca a las masas el problema de la valoración de los mercados privados",
@@ -530,20 +649,6 @@
     "fecha": 1773081494.0,
     "link": "https://www.infolibre.es/politica/partido-petro-gana-elecciones-senado-colombia-uribe-recupera-liderazgo-oposicion_1_2158273.html",
     "resumen": "El oficialista Pacto Histórico y el opositor Centro Democrático demostraron este domingo en las urnas que son los partidos colombianos con mayor caudal electoral al obtener los mejores resultados en las votaciones para el Senado, la Cámara de Representantes y en las consultas presidenciales, informa EFE.El Pacto Histórico, del que hace parte el presidente Gustavo Petro, obtuvo la mayor votación en el Senado y tendrá unos 25 escaños, seguido por el Centro Democrático, con 17, según el preconteo, y aunque no participó en la consulta de la izquierda, el resultado de esa instancia muestra que su candidato presidencial, el senador Iván Cepeda, no tiene rivales de peso en ese sector político.\"Hoy comienza nuestro segundo tiempo, con una bancada fuerte y comprometida iniciaremos una nueva etapa de transformaciones\", aseguró Cepeda, que lidera la intención de voto a la Presidencia de Colombia para la primera vuelta que se disputará el próximo 31 de mayo, al comentar el salto del Pacto Histórico, de 20 a 25 senadores.El Centro Democrático, por su parte, ocupó el segundo lugar en el Senado y volverá a ser el mayor movimiento de la oposición tras haber ocupado el cuarto puesto en las elecciones legislativas de 2022.Pese a que mejoró su representación en el Senado al pasar de 13 a 17 senadores, el Centro Democrático no logró elegir a su fundador y líder, el expresidente Álvaro Uribe (2002-2010), que ocupaba el renglón 25 de su lista.El uribismo también salió fortalecido de la jornada luego de que la senadora Paloma Valencia ganara con más de 3,2 millones de votos y por abrumadora mayoría 'La gran consulta por Colombia', con lo cual será candidata de la derecha en las elecciones presidenciales.\"El mandato de la consulta es claro, son más de cinco millones de votos (entre los candidatos) que estamos en este escenario. El mandato de la consulta no quiere un país sumido en el odio de clases, no quiere un país en las discusiones anacrónicas del necomunismo ni un país sumido en el estatismo destructor\", manifestó Valencia en un discurso tras la victoria.Durante la jornada, los colombianos eligieron también a la exalcaldesa de Bogotá Claudia López como candidata de la 'Consulta de las soluciones: salud, seguridad y educación', una coalición de centro, con más de 572.000 sufragios.Entre tanto, el exsenador Roy Barreras representará a la coalición izquierdista 'Frente por la vida' al haber sumado más de 250.000 votos este domingo.En el Senado, al Pacto Histórico y al Centro Democrático les siguen el Partido Liberal, la coalición de centro Alianza por Colombia, el Partido Conservador y el Partido de la U.Estas cuatro fuerzas pueden acabar siendo el fiel de la balanza para el presidente que remplace a Petro a partir del próximo 7 de agosto porque sus senadores no se caracterizan por la lealtad partidaria y están divididos entre los que apoyan al actual Gobierno y quienes se oponen a él.En el límite está el ultraderechista Movimiento de Salvación Nacional, que tiene 555.632 votos, equivalentes al 3,52% del total.Eso se debe a que para que un partido tenga representación en el Senado, tiene que superar el umbral del 3% del total de votos, como finalmente lo logró el Movimiento de Salvación Nacional, que apoya al candidato presidencial ultraderechista Abelardo de la Espriella, segundo en las encuestas de intención de voto.\"Hoy logramos algo extraordinario: el umbral para Salvación Nacional. Pese a los ataques, pese a la campaña negra, hoy tenemos una bancada encabezada por Enrique Gómez, que será un senador extraordinario, maravilloso\", expresó De la Espriella.Los partidos que definitivamente no tendrán representación en el Congreso, porque no superaron el umbral, son el izquierdista Frente Amplio Unitario; el partido derechista Creemos, y la coalición Fuerza Ciudadana, de la que hace parte Comunes, el partido surgido de la desmovilización de la antigua guerrilla de las FARC.Comunes tuvo en los dos últimos periodos (2018-2022 y 2022-2026), diez escaños adjudicados a dedo, cinco en el Senado y cinco en la Cámara, beneficio otorgado por el acuerdo de paz de 2016, sin necesidad de elección popular, que termina este año.Para continuar con representación legislativa, el partido bajó a la arena política y debía obtener este domingo al menos un escaño para mantener su personería jurídica (registro legal), un reto que no era sencillo por su escaso apoyo popular. Ahora hay incertidumbre sobre su futuro.En cuanto a la Cámara de Representantes, el panorama es incierto ya que el sistema de conteo es más complejo porque la votación se realiza por circunscripciones territoriales, a diferencia del Senado que se contabiliza en una sola votación a nivel nacional.Sin embargo, tanto el Pacto Histórico como el Centro Democrático se perfilan como los principales ganadores de la jornada en la Cámara Baja, según los primeros resultados divulgados por la Registraduría nacional, entidad que organiza los comicios."
-  },
-  {
-    "titulo": "Los Pujol ingresaron en Andorra 30 millones de euros en efectivo en 12 años, según la UDEF",
-    "medio": "The Objective",
-    "fecha": 1773081444.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-03-09/pujol-andorra-30-millones-udef/",
-    "resumen": "La familia Pujol ingresó en cuentas en Andorra casi 5.000 millones de las antiguas pesetas -30 millones de euros- «de origen desconocido» entre los años 1992 […]"
-  },
-  {
-    "titulo": "Los efectos sobre el envejecimiento de tomar un suplemento diario de multivitaminas",
-    "medio": "El Mundo",
-    "fecha": 1773081281.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/09/69aec03cfc6c83e4738b4577.html",
-    "resumen": "Una investigación indica que la toma diaria de un suplemento multivitamínico frena ligeramente el envejecimiento biológico, pero varios expertos recuerdan que los datos del estudio no permiten afirmar que esto tenga un impacto real en la longevidad Leer"
   },
   {
     "titulo": "El concejal del PSOE en Aranjuez que lanzó un café a la cara al portavoz de Vox dimitirá",
@@ -581,32 +686,11 @@
     "resumen": "Arduino ha presentado una nueva placa que permite controlar robots con ayuda de la IA. La compañía aprovechó la víspera del Embedded World para anunciar la Ventuno Q, un nuevo dispositivo capaz de ejecutar tareas de inteligencia artificial sin necesidad de depender de la nube. La nueva placa sigue los pasos de la UNO Q […] Seguir leyendo: La nueva bestia de Arduino permite crear robots con IA sin usar internet"
   },
   {
-    "titulo": "Joan Garcia: “A los futbolistas el ruido electoral del Barça nos afecta cero”",
-    "medio": "La Vanguardia",
-    "fecha": 1773080717.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260309/11485291/joan-garcia-futbolistas-ruido-electoral-barca-afecta-cero.html",
-    "resumen": "El portero barcelonista dice que en el vestuario todo el mundo está pendiente de lo que ocurre en el césped"
-  },
-  {
-    "titulo": "Alguien ha matado a los artistas y no ha sido la IA",
-    "medio": "La Vanguardia",
-    "fecha": 1773080700.0,
-    "link": "https://www.lavanguardia.com/opinion/20260309/11484537/alguien-matado-artistas-sido-ia.html",
-    "resumen": "Muchas marcas no están dispuestas a pagar demasiado por el genio creador"
-  },
-  {
     "titulo": "Japón tiene un as bajo la manga contra la mayor crisis petrolera en 50 años: un laberinto de reservas que ni el G7 domina",
     "medio": "Xataka",
     "fecha": 1773080118.0,
     "link": "https://www.xataka.com/energia/japon-tiene-as-manga-mayor-crisis-petrolera-50-anos-laberinto-reservas-que-g7-domina",
     "resumen": "Las alarmas saltaron la madrugada del lunes 9 de marzo. El barril de Brent se disparó y llegó a rozar la barrera de los 120 dólares, unas cifras que el mercado no veía desde que estalló la guerra en Ucrania allá por 2022. El miedo a sufrir la peor crisis energética de medio siglo ha obligado a los ministros de finanzas del G7 a mover ficha de urgencia. Ya hay convocadas reuniones extraordinarias para intentar frenar el golpe: la idea que está sobre la mesa es liberar de golpe entre 300 y 400 millones de barriles de sus reservas estratégicas. Pero el verdadero problema no es solo el precio, sino el colapso logístico. El bloqueo ha hecho desaparecer del tablero unos 20 millones de barriles diarios. Para ponerlo en perspectiva, este \"agujero\" físico es cinco veces mayor que el impacto del histórico embargo árabe de 1973. En medio de este pánico occidental, todas las miradas apuntan a un actor vital que podría actuar por su cuenta para salvar los muebles: Japón, poseedor de la tercera reserva estratégica más grande del mundo, según señala el experto en energía Javier Blas. El dilema japonés. Japón es una de las economías más vulnerables a este bloqueo. Según Oilprice, el país importa aproximadamente el 95% de su suministro de crudo de Medio Oriente, y cerca del 70% de esos envíos transitan a través del ahora bloqueado Estrecho de Ormuz. El tiempo apremia, ya que los buques tardan entre 20 y 25 días en llegar desde allí hasta los puertos nipones. A nivel oficial, el mensaje es de cautela. El ministro de Economía, Comercio e Industria (METI), Ryosei Akazawa, ha declarado que no hay \"planes inmediatos\" para liberar reservas con el único fin de bajar los precios, recordando que estas se usan para asegurar el suministro. Sin embargo, entre bambalinas, la maquinaria ya se mueve. Akira Nagatsuma, un legislador de la oposición, en declaraciones para Reuters, reveló que la Agencia de Recursos Naturales y Energía (ANRE) ya instruyó el viernes a la base nacional de almacenamiento de Shibushi para que se prepare para una posible liberación de crudo. En Xataka El problema no es que el petróleo esté por las nubes: es que nos faltan 20 millones de barriles físicos al día y no hay por dónde sacarlos Estanflación y parálisis industrial. Las consecuencias de este bloqueo ya se palpan en la economía real. Bloomberg advierte que un petróleo por encima de los 100 dólares, combinado con un yen muy debilitado (rondando los 160 por dólar), dispara el riesgo de que Japón caiga en la estanflación. En las calles, el golpe es evidente. Según NHK World, las gasolineras ya están subiendo los precios, lo que asfixia a empresas de transporte terrestre para las cuales el combustible representa el 10% de sus costes. El sector manufacturero también sangra: gigantes como Idemitsu Kosan y Mitsubishi Chemical han tenido que suspender o reducir su producción de etileno, un derivado del crudo esencial para la industria plástica. El complejo y hermético blindaje de Japón. Para entender por qué Japón es clave, hay que mirar cómo guarda su petróleo. Mientras otros países tienen sistemas más transparentes, el modelo nipón es un búnker de tres capas: almacenamiento nacional (del gobierno), almacenamiento del sector privado (obligatorio por ley) y reservas conjuntas con países productores. Las cifras varían ligeramente según la fuente, pero revelan un volumen colosal. Javier Blas estima el total en unos 440 millones de barriles, suficientes para 204 días de importaciones. Por su parte, el METI y reporte de Argus Media sitúan las reservas en torno a los 449-470 millones de barriles, cubriendo entre 214 y 254 días de consumo. Las instalaciones son proezas de ingeniería. Además de los tradicionales tanques sobre tierra, el país utiliza cavernas de roca subterráneas y, como destaca la base de Shirashima, gigantescos tanques flotantes en el océano, protegidos por dobles cascos y rompeolas. Pero el verdadero \"caballo de Troya\" comercial de Japón son sus acuerdos internacionales. Según datos de JOGMEC, el gobierno nipón alquila tanques en su propio territorio a petroleras estatales de Arabia Saudí (Aramco), Emiratos Árabes Unidos (ADNOC) y Kuwait (KPC). En tiempos normales, estas empresas usan Japón como base comercial para Asia. En caso de emergencia, Japón tiene el derecho prioritario de comprar ese crudo. El contraste asiático. El sufrimiento occidental contrasta drásticamente con la situación de China. Pekín hizo sus deberes, el país cuenta con unos inventarios comerciales récord de casi 988 millones de barriles, además de sus reservas estratégicas , y mantiene 166 millones de barriles flotando a salvo frente a sus costas. Su masiva transición hacia el vehículo eléctrico y las energías renovables actúa como un escudo nacional impenetrable ante esta crisis. En Corea del Sur, la respuesta ha sido tajante. Según el medio UDN, el presidente surcoreano Lee Jae-myung no ha esperado para tomar medidas internas, ordenando preparar topes a los precios de los combustibles y exigiendo castigos severos contra las refinerías y gasolineras que acaparen petróleo para especular. El país está bien pertrechado: sus empresas privadas tienen reservas para más de 220 días, y el Estado guarda crudo estratégico para otros 116 días. Un pulso entre la diplomacia y el mundo físico. El escenario actual ha dejado en evidencia que las proyecciones financieras chocan de frente con la cruda realidad de los buques inmovilizados. Mientras desde Washington se intenta calmar a los mercados asumiendo que los altos precios son un coste menor por la seguridad global, la Guardia Revolucionaria de Irán advierte que el barril podría escalar hasta los 200 dólares si la ofensiva no se detiene. En medio de esta escalada de amenazas, los operadores asiáticos se aferran a una disuasión puramente táctica: confían en que la ruta marítima no se bloquee por completo ante el temor de enfurecer a potencias militares de la talla de China, Corea del Sur o el propio Japón. Sin embargo, la parálisis de los petroleros no entiende de esperanzas comerciales y el margen de maniobra diplomático se agota rápidamente. Si el G7 no logra una acción coordinada convincente en las próximas horas, Japón podría verse obligado a abrir en solitario los grifos de su colosal y compleja reserva. Será la prueba de fuego para descubrir si su sofisticado búnker de tres capas es suficiente para evitar que la tercera economía de Asia se seque ante el mayor colapso logístico del último medio siglo. Imagen | Sanjo Xataka | En 2015 Japón mostró al mundo un tren capaz de llegar a los 600 km/h. Diez años después seguimos sin saber nada de él - La noticia Japón tiene un as bajo la manga contra la mayor crisis petrolera en 50 años: un laberinto de reservas que ni el G7 domina fue publicada originalmente en Xataka por Alba Otero ."
-  },
-  {
-    "titulo": "Flick: “Tengo buena relación con Xavi pero nuestras conversaciones deben ser privadas”",
-    "medio": "La Vanguardia",
-    "fecha": 1773080075.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260309/11485289/hansi-flick-buena-relacion-xavi-conversaciones-deben-privadas.html",
-    "resumen": "El técnico alemán volvió a romper una lanza por Deco, con el que dice estar en total sintonía"
   },
   {
     "titulo": "Carlos Dada, director de 'El Faro': “Lo que hace a Bukele diferente es su capacidad para convertir mentiras en un relato viral”",
@@ -616,25 +700,11 @@
     "resumen": "El periodista de El Salvador, obligado a dirigir su periódico desde el exilio, impartió este lunes la conferencia anual del Instituto Reuters para el estudio del periodismo de la Universidad de OxfordFeijóo recibe a la mano derecha de Bukele, de gira por España para defender su modelo ultrapunitivista El periodista Carlos Dada se ha visto obligado a dirigir desde el exilio El Faro, el gran periódico de investigación de El Salvador y uno de los pioneros digitales en el mundo cuando lo fundó con otros reporteros en 1998. Su experiencia de acoso por parte del Gobierno de Nayib Bukele ofrece algunas lecciones para un mundo cada vez más autoritario. El premiado periodista fue el encargado de impartir este lunes la conferencia anual del Instituto Reuters para el estudio del Periodismo de la Universidad de Oxford, la cita en la que cada marzo un referente del periodismo internacional reflexiona sobre los retos del momento. Dada tituló su charla “”Journalism as Resistance“ (periodismo como resistencia). Aquí el texto del discurso completo, traducido en español. Parte del discurso de Dada se centró en el éxito popular de mensajes políticos difundidos en redes y plagados de falsedades frente al trabajo periodístico concienzudo para comprobar y publicar los hechos. “Los dictadores como Bukele necesitan mentiras para sobrevivir. Todos conocemos ese manual. Lo que hace a Bukele diferente es su capacidad para convertir esas mentiras en un relato exitoso que se vuelve viral de inmediato en las plataformas de redes sociales”, dijo Dada durante su discurso. El periodista Carlos Dada durante su conferencia en la Universidad de Oxford este lunes. El periodista citó una encuesta de 2025 en Chile según la cual la mitad de la población chilena nombraba a Bukele como el político que más admiraba, algo cada vez más frecuente en países latinoamericanos alejados de El Salvador y poco conectados con su experiencia. “¿Cómo explicas que un obrero de las afueras de Santiago tenga a Bukele tan presente? Porque la propaganda de Bukele aparece todos los días en su teléfono”, explicó Dada, que señaló vídeos “cinematográficos” sobre pandillas o de Bukele aleccionando a soldados y policías “con iluminación de estudio”. “Si no fuera por el periodismo y organizaciones de derechos humanos, su propaganda no sería cuestionada”, explicó Dada, que ha sufrido personalmente hasta el espionaje con la tecnología israelí Pegasus en su móvil igual que buena parte del equipo de El Faro. “La búsqueda de la verdad se ha convertido en una actividad subversiva”. Acoso y espionaje En febrero de 2020, nueve meses después de tomar posesión, Bukele entró en el Parlamento rodeado de soldados y policías armados y vestidos para el combate amenazó con disolverlo. El editorial de El Faro entonces se tituló “Maneras de dictador”, y Bukele lanzó una campaña contra el periódico, sus periodistas y sus anunciantes, que fue denunciada por organizaciones de derechos humanos y en el Congreso de Estados Unidos por demócratas y republicanos. El Faro siguió trabajando y reveló casos de corrupción mientras el acoso del Gobierno continuaba, también a través de las llamadas granjas de trols en redes. El periódico tuvo que trasladar en 2023 la residencia de la empresa a Costa Rica, y poco a poco han tenido que salir del país reporteros objeto de amenazas de detención y otras represalias. Es una experiencia parecida a la de otros medios y otros periodistas en Nicaragua, Guatemala y Venezuela. Cuando todavía resistían en su país, los periodistas de El Faro empezaron a notar “gente rara” delante de sus casas, y la vigilancia llegó hasta un dron que entró por la ventana de la casa de Dada. Los móviles de más de una veintena de periodistas fueron hackeados durante más de un año con la tecnología Pegasus, de la empresa de defensa israelí NSO Group, contra la que El Faro tiene un proceso judicial todavía en curso. “Cuando lo hicimos público, perdimos la mayoría de nuestras fuentes, esenciales para la práctica del periodismo, y especialmente bajo regímenes autocráticos y opacos”, recordó Dada en su discurso en Oxford. “Fue la prueba definitiva de que el precio de practicar el periodismo había subido de manera significativa”. El Faro sigue trabajando y publicando investigaciones, sobre los pactos de Bukele con las pandillas, las torturas en las cárceles o la erosión de la democracia. Esto contrasta con lo que afirmó en referencia a estos asuntos hace sólo unos días en Madrid el vicepresidente de El Salvador, Félix Ulloa, en varias entrevistas en las que, según Dada, “estaba mintiendo” porque “era muy consciente de la evidencia”. El número dos de Bukele también se reunió con el líder del Partido Popular, Alberto Núñez Feijóo. Los abusos de los que habló Dada también los han documentado extensamente Amnistía Internacional, Human Rights Watch y otras organizaciones internacionales. El periodista salvadoreño reconoció los límites del trabajo periodístico en una sociedad que abraza el autoritarismo. “Aun así, lo que hacemos sigue mereciendo la pena. Aunque solo sea para dejar el testimonio a las generaciones futuras para que entiendan mejor qué demonios pasó en nuestros tiempos”, dijo Dada. “Así no quedarán las mentiras”."
   },
   {
-    "titulo": "Kate Middleton brilla en el Commonthwealth con el traje azul marino perfecto y ondas al agua",
-    "medio": "The Objective",
-    "fecha": 1773079835.0,
-    "link": "https://theobjective.com/gente/2026-03-09/kate-middleton-commonthwaelth-ausencia-destacada/",
-    "resumen": "La Familia Real británica ha protagonizado uno de los actos más simbólicos de su calendario institucional con la celebración del Día de la Commonwealth, una cita […]"
-  },
-  {
-    "titulo": "Ha sido nominada hasta 17 veces al Premio Oscar sin ganarlo: el agridulce récord de una leyenda musical del pop",
-    "medio": "eldiario.es",
-    "fecha": 1773079311.0,
-    "link": "https://www.eldiario.es/spin/nominada-diecisiete-veces-premio-oscar-agridulce-record-leyenda-musical-pop-diane-warren-compositora-pm_1_13054261.html",
-    "resumen": "Ha escrito grandes éxitos del pop para Whitney Houston, Lady Gaga, Kiss o Céline Dion, pero se le resiste el premio OscarCuando Phil Collins no aceptó la derrota en los Oscar ante Stevie Wonder: “Ganó porque es ciego y negro” Es la compositora detrás de éxitos pop como “Un-Break My Heart”, “If I Could Turn Back Time”, “Rhythm of the Night” o “Can’t Fight the Moonlight”, ha compuesto más de mil canciones para cantantes que van desde Aretha Franklin, Whitney Houston, Lady Gaga, Kiss o junto a Taylor Swift, pero también es una de las personas que más veces ha estado nominada al premio Oscar sin ganarlo. Hasta esta edición era Greg P. Russell, mezclador de sonido, con 16 nominaciones, la persona que más premios Oscars había perdido, pero con su nominación número 17, ese honor lo podría ostentar Diane Warren, de la que hablamos en esta ocasión. De ganarlo podría romper una “maldición” con menos espera de la que tuvieron el mezclador de sonido Kevin O’Connell, que estuvo nominado 20 veces antes de ganarlo en 2017, o el compositor Victor Young, que tuvo 22 nominaciones antes de conseguir una estatuilla en 1957, aunque ya de forma póstuma. Así, con una nueva nominación al Premio Oscar a mejor canción original, Diane Warren vuelve a ser una de las protagonistas de la gala, que se celebra este 2026 el 15 de marzo. En esta ocasión, la compositora compite con “Dear Me”, interpretada por Kesha, como parte de la banda sonora de la película documental Diane Warren: Relentless. Diane Warren busca su ansiado Oscar con una canción autobiográfica Esta nominación 17 es para la compositora la más especial, porque se trata de una composición autobiográfica, como parte de un documental en el que repasa su historia y trayectoria: “Este año se siente diferente, porque la película para la cual escribí una canción es sobre mí”, declaró en la previa a los Premios Oscars 2026. “Cuando era niña, me hostigaban mucho, ya sabes, los niños. No la tuve fácil creciendo. Y me sentía sola, y que el mundo estaba en mi contra. La música me salvó”, así cuenta su camino Diane Warren, que se convirtió en una de las compositoras más exitosas y prolíficas de la música pop, a la vez que conocida tanto por su personalidad excéntrica como por su extraordinario talento. Todo ello se cuenta en la película documental Diane Warren: Relentless, de sus inicios como la menor de su familia y siendo marginada en el colegio y su ciudad natal, junto con entrevistas a personalidades con las que ha trabajado como son Cher, Gloria Estefan, Quincy Jones o Toni Braxton. Las nominaciones de Diane Warren en los premios Oscars En esta ocasión, no lo tiene fácil tampoco Diane Warren para lograr el ansiado premio Oscar, pues compite con el fenómeno musical del año como fue “Golden” de Las guerreras K-pop, así como junto a “Train Dreams” de Sueño de trenes, “I Lied to You” de Los Pecadores y “Sweet Dreams of Joy” del documental Viva Verdi. Si bien es cierto que de sus 17 nominaciones no tiene ningún premio Oscar, sí que tiene uno honorario logrado en 2022. “Nos elige lo mejor de lo mejor del planeta en música para cine del planeta: compositores, liricistas, editores musicales. ¡Los mejores! Así que si ellos te eligieron a ti de entre cientos de canciones o piezas, ganaste”, aseguró. Esta es la lista completa de nominaciones a mejor canción en los Premios Oscars que atesora hasta el momento: 1987: “Nothing's Gonna Stop Us Now” - Starship 1997: “Because You Loved Me” - Céline Dion 1998: “How Do I Live” - Trisha Yearwood (en la película) / LeAnn Rimes 1999: “I Don't Want to Miss a Thing” - Aerosmith 2000: “Music of My Heart” - Gloria Estefan ft. *NSYNC 2001: “There You'll Be” - Faith Hill 2015: “Grateful” - Rita Ora 2016: “Til It Happens to You” - Lady Gaga 2018: “Stand Up for Something” - Andra Day ft. Common 2019: “I'll Fight” - Jennifer Hudson 2020: “I'm Standing with You” - Chrissy Metz 2021: “Io sì (Seen)” - Laura Pausini 2021: “Somehow You Do” - Reba McEntire 2022: “Applause” - Sofia Carson 2023: “The Fire Inside” - Becky G 2024: “The Journey” - H.E.R. 2026: “Dear Me” - Kesha"
-  },
-  {
-    "titulo": "Aterriza el viernes en Lidl la celosía con plantas ideal para hacer frente a las paredes feas de la terraza por menos de 18 euros",
-    "medio": "Trendencias",
-    "fecha": 1773079278.0,
-    "link": "https://www.trendencias.com/shopping/aterriza-viernes-lidl-celosia-plantas-ideal-para-hacer-frente-a-paredes-feas-terraza-18-euros",
-    "resumen": "Llega el momento de decorar la terraza para la primavera y, más allá de encontrar los muebles perfectos o las plantas que agregarán un aspecto natural y vivo, los elementos estructurales son los que acaban condicionando el estado de la estancia. Estos pueden ser desde paredes desconchadas hasta separaciones poco atractivas. En Lidl hemos encontrado la solución que ayuda a ocultar las imperfecciones sin obras. Este se convertirá en uno de los trucos más utilizados para darle un giro de 180 grados a la decoración. Se trata de un elemento ligero, fácil de instalar y con un punto natural que transformará un rincón exterior sin grandes reformas. Esta celosía está decorada con hojas y es una propuesta sencilla que jamás pasará de moda. Añadiremos un toque maximalista a las paredes blancas que no tengan nada atractivo. Una opción para convertir la terraza o el balcón en un jardín vertical. Esta estructura ha sido fabricada con ramas de sauce auténticas y hojas de hiedra de plástico. Este modelo es extensivo y para fijarla se hace con bridas o con alambres. Además, también es un gran separador visual ideal para ganar mayor intimidad en los balcones o aquellas terrazas expuestas a los vecinos. El precio en la web oficial de Lidl es 17,99 euros. Otras celosías similares Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Lidl, Pexels En Trendencias |Hervir cáscara de limón, canela y jengibre: para qué sirve y por qué todo el mundo lo recomienda - La noticia Aterriza el viernes en Lidl la celosía con plantas ideal para hacer frente a las paredes feas de la terraza por menos de 18 euros fue publicada originalmente en Trendencias por Laura Beneyto ."
+    "titulo": "Anthropic demanda al Gobierno de EEUU por su designación como riesgo para la cadena de suministro",
+    "medio": "Europa Press",
+    "fecha": 1773079846.0,
+    "link": "https://www.europapress.es/economia/noticia-anthropic-demanda-gobierno-eeuu-designacion-riesgo-cadena-suministro-20260309191046.html",
+    "resumen": "Anthropic ha presentado una demanda contra el Gobierno de Estados Unidos, después de que el Departamento de Guerra designara a la 'startup' de IA como un riesgo para la cadena de suministro, lo que la empresa detrás del chatbot 'Claude' ha calificado como \"sin precedentes e ilegal\" advirtiendo del perjuicio \"irreparable\" causado a la compañía."
   },
   {
     "titulo": "WWDC26: así esperamos el gran evento de Apple en el que se presentarán iOS 27 y otras novedades",
@@ -642,20 +712,6 @@
     "fecha": 1773079278.0,
     "link": "https://www.applesfera.com/nuevo/apple-wwdc26-informacion",
     "resumen": "La WWDC, siglas de World Wide Developer Conference, es el evento anual para desarrolladores de Apple y que siempre se inicia con una keynote en la que la compañía presenta sus últimas novedades en software (y a veces incluso en hardware). Es el evento en el que conocemos las nuevas versiones de iOS 27, macOS 27 y resto de sistemas de Apple. Apple suele anunciar la fecha de esta conferencia en marzo y envía sus primeras invitaciones en mayo. Por ahora no hemos llegado a ninguno de esos dos escenarios, pero gracias al histórico de cómo actúa y a las filtraciones, podemos ya saber mucho sobre el evento de este 2026. Y eso que aún faltan tres meses. Índice de Contenidos (8) ¿Cuándo podría celebrarse la WWDC26? ¿Qué sistemas operativos presentará Apple en la WWDC26? ¿Se lanzarán iOS 27 y compañía tras la WWDC26? ¿Presentará Apple algún producto en la WWDC26? ¿Va a presentar Apple algo de IA en la WWDC26? ¿Dónde se celebra la WWDC26? ¿Se puede acudir a la WWDC26? ¿Cómo se podrá seguir la WWDC26? ¿Cuándo podría celebrarse la WWDC26? Salvo contadas excepciones, Apple suele iniciar este evento el segundo lunes de junio de cada año. Y sabiendo también que suele durar varios días, es previsible que comience el 8 de junio con una keynote inaugural que podrá verse en todo el mundo (a eso de las 19.00, hora peninsular española). En Applesfera Un estudiante quiso arreglar la pantalla de su Mac en 1987. El código se le fue de las manos y acabó creando Photoshop Tras ese evento se celebrarán distintas sesiones dedicadas exclusivamente a desarrolladores para presentarles los nuevos sistemas operativos y asistirles en talleres para conocer las nuevas herramientas de desarrollo. Generalmente suelen durar cuatro-cinco días, así que este año podría suceder todo desde el lunes 8 hasta el jueves 11 o viernes 12 de junio. ¿Qué sistemas operativos presentará Apple en la WWDC26? Una vez que Apple unificó ya la numeración de todos sus sistemas operativos, serán las versiones \"27\" las que veamos en esta ocasión. iOS 27 para iPhone.iPadOS 27 para iPad.macOS 27 para Mac.watchOS 27 para Apple Watch.tvOS 27 para Apple TV.visionOS 27 para Apple Vision Pro. No se descarta que haya alguna sorpresa como homeOS, nombre de sistema operativo filtrado hace años para productos de hogar como los Apple TV y HomePod, así como para otros futuros dispositivos ya filtrados como el HomePad. ¿Se lanzarán iOS 27 y compañía tras la WWDC26? Sí y no. Tras el evento de presentación del primer día, Apple suele disponer de las primeras betas, aunque estas no están orientadas al público final. En virtud de su habitual calendario, estas son las fechas clave: 8 de junio (o cuando se inaugure la WWDC26): primeras betas para desarrolladores de los nuevos sistemas operativos. A lo largo del verano se irán lanzando nuevas versiones, primero cada dos semanas y a mediados de agosto será cada semana.Principios de julio: se lanzarán las primeras betas públicas, que irán a la par que las betas para desarrolladores.Mediados de septiembre: será el momento en el que se lancen ya de forma estable iOS 27 y compañía para todos los dispositivos compatibles.De octubre de 2026 a agosto de 2027: durante estos meses seguiremos asistiendo a lanzamientos como iOS 27.1, iOS 27.2, etc. Estas serán actualizaciones intermedias que vayan añadiendo más novedades funcionales, correcciones de errores y parches de seguridad. ¿Presentará Apple algún producto en la WWDC26? Al estar centrada en software, no suele ser habitual que Apple decida dedicar la keynote inaugural a presentar hardware, aunque ha habido varios años en los que sí. La última vez fue en la WWDC23, cuando anunciaron el Apple Vision Pro, el MacBook Air M2 de 15 pulgadas, el Mac Studio M2 Max/M2 Ultra y el Mac Pro M2 Ultra. Para este año no hay filtraciones claras acerca de si veremos o no nuevos dispositivos por parte de Apple. En cualquier caso, teniendo en cuenta los lanzamientos pendientes, hay varios que encajarían en este evento: Mac mini M5 / M5 Pro.Mac Studio M5 Max / M5 Ultra.HomePad. ¿Va a presentar Apple algo de IA en la WWDC26? Salvo sorpresa, este debería ser el año definitivo de Apple Intelligence tras el acuerdo de Apple con Google para que los modelos que ahora impulsan a Gemini lo hagan también con funciones de IA del iPhone, iPad y Mac. Eso tiene una especial implicación en la nueva Siri. Precisamente el asistente tiene pendiente aún una renovación ya anunciada en la WWDC24 y que se ha ido retrasando, por lo que si finalmente no sale con una actualización de iOS 26, es esperable que lo haga ya con iOS 27. De hecho, Apple sigue afirmando y reafirmando que llegará en este 2026, por lo que no hay más vuelta de hoja. Aparte de eso, se espera que también anuncien más novedades en materia de IA para todos los sistemas. Tim Cook, CEO de Apple, ya afirmó hace unas semanas que la colaboración con Google lo permitiría, aunque no se ha confirmado nada. Entre las filtraciones figura un chatbot propio, así como otras funciones integradas en Siri para el apoyo emocional, ayuda en el completado de tareas o respuestas factuales más precisas. ¿Dónde se celebra la WWDC26? Vista aérea del Apple Park (Imagen: Zetong Li en Pexels) Desde que se inauguró el Apple Park en 2017 como nueva sede de Apple, todas las WWDC se han celebrado allí, aunque en 2020 y 2021 fue 100% telemática por cuestiones sanitarias derivadas del COVID-19. Es allí hasta donde se desplazan desarrolladores y prensa para seguirlo todo. Eso sí, hasta 2019 todo era en directo, pero de 2020 en adelante se han centrado en una keynote inaugural pregrabada y que se puede ver en streaming en todo el mundo, además de en pantallas gigantes en el Apple Park. Las sesiones para desarrolladores sí suelen ser presenciales, aunque también se pueden seguir online. ¿Se puede acudir a la WWDC26? La WWDC26 es un evento que, aunque se pueda seguir por Internet, es privado, por lo que se necesita invitación expresa de Apple. La compañía suele invitar a prensa para que acuda y puedan tener sesiones de entrevista con sus portavoces, aunque con un mayor protagonismo de desarrolladores que reciban invitación. Lo que no está permitido es la entrada de usuarios \"de a pie\". No hay venta de entradas, ni nada similar. Quienes quieran seguir el evento tendrán otras formas de hacerlo. ¿Cómo se podrá seguir la WWDC26? Hay que diferenciar dos elementos distintos de la WWDC26: Evento inaugural: se podrá seguir en todo el mundo de forma simultánea a través de YouTube, la web de Apple y la aplicación Apple TV disponible en los iPhone, iPad, Mac, Apple TV y Vision Pro.Sesiones para desarrolladores: se podrán seguir desde la web para desarrolladores de Apple. Así mismo, cabe recordar que en Applesfera haremos una amplia cobertura de este evento para que no te pierdas nada. Al final será otra forma de estar informado de las novedades que se vayan presentando. Imagen de portada | Basada en wallpaper de Scoop En Applesfera | Nuevo iPhone plegable - Todo lo que creemos saber sobre él En Applesfera | Nuevo MacBook Pro táctil con pantalla OLED - Todo lo que creemos saber sobre el próximo portátil profesional de Apple - La noticia WWDC26: así esperamos el gran evento de Apple en el que se presentarán iOS 27 y otras novedades fue publicada originalmente en Applesfera por Álvaro García M. ."
-  },
-  {
-    "titulo": "Veritas crece un 14% y alcanza los 140 millones de ventas",
-    "medio": "La Vanguardia",
-    "fecha": 1773079200.0,
-    "link": "https://www.lavanguardia.com/economia/20260309/11485484/veritas-crece-14-alcanza-140-millones-ventas.html",
-    "resumen": "Invertirá seis millones este año para superar las 100 tiendas"
-  },
-  {
-    "titulo": "Manuela Villena, la mujer de Juanma Moreno que triunfa fuera de la política: fue la número uno de su promoción",
-    "medio": "The Objective",
-    "fecha": 1773079200.0,
-    "link": "https://theobjective.com/gente/2026-03-09/manuela-villena-la-mujer-de-juanma-moreno-que-triunfa-fuera-de-la-politica-fue-la-numero-uno-de-su-promocion/",
-    "resumen": "Juanma Moreno Bonilla se convirtió en presidente de la Junta de Andalucía hace cuatro años. El político del Partido Popular subió al poder de la mano […]"
   },
   {
     "titulo": "5 cosas que tienes que recordar antes de ver ‘One Piece’ temporada 2 en Netflix",
@@ -686,20 +742,6 @@
     "resumen": "Vox ha negado este lunes que se haya producido ninguna filtración de datos personales del diputado Javier Ortega-Smith y ha afirmado que su denuncia ante la Agencia Española de Protección de Datos carece de base jurídica.En un comunicado, el partido liderado por Santiago Abascal ha dicho que jamás se han revelado datos personales a terceros y que las acusaciones formuladas por el diputado no tienen base jurídica, ya que Vox se ha limitado a emitir un comunicado en el que \"no hay contenido alguno del expediente abierto\" y tan sólo aparece la decisión del Comité de Garantías del partido.El exsecretario general de Vox ha asegurado este lunes en una entrevista en OndaMadrid que ha denunciado a la formación por \"filtrar\" la mencionada resolución de expulsarle definitivamente del partido sin que haya concluido el expediente sancionador abierto contra él por desobedecer la orden del Comité Ejecutivo Nacional de dejar la Portavocía del Ayuntamiento de Madrid.Ha afirmado además que mantendrá su acta como diputado pese a la resolución del Comité, al que ha retado a echarle también del grupo parlamentario del Congreso, del que solo se irá si le expulsan sus compañeros, ha dicho.Según ha precisado Vox en el comunicado, las actuaciones internas del partido se realizan conforme a la Ley de partidos, los Estatutos y al sistema de cumplimiento normativo, que obliga a tramitar y documentar las comunicaciones recibidas, documentos que son \"plenamente conocidos\" por Ortega-Smith. Por ello, señala la formación, \"sorprende sobremanera\" que se confunda el deber del partido de ser transparente con \"una filtración de datos de carácter personal que en ningún caso se ha producido\"."
   },
   {
-    "titulo": "El talón de Aquiles de Irán es una minúscula isla situada a 25 km de su costa. La pregunta es si EEUU se atreverá a atacarla",
-    "medio": "Xataka",
-    "fecha": 1773077478.0,
-    "link": "https://www.xataka.com/magnet/talon-aquiles-iran-minuscula-isla-situada-a-25-km-su-costa-pregunta-eeuu-se-atrevera-a-atacarla",
-    "resumen": "Hasta prácticamente anteayer la isla de Kharg era una desconocida para la inmensa mayoría de los europeos. Normal. Para empezar porque está a miles de kilómetros del corazón de la UE, en pleno golfo Pérsico, a unos 25 kilómetros de la costa iraní. Tampoco es especialmente grande. Mide unos ocho kilómetros de largo por 4,5 km de ancho. A pesar de todo eso Kharg es quizás el punto que más miradas está acaparando (desde Europa, pero también Estados Unidos, China y Rusia) en el convulso tablero geopolítico con el que ha arrancado marzo. El motivo: la isla es el eslabón clave del sector petrolero iraní. En un lugar del golfo… La isla de Kharg no es precisamente grande. Mide 22 km2. Lo que no tiene de superficie lo compensa sin embargo con su ubicación. Situada a escasos 25 km de la costa continental iraní y a unos cientos de kilómetros del estrecho de Ormuz, es un punto estratégico para la industria petrolera mundial. El motivo: esa diminuta ínsula canaliza casi todo el crudo exportado por Irán. Y eso son palabras mayores si tenemos en cuenta que, según cálculos de la OPEC, se estima que la República Islámica atesora unas reservas confirmadas de 208.600 millones de barriles, casi el 12% del total mundial. ¿Tan importante es? Sí. Irán goza de una posición estratégica que (entre otras cuestiones) le permite controlar el estrecho de Ormuz, un punto estratégico para la comercialización del petróleo de Oriente Próximo. De hecho se calcula que casi la quinta parte del crudo y gas del mundo pasan por esa estrecha franja de unas pocas decenas de kilómetro. Sin embargo no todo son ventajas para Teherán. La mayor parte del litoral iraní está bañado por aguas poco profundas que complican el trasiego de buques petroleros. Para operar con ellos las empresas necesitan apoyarse en Khrag, una isla dotada de muelles de mayor calado y que desde los años 60 cuenta con una potente infraestructura construida con ayuda de la firma Amoco. Hoy por hoy es la mayor terminal exportadora del país. Un porcentaje: 90%. El papel de Kharg se entiende mejor si se manejan varios datos. El principal es el volumen de mercancías que canaliza. Se calcula que casi el 90% de las exportaciones de petróleo iraní pasan por allí, un cuello de botella por el que fluye el oro negro antes de embarcarse rumbo al estrecho de Ormuz. Tal vez parezca un porcentaje desorbitado, pero la isla cuenta con la infraestructura necesaria para cargar siete millones de barriles diarios. A ella se suman oleoductos submarinos conectados con yacimientos petrolíferos del país, tanques de almacenamiento y viviendas para los operarios del complejo. En Xataka Irán está a punto de iniciar otra guerra: la de comprar un billete de avión antes de que cuesten un riñón En el punto de mira. Khrag se ha convertido en el eslabón clave del comercio petrolero iraní, pero representa también una suerte de 'talón de Aquiles'. Golpear la isla supone golpear de lleno la industria petrolera iraní. No es nada nuevo. En los años 80 Kharg ya sufrió bombardeos iraquíes. La gran pregunta a 9 de marzo de 2026, con EEUU e Israel atacando la República Islámica es… ¿Tiene algún plan Washington que pase por controlar de una forma u otra la isla? No es una pregunta caprichosa. El ejército israelí ya ha atacado varios depósitos de crudo y un centro de transferencia petrolífero situados en Teherán y Alborz. El fin de semana Axios desveló además que Israel y EEUU han discutido sobre el envío de fuerzas especiales a Irán con varios propósitos: el principal sería asegurar las reservas de uranio, pero en la mira estaría también Kharg. ¿Operación terrestre? Una cosa es sin embargo atacar depósitos petroleros y otra invadir la isla. Para empezar, recuerda la CNBC, porque requeriría ir un paso más allá en la ofensiva en Irán y emprender una operación terrestre. Un hipotético ataque también podría añadir más volatilidad e incertidumbre a la industria en un momento en el que el barril de petróleo se ha encarecido hasta rondar los 100 dólares. En las últimas horas el Brent incluso rozó los 120. Cortando el grifo. La maniobra también tendría ventajas para Washington y Tel Aviv, sobre todo a la hora de ejercer presión sobre Teherán. Petras Katinas, experto en energía y defensa, recuerda que si Estados Unidos controlase la isla podría cortar \"el sustento petrolero\" del régimen iraní. \"Mirando hacia el futuro, la confiscación daría a EEUU influencia durante las negociaciones, sin importar qué régimen esté en el poder una vez termine la operación militar\", insiste. \"Asestaría un duro golpe al régimen, ya que lo privaría de una fuente crucial de ingresos\", añade Tamas Varga, analista de PVM, quien traza un paralelismo entre lo ocurrido en Irán y la intervención estadounidense en Venezuela en enero. ¿Por qué no actúa EEUU? Por varias razones. Dos (fundamentales) las citábamos antes. Los expertos apuntan que la toma de Kharg requeriría una operación terrestre. Y eso, entre otras cuestiones, podría derivar en aún más inestabilidad en la región y el mercado del petróleo en un momento delicado. \"Kharg podría centrar una campaña de ataques de varias semanas con drones iraníes y la isla tiene minas y soldados\", recuerda Marc Gustafson, quien advierte que una intervención de ese tipo no estaría exenta de riesgos para EEUU. Incluso desliza la posibilidad de que, si la situación escala, Irán destruya sus oleoductos. Una isla, muchas derivas. Si EEUU e Israel deciden acatar Kharg, Teherán podría verse legitimada además para golpear la infraestructura petrolera de otros países del Golfo. Eso sin contar, insiste Michael Doran (del Instituto Hudson) en que podría complicar la economía iraní e posguerra y la estabilidad de cualquier nuevo gobierno que tome las riendas de Irán una vez finalice la guerra. Imágenes | Google Earth y Wikipedia En Xataka | Imágenes satelitales han revelado que Irán tumbó cuatro de los ocho sistemas únicos de defensa de EEUU. Si llegan a cero comienza una nueva guerra - La noticia El talón de Aquiles de Irán es una minúscula isla situada a 25 km de su costa. La pregunta es si EEUU se atreverá a atacarla fue publicada originalmente en Xataka por Carlos Prego ."
-  },
-  {
-    "titulo": "Los zapatitos dorados de vestir más hermosos de Gioseppo, perfectos para olvidarte de los tacones en las fiestas de primavera",
-    "medio": "Trendencias",
-    "fecha": 1773077478.0,
-    "link": "https://www.trendencias.com/zapatos-mujer/nuevos-zapatos-dorados-gioseppo-como-rayito-sol-eliminan-a-tacones-ecuacion",
-    "resumen": "Los zapatos dorados son el must más elegante de los días de calor. No es para menos, consiguen iluminar nuestros estilismos, levantan la sofisticación y potencian el bronceado. Por eso, todas nos obsesionamos con este tipo de calzado en primavera. Más aún con el nuevo lanzamiento de Gioseppo, una joya de piel trenzada hecha a mano. Gioseppo acaba de lanzar unos zapatos de vestir que son planos, pero tan elaborados que no necesitan tacón para deslumbrar. Se trata de un diseño destalonado donde todo el calzado se crea a golpe de tiras doradas de piel trenzada, que se entrelazan creando una puntera de cangrejera, para acabar anudadas al tobillo. El diseño, a medio camino entre un mule destalonado, una bailarina y una sandalia, es una preciosidad y el foco de atención de cualquier estilismo. Combinar el dorado es muy sencillo, porque pega con todo y lo hace todo más elegante. ¿Has oído hablar del rey Midas? Pues igual, pero en versión zapato. El mejor aliado de unos zapatos dorados como estos de Gioseppo es, sin duda alguna, los vaqueros franceses. Es decir, los jeans de tiro alto y corte recto que favorecen cualquier silueta con estilo retro. Si les sumas este calzado serán aptos incluso para eventos especiales. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | @courtneecrews, El Corte Inglés, @dolorescfr. En Trendencias | Vaqueros para mujer 2026: todos los jeans que se llevan y los mejores looks para combinarlos. - La noticia Los zapatitos dorados de vestir más hermosos de Gioseppo, perfectos para olvidarte de los tacones en las fiestas de primavera fue publicada originalmente en Trendencias por Pepa López ."
-  },
-  {
     "titulo": "Anthropic demanda al Gobierno de EE. UU. para que Claude no caiga en la lista negra de Trump",
     "medio": "Hipertextual",
     "fecha": 1773076965.0,
@@ -728,13 +770,6 @@
     "resumen": "Unos 250 españoles han embarcado este lunes en un avión del Ejército para ser evacuados desde Oriente Medio de vuelta a España, tras las incidencias en el espacio aéreo en esa región por el ataque de Estados Unidos e Israel a Irán y las represalias iraníes.Entre ellos viaja un grupo de 30 turistas de Córdoba, Málaga y Sevilla que permanecía desde el pasado 1 de marzo atrapado en un hotel del centro de Dubai (Emiratos Árabes Unidos), al cerrarse el espacio aéreo.El responsable de la agencia organizadora del circuito de esos turistas, ha informado a EFE de que estaban embarcando en esa nave unas 250 personas y que la hora prevista de llegada a Torrejón de Ardoz (Madrid) es sobre las 23:30 horas de este lunes. \"Estamos muy emocionados y contentos de regresar a casa, este periplo y experiencia ha llegado a su fin, estamos inmensamente felices de volver a casa\", ha destacado. Este grupo demandó hace ya varios días la posibilidad de volver en un vuelo de repatriación organizado por el Gobierno, dada las dificultades para hacerlo en un vuelo comercial. Unos 3.000 españoles han sido ya repatriados desde Oriente Medio, en vuelos tanto militares como comerciales, según informó la semana pasada el Ministerio de Asuntos Exteriores de España, que garantizó que \"el objetivo es repatriar hasta el último español que así lo desee\" ante el conflicto abierto en ese área.El número de españoles en la zona asciende a más de 30.000 entre residentes, turistas y los que se habían desplazado por motivos laborales, según cálculos oficiales."
   },
   {
-    "titulo": "Calles de arena, playas eternas y ceviche fresco: el pueblo pesquero de Yucatán que parece Cancún hace 50 años",
-    "medio": "Trendencias",
-    "fecha": 1773075678.0,
-    "link": "https://www.trendencias.com/viajes/alternativa-masificar-a-cancun-pueblo-marinero-yucatan-calles-arena-marisco-fresco-vida-tranquila",
-    "resumen": "Ir a Cancún está muy bien, pero ¿y si te dijéramos que puedes viajar al Cancún de hace 40 años? En la península de Yucatán hay un pequeño pueblo con calles de arena blanca y playas turquesa que se quedó en atrapado en el pasado y mantiene la estética y la vida lenta de los pueblitos marineros previos al boom del turismo masivo de México. A dos horas y media del aeropuerto de Cancún, en plena reserva de Ría Lagartas, se esconde Cuyo, un refugio marinero donde se mantienen las viejas costumbres. La vida sigue girando en torno a la playa para turistas y locales, con calles alfombradas de arena, casitas de madera de mil colores y una vida lenta que invita a la relajación, el descanso y a ir descalzo 24/7. En Cuyo no hay grandes hoteles, centros comerciales ni atracciones turísticas. Aquí, el mejor plan es ir a la playa y admirar sus conchas exóticas, bañarse en aguas tranquilas y probar el kitesurf. Después, solo queda perderse por sus calles, entre tienditas locales curiosas, bares al aire libre y el ritmo pausado y tropical de sus vecinos. Si te cansas de playa (y si es posible cansarse de semejante playa paradisiaca). Cuyo tiene lagunas y manglares que son un absoluto tesoro de la biodiversidad y un santuario natural de ensueño. Están repletos de flamencos rosas, que invaden todo de colores, junto a tortugas y cocodrilos. Se pueden visitar en tours con lancha para verlos en su hábitat. El día perfecto en Cuyo termina subiendo al faro para disfrutar de las vistas de todo el pueblo, el mar y las lagunas con un atardecer épico, en el que el cielo parece arder. Después, nada como un ceviche de marisco fresco o un pescadito frito en las mesas al aire libre de La Conchita, uno de los clásicos icónicos de este paraíso marinero. Fotos | Yucatán Travel. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. - La noticia Calles de arena, playas eternas y ceviche fresco: el pueblo pesquero de Yucatán que parece Cancún hace 50 años fue publicada originalmente en Trendencias por Pepa López ."
-  },
-  {
     "titulo": "El último golpe judicial que deja a Arantxa Sánchez Vicario sin margen de maniobra",
     "medio": "Moncloa.com",
     "fecha": 1773075600.0,
@@ -747,13 +782,6 @@
     "fecha": 1773073302.0,
     "link": "https://www.europapress.es/comunitat-valenciana/noticia-fiscalia-no-descarta-eventual-responsabilidad-penal-mazon-cree-jueza-debe-seguir-investigando-20260309172142.html",
     "resumen": "El Fiscal Superior de la Comunitat Valenciana, José Francisco Ortiz Navarro, ha solicitado al Tribunal Superior de Justicia de la Comunitat Valenciana la devolución de la causa de la dana al Juzgado de Primera Instancia e Instrucción número 3 de Catarroja (Valencia) para que continúe con la investigación ya que considera que en el momento procesal actual no hay \"indicios suficientes de criminalidad\" contra el 'expresident' de la Generalitat Carlos Mazón por la gestión de las riadas, si bien considera que \"no es descartable\" que el panorama probatorio pueda cambiar con la instrucción con testificales o elementos documentales."
-  },
-  {
-    "titulo": "Trump afirma que \"no está contento\" con el nombramiento de Mojtaba Jamenei como nuevo líder supremo en Irán",
-    "medio": "Europa Press",
-    "fecha": 1773073083.0,
-    "link": "https://www.europapress.es/internacional/noticia-trump-afirma-no-contento-nombramiento-mojtaba-jamenei-nuevo-lider-supremo-iran-20260309171803.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha afirmado este lunes que no está contento con la elección de Mojtaba Jameneí, hijo del fallecido Alí Jamenei, como nuevo líder supremo iraní."
   },
   {
     "titulo": "Alerta máxima en Exteriores: Los países donde España ya no puede garantizar tu seguridad",
@@ -775,13 +803,6 @@
     "fecha": 1773072000.0,
     "link": "https://www.microsiervos.com/archivo/peliculas-tv/breakaway-primer-capitulo-espacio-1999-4k.html",
     "resumen": "Mi serie favorita de mis años mozos fue sin duda Espacio: 1999¹. En ella la Luna sale despedida a lo largo y ancho del espacio y el tiempo a causa de una explosión nuclear en su lado oculto. Ahora se puede disfrutar del primer episodio, Breakaway, remasterizado en 4K UHD². La imagen ha sido recreada cuadro a cuadro a partir de los negativos originales de los archivos de la ITV. El audio también ha sido recreado y pasado a 5.1, aunque el Blu-ray también incluye el sonido mono original. Hay también un documental tras las cámaras sobre la serie y entrevistas con parte del elenco y personas a las que les apasiona la serie. En Amazon está en 35 euros más gastos de envío. Más lo que te claven en aduanas. Puedes ver una pequeña pieza sobre el proceso para entender cómo y qué han hecho. Y dicen que si les funciona lo mismo extienden el proceso al resto de los capítulos. Viendo la calidad de imagen del tráiler estoy seriamente tentando. Pero también es cierto que hace años compré los DVD de las dos temporadas de la serie y tras ver un par de capítulos o tres los dejé guardados para no destrozar más mis gratos recuerdos sobre la serie. Así que tú verás. _____¹ Espacio:1999 y las novelas de Lucky Starr de Isaac Asimov son los primeros contactos que recuerdo con la ciencia ficción.² Es necesario un reproductor de Blu-ray compatible con el formato.El enlace a Amazon lleva nuestro código de asociado. Así que si compras el libro o incluso alguna cosa más que no tenga nada que ver tras seguirlo lo mismo hasta cobramos alguna pequeña comisión. Relacionado, Grandes cuestiones sobre Espacio: 1999 Sale a la venta el Manual técnico de la Base Lunar Alfa en versión post-explosión Cómo se fabricaban y filmaban las maquetas de las naves de «Espacio 1999» Recortables de Águilas de Espacio: 1999 Un Águila de Espacio: 1999 hecha de palitos de helado El festival aéreo de las naves de ciencia ficción # Enlace Permanente"
-  },
-  {
-    "titulo": "‘Rooster’, la nueva serie de Steve Carell que «le recuerda a ‘The Office'» y es del creador de ‘Ted Lasso’",
-    "medio": "Hipertextual",
-    "fecha": 1773071235.0,
-    "link": "https://hipertextual.com/cine-television/rooster-la-nueva-serie-de-steve-carell-que-le-recuerda-a-the-office-y-es-del-creador-de-ted-lasso/",
-    "resumen": "HBO Max acaba de estrenar su nueva gran serie, Rooster, uno de los proyectos más esperados de la compañía porque trae consigo a algunos de los mejores nombres de la industria. Al menos, en el género de la comedia. Y es que el actor Steve Carell, protagonista de The Office, vuelve a ponerse frente a […] Seguir leyendo: ‘Rooster’, la nueva serie de Steve Carell que «le recuerda a ‘The Office'» y es del creador de ‘Ted Lasso’"
   },
   {
     "titulo": "Cambié el iPhone 17 Pro por el Air durante 15 días. No esperaba echar de menos algo que no sabía que había perdido",
@@ -826,13 +847,6 @@
     "resumen": "Vox ha minimizado este lunes la denuncia ante la Agencia Española de Protección de Datos (AEPD) anunciada por Javier Ortega Smith contra la formación y la amenaza de este de llevar su expulsión ante los tribunales. \"Fantástico, que se ponga a la cola de todas esas denuncias que estamos recibiendo desde hace mucho tiempo\", ha dicho el vicepresidente y secretario general de Vox, Ignacio Garriga."
   },
   {
-    "titulo": "El Supremo fija el 28 de abril la declaración de Ábalos, Koldo y Aldama en el juicio por las mascarillas",
-    "medio": "Europa Press",
-    "fecha": 1773065131.0,
-    "link": "https://www.europapress.es/nacional/noticia-supremo-fija-28-abril-declaracion-abalos-koldo-aldama-juicio-mascarillas-20260309150531.html",
-    "resumen": "El Tribunal Supremo (TS) ha fijado para el 28 de abril el interrogatorio como acusados del exministro de Transportes José Luis Ábalos, su exasesor Koldo García y el empresario Víctor de Aldama en el juicio por las presuntas irregularidades en la compra de mascarillas durante la pandemia."
-  },
-  {
     "titulo": "El DNI físico es indultado por la Policía Nacional para que hagas estos 12 trámites desde el sofá",
     "medio": "Moncloa.com",
     "fecha": 1773063000.0,
@@ -859,20 +873,6 @@
     "fecha": 1773060831.0,
     "link": "https://www.microsiervos.com/archivo/ciencia/-puesta-al-dia-peleontologos-dinosaurios.html",
     "resumen": "En esta entrevista al paleontólogo Francesc Gascó (El Pakozoico en YouTube) en el podcast Animales humanos resulta muy divulgativa porque explica algunos conceptos básicos sobre el fascinante mundo de los dinosaurios y todo lo qué sabemos a día de hoy sobre ellos. Entre «novedades» y datos que se han ido conociendo en las últimas décadas y años es una entrevista de casi dos horas más que recomendable Entre los puntos más interesantes están: El «nuevo» Spinosaurus mirabilis hallado en Níger, en el que Gascó participó junto con un equipo internacional descubriendo huesos de este dinosaurio ahí, en medio del desierto del Sáhara. El bicho tenía una cresta muy rara en el cráneo, tipo unicornio. Como ya era sabido, todas las aves actuales proceden de los dinosaurios, no de un grupo aparte. Entre las más similares pueden estar el avestruz, el casuario, el emú y el ñandú. Usando las técnicas más modernas, métodos casi forenses, se puede inferir el color de algunos dinosaurios; antes todos eran verdes-marrones o tirando a grises, a falta de datos. Ahora examinando los tejidos, las plumas y sus vestigios se puede inferir que tenían crestas y piel de ciertos colores: amarillos, rojizos… A día de hoy lo más incierto sigue siendo cómo eran los sonidos reales que emitían aquellas bestias, aunque con simulaciones se pueden conseguir algunas recreaciones aproximadas. En España hay muchos yacimientos importantes de dinosaurios: Teruel, Cuenca, Burgos (en Salas de los Infantes), Soria y La Rioja son los más importantes, pero también se han encontrado en Guadalajara y en zonas del interior de Valencia. A nivel global, Norteamérica sigue siendo el mejor lugar en el que encontrar restos de dinosaurios, aunque también hay muchos en el desierto del Gobi (Mongolia-China) y en Argentina en Sudamérica. Relacionado: Julio de 1841: nacen los dinosaurios Los dinosaurios de papel de Seba Naranjo Ancient Earth: una especie de Google Earth de los dinosaurios Parque Jurásico sin dinosaurios Morir por el impacto de la pota de un braquiosaurio, ¡puaj! Más teorías sobre el problema de los CGO en Jurassic World # Enlace Permanente"
-  },
-  {
-    "titulo": "Sumar reclama al PSOE un decreto anticrisis con un impuesto a energéticas, ayudas a transportistas y tope a los precios",
-    "medio": "Europa Press",
-    "fecha": 1773060210.0,
-    "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sumar-reclama-psoe-decreto-anticrisis-impuesto-energeticas-ayudas-transportistas-tope-precios-20260309134330.html",
-    "resumen": "La coordinadora de Sumar, Lara Hernández, ha reclamado este lunes al PSOE impulsar un decreto ley anticrisis derivado del conflicto en Irán, donde se incluya recuperar el impuesto a las empresas energéticas, establecer ayudas para los transportistas profesionales y limitar los precios de la energía y de los alimentos."
-  },
-  {
-    "titulo": "Turquía anuncia que baterías antiaéreas de la OTAN neutralizan otro misil lanzado desde Irán",
-    "medio": "Europa Press",
-    "fecha": 1773059529.0,
-    "link": "https://www.europapress.es/internacional/noticia-turquia-anuncia-baterias-antiaereas-otan-neutralizan-otro-misil-lanzado-iran-20260309133209.html",
-    "resumen": "El Ministerio de Defensa de Turquía ha anunciado este lunes que baterías antiaéreas de la OTAN han neutralizado otro misil lanzado desde Irán que atravesaba el espacio aéreo turco, el segundo incidente de este tipo en menos de una semana."
   },
   {
     "titulo": "Should Unions Radically Rethink First Contracts?",
