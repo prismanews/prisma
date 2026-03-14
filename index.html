@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1773495072">
+    <link rel="stylesheet" href="prisma.css?v=1773500337">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-03-14T13:31:12.903271">Actualizado: 14/03/2026 13:31</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-03-14T14:58:57.518903">Actualizado: 14/03/2026 14:58</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -136,6 +136,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -159,12 +160,52 @@
             </select>
         </div>
 
-        <div class="card" data-medios="El País,Infolibre,eldiario.es,El Mundo,Europa Press,La Vanguardia">
-            <h2>Tema: Irán, isla y ataque</h2>
+        <div class="card" data-medios="Infolibre,El Mundo,El País,Europa Press">
+            <h2>En foco: Irán, isla y estados</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                6 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-14/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | EE UU asegura que ha golpeado más de 90 objetivos militares iraníes en el bombardeo contra la isla de Jarg</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-14/estados-unidos-bombardea-la-isla-de-jarg-estrategica-para-el-petroleo-de-iran.html" target="_blank" rel="noopener">Estados Unidos bombardea la isla de Jarg, estratégica para el petróleo de Irán</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/14/69b4bdb9e4d4d841158b4579.html" target="_blank" rel="noopener">EEUU lanza "uno de los bombardeos más poderosos en la Historia de Oriente Próximo" sobre la isla de Jark, el principal centro petrolero de Irán</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 2 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/estados-unidos-lanza-ataque-poderoso-historia-oriente-medio-isla-petrolera-irani-jarg_1_2161823.html" target="_blank" rel="noopener">Estados Unidos lanza el ataque “más poderoso” de la historia de Oriente Medio contra la isla petrolera iraní de Jarg</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-dos-semanas-ofensiva-iran-guerra-intensifica-traslada-estrecho-ormuz-20260314081012.html" target="_blank" rel="noopener">Dos semanas de ofensiva en Irán: la guerra se intensifica y traslada al estrecho de Ormuz</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Infolibre,Europa Press,OK Diario,El Español">
+            <h2>Tema: Candidatos, castilla y león</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -181,33 +222,27 @@
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-14/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | EE UU asegura que ha golpeado más de 90 objetivos militares iraníes en el bombardeo contra la isla de Jarg</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/asi-pasan-candidatos-castilla-leon-jornada-reflexion-paseos-familia-comidas-amigos-16416484" target="_blank" rel="noopener">Así pasan los candidatos de Castilla y León la jornada de reflexión: paseos en familia y comidas con amigos</a></p>
 
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260314/11489734/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html" target="_blank" rel="noopener">Guerra de Irán y los ataques de EE.UU. e Israel, en directo | Última hora de la amenaza de Irán a responder al ataque a la isla petrolera de Kharg</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/castilla-y-leon/region/20260314/comidas-amigos-vinos-humedo-futbol-paseos-familiares-reflexionan-candidatos-castilla-leon/1003744169568_0.html" target="_blank" rel="noopener">Comidas con amigos, vinos por el Húmedo, fútbol y paseos familiares: así reflexionan los candidatos en Castilla y León</a></p>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-14/estados-unidos-bombardea-la-isla-de-jarg-estrategica-para-el-petroleo-de-iran.html" target="_blank" rel="noopener">Estados Unidos bombardea la isla de Jarg, estratégica para el petróleo de Irán</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/candidato-castilla-leon-denuncia-agresion-durante-jornada-reflexion_1_2161874.html" target="_blank" rel="noopener">El candidato de Podemos en Castilla y León denuncia una agresión en Valladolid</a></p>
 
             <details class="ver-mas">
-                <summary>+ 4 noticias más</summary>
+                <summary>+ 1 noticias más</summary>
                 <div class="noticias-extra">
 
-                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/ataque-eeuu-estrategica-isla-jarg-amenaza-agravar-crisis-petrolera_1_13068181.html" target="_blank" rel="noopener">El ataque de EEUU a la estratégica isla iraní de Jarg amenaza con agravar la crisis petrolera mundial</a></p>
-
-                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/14/69b4bdb9e4d4d841158b4579.html" target="_blank" rel="noopener">EEUU lanza "uno de los bombardeos más poderosos en la Historia de Oriente Próximo" sobre la isla de Jark, el principal centro petrolero de Irán</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/estados-unidos-lanza-ataque-poderoso-historia-oriente-medio-isla-petrolera-irani-jarg_1_2161823.html" target="_blank" rel="noopener">Estados Unidos lanza el ataque “más poderoso” de la historia de Oriente Medio contra la isla petrolera iraní de Jarg</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-dos-semanas-ofensiva-iran-guerra-intensifica-traslada-estrecho-ormuz-20260314081012.html" target="_blank" rel="noopener">Dos semanas de ofensiva en Irán: la guerra se intensifica y traslada al estrecho de Ormuz</a></p>
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/castilla-y-leon/noticia-candidatos-presidencia-cyl-dedican-jornada-pasar-tiempo-familia-campana-20260314103301.html" target="_blank" rel="noopener">Los candidatos a la Presidencia de CyL dedican la jornada de reflexión a pasar tiempo con su familia y amigos</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="The Objective,HuffPost">
-            <h2>Tema: Guerra, calle y oriente</h2>
+        <div class="card" data-medios="El País,The Objective,Moncloa.com">
+            <h2>Portada: Madrid, milei y reúne</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
+                3 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -216,24 +251,53 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
                 </div>
             </div>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/espana-sale-calle-decir-no-guerra-oriente-medio-imagenes-f202603.html" target="_blank" rel="noopener">España sale a la calle para decir 'No a la guerra' en Oriente Medio, en imágenes</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-03-14/milei-reune-madrid-abascal-mono-ypf/" target="_blank" rel="noopener">Milei se reúne en Madrid con Abascal vestido con un mono de trabajo de YPF</a></p>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/miles-personas-salen-calle-espana-gritar-no-guerra-reclamar-conflicto-oriente-medio-f202603.html" target="_blank" rel="noopener">Miles de personas salen a la calle en España para gritar 'No a la guerra' y reclaman el fin del conflicto en Oriente Medio</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-03-14/milei-se-reune-con-abascal-en-madrid-vestido-con-un-mono-de-trabajo-de-la-petrolifera-argentina-ypf.html" target="_blank" rel="noopener">Milei se reúne con Abascal en Madrid vestido con un mono de trabajo de la petrolífera argentina YPF</a></p>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/2026-03-14/manifestacion-guerra-politica-cultura/" target="_blank" rel="noopener">Miles de personas piden ‘parar la guerra’ junto a personalidades de la política y cultura</a></p>
+            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/03/14/madrid-sierra-de-guadarrama-3365798/" target="_blank" rel="noopener">El planazo de domingo en Madrid para encontrar tesoros y regatear como un profesional</a></p>
         </div>
 
-        <div class="card" data-medios="Infolibre,El País,eldiario.es">
-            <h2>Portada: Moriré, amor y málaga</h2>
+        <div class="card" data-medios="Infolibre,El Mundo,El País">
+            <h2>Tema: Derrumba, castillo y escalona</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/cultura/derrumba-torre-castillo-escalona-toledo-causar-danos-personales_1_2161922.html" target="_blank" rel="noopener">Se derrumba una torre del castillo de Escalona (Toledo) sin causar daños personales</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/03/14/69b547cee4d4d8b63d8b4579.html" target="_blank" rel="noopener">Se derrumba la torre del Castillo de Escalona, en Toledo</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/cultura/2026-03-14/se-derrumba-parte-del-castillo-de-escalona-sin-causar-heridos.html" target="_blank" rel="noopener">Se derrumba parte del castillo de Escalona sin causar heridos</a></p>
+        </div>
+
+        <div class="card" data-medios="Infolibre,El Mundo,El País">
+            <h2>Hoy: Moriré, amor y málaga</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -256,13 +320,94 @@
 
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/cultura/cine/no-morire-amor-mejor-pelicula-espanola-palmares-malaga-sabor-latino_1_2161879.html" target="_blank" rel="noopener">'Yo no moriré de amor', mejor película española en un palmarés de Málaga con sabor latino</a></p>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/cultura/marta-matute-biznaga-oro-festival-malaga-no-morire-amor_1_13068238.html" target="_blank" rel="noopener">Marta Matute se hace con el Biznaga de Oro del Festival de Málaga con 'Yo no moriré de amor'</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/cultura/cine/2026/03/14/69b54a78fdddffc8248b4573.html" target="_blank" rel="noopener">Yo no moriré de amor, ópera prima de Marta Matute, gana la Biznaga de Oro en un Festival de Málaga con sabor latino</a></p>
 
             <p><strong>El País:</strong> <a href="https://elpais.com/cultura/2026-03-14/yo-no-morire-de-amor-y-el-jardin-que-sonamos-consiguen-las-biznagas-de-oro-del-festival-de-malaga.html" target="_blank" rel="noopener">‘Yo no moriré de amor’ y ‘El jardín que soñamos’ consiguen las Biznagas de Oro del Festival de Málaga</a></p>
         </div>
 
-        <div class="card" data-medios="Expansión,El País">
-            <h2>Tema: Milei, reúne y abascal</h2>
+        <div class="card" data-medios="The Objective">
+            <h2>Portada: Exolum, hatta y energy</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/economia/energia/2026-03-14/exolum-hatta-energy-combustible/" target="_blank" rel="noopener">Exolum responde a Hatta Energy que el sistema logístico no afecta a la descarga de combustible</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/economia/energia/2026-03-14/hatta-exolum-combustible/" target="_blank" rel="noopener">Hatta Energy acusa a Exolum de bloquear 200 millones de litros de combustible</a></p>
+        </div>
+
+        <div class="card" data-medios="El Español,Europa Press">
+            <h2>En foco: Trump, internacional y estrecho</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-trump-propone-mision-naval-internacional-reabrir-estrecho-ormuz-20260314153836.html" target="_blank" rel="noopener">Trump propone una misión naval internacional para reabrir el estrecho de Ormuz</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/20260314/trump-anuncia-gran-despliegue-militar-internacional-mantener-abierto-estrecho-ormuz/1003744169690_0.html" target="_blank" rel="noopener">Trump anuncia un gran despliegue militar internacional para mantener abierto el estrecho de Ormuz</a></p>
+        </div>
+
+        <div class="card" data-medios="HuffPost,Genbeta">
+            <h2>Claves: Director, general y colgó</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/sociedad/director-general-dejo-puesto-cuidar-hija-dependiente-mujer-volviese-trabajar-f202603.html" target="_blank" rel="noopener">El director general que colgó la corbata para cuidar a su hija dependiente y que su mujer volviese a trabajar</a></p>
+
+            <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/laboral/ceo-randstad-afirma-que-teletrabajo-ahora-se-reserva-solo-para-talentos-muy-especiales-explica-quien-tiene-este-perfil" target="_blank" rel="noopener">El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos "muy especiales" y explica quién tiene este perfil</a></p>
+        </div>
+
+        <div class="card" data-medios="eldiario.es,Europa Press">
+            <h2>Portada: Prisión, abogada y familia</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -283,13 +428,121 @@
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-03-14/milei-se-reune-con-abascal-en-madrid-vestido-con-un-mono-de-trabajo-de-la-petrolifera-argentina-ypf.html" target="_blank" rel="noopener">Milei se reúne con Abascal en Madrid vestido con un mono de trabajo de la petrolífera argentina YPF</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/extremadura/sociedad/abogada-familia-francisca-cadenas-pedira-prision-provisional-hermanos-detenidos_1_13068553.html" target="_blank" rel="noopener">La abogada de la familia de Francisca Cadenas pedirá prisión provisional para los dos hermanos detenidos</a></p>
 
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/2026/03/14/69b52930e5fdeab71e8b45b8.html" target="_blank" rel="noopener">EEUU inicia la liberación de 86 millones de barriles de petróleo a finales de la próxima semana</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/castilla-y-leon/noticia-prision-fianza-detenido-incendio-miranda-ebro-burgos-murieron-tres-mujeres-20260314101822.html" target="_blank" rel="noopener">Prisión sin fianza para el detenido por el incendio en Miranda de Ebro (Burgos) en el que murieron tres mujeres</a></p>
+        </div>
+
+        <div class="card" data-medios="eldiario.es">
+            <h2>Portada: Descubren, nueva y especie</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/spin/mundo-animal/descubren-nueva-especie-cocodrilo-prehistorico-nombre-debe-antepasados-famosos-pm_1_13065535.html" target="_blank" rel="noopener">Descubren una nueva especie de cocodrilo prehistórico y su nombre se debe a uno de nuestros antepasados más famosos</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/spin/bestias-prehistoricas-caminaban-selva-panama-desaparicion-dejo-herida-cerro-pm_1_13068078.html" target="_blank" rel="noopener">Cuando bestias prehistóricas caminaban por la selva de Panamá y su desaparición dejó una herida que nunca cerró</a></p>
+        </div>
+
+        <div class="card" data-medios="El Independiente,Hipertextual">
+            <h2>En foco: Piece, anime y parece</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/anime-one-piece-muy-largo-metodo-salta-relleno-ahorra-mitad-del-tiempo/" target="_blank" rel="noopener">Si el anime de ‘One Piece’ te parece muy largo, este método que se salta el relleno te ahorrará casi el 50% del tiempo</a></p>
+
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/series-y-television/2026/03/13/final-explicado-temporada-2-one-piece/" target="_blank" rel="noopener">El final explicado de la temporada 2 de 'One Piece', la serie que arrasa en Netflix</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,El Español">
+            <h2>Relevante: Guerra, personas y pincha</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/politica/20260314/pincha-intento-izquierda-enarbolar-no-guerra-dia-reflexion-personas-madrid-barcelona/1003744169635_0.html" target="_blank" rel="noopener">Pincha el intento de la izquierda de enarbolar el 'No a la guerra' el día de reflexión: 4.500 personas en Madrid y 50 en Barcelona</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/2026-03-14/manifestacion-guerra-politica-cultura/" target="_blank" rel="noopener">Miles de personas piden ‘parar la guerra’ junto a personalidades de la política y cultura</a></p>
+        </div>
+
+        <div class="card" data-medios="El Mundo,La Vanguardia">
+            <h2>Tema: Seis, asesinato y empresario</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/andalucia/2026/03/14/69b5665e21efa0064d8b457d.html" target="_blank" rel="noopener">Detienen a seis personas por el asesinato del empresario sevillano Antonio Jiménez en República Dominicana</a></p>
+
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/local/sevilla/20260314/11489895/detenidos-seis-implicados-asesinato-empresario-sevillano-republica-dominicana.html" target="_blank" rel="noopener">Detenidos seis implicados en un asesinato de un empresario sevillano en República Dominicana</a></p>
         </div>
 
         <div class="card" data-medios="Infolibre,eldiario.es">
-            <h2>Hoy: Tres, usos y bardeo</h2>
+            <h2>Portada: Tres, usos y bardeo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -315,61 +568,7 @@
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/tintalibre/misterio-tubos-lona-azul_1_2154626.html" target="_blank" rel="noopener">El misterio de los tubos y la lona azul</a></p>
         </div>
 
-        <div class="card" data-medios="The Objective,OK Diario">
-            <h2>En foco: Derrumba, castillo y escalona</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/sucesos/derrumba-parte-del-castillo-escalona-toledo-16417006" target="_blank" rel="noopener">Se derrumba parte del Castillo de Escalona (Toledo) sin causar heridos</a></p>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/suceso/2026-03-14/derrumba-castillo-escalona-toledo/" target="_blank" rel="noopener">Se derrumba una torre del castillo de Escalona (Toledo) sin daños personales</a></p>
-        </div>
-
-        <div class="card" data-medios="Infolibre,OK Diario">
-            <h2>Portada: Pinchazo, guerra y sánchez</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/pinchazo-del-no-guerra-sanchez-concentracion-paz-madrid-reune-solo-5-000-personas-16416469" target="_blank" rel="noopener">Pinchazo del ‘no a la guerra’ de Sánchez: la protesta por la paz reúne sólo a 5.000 personas en Madrid</a></p>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/pazo-pueblo-celebracion-recuerdo-lucha-politica-ciudadana_1_2161206.html" target="_blank" rel="noopener">"El Pazo es del pueblo": celebración y recuerdo de la lucha política y ciudadana</a></p>
-        </div>
-
-        <div class="card" data-medios="Expansión,El País">
+        <div class="card" data-medios="El País,Expansión">
             <h2>Tema: Illa, adelanto y electoral</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
@@ -394,168 +593,6 @@
             <p><strong>Expansión:</strong> <a href="https://www.expansion.com/catalunya/2026/03/14/69b54d9a468aeb636d8b459b.html" target="_blank" rel="noopener">Illa aleja la posibilidad de un adelanto electoral en pleno pulso presupuestario con ERC</a></p>
 
             <p><strong>El País:</strong> <a href="https://elpais.com/espana/catalunya/2026-03-14/illa-defiende-que-su-proyecto-es-para-una-decada-y-no-da-pabulo-a-un-adelanto-electoral.html" target="_blank" rel="noopener">Illa defiende que su proyecto es para una década y no da pábulo a un adelanto electoral</a></p>
-        </div>
-
-        <div class="card" data-medios="Hipertextual,Applesfera">
-            <h2>Relevante: Llamadas, spam y instalado</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 43%;"></div>
-                    <div class="barra-conservadora" style="width: 57%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 43%</span>
-                    <span>Conservador 57%</span>
-                </div>
-            </div>
-
-            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/tecnologia/he-instalado-esta-app-en-el-movil-de-mis-padres-y-ahora-puedo-colgar-sus-llamadas-cuando-son-spam-o-estafas/" target="_blank" rel="noopener">He instalado esta app en el móvil de mis padres y ahora puedo colgar sus llamadas cuando son SPAM o estafas</a></p>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/general/cada-vez-hay-operadoras-espanolas-previniendo-llamadas-spam-asi-se-combinan-ajustes-iphone" target="_blank" rel="noopener">Cada vez hay más operadoras españolas previniendo las llamadas spam. Y así se combinan con los ajustes del iPhone</a></p>
-        </div>
-
-        <div class="card" data-medios="Europa Press,La Vanguardia">
-            <h2>Claves: Gavi, recibe y alta</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/fc-barcelona/20260314/11489845/gavi-recibe-alta-medica-medio-ano-lesion-rodilla-derecha.html" target="_blank" rel="noopener">Gavi recibe el alta médica medio año después</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/cadiz-00351/noticia-montero-incide-gobierno-aprobara-cuando-sea-oportuno-medidas-ya-preparadas-subida-precios-20260314125210.html" target="_blank" rel="noopener">Montero incide en que el Gobierno aprobará cuando sea "oportuno" las medidas ya "preparadas" ante la subida de precios</a></p>
-        </div>
-
-        <div class="card" data-medios="ABC,La Vanguardia">
-            <h2>En foco: Senado, cita y julio</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/politica/20260314/11489853/senado-cita-julio-martinez-vinculado-zapatero-edicto-dos-intentos-localizarle.html" target="_blank" rel="noopener">El Senado cita a Julio Martínez, vinculado a Zapatero, por edicto tras dos intentos sin localizarle</a></p>
-
-            <p><strong>ABC:</strong> <a href="http://www.abc.es" target="_blank" rel="noopener">Los alumnos de la Autónoma acorralan a los 150 radicales del violento escrache a Felipe González</a></p>
-        </div>
-
-        <div class="card" data-medios="Hipertextual,El Independiente">
-            <h2>Claves: 2026, hora y dónde</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 43%;"></div>
-                    <div class="barra-conservadora" style="width: 57%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 43%</span>
-                    <span>Conservador 57%</span>
-                </div>
-            </div>
-
-            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/a-que-hora-y-donde-ver-la-gala-de-los-premios-oscar-2026-en-espana-y-latinoamerica/" target="_blank" rel="noopener">A qué hora y dónde ver la gala de los Premios Oscar 2026 en España y Latinoamérica</a></p>
-
-            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/deportes/2026/03/13/se-juega-finalissima-2026-espana-argentina/" target="_blank" rel="noopener">¿Se jugará la Finalissima 2026 entre España y Argentina?</a></p>
-        </div>
-
-        <div class="card" data-medios="Applesfera">
-            <h2>Claves: Macbook, acabas y comprar</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque marcadamente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 42%;"></div>
-                    <div class="barra-conservadora" style="width: 58%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 42%</span>
-                    <span>Conservador 58%</span>
-                </div>
-            </div>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/tutoriales/te-acabas-comprar-macbook-neo-16-cosas-que-te-recomiendo-hacer-vienes-pc-windows" target="_blank" rel="noopener">¿Te acabas de comprar el MacBook Neo? 16 cosas que te recomiendo hacer si vienes de un PC con Windows</a></p>
-
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/seleccion/satechi-tiene-adaptador-multipuerto-ideal-para-macbook-neo-compatible-magsafe-bolsillo" target="_blank" rel="noopener">Satechi tiene el adaptador multipuerto ideal para el MacBook Neo. Es compatible con MagSafe y cabe en el bolsillo</a></p>
-        </div>
-
-        <div class="card" data-medios="Yorokobu">
-            <h2>Claves: Fill, f5a623st1 y fillrule</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/legami-productos-de-papeleria/" target="_blank" rel="noopener">.st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} ¿Qué hay detrás del irresistible poder de atracción de los artículos de papelería?</a></p>
-
-            <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/ana-bernal-trivino-raiz-del-poder/" target="_blank" rel="noopener">.st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} Parir, el superpoder maldito de las mujeres que creó el patriarcado</a></p>
         </div>
 
         <div class="cta-section">
