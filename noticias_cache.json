@@ -1,10 +1,171 @@
 [
   {
-    "titulo": "Acordonan el centro de Cuenca por una mochila junto a la Subdelegación del Gobierno",
+    "titulo": "De beata a ‘raver’: Rosalía abre la gira mundial de ‘Lux’ recorriendo todas sus encarnaciones",
+    "medio": "El País",
+    "fecha": 1773701356.0,
+    "link": "https://elpais.com/cultura/2026-03-16/de-beata-a-raver-rosalia-abre-la-gira-mundial-de-lux-recorriendo-todas-sus-encarnaciones.html",
+    "resumen": "La cantante estrena en Lyon un concierto de espíritu teatral y pop que se centra en su nuevo disco sin renunciar al flamenco ni a los grandes éxitos de ‘Motomami’"
+  },
+  {
+    "titulo": "Trump asegura que será “un gran honor” para él “tomar Cuba”",
+    "medio": "El País",
+    "fecha": 1773701280.0,
+    "link": "https://elpais.com/us/2026-03-16/trump-asegura-que-sera-un-gran-honor-para-el-tomar-cuba.html",
+    "resumen": "Los negociadores estadounidenses exigen la salida de Díaz-Canel como condición para un pacto con la isla, según desvela ‘The New York Times’"
+  },
+  {
+    "titulo": "Un acertante de 'La Primitiva' gana más de 126 millones de euros, el mayor premio en la historia del sorteo",
+    "medio": "El Mundo",
+    "fecha": 1773701084.0,
+    "link": "https://www.elmundo.es/loterias/2026/03/16/69b8877ffc6c83b71d8b456f.html",
+    "resumen": "El anterior premio más importante data de octubre de 2015, donde un acertante de Barcelona ganó más de 101 millones de euros Leer"
+  },
+  {
+    "titulo": "Rosalía en concierto, éxtasis barroco: una voz portentosa, una orquesta de vanguardia y cuánta intensidad, por dios",
+    "medio": "El Mundo",
+    "fecha": 1773700311.0,
+    "link": "https://www.elmundo.es/cultura/musica/2026/03/16/69b878b1fc6c83744c8b45bd.html",
+    "resumen": "Rosalía ha iniciado su gira mundial ante 16.000 devotos en Lyon con un espectáculo ambicioso, centrado en el repertorio de Lux y en el que le acompaña una orquesta. Lo presentará en España en abril Leer"
+  },
+  {
+    "titulo": "«Me sorprendió en mi casa metiéndome coca y ofuscado la maté»",
+    "medio": "El Mundo",
+    "fecha": 1773700064.0,
+    "link": "https://www.elmundo.es/cronica/2026/03/16/69b883afe4d4d8de5f8b456d.html",
+    "resumen": "'Juli', el autor confeso de la muerte de Francisca Cadenas, afirma que tuvo «un ataque de ira» Leer"
+  },
+  {
+    "titulo": "Olatz Schnabel, la modelo española que ha vestido a Madonna, Elton John y Versace: \"Me pescaron literalmente de la calle y me dieron el trabajo sin book ni currículum\"",
+    "medio": "HuffPost",
+    "fecha": 1773699900.0,
+    "link": "https://www.huffingtonpost.es/life/moda/olatz-schnabel-modelo-espanola-vestido-madonna-elton-john-versace-me-pescaron-literalmente-calle-me-dieron-trabajo-book-curriculum-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Primark pone a la venta ropa del Real Madrid: estos son los modelos y precios que están arrasando",
+    "medio": "HuffPost",
+    "fecha": 1773699572.0,
+    "link": "https://www.huffingtonpost.es/virales/primark-pone-venta-ropa-real-madrid-son-modelos-precios-arrasando-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Un juez frena los planes de Kennedy de recortar los protocolos de vacunación en Estados Unidos",
+    "medio": "El País",
+    "fecha": 1773699512.0,
+    "link": "https://elpais.com/sociedad/2026-03-16/un-juez-frena-los-planes-de-kennedy-de-recortar-los-protocolos-de-vacunacion-en-estados-unidos.html",
+    "resumen": "El fallo, que puede ser recurrido, da la razón a los demandantes, que consideran que una menor inmunización perjudica la salud pública"
+  },
+  {
+    "titulo": "Al menos 400 muertos y 400 heridos en un ataque pakistaní contra un hospital de Kabul, según el gobierno talibán",
+    "medio": "El Español",
+    "fecha": 1773699255.0,
+    "link": "https://www.elespanol.com/mundo/asia/20260316/muertos-heridos-ataque-pakistani-hospital-kabul-gobierno-taliban/1003744172388_0.html",
+    "resumen": "El Gobierno paquistaní niega haber bombardeado el centro médico y asegura que la operación tenía como objetivo almacenes de material del grupo insurgente Tehreek-e-Taliban Pakistan. Los talibanes dan por terminada la vía diplomática y anuncian represalias militares tras este ataque que califican de \"crimen contra la humanidad\". Más información: Turquía y Catar intentan apagar el fuego de la \"guerra total\" entre Pakistán y los talibanes: \"Teme Erdogan que se propague\""
+  },
+  {
+    "titulo": "Trump cree que tendrá \"el honor\" de \"tomar o liberar Cuba\"",
+    "medio": "Europa Press",
+    "fecha": 1773699137.0,
+    "link": "https://www.europapress.es/internacional/noticia-trump-cree-tendra-honor-tomar-liberar-cuba-20260316231217.html",
+    "resumen": "El presidente estadounidense, Donald Trump, ha declarado este lunes que será quien tenga \"el honor\" de \"tomar Cuba\" en referencia a su intención de forzar un acuerdo con las autoridades de La Habana o, de lo contrario, impulsar una intervención más directa."
+  },
+  {
+    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Líbano supera la barrera del millón de desplazados forzosos por la ofensiva israelí",
+    "medio": "El País",
+    "fecha": 1773698853.0,
+    "link": "https://elpais.com/internacional/2026-03-16/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "Un dron impacta en la sede de la misión de la Unión Europea en Bagdad sin causar víctimas | Bruselas se resiste a la petición de ayuda de Trump en el estrecho de Ormuz: “Esta no es la guerra de Europa”"
+  },
+  {
+    "titulo": "Desvelan el mecanismo de genes clave en la regulación de la metamorfosis de los insectos",
+    "medio": "The Objective",
+    "fecha": 1773698080.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-16/mecanismo-genes-regulacion-metamorfosis-insectos/",
+    "resumen": "Comprender cómo se regulan el crecimiento y la metamorfosis de los animales tiene aplicaciones en ámbitos tan diversos como la medicina, el control de plagas y […]"
+  },
+  {
+    "titulo": "Confirmado por la DGT: la nueva señal de tráfico que no todos conocen en España",
+    "medio": "OK Diario",
+    "fecha": 1773697889.0,
+    "link": "https://okdiario.com/espana/confirmado-dgt-nueva-senal-trafico-que-no-todos-conocen-espana-16430296",
+    "resumen": "La Dirección General de Tráfico (DGT) ha publicado la Instrucción PROT 2026/04, que actualiza la regulación sobre autocaravanas y vehículos vivienda en España. Esta nueva norma sustituye a la instrucción de 2023 y adapta la normativa a los cambios legales, criterios del Ministerio de Industria y Turismo y sentencias del Tribunal Supremo. Confirmado por la DGT: … Continuar leyendo \"Confirmado por la DGT: la nueva señal de tráfico que no todos conocen en España\""
+  },
+  {
+    "titulo": "Yara, oficial de placa con 25 años: \"Me he llegado a pedir vacaciones para enseñar a los chavales; los veteranos no quieren perder tiempo ni dinero\"",
+    "medio": "HuffPost",
+    "fecha": 1773697555.0,
+    "link": "https://www.huffingtonpost.es/sociedad/yara-oficial-placa-25nos-me-he-llegado-pedir-vacaciones-ensenar-chavales-veteranos-quieren-perder-dinero-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Trump fuerza a Jamaica, Honduras y Guatemala a expulsar a los médicos cubanos que cubrían sus hospitales públicos: los más pobres se quedan sin atención sanitaria",
+    "medio": "HuffPost",
+    "fecha": 1773697022.0,
+    "link": "https://www.huffingtonpost.es/global/trump-fuerza-jamaica-honduras-guatemala-expulsar-medicos-cubanos-cubrian-hospitales-publicos-mas-pobres-quedan-atencion-sanitaria-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Santiago Segura, en 'El Hormiguero': \"Si llamas nazi a cada uno que dice algo que no te guste, la palabra pierde su significado\"",
+    "medio": "HuffPost",
+    "fecha": 1773696846.0,
+    "link": "https://www.huffingtonpost.es/virales/santiago-segura-sobre-criticas-equidistante-si-llamas-nazi-dice-te-guste-palabra-pierde-significado-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Joseph Salhab, médico: “El kiwi te ayuda a dormir y a ir al baño y puede reducir el riesgo de cáncer de colon”",
+    "medio": "Trendencias",
+    "fecha": 1773696713.0,
+    "link": "https://www.trendencias.com/salud/joseph-salhab-medico-kiwi-te-ayuda-a-dormir-a-ir-al-bano-puede-reducir-riesgo-cancer-colon",
+    "resumen": "Dormir mal es algo que puede desquiciarte y que además tiene tanto impacto en nuestra salud física y mental, que un mal sueño afecta a nuestra productividad, nuestro humor y hay expertos que aseguran que cuando dejamos de dormir, dejamos de vivir. Por eso recurrimos a pastillitas y suplementos para ayudarnos a conciliar el sueño, pero lo curioso es que lo podemos conseguir de una forma mucho más sencilla con la alimentación. Solo necesitamos dos kiwis. Este estudio evaluó a 24 adultos que consumieron dos kiwis una hora antes de dormir durante cuatro semanas y los resultados sobre su sueño fueron sorprendentes: tardaron un 35,4% menos de tiempo en dormirse y aumentaron un 13,4% más el tiempo total de sueño. Aunque en estudios posteriores las muestras siguen siendo pequeñas, los resultados son prometedores, porque en deportistas además de mejorar la calidad de su sueño, ayudó a su recuperación. Según explicaba el gastroenterólogo Joseph Salhab, conocido como The Stomach Doc en sus redes sociales, “los kiwis contienen de forma natural serotonina y pequeñas cantidades de melatonina, que pueden mejorar la calidad del sueño”, pero además, su alto contenido de antioxidantes y vitamina C también pueden influir en los ritmos circadianos y que esto, mejore también la calidad de nuestro sueño. Y hay más, el kiwi puede ayudar a reducir nuestros niveles de cortisol y a disminuir la sensación de estrés lo que, de nuevo, favorece un mejor descanso. A esto se suma que “son ricos en fibra, lo que favorece el tránsito intestinal regular”, como explica el médico. Esos potentes antioxidantes como la vitamina C y los polifenoles que contienen, se asocian con un menor riesgo de cáncer colorrectal “cuando se consumen de forma habitual como parte de una dieta rica en fibra”. El cardiólogo Aurelio Rojas recomienda comer kiwis para dormir más y mejor, “una o dos piezas de esta fruta una hora antes de irte a la cama y a dormir como un bebé”, explicaba. @doctorrojass Una o dos piezas de esta fruta una hora antes de irte a la cama y a dormir como un bebe 👶🏻 #fruta #kiwi #sueños #azucar #estres ♬ Positive Education - makesound Además, el kiwi contiene actinidina, una enzima que ayuda a descomponer proteínas y facilita la digestión, por lo que reduce la sensación de hinchazón, mejora el estreñimiento y facilita el tránsito intestinal. También hay estudios que relacionan el consumo de kiwi con mejoras en varios marcadores cardiometabólicos como la reducción de triglicéridos o aumento del HDL, el llamado colesterol “bueno”. Salhab recomienda intentar “comer uno o dos kiwis por la noche o a diario con las comidas para favorecer la salud intestinal y general”, y viendo la cantidad de beneficios que tiene, nos parece una idea estupenda para nuestra salud. Fotos | @doctorrojass, @thestomachdoc, bruce mars en Unsplash En Trendencias | 23 recetas de tartas y postres saludables para incluir en tu dieta sin miedo En Trendencias | Las mejores zapatillas de running 2026: cómo elegir bien y cuáles comprar - La noticia Joseph Salhab, médico: “El kiwi te ayuda a dormir y a ir al baño y puede reducir el riesgo de cáncer de colon” fue publicada originalmente en Trendencias por Anabel Palomares ."
+  },
+  {
+    "titulo": "Santiago Segura carga contra la prensa por revelar los cameos de ‘Torrente’: «Eres idiota»",
+    "medio": "The Objective",
+    "fecha": 1773696525.0,
+    "link": "https://theobjective.com/medios/television/2026-03-16/santiago-segura-prensa-cameos-torrente-idiota/",
+    "resumen": "El actor, director y productor Santiago Segura ha cargado muy duramente contra la prensa este lunes en El hormiguero de Pablo Motos. El eterno José Luis […]"
+  },
+  {
+    "titulo": "Un gen de supervivencia a las grandes altitudes podría ayudar a revertir el daño nervioso",
+    "medio": "The Objective",
+    "fecha": 1773696092.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-16/gen-supervivencia-altitudes-dano-nervioso/",
+    "resumen": "Una mutación genética que permite a animales como los yaks o los antílopes tibetanos sobrevivir a grandes altitudes podría ayudar a reparar el daño nervioso asociado a enfermedades […]"
+  },
+  {
+    "titulo": "‘The Last of Us’ confirma dos nuevos fichajes para su temporada 3",
+    "medio": "Hipertextual",
+    "fecha": 1773695647.0,
+    "link": "https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fichajes-para-su-temporada-3/",
+    "resumen": "Si bien la temporada 3 de The Last of Us todavía está bastante lejos de llegar a la pantalla de HBO y HBO Max, poco a poco empieza a tomar forma. Horas atrás se han confirmado dos nuevos fichajes en su reparto, mientras que también se ha ratificado a otros intérpretes que estarán regresando a […] Seguir leyendo: ‘The Last of Us’ confirma dos nuevos fichajes para su temporada 3"
+  },
+  {
+    "titulo": "Kast lanza en la frontera norte de Chile la construcción de muros y zanjas para frenar la inmigración irregular",
+    "medio": "El Mundo",
+    "fecha": 1773695331.0,
+    "link": "https://www.elmundo.es/internacional/2026/03/16/69b87160e9cf4adb348b459c.html",
+    "resumen": "\"La retroexcavadora va a construir soberanía\", dijo el presidente chileno Leer"
+  },
+  {
+    "titulo": "Se jubila Greg Bovino, el responsable de la represión migratoria de Trump que causó los asesinatos de Minneapolis",
+    "medio": "eldiario.es",
+    "fecha": 1773695177.0,
+    "link": "https://www.eldiario.es/desalambre/jubila-greg-bovino-responsable-represion-migratoria-trump-causo-asesinatos-minneapolis_1_13073590.html",
+    "resumen": "El comandante en jefe del ICE que dirigió la represión migratoria hasta los asesinatos de Renee Good y Alex Pretti, se retira con 55 años, según publican medios estadounidenses Primero fue su jefa, Kristi Noem, cesada por Donald Trump hace diez días al frente del Departamento de Seguridad Nacional. Y ahora es el ejecutor de la represión migratoria, Greg Bovino: el responsable del ICE que comandó la mano más dura posible de estado en estado y de ciudad en ciudad deja el puesto con 55 años, según informa medios estadounidenses. El jefe de Aduanas y Protección Fronteriza (ICE) se jubilará a finales de marzo tras 30 años en la agencia. Bovino fue relevado del mando de la represión en Minneapolis tras el asesinato de Alex Pretti el 23 de enero a manos de un agente federal. Bovino, como Noem, tildó de “terrorista” a Pretti, sin prueba alguna y en contra de todas las evidencias que se fueron descubriendo después gracias a los vídeos grabados por los vecinos. La salida de Bovino se produce tras la reasignación de la secretaria de Seguridad Nacional, Kristi Noem, con quien mantenía estrechos vínculos. Noem pasará a ser responsable del Shield of Americas, una alianza militar entre EEUU y los gobiernos latinoamericanos amigos de Trump para permitir a Washington realizar operaciones militares en sus territorios en una supuesta cruzada contra el narcotráfico. Tras el relevo de Bovino en enero, Trump envió al zar de la frontera, Tom Homan, a Minnesota para rebajar la operación del ICE, bautizada como Operation Metro Surge—, hasta su desmantelamiento con la marcha de Minnesota. Bovino dirigió las redadas del ICE en importantes ciudades de EEUU, entre ellas Los Ángeles, Chicago, Charlotte, Nueva Orleans y Minneapolis, sembrando el pánico en las calles de feudos demócratas, precisamente. “El mayor honor de toda mi vida fue trabajar codo a codo con agentes de la Patrulla Fronteriza en la frontera y en el interior de Estados Unidos, bajo algunas de las condiciones más difíciles que la agencia haya enfrentado jamás”, declaró Bovino a Breitbart."
+  },
+  {
+    "titulo": "El chef José Antonio Campo Viejo cuenta qué pasó el día que fue Risto Mejide a su restaurante con una estrella Michelin",
+    "medio": "HuffPost",
+    "fecha": 1773695051.0,
+    "link": "https://www.huffingtonpost.es/virales/el-chef-jose-antonio-campo-viejo-cuenta-que-paso-dia-risto-mejide-restaurante-estrella-michelin-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Falsa alarma en Cuenca tras el hallazgo de una mochila frente a la Subdelegación del Gobierno",
     "medio": "The Objective",
     "fecha": 1773694966.0,
     "link": "https://theobjective.com/sociedad/suceso/2026-03-16/cuenca-mochila-bomba-subdelegacion-gobierno/",
-    "resumen": "La Policía Nacional ha acordonado el centro de Cuenca por la aparición de una mochila abandonada junto al edificio de la Subdelegación del Gobierno en la […]"
+    "resumen": "El centro de Cuenca ha estado acordonado esta tarde durante más de tres horas por la Policía Nacional, tras la aparición de una mochila sospechosa junto […]"
   },
   {
     "titulo": "El prelavado maestro de la experta en limpieza Alejandra Docampo: \"Ni se te ocurra meter las bayetas sucias a la lavadora\"",
@@ -35,11 +196,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump: “No sabemos si el líder supremo de Irán está muerto”",
-    "medio": "El País",
-    "fecha": 1773694255.0,
-    "link": "https://elpais.com/internacional/2026-03-16/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Bruselas se resiste a la petición de ayuda del presidente estadounidense en el estrecho de Ormuz: “Esta no es la guerra de Europa” | Trump presiona a sus aliados para formar una coalición militar que permita reabrir el corredor"
+    "titulo": "La Primitiva: resultado y comprobar número premiado hoy, lunes 16 de marzo de 2026",
+    "medio": "OK Diario",
+    "fecha": 1773693937.0,
+    "link": "https://okdiario.com/loteria/comprobar-primitiva-resultado-numero-premiado-hoy-lunes-16-marzo-2026-16428411",
+    "resumen": "Los resultados del sorteo de La Primitiva celebrado este lunes 16 de marzo de 2026 ya se conocen por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 05, 08, 23, 28, 40 y 44. El número complementario es el 18 y el reintegro el 6. Joker: 4706895. … Continuar leyendo \"La Primitiva: resultado y comprobar número premiado hoy, lunes 16 de marzo de 2026\""
   },
   {
     "titulo": "Nebius sella un acuerdo con Meta para IA por 23.650 millones",
@@ -47,6 +208,20 @@
     "fecha": 1773693918.0,
     "link": "https://www.expansion.com/empresas/tecnologia/2026/03/16/69b86bdc468aeb9c6d8b45a1.html",
     "resumen": "Leer"
+  },
+  {
+    "titulo": "Bonoloto: comprobar el resultado del sorteo de hoy, lunes 16 de marzo de 2026",
+    "medio": "OK Diario",
+    "fecha": 1773693908.0,
+    "link": "https://okdiario.com/loteria/comprobar-bonoloto-resultado-numero-premiado-hoy-lunes-16-marzo-2026-16428255",
+    "resumen": "Los resultados del sorteo de la Bonoloto celebrado hoy, lunes 16 de marzo de 2026 ya se conocen por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 8, 12, 21, 32, 35 y 48. El número complementario es el 49 y el reintegro el 8. Cómo jugar … Continuar leyendo \"Bonoloto: comprobar el resultado del sorteo de hoy, lunes 16 de marzo de 2026\""
+  },
+  {
+    "titulo": "ONCE hoy, lunes, 16 de marzo de 2026: comprobar el Cupón Diario y Super 11",
+    "medio": "OK Diario",
+    "fecha": 1773693906.0,
+    "link": "https://okdiario.com/loteria/comprobar-once-hoy-lunes-16-marzo-2026-cupon-diario-super-11-16428448",
+    "resumen": "La ONCE ya ha realizado los sorteos de hoy lunes, 16 de marzo de 2026: Cupón Diario y Super 11. Comprueba aquí los números premiados hoy. Comprobar resultado del Cupón Diario de la ONCE El resultado del Cupón Diario de la ONCE del lunes, 16 de marzo de 2026 es el siguiente: 97.554 y serie … Continuar leyendo \"ONCE hoy, lunes, 16 de marzo de 2026: comprobar el Cupón Diario y Super 11\""
   },
   {
     "titulo": "Nvidia espera ingresar un billón de dólares por la venta de chips de IA para 2027",
@@ -61,13 +236,6 @@
     "fecha": 1773693796.0,
     "link": "https://elpais.com/america/2026-03-16/naciones-unidas-pide-a-venezuela-mas-transparencia-en-la-aplicacion-de-la-amnistia-a-presos-politicos.html",
     "resumen": "La Cancillería venezolana rechaza los cuestionamientos y acusa al Alto Comisionado Volker Türk de tener un “sesgo inmoral”"
-  },
-  {
-    "titulo": "Valerie Wirtschafter, investigadora: \"Los vídeos falsos de IA sobre la guerra de Irán no son solo desinformación, son literalmente una herramienta de guerra\"",
-    "medio": "HuffPost",
-    "fecha": 1773693673.0,
-    "link": "https://www.huffingtonpost.es/global/valeriewirtschafter-investigadora-los-videos-falsos-ia-sobre-guerraan-son-desinformacion-son-literalmente-herramienta-guerra-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "Así queda el cuadro del Masters 1000 de Miami 2026: contra quién juega Carlos Alcaraz y posibles rivales",
@@ -105,20 +273,6 @@
     "resumen": "La presidenta de Nuevas Generaciones del Partido Popular, Beatriz Fanjul, resolverá este jueves la crisis abierta por la polémica dimisión del secretario general Carlos Angrisano con […]"
   },
   {
-    "titulo": "Amplio dispositivo por una mochila abandonada junto a la Subdelegación del Gobierno en Cuenca",
-    "medio": "La Vanguardia",
-    "fecha": 1773693038.0,
-    "link": "https://www.lavanguardia.com/local/castilla-la-mancha/20260316/11491628/acordonado-centro-cuenca-mochila-abandonada-subdelegacion-gobierno.html",
-    "resumen": "Un equipo de desactivación de explosivos inspecciona el material para determinar si su contenido es peligroso"
-  },
-  {
-    "titulo": "Cupón diario de la ONCE: comprobar sorteo del lunes 16 de marzo",
-    "medio": "El País",
-    "fecha": 1773692953.0,
-    "link": "https://elpais.com/sorteos/2026-03-16/cupon-diario-de-la-once-comprobar-sorteo-del-lunes-16-de-marzo.html",
-    "resumen": "La ONCE reparte un primer premio de 500.000 euros a las cinco cifras más la serie en su sorteo diario de lunes a jueves"
-  },
-  {
     "titulo": "Y antes del Tour, el trofeo Godó: el RCTB se prepara para acoger a cuatro Top 10 mundiales",
     "medio": "La Vanguardia",
     "fecha": 1773692790.0,
@@ -140,20 +294,6 @@
     "resumen": "El canciller alemán, Friedrich Merz, ha criticado este lunes al presidente de Estados Unidos, Donald Trump, por proponer una misión militar para desbloquear el tránsito en […]"
   },
   {
-    "titulo": "Atronador aplauso a Nacho Duato al decir por qué no se puede callar ante la actitud de Ayuso con Trump",
-    "medio": "HuffPost",
-    "fecha": 1773692560.0,
-    "link": "https://www.huffingtonpost.es/virales/atronador-aplauso-nacho-duato-decir-que-callar-actitud-ayuso-trump-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El Gobierno cambia las normas: tener gallinas para autoconsumo sin registrarlas es una infracción con multas de hasta 3.000 euros",
-    "medio": "HuffPost",
-    "fecha": 1773692437.0,
-    "link": "https://www.huffingtonpost.es/sociedad/gobierno-cambia-normas-gallinas-autoconsumo-registrarlas-infraccion-multas-3000-euros-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Últimas noticias de la guerra de Irán en directo | Precio del petróleo hoy, últimos ataques y bombardeos y reacciones de Trump",
     "medio": "OK Diario",
     "fecha": 1773692106.0,
@@ -166,13 +306,6 @@
     "fecha": 1773692100.0,
     "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260316/11491268/como-conseguir-nintendo-switch-2-playstation-5-menos-dinero-10-consolas-rebajadas-semana-santa-mkt-alie.html",
     "resumen": "Si quieres evadir la realidad y explorar mundos virtuales sin parar, estás de suerte. AliExpress ha rebajado las consolas más vendidas de la actualidad, para que gastes menos dinero practicando tu 'hobby' favorito"
-  },
-  {
-    "titulo": "Un informe baraja que la rotura de la vía de Adamuz pudo producirse 22 horas antes del accidente",
-    "medio": "El Mundo",
-    "fecha": 1773691638.0,
-    "link": "https://www.elmundo.es/espana/2026/03/16/69b85eb1fdddff68738b459f.html",
-    "resumen": "Un informe técnico ha detectado una \"caída de tensión en el circuito de la vía\", lo que es compatible con la rotura de la vía que causó el accidente Leer"
   },
   {
     "titulo": "El País Vasco acuerda con el Estado participar en la \"gestión\" de sus aeropuertos",
@@ -203,46 +336,11 @@
     "resumen": "Llega la Semana Santa y las calles empedradas de Tetela del Volcán no hay nazarenos sino una escena que parece sacada de un cuadro surrealista: un desfile de figuras con capas bordadas, máscaras de cuero y enormes tocados multicolor que recuerdan a orugas gigantes. Es evidente que no estamos ante una fiesta cualquiera sino en un evente único y que derrocha particularidad. En este pequeño municipio del estado de Morelos, en las laderas del volcán Popocatépetl, la Pascua se celebra con una tradición única que mezcla historia religiosa, teatro popular y espectáculo colectivo. Los grandes protagonistas son los sayones, unos personajes que representan a los soldados que participaron en la crucifixión de Jesús y que cada año desfilan por el pueblo con trajes que se han elaborado durante meses. Una tradición de más de tres siglos Esta celebración tiene más de 350 años de historia y tiene su origen en la época colonial, cuando los misioneros europeos introdujeron representaciones teatrales de episodios bíblicos para difundir el catolicismo entre las comunidades indígenas. Con el tiempo, esas representaciones originales fueron adoptando rasgos propios de la cultura local hasta convertirse en el ritual singular que ha llegado hasta nuestros días. De este modo, cada año, durante el fin de semana que cierra la Semana Santa, centenares de habitantes se visten como sayones y recorren las calles representando escenas relacionadas con la Pasión de Cristo. Algunos encarnan figuras como Poncio Pilato o Judas, mientras que otros desfilan golpeando machetes contra el suelo, imitando simbólicamente las espadas romanas. Los famosos sombreros en forma de oruga Sin ninguna duda, el elemento más llamativo de la celebración son los tocados que llevan los sayones. Estos sombreros, elaborados con cientos de tiras de papel de seda, forman grandes penachos que se balancean al caminar y que, vistos desde lejos, recuerdan a orugas gigantes de colores brillantes. Originalmente pretendían imitar los cascos de los soldados romanos. Sin embargo, con los años se han transformado en auténticas esculturas efímeras. Algunos pueden medir hasta dos metros de largo y requieren semanas de trabajo manual. Hay quienes utilizan cerca de 900 hojas de papel de seda para construirlos, cortadas en finos flecos que crean ese efecto ondulante tan característico. Además del sombrero, el traje se completa con capas bordadas con imágenes religiosas, máscaras de cuero con barba y bigote y botas de piel. El conjunto puede llegar a pesar entre 15 y 20 kilos, por lo que muchos participantes se ayudan de cojines o estructuras metálicas Una fiesta que clausura el fuegoDespués de meses de trabajo, el destino de estos sombreros tiene algo en común con los ninots de la Fallas: acaban quemándose. El domingo de Pascua por la tarde, los sayones participan en una procesión por las calles del pueblo que culmina con los vecinos y espectadores lanzando cerillas encendidas a los tocados de papel. Las enormes estructuras empiezan entonces a arder mientras los participantes corren o intentan apagar las llamas. Aunque hay presencia de servicios de emergencia y las autoridades intentan controlar el fuego, el alboroto forma parte del ritual y suele celebrarse entre vítores. Para muchos participantes, se trata de un momento que simboliza una forma de penitencia o sacrificio donde el esfuerzo invertido durante meses desaparece en cuestión de minutos. Una tradición que sigue siendo localA diferencia de otras celebraciones mexicanas muy populares (como el Día de Muertos) esta fiesta sigue teniendo un carácter principalmente comunitario y es desconocida para muchos turistas. Cada año participan más de mil personas, pero la mayoría son vecinos del propio municipio o de localidades cercanas. Familias enteras colaboran en la elaboración de los trajes, los bordados y los tocados que después desfilarán por las calles. Para quienes crecen en Tetela del Volcán, ponerse la máscara de sayón es casi un rito de paso. Durante unos días, el pueblo se transforma en un escenario donde historia, religión y creatividad popular conviven en una de las celebraciones más peculiares de la Pascua en América Latina. No se la pierdan si tienen oportunidad. Foto de portada | Turismo Morelos En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 - La noticia Ni nazarenos ni procesiones: en este pueblo mexicano la Pascua se celebra con gorros de oruga fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "La falta de unidad y un Gobierno que no acaba de sumar: qué pasa en la izquierda",
-    "medio": "HuffPost",
-    "fecha": 1773691247.0,
-    "link": "https://www.huffingtonpost.es/politica/desunion-presencia-gobierno-cual-problema-izquierda-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Una jefa del Archivo Regional de Madrid enseña a boicotear a Israel en el Círculo de Bellas Artes",
-    "medio": "OK Diario",
-    "fecha": 1773691220.0,
-    "link": "https://okdiario.com/espana/jefa-del-archivo-regional-madrid-ensena-boicotear-israel-circulo-bellas-artes-16429871",
-    "resumen": "«Duele, así si les duele, o sea, que algo estaremos haciendo bien». Con estas palabras, la funcionaria pública Blanca Bazaco Palacios, jefa de la Unidad de Referencias y Atención al Usuario del Archivo Regional de la Comunidad de Madrid, relató en un acto celebrado el 13 de marzo en el Círculo de Bellas Artes de … Continuar leyendo \"Una jefa del Archivo Regional de Madrid enseña a boicotear a Israel en el Círculo de Bellas Artes\""
-  },
-  {
-    "titulo": "Giro en la vida de David Bisbal tras un mes de la muerte de su padre: «Consciente y acompañado»",
-    "medio": "OK Diario",
-    "fecha": 1773691220.0,
-    "link": "https://okdiario.com/sociedad/giro-vida-david-bisbal-mes-muerte-padre-consciente-acompanado-16424153",
-    "resumen": "La vida de David Bisbal atraviesa un momento de transición marcado por la pérdida de su padre y el regreso paulatino a la actividad pública. Más de un mes después del fallecimiento de José Bisbal Carrillo, una figura histórica del boxeo almeriense, el cantante ha reaparecido ante los medios con un semblante sereno y con … Continuar leyendo \"Giro en la vida de David Bisbal tras un mes de la muerte de su padre: «Consciente y acompañado»\""
-  },
-  {
     "titulo": "Aniversario AliExpress 2026, en directo: conoce las mejores ofertas y todos los cupones",
     "medio": "La Vanguardia",
     "fecha": 1773691057.0,
     "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260315/11489171/aniversario-aliexpress-2026-directo-mkt-alie.html",
     "resumen": "Sigue aquí el directo del aniversario de AliExpress con las mejores ofertas, cupones y chollos actualizados minuto a minuto"
-  },
-  {
-    "titulo": "Policías y guardias civiles acudirán de uniforme a una misa para reclamar a Marlaska mejoras laborales",
-    "medio": "El País",
-    "fecha": 1773691012.0,
-    "link": "https://elpais.com/espana/2026-03-16/policias-y-guardias-civiles-acudiran-de-uniforme-en-una-misa-para-reclamar-a-marlaska-mejoras-laborales.html",
-    "resumen": "Las organizaciones de agentes llevan al límite su capacidad de movilización para reabrir su negociación con Interior"
-  },
-  {
-    "titulo": "Julio Norte, la casta de un novillero",
-    "medio": "El País",
-    "fecha": 1773691012.0,
-    "link": "https://elpais.com/cultura/2026-03-16/julio-norte-la-casta-de-un-novillero.html",
-    "resumen": "El salmantino aprovechó la bonanza de una desigual novillada de Fuente Ymbro"
   },
   {
     "titulo": "Cuba sufre un nuevo apagón nacional, el sexto en año y medio",
@@ -257,13 +355,6 @@
     "fecha": 1773690710.0,
     "link": "https://theobjective.com/internacional/2026-03-16/kallas-guerra-oriente-proximo-no-europa/",
     "resumen": "La alta representante de la Unión Europea para Política Exterior, Kaja Kallas, ha defendido que la guerra en Oriente Próximo «no es la guerra de Europa», […]"
-  },
-  {
-    "titulo": "Un soldado ruso explica por qué bloquear Telegram hundiría al ejército de Putin: \"Sería como pegarle un tiro en la cabeza a todo el ejército ruso de una vez\"",
-    "medio": "HuffPost",
-    "fecha": 1773690600.0,
-    "link": "https://www.huffingtonpost.es/global/un-soldado-ruso-explica-que-bloqueartelegramhundiria-ejercito-putin-seria-pegarle-tiro-cabeza-ejercito-ruso-vez-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "NVIDIA acaba de abrir la puerta a un nuevo salto gráfico en videojuegos: así es DLSS 5 y su apuesta por el renderizado neuronal",
@@ -301,25 +392,11 @@
     "resumen": "Su Majestad el Rey ha presidido en la mañana de este lunes, acompañado por el presidente de Iberdrola, Ignacio Galán, y el ministro para la Transformación […]"
   },
   {
-    "titulo": "Rosalía inicia la gira mundial de 'Lux': fechas y entradas, canciones, merchandising y secretos de su 'tour' más esperado",
-    "medio": "HuffPost",
-    "fecha": 1773689938.0,
-    "link": "https://www.huffingtonpost.es/life/cultura/rosalia-inicia-gira-mundial-lux-fechas-entradas-canciones-merchandasing-secretos-tour-mas-esperado-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Jane Fonda critica a Barbra Streisand por presentar el homenaje a Robert Redford en los Oscar: “Yo tenía mucho más que decir”",
     "medio": "El País",
     "fecha": 1773689801.0,
     "link": "https://elpais.com/gente/2026-03-16/jane-fonda-critica-a-barbra-streisand-por-presentar-el-homenaje-a-robert-redford-en-los-oscar-yo-tenia-mucho-mas-que-decir.html",
     "resumen": "Tras la gala, Fonda aseguró no entender por qué Streisand había sido la encargada del ‘in memoriam’ cuando había hecho una sola película con el fallecido actor, mientras que ella filmó cuatro con él"
-  },
-  {
-    "titulo": "Funciones ocultas de YouTube que te harán usar mucho mejor la app en tu iPhone",
-    "medio": "OK Diario",
-    "fecha": 1773689728.0,
-    "link": "https://okdiario.com/tecnologia/funciones-ocultas-youtube-que-te-haran-usar-mucho-mejor-app-tu-iphone-16429898",
-    "resumen": "YouTube es una de esas aplicaciones que casi todo el mundo usa a diario, pero no siempre se aprovecha todo lo que ofrece. Más allá de reproducir vídeos, buscar contenido o seguir a tus creadores favoritos, la app incluye varias funciones ocultas de YouTube que pueden cambiar bastante la forma en la que navegas por … Continuar leyendo \"Funciones ocultas de YouTube que te harán usar mucho mejor la app en tu iPhone\""
   },
   {
     "titulo": "El mito de que las mujeres son \"más frioleras\" en la cama no es un mito: es ciencia y por eso duermen peor que los hombres",
@@ -357,13 +434,6 @@
     "resumen": "Estas incursiones en el espacio aéreo de los países de la OTAN han generado preocupación por la seguridad en la región"
   },
   {
-    "titulo": "Sarkozy vuelve a los tribunales en el juicio en apelación por el caso de la financiación libia de su campaña",
-    "medio": "El País",
-    "fecha": 1773688786.0,
-    "link": "https://elpais.com/internacional/2026-03-16/sarkozy-vuelve-a-los-tribunales-en-el-juicio-en-apelacion-por-el-caso-de-la-financiacion-libia-de-su-campana.html",
-    "resumen": "El expresidente francés, que pasó varias semanas en una prisión parisina tras ser condenado a cinco años de cárcel en primera instancia, recurrió la sentencia"
-  },
-  {
     "titulo": "Sarkozy vuelve a los tribunales cinco meses después de haber salido de la cárcel",
     "medio": "Infolibre",
     "fecha": 1773688561.0,
@@ -390,20 +460,6 @@
     "fecha": 1773688420.0,
     "link": "https://elpais.com/internacional/2026-03-16/israel-asegura-que-impedira-el-regreso-de-centenares-de-miles-de-residentes-al-sur-de-libano-hasta-que-vea-garantizada-su-seguridad.html",
     "resumen": "El ejército israelí anuncia también operaciones terrestres “limitadas y selectivas” en su ofensiva contra Hezbolá"
-  },
-  {
-    "titulo": "Huelga de profesores en Cataluña 2026: horarios, manifestaciones y recorridos en Barcelona",
-    "medio": "OK Diario",
-    "fecha": 1773688223.0,
-    "link": "https://okdiario.com/cataluna/huelga-profesores-cataluna-2026-horarios-manifestaciones-recorridos-barcelona-16429453",
-    "resumen": "La huelga de profesores en Cataluña de 2026 promete convertirse en uno de los paros educativos más importantes de los últimos años, con movilizaciones escalonadas a lo largo de toda la semana y una huelga general prevista para el viernes 20 de marzo. Los profesores reclaman mejoras laborales, reducción del número de alumnos por aula … Continuar leyendo \"Huelga de profesores en Cataluña 2026: horarios, manifestaciones y recorridos en Barcelona\""
-  },
-  {
-    "titulo": "La juez archiva la segunda denuncia contra Errejón al no ratificar la denunciante",
-    "medio": "The Objective",
-    "fecha": 1773688161.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-03-16/juez-segunda-errejon-ratificar-denunciante/",
-    "resumen": "Una juez de Madrid ha archivado este lunes la segunda denuncia por presunta agresión sexual presentada contra el exportavoz de Sumar Íñigo Errejón. La denunciante, cuya […]"
   },
   {
     "titulo": "Von der Leyen sugiere retrasar el cierre de las centrales nucleares",
@@ -448,18 +504,11 @@
     "resumen": "Los de Abascal pierden un 2,6% de los votos hacia Alvise que, de haber retenido, habría sido clave para lograr un escaño más en Valladolid, Zamora y Segovia. Más información: Repóker de Mañueco: el PP crece en porcentaje, escaños y votos y gana 121 municipios y tres provincias más"
   },
   {
-    "titulo": "¿Hay escena postcréditos en ‘Torrente presidente’?",
-    "medio": "OK Diario",
-    "fecha": 1773687651.0,
-    "link": "https://okdiario.com/happyfm/hay-escena-postcreditos-torrente-presidente-16428841",
-    "resumen": "El estreno de Torrente presidente sigue dando mucho que hablar después de tres días, colocándola como el cuarto mejor estreno de una película española en la historia y el mejor en 15 años. Con estos datos, Segura entra de lleno en la lucha con Lo imposible, Torrente 2 (también suya) y Ocho apellidos catalanes. En … Continuar leyendo \"¿Hay escena postcréditos en ‘Torrente presidente’?\""
-  },
-  {
-    "titulo": "María Amaro, la desconocida mujer de Santiago Segura: madre de sus dos hijas y maquilladora",
-    "medio": "The Objective",
+    "titulo": "La serie de Megan Montaner ‘Entre tierras’ regresa con una estrategia que permitirá verla gratis",
+    "medio": "Moncloa.com",
     "fecha": 1773687600.0,
-    "link": "https://theobjective.com/gente/2026-03-16/maria-amaro-la-desconocida-mujer-de-santiago-segura-madre-de-sus-dos-hijas-y-maquilladora/",
-    "resumen": "Santiago Segura es uno de los actores y directores más conocidos de nuestro país. Esta noche, Segura se sienta en El hormiguero para hablar de su […]"
+    "link": "https://www.moncloa.com/2026/03/16/megan-montaner-estrategia-serie-3366074/",
+    "resumen": "Mucho se ha vuelto a hablar de Megan Montaner con el regreso de ‘Entre tierras’, una de las series que más sorpresa dio cuando se estrenó. La ficción, ambientada en el mundo rural y cargada de drama, logró enganchar a miles de espectadores con la historia de María, un personaje que Montaner defendió con una […] La entrada La serie de Megan Montaner ‘Entre tierras’ regresa con una estrategia que permitirá verla gratis aparece primero en Moncloa."
   },
   {
     "titulo": "Death of the Author, una historia sobre la familia, la cultura y la identidad explicada con robots",
@@ -481,6 +530,13 @@
     "fecha": 1773687246.0,
     "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/03/16/69b84112e4d4d8a54b8b4583.html",
     "resumen": "El jugador alemán responde al defensa del Getafe antes del partido ante el Manchester City: \"Me gusta ser duro, pero tengo unos límites que no traspaso\", insiste. Arbeloa dice que no tiene \"vacas sagradas\" Leer"
+  },
+  {
+    "titulo": "Vox exige blindar su participación en gobiernos de coalición con el PP pero se niega a darles cuatro años de aval",
+    "medio": "El País",
+    "fecha": 1773687193.0,
+    "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-16/vox-exige-blindar-su-participacion-en-gobiernos-de-coalicion-con-el-pp-pero-se-niega-a-darles-cuatro-anos-de-aval.html",
+    "resumen": "Abascal a Feijóo: “No se preocupe que sí que vamos a gobernar en las tres regiones”"
   },
   {
     "titulo": "Bruselas responde a la presión de Trump para que Europa se involucre en el estrecho de Ormuz: \"No es la guerra de la UE\"",
@@ -602,32 +658,11 @@
     "resumen": "La tercera entrega de Un lugar tranquilo (Un lugar en silencio en Latinoamérica) sigue tomando forma. En esta oportunidad, John Krasinski ha confirmado el reparto de la nueva película de su aclamada saga de terror, con buenas noticias. Es que Un lugar tranquilo 3 no solo tendrá el regreso de los protagonistas de las dos […] Seguir leyendo: ‘Un lugar tranquilo 3’ confirma su reparto, con el regreso de Emily Blunt y Cillian Murphy"
   },
   {
-    "titulo": "\"Lo del rincón me está dando mal rollo\": los audios que acorralaron a los acusados de matar a Francisca Cadenas",
-    "medio": "eldiario.es",
-    "fecha": 1773682506.0,
-    "link": "https://www.eldiario.es/extremadura/sociedad/rincon-dando-mal-rollo-audios-acorralaron-acusados-matar-francisca-cadenas_1_13072916.html",
-    "resumen": "Las escuchas de la UCO a los hermanos desde hacía un año permitieron conocer la \"obsesión\" de uno de ellos con su vecina y hacer sospechar a los investigadores de que el cuerpo aún estaba en el domicilio de los detenidos El juez ordena prisión provisional sin fianza para los hermanos detenidos por la muerte de Francisca Cadenas La Unidad Central Operativa (UCO) de la Guardia Civil estaba vigilando desde hacía mucho tiempo a Julián y Manuel González, los dos hermanos acusados de la muerte de su vecina, Francisca Cadenas, que había desaparecido misteriosamente en mayo de 2017. Los agentes habían colocado micrófonos en la vivienda y en sus vehículos y esos audios han permitido que la investigación acabara con éxito la semana pasada, nueve años después. Las grabaciones, que forman parte del sumario, al que ha tenido acceso Prensa Ibérica, apuntan a una posible motivación sexual en el crimen porque los hermanos, a pesar del tiempo transcurrido seguían haciendo referencia a “zonas íntimas” del cuerpo de la víctima y han permitido conocer la fijación que Julián, el hermano menor que confesó el crimen el viernes, tenía con su vecina. La UCO instaló los micrófonos en febrero de 2025. Según consta en esas grabaciones, el 4 de ese mes vio al salir de su casa carteles con la fotografía de Francisca Cadenas que habían dejado en la puerta y sobre su coche. Cuando entró en el vehículo con uno de esos carteles, Julián empieza a hablar de las partes íntimas de la mujer y murmura: “vamos a ver, Francisca, ¿dónde vas?”. Al día siguiente habla solo dentro de su coche y dice: “No vais a encontrar nada, no la vais a encontrar, no la vais a encontrar. Que le den por culo”. Dos meses después, en mayo de 2025, el Ayuntamiento de Hornachos instaló una placa en el callejón donde desapareció Francisca Cadenas y Julián, también en su coche a solas afirmó en alto: “Avenida Francisca Cadenas. Estaba buena, ¿eh?”. El hermano mayor, Manuel González, reprochó a Julián su fijación con su vecina y en una grabación del pasado octubre se le escucha decir en su vehículo tras hablar con su hermano: “O la tenías que pinchar... Todo el día fun, fun, fun... la Francisca”, lo que la Guardia Civil interpreta como “cierta obsesión” de Julián con Francisca Cadenas. En las últimas semanas antes de la detención de los acusados del crimen y del hallazgo de los restos de la víctima, la UCO realizó reconstrucciones de la noche en la que desapareció Francisca Cadenas. Los hermanos sentían sobre ellos la presión y vigilancia de la UCO. El pasado 4 de marzo, Manuel trató de calmar a Julián, según se recoge en el sumario:“Lo tienen que demostrar, lo que sea lo tienen que demostrar”. Tres días más tarde, el 7 de marzo, los agentes realizan otra reconstrucción. Julián entonces le comenta a su hermano: “Van a por ti y ya está, van a por ti”, pero Manuel le corrige y le dice que van “a por los dos”. Entonces el mayor trata de calmar a su hermano: “Juli, no te comas el coco. Están buscando pero no tienen pruebas ningunas ni ná y están intentando arrascar donde sea, buscar pruebas sin motivo, sin ná ni ná”. Pero Julián seguía nervioso en los últimos días al sospechar que el cerco de la Guardia Civil se estrechaba. “Lo del rincón es lo que más mal rollo me está dando”, le dice a su hermano, que le pide que no “se coma el coco”. Esa frase grabada por la UCO es la que hace pensar a la Guardia Civil que el cadáver puede estar aún en el domicilio. Los investigadores de la UCO escriben al juez porque consideran “muy relevante la preocupación mostrada por Julián” sobre “lo del rincón” y afirman que el investigado pudiera estar refiriéndose “directamente al lugar donde pudieran tener oculto los restos de Francisca Cadenas”. Por eso, el pasado miércoles, medio centenar de agentes registran la vivienda de Manuel y Julián y encuentran ese “rincón”. Los restos óseos de Francisca Cadenas estaban enterrados bajo el suelo del patio."
-  },
-  {
     "titulo": "La relatora de la ONU para Irán asegura que la cifra de víctimas en las protestas de enero podría llegar a 17.000",
     "medio": "Infolibre",
     "fecha": 1773682333.0,
     "link": "https://www.infolibre.es/internacional/relatora-onu-iran-asegura-cifra-victimas-protestas-enero-llegar-17-000_1_2162912.html",
     "resumen": "La relatora de la ONU para Irán, Mai Sato, señaló este lunes que al menos 7.000 personas murieron en la represión de las protestas de finales de diciembre y enero en Irán, aunque indicó que la cifra \"podría llegar a las 17.000\", ya que hay otras 10.000 posibles, aún no identificadas. \"La cifra que incluí en mi informe al Consejo de Derechos Humanos es de más de 7.000 pero es una estimación conservadora, basada en verificación rigurosa. La organización que las documenta señala que otras 10.000 personas aún no han sido identificadas\", destacó en una rueda de prensa en la sede de la ONU en Ginebra.La relatora japonesa señaló que sigue siendo complicado dar cifras sobre esa represión y comentó que ha oído hablar de hasta 40.000 víctimas, pero \"sin documentación que explique cómo se llega a esos números\".Respecto a las cifras oficiales de las autoridades iraníes, que hablan de unos 3.000 fallecidos, Sato subrayó que no solo son sensiblemente menores a las que dan organizaciones de la sociedad civil, sino que \"añaden la narrativa según la cual muchas fueron asesinadas por terroristas, mercenarios o manifestantes violentos\".Sobre la actual guerra, la relatora insistió en que los ataques de Estados Unidos e Israel \"son ilegales según el derecho internacional y la Carta de Naciones Unidas\", aunque subrayó que la situación \"aún está evolucionando\", por lo que es pronto para concluir si alcanzan o no el nivel de crímenes de guerra. \"Sí estoy segura de que son ilegales y de que ya hay muchos civiles muertos, hospitales destruidos, escuelas atacadas e infraestructuras dañadas. Es algo sobre lo que ofreceré más detalles en mi próximo informe\", prometió.Sato concluyó que \"está claro que los ataques son ilegales, pero también está claro que Irán tiene graves problemas de derechos humanos, ambas cosas pueden coexistir\", por lo que rechazó el argumento dado este lunes por la delegación de Irán ante la ONU según la cual los informes sobre abusos del régimen habían sido utilizados para justificar la agresión al territorio iraní. \"No estoy de acuerdo con quienes establecen esa conexión, no es necesario elegir entre condenar los ataques o reconocer los problemas de derechos humanos en Irán\", insistió.La relatora afirmó que la guerra probablemente está exacerbando la represión en Irán y auguró que \"si el conflicto termina con una República Islámica debilitada, es posible que haya una represión muy fuerte\", como ya ocurrió el pasado año tras la llamada guerra de los doce días."
-  },
-  {
-    "titulo": "Skechers rebaja el precio de las zapatillas discretas y ligeras que llevaremos 24/7 durante la primavera",
-    "medio": "Trendencias",
-    "fecha": 1773682314.0,
-    "link": "https://www.trendencias.com/shopping/skechers-rebaja-precio-zapatillas-discretas-ligeras-que-llevaremos-24-7-durante-primavera",
-    "resumen": "Quedan pocas horas para que acaben las ofertas de Amazon y he encontrado unas zapatillas Skechers súper bien de precio y con un diseño muy sencillo que podemos llevar cualquier día de la semana con los looks diarios. Una opción híper cómoda ideal para no sufrir por el dolor de pies y no renunciar al estilo. Son muy ligeras, al estar hechas de mallas y serán perfectas para llevarlas cuando llegue el buen tiempo. Al ser en azul marino, son una gran alternativa a las negras, pero muy fáciles de combinar. Además, tienen unos cordones elásticos que se ajustan a la perfección. Sus zonas acolchadas en el tobillo hacen que sean una mejor opción. Para llevarlas de lunes a domingo, podemos apostar por unos leggings capri que regresan o con unos pantalones anchos y una blusa en un look de estilo casual. El precio en la web oficial de Amazon es 30,33 euros, según la talla. Cómo combinar estas zapatillas Ha llegado la temporada de las bermudas y este look es el mejor ejemplo para combinarlo con las zapatillas Skechers. Un outfit formado por un polito y unos jeans. Un conjunto muy cómodo y sencillo que podemos llevar cualquier día de la semana y recrear con los básicos de nuestro armario. En cuanto a los complementos, podemos añadir un bolso shopper en tono neutro que cree un look en armonía. Las joyas juegan un papel muy importante y podemos incluir desde unos pendientes vintage hasta una pulsera con charms. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Amazon, @nuriarocagranell, @chiaraferragni En Trendencias |Ya en Zara: el conjunto monocolor con pantalones wrap que llevarán las más elegantes en comuniones y bautizos - La noticia Skechers rebaja el precio de las zapatillas discretas y ligeras que llevaremos 24/7 durante la primavera fue publicada originalmente en Trendencias por Laura Beneyto ."
-  },
-  {
-    "titulo": "Von der Leyen pide a los países que \"eviten el cierre prematuro\" de centrales nucleares \"que dan electricidad a bajo coste\" en pleno apagón de Almaraz",
-    "medio": "El Mundo",
-    "fecha": 1773682285.0,
-    "link": "https://www.elmundo.es/economia/2026/03/16/69b83e68e9cf4afc1b8b4577.html",
-    "resumen": "La presidenta de la Comisión traslada a los países que no hagan justamente lo que el Gobierno está haciendo con la instalación de Extremadura Leer"
   },
   {
     "titulo": "Antelo achaca a \"las purgas\" de Abascal el \"pinchazo\" de Vox en Castilla y León: \"Falta una organización profesional\"",
@@ -637,11 +672,11 @@
     "resumen": "El expresidente provincial de Vox en Murcia retuitea los mensajes de otros purgados por Santiago Abascal y advierte: \"En la Región de Murcia han colocado al Partido Popular al borde de la mayoría absoluta\". Más información: Antelo denuncia a Vox por usurpación de identidad y falsedad documental: \"Usan su firma para cesarlo de portavoz\""
   },
   {
-    "titulo": "Trump critica falta de \"entusiasmo\" de aliados de implicarse en una misión \"menor\" en el estrecho de Ormuz",
+    "titulo": "Araqchi pide explicaciones a los países del Golfo por la \"masacre\" de civiles en Irán",
     "medio": "Europa Press",
-    "fecha": 1773680677.0,
-    "link": "https://www.europapress.es/internacional/noticia-trump-critica-falta-entusiasmo-aliados-implicarse-mision-menor-estrecho-ormuz-20260316180437.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha criticado este lunes la falta de \"entusiasmo\" de aliados internacionales a la hora de implicarse en una misión militar \"menor\" en el estrecho de Ormuz, insistiendo en sus críticas a los socios de la OTAN y afear que no participen en la operación propuesta por Washington cuando el Ejército estadounidense les ha protegido \"durante 40 años\"."
+    "fecha": 1773681336.0,
+    "link": "https://www.europapress.es/internacional/noticia-araqchi-pide-explicaciones-paises-golfo-masacre-civiles-iran-20260316181536.html",
+    "resumen": "El ministro de Exteriores de Irán, Abbas Araqchi, ha pedido explicaciones a los vecinos con bases estadounidenses en su territorio, alegando que debido a ello están \"alentando la masacre\" de civiles en el país asiático, donde ya han muerto más de 1.200 personas por la ofensiva de Israel y Estados Unidos lanzada hace ya dos semanas."
   },
   {
     "titulo": "Últimas horas de la Fiesta de Ofertas de Primavera: mejores chollos para Mac, iPhone y otros dispositivos Apple",
@@ -672,6 +707,13 @@
     "resumen": "Como es habitual en cada convocatoria de huelga hay grandes diferencias entre las cifras aportadas por los sindicatos y las de los servicios de salud. Más información: Cruce de reproches y ruptura total con Sanidad: los médicos afrontan su segunda semana de huelga por el Estatuto Marco"
   },
   {
+    "titulo": "Trump critica la falta de \"entusiasmo\" de algunos aliados para desbloquear el estrecho de Ormuz",
+    "medio": "Infolibre",
+    "fecha": 1773679661.0,
+    "link": "https://www.infolibre.es/internacional/trump-critica-falta-entusiasmo-aliados-desbloquear-estrecho-ormuz_1_2162882.html",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, criticó este lunes la falta de \"entusiasmo\" que ha recibido por parte de algunos aliados su petición para que le ayuden a desbloquear el estrecho de Ormuz, afectado por la guerra de Irán.\"Algunos están muy entusiasmados, otros no, y algunos son países a los que hemos ayudado durante muchos años. Los hemos protegido de fuentes externas terribles, y no están tan entusiasmados\", declaró a la prensa en la Casa Blanca. El mandatario dijo que hay soldados estadounidenses protegiendo a esos países, que no quiso detallar: \"Cuando les preguntamos: \"¿Tienen desminadores?', la respuesta es: \"Bueno, preferimos no involucrarnos, señor\"\", lamentó.El presidente estadounidense aseguró que algunos sí se han comprometido a ayudar a reabrir el paso estratégico, pero evitó mencionar sus nombres al considerar que tal vez \"no desean convertirse en un objetivo\".Trump instó el fin de semana a varios países aliados a prestar su ayuda para permitir el paso de buques por el estrecho de Ormuz, un paso estratégico para el petróleo que está siendo bloqueado por Irán como respuesta a los ataques estadounidenses.Los ministros de Exteriores de la Unión Europea (UE) abordan este lunes cómo mantener abierto el estrecho de Ormuz, pero se mostraron reacios a ampliar la misión naval comunitaria en la región o a enviar más barcos. La alta representante de la UE para Asuntos Exteriores y Seguridad, Kaja Kallas, afirmó este lunes que el paso estratégico está \"fuera del ámbito de actuación de la OTAN\". El canciller alemán, Friedrich Merz, aseguró este lunes que Alemania no contribuirá con medios militares a garantizar la libertad de navegación en el estrecho de Ormuz mientras dure la guerra de Estados Unidos e Israel contra el país persa, que se ha extendido a otros países de Oriente Medio y del golfo Pérsico y que tiene \"objetivos poco claros\". \"No participamos en esta guerra. Lo dijimos desde el primer día y esa sigue siendo la posición del Gobierno alemán\", dijo Merz en una rueda de prensa en Berlín junto al primer ministro neerlandés, Rob Jetten.\"Esto también significa que, mientras la guerra continúe, no participaremos con medios militares para garantizar la libertad de navegación en el estrecho de Ormuz\", enfatizó.El canciller recalcó que hasta hoy no hay un concepto claro sobre cómo podría llevarse a cabo con éxito una operación de este tipo y que además, según la Constitución alemana, haría falta un mandato, ya sea de las Naciones Unidas, de la Unión Europea o de la OTAN. \"Por lo tanto, siempre estuvo claro que esta guerra no es un asunto de la OTAN\", indicó Merz.El jefe del Gobierno germano señaló que \"Estados Unidos e Israel tampoco nos consultaron antes de esta guerra\" y que \"nunca hubo una decisión conjunta acerca de si iniciar o no esta guerra\" contra Irán. \"Por eso ni siquiera se plantea la cuestión de cómo Alemania podría implicarse militarmente. No lo haremos\", insistió.A juicio de Merz, \"no habrá una solución militar\" a esta guerra, por lo que llamó a todas las partes a buscar una salida política. \"Al igual que Estados Unidos e Israel, queremos el fin del programa nuclear y de misiles de Irán\", dijo, y que el régimen de los ayatolás sea sustituido por un gobierno democrático, pero esto no se puede conseguir con bombardeos\", consideró.A juicio de Merz, \"la región no debe deslizarse hacia una guerra interminable con objetivos poco claros\".El canciller alemán señaló que una nueva ampliación de las hostilidades implicaría \"grandes riesgos para nuestros socios en Oriente Medio y en toda la región del Golfo\". \"Lo mismo se aplica en caso de un colapso del orden estatal iraní, de su integridad territorial, de su estructura estatal y de la economía iraní\", subrayó. \"Por ello, esta guerra debe terminar lo antes posible, con un plan claro y una estrategia\", insistió.Con respecto al liderazgo en Irán Trump, afirmó que el nuevo líder supremo de Irán, Mojtaba Jameneí, hijo del fallecido Alí Jameneí, podría estar muerto, y declaró que no sabe quién lidera el país.\"No lo hemos visto en absoluto, así que no sabemos si está muerto o no\", dijo a la prensa en la Casa Blanca sobre Jameneí, quien no ha aparecido en público desde que fue nombrado como líder supremo.El mandatario afirmó que está abierto al diálogo con Irán y que Teherán está buscando un \"acuerdo\" con Estados Unidos, pero luego agregó que no sabe quien gobierna en ese país, dado que toda su cúpula fue asesinada por los ataques estadounidenses e israelíes.\"Ni siquiera sabemos quiénes son sus líderes\", expresó.Cuestionado por la prensa por el estado de Mojtaba Jameneí, Trump respondió que \"mucha gente dice que está desfigurado y que perdió una pierna y que resultó muy herido\"."
+  },
+  {
     "titulo": "Atento a la actualización de HyperOS 3 que va a llegar a tu Xiaomi: es importante que la instales cuanto antes",
     "medio": "Hipertextual",
     "fecha": 1773679657.0,
@@ -686,13 +728,6 @@
     "resumen": "La semana comienza con el petróleo afianzado por encima de los 100 dólares el barril. La renta variable asiática ha minimizado las presiones del crudo, al igual que sucede con Europa. El Ibex, después de enlazar tres caídas consecutivas, busca el rebote. Leer"
   },
   {
-    "titulo": "Los investigadores del accidente de Adamuz sospechan ahora que la vía estaba rota desde la noche anterior",
-    "medio": "El Español",
-    "fecha": 1773679177.0,
-    "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260316/investigadores-accidente-adamuz-sospechan-ahora-via-rota-noche-anterior/1003744172042_0.html",
-    "resumen": "La CIAF abre una nueva vía de investigación, aunque mantienen como principal hipótesis de la causa la rotura de una soldadura. Más información: Víctimas de Adamuz afean por carta a Adif la retirada de material y piden \"un gesto de humanidad\" con ellas"
-  },
-  {
     "titulo": "ChatGPT suma un nuevo enemigo: la Enciclopedia Británica demanda a OpenAI por robar su contenido",
     "medio": "Hipertextual",
     "fecha": 1773679134.0,
@@ -700,25 +735,11 @@
     "resumen": "La Enciclopedia Británica ha presentado una demanda contra OpenAI por el uso sin autorización de su contenido en ChatGPT y otras herramientas de IA. La casa matriz de la histórica publicación, Encyclopædia Britannica, Inc., acusa a los de Sam Altman de copiar cerca de 100.000 artículos y de \"canibalizar\" su tráfico web al ofrecer resúmenes […] Seguir leyendo: ChatGPT suma un nuevo enemigo: la Enciclopedia Británica demanda a OpenAI por robar su contenido"
   },
   {
-    "titulo": "El PP recupera terreno, el PSOE frena su caída y Vox toca techo: radiografía de las elecciones de Castilla y León 2026",
-    "medio": "El Mundo",
-    "fecha": 1773678597.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b8129ce9cf4ad6648b4587.html",
-    "resumen": "Los populares logran el 35,5% de los votos y, por primera vez en este ciclo, no pierden apoyos. Los socialistas frenan su desangramiento con el 30,7% al desaparecer los partidos a su izquierda -IU y Podemos-, y la ultraderecha consigue su mejor marca (18,9%) pero ve frenado su crecimiento desenfrenado Leer"
-  },
-  {
     "titulo": "El crimen de Colungo eleva a 13 los feminicidios en 2026, el peor inicio de año desde 2020",
     "medio": "Infolibre",
     "fecha": 1773678526.0,
     "link": "https://www.infolibre.es/igualdad/igualdad-confirma-asesinato-machista-mujer-enero-colungo-huesca_1_2162867.html",
     "resumen": "El Ministerio de Igualdad ha confirmado como crimen machista el asesinato de una mujer de 63 años cuyo cadáver se encontró en un barranco de Colungo (Huesca) el pasado 17 de enero, un suceso que se ha conocido este lunes y por el que han sido detenidas tres personas.Con la confirmación de este caso, el número de mujeres asesinadas por violencia de género asciende a 13 en 2026 y a 1.356 desde 2003, cuando se empezaron a recopilar estos datos. Un trágico inicio de año, el peor desde 2020, cuando se registraron 18 feminicidios en estas mismas fechas, igual que en 2008.El Ministerio ha confirmado también este lunes como crimen machista el asesinato de una mujer de 64 años en Pedreña (Cantabria) y que murió por estrangulamiento a manos de su pareja, de 52 años.Igualdad ha condenado estos feminicidios por violencia de género en dos nuevos casos en los que no existían denuncias previas contra los presuntos agresores.En el de Huesca, dos de los tres detenidos, según fuentes del Tribunal Superior de Justicia de Aragón, lo fueron el pasado viernes en Barbastro y uno de ellos es el marido de la víctima.La mujer desapareció el día 17 de enero y su cadáver fue localizado poco después en el barranco de Las Palomeras, junto a Colungo.La escena, según la Guardia Civil, aparentaba ser un suicidio, por lo que el caso no trascendió, pero la investigación determinó que había indicios de homicidio doloso y con las pruebas se pudieron practicar las detenciones.La ministra de Igualdad, Ana Redondo García, y la delegada del Gobierno contra la Violencia de Género, Carmen Martínez, han expresado en un comunicado su más rotunda condena y su absoluto rechazo y han trasladado todo su apoyo a familiares y amistades de la víctima.Han pedido que se lleven a cabo \"todos los esfuerzos desde las instituciones, administraciones y el conjunto de la sociedad para llegar a tiempo y evitar más muertes por este tipo de violencia\".Estos 13 asesinatos confirmados, colocan a 2026 como uno de los peores primeros inicios de año en violencia machista, por encima de 2023, cuando se registraron en estas mismas fechas 11 crímenes; los siete de 2022; los seis de 2021 y 2025; y los cinco de 2024.Los peores comienzos de año desde que hay registros (2003) fueron los de 2020 y 2008, con 18 feminicidios, según la estadística del Ministerio de Igualdad.El departamento que dirige Ana Redondo ha convocado este martes el Comité de Crisis para analizar los cinco asesinatos registrados en febrero, un mes negro en el que cuatro de estas víctimas mortales (Ana María, María José, Petronila y Tatiana) fueron asesinadas en una misma semana, junto a dos menores.Además, el triple crimen de la semana pasada en Miranda de Ebro, cuando un hombre que había sido condenado por secuestrar a mujeres incendió un edificio en el que murieron su expareja, la madre de esta y una vecina, provocó una profunda conmoción y aumentó la preocupación por la protección de las mujeres, ya que se siguen registrando casos reincidentes y con denuncias previas.El Ministerio, a través de la Delegación del Gobierno contra la Violencia de Género, ha querido recalcar varias vías que funcionan las 24 horas y todos los días de la semana a las que se pueden dirigir las mujeres maltratadas.Estas son el teléfono 016, las consultas online a través del email 016-online@igualdad.gob.es, el canal del whatsApp en el número 600 000 016 y el chat online, accesible desde la página web violenciagenero.igualdad.gob.es.."
-  },
-  {
-    "titulo": "Torrente presidente agranda su idilio con la taquilla: recauda 7 millones de euros en el primer fin de semana y ya es el cuarto mejor estreno histórico español",
-    "medio": "El Mundo",
-    "fecha": 1773678051.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/03/16/69b829c7fc6c83071c8b458b.html",
-    "resumen": "En tres días, la sexta entrega de la saga de Santiago Segura ha recaudado la mitad que la película más vista en nuestro país en todo 2025 Leer"
   },
   {
     "titulo": "AirPods Max 2 vs AirPods Max 1: todo lo que ha cambiado en estos seis años",
@@ -791,13 +812,6 @@
     "resumen": "Si estabas pendiente de los nuevos Samsung Galaxy A57 y A37, a partir de hoy, a pesar de que la compañía todavía no los ha presentado, no hay secretos. Hace unos días se filtraron sus características oficiales, y ahora le toca el turno a su diseño. Y, lo mejor de todo, es que no hay […] Seguir leyendo: Los Galaxy A57 y A37 se quedan sin secretos: se ha filtrado su diseño final en un vídeo unboxing"
   },
   {
-    "titulo": "Apple lanza por sorpresa los AirPods Max 2, con chip H2 y varias funciones muy reclamadas por los usuarios",
-    "medio": "Hipertextual",
-    "fecha": 1773667975.0,
-    "link": "https://hipertextual.com/apple/nuevos-airpods-max-2-chip-h2-2026/",
-    "resumen": "Después de años de reclamos por parte de los usuarios, Apple acaba de darle una muy merecida (y sorpresiva) actualización a los AirPods Max. Los de Cupertino han anunciado los AirPods Max 2, que mantienen su diseño ya conocido pero introducen el chip H2 y varias características que eran de las más pedidas por el […] Seguir leyendo: Apple lanza por sorpresa los AirPods Max 2, con chip H2 y varias funciones muy reclamadas por los usuarios"
-  },
-  {
     "titulo": "La Policía Nacional explica el nuevo blindaje de seguridad para adolescentes con redes sociales que todos los padres deben activar hoy mismo",
     "medio": "Moncloa.com",
     "fecha": 1773667800.0,
@@ -861,13 +875,6 @@
     "resumen": "¿Sigues creyendo que para pisar arena de harina y bañarte en aguas color esmeralda necesitas cruzar el charco y gastar medio sueldo? La realidad geográfica de Galicia esconde un secreto que rompe los esquemas de cualquier viajero acostumbrado a buscar el paraíso a miles de kilómetros de distancia. No busques palmeras, busca pinos que besan […] La entrada Ahórrate la pasta del avión a México yendo a este rincón de Galicia este finde aparece primero en Moncloa."
   },
   {
-    "titulo": "Un hábito muy común al comer podría elevar el riesgo de diabetes un 20%, según un estudio",
-    "medio": "Moncloa.com",
-    "fecha": 1773661200.0,
-    "link": "https://www.moncloa.com/2026/03/16/un-habito-comun-riesgo-diabetes-3365979/",
-    "resumen": "La diabetes es una enfermedad que muchas veces se desarrolla en silencio, no aparece de un día para otro ni siempre da señales claras al principio, pero poco a poco se relaciona con decisiones cotidianas que parecen pequeñas, sobre todo las que tienen que ver con la alimentación. Por eso los investigadores llevan años intentando […] La entrada Un hábito muy común al comer podría elevar el riesgo de diabetes un 20%, según un estudio aparece primero en Moncloa."
-  },
-  {
     "titulo": "Samsung lleva años siendo el rey de los plegables. Ahora también fabricará la pantalla del iPhone que viene a competir con ellos",
     "medio": "Applesfera",
     "fecha": 1773658914.0,
@@ -887,13 +894,6 @@
     "fecha": 1773657500.0,
     "link": "https://jacobin.com/2026/03/oscars-film-hollywood-awards-politics/",
     "resumen": "“No to war and free Palestine,” said Spanish actor and Oscar presenter Javier Bardem, who’s a mensch and a lefty stalwart. He got a big cheer from the audience at the 98th Academy Awards ceremony last night, probably because it was a relief to hear the most direct political statement of the evening. And quite […]"
-  },
-  {
-    "titulo": "Irán reitera que el paso por el estrecho de Ormuz tiene \"condiciones específicas\" por la ofensiva de EEUU e Israel",
-    "medio": "Europa Press",
-    "fecha": 1773657128.0,
-    "link": "https://www.europapress.es/internacional/noticia-iran-reitera-paso-estrecho-ormuz-tiene-condiciones-especificas-ofensiva-eeuu-israel-20260316113208.html",
-    "resumen": "El Gobierno de Irán ha reiterado este lunes que el paso de buques a través del estrecho de Ormuz tiene lugar bajo \"condiciones específicas\" derivadas de la ofensiva lanzada el 28 de febrero por Estados Unidos e Israel contra el país asiático, que ha respondido limitando el tráfico en esta vía estratégica para el comercio internacional."
   },
   {
     "titulo": "La peor pesadilla del iPhone 17e no está en Android. La tiene en casa por pocos euros de diferencia",
