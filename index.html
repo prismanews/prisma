@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1773874829">
+    <link rel="stylesheet" href="prisma.css?v=1773890981">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-03-18T23:00:29.765904">Actualizado: 18/03/2026 23:00</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-03-19T03:29:41.318655">Actualizado: 19/03/2026 03:29</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -136,6 +136,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -159,12 +160,54 @@
             </select>
         </div>
 
-        <div class="card" data-medios="HuffPost,OK Diario,El País,El Mundo,La Vanguardia,Europa Press,The Objective">
-            <h2>Claves: Cuartos, atlético y champions</h2>
+        <div class="card" data-medios="El Independiente,The Objective,Infolibre,HuffPost,El Español,El País">
+            <h2>En foco: Israel, irán y mayor</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                7 medios · tono equilibrado · 
+                6 medios · tono equilibrado · 
                 múltiples perspectivas, amplia cobertura mediática
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/global/trump-afirma-eeuu-desconocia-israel-atacaria-campo-gasanbr-f202603.html" target="_blank" rel="noopener">Trump afirma que EE.UU. desconocía que Israel atacaría un campo de gas en Irán</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-18/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump se deslinda del ataque israelí al campo iraní de South Pars, el mayor yacimiento de gas del mundo</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/oriente-proximo/20260319/israel-eeuu-intentan-liquidar-iran-asesinando-lideres-bombardeando-baterias-ormuz-red-energetica/1003744174958_0.html" target="_blank" rel="noopener">Israel y EEUU intentan liquidar a Irán asesinando a sus líderes y bombardeando sus baterías en Ormuz y su red energética</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 3 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-03-19/israel-mayor-yacimiento-gas-mundo-iran-contraataca-qatar/" target="_blank" rel="noopener">Israel ataca el mayor yacimiento de gas natural del mundo e Irán contraataca en Catar</a></p>
+
+                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/guerra-iran-dia-19-israel-asesina-ministro-inteligencia-irani-libano-sigue-asedio_1_2163984.html" target="_blank" rel="noopener">Guerra en Irán, día 19: Israel bombardea el mayor yacimiento de gas del mundo y la tensión se dispara</a></p>
+
+                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/internacional/2026/03/17/israel-asegura-haber-matado-ali-lariyani-secretario-consejo-supremo-seguridad-iran/" target="_blank" rel="noopener">Israel da por muerto a Ali Larijaní, jefe de Seguridad de Irán</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Europa Press,El País,HuffPost">
+            <h2>Hoy: Atlético, cuartos y musso</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -172,46 +215,26 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-18/tottenham-atletico-en-directo-el-partido-de-la-champions-league-en-vivo.html" target="_blank" rel="noopener">Tottenham - Atlético en directo | Griezmann: “Contra el Barça va a ser muy difícil”</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-18/musso-y-el-mejor-julian-alvarez-dan-el-pase-al-atletico-que-se-enfrentara-al-barca-en-cuartos.html" target="_blank" rel="noopener">Musso y el mejor Julián Alvarez dan el pase al Atlético, que se enfrentará al Barça en cuartos</a></p>
 
             <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/deportes/futbol-00162/noticia-musso-sujeta-atletico-billete-cuartos-champions-league-20260318232336.html" target="_blank" rel="noopener">Musso sujeta a un Atlético con billete para cuartos de Champions League</a></p>
 
             <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-18/el-barcelona-se-medira-al-atletico-en-la-final-de-la-copa-de-la-reina-tras-golear-al-badalona.html" target="_blank" rel="noopener">El Barcelona se medirá al Atlético en la final de la Copa de la Reina tras golear al Badalona</a></p>
 
             <details class="ver-mas">
-                <summary>+ 12 noticias más</summary>
+                <summary>+ 2 noticias más</summary>
                 <div class="noticias-extra">
 
-                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/futbol/champions-league/2026/03/18/69baec8be4d4d838708b4598.html" target="_blank" rel="noopener">Julián mete al Atlético en cuartos, donde se medirá al Barcelona</a></p>
-
-                    <p><strong>The Objective:</strong> <a href="https://theobjective.com/directo/deportes/futbol/2026-03-18/tottenham-atletico-madrid-directo-octavos-champions-league-vivo-online/" target="_blank" rel="noopener">Dulce derrota del Atlético ante el Tottenham: el Barça le espera en cuartos de Champions</a></p>
-
-                    <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/resultado-tottenham-atletico-directo-como-va-partido-goles-marcador-ultima-hora-champions-hoy-16442255" target="_blank" rel="noopener">Tottenham – Atlético: resumen, goles y resultado del partido de Champions hoy</a></p>
-
-                    <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/atletico-de-madrid/20260318/11493457/tottenham-atletico-champions-league-resumen.html" target="_blank" rel="noopener">Musso le evita un buen susto al Atlético, que se cita con el Barça en cuartos</a></p>
-
-                    <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-18/europa-despierta-al-arrebatador-barca-que-golea-7-2-al-newcastle.html" target="_blank" rel="noopener">Europa despierta al arrebatador Barça, que golea 7-2 al Newcastle</a></p>
-
-                    <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/maraton-atletico-barcelona-rivales-cuartos-champions-liga-hacerlo-copa-del-rey-16444470" target="_blank" rel="noopener">Maratón de Atlético-Barcelona: rivales en cuartos de Champions y en Liga tras hacerlo en Copa del Rey</a></p>
-
-                    <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/cuartos-champions-league-cuadro-cruces-cuando-juegan-16442651" target="_blank" rel="noopener">Los cuartos de la Champions League: cuadro, cruces y cuándo se juegan</a></p>
-
                     <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/deporte/el-atletico-madrid-clasifica-cuartos-final-champions-league-derrotar-tottenham-vera-fc-barcelona-f202603.html" target="_blank" rel="noopener">El Atlético de Madrid se clasifica para los cuartos de final de la Champions League tras eliminar al Tottenham y se las verá con el FC Barcelona</a></p>
-
-                    <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/atletico-no-da-opcion-susto-del-tottenham-pasa-cuartos-champions-sin-sufrir-16444878" target="_blank" rel="noopener">El Atlético no da opción al susto del Tottenham y pasa a cuartos de Champions sin sufrir</a></p>
-
-                    <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/asi-queda-cuadro-octavos-final-champions-league-resultado-partidos-16399438" target="_blank" rel="noopener">Así queda el cuadro de los octavos de final de la Champions League: resultados de los partidos</a></p>
-
-                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/futbol/champions-league/2026/03/18/69bb0070e85ece6f428b4598.html" target="_blank" rel="noopener">El Barça supera el tembleque y se convierte en una apisonadora ante el Newcastle para llegar a cuartos de final</a></p>
 
                     <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/deportes/futbol-00162/noticia-barca-come-newcastle-ir-cuartos-20260318204728.html" target="_blank" rel="noopener">El Barça se come al Newcastle para ir a cuartos</a></p>
 
@@ -219,11 +242,11 @@
             </details>
         </div>
 
-        <div class="card" data-medios="El País,El Independiente,Infolibre,eldiario.es,Europa Press">
-            <h2>En foco: Irán, israel y guerra</h2>
+        <div class="card" data-medios="Moncloa.com,Infolibre,El Español,eldiario.es">
+            <h2>Tema: Delcy, rodríguez y vladimir</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                5 medios · tono equilibrado · 
+                4 medios · tono equilibrado · 
                 múltiples perspectivas
             </div>
             <div class="sesgo-simple">
@@ -241,66 +264,24 @@
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-18/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump descarta más bombardeos contra la infraestructura energética de Irán</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/america/20260319/delcy-rodriguez-protege-restos-madurismo-purga-vladimir-padrino-apunta-diosdado/1003744175399_0.html" target="_blank" rel="noopener">Delcy Rodríguez se protege de los restos del 'madurismo': purga a Vladimir Padrino y ya apunta a Diosdado</a></p>
 
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/guerra-iran-dia-19-israel-asesina-ministro-inteligencia-irani-libano-sigue-asedio_1_2163984.html" target="_blank" rel="noopener">Guerra en Irán, día 19: Israel bombardea el mayor yacimiento de gas del mundo y la tensión se dispara</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/delcy-rodriguez-destituye-vladimir-padrino-decada-ministro-defensa_1_2164288.html" target="_blank" rel="noopener">Delcy Rodríguez destituye a Vladimir Padrino tras más de una década como ministro de Defensa</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/macroeconomia-00338/noticia-reserva-federal-eeuu-mantiene-tipos-interes-segunda-vez-consecutiva-pese-guerra-iran-20260318190531.html" target="_blank" rel="noopener">La Reserva Federal mantiene los tipos de interés por segunda vez consecutiva pese a la guerra en Irán</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 3 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/economia/reserva-federal-desoye-trump-mantiene-tipos-interes-cambios-caos-economico-guerra-iran_1_13079202.html" target="_blank" rel="noopener">La Reserva Federal desoye a Trump y mantiene los tipos de interés sin cambios ante el caos económico de la guerra en Irán</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-eeuu-estima-regimen-irani-permanece-intacto-si-bien-muy-debilitado-ataques-cupula-20260318175122.html" target="_blank" rel="noopener">EEUU estima que el "régimen iraní permanece intacto", aunque "muy debilitado" por los ataques a su cúpula</a></p>
-
-                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/internacional/2026/03/17/israel-asegura-haber-matado-ali-lariyani-secretario-consejo-supremo-seguridad-iran/" target="_blank" rel="noopener">Israel da por muerto a Ali Larijaní, jefe de Seguridad de Irán</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="Expansión,El País,La Vanguardia,El Mundo">
-            <h2>En foco: Escribano, indra y sepi</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                4 medios · tono equilibrado · 
-                múltiples perspectivas
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/2026/03/18/69bb2a16e85ece8e768b457a.html" target="_blank" rel="noopener">Moncloa rompe con Escribano y le da un ultimátum: o deja la presidencia de Indra o rechaza la fusión con su empresa</a></p>
-
-            <p><strong>El País:</strong> <a href="https://cincodias.elpais.com/companias/2026-03-18/la-sepi-traslada-a-indra-su-preocupacion-por-el-conflicto-de-interes-que-supone-la-compra-de-escribano-pide-resolverlo-antes-de-continuar.html" target="_blank" rel="noopener">La SEPI apunta a la salida de Escribano de la presidencia de Indra antes de seguir con la fusión con EM&E</a></p>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/dinero/20260318/11493460/sepi-bloquea-compra-escribano-resuelva-conflicto-interes-presidente.html" target="_blank" rel="noopener">La SEPI bloquea la compra de Escribano por Indra ante el conflicto de interés con su presidente</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/delcy-rodriguez-destituye-vladimir-padrino-decada-ministro-defensa_1_13079620.html" target="_blank" rel="noopener">Delcy Rodríguez destituye al poderoso ministro de Defensa de Venezuela e histórico del chavismo, Vladimir Padrino</a></p>
 
             <details class="ver-mas">
                 <summary>+ 1 noticias más</summary>
                 <div class="noticias-extra">
 
-                    <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/2026/03/18/69bb1dad468aeb6e458b45b6.html" target="_blank" rel="noopener">La Sepi pide la salida de Escribano para seguir con la integración entre Indra y EM&E</a></p>
+                    <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/03/18/aldama-delcy-rodriguez-3366455/" target="_blank" rel="noopener">Aldama entregó el famoso sobre de Delcy Rodríguez hace una semana</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="El País,La Vanguardia,El Mundo">
-            <h2>Hoy: Galatasaray, liverpool y ilumina</h2>
+        <div class="card" data-medios="Europa Press,El Mundo,eldiario.es">
+            <h2>Relevante: Guerra, irán y reserva</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -321,18 +302,83 @@
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-18/el-liverpool-se-ilumina-ante-un-accidentado-galatasaray.html" target="_blank" rel="noopener">El Liverpool se ilumina ante un accidentado Galatasaray</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/03/19/69baf227fdddff07678b457a.html" target="_blank" rel="noopener">La guerra de Irán, el quinto nuevo pretexto de Sánchez para incumplir su obligación de presentar Presupuestos</a></p>
 
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/futbol/20260318/11493462/anfield-cae-losa-sobre-galatasaray-bayern-cita-madrid.html" target="_blank" rel="noopener">Anfield cae como una losa sobre el Galatasaray y el Bayern se medirá al Madrid</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/macroeconomia-00338/noticia-reserva-federal-eeuu-mantiene-tipos-interes-segunda-vez-consecutiva-pese-guerra-iran-20260318190531.html" target="_blank" rel="noopener">La Reserva Federal mantiene los tipos de interés por segunda vez consecutiva pese a la guerra en Irán</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/cultura/toros/2026/03/18/69ba9348e85eceae3f8b458e.html" target="_blank" rel="noopener">Un atraco al viejo Tomás Rufo en la joyería de lujo de Domingo Hernández en Valencia</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/economia/reserva-federal-desoye-trump-mantiene-tipos-interes-cambios-caos-economico-guerra-iran_1_13079202.html" target="_blank" rel="noopener">La Reserva Federal desoye a Trump y mantiene los tipos de interés sin cambios ante el caos económico de la guerra en Irán</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-eeuu-estima-regimen-irani-permanece-intacto-si-bien-muy-debilitado-ataques-cupula-20260318175122.html" target="_blank" rel="noopener">EEUU estima que el "régimen iraní permanece intacto", aunque "muy debilitado" por los ataques a su cúpula</a></p>
+
+                </div>
+            </details>
         </div>
 
-        <div class="card" data-medios="Infolibre,ABC,El Mundo">
-            <h2>Relevante: González, anticorrupción y pide</h2>
+        <div class="card" data-medios="The Objective,Infolibre,eldiario.es">
+            <h2>En foco: Interés, sepi y resolver</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/economia/2026-03-19/sepi-conflicto-interes-indra-eme/" target="_blank" rel="noopener">La SEPI pide «resolver el conflicto de interés» entre Indra y EM&E</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/economia/sepi-solicita-indra-resolver-conflicto-interes-escribano_1_13080111.html" target="_blank" rel="noopener">La SEPI solicita a Indra "resolver el conflicto de interés" con Escribano</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/fed-mantiene-tipos-interes-dice-repercusiones-guerra-son-inciertas_1_2164313.html" target="_blank" rel="noopener">La Fed mantiene los tipos de interés y dice que las repercusiones de la guerra son "inciertas"</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,Expansión">
+            <h2>Claves: Millones, euros y qaracter</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 44%;"></div>
+                    <div class="barra-conservadora" style="width: 56%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 44%</span>
+                    <span>Conservador 56%</span>
+                </div>
+            </div>
+
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/2026/03/19/69bae404468aeb0e468b4571.html" target="_blank" rel="noopener">Qaracter apunta a los 100 millones de euros en 2027 tras crecer un 13%</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/actualidad/2026-03-18/laliga-5400-millones-euros-ingresos-2024-2025/" target="_blank" rel="noopener">LALIGA supera los 5.400 millones de euros en ingresos en 2024/2025</a></p>
+        </div>
+
+        <div class="card" data-medios="HuffPost,La Vanguardia">
+            <h2>En foco: Messi, sigue y haciendo</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -350,15 +396,13 @@
                 </div>
             </div>
 
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/anticorrupcion-pide-173-anos-carcel-expresidente-bbva-francisco-gonzalez_1_2164385.html" target="_blank" rel="noopener">Anticorrupción pide 173 años de cárcel para el expresidente del BBVA Francisco González</a></p>
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/deporte/messi-sigue-haciendo-historia-marca-gol-900-tres-meses-mundial-f202603.html" target="_blank" rel="noopener">Messi sigue haciendo historia: marca su gol 900 a tres meses del mundial</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/2026/03/18/69baff3fe4d4d821348b459f.html" target="_blank" rel="noopener">Anticorrupción pide una multa de 181 millones al BBVA por el 'caso Villarejo', 173 años de prisión para el ex presidente Francisco González y 243 para el ex comisario</a></p>
-
-            <p><strong>ABC:</strong> <a href="http://www.abc.es" target="_blank" rel="noopener">Los alumnos de la Autónoma acorralan a los 150 radicales del violento escrache a Felipe González</a></p>
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/futbol/20260319/11493685/messi-alcanza-900-goles.html" target="_blank" rel="noopener">Messi alcanza los 900 goles</a></p>
         </div>
 
-        <div class="card" data-medios="Infolibre,eldiario.es">
-            <h2>Portada: Delcy, rodríguez y destituye</h2>
+        <div class="card" data-medios="Infolibre,El Mundo">
+            <h2>Hoy: Cuba, país y padre</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -379,13 +423,13 @@
                 </div>
             </div>
 
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/delcy-rodriguez-destituye-vladimir-padrino-decada-ministro-defensa_1_2164288.html" target="_blank" rel="noopener">Delcy Rodríguez destituye a Vladimir Padrino tras más de una década como ministro de Defensa</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/19/69bb00bafc6c832c608b458f.html" target="_blank" rel="noopener">Padre Alberto Reyes, referente social en Cuba: "El país es una olla que puede estallar en cualquier momento"</a></p>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/delcy-rodriguez-destituye-vladimir-padrino-decada-ministro-defensa_1_13079620.html" target="_blank" rel="noopener">Delcy Rodríguez destituye al poderoso ministro de Defensa de Venezuela e histórico del chavismo, Vladimir Padrino</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/cuba-critica-eeuu-amenace-aduenarse-pais-le-aplica-duras-sanciones_1_2164054.html" target="_blank" rel="noopener">Cuba critica a EEUU por amenazar con "adueñarse del país" mientras le aplica duras sanciones</a></p>
         </div>
 
         <div class="card" data-medios="eldiario.es,El Independiente">
-            <h2>Claves: Zarzuela, confirma y sheinbaum</h2>
+            <h2>En foco: Zarzuela, confirma y sheinbaum</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -412,7 +456,7 @@
         </div>
 
         <div class="card" data-medios="Applesfera">
-            <h2>Portada: Airpods, hacen y falta</h2>
+            <h2>Relevante: Airpods, hacen y falta</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 1 medios · tono equilibrado · 
@@ -439,7 +483,7 @@
         </div>
 
         <div class="card" data-medios="Yorokobu">
-            <h2>En foco: Fill, f5a623st1 y fillrule</h2>
+            <h2>Portada: Fill, f5a623st1 y fillrule</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 1 medios · tono equilibrado · 
