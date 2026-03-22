@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1774191429">
+    <link rel="stylesheet" href="prisma.css?v=1774206303">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-03-22T14:57:09.083275">Actualizado: 22/03/2026 14:57</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-03-22T19:05:03.542208">Actualizado: 22/03/2026 19:05</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -136,6 +136,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -159,12 +160,58 @@
             </select>
         </div>
 
-        <div class="card" data-medios="El Independiente,OK Diario,El Mundo,Europa Press,El País,Infolibre">
-            <h2>Claves: Irán, israel y guerra</h2>
+        <div class="card" data-medios="El Español,eldiario.es,El Independiente,HuffPost,El País,La Vanguardia,Europa Press">
+            <h2>En foco: Irán, trump y ormuz</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                6 medios · tono equilibrado · 
+                7 medios · tono equilibrado · 
                 múltiples perspectivas, amplia cobertura mediática
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-22/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | El embajador estadounidense ante la ONU defiende los ataques a la infraestructura energética iraní</a></p>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/global/un-experto-seguridad-alimentaria-sobre-crisisan-estamos-desastre-alimentario-mundo-habla-precios-gasolina-f202603.html" target="_blank" rel="noopener">Un experto en seguridad alimentaria, sobre la crisis de Irán: "Estamos ante un desastre alimentario y todo el mundo habla de los precios de la gasolina"</a></p>
+
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260322/11496385/iran-amenaza-cerrar-totalmente-ormuz.html" target="_blank" rel="noopener">Irán amenaza con cerrar totalmente Ormuz si Trump bombardea su sector energético</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 5 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/iran-rechaza-ultimatum-trump-anuncia-respuesta-irreversible-si-ataca-infraestructura-electrica_1_13088607.html" target="_blank" rel="noopener">Irán rechaza el ultimátum de Trump y anuncia una respuesta "irreversible" si se ataca su infraestructura eléctrica</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-rutte-defiende-crucial-ofensiva-eeuu-contra-iran-porque-trump-haciendo-mundo-mas-seguro-20260322171406.html" target="_blank" rel="noopener">Rutte defiende la "crucial" ofensiva de EEUU contra Irán porque Trump "está haciendo un mundo más seguro"</a></p>
+
+                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/oriente-proximo/20260322/trump-da-ultimatum-iran-reabra-ormuz-netanyahu-urge-lideres-resto-paises-sumarse/1003744179309_0.html" target="_blank" rel="noopener">Trump da un ultimátum a Irán para que reabra Ormuz y Netanyahu urge a los países aliados a "sumarse a la ofensiva"</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/seguridad-y-defensa/noticia-armas-importadas-cruciales-guerra-iran-aviones-eeuu-israel-misiles-teheran-hezbola-20260322103156.html" target="_blank" rel="noopener">Las armas importadas, "cruciales" en la guerra de Irán: aviones de EEUU para Israel, misiles de Teherán para Hezbolá</a></p>
+
+                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/internacional/2026/03/21/iran-abre-la-via-a-un-transito-seguro-de-ormuz-para-paises-no-implicados-en-la-guerra/" target="_blank" rel="noopener">Irán abre la vía a un tránsito seguro de Ormuz para países no implicados en la guerra</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="La Vanguardia,El Independiente,El País,El Mundo">
+            <h2>Hoy: 2026, marc y márquez</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -181,132 +228,30 @@
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-22/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel bombardea la autopista que conecta la mayor ciudad del sur de Líbano con el resto del país</a></p>
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/20260322/11496405/motogp-gp-brasil-goiania-carrera-resumen-victoria-marc-marquez-bezzecchi-giannantonio-acosta-liderato.html" target="_blank" rel="noopener">Bezzecchi se erige en la bestia del 2026 de Marc Márquez, cuarto en Brasil</a></p>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/ultima-hora-guerra-iran-directo-hoy-donald-trump-amenaza-destruir-centrales-electricas-iranies-si-no-reabre-estrecho-ormuz-16462786" target="_blank" rel="noopener">Última hora de la guerra de Irán en directo hoy 22 de marzo | Ataques de Estados Unidos e Israel, advertencias de Trump y el impacto en la gasolina</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/motociclismo/2026-03-21/marc-marquez-se-impone-en-la-sprint-del-gp-de-brasil.html" target="_blank" rel="noopener">Marc Márquez se impone en la ‘sprint’ del GP de Brasil</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/21/69bef90ee4d4d87c6f8b4576.html" target="_blank" rel="noopener">Un muerto en un ataque de Hizbulá en el norte de Israel mientras dos misiles iraníes dejan más de un centenar de heridos en Arad y Dimona, cerca de una instalación nuclear israelí</a></p>
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/otros-deportes/20260322/11496395/mariano-garcia-siempre-sera-moto-oro-mundial-1-500.html" target="_blank" rel="noopener">Mariano García siempre será la moto: oro mundial del 1.500</a></p>
 
             <details class="ver-mas">
-                <summary>+ 5 noticias más</summary>
+                <summary>+ 2 noticias más</summary>
                 <div class="noticias-extra">
 
-                    <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-03-22/iran-amenaza-con-destruir-las-infraestructuras-energeticas-de-todo-oriente-proximo-tras-el-ultimatum-de-trump.html" target="_blank" rel="noopener">Irán amenaza con destruir las infraestructuras energéticas de todo Oriente Próximo tras el ultimátum de Trump</a></p>
+                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/mas-deporte/2026/03/22/69c01adde9cf4ad82f8b4586.html" target="_blank" rel="noopener">Mariano García, campeón del mundo de 1.500 con una exhibición de principio a fin</a></p>
 
-                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/21/69becc50e4d4d8b7488b4580.html" target="_blank" rel="noopener">EL MUNDO viaja al Estrecho de Ormuz, epicentro del conflicto bélico con Irán: "Desde este lado puedes oler y sentir la guerra"</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/seguridad-y-defensa/noticia-armas-importadas-cruciales-guerra-iran-aviones-eeuu-israel-misiles-teheran-hezbola-20260322103156.html" target="_blank" rel="noopener">Las armas importadas, "cruciales" en la guerra de Irán: aviones de EEUU para Israel, misiles de Teherán para Hezbolá</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/ideas-propias/mujeres-iran_129_2164258.html" target="_blank" rel="noopener">Las mujeres de Irán</a></p>
-
-                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/internacional/2026/03/21/iran-abre-la-via-a-un-transito-seguro-de-ormuz-para-paises-no-implicados-en-la-guerra/" target="_blank" rel="noopener">Irán abre la vía a un tránsito seguro de Ormuz para países no implicados en la guerra</a></p>
+                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/2026/03/21/semana-santa-madrid-2026-guia-procesiones/" target="_blank" rel="noopener">Semana Santa en Madrid 2026: La guía completa con las mejores procesiones</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="El País,eldiario.es,El Mundo,The Objective">
-            <h2>Claves: Racing, albacete y aficionado</h2>
+        <div class="card" data-medios="The Objective,El País,El Mundo,OK Diario">
+            <h2>Hoy: Mundial, attaoui y cuelga</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 4 medios · tono equilibrado · 
                 múltiples perspectivas
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/2026-03-22/muere-un-aficionado-del-racing-tras-ser-agredido-por-un-hombre-que-vestia-la-camiseta-del-albacete.html" target="_blank" rel="noopener">Muere un aficionado del Racing tras ser agredido por un hombre que vestía la camiseta del Albacete</a></p>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/2026/03/22/69bfd157fc6c8354348b457b.html" target="_blank" rel="noopener">Muere un aficionado del Racing tras una violenta discusión con un hincha del Albacete en Santander</a></p>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/deportes/2026-03-22/detenido-aficionado-albacete-matar-racing-de-santander/" target="_blank" rel="noopener">Detenido un seguidor del Albacete sospechoso de matar a otro del Racing de Santander</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 1 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/cantabria/ultimas-noticias/agresion-mortal-santander-discusion-aficionado-racing-albacete_1_13088127.html" target="_blank" rel="noopener">La agresión mortal de Santander fue en una discusión entre un aficionado de Racing y otro del Albacete</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="OK Diario,El Mundo,The Objective">
-            <h2>Hoy: Irán, ormuz y eléctricas</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/iran-avisa-del-cierre-total-ormuz-si-trump-ataca-sus-plantas-electricas-alerta-sus-vecinos-despedios-luz-16464126" target="_blank" rel="noopener">Irán avisa del «cierre total» de Ormuz si Trump ataca sus plantas eléctricas y alerta a sus vecinos: «Despedíos de la luz»</a></p>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-03-22/iran-cierre-total-ormuz-eeuu-centrales-electricas/" target="_blank" rel="noopener">Irán amenaza con el «cierre total» de Ormuz si EEUU ataca sus centrales eléctricas</a></p>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/22/69bfaea6e9cf4a0c758b458d.html" target="_blank" rel="noopener">Trump amenaza con atacar plantas eléctricas de Irán si no abre el Estrecho de Ormuz en 48 horas</a></p>
-        </div>
-
-        <div class="card" data-medios="OK Diario,El País">
-            <h2>Tema: Barcelona, rayo y directo</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/barcelona-rayo-vallecano-directo-ultima-hora-del-partido-liga-vivo-online-hoy-16462929" target="_blank" rel="noopener">Cómo va el Barcelona – Rayo Vallecano en directo online | Resultado y goles del partido de la Liga en vivo online hoy</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-03-22/barcelona-rayo-en-directo-el-partido-de-la-liga-en-vivo.html" target="_blank" rel="noopener">Barcelona - Rayo en directo | El Barça no cierra el partido y Joan García salva dos goles cantados</a></p>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/barcelona-rayo-vallecano-cuando-horario-como-ver-television-directo-gratis-partido-liga-video-16452998" target="_blank" rel="noopener">Dónde ver gratis en directo el Barcelona – Rayo Vallecano y por TV y a qué hora es el partido de la Liga</a></p>
-        </div>
-
-        <div class="card" data-medios="Europa Press,La Vanguardia,The Objective">
-            <h2>Relevante: Israel, líbano y puentes</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -323,18 +268,65 @@
                 </div>
             </div>
 
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260322/11496295/israel-ordena-destruir-viviendas-puentes-libano-cercanos-frontera.html" target="_blank" rel="noopener">Israel ordena destruir viviendas y puentes en el Líbano cercanos a su frontera</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/2026-03-22/moha-attaoui-se-cuelga-el-bronce-en-los-800-metros-del-mundial-de-atletismo.html" target="_blank" rel="noopener">Moha Attaoui se cuelga el bronce en los 800 metros del Mundial de Atletismo</a></p>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-03-22/israel-anuncia-operacion-sur-libano/" target="_blank" rel="noopener">Israel anuncia una operación para aislar el sur de Líbano mediante la destrucción de puentes</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/mas-deporte/2026/03/22/69c0390921efa078148b457b.html" target="_blank" rel="noopener">Moha Attaoui se cuelga el bronce en el 800, la cuarta medalla de España en el mundial indoor</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-israel-anuncia-comienzo-operacion-separar-sur-libano-rio-litani-20260322105420.html" target="_blank" rel="noopener">Israel anuncia el comienzo de la operación para separar el sur de Líbano por el río Litani</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/mohamed-attaoui-hace-mayor-brilla-cuelga-bronce-800-metros-del-mundial-atletismo-16464498" target="_blank" rel="noopener">Doblete de España: Attaoui se hace mayor y se cuelga el bronce en 800 metros del Mundial de atletismo</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>The Objective:</strong> <a href="https://theobjective.com/deportes/2026-03-22/el-espanol-mariano-garcia-campeon-del-mundo-de-1-500-metros-en-el-mundial-de-atletismo/" target="_blank" rel="noopener">El español Mariano García, campeón del mundo de 1.500 metros en el Mundial de Atletismo</a></p>
+
+                </div>
+            </details>
         </div>
 
-        <div class="card" data-medios="Applesfera">
-            <h2>Hoy: Iphone, otro y cargar</h2>
+        <div class="card" data-medios="La Vanguardia,Europa Press,El Español,El Mundo">
+            <h2>Claves: Líbano, invasión y preludio</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 43%;"></div>
+                    <div class="barra-conservadora" style="width: 57%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 43%</span>
+                    <span>Conservador 57%</span>
+                </div>
+            </div>
+
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260322/11496383/israel-aisla-sur-libano-denuncia-preludio-invasion-terrestre.html" target="_blank" rel="noopener">Israel aísla el sur del Líbano, que denuncia el “preludio de una invasión terrestre”</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/03/22/69bd11aae85ece5d4c8b4575.html" target="_blank" rel="noopener">La antesala de la quinta gran invasión del Líbano, bajo el espectro de 1982</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/oriente-proximo/20260322/israel-aisla-sur-libano-atacando-puentes-rio-litani-antesala-obligada-operacion-militar-tierra/1003744179447_0.html" target="_blank" rel="noopener">Israel vuela los puentes del río Litani y aísla el sur del Líbano: Beirut advierte que es preludio de una invasión terrestre</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-presidente-libano-denuncia-preludio-invasion-israeli-completa-sur-pais-20260322164735.html" target="_blank" rel="noopener">El presidente de Líbano denuncia el preludio de una invasión israelí completa en el sur del país</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Applesfera,Hipertextual">
+            <h2>Claves: Iphone, otro y siempre</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -352,13 +344,231 @@
                 </div>
             </div>
 
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/apple/mi-iphone-siempre-tenia-la-memoria-llena-hasta-que-descubri-este-truco-he-liberado-50-gb-de-almacenamiento/" target="_blank" rel="noopener">Mi iPhone siempre tenía la memoria llena hasta que descubrí este truco: he liberado 50 GB de almacenamiento.</a></p>
+
             <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/tutoriales/cargar-iphone-otro-iphone-como-se-hace-cual-dos-cargara-al-otro" target="_blank" rel="noopener">Cargar un iPhone con otro iPhone: cómo se hace y cuál de los dos cargará al otro</a></p>
 
             <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/ios/apple-lanza-aviso-para-iphone-veteranos-toca-actualizar-emergencia-para-frenar-nuevo-hackeo" target="_blank" rel="noopener">¿Tienes un iPhone veterano que te funciona de maravilla y no piensas cambiarlo? Apple tiene un aviso urgente para ti esta semana</a></p>
         </div>
 
+        <div class="card" data-medios="The Objective,El Español">
+            <h2>En foco: Real, madrid y directo</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/directo/deportes/futbol/2026-03-22/real-madrid-atletico-directo-vivo-online-liga-derbi/" target="_blank" rel="noopener">Real Madrid – Atlético, en directo: alineaciones y dónde ver el derbi de LALIGA en vivo online hoy</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/20260322/fc-barcelona-real-madrid-baloncesto-hoy-directo-resultado-valoraciones-estadisticas-vivo-partido-liga-endesa/1003744179221_22.html" target="_blank" rel="noopener">FC Barcelona - Real Madrid, baloncesto hoy en directo: resultado, valoraciones y estadísticas en vivo del partido de la Liga Endesa</a></p>
+        </div>
+
+        <div class="card" data-medios="Genbeta,Hipertextual">
+            <h2>En foco: Internet, tomará y control</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
+                </div>
+            </div>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/inteligencia-artificial/bots-ia-dominaran-trafico-internet-2027/" target="_blank" rel="noopener">La IA tomará el control de internet en menos de dos años y no podremos evitarlo</a></p>
+
+            <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta" target="_blank" rel="noopener">Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,El País">
+            <h2>Portada: Sánchez, exige y estrecho</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/politica/2026-03-22/sanchez-estrecho-ormuz-energeticos/" target="_blank" rel="noopener">Sánchez exige reabrir el estrecho de Ormuz y preservar «los yacimientos energéticos»</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-03-22/sanchez-exige-la-apertura-del-estrecho-de-ormuz-una-escalada-podria-desencadenar-una-crisis-energetica.html" target="_blank" rel="noopener">Sánchez exige la apertura del estrecho de Ormuz: “Una escalada podría desencadenar una crisis energética”</a></p>
+        </div>
+
+        <div class="card" data-medios="Expansión,OK Diario">
+            <h2>Hoy: Guerra, expectación y sorpresa</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/baleares/expectacion-sorpresa-palma-llegada-del-submarino-guerra-galerna-porto-pi-16464818" target="_blank" rel="noopener">Expectación y sorpresa en Palma ante la llegada del submarino de guerra ‘Galerna’ a Porto Pi</a></p>
+
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/mercados/2026/03/22/69bfd664468aebae438b4572.html" target="_blank" rel="noopener">La banca española sufre en Bolsa con la guerra, pero pierde un tercio menos que el sector en Europa</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,El País">
+            <h2>Claves: Santander, muertes y bocal</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-03-22/una-marcha-en-silencio-reclama-en-santander-responsabilidades-por-las-seis-muertes-en-la-pasarela-de-el-bocal.html" target="_blank" rel="noopener">Una marcha en silencio reclama en Santander responsabilidades por las seis muertes en la pasarela de El Bocal</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/2026-03-22/manifestacion-santander-muertes-bocal-vano/" target="_blank" rel="noopener">Una manifestación recorre Santander para que las muertes del Bocal «no sean en vano»</a></p>
+        </div>
+
+        <div class="card" data-medios="El Español,El País">
+            <h2>Hoy: Muere, aficionado y racing</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/2026-03-22/muere-un-aficionado-del-racing-tras-ser-agredido-por-un-hombre-que-vestia-la-camiseta-del-albacete.html" target="_blank" rel="noopener">Muere un aficionado del Racing tras ser agredido por un hombre que vestía la camiseta del Albacete</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/reportajes/20260322/muere-aficionado-racing-santander-discusion-seguidor-albacete-horas-partido/1003744179346_0.html" target="_blank" rel="noopener">Muere un aficionado del Racing de Santander tras una pelea con un seguidor del Albacete horas antes del partido</a></p>
+        </div>
+
+        <div class="card" data-medios="eldiario.es,El Mundo">
+            <h2>Tema: Víctimas, exige y organización</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/pais-vasco/2026/03/22/69c01f8421efa0c1178b4579.html" target="_blank" rel="noopener">UPN exige a la organización de la Korrika "respeto a las víctimas de ETA" y una "disculpa pública"</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/cantabria/ultimas-noticias/manifestacion-silencio-victimas-bocal-espacio-publico-quedar-desatendido-tierra-nadie_1_13088327.html" target="_blank" rel="noopener">Manifestación de silencio por las víctimas de El Bocal: "Nunca un espacio público puede quedar desatendido ni en tierra de nadie"</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,Europa Press">
+            <h2>En foco: Netanyahu, pide y mundo</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-03-22/netanyahu-pide-unirse-amenazar-europa/" target="_blank" rel="noopener">Netanyahu pide al mundo unirse contra Irán y acusa al régimen de amenazar a Europa</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-netanyahu-pide-resto-mundo-guerra-contra-iran-20260322131806.html" target="_blank" rel="noopener">Netanyahu pide al resto del mundo que se una a la guerra contra Irán</a></p>
+        </div>
+
         <div class="card" data-medios="Applesfera">
-            <h2>Relevante: Macbook, todo y mundo</h2>
+            <h2>Claves: Iphone, probado y fondo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 1 medios · tono equilibrado · 
@@ -366,22 +576,22 @@
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque marcadamente conservador</span>
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 42%;"></div>
-                    <div class="barra-conservadora" style="width: 58%;"></div>
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 42%</span>
-                    <span>Conservador 58%</span>
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
                 </div>
             </div>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/portatil/macbook-neo-no-para-todo-mundo-despues-usarlo-se-exactamente-para-quien" target="_blank" rel="noopener">El MacBook Neo no es para todo el mundo. Después de usarlo, sé exactamente para quién sí</a></p>
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/iphone/he-probado-a-fondo-unica-camara-iphone-17e-muy-buena-hay-algo-que-me-cuesta-justificar" target="_blank" rel="noopener">He probado a fondo la única cámara del iPhone 17e. Es muy buena, pero hay algo que me cuesta justificar</a></p>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/seleccion/mejorar-rendimiento-macbook-neo-sencillo-como-colocar-disipador-termico-no-hace-falta-ser-manitas-para-hacerlo" target="_blank" rel="noopener">Mejorar el rendimiento del MacBook Neo es tan sencillo como colocar un disipador térmico. Y no hace falta ser un manitas para hacerlo</a></p>
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/iphone/llevo-anos-echando-zoom-decente-iphone-fin-tengo-iphone-17-pro-max" target="_blank" rel="noopener">Llevo años echando de menos un zoom decente en el iPhone. Por fin lo tengo con el iPhone 17 Pro Max</a></p>
         </div>
 
         <div class="cta-section">
