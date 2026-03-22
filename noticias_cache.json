@@ -1,17 +1,241 @@
 [
   {
-    "titulo": "Real Madrid - Atlético en directo | El Atlético gana al descanso en el Bernabéu",
-    "medio": "El País",
-    "fecha": 1774212774.0,
-    "link": "https://elpais.com/deportes/futbol/2026-03-22/real-madrid-atletico-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "resumen": "Lookman adelantó a los rojiblancos tras una buena dejada de tacón de Giuliano en el área"
+    "titulo": "La fe del Madrid que personifica Valverde, poseído y expulsado, decide un derbi de explosiones",
+    "medio": "El Mundo",
+    "fecha": 1774218732.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/03/22/69c06ca821efa0d1788b4594.html",
+    "resumen": "El conjunto de Arbeloa remonta el gol inicial de Lookman y vence (3-2) a un Atlético que no supo aprovechar su superioridad numérica al final Leer"
   },
   {
-    "titulo": "Real Madrid - Atlético, fútbol hoy en directo | Resultado y gol de Lookman en el derbi de LaLiga",
+    "titulo": "Vinicius quiere que siga la Liga y decanta con un doblete el triunfo del Madrid ante el Atlético",
+    "medio": "El País",
+    "fecha": 1774218670.0,
+    "link": "https://elpais.com/deportes/futbol/2026-03-22/vinicius-quiere-que-siga-la-liga-y-decanta-con-un-doblete-el-triunfo-del-madrid-ante-el-atletico.html",
+    "resumen": "El brasileño decanta con un doblete un derbi intenso en el que Valverde acabó expulsado y mantiene al equipo de Arbeloa a cuatro puntos del Barcelona"
+  },
+  {
+    "titulo": "Carlos Alcaraz se estrella en el ATP 1000 de Miami y queda eliminado en tercera ronda",
+    "medio": "The Objective",
+    "fecha": 1774218324.0,
+    "link": "https://theobjective.com/deportes/2026-03-22/alcaraz-miami-eliminado-tercera-ronda/",
+    "resumen": "El tenista español Carlos Alcaraz perdió contra pronóstico (6-3, 5-7, 6-4) ante el estadounidense Sebastian Korda para despedirse en tercera ronda del torneo ATP 1000 de […]"
+  },
+  {
+    "titulo": "El bronce del relevo de mujeres de 4x400 cierra un domingo mágico en el Mundial de Torun",
+    "medio": "El País",
+    "fecha": 1774218321.0,
+    "link": "https://elpais.com/deportes/2026-03-22/el-bronce-del-relevo-de-mujeres-de-4x400-cierra-un-domingo-magico-en-el-mundial-de-torun.html",
+    "resumen": "España, con cinco metales, como Italia, termina sexta en el medallero, y segunda en número de medallas, tras las 18 de Estados Unidos"
+  },
+  {
+    "titulo": "Un restaurante recibe siete reseñas negativas tras una boda y el dueño denuncia \"extorsión\": \"Accedimos a todo y aun así nos machacaron\"",
+    "medio": "HuffPost",
+    "fecha": 1774218303.0,
+    "link": "https://www.huffingtonpost.es/virales/un-restaurante-recibe-siete-resenas-negativas-boda-dueno-denuncia-extorsion-accedimos-aun-asi-machacaronbr-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La victoria en las municipales del ex primer ministro Philippe relanza su candidatura a las presidenciales de 2027",
+    "medio": "El País",
+    "fecha": 1774218137.0,
+    "link": "https://elpais.com/internacional/2026-03-22/la-victoria-en-las-municipales-del-ex-primer-ministro-philippe-relanza-su-candidatura-a-las-presidenciales-de-2027.html",
+    "resumen": "El candidato centrista y aspirante al Elíseo es reelegido en la alcaldía de Le Havre, en Normandía"
+  },
+  {
+    "titulo": "El ultranacionalista Jansa, favorito para volver a gobernar Eslovenia al frente de una coalición conservadora",
+    "medio": "El País",
+    "fecha": 1774217645.0,
+    "link": "https://elpais.com/internacional/2026-03-22/el-ultranacionalista-jansa-favorito-para-volver-a-gobernar-eslovenia-al-frente-de-una-coalicion-conservadora.html",
+    "resumen": "El partido del periodista admirador de Trump logra un empate técnico con los liberales del actual primer ministro Golob"
+  },
+  {
+    "titulo": "Vinicius comanda la remontada del Real Madrid ante el Atlético para seguir en la lucha por la liga",
+    "medio": "The Objective",
+    "fecha": 1774217258.0,
+    "link": "https://theobjective.com/directo/deportes/futbol/2026-03-22/real-madrid-atletico-directo-vivo-online-liga-derbi/",
+    "resumen": ""
+  },
+  {
+    "titulo": "Alcaraz cae en tercera ronda del Masters 1.000 de Miami tras hacer lo más difícil",
+    "medio": "La Vanguardia",
+    "fecha": 1774216958.0,
+    "link": "https://www.lavanguardia.com/deportes/20260322/11496447/alcaraz-cae-tercera-ronda-masters-1-000-miami-mas-dificil.html",
+    "resumen": "El tenista murciano fue capaz de levantar un 3-5 en el segundo set, pero cedió el servicio en el tercero"
+  },
+  {
+    "titulo": "El Real Madrid gana el derbi y se agarra a la Liga",
+    "medio": "Europa Press",
+    "fecha": 1774216921.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-gana-derbi-agarra-liga-20260322230201.html",
+    "resumen": "Los blancos vencen (3-2) al Atlético, que pierde la tercera plaza, en un partido loco en la segunda parte para seguir a 4 puntos del líder Barça"
+  },
+  {
+    "titulo": "Cambio de armario de primavera: cómo he conseguido guardar lo mismo en la mitad de espacio (y sin tirar nada)",
+    "medio": "Trendencias",
+    "fecha": 1774216912.0,
+    "link": "https://www.trendencias.com/diseno/cambio-armario-primavera-como-he-conseguido-guardar-mitad-espacio-tirar-nada",
+    "resumen": "Llega abril y cambia la hora, el tiempo mejora por momentos… y sí, también toca enfrentarse al cambio de armario. Ese momento que mucha gente pospone cuando, en realidad, tiene un punto casi terapéutico. En mi experiencia, cuanto más lo evitas, peor. Se acumula el caos y acabas metiendo jerséis de invierno en cualquier hueco como si fueran piezas de tetris. La clave no es tanto la fuerza de voluntad como tener un sistema. Porque sí, ordenar puede sentirse como ir de compras sin gastar dinero pero solo si luego encuentras lo que tienes. Y ahí es donde un buen doblado vertical cambia las reglas del juego. El doblado vertical no es postureo de Pinterest. Es, probablemente, la forma más inteligente y eficiente de guardar ropa. La idea es tan simple como doblar las prendas en pequeños rectángulos que se sostengan por sí mismos y colocarlos en vertical, como si fueran libros en una estantería. El resultado es que no tienes que mover torres de ropa para encontrar una camiseta concreta y evitas desordenar todo cada vez que buscas algo. La gran embajadora de este método es Marie Kondo, que lo convirtió en fenómeno global con su método KonMari. Sin embargo, y aquí viene la parte que la japonesa no suele contar, es que este sistema solo funciona realmente si tienes unos buenos organizadores que ayuden. Si no, todo ese orden se puede desmoronar igual de rápido que con cualquier otro método. Estos tres organizadores que hemos encontrado en Ikea funcionan de locos para la causa. Los tres mejores organizadores de Ikea para doblado verticalStuk: el básico confiable Ikea Para mí, la caja Stuk se ha convertido en ese aliado que no sabía que necesitaba hasta que lo descubrí. Ahora ya no puedo vivir sin él. Aunque lo tengo en varios tamaños, la de 71 x 51 x 18 cm es perfecta para comprimir la ropa en vertical. Va directa al altillo del armario, a un estante o debajo de la cama y resuelve el drama de dónde meter toda la voluminosa ropa del invierno durante el verano. Además, no solo protege del polvo sino que sus rejillas de ventilación en las esquinas permiten que el aire circule y evitan que se genere ese olor a ropa guardada que aparece cuando pasa demasiado tiempo almacenada. Como ginda del pastel, las asas y el portaetiquetas terminan de facilitarnos la vida. Ligera, flexible, resistente y bastante discreta. No se puede pedir más. Sockerbit: protección extra Ikea La caja con tapa doble Sockerbit juega en otra liga porque ofrece un cierre más protegido y estructura rígida. Lo que se traduce en menos polvo, menos suciedad y más sensación de que todo está bajo control. Está pensada para deslizarse bajo la cama (ese espacio infrautilizado en la mayoría de hogares), y su sistema de cierre y apertura partido ayuda a mantener siempre las cosas en su sitio. Aunque, por su tamaño, es perfecta para ropa de cama, también sirve para guardar prendas más pequeñas en un doblado vertical. Rensare: el truco definitivo para pros del doblado vertical Por último están las bolsas organizadoras Rensare que, aunque están originalmente pensadas para ordenar el interior de una maleta o mochila de viaje, funcionan igual de bien para el armario y los cajones. Puedes meter camisetas, pantalones o ropa interior ya doblados en vertical (o enrollados) y que se mantenga todo en su sitio sin que ni siquiera puedan tener la oportunidad de desmoronarse. Las bolsas pequeñas son perfectas para categorías caóticas por naturaleza como calcetines, ropa interior y todo tipo de accesorios. Además, tiene ese punto modular que te permite adaptarlas a diferentes cajones o cajas más grandes. Es decir, son orden dentro del orden. Foto de portada | Anastasia Shuraeva En Trenencias | Piedra blanca de limpieza: cómo usar este milagro contra la suciedad, precio y alternativas en el mercado - La noticia Cambio de armario de primavera: cómo he conseguido guardar lo mismo en la mitad de espacio (y sin tirar nada) fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "Vinícius se empeña en que haya Liga",
+    "medio": "La Vanguardia",
+    "fecha": 1774216881.0,
+    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260322/11496446/vinicius-empena-haya-liga.html",
+    "resumen": "El brasileño, autor de dos goles, lideró la remontada de un Real Madrid que jugó 20 minutos con diez jugadores por la rigurosa expulsión de Valverde por una entrada a Baena"
+  },
+  {
+    "titulo": "Una roja y varias cuentas pendientes entre Valverde y Baena: \"Luego la vas a ver\"",
+    "medio": "El Mundo",
+    "fecha": 1774216857.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/03/22/69c039ab21efa0b7708b4582.html",
+    "resumen": "El uruguayo, Arbeloa y Carvajal protestaron mucho la expulsión. El del Madrid y el del Atlético han tenido varios encontronazos desde hace tres años. Vinicius, que sólo había marcado un gol al Atlético, marcó dos. Leer"
+  },
+  {
+    "titulo": "Alcaraz se estrella contra Korda en Miami",
+    "medio": "Europa Press",
+    "fecha": 1774216676.0,
+    "link": "https://www.europapress.es/deportes/tenis-00166/noticia-alcaraz-estrella-contra-korda-miami-20260322225756.html",
+    "resumen": "El tenista español Carlos Alcaraz perdió contra pronóstico (6-3, 5-7, 6-4) ante el estadounidense Sebastian Korda para despedirse en tercera ronda del torneo ATP 1000 de Miami, un inesperado paso en falso del murciano para pensar ya en la tierra batida."
+  },
+  {
+    "titulo": "Real Madrid Atlético de Madrid",
+    "medio": "HuffPost",
+    "fecha": 1774216608.0,
+    "link": "https://www.huffingtonpost.es/deporte/real-madrid-vence-32-atletico-madrid-derbi-liguero-trepidante-lleno-alternativas-polemica-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Real Madrid se lleva un derbi ante el Atleti en el que mandó Vinicius y mantiene viva la pelea por La Liga",
     "medio": "El Español",
-    "fecha": 1774212692.0,
-    "link": "https://www.elespanol.com/deportes/20260322/real-madrid-atletico-futbol-hoy-directo-previa-ultima-hora-derbi-laliga/1003744179424_10.html",
-    "resumen": "Sigue el derbi madrileño de la Jornada 29 de LaLiga entre Real Madrid y Atlético de Madrid, y consulta el resultado, todos los goles y la última hora del partido en directo. 👉🏻 Arbeloa desafía a Simeone tras ganarse el respeto contra Mou y Pep: un derbi para sentar las nuevas bases de Madrid y Atleti"
+    "fecha": 1774216583.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260322/real-madrid-lleva-derbi-mando-vinicius-polemica-roja-valverde-dio-vida-atleti/1003744179563_0.html",
+    "resumen": "Un doblete de Vinicius y un tanto entremedias de Valverde, que vio una polémica roja después, dieron la victoria al equipo de Arbeloa en el Bernabéu."
+  },
+  {
+    "titulo": "El marido de la mujer marroquí quemada en Sevilla la Nueva, detenido por contratar a 2 sicarios para matarla",
+    "medio": "OK Diario",
+    "fecha": 1774216501.0,
+    "link": "https://okdiario.com/sucesos/marido-mujer-marroqui-quemada-sevilla-nueva-detenido-contratar-2-sicarios-matarla-16465426",
+    "resumen": "Ibrahim, el marido de la mujer magrebí que fue golpeada y rociada con líquido inflamable en Sevilla la Nueva (Madrid) ha sido detenido por contratar a los dos sicarios que intentaron matarla quemándola viva. El ataque fue el día 2 de febrero y antes de quemar a la mujer, los sicarios le rompieron los brazos y … Continuar leyendo \"El marido de la mujer marroquí quemada en Sevilla la Nueva, detenido por contratar a 2 sicarios para matarla\""
+  },
+  {
+    "titulo": "Korda fulmina a Alcaraz en la tercera ronda de Miami",
+    "medio": "El País",
+    "fecha": 1774216340.0,
+    "link": "https://elpais.com/deportes/tenis/2026-03-22/korda-fulmina-a-alcaraz-en-la-tercera-ronda-de-miami.html",
+    "resumen": "La reacción del número uno se queda corta y, como ya sucediera hace un año, se despide de manera prematura de Florida: 6-3, 5-7 y 6-4, en 2h 18m. También cae Jódar (7-5 y 6-4 para Etcheverry)"
+  },
+  {
+    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel se prepara para intensificar la invasión terrestre en el sur de Líbano",
+    "medio": "El País",
+    "fecha": 1774216162.0,
+    "link": "https://elpais.com/internacional/2026-03-22/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "El ejército israelí bombardea la autopista que conecta la mayor ciudad del sur de Líbano con el resto del país | España exige reabrir el estrecho de Ormuz y preservar “todos los yacimientos energéticos” en Oriente Próximo"
+  },
+  {
+    "titulo": "La reacción de Alcaraz no es suficiente para frenar a Korda y cae en la tercera ronda en Miami",
+    "medio": "El Mundo",
+    "fecha": 1774215835.0,
+    "link": "https://www.elmundo.es/deportes/tenis/2026/03/22/69c059c1e4d4d87d248b4584.html",
+    "resumen": "El murciano reaccionó en el segundo set cuando el estadounidense servía para ganar, pero no pudo contenerlo en el tercero (6-3, 5-7 y 6-4) Leer"
+  },
+  {
+    "titulo": "EEUU prepara la invasión de la isla de Jark, el gran ‘depósito’ del petróleo de Irán",
+    "medio": "OK Diario",
+    "fecha": 1774215755.0,
+    "link": "https://okdiario.com/internacional/eeuu-prepara-invasion-isla-jark-gran-deposito-del-petroleo-iran-16465379",
+    "resumen": "EEUU prepara la invasión de la isla de Jark, el gran depósito del petróleo de la dictadura de los ayatolás de Irán. Un funcionario estadounidense ha confirmado que el ejército estadounidense ha acelerado «el despliegue de miles de infantes de marina y personal de la Armada en Oriente Medio». Altos funcionarios estadounidenses han informado a sus … Continuar leyendo \"EEUU prepara la invasión de la isla de Jark, el gran ‘depósito’ del petróleo de Irán\""
+  },
+  {
+    "titulo": "Los socialistas conservan París en la segunda vuelta de las elecciones municipales francesas",
+    "medio": "The Objective",
+    "fecha": 1774215381.0,
+    "link": "https://theobjective.com/internacional/2026-03-22/socialistas-paris-segunda-vuelta-municipales/",
+    "resumen": "El candidato socialista a la Alcaldía de París, Emmanuel Grégoire, ha logrado imponerse respaldado por una coalición de izquierdas en la segunda vuelta de las elecciones […]"
+  },
+  {
+    "titulo": "Resultado Alcaraz vs Korda | Resumen y cómo ha quedado el partido del Masters 1000 de Miami",
+    "medio": "OK Diario",
+    "fecha": 1774215058.0,
+    "link": "https://okdiario.com/deportes/alcaraz-korda-directo-sigue-partido-del-masters-1000-miami-2026-vivo-hoy-16464661",
+    "resumen": "Carlos Alcaraz busca su segundo Masters 1.000 de Miami y en esta tercera ronda se mide a Sebastian Korda. El murciano viene de ganar en su debut a Joao Fonseca por 6-4 y 6-4, mientras que el estadounidense batió al argentino Camilo Ugo Carabelli por un contundente 6-0 y 6-3. De cara a la semana … Continuar leyendo \"Resultado Alcaraz vs Korda | Resumen y cómo ha quedado el partido del Masters 1000 de Miami\""
+  },
+  {
+    "titulo": "POCO F8 Ultra 5G en el Aniversario AliExpress: un móvil potente con una oferta muy seria",
+    "medio": "La Vanguardia",
+    "fecha": 1774215000.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260322/11496220/poco-f8-ultra-aniversario-aliexpress-mkt-alie.html",
+    "resumen": "Rebaja destacada para uno de los móviles más potentes de POCO, con pantalla de alto nivel, gran rendimiento y precio mucho más competitivo en AliExpress"
+  },
+  {
+    "titulo": "Adiós prematuro de Alcaraz: un espectacular Korda acaba con él en tercera ronda de Miami",
+    "medio": "OK Diario",
+    "fecha": 1774214742.0,
+    "link": "https://okdiario.com/deportes/adios-prematuro-alcaraz-espectacular-korda-acaba-tercera-ronda-miami-16465184",
+    "resumen": "Carlos Alcaraz se hunde en Miami. El español no puede con un Sebastian Korda que sacó su mejor juego al servicio, que le puso contra las cuerdas, que aprovechó sus momentos y que no se vino abajo después de verse remontado en el segundo set. Cuando más tenía que resistir para evitar la remontada del … Continuar leyendo \"Adiós prematuro de Alcaraz: un espectacular Korda acaba con él en tercera ronda de Miami\""
+  },
+  {
+    "titulo": "El Gordo de la Primitiva hoy | Comprobar resultados y números premiados del sorteo del domingo 22 de marzo",
+    "medio": "El Español",
+    "fecha": 1774214450.0,
+    "link": "https://www.elespanol.com/loterias/20260322/gordo-primitiva-hoy-directo-resultados-numeros-premiados-sorteo-domingo-marzo-comprobar-premios/1003744179464_10.html",
+    "resumen": "Un nuevo sorteo del Gordo de la Primitiva se celebra este domingo 22 de marzo de 2026, a las 21:40, con un premio de 4,5 millones de euros."
+  },
+  {
+    "titulo": "No me gustaban los western hasta que vi este en Netflix. Ahora quiero unas botas cowboy, un rancho y caballos",
+    "medio": "Trendencias",
+    "fecha": 1774213312.0,
+    "link": "https://www.trendencias.com/series-de-television/no-me-gustaban-western-que-vi-este-netflix-ahora-quiero-rancho-caballos-pescar-mis-ratos-libres",
+    "resumen": "Imagina meter en una coctelera la serie de HBO de ‘Succession’, con sus intrincados dramas (y traiciones) familiares. Ahora añade un toque de las intrigas políticas de ‘House of Cards’, una de las mejores series de Netflix. Shakéalo todo y añade una pizca de cualquier telenovela, nada dramático, lo justo para darle sabor. Ponlo en mitad de Montana, en la zona que aún sigue siendo el Salvaje Oeste y disfruta porque el resultado es una locura y tendrás el western que ha enamorado a quien odia los westerns: a mí. No soy nada fan de los western. Al menos no lo era hasta ahora. Los eternos paisajes, la lentitud de los planos, esa masculinidad tóxica que me recuerda a los hombres de alto valor y una tendencia a la violencia gratuita y mascar tabaco, me daban algo de cringe. Pero es que ‘Yellowstone’ dista mucho de esa imagen de western que tenía en mi cabeza. Es mejor. Infinitamente mejor. Es un drama familiar de cowboys, pero también es el reflejo de la resistencia al cambio, de la pertenencia, de la lealtad y la familia. Y de lo que estás dispuesto a hacer por conservarlo todo. Creada por Taylor Sheridan, autor del guion de ‘Sicario’ o ‘Comanchería’, por ejemplo, ‘Yellowstone’ es la historia de una familia. Concretamente, este drama neo-western se centra en los Dutton, los dueños del rancho más grande de Estados Unidos junto al parque nacional de Yellowstone, en Montana. La trama sigue a John Dutton y sus hijos mientras intentan mantener el control de sus tierras, lo que no será nada fácil porque además de a las presiones de las grandes empresas inmobiliarias que quieren sus tierras para expandir la ciudad, nos encontramos a federales, el gobierno, la reserva indígena y la propia familia. Kevin Costner es el patriarca de la familia y el gran protagonista, aunque está rodeado de todo un arsenal que completan este crisol de personajes que dan forma a la gran tela de araña que es la serie. Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, Gil Birmingham, Brecken Merrill, Jefferson White, Danny Huston e Ian Bohen son algunos, y cada uno de ellos tiene una profundidad loca. No son personajes planos, sino llenos de matices y de experiencias que a lo largo de la serie, nos harán entender por qué son como son. De hecho habrá momentos en que empatices con los personajes más mezquinos de la serie, como ocurría con ‘Succession’, porque el contexto y el pasado en esta serie, lo es todo para entender qué les mueve. Dicen los expertos que la serie protagonizada por Kevin Costner se ha convertido en “uno de los fenómenos televisivos más improbables de la historia”. Pero la verdad es que después de verla no me extraña en absoluto que lo haya conseguido, porque es absolutamente maravillosa de principio a fin. Es sucia, descarnada, violenta y vulnerable. Sus personajes son complejos, su trama impredecible y su contenido completamente adictivo. Es la serie que no sabía que necesitaba y uno de los mejores dramas que he visto en los últimos años, a la altura de cualquiera de las mejores series de HBO, por ejemplo. En Netflix están disponibles las primeras cuatro temporadas. La quinta y última solo puedes verla al completo en SkyShowtime. Pero te aseguro que merece la pena pagar la suscripción solo por ella. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | Yellowstone En Trendencias | Las 38 mejores series de Netflix que puedes ver ahora mismo En Trendencias | Las 32 mejores series de Amazon Prime Video que puedes ver ahora mismo - La noticia No me gustaban los western hasta que vi este en Netflix. Ahora quiero unas botas cowboy, un rancho y caballos fue publicada originalmente en Trendencias por Anabel Palomares ."
+  },
+  {
+    "titulo": "Detenido el marido de la mujer atacada con líquido abrasivo en Sevilla la Nueva: habría contratado a dos sicarios para matarla",
+    "medio": "El Mundo",
+    "fecha": 1774213305.0,
+    "link": "https://www.elmundo.es/madrid/2026/03/22/69c04e11e9cf4a60788b457e.html",
+    "resumen": "La mujer sufrió quemaduras graves y se encuentra aún hospitalizada Leer"
+  },
+  {
+    "titulo": "Declaran culpable de asesinato a la mujer que arrojó a su bebé a la basura en Porto Cristo y sobre la que pesa una orden de búsqueda y captura",
+    "medio": "El Mundo",
+    "fecha": 1774213214.0,
+    "link": "https://www.elmundo.es/baleares/2026/03/22/69c05768e4d4d8cc5e8b457b.html",
+    "resumen": "Su cuñado, Gustavo Pretel, también ha sido declarado culpable por el asesinato de la bebé, que, según concluye el jurado, nació con vida y no fue auxiliada por ninguno de los dos Leer"
+  },
+  {
+    "titulo": "El Jaén levanta su cuarta Copa de España de fútbol sala tras vencer al Barcelona en penaltis",
+    "medio": "El País",
+    "fecha": 1774213195.0,
+    "link": "https://elpais.com/deportes/futbol/2026-03-22/el-jaen-levanta-su-cuarta-copa-de-espana-de-futbol-sala-tras-vencer-al-barcelona-en-penaltis.html",
+    "resumen": "El equipo andaluz anotó sus cuatro disparos y Espíndola paró dos de los azulgranas después de un partido intenso, equilibrado y sin goles en el que la defensa tuvo más peso que el ataque"
+  },
+  {
+    "titulo": "Las 12 ciudades españolas en las que ya se venden más casas que en el pico de la burbuja",
+    "medio": "HuffPost",
+    "fecha": 1774213112.0,
+    "link": "https://www.huffingtonpost.es/sociedad/las-12-ciudades-espanolas-venden-mas-casas-pico-burbuja-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Rosa Moreno, experta en tendencias: \"Cocinar se ha convertido en un lujo: el ritmo de vida frenético ha cambiado para siempre la relación con la cocina\"",
+    "medio": "HuffPost",
+    "fecha": 1774213073.0,
+    "link": "https://www.huffingtonpost.es/life/estilo-vida/rosa-moreno-experta-tendencias-cocinar-convertido-lujo-ritmo-vida-frenetico-cambiado-siempre-relacion-cocina-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "España se da un festival de medallas en la última jornada del Mundial de Atletismo",
+    "medio": "The Objective",
+    "fecha": 1774213011.0,
+    "link": "https://theobjective.com/deportes/2026-03-22/espana-medallas-mundial-atletismo/",
+    "resumen": "El atleta español Mariano García se proclamó campeón del mundo de 1.500 metros, mientras que Mohamed Attaoui, en la final de 800 metros, y el 4×400 […]"
+  },
+  {
+    "titulo": "Junts avalará endurecer la regularización masiva de migrantes del Gobierno",
+    "medio": "La Vanguardia",
+    "fecha": 1774213004.0,
+    "link": "https://www.lavanguardia.com/politica/20260322/11496440/junts-votara-favor-enmienda-pp-endurece-regularizacion-migrantes.html",
+    "resumen": "Se trata de una iniciativa que el PP ha introducido desde el Senado en la ley para luchar contra la multirreincidencia que impulsó JxCat; el jueves se votará en el Congreso"
   },
   {
     "titulo": "El dispositivo del hogar de 25 gramos que todos tiramos a la basura y contiene oro de 22 quilates",
@@ -21,27 +245,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel se prepara para intensificar la invasión terrestre en el sur de Líbano",
-    "medio": "El País",
-    "fecha": 1774212597.0,
-    "link": "https://elpais.com/internacional/2026-03-22/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "El ejército israelí bombardea la autopista que conecta la mayor ciudad del sur de Líbano con el resto del país | España exige reabrir el estrecho de Ormuz y preservar “todos los yacimientos energéticos” en Oriente Próximo"
-  },
-  {
-    "titulo": "Dónde mirar el Real Madrid – Atlético, en directo: cómo va el derbi de LALIGA en vivo online hoy",
-    "medio": "The Objective",
-    "fecha": 1774212583.0,
-    "link": "https://theobjective.com/directo/deportes/futbol/2026-03-22/real-madrid-atletico-directo-vivo-online-liga-derbi/",
-    "resumen": ""
-  },
-  {
-    "titulo": "Resultado Alcaraz vs Korda en directo online | Resumen y cómo va el partido del Masters 1000 de Miami 2026 en vivo hoy",
-    "medio": "OK Diario",
-    "fecha": 1774212358.0,
-    "link": "https://okdiario.com/deportes/alcaraz-korda-directo-sigue-partido-del-masters-1000-miami-2026-vivo-hoy-16464661",
-    "resumen": "Carlos Alcaraz busca su segundo Masters 1.000 de Miami y en esta tercera ronda se mide a Sebastian Korda. El murciano viene de ganar en su debut a Joao Fonseca por 6-4 y 6-4, mientras que el estadounidense batió al argentino Camilo Ugo Carabelli por un contundente 6-0 y 6-3. De cara a la semana … Continuar leyendo \"Resultado Alcaraz vs Korda en directo online | Resumen y cómo va el partido del Masters 1000 de Miami 2026 en vivo hoy\""
-  },
-  {
     "titulo": "Nos roban y quieren que les demos las gracias",
     "medio": "OK Diario",
     "fecha": 1774212304.0,
@@ -49,11 +252,11 @@
     "resumen": "Sánchez, pendiente del primero de los juicios que tendrá su mujer por considerarse más de lo que es y vivir por encima de lo que marca la ley, ha destapado su habitual demagogia vergonzosa para justificar por qué no presenta presupuestos, tal y como le obliga la Constitución. Lleva al Parlamento la dosis rutinaria de … Continuar leyendo \"Nos roban y quieren que les demos las gracias\""
   },
   {
-    "titulo": "El Gordo de la Primitiva hoy | Comprobar resultados y números premiados del sorteo del domingo 22 de marzo",
-    "medio": "El Español",
-    "fecha": 1774212186.0,
-    "link": "https://www.elespanol.com/loterias/20260322/gordo-primitiva-hoy-directo-resultados-numeros-premiados-sorteo-domingo-marzo-comprobar-premios/1003744179464_10.html",
-    "resumen": "Un nuevo sorteo del Gordo de la Primitiva se celebra este domingo 22 de marzo de 2026, a las 21:40, con un premio de 4,5 millones de euros."
+    "titulo": "Dónde ver el resultado en directo de Alcaraz – Korda en el partido del Masters 1000 de Miami online en vivo hoy",
+    "medio": "OK Diario",
+    "fecha": 1774212046.0,
+    "link": "https://okdiario.com/deportes/carlos-alcaraz-korda-cuando-partido-del-masters-1000-miami-que-hora-empieza-canal-tv-verlo-gratis-directo-16459555",
+    "resumen": "Carlos Alcaraz se enfrentará a Sebastian Korda en la tercera ronda del Masters 1000 de Miami 2026 en lo que será un auténtico partidazo, ya que se mide a un tenista nacido en Florida, lugar donde se está jugando el torneo. El murciano arrancó ganando a Joao Fonseca y ahora el objetivo es ir superando … Continuar leyendo \"Dónde ver el resultado en directo de Alcaraz – Korda en el partido del Masters 1000 de Miami online en vivo hoy\""
   },
   {
     "titulo": "El Real Madrid le da un baño al Barça en el Palau: 76-95",
@@ -61,20 +264,6 @@
     "fecha": 1774211698.0,
     "link": "https://elpais.com/deportes/baloncesto/2026-03-22/el-real-madrid-le-da-un-bano-al-barca-en-el-palau-76-95.html",
     "resumen": "El conjunto de Scariolo plasma en el clásico liguero la gran diferencia actual entre ambos equipos"
-  },
-  {
-    "titulo": "Mariano García consigue el oro en los 1.500 metros del Mundial de Atletismo",
-    "medio": "El País",
-    "fecha": 1774211688.0,
-    "link": "https://elpais.com/deportes/2026-03-22/mariano-garcia-consigue-el-oro-en-1500-metros-del-mundial-de-atletismo.html",
-    "resumen": "El murciano sube al primer cajón del podio con un tiempo de 3m39,63s y conquista su segundo título mundial tras el conseguido en la prueba de 800 metros en 2022 en Belgrado"
-  },
-  {
-    "titulo": "Los socialdemócratas alemanes pierden por primera vez en 35 años las elecciones en el Estado de Renania-Palatinado",
-    "medio": "El País",
-    "fecha": 1774211431.0,
-    "link": "https://elpais.com/internacional/2026-03-22/los-socialdemocratas-alemanes-pierden-por-primera-vez-en-35-anos-las-elecciones-en-el-pequeno-estado-de-renania-palatinado.html",
-    "resumen": "La Unión Cristianodemócrata (CDU) ha ganado a los socialdemócratas en los comicios de este domingo, según las últimas proyecciones"
   },
   {
     "titulo": "Las mujeres del 4x400 también se suben al podio: bronce",
@@ -105,6 +294,13 @@
     "resumen": "Especialistas en rescates de los Bomberos de la Generalitat han trabajado durante horas este domingo para rescatar a cuatro jóvenes que han quedado atrapados tras el derrumbe de un viejo hospital, abandonado, en la localidad barcelonesa de Esparraguera, en la comarca del Bajo Llobregat. Dos de los muchachos han resultado heridos y otros dos ilesos. … Continuar leyendo \"Dos jóvenes heridos tras derrumbarse sobre ellos un hospital abandonado en Esparraguera (Barcelona)\""
   },
   {
+    "titulo": "La dureza de Cuadri arruina el inicio de temporada en Las Ventas",
+    "medio": "El Mundo",
+    "fecha": 1774210978.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/03/22/69c04f9ffc6c83af518b458a.html",
+    "resumen": "La divisa onubense lidia una corrida de nulas opciones por su falta de raza y excesivo sentido pese a la impecable lámina Leer"
+  },
+  {
     "titulo": "Tres detenidos por prender fuego a una mujer tras rociarla con líquido inflamable en Madrid",
     "medio": "La Vanguardia",
     "fecha": 1774210860.0,
@@ -119,13 +315,6 @@
     "resumen": "El equipo de Scariolo abrió una brecha de 18 puntos con minutos brillantes de Campazzo, Procida y Hezonja que los azulgrana no pudieron remontar. Leer"
   },
   {
-    "titulo": "El relevo 4x400 femenino remata con un bronce un sensacional Mundial de España",
-    "medio": "El Mundo",
-    "fecha": 1774210586.0,
-    "link": "https://www.elmundo.es/deportes/mas-deporte/2026/03/22/69c0390921efa078148b457b.html",
-    "resumen": "Paula Sevilla, Ana Prieto, Rocío Arroyo y Blanca Hervás, con una extraordinaria remontada, consiguen la quinta medalla para España tras el tercer puesto de Moha Attaoui en el 800 Leer"
-  },
-  {
     "titulo": "Elsa Ramos Elías: “El matcha se consolida como alternativa saludable al café”",
     "medio": "La Vanguardia",
     "fecha": 1774210500.0,
@@ -133,25 +322,18 @@
     "resumen": "A diferencia del café, el matcha consigue una mayor claridad mental y menos sensación de nerviosismo o bajón posterior, entre otros beneficios"
   },
   {
+    "titulo": "Declaran culpable de asesinato a una mujer que arrojó a su bebé a la basura en Mallorca",
+    "medio": "La Vanguardia",
+    "fecha": 1774210245.0,
+    "link": "https://www.lavanguardia.com/local/baleares/20260322/11496432/declaran-culpable-asesinato-mujer-arrojo-bebe-basura-mallorca.html",
+    "resumen": "La mujer condenada, que estaba citada se encuentra en paradero desconocido."
+  },
+  {
     "titulo": "El relevo pone el broche a un gran Mundial de España: bronce en 4×400 femenino",
     "medio": "OK Diario",
     "fecha": 1774210224.0,
     "link": "https://okdiario.com/deportes/relevo-pone-broche-gran-mundial-espana-bronce-4x400-femenino-16465098",
     "resumen": "España cerró una brillante participación en el Mundial de Atletismo Indoor 2026, redondeando su palmarés con cinco medallas tras el bronce en relevo femenino 4×400. Las relevistas cerraron un gran domingo en el que la delegación española se colgó tres medallas. Además de esta última, también consiguió el oro de Mariano García en 1.500 metros … Continuar leyendo \"El relevo pone el broche a un gran Mundial de España: bronce en 4×400 femenino\""
-  },
-  {
-    "titulo": "El Athletic resuelve y resiste frente al Betis en una noche sin espacio para el sentimentalismo",
-    "medio": "El País",
-    "fecha": 1774209962.0,
-    "link": "https://elpais.com/deportes/futbol/2026-03-22/el-athletic-resuelve-y-resiste-frente-al-betis-en-una-noche-sin-espacio-para-el-sentimentalismo.html",
-    "resumen": "Sin homenajes a Valverde por deseo del técnico, el equipo rojiblanco fue muy superior de inicio, pero le tocó sufrir mucho tras el descanso"
-  },
-  {
-    "titulo": "Jódar dice adiós a Miami: Etcheverry acaba con la aventura del español en tercera ronda",
-    "medio": "OK Diario",
-    "fecha": 1774209958.0,
-    "link": "https://okdiario.com/deportes/jodar-dice-adios-miami-etcheverry-acaba-aventura-del-espanol-tercera-ronda-16465080",
-    "resumen": "Rafa Jódar dice adiós en tercera ronda del Masters 1.000 de Miami. Un torneo que nunca olvidará, eso sí. El de Leganés, tras ganar sus dos primeros partidos en un Masters 1.000, se despide cayendo en dos sets ante el argentino Tomás Etcheverry, por 7-5 y 6-4. Jugó un gran tenis el madrileño, pero no … Continuar leyendo \"Jódar dice adiós a Miami: Etcheverry acaba con la aventura del español en tercera ronda\""
   },
   {
     "titulo": "Trump y Merz acuerdan «mantener un contacto estrecho» sobre la situación en Irán y Ucrania",
@@ -189,67 +371,11 @@
     "resumen": "Love Story: John F. Kennedy Jr. y Carolyn Bessette de Disney+, comienza por un punto incómodo: hablar sobre el poder. Mucho más, analizar cómo la poderosa familia Kennedy es parte no solo de la historia de su país, sino del mundo. A partir de ahí, el polémico Ryan Murphy establece un punto complicado. Lo que […] Seguir leyendo: De qué va ‘Love Story: John F. Kennedy Jr. y Carolyn Bessette’, la serie de Ryan Murphy que se ha convertido en un éxito muy polémico"
   },
   {
-    "titulo": "Los socialistas retienen la alcaldía de París con un triunfo holgado",
-    "medio": "La Vanguardia",
-    "fecha": 1774209501.0,
-    "link": "https://www.lavanguardia.com/internacional/20260322/11496334/socialistas-retienen-alcaldia-paris.html",
-    "resumen": "La izquierda conserva Marsella y los ecologistas siguen controlando Lyon"
-  },
-  {
-    "titulo": "Himno del Atlético de Madrid: todas las canciones y letras",
-    "medio": "OK Diario",
-    "fecha": 1774209305.0,
-    "link": "https://okdiario.com/deportes/himno-del-atletico-madrid-todas-canciones-letras-15863046",
-    "resumen": "El Club Atlético de Madrid es conocido mundialmente no solo por sus títulos y su famosa filosofía de sufrimiento y coraje, sino también por la inquebrantable pasión de su afición, un sentimiento que se manifiesta de forma épica en el Cívitas Metropolitano y que tiene en sus himnos y canciones un pilar fundamental. Más allá … Continuar leyendo \"Himno del Atlético de Madrid: todas las canciones y letras\""
-  },
-  {
-    "titulo": "VÍDEO EN DIRECTO: Real Madrid vs. Atlético de Madrid",
-    "medio": "HuffPost",
-    "fecha": 1774209210.0,
-    "link": "https://www.huffingtonpost.es/videos/video-directo-real-madrid-vs-atletico-madrid-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La izquierda resiste en París, Marsella y Lyon, las tres grandes ciudades francesas",
-    "medio": "El País",
-    "fecha": 1774209149.0,
-    "link": "https://elpais.com/internacional/2026-03-22/la-izquierda-resiste-en-paris-marsella-y-lyon-las-tres-grandes-ciudades-francesas.html",
-    "resumen": "El partido de Marine Le Pen se queda a las puertas de sus grandes objetivos y tiene que conformarse con pequeñas victorias para implantar su poder territorial"
-  },
-  {
-    "titulo": "¿Cuánta distancia hay de Irán a España? EEUU confirma que un misil iraní puede llegar a los países de Europa",
-    "medio": "OK Diario",
-    "fecha": 1774208857.0,
-    "link": "https://okdiario.com/espana/cuanta-distancia-hay-iran-espana-eeuu-confirma-que-misil-irani-puede-llegar-paises-europa-16464986",
-    "resumen": "Michael Waltz, el embajador de Estados Unidos ante Naciones Unidas, ha declarado este domingo que es significativo que la dictadura de los ayatolás de Irán haya demostrado su capacidad para lanzar misiles balísticos de largo alcance, capaces de impactar gran parte de países de Europa, lo que ha llevado a preguntarse la distancia de la … Continuar leyendo \"¿Cuánta distancia hay de Irán a España? EEUU confirma que un misil iraní puede llegar a los países de Europa\""
-  },
-  {
-    "titulo": "Bezzecchi y Martín ponen a Aprilia por las nubes en el GP de Brasil",
-    "medio": "El País",
-    "fecha": 1774208482.0,
-    "link": "https://elpais.com/deportes/motociclismo/2026-03-22/bezzecchi-y-martin-ponen-a-aprilia-por-las-nubes-en-el-gp-de-brasil.html",
-    "resumen": "El italiano logra su cuarta victoria consecutiva en MotoGP, el español vuelve al podio tras su clavario de lesiones y Di Giannantonio le arrebata el podio a Márquez"
-  },
-  {
     "titulo": "El Real Madrid asalta el Palau y masacra al Barça para ser más líder de la Liga Endesa",
     "medio": "El Español",
     "fecha": 1774208364.0,
     "link": "https://www.elespanol.com/deportes/baloncesto/20260322/real-madrid-asalta-palau-masacra-barca-lider-liga-endesa/1003744179533_0.html",
     "resumen": "Los de Scariolo no le dieron la más mínima oportunidad a los culés (76-95) con un partido excelso en el lanzamiento exterior. Es una de las mayores 'palizas' de todos los tiempos en un Clásico de ACB."
-  },
-  {
-    "titulo": "El Real Madrid destroza al Barça en un clásico demasiado blanco",
-    "medio": "La Vanguardia",
-    "fecha": 1774208329.0,
-    "link": "https://www.lavanguardia.com/deportes/baloncesto/20260322/11496425/barca-real-madrid-liga-endesa-resumen.html",
-    "resumen": "Los blancos asaltan el Palau con una superioridad aplastante ante un rival falto de efectivos y energía, que apenas compareció diez minutos"
-  },
-  {
-    "titulo": "Los mejores cien metros de la historia le aseguran a China la próxima estrella del estilo libre: “Su potencial es ilimitado”",
-    "medio": "La Vanguardia",
-    "fecha": 1774208159.0,
-    "link": "https://www.lavanguardia.com/deportes/natacion/20260322/11496424/mejores-cien-metros-historia-le-aseguran-china-proxima-estrella-estilo-libre-potencial-ilimitado.html",
-    "resumen": "Zhang Zhanshuo, de 19 años, acumula tres oros en los Nacionales de China donde en los 800 libre logró el mejor tramo final de siempre. Sus marcas causa admiración entre sus compatriotas"
   },
   {
     "titulo": "Los residuos nucleares son un problema, así que Alemania está buscando la solución en una roca del Jurásico en Suiza",
@@ -284,35 +410,7 @@
     "medio": "eldiario.es",
     "fecha": 1774206803.0,
     "link": "https://www.eldiario.es/internacional/grandes-ciudades-francesas-resisten-extrema-derecha-marine-le-pen-primeros-resultados_1_13088349.html",
-    "resumen": "Agrupación Nacional fracasa en su intento de añadir nuevas grandes alcaldías a la de Perpiñan, donde gobiernan desde 2020. En París, el socialista Emmanuel Grégoire ha sido reelegido al derrotar a la candidata conservadora Rachida DatiFrancia celebra la segunda vuelta de las municipales con la vista en las presidenciales de 2027 y sus alianzas Los primeros resultados oficiales indican que la extrema derecha francesa de Agrupación Nacional no logra el espaldarazo de los votantes en las elecciones municipales que se han celebrado hoy en toda Francia. Ni en Marsella, ni en Nimes ni en Toulon, donde tenía posibilidades, ha logrado hacerse con la alcaldía. Mientras tanto, el París el socialista Emmanuel Grégoire derrotó a la conservadora exministra de Cultura Rachida Dati Francia ha celebrado este domingo la segunda vuelta de las elecciones municipales con gran parte de la atención centrada en las principales ciudades, laboratorios políticos donde los partidos ponen a prueba estrategias electorales de cara a un 2027 que se perfila como un año electoral decisivo. Después de los resultados históricos en las últimas legislativas y europeas de 2024, el partido de Marine Le Pen, Agrupación Nacional (RN), llegaba a estas municipales con el objetivo de avanzar en su proceso de implantación local y de seguir desgastando el cordón sanitario que les aísla del resto de formaciones políticas. La victoria en una nueva gran ciudad —desde 2020 gobiernan en Perpiñán— respaldaría la estrategia de normalización de la formación de extrema derecha y confirmaría sus posibilidades de cara a 2027 (históricamente obtiene peores resultados en el electorado urbano). Una de las lecciones de estas municipales es que el partido de Jordan Bardella y Marine Le Pen no ha conseguido, de momento, escapar de ese cordón sanitario. Bardella había tendido la mano a “las derechas sinceras” de cara al voto del próximo domingo. Pero lo cierto es que, de momento, la derecha gaullista y el centroderecha se niegan a pactar con RN. Y los partidos de izquierda se siguen movilizando allí donde tienen opciones de impedir la victoria de la extrema derecha lepenista (en Marsella el candidato insumiso se retiró en favor del socialista). Como consecuencia, el partido de Le Pen ha fracasado en su intento de hacerse con las alcaldías de Nimes y Toulon, pese a que estas ciudades se hallan en territorios en los que RN consigue algunos de sus mejores resultados en todas las elecciones a nivel nacional y a que sus candidatos llegaron en cabeza en la primera vuelta. El único consuelo de la noche para la extrema derecha francesa fue la victoria de Éric Ciotti en Niza. Tránsfuga del partido gaullista Los Republicanos, Ciotti se alió con Le Pen en 2024 y creó un partido propio (Unión de derechas por la República) que se presentó a las municipales como satélite de Le Pen. Tras una campaña particularmente bronca contra el alcalde de centroderecha Christian Estrosi, Ciotti se benefició de la no retirada de la candidata ecologista, que puso al mismo nivel a sus dos rivales. A pesar de que la extrema derecha lepenista no cumplió sus objetivos, el presidente del partido, Jordan Bardella, quiso lanzar un mensaje de optimismo. “Esta noche es una noche de victoria y esperanza, RN ha logrado el mayor avance de toda su historia”, afirmó, para subrayar la victoria en ciudades medianas y la de sus aliados en Niza. “Al término de la segunda vuelta, podemos contar decenas de nuevas victorias, en Carcasona, Liévin, Tarascon, La Flèche, La Seyne-sur-Mer, Niza y Saint-Avold. En Marsella, como en todas partes, RN se impone como la principal fuerza de la oposición, el único baluarte contra la extrema izquierda”. En estos comicios, que se celebran cada seis años, cualquier candidato que sume más de un 10% de los votos se clasifica para la segunda vuelta, haciendo posibles múltiples duelos triangulares, cuadrangulares o incluso entre más candidatos. Un contexto en el que las fusiones de listas para agrupar electorados o las candidaturas que renuncian a presentarse desempeñan un papel crucial en la elección de los alcaldes, especialmente en las grandes ciudades. Listas de unidad de la izquierda Antes de la primera vuelta, el Partido Socialista (PS) aspiraba a imponerse como primera formación progresista y también a demostrar que puede ganar cerrando alianzas con Ecologistas y Comunistas, pero sin Francia Insumisa (LFI). El PS quería avanzar hacia la formación de una gran coalición progresista sin el partido de Jean-Luc Mélenchon. Pero los buenos resultados de LFI obligaron a muchos candidatos socialistas a cambiar el discurso y a buscar el apoyo de los insumisos para ganar. El coordinador de LFI, Manuel Bompard, reivindicó el domingo las victorias del partido en ciudades como Roubaix. “El avance de las listas de LFI, ya observado en la primera vuelta, se confirma, se amplía y se refuerza”, aseguró. “Esta noche hemos demostrado que nada puede resistir a la movilización popular”, añadió, en referencia a la presidencial de 2027. “El año que viene, la nueva Francia puede barrer a la macronía y sus políticas de desgracia”. No obstante, el balance de la izquierda no fue completamente positivo. En dos ciudades importantes, Toulouse y Limoges, los candidatos de LFI habían llegado por delante de los socialistas y se habían presentado como cabezas de listas unitarias de la izquierda, aspirando a convertir estas dos capitales en las primeras en tener un alcalde insumiso. En ambas ciudades ganó la derecha moderada, como también lo hizo en Brest y Besançon. “Seguimos siendo, ahora más que nunca, la principal fuerza política local en Francia”, afirmó el presidente del partido Los Republicanos, Bruno Retailleau, que reivindica el mayor número de alcaldías (aunque la mayor parte de las ciudades más pobladas tienen alcaldes progresistas). “Francia no está condenada a un falso dilema entre los ideólogos de LFI y los demagogos de Agrupación Nacional”. Más allá del control de los ayuntamientos, con las elecciones municipales los partidos tenían otro objetivo importante: las elecciones al Senado del próximo septiembre que, como cada tres años, renovarán una parte de sus escaños. En Francia esta elección se realiza por sufragio indirecto a través de un colegio de grandes electores, formado mayoritariamente por los representantes locales (alcaldes, concejales, diputados regionales), lo que vincula directamente las dos votaciones. Francia Insumisa no cuenta hoy con ningún senador y Agrupación Nacional solo con tres, pero su trabajo de implantación en estas elecciones locales debería ayudarles a crecer el próximo otoño. Macron, acusado de influir en París Por otro lado, si hace seis años la prensa francesa hablaba de una “ola verde” por los excelentes resultados de Europa Ecología-Los Verdes en todo el país, en estas elecciones los ecologistas son, junto a los macronistas, las dos fuerzas políticas con una dinámica más negativa (aunque los verdes dieron la sorpresa y pudieron conservar la alcaldía de Lyon). En particular, el partido que fundó Emmanuel Macron, Renacimiento, que en previsión había optado por una estrategia minimalista. Sin embargo, la discreción del partido presidencial y del Gobierno en la campaña contrastan con la irrupción —involuntaria— de Emmanuel Macron en la carrera por la alcaldía de París. El candidato socialista, Emmanuel Grégoire, acusó a Macron de haber intervenido personalmente “a través de intermediarios” para facilitar la retirada de Sarah Knafo, candidata ultraderechista, clasificada para la segunda vuelta de las elecciones en la capital. El equipo de Grégoire acusa al presidente de haber transmitido un mensaje al empresario conservador Vincent Bolloré, cercano a Sarah Knafo a la que los medios de Bolloré invitan frecuentemente. Macron también habría participado en las presiones al candidato centrista para que fusionase su lista con la de la conservadora Rachida Dati. Todo ello con intención de favorecer la victoria de esta candidata, que hasta hace poco era ministra de Cultura, y que según los medios franceses cuenta con el favor del presidente y de su esposa. En todo caso, en París la estrategia de unidad de la derecha de Dati no ha funcionado y la candidata apenas ha mejorado el resultado que consiguió en la primera vuelta. En su discurso tras la victoria, Grégoire clamó: “Los parisinos han enviado un mensaje a Jordan Bardella, Marine Le Pen y Sarah Knafo. París no es ni será jamás una ciudad de extrema derecha”."
-  },
-  {
-    "titulo": "Mario Sánchez, tecnólogo de alimentos: \"Pasarse una semana de la fecha del huevo aumenta el riesgo de salmonela un 30% aunque ponga consumo preferente y no caducidad\"",
-    "medio": "HuffPost",
-    "fecha": 1774206487.0,
-    "link": "https://www.huffingtonpost.es/life/salud/mario-sanchez-tecnologo-alimentos-pasarse-semana-fecha-huevo-aumenta-riesgo-salmonela-30-ponga-consumo-preferente-caducidad-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Cuatro jóvenes quedan atrapados en el antiguo hospital de Esparreguera tras colapsar la estructura",
-    "medio": "La Vanguardia",
-    "fecha": 1774206470.0,
-    "link": "https://www.lavanguardia.com/local/baix-llobregat/20260322/11496413/cuatro-jovenes-atrapados-hospital-de-esparreguera.html",
-    "resumen": "Los bomberos han conseguido rescatar a los cuatro adolescentes"
-  },
-  {
-    "titulo": "Attaui se encierra y debe conformarse con el bronce del 800",
-    "medio": "La Vanguardia",
-    "fecha": 1774206145.0,
-    "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260322/11496408/attaui-encierra-debe-conformarse-bronce-800.html",
-    "resumen": "El adolescente Cooper Lutkenhaus, de 17 años, se hace con el oro e irrumpe en la escena internacional"
-  },
-  {
-    "titulo": "Rusia anuncia escoltas armadas para proteger su flota fantasma de petroleros tras el ataque de Ucrania con drones a uno de sus barcos",
-    "medio": "HuffPost",
-    "fecha": 1774206126.0,
-    "link": "https://www.huffingtonpost.es/global/rusia-anuncia-escoltas-armadas-proteger-flota-fantasma-petroleros-ataque-ucrania-drones-barcos-f202603.html",
-    "resumen": ""
+    "resumen": "Agrupación Nacional fracasa en su intento de añadir nuevas grandes alcaldías a la de Perpiñan, donde gobiernan desde 2020. En París, el socialista Emmanuel Grégoire ha sido reelegido al derrotar a la candidata conservadora Rachida DatiFrancia celebra la segunda vuelta de las municipales con la vista en las presidenciales de 2027 y sus alianzas La extrema derecha francesa de Agrupación Nacional no ha logrado el espaldarazo que esperaba en las elecciones municipales que se han celebrado este domingo en toda Francia. Ni en Marsella ni en Nimes ni en Toulon, las tres grandes ciudades que aspiraba a gobernar, ha logrado hacerse con la alcaldía. Mientras tanto, el Partido Socialista conserva las dos grandes ciudades del país, Marsella y París. En la capital, el socialista Emmanuel Grégoire derrotó con claridad a la conservadora exministra de Cultura Rachida Dati. Francia ha celebrado este domingo la segunda vuelta de las elecciones con gran parte de la atención centrada en las principales ciudades, laboratorios políticos donde los partidos ponen a prueba estrategias electorales de cara a un 2027 que se perfila como un año electoral decisivo. Después de los resultados históricos en las últimas legislativas y europeas de 2024, el partido de Marine Le Pen, Agrupación Nacional (RN), llegaba a estas municipales con el objetivo de avanzar en su proceso de implantación local y de seguir desgastando el cordón sanitario que les aísla del resto de formaciones políticas. La victoria en una nueva gran ciudad —desde 2020 gobiernan en Perpiñán— hubiera respaldado la estrategia de normalización de la formación de extrema derecha y confirmado sus posibilidades de cara a 2027 (históricamente obtiene peores resultados en el electorado urbano). Una de las lecciones de estas municipales es que el partido de Jordan Bardella y Marine Le Pen no ha conseguido, de momento, escapar de ese cordón sanitario. Bardella había tendido la mano a “las derechas sinceras” de cara al voto de este domingo. Pero lo cierto es que, de momento, la derecha gaullista y el centroderecha se niegan a pactar con RN. Y los partidos de izquierda se siguen movilizando allí donde tienen opciones de impedir la victoria de la extrema derecha lepenista (en Marsella el candidato insumiso se retiró en favor del socialista). Como consecuencia, el partido de Le Pen ha fracasado en su intento de hacerse con las alcaldías de Nimes y Toulon, pese a que estas ciudades se hallan en territorios en los que RN consigue algunos de sus mejores resultados en todas las elecciones a nivel nacional y a que sus candidatos llegaron en cabeza en la primera vuelta. El único consuelo de la noche para la extrema derecha francesa fue la victoria de Éric Ciotti en Niza. Tránsfuga del partido gaullista Los Republicanos, Ciotti se alió con Le Pen en 2024 y creó un partido propio (Unión de derechas por la República) que se presentó a las municipales como satélite de Le Pen. Tras una campaña particularmente bronca contra el alcalde de centroderecha Christian Estrosi, Ciotti se benefició de la no retirada de la candidata ecologista, que puso al mismo nivel a sus dos rivales. A pesar de que la extrema derecha lepenista no cumplió sus objetivos, el presidente del partido, Jordan Bardella, quiso lanzar un mensaje de optimismo. “Esta noche es una noche de victoria y esperanza, RN ha logrado el mayor avance de toda su historia”, afirmó, para subrayar la victoria en ciudades medianas y la de sus aliados en Niza. “Al término de la segunda vuelta, podemos contar decenas de nuevas victorias, en Carcasona, Liévin, Tarascon, La Flèche, La Seyne-sur-Mer, Niza y Saint-Avold. En Marsella, como en todas partes, RN se impone como la principal fuerza de la oposición, el único baluarte contra la extrema izquierda”. En estos comicios, que se celebran cada seis años, cualquier candidato que sume más de un 10% de los votos se clasifica para la segunda vuelta, haciendo posibles múltiples duelos triangulares, cuadrangulares o incluso entre más candidatos. Un contexto en el que las fusiones de listas para agrupar electorados o las candidaturas que renuncian a presentarse desempeñan un papel crucial en la elección de los alcaldes, especialmente en las grandes ciudades. Listas de unidad de la izquierda Antes de la primera vuelta, el Partido Socialista (PS) aspiraba a imponerse como primera formación progresista y también a demostrar que puede ganar cerrando alianzas con Ecologistas y Comunistas, pero sin Francia Insumisa (LFI). El PS quería avanzar hacia la formación de una gran coalición progresista sin el partido de Jean-Luc Mélenchon. Pero los buenos resultados de LFI obligaron a muchos candidatos socialistas a cambiar el discurso y a buscar el apoyo de los insumisos para ganar. El coordinador de LFI, Manuel Bompard, reivindicó el domingo las victorias del partido en ciudades como Roubaix. “El avance de las listas de LFI, ya observado en la primera vuelta, se confirma, se amplía y se refuerza”, aseguró. “Esta noche hemos demostrado que nada puede resistir a la movilización popular”, añadió, en referencia a la presidencial de 2027. “El año que viene, la nueva Francia puede barrer a la macronía y sus políticas de desgracia”. No obstante, el balance de la izquierda no fue completamente positivo. En dos ciudades importantes, Toulouse y Limoges, los candidatos de LFI habían llegado por delante de los socialistas y se habían presentado como cabezas de listas unitarias de la izquierda, aspirando a convertir estas dos capitales en las primeras en tener un alcalde insumiso. En ambas ciudades ganó la derecha moderada, como también lo hizo en Brest y Besançon. “Seguimos siendo, ahora más que nunca, la principal fuerza política local en Francia”, afirmó el presidente del partido Los Republicanos, Bruno Retailleau, que reivindica el mayor número de alcaldías (aunque la mayor parte de las ciudades más pobladas tienen alcaldes progresistas). “Francia no está condenada a un falso dilema entre los ideólogos de LFI y los demagogos de Agrupación Nacional”. Más allá del control de los ayuntamientos, con las elecciones municipales los partidos tenían otro objetivo importante: las elecciones al Senado del próximo septiembre que, como cada tres años, renovarán una parte de sus escaños. En Francia esta elección se realiza por sufragio indirecto a través de un colegio de grandes electores, formado mayoritariamente por los representantes locales (alcaldes, concejales, diputados regionales), lo que vincula directamente las dos votaciones. Francia Insumisa no cuenta hoy con ningún senador y Agrupación Nacional solo con tres, pero su trabajo de implantación en estas elecciones locales debería ayudarles a crecer el próximo otoño. Macron, acusado de influir en París Por otro lado, si hace seis años la prensa francesa hablaba de una “ola verde” por los excelentes resultados de Europa Ecología-Los Verdes en todo el país, en estas elecciones los ecologistas son, junto a los macronistas, las dos fuerzas políticas con una dinámica más negativa (aunque los verdes dieron la sorpresa y pudieron conservar la alcaldía de Lyon). En particular, el partido que fundó Emmanuel Macron, Renacimiento, que en previsión había optado por una estrategia minimalista. Sin embargo, la discreción del partido presidencial y del Gobierno en la campaña contrastan con la irrupción —involuntaria— de Emmanuel Macron en la carrera por la alcaldía de París. El candidato socialista, Emmanuel Grégoire, acusó a Macron de haber intervenido personalmente “a través de intermediarios” para facilitar la retirada de Sarah Knafo, candidata ultraderechista, clasificada para la segunda vuelta de las elecciones en la capital. El equipo de Grégoire acusa al presidente de haber transmitido un mensaje al empresario conservador Vincent Bolloré, cercano a Sarah Knafo a la que los medios de Bolloré invitan frecuentemente. Macron también habría participado en las presiones al candidato centrista para que fusionase su lista con la de la conservadora Rachida Dati. Todo ello con intención de favorecer la victoria de esta candidata, que hasta hace poco era ministra de Cultura, y que según los medios franceses cuenta con el favor del presidente y de su esposa. En todo caso, en París la estrategia de unidad de la derecha de Dati no ha funcionado y la candidata apenas ha mejorado el resultado que consiguió en la primera vuelta. En su discurso tras la victoria, Grégoire clamó: “Los parisinos han enviado un mensaje a Jordan Bardella, Marine Le Pen y Sarah Knafo. París no es ni será jamás una ciudad de extrema derecha”."
   },
   {
     "titulo": "A qué hora es mejor desayunar lleva años provocando debates: la ciencia de la \"crononutrición\" los está resolviendo",
@@ -343,20 +441,6 @@
     "resumen": "El presidente del Gobierno, Pedro Sánchez, ha exigido este domingo la apertura del estrecho de Ormuz y «la preservación de todos los yacimientos energéticos» de Oriente […]"
   },
   {
-    "titulo": "Prueba un menú del día por 28 euros en León y sentencia si de verdad merece la pena pagarlo",
-    "medio": "HuffPost",
-    "fecha": 1774205390.0,
-    "link": "https://www.huffingtonpost.es/virales/prueba-menu-dia-28-euros-sentencia-verdad-merece-pena-pagarlo-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La Semana Santa de Sagunto mantiene el veto a las mujeres y se expone a perder la declaración de Interés Turístico Nacional",
-    "medio": "El Mundo",
-    "fecha": 1774204448.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/2026/03/22/69c03549e9cf4aa75e8b457a.html",
-    "resumen": "El Gobierno esperaba a la votación celebrada ayer para revisar la posible \"pérdida sobrevenida\" de los requisitos del reconocimiento, por discriminación por género. La inclusión de las mujeres ha tenido menos votos que en la consulta de 2022 Leer"
-  },
-  {
     "titulo": "Las universidades de China están eliminando las carreras de artes. La explicación: la IA es el futuro",
     "medio": "Xataka",
     "fecha": 1774204312.0,
@@ -369,13 +453,6 @@
     "fecha": 1774204197.0,
     "link": "https://www.eldiario.es/aragon/economia/doha-teruel-guerra-iran-son-20-aviones-qatar-airways-protege-aeropuerto-turolense_1_13088775.html",
     "resumen": "Otras cinco aeronaves han llegado a la instalación este domingo para salvar los riesgos y la falta de combustible que supone el conflicto armado en Oriente MedioEl Aeropuerto de Teruel se convierte en refugio para aerolíneas de Oriente Medio afectadas por la guerra en Irán El aeropuerto de Teruel, una de las mayores instalaciones de mantenimiento y reparación de aviones en Europa, se ha convertido en improvisado refugio de aeronaves de Qatar Airways -principalmente- debido al cierre del espacio aéreo, a la escasez de combustible y a los riesgos de sobrevolar Oriente Medio por la guerra de Irán. Este domingo han aterrizado en Teruel otros cinco aparatos de la compañía, hasta un total de 19. Se trata de cuatro Airbus 330 –los cuatro procedentes de Doha, capital catarí– y un Airbus 350 proveniente de Los Ángeles que han aterrizado entre las 14:04 y las 15:06 horas en las pistas del aeropuerto turolense. Un día antes, el sábado, fueron otras seis aeronaves de la misma compañía –cuatro Airbus 350, un Airbus 320 y un Boeing 787-8 las que llegaron a Teruel por la mañana. Únicamente uno de los aviones recibidos en los últimos días debido a la guerra de Irán no es de Qatar Airways: un Boeing 787-9 Dreamliner de Air France proveniente de París. El jueves, el consejero en funciones de Fomento del Gobierno de Aragón y presidente del Consorcio del Aeropuerto, Octavio López, explicó que las compañías son “sabedoras de que en Teruel van a encontrar un lugar seguro y preparado para el estacionamiento y todas las labores de mantenimiento que sus aeronaves precisan”. “Estamos –sentenció López- ante una instalación en plena expansión a la que es difícil poner límites, que es motivo de estudio en todos los foros del sector industrial aeronáutico y que forma parte de la red internacional para el desmantelamiento, mantenimiento y estacionamiento de aeronaves”. 160 millones de euros de inversión en dos años Solo en los dos últimos años, la inversión comprometida en la instalación turolense alcanza los 160 millones de euros, entre lo invertido por el propio Consorcio del Aeropuerto que conforman el Gobierno autonómico y el Ayuntamiento de Teruel (60 millones), lo anunciado por la ministra de Defensa para establecer el Centro Integral de Entrenamiento y Movilidad Aérea (42 millones), el futuro laboratorio de investigación del ITA (10 millones) y la inversión privada de manos de empresas como AIR (Aviation International Recycling), que creará un centro de reciclaje de material aeronáutico (30 millones) y la propia IAC (20 millones en el segundo hangar). Este segundo hangar, por ejemplo, estará finalizado en el último trimestre de 2026 y se destinará a la pintura para aviones de grandes dimensiones, los denominados de doble pasillo, y será una instalación dotada de la última tecnología en aplicación de pintura y protección medioambiental, con capacidad para operar 30 unidades al año. En él, la multinacional de origen irlandés invertirá 20 millones de euros y creará 70 puestos de trabajo directos."
-  },
-  {
-    "titulo": "Irán y Hizbulá logran desafiar al escudo defensivo israelí: \"Es innegable que el sistema falló el sábado en Arad y Dimona\"",
-    "medio": "El Mundo",
-    "fecha": 1774204160.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/22/69c02ad5fc6c83641c8b4572.html",
-    "resumen": "El grupo libanés ha aumentado el lanzamiento diario de sus proyectiles y drones de unas decenas a más de 100 mientras Irán ha reducido sus misiles balísticos de unos 100 a unos 10 o 15 diarios Leer"
   },
   {
     "titulo": "Cuando mi antiguo cepillo eléctrico se rompió, descubrí la dura realidad: los nuevos valen hasta 300 euros",
@@ -406,11 +483,11 @@
     "resumen": "Sarah Mullally, la primera mujer primada de la Iglesia de Inglaterra, completó este domingo la peregrinación a pie entre Londres y la catedral de Canterbury, en el sureste de Inglaterra, donde este miércoles será entronizada, según recoge EFE. La futura arzobispa realizó la perigrinación, de seis días, junto a su marido Eamonn y otros miembros de la iglesia anglicana en un evento que la propia institución ha calificado como \"privado\", pese a haber visitado colegios y hospitales a lo largo del viaje. Mullally, que ostenta el título de dama, fue recibida hoy por la alcaldesa de Canterbury, Keji Moses, y el deán de la catedral de esta localidad, David Monteith, tras completar el trayecto que comenzó en Londres el pasado martes por la tarde.Tras llegar al templo, la arzobispa de Canterbury dijo sentirse \"muy aliviada\" de haber completado el recorrido a pie, en medio de una gran multitud que la esperaba.A la entronización asistirán 2.000 personas, entre ellas el príncipe Guillermo, en representación de su padre, el rey Carlos III, y la princesa de Gales, así como el primer ministro británico, Keir Starmer, y la líder del Partido Conservador (en la oposición), Kemi Badenoch.En una ceremonia marcada por la tradición, Mullally sera entronizada arzobispa de Canterbury, primada de la Iglesia de Inglaterra y líder espiritual de la comunidad anglicana.Mullally había empezado la peregrinación en la catedral de San Pablo, en Londres, para recorrer a pie 140 kilómetros por el llamado camino de Becket, el trayecto que se cree realizó Tomás Becket, el arzobispo de Canterbury asesinado en 1170, en sus viajes entre ambas ciudades. La elección como cabeza visible de los anglicanos no ha estado exenta de polémica, y un grupo de obispos conservadores -la Conferencia Global Anglicana del Futuro (GAFCON)-, opuestos al nuevo papel de las mujeres en la iglesia y a otros giros modernistas, ha protagonizado otro cisma, aunque no lo llaman así porque ellos pretenden ser 'la verdadera' iglesia anglicana."
   },
   {
-    "titulo": "Mariano García, campeón del mundo de 1.500 con una exhibición de principio a fin",
-    "medio": "El Mundo",
-    "fecha": 1774201691.0,
-    "link": "https://www.elmundo.es/deportes/mas-deporte/2026/03/22/69c01adde9cf4ad82f8b4586.html",
-    "resumen": "El murciano, primer español de la historia con dos oros en los mundiales bajo techo (ganó el 800 en Belgrado 2022), domina la final con un ritmo demoledor en su nueva distancia. Primer atleta de la historia de los mundiales indoor con oro en 800 y 1500 Leer"
+    "titulo": "El español Mariano García, campeón del mundo de 1.500 metros en el Mundial de Atletismo",
+    "medio": "The Objective",
+    "fecha": 1774202069.0,
+    "link": "https://theobjective.com/deportes/2026-03-22/el-espanol-mariano-garcia-campeon-del-mundo-de-1-500-metros-en-el-mundial-de-atletismo/",
+    "resumen": "El atleta español Mariano García se ha proclamado campeón del mundo de 1.500 metros al imponerse en la final de este domingo en los Mundiales de […]"
   },
   {
     "titulo": "Los neandertales no solo descubrieron el pegamento: el alquitrán de abedul era su propio \"Betadine\" prehistórico",
@@ -418,13 +495,6 @@
     "fecha": 1774200712.0,
     "link": "https://www.xataka.com/ecologia-y-naturaleza/neandertales-no-solo-descubrieron-pegamento-alquitran-abedul-era-su-propio-betadine-prehistorico-bacterias",
     "resumen": "En los últimos años, la imagen del neandertal bruto ha ido desvaneciéndose a base de los diferentes descubrimientos que se van haciendo. Ahora sabemos que enterraban a sus muertos, que hacían arte y que dominaban el fuego, pero también sabemos ahora que fueron los primeros en la industria química al crear el primer pegamento sintético del mundo: el alquitrán de abedul. Aunque bajo su ingenio, este también puede ser un gran integrante de alta medicina prehistórica. Lo nuevo que sabemos. Más allá de un gran pegamento, este alquitrán lo pudieron usar los neandertales como un potente antiséptico para curar heridas y evitar infecciones mortales, como los que tenemos en nuestro botiquín casero. Esto es algo que se sabe gracias a la investigación publicada en este mes de marzo en la revista PLOS One que ha puesto a prueba la eficacia de este material prehistórico en la cura de heridas. Para asegurarse de que sus conclusiones eran fieles a la realidad del Pleistoceno, el equipo no se limitó a analizar muestras modernas compradas en laboratorio, sino que replicaron los métodos de extracción neandertales. En Xataka La boca está más conectada con el cáncer de lo que creíamos: han encontrado una bacteria capaz de aumentar su riesgo Cómo se hizo. Para ello utilizaron técnicas accesibles para los homínidos de la época, como la destilación en primitivos pozos de arcilla y la condensación del humo de la corteza de abedul sobre superficies de piedra. Poniéndolo a prueba. Una vez que se tenía este alquitrán \"al estilo neandertal\", lo enfrentaron en el laboratorio a varias cepas bacterianas comunes. Y el resultado demostró que contaba con fuertes propiedades antibacterianas, siendo especialmente útil para atacar a las bacterias Staphylococcus aureus, que es una bacteria que puede causar infecciones en las heridas sobre la piel. Y si vamos más allá, en nuestro día a día también la estamos 'aguantando' porque es una de las famosas 'superbacterias' contra las que cada vez tenemos menos antibióticos para actuar. Más que una tirita. Si te cortabas o sufrías una herida cazando hace 100.000 años, una simple infección podía ser una sentencia de muerte. Es por ello que el estudio sugiere que los neandertales, al manipular la corteza de abedul para hacer su adhesivo, probablemente descubrieron sus beneficios médicos de forma empírica. Simplemente observando que, poniéndolo en la herida, veían cómo no comenzaba a tener un mal aspecto. Es por ello que estamos ante un descubrimiento que transforma nuestra visión de los recursos tecnológicos de los neandertales, puesto que ahora sabemos que el producto era un auténtico 'multiusos' de la época. Sus usos. El primero de ellos es como adhesivo industrial para poder fabricar armas compuestas, pero también como antibiótico y antiséptico ante los cortes, como si fuera nuestro preciado 'betadine' o clorhexidina. Ahora también se abre una puerta para ver su uso en nuestro día a día, aunque para ello todavía hay mucha investigación por delante en los muchos frentes abiertos para poder encontrar cualquier sustancia que pueda atacar a las bacterias que más dolores de cabeza nos están dando. Imágenes | Marc Tremblay En Xataka | Fabricar en el espacio materiales para producir chips no es ciencia ficción. Es un plan muy real que ya está en marcha - La noticia Los neandertales no solo descubrieron el pegamento: el alquitrán de abedul era su propio \"Betadine\" prehistórico fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Una manifestación recorre Santander para que las muertes del Bocal «no sean en vano»",
-    "medio": "The Objective",
-    "fecha": 1774200095.0,
-    "link": "https://theobjective.com/sociedad/2026-03-22/manifestacion-santander-muertes-bocal-vano/",
-    "resumen": "Medio millar de personas ha marchado en silencio este domingo por el centro de Santander y al finalizar ha reclamado que ningún espacio público quede «desatendido […]"
   },
   {
     "titulo": "La guerra invierte la tendencia: el PSOE rebota y Vox cae, sólo el PP resiste según el sondeo que publica esta noche El Español",
@@ -455,13 +525,6 @@
     "resumen": "Un vídeo vertical que no puedo enlazar porque no recuerdo quién lo creó me enseñó una de las cosas más útiles que he utilizado en ChatGPT. Y, aunque he descubierto que realmente esa persona me engañó ligeramente, el objetivo principal funciona a la perfección. Hoy voy a ser yo quien te cuente cómo utilizar varios […] Seguir leyendo: He descubierto que ChatGPT tiene códigos secretos y ahora no paro de usarlos: estos son los 4 mejores"
   },
   {
-    "titulo": "Las 'travesuras hipersónicas' de Rusia sobre Estonia ponen en alerta a los cazas de la OTAN",
-    "medio": "El Mundo",
-    "fecha": 1774198727.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/22/69bd613421efa0c2788b45c5.html",
-    "resumen": "Otra incursión rusa sobre Estonia fuerza a pilotos italianos a desplegarse cerca de los límites de la OTAN Leer"
-  },
-  {
     "titulo": "Masacres, desapariciones y espionaje en La Plata, foco de violencia y memoria en Argentina",
     "medio": "Infolibre",
     "fecha": 1774198591.0,
@@ -488,13 +551,6 @@
     "fecha": 1774197082.0,
     "link": "https://www.eldiario.es/internacional/12-palestinos-heridos-coches-quemados-noche-ataques-colonos-israelies-cisjordania_1_13088665.html",
     "resumen": "Estos ataques se producen después de que este sábado un colono de 18 años muriese en un presunto accidente en el que su todoterreno chocó contra el coche de un conductor palestinoLa policía israelí asesina a tiros a dos niños palestinos y a sus padres en Cisjordania El territorio palestino de Cisjordania, ocupado por Israel, ha vivido una noche especialmente violenta a manos de grupos de colonos israelíes, que atacaron aldeas e hirieron a personas cerca de Ramala, Nablus y Yenín, incitados tras la muerte de un colono israelí de 18 años en lo que parece un accidente de coche. Alrededor de la una de la madrugada de este domingo, seis palestinos resultaron heridos por palizas de colonos a varias aldeas de Yenín, y cinco de ellos tuvieron que ser trasladados al hospital, según informó en un comunicado la Media Luna Roja Palestina. Además, otros tres jóvenes palestinos resultaron heridos con contusiones tras ser atacados por colonos que les tiraron piedras contra su vehículo al oeste de Salfit, ciudad situada cerca de Ramala y del gran asentamiento judío de Ariel, informaron fuentes locales a la agencia palestina Wafa. A su vez, al menos tres personas fueron heridas por milicias de colonos israelíes en un ataque contra la aldea de Jalud, al sureste de Nablus, durante el cual cuatro vehículos así como una clínica médica fueron incendiados, detalló a EFE un activista local, Bashar Qaryuti. En un incidente relacionado, las fuentes señalaron que un grupo de colonos también atacó a civiles en la cercana aldea de Qaryut, al sur de Nablus, la misma en la que el pasado 2 de marzo dos hermanos palestinos fueron asesinados a tiros por colonos uniformados mientras defendían su vivienda. En Qaryut, según confirmó a EFE este mismo activista, grupos de palestinos se enfrentaron a los atacantes, pero dice que ya no es posible detenerlos. “Nuestros limitados recursos —palos y piedras— son insuficientes contra las armas y los equipos que utilizan estos criminales, quienes cuentan con el apoyo directo del ejército (israelí). La situación es más peligrosa de lo previsto. Los comités de seguridad ya no son viables”, detalló Qaryuti. Vista de un coche quemado tras un ataque contra la aldea de Jalud, al sureste de Nablus, durante el cual cuatro vehículos así como una clínica médica fueron incendiados, el 22 de marzo de 2026 Estos ataques se producen después de que ayer un colono de 18 años, Yehuda Shmuel Sherman, muriese en Cisjordania en un presunto accidente en el que el todoterreno en el que viajaba chocó contra el coche de un conductor palestino, presuntamente procedente de la localidad palestina de Beit Imrin, según informó la policía. La policía y el Ejército están investigando si el incidente pudo ser un atentado, una versión de lo sucedido que políticos israelíes de la rama supremacista del sionismo religioso ya difundieron anoche como verdadera. El ministro de Finanzas y también colono, Bezalel Smotrich, publicó anoche en X un mensaje de pésame “a los heroicos pioneros de la comunidad de Alon Moreh (asentamiento ilegal) y a todos los residentes de Samaria (Cisjordania)” y añadió que los colonos seguirán asentándose en “la tierra de Israel en toda su extensión”. La vicepresidenta de la Knéset (Parlamento), la ultraderechista Limor Sonhrmelh, del partido Poder Judío, reiteró en X que esta muerte no fue un accidente. “Estamos librando una lucha por la tierra contra un enemigo cruel que quiere que el nombre de Israel caiga en el olvido. Pero junto al dolor y la tristeza, debemos dejar claro que no aceptaremos que se encubra lo sucedido. Esto no fue un accidente, sino un atentado con coche bomba perpetrado deliberadamente contra judíos”. Por su parte, el ministro de Seguridad Nacional, el también colono y presidente de Poder Judío, Itamar Ben Gvir, expresó un “gran dolor por el asesinato” del joven y advirtió: “Seguiremos aferrándonos a la tierra, construyendo y continuando nuestro camino”. Palestina pide a la Unión Europa “medidas concretas” para detener la violencia de los colonos La Presidencia palestina condenó los ataques perpetrados por milicias de colonos y urgió a la Unión Europea (UE) a adoptar “medidas concretas” que ayuden a detener esta escalada de violencia contra la población palestina. “(La condena conjunta) debe ir seguida de posturas prácticas y contundentes por parte de la comunidad internacional para adoptar medidas concretas que detengan estas violaciones, exijan responsabilidades a sus autores y brinden protección a nuestro pueblo indefenso”, dijo hoy la Presidencia palestina, encabezada por Mahmud Abás, en un comunicado difundido por Wafa. El texto alude a una declaración conjunta de la UE tras una cumbre en Bruselas, el pasado día 20, en la que los líderes condenaron “enérgicamente” la creciente violencia de los colonos contra “la población civil palestina, incluyendo la violencia contra las comunidades cristianas”. En este texto, la Unión Europea hizo a su vez un llamado al Consejo para que impulse “medidas más restrictivas contra los colonos extremistas y las entidades y organizaciones que los apoyan”, señala la declaración. Sin embargo, la Presidencia palestina recordó hoy que el asesinato de ciudadanos, la quema de propiedades y los actos de violencia “son acciones organizadas y sistemáticas” bajo la protección del Ejército israelí -que no interviene, arresta o presenta cargos contra los colonos- y con el apoyo del Gobierno de extrema derecha israelí. “El objetivo es implementar planes de anexión, expansión racista y desplazamiento forzoso”, concluye la Presidencia."
-  },
-  {
-    "titulo": "Netanyahu pide al mundo unirse contra Irán y acusa al régimen de amenazar a Europa",
-    "medio": "The Objective",
-    "fecha": 1774197026.0,
-    "link": "https://theobjective.com/internacional/2026-03-22/netanyahu-pide-unirse-amenazar-europa/",
-    "resumen": "El primer ministro de Israel, Benjamin Netanyahu, ha pedido este domingo a la comunidad internacional que se una a la guerra contra Irán, al que ha […]"
   },
   {
     "titulo": "Irán rechaza el ultimátum de Trump y anuncia una respuesta \"irreversible\" si se ataca su infraestructura eléctrica",
@@ -539,32 +595,11 @@
     "resumen": "Noche de bodas 2 tenía un problema complicado de origen: contar una historia en el mismo universo, sin parecer innecesaria. Que lo era, al menos desde el punto de vista de agregar más información a la historia. Eso debido a que la película original tuvo un final cerrado y perfecto. Uno, además, que los directores […] Seguir leyendo: ‘Noche de bodas 2’ (★★★★☆) es una secuela que nadie pidió, pero es entretenimiento puro"
   },
   {
-    "titulo": "El presidente de Líbano denuncia el preludio de una invasión israelí completa en el sur del país",
-    "medio": "Europa Press",
-    "fecha": 1774194455.0,
-    "link": "https://www.europapress.es/internacional/noticia-presidente-libano-denuncia-preludio-invasion-israeli-completa-sur-pais-20260322164735.html",
-    "resumen": "Joseph Aoun condena los ataques israelíes a los puentes del Litani como un intento de interrumpir \"la conexión geográfica\" nacional"
-  },
-  {
-    "titulo": "El Barça consolida su liderato ante el Rayo con un gol de Araujo",
-    "medio": "The Objective",
-    "fecha": 1774193422.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-03-22/fc-barcelona-rayo-vallecano/",
-    "resumen": "El FC Barcelona se ha impuesto este domingo al Rayo Vallecano (1-0) en la vigésima novena jornada de LaLiga EA Sports, un partido en el que […]"
-  },
-  {
     "titulo": "El pantalón blanco ya no da miedo: estas son las claves para llevarlo de acuerdo a los que mejor visten",
     "medio": "Trendencias",
     "fecha": 1774191713.0,
     "link": "https://www.trendencias.com/hombres/pantalon-blanco-no-da-miedo-estas-claves-para-llevarlo-acuerdo-a-que-mejor-visten",
     "resumen": "El pantalón blanco sigue siendo una de esas prendas que muchos hombres miran con recelo. No es que no guste, es que impone porque siempre aparecen las dudas de siempre: que si no va con su estilo, que si es demasiado llamativo, que si se ensucia con mirarlo o, peor aún, que puede transparentar más de la cuenta. Y sin embargo, cuando se lleva bien, es probablemente una de las piezas más elegantes, frescas y versátiles del armario masculino. Parte del problema está en cómo se percibe, porque durante años, el pantalón blanco se ha asociado a contextos muy concretos, desde looks veraniegos hasta códigos de estilo más clásicos o incluso elitistas, pero la realidad es que hoy funciona en muchos más terrenos, siempre que se entienda bien cómo llevarlo, y aquí vas a descubrir todas las claves para hacerlo. En Directo al Paladar Devolver una bandeja de carne y llevarse 50 céntimos: así es el exitoso sistema de reciclaje que BonÀrea va a extender en toda Catalunya Todo empieza por el material porque no es lo mismo un pantalón blanco de corte sastre que uno de mezclilla. El primero tiene un aire mucho más pulido, ideal para looks elegantes o incluso para oficina si el entorno lo permite. El segundo, en cambio, es más relajado, más fácil de integrar en el día a día y perfecto para estilismos casuales. Luego está el calzado, donde muchos fallan: combinar pantalón blanco con zapatillas blancas puede parecer una apuesta segura, pero en realidad suele restar carácter al conjunto. Aquí el contraste es clave: optar por unos loafers, unos botines o incluso unas zapatillas en tonos distintos ayuda a romper la monotonía y a construir un look con más intención. Aquí una buena referencia es coordinar el calzado con el color de alguna prenda superior, creando una conexión visual que equilibre el conjunto, y para este verano, la combinación de blanco con azul marino es una apuesta segura. @feroxto 4 CONSEJOS VESTIR Y OUTFITS Pantalón blanco #pantalonblanco #consejosdemoda #fashiontips #moda #modamasculina ♬ original sound - Fernando CONSEJOS MODA HOMBRES En cuanto al resto del outfit, menos es más: el pantalón blanco funciona mejor cuando se integra en estilismos limpios, con prendas lisas y colores neutros. Pensarlo como si fuera un pantalón negro es un buen truco porque combina bien con casi todo, pero necesita cierto equilibrio para no sobrecargar el look. Y si uno de tus mayores miedos es el que se transparente, también tiene solución. La clave está en el grosor del tejido. Cuanto más estructurado y resistente sea el pantalón, menos problemas habrá. Aun así, elegir bien la ropa interior marca la diferencia, los tonos que se funden con la piel o el blanco suelen ser los más discretos y evitan sorpresas incómodas. Cuando se domina, el pantalón blanco abre muchas posibilidades. Puede formar parte de un look relajado de primavera con un polo en azul marino y accesorios sencillos, o elevarse hacia algo más sofisticado con camisa, americana y un punto más formal. Al final el pantalón blanco no es una prenda complicada, pero sí una que exige un poco más de atención al detalle que marca la diferencia cuando se lleva bien. Fotos de @Feroxto En Trendencias | El corte de pelo noventero que ya llevó Tom Cruise es el que más se llevará en 2026 confirmando que la elegancia masculina nunca pasa de moda En Trendencias | Pep Guardiola se pasa de su look en negro al 'dad core' y se hace viral al llevar una camisa a cuadros de casi 300 euros - La noticia El pantalón blanco ya no da miedo: estas son las claves para llevarlo de acuerdo a los que mejor visten fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "Real Madrid - Atlético de Madrid, en directo hoy: estadísticas previas y alineaciones probables",
-    "medio": "Europa Press",
-    "fecha": 1774191694.0,
-    "link": "https://www.europapress.es/deportes/partidos-en-directo/noticia-real-madrid-atletico-madrid-directo-hoy-estadisticas-previas-alineaciones-probables-20260322160134.html",
-    "resumen": "El Real Madrid, situado en la segunda posición de la tabla se enfrenta en la jornada 29 de LaLiga EA Sports en el Estadio Bernabeu ante el Atlético de Madrid este domingo a las 21:00, un encuentro al que llega tras la victoria cosechada por 4 - 1 en su estadio contra el Elche, añadiendo 3 puntos más a los 66 que lleva en la clasificación. Por su parte, su rival esta jornada, el Atlético de Madrid ocupa el cuarto lugar, llega tras la victoria por 1 - 0 cosechada en su estadio contra el Getafe, añadiendo 3 puntos más a los 57 que lleva en la clasificación en la pasada jornada."
   },
   {
     "titulo": "Cómo configurar un servidor de Stremio para ver tus películas y series en todas partes",
@@ -749,13 +784,6 @@
     "resumen": "Según el precio actual del iPad Air M3 y teniendo en cuenta tanto las variaciones de precio de su anterior generación como la llegada del iPad Air M4, así vemos la compra ahora de la tablet de Apple: 🔴 Mal momento iPad Air m3 (base) Veredicto Momento de \"obsolescencia\". Estamos a final de su ciclo, la nueva generación ya ha llegado. PVP oficial 699€ (Apple Store, descatalogado) Precio objetivo \"en la calle\" 579€ (Amazon) Nuevo lanzamiento iPad Air M4, lanzado en marzo 2026 por 649€ (Amazon) Nuestra recomendación No lo compres salvo que baje mucho de precio (499€ aproximadamente). Espera a las próximas ofertas del iPad Air M4, que según el historial de precio de sus dos generaciones anteriores no deberían tardar en llegar. Coste de arrepentimiento Alto. El iPad Air M4 ya está disponible por un precio similar y es posible que en pocos meses se encuentre al mismo precio (o parecido) que el que tiene ahora mismo el iPad Air M3. Índice de Contenidos (7) ¿Por qué está el semáforo en ROJO? Historial de precio y predicción de cambios Las mejores ofertas del iPad Air M3 ahora: ¿Cuándo ha salido el iPad Air M4? ¿Merece la pena? ¿Es para ti el iPad Air M3 ahora? 💡 Buenas alternativas al iPad Air M3 que yo me compraría En resumen: ¿Por qué está el semáforo en ROJO?Ahora mismo (marzo 2026) nos encontramos en un momento \"crítico\", al final del ciclo de vida del iPad Air M3. No tiene los descuentos que vimos hace unos meses ni las novedades de un iPad recién lanzado. Por este motivo, estamos en esta situación: Precio muy alto: Entre el iPad Air M3 y el iPad Air M4 hay una diferencia de tan sólo 70 euros. Ni el Air M3 tiene el mejor precio que hemos visto, ni el Air M4 ha recibido ofertas, de momento.Stock estable, por ahora: El iPad Air M2 dejó de venderse en tiendas como Amazon a los 12 - 16 meses, dependiendo de la configuración de almacenamiento. Con el iPad Air M3 podría ocurrir lo mismo, por lo que es muy probable que no veamos ofertas en los próximos meses, o que veamos muy pocas. La \"recompensa\" por esperar: Tanto el iPad Air M2 como el iPad Air M3 bajaron de precio a partir del primer mes desde su lanzamiento. Si la cosa no cambia con el Air M4, podríamos empezar a ver los primeros descuentos a partir de abril o mayo. Consejo de comprador experto: No compres ahora mismo el iPad Air M3 salvo que baje mucho de precio (preferiblemente al mínimo histórico de 499 euros). Es posible que en un mes o mes y medio empecemos a ver las primeras ofertas en el Air M4. Historial de precio y predicción de cambios La gráfica de arriba muestra los precios que han tenido tanto el iPad Air M2 como el iPad Air M3 a lo largo de 12 meses tras sus lanzamientos. Esto es lo que vemos: Mejores precios en el iPad Air M3: Desde el segundo mes, hemos ido viendo mejores precios (y además con diferencia) en el Air M3 con respecto al Air M2.El mínimo histórico: Noviembre fue el mes donde llegamos a encontrar el precio mínimo histórico. Ha sido algo muy puntual, ya que se trata de una oferta lanzada en la época del Black Friday.¿Entonces? Salvo que volvamos a encontrar el iPad Air M3 por 499 euros aproximadamente, cosa que es poco probable, no merece tanto la pena comprarlo en pleno marzo de 2026.Las mejores ofertas del iPad Air M3 ahora:¿El iPad Air M3 está de oferta? Sí, pero... ¿es una buena oferta? No, porque su precio actual es de 579 euros. El precio más bajo que hemos visto hasta la fecha es de 499 euros y ocurrió durante la época del Black Friday 2025, por lo que fue algo muy puntual y que seguramente no vayamos a volver a ver con esta generación en concreto. La cosa cambia si quieres comprar el iPad reacondicionado, ya que Back Market lo tiene por 479 euros. ¿Cuándo ha salido el iPad Air M4? ¿Merece la pena? El iPad Air M4 acaba de llegar, por lo que podemos desgranar algunos aspectos bastante interesantes: Efecto novedad: Si compras ahora mismo el iPad Air M4 estarás pagando su precio oficial, pero también te llevas la novedad de tener la nueva generación por un precio muy similar al que tiene el iPad Air M3.Sequía de ofertas: El iPad se ha lanzado hace tan sólo unos días, por lo que de momento no hay ofertas en tiendas como Amazon o MediaMarkt. Si sigue la trayectoria de sus anteriores generaciones, en abril o mayo podríamos comenzar a ver los primeros descuentos.Fecha de \"obsolescencia\". Al tratarse de un iPad que acaba de llegar, no veremos una nueva generación hasta pasados al menos 12 meses. En resumen, si compras ahora mismo un iPad Air M4 estarás pagando su precio completo, pero no pagarás mucho más por él que lo que pagarías ahora mismo por la anterior generación. En Applesfera iPad Pro M5, análisis: el ordenador del futuro lleva años disfrazado de tableta. Y está acelerando para ser diferente ¿Es para ti el iPad Air M3 ahora? Para terminar de ayudarte, estas son las reflexiones que me aplicaría yo mismo a la hora de elegir entre comprar o no el iPad Air M3: ✅ CÓMPRALO HOY SI: Tu iPad está roto, necesitas urgentemente un nuevo modelo y no quieres gastarte lo que cuesta la nueva generación.Si quieres comprar ahora mismo un iPad Air y la diferencia de dinero (actualmente 70 euros) quieres destinarla en algún accesorio, como una funda o un teclado inalámbrico.No necesitas lo mejor, sobre todo si quieres comprar ahora mismo un iPad Air y no necesitas la potencia del nuevo chip M4. ⛔ NO TE LO RECOMIENDO SI: Tu idea es cambiar de generación y vienes del iPad Air M2. No notarás muchos cambios, por lo que es mejor esperar la llegada de las primeras ofertas del Air M4.No baja de precio, ya que nos encontramos en un momento en el que el precio del Air M3 es algo alto comparado con el del Air M4.Puedes aguantar unos meses hasta la llegada de las primeras ofertas del iPad Air M4. 💡 Buenas alternativas al iPad Air M3 que yo me compraría Si aún sigues teniendo dudas sobre comprar o no el iPad Air M3, puede que te interese apostar por otro modelo. Hay mucho donde elegir, pero yo tendría en cuenta estas alternativas: iPad mini: por menos de 520 euros tenemos otro iPad de Apple con un tamaño mucho más manejable. Es de los modelos más atractivos si pretendes hacer uso de él fuera de casa, ya que tiene una pantalla de 8,3 pulgadas en lugar de la de 11 pulgadas de los iPad Air. Y aunque no es tan potente como esta línea Air de Apple, viene con el procesador A17 Pro, por lo que puede resultar muy interesante para estudiar, aunque no tanto para trabajar.Xiaomi Pad 8 Pro: Si quieres dar un salto de fe y apostar por la competencia, el Xiaomi Pad 8 Pro acaba de llegar con algún que otro regalo, como es el caso de una funda con teclado (si quieres el combo de tablet, funda y teclado, te puede salir muy rentable). Tiene muy buena pantalla y, aunque no es igual de potente que un iPad con chip M3, es bastante decente para instalar apps exigentes de Android. Además, tiene una versión que cuesta 100 euros más que incorpora una pantalla mate antirreflejos, lo cual es útil para utilizarla en exteriores.En resumen: ¿Es un buen momento para comprar el iPad Air M3 en marzo de 2026? No es un buen momento, por lo que hemos colocado el semáforo en color rojo. Su precio ahora mismo es bastante cercano al que tiene (sin oferta) la nueva generación, lo que lo hace menos atractivo. Si bajara entre 60 y 80 euros, la cosa cambiaría, pero es poco probable, y en poco tiempo es posible que comencemos a ver las primeras ofertas en la nueva generación. En Applesfera Selección estaremos siguiendo muy de cerca los precios del iPad Air M3 y del iPad Air M4, por lo que te recomendamos no perdernos de vista si te interesa renovar el iPad. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Pedro Aznar, Apple En Applesfera | Qué iPad comprar. Todas las tabletas del catálogo de Apple, sus prestaciones y consejos En Applesfera | Convierte tu iPad en tu centro de trabajo: estos son los gadgets que necesitas - La noticia ¿Es buen momento para comprar ahora un iPad Air M3? Cuando la diferencia de 70 euros no es suficiente fue publicada originalmente en Applesfera por Alberto García ."
   },
   {
-    "titulo": "El presidente de Adif comparece en el Congreso para rendir cuentas por el accidente de Adamuz",
-    "medio": "Europa Press",
-    "fecha": 1774178092.0,
-    "link": "https://www.europapress.es/economia/transportes-00343/noticia-presidente-adif-comparece-congreso-rendir-cuentas-accidente-adamuz-20260322121452.html",
-    "resumen": "El presidente de Adif, Luis Pedro Marco de la Peña, comparecerá el martes, 24 de marzo, en la Comisión de Transportes del Congreso para informar de las actuaciones del operador de infraestructuras ferroviarias en el accidente del pasado enero en Adamuz (Córdoba), donde fallecieron 46 personas tras colisionar dos trenes de alta velocidad."
-  },
-  {
     "titulo": "La camisa más elegante de todos los tiempos es de Loewe y cuesta 980 euros. La buena noticia es que Zara tiene una (casi) idéntica",
     "medio": "Trendencias",
     "fecha": 1774177313.0,
@@ -805,6 +833,13 @@
     "resumen": "In a particularly memorable scene from Eddington (2025), set during the George Floyd protests of 2020, high school student Brian (Cameron Mann) is attempting to explain his newfound racial consciousness to his parents at the dinner table. Brian — who, like his parents, is white — tells them about the need for “changing institutions, dismantling […]"
   },
   {
+    "titulo": "Israel comienza la operación para separar el sur de Líbano volando los puentes sobre el río Litani",
+    "medio": "Europa Press",
+    "fecha": 1774173260.0,
+    "link": "https://www.europapress.es/internacional/noticia-israel-anuncia-comienzo-operacion-separar-sur-libano-rio-litani-20260322105420.html",
+    "resumen": "El ministro de Defensa de Israel, Israel Katz, ha anunciado este domingo el principio de una operación para destruir \"inmediatamente\" los puentes sobre el río Litani que sirve como barrera de separación geográfica del sur de Líbano, tras denunciar que están siendo empleados por las milicias de Hezbolá para trasladar equipo de combate, así como las poblaciones circundantes \"siguiendo el modelo de Rafá\" en la Franja de Gaza."
+  },
+  {
     "titulo": "Cuerpo, sobre la bajada de impuestos a los carburantes: \"Vigilaremos que no haya enriquecimientos injustos\"",
     "medio": "Europa Press",
     "fecha": 1774172469.0,
@@ -817,13 +852,6 @@
     "fecha": 1774171800.0,
     "link": "https://www.moncloa.com/2026/03/22/indigestion-infusion-preparar-3367125/",
     "resumen": "Muchas veces, los síntomas de indigestión suelen provocar que tu rutina se vea paralizada por el malestar. Sin embargo, en un estudio publicado recientemente en la Facultad de Medicina de Harvard, revela que la solución podría estar más cerca de lo que imaginas. Con esto me refiero a tu cocina y solo tres ingredientes que […] La entrada Liquida la indigestión sin automedicarte: la infusión de 3 ingredientes que debes aprender a preparar o solo tomarás «agua caliente» aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Spectatoring: en qué nos perjudica no estar presentes en nuestras relaciones sexuales",
-    "medio": "Trendencias",
-    "fecha": 1774170113.0,
-    "link": "https://www.trendencias.com/sexo-y-relaciones/spectatoring-que-nos-perjudica-no-estar-presentes-nuestras-relaciones-sexuales-1",
-    "resumen": "El ginecólogo William Masters y la sexóloga Virginia Johnson centraron el trabajo de su carrera en investigar la respuesta sexual humana. En 1965 publicaron su trabajo Human Sexual Response, en el que descifraban y explicaban la respuesta sexual humana que se inicia con el deseo y termina con la relación, el llamado sistema DEMOR (Deseo, Excitación, Meseta, Orgasmo, Resolución). Pero además, Masters & Johnson acuñaron un término que sigue presente a día de hoy: spectatoring. Este fenómeno, que puede darse durante cualquier encuentro sexual y es más común de lo que pueda parecer, es lo que podríamos definir como “ser espectador” de tu propia relación sexual. En psicología se habla de “adoptar el rol de espectador” y cuando lo haces, experimentas tu propio sexo desde una perspectiva en tercera persona. En Trendencias La técnica africana que consigue que las mujeres disfrutemos más durante el sexo se llama Kunyaza (y así puedes practicarla) Dejar de sentir para solo pensar Según la sexóloga Arola Poch, “la persona espectadora no está pendiente de las propias sensaciones y de las sensaciones del acompañante sino centrada en cómo lo está haciendo, si está cumpliendo con las expectativas, qué estará pensando la otra persona…” Todo se reduce a ser demasiado consciente de ti mismo y de tu pareja, e incluso de cómo te ve ésta durante el sexo, y por lo general se manifiesta como un diálogo interno crítico o pensamientos que te distraen cuando lo que realmente quieres es concentrarte en el placer de tu encuentro sexual. En el rol del espectador, la persona deja de prestar atención a la relación sexual en sí misma, a las sensaciones y a los estímulos. Si simplificamos mucho podríamos decir que nos preocupamos por el sexo durante el sexo, dejando así de disfrutarlo. ¿Le gustará? ¿Estaré bien en esta postura? Seguro que si me pongo así pareceré más sexy… ¿He dejado encendida la luz del baño? Ojalá esta vez no tenga un pedo vaginal… ¿Qué pensará de mí? Espero que la erección no se baje. Tengo que bajar el ritmo para llegar al orgasmo a la vez. Y esto es solo la punta del iceberg, porque esas distracciones de nuestro cerebro pueden representarse de mil maneras. Por qué adoptamos el rol de espectador Estas distracciones son algo común y que puede pasarnos a todo el mundo en cualquier momento. La causa puede ir desde tener ansiedad por tener relaciones sexuales (ya te explicamos en qué consistía la llamada ansiosexualidad) hasta autoexigencia, pasando por simplemente encontrarte distraída y con dificultad para concentrarte por ejemplo por el estrés. En Trendencias El estrés es el archienemigo de tu vida sexual: cómo acabar con él antes de que deje KO a tu placer Como con cualquier otro problema en el terreno de la sexualidad, pueden existir causas que vayan más allá. Por ejemplo, según un estudio publicado en la revista 'The Journal of Sex', este tipo de fenómeno está directamente relacionado con nuestra autoestima y con la propia percepción de nuestro cuerpo. En el caso de los hombres, y según este estudio, aquellos con problemas con la apariencia del pene tienen más probabilidades de experimentar disfunción sexual y de asumir el rol del espectador. En qué nos perjudica asumir un rol de espectador durante el sexo Lo primero que ocurre es que al no estar presentes en nuestras relaciones sexuales, no disfrutamos de ellas al 100%. El placer consciente es mucho mayor, más intenso. Si nuestro cerebro está centrado en las sensaciones, en los sentidos y en todo lo que percibimos, disfrutaremos muchísimo más. Al ser espectador podemos estar juzgándonos durante las relaciones sexuales. Para disfrutar de la práctica erótica, tal y como explica María Esclápez en su libro Inteligencia sexual, es necesario “que exista un abandono a las sensaciones”. Evidentemente si estamos pendientes observando qué hacemos, estamos evitando dejarnos llevar. El fenómeno spectatoring puede además jugar un papel clave en nuestra autoestima, en el miedo a fallar, la autoexigencia y en la aceptación de nuestro cuerpo y nuestro placer, ya que si lo hacemos estaremos alimentando a ese espectador y se convertirá en un círculo vicioso. Un ejemplo práctico. Soy una mujer a quien le cuesta llegar al orgasmo y durante mi relación sexual con mi pareja, me centro en ese pensamiento y no en sus caricias, en mi excitación o en mi placer. Esa preocupación me mantienen en tensión y pensando en que “debería poder llegar al orgasmo”, pero al no dejarme llevar, no lo consigo. En mi próximo encuentro estaré aún más insegura y ese pensamiento de la última vez alimentará más pensamientos que me impidan disfrutar. De hecho según este estudio del Instituto Andaluz de Sexología y Psicología, adoptar el rol de espectador es un hábito tóxico que está relacionado con algunas disfunciones sexuales como la disfunción eréctil en los hombres. Cómo podemos alejarnos del rol del espectador en nuestras relaciones sexualesAunque puede tratarse de un problema mayor para el que necesitaremos ayuda terapéutica (existe una comunidad profesional de sexólogas y sexólogos muy preparada y dispuesta a ayudarnos), hay algunas claves que pueden ayudarnos a alejarnos de ese rol de espectador y transformarnos en protagonista. Focalización del placer: centra tus pensamientos en el momento presente y en tus sensacionesTal vez esto te cueste al principio, pero podemos comenzar por algo sencillo, a solas y que nos permita identificar nuestro placer y centrarnos en él. María Esclapez nos propone en su libro un ejercicio para “dejarse llevar”, basándose en el mindfulness, una técnica para trabajar la consciencia plena. Tal y como afirma la sexóloga, trabajaremos el “autoplacereado”, ejercicio consistente en masturbarte progresivamente y siendo consciente de tu propio cuerpo. ¿Qué te ocurre durante la respuesta sexual? ¿Qué te excita? No tienes por qué llegar al orgasmo, porque se trata de centrarte de forma absoluta en el placer y en cómo lo vive tu cuerpo. Y si la mente te juega una mala pasada y se cuela un pensamiento intrusivo, vuelve a centrarte por ejemplo en el tacto de tu piel o en la caricia que tus dedos hacen sobre tu muslo. De esta manera, trabajando con tu cuerpo y enseñando a tu mente a dejarse llevar, cuando el encuentro sexual sea en pareja, será más fácil que continúes la dinámica. Si ves la relación como protagonista y no como espectador, podrás captar qué ocurre a nivel físico y divertirte dejándote llevar, sin exigencias ni altas expectativas. En Trendencias Guía completa del placer femenino para conseguir orgasmos más potentes (sola y acompañada) Trabaja en la aceptación tu cuerpo (y de tu sexo) La psicóloga Iria Reguera nos explicó la importancia de querernos tal y como somos. Aceptar nuestro cuerpo, permitirle disfrutar y ser agradecidas con él, es algo vital no solo para el sexo, sino en todos los aspectos de nuestra vida. Quererse no es un trabajo fácil pero la recompensa es siempre mucho mayor. Y en cuanto al sexo, olvida de una vez la idea de que el sexo debe ser perfecto. El sexo debe ser placentero y consentido, son los únicos dos adjetivos que deben acompañarlo siempre. No necesitan ser nada más, ni una obligación, ni una meta, ni una excusa, ni un momento ideal. Para quitarnos todas estas ideas equívocas de la cabeza podemos abrazar el positivismo sexual, un movimiento que defiende un sexo libre y real. Comunicación, la clave de todo Hablar, hablar, hablar, hablar. La comunicación es clave para cualquier relación saludable. Expresar lo que sentimos (tanto positivo como negativo), puede ayudarnos no solo a tratar de solucionar el problema, sino a que al verbalizarlo, cambiemos nuestra perspectiva sobre el mismo. En Trendencias Hablar a diario con nuestra pareja sobre lo que pasa en la relación es más importante de lo que parece y estas cinco razones lo explican Ahora que ya sabes en qué consiste el spectatoring y cómo nos afecta, solo queda centrar nuestros pensamientos para dejar de ser una espectadora de tu vida y convertirte en la absoluta protagonista de tu placer. Fotos | Joshua Rawson-Harris, Kinga Cichewicz, Nemanja .O. Ava Sol y Claudia van Zyl en Unsplash En Trendencias | Mi chico tiene problemas de erección, ¿qué puedo hacer para ayudarle? En Trendencias | Ghosting: en qué consiste y qué tipo de persona lo suele realizar - La noticia Spectatoring: en qué nos perjudica no estar presentes en nuestras relaciones sexuales fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
     "titulo": "Give 16-Year-Olds Something to Vote for, Not Just the Vote",
@@ -873,13 +901,6 @@
     "fecha": 1774152900.0,
     "link": "https://www.moncloa.com/2026/03/22/caso-koldo-air-europa-4-mill-3366976/",
     "resumen": "Air Europa, compañía de Globalia, facturó 4.110.500 euros por operar 12 vuelos entre España, China, Palma de Mallorca y Tenerife para distribuir las mascarillas que compró Soluciones de Gestión, empresa que obtuvo un contrato por 53 millones de euros del MITMA de José Luis Ábalos. Así consta en un documento elaborado por la propia Globalia […] La entrada Caso Koldo: Air Europa cobró 4,1 millones por 12 vuelos por traer las mascarillas aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Colores de uñas para invitadas de boda que se llevarán en la primavera de 2026",
-    "medio": "Trendencias",
-    "fecha": 1774126912.0,
-    "link": "https://www.trendencias.com/belleza/colores-unas-para-invitadas-boda-que-se-llevaran-primavera-2026",
-    "resumen": "Ya hemos comenzado la primavera y con ella no solo damos la bienvenida a una de nuestras estaciones favoritas, sino también a todos los eventos clásicos que se celebran durante esta época del año. Respecto a las tendencias de uñas, esta temporada no se va a definir por excesos ni diseños de uñas exagerados, sino que las preferencias son más minimalistas y sencillas. Prima la estética limpia, elegante y muy cuidada, y los colores de uñas de la primavera 2026 siguen claramente esta línea. Precisamente por eso, si pensamos en los colores de uñas que más van a triunfar entre las invitadas, son tonos suaves, cremosos y relajados. Aunque igualmente encontraremos tonos más profundos e intensos, pero siguiendo la misma línea de la elegancia y la sofisticación. Uñas perladas Una manicura lujosa e increíblemente atractiva es esta de uñas perladas en blanco uno de los colores más demandados en primavera. Pero más allá del color, que es un blanco Cloud Cancer en toda regla, el acabado es la clave. Las uñas perladas son muy luminosas al igual que los acabados glaseados o metalizados, por ello se convierten en una gran opción para elevar cualquier manicura de invitada. Rojo rubi Hay tonos que nunca se pasan de moda pero sí es cierto que hay épocas en las que están más presentes que en otras. Concretamente el rojo rubi esta temporada será de los favoritos para lucir manos lujosas y sofisticadas en bodas u otras ceremonias. Lo que tiene este tono de rojo es que transforma las manos de inmediato, aporta elegancia y tiene efecto embellecedor. Un color que luce maravilloso tanto en manicuras como pedicuras. Blanco porcelana Los tonos claros son los grandes protagonistas y el blanco porcelana de los más demandados. Se caracteriza por ser un blanco lechoso, sedoso y con un acabado ligeramente translúcido, por eso es como lucir unas uñas naturales pero perfeccionadas. Será de las tendencias que más veremos en los próximos meses, tanto en novias como invitadas, aunque también son perfectas para el día a día. Marrón ocre Entre los tonos más subidos encontramos este marrón ocre que es pura luz. No es un color de uñas habitual pero este año será uno de los que más veremos, sobre todo en ceremonias y eventos especiales. Es un marrón precioso, que ilumina las manos un montón y recuerda al efecto sun kissed que se logra con los polvos de sol sobre el rostro. Leche de almendras Otro color claro que no va a faltar, es el nude cremoso que recuerda a la leche de almendras. Es un beige elegante que estiliza los dedos y luce tan neutro que funciona para cualquier ocasión y casa con todos los outfits posibles. Con este tono de uñas las manicuras son más duraderas y es el color perfecto para llevar las manos siempre impecables. Uñas lavanda Cuando llega el buen tiempo los tonos pastel comienza a despertarse, y este año el color lila será el que más veremos. Con este tono se logra una manicura vistosa (que no exagerada), juvenil y alegre como la primavera. Las invitadas que buscan un toque más colorido pero relajado, eligen el tono lavanda, que es de los que suele funcionar muy bien porque luce muy elegante y romántico. Azul noche Es difícil no enamorarse de este azul tan profundo y enigmático. Tiene la misma intensidad y elegancia que el negro pero mucho más luminoso. Es un tono sofisticado a rabiar y de los más elegantes cuando hablamos de invitadas de boda. Es un color muy chic y tiene la mezcla perfecta entre lo clásico y lo moderno. Otro de esos tonos que se ven ideales tanto en las manos como en los pies. Fotos | @bio_sculpture_official En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Colores de uñas para invitadas de boda que se llevarán en la primavera de 2026 fue publicada originalmente en Trendencias por Carolina L. ."
   },
   {
     "titulo": "Llevo años echando de menos un zoom decente en el iPhone. Por fin lo tengo con el iPhone 17 Pro Max",
