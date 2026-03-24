@@ -1,17 +1,332 @@
 [
   {
+    "titulo": "Intento de estafa a un anciano de 95 años en Mallorca: tres fincas por sólo 62.000 euros",
+    "medio": "OK Diario",
+    "fecha": 1774321243.0,
+    "link": "https://okdiario.com/baleares/intento-estafa-anciano-95-anos-mallorca-tres-fincas-solo-62-000-euros-16468750",
+    "resumen": "Un hombre se sentará este próximo jueves, 26 de marzo, en el banquillo de la Audiencia Provincial de Baleares, acusado de haber intentado estafar a un anciano de 95 años mediante la adquisición de tres fincas en Mallorca por la cantidad total de 62.000 euros, un importe muy por debajo de su valor de mercado. … Continuar leyendo \"Intento de estafa a un anciano de 95 años en Mallorca: tres fincas por sólo 62.000 euros\""
+  },
+  {
+    "titulo": "Cáritas se alía con Pedro Sánchez y organiza actos para guiar a los ilegales de Mallorca ante la regularización",
+    "medio": "OK Diario",
+    "fecha": 1774321235.0,
+    "link": "https://okdiario.com/baleares/caritas-alia-pedro-sanchez-organiza-actos-guiar-ilegales-mallorca-regularizacion-16467853",
+    "resumen": "La organización Cáritas ha organizado varias charlas en diversos municipios de Mallorca, entre ellos Palma, con el objetivo de informar acerca del proceso de regularización extraordinaria de personas inmigrantes. En total, el calendario contempla siete charlas con los ilegales interesados en la regularización de Pedro Sánchez. Los eventos informativos, dirigidos tanto a potenciales beneficiarios de … Continuar leyendo \"Cáritas se alía con Pedro Sánchez y organiza actos para guiar a los ilegales de Mallorca ante la regularización\""
+  },
+  {
+    "titulo": "Abusó sexualmente de su sobrina menor durante tres años durante las clases de piano que le impartía",
+    "medio": "OK Diario",
+    "fecha": 1774321228.0,
+    "link": "https://okdiario.com/baleares/abuso-sexualmente-sobrina-menor-durante-tres-anos-durante-clases-piano-que-impartia-16468435",
+    "resumen": "La Audiencia Provincial de las Islas Baleares juzgará este próximo jueves 26 de marzo a un hombre acusado de abusar sexualmente de su sobrina nieta menor de edad durante al menos tres años durante las clases de piano que le impartía en su casa. Los hechos sucedieron entre 2015 y 2018, un periodo de tiempo … Continuar leyendo \"Abusó sexualmente de su sobrina menor durante tres años durante las clases de piano que le impartía\""
+  },
+  {
+    "titulo": "PSOE y Més eliminan el Día del Padre en el calendario y lo sustituyen por el fin del Ramadán en Montuïri",
+    "medio": "OK Diario",
+    "fecha": 1774321211.0,
+    "link": "https://okdiario.com/baleares/polemica-mallorca-montuiri-elimina-dia-del-padre-del-calendario-lo-sustituye-fin-del-ramadan-16465858",
+    "resumen": "El municipio mallorquín de Montuïri -gobernado por el PSOE y los independentistas de Més- se encuentra en el centro del debate tras la publicación de su calendario oficial de 2026, donde la tradicional festividad del 19 de marzo, Día del Padre y San José, ha sido sustituida por la referencia al fin del Ramadán. La decisión … Continuar leyendo \"PSOE y Més eliminan el Día del Padre en el calendario y lo sustituyen por el fin del Ramadán en Montuïri\""
+  },
+  {
+    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump dice que fue Irán quien hizo el primer acercamiento para negociar y que no reconoce a Jameneí como líder",
+    "medio": "El País",
+    "fecha": 1774319194.0,
+    "link": "https://elpais.com/internacional/2026-03-23/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "Netanyahu asegura que el estadounidense cree poder alcanzar los objetivos de la guerra con un pacto | La Casa Blanca ve al presidente del Parlamento iraní como un potencial socio"
+  },
+  {
+    "titulo": "Los dos valores más tranquilos del Ibex en plena guerra",
+    "medio": "Expansión",
+    "fecha": 1774317837.0,
+    "link": "https://www.expansion.com/mercados/2026/03/24/69c191f6468aebb80e8b4591.html",
+    "resumen": "Son compañías adecuadas para dar estabilidad a la cartera con dividendos estables y crecientes. El índice español pasó ayer de caer casi un 2,8% a subir más del 2% en minutos. Leer"
+  },
+  {
+    "titulo": "Cómo diferenciar lo urgente de lo importante, con Carme Castro",
+    "medio": "Expansión",
+    "fecha": 1774317835.0,
+    "link": "https://www.expansion.com/podcasts/trabajo-y-mas/2026/03/24/69c11558e5fdeabc7b8b4585.html",
+    "resumen": "Lo urgente tiene que ver con el tiempo, y lo importante con el valor que se aporta. Distinguir ambos conceptos es la clave de la eficiencia profesional y personal. Leer"
+  },
+  {
+    "titulo": "Allianz, Axa y Zurich, las aseguradoras más expuestas al crédito",
+    "medio": "Expansión",
+    "fecha": 1774317834.0,
+    "link": "https://www.expansion.com/empresas/seguros/2026/03/24/69c1be65e5fdea36438b4577.html",
+    "resumen": "Berenberg espera un rebote de las acciones cuando se confirme su resistencia y su elevada solvencia. Leer"
+  },
+  {
+    "titulo": "Santander paga 1,44 millones de media a sus 419 banqueros de inversión 'top'",
+    "medio": "Expansión",
+    "fecha": 1774317833.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/03/24/69a6d1eae5fdeacb518b4582.html",
+    "resumen": "El banco reorganiza funciones y eleva la nómina de Corporate & Investment Banking, que se convierte en el negocio mejor pagado del grupo. Leer"
+  },
+  {
+    "titulo": "Indra y EM&E se mantienen unidos por 12.000 millones en contratos",
+    "medio": "Expansión",
+    "fecha": 1774317832.0,
+    "link": "https://www.expansion.com/empresas/2026/03/24/69c193f6468aeb395f8b4572.html",
+    "resumen": "Pese a la cancelación de la operación de fusión, por la crisis de gobernanza actual, Indra y EM&E mantienen varias UTE y proyectos compartidos en los que seguirán colaborando. Leer"
+  },
+  {
+    "titulo": "¿Va a descabalgar mañana el Gobierno a Escribano de Indra?",
+    "medio": "Expansión",
+    "fecha": 1774317831.0,
+    "link": "https://www.expansion.com/empresas/2026/03/24/69c1b1b5e5fdea2a1a8b456e.html",
+    "resumen": "El gobierno intentará descabalgar a ángel Escribano este miércoles de la presidencia de indra, no tanto por un conflicto de interés como por su aproximación al PP. Leer"
+  },
+  {
+    "titulo": "El 17-M, primera vuelta de las generales: el barón más parecido a Feijóo contra la más 'sanchista' del sanchismo",
+    "medio": "El Español",
+    "fecha": 1774317044.0,
+    "link": "https://www.elespanol.com/espana/politica/20260324/primera-vuelta-generales-baron-parecido-feijoo-sanchista-sanchismo/1003744181145_0.html",
+    "resumen": "El presidente que escribió el 'Manual de convivencia' frente a la vicepresidenta que salió a gritar '¡Vamos, Pedro!' en la calle Ferraz: siete rebajas fiscales en siete años frente a tres Presupuestos en ocho años de Gobierno. Más información: Juanma Moreno toma la iniciativa: Andalucía votará el 17 de mayo cerrando la puerta al superdomingo de Sánchez."
+  },
+  {
+    "titulo": "Ayuso sigue limitando las viviendas turísticas: bastará la negativa de la comunidad de vecinos para prohibirlas",
+    "medio": "El Español",
+    "fecha": 1774317043.0,
+    "link": "https://www.elespanol.com/espana/politica/20260324/ayuso-sigue-limitando-viviendas-turisticas-bastara-negativa-comunidad-vecinos-prohibirlas/1003744180984_0.html",
+    "resumen": "Actualizará la normativa para regular que estos alojamientos tengan un tamaño mínimo y dispongan de ropa de cama y utensilios del hogar. Más información: Solo el 3% de los pisos turísticos en Madrid están registrados en la nueva plataforma del Gobierno."
+  },
+  {
+    "titulo": "Delcy negoció en Barajas con Ábalos los 6M de barriles de crudo estipulados en el sobre de Aldama para financiar al PSOE",
+    "medio": "El Español",
+    "fecha": 1774317042.0,
+    "link": "https://www.elespanol.com/espana/20260324/delcy-negocio-barajas-abalos-barriles-crudo-estipulados-aldama-financiar-psoe/1003744180956_0.html",
+    "resumen": "Acordaron la puesta a disposición del petróleo de PDVSA durante 45 días, según la declaración judicial de Aldama. El documento está fechado el 4 de febrero de 2020, dos semanas después de la accidentada visita."
+  },
+  {
+    "titulo": "Exetarras y exdiputados del PSE tras la salida de Anboto: \"No han pedido perdón, y por tanto, nada avala esta política penitenciaria\"",
+    "medio": "El Español",
+    "fecha": 1774317042.0,
+    "link": "https://www.elespanol.com/reportajes/20260324/exetarras-exdiputados-pse-salida-anboto-no-pedido-perdon-avala-politica-penitenciaria/1003744180952_0.html",
+    "resumen": "La política penitenciaria que los socialistas desarrollan en el País Vasco se encuentra con el rechazo de sus antiguos miembros: \"El partido constitucionalista de los 90 y el de ahora son dos entidades diferentes\". Más información: 'Anboto' sale de prisión este lunes ante la impotencia de las víctimas y la indignación del PP: \"Es la corrupción más inmoral\"."
+  },
+  {
+    "titulo": "María Luisa Gaspar, la tránsfuga de Vox en Zaragoza que prefiere renunciar a su sueldo y no ir con la \"estrella del rock\" Abascal",
+    "medio": "El Español",
+    "fecha": 1774317018.0,
+    "link": "https://www.elespanol.com/aragon/actualidad/zaragoza/20260324/maria-luisa-gaspar-transfuga-vox-zaragoza-prefiere-renunciar-sueldo-no-ir-estrella-rock-abascal-dl/1003744180786_0.html",
+    "resumen": "La concejal 'no adscrita' ha tomado posesión este lunes en el Ayuntamiento. Más información: Marisa Gaspar ya forma parte del Ayuntamiento de Zaragoza: \"Soy huérfana de Vox, está absolutamente contaminado\""
+  },
+  {
+    "titulo": "Bianca, la Miss Trans agredida por 10 en La Bañeza: creció siendo el \"chico gordito\" y vive en un pueblo de 550 vecinos",
+    "medio": "El Español",
+    "fecha": 1774317017.0,
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20260324/bianca-miss-trans-agredida-baneza-crecio-chico-gordito-vive-pueblo-vecinos-dl/1003744180655_0.html",
+    "resumen": "Bianca Fernández, de 21 años y Miss Trans Zamora, ha sufrido una brutal agresión que “casi me dejan sin ojo”. Ha tenido que batallar contra el mundo rural para hacerse visible. Más información: Brutal agresión a Bianca, Miss Trans Zamora, en un pub de La Bañeza: “Travelo de mierda”"
+  },
+  {
+    "titulo": "¿Será delito conducir a 80 km/h por ciudad? El PSOE impulsa una reforma para castigar más a los conductores imprudentes",
+    "medio": "El Español",
+    "fecha": 1774317016.0,
+    "link": "https://www.elespanol.com/espana/politica/20260324/delito-conducir-kmh-ciudad-psoe-impulsa-reforma-castigar-conductores-imprudentes/1003744180636_0.html",
+    "resumen": "El Congreso debate este martes una proposición para que se considere delito superar en 50 km/h la velocidad permitida en vías urbanas y en 70 km/h la establecida para vías interurbanas. Más información: Los ingenieros alertan de que el estado actual de las carreteras causa 1.000 accidentes: \"El 52% de la red tiene deterioros graves\""
+  },
+  {
+    "titulo": "Sumar busca ahora cómo diferenciarse del PSOE sin salir del Gobierno y se movilizará con la bandera de la vivienda",
+    "medio": "El Español",
+    "fecha": 1774317016.0,
+    "link": "https://www.elespanol.com/espana/politica/20260324/sumar-busca-ahora-diferenciarse-psoe-sin-salir-gobierno-movilizara-bandera-vivienda/1003744180444_0.html",
+    "resumen": "Los ministros y dirigentes de Sumar se conjuran para mantener durante un mes la presión a favor de su propio \"decreto\", conscientes de que Sánchez ya no cuenta con ellos para completar mayorías electorales. Más información: La carta del PP a Bolaños exige un decreto anticrisis que salve las nucleares, 'actualice' el IRPF y aumente las ayudas por hijos"
+  },
+  {
+    "titulo": "Ganadería sostenible: eficiente, medible y baja en emisiones",
+    "medio": "Expansión",
+    "fecha": 1774316178.0,
+    "link": "https://www.expansion.com/economia/2026/03/24/69c1aa9d468aebdb358b457e.html",
+    "resumen": "La ganadería se enfrenta a un periodo de transformación. La sostenibilidad, la eficiencia y la medición de impactos son los ejes que marcarán su competitividad y definirán su futuro. Leer"
+  },
+  {
+    "titulo": "El BCE ve Europa como el líder global en activos digitales",
+    "medio": "Expansión",
+    "fecha": 1774316099.0,
+    "link": "https://www.expansion.com/mercados/2026/03/24/69c1e720e5fdea2a1a8b4579.html",
+    "resumen": "Cipollone, miembro del Comité Ejecutivo del BCE, cree que la región está en una posición privilegiada para dominar las finanzas virtuales. Leer"
+  },
+  {
+    "titulo": "El Gobierno se complica echar a los Escribano del Consejo de Indra gracias a un informe firmado por un vocal de la Sepi: \"Escribano no se encontraría en una situación de conflicto permanente\"",
+    "medio": "El Mundo",
+    "fecha": 1774315460.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/03/24/69c161f8fdddff8a428b4596.html",
+    "resumen": "La vía del conflicto de interés es la que se suele usar para provocar el cese de los consejeros dominicales en una cotizada Leer"
+  },
+  {
+    "titulo": "España va a perder más de un tercio de los contratos de alquiler que vencen en un año: \"Si se mantienen las medidas intervencionistas, será aún peor\"",
+    "medio": "El Mundo",
+    "fecha": 1774315419.0,
+    "link": "https://www.elmundo.es/economia/vivienda/2026/03/24/69c11c87e85ece9b788b4573.html",
+    "resumen": "El 24% prevé vender el inmueble una vez que finalice el contrato, mientras que el 8% lo destinará al alquiler de habitaciones o lo reconvertirá en un alquiler vacacional (2%) Leer"
+  },
+  {
+    "titulo": "María Jesús Montero, candidata del PSOE en Andalucía a su pesar y miembro del Gobierno de Sánchez hasta el último minuto",
+    "medio": "El Mundo",
+    "fecha": 1774315418.0,
+    "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/03/24/69c1a811fdddffa41f8b456e.html",
+    "resumen": "En las últimas semanas había intensificado sus actos en la comunidad en la que optará a la presidencia frente a las encuestas que vatician una debacle Leer"
+  },
+  {
+    "titulo": "Dos proyectiles impactan en infraestructuras gasísticas de Irán tras el aplazamiento de un ataque de EE.UU.",
+    "medio": "HuffPost",
+    "fecha": 1774313083.0,
+    "link": "https://www.huffingtonpost.es/global/dos-proyectiles-impactan-infraestructuras-gasisticasan-aplazamiento-ataque-eeuu-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Clamor de las CCAA contra Sanidad para abordar esta semana la huelga de médicos en el Consejo Interterritorial: \"Es inaplazable una revisión inmediata y conjunta\"",
+    "medio": "El Mundo",
+    "fecha": 1774312444.0,
+    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/24/69c17d1ffc6c83531c8b4596.html",
+    "resumen": "Las consejerías de Sanidad han enviado cartas al Ministerio de Mónica García para pedir que en el Consejo Interterritorial de este viernes se aborda ya el problema de los paros médicos Leer"
+  },
+  {
+    "titulo": "Leonid Radvinsky, el propietario de OnlyFans que transformó la economía del contenido para adultos",
+    "medio": "El Mundo",
+    "fecha": 1774312424.0,
+    "link": "https://www.elmundo.es/economia/2026/03/24/69c187c5e9cf4aa0128b4596.html",
+    "resumen": "El empresario ucraniano-estadounidense ha fallecido a los 43 años a causa de un cáncer. Bajo su gestión, la plataforma alcanzó una valoración multimillonaria y cambió el modelo de negocio de la industria erótica Leer"
+  },
+  {
+    "titulo": "Un avión de la Fuerza Aérea colombiana se estrella con 125 personas a bordo: hay más de 30 muertos",
+    "medio": "El País",
+    "fecha": 1774312352.0,
+    "link": "https://elpais.com/america-colombia/2026-03-23/un-avion-de-la-fuerza-aerea-colombiana-se-accidenta-en-putumayo.html",
+    "resumen": "La aeronave, un C-130 Hércules, se desplomó en Putumayo, en el suroccidente del país"
+  },
+  {
+    "titulo": "Bolsonaro recibe el alta de cuidados intensivos y crece la presión para que regrese a la prisión domiciliaria",
+    "medio": "El Mundo",
+    "fecha": 1774312278.0,
+    "link": "https://www.elmundo.es/internacional/2026/03/24/69c1db54e9cf4a660b8b4585.html",
+    "resumen": "La mejora en el estado de salud de Bolsonaro coincide con el pronunciamiento de la Fiscalía General de la República (PGR), que se manifestó a favor de que el ex presidente regrese al régimen de prisión domiciliaria Leer"
+  },
+  {
+    "titulo": "La UE y Australia firman un acuerdo comercial que elimina 1.000 millones en aranceles a las exportaciones europeas",
+    "medio": "El País",
+    "fecha": 1774312200.0,
+    "link": "https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html",
+    "resumen": "Bruselas y Camberra suscriben también un pacto para estrechar su colaboración en seguridad y defensa"
+  },
+  {
+    "titulo": "Actualiza tu iPhone ahora: un peligroso exploit se filtró y cualquiera puede hackearte",
+    "medio": "Hipertextual",
+    "fecha": 1774308853.0,
+    "link": "https://hipertextual.com/seguridad/darksword-filtrado-github-exploit-iphone-ios-18/",
+    "resumen": "Uno de los exploits más peligrosos del mundo para los usuarios de iPhone se ha filtrado. A pocos días de que investigadores de Google y otras firmas de seguridad revelaran la existencia de DarkSword, una versión de esta herramienta apareció en GitHub. La situación ha puesto en peligro cientos de millones de iPhones y iPads […] Seguir leyendo: Actualiza tu iPhone ahora: un peligroso exploit se filtró y cualquiera puede hackearte"
+  },
+  {
+    "titulo": "El misil de Sánchez de Irán a Aran",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497167/misil-sanchez-iran-aran.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El mal olor de la política",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497244/mal-olor-politica.html",
+    "resumen": "Jaime de los Santos (PP) crítica la falta de aseo de los ministros de Sumar"
+  },
+  {
+    "titulo": "Un “no” coherente",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497246/coherente.html",
+    "resumen": "No se trata de ganar la guerra, se trata de ganar la paz"
+  },
+  {
+    "titulo": "La hora dorada",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497247/hora-dorada.html",
+    "resumen": "En ‘Sueños de trenes’, pausada y preciosista, hay una veta de violencia y mecanización"
+  },
+  {
+    "titulo": "Agentes sin ley",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497248/agentes-ley.html",
+    "resumen": "Agentes de inteligencia artificial adoptan comportamientos poco éticos"
+  },
+  {
+    "titulo": "Los divorcios caen en picado",
+    "medio": "La Vanguardia",
+    "fecha": 1774308600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497356/divorcios-caen-picado.html",
+    "resumen": "Los divorciados tenemos que volver a dar envidia y proyectar esperanza"
+  },
+  {
+    "titulo": "Peldanyos prueba tres de los nuevos helados de Mercadona y tiene un claro veredicto: \"10 de 10\"",
+    "medio": "HuffPost",
+    "fecha": 1774307858.0,
+    "link": "https://www.huffingtonpost.es/virales/peldanyos-prueba-tres-nuevos-helados-mercadona-claro-veredicto-10-10-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Belén Esteban pide trabajo a Broncano en TVE: «Estoy dispuesta a un buen contrato»",
+    "medio": "OK Diario",
+    "fecha": 1774307664.0,
+    "link": "https://okdiario.com/trailer/belen-esteban-pide-trabajo-broncano-tve-estoy-dispuesta-buen-contrato-16472741",
+    "resumen": "Belén Esteban ha visitado a David Broncano por octava vez en La Revuelta en este caso como concursante de Top Chef: dulces y famosos, en pleno año sabático y en medio de todas las especulaciones sobre su futuro profesional. La excolaboradora de Sálvame (Telecinco) ha acudido al programa de La 1 de TVE junto a … Continuar leyendo \"Belén Esteban pide trabajo a Broncano en TVE: «Estoy dispuesta a un buen contrato»\""
+  },
+  {
+    "titulo": "Guerra de Irán, EEUU e Israel en directo | Ataques, estrecho de Ormuz, declaraciones de Trump, bolsas y última hora",
+    "medio": "OK Diario",
+    "fecha": 1774307420.0,
+    "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-directo-ataques-eeuu-israel-situacion-del-estrecho-ormuz-precio-del-petroleo-hoy-16465385",
+    "resumen": "La guerra entre Estados Unidos, Israel e Irán, iniciada el pasado 28 de febrero con bombardeos sorpresa sobre territorio iraní, continúa a finales de marzo en una fase de máxima intensidad y sin señales claras de desescalada. Washington y Tel Aviv mantienen su objetivo de debilitar la capacidad militar de Teherán, especialmente su programa de … Continuar leyendo \"Guerra de Irán, EEUU e Israel en directo | Ataques, estrecho de Ormuz, declaraciones de Trump, bolsas y última hora\""
+  },
+  {
+    "titulo": "El movimiento con silla que está transformando fuerza y equilibrio después de los 60",
+    "medio": "El Mundo",
+    "fecha": 1774307226.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/03/24/69aab374e9cf4a336a8b4595.html",
+    "resumen": "Con el paso de los años, resulta fundamental mantener la fuerza y la estabilidad. Por ello, un ejercicio muy fácil de hacer que se realiza con silla y ayuda a mejorar el equilibrio está ganando popularidad entre las mayores de 60. Leer"
+  },
+  {
+    "titulo": "Diana Oliver, sobre la depresión posparto: \"Cuando nace un bebé, algunas mujeres lo viven como una película de terror y llegan a querer que su hijo se muera. Es un problema de salud mental\"",
+    "medio": "El Mundo",
+    "fecha": 1774307204.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/03/24/69b96809fdddff07518b458d.html",
+    "resumen": "Después de dar a luz es probable que a una mujer le invada la tristeza. Pero si continúa pasados unos días, quizá estemos hablando de un trastorno que sufre entre un 10 y 20% de las madres. Leer"
+  },
+  {
+    "titulo": "Trump desata el caos en los mercados tras su anuncio de tregua con Irán",
+    "medio": "La Vanguardia",
+    "fecha": 1774307100.0,
+    "link": "https://www.lavanguardia.com/economia/20260324/11497469/trump-desata-caos-mercados-anuncio-tregua-iran.html",
+    "resumen": "El petróleo cae por debajo de 100 dólares y las bolsas se dan la vuelta en minutos"
+  },
+  {
+    "titulo": "Ser amigo de Trump no suma",
+    "medio": "La Vanguardia",
+    "fecha": 1774307100.0,
+    "link": "https://www.lavanguardia.com/opinion/20260324/11497471/amigo-trump-suma.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Cuida de tu jardín fácilmente con los kit de riego por goteo automático con panel solar",
+    "medio": "The Objective",
+    "fecha": 1774306980.0,
+    "link": "https://theobjective.com/productos-recomendados/2026-03-24/kit-de-riego-por-goteo-automatico-con-panel-solar/",
+    "resumen": "¿Estás buscando una forma eficiente, ecológica y económica de mantener tu jardín siempre verde y saludable? El Kit de Riego por Goteo Automático con Panel Solar […]"
+  },
+  {
+    "titulo": "La Esteban en ‘La revuelta’: ay, Belén",
+    "medio": "El País",
+    "fecha": 1774306965.0,
+    "link": "https://elpais.com/television/2026-03-23/la-esteban-en-la-revuelta-ay-belen.html",
+    "resumen": "La de San Blas es un animal televisivo en horas bajas, es de ese tipo de familiares que te han dado los mejores años y las frases de tu vida, pero que con los años resultan algo cansinos y repetitivos"
+  },
+  {
     "titulo": "Paula Badosa: «A veces siento que no puedo controlar las voces dentro de mí»",
     "medio": "The Objective",
     "fecha": 1774306279.0,
     "link": "https://theobjective.com/deportes/2026-03-23/paula-badosa-no-puedo-controlar-voces-dentro-mi/",
     "resumen": "Paula Badosa, que la semana pasada cayó en segunda ronda del WTA 1.000 de Miami ante la estadounidense Iva Jovic (6-2, 6-1), ha reconocido que a […]"
-  },
-  {
-    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump dice que fue Irán quien hizo el primer acercamiento para negociar y que no reconoce a Jameneí como líder",
-    "medio": "El País",
-    "fecha": 1774305716.0,
-    "link": "https://elpais.com/internacional/2026-03-23/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Netanyahu asegura que el estadounidense cree poder alcanzar los objetivos de la guerra con un pacto | La Casa Blanca ve al presidente del Parlamento iraní como un potencial socio"
   },
   {
     "titulo": "Cómo conseguir privilegios de root en Linux con una herramienta de la élite del hacking: un mechero",
@@ -70,39 +385,11 @@
     "resumen": "Descubierto el mecanismo que explica por qué el dolor crónico genera depresión en algunas personas y en otras no. Un estudio, publicado en Science, rechaza la idea de que […]"
   },
   {
-    "titulo": "Omar Montes anuncia su ‘retirada’ de la música: sus canciones más escuchadas",
-    "medio": "OK Diario",
-    "fecha": 1774302571.0,
-    "link": "https://okdiario.com/happyfm/omar-montes-anuncia-retirada-musica-sus-canciones-mas-escuchadas-16472448",
-    "resumen": "Omar Montes ha soltado el bombazo en su última visita a El Hormiguero, donde ha contado a Pablo Motos que tiene pensado tomarse un descanso en su carrera musical. El cantante se ha quejado del poco apoyo que reciben los artistas nacionales en las listas de éxitos, donde cantantes extranjeros son los que dominan los … Continuar leyendo \"Omar Montes anuncia su ‘retirada’ de la música: sus canciones más escuchadas\""
-  },
-  {
-    "titulo": "Móviles Samsung, Xiaomi y POCO por menos de 300 €: los modelos que más merecen la pena en AliExpress",
-    "medio": "La Vanguardia",
-    "fecha": 1774302300.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260323/11496726/moviles-samsung-xiaomi-poco-300-modelos-mas-merecen-pena-aliexpress-mkt-alie.html",
-    "resumen": "Renovar el móvil sin gastar demasiado es cada vez más sencillo, y AliExpress lo demuestra con descuentos en Samsung, Xiaomi y POCO que ofrecen buenas prestaciones por menos de 300 euros."
-  },
-  {
     "titulo": "Montero dimitirá en «los próximos días» y dejará el Gobierno sin presentar los Presupuestos",
     "medio": "The Objective",
     "fecha": 1774302215.0,
     "link": "https://theobjective.com/espana/politica/2026-03-23/montero-moreno-elecciones-repunte-psoe/",
     "resumen": "La secretaria general del PSOE-A, María Jesús Montero, ha confirmado este lunes que dimitirá como vicepresidenta primera del Gobierno y ministra de Hacienda «en los próximos […]"
-  },
-  {
-    "titulo": "Badosa se sincera: «Qué jodido es el puto miedo, a veces no puedo controlar mis voces internas»",
-    "medio": "OK Diario",
-    "fecha": 1774302177.0,
-    "link": "https://okdiario.com/deportes/badosa-sincera-que-jodido-puto-miedo-veces-no-puedo-controlar-mis-voces-internas-16472391",
-    "resumen": "Paula Badosa sigue en la pelea. Contra las tenistas y contra sí misma, también una rival poderosa. Lleva tres años imbuida en un bucle de subidas y bajadas del que quiere salir. A finales de septiembre de 2025 venció a Ruzic en Pekín y a partir de ahí, fundido a negro por las lesiones. No … Continuar leyendo \"Badosa se sincera: «Qué jodido es el puto miedo, a veces no puedo controlar mis voces internas»\""
-  },
-  {
-    "titulo": "Naturhouse ganó 10,1 millones en 2025, un 2,3% más, y repartirá un dividendo de 3 millones de euros",
-    "medio": "OK Diario",
-    "fecha": 1774301776.0,
-    "link": "https://okdiario.com/economia/empresas/naturhouse-gano-101-millones-2025-23-mas-repartira-dividendo-3-millones-euros-16472384",
-    "resumen": "Naturhouse, compañía líder en nutrición y dietética, ha cerrado el ejercicio 2025 con un beneficio neto de 10,09 millones de euros, mejorando un 2,3% el resultado del año anterior que alcanzó 9,86 millones de euros, consolidando la evolución positiva de la Compañía y la solidez de su modelo de negocio. El Consejo de Administración de … Continuar leyendo \"Naturhouse ganó 10,1 millones en 2025, un 2,3% más, y repartirá un dividendo de 3 millones de euros\""
   },
   {
     "titulo": "Una americana que lleva 7 años en España: \"Nunca me he sentido tan poco estilosa como al lado de una abuela española\"",
@@ -131,13 +418,6 @@
     "fecha": 1774301228.0,
     "link": "https://www.huffingtonpost.es/sociedad/byungchul-hanla-paradoja-mundo-capitalista-occidental-autoexplotamos-le-llamamos-superacion-personal-f202603.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Bill Cosby, condenado a pagar 16,5 millones de euros por drogar y violar a una mujer en 1972",
-    "medio": "OK Diario",
-    "fecha": 1774301222.0,
-    "link": "https://okdiario.com/internacional/bill-cosby-condenado-pagar-165-millones-euros-drogar-violar-mujer-1972-16472241",
-    "resumen": "El actor Bill Cosby ha sido declarado culpable este lunes de drogar y violar a Donna Motsinguer en 1972, cuando la víctima era camarera en Sausalito, una localidad en la costa de California. El cómico, reconocido por la serie de televisión La hora de Bill Cosby, ha sido condenado a pagar 19 millones de dólares … Continuar leyendo \"Bill Cosby, condenado a pagar 16,5 millones de euros por drogar y violar a una mujer en 1972\""
   },
   {
     "titulo": "Montero (PSOE-A) dimitirá como ministra \"en los próximos días\" para centrarse en su candidatura en Andalucía",
@@ -175,18 +455,18 @@
     "resumen": "El Tribunal Europeo de Derechos Humanos (TEDH) ha rechazado revisar la sentencia en la que descartaba que el Tribunal Supremo vulnerara derechos políticos de Oriol Junqueras, Jordi Turull y Jordi Sànchez por ordenar su ingreso en prisión provisional tras el referéndum declarado ilegal del 1-O e impedirles participar en las elecciones autonómicas de diciembre de 2017."
   },
   {
-    "titulo": "Cuánto dinero puedes dar a un familiar sin pagar impuestos: este es el límite de las transferencias sin declarar",
-    "medio": "Trendencias",
-    "fecha": 1774299654.0,
-    "link": "https://www.trendencias.com/silver/cuanto-dinero-puedes-dar-a-familiar-pagar-impuestos-este-limite-transferencias-declarar",
-    "resumen": "Transferir dinero a un hijo, a los padres o a un hermano es una práctica habitual. Un ingreso para ayudar con la entrada de un piso, una aportación para cubrir gastos de estudios o simplemente un regalo en metálico. Lo que muchas personas desconocen es que, desde el punto de vista fiscal, cualquiera de esas operaciones puede constituir una donación y, como tal, estar sujeta al Impuesto sobre Sucesiones y Donaciones. Y de hecho, cualquier transferencia hecha por unos padres a su hijo podría ser considerada por la Agencia Tributaria como una donación encubierta. Y este tipo de transacciones pueden acarrear sanciones si no son declaradas de la forma correcta. La Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones establece que cualquier transmisión de bienes o dinero a título gratuito entre personas físicas está sujeta a este impuesto. No existe un mínimo exento con carácter general, lo que significa que la obligación de declarar no depende de la cantidad donada, sino de que exista una transmisión gratuita. Es decir, da igual que sean 50 euros o 50.000: legalmente, todo debería tributar. Otra cosa distinta es que, en la práctica, pequeñas cantidades pasen desapercibidas o estén muy bonificadas según la comunidad autónoma. Para entenderlo mejor, este impuesto es estatal (regulado por la Ley 29/1987), pero está cedido a las comunidades autónomas, que aplican reducciones y bonificaciones propias. Cómo funciona el Impuesto sobre Sucesiones y Donaciones El ISD es un tributo de naturaleza estatal cuya gestión está cedida a las comunidades autónomas. Esto significa que la cuota a pagar varía de forma notable según dónde resida quien recibe la donación. Según la Agencia Tributaria, el tipo impositivo estatal oscila entre el 7,65% y el 34% en función del importe y del grado de parentesco entre donante y receptor. Algunas comunidades, como Madrid, aplican bonificaciones que pueden llegar al 99% de la cuota, lo que en la práctica deja la tributación efectiva en cifras mínimas para las donaciones entre familiares directos. En otras, como Cataluña, la carga fiscal puede ser más elevada. Quien recibe la donación es el obligado a liquidar el impuesto. El plazo para presentarlo (mediante el modelo 651) es de 30 días hábiles desde la fecha de la donación. El límite de Hacienda Tal y como explican en Onda Cero, Hacienda establece un límite de 10.000 euros, a partir del cual las transferencias bancarias deben ser declaradas oficialmente. Por encima de esa cantidad, Hacienda puede requerir al contribuyente que justifique el origen y la finalidad del movimiento, y si lo considera una donación encubierta, procederá a liquidar el impuesto correspondiente más los recargos o sanciones aplicables. Además, según la Ley 10/2010 de prevención del blanqueo de capitales y la financiación del terrorismo, las transferencias que superen los 6.000 euros pueden ser objeto de análisis por parte de Hacienda. A efectos prácticos, las transferencias a partir de esta cantidad quedan registradas y pueden ser objeto de análisis por parte de la Agencia Tributaria si se detectan indicios de irregularidad fiscal. De hecho, las entidades bancarias tienen la obligación de monitorear las transacciones. Tal y como explica Heraldo de Aragón, las entidades deben vigilar y analizar las transacciones financieras para detectar operaciones sospechosas. y patrones inusuales en el comportamiento financiero de sus clientes. En este punto, hay otro aspecto clave que muchas personas pasan por alto es la frecuencia de los pagos. No hace falta hacer una gran transferencia puntual para que Hacienda actúe. Si hay ingresos recurrentes (por ejemplo, 200 o 300 euros al mes), también pueden considerarse donaciones encubiertas. En este caso, lo que se analiza no es solo la cantidad, sino el patrón. Si hay regularidad, Hacienda puede interpretar que existe una ayuda económica continuada, y que esta debe estar sujeta a tributación. Qué ocurre si no se declara una donación No presentar el ISD en plazo no es una cuestión menor. La Ley General Tributaria tipifica estas situaciones como infracciones tributarias, con sanciones que se calculan sobre la cuota que se dejó de ingresar a Hacienda, no sobre el valor total de la donación. Los tramos son los siguientes: la infracción leve (cuando la base de la sanción no supera los 3.000 euros o no hay ocultación) conlleva una multa del 50% sobre la cuota no pagada. Las infracciones graves y muy graves, en las que hay ocultación deliberada o medios fraudulentos, pueden alcanzar el 100% o el 150% de esa cuota. En un supuesto específico (la falta de declaración de los medios de pago empleados), la propia Agencia Tributaria precisa en su web que la sanción mínima es de 600 euros y el máximo puede llegar al 50% del valor de los medios de pago, además de posible amonestación pública o privada. Si la intención no es donar sino prestar el dinero, la operación puede formalizarse como un préstamo entre particulares (incluso sin intereses), que también debe comunicarse a Hacienda mediante el modelo 600 para evitar que la administración lo interprete como una donación encubierta. Fotografías | Freepik, jcomp, DC Studio En Trendencias | Manuel Hernández, abogado experto en herencias: \"Si un hermano ha ocupado una vivienda familiar y no quiere irse, la familia puede iniciar un desahucio por precario\" En Trendencias | El error más grave en España a la hora de las herencias: \"Si la aceptas, que sea siempre a beneficio de inventario porque luego hay sorpresas\" En Trendencias | Alberto Sanchez, abogado: \"Si hay testamento hecho, la herencia se debe repartir en tres tercios\" - La noticia Cuánto dinero puedes dar a un familiar sin pagar impuestos: este es el límite de las transferencias sin declarar fue publicada originalmente en Trendencias por Nacho Viñau ."
-  },
-  {
     "titulo": "Bienvenidos a la era del concierto sin artista: Soda Stereo vuelve proyectando a un músico que murió hace 12 años",
     "medio": "Xataka",
     "fecha": 1774299654.0,
     "link": "https://www.xataka.com/musica/bienvenidos-a-era-concierto-artista-soda-stereo-vuelve-proyectando-pantalla-a-musico-que-murio-hace-12-anos",
     "resumen": "El 21 de marzo de 2026, Charly Alberti y Zeta Bosio subieron al Movistar Arena de Buenos Aires junto a pantallas que reproducían la voz y la guitarra del fallecido tercer vértice del triángulo Soda Stereo, Gustavo Cerati. En ellas se mostraban grabaciones previas del músico, y pretendían ir mucho más allá de un simple holograma. Una parte del público, desde redes sociales, no lo vio como algo tan revolucionario. Lo que acaba de ocurrir con Soda Stereo es un capítulo más (eso sí, uno especialmente revelador) de la industrialización del concierto póstumo. El fantasma de Cerati. Se sabía cuándo y dónde volvía Soda Stereo, pero no se sabía cómo. El 29 de septiembre de 2025, el anuncio en redes fue escueto y deliberadamente ambiguo: \"No es tributo. No es homenaje. No es película. Es Soda, en vivo. Soda = Vanguardia\". La promesa era que Gustavo Cerati, fallecido en 2014, estaría en el escenario, aunque la palabra \"holograma\" se evitó cuidadosamente en el anuncio. Lo que el público encontró el 21 de marzo en el Movistar Arena de Buenos Aires fue algo más sencillo y más complejo a la vez: pantallas, efectos de profundidad y las grabaciones de voz y guitarra que Cerati dejó en las giras de 1997 y de 2007. Las cifras. La gira ya suma, antes de terminar su primera semana, más de 500.000 entradas vendidas y 33 fechas en América Latina y España, la última programada para el 24 de septiembre en Madrid. Lo que se puede ver en el espectáculo es, detrás de un telón semitransparente, la silueta de Cerati que va dando paso, canción a canción, a una presencia más nítida en las pantallas laterales: planos de las manos sobre la guitarra Jackson azul, imágenes de cuerpo entero... Un total de diecinueve canciones, con gafas 3D para dos de ellas. En Xataka A Shakira no le convence ningún estadio de Madrid para cerrar su gira mundial. Así que se va a construir uno propio Reacción de los fans. La reacción en redes estuvo muy polarizada. Una parte del público quedó emocionada pero otra parte, la más ruidosa, calificó el espectáculo de \"fraude\" y \"fantochada\". El argumento para el rechazo, más que técnico, era emocional: \"Cerati en vivo siempre te cambiaba algún arreglo, hacía chistes, hablaba con el público. Eso no es Cerati, no es en vivo, no tiene humanidad\". señaló un usuario. \"Cerati\" y \"fraude\" se convertían en trending topics entre críticas de \"la “proeza tecnológica” se normaliza al tercer tema. Y entonces no queda nada. Es una canción tras otra (a veces ni están en el escenario). Y el espectador siente como si estuviera viendo un DVD con otras 15mil personas\". Todo al milímetro. En la reseña que hizo La Nación del concierto, decía que el espectáculo \"no es un recital. Es un show, calculado al milímetro, con un guión, sin posibilidades de espontaneidad ni improvisación\". Y es algo que se puede aplicar a aquello en lo que se han convertido la mayoría de los grandes conciertos en vivo: cada gesto del artista, cada discurso entre canción y canción está guionizadísimos. Pero en el caso de Cerati, hasta momentos más espontáneos (hay un momento en el que saluda a los otros dos miembros con un \"Hola, Zeta, Charly...\") resultan especialmente artificiales, porque siempre se repetirán igual. Precedentes fúnebres. No es la primera vez que la industria musical recurre a este tipo de recursos. Cuando en abril de 2012 la imagen de Tupac Shakur apareció en el escenario de Coachella junto a Snoop Dogg y Dr. Dre, los 90.000 asistentes se quedaron sin palabras. El vídeo acumuló 15 millones de visualizaciones en YouTube en 48 horas y las ventas del catálogo del rapero se dispararon. Técnicamente no era un holograma, sino un viejo truco procedente del ilusionismo del siglo XIX: una proyección en una pantalla frente al público que se conoce como Pepper's Ghost. Desde entonces han pasado por los escenarios las versiones espectrales de Michael Jackson, Roy Orbison, Whitney Houston o Frank Zappa. Todos eran eventos aislados: la primera vez que se pensó en prolongarlo en el tiempo fue el espectáculo ABBA Voyage en 2022: una residencia permanente en Londres con un recinto de 3.000 plazas construido ex profeso para el show, con efectos de Industrial Light & Magic y con los cuatro miembros del grupo participando activamente en el proceso de captura de movimiento. ABBA Voyage facturó más de cien millones de libras solo en 2024. En Xataka \"Les estamos robando a manos llenas\": los directivos de TicketMaster admiten en privado lo que sus clientes llevan años sospechando: Algo más modesto. El show de Soda Stereo se inspira en el modelo de ABBA, pero en una versión reducida, ya que la tecnología empleada es significativamente más modesta. Hay una diferencia extra: ABBA Voyage funciona porque sus cuatro miembros decidieron conscientemente cómo querían ser representados. Con Soda Stereo, Cerati no tomó ninguna decisión sobre este proyecto. El consentimiento lo ejercen quien controla su imagen: Benito Cerati, hijo del músico, que ha defendido la iniciativa de Soda Stereo. El problema es que, según los fans, Cerati era conocido por exactamente lo opuesto a esto: la improvisación, el riesgo escénico y la imprevisibilidad siempre estaban presentes en sus conciertos. En Xataka | Spotify mató al disco y la industria pivotó a los conciertos. Netflix mató al cine y la industria se quedó con una \"crisis del espacio\" - La noticia Bienvenidos a la era del concierto sin artista: Soda Stereo vuelve proyectando a un músico que murió hace 12 años fue publicada originalmente en Xataka por John Tones ."
+  },
+  {
+    "titulo": "Cuánto dinero puedes dar a un familiar sin pagar impuestos: este es el límite de las transferencias sin declarar",
+    "medio": "Trendencias",
+    "fecha": 1774299654.0,
+    "link": "https://www.trendencias.com/silver/cuanto-dinero-puedes-dar-a-familiar-pagar-impuestos-este-limite-transferencias-declarar",
+    "resumen": "Transferir dinero a un hijo, a los padres o a un hermano es una práctica habitual. Un ingreso para ayudar con la entrada de un piso, una aportación para cubrir gastos de estudios o simplemente un regalo en metálico. Lo que muchas personas desconocen es que, desde el punto de vista fiscal, cualquiera de esas operaciones puede constituir una donación y, como tal, estar sujeta al Impuesto sobre Sucesiones y Donaciones. Y de hecho, cualquier transferencia hecha por unos padres a su hijo podría ser considerada por la Agencia Tributaria como una donación encubierta. Y este tipo de transacciones pueden acarrear sanciones si no son declaradas de la forma correcta. La Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones establece que cualquier transmisión de bienes o dinero a título gratuito entre personas físicas está sujeta a este impuesto. No existe un mínimo exento con carácter general, lo que significa que la obligación de declarar no depende de la cantidad donada, sino de que exista una transmisión gratuita. Es decir, da igual que sean 50 euros o 50.000: legalmente, todo debería tributar. Otra cosa distinta es que, en la práctica, pequeñas cantidades pasen desapercibidas o estén muy bonificadas según la comunidad autónoma. Para entenderlo mejor, este impuesto es estatal (regulado por la Ley 29/1987), pero está cedido a las comunidades autónomas, que aplican reducciones y bonificaciones propias. Cómo funciona el Impuesto sobre Sucesiones y Donaciones El ISD es un tributo de naturaleza estatal cuya gestión está cedida a las comunidades autónomas. Esto significa que la cuota a pagar varía de forma notable según dónde resida quien recibe la donación. Según la Agencia Tributaria, el tipo impositivo estatal oscila entre el 7,65% y el 34% en función del importe y del grado de parentesco entre donante y receptor. Algunas comunidades, como Madrid, aplican bonificaciones que pueden llegar al 99% de la cuota, lo que en la práctica deja la tributación efectiva en cifras mínimas para las donaciones entre familiares directos. En otras, como Cataluña, la carga fiscal puede ser más elevada. Quien recibe la donación es el obligado a liquidar el impuesto. El plazo para presentarlo (mediante el modelo 651) es de 30 días hábiles desde la fecha de la donación. El límite de Hacienda Tal y como explican en Onda Cero, Hacienda establece un límite de 10.000 euros, a partir del cual las transferencias bancarias deben ser declaradas oficialmente. Por encima de esa cantidad, Hacienda puede requerir al contribuyente que justifique el origen y la finalidad del movimiento, y si lo considera una donación encubierta, procederá a liquidar el impuesto correspondiente más los recargos o sanciones aplicables. Además, según la Ley 10/2010 de prevención del blanqueo de capitales y la financiación del terrorismo, las transferencias que superen los 6.000 euros pueden ser objeto de análisis por parte de Hacienda. A efectos prácticos, las transferencias a partir de esta cantidad quedan registradas y pueden ser objeto de análisis por parte de la Agencia Tributaria si se detectan indicios de irregularidad fiscal. De hecho, las entidades bancarias tienen la obligación de monitorear las transacciones. Tal y como explica Heraldo de Aragón, las entidades deben vigilar y analizar las transacciones financieras para detectar operaciones sospechosas. y patrones inusuales en el comportamiento financiero de sus clientes. En este punto, hay otro aspecto clave que muchas personas pasan por alto es la frecuencia de los pagos. No hace falta hacer una gran transferencia puntual para que Hacienda actúe. Si hay ingresos recurrentes (por ejemplo, 200 o 300 euros al mes), también pueden considerarse donaciones encubiertas. En este caso, lo que se analiza no es solo la cantidad, sino el patrón. Si hay regularidad, Hacienda puede interpretar que existe una ayuda económica continuada, y que esta debe estar sujeta a tributación. Qué ocurre si no se declara una donación No presentar el ISD en plazo no es una cuestión menor. La Ley General Tributaria tipifica estas situaciones como infracciones tributarias, con sanciones que se calculan sobre la cuota que se dejó de ingresar a Hacienda, no sobre el valor total de la donación. Los tramos son los siguientes: la infracción leve (cuando la base de la sanción no supera los 3.000 euros o no hay ocultación) conlleva una multa del 50% sobre la cuota no pagada. Las infracciones graves y muy graves, en las que hay ocultación deliberada o medios fraudulentos, pueden alcanzar el 100% o el 150% de esa cuota. En un supuesto específico (la falta de declaración de los medios de pago empleados), la propia Agencia Tributaria precisa en su web que la sanción mínima es de 600 euros y el máximo puede llegar al 50% del valor de los medios de pago, además de posible amonestación pública o privada. Si la intención no es donar sino prestar el dinero, la operación puede formalizarse como un préstamo entre particulares (incluso sin intereses), que también debe comunicarse a Hacienda mediante el modelo 600 para evitar que la administración lo interprete como una donación encubierta. Fotografías | Freepik, jcomp, DC Studio En Trendencias | Manuel Hernández, abogado experto en herencias: \"Si un hermano ha ocupado una vivienda familiar y no quiere irse, la familia puede iniciar un desahucio por precario\" En Trendencias | El error más grave en España a la hora de las herencias: \"Si la aceptas, que sea siempre a beneficio de inventario porque luego hay sorpresas\" En Trendencias | Alberto Sanchez, abogado: \"Si hay testamento hecho, la herencia se debe repartir en tres tercios\" - La noticia Cuánto dinero puedes dar a un familiar sin pagar impuestos: este es el límite de las transferencias sin declarar fue publicada originalmente en Trendencias por Nacho Viñau ."
   },
   {
     "titulo": "Zelenski advierte de que Rusia podría estar preparando un «gran ataque» aéreo sobre Kiev",
@@ -203,39 +483,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Qué se necesita para abrir Ormuz: los pasos de EEUU e Irán que aguardan con ansia los mercados",
-    "medio": "HuffPost",
-    "fecha": 1774299422.0,
-    "link": "https://www.huffingtonpost.es/global/que-necesita-abrir-ormuz-pasos-eeuu-ean-ultimatum-trump-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Bonoloto: comprobar el resultado del sorteo de hoy, lunes 23 de marzo de 2026",
-    "medio": "OK Diario",
-    "fecha": 1774298743.0,
-    "link": "https://okdiario.com/loteria/comprobar-bonoloto-resultado-numero-premiado-hoy-lunes-23-marzo-2026-16470483",
-    "resumen": "Los resultados del sorteo de la Bonoloto celebrado hoy, lunes 23 de marzo de 2026 ya se conocen por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 09, 07, 13, 24, 30 y 18. El número complementario es el 43 y el reintegro el 2. Cómo jugar … Continuar leyendo \"Bonoloto: comprobar el resultado del sorteo de hoy, lunes 23 de marzo de 2026\""
-  },
-  {
     "titulo": "Se acabaron los secretos para los Galaxy A57 y A37: se ha filtrado todo, hasta su precio",
     "medio": "Hipertextual",
     "fecha": 1774298683.0,
     "link": "https://hipertextual.com/mobile/samsung-galaxy-a57-a37-filtracion-precio-especificaciones/",
     "resumen": "Tras meses de rumores y especulaciones, los nuevos Samsung Galaxy A57 y Galaxy A37 se han filtrado por completo. En esta ocasión, la información no viene de filtradores o usuarios que ya lo vieron en tiendas, sino de una filial de Vodafone. El operador publicó los móviles en su tienda en línea a unos cuantos […] Seguir leyendo: Se acabaron los secretos para los Galaxy A57 y A37: se ha filtrado todo, hasta su precio"
-  },
-  {
-    "titulo": "La familia Agnelli abandona los medios en Italia tras vender Gedi",
-    "medio": "La Vanguardia",
-    "fecha": 1774298119.0,
-    "link": "https://www.lavanguardia.com/television/20260323/11497458/familia-agnelli-deja-medios-italia-vender-gedi.html",
-    "resumen": "John Elkann ha vendido principal grupo editorial italiano a la familia griega Kyriakou, propietaria de Antenna Group"
-  },
-  {
-    "titulo": "Puig negocia una posible fusión con la estadounidense Estée Lauder",
-    "medio": "The Objective",
-    "fecha": 1774298112.0,
-    "link": "https://theobjective.com/economia/2026-03-23/puig-negocia-fusion-estee-lauder/",
-    "resumen": "Puig ha informado este lunes de que se encuentra en conversaciones con la estadounidense The Estée Lauder Companies para estudiar una posible fusión del negocio de […]"
   },
   {
     "titulo": "El PP traslada a Bolaños sus exigencias al decreto anticrisis sobre IRPF y centrales nucleares y pide consultar a CCAA",
@@ -252,11 +504,11 @@
     "resumen": "Aunque haya pasado más de medio siglo de los hechos, Donna Motsinger ha podido denunciar al cómico porque las leyes de California permiten que los delitos sexuales no prescriban"
   },
   {
-    "titulo": "Los diplomáticos europeos coinciden: \"Los emiratíes disparan misiles Patriot como caramelos mientras Ucrania los necesita desesperadamente para sobrevivir\"",
-    "medio": "HuffPost",
-    "fecha": 1774297874.0,
-    "link": "https://www.huffingtonpost.es/global/los-diplomaticos-europeos-coinciden-los-emiraties-disparan-misilespatriotcomo-caramelos-ucrania-necesita-desesperadamente-sobrevivir-f202603.html",
-    "resumen": ""
+    "titulo": "Si obligan a Apple a elegir entre Estados Unidos y China, Tim Cook tiene clarísimo con cuál se queda",
+    "medio": "Xataka",
+    "fecha": 1774297854.0,
+    "link": "https://www.xataka.com/componentes/obligan-a-apple-a-elegir-estados-unidos-china-tim-cook-tiene-clarisimo-cual-se-queda",
+    "resumen": "Los CEO tecnológicos están de gira, y apuntan hacia el este. Hace unos días, Lisa Su, mandamás de AMD, fue a visitar Samsung por primera vez. El resultado es un contrato para que la surcoreana fabrique la memoria de última generación para la plataforma de IA de la estadounidense. Por su parte, Tim Cook, CEO de Apple, estuvo de viaje por China. Y, tras todas las presiones de Donald Trump para que Apple fabrique en Estados Unidos, Cook tiene clara una cosa. China es la base de Apple. Lo mejorcito. Créanme. Tim Cook ha trascendido. Aunque parece que le queda poco en el cargo (en algún momento tendrá que jubilarse y John Ternus apunta a ser el sucesor), Cook se ha convertido en una figura casi política. Así lo demuestra en sus viajes por otros países o en el propio Estados Unidos. Su viaje a China ha constado de varias fases. Primero visitó la Apple Store de Taikoo Li, pero el plato fuerte fue el viaje a Pekín para reunirse con el Ministro de Comercio. Uno de los puntos de la reunión fue la relación bilateral entre ambos. Porque Apple es un cliente enorme para la industria tecnológica china, pero China también es un valor seguro para Apple. Tanto que, como recoge el portal estatal Xinhua, Cook afirmó que “China es la base de producción más importante para Apple, así como su principal fuente en la cadena de suministro”. En Xataka EEUU amenaza a Apple con un arancel del 25% si no fabrica el iPhone allí. Le seguiría saliendo más rentable hacerlo en la India La presión de China. La visita se ha producido en un momento en el que las cosas están como están entre China y Estados Unidos, pero también con Apple. Los detalles de la guerra comercial y tecnológica entre las potencias es algo que hemos cubrimos casi a diario, pero con Apple también hay un lío montado debido a las comisiones en la App Store. China ha exigido a Apple una mayor flexibilidad en las restricciones de la tienda y la respuesta de Apple es una rebaja de la comisión del 30% al 25%. Es dar sólo un poquito su brazo a torcer y una muestra de buena voluntad por parte de Apple, pero China sigue pidiendo que aflojen el control sobre la App Store, lo que se traduce en permitir más opciones de pago de terceros para cortar lo que consideran como un monopolio. Vamos, que Apple, a ojos de los reguladores chinos, sigue teniendo tarea. Y la presión de casa. Pero a la vez que se da la visita de Cook a China y se declara que es la gran base de la compañía, algo se está moviendo. Por un lado, India quiere convertirse en la nueva China, y en 2025 Apple consiguió un hito: que uno de cada cuatro iPhones se ensamblen en India. No es lo mismo ensamblar que fabricar, donde China sigue llevando la voz cantante. Y Estados Unidos quiere dar la vuelta a la tortilla. Dentro de sus políticas proteccionistas, el gobierno de Donald Trump está intentando que sus tecnológicas creen valor en suelo patrio. El rescate milmillonario de Intel fue una muestra de hasta qué punto EEUU quiere que su tecnología se fabrique en su territorio y lo cierto es que está dando frutos. Apple o NVIDIA ya tienen algunos encargos para Intel, pero esos incentivos también están propiciando que sean empresas extranjeras como SK Hynix, Samsung o, sobre todo, TSMC las que estén comiendo terreno a las estadounidenses en su terreno. En Xataka El gran problema de Apple no es la IA: es que ya no es la gran marca aspiracional en China Muchos millones en juego. Pero pese a las demandas y exigencias, poderoso caballero es don dinero, y China es un mercado enorme y con un gran potencial. Es evidente que podemos pensar eso de “qué va a decir Cook en China, que es maravillosa, claro”, pero no hay que olvidar que se trata de una empresa que, como todas, buscan los mayores beneficios. Y China no sólo tiene la capacidad cumplir las necesidades de Apple en cuanto a fabricación de dispositivos: es un mercado a explotar. Hace unas semanas nos hicimos eco de cómo las ventas de la compañía marcaban el mejor cuarto desde el primero de 2022, poniendo fin a años de caídas en territorio chino (donde Huawei ha ido reapareciendo con fuerza), pero no es sólo Apple la que está persiguiendo entrar en China. NVIDIA se ha tirado meses presionando a su gobierno para que les dejara vender los H200 en China. Jensen Huang, CEO de NVIDIA, comentó que el pastel chino es uno de 50.000 millones de dólares y pidió públicamente al gobierno estadounidense que se dejen de celos y empiecen a colaborar en nombre del capitalismo. Un mensaje similar ha tenido Cook en su viaje a China, uno respaldado por Li Qiang, primer ministro de China que apuntó que si se politizan los temas industriales, se convierte “la cadena de suministro en un arma, sólo aumentarán los costos para las empresas y se debilitará el impulso del desarrollo”. Al final, han ido a pinchar donde duele: al bolsillo. Imágenes | Tessa Bury En Xataka | El ocaso de la \"cultura Apple\". La devoción ciega ha evolucionado hacia un entusiasmo crítico - La noticia Si obligan a Apple a elegir entre Estados Unidos y China, Tim Cook tiene clarísimo con cuál se queda fue publicada originalmente en Xataka por Alejandro Alcolea ."
   },
   {
     "titulo": "Los cinco mejores perfumes femeninos frescos, cítricos y luminosos para usar todos los días de primavera",
@@ -266,25 +518,18 @@
     "resumen": "Junto con el aroma primaveral lo que más nos gusta es acompañar esta época del año con fragancias más ligeras y luminosas. Los mejores perfumes de mujer 2026 nos traen una variada paleta de contrastes, y es inevitable que ahora nos despidamos por un tiempo largo de los perfumes cálidos y amaderados; y demos la bienvenida a fragancias más jugosas, acuáticas y con una ligereza perfecta para estos días soleados. Seleccionamos algunos de los perfumes más atractivos y reconfortantes. Fragancias que huelen muy bien y te hacen sentir aún mejor, por eso son perfectos para usar en primavera y en cualquier momento del día. Aire Sutileza de Loewe Es la versión más floral, delicada y fresca que podemos encontrar en la la línea Aire de Loewe. Esta fragancia destaca por sus notas frescas, cítricas y limpias, conformadas por la pera, la mandarina, el lirio, el muguet, el jazmín y el vetiver. Un aroma perfecto para el día a día que aporta serenidad y ese punto luminoso de un día de verano. Precio 84,95 euros. Blu Mediterraneo Arancia di Capri de Acqua di Parma En el interior de este frasco azul se encuentra el aroma del verano. Huele a sol, a crema de playa, a arena... una maravilla de fragancia que te hace sentir bien, por su punto fresco y cálido. Combina notas cítricas de naranja, limón y mandarina con notas como el cardamomo, caramelo y almizcle. Un aroma muy equilibrado y atractivo que te ilumina al instante y cualquier momento del día se siente muy atractivo. Precio 97,93 euros. Un Jardín Sur Le Nil de Hermès Un perfume unisex que se inspira en la ribera del Nilo y es ideal para el día como para la noche. Una fragancia elegante y atemporal que logra dejar huella gracias a sus notas frescas, verdes y a la vez cálidas y cremosas. El mango verde, el tomate, la flor de loto, el iris, el incienso y la canela son algunos de los ingredientes principales que conforman este perfume tan atractivo como diferente. Aunque es verde y envolvente deja un toque dulce sobre la piel muy atractivo. Precio 69,66 euros. Omnia Crystalline de Bvlgari Es una fragancia delicada y femenina que pertenece a la familia olfativa floral acuática. Este perfume captura a la perfección la limpieza y la frescura de la ropa recién lavada y la calidez de un día soleado. Bambú, pera, flor de loto, té, almizcle y musgo de roble conforman un aroma fresco, luminoso y reconfortante, lejos de una fragancia fresca sin más. Cualquier momento del día es bueno para usar este perfume tan atractivo y atrayente. Precio 99,95 euros. Eau de Parfum de Chloe Aquí uno de esos perfumes limpios que no dejan indiferente a nadie, especialmente porque no es un perfume plano ni aburrido. Es muy femenino y sensual que combina notas afrutadas, florales y notas de ámbar y cedro. Una fragancia limpia, fresca, con un toque dulce que hace que esta fragancia sea ultra elegante y coqueta. Funciona para el día e igualmente para las citas especiales. Precio 69,71 euros. Fotos | Primor et al., Valeriia Miller en Pexels En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Los cinco mejores perfumes femeninos frescos, cítricos y luminosos para usar todos los días de primavera fue publicada originalmente en Trendencias por Carolina L. ."
   },
   {
-    "titulo": "Si obligan a Apple a elegir entre Estados Unidos y China, Tim Cook tiene clarísimo con cuál se queda",
-    "medio": "Xataka",
-    "fecha": 1774297854.0,
-    "link": "https://www.xataka.com/componentes/obligan-a-apple-a-elegir-estados-unidos-china-tim-cook-tiene-clarisimo-cual-se-queda",
-    "resumen": "Los CEO tecnológicos están de gira, y apuntan hacia el este. Hace unos días, Lisa Su, mandamás de AMD, fue a visitar Samsung por primera vez. El resultado es un contrato para que la surcoreana fabrique la memoria de última generación para la plataforma de IA de la estadounidense. Por su parte, Tim Cook, CEO de Apple, estuvo de viaje por China. Y, tras todas las presiones de Donald Trump para que Apple fabrique en Estados Unidos, Cook tiene clara una cosa. China es la base de Apple. Lo mejorcito. Créanme. Tim Cook ha trascendido. Aunque parece que le queda poco en el cargo (en algún momento tendrá que jubilarse y John Ternus apunta a ser el sucesor), Cook se ha convertido en una figura casi política. Así lo demuestra en sus viajes por otros países o en el propio Estados Unidos. Su viaje a China ha constado de varias fases. Primero visitó la Apple Store de Taikoo Li, pero el plato fuerte fue el viaje a Pekín para reunirse con el Ministro de Comercio. Uno de los puntos de la reunión fue la relación bilateral entre ambos. Porque Apple es un cliente enorme para la industria tecnológica china, pero China también es un valor seguro para Apple. Tanto que, como recoge el portal estatal Xinhua, Cook afirmó que “China es la base de producción más importante para Apple, así como su principal fuente en la cadena de suministro”. En Xataka EEUU amenaza a Apple con un arancel del 25% si no fabrica el iPhone allí. Le seguiría saliendo más rentable hacerlo en la India La presión de China. La visita se ha producido en un momento en el que las cosas están como están entre China y Estados Unidos, pero también con Apple. Los detalles de la guerra comercial y tecnológica entre las potencias es algo que hemos cubrimos casi a diario, pero con Apple también hay un lío montado debido a las comisiones en la App Store. China ha exigido a Apple una mayor flexibilidad en las restricciones de la tienda y la respuesta de Apple es una rebaja de la comisión del 30% al 25%. Es dar sólo un poquito su brazo a torcer y una muestra de buena voluntad por parte de Apple, pero China sigue pidiendo que aflojen el control sobre la App Store, lo que se traduce en permitir más opciones de pago de terceros para cortar lo que consideran como un monopolio. Vamos, que Apple, a ojos de los reguladores chinos, sigue teniendo tarea. Y la presión de casa. Pero a la vez que se da la visita de Cook a China y se declara que es la gran base de la compañía, algo se está moviendo. Por un lado, India quiere convertirse en la nueva China, y en 2025 Apple consiguió un hito: que uno de cada cuatro iPhones se ensamblen en India. No es lo mismo ensamblar que fabricar, donde China sigue llevando la voz cantante. Y Estados Unidos quiere dar la vuelta a la tortilla. Dentro de sus políticas proteccionistas, el gobierno de Donald Trump está intentando que sus tecnológicas creen valor en suelo patrio. El rescate milmillonario de Intel fue una muestra de hasta qué punto EEUU quiere que su tecnología se fabrique en su territorio y lo cierto es que está dando frutos. Apple o NVIDIA ya tienen algunos encargos para Intel, pero esos incentivos también están propiciando que sean empresas extranjeras como SK Hynix, Samsung o, sobre todo, TSMC las que estén comiendo terreno a las estadounidenses en su terreno. En Xataka El gran problema de Apple no es la IA: es que ya no es la gran marca aspiracional en China Muchos millones en juego. Pero pese a las demandas y exigencias, poderoso caballero es don dinero, y China es un mercado enorme y con un gran potencial. Es evidente que podemos pensar eso de “qué va a decir Cook en China, que es maravillosa, claro”, pero no hay que olvidar que se trata de una empresa que, como todas, buscan los mayores beneficios. Y China no sólo tiene la capacidad cumplir las necesidades de Apple en cuanto a fabricación de dispositivos: es un mercado a explotar. Hace unas semanas nos hicimos eco de cómo las ventas de la compañía marcaban el mejor cuarto desde el primero de 2022, poniendo fin a años de caídas en territorio chino (donde Huawei ha ido reapareciendo con fuerza), pero no es sólo Apple la que está persiguiendo entrar en China. NVIDIA se ha tirado meses presionando a su gobierno para que les dejara vender los H200 en China. Jensen Huang, CEO de NVIDIA, comentó que el pastel chino es uno de 50.000 millones de dólares y pidió públicamente al gobierno estadounidense que se dejen de celos y empiecen a colaborar en nombre del capitalismo. Un mensaje similar ha tenido Cook en su viaje a China, uno respaldado por Li Qiang, primer ministro de China que apuntó que si se politizan los temas industriales, se convierte “la cadena de suministro en un arma, sólo aumentarán los costos para las empresas y se debilitará el impulso del desarrollo”. Al final, han ido a pinchar donde duele: al bolsillo. Imágenes | Tessa Bury En Xataka | El ocaso de la \"cultura Apple\". La devoción ciega ha evolucionado hacia un entusiasmo crítico - La noticia Si obligan a Apple a elegir entre Estados Unidos y China, Tim Cook tiene clarísimo con cuál se queda fue publicada originalmente en Xataka por Alejandro Alcolea ."
-  },
-  {
-    "titulo": "Renueva tu dormitorio en primavera: las mejores sábanas de entretiempo de 2026 para no tener ni frío ni calor",
-    "medio": "La Vanguardia",
-    "fecha": 1774297800.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260323/11496797/renueva-dormitorio-primavera-mejores-sabanas-entretiempo-2026-frio-calor-mkt-alie.html",
-    "resumen": "Para que tu dormitorio tenga un aire renovado esta primavera, opta por una de estas ´sabanss tan liegras yu agradables. Tienes grandes rebajas por el Aniversario de AliExpress"
-  },
-  {
     "titulo": "Cupón diario de la ONCE: comprobar sorteo del lunes 23 de marzo",
     "medio": "El País",
     "fecha": 1774297708.0,
     "link": "https://elpais.com/sorteos/2026-03-23/cupon-diario-de-la-once-comprobar-sorteo-del-lunes-23-de-marzo.html",
     "resumen": "La ONCE reparte un primer premio de 500.000 euros a las cinco cifras más la serie en su sorteo diario de lunes a jueves"
+  },
+  {
+    "titulo": "Puig negocia con la estadounidense Estée Lauder para una posible fusión",
+    "medio": "eldiario.es",
+    "fecha": 1774297554.0,
+    "link": "https://www.eldiario.es/economia/puig-informa-conversaciones-estadounidense-estee-lauder-posible-fusion_1_13092067.html",
+    "resumen": "Según ha comunicado la compañía de belleza española a la Comisión Nacional del Mercado de Valores, no se ha tomado, por el momento, ninguna decisión definitivaPuig: la paradoja de un gigante de la belleza que brilla en las tiendas, pero tropieza en el parqué Puig ha informado este lunes de que se encuentra en conversaciones con la estadounidense The Estée Lauder Companies para estudiar una posible fusión del negocio de ambas. Según ha comunicado la compañía de belleza española a la Comisión Nacional del Mercado de Valores (CNMV), no se ha tomado, por el momento, ninguna decisión definitiva ni se ha alcanzado acuerdo alguno entre las partes. En este sentido, la entidad ha subrayado que, mientras no exista un pacto en firme, no puede garantizarse que la operación llegue a materializarse ni los términos de la misma. El pasado 17 de marzo, el consejo de administración de Puig nombró a José Manuel Albesa como consejero delegado de la empresa en sustitución de Marc Puig, que dimitió del cargo, pero seguirá siendo presidente ejecutivo. Además, se designó también a Miquel Àngel Serra como director financiero para relevar a Joan Albiol. Sin embargo, este último mantendrá las funciones de secretario no miembro del consejo de administración."
   },
   {
     "titulo": "Fue llamado el ‘Da Vinci español’ y creó los primeros robots para reyes españoles en el siglo XVI",
@@ -294,60 +539,11 @@
     "resumen": "Durante el Renacimiento español superó las leyes de la física y fue un hombre popular, admirado por personalidades como Cervantes, Quevedo o Lope de Vega, que citaron su artificio en algunas de sus obrasEl peculiar nacimiento del emperador Carlos I de España y V de Alemania en el retrete de una fiesta Pocos lo conocen o les suena su nombre, aunque a los habitantes o naturales de Toledo les puede ser familiar por el hecho de ser una calle de la ciudad. Y esto es así porque este ingeniero e inventor llevó a cabo un proyecto de un sistema que era capaz de llevar agua desde el río Tajo hasta lo alto de la ciudad, superando retos técnicos que en ese momento parecían imposibles. Su nombre es Juanelo Turriano, quien durante el Renacimiento español superó las leyes de la física y fue un hombre popular, admirado por personalidades como Cervantes, Quevedo o Lope de Vega, que citaron su artificio en algunas de sus obras. Sin embargo, a diferencia de Leonardo Da Vinci, actualmente una figura reconocida, no dejó su labor documentada y eso le relegaría a cierto olvido. Quién fue Juanelo Turriano: un ingeniero adelantado a su tiempo Juanelo Turriano no es el nombre verdadero del ingeniero, quien nació como Giovanni Torriani en las proximidades de la localidad italiana de Cremona entre 1500 y 1511, siendo un hecho nada claro. Su talento e ingenio en diferentes materias le han hecho ser llamado como el “Leonardo Da Vinci español”, a pesar de proceder de Italia. Se considera que su formación fue autodidacta y que comenzó a estudiar gracias a los mecanismos de dos molinos que tenía su padre. Más tarde entraría como aprendiz en un taller de relojería, donde acabaría como maestro relojero, y cuya habilidad en la que era la tecnología más adelantada de su tiempo le valió ser famoso y contratado por el mismo rey de España, Carlos I en 1529. De Milán partiría luego a Toledo para trabajar en la corte española, también con Felipe II, tanto como maestro relojero como ingeniero, inventor, matemático, astrónomo o arquitecto. Su genialidad, sin embargo, no quedó plasmada en documentos, su fama no sobrevivió mucho tiempo y moriría en la ciudad toledana en 1585 arruinado económicamente, pues no llegó a cobrar por su obra más destacada, el artificio de Juanelo. Este solo servía al Alcázar, propiedad del monarca, que aseguró que no fue encargo suyo, pero la localidad no recibía el beneficio del invento, con lo que tampoco se hizo cargo del pago. Del artificio de Juanelo a los primeros ‘robots’ Juanelo Turriano ideó un mecanismo revolucionario con el que podía elevar agua desde el río Tajo hasta el Alcázar de Toledo, salvando un desnivel de más de cien metros y que proporcionaba hasta 14.000 litros diarios. Consistía en un sistema compuesto por ruedas enormes, cadenas y cubetas que, al ser movidas por la corriente, subían el agua hasta las conducciones que finalmente terminaban en el palacio. Esta fue una de las obras hidráulicas más impresionantes del Renacimiento en toda Europa y colocó a Toledo como una de las ciudades mejor abastecidas. Su primera versión se construyó entre 1565 y 1568 y aunque se realizó un segundo proyecto similar, este no llegó a ser finalizado. Pero Turriano no solo destacó por esto, sino que también es hoy reconocida su figura por la creación de unos autómatas mecánicos que caminaban por las calles toledanas, que se llamaron ‘Hombre de Palo’, y que eran juguetes que encandilaban e impresionaban a los que lo admiraban. Son una especie de precedentes de los actualmente llamados ‘robots’ y es por ello por lo que se considera al italiano como un pionero de la robótica. Sobre estos autómatas existe una leyenda que aseguraba que su creador los inventó para recaudar limosna al estar arruinado por sus obras y el retraso de los pagos, un hecho que, aunque no comprobado, tiene su parte en la historia con una “calle del Hombre del palo” en la ciudad de Toledo."
   },
   {
-    "titulo": "Juanma Moreno convoca las elecciones andaluzas para el 17 de mayo",
-    "medio": "El Mundo",
-    "fecha": 1774297330.0,
-    "link": "https://www.elmundo.es/andalucia/2026/03/23/69c194dce9cf4a660b8b457a.html",
-    "resumen": "\"Votar cada cuatro años con la legislatura completada y los presupuestos presentados es la normalidad democrática\", ha afirmado Leer"
-  },
-  {
     "titulo": "La convocatoria precipita el cambio de Gobierno más difícil: sustituir a María Jesús Montero",
     "medio": "El País",
     "fecha": 1774297312.0,
     "link": "https://elpais.com/espana/2026-03-23/la-convocatoria-precipita-el-cambio-de-gobierno-mas-dificil-sustituir-a-maria-jesus-montero.html",
     "resumen": "Diversas fuentes creen que Bolaños y Cuerpo aumentarán su poder pero la incógnita es si habrá otra vicepresidenta"
-  },
-  {
-    "titulo": "Joseph Oughourlian: “América es la vocación, el presente y el futuro de EL PAÍS”",
-    "medio": "El País",
-    "fecha": 1774296979.0,
-    "link": "https://elpais.com/comunicacion/2026-03-23/joseph-oughourlian-america-es-la-vocacion-el-presente-y-el-futuro-de-el-pais.html",
-    "resumen": "El presidente del grupo Prisa es homenajeado por el Grupo Trinity de Colombia por su contribución a la libertad de expresión y su compromiso con la excelencia informativa en Iberoamérica"
-  },
-  {
-    "titulo": "El decreto anticrisis, a expensas de un “sí” de Junts o de la abstención del PP",
-    "medio": "La Vanguardia",
-    "fecha": 1774296955.0,
-    "link": "https://www.lavanguardia.com/politica/20260323/11497451/decreto-anticrisis-expensas-junts-abstencion-pp.html",
-    "resumen": "Podemos se abstendrá y obliga al Gobierno a atraer a posconvergentes o populares"
-  },
-  {
-    "titulo": "Junqueras y Turull vuelven a fracasar ante la Justicia europea: el TEDH rechaza revisar en Gran Sala su cárcel preventiva",
-    "medio": "El Español",
-    "fecha": 1774296823.0,
-    "link": "https://www.elespanol.com/espana/tribunales/20260323/junqueras-turull-vuelven-fracasar-justicia-europea-tedh-rechaza-revisar-gran-sala-carcel-preventiva/1003744181138_0.html",
-    "resumen": "La Corte de Estrasburgo ratifica que el Tribunal Supremo no vulneró sus derechos al rechazar ponerles en libertad para que ejercieran como diputados autonómicos tras las elecciones catalanas de 2017. Más información: La Justicia europea rechaza que el Tribunal Supremo y el TC violaran los derechos políticos de Junqueras, Turull y Sànchez"
-  },
-  {
-    "titulo": "Un jurado condena a Bill Cosby al pago de 19 millones a una mujer a la que violó tras drogarla",
-    "medio": "La Vanguardia",
-    "fecha": 1774296702.0,
-    "link": "https://www.lavanguardia.com/gente/20260323/11497448/jurado-condena-bill-cosby-pago-19-millones-mujer-violo-drogarla.html",
-    "resumen": "La sentencia civil de un tribuna de Los Angeles concluye que el actor abusó de Donna Motsinger, en 1972, después de invitarla a uno de sus shows"
-  },
-  {
-    "titulo": "El infierno arbitral en el Águilas-UCAM Murcia: “Os vamos a apuñalar, salid ya”",
-    "medio": "El País",
-    "fecha": 1774296289.0,
-    "link": "https://elpais.com/deportes/futbol/2026-03-23/el-infierno-arbitral-en-el-aguilas-ucam-murcia-os-vamos-a-apunalar-salid-ya.html",
-    "resumen": "El colegiado del encuentro de Segunda RFEF recoge en el acta agresiones a los asistentes por parte del cuerpo técnico del equipo local, amenazas y lanzamiento de objetos por parte de la afición"
-  },
-  {
-    "titulo": "Los pantalones sueltos recién llegados a Zara que más favorecen y cómo se llevan con estilo esta primavera",
-    "medio": "Trendencias",
-    "fecha": 1774296054.0,
-    "link": "https://www.trendencias.com/tendencias/pantalones-sueltos-recien-llegados-a-zara-que-favorecen-como-se-llevan-estilo-esta-primavera",
-    "resumen": "Por mucho nos nos hayan insistido en que 2026 es el año de los skinny jeans nosotras seguimos obcecadas en que no vamos a volver a ellos. Pocas prendas nos sientan tan bien como unos pantalones holgados. Por suerte los drops de nuestras tiendas favoritas están de nuestra parte y todas las novedades de Zara llegan con propuestas anchas y elegantes con las que ir cómodas al trabajo o salir a cenar con un fin de semana. Son las siluetas más favorecedoras y la clave para sacarles aún más partido está en combinarlas como una fashion girl. Nosotras te dejamos por aquí algunos tips. Bombachos: los predilectos de la temporadaFueron nuestra debilidad el pasado verano y esta primavera se coronan como los más buscados por las it girls. No nos extraña porque, además de dar versatilidad a un look proponiendo jugar con los volúmenes, dan un toque boho al outfit que nos encanta. Este en color berenjena por 27,95 euros nos pare un must para llevar con un top de tubo estilo años noventa, así como con una camisa oversize blanca. Pantalón bombacho Zara De lino: los más fresquitos para el veranoLas altas temperaturas también son compatibles con unos pantalones largos, eso sí, hay que decantarse por unos de lino y estos en color verde oliva son nuestro último flechazo. Su precio es de 29,95 euros y puedes llevarlos en forma de set con la blusa a juego u optar por una camiseta de manga corta blanca ajustada, así como un jersey calado. Pantalón ancho Zara Para ir a la oficina: el clásico de pinzas en versión palazzoUna propuesta en marrón chocolate no podía faltar en nuestra lista y este de Zara nos parece un acierto para llevar con una blazer a juego así como conjuntar con un chaleco de traje y combinar todo con unos kitten heels. Cuesta 29,95 euros. Pantalón ancho Zara Estilo pijameroNos parece una joya de la corona a la hora de crear un look para el aeropuerto, así como cualquier plan de viaje en el que busques estar cómoda a la par que estilosa. Junto a una sudadera gris este de Zara nos parece que queda de lujo. Cuesta 39,95 euros y también puedes conjuntarlos con una blusa de volantes vaporosa y un bolso de rafia si quieres darle un aire más hippy. Pantalón de Zara ancho Total white: una primavera en color cloud dancerEs el tono Pantone del año y uno de los que más nos ponemos en los días de calor. Unos pantalones anchos como estos de corte barrel de la nueca colección de Zara nos encantan para llevar con camisas de lino así como crop tops ajustados de tirantes. Pantalón barrel lino Su precio es de 39,95 euros y nos parece el mejor match de unas sandalias tipo palas y una camiseta sin mangas a juego conformando un look total white. Fotos | @mariafrubies, Zara En Trendencias |El estilo garçon vuelve a escena y las camisas con corbata se convierten en la prenda más deseada de la primavera 2026 - La noticia Los pantalones sueltos recién llegados a Zara que más favorecen y cómo se llevan con estilo esta primavera fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
     "titulo": "El fin del monopolio de Ozempic ya está aquí: la lluvia de genéricos que promete hundir los precios en algunos países",
@@ -357,32 +553,11 @@
     "resumen": "El medicamento que revolucionó la industria farmacéutica y cambió para siempre el paradigma del tratamiento de la obesidad y la diabetes tipo 2, como es Ozempic, se enfrenta a su mayor reto: el fin de su patente de comercialización. En concreto, la patente de la semaglutida, que es el principio activo detrás de Ozempic y Wegovy, caduca en marzo de 2026 en varios mercados internacionales, haciendo que se abra la puerta a la producción de los famosos medicamentos genéricos que son más asequibles. El éxito de Ozempic. Desarrollado por la firma danesa Novo Nordisk, ha sido meteórico y originalmente aprobado en 2017 para la diabetes tipo 2, lo que de verdad ha sorprendido es que su uso fuera de la indicación técnica es la que ha explotado: la pérdida de peso. Y es que muchos no conocen que en realidad es un tratamiento contra la diabetes. Y es lógico, porque las cifras que se han quedado en nuestra conciencia son que se registran pérdidas de hasta un 15-20% del peso corporal, con beneficios cardiovasculares demostrados y un negocio multimillonario por detrás. El problema es que el precio de este tratamiento no es para nada accesible, incluso con la receta médica, y por eso la posibilidad de desarrollar genéricos hará que se pueda democratizar este medicamento para los casos de obesidad más graves. En Xataka Si quieres un medicamento \"milagro\" para adelgazar, ya no recurres a Ozempic: la competencia está empezando a superarle Las patentes. Desarrollar un fármaco no es algo barato para las farmacéuticas y es por ello que, cuando está comercializado, las grandes empresas quieren sacar el máximo dinero posible con la exclusividad de que ningún otro laboratorio puede producirlo y venderlo. Pero estas patentes farmacéuticas tienen una vida estándar de 20 años, y cuando se cumplen, otros laboratorios pueden coger la 'receta' y crear sus medicamentos con este principio activo, pero a un precio más reducido como si fuera la marca blanca. El mapa de la caducidad. De esta manera, dado que Novo Nordisk solicitó la patente base alrededor de 2006, el reloj se detiene en marzo de 2026 para gigantes demográficos como India, China y Brasil. Y aquí no existen prórrogas que extiendan la exclusividad comercial, por lo que automáticamente se comienza a abrir la veda para que cualquier laboratorio pueda comenzar a producir su propia marca. Y el impacto es inmediato en lugares como India, que ya se preparan para comercializar de manera inmediata genéticos como Obeda o GLIPIQ. El resultado será un desplome de los costes entre el 80 y el 90% para tener un precio de apenas 15 a 30 dólares al mes por el tratamiento. Aunque no son los primeros países que lo integrarán porque en Canadá el monopolio cayó de forma prematura en enero de 2026 por un error administrativo: la falta de pago de las tasas correspondientes. ¿Qué pasa en España? El 'Ozempic barato' va a tardar más en llegarnos, puesto que en la Unión Europea y Estados Unidos existen mecanismos legales para compensar los largos tiempos de ensayo clínico y aprobación regulatoria que se imponen. En el caso particular europeo, que es el que nos afecta, se conoce como Certificado Complementario de Protección. Gracias a esta excepción, el monopolio de Novo Nordisk en España y el resto de Europa se extiende hasta marzo de 2031, y en Estados Unidos incluso puede alargarse hasta el año 2033. Y es una mala noticia, porque ahora mismo en España hay un 19% de adultos con obesidad (y va en aumento), por lo que la tensión sobre el sistema público para financiar este tratamiento no para de crecer. En Xataka \"Perdí 55 kilos, pero recuperé 30 al dejarlo\": hablamos con los españoles que han probado la montaña rusa de Ozempic El contraataque de Novo Nordisk. La empresa danesa no se va a quedar de brazos cruzados viendo cómo su gallina de los huevos de oro pierde cuota de mercado frente a los genéricos indios y chinos. Para mantener parte del pastel económico la compañía está desarrollando versiones orales más efectivas al contar con una mayor concentración de semaglutida. Por otro lado, su gran apuesta se llama CagriSema que es una combinación de GLP-1 y amilina para potenciar aún más la reducción de peso. Todo ello para poder sobrevivir al fin de su patente, que comienza ahora en 2026 en grandes mercados y que se debe compensar con otras alternativas más allá de otra presentación. En Xataka | El \"gran rebote\" de Ozempic, en cifras: la ciencia revela que el peso vuelve cuatro veces más rápido que con dieta - La noticia El fin del monopolio de Ozempic ya está aquí: la lluvia de genéricos que promete hundir los precios en algunos países fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "Los gigantes de la cosmética Puig y Estée Lauder negocian su fusión",
-    "medio": "El Mundo",
-    "fecha": 1774295992.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/03/23/69c19aaefc6c837a398b45a4.html",
-    "resumen": "El resultado de dicha unión sería una compañía valorada en 40.000 millones de dólares, según Financial Times Leer"
-  },
-  {
-    "titulo": "Un Hércules de la Fuerza Aérea colombiana con 125 personas a bordo se estrella en el sur de Colombia",
-    "medio": "El Mundo",
-    "fecha": 1774295964.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/23/69c16be2e85ecef33d8b4589.html",
-    "resumen": "A bordo iban 114 pasajeros y 11 tripulantes. Los datos ofrecidos a última hora de la tarde hablaban 8 muertos confirmados y 83 heridos, 14 de ellos en estado crítico Leer"
-  },
-  {
-    "titulo": "Puig negocia su fusión con el gigante de la belleza Estée Lauder",
-    "medio": "El País",
-    "fecha": 1774295465.0,
-    "link": "https://cincodias.elpais.com/companias/2026-03-23/puig-negocia-su-fusion-con-el-gigante-de-la-belleza-estee-lauder.html",
-    "resumen": "La compañía reconoce a la CNMV negociaciones con el grupo estadounidense"
-  },
-  {
-    "titulo": "Andalucía será un examen al Gobierno de Sánchez: Montero, su número dos, dejará el Ejecutivo en los próximos días",
-    "medio": "El Mundo",
-    "fecha": 1774295367.0,
-    "link": "https://www.elmundo.es/espana/2026/03/23/69c19942e85ece18308b459d.html",
-    "resumen": "Será la quinta remodelación del gabinete desde las elecciones de julio de 2023. Hasta ahora cambios quirúrgicos, pero fuentes socialistas creen que esta vez puede ser de más calado Leer"
+    "titulo": "Los pantalones sueltos recién llegados a Zara que más favorecen y cómo se llevan con estilo esta primavera",
+    "medio": "Trendencias",
+    "fecha": 1774296054.0,
+    "link": "https://www.trendencias.com/tendencias/pantalones-sueltos-recien-llegados-a-zara-que-favorecen-como-se-llevan-estilo-esta-primavera",
+    "resumen": "Por mucho nos nos hayan insistido en que 2026 es el año de los skinny jeans nosotras seguimos obcecadas en que no vamos a volver a ellos. Pocas prendas nos sientan tan bien como unos pantalones holgados. Por suerte los drops de nuestras tiendas favoritas están de nuestra parte y todas las novedades de Zara llegan con propuestas anchas y elegantes con las que ir cómodas al trabajo o salir a cenar con un fin de semana. Son las siluetas más favorecedoras y la clave para sacarles aún más partido está en combinarlas como una fashion girl. Nosotras te dejamos por aquí algunos tips. Bombachos: los predilectos de la temporadaFueron nuestra debilidad el pasado verano y esta primavera se coronan como los más buscados por las it girls. No nos extraña porque, además de dar versatilidad a un look proponiendo jugar con los volúmenes, dan un toque boho al outfit que nos encanta. Este en color berenjena por 27,95 euros nos pare un must para llevar con un top de tubo estilo años noventa, así como con una camisa oversize blanca. Pantalón bombacho Zara De lino: los más fresquitos para el veranoLas altas temperaturas también son compatibles con unos pantalones largos, eso sí, hay que decantarse por unos de lino y estos en color verde oliva son nuestro último flechazo. Su precio es de 29,95 euros y puedes llevarlos en forma de set con la blusa a juego u optar por una camiseta de manga corta blanca ajustada, así como un jersey calado. Pantalón ancho Zara Para ir a la oficina: el clásico de pinzas en versión palazzoUna propuesta en marrón chocolate no podía faltar en nuestra lista y este de Zara nos parece un acierto para llevar con una blazer a juego así como conjuntar con un chaleco de traje y combinar todo con unos kitten heels. Cuesta 29,95 euros. Pantalón ancho Zara Estilo pijameroNos parece una joya de la corona a la hora de crear un look para el aeropuerto, así como cualquier plan de viaje en el que busques estar cómoda a la par que estilosa. Junto a una sudadera gris este de Zara nos parece que queda de lujo. Cuesta 39,95 euros y también puedes conjuntarlos con una blusa de volantes vaporosa y un bolso de rafia si quieres darle un aire más hippy. Pantalón de Zara ancho Total white: una primavera en color cloud dancerEs el tono Pantone del año y uno de los que más nos ponemos en los días de calor. Unos pantalones anchos como estos de corte barrel de la nueca colección de Zara nos encantan para llevar con camisas de lino así como crop tops ajustados de tirantes. Pantalón barrel lino Su precio es de 39,95 euros y nos parece el mejor match de unas sandalias tipo palas y una camiseta sin mangas a juego conformando un look total white. Fotos | @mariafrubies, Zara En Trendencias |El estilo garçon vuelve a escena y las camisas con corbata se convierten en la prenda más deseada de la primavera 2026 - La noticia Los pantalones sueltos recién llegados a Zara que más favorecen y cómo se llevan con estilo esta primavera fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
     "titulo": "El TEDH ratifica que España no violó los derechos de Junqueras, Turull y Jordi Sànchez",
@@ -392,13 +567,6 @@
     "resumen": "El Tribunal Europeo de Derechos Humanos (TEDH), con sede en Estrasburgo, desestimó este lunes el recurso presentado por los líderes independentistas catalanes Jordi Sánchez, Jordi Turull y Oriol Junqueras para elevar a la Gran Sala su demanda por su detención preventiva durante el 'procés', confirmaron a EFE fuentes de la corte.Una decisión que deja en vía muerta esta denuncia presentada por los tres líderes independentistas contra la orden de la justicia española de ponerlos en prisión preventiva en los días siguientes al referéndum del 1 de octubre de 2017.El Colegio de la Gran Sala, formado por cinco jueces y encargado de determinar qué casos llegan a la máxima instancia del TEDH consideró que no hay motivos para elevar esa causa.La sala ya había rechazado el pasado 6 de noviembre la demanda de los denunciantes al considerar que no se habían vulnerado ninguno de sus derechos durante el tiempo que pasaron en prisión provisional.En concreto, Jordi Sánchez, entonces presidente de la Asamblea Nacional Catalana (ANC) fue detenido el 16 de octubre de 2017, mientras que Jordi Turull, conseller de la Generalitat, y Junqueras, número dos del Ejecutivo autonómico de Cataluña (nordeste de España), lo fueron el 2 de noviembre de aquel mismo año.En su demanda ante el Tribunal de Estrasburgo argumentaban que aquella privación de libertad lesionaba sus derechos políticos, ya que les impidió hacer campaña en las autonómicas del 21 de diciembre de 2017 y, posteriormente, acudir a las sesiones del Parlament al que fueron elegidos.En su sentencia del 6 de noviembre, adoptada por unanimidad, el TEDH concluyó que no hubo \"ilegalidad o arbitrariedad\" en las decisiones de la justicia española y estableció que los tres líderes independentistas eran \"objeto de procesamientos penales por delitos graves\", por lo que no se podía \"razonablemente esperar que pudiesen participar en las elecciones sin ninguna restricción\".Consideró que la justicia española ponderó los diversos intereses en juego de una manera que no podía calificarse de arbitraria, y sin interferir con la libre expresión de la opinión pública y que trató de mantener la equidad parlamentaria pese a su estancia en la cárcel.Al tiempo, estableció que un Estado debe poder impedir la realización de \"un proyecto político, incompatible con las normas de la Convención (Europea de Derechos Humanos), antes de que sea puesto en práctica por actos concretos que comprometan la paz civil y el régimen democrático del país\".Turull denunciaba, asimismo, que su ingreso en prisión le impidió ser investido presidente del Gobierno de la Generalitat de Cataluña.El exconseller fue liberado el 4 de diciembre y vuelto a poner en arresto provisional el 23 de marzo de 2018, un día después de que en primera votación no obtuviera la mayoría absoluta necesaria para ser investido y un día antes de que se celebrara una segunda votación, a la que no pudo ya asistir por encontrase encarcelado.Estrasburgo indicó que las pruebas presentadas no respaldaban la conclusión de que la segunda orden de prisión preventiva dictara contra él hubiera sido arbitraria con el único fin de impedirle ser investido, al tiempo que rechazó que el plazo de resolución de su recurso de amparo vulnerara sus derechos."
   },
   {
-    "titulo": "Puig y Estée Lauder negocian crear un gigante de 35.000 millones de euros",
-    "medio": "Expansión",
-    "fecha": 1774295222.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/23/69c19806e5fdea0a298b45c2.html",
-    "resumen": "La española reconoce conversaciones para \"una posible combinación de negocios\" con el grupo estadounidense. Sus ventas conjuntas ascenderían a 17.400 millones de euros. Leer"
-  },
-  {
     "titulo": "Un día en la primera carrera de la Fórmula E en España: el Circuito del Jarama resucita entre quejas vecinales",
     "medio": "Xataka",
     "fecha": 1774295214.0,
@@ -406,60 +574,11 @@
     "resumen": "Son las 8:30 de la mañana y cae una fina lluvia en el Circuito del Jarama. Quien ya conoce la zona prevé un día poco apacible. El circuito madrileño parece tener uno de esos microclimas que se rige por sus propias leyes. No hay AEMET ni hombre del tiempo que anticipe lo que está por pasar en los 3.850 metros por los que se extiende el circuito. Aquí, uno se congela o se cuece, no hay término medio. Quizás por eso hemos podido aparcar con toda tranquilidad. Se anticipaban problemas el viernes. Lleno absoluto en el Circuito del Jarama para ver la primera carrera de la Fórmula E en España en toda su historia. 30.000 personas metidas en un circuito de los años 60 que apenas ha podido crecer a lo ancho, constreñida por las urbanizaciones que crecieron casi a la par que la fama del asfalto madrileño. El viernes habíamos dado un primer paseo por el paddock gracias a la invitación del equipo DS Penske. La compañía anunció allí que dejará la Fórmula E el próximo año, después de apoyar a la competición en sus primeros doce años de vida en los que ha sumado cuatro campeonatos (dos de equipo y dos de pilotos en las temporadas 2018-19 y 2019-2020) 18 victorias y 55 podios. Queda por ver si en lo que queda de año pueden arañar algún registro más antes de dejar paso a Opel, la compañía que ocupará su puesto. DS se lanzará a la vela. Concretamente al Campeonato Rolex SailGP donde formará parte asociándose con el SailGP Team France, el equipo con el que compartirán conocimientos para dar un paso inédito en su vocación competitiva. Nada indicaba, por el momento, que DS Penske ni ningún otro equipo del campeonato tuviera que sacar los botes salvavidas a la pista pero el tiempo, como decimos, no era agradable. Quizás por eso las gradas tardaron en llenarse en un día histórico para el circuito. En Xataka Madrid ya tiene su primer diseño del hipotético circuito de F1. Sólo sabemos una cosa: será caro caro caro Una nueva vida para el Circuito del Jarama El Circuito del Jarama es un espacio peculiar. El trazado nació en 1967 cuando el terreno no era más que un páramo todavía lejos de Madrid. Pero casi acto seguido se empezó a construir a su lado Ciudalcampo, una exclusiva urbanización en la que se coleccionan chalets millonarios. Desde hace décadas, hay vecinos que tienen una guerra abierta contra el circuito. Entre 1968 y 1981, la Fórmula 1 fue una habitual en el trazado madrileño. También los campeonatos de motociclismo se dieron cita en un circuito que se ha quedado pequeño para acoger con seguridad estas competiciones. Sin grandes campeonatos, el circuito ha ido buscando su supervivencia en otro tipo de eventos. Es la casa del Real Automóvil Club de España (RACE) y se ha mantenido con vida realizando algunas competiciones federativas de mayor o menor calado como algunos tramos del Campeonato de España de Rally y algunos de gran tradición como el Gran Premio de España del Campeonato Europeo de Camiones. En Xataka Qué es la Fórmula E y por qué es tan importante para el futuro del coche Durante este tiempo, los vecinos han venido denunciando que el ruido generado por las competiciones supera, con mucho, el permitido para el descanso. Pero recalcan que desde la pandemia se han multiplicado los eventos que generan ruidos desde primera hora de la mañana a última de la tarde, como eventos de drifts o concentraciones y eventos privados de marcas de coches. La fiscalía, de momento, ya ha dado la razón a los vecinos por lo que las actividades en el circuito están más comprometidas que nunca en los últimos años. La Fórmula E no es un dolor más de cabeza para ellos. Esta vez menos ruidoso pero con todas las inconveniencias propias de tener un circuito con capacidad para decenas de miles de personas dentro de una urbanización sin buena conexión en transporte público. Las tres horas que tardamos en salir del circuito al terminar la jornada dan fe de ello, obligados a salir de los aparcamientos por una sola calle llena de glorietas sin capacidad para absorber tanto tráfico. Al llegar, eso sí, vislumbramos que el ruido no sería un problema. No, al menos, el de los coches. \"Pero si parecen mis coches del Scalextric, suenan igual\", escuchaba a mi lado cuando pasábamos bajo el túnel que separa la zona exterior del circuito del paddock, en el anillo interno. Y, ciertamente, el sonido de estos monoplazas eléctricos es muy similar a lo que se encuentran los aficionados al modelismo. Los Libres 1 habían arrancado, momento complicado para salir a pista. Al contrario que los Fórmula 1, los monoplazas de la Fórmula E no tienen neumáticos específicos para lluvia. Las gomas aquí cuentan con dibujo por lo que pueden rendir lo suficiente en lluvia para mantenerse en pista pero, eso sí, no ofrecen tan buen resultado como los slicks cuando el asfalto está seco. El equipo DS Penske trabajando en el coche A esto se suma una auténtica perogrullada: los coches son eléctricos. Y parece una chorrada pero eso dice mucho sobre su comportamiento y lo fino que hay que ser con las manos. Estos monoplazas son la tercera generación en la historia del campeonato. El año que viene serán más potentes y su frenada regenerativa será todavía mayor. Con todo, ahora mismo son coches con los que hay que tener mucho cuidado con el asfalto seco. Aerodinámica muy poco desarrollada, neumáticos, como decimos, que no son específicos y una mecánica de hasta 400 kW (536 CV) con un peso mínimo de 863 kg incluido el conductor. Con una aceleración de 0 a 100 km/h en menos de dos segundos y un par instantáneo, las cruzadas en cada salida de la curva deleitaban a un público que iba llenando las gradas y la pelouse del circuito. Desde la terraza de la recta principal ya se atisbaba el enorme atasco de entrada que se iba formando para entrar al circuito en la aledaña A-1. Para cuando la clasificación dio inicio a las 10:40, todavía quedaba mucha gente por entrar. Eso sí, el resto ya disfrutaba de lo lindo de la primera carrera de la Fórmula E en un circuito propiamente dicho. En Xataka Fórmula E Gen3 es el salto adelante que necesitaba la competición eléctrica para atar a fabricantes como Porsche e intentar rivalizar con la Fórmula 1 Los organizadores del campeonato se encuentran en un momento crucial. La Fórmula E ha crecido de la mano de los circuitos urbanos. Eventos en Londres, Mónaco o Tokio se han convertido ya en un imágenes icónicas de este deporte pero el año que viene los monoplazas saltan a una nueva generación. Tendremos coches capaces de desarrollar 600 kW (805 CV). Eso está tensando los límites del campeonato. Preguntado sobre por qué Madrid es la primera carrera del campeonato que no tiene un circuito urbano, Alberto Longo, cofundador de la Fórmula E, nos explicaba que cada vez les resulta más complicado encontrar espacios donde se pueda correr con seguridad. Los coches son más rápidos, necesitan más espacio y hay que gestionar los problemas con los vecinos pese a que, asegura, son capaces de desmontar y desmontar todo en una semana. Esta vez, no hubo palabras sobre las incomodidades para los vecinos del Circuito del Jarama pero Longo deja entrever que el Jarama no será el último circuito permanente en el que corre la Fórmula E. \"No se lo deseo a nadie\", nos decía sobre organizar una carrera en el centro de cualquier urbe. Lo que sí es seguro es que la intención de la Fórmula E es volver en los próximos años a España. Si es en Madrid, el Jarama será imprescindible para ello. \"Queremos aumentar el público el año que viene, comprobar si podemos meter a más personas. Poco a poco\", sentenciaba Longo. Un punto de inflexiónLa Fórmula E está en un momento crucial. La Fórmula 1 ha crecido en espectadores en televisión pero se ha alejado de los más fieles. La apuesta por la electricidad, con un enorme peso en los coches actuales, ha provocado un desencanto generalizado. Ambos campeonatos están más cerca que nunca. La Fórmula 1 se ha movido hacia la electricidad, con la premisa de ser más eficientes y ecológicos que nunca. Está buscando nuevas localizaciones urbanas por el mundo. Madrid, de hecho, será una de ellas este mismo año... si las obras llegan a tiempo. La Fórmula E ya estaba allí cuando la Fórmula 1 llegó. El campeonato es divertido, los trazados urbanos permiten ver a los coches muy cerca pero necesitará moverse a circuitos permanentes a poco que los coches sigan ganando potencia. El Circuito del Jarama es un trazado ideal para ver acción en la pista. El trazado es precioso, el público está muy cerca del asfalto. Y las entradas son \"baratas\", gran parte del éxito de la competición. De hecho, así me lo hicieron ver los compañeros con los que, irremediablemente, compartimos atasco a la salida del circuito. Obligado por una infraestructura a la que se le atraganta un evento de este tamaño, hablamos durante horas del futuro y presente de ambas competiciones. Allí estábamos madrileños, canarios y hasta franceses departiendo sobre lo sucedido. Todos reconocían lo divertida que es una carrera de la Fórmula E, con cambios de posición constantes en circuitos donde a los Fórmula 1 se les atascan los adelantamientos. O se convierten en una cosa puramente artificial como este año. Pero, sobre todo, hacían referencia a las entradas. Este año, acudir a la curva estrella en el Madring costará más de 500 euros por persona. En la Fórmula E, por ese precio, había acudido al circuito madrileño toda una familia. Se habló de Spa, de Monza, de Montmeló... todos circuitos míticos y asentados en la competición que ofrecían entradas mucho más baratas que Madrid. No es de extrañar que, a lo largo de la mañana, las gradas se abarrotaran. Caminar por el paddock y el pitlane se convirtió en una tarea más y más complicada. A las entradas más completas (y caras) se sumaba una corte de invitados y famosos casi interminable. Desde las autoridades con l Rey Felipe VI al frente, hasta el jugador de fútbol más insospechado, pasando por históricos de la Fórmula 1 como Rubens Barrichello o Juan Pablo Montoya. En Xataka Hay toda una batalla vecinal para intentar que la F1 no llegue a Madrid. \"Están vendiendo mi salud para ganar dinero\" En poco rato, el paddock se había convertido en un hervidero. La hora de la crucial se acercaba y 600 medios acreditados se movían a la carrera entre ruedas de prensa con representantes de la marca, tratando de atravesar las interminables colas para comer algo o quienes esperaban a echar su partido en una pista de pádel improvisada. Las gradas estaban repletas, la pelouse, una marea de cabezas a lo lejos. Así se llegó a las 15:00. Con el asfalto seco y el público entregado. Salida con rugido en la grada en los primeros giros. Pepe Martí, el único piloto español en la carrera, dejaba monoplazas a sus espaldas a un ritmo frenético hasta alcanzar la primera plaza. El baile de las recargas, un chute de 600 kW en boxes, puso a los Jaguar de nuevo al frente templando la carrera, amainando la revuelta española y calmando a la grada. Así se llegó al final, con victoria para Antonio Felix da Costa, seguido de Mitch Evans. A los hombres de Jaguar TCS Racing les siguió Pascal Wehrlein de Porsche. Punto y final a la carrera. Pequeño drama en la salida. En masa, los aficionados recogieron en tiempo récord. Pasear de camino al parking pasados apenas 10 minutos se parecía más a dejarse llevar por una marea humana. Todos en busca de su coche. En la pista los pilotos ya habían peleado por la posición, le tocaba el turno a los espectadores. Fue entonces cuando se le vieron las costuras a un circuito con 60 años a sus espaldas. Hubo quien esperó más de dos horas y media para poder salir del circuito. Unos pocos caminos de tierra que van a desembocar a las calles propias de una tranquila urbanización al norte de Madrid. Tranquila, siempre que no hay evento en el Jarama, claro. Esta vez los vecinos tuvieron que lidiar con los inconvenientes propios de un evento retransmitido para todo el mundo. Al menos, por una vez, no lidiaron con el sonido de los coches. Fotos | Xataka En Xataka | Madrid tendrá un circuito de F1 en un PAU. Aunque no lo parezca, es el sueño húmedo de la FIA - La noticia Un día en la primera carrera de la Fórmula E en España: el Circuito del Jarama resucita entre quejas vecinales fue publicada originalmente en Xataka por Alberto de la Torre ."
   },
   {
-    "titulo": "Los mejores looks de los Fotogramas de Plata: de la elegancia de Juana Acosta y Ana Rujas al toque rompedor de Milena Smit",
-    "medio": "El Español",
-    "fecha": 1774295204.0,
-    "link": "https://www.elespanol.com/mujer/moda/20260323/mejores-looks-fotogramas-plata-elegancia-juana-acosta-ana-rujas-toque-rompedor-milena-smit/1003744181102_3.html",
-    "resumen": "La 76.ª edición de los galardones se ha celebrado en Madrid, con una alfombra roja llena de estrellas y de moda. Más información: La otra protagonista de los Goya 2026: Heidi Sierra, la madre de Mario Casas que emociona a las redes"
-  },
-  {
-    "titulo": "Bondalti nombrará a un exdirectivo de Dow Chemical como presidente de Ercros",
-    "medio": "Expansión",
-    "fecha": 1774294941.0,
-    "link": "https://www.expansion.com/catalunya/2026/03/23/69c1973ee5fdea4b2b8b45a4.html",
-    "resumen": "Antón Valero será presidente no ejecutivo. El presidente del grupo luso, João de Mello, será el consejero delegado. Leer"
-  },
-  {
-    "titulo": "Atir Hospitality invertirá 45 millones en la reforma del Teatre Principal",
-    "medio": "Expansión",
-    "fecha": 1774294543.0,
-    "link": "https://www.expansion.com/catalunya/2026/03/23/69c19554468aeb1f6b8b456e.html",
-    "resumen": "La hotelera inicia las obras para recuperar la actividad cultural en el centro, inactivo desde 2017. Leer"
-  },
-  {
-    "titulo": "Trump abre la puerta a un acuerdo con Irán y aplaza los ataques",
-    "medio": "La Vanguardia",
-    "fecha": 1774294510.0,
-    "link": "https://www.lavanguardia.com/internacional/20260323/11497433/trump-abre-puerta-acuerdo-iran-aplaza-ataques.html",
-    "resumen": "Teherán niega negociaciones directas mientras EE. UU. retrasa cinco días los bombardeos y busca aliviar la crisis energética desatada por el conflicto"
-  },
-  {
-    "titulo": "Juanma Moreno toma la iniciativa: Andalucía votará el 17 de mayo cerrando la puerta al superdomingo de Sánchez",
-    "medio": "El Español",
-    "fecha": 1774294390.0,
-    "link": "https://www.elespanol.com/espana/andalucia/20260323/juanma-moreno-disuelve-parlamento-andaluz-convoca-elecciones-mayo/1003744181101_0.html",
-    "resumen": "Con esta fecha evita la coincidencia con la romería del Rocío y con la visita del Papa al Congreso de los Diputados. Más información: Moreno cree que los resultados en Castilla y León son un aviso para Vox: \"Te dan el voto para construir, no para destruir\""
-  },
-  {
-    "titulo": "Moreno convoca las elecciones autonómicas en Andalucía el domingo 17 de mayo",
-    "medio": "Europa Press",
-    "fecha": 1774294326.0,
-    "link": "https://www.europapress.es/andalucia/noticia-moreno-convoca-elecciones-autonomicas-andalucia-domingo-17-mayo-20260323203206.html",
-    "resumen": "El presidente de la Junta de Andalucía, Juanma Moreno (PP-A), ha anunciado este lunes 23 de marzo la convocatoria de las elecciones autonómicas el próximo domingo 17 de mayo, agotando prácticamente la legislatura casi cuatro años después de los últimos comicios celebrados el 19 de junio de 2022, y ha abogado por la \"máxima participación posible\" en dicha cita con las urnas y por un \"proceso electoral limpio\"."
-  },
-  {
-    "titulo": "Estrasburgo rechaza revisar la sentencia que avaló el encarcelamiento de Junqueras, Turull y Sànchez y negó que tuviera motivaciones políticas",
-    "medio": "El Mundo",
-    "fecha": 1774294298.0,
-    "link": "https://www.elmundo.es/espana/2026/03/23/69c193cee4d4d81b078b458b.html",
-    "resumen": "El Tribunal Europeo de Derechos Humanos deniega su petición de que la Gran Sala volviera a examinar el caso Leer"
-  },
-  {
-    "titulo": "El mejor pueblo de Asturias para ver el eclipse total de sol 2026 y, de paso, disfrutar del mejor pescado",
-    "medio": "Trendencias",
-    "fecha": 1774294254.0,
-    "link": "https://www.trendencias.com/viajes/mejor-pueblo-asturias-para-ver-eclipse-total-sol-2026-paso-disfrutar-mejor-pescado",
-    "resumen": "Ver el eclipse solar total del 12 de agosto de 2026 es un plan al que yo no pretendo faltar, algo que lleva sin ocurrir 120 años. Si lo hago, lo hago bien, convirtiendo mi caza del eclipse en una escapada completa al norte. Concretamente, a este encantador pueblito asturiano con tradiciones marineras y un mirador precioso donde ver el espectáculo. Según los expertos, Asturias es un punto privilegiado para ver el eclipse solar de 2026, porque se encuentra dentro de la franja de totalidad. Además, esta comunidad es en la que más va a durar el fenómeno, con un tiempo estimado de 1.48 minutos. Por eso, hemos buscado un punto alto y bonito donde verlo y lo hemos encontrado: Luarca es el lugar. Luarca es un pueblo encantador repleto de casas blancas encaladas, que fueron construidas como una cornisa escalonada sobre el mar. De frente, tienen el Cantábrico más azul y a su espalda los prados verdes y mágicos de Asturias. Casi tan mágicos como su puertito de pescadores, donde las barcas de colores traquetean al ritmo de las olas. Otros lugares preciosos que ver en Luarca es el barrio de La Pescadería, rodeado de mar con un puente de acceso, o la capilla de La Atalaya, un templo del siglo XIII en lo alto de un acantilado con unas vistas increíbles al atardecer del Cantábrico. Este es un lugar ideal para ver el eclipse. Esta capilla está pegada al faro de Luarca y es un balcón excepcional que, en las noches de verano como la del eclipse, ofrece máxima visibilidad al cielo y será el palco de honor para presenciar, en directo, el precioso eclipse solar histórico. Fotos | Turismo Asturias, Pueblos Mágicos de España, Turismo Luarca Valdés. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. - La noticia El mejor pueblo de Asturias para ver el eclipse total de sol 2026 y, de paso, disfrutar del mejor pescado fue publicada originalmente en Trendencias por Pepa López ."
+    "titulo": "Juanma Moreno convoca las elecciones en Andalucía el 17 de mayo",
+    "medio": "Infolibre",
+    "fecha": 1774294666.0,
+    "link": "https://www.infolibre.es/politica/juanma-moreno-convoca-elecciones-andalucia-17-mayo_1_2166840.html",
+    "resumen": "El presidente de la Junta de Andalucía, Juanma Moreno, ha anunciado este lunes su decisión de disolver el Parlamento de Andalucía y convocar elecciones autonómicas el domingo 17 de mayo.Moreno, que ha transmitido esta decisión tras una reunión extraordinaria del Consejo de Gobierno, ha señalado que el 17 de mayo es una fecha \"idónea\" para facilitar la máxima participación y porque Andalucía \"necesita llegar al verano con un horizonte político despejado\".Ha indicado que ir a las urnas en ese momento va a permitir que Andalucía afronte los próximos meses \"con plena capacidad política e institucional en un contexto económico que exige estabilidad y anticipación\". El presidente de la Junta ha recordado que podría haber adelantado las elecciones cuando hubo momentos en que sus oponentes no tenían candidato en referencia al PSOE o a la izquierda de dicho partido. \"Habría sido legítimo y legal\", ha defendido Moreno quien, sin embargo, ha preferido esperar a cumplir los 4 años de legislatura, algo que no se veía en Andalucía desde 2012, \"hace 14 años\", ha recordado.Moreno ha destacado que Andalucía \"se ha afianzado como uno de los tres motores económicos de España y una de las comunidades que paga menos impuestos\", poniendo así el acento en la situación económica.En su alocución desde el Palacio de San Telmo, sede de la Presidencia de la Junta de Andalucía, Moreno ha señalado que su gestión estos cuatro últimos años ha tenido \"aciertos y errores\", pero ha destacado que siempre han actuado \"con honestidad y rigor\". El presidente andaluz ha detallado que en esta legislatura se han aprobado en Andalucía 64 leyes, algo que achaca al \"diálogo\" con otros partidos de la oposición, algo \"inusual\".Moreno ha apelado una vez más a la \"estabilidad\". Tanto a la que ha tenido Andalucía estos últimos cuatro años por la mayoría absoluta de la que goza ahora como la que, ha defendido, necesitará la comunidad en el futuro. \"Los próximos meses exigirán gobiernos estables y audaces para que puedan dar respuesta a las dificultades que puedan llegar. Gobiernos que den confianza y seguridad y que tengan la capacidad de tomar decisiones\", ha destacado Moreno.Por eso, Moreno ha deseado que Andalucía llegue al verano \"con un gobierno a pleno rendimiento\", lo que necesitaría o bien de una mayoría absoluta del PP o de un pacto rápido en caso de que la mayoría no sea suficiente para los populares.El presidente de la Junta, que ha recordado episodios como el accidente ferroviario de Adamuz, donde murieron 46 personas, ha hecho además un llamamiento a los partidos políticos \"para que estemos a la altura del pueblo al que representamos y tengamos un proceso electoral limpio, respetuoso, sin mentira, con honestidad y, ¿por qué no decirlo?, con nobleza\".En el apartado de reacciones, la vicepresidenta primera y candidata del PSOE, María Jesús Montero, ha asegurado que Moreno ha convocado antes \"porque la crisis de la sanidad pública se lo lleva por delante y porque teme el repunte del PSOE\".\"Cuanto antes, mejor, Andalucía necesita un Gobierno que resuelva los problemas. Nos gusta el 17 de mayo: ¡ya hay fecha para el cambio!\", ha escrito en redes sociales.El Gobierno, por boca de la ministra de Igualdad, Ana Redondo, ha subrayado que \"nadie puede imaginar una mejor candidata\" que Montero, para las elecciones de Andalucía, con la esperanza de que \"la ciudadanía despierte\" y evite que Vox llegue a las instituciones.El líder de IU y candidato de Por Andalucía a la Junta, Antonio Maíllo, ha afirmado que la coalición de partidos que representa está preparada para las elecciones andaluzas del próximo 17 de mayo y ha manifestado que comienza el \"cambio\" para esta comunidad autónoma. \"Empieza el cambio para nuestra tierra. Estamos preparados y vamos con todo. Por lo público. Por nuestra gente\", ha escrito en la red social X."
   },
   {
     "titulo": "Netflix está poniendo huevos en la cesta del formato físico: el DVD y el 4K se están convirtiendo en el nuevo vinilo",
@@ -469,18 +588,18 @@
     "resumen": "Arrow Video y Netflix acaban de anunciar la edición de 'Stranger Things' completa en Blu-ray y 4K UHD, con dos variantes y fecha de lanzamiento prevista para julio de 2026 en Reino Unido. Es la primera vez que la serie llega al soporte físico, y aquí posiblemente no la cataremos (al menos no en una edición tan lujosa), pero lo que realmente importa es que Netflix, que durante años trató el Blu-ray con cierta hostilidad, respalda por completo esta edición. Seguir el rastro del dinero es sencillo cuando Netflix mira justo en esa dirección. La edición. Arrow Video, el sello británico especializado en ediciones de culto, lanza 'Stranger Things: The Complete Series' en dos ediciones: Special Edition y Deluxe Edition, ambas ya en preventa. El box set reúne los 42 episodios de las cinco temporadas distribuidos en 25 discos. La Deluxe Edition es donde Arrow ha concentrado los esfuerzos para un lanzamiento de lujo: artbook de 148 páginas, postales exclusivas, un parche del Hellfire Club, carteles dobles de cada temporada y, como de costumbre en el sello, artes exclusivos para la ocasión. ¿Qué es Arrow? Arrow no es un sello cualquiera. La empresa tiene un historial de ediciones cuidadas tanto de éxitos mainstream como de títulos de culto: su catálogo abarca desde remasterizaciones de películas más o menos conocidas, como 'Dune' de David Lynch en 4K o 'La cosa' de John Carpenter a demenciales rarezas para muy cafeteras como su caja sobre las películas del maestro del horror brasileño Mojica Marins o la sucesión de increibles armartostes sobre cine de artes marciales clásico Shawscope, que este que firma atesora en sus baldas. En Xataka Tras el regreso del CD y del DVD, una empresa ya tiene el próximo revival de físico listo: los USB con películas Que Netflix haya recurrido a ellos, y no a un distribuidor mayoritario, indica cuál es el mercado al que va dirigida esta edición: coleccionistas con criterio, no compradores ocasionales. Dean Lawson, Director de Ventas y Marketing de Arrow Films, lo expresó sin rodeos en el anuncio: \"Trabajar con el equipo de Netflix y los Duffer Brothers para traer la edición definitiva en físico de 'Stranger Things' a los fans ha sido un proyecto fenomenal para Arrow. La serie es colosal en influencia y escala, es querida globalmente, ha trascendido generaciones y ha sido parte de la conversación cultural durante casi diez años.\" Netflix en el ajo. Lo que hace llamativa esta noticia no es el box set en sí, sino quién lo publica. Netflix (pese a sus orígenes como videoclub virtual) y a diferencia de HBO Max o Disney+, streamers construidos sobre estudios preexistentes, no posee una cadena de distribución de películas físicas. Si quiere publicar un título en DVD y Blu-Ray, necesita acudir a distribuidores externos. Durante años, las únicas excepciones llegaron por la vía de la edición de prestigio: 'El irlandés', 'Roma' o 'Historia de un matrimonio' llegaron al disco a través de la prestigiosísima Criterion Collection. Mike Flanagan ya expresó en su día que intentó sin éxito durante años que Netflix publicara sus series, como 'Misa de medianoche' o 'La maldición de Hill House', en Blu-ray y DVD, sin éxito. \"Netflix se negó una y otra vez. Me quedó muy claro que su única prioridad eran las suscripciones y que eran activamente hostiles a la idea del soporte físico\", afirmó. Flanagan declaró que consideraba que esa postura suponía un daño directo a la preservación cinematográfica. Los números del giro. Tal y como hemos contado últimamente, el mercado del soporte físico lleva una década en caída, pero los datos de 2025 muestran un cambio en la curva. Las ventas de 4K Blu-ray en Estados Unidos crecieron un 12% en 2025 respecto al año anterior, el primer año de crecimiento desde 2018, y el descenso global del físico se moderó de una caída del 23,4% en 2024 a una del 9,3% en 2025. Significativamente, ese incremento viene de donde menos se esperaban: una demografía de compradores cada vez más jóvenes. El segmento premium es el que tira, y no solo el 4K: los steelbooks, por ejemplo, registraron un incremento del 25% en ventas entre 2023 y 2024. No son compras pasivas: son adquisiciones deliberadas de personas que quieren poseer algo permanente. El paralelismo con el vinilo es obvio: representó cerca de tres cuartas partes de los ingresos físicos de música en EE.UU. en 2024. El soporte físico ha dejado de competir con el streaming y ha encontrado su nicho en la categoría de coleccionismo y preservación. En Xataka La Generación Z ha encontrado el remedio a la fatiga de las suscripciones de streaming: volver a comprar DVDs Las cifras que lo justifican. Es obvio por qué 'Stranger Things' ha tenido el honor de ser la primera gran apuesta física de Netflix. Las temporadas 1 a 4 acumularon más de 1.200 millones de visualizaciones. La quinta y última, estrenada en 2025, tuvo la semana de estreno más vista de una serie en inglés en la historia de la plataforma, e impulsó las temporadas anteriores de nuevo al Top 10 global durante ocho semanas consecutivas. La pregunta, quizás, es qué viene después. Netflix tiene más de mil originales sin ninguna presencia en físico, incluyendo series que en algunos casos ya no están disponibles ni en streaming. Si la apuesta de Arrow y Netflix con 'Stranger Things' se salda con un éxito, podríamos ver repetida la operación con otras propiedades de la plataforma. Y así proporcionar al entorno digital la característica que le falta: la pervivencia en el tiempo. En Xataka | Pese al streaming, sigo comprando Blu-Rays y DVDs. Pero el motivo no tiene nada que ver con la calidad de imagen - La noticia Netflix está poniendo huevos en la cesta del formato físico: el DVD y el 4K se están convirtiendo en el nuevo vinilo fue publicada originalmente en Xataka por John Tones ."
   },
   {
+    "titulo": "El mejor pueblo de Asturias para ver el eclipse total de sol 2026 y, de paso, disfrutar del mejor pescado",
+    "medio": "Trendencias",
+    "fecha": 1774294254.0,
+    "link": "https://www.trendencias.com/viajes/mejor-pueblo-asturias-para-ver-eclipse-total-sol-2026-paso-disfrutar-mejor-pescado",
+    "resumen": "Ver el eclipse solar total del 12 de agosto de 2026 es un plan al que yo no pretendo faltar, algo que lleva sin ocurrir 120 años. Si lo hago, lo hago bien, convirtiendo mi caza del eclipse en una escapada completa al norte. Concretamente, a este encantador pueblito asturiano con tradiciones marineras y un mirador precioso donde ver el espectáculo. Según los expertos, Asturias es un punto privilegiado para ver el eclipse solar de 2026, porque se encuentra dentro de la franja de totalidad. Además, esta comunidad es en la que más va a durar el fenómeno, con un tiempo estimado de 1.48 minutos. Por eso, hemos buscado un punto alto y bonito donde verlo y lo hemos encontrado: Luarca es el lugar. Luarca es un pueblo encantador repleto de casas blancas encaladas, que fueron construidas como una cornisa escalonada sobre el mar. De frente, tienen el Cantábrico más azul y a su espalda los prados verdes y mágicos de Asturias. Casi tan mágicos como su puertito de pescadores, donde las barcas de colores traquetean al ritmo de las olas. Otros lugares preciosos que ver en Luarca es el barrio de La Pescadería, rodeado de mar con un puente de acceso, o la capilla de La Atalaya, un templo del siglo XIII en lo alto de un acantilado con unas vistas increíbles al atardecer del Cantábrico. Este es un lugar ideal para ver el eclipse. Esta capilla está pegada al faro de Luarca y es un balcón excepcional que, en las noches de verano como la del eclipse, ofrece máxima visibilidad al cielo y será el palco de honor para presenciar, en directo, el precioso eclipse solar histórico. Fotos | Turismo Asturias, Pueblos Mágicos de España, Turismo Luarca Valdés. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. - La noticia El mejor pueblo de Asturias para ver el eclipse total de sol 2026 y, de paso, disfrutar del mejor pescado fue publicada originalmente en Trendencias por Pepa López ."
+  },
+  {
     "titulo": "Irán se fijó como objetivo acabar con Dubái: la huida masiva de inversores y millonarios sugiere que lo ha conseguido",
     "medio": "Xataka",
     "fecha": 1774293414.0,
     "link": "https://www.xataka.com/empresas-y-economia/dubai-ha-dejado-ser-oasis-desierto-para-millonarios-guerra-iran-ha-ahuyentado-a-millonarios",
     "resumen": "Durante años, Dubái ha sido la tierra prometida para millonarios de todo el planeta que veía en Emiratos Árabes Unidos un lugar idílico para vivir sin pagar impuestos. Los ataques iraníes con misiles y drones a distintas infraestructuras de Dubái en las últimas semanas han cambiado esa percepción y la élite financiera, sobre todo los millonarios asiáticos están poniendo sus pies (y fortunas) en polvorosa. La ciudad que sedujo a más de 81.000 millonarios desde 2014 se enfrenta ahora a una fuga de capital y talento sin precedentes. El prestigio que tardó décadas en construirse está siendo puesto a prueba en cuestión de días. ​Explosiones en el corazón de la ciudad. Las últimas semanas nos han dejado imágenes que pocos habrían imaginado en febrero. El hotel Fairmont The Palm, situado en una de las islas artificiales frente a la costa de Dubái, fue alcanzado por una explosión. Días más tarde los restos de un dron iraní derribado incendiaron el icónico Burj Al Arab, el aeropuerto internacional ha sufrido daños por ataques con drones y el consulado estadounidense ha sido blanco de otro ataque con dron. La ciudad que presumía de ser la más segura del mundo, en cuestión de semanas se ha convertido, en escenario de guerra. \"La guerra entre Estados Unidos e Israel contra Irán está socavando esa crucial sensación de seguridad en Dubái. El modelo económico de Dubái se basa en que los residentes expatriados aporten el talento, la fuerza y el capital de inversión. Se necesita estabilidad y seguridad para atraer a extranjeros cualificados.\", aseguraba a CNBC Jim Krane, investigador del Instituto Baker de la Universidad Rice. En Xataka En Dubái no saben qué hacer con tantos superdeportivos de lujo abandonados: la cara menos brillante de hacerse rico ​El dinero asiático, en retirada. Sin embargo, el impacto más visible se está dejando notar entre los inversores asiáticos, que se habían convertido en uno de los pilares del crecimiento financiero de Dubái. Según datos de Henley & Partners, Dubái alberga actualmente a 237 centimillonarios (personas con un patrimonio de 100 millones de dólares o más) y al menos 20 multimillonarios Asia representó el 47% de todas las empresas multinacionales atraídas por la Cámara Internacional de Dubái en 2025, y alrededor de una cuarta parte de las más de 2.270 fundaciones creadas en los Emiratos tienen titularidad asiática, según datos de la consultora BSA Law. Bloomberg publicaba que Emiratos Árabes Unidos había atraído unos 700.000 millones de dólares procedentes de millonarios de todo el mundo, sobre todo asiáticos. Singapur y Hong Kong, nuevos destinos elegidos. Grace Tang, CEO de Phillip Private Equity, señaló a Reuters que entre 10 y 20 de sus clientes, en su mayoría asiáticos, están preguntando sobre cómo trasladar su patrimonio a Singapur para proteger el valor de sus activos. Hong Kong emerge también como alternativa. Por su parte, Felix Lai, de la consultora JMS Group, contaba a Bloomberg que había organizado un vuelo en jet privado para trasladar a 15 clientes desde Omán hasta Hong Kong con un coste aproximado de 300.000 dólares. \"Ni siquiera les importaba el precio\", explicó Lai. \"Solo querían irse\". Un asesor en Singapur que prefirió no identificarse añadió que más de la mitad de sus 13 clientes en los Emiratos están considerando seriamente mover sus activos: \"Volar de un lado a otro será complicado incluso si el conflicto termina mañana. Se trata de confianza\". En Xataka La migración de multimillonarios en la última década, explicada en un ilustrativo gráfico El modelo económico de Dubái, ante su mayor examen. Dubái no depende tan directamente de la industria del petróleo como sus vecinos, sino que su economía se sostiene sobre su capacidad de atracción de expatriados, sus inversiones y su talento. El Dubai International Finance Centre alojaba a principios de año 1.289 entidades vinculadas a family offices (un 61% más que el año anterior), y las 120 principales familias del centro gestionaban conjuntamente más de 1,2 billones de dólares, según recogía CNBC. Aunque las bolsas de todo el mundo han sentido el terremoto derivado de los ataques en una zona de recursos estratégicos para el comercio y la energía, el impacto del conflicto con Irán ha sido mucho más severo y directo para los mercados del Golfo. La bolsa de Dubái (DFM) ha caído más de un 16,6% desde el inicio de la guerra entre EEUU e Israel contra Irán. Fitch Ratings ya había previsto antes de la guerra una corrección inmobiliaria de hasta el 15% en 2025 y 2026. Todo apunta a que se han quedado cortas las peores estimaciones de las consecuencias financieras. ¿Pánico pasajero o cambio estructural? No todos los actores del sector creen que esto vaya a desembocar en una fuga masiva permanente. Dhruba Jyoti Sengupta, director ejecutivo de Wrise Private Middle East en Dubái, señaló a Reuters que su firma no había observado \"conversaciones serias sobre la fuga de capitales\", ya que sus clientes siguen confiando en la resiliencia del país a largo plazo. ​Nirbhay Handa, CEO de agencia de migración para millonarios Multipolitan, apuntaba en Bloomberg que \"si la incertidumbre se prolonga unas semanas, algunas empresas podrían pausar su expansión, pero la estabilidad probablemente regrese rápidamente a Dubái en cuanto la situación mejore\". Lo que sí parece claro es que la ciudad tendrá que reconstruir algo mucho más difícil de levantar que sus rascacielos para millonarios: la confianza de quienes la eligieron como hogar para su dinero. En Xataka | Una empresa quiere construir un megacasino de 4.000 millones de euros en Dubái. El problema es que Dubái prohíbe el juego Imagen | Unsplash (Wael Hneini) - La noticia Irán se fijó como objetivo acabar con Dubái: la huida masiva de inversores y millonarios sugiere que lo ha conseguido fue publicada originalmente en Xataka por Rubén Andrés ."
-  },
-  {
-    "titulo": "Bruselas exige explicaciones a Hungría por las acusaciones de que Orban lleva años informando a Rusia de las reuniones confidenciales de la UE",
-    "medio": "El Mundo",
-    "fecha": 1774292925.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/23/69c128e4fc6c83537f8b4583.html",
-    "resumen": "The Washington Post asegura que el ministro de exteriores Szijjártó llama \"regularmente\" a Lavrov durante las reuniones del Consejo, y Tusk añade que lleva \"mucho tiempo sospechándolo\" Leer"
   },
   {
     "titulo": "Las televisoras europeas exigen frenar el control de Google y Samsung en las Smart TV",
@@ -490,39 +609,11 @@
     "resumen": "Las grandes cadenas de televisión de Europa han solicitado a la UE que aplique normas más estrictas a las smart TV. Según recoge Reuters, la Asociación de Televisión Comercial y Servicios de Video Bajo Demanda en Europa (ACT) envió una carta a la Comisión Europea pidiendo que sistemas operativos como Android TV, Fire OS o […] Seguir leyendo: Las televisoras europeas exigen frenar el control de Google y Samsung en las Smart TV"
   },
   {
-    "titulo": "Shakira dobla la apuesta: salta de tres a seis conciertos en Madrid por la alta demanda de entradas",
-    "medio": "El Mundo",
-    "fecha": 1774292589.0,
-    "link": "https://www.elmundo.es/cultura/musica/2026/03/23/69c161bfe4d4d8615a8b4589.html",
-    "resumen": "El espacio Iberdrola Music de Madrid acogerá el espectáculo de Shakira para los días 18, 19, 20, 25, 26 y 27 de septiembre. La preventa de entradas comienza este martes 24 Leer"
-  },
-  {
-    "titulo": "La empresa de autobuses que propone Renfe preocupa a las grandes patronales del sector",
-    "medio": "Expansión",
-    "fecha": 1774292547.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/03/23/69c18e07e5fdea45778b45a6.html",
-    "resumen": "El CNTC considera que la creación esta nueva compañía, con la que Renfe calcula unos ahorros de hasta 13 millones de euros, es \"innecesaria y contraproducente\" para el sector. Leer"
-  },
-  {
     "titulo": "Hoy lunes, 23 de marzo, llega a Lidl la solución compacta y barata para renovar el aire de nuestra casa esta primavera: cuesta solo 23,99 euros",
     "medio": "Trendencias",
     "fecha": 1774292454.0,
     "link": "https://www.trendencias.com/shopping/hoy-lunes-23-marzo-llega-a-lidl-solucion-compacta-barata-para-renovar-aire-nuestra-casa-esta-primavera-cuesta-solo-23-99-euros",
     "resumen": "Llega el buen tiempo y la primavera se cuela en nuestra casa. En muchas ocasiones, se pueden colar olores no deseados. Así que he encontrado la solución con este purificador compacto que ha llegado a Lidl ideal para no gastarse un pastizal y disfrutar de un aire más limpio que cree un ambiente acogedor. Su función principal es coger el aire y filtrarlo. Así que, de esta manera, consiguen atrapar las partículas de polvo, ácaros, polen y algunas bacterias, dejando un ambiente más limpio. Este modelo de la serie Livarno cuenta con filtro EPA 12 y tiene una potencia de 19 W. Es capaz de cubrir estancias de hasta siete metros cuadrados y no deja de ser un dispositivo compacto y eficiente para cualquier habitación pequeña. Se puede mover fácilmente por su asa y, además, incorpora un sistema para almacenar el cable ideal para que no quede suelto y desordenado. Cuenta con tres niveles de ventilador e incluye un filtro de partículas. Cuando sea necesario cambiar el filtro, lo indicará. Podemos ubicarlo en cualquier rincón sin que ocupe mucho espacio y su diseño es moderno, siendo el mejor ejemplo para no renunciar a la decoración dentro de casa. El precio en Lidl es 23,99 euros. Otros modelos similaresNota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Lidl, Pexels En Trendencias |Cómo unos trozos de tela acabaron iluminando mi casa y siendo mi obsesión decorativa - La noticia Hoy lunes, 23 de marzo, llega a Lidl la solución compacta y barata para renovar el aire de nuestra casa esta primavera: cuesta solo 23,99 euros fue publicada originalmente en Trendencias por Laura Beneyto ."
-  },
-  {
-    "titulo": "El Consejo de Estado critica y 'tumba' el registro horario de Yolanda Díaz",
-    "medio": "El Español",
-    "fecha": 1774292285.0,
-    "link": "https://www.elespanol.com/invertia/economia/empleo/20260323/consejo-critica-tumba-registro-horario-yolanda-diaz/1003744181041_0.html",
-    "resumen": "El órgano consultivo considera que \"no procede aprobar el real decreto proyectado\". Trabajo considera \"incomprensible\" el dictamen."
-  },
-  {
-    "titulo": "Aston Martin necesita un compañero de viaje",
-    "medio": "Expansión",
-    "fecha": 1774292184.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/23/69c18cc9e5fdea3e4f8b45ae.html",
-    "resumen": "La marca aún goza de prestigio mundial, pero se enfrenta a dificultades como fabricante de coches de lujo de tamaño reducido. Leer"
   },
   {
     "titulo": "La mayoría de los universitarios falla al diferenciar noticias científicas reales y falsas",
@@ -574,13 +665,6 @@
     "resumen": "El sistema de AirDrop parte de una premisa clara: poder intercambiar fotos, vídeos, enlaces o archivos de cualquier tipo entre dispositivos Apple. Los iPhone, iPad y Mac llevan años con ello con una función exclusiva y que funciona por lo general bastante bien. Es rápida y cómoda, así que es bueno tenerla. Y de ahí que durante años hubiese fabricantes Android tratando de replicar un sistema similar. Ahora ya hay móviles de Google y Samsung compatibles con AirDrop. Y no mediante un sistema alternativo, sino utilizando los propios protocolos de Apple. Y lo curioso es que la compañía californiana todavía no se ha pronunciado. Ni lo hará, probablemente. De los Pixel a los S26, los móviles Android que aceptan AirDrop Imagen: Google A finales del pasado año, Google anunciaba la compatibilidad con AirDrop en su gama de Pixel 10. Lo hacían mediante la función Quick Share, que ha sido durante años \"el AirDrop de Android\", pero compatible únicamente con dispositivos que llevasen ese sistema operativo. El funcionamiento es bien simple, ya que consiste básicamente en compartir un archivo mediante Quick Share y que, habiendo un iPhone cerca y con AirDrop activado, aparezca en la lista como si de un móvil Android más se tratase. El iPhone en cuestión puede recibir el archivo usando los mismos protocolos de AirDrop. En Applesfera Tu iPhone puede ser más personal que nunca: así puedes ponerle el nombre que quieras (incluso en la pantalla de bloqueo) A principios de febrero empezó a rumorearse que esta compatibilidad se extendería a más móviles Android y ya sabemos cuáles son los siguientes: los Samsung Galaxy S26. La firma surcoreana ha anunciado esta inminente compatibilidad siguiendo los mismos pasos que Google, dado que también se hará mediante Quick Share. Es de esperar que esta compatibilidad vaya ampliándose en próximos meses y años. No solo dentro de Google y Samsung, sino también en otros fábricantes. Y con especial mención a los chinos, que llevan años tratando de lograr este tipo de funcionalidades (véanse casos como los de Oppo con los Apple Watch y AirPods u Honor con los Mac). Lo que por ahora no se ha logrado es la compatibilidad inversa. Es decir, que el iPhone pueda enviar archivos mediante AirDrop a móviles Android. Sin embargo, parece cuestión de tiempo que acabe consiguiéndose. Y Apple no dice nada... por la cuenta que les trae En otros tiempos, sobre todo en la era de Steve Jobs, hubiese sido posible ver a Apple salir a quejarse públicamente de esta \"usurpación\" de funciones por parte de dos competidores. O quizás no le hubiesen dado importancia y sencillamente hubiesen bloqueado esta funcionalidad con alguna actualización sin hacer mucho ruido. Sorprende por eso ver que no se pronunciaron cuando Google anunció esta compatibilidad por primera vez. Y todo apunta a que tampoco lo harán ahora que lo ha hecho Samsung. Probablemente todo se deba a una postura de resignación al creer que no tienen forma de impedirlo estando Europa y otros mercados al acecho. En Applesfera He probado a fondo la única cámara del iPhone 17e. Es muy buena, pero hay algo que me cuesta justificar La Comisión Europea lleva años exponiendo iOS como un sistema que debe abrirse y ser más \"interoperable\". Es decir, que debe dejar de ser un ecosistema cerrado y abrirse más a terceros. De ahí todos los cambios que llegaron en iOS 17.4 hace ahora dos años, incluyendo las tiendas de aplicaciones alternativas. Sabiendo que Europa lleva tiempo pidiendo abrir AirDrop, negarse a que fabricantes como Google o Samsung lo adopten parece contraproducente. Y es que a buen seguro que, de bloquearse esta función por parte de Apple, podrían producirse peticiones legales por parte del máximo estamento europeo que provoquen su reapertura. Así que ante estos casos, la postura del silencio y permisibilidad adoptada por Apple parece lo más sensato. Y para nosotros, los usuarios, no deja al final de ser una buena noticia. Los más puristas verán escandaloso que AirDrop funcione en Android, y sí es cierto que rompe cierta \"magia\" propia del iPhone, pero a efectos prácticos es un gran aliciente saber que podremos compartir archivos de esta forma tan rápida y eficaz. Vía | Xataka Móvil En Applesfera | WWDC26: así esperamos el gran evento de Apple en el que se presentarán iOS 27 y otras novedades En Applesfera | Cargar un iPhone con otro iPhone: cómo se hace y cuál de los dos cargará al otro - La noticia AirDrop ha sido durante años una de las mayores ventajas exclusivas del iPhone. Hasta ahora fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "Inditex, Mango, Tendam, H&M y Primark cierran un preacuerdo de convenio",
-    "medio": "Expansión",
-    "fecha": 1774289691.0,
-    "link": "https://www.expansion.com/empresas/distribucion/2026/03/23/69c1823c468aebc3638b4576.html",
-    "resumen": "Los gigantes del textil fijarán nuevas tablas salariales y pagarán los festivos y domingos. Leer"
-  },
-  {
     "titulo": "“Cuando invertimos en humanidad, todos salimos ganando”: infoLibre analiza el papel fundamental de la cooperación",
     "medio": "Infolibre",
     "fecha": 1774289664.0,
@@ -588,25 +672,11 @@
     "resumen": "Vivimos en tiempos inciertos y convulsos, atenazados por numerosos conflictos bélicos y realidades que debemos enfrentar como la crisis del cambio climático, la hambruna y, en general, una brecha que cada vez separa más las clases sociales. En este contexto, la cooperación internacional, un mecanismo básico para que el mundo sea un lugar más justo y seguro, plantea numerosas dudas, suspicacias e, incluso, narrativas que alteran su importancia y aumentan la desconfianza.¿Para qué sirve la cooperación internacional?, ¿es un lujo, como algunos afirman, en tiempos de apuros internos? Una tensión palpable que solo se combate a través de la información y el diálogo entre voces expertas. Es el caso del nuevo foro de infoLibre en colaboración con AECID: ‘España y la cooperación internacional: qué se hace y por qué importa’.El foro ha comenzado con una charla entre Virginia P. Alonso, directora de infoLibre y el director de AECID (Agencia Española de Cooperación Internacional para el Desarrollo), Antón Leis. Durante la misma, Leis ha puesto nombre y cifras a una política que, aunque haya quien la vea como un derroche, apenas supone el 0,15% del gasto público español; y, a pesar de que es una cifra pequeña, consigue generar estabilidad en un mundo interconectado. Porque, como afirma Alonso, “es una inversión muy pequeña para el impacto que tiene; invertir en cooperación es invertir en nosotros mismos, en nuestra propia sociedad, en la convivencia internacional, en el desarrollo de los pueblos”.“No es un ‘adorno’ de la política exterior, es un pilar central”, una idea que resume el enfoque del Gobierno tras la aprobación de una nueva ley de cooperación en 2023, que viene a reforzar su carácter estructural dentro de la acción exterior española.Es “solidaridad desde la empatía”, subrayando además que el alcance de la misma va más allá de minimizar la brecha de desigualdad: “La cooperación internacional es un ejercicio de responsabilidad. Un mundo más justo es un mundo más estable, y un mundo más estable es un mundo más seguro”. Los Objetivos de Desarrollo Sostenible, impulsados por organismos como Naciones Unidas, así lo confirman, estableciendo una relación directa entre pobreza, clima, salud y gobernanza.Los recortes en ayuda internacional han tardado poco en salir y han mostrado sus consecuencias con contundencia: Leis ha citado estudios publicados en The Lancet que advierten que hasta 23 millones de personas podrían morir como consecuencia de estos recortes, sobre todo por parte de grandes donantes.Otro dato preocupante: “2025 podría ser el primer año en más de un siglo en el que aumenta la mortalidad infantil a nivel global”. Según explicó, alrededor de 4,8 millones de niños murieron antes de los cinco años, rompiendo una tendencia histórica de mejora.Gran parte de los avances previos se han logrado gracias a iniciativas internacionales como Gavi, la Alianza Global de vacunas o el Fondo Mundial de Lucha contra el SIDA, la tuberculosis y la malaria, que dependen en gran medida de la cooperación internacional.¿Cómo actúa AECID? Frente a la percepción de lentitud institucional, Leis ha defendido la capacidad de reacción que tenemos en España. Un ejemplo: la activación de ayuda humanitaria en Líbano “a las pocas horas” de un ataque reciente, con un paquete de ayudas inicial de nueve millones de euros.Leis estructuró la actividad de AECID en tres pilares fundamentales.Acción humanitaria: salva vidas en crisis inmediatas.Cooperación para el desarrollo, centrada en inversiones a largo plazo. “Muchas veces, invertir un euro en prevención de crisis ahorra 10 euros de respuesta humanitaria más tarde”.Educación para la ciudadanía global para difundir conciencia social.Cualquier área informativa es susceptible de bulos y la cooperación internacional no iba a ser menos. El director de AECID ha denunciado la circulación de noticias falsas como el gasto de 1.000 millones en problemas medioambientales en el Caribe, cuando, en realidad, fue de un millón.También desmontó erróneas interpretaciones por parte de la AIReF sobre el control del gasto: “No hay dinero sin control; hay distintos canales de ejecución, muchos a través de organismos internacionales como la Unión Europea”.Para contrarrestar la desinformación, la AECID prepara un portal de datos abierto para que el público pueda consultar proyectos, países, beneficiarios y el impacto que provocan dichos proyectos.Una pregunta para la reflexión con la que se cerraba el diálogo. “¿Queremos ser un país pequeño, que se encierra en sí mismo, o un país grande que influye en el mundo y protege a sus ciudadanos también fuera?”.Una pregunta que conecta con el preámbulo de la Constitución Española, donde se recoge el compromiso con la cooperación entre los pueblos.En la segunda parte del foro se desarrolló una mesa de debate, moderada por Nacho Calle, subdirector de infoLibre, y con la participación de Jesús Rogado, subdirector de Contextos Humanitarios y Diplomacia Humanitaria, AECID; Mario Fanjul, coordinador de la Oficina de Cooperación Española de Etiopía; Iliana Olivié, profesora titular en la Universidad Complutense de Madrid, investigadora principal en el Real Instituto Elcano y directora del European Think Tanks Group (ETTG), y Arantxa Osés, responsable de incidencia en Programas y Política Exterior de Save the Children España.En un contexto en el que hay más de 300 millones de personas que necesitan ayuda humanitaria y más de 130 conflictos activos, la acción sobre el terreno marca la diferencia. Arantxa Osés lo confirma: “Lo que cambia cuando hay cooperación sobre el terreno son las vidas de las personas”.El alcance de estas intervenciones es muy amplio, desde el acceso a mejores servicios sanitarios hasta la mejora de los ingresos y la protección de colectivos vulnerables: “Generamos un cambio en la vida de personas, generamos paz, generamos estabilidad, generamos prosperidad”, se explica desde la experiencia directa en terreno, subrayando además que ese impacto “irradia más allá” de los países donde se actúa, aseguró Mario Fanjul.Este impacto de la colaboración en el terreno convive con un escenario de presión creciente. El aumento de las necesidades coincide con una reducción de fondos por parte de los grandes donantes internacionales. Las organizaciones sobre el terreno trabajan también bajo esta misma tensión. La ayuda se dirige hacia donde las necesidades son mayores, pero los recursos son cada vez más limitados: “Trabajamos en base a necesidades y priorizamos allí donde hay necesidades sin cubrir”, aseguró Arantxa Osés.Además, los proyectos parecen que se solapan, se superponen. La propia Osés ha comentado que “parte del trabajo hecho el año pasado no fue tanto para responder a crisis, sino para intentar sostener sistemas que ya estaban en riesgo de romperse”.La situación en Etiopía refleja cómo impacta la cooperación internacional. En la actualidad, este país africano con más de 110 millones de habitantes, “unas 30 millones de personas han visto reducido su acceso a la salud por una decisión unilateral de desfinanciación”, lamenta Fanjul.Gracias a proyectos de cooperación internacional, solo en Etiopía 150.000 familias productoras mejoraron sus ingresos gracias a programas agrícolas, piscicultura y ganadería y 300.000 niñas y mujeres viven ahora libres de mutilación genital femenina. “Generamos un cambio en la vida de personas, generamos paz, generamos estabilidad, generamos prosperidad; que esta situación y este cambio irradian más allá de Etiopía, irradian en la región, en el continente y por el continente también irradia a nivel global”, asegura Fanjul.En un mundo hiperconectado, la cooperación internacional es una inversión que nos beneficia a todos: “Mejorar y apoyar los sistemas de salud en Etiopía, en Asia, en América Latina genera un impacto positivo en la salud de todos los españoles y españolas”, concluye Fanjul.Desde el propio sector se reconoce que, más allá de que exista un problema de comunicación, existe una falta de claridad, señalando que el lenguaje técnico y la burocracia han dificultado trasladar el impacto real de los proyectos a la ciudadanía. Hay que ponerse en marcha y trasladar de manera clara y certera cómo repercute la cooperación entre los países. Así lo ha manifestado Jesús Rogado: “Tenemos que hacer autocrítica y contar mejor las cosas; es cierto que la acción humanitaria es un ámbito bastante técnico, aunque yo creo que todo el mundo puede entender cuáles son las necesidades cuando ve imágenes de guerra”.“La acción humanitaria es la red de seguridad que entra cuando todo lo demás falla”. Esta frase de Iliana Olivié deja claro por qué la cooperación internacional es esencial. Es la herramienta que responde a un sistema global cada vez más inestable y frágil. Como afirmó en un momento Fanjul, “Invertir en cooperación es invertir en humanidad, y cuando invertimos en humanidad, todos salimos ganando”."
   },
   {
-    "titulo": "JD Vance y Netanyahu negocian telefónicamente los puntos de un posible acuerdo para poner fin a la guerra con Irán",
-    "medio": "El Español",
-    "fecha": 1774289368.0,
-    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260323/jd-vance-netanyahu-negocian-telefonicamente-puntos-posible-acuerdo-poner-fin-guerra-iran/1003744180973_0.html",
-    "resumen": "Trump insiste que el país persa está negociando con EEUU, mientras que Irán mantiene que \"no hay negociaciones en curso\".Más información: Irán desafía el ultimátum de Trump para que reabra Ormuz con un bombardeo sobre civiles y el principal aeropuerto israelí"
-  },
-  {
     "titulo": "Dr. Nancy, fisioterapeuta: \"Con estos cuatro ejercicios de pilates con cinta elástica podrás fortalecer la cadera, caminar mejor y prevenir caídas\"",
     "medio": "Trendencias",
     "fecha": 1774288854.0,
     "link": "https://www.trendencias.com/silver/dr-nancy-fisioterapeuta-estos-cuatro-ejercicios-pilates-cinta-elastica-podras-fortalecer-cadera-caminar-mejor-prevenir-caidas",
     "resumen": "La cadera es una de las articulaciones más determinantes para la autonomía en el día a día. De ella depende la estabilidad al caminar, la capacidad de subir un escalón, levantarse de una silla o simplemente mantener el equilibrio en una superficie irregular. Sin embargo, es también una de las zonas que más se resiente con el paso de los años: la pérdida progresiva de masa muscular (lo que los especialistas denominan sarcopenia) debilita los músculos que la rodean y convierte cualquier tropiezo en un riesgo real, con el riesgo de sufrir una rotura de cadera. La evidencia científica respalda el trabajo específico de esta zona. Y el Pilates es perfecto para hacerlo de una forma segura, accesible y sin riesgo. Un estudio publicado en la Revista Andaluza de Medicina del Deporte que revisó la eficacia del método Pilates en personas mayores concluyó que esta disciplina mejora la fuerza isométrica de cadera y el equilibrio estático y dinámico, lo que se traduce en una reducción del riesgo de caídas. Los grupos que practicaban Pilates, además, mejoraban más que los que realizaban otros tipos de ejercicio. En esa misma línea, la fisioterapeuta Dr. Nancy ha diseñado una rutina de cuatro ejercicios con cinta elástica pensada específicamente para adultos mayores. Su propuesta no exige ir al suelo, no genera impacto articular y puede realizarse en casa con el apoyo de una pared. El único material necesario es una banda elástica, un elemento que la revisión sistemática sobre entrenamiento de fuerza y prevención de caídas publicada en Redalyc identifica como adecuado para trabajar la musculatura de cadera con una intensidad de media a baja, especialmente útil como parte de una rutina funcional. Flexión de cadera con resistencia @dr.nancy.dpt Este primer ejercicio trabaja los flexores de la cadera, los músculos responsables de elevar la rodilla al caminar. Con el tiempo, su debilidad altera el patrón de marcha y aumenta el riesgo de tropiezos. Fortalecerlos contribuye directamente a levantar bien el pie del suelo y a dar pasos más seguros y estables. Cómo se realiza: Coloca la cinta elástica alrededor de ambos pies. Apóyate en una pared para mantener el equilibrio. Desde una posición erguida, eleva la rodilla derecha hasta la altura de la cintura formando un ángulo de 90 grados, manteniendo la espalda recta. Baja la pierna de forma controlada y repite el movimiento con la pierna izquierda. Realiza entre 10 y 12 repeticiones por cada lado. Círculos de cadera con resistencia @dr.nancy.dpt Los movimientos circulares de cadera trabajan mejorando la movilidad y activando simultáneamente los músculos estabilizadores. Este tipo de movimiento también contribuye a la coordinación neuromuscular, un factor clave para mantener el equilibrio durante la marcha. Cómo se realiza: Coloca la cinta elástica por encima de las rodillas. Sitúate de pie con los pies separados al ancho de las caderas. Con la pierna derecha, dibuja una circunferencia completa en el aire, amplia y sin llegar a juntar completamente los pies en ningún momento del recorrido. Mantén el tronco estable durante todo el movimiento. Repite con la pierna izquierda, y realiza entre 8 y 10 repeticiones por cada lado. Abducción de cadera con resistencia @dr.nancy.dpt/video La abducción (o lo que es lo mismo, el movimiento de separar la pierna lateralmente) activa el glúteo medio, uno de los músculos más importantes para la estabilidad durante la marcha. Cuando este músculo está debilitado, la pelvis tiende a caer hacia un lado al caminar, lo que genera compensaciones, sobrecarga articular y un mayor riesgo de caídas. Reforzarlo mejora la postura al caminar y la seguridad en cada paso. Cómo se realiza: Mantén la cinta elástica por encima de las rodillas. Apóyate en la pared con la mano derecha para buscar estabilidad. Desde una posición erguida, eleva la pierna derecha lateralmente hasta donde el control del movimiento lo permita, sin inclinar el tronco hacia el lado contrario. Regresa lentamente a la posición inicial, sin dejar caer la pierna. Repite el movimiento con la pierna izquierda, y realiza entre 10 y 12 repeticiones por cada lado. Extensión de cadera con resistencia @dr.nancy.dpt La extensión de cadera activa el glúteo mayor y los isquiotibiales, los músculos que propulsan el cuerpo hacia adelante al caminar. Su fortalecimiento mejora la potencia de la zancada, facilita el impulso al subir escaleras y contribuye a mantener una postura erguida. Es uno de los movimientos más completos para trabajar la cadena posterior en personas mayores. Cómo se realiza: Coloca la cinta elástica en los tobillos, y apóyate de frente contra la pared con ambas manos a la altura del pecho. Desde una posición estable y con la espalda recta, lleva la pierna derecha hacia atrás de forma controlada, sin arquear la zona lumbar. Mantén la posición un instante en el punto de máxima extensión y regresa lentamente. Repite con la pierna izquierda, realizando entre 10 y 12 repeticiones por cada lado. @dr.nancy.dpt Try these hip strengthening exercises to decrease your hip pain, walk better, and prevent falls. #hippain #hippainrelief #seniorfitness #exerciseathome #fitnesstips #homeworkout #over60 #over70 #fitatanyage #fallprevention #fitlife #ageisjustanumber #seniorworkout #aginggracefully #aging ♬ Run, Rudolph Run - Chuck Berry Con constancia, y realizando esta serie de ejercicios varios días por semana podrás fortalecer la cadera, caminar mejor y prevenir caídas. Y como en cualquier rutina de este tipo, recuerda que la calidad del movimiento importa más que el número de repeticiones: es preferible hacer menos y hacerlo bien, que más con compensaciones posturales que puedan derivar en molestias o lesiones. En Trendencias | Una rutina de Pilates en silla con una pelota, perfecta para estar en forma a los 60 En Trendencias | Eva Fernández, fisioterapeuta: \"Con este sencillo ejercicio de Pilates reducirás el dolor lumbar, las molestias en las caderas o las piernas pesadas\" En Trendecias | Pilates en silla para mejorar la coordinación y el equilibrio: tres ejercicios aptos para todas las edades - La noticia Dr. Nancy, fisioterapeuta: \"Con estos cuatro ejercicios de pilates con cinta elástica podrás fortalecer la cadera, caminar mejor y prevenir caídas\" fue publicada originalmente en Trendencias por Nacho Viñau ."
-  },
-  {
-    "titulo": "La guerra en Irán aumenta el riesgo de una crisis en el mercado de bonos",
-    "medio": "Expansión",
-    "fecha": 1774288787.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/23/69c17f2de5fdea0c328b45af.html",
-    "resumen": "Las fuertes fluctuaciones en la deuda pública británica apuntan a tensiones que perjudicarán las finanzas públicas y elevarán los costos de endeudamiento para todos. Leer"
   },
   {
     "titulo": "La constructora del Camp Nou presenta un ERE para 399 trabajadores",
@@ -630,25 +700,11 @@
     "resumen": "Las negociaciones se prolongan desde hace casi tres años y el preacuerdo, sellado con CCOO y Fetico, contempla, entre otros aspectos, que los contratos a tiempo parcial no podrán ser inferiores a 24 horas semanales y sueldos que, en determinadas categorías, parten de 18.000 euros anualesLa nueva patronal de Inditex, H&M y Primark promoverá la negociación colectiva al margen de las pymes textiles La Comisión Negociadora del I Convenio Colectivo Estatal de Grandes Cadenas Comerciales del Sector del Comercio Textil y del Calzado ha alcanzado este lunes un preacuerdo para regular las condiciones laborales de cerca de 200.000 trabajadores en materia de contratación, salarios y tiempo de trabajo, según recoge la agencia Efe. El preacuerdo, suscrito por la principal patronal del sector, ARTE, y por los sindicatos CCOO y Fetico, prevé, entre otras cosas, homogeneizar salarios, equiparar tipos de contrato y mejorar “significativamente” la jornada laboral en las grandes cadenas de moda de toda España, excepto el País Vasco, en cumplimiento del marco legal vigente y del acuerdo interprofesional de esa comunidad autónoma. En materia de contratación, el preacuerdo -alcanzado tras más de tres años de negociación- establece que la duración máxima del contrato por circunstancias de producción será de 9 meses, y los contratos fijos-discontinuos tendrán garantizado trabajar un mínimo de 180 días al año, de los cuales al menos 90 deberán ser consecutivos, explica CC.OO. en una nota. Los contratos a tiempo parcial no podrán ser inferiores a 24 horas semanales y las partes se comprometen, asimismo, a establecer un mecanismo de consolidación de horas complementarias y ampliaciones de jornada, con objeto de mejorar las condiciones laborales de las plantillas, en un sector afectado por un 60 % de parcialidad en el empleo. En cuanto al tiempo de trabajo, una de las medidas de mayor calado, el texto incluye una “sustancial y progresiva” disminución del cómputo de horas anuales para 2026, 2027 y 2028, los años de vigencia del futuro Convenio: 1.770 horas en 2026; 1.760 horas en 2027; 1.740 horas en 2028. Como garantía adicional, se respetarán las jornadas anuales actualmente vigentes en los convenios provinciales que sean inferiores a las establecidas en este preacuerdo, así como las jornadas especiales de Nochebuena, Nochevieja, Reyes, Sábado Santo y sábados por la tarde, entre otras, establecidas en cada uno de los convenios preexistentes. Como regla general, el descanso semanal será de dos días no consecutivos, y de día y medio en el caso de tiendas de hasta seis personas trabajadoras, según establece el Estatuto de los Trabajadores. Además, queda garantizado que el descanso semanal coincida con sábado y domingo al menos 8 semanas al año en 2026; que serán 10 semanas en 2027 y 11 semanas en 2028. Los trabajadores podrán decidir si trabajan o no en domingos y festivos, unas jornadas que serán compensadas con un plus de aplicación progresiva hasta alcanzar los 55 euros (domingos) y 80 euros (festivos) en 2028. El preacuerdo también incluye las tablas salariales, con incrementos para 2026, 2027 y 2028, y con sueldos que oscilan entre los 18.000 euros anuales que cobrarán los trabajadores del Grupo 6 y los 24.860 euros que se pagarán a los empleados del Grupo 1. El convenio se aplicará a los trabajadores de empresas dedicadas principalmente al comercio textil y del calzado con una plantilla superior a 400 personas y una superficie física de más 3.500 metros cuadrados, o que estén presentes en al menos tres Comunidades Autónomas, e irá entrando en vigor en función de la vigencia de los convenios provinciales preexistentes."
   },
   {
-    "titulo": "Málaga tendrá el mayor ordenador cuántico de España: impulsará casos de uso en energía, agua, industria o salud",
-    "medio": "El Español",
-    "fecha": 1774288012.0,
-    "link": "https://www.elespanol.com/malaga/economia/tecnologia/20260323/malaga-mayor-ordenador-cuantico-espana-impulsara-casos-uso-energia-agua-industria-salud/1003744180967_0.html",
-    "resumen": "La Junta de Andalucía se alía con Quantumlab para liderar la computación cuántica aplicada. Más información: Científicos australianos crean la primera batería cuántica del mundo: se carga más rápido cuanto más grande es"
-  },
-  {
     "titulo": "Apple confirma la fecha de WWDC 2026: iOS 27, nueva Siri con IA y más",
     "medio": "Hipertextual",
     "fecha": 1774287594.0,
     "link": "https://hipertextual.com/apple/wwdc-2026-fecha-conferencia-desarrolladores-apple/",
     "resumen": "Tal y como ocurre cada año, Apple confirmó que llevará a cabo su tradicional WWDC, la conferencia para desarrolladores en donde muestra las novedades que llegarán al iPhone, iPad, Mac y otros dispositivos de la compañía. Esta ocasión es importante, ya que será la primera en donde los de Cupertino muestren el verdadero poder de […] Seguir leyendo: Apple confirma la fecha de WWDC 2026: iOS 27, nueva Siri con IA y más"
-  },
-  {
-    "titulo": "Los audios del apagón: Red Eléctrica reconoció que \"problemas de la fotovoltaica\" y la falta de nuclear causaban las oscilaciones en la red",
-    "medio": "El Mundo",
-    "fecha": 1774286754.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/03/23/69c176e9e85ece50678b45aa.html",
-    "resumen": "EL MUNDO accede al contenido de las conversaciones que las eléctricas privadas mantuvieron con el operador del sistema antes del cero total para advertirle de las graves anomalías que estaba sufriendo la red Leer"
   },
   {
     "titulo": "El Ibex 35 mantiene su repunte por encima del 1% al cierre y acaricia los 16.900 puntos",
@@ -691,13 +747,6 @@
     "fecha": 1774284816.0,
     "link": "https://www.europapress.es/internacional/noticia-avion-transporte-ejercito-colombia-estrella-sur-pais-20260323175336.html",
     "resumen": "Al menos ocho personas han muerto y más de 70 han resultado heridas después de que un avión de transporte del Ejército de Colombia se haya estrellado este lunes en el sur del país, con 125 personas a bordo."
-  },
-  {
-    "titulo": "El subdirector de Emergencias insiste en el Congreso que el día de la dana el Cecopi estuvo \"al 200%\" centrado en Forata",
-    "medio": "El Español",
-    "fecha": 1774284733.0,
-    "link": "https://www.elespanol.com/valencia/20260323/subdirector-emergencias-insiste-congreso-dia-dana-cecopi-centrado-forata/1003744180812_0.html",
-    "resumen": "Jorge Suárez achaca de nuevo el retraso del ES-Alert a la tardanza del aval de los políticos. Más información: El subdirector de Emergencias declaró que un aviso temprano de la CHJ sobre el Poyo habría adelantado las decisiones"
   },
   {
     "titulo": "El accidente del avión militar en Colombia deja al menos ocho muertos y 83 heridos",
@@ -831,13 +880,6 @@
     "fecha": 1774270253.0,
     "link": "https://www.europapress.es/nacional/noticia-pp-anuncia-querella-contra-tezanos-posible-delito-electoral-cis-buscar-inflar-beneficiar-psoe-20260323135053.html",
     "resumen": "La vicesecretaria de Regeneración Institucional del PP, Cuca Gamarra, ha anunciado este lunes que su partido va a presentar una querella por posible delito electoral contra el presidente del Centro de Investigaciones Sociológicas (CIS), José Félix Tezanos, al que acusan de usar sus encuestas para \"inflar sistemáticamente\" y \"beneficiar\" al PSOE para \"alterar\" la voluntad de los ciudadanos, movilizar al electorado socialista y con ello \"influir\" en los resultados de las urnas."
-  },
-  {
-    "titulo": "Star Wars negocia el regreso de una de las grandes estrellas de las secuelas",
-    "medio": "Hipertextual",
-    "fecha": 1774269935.0,
-    "link": "https://hipertextual.com/cine-television/star-wars-negocia-el-regreso-de-una-de-las-grandes-estrellas-de-las-secuelas/",
-    "resumen": "Star Wars está lista para arrancar una nueva era de películas y, con ello, los directivos pretenden recuperar a una de sus grandes estrellas recientes. Lucasfilm sufrió un gran cambio a principios de 2026 cuando Kathleen Kennedy abandonó la presidencia de la compañía tras 14 largos años al frente. Ahora, Dave Filoni y Lynwen Brennan […] Seguir leyendo: Star Wars negocia el regreso de una de las grandes estrellas de las secuelas"
   },
   {
     "titulo": "Labor Wins When They Run Union Members for Office",
