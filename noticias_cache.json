@@ -1,17 +1,318 @@
 [
   {
-    "titulo": "Grifols prepara la salida a bolsa de su negocio de Biopharma en EE UU para reducir deuda y buscar crecimiento",
-    "medio": "El País",
-    "fecha": 1774386391.0,
-    "link": "https://cincodias.elpais.com/companias/2026-03-24/grifols-evalua-sacar-a-bolsa-su-filial-estadounidense-biopharma.html",
-    "resumen": "La compañía colocará una participación minoritaria mediante una OPV. La farmacéutica quiere captar capital para reforzar el balance"
+    "titulo": "La policía que denunció al exDAO vuelve a pedir que se le prohíba comunicarse con ella",
+    "medio": "The Objective",
+    "fecha": 1774393145.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-03-24/policia-exdao-prohiba-comunicarse-ella/",
+    "resumen": "La inspectora que denunció por presunta agresión sexual al ex director adjunto de la Policía (DAO) José Ángel González ha vuelto a solicitar que se prohíba […]"
   },
   {
-    "titulo": "Sheinbaum responde a las críticas de Ayuso: “Su visión es de imperio, no de iguales”",
+    "titulo": "Apple reinventa Siri: llegará con una nueva app y un rediseño total en iOS 27",
+    "medio": "Hipertextual",
+    "fecha": 1774393140.0,
+    "link": "https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/",
+    "resumen": "Apple está trabajando en una renovación de Siri que verá la luz este año. Tras meses de rumores, especulaciones y retrasos, la versión de la asistente impulsada por Apple Intelligence está lista para debutar. Según los rumores más recientes, Siri se presentará en junio durante la WWDC 2026 y mostrará las nuevas funciones que llegarán […] Seguir leyendo: Apple reinventa Siri: llegará con una nueva app y un rediseño total en iOS 27"
+  },
+  {
+    "titulo": "Estados Unidos presenta un plan de paz de 15 puntos, mientras planea el despliegue de 3.000 soldados de élite en el Golfo",
     "medio": "El País",
-    "fecha": 1774386303.0,
-    "link": "https://elpais.com/mexico/2026-03-24/sheinbaum-responde-a-las-criticas-de-ayuso-su-vision-es-de-imperio-no-de-iguales.html",
-    "resumen": "La mandataria señala los vínculos de la presidenta de la Comunidad de Madrid con Felipe Calderón y acusa su postura de ser “ideológica”"
+    "fecha": 1774393103.0,
+    "link": "https://elpais.com/internacional/2026-03-24/trump-despliega-una-unidad-de-elite-aerotransportada-en-el-golfo.html",
+    "resumen": "El plan, presentado a Teherán a través de mediadores, propone el fin del programa nuclear de Irán"
+  },
+  {
+    "titulo": "Aviso rojo por lluvias muy fuertes esta noche en el entorno de Santa Cruz de Tenerife",
+    "medio": "The Objective",
+    "fecha": 1774393047.0,
+    "link": "https://theobjective.com/sociedad/2026-03-24/aviso-rojo-lluvias-fuertes-santa-cruz-tenerife/",
+    "resumen": "La Agencia Estatal de Meteorología (Aemet) ha activado un aviso de nivel rojo (peligro extraordinario) por lluvias muy fuertes esta noche en el entorno metropolitano de […]"
+  },
+  {
+    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump asegura que las negociaciones con el régimen iraní continúan y que Teherán ha renunciado a las armas nucleares",
+    "medio": "El País",
+    "fecha": 1774392950.0,
+    "link": "https://elpais.com/internacional/2026-03-24/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "El Pentágono enviará al golfo Pérsico 3.000 soldados de una división aerotransportada de élite | Hezbolá dice que combatirá cualquier intento de Israel de ocupar el sur de Líbano"
+  },
+  {
+    "titulo": "Arm venderá sus propios chips por primera vez en 35 años de historia",
+    "medio": "El Mundo",
+    "fecha": 1774392821.0,
+    "link": "https://www.elmundo.es/tecnologia/2026/03/24/69c315effc6c83e36d8b4580.html",
+    "resumen": "La compañía británica presenta AGI CPU, un procesador para centros de datos de inteligencia artificial fabricado por TSMC con tecnología de 3 nanómetros. Meta será su primer gran cliente Leer"
+  },
+  {
+    "titulo": "Guerra de Irán, EEUU e Israel en directo hoy | Última hora de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos",
+    "medio": "OK Diario",
+    "fecha": 1774392740.0,
+    "link": "https://okdiario.com/internacional/guerra-iran-eeuu-israel-directo-hoy-24-marzo-ataques-estrecho-ormuz-declaraciones-trump-bolsas-ultima-hora-16465385",
+    "resumen": "La guerra entre Estados Unidos, Israel e Irán, iniciada el pasado 28 de febrero con bombardeos sorpresa sobre territorio iraní, continúa a finales de marzo en una fase de máxima intensidad y sin señales claras de desescalada. Washington y Tel Aviv mantienen su objetivo de debilitar la capacidad militar de Teherán, especialmente su programa de … Continuar leyendo \"Guerra de Irán, EEUU e Israel en directo hoy | Última hora de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos\""
+  },
+  {
+    "titulo": "Los socialdemócratas ganan las elecciones en Dinamarca impulsados por la resistencia a Trump",
+    "medio": "El País",
+    "fecha": 1774392611.0,
+    "link": "https://elpais.com/internacional/2026-03-24/los-socialdemocratas-ganan-las-elecciones-en-dinamarca-segun-los-sondeos-a-pie-de-urna.html",
+    "resumen": "La primera ministra Frederiksen necesitará el respaldo de varios partidos para seguir gobernando"
+  },
+  {
+    "titulo": "El Xokas se gasta 2.500 euros en unas zapatillas: esta es la marca y el modelo",
+    "medio": "HuffPost",
+    "fecha": 1774391918.0,
+    "link": "https://www.huffingtonpost.es/virales/el-xokas-gasta-2500-euros-zapatillas-marca-modelo-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Grifols prepara la salida a Bolsa de su negocio de Biopharma en EE UU para reducir deuda y financiar el crecimiento",
+    "medio": "El País",
+    "fecha": 1774391830.0,
+    "link": "https://cincodias.elpais.com/companias/2026-03-24/grifols-evalua-sacar-a-bolsa-su-filial-estadounidense-biopharma.html",
+    "resumen": "La compañía colocará una participación minoritaria mediante una OPV. Los ADR de la farmacéutica se disparan en los mercados fuera de hora"
+  },
+  {
+    "titulo": "Muere ahogado un niño de tres años tras caer a una piscina en Villaralbo (Zamora)",
+    "medio": "El Mundo",
+    "fecha": 1774391605.0,
+    "link": "https://www.elmundo.es/espana/2026/03/24/69c310d6fc6c83461d8b45a7.html",
+    "resumen": "El pequeño, de tres años, falleció ahogado tras pecipitarse a la piscina de la vivienda familiar Leer"
+  },
+  {
+    "titulo": "Carmen Maura: “Yo me casé para poder hacer teatro, para poder ser actriz”",
+    "medio": "La Vanguardia",
+    "fecha": 1774391566.0,
+    "link": "https://www.lavanguardia.com/television/20260324/11498402/carmen-maura-me-case-teatro-actriz.html",
+    "resumen": "La actriz madrileña repasa su carrera, su nueva película y reflexiona con humor y libertad sobre la edad y la profesión"
+  },
+  {
+    "titulo": "Saca tu lado más gamer: mejores ofertas en ratones y teclados",
+    "medio": "La Vanguardia",
+    "fecha": 1774391400.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260324/11497181/ratones-teclados-gaming-descuentazos-aliexpress-mkt-alie.html",
+    "resumen": "AliExpress cumple años y lo celebra como sabe: con descuentos en periféricos gaming que merece la pena aprovechar"
+  },
+  {
+    "titulo": "Meta, condenada a pagar 375 millones de dólares por permitir la explotación sexual infantil en sus plataformas",
+    "medio": "El Español",
+    "fecha": 1774391259.0,
+    "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20260324/meta-condenada-pagar-millones-dolares-permitir-explotacion-sexual-infantil-plataformas/1003744182724_0.html",
+    "resumen": "Un jurado de Nuevo México (EEUU) declara culpable a la compañía por engañar a los usuarios sobre la seguridad de Facebook, Instagram y WhatsApp. Más información: El Gobierno pedirá a la Fiscalía investigar a X, Meta y TikTok por crear porno infantil con IA: \"La impunidad debe acabar\""
+  },
+  {
+    "titulo": "Venezuela envía esta semana a su representación diplomática a Estados Unidos",
+    "medio": "El País",
+    "fecha": 1774390026.0,
+    "link": "https://elpais.com/america/2026-03-24/venezuela-envia-esta-semana-a-su-representacion-diplomatica-a-estados-unidos.html",
+    "resumen": "Félix Plasencia, cercano colaborador de Delcy Rodríguez, llega con la misión de impulsar el levantamiento de sanciones económicas que todavía pesan sobre el país sudamericano"
+  },
+  {
+    "titulo": "Banca March reabre su jardín en Madrid para exponer por primera vez en España a Thomas Houseago",
+    "medio": "OK Diario",
+    "fecha": 1774389930.0,
+    "link": "https://okdiario.com/cultura/100-anos-banca-march-reabre-jardin-madrid-exponer-primera-vez-espana-thomas-houseago-16480134",
+    "resumen": "La próxima primavera Banca March reabrirá al público sus jardines en Madrid con motivo de su Centenario para acoger Thomas Houseago. Esculturas. Jardín Banca March, la primera exposición en España del escultor británico. Con esta muestra, que podrá visitarse a partir del 1 de mayo, Banca March reafirma su compromiso con la cultura y el arte … Continuar leyendo \"Banca March reabre su jardín en Madrid para exponer por primera vez en España a Thomas Houseago\""
+  },
+  {
+    "titulo": "La denunciante insiste al juez para que prohíba al ex DAO comunicarse con ella",
+    "medio": "El Mundo",
+    "fecha": 1774389925.0,
+    "link": "https://www.elmundo.es/espana/2026/03/24/69c3082afc6c83b84b8b457b.html",
+    "resumen": "El letrado sostiene que la resolución impugnada \"debe ser declarada nula Leer"
+  },
+  {
+    "titulo": "Los biólogos coinciden: el 54% de la invasión de cotorra argentina en España viene de mascotas liberadas y en 20 años llegará a zonas agrarias si no se actúa ya",
+    "medio": "HuffPost",
+    "fecha": 1774389788.0,
+    "link": "https://www.huffingtonpost.es/life/animales/los-biologos-coinciden-54-invasion-cotorra-argentina-espana-viene-mascotas-liberadas-20-anos-llegara-zonas-agrarias-actua-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Tim Spector, experto en microbiota: \"Poner los champiñones al sol antes de cocinarlos multiplica sus niveles de vitamina D de forma natural\"",
+    "medio": "Trendencias",
+    "fecha": 1774389654.0,
+    "link": "https://www.trendencias.com/salud/tim-spector-experto-microbiota-poner-champinones-al-sol-antes-cocinarlos-multiplica-sus-niveles-vitamina-d-forma-natural",
+    "resumen": "Aunque pueda parecer una contradicción en un país soleado como es el nuestro, el 75% de la población española presenta niveles bajos o deficencia de vitamina D. Para evitarlo, la recomendación más conocida es tomar el sol durante 15 minutos al día. Sin embargo, lo que pocos saben es que también existe un alimento con la capacidad de producir esta vitamina al exponerse a la luz solar y que después nos podemos comer para absorberla. Lo ha contado el médico e investigador Tim Spector, especializado en microbiota, en su paso por el pódcast ZOE. Un programa que suele llevar a los científicos más top del momento para que den consejos de nutrición y salud: “Curiosamente, los champiñones también pueden producir vitamina D por sí mismos. Así que puedes poner los champiñones a tomar el sol en el alfeizar de la ventana durante un par de días\", ha explicado el experto. Aunque, si tienes prisa, con solo 20 minutos también afirma que aumentarán su calidad nutricional. Así es, más allá de los 15 minutos de sol y la suplementación, nos puede ser de gran utilidad que esta y otras setas puedan sintetizar la vitamina D. Así que, si sacas los champiñones del envase y los dejas \"tomando el sol\" en el alféizar antes de cocinarlos, absorberán la luz y aumentarán su contenido de vitamina D. La explicación científica es que contienen ergosterol, un compuesto que, al exponerse a radiación ultravioleta, se transforma en vitamina D2. Se trata de un mecanismo similar al de nuestra piel. Eso sí, la magnitud exacta puede variar según la luz, el tiempo de exposición o cómo estén cortados los champiñones. Por qué es tan importante la vitamina D (y los champiñones)La vitamina D es clave para la salud ósea, la absorción de calcio y el sistema inmunitario. Y aunque nuestro cuerpo está diseñado para tolerar ciertas fluctuaciones, tal y como recuerda Spector, eso no significa que no convenga ayudar a nuestro organismo. Por supuesto, comer champiñones \"tostados\" previamente al sol no va a sustituir a los beneficios de absorber la luz directamente nosotros ni mucho menos a un tratamiento médico si hay un déficit diagnosticado. Sin embargo, es truco que suma y que, además es fácil y gratis. De hecho, guárdatelo porque puede ser especialmente útil en invierno. Foto de portada | Pxhere y Tim Spector En Trendencias | Los 33 alimentos con más proteínas: consejos y recomendaciones - La noticia Tim Spector, experto en microbiota: \"Poner los champiñones al sol antes de cocinarlos multiplica sus niveles de vitamina D de forma natural\" fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "El tamaño importa: las abejas bailan mejor cuanto más público tienen",
+    "medio": "The Objective",
+    "fecha": 1774389573.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-24/tamano-abejas-bailan-publico-sinc/",
+    "resumen": "Los humanos no son los únicos que actúan de forma diferente dependiendo de quien les observe, también las abejas melíferas bailan (y comunican) de forma más […]"
+  },
+  {
+    "titulo": "Un jurado condena a Meta al pago de 375 millones por vulnerar la protección a menores",
+    "medio": "La Vanguardia",
+    "fecha": 1774389527.0,
+    "link": "https://www.lavanguardia.com/vida/20260324/11498396/jurado-condena-meta-pago-375-millones-vulnerar-proteccion-menores.html",
+    "resumen": "Esta es la primera resolución en Estados Unidos en contra del gigante tecnológico de Mark Zuckerberg, envuelto en centenares de denuncias por la explotación y adicción de niños y adolescentes"
+  },
+  {
+    "titulo": "El Real Madrid se gusta ante el Hapoel en una noche a la que sólo le faltó el público",
+    "medio": "El Mundo",
+    "fecha": 1774389444.0,
+    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/03/24/69c2ec4ee85ecee9758b4577.html",
+    "resumen": "Los blancos derrotan con contundencia a un rival directo pese a las gradas vacías. Hezonja lideró una paliza con maquillaje final. Leer"
+  },
+  {
+    "titulo": "Triplete de victorias de Madrid, Valencia y Barça en la Euroliga",
+    "medio": "El País",
+    "fecha": 1774389372.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-03-24/triplete-de-victorias-de-madrid-valencia-y-barca-en-la-euroliga.html",
+    "resumen": "Los tres equipos españoles vencen como locales al Hapoel (92-83), el Olympiacos (85-84) y el Efes (78-71), respectivamente"
+  },
+  {
+    "titulo": "Trabajo acusa a Economía de intentar boicotear el acuerdo de gobierno por el registro horario",
+    "medio": "El País",
+    "fecha": 1774389354.0,
+    "link": "https://elpais.com/espana/2026-03-24/trabajo-acusa-a-economia-de-intentar-boicotear-el-acuerdo-de-gobierno-por-el-registro-horario.html",
+    "resumen": "El dictamen desfavorable del Consejo de Estado desata las críticas del ministerio de Yolanda Díaz, que confía en su pronta aprobación y asegura que la batalla ya está ganada en el Gobierno"
+  },
+  {
+    "titulo": "El Real Madrid no ofrece fisuras y le arrebata al Hapoel Tel Aviv el tercer puesto de la Euroliga",
+    "medio": "El Español",
+    "fecha": 1774389093.0,
+    "link": "https://www.elespanol.com/deportes/baloncesto/20260324/real-madrid-no-ofrece-fisuras-arrebata-hapoel-tel-aviv-tercer-puesto-euroliga/1003744182712_0.html",
+    "resumen": "Los de Scariolo firmaron un partido muy serio en el que fueron siempre por delante (92-83) y se aprovecharon de la escasa efectividad de los israelíes en el triple."
+  },
+  {
+    "titulo": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+    "medio": "Xataka",
+    "fecha": 1774389000.0,
+    "link": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo",
+    "resumen": "Hubo un momento en el que OpenAI parecía avanzar sin mirar atrás, sumando un lanzamiento tras otro mientras el resto del sector intentaba seguirle el ritmo. En ese escenario apareció Sora, presentado en febrero de 2024 como un modelo capaz de generar vídeo a partir de texto y, poco después, como una aplicación con aspiraciones más amplias. La idea no era solo crear clips, también darles un lugar donde circular, compartirlos y convertirlos en una experiencia más social. Era, en cierto modo, la extensión natural de una compañía que no dejaba de explorar nuevos formatos. El cierre. Lo que encajaba como un paso más dentro de esa expansión ha terminado en un giro difícil de ignorar. OpenAI ha confirmado el fin de la app de Sora, una decisión que el propio equipo ha comunicado con un mensaje directo a quienes la usaban: “Nos despedimos de la app Sora”. Según The Wall Street Journal, la retirada no se limitaría a la app: también afectaría a la API y al soporte de vídeo dentro de ChatGPT. Por ahora no hay fechas concretas ni detalles técnicos completos, aunque la compañía ha adelantado que ofrecerá más información en breve. Qué fue Sora y por qué importaba. Para entender qué significa este cierre, conviene dejar claro qué era Sora. Se trataba de un sistema capaz de generar vídeos a partir de texto y de ampliar clips ya existentes. Con el tiempo, esa capacidad se convirtió en un producto más amplio, con funciones para compartir los contenidos generados dentro de la propia plataforma. No era una herramienta más, sino una de las propuestas con las que OpenAI buscó llevar la IA al terreno de la creación audiovisual. El cambio de prioridades. Menos vídeo, más código y agentes. El cierre de Sora no es un movimiento aislado, sino parte de un cambio más amplio dentro de OpenAI. De acuerdo al mencionado periódico, la compañía está reorientando capacidad de cómputo y parte de su equipo hacia herramientas de productividad, programación y sistemas capaces de actuar de forma autónoma en el ordenador del usuario. En esa misma línea, la empresa anunció recientemente la integración de su app de ChatGPT, su herramienta de código Codex y su navegador en una especie de “superapp”. La idea, según trasladó la dirección a los empleados, es concentrar esfuerzos en una visión de producto más clara. En Xataka Que Alibaba cree su propio chip para agentes de IA no es ninguna sorpresa. Que no sea ARM ni x86, sino RISC-V de 5 nm, sí Durante su recorrido, Sora simbolizó una etapa en la que OpenAI exploraba hasta dónde podía llevar sus modelos más allá del texto. Su cierre, sin embargo, apunta a una lectura distinta del momento actual. La compañía parece estar dejando atrás esa etapa de expansión para centrarse en productos con aplicaciones más inmediatas en el ámbito profesional. No es tanto una renuncia como una reordenación de prioridades. En ese ajuste, el vídeo pierde peso frente a herramientas que encajan mejor en su estrategia actual. Imágenes | OpenAI En Xataka | Terence Tao es el mejor matemático del mundo: ha reconocido que está usando la IA para resolver uno de los Problemas del Milenio - La noticia OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Canarias emite un aviso ES-Alert por lluvias intensas en Tenerife y pide limitar movilidad",
+    "medio": "El Mundo",
+    "fecha": 1774388818.0,
+    "link": "https://www.elmundo.es/espana/2026/03/24/69c30651fc6c83d5418b4572.html",
+    "resumen": "La Agencia Estatal de Meteorología (Aemet) ha activado un aviso de nivel rojo (peligro extraordinario) por lluvias muy fuertes esta noche en el entorno metropolitano de Santa Cruz de Tenerife Leer"
+  },
+  {
+    "titulo": "Xiaomi se pasa el juego con la freidora de aire más innovadora del mercado: ahora con un gran descuento en AliExpress",
+    "medio": "La Vanguardia",
+    "fecha": 1774388700.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260324/11497740/xiaomi-pasa-juego-freidora-aire-mas-innovadora-mercado-gran-descuento-aliexpress-mkt-alie.html",
+    "resumen": "Xiaomi tiene la freidora de aire perfecta para hacer platos bien ricos sin tener que hacer ningún tipo de esfuerzo. ¡Te la enseñamos!"
+  },
+  {
+    "titulo": "Carmen Maura en ‘El Hormiguero’: «Me encanta que el cine sea un negocio y que Santiago Segura gane millones»»",
+    "medio": "OK Diario",
+    "fecha": 1774388574.0,
+    "link": "https://okdiario.com/trailer/carmen-maura-hormiguero-encanta-que-cine-sea-negocio-que-santiago-segura-gane-millones-16479826",
+    "resumen": "Este martes 24 de marzo, Carmen Maura ha acudido a El Hormiguero (Antena 3) para presentar Calle Málaga, su nueva película sobre la intimidad sexual en la tercera edad. Además de hablar de su último trabajo, la actriz ha reivindicado el cine como industria y ha apoyado a Santiago Segura y a su éxito con … Continuar leyendo \"Carmen Maura en ‘El Hormiguero’: «Me encanta que el cine sea un negocio y que Santiago Segura gane millones»»\""
+  },
+  {
+    "titulo": "Aviso rojo en Tenerife por lluvias torrenciales: el Cabildo pide la intervención de la UME",
+    "medio": "The Objective",
+    "fecha": 1774388471.0,
+    "link": "https://theobjective.com/meteorologia/2026-03-24/aemet-activa-aviso-rojo-lluvias-torrenciales-tenerife/",
+    "resumen": "La Agencia Estatal de Meteorología (Aemet) ha activado un aviso de nivel rojo (peligro extraordinario) por lluvias muy fuertes esta noche en el entorno metropolitano de […]"
+  },
+  {
+    "titulo": "Guerra sucia “made in USA” contra Gustavo Petro y su candidato presidencial Iván Cepeda",
+    "medio": "La Vanguardia",
+    "fecha": 1774388384.0,
+    "link": "https://www.lavanguardia.com/internacional/20260324/11496272/guerra-sucia-made-in-gustavo-petro-candidato-presidencial-ivan-cepeda.html",
+    "resumen": "A tres meses de las elecciones, Cepeda consolida su ventaja y emerge la oligarca Paloma Valencia como rival"
+  },
+  {
+    "titulo": "Mbappé jugó todo diciembre con dolor después de que los médicos del Madrid diagnosticaran la rodilla equivocada",
+    "medio": "El Mundo",
+    "fecha": 1774388362.0,
+    "link": "https://www.elmundo.es/deportes/futbol/2026/03/24/69c2b9bce4d4d8f8018b456e.html",
+    "resumen": "El francés se lesionó el 7 de diciembre, pero los médicos le dijeron que no tenía nada. A principios de marzo viajó a Francia: \"He tenido la suerte de encontrar el buen diagnóstico al llegar a París\", dijo ayer. El Madrid asegura que no ha habido despidos. Leer"
+  },
+  {
+    "titulo": "A 50 años del golpe militar, decenas de miles de personas marchan en Argentina para recordar a las víctimas de la dictadura",
+    "medio": "El País",
+    "fecha": 1774388265.0,
+    "link": "https://elpais.com/argentina/2026-03-24/a-50-anos-del-golpe-militar-decenas-de-miles-de-personas-marchan-en-argentina-para-recordar-a-las-victimas-de-la-dictadura.html",
+    "resumen": "Con epicentro en Buenos Aires y réplicas en las principales ciudades del país, la manifestación reclama “memoria, verdad y justicia” y enfrenta el discurso revisionista del terrorismo de Estado que impulsa Milei"
+  },
+  {
+    "titulo": "El Barça bate al Efes y mantiene sus opciones de meterse en el playoff de la Euroliga",
+    "medio": "La Vanguardia",
+    "fecha": 1774388017.0,
+    "link": "https://www.lavanguardia.com/deportes/20260324/11498391/barca-bate-efes-mantiene-opciones-meterse-playoff-euroliga.html",
+    "resumen": "Triunfo fundamental de los barcelonistas, liderados por Clyburn y Shengelia"
+  },
+  {
+    "titulo": "La clonación en serie genera mutaciones en el ADN y reduce la tasa de natalidad en ratones",
+    "medio": "The Objective",
+    "fecha": 1774387934.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-24/clonacion-genera-mutaciones-adn-natalidad-ratones/",
+    "resumen": "La clonación no debe mantenerse de forma indefinida en mamíferos, ya que se acumulan mutaciones en el ADN después de varias generaciones. Una investigación, publicada en Nature […]"
+  },
+  {
+    "titulo": "Garamendi carga contra Díaz por el registro de jornada: «Es una invasión a la intimidad»",
+    "medio": "The Objective",
+    "fecha": 1774387862.0,
+    "link": "https://theobjective.com/economia/2026-03-24/garamendi-denuncia-invasion-intimidad-trabajadores-registro-horario-diaz/",
+    "resumen": "El presidente de la CEOE, Antonio Garamendi, ha celebrado el dictamen desfavorable del Consejo de Estado a la propuesta de reforma del registro horario impulsado por […]"
+  },
+  {
+    "titulo": "Leire Zulueta, maquilladora: \"La mejor forma de ocultar las ojeras es utilizando el contorno de ojos adecuado. Si está deshidratada, el maquillaje se cuartea y se marcan las líneas de expresión\"",
+    "medio": "Trendencias",
+    "fecha": 1774387854.0,
+    "link": "https://www.trendencias.com/belleza/leire-zulueta-maquilladora-mejor-forma-ocultar-ojeras-utilizando-contorno-ojos-adecuado-esta-deshidratada-maquillaje-se-cuartea-se-marcan-lineas-expresion",
+    "resumen": "A la hora de maquillarnos hay varios puntos a los que debemos prestar especial atención. Una de esas zonas es la del contorno de ojos ya que se trata de una parte del rostro que suele tener tendencia a estar más seca y a la vez gesticula más. Lo que significa que esta zona tiene sus propias necesidades y hay que saber trabajarla para que el resultado sea el de una mirada limpia, luminosa y descansada. Una de las cosas que menos nos gusta que suceda, es ver cómo el corrector de ojeras termina viéndose seco o el producto metido entre las arrugas. Este efecto tan común termina estropeando todo el maquillaje, y aunque el resto de la piel esté impecable, cuando el contorno se ve pesado, seco y con producto acumulado, al final el resultado se desluce por completo. Evidentemente para que esto no suceda, lo mejor que podemos hacer es escuchar a los que más saben. Los maquilladores que están todo el día viendo diferentes tipos de piel son los que mejores consejos nos pueden dar. La maquilladora de Fenty Beauty en Sephora Leire Zulueta, ha dejado unos cuantos consejos a la publicación CLARA y nosotras nos hemos quedado con los mejores. El primer paso es preparar bien la pielPara que un maquillaje se vea bonito y con el paso de las horas se comporte bien, hay que tener en cuenta que la preparación de la piel es la base de todo. Este paso es fundamental porque va a marcar una gran diferencia: \"Para pieles maduras con arrugas, lo más importante es preparar la piel. Una buena preparación de la piel es clave”, reafirma Zulueta. Muchas veces no se presta demasiada atención a la exfoliación, y en verdad este gesto es muy importante porque ayuda a eliminar células muertas e impurezas, logrando que la piel tenga mejor textura y se vea más fresca. \"Lo primero, que la piel esté limpia, que esté lisa. Si hace falta exfoliarla, pues hacerlo, pero sin pasarse tampoco. Limpiar la piel evita que queden impurezas, ayuda a dar más luminosidad... Yo recomiendo exfoliarla una vez por semana y limpiarla cada día, sobre todo si nos maquillamos\", añade la maquilladora. Evidentemente la exfoliación no se debe realizar a diario y tampoco se debe efectuar de forma agresiva, porque entonces podemos dañar la piel y llevarnos por delante el manto hidrolípidico que es la protección natural de la piel. Para una exfoliación suave y un efecto luminoso recomendamos el Exfoliante Facial Arándanos de Apivita. El segundo paso es la hidratación, la clave de todo Antes de comenzar a maquillar, hay que aplicar productos que ayuden a que el maquillaje se vea más bonito. De ahí que la experta recalque la importancia que tiene la hidratación. \"Antes del maquillaje, la piel debe estar hidratada. Una piel madura, que siempre va a ser más seca y más arrugada, lo que necesita es hidratación. Puedes hidratarla bebiendo agua o con cosméticos, como sérums hidratantes\", dice Leire. Algunos de los ingredientes que van a funcionar muy bien según la maquilladora son el ácido hialurónico por su gran capacidad para retener la humedad, o la vitamina C que es un principio activo súper revitalizante. Incluirlos en una perfecta rutina de skincare van a hacer que el aspecto de la piel mejore mucho, logrando una piel más repulpada, uniforme y luminosa. Lo que significa que el maquillaje también se verá más unificado y liso. En este aspecto la crema The Dewy Skin Cream de Tatcha es perfecta para hidratar y rellenar las líneas de expresión. Para el contorno de ojos, un producto específico Aunque como decíamos al principio, el contorno de ojos tiene sus propias necesidades y por ello requiere de cuidados específicos. \"La mejor forma de ocultar las ojeras es utilizando el contorno de ojos adecuado, además de la crema”, declara Leire. Uno de nuestros favoritos para antes del maquillaje es el Pearl Skin EyeCream de Yinger que deja el contorno repulpado, con mejor tono y ultra luminoso, y si lo acompañamos con sus parches de silicona potenciamos su acción. \"Es súper importante utilizar un contorno de ojos que sea específico para la ojera; eso te va a ayudar a que la piel esté más lisa, más hidratada, que el corrector no se meta tanto en las líneas de expresión\", añade. Otro aspecto que puede ayudar, es realizar pequeños toquecitos con los dedos para que mejore la circulación de la zona y drenar las bolsas. La piel del contorno no es como el resto del rostro, es mucho más fina, delicada y muy pobre en glándulas sebáceas. De ahí la importancia de tratar esta zona con cremas específicas que nutran profundamente y a la vez ayuden a mejorar la oscuridad de la ojera. Porque si la piel está bien cuidada, cualquier producto de maquillaje que se aplique a posteriori va a funcionar mil veces mejor. Así se aplica el corrector Después de preparar la piel, es el momento de aplicar el corrector y como sucede con todo, también hay una forma adecuada de hacerlo. No es la primera ni la última vez que los expertos nos aconsejan usar poco producto, y trabajar la zona con capas finas. Para evitar el efecto máscara se recomienda, sobre todo en pieles maduras, neutralizar el tono oscuro de la ojera pero sin apelmazar. \"Si tenemos una crema hidratante en los huecos de nuestras arrugas, es más difícil que el maquillaje que pongamos encima se meta en nuestras líneas y se vea tan seco o cuarteado. Eso es lo que pasa si la ojera está deshidratada. Por eso, para mí, la hidratación y la preparación de la piel son lo más importante\", añade la maquilladora. Los expertos recomiendan utilizar correctores ligeros pero con fórmulas cremosas e hidratante, como el Super BB Concealer de Erborian que disimula la oscuridad e ilumina la zona un montón. Lo importante es ir poco a poco y aplicar el producto en capas finas, y trabajar con una brocha pequeña o con los dedos. Fotos | @yingerbeauty En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Leire Zulueta, maquilladora: \"La mejor forma de ocultar las ojeras es utilizando el contorno de ojos adecuado. Si está deshidratada, el maquillaje se cuartea y se marcan las líneas de expresión\" fue publicada originalmente en Trendencias por Carolina L. ."
+  },
+  {
+    "titulo": "Tales de Mileto, filósofo matemático griego: \"La esperanza es el único bien que todos los hombres tienen en común; quienes no tienen nada más, aún conservan la esperanza\"",
+    "medio": "HuffPost",
+    "fecha": 1774387844.0,
+    "link": "https://www.huffingtonpost.es/sociedad/tales-mileto-filosofo-matematico-griego-la-esperanza-unico-todos-hombres-comun-quienes-masun-conservan-esperanza-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Descubre los rodillos quitapelos para mascotas: adiós al pelo en tu ropa y sofá",
+    "medio": "The Objective",
+    "fecha": 1774387642.0,
+    "link": "https://theobjective.com/productos-recomendados/2026-03-24/rodillos-quitapelos-para-mascotas/",
+    "resumen": "Para millones de personas que conviven con mascotas, el pelo no es un detalle menor ni un inconveniente puntual: es una realidad constante que forma parte […]"
+  },
+  {
+    "titulo": "Rafa Nadal, investido doctor ‘honoris causa’ por la Universidad Politécnica de Madrid",
+    "medio": "The Objective",
+    "fecha": 1774387573.0,
+    "link": "https://theobjective.com/deportes/2026-03-24/rafa-nadal-investido-doctor-honoris-causa-universidad-politecnica-madrid/",
+    "resumen": "El extenista español Rafael Nadal, ganador de 22 ‘Grand Slams’ y exnúmero uno del mundo, fue investido este martes doctor honoris causa, máxima distinción que concede […]"
+  },
+  {
+    "titulo": "El Real Madrid examinó la rodilla equivocada y agravó la lesión de Mbappé",
+    "medio": "La Vanguardia",
+    "fecha": 1774387460.0,
+    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260324/11498387/error-medico-madrid-agravo-lesion-mbappe-equivocaron-rodilla.html",
+    "resumen": "El delantero, que llegó a jugar tres partidos mermado, tuvo que acudir a un especialista en París"
+  },
+  {
+    "titulo": "Grifols plantea la salida a Bolsa en EEUU de su división de 'biopharma'",
+    "medio": "eldiario.es",
+    "fecha": 1774387402.0,
+    "link": "https://www.eldiario.es/economia/grifols-plantea-salida-bolsa-eeuu-division-biopharma_1_13095390.html",
+    "resumen": "La multinacional catalana de hemoderivados ha informado sobre una potencial oferta pública en el parqué de Wall StreetHemeroteca - El ‘sandwich holandés’ del fundador de Grifols: tuvo acciones en la farmacéutica mediante una empresa en las Antillas La multinacional de hemoderivados catalana Grifols evalúa una potencial oferta pública inicial en Estados Unidos de una parte de las acciones de la división de su negocio de 'biopharma', ha informado la compañía a la Comisión Nacional del Mercado de Valores (CNMV). La empresa biofarmaceútica ha anunciado que su Consejo de Administración ha iniciado un proceso para evaluar una potencial oferta pública inicial, aunque no garantiza que la operación se realice. Con independencia de que dicha operación se lleve a cabo o se complete, la empresa continuará cotizando en España a través del mercado continuo, subraya la compañía. La división de 'biopharma' de Grifols es el principal motor de los ingresos de la compañía, y en ella se incluye el desarrollo y la comercialización de medicamentos derivados del plasma humano (proteínas plasmáticas) y otras terapias biotecnológicas."
+  },
+  {
+    "titulo": "La Marina de EEUU elige un submarino autónomo que se sumerge 6.000 metros y puede lanzar enjambres de drones",
+    "medio": "HuffPost",
+    "fecha": 1774387271.0,
+    "link": "https://www.huffingtonpost.es/global/la-marina-eeuu-elige-submarino-autonomo-sumerge-6000-metros-lanzar-enjambres-drones-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Noelia anuncia la fecha de su eutanasia tras el último recurso fallido de su padre",
+    "medio": "La Vanguardia",
+    "fecha": 1774387020.0,
+    "link": "https://www.lavanguardia.com/vida/20260324/11498385/noelia-anuncia-fecha-eutanasia-ultimo-recurso-fallido-padre.html",
+    "resumen": "“El día 26 me la aplican. Nadie de mi familia está a favor, pero la felicidad de un padre no tiene que estar por encima de la vida de una hija”"
+  },
+  {
+    "titulo": "La agencia ‘Best Of You’ incorpora a Luis Alonso como socio director global de desarrollo de negocio y operaciones",
+    "medio": "OK Diario",
+    "fecha": 1774386942.0,
+    "link": "https://okdiario.com/deportes/agencia-best-of-you-incorpora-luis-alonso-como-socio-director-global-desarrollo-negocio-operaciones-16479848",
+    "resumen": "Luis Alonso se incorpora a Best Of You como socio director global de desarrollo de negocio y operaciones. La agencia de representación de deportistas ha anunciado una nueva llegada a su organigrama, a través de un comunicado, en el que valora la trayectoria de su nuevo integrante, que acumula más de 25 años de experiencia … Continuar leyendo \"La agencia ‘Best Of You’ incorpora a Luis Alonso como socio director global de desarrollo de negocio y operaciones\""
   },
   {
     "titulo": "Qué café es mejor y más saludable: los expertos coinciden en uno concreto",
@@ -28,13 +329,6 @@
     "resumen": "Después de años rellenando el mapa con rotondas y centros comerciales, descubrimos que la ciudad necesita otra cosa: plazas donde pararse, refugiarse del calor, jugar más y encontrarseEl fenómeno de los 'edificios cebra' que invaden las ciudades: “Están hechos para venderse en una foto de inmobiliaria” En las plazas, la ciudad suspende el régimen de la propiedad y se reconoce, por un instante, como suelo compartido y tiempo común. Durante décadas, las hemos pensado como postales o explanadas duras, pero la crisis climática y social las vuelve a colocar en el centro como infraestructuras de salud urbana, de convivencia y de democracia cotidiana. Después de años rellenando el mapa con rotondas y centros comerciales, descubrimos que la ciudad necesita otra cosa: plazas donde el cuerpo pueda pararse, sudar menos, jugar más y establecer escenarios amables para la comunicación interpersonal. Volver a mirarlas es preguntarse qué espacio público queremos. Cómo se reconoce hoy una plaza bien hecha Reconocer hoy una plaza bien hecha es reconocer un lugar que ha puesto las mejores condiciones posibles para que la vida ocurra al aire libre. Se parece más a una sala común que a un escaparate y en esta los coches tienen que estar en segundo plano. Los juegos y bancos deben ocupar el centro y la presencia vegetal se vuelve aliada frente al calor. Una buena plaza establece recorridos que no excluyen a nadie y caminos que llevan a casa, al trabajo o al metro sin romper la sensación de estar en un lugar y no en un nudo de autopista. Durante mucho tiempo, el modelo dominante fue el de la plaza dura y representativa: gran explanada mineral, pensada para actos excepcionales más que para la vida diaria. Hoy, la urgencia climática y social desplaza el foco hacia lo cotidiano. La plaza ya no es solo el escenario de las manifestaciones, sino el fondo continuo de las economías del cuidado, el juego infantil, la vejez y los trabajos precarios que se apoyan en el espacio público. Esta mutación del papel de la plaza se hace especialmente visible en España a partir de 2011, cuando el movimiento 15M convierte plazas como la Puerta del Sol en dispositivos continuos de cuidados, deliberación y protesta, más que en simples escenarios de paso o consumo turístico. Al mismo tiempo, el Consejo Superior de los Colegios de Arquitectos de España (CSCAE) ha insistido en la última década en la necesidad de que el espacio público funcione como infraestructura climática y de bienestar renaturalizando plazas, aumentando la permeabilidad de los pavimentos y generando sombra y microclimas más frescos, situando estos espacios cotidianos en el centro de las políticas de adaptación urbana. Las ciudades son interesantes por las personas que las habitan, y los mejores espacios públicos son aquellos que se ponen al servicio de esa coreografía social. Reconocer hoy una plaza bien hecha es reconocer un lugar que ha puesto las mejores condiciones posibles para que la vida ocurra al aire libre Si miramos las plazas españolas desde esta idea de generosidad, vemos muchas situaciones distintas: plazas que aparecen dentro de parques, proyectos recientes que han añadido superficie libre y sombra, intervenciones sobre plazas existentes que han preferido transformar antes que sustituir, y plazas antiguas que siguen activas porque la ciudad ha sabido mantener su uso. Recorrer las plazas españolas es entonces una manera de ejemplificar dónde se ha conseguido establecer una buena plaza. Aquí, un atlas mínimo de plazas donde apetece quedarse. Plazas que aparecen dentro de parques Hacemos la primera parada en Alcalá de Henares. El Parque Andalucía, de ADORAS Atelier Arquitectura, reformado a partir de un parque inaugurado en 1993 e intervenido en 2022, muestra una intervención que entrega casi 5.000 metros cuadrados a praderas y arbolado, reduciendo lo mineral a poco más de 1.600, y teje sobre ese tapiz vegetal una pérgola luminosa que serpentea siguiendo el curso del Henares, gesto que anuda el parque al río y a la Puerta de Andalucía, dándole al barrio una identidad nocturna que antes no tenía. El resultado es una sala común al aire libre donde cruzar, permanecer y reconocerse forman parte del mismo gesto. El Parque Central de Arona, proyectado a comienzos de los 2000 por GBGV Arquitectos, funciona como una gran plaza-parque para el sur de Tenerife. La combinación de láminas de agua, vegetación adaptada al clima subtropical y amplias superficies de estancia configuran un suelo compartido donde vecinos y visitantes se reparten paseos, juegos y celebraciones; el paisaje vegetal actúa aquí como infraestructura climática, no como decorado. El Parque de Andalucía, en Alcalá de Henares, muestra una intervención que entrega casi 5.000 metros cuadrados a praderas y arbolado, reduciendo lo mineral a poco más de 1.600. En Benidorm, el Parque de l'Aigüera, diseñado por Ricardo Bofill en 1989, es otro caso de espacio lineal que se comporta como secuencia de plazas. Entre auditorios al aire libre y paseos arbolados, ofrece un interior urbano a una ciudad dominada por el frente marítimo y las torres: un lugar donde el peatón recupera escala humana y la topografía se convierte en graderío y estancia cotidiana, sustrayendo terreno a la lógica del turismo masivo. El entorno del Museo Helga de Alvear, en Cáceres, se perfila como auténtica plaza-jardín, umbral entre la ciudad histórica y la arquitectura contemporánea donde la intervención de Tuñón y Albornoz Arquitectos encuentra continuidad en el proyecto de la llamada “plaza marrón”. La combinación de arbolado, pavimentos continuos y recorridos suaves aspira a convertir ese acceso en espacio con entidad propia un claro donde sentarse, esperar o cruzar sin prisa, de modo que la institución no se limite a exhibir arte sino también a producir ciudad. Y en Barakaldo, el futuro parque de Zamalanda, actualmente en obras, incorpora una gran plaza abierta junto a zonas ajardinadas, pistas y miradores concebidos como piezas de conexión peatonal con la ría. La mezcla de recorridos, ámbitos de estancia y paisaje productivo perfila un espacio que funciona simultáneamente como parque y como plaza de barrio, en línea con la mejor tradición del nuevo paisajismo vasco. Más superficie libre y más sombra En algunos contextos urbanos, hay proyectos recientes que muestran cómo el espacio público puede ofrecer clima, tiempo y margen de uso antes que formas espectaculares, abriendo la plaza a apropiaciones diversas sin perder precisión técnica. En el Raval de Barcelona, configurada en torno al museo de Richard Meier, la Plaça dels Àngels es hoy una de las más intensamente apropiadas de la ciudad. Skaters, vecinos y habitantes la frecuentan como ágora, pista, atajo y escenario simultáneamente, poniendo en valor un diseño que deja margen al imprevisto y que ha sabido convivir, no sin tensiones, con la presión turística. La Plaça de la Porta de Santa Catalina, en Palma, de Rafael Moneo, articula la relación entre el casco histórico y la fachada marítima. Su condición de umbral, la sección cuidadosamente graduada y la moderación del tráfico la convierten en un espacio donde tránsito y permanencia coexisten sin jerarquías evidentes, actualizando la idea clásica de plaza de acceso. La Plaza de España de Madrid es un lugar que respira, un vestíbulo que acoge antes que expulsar. Allí donde antes el ruido era la norma, hoy la escala cambia, los árboles tamizan la geometría, el suelo se hace blando bajo el paso y el tiempo se estira entre bancos y sombras. El proyecto, concluido en 2021, no dibuja una plaza nueva tanto como reconstituye un tejido. Une lo que la ciudad había separado: la Gran Vía con su pulso comercial, el Palacio Real con su memoria escenográfica y los parques con su fondo verde. Todo vuelve a estar a una distancia caminable. En La Rioja, las intervenciones vinculadas al festival Concéntrico han señalado el potencial de plazas como las del Ayuntamiento o Escuelas Trevijano, donde pabellones efímeros y dispositivos de sombra ensayan nuevas maneras de habitar el espacio heredado. Esas operaciones temporales demuestran que una plaza puede transformarse con gestos ligeros y reversibles, sin necesidad de grandes obras ni presupuestos monumentales. En Castilla-La Mancha, la Plaza del Carmen en Chueca (Toledo), cuyo concurso ganó en 2024 la joven arquitecta Celia Peces con el proyecto ‘Con C, de Chueca’, propone sobre unos 1.000 metros cuadrados un trazado en espiral que resuelve los desniveles y estructura zonas de estancia, sombra y terrizo drenante. El resultado previsto es una plaza accesible, drenante y cohesionada donde el verde no es ornamento sino técnica climática. Skaters, vecinos y habitantes frecuentan la conocida como \"plaza del Macba\" (Barcelona) como ágora, pista, atajo y escenario simultáneamente, poniendo en valor un diseño que deja margen al imprevisto y que ha sabido convivir, no sin tensiones, con la presión turística. Transformar antes que sustituir Este es un ejercicio que consiste en intervenir las plazas a partir del reconocimiento de su memoria construida y de su valor como soporte a la vida cotidiana de los ciudadanos. Las actuaciones sobre estas plazas incorporan elementos necesarios para su adecuación como vegetación, mobiliario o ampliando su superficie peatonal de manera que no se borren las capas históricas que las definen. La Plaza de Pombo (Santander) diseñada en 2007 por José María Ezquiaga, es un ejemplo de precisión sobre tejido consolidado. La reducción del tráfico, la incorporación de bancos y arbolado y la apuesta por el uso cotidiano frente al ceremonial refuerzan su papel como sala de estar del ensanche, sin borrar la estructura heredada ni convertirla en escenario de excepción. Gijón también está remodelando su plaza del Carmen, que está siendo adaptada a las necesidades actuales ampliando la superficie peatonal, incorporando más árboles y reorganizando el viario en busca de esa condición de sala común a escala de barrio. Plazas antiguas que han sabido mantener su uso En León, la Plaza Mayor, rehabilitada en 2025 respetando su estructura porticada, sigue funcionando como corazón del Barrio Húmedo y escenario de mercados, ferias y encuentros informales. La renovación del pavimento, concebida para mejorar accesibilidad sin alterar forma ni uso, refuerza su condición de sala común, la arquitectura histórica proporciona el marco y la vida cotidiana pone el contenido. La Plaza Mayor de Aínsa, en Huesca, condensa la fuerza de una plaza medieval aún en uso. Su planta trapezoidal, los soportales de piedra, los restos de muralla y la continuidad de ferias y mercados demuestran que algunas plazas antiguas siguen siendo ejemplares sin más intervención que el cuidado y la actividad constante: la forma no ha cambiado desde los siglos XII y XIII y, sin embargo, el espacio no ha envejecido. En Oviedo, la Plaza del Paraguas, proyectada en 1929 por el ingeniero Ildefonso Sánchez del Río para albergar el mercado de leche bajo una cubierta de hormigón, funciona hoy como punto de encuentro del casco antiguo. Libre de coches, rodeada de bares y escenario habitual de conciertos y eventos menores, la cubierta actúa a la vez como sombra, refugio y memoria. La plaza verdaderamente buena no se mide por su gesto, sino por su capacidad de sostener la vida cotidiana La Praza do Obradoiro, en Santiago de Compostela, es un vacío que ordena. No acoge, espera. Todo en ella está perfectamente calibrado; la anchura y la separación entre fachadas, la piedra, el aire, el tiempo entre una llegada y otra. Las fachadas se miran como si aún discutieran sobre quién sostiene el silencio. En medio, los cuerpos que llegan no son turistas ni fieles, sino que se da una repetición del gesto de estar: llegar, mirar, quedarse un instante. Más que plaza, es una respiración común donde la ciudad se piensa a sí misma. Tras la peatonalización de su entorno, la plaza de la Virgen Blanca, en Vitoria, ha afianzado su papel como corazón cívico de la ciudad. Reduciendo el tráfico y ampliando la superficie accesible, su configuración abierta a mercados, fiestas y concentraciones la mantiene como escenario principal de la vida común, sin que ninguna intervención posterior haya comprometido su centralidad. Plaza de España, en Sevilla. Su permanencia activa demuestra que la monumentalidad puede sostener usos cotidianos cuando la acompañan recorrido, sombra y agua. La Plaza de África sostiene el pulso de Ceuta. Entre edificios que hablan de poder y fe, el espacio se abre como un respiro frente al mar. Los jardines y el adoquinado dibujan una pausa: un lugar de ceremonia y de sombra diaria, donde lo institucional y lo doméstico se confunden bajo la misma luz. La plaza de los Fueros, proyectada en 1975 en Pamplona por Francisco Javier Sáenz de Oiza y Eduardo Chillida, propone un vacío abstracto de gran flexibilidad. Bajo su geometría contundente caben ferias, conciertos y celebraciones populares. Y su escala, pese al carácter escultórico, mantiene una condición humana que permite frecuentarla a diario. La Plaza de España de Sevilla, trazada por Aníbal González para la Exposición Iberoamericana de 1929, continúa siendo un espacio intensamente habitado. Su permanencia activa demuestra que la monumentalidad puede sostener usos cotidianos cuando la acompañan recorrido, sombra y agua. Y en Cartagena, la plaza de San Francisco es uno de esos espacios que la ciudad ha sabido no estropear. Sus bordes porticados, el arbolado que filtra el sol levantino… Todo lo que en ella acontece responde a las necesidades de la vida cotidiana en el barrio. La plaza verdaderamente buena no se mide por su gesto, sino por su capacidad de sostener la vida cotidiana. Cuando da sombra, tiempo y un centro para el encuentro, la ciudad respira mejor."
   },
   {
-    "titulo": "Grifols estudia la salida a Bolsa de su división Biopharma en EEUU",
-    "medio": "Expansión",
-    "fecha": 1774385919.0,
-    "link": "https://www.expansion.com/empresas/industria/2026/03/24/69c2fa24468aebab5a8b4572.html",
-    "resumen": "Gifols estudia la salida a Bolsa en Estados Unidos de su división Biopharma, según ha confirmado la compañía en un hecho relevante enviado a la Comisión Nacional del Mercado de Valores (CNMV). Leer"
-  },
-  {
     "titulo": "OpenAI mata Sora, su app para crear videos con IA",
     "medio": "Hipertextual",
     "fecha": 1774385756.0,
@@ -42,18 +336,32 @@
     "resumen": "OpenAI anunció que discontinuará Sora, la app para crear y compartir videos generados con IA que puso de cabeza a medio mundo. La compañía confirmó que matará la aplicación para iPhone que intentaba competir con Instagram debido a una reestructuración interna. La decisión no solo afectará a la plataforma, sino a todos los modelos de […] Seguir leyendo: OpenAI mata Sora, su app para crear videos con IA"
   },
   {
-    "titulo": "La primera ministra socialdemócrata gana las elecciones en Dinamarca, pero lejos de la mayoría",
-    "medio": "The Objective",
-    "fecha": 1774385737.0,
-    "link": "https://theobjective.com/internacional/2026-03-24/bloque-izquierdas-primera-ministra-gana-elecciones/",
-    "resumen": "El bloque «rojo» liderado por la primera ministra de Dinamarca, Mette Frederiksen, ha ganado este martes las elecciones legislativas, al hacerse con poco más del 47% […]"
-  },
-  {
     "titulo": "Cientos de miles de personas toman las calles en el 50 aniversario del golpe en Argentina en honor a los desaparecidos: “Que digan dónde están”",
     "medio": "eldiario.es",
     "fecha": 1774385514.0,
     "link": "https://www.eldiario.es/internacional/argentina-dictadura-civico-militar-nunca-mas-javier-milei_1_13095216.html",
-    "resumen": "Al leer el documento en el escenario emplazado frente a la Casa Rosada, la Madre de Plaza de Mayo Línea Fundadora, Elia Espen, remarcó que “nunca nos entregaron sus cuerpos: por eso exigimos ¡que digan dónde están!”. El spot oficial insistió con la visión negacionistaOpinión - 'Robar el fuego a los dioses', por Juan Diego Botto Bajo las consignas “que digan dónde están”, en referencia a los 30 mil desaparecidos, y “nunca más”, cientos de miles de personas han marchado este martes hacia la emblemática Plaza de Mayo de Buenos Aires. Una marea de carteles con fotos de desaparecidos y pañuelos blancos superó el amplio recorrido desde la céntrica avenida 9 de julio y las calles adyacentes. “Ole olé, olé olá, como a los nazis, les va a pasar, a donde vayan los iremos a buscar”, gritó la multitud a 50 años del inicio del golpe de Estado cívico-militar. Al leer el documento en el escenario emplazado frente a la Casa Rosada, la Madre de Plaza de Mayo Línea Fundadora, Elia Espen, remarcó: “Nunca nos entregaron sus cuerpos: por eso exigimos ¡que digan dónde están!”. Las Madres y Abuelas de Plaza de Mayo encabezaron la marcha en continuidad con una tradición iniciada durante la dictadura, cuando comenzaron a reunirse para reclamar en esta plaza por el paradero de sus hijos. Los organismos de derechos humanos hicieron la propuesta de que cada persona que fuera a la marcha llevara un cartel con la foto de un desaparecido, su nombre y la frase: “Que digan dónde están”. “A 50 años del golpe genocida, estamos juntos nuevamente en esta histórica Plaza, y en todas las plazas del país, con profunda convicción, para reafirmar que la memoria se defiende luchando y porque sabemos que es necesario unir las luchas para fortalecerlas en tiempos difíciles. ¡Son 30.000! Fue y es genocidio. ¡No olvidamos, no perdonamos y no nos reconciliamos!”, manifestó la Madre Elia. Laura Leito, de 60 años, llevaba dos fotos, porque “cada uno de ellos vive en nosotros y cualquiera de nosotros levanta sus banderas luchando por la memoria”, dijo quien tenía 15 años cuando empezó ese capítulo oscuro en la historia argentina. Vino desde la provincia de Neuquén, sur del país. “En Neuquén se murieron las últimas dos Madres de Plaza de Mayo que quedaban. Vine porque quería pisar esta plaza”. Un desfile de ciudadanos de a pie, estudiantes, familias con niños pequeños, y militantes de organismos de derechos humanos, organizaciones sociales, políticas y centrales sindicales se pudo ver desde el mediodía hasta la tarde, cuando ya era imposible querer avanzar. Los desaparecidos en la última dictadura argentina en una de las pancartas de la manifestación. Con la foto de su vecino Pablo Musso que está desaparecido, Graciela Gatorna se emocionó al contar que lloró mientras armaba el cartel. “Es la primera vez que llevo una foto porque nunca me atreví, no sentía que me correspondía. Pero esta vez sí e inmediatamente me acordé de Pablo. Hoy más que nunca tenemos que demostrar que estamos a favor de la democracia frente a un gobierno cruel”. El Gobierno ultraderechista de Javier Milei difundió un largo video que intenta reinstalar la teoría de los dos demonios, al equiparar la violencia del terrorismo Estado con la de las organizaciones armadas de los años setenta. Haciéndose eco de los viejos argumentos de los ejecutores del golpe que inició la dictadura cívico-militar, la grabación tergiversa las políticas de enjuiciamiento a los genocidas, acusa a los gobiernos de Néstor y Cristina Kirchner de “imponer” una “visión sesgada y revanchista” de la historia a través de un “fatal experimento narrativo”, grabó el Ejecutivo en abierta provocación a la marcha. Un Ejecutivo que ha desfinanciado políticas públicas de memoria, verdad y justicia. El golpe de Estado de 1976 derrocó a Isabel Perón e instauró una dictadura que gobernó hasta 1983 y llevó a cabo desapariciones, torturas y robo de bebés. El gobierno niega las cifra de 30 mil desaparecidos y postula que fueron menos de 9000. En el spot que difundió aparece el testimonio de la nieta recuperada 127, cuya identidad fue restituida gracias a la búsqueda de los organismos de derechos humanos la labor judicial y el Banco Genético de Abuelas de Plaza de Mayo. Se trata de Miriam Poblete, hija de Carlos Poblete y María del Carmen Moyano quienes continúan desaparecidos. Esta nieta retoma el discurso de sus apropiadores y recomienda “contar la historia verdadera”. Miriam nació en el centro clandestino de detención ESMA y recuperó su identidad el 27 de diciembre del 2017. Como cuenta en el video, quiso dejarse el apellido Fernández. Armando Osvaldo Fernández, expolicía, fue condenado por la apropiación de Miriam, que se sumó a otras cuatro condenas por las que había recibido prisión perpetua y 20 años de prisión, hoy cumple prisión domiciliaria. Pablo Dell'Aquila, de 51 años, lleva una remera con el dibujo del pañuelo de las Madres, está junto a su hijo y su mujer, como cada 24 de marzo. Vio el spot del Gobierno y sobre el testimonio de la nieta recuperada señala que: “Ella seguramente creció en una casa donde le brindaron amor, pero también vivió en una mentira. Hay que respetar su opinión porque es una víctima. Habrá nietos que por ahí no quieren buscar por miedo a qué encuentran. Me imagino que debe representar un miedo muy grande saber que la familia que amas tanto no es tu familia de origen y te mintieron durante muchos años”. Varias personas en la manifestación por el Día Nacional de la Memoria por la Verdad y la Justicia. El reclamo de memoria, verdad y justicia se hizo oír en las calles frente al negacionismo oficial. Una enorme bandera se desplegó durante ocho cuadras con bordados que se hicieron en encuentros en todo el país. Se veían pañuelos con dibujos, bordados, y carteles como “Señores jueces: Nunca Más”, la frase histórica del fiscal Julio César Strassera en el juicio a las juntas. En la marcha participó Luyara Franco, hija de Marielle Franco, la concejala socialista fue asesinada en Brasil y cuyo caso se convirtió en una bandera de la izquierda brasileña. “Es muy sentido para mí estar aquí, porque sé y comparto el sentimiento de la gente que pasa por un proceso de violencia, de dolor, y de lucha incansable por la justicia. Conocí al hijo de Norita y a su nieta” --dice sobre Nora Cortiñas, Madre de Plaza de Mayo que murió en 2024 –ella que fue una firme defensora de la memoria de mi madre“. En este 50ª aniversario también se vieron banderas uruguayas. Es que recuerdo del Plan Cóndor es parte de esta historia: fue la coordinación de los servicios de seguridad de las dictaduras de Brasil, Uruguay, Chile, Paraguay y Bolivia para llegar más lejos con los tentáculos de la represión a los políticos y organizaciones opositoras."
+    "resumen": "Al leer el documento en el escenario emplazado frente a la Casa Rosada, la Madre de Plaza de Mayo Línea Fundadora, Elia Espen, remarcó que “nunca nos entregaron sus cuerpos: por eso exigimos ¡que digan dónde están!”. El spot oficial insistió con la visión negacionistaOpinión - 'Robar el fuego a los dioses', por Juan Diego Botto Bajo las consignas “que digan dónde están”, en referencia a los 30 mil desaparecidos, y “nunca más”, cientos de miles de personas han marchado este martes hacia la emblemática Plaza de Mayo de Buenos Aires. Una marea de carteles con fotos de desaparecidos y pañuelos blancos superó el amplio recorrido desde la céntrica avenida 9 de julio y las calles adyacentes. “Ole olé, olé olá, como a los nazis, les va a pasar, a donde vayan los iremos a buscar”, gritó la multitud a 50 años del inicio del golpe de Estado cívico-militar. Al leer el documento en el escenario emplazado frente a la Casa Rosada, la Madre de Plaza de Mayo Línea Fundadora, Elia Espen, remarcó: “Nunca nos entregaron sus cuerpos: por eso exigimos ¡que digan dónde están!”. Las Madres y Abuelas de Plaza de Mayo encabezaron la marcha en continuidad con una tradición iniciada durante la dictadura, cuando comenzaron a reunirse para reclamar en esta plaza por el paradero de sus hijos. Los organismos de derechos humanos hicieron la propuesta de que cada persona que fuera a la marcha llevara un cartel con la foto de un desaparecido, su nombre y la frase: “Que digan dónde están”. “A 50 años del golpe genocida, estamos juntos nuevamente en esta histórica Plaza, y en todas las plazas del país, con profunda convicción, para reafirmar que la memoria se defiende luchando y porque sabemos que es necesario unir las luchas para fortalecerlas en tiempos difíciles. ¡Son 30.000! Fue y es genocidio. ¡No olvidamos, no perdonamos y no nos reconciliamos!”, manifestó la Madre Elia. Laura Leito, de 60 años, llevaba dos fotos, porque “cada uno de ellos vive en nosotros y cualquiera de nosotros levanta sus banderas luchando por la memoria”, dijo quien tenía 15 años cuando empezó ese capítulo oscuro en la historia argentina. Vino desde la provincia de Neuquén, sur del país. “En Neuquén se murieron las últimas dos Madres de Plaza de Mayo que quedaban. Vine porque quería pisar esta plaza”. Un desfile de ciudadanos de a pie, estudiantes, familias con niños pequeños, y militantes de organismos de derechos humanos, organizaciones sociales, políticas y centrales sindicales se pudo ver desde el mediodía hasta la tarde, cuando ya era imposible querer avanzar. Los desaparecidos en la última dictadura argentina en una de las pancartas de la manifestación. Con la foto de su vecino Pablo Musso que está desaparecido, Graciela Gatorna se emocionó al contar que lloró mientras armaba el cartel. “Es la primera vez que llevo una foto porque nunca me atreví, no sentía que me correspondía. Pero esta vez sí e inmediatamente me acordé de Pablo. Hoy más que nunca tenemos que demostrar que estamos a favor de la democracia frente a un gobierno cruel”. El Gobierno ultraderechista de Javier Milei difundió un largo video que intenta reinstalar la teoría de los dos demonios, al equiparar la violencia del terrorismo Estado con la de las organizaciones armadas de los años setenta. Haciéndose eco de los viejos argumentos de los ejecutores del golpe que inició la dictadura cívico-militar, la grabación tergiversa las políticas de enjuiciamiento a los genocidas, acusa a los gobiernos de Néstor y Cristina Kirchner de “imponer” una “visión sesgada y revanchista” de la historia a través de un “fatal experimento narrativo”, grabó el Ejecutivo en abierta provocación a la marcha. Un Ejecutivo que ha desfinanciado políticas públicas de memoria, verdad y justicia. El golpe de Estado de 1976 derrocó a Isabel Perón e instauró una dictadura que gobernó hasta 1983 y llevó a cabo desapariciones, torturas y robo de bebés. El gobierno niega las cifra de 30 mil desaparecidos y postula que fueron menos de 9000. En el spot que difundió aparece el testimonio de la nieta recuperada 127, cuya identidad fue restituida gracias a la búsqueda de los organismos de derechos humanos la labor judicial y el Banco Genético de Abuelas de Plaza de Mayo. Se trata de Miriam Poblete, hija de Carlos Poblete y María del Carmen Moyano quienes continúan desaparecidos. Esta nieta retoma el discurso de sus apropiadores y recomienda “contar la historia verdadera”. Miriam nació en el centro clandestino de detención ESMA y recuperó su identidad el 27 de diciembre del 2017. Como cuenta en el video, quiso dejarse el apellido Fernández. Armando Osvaldo Fernández, expolicía, fue condenado por la apropiación de Miriam, que se sumó a otras cuatro condenas por las que había recibido prisión perpetua y 20 años de prisión, hoy cumple prisión domiciliaria. Pablo Dell'Aquila, de 51 años, lleva una remera con el dibujo del pañuelo de las Madres, está junto a su hijo y su mujer, como cada 24 de marzo. Vio el spot del Gobierno y sobre el testimonio de la nieta recuperada señala que: “Ella seguramente creció en una casa donde le brindaron amor, pero también vivió en una mentira. Hay que respetar su opinión porque es una víctima. Habrá nietos que por ahí no quieren buscar por miedo a qué encuentran. Me imagino que debe representar un miedo muy grande saber que la familia que amas tanto no es tu familia de origen y te mintieron durante muchos años”. Varias personas en la manifestación por el Día Nacional de la Memoria por la Verdad y la Justicia. El reclamo de memoria, verdad y justicia se hizo oír en las calles frente al negacionismo oficial. Una enorme bandera se desplegó durante ocho cuadras con bordados que se hicieron en encuentros en todo el país. Se veían pañuelos con dibujos, bordados, y carteles como “Señores jueces: Nunca Más”, la frase histórica del fiscal Julio César Strassera en el juicio a las juntas. En la marcha participó Luyara Franco, hija de Marielle Franco, la concejala socialista fue asesinada en Brasil y cuyo caso se convirtió en una bandera de la izquierda brasileña. “Es muy sentido para mí estar aquí, porque sé y comparto el sentimiento de la gente que pasa por un proceso de violencia, de dolor, y de lucha incansable por la justicia. Conocí al hijo de Norita y a su nieta” --dice sobre Nora Cortiñas, Madre de Plaza de Mayo que murió en 2024 –ella que fue una firme defensora de la memoria de mi madre“. En este 50ª aniversario también se vieron banderas uruguayas. Es que el recuerdo del Plan Cóndor es parte de esta historia: fue la coordinación de los servicios de seguridad de las dictaduras de Brasil, Uruguay, Chile, Paraguay y Bolivia para llegar más lejos con los tentáculos de la represión a los políticos y organizaciones opositoras."
+  },
+  {
+    "titulo": "Comprobar Euromillones: resultado y números premiados del sorteo hoy martes 24 de marzo de 2026",
+    "medio": "OK Diario",
+    "fecha": 1774385149.0,
+    "link": "https://okdiario.com/loteria/euromillones-comprobar-resultado-del-sorteo-hoy-martes-24-marzo-2026-16478494",
+    "resumen": "El resultado del sorteo de Euromillones de hoy, martes 24 de marzo de 2026, con un bote acumulado de xxxx millones de euros 12, 16, 17, 18 y 27 y las estrellas son 1 y 3. En cuanto al sorteo de El Millón, premio al que aspiran todos los participantes que hayan jugado desde España, … Continuar leyendo \"Comprobar Euromillones: resultado y números premiados del sorteo hoy martes 24 de marzo de 2026\""
+  },
+  {
+    "titulo": "Bonoloto: comprobar el resultado del sorteo de hoy martes 24 de marzo de 2026",
+    "medio": "OK Diario",
+    "fecha": 1774385142.0,
+    "link": "https://okdiario.com/loteria/comprobar-bonoloto-resultado-numero-premiado-hoy-martes-24-marzo-2026-16478404",
+    "resumen": "Los resultados del sorteo de la Bonoloto celebrado hoy, martes 24 de marzo de 2026 ya se conocen por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 6, 10, 22, 30, 39 y 4. El número complementario es el 4 y el reintegro el 3. Cómo jugar … Continuar leyendo \"Bonoloto: comprobar el resultado del sorteo de hoy martes 24 de marzo de 2026\""
+  },
+  {
+    "titulo": "ONCE hoy, martes, 24 de marzo de 2026: comprobar el Cupón Diario, Eurojackpot y Super 11",
+    "medio": "OK Diario",
+    "fecha": 1774385130.0,
+    "link": "https://okdiario.com/loteria/comprobar-once-hoy-martes-24-marzo-2026-cupon-diario-eurojackpot-super-11-16478633",
+    "resumen": "La ONCE ya ha realizado los sorteos de hoy martes, 24 de marzo de 2026: Cupón Diario, Eurojackpot y Super 11. Comprueba aquí los números premiados hoy. Comprobar resultado del Cupón Diario de la ONCE El resultado del Cupón Diario de la ONCE del martes, 24 de marzo de 2026 es el siguiente: 49133 y serie … Continuar leyendo \"ONCE hoy, martes, 24 de marzo de 2026: comprobar el Cupón Diario, Eurojackpot y Super 11\""
   },
   {
     "titulo": "Los investigadores chinos no dan crédito: crean un tejido que se limpia solo sin detergente y reduce el consumo de la lavadora un 82% después de 100 lavados",
@@ -84,102 +392,11 @@
     "resumen": "El mundo entera está emocionado por el eclipse solar del 12 de agosto de 2026, un eclipse total que lleva sin verse más de un siglo. Tenemos suerte, España es uno de los lugares donde mejor se va a ver este fenómeno, un palco privilegiado para el espectáculo astronómico. Sin embargo, solo se verá bien en el norte de la Península Ibérica. No pasa nada, habrá otros dos que sí veremos hasta en Andalucía. El eclipse total de 2026 se verá especialmente bien en el norte de España, especialmente en lugares como Galicia o Asturias donde la franja de totalidad es absoluta. También podremos verlo en el centro de la meseta de forma más parcial. Y no será nuestra única oportunidad, porque los expertos ya han avisado de otros dos eclipses solares en 2027 y 2028. El 2 de agosto de 2027 un eclipse total de Sol cruzará el sur de España por el estrecho de Gibraltar durante cinco minutos, a las 10.50 horas. Este eclipse forma parte del trío de eclipses ibéricos y será parcialmente visible en todo el país, comenzando en el océano Atlántico y recorriendo Andalucía y la costa norteafricana. Por eso, España es el único punto de Europa donde podrá verse. El tercero de los eclipses solares de España será el 26 de enero de 2028, un eclipse anular que cruzará la península de sudoeste a noreste, viéndose especialmente bien el anillo en Andalucía y la Comunidad Valenciana al atardecer, en torno a las 19 horas. Sin embargo, se verá como un eclipse parcial en el resto del país. Para volver a ver otro eclipse solar total en España habrá que esperar a 2053. Fotos | Jongsun Lee vía Unsplash, Instituto Geográfico Nacional. En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos. - La noticia España vivirá un trío de eclipses solares históricos en 2026, 2027 y 2028: dónde se verán mejor fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "Así es el pueblo en la sierra de Madrid donde vive Carmen Maura: calles empedradas y a una hora del centro",
-    "medio": "OK Diario",
-    "fecha": 1774384251.0,
-    "link": "https://okdiario.com/sociedad/asi-pueblo-sierra-madrid-donde-vive-carmen-maura-calles-empedradas-hora-del-centro-16473289",
-    "resumen": "A menos de una hora del bullicio de Madrid, el paisaje comienza a transformarse de forma gradual. Las carreteras se estrechan, el ritmo del tráfico disminuye y el horizonte se abre hacia montes cubiertos de vegetación. En ese escenario de naturaleza y calma se encuentra el municipio elegido por la actriz Carmen Maura para establecer … Continuar leyendo \"Así es el pueblo en la sierra de Madrid donde vive Carmen Maura: calles empedradas y a una hora del centro\""
-  },
-  {
     "titulo": "Preguntan a El Chojin por el éxito de 'Torrente, presidente' y deja una sentencia de importante reflexión",
     "medio": "HuffPost",
     "fecha": 1774384070.0,
     "link": "https://www.huffingtonpost.es/virales/preguntan-chojin-exito-torrente-presidente-deja-sentencia-reflexion-f202603.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Escribano (Indra), premio Ejecutivo del Ibex del año: “El mercado respalda mi plan”",
-    "medio": "El País",
-    "fecha": 1774384065.0,
-    "link": "https://cincodias.elpais.com/companias/2026-03-24/escribano-indra-premio-ejecutivo-del-ibex-del-ano-el-mercado-respalda-mi-plan.html",
-    "resumen": "El presidente de Indra asegura que la autonomía estratégica se construye con cadenas industriales cohesionadas, días después de que se suspendiese la integración con EM&E tras las dudas expuestas por la SEPI"
-  },
-  {
-    "titulo": "Cupón diario de la ONCE: comprobar sorteo del martes 24 de marzo",
-    "medio": "El País",
-    "fecha": 1774384052.0,
-    "link": "https://elpais.com/sorteos/2026-03-24/cupon-diario-de-la-once-comprobar-sorteo-del-martes-24-de-marzo.html",
-    "resumen": "La ONCE reparte un primer premio de 500.000 euros a las cinco cifras más la serie en su sorteo diario de lunes a jueves"
-  },
-  {
-    "titulo": "Trump se hace el misterioso «Irán nos ha hecho hoy un regalo de valor incalculable pero no diré lo que es»",
-    "medio": "OK Diario",
-    "fecha": 1774383844.0,
-    "link": "https://okdiario.com/internacional/trump-misterioso-iran-nos-hecho-hoy-regalo-valor-incalculable-pero-no-voy-decir-lo-que-16479494",
-    "resumen": "El presidente de EEUU, Donald Trump, ha dejado caer un mensaje críptico este martes sobre un regalo que le ha hecho Irán que de nuevo ha dejado pensando a todo el mundo sobre qué puede significar. Ha dicho, con su aire rodeado de misterio, sobre los líderes de la dictadura iraní: «Van a llegar a … Continuar leyendo \"Trump se hace el misterioso «Irán nos ha hecho hoy un regalo de valor incalculable pero no diré lo que es»\""
-  },
-  {
-    "titulo": "Cuba elige a una desconocida empresa gallega para canalizar remesas del extranjero",
-    "medio": "The Objective",
-    "fecha": 1774383697.0,
-    "link": "https://theobjective.com/internacional/2026-03-24/cuba-desconocida-empresa-gallega-canalizar-remesas-extranjero/",
-    "resumen": "El Banco Central de Cuba (BCC) ha autorizado a Bagalso Internacional S.L., una pequeña y prácticamente desconocida empresa española, a operar en la isla en actividades […]"
-  },
-  {
-    "titulo": "El juez Moraes concede el arresto domiciliario al expresidente Jair Bolsonaro por 90 días",
-    "medio": "El País",
-    "fecha": 1774383586.0,
-    "link": "https://elpais.com/america/2026-03-24/el-juez-alexandre-de-moraes-concede-el-arresto-domiciliario-temporal-al-expresidente-jair-bolsonaro.html",
-    "resumen": "El ultraderechista cumplirá condena en casa cuando reciba el alta por una neumonía que le llevó al hospital hace 11 días"
-  },
-  {
-    "titulo": "Julio Bastida: «Hay que reflexionar sobre cómo evitar morir de éxito desde un debate sereno y constructivo»",
-    "medio": "OK Diario",
-    "fecha": 1774383585.0,
-    "link": "https://okdiario.com/baleares/julio-bastida-hay-que-reflexionar-sobre-como-evitar-morir-exito-desde-debate-sereno-constructivo-16479383",
-    "resumen": "El director de OKBALEARES, Julio Bastida, fue el encargado de inaugurar la jornada Turismo con los pies en la tierra en un evento celebrado en el Teatro Municipal Maruja Alfaro Mar i Terra de Palma, agradeciendo al numeroso público presente su asistencia a este evento y al amplio elenco de autoridades presentes. Bastida apuntó que … Continuar leyendo \"Julio Bastida: «Hay que reflexionar sobre cómo evitar morir de éxito desde un debate sereno y constructivo»\""
-  },
-  {
-    "titulo": "La Universidad Autónoma de Barcelona rechaza acoger el acto de Rufián y Montero",
-    "medio": "The Objective",
-    "fecha": 1774383535.0,
-    "link": "https://theobjective.com/espana/politica/2026-03-24/universidad-autonoma-barcelona-acto-rufian-montero/",
-    "resumen": "La Universidad Autónoma de Barcelona ha descartado acoger el acto que preparaban Gabriel Rufián e Irene Montero para el próximo 9 de abril. La institución académica […]"
-  },
-  {
-    "titulo": "Jaime Martínez: «El turismo si no es sostenible no será duradero, el camino es calidad y diversidad»",
-    "medio": "OK Diario",
-    "fecha": 1774383516.0,
-    "link": "https://okdiario.com/baleares/jaime-martinez-turismo-si-no-sostenible-no-sera-duradero-camino-calidad-diversidad-16479115",
-    "resumen": "En un coqueto Teatro Municipal Maruja Alfaro Mar i Terra de Palma con numeroso público presente, el alcalde, Jaime Martínez, protagonizó la apertura institucional oficial de la jornada Turismo con los pies en la tierra, donde desde las 18.00 horas, expertos, instituciones, empresarios y trabajadores analizaron este martes el papel del turismo y la cultura … Continuar leyendo \"Jaime Martínez: «El turismo si no es sostenible no será duradero, el camino es calidad y diversidad»\""
-  },
-  {
-    "titulo": "Llorenç Galmés: «El turismo no es el problema, es parte de la solución en Mallorca»",
-    "medio": "OK Diario",
-    "fecha": 1774383436.0,
-    "link": "https://okdiario.com/baleares/llorenc-galmes-turismo-no-problema-parte-solucion-mallorca-16478074",
-    "resumen": "El presidente del Consell de Mallorca, Llorenç Galmés, ha sido uno de los grandes protagonistas de la jornada Turismo con los pies en la tierra, organizada este martes por OKDIARIO en el Teatro Municipal Maruja Alfaro Mar i Terra de Palma. El subdirector de este periódico, Vicente Gil, ha entrevistado a Galmés, quien se ha … Continuar leyendo \"Llorenç Galmés: «El turismo no es el problema, es parte de la solución en Mallorca»\""
-  },
-  {
-    "titulo": "Los socialdemócratas ganan las elecciones en Dinamarca impulsados por la resistencia a Trump, según los sondeos a pie de urna",
-    "medio": "El País",
-    "fecha": 1774383420.0,
-    "link": "https://elpais.com/internacional/2026-03-24/los-socialdemocratas-ganan-las-elecciones-en-dinamarca-segun-los-sondeos-a-pie-de-urna.html",
-    "resumen": "La primera ministra Frederiksen necesitará el respaldo de varios partidos para seguir gobernando"
-  },
-  {
-    "titulo": "El recibimiento más especial a Blanca Hervás en pleno aeropuerto: «‘Tuca’ es la estrella»",
-    "medio": "OK Diario",
-    "fecha": 1774383198.0,
-    "link": "https://okdiario.com/deportes/recibimiento-mas-especial-blanca-hervas-pleno-aeropuerto-tuca-estrella-16479473",
-    "resumen": "Los micrófonos y las cámaras de televisión se agolpan sobre la puerta de llegadas de la T2 del aeropuerto de Madrid mientras una perrita evita ser pisada. «Tiene muchas ganas de verla», reconoce el hombre que sostiene la correa. Se refiere a Blanca Hervás y quien lo verbaliza es su padre, que retiene a Tuca … Continuar leyendo \"El recibimiento más especial a Blanca Hervás en pleno aeropuerto: «‘Tuca’ es la estrella»\""
-  },
-  {
-    "titulo": "Mohamed Zolgadr, un duro del régimen islámico, nuevo hombre fuerte del poder iraní",
-    "medio": "La Vanguardia",
-    "fecha": 1774383036.0,
-    "link": "https://www.lavanguardia.com/internacional/20260324/11498373/mohamed-zolgadr-duro-regimen-islamico-nuevo-hombre-fuerte-irani.html",
-    "resumen": "El guardia revolucionario y ultraconservador sucede al asesinado Ali Lariyani al frente del Consejo Supremo de Seguridad Nacional de la república teocrática"
   },
   {
     "titulo": "EEUU planea desplegar 3.000 soldados de la 82 División Aerotransportada en Oriente Medio",
@@ -189,25 +406,11 @@
     "resumen": "EEUU se dispone a enviar a Oriente Medio 3.000 efectivos de la 82ª División Aerotransportada de infantería, aunque aún no se ha tomado una decisión que implique un despliegue en territorio iraní, según informan diversos medios locales,La corresponsal jefe de Seguridad Nacional del canal Fox News, Jennifer Griffin, aseguró en la red social X que el comandante de la 82 Aerotransportada, el general Brandon Tegtmeier, ha recibido la orden de desplegarse en Oriente Medio, \"mientras el Pentágono y la Casa Blanca evalúan la posibilidad\" de que estos efectivos lleven a cabo posibles operaciones terrestres. El rotativo The New York Times ya adelantó el lunes que Washington sopesaba enviar a esta división a la región.Por su parte, The Wall Street Journal, que citó a dos funcionarios estadounidenses anónimos, afirma que el Pentágono está planeando que 3.000 efectivos de \"la 82\" (una de las unidades de élite del Ejército estadounidense) se desplacen a Oriente Medio para dar apoyo a los ataques que EEUU lleva a cabo desde el pasado 28 de febrero con el apoyo de Israel.Desde hace días se especula con la posibilidad de que Washington realice despliegues de soldados en puntos como la isla de Jarg, donde está el principal centro petrolero de Irán, o otros puntos del territorio iraní para realizar distintas misiones, una decisión que podría deparar un rechazo destacable por parte de la opinión pública, según muestran algunos sondeos.Una encuesta de Reuters e Ipsos de la semana pasada muestra que el 55% de estadounidenses está en contra de un despliegue de tropas en Irán, mientras que un 34% apoyaría solo el envío de un pequeño operativo, con solo un 7% a favor de un gran contingente sobre el terreno.El lunes, el presidente estadounidense, Donald Trump, anunció que pospondría durante cinco días los ataques contra las centrales eléctricas iraníes con los que había amenazado a Irán si no desbloqueaba el Estrecho de Ormuz, por donde pasa una quita parte del crudo que se exporta en el mundo, tras haber mantenido conversaciones \"productivas\" con Teherán.Representantes de la República Islámica, sin embargo, niegan que se hayan producido contactos directos y que Washington haya tratado de ponerse en contacto con Teherán."
   },
   {
-    "titulo": "Los médicos del Madrid se equivocaron de rodilla en el diagnóstico inicial de Mbappé, lo que retrasó su recuperación",
-    "medio": "El País",
-    "fecha": 1774382913.0,
-    "link": "https://elpais.com/deportes/futbol/2026-03-24/los-medicos-del-madrid-se-equivocaron-de-rodilla-en-el-diagnostico-inicial-de-mbappe-lo-que-retraso-su-recuperacion.html",
-    "resumen": "El club examinó imágenes de la pierna derecha del jugador francés cuando la lesión estaba en la izquierda, donde se observó un esguince casi un mes después"
-  },
-  {
     "titulo": "La izquierda gana elecciones danesas pero Frederiksen obtiene el peor resultado socialdemócrata en un siglo",
     "medio": "Infolibre",
     "fecha": 1774382877.0,
     "link": "https://www.infolibre.es/internacional/izquierda-gana-elecciones-danesas-frederiksen-cosecha-peor-resultado-socialdemocratas-siglo_1_2167528.html",
     "resumen": "El bloque de izquierda de la primera ministra socialdemócrata, Mette Frederiksen, ganó este martes las elecciones legislativas danesas con el 47,1% de los votos frente al 42,2% de la derecha, según un sondeo a pie de urna de la televisión pública DR, que otorga el papel de árbitro al centrista Los Moderados, con el 8,2%.El Partido Socialdemócrata fue el más votado, con el 19,2%, el peor resultado en un siglo, por delante del Partido Socialista Popular, con el 11,4%; la Alianza Liberal, con el 10,5%, y el Partido Liberal, con el 9,3%, las peores cifras en la historia de la fuerza política que tradicionalmente ha dominado el bloque de derecha.El sondeo de DR otorga a la izquierda 83 escaños por 78 de la derecha y 14 de Los Moderados, mientras que otra encuesta a pie de urna del canal semipúblico TV2 amplía la ventaja de la izquierda a seis puntos porcentuales (49 % frente a 43,1 %) y once mandatos (86 contra 75), aunque seguiría necesitando el apoyo de los centristas.Los cuatro diputados, que se reparten a partes iguales entre los dos territorios autónomos de las Islas Feroe y Groenlandia, podrían ser también decisivos a la hora de decidir la mayoría.En el caso de Groenlandia, los colegios electorales no cierran hasta las 00.00 hora española y el resultado no se conocerá hasta el miércoles.Las cifras de los sondeos apuntan a un descenso de las tres fuerzas que gobernaron juntas la pasada legislatura -socialdemócratas, Partido Liberal y centristas-, una fórmula inédita en la política danesa a la que recurrió Frederiksen aludiendo a la difícil situación geopolítica, a pesar de que tenía mayoría con la izquierda, con cuyo apoyo había dirigido el país entre 2019 y 2022.Los socialdemócratas retrocederían 8 puntos y perderían 16 diputados, según el sondeo de DR; el Partido Liberal de Troels Lund Poulsen, actual ministro de Defensa, perdería 4 puntos y 7 escaños, y dejaría de ser la fuerza más votada de la derecha, mientras que Los Moderados, del exprimer ministro liberal y ahora titular de Exteriores, Lars Løkke Rasmussen, caerían un punto y perderían dos escaños.En el bloque de izquierda, la fuerza política que más avanza sería el Partido Socialista Popular, más de tres puntos, confirmando el histórico triunfo logrado en las elecciones europeas de 2024 y el buen resultado en las municipales de hace cuatro meses, en las que arrebató a los socialdemócratas la alcaldía de Copenhague después de un siglo.En el bloque de derecha, el gran triunfador sería la Alianza Liberal, que se convertiría en primera fuerza del bloque, a pesar de las dudas sobre los efectos de la confesión en campaña de su líder, Alex Vanopslagh, de que había consumido cocaína en varias ocasiones al principio de su presidencia del partido.El ultraderechista Partido Popular Danés, fuerza precursora hace dos décadas de una línea dura en inmigración en Dinamarca y el resto de Escandinavia, recuperaría peso en la política danesa tras la debacle de 2022, triplicando sus votos hasta el 7,5 %.Hasta doce fuerzas políticas superarían la barrera mínima del 2% para entrar en el Folketing (parlamento danés), el mismo número que en la actualidad."
-  },
-  {
-    "titulo": "¿Estaba girado el foro de Barcino? La nueva teoría confronta a los arqueólogos",
-    "medio": "La Vanguardia",
-    "fecha": 1774382854.0,
-    "link": "https://www.lavanguardia.com/cultura/20260324/11498371/girado-foro-barcino-nueva-teoria-confronta-arqueologos.html",
-    "resumen": "La presentación de la nueva teoría sobre la gran plaza romana levanta un vivo debate científico"
   },
   {
     "titulo": "Un ingeniero clave de Microsoft explica por qué la interfaz de Windows es un desastre",
@@ -217,32 +420,11 @@
     "resumen": "Durante décadas, los usuarios de Windows hemos convivido con una experiencia visual cargada de inconsistencias. Desde ventanas con estilos distintos hasta menús y pantallas de configuración que mantienen el mismo diseño de Windows 98. Esto no es casualidad, ya que, según uno de los arquitectos más influyentes en la historia de Microsoft, la compañía lleva […] Seguir leyendo: Un ingeniero clave de Microsoft explica por qué la interfaz de Windows es un desastre"
   },
   {
-    "titulo": "Trabajo acusa a Economía de intentar boicotear el acuerdo de gobierno por el registro horario",
-    "medio": "El País",
-    "fecha": 1774382578.0,
-    "link": "https://elpais.com/espana/2026-03-24/trabajo-acusa-a-economia-de-intentar-boicotear-el-acuerdo-de-gobierno-por-el-registro-horario.html",
-    "resumen": "El dictamen desfavorable del Consejo de Estado desata las críticas del ministerio de Yolanda Díaz, que confía en su pronta aprobación y asegura que la batalla ya está ganada en el Gobierno"
-  },
-  {
-    "titulo": "El Gobierno vasco vuelve a pedir el traslado «temporal» del ‘Guernica’ al Guggenheim",
-    "medio": "The Objective",
-    "fecha": 1774382509.0,
-    "link": "https://theobjective.com/espana/pais-vasco/2026-03-24/gobierno-vasco-temporal-guernica-euskadi/",
-    "resumen": "El Gobierno Vasco ha solicitado al Ejecutivo central el traslado «temporal» del Guernica de Picasso «a Euskadi», una solicitud realizada este martes en Madrid por la […]"
-  },
-  {
     "titulo": "María Jesús Montero, la candidata que deja deberes en Moncloa y buscará su propio 'Domingo de Resurrección'",
     "medio": "HuffPost",
     "fecha": 1774382487.0,
     "link": "https://www.huffingtonpost.es/politica/maria-jesus-montero-candidata-andaluza-psoe-deja-deberes-moncloa-f202603.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El PP rompe su pacto con el PSOE en Bruselas y votará con Vox y sus aliados impulsar la deportación de ilegales",
-    "medio": "OK Diario",
-    "fecha": 1774382458.0,
-    "link": "https://okdiario.com/espana/pp-rompe-pacto-psoe-bruselas-votara-vox-sus-aliados-impulsar-deportacion-ilegales-16473655",
-    "resumen": "El Partido Popular Europeo (PPE), en el que existe una representación mayoritaria del PP español, se alineará, por primera vez, en el Pleno del Parlamento Europeo con Patriots (grupo parlamentario al que pertenece Vox) y contra los socialistas, en cuyo grupo está integrado el PSOE de Pedro Sánchez, para impulsar las deportaciones de inmigrantes en situación irregular … Continuar leyendo \"El PP rompe su pacto con el PSOE en Bruselas y votará con Vox y sus aliados impulsar la deportación de ilegales\""
   },
   {
     "titulo": "Estados Unidos llevaba 20 años sin fabricar su uranio más crítico. Acaba de resucitar su producción con un viejo truco de la metalurgia",
@@ -257,13 +439,6 @@
     "fecha": 1774382454.0,
     "link": "https://www.trendencias.com/hombres/lamine-yamal-tiene-zapatillas-color-cromo-que-parecen-futuro-colaboracion-unica-adidas-que-nos-remite-a-nostalgia-y2k",
     "resumen": "En un momento en el que el fútbol y la moda van más de la mano que nunca, Lamine Yamal ha vuelto a marcar tendencia fuera del terreno de juego, ahora el joven talento ha lucido unas zapatillas que parecen sacadas directamente del futuro, pero que en realidad miran bastante al pasado: se trata de la próxima edición de las Sp5der x adidas F50 Formotion, una colaboración que mezcla tecnología, estética Y2K y ese punto nostálgico que lo está petando. Lo primero que llama la atención de este modelo es el acabado cromado, ese tono plateado casi espejo que no pasa desapercibido y conecta de lleno con la obsesión actual por todo lo futurista que, en realidad, bebe de los años 2000 y que nos remonta a una época en la que el deporte y la tecnología se imaginaban como algo casi espacial, con siluetas agresivas y materiales que parecían imposibles. En Xataka Irán está explotando el punto débil de EEUU: no son sus F-35 ni sus misiles Patriot, es la factura cada vez que despegan Detrás de este lanzamiento no sólo está la silueta de Adidas, sino que está también el universo creativo de Sp5der, firma creada por el rapero Young Thug, que ha sabido conectar con la estética urbana más actual sin perder ese aire caótico y experimental, y que ha dado como resultado una mezcla de estilos que funciona a la perfección para conquistar la calle. Que el modelo F50 Formotion haya sido el elegido para esta colaboración no es casualidad. Fue uno de los diseños más icónicos de Adidas en la década de los 2000, y su regreso conecta directamente con esa nostalgia que ahora domina tanto la moda como el deporte, por lo que recuperar esta silueta con un acabado metálico es casi una declaración de intenciones. Por esta razón, no nos sorprende que sea Yamal el elegido para ser de los primeros en llevarlas: al ser parte de una nueva generación que no tiene miedo a mezclar referencias, a jugar con la estética y a convertir cualquier detalle en parte de su identidad, estas zapatillas son parte esencial de una forma de expresión de los nuevos chicos con estilo. Sobre su lanzamiento, este modelo está previsto llegar a las tiendas el próximo mes de junio con un costo aproximado de 190 dólares, cabe destacar que parece ser un lanzamiento de edición limitada, por lo que lo ideal será estar atentos a su llegada para no dejarlas ir. Fotos de Lamine Yamal | GOAT En Trendencias | Las zapatillas de Reebok color nube de chuchería son perfectas para seguir la tendencia romántica de esta primavera 2026 En Trendencias | Nike tiene las zapatillas favoritas de los amantes del café: un modelo inspirado en el skate para llevar en la merienda y disfrutar con tus galletas favoritas - La noticia Lamine Yamal tiene las zapatillas color cromo que parecen del futuro: una colaboración única con Adidas que nos remite a la nostalgia Y2K fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "Más allá de las Kodak: las mejores cámaras desechables",
-    "medio": "La Vanguardia",
-    "fecha": 1774382400.0,
-    "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260324/11497220/mas-kodak-mejores-camaras-desechables-fotos-vintage-viajes.html",
-    "resumen": "Si quieres captar los mejores momentos de tus viajes con un toque retro, opta por una de estas cámaras desechables tan prácticas y originales"
   },
   {
     "titulo": "Anna Traveset, doctora en ciencias: \"Una serpiente escondida en un cargamento militar colapsó el sistema y eliminó a todas las aves de una isla de 549 kilómetros cuadrados\"",
@@ -294,32 +469,11 @@
     "resumen": "Según los sondeos a pie de urna, Frederiksen, primera ministra y líder del partido, seguirá dependiendo del apoyo de los moderados para mantenerse al frente de un Gobierno de coalición Leer"
   },
   {
-    "titulo": "Trump dice que Irán le ha dado «un regalo muy grande» relacionado con el estrecho de Ormuz",
-    "medio": "The Objective",
-    "fecha": 1774381646.0,
-    "link": "https://theobjective.com/internacional/2026-03-24/trump-iran-regalo-grande-relacionado-ormuz/",
-    "resumen": "El presidente de EEUU, Donald Trump, dijo este martes que Irán le ha hecho a su país «un regalo muy grande» ligado al estrecho de Ormuz, […]"
-  },
-  {
-    "titulo": "\"El poderío militar americano que sostuvo el orden mundial durante 80 años va a ser usado ahora para destruirlo\"",
-    "medio": "HuffPost",
-    "fecha": 1774381500.0,
-    "link": "https://www.huffingtonpost.es/sociedad/elio-militar-americano-sostuvo-orden-mundial-80nos-usado-destruirlo-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Un hombre resulta herido en el cuello de un disparo en una discusión en Alicante",
     "medio": "El Español",
     "fecha": 1774381157.0,
     "link": "https://www.elespanol.com/alicante/alicante-ciudad/20260324/hombre-resulta-herido-cuello-disparo-discusion-alicante/1003744182628_0.html",
     "resumen": "Vecinos del barrio apuntan que el proyectil le habría atravesado el cuello y que el altercado estaría relacionado con un conflicto de carácter familiar. Más información: Muere un hombre colombiano al recibir un disparo en el balcón de su piso del barrio de Carolinas de Alicante"
-  },
-  {
-    "titulo": "Rusia cambia las normas: las mujeres que digan a su médico que no quieren hijos serán derivadas al psicólogo para corregir su \"actitud negativa\"",
-    "medio": "HuffPost",
-    "fecha": 1774381116.0,
-    "link": "https://www.huffingtonpost.es/sociedad/rusia-cambia-normas-mujeres-digan-medico-no-quieren-hijos-seran-derivadas-psicologo-corregir-actitud-negativa-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "Irán anuncia la reapertura del estrecho de Ormuz a buques \"no hostiles\" y de países no vinculados a la \"agresión\"",
@@ -343,13 +497,6 @@
     "resumen": "El Gobierno Vasco ha solicitado al Ejecutivo central el traslado \"temporal\" del Guernica de Picasso a Euskadi, una solicitud realizada este martes en Madrid por la vicelehendakari Ibone Bengoetxea y \"ya expresada\" por el lehendakari, Imanol Pradales, al presidente Pedro Sánchez.El motivo de esta petición es el deseo de contar con el emblemático cuadro en el marco 90 aniversario del primer Gobierno Vasco y del bombardeo de Gernika. Propone que la pintura se traslade al Guggenheim de Bilbao para su exposición entre el 1 de octubre de este año y el 30 de junio de 2027, informa el Gobierno Vasco en una nota este martes.La vicelehendakari primera y consejera de Cultura y Política Lingüística ha reiterado esta petición al ministro de Cultura, Ernest Urtasun, en una reunión en la que subrayado el \"profundo significado histórico, simbólico y emocional\" para la sociedad vasca que tiene la obra que el Gobierno de la República encargó al artista malagueño y que se expone en el Museo Reina Sofía, además de suponer \"un gesto de reparación y dignificación\".\"El Ejecutivo vasco considera que este gesto tendría un alto valor simbólico en un contexto especialmente significativo, marcado por el 90 aniversario de la constitución del primer Gobierno Vasco y del bombardeo de Gernika. El traslado del Guernica contribuiría a reforzar la memoria histórica y a proyectar, desde el presente, un mensaje claro en favor de la democracia, la libertad y la convivencia', ha remarcado Bengoetxea.La vicelehendakari ha calificado el encuentro con Urtasun de \"constructivo\", ya que \"ha permitido reforzar la relación bilateral entre Euskadi y el Gobierno español desde el respeto a las competencias y con la voluntad de mejorar la coordinación entre instituciones\".Además, el Gobierno Vasco ha trasladado al ministro varias \"cuestiones prioritarias\", como \"la necesidad de revisar el IVA aplicado al arte para alinearlo con Europa y fortalecer el sector\", así como \"el avance del Estatuto del Artista, ámbito en el que Euskadi ya ha impulsado mejoras fiscales junto a las diputaciones forales\".También ha hablado de \"la consolidación del Alto Horno de Sestao como referente de patrimonio industrial mediante un compromiso de financiación compartido\" y se ha incidido \"en la importancia de mejorar la coordinación en las políticas culturales y en los mecanismos de gestión entre el Estado y las comunidades autónomas\"."
   },
   {
-    "titulo": "Real Madrid - Hapoel Tel Aviv, en directo Euroliga: resultado, valoraciones y estadísticas en vivo",
-    "medio": "El Español",
-    "fecha": 1774380600.0,
-    "link": "https://www.elespanol.com/deportes/20260324/real-madrid-hapoel-tel-aviv-directo-euroliga-resultado-valoraciones-estadisticas-vivo/1003744181820_22.html",
-    "resumen": "El Real Madrid recibe al Hapoel Tel Aviv en un duelo de alta tensión marcado por la seguridad. Los blancos, que buscan su duodécima victoria seguida como locales en Europa, se enfrentan a un conjunto israelí que ya sorprendió recientemente al Barcelona"
-  },
-  {
     "titulo": "Tres familias controlan el 57% de la riqueza de las grandes fortunas en España: las de Amancio Ortega, Rafael del Pino y Juan Roig",
     "medio": "Xataka",
     "fecha": 1774380600.0,
@@ -364,13 +511,6 @@
     "resumen": "Desea que esté en Bilbao entre octubre de 2026 y junio de 2027, aunque la operación fue rechazada en el pasado por problemas técnicosAlemania pide perdón en Gernika por el bombardeo nazi de 1937 con el rey de España como testigo silencioso El lehendakari, Imanol Pradales, y la vicelehendakari, Ibone Bengoetxea, han pedido formalmente al presidente del Gobierno, Pedro Sánchez, y al ministro de Cultura, Ernest Urtasun, respectivamente, el traslado “temporal” del 'Guernica' de Pablo Picasso al Guggenheim de Bilbao para que esté expuesto nueve meses en el marco del nonagésimo aniversario tanto de la constitución del primer Ejecutivo autonómico (octubre de 1936) como posteriormente del propio bombardeo de Gernika por parte de la aviación nazi al servicio de los sublevados franquistas (abril de 1937). Fuentes de la Presidencia vasca indican que Pradales había lanzado ya la idea a Sánchez en una de sus reuniones -este viernes celebran una más en La Moncloa- y este mismo martes Bengoetxea ha repetido el mensaje a Urtasun, ya con más concreciones. Según ha informado EiTB, el deseo es que esté en el Guggenheim entre el 1 de octubre de 2026 y el 30 de junio de 2027. Sería un “gesto” de “profundo significado histórico, simbólico y emocional”, interpreta el Ejecutivo vasco. No es la primera vez que se abre el debate del traslado del 'Guernica' a Euskadi. El último intento fue el del alcalde de Gernika, José María Gorroño, que hace cinco años hizo de este cuadro el gran atractivo del pretendido nuevo Guggenheim de Urdaibai, que no verá la luz. El cuadro fue encargado por el Gobierno legítimo de España para la exposición universal de París con el ánimo de denunciar en el mundo la masacre y pronto se convirtió en símbolo mundial de paz. Se da la circunstancia de que el Gobierno vasco contrató al local Aurelio Arteta otra obra similar con los mismos fines, una pieza que acabó en una colección privada y que ha sido recuperada ahora para el patrimonio público porque fue usada como pago en especie de una deuda fiscal con la Hacienda de Álava. El cuadro está ahora mismo en el Reina Sofía, en Madrid. Cuando a finales de 2024 el presidente de Alemania, Frank Walter Steinmeier quiso pedir perdón por el bombardeo de 1937 lo visitó antes de visitar la localidad de Bizkaia. En 2012, los portavoz del PNV en Congreso y Senado, Aitor Esteban e Iñaki Anasagasti, preguntaron por un posible traslado al entonces ministro de Cultura, José Ignacio Wert, del PP. Señaló que la negativa no había variado porque un traslado comprometería la integridad de la obra de arte. “Nuestra obligación principal es que el cuadro se conserve”, zanjó. El cuadro regresó a España en 1981 tras estar preservado en el exilio, en Nueva York, y ha tenido tres ubicaciones diferentes en Madrid."
   },
   {
-    "titulo": "La tecnológica Oesía logró en 2025 los mejores resultados económicos de su historia",
-    "medio": "The Objective",
-    "fecha": 1774380539.0,
-    "link": "https://theobjective.com/economia/2026-03-24/oesia-resultados-economicos/",
-    "resumen": "El Grupo Oesía ha presentado este martes sus resultados económico-financieros de 2025, que marcan la finalización de su «exitoso» plan estratégico 2021-2025, situando a la tecnológica […]"
-  },
-  {
     "titulo": "Aldama declaró al juez que Zapatero canalizó tras la visita de Delcy la venta de petróleo de PDVSA para financiar al PSOE",
     "medio": "El Español",
     "fecha": 1774380538.0,
@@ -378,46 +518,11 @@
     "resumen": "Afirmó que se anticiparon cinco millones en una cuenta de Rusia, pero que perdió el control de la operación cuando intervino el expresidente. Francisco Flores, ligado al narco y muerto en febrero, era la persona que tenía la licencia para operar los cupos de crudo. Zapatero desmiente a Aldama y asegura que lo declarado por el empresario \"es una patraña absoluta\"."
   },
   {
-    "titulo": "Los astrónomos no dan crédito: un telescopio capta un láser natural a 8.000 millones de años luz que es miles de millones de veces más brillante que cualquier señal registrada antes",
-    "medio": "HuffPost",
-    "fecha": 1774380398.0,
-    "link": "https://www.huffingtonpost.es/planeta/astronomos-dan-credito-telescopio-capta-laser-natural-8000-millones-anos-luz-miles-millones-veces-mas-brillantenal-registrada-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El cartel que aparece en un restaurante de Turquía sobre Pedro Sánchez tras su choque con Trump dice mucho de cómo le ven allí",
-    "medio": "HuffPost",
-    "fecha": 1774380202.0,
-    "link": "https://www.huffingtonpost.es/virales/aparece-cartel-sobre-pedro-sanchez-restaurante-turco-lio-trump-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La socialdemócrata Frederiksen gana las elecciones de Dinamarca, pero sufre un fuerte retroceso",
-    "medio": "La Vanguardia",
-    "fecha": 1774379935.0,
-    "link": "https://www.lavanguardia.com/internacional/20260324/11498345/frederiksen-dinamarca-elecciones-socialdemocrata.html",
-    "resumen": "El bloque de partidos de izquierda supera al bloque de derecha, pero ninguno logra la mayoría necesaria en el Folketing, el Parlamento unicameral danés"
-  },
-  {
-    "titulo": "Arabia Saudí presiona a Trump para seguir en guerra con Irán: «Es una oportunidad histórica»",
-    "medio": "The Objective",
-    "fecha": 1774379749.0,
-    "link": "https://theobjective.com/internacional/2026-03-24/arabia-saudi-presiona-trump-guerra-iran-oportunidad-historica/",
-    "resumen": "El príncipe heredero de Arabia Saudí, Mohammed bin Salman, ha trasladado en los últimos días al presidente de Estados Unidos, Donald Trump, la conveniencia de mantener […]"
-  },
-  {
-    "titulo": "Carmen Maura, más allá de la actriz: su edad, dos hijos y por qué no ha vuelto a enamorarse",
-    "medio": "The Objective",
-    "fecha": 1774379700.0,
-    "link": "https://theobjective.com/gente/2026-03-24/carmen-maura-mas-alla-de-la-actriz-su-edad-dos-hijos-y-por-que-no-ha-vuelto-a-enamorarse/",
-    "resumen": "Carmen Maura se sienta, esta noche, en El hormiguero. La actriz repasará «algunos de los momentos más destacados de su vida profesional y personal». Además, esta […]"
-  },
-  {
-    "titulo": "La policía que denunció al exDAO vuelve a pedir que se le prohíba comunicarse con ella",
-    "medio": "Infolibre",
-    "fecha": 1774379685.0,
-    "link": "https://www.infolibre.es/igualdad/policia-denuncio-exdao-vuelve-pedir-le-prohiba-comunicarse_1_2167499.html",
-    "resumen": "La inspectora que denunció por presunta agresión sexual al ex director adjunto de la Policía (DAO) José Ángel González ha vuelto a solicitar que se prohíba al ex mando policial comunicarse con ella, al entender que el auto en que denegó esta petición no está motivado e incurre en errores de interpretación.En el escrito, al que ha tenido acceso EFE, el abogado Jorge Pidrafita recurre al auto del titular del Juzgado de Violencia sobre la Mujer número 8 de Madrid en el que rechazó imponer a González, ya jubilado, la prohibición de comunicarse con la denunciante, como había solicitado el letrado de ésta.Lo hizo, siguiendo el criterio de la Fiscalía, al término de la declaración de ambos el pasado 17 de marzo, en un auto en el que argumentó que no aprecia \"riesgo\" suficiente para concederla. \"El investigado ni se ha acercado a ella ni se ha comunicado con la misma desde el mes de julio, y no parece que exista riesgo de que en esta fase de instrucción y una vez practicadas las declaraciones de ambos se pueda producir ningún tipo de presión sobre la querellante, máxime cuando el investigado ya no ostenta el cargo de máxima autoridad policial\", concluía el auto.Ahora el letrado de la denunciante pide que se revoque ese auto y se otorgue la protección, o de forma alternativa que se acuerde la realización de una valoración policial de riesgo actualizada y luego se vuelva a valorar la adopción de la medida. Para esta parte, el auto del juez omite valorar de forma completa uno de los dos requisitos legales que permiten otorgar la protección; \"contrae indebidamente el concepto de riesgo\", y \"deniega una medida cautelar limitada sin una motivación suficiente de necesidad y proporcionalidad\".El extenso recurso incide en que la resolución impugnada \"no exterioriza una valoración completa de las circunstancias del caso, sino una apreciación parcial que conduce indebidamente a negar la protección interesada\". Y pone de relieve que \"el riesgo relevante no se agota en evitar presiones sobre la prueba, sino que comprende también la prevención de contactos no deseados, intimidaciones, perturbaciones y revictimización durante la instrucción\".En las declaraciones del pasado día 17 la inspectora ratificó ante el juez su querella por agresión sexual contra el que era número dos del Cuerpo y que dimitió tras la denuncia, mientras que él negó los hechos y atribuyó esta acusación a \"maldad, ruindad y odio\" de su subordinada.La defensa del exDAO, ejercida por los letrados José Carlos Velasco y Juan Ignacio Fúster-Fabra, presentó luego un escrito en el que se sostiene que la agente solo quiere \"causar el mayor mal\" y argumentar que había una relación de jerarquía entra ambos para poder percibir una pensión. Lo hizo en un escrito en el que solicita que se aperciba al letrado de la acusación particular por revelar públicamente el contenido de las actuaciones."
+    "titulo": "La primera ministra socialdemócrata gana las elecciones en Dinamarca pese a perder apoyos, según los sondeos",
+    "medio": "eldiario.es",
+    "fecha": 1774379792.0,
+    "link": "https://www.eldiario.es/internacional/primera-ministra-socialdemocrata-gana-elecciones-dinamarca-pierde-apoyos_1_13094980.html",
+    "resumen": "Mette Frederiksen ha vuelto a ganar, de acuerdo con los sondeos a pie de urna, pero pierde el 13% de los votos respecto a los anteriores comiciosElecciones en Dinamarca: la primera ministra socialdemócrata busca un tercer mandato tras la crisis de Groenlandia La primera ministra socialdemócrata, Mette Frederiksen, ha ganado las elecciones generales de este martes en Dinamarca con el 21% de los votos, según los sondeos a pie de urna difundidos por TV2. A pesar de su victoria, los sondeos también indican que los socialdemócratas han bajado 13 puntos porcentuales, unos resultados muy lejos de los conseguidos en los anteriores comicios parlamentarios. Cuando faltaban cuatro horas para el cierre de los colegios electorales, a las 20.00 de Dinamarca, la participación había sido de un 50%, ligeramente superior a la de hace cuatro años. Los analistas han señalado que el Gobierno de coalición entre socialdemócratas (A), Liberales (V) y Moderados (M) le ha pasado factura a las tres formaciones que lo integraban. En contraste con la frialdad con la que los socialdemócratas han recibido las encuestas a pie de urna el martes por la noche, los sondeos muestran una posición crucial para los Moderados, liderados por el ministro de Exteriores, Lars Løkke Rasmussen. A pesar de que su formación retrocedería en votos (7,9%), su papel se perfila como clave para otorgar una mayoría parlamentaria tanto a los partidos del bloque progresista como a los del bloque conservador. En total, las formaciones progresistas obtendrían 86 escaños en el Parlamento, mientras que las del bloque conservador ocuparían 75. En este escenario, los 14 escaños que las encuestas atribuyen a los Moderados serán determinantes para alcanzar la mayoría de 90 diputados en un hemiciclo de 179 escaños. El otro partido que sale muy damnificado en las encuestas a pie de urna es el de los Liberales (V), con un 9% de los votos. El candidato de esta formación, Troels Lund Poulsen, actual ministro de Defensa, aspira a ser primer ministro. Pero los sondeos indican que los Liberales dejarían de ser la principal fuerza conservadora del hemiciclo en favor de la formación Alianza Liberal (LA), que alcanzaría un 10% de los votos. Si estos pronósticos se confirman, Mette Frederiksen estaría a punto de conseguir una victoria para los socialdemócratas que, tan solo unos meses atrás, se veía muy difícil. Sin embargo, Frederiksen experimentó un repunte espectacular en las encuestas durante el mes de enero, coincidiendo con la peor crisis diplomática de la historia entre Dinamarca y Estados Unidos por Groenlandia. Ante las ambiciones y la retórica agresiva de Donald Trump, Frederiksen hizo una defensa vehemente de la soberanía danesa sobre el territorio ártico, además de mostrar unidad con el Gobierno autonómico de Nuuk, lo que le dio una imagen de firmeza ante los votantes. Del euroescepticismo a necesitar a la UE Mette Frederiksen ha sido la líder del partido socialdemócrata desde el año 2015 y, cuatro años más tarde, en 2019, se convirtió en la primera ministra más joven (41 años) en la historia de Dinamarca. Antes de eso, también fue ministra de Empleo (2011-2014) y de Justicia (2014-2015). Como primera ministra, Frederiksen ha llevado a cabo una política de defensa del amplio Estado del bienestar que caracteriza al sistema del país nórdico, al mismo tiempo que ha impuesto una de las legislaciones más duras contra la inmigración, duramente criticada por las ONG y organismos internacionales como la ONU. Esta combinación inusual para un partido socialdemócrata le ha servido para evitar la subida de los partidos de ultraderecha en Dinamarca, aunque su retórica en contra de la llegada de solicitantes de asilo a menudo la ha acercado demasiado a los postulados ultraderechistas. Inicialmente, Frederiksen fue considerada como una de las líderes más euroescépticas. Sin embargo, esta postura ha cambiado desde la invasión rusa de Ucrania y la creciente incertidumbre sobre las garantías de seguridad que ha planteado la vuelta del presidente Donald Trump a la Casa Blanca. En los últimos años de mandato de Frederiksen, Dinamarca ha apoyado la cooperación entre países europeos en materia de seguridad, así como la adquisición conjunta de material de defensa. Del mismo modo, el país nórdico también se ha distanciado del grupo de países europeos fiscalmente conservadores, denominados “los cuatro frugales” (Austria, Países Bajos, Finlandia y Suecia), y la propia Frederiksen ha llegado a afirmar que la unidad europea “se había convertido en una necesidad de seguridad”. Uno de los episodios que han hecho tambalear la continuidad de Frederiksen al frente del país nórdico se produjo durante la pandemia de Covid-19, cuando su Gobierno ordenó, en el año 2020, sacrificar a toda la población de visones de Dinamarca (17 millones de animales) por miedo a que pudieran contagiar el virus. Una investigación posterior concluyó que la medida carecía de fundamento legal y que el Gobierno de Frederiksen “engañó gravemente a la opinión pública”, aunque también se determinó que la primera ministra no era consciente de que se había extralimitado en sus funciones. Este escándalo de los visones no ha sido un caso aislado en el mandato de Frederiksen, una figura que polariza a los daneses. La decisión de su Gobierno de abolir un día festivo en el calendario (Store Bededag, “Gran Día de Oración”) para financiar el aumento del gasto en defensa enfureció a los trabajadores y a Frederiksen la acusaron de dirigir el país con un estilo autoritario."
   },
   {
     "titulo": "El Gobierno amplía en 806 millones el límite de gasto para Correos hasta 2030 para prestar servicios públicos",
@@ -425,13 +530,6 @@
     "fecha": 1774379485.0,
     "link": "https://www.expansion.com/empresas/2026/03/24/69c2e1c2468aeb7d668b459a.html",
     "resumen": "Leer"
-  },
-  {
-    "titulo": "Rafa Nadal, doctor honoris causa por la Universidad Politécnica de Madrid: \"El éxito puede ser engañoso\"",
-    "medio": "El Mundo",
-    "fecha": 1774379430.0,
-    "link": "https://www.elmundo.es/deportes/2026/03/24/69c2bc9721efa046618b4591.html",
-    "resumen": "La Universidad Politécnica justifica la distinción por el esfuerzo y la perseverancia que ha transmitido el tenista durante una carrera en la que ha ganado 22 Grand Slams Leer"
   },
   {
     "titulo": "Los Socialdemócratas ganan las elecciones en Dinamarca, pero el centro decidirá el gobierno, según los sondeos a pie de urna",
@@ -455,13 +553,6 @@
     "resumen": "Las zapatillas de deporte son nuestra joya en los looks en clave sporty. Unas buenas sneakers pueden levantar hasta el outfit más aburrido y si estás en busca de unas para andar que sean súper estilosas, nosotras te ponemos las cosas más fáciles porque hemos hecho una selección de las más trendy de tiendas, las favoritas de las fashion icons. Lo mejor es que, además de ser perfectas para una buena caminata por el monte o un paseo por la ciudad, pueden acompañarte hasta una reunión de trabajo o incluso una cena formal. La clave está en combinarlas con actitud. De la montaña a la ciudadNo podíamos empezar de otra forma que recomendándote unas Salomon XT-6 en marrón chocolate. Estas sneakers, aparte de ser un acierto para hacer hiking también se cuelan en los looks de las city girls. Puedes llevarlas con unos pantalones parachute a prueba de lluvia y un chubasquero un domingo por la mañana dispuesta a hacer unos cuantos kilómetros, pero también un viernes noche con unos pantalones de traje y un tank top. Su precio es de 180 euros. Salomon XT-6 Hiking y tarde de comprasOtra de nuestra opciones favoritas del momento son estas New Balance 740 en el color Pantone del año: el Cloud Dancer. Nos encantan para los looks sporty junto con unas legings de corte flare y un sujetador deportivo, aunque también quedan de cine con vestidos de corte midi. Cuestan 120 euros y son una inversión que merece totalmente la pena. New Balance 740 Las favoritas de las celebritiesCada vez vemos a más famosas que apuestan por las sneakers de la firma On Running. Lo cierto es que para hacer deporte son una opción excelente y con los looks de estilo pilates mom no pueden quedar mejor. Eso sí, también puedes combinarlas con bermudas vaqueras y una camiseta en colores neutros. Nuestra favoritas son estas Cloudhorizon 2 en color malva por 180 euros. On Running Cloudhorizon 2 Sneakers barefoot pero estilosasEl calzado barefoot está de moda, aunque es cierto que dar con un modelo que sea respetuoso con la forma de nuestro pie y a la par sea una propuesta con un diseño atractivo no es tan sencillo. Al menos eso pensábamos hasta que vimos la nueva línea Melrose de Lejan. Y es que han sacado modelos de los más chic. Nuestras zapatillas favoritas son estas en amarillo mostaza por 130 euros. Lejan Melrose Todo al rosa pastelComo buenas fans de los tonos pastel, sí o sí queríamos añadir unas sneakers en las que estos tonos fueran los protagonistas. Hoka tiene las Bondie 9, unas zapatillas ideales para caminar que también puedes ponerte con jeans y sudaderas oversize, apostando una estética athleisure en tu día a día. Hoka Bondie 9 Cuestan 180 euros y son un calzado que en cuanto lo pruebas ya no quieres ponerte otra cosa porque pocas cosas hay más cómodas que estas deportivas. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | @holliemercedes, Salomon, New Balance, On Running, Lejan En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. - La noticia Soy experta en moda y estas son mis zapatillas favoritas para salir a caminar esta primavera: tan bonitas como cómodas fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "Estos QCY MeloBuds Pro ayudan a aislarse sin gastar mucho",
-    "medio": "La Vanguardia",
-    "fecha": 1774378800.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260324/11497464/qcy-melobuds-pro-anc-46db-entrando-fuerte-quienes-buscan-aislarse-gastar-mkt-alie.html",
-    "resumen": "Unos auriculares que apuntan directamente a una necesidad muy concreta: escuchar sin ruido alrededor sin pagar precios altos"
-  },
-  {
     "titulo": "La NASA presenta un ambicioso plan para implementar la Política Espacial Nacional de los Estados Unidos que más bien parece una sobredosis de PowerPoint",
     "medio": "Microsiervos",
     "fecha": 1774378800.0,
@@ -476,39 +567,11 @@
     "resumen": "El hasta ahora senador republicano Markwayne Mullin juró este martes el cargo de secretario de Seguridad Nacional de Estados Unidos en sustitución de Kristi Noem, quien fue cesada por el presidente, Donald Trump.Mullin asume el cargo en un momento especialmente delicado, marcado por el caos en los aeropuertos derivado de la escasez de personal tras el cierre parcial del Departamento de Seguridad Nacional, que se quedó sin fondos ante la falta de acuerdo entre republicanos y demócratas en el Congreso.La fiscal general, Pam Bondi, tomó juramento a Mullin durante un evento en el Despacho Oval de la Casa Blanca presidido por Trump un día después de que el Senado lo ratificara para el cargo. \"No me importa de qué color político sea tu estado. No me importa si son rojos (republicanos) o azules (demócratas). Al final, mi trabajo es ser secretario de Seguridad Nacional y proteger a todos por igual, y lo haremos\", declaró Mullin tras asumir el puesto.El nuevo secretario recordó que, por culpa del cierre, muchos empleados del Departamento de Seguridad Nacional (DHS, en inglés) llevan más de 30 días trabajando sin percibir su sueldo, lo que demuestra su \"dedicación\" a la hora de \"proteger la patria\". \"Nadie va a trabajar más que yo\", dijo Mullin, quien prometió a Trump que no lo defraudará.Mullin, senador republicano de Oklahoma, fue confirmado para el cargo el lunes en el Senado, con una votación de 54 votos a favor y 45 en contra. El nuevo secretario pone fin a una carrera de trece años en el Congreso, donde fue conocido como un negociador clave entre ambas cámaras para aprobar el plan fiscal de Trump en 2025.Mullin sustituye a Noem, cesada a principios de mes, quien encabezó una política migratoria dura que incluyó redadas masivas en Mineápolis que derivaron en la muerte de dos ciudadanos estadounidenses por disparos de agentes federales."
   },
   {
-    "titulo": "El Supremo de Brasil concede prisión domiciliaria \"temporal\" a Jair Bolsonaro",
-    "medio": "eldiario.es",
-    "fecha": 1774378485.0,
-    "link": "https://www.eldiario.es/internacional/supremo-brasil-concede-prision-domiciliaria-temporal-jair-bolsonaro_1_13095164.html",
-    "resumen": "El exmandatario ultraderechista se encuentra actualmente hospitalizado por una neumonía. El pasado mes de septiembre, fue condenado a 27 años de prisión por intento de golpe de EstadoAuge y caída de Jair Bolsonaro: cómo la prisión abre una brecha de moderación para la derecha en Brasil El Tribunal Supremo de Brasil ha concedido este martes prisión domiciliaria “temporal” al expresidente Jair Bolsonaro, condenado a 27 años de cárcel por golpismo y actualmente hospitalizado por una neumonía, han informado fuentes oficiales. El juez Alexandre de Moraes, responsable del caso, ha aceptado parcialmente un recurso de los abogados del líder ultraderechista y respaldado en parte el criterio de la Fiscalía, que el lunes se manifestó a favor del régimen domiciliario al considerar que Bolsonaro “requiere atención constante y cuidadosa”. El magistrado, sin embargo, ha decidido que el exmandatario podrá quedarse en casa por 90 días desde su alta médica, para la que no hay fecha. Después de ese periodo, revaluará las condiciones en las que el exgobernante (2019-2022) tendrá que cumplir el resto de la pena impuesta por el Supremo en septiembre de 2025. El ex jefe de Estado fue hallado culpable de golpe de Estado, por haber tramado con los militares un plan para tratar de retener el poder tras haber perdido las elecciones de 2022 frente al actual mandatario, Luiz Inácio Lula da Silva. El pasado noviembre, Bolsonaro empezó a cumplir la pena de 27 años de cárcel por intento de golpe de Estado en las dependencias de la Superintendencia de la Policía Federal en Brasilia, por orden del Tribunal Supremo. Desde enero, estaba en un complejo penitenciario de la capital brasileña, donde pasó a tener mayor espacio. Durante su encarcelamiento, sin embargo, ha presentado un deterioro de su estado de salud que lo ha obligado a pasar varias veces por el hospital. Desde el pasado 13 de marzo, Bolsonaro, de 71 años, está ingresado en un hospital privado de Brasilia por una neumonía bilateral bacteriana, sin previsión de alta."
-  },
-  {
-    "titulo": "Amanda Peet confiesa que le diagnosticaron cáncer mientras sus padres estaban en paliativos",
-    "medio": "La Vanguardia",
-    "fecha": 1774377771.0,
-    "link": "https://www.lavanguardia.com/gente/20260324/11498301/amanda-peet-confiesa-le-diagnosticaron-cancer-padres-estaban-paliativos.html",
-    "resumen": "La actriz ha relatado de forma desgarradora en 'The New Yorker' el alivio que supuso saber que su enfermedad se encontraba en estadio 1 frente a la tristeza de perder a sus progenitores en pocos meses"
-  },
-  {
-    "titulo": "Montero deja a España al borde de un expediente de Bruselas por incumplimiento de las reglas europeas de gasto",
-    "medio": "El Mundo",
-    "fecha": 1774377722.0,
-    "link": "https://www.elmundo.es/espana/2026/03/24/69c2d1bfe4d4d8615a8b45b8.html",
-    "resumen": "El coste del 'plan anticrisis' provoca que el Estado desborde ya este año incluso los listones más suavizados posibles, según la ex jefa de la AIReF a la que el PSOE reprocha falta de \"discreción\" Leer"
-  },
-  {
     "titulo": "El Supremo de Brasil concede prisión domiciliaria a Bolsonaro durante 90 días por sus problemas de salud",
     "medio": "Infolibre",
     "fecha": 1774377670.0,
     "link": "https://www.infolibre.es/internacional/supremo-brasil-concede-prision-domiciliaria-bolsonaro-durante-90-dias-problemas-salud_1_2167482.html",
     "resumen": "La Corte Suprema de Brasil concedió este martes prisión domiciliaria \"temporal\" al expresidente Jair Bolsonaro, condenado a 27 años de cárcel por golpismo y actualmente hospitalizado por una neumonía, informaron fuentes oficiales.El juez Alexandre de Moraes, responsable del caso, aceptó parcialmente un recurso de los abogados del líder ultraderechista y respaldó en parte el criterio de la Fiscalía, que el lunes se manifestó a favor del régimen domiciliario al considerar que \"requiere atención constante y cuidadosa\".El magistrado, sin embargo, decidió que el exmandatario podrá quedarse en casa por 90 días desde su alta médica, para la que todavía no hay una previsión.Después de ese periodo, revaluará las condiciones en las que el exgobernante (2019-2022) tendrá que cumplir el resto de la pena impuesta por el Supremo por tramar un golpe de Estado tras perder las elecciones de 2022. Bolsonaro cumple su condena desde finales de noviembre pasado, primero en un cuarto especial de la Superintendencia de la Policía Federal en Brasilia y, desde enero, en un complejo penitenciario de la capital brasileña, donde pasó a tener mayor espacio. Durante su encarcelamiento, sin embargo, ha presentado un deterioro de su estado de salud que lo ha obligado a pasar varias veces por el hospital. De hecho, desde el pasado 13 de marzo, Bolsonaro, de 71 años, está ingresado en un hospital privado de Brasilia por una neumonía bilateral bacteriana, sin previsión de alta.El capitán retirado del Ejército abandonó el lunes la unidad de cuidados intensivos y, según el boletín médico de este martes, continúa \"con antibióticos vía endovenosa, apoyo clínico y fisioterapia respiratoria y motora\". Esta última hospitalización aumentó la presión sobre De Moraes, responsable de su reclusión y quien la semana pasada recibió un nuevo recurso de los abogados del exgobernante pidiendo la prisión domiciliaria por motivos \"humanitarios\".En paralelo, el juez, que hasta ahora había denegado todos los pedidos, se reunió la semana pasada con el hijo mayor del expresidente y candidato presidencial, Flávio Bolsonaro, y en la víspera con la esposa del exdirigente ultra, Michelle Bolsonaro.Jair Bolsonaro viene sufriendo diversos problemas médicos que él y su entorno achacan a la puñalada que sufrió en el abdomen en la campaña electoral de 2018. Entre esos trastornos figuran crisis recurrentes de hipo que le llevan a vómitos, los cuales estarían detrás de esta última neumonía bilateral por broncoaspiración, de acuerdo con el equipo médico."
-  },
-  {
-    "titulo": "Barcelona recupera el Casal del Metge tras una rehabilitación integral",
-    "medio": "La Vanguardia",
-    "fecha": 1774377291.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260324/11498333/barcelona-recupera-casal-metge-rehabilitacion-integral.html",
-    "resumen": "El edificio noucentista de la Via Laietana ha sido reformado para mejorar su funcionalidad"
   },
   {
     "titulo": "La IA podría ser un éxito rotundo, pero no para los estudios de cine",
@@ -532,27 +595,6 @@
     "resumen": "La primavera se asoma y es el mejor momento para poner a punto nuestro balcón y terraza para disfrutar del buen tiempo en este espacio de la casa. En las novedades de Lidl he encontrado una malla de ocultación ideal para añadir privacidad y aportar sombra. Su diseño es muy sencillo y está disponible en tres colores: marrón, beige y verde. Sin duda, no tendremos que renunciar a la decoración y podremos combinarlo con un conjunto de mesa y sillas y algún elemento de iluminación ideal para cenar al aire libre. Es resistente a la intemperie, a los rayos UV, al desgarro y a las altas temperaturas. La pantalla de privacidad para el balcón cuenta con 24 ojales de aluminio y 24 metros de cuerda para una fijación más segura. También, existe una opción para vallas con 440 aberturas y 24 metros de cuerda. Otra de sus funciones es la protección contra el viento, que suele ser una de las mayores causas para arruinar un rato de descanso o la lectura de un libro. Está hecha de plástico y su montaje es muy sencillo. Además, si tienes mascotas será una medida protectora y podrán jugar sin peligro. El precio en la web oficial de Lidl es 6,99 euros. Otras mallas similares Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Lidl, Pexels En Trendencias |Cómo unos trozos de tela acabaron iluminando mi casa y siendo mi obsesión decorativa - La noticia Llega a Lidl el próximo jueves 2 de abril la solución para añadir privacidad a los balcones y terrazas: cuesta solo 6,99 euros fue publicada originalmente en Trendencias por Laura Beneyto ."
   },
   {
-    "titulo": "La sufragista adelantada a su tiempo que fue borrada de la historia y sin la que no existiría ‘El mago de Oz’",
-    "medio": "eldiario.es",
-    "fecha": 1774377034.0,
-    "link": "https://www.eldiario.es/spin/sufragista-adelantada-tiempo-borrada-historia-no-existiria-mago-oz-matilda-joslyn-gage-pm_1_13095121.html",
-    "resumen": "Matilda Gage protestó en la inauguración de la Estatua de la Libertad al considerar \"una mentira gigantesca, una parodia y una burla\" el símbolo femenino de la libertad La vida de lucha feminista y reivindicación de la primera abogada de la historia en Italia Un 24 de marzo de hace 200 años nació una de las mujeres sin las que costaría entender el feminismo. Ella fue una de las mujeres que lideraron la Asociación Nacional de Sufragio Femenino (NWSA), que tenía como objetivo conseguir el derecho a voto de las mujeres, y si bien Elizabeth Cady Stanton y Susan B. Anthony son conocidas por gran parte del público, sobre todo estadounidense, el suyo no es así. Hablamos de Matilda Joslyn Gage, sufragista que fue clave en el movimiento, pero que fue cayendo al olvido, en parte porque fue la más radical de todas, no solo centrándose en el sufragio femenino, sino también en defender los derechos humanos de toda la sociedad, incluyendo a los negros e indios. La sufragista olvidada que dio origen al ‘Efecto Matilda’ Nacida bajo el nombre de Matilda Electa Joslyn el 24 de marzo de 1826 en Cícero, una localidad del estado de Illinois, desde su niñez quedó marcada su vida en defensa de los derechos humanos. Y es que creció en una casa que formaba parte de la red clandestina de apoyo a esclavos, conocida como ‘ferrocarril subterráneo’ y que la llevó temprano a la prisión por brindar asistencia a esclavos fugitivos. En 1845 se casó con el comerciante Henry Hill Gage y se mudó a Fayetteville, en el estado de Nueva York. Se trataba de un suburbio de Siracusa que fue origen de movimientos que sucumbieron a la sociedad estadounidense en el siglo XIX, desde abolicionistas a detractores del alcohol, educadores progresistas y sufragistas. En 1852, Matilda Gage se involucró en el movimiento sufragista al hablar en la Convención Nacional de Derechos de las Mujeres que tuvo lugar en Siracusa, y en 1869 entró en la NWSA, donde su trabajo consistía en aquello que no se veía, pero que era esencial. Realizaba todo tipo de tareas, desde organizar convenciones, escribir editoriales, editar periódicos sufragistas a hacer circular peticiones, y siendo parte fundamental de establecer muchos grupos locales y regionales que llevó a que la asociación tuviera una estructura nacional sólida. Entre sus hechos más destacados en el sufragismo femenino está el hecho de haber coescrito junto a Stanton el documento ‘Declaración de derechos de la mujer y acusación contra el gobierno de Estados Unidos’, donde argumentaban que el gobierno violaba la Constitución al “negar a las mujeres el derecho a un jurado en el que pudieran participar otras mujeres (sólo los hombres podían servir como jurado) y someterlas al pago de impuestos sin tener representación política”. La presentaron junto a un grupo pequeño de mujeres cuando se subieron al podio de la celebración del Centenario de Estados Unidos y la leyeron al entonces vicepresidente del país, William A. Wheeler. En 1886, Matilda Gage protestó en la inauguración de la Estatua de la Libertad al considerar “una mentira gigantesca, una parodia y una burla” el símbolo femenino de la libertad cuando las mujeres no podían votar en las elecciones nacionales. Sin embargo, la publicación del libro ‘Mujer, Iglesia y Estado’ en 1893 le valió ser condenada al ostracismo por asegurar que el cristianismo organizado había sido clave para oprimir a las mujeres durante siglos. A pesar de ello, las nuevas generaciones de feminismo han ido recuperando su figura y poniéndola en su lugar de la historia, como una clara influencia en las feministas a partir de la década de los 70. Tanto es así que en 1993 la historiadora de la ciencia Margaret Rossiter acuñó el término ‘Efecto Matilda’ para describir la tendencia a disminuir, ignorar o desacreditar el trabajo de las mujeres científicas. Influyó para que se publicara ‘El Mago de Oz’ La labor de Matilda Joslyn Gage fue más allá del sufragismo femenino, pues luchó por los derechos de los nativos americanos, entre los que admiraba a los iroqueses, que vivían en el estado de Nueva York. Además, ella fue la que animó a su yerno, Lyam Frank Baum, casado con su hija Maud, que publicara las historias que contaba a sus hijos, lo que dio lugar a ‘El maravilloso mago de Oz’. El escritor diría de su suegra que “era la mujer más talentosa y educada de su época”. Gage murió en 1898 a los 71 años debido a un accidente cerebrovascular y no pudo ver ni la publicación de ‘El Mago de Oz’ ni la aprobación del voto a la mujer en Estados Unidos, que no llegaría hasta 1920."
-  },
-  {
-    "titulo": "El Gobierno descarta pedir el cese de Escribano en el consejo de Indra de este miércoles",
-    "medio": "La Vanguardia",
-    "fecha": 1774377027.0,
-    "link": "https://www.lavanguardia.com/dinero/20260324/11498332/gobierno-descarta-pedir-cese-escribano-consejo-indra-miercoles.html",
-    "resumen": "El Ejecutivo tampoco cuenta con garantías de tener los votos necesarios para que una mayoría avale un relevo del presidente"
-  },
-  {
-    "titulo": "Crónica de la agonía de Podemos hecha por sus primeros alcaldes: \"Tengo compañeros de los círculos que votan a Vox\"",
-    "medio": "El Mundo",
-    "fecha": 1774376923.0,
-    "link": "https://www.elmundo.es/cronica/2026/03/24/69bd832e21efa07d158b457d.html",
-    "resumen": "Recuerdan cómo pasaron de la ilusión y el \"miedo\" de sus nombramientos a comprobar cómo la lucha de egos de sus dirigentes destrozaba el partido y minaba sus principios. \"Extendieron sus conflictos a las bases mientras intentábamos gestionar\", dicen. Todos se fueron... Leer"
-  },
-  {
     "titulo": "Trabajo critica los informes del Consejo de Estado y de Economía y seguirá adelante con el registro horario",
     "medio": "Infolibre",
     "fecha": 1774376891.0,
@@ -572,13 +614,6 @@
     "fecha": 1774376316.0,
     "link": "https://www.expansion.com/catalunya/2026/03/24/69c2d51de5fdea8d5c8b45bf.html",
     "resumen": "La comercializadora catalana firma un préstamo con Cofides para financiar la adquisición del 17% de la empresa lusa, el último paquete accionarial que seguía en manos de socios minoritarios. Leer"
-  },
-  {
-    "titulo": "Los Tedax desalojan la glorieta de San Bernardo tras detener a un hombre con una granada de la Guerra Civil en el bolsillo",
-    "medio": "El Mundo",
-    "fecha": 1774375726.0,
-    "link": "https://www.elmundo.es/madrid/2026/03/24/69c2d171e85ece17378b45b9.html",
-    "resumen": "Acababa de quemar un contenedor de escombros Leer"
   },
   {
     "titulo": "Ignacio Garriga (Vox) llama a \"apartar\" a Feijóo de las negociaciones en Extremadura, CyL y Aragón",
@@ -602,32 +637,11 @@
     "resumen": "Quien intente descargar 'Torrente, presidente' por vías no oficiales se encontrará, en lugar de la película, con un mensaje en vídeo de Santiago Segura pidiéndole que vaya al cine. No es la primera vez: el director madrileño lleva usando esta misma táctica y este mismo vídeo desde 2005, con 'Torrente 3'. Torrente te engaña. La sexta entrega de la saga más taquillera del cine español lleva once días en cines y ya acumula más de 16 millones de euros de recaudación. Es la película más vista en España en lo que va de año, y sin embargo, quien descargue la película vía torrent encontrará un clip en el que Santiago Segura pide al espectador, con su desenfadado tono habitual, que vaya al cine. El vídeo lleva como título 'Torrente, presidente... ¿o no?' pesa tan solo 22 MB y su duración es de un minuto y medio. Es imposible confundirlo con una película completa, pero el nombre del archivo cumple perfectamente su función: aparecer en los resultados de búsqueda donde un usuario esperaría encontrar la película real. En Xataka La realidad del cine español: 'Torrente' ha llevado a las salas este fin de semana a más gente que cualquier película desde 2019 No es la primera vez. El vídeo no ha sido rodado ahora: ya en 2005, con el estreno de 'Torrente 3: El Protector', Santiago Segura distribuyó este mismo vídeo, reproduciendo los primeros minutos de la película antes de cortar al mensaje de advertencia. Eran los tiempos de masificación de descargas no autorizadas y la popularización del entonces conocido como Top Manta, y Segura no era el único que emprendía este tipo de iniciativas. Por ejemplo, por las mismas fechas, la copia que se veía en internet de la francesa 'Blueberry' arrancaba con normalidad hasta que, pasados diez minutos, el protagonista rompía la cuarta pared y se dirigía al espectador. El grupo Estopa hizo algo parecido con uno de sus discos, añadiendo interrupciones de voz en algunas copias que circulaban por la red. Estrategias únicas. Este vídeo se suma a la fama de Santiago Segura como uno de los cineastas que mejor sabe llamar la atención del público, aunque sea con mensajes que aparentemente reman a favor de la industria y en contra del usuario que no está concienciado en contra de los torrents. La estrategia de promoción de 'Torrente Presidente' ha sido igualmente inusual: sin pases de prensa previos, sin tráiler oficial hasta el lunes posterior al estreno, sin avances de ningún tipo sobre cameos o argumento. Esto contribuyó a que el público se lanzara a verla en masa desde el primer día, antes de que la conversación social destripara el contenido. Este mensaje sobre torrents no autorizados obedece a la misma lógica: control del contenido hasta que la taquilla haya sido exprimida. En Xataka | Hay mucha gente que odia las películas de Santiago Segura. El problema es que \"salvan\" al cine español todos los años - La noticia Si te descargas 'Torrente Presidente', Santiago Segura tiene para ti el mismo mensaje que si te descargabas 'Torrente 3' fue publicada originalmente en Xataka por John Tones ."
   },
   {
-    "titulo": "Se estrena una de las mejores series españolas de 2026: es de suspense, está rodada en Lisboa y tiene lo mejor de Agatha Christie",
-    "medio": "Trendencias",
-    "fecha": 1774375254.0,
-    "link": "https://www.trendencias.com/series-de-television/se-estrena-mejores-series-espanolas-2026-suspense-esta-rodada-lisboa-tiene-mejor-agatha-christie",
-    "resumen": "La nueva apuesta española de Disney+ se estrena el próximo 31 de marzo y llega con todos los ingredientes que más nos enganchan: un crimen, un grupo de sospechosos atrapados (más o menos) en el mismo espacio y esa sensación opresiva de que cualquiera podría ser el culpable. Así dicho podría parecer un planteamiento demasiado clásico, algo que ya hemos visto otras veces. Sin embargo, 'Si es martes, es asesinato' le da una vuelta contemporánea y con la que te vas a poder sentir muy identificado porque: ¿y si el asesino estuviera en el grupo de WhatsApp de tu viaje organizado? Turismo y un cadáver a las 24 horas Un grupo de turistas españoles aterriza en Lisboa para unas vacaciones tranquilas. Pero claro, no estaríamos hablando de una serie si todo saliera bien y no hubiera sobresaltos e imprevistos. Al día siguiente de llegar, uno de ellos aparece muerto. A partir de ahí, lo que parecía un viaje con itinerario cerrado y fotos previsibles de turista se convierte en una investigación amateur. Cuatro de los viajeros, fans confesos del true crime y las novelas de misterio, deciden tomar las riendas del caso. Mala idea para ellos pero buenísima para el espectador. Huelga decir que ninguno de ellos es detective profesional ni tiene experiencia previa en la materia. Aunque, como buenos espectadores de true crime, todos crean serlo. Y eso abre la puerta a teorías absurdas, pistas mal interpretadas y sospechas cruzadas que convierten cada episodio en un pequeño juego. Un espíritu muy Agatha Christie (pero con acento español)Sin adaptar ni inspirarse en ninguna obra concreta, la serie bebe claramente del universo literario de Agatha Christie: un grupo cerrado de sospechosos, secretos que van saliendo poco a poco a la luz, giros constantes de guion y esa oportunidad que tiene el espectador de poder resolver el puzle antes que los propios personajes. Lo que no les pasaba a los personajes de Christie es que sus protagonistas no habían pasado demasiadas horas de su vida consumiendo misterio. Por el conrario, estos sí han leído las aventuras de Hercule Poirot, conocen a Miss Marple y han escuchado suficientes pódcast de 'Criminopatía' como para creerse preparados para enfrentarse a un asesino. Spoiler sin spoilers: no lo están tanto. Lisboa, el escenario de ensueñoRodada íntegramente en la capital portuguesa, Lisboa no es solo un escenario bonito. Aquí funciona casi como otro personaje gracias a sus calles empedradas, miradores, hoteles con mucha historia… y ese aire ligeramente decadente que encaja demasiado bien con un crimen sin resolver. El contraste casi costumbrista entre el plan turístico y la tensión policiaca creciente juega a favor de la serie porque, mientras unos intentan seguir con la agenda, otros están convencidos de que el asesino sigue durmiendo en la habitación de al lado. Un reparto coral y una mezcla de génerosEl reparto está encabezado por Álex García, Inma Cuesta y Ana Wagener, junto a Pedro Casablanc y Biel Montoro. Acompañándolos, una larga lista de secundarios que le da a la serie un carácter coral donde todos tienen algo que ocultar. Detrás de cámaras, el proyecto viene firmado por Carlos Vila (el de 'Los misterios de Laura') y dirigido por Salvador Calvo junto a Abigail Schaaff. El resultado, según quienes ya pudieron verlo en su presentación en el Festival de Málaga, es una mezcla bastante afinada de comedia, misterio y thriller light, al estilo de 'Solo asesinatos en el edificio'. Es decir, una serie que se ve fácil, tiene humor y te mantiene jugando a adivinar al culpable hasta el final. Si te gustan las historias hechas para sospechar de todo el mundo (y equivocarte constantemente), esta es de las tuyas. Especialmente si disfrutaste con la ya nombrada serie de Selena Gomez, porque comparte ese punto entre parodia y homenaje al género. Al final, la gracia no es solo descubrir quién ha sido.Es ver cómo un grupo de desconocidos pasa de compartir buffet de hotel a mirarse como si cualquiera pudiera ser el siguiente. Fotos | Disney+ En Trendencias | Las 31 mejores series de HBO Max que puedes ver ahora mismo - La noticia Se estrena una de las mejores series españolas de 2026: es de suspense, está rodada en Lisboa y tiene lo mejor de Agatha Christie fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
-    "titulo": "Junts apoyará el decreto de la guerra de Sánchez tras trasladarle el Gobierno que respaldará retirar el IVA a autónomos que facturan menos de 85.000 euros",
-    "medio": "El Mundo",
-    "fecha": 1774375252.0,
-    "link": "https://www.elmundo.es/cataluna/2026/03/24/69c2879de9cf4aff708b457e.html",
-    "resumen": "Nogueras asegura que el Ejecutivo le ha transmitido \"en privado\" su compromiso y precisa: \"Contamos con que votarán que sí a nuestra propuesta sobre los autónomos y, por tanto, votaremos sí al decreto ley\" Leer"
-  },
-  {
     "titulo": "Drogas en la élite nuclear: el escándalo de la Marina británica que sacude Londres",
     "medio": "Moncloa.com",
     "fecha": 1774374540.0,
     "link": "https://www.moncloa.com/2026/03/24/drogas-elite-nuclear-escandalo-marina-britanica-sacude-londres-3367505/",
     "resumen": "La noticia, que ha cobrado fuerza este marzo de 2026, detalla una realidad sombría dentro de la Marina Real Británica. Según las cifras del MoD, un total de 175 submarinistas dieron positivo por estupefacientes entre 2018 y finales de 2024. Lo más inquietante es que, en 52 de esos casos, los marineros fueron detectados mientras […] La entrada Drogas en la élite nuclear: el escándalo de la Marina británica que sacude Londres aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Martín Landaluce salva un punto de partido ante Korda y alcanza los cuartos de final en Miami",
-    "medio": "El Mundo",
-    "fecha": 1774374124.0,
-    "link": "https://www.elmundo.es/deportes/tenis/2026/03/24/69c2c33fe9cf4a64768b45ae.html",
-    "resumen": "El español, que se estrenaba en octavos de un Masters 1000, se impuso por 2-6, 7-6 (6) y 6-4 al verdugo de Alcaraz. Jugará contra Jiri Lehecka. Leer"
   },
   {
     "titulo": "Xiaomi gana un 76% más por el coche eléctrico y la IA",
@@ -644,25 +658,11 @@
     "resumen": "Desde hace un par de años, casi día sí y día también, Japón es noticia por su avalancha de turistas y los problemas que esa masificación está dejando en el país. No ocurre solo allí. En Italia, Corea del Sur, Nepal, Hawái o Países Bajos no son ajenos tampoco a los efectos de la turistificación, igual que no lo es España, donde ya se han organizado varias manifestaciones por la presión que los alquileres vacacionales están ejerciendo en el mercado inmobiliario. No todo el mundo se encuentra con ese problema. En Perú de hecho preocupa todo lo contrario: los turistas que no llegan. \"Señales de alerta\". Lo comentábamos antes. Acostumbrados a las noticias sobre países saturados por el turismo o que incluso buscan formas de repeler a los visitantes, sorprende leer casos como el de Perú. Allí Apotur, la Asociación de Operadores de Turismo Receptivo e Interno, acaba de lanzar un mensaje que rompe en cierto modo con el discurso optimista que mantiene el Gobierno. Hace poco la asociación publicó un estudio con varias \"señales de alerta\". En concreto, dos. La primera es que, pese a la paulatina recuperación de visitantes, el turismo peruano sigue sin remontar a sus niveles prepandemia. La segunda, que los viajeros extranjeros parecen cada vez menos interesados en pasar sus vacaciones en el país andino, lo que está beneficiando a otros destinos. \"Pérdida de competitividad\". El estudio de Apotur no deja mucho margen para interpretaciones. Tras analizar las búsquedas de millones de personas desde varios países, incluido España, sus autores advierten que el interés que despierta Perú como destino de vacaciones experimentó un retroceso interanual del 14% en 2025. El resultado, insiste la patronal de los tour operadores peruanos, es \"una pérdida de competitividad\" que favorece a otras naciones de la región. \"El estudio detecta un desplazamiento de demanda hacia destinos regionales que hoy compiten directamente con el Perú. Cuando los viajeros descartan el país, el 26,1% opta por Colombia, 25,4% por Costa Rica, 20% por Ecuador y 19,8% por México, mercados que están capitalizando el turismo cultural y natural que antes se dirigía al territorio peruano\", destacan desde Apotur. Por si quedasen dudas, su presidenta, Claudia Medina, insiste en que no se trata de que el turismo internacional esté decayendo, sino que mira hacia otros horizontes. Pero… ¿Por qué? Perú tiene una riqueza paisajística, cultural y patrimonial envidiable y cuenta con uno de los principales reclamos turísticos de América, la antigua ciudadela inca de Machu Picchu, considerada una de \"las siete maravillas del mundo moderno\" junto a otros tesoros como Chichén Itzá, el Taj Mahal o la Gran Muralla China. Entonces… ¿Por qué está \"cayendo el interés\" de los turistas extranjeros, como advierte la propia Apotur? ¿A qué se debe el distanciamiento? La clave estaría más en la gestión de los viajes que en lo que ofrece el país. \"Estudios del sector muestran que existe un alto interés por visitar el país. No obstante, más del 70% de los potenciales viajeros cambia su decisión (posterga o cancela) debido a la incertidumbre sobre su viaje. Factores como bloqueos, falta de predictibilidad, informalidad y limitaciones operativas en las entradas de Machu Picchu, afectan directamente la confianza en el destino\", lamenta la responsable de Apotur en declaraciones recogidas por el diario Gestión. En Xataka 2026 prometía ser el gran año del turismo de EEUU. Ahora se ha encontrado con un agujero de 11 millones de visitantes Buscando seguridad. La clave sería precisamente esa, la percepción de \"seguridad\", un valor que no se refiere tanto a la de delincuencia como a la fiabilidad que ofrece el país a nivel turístico. Cuando viaja, la gente quiere que todo vaya según lo previsto, sin sorpresas. Y es ahí donde pierda fuerza Perú. \"Entre los motivos que más preocupan a los viajeros destacan la informalidad en servicios turísticos (31,2%), la inseguridad ciudadana (30,9%) y la inestabilidad social (29,1%), demás de problemas de infraestructura y desorden logístico en algunos destinos\", recuerdan desde la asociación. \"El estudio advierte que estos elementos no afectan al atractivo del país, sino a la percepción de riesgo\". El ejemplo de Machu Picchu. El mensaje de los operadores turísticos llega después de que el gran tesoro patrimonial de Perú, el Machu Picchu, se haya visto envuelto en una polémica por su gestión. El año pasado New7Wornders advirtió a Lima de que la ciudadela se arriesgaba a perder su lugar en la lista de las \"Nuevas Siete maravillas del mundo\" si no solucionaba los problemas que la amenazaban. ¿Cuáles? La organización señalaba en concreto su saturación, la falta de una gestión sostenible y \"prácticas irregulares\" relacionadas con las entradas. La propia Controlaría General peruana ha mostrado su preocupación por la \"sobrecarga turística\" que sufren tanto la ciudadela como la Red de Caminos Inca. El Gobierno de Perú ya ha movido ficha y hecho un esfuerzo por reforzar la seguridad y el control de las entradas, pero lo que no ha logrado evitar es que la polémica suene más allá de sus fronteras. Y no ha sido la única. El país quiere crear un aeropuerto en la región que podría disparar un 200% el turismo. Una cifra: 3,4 millones. Eso no significa que a la industria turística de Perú le vaya mal. Hace poco el Ministerio de Comercio Exterior y Turismo confirmó que en 2025 el país recibió 3,4 millones de turistas internacionales y su objetivo es que este año esa marca se supere con creces, alcanzando los cuatro millones. Al anunciar los datos el Ejecutivo central mostró además su intención de diversificar la oferta, apostando también por el turismo religioso, de naturaleza, aventuras y reuniones, repartiendo el flujo de visitantes por el país. El problema para Apotur es que, incluso en el caso de que se alcance el objetivo marcado y se llegue a los cuatro millones de turistas en 2026, el dato sería \"insuficiente\". Pendientes de la competencia. \"Estamos creciendo, pero aún no estamos compitiendo al nivel que el Perú puede\", reivindica Medina antes de recordar que en 2019, antes de que el COVID pusiera patas arriba el sector a nivel mundial, Perú registró alrededor de 4,4 millones de turistas internacionales. No se trata solo de que el país aún no haya reconectado con la demanda que destruyó en su día el coronavirus. El colectivo insiste también en que Perú está perdiendo terreno a favor de países vecinos que \"ya han superado sus niveles prepandemia\". De telón de fondo: el coste que eso tiene para la economía del país, que Apotur cifra en cientos y cientos de millones de dólares anuales. Imágenes | Steven Pecoraro (Unsplash) y Darya Luganskaya (Unsplash) En Xataka | China dejó sin sus turistas a Japón con la esperanza de causar un agujero económico. Nada más lejos de la realidad - La noticia Perú está comprobando que hay algo peor que la masificación turística de Japón: que los turistas dejen de llegar fue publicada originalmente en Xataka por Carlos Prego ."
   },
   {
-    "titulo": "Aterrizan en Zara los cinco vestidos perfectos para llevar con sandalias esta Semana Santa: de lunares a estampados florales",
-    "medio": "Trendencias",
-    "fecha": 1774373454.0,
-    "link": "https://www.trendencias.com/shopping/aterrizan-zara-cinco-vestidos-perfectos-para-llevar-sandalias-esta-semana-santa-lunares-a-estampados-florales",
-    "resumen": "Queda unos días para que comience la Semana Santa y una de nuestras mayores preocupaciones es encontrar vestidos que sean cómodos y que no nos cuenten un pastizal. En Zara he encontrado unos modelos muy bonitos que serán ideales para llevar con sandalias de plataforma. Cinco vestidos de Zara El estampado de flores es nuestro favorito en los meses de primavera. Este vestido es un ejemplo de ello y pertenece a la nueva colección. Se trata de un modelo midi con un cuello con lazo súper bonito. El escote tiene forma de pico y las mangas son largas y amplias. La cintura es elástica y el cinturón del mismo tejido. La falda es plisada y cuenta con un poco de vuelo. El precio en la web oficial de Zara es 45,95 euros. Los lunares han regresado y viven su mejor momento. Este nuevo vestido es un acierto para llevar la última tendencia de la temporada. Este es de color marrón chocolate y está hecho en un tejido tipo tul. Su corte es largo y el escote en pico con tirantes anchos. El detalle del pañuelo en el mismo tejido y tono es una gran elección que eleva el diseño. El bajo acaba en línea evasé y es muy elegante, siendo una gran opción día y noche. El precio en la web oficial de Zara es 39,95 euros. Este vestido es corto y tiene un cuello redondo con escote en pico y mangas cortas abullonadas, un detalle pura tendencia. La cintura queda entallada y las topetas delanteras realzan su estética. Cuenta con un diseño limpio y discreto ideal para llevar cualquier día de la semana con unas sandalias o unas alpargatas. El cierre está en la espalda con una cremallera invisible. Al ser blanco es muy fácil de combinar y súper elegante. El precio en la web oficial de Zara es 39,95 euros. El rosa bebé es uno de los colores favoritos de la temporada y una alternativa al blanco nuclear. Este vestido es un buen ejemplo y cuenta con un corte midi súper favorecedor. El escote es recto y las mangas a la sisa. Tiene un detalle de tejido combinado en tul del mismo tono. El bajo tiene un acabado tipo globo con elásticos en su interior. Queda entallado y es muy elegante. El precio en la web oficial de Zara es 29,95 euros. Este vestido es una elección súper sofisticada y una opción que nos sacará de muchos apuros cuando no sepamos qué ponernos. Tiene el cuello redondo y unas mangas a la sisa con frunces en los hombros. La cintura queda entallada con un cinturón elástico delantero. La silueta es muy favorecedora y es un diseño muy sencillo que podemos combinar fácilmente y sacarle mucho partido. El precio en la web oficial de Zara es 45,95 euros. Cómo combinar estos vestidosCon unas sandalias de plataforma Para lucir todos los vestidos de Zara sin renunciar a la comodidad, he encontrado estas sandalias de plataforma firmadas por Carmela. Son color camel y darán altura a los looks. Tienen cuatro centímetros aproximadamente y están hechas de piel. El detalle del empeine parece hecho a mano y el cierre es de hebilla. El precio en la web oficial de El Corte Inglés es 39,95 euros. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Zara, El Corte Inglés, @invitada_perfecta En Trendencias |Vuelven las sandalias de cuñas de los 2000 y así es cómo se llevan esta primavera - La noticia Aterrizan en Zara los cinco vestidos perfectos para llevar con sandalias esta Semana Santa: de lunares a estampados florales fue publicada originalmente en Trendencias por Laura Beneyto ."
-  },
-  {
     "titulo": "Endesa sustituye a José Bogas como consejero delegado tras doce años y nombra al italiano Gianni Vittorio Armani",
     "medio": "El Español",
     "fecha": 1774373252.0,
     "link": "https://www.elespanol.com/invertia/empresas/energia/20260324/endesa-sustituye-jose-bogas-ceo-doce-anos-nombra-gianni-vittorio-armani/1003744182480_0.html",
     "resumen": "La compañía energética ha decidido apostar por un directivo de su matriz. Más información: Endesa reúne a su consejo de administración con el futuro de Bogas al frente de la eléctrica encima de la mesa"
-  },
-  {
-    "titulo": "\"El 26 me aplican la eutanasia, lo tenía muy claro desde el principio\": habla Noelia, la joven parapléjica de Barcelona tras el aval de Estrasburgo",
-    "medio": "El Mundo",
-    "fecha": 1774373113.0,
-    "link": "https://www.elmundo.es/cataluna/2026/03/24/69c2c047fdddff44728b4590.html",
-    "resumen": "La joven concede su única entrevista después de que el Tribunal de Estrasburgo haya rechazado paralizarla de forma cautelar como pidió el padre Leer"
   },
   {
     "titulo": "Díaz desafía a Cuerpo y aprobará el endurecimiento del registro horario",
@@ -677,20 +677,6 @@
     "fecha": 1774372897.0,
     "link": "https://www.applesfera.com/ios/oficial-apple-acaba-lanzar-ios-26-4-viene-interesantes-novedades-no-que-esperabamos",
     "resumen": "Desde mediados de febrero fuimos conociendo lo nuevo de iOS 26.4 gracias a sus betas, pero el proceso de prueba ha terminado y la compañía acaba de lanzar esta versión oficialmente. Está ya disponible en todo el mundo y, pese a no traer algunas de las funciones que más esperábamos, trae novedades visibles. Así mismo, también el resto de dispositivos de Apple se actualizan en estos días. Y es que la firma californiana ha lanzado también iPadOS 26.4, macOS 26.4, watchOS 26.4, tvOS 26.4 y visionOS 26.4. Índice de Contenidos (12) Compatibilidad y cómo actualizar a iOS 26.4 Novedades de iOS 26.4 Nuevos emojis Cambios en Apple Music Novedades anticipadas en CarPlay Pagos en familia mejorados Cifrado para RCS Protección antirrobo de serie Nueva organización en la App Store Reenvio de notificaciones de relojes de terceros Otros cambios No, no hay rastro de la nueva Siri Compatibilidad y cómo actualizar a iOS 26.4 La compatibilidad de iOS 26.4 es exactamente la misma que la del resto de versiones de iOS 26. Esto quiere decir que cualquiera que tenga un iPhone 11 u otro modelo posterior podrá actualizar. La forma más rápida de actualizar es desde los ajustes del propio iPhone, entrando en el apartado General y después en Actualizaciones de software. Allí deberá aparecer iOS 26.4 listo para su descarga y posterior instalación, aunque deberás tener una buena conexión a internet y al menos un 20% de batería. En Applesfera He probado a fondo la única cámara del iPhone 17e. Es muy buena, pero hay algo que me cuesta justificar Recordamos que, como siempre, la actualización podría tardar varios minutos. Todo dependerá de tu conexión y del nivel de colapso de los servidores de Apple. En las primeras horas siempre suele haber un mayor número de usuarios descargándola, por lo que si ves que se ralentiza mucho es aconsejable esperar unos minutos. Novedades de iOS 26.4 Nuevos emojis Los emojis son lo más importante de lo menos importante. Y en esta ocasión nos encontramos con ocho nuevos emojis: un cofre del tesoro, una orca, un trombón, una nube de pelea, una manzana mordida, una bailarina, un desprendimiento de rocas, una cara aplastada (que nos suena mucho) y Pie Grande. Cambios en Apple Music Apple Music es de lo que más cambios trae en esta versión, con una nueva interfaz para las carátulas para que estas sean protagonistas de las playlist, así como la posibilidad de encontrar conciertos cerca dentro de la app o el nuevo widget de música ambiental. Eso sí, la mejor novedad no está en la Unión Europea. Al menos de momento. Se trata de poder crear playlist con inteligencia artificial, mediante una simple instrucción. Hasta que llegue, habrá que conformarse con conectar Apple Music a ChatGPT. Novedades anticipadas en CarPlay Las novedades que trae CarPlay son interesantes, aunque tienen letra pequeña. La primera de ellas es la posibilidad de ver vídeos en el coche, algo que ya se anunció hace meses y que ya figura en el código. Eso sí, de momento no hay apps que lo permitan y cuando lo hagan será siempre con el coche parado. También con esta versión se habilita la posibilidad de que las IAs conversacionales estén disponibles con CarPlay. Pero como en el caso anterior, ahora dependerá de que ChatGPT, Claude, Gemini y compañía lo habiliten. Pagos en familia mejorados Tras años en los que solo el organizador de las familias podía usar su método de pago para compras de apps y suscripciones, iOS 26.4 permite por fin que cada uno tenga su propio método de pago. Eso sí, deberán ser mayores de edad. Cifrado para RCSiOS 26.4 introduce ya el cifrado de extremo a extremo en los mensajes RCS, aunque de momento solo funciona entre iPhone. Apple está colaborando con la GSMA para llevar esta protección también a las conversaciones entre iPhone y Android en futuras actualizaciones. Protección antirrobo de serie Hace un par de años que Apple implementó un método antirrobo del iPhone que garantiza que el ladrón no podrá cerrar sesión de nuestra cuenta de Apple usando solo el código de seguridad. Ahora esta función vendrá habilitada de serie con esta versión. Nueva organización en la App Store La App Store ha sido rediseñada en parte para ser mucho más intuitiva con las compras, suscripciones y actualizaciones de apps. Estas aparecerán ahora como categorías bien diferenciadas cuando pulsemos en nuestra foto dentro de la tienda de aplicaciones. Reenvio de notificaciones de relojes de terceros Aunque esta función parecía llegar en iOS 26.3, finalmente se ha retrasado a este iOS 26.4. Se trata de poder recibir notificaciones del iPhone en relojes de Samsung, Google, Huawei u otros fabricantes. Eso sí, solamente se puede tener uno a la vez, por lo que si se poseen dos (y aunque uno sea un Apple Watch) ya no se podrá. Otros cambios Galería de fondos renovada: al añadir un nuevo fondo para la pantalla de bloqueo, encontraremos una nueva organización de los mismos mucho más ordenada. Incluso podremos eliminar algunas colecciones para ahorrar espacio de almacenamiento.Adiós a los problemas con el teclado: Apple ha corregido por fin los fallos que hacían que al pulsar una tecla se mostrase otra en pantalla. La escritura ahora es mucho más fluida.Podcast en vídeo: aunque técnicamente ya era posible, los podcast en vídeo debían ir en distintos feeds en Apple Podcast. Con iOS 26.4 se facilita su integración en conjunto con los episodios de solo audio.Estadísticas al compartir internet: si usas el iPhone para compartir datos con otros dispositivos, ahora podrás ver en sus ajustes una estadística más clara de cuántos datos has estado compartiendo.Recordatorios urgentes: desde iOS 26.2 podemos configurar recordatorios con alarmas dentro de la app Recordatorios (valga la redundancia) y ahora con iOS 26.4 podremos ver todos los que hemos programado de esa forma en una categoría independiente de la aplicación.Freeform ya es de Creator Studio: la aplicación de pizarra digital y colaborativa de Apple llega al paquete de Creator Studio, incluyendo un nuevo icono acorde al resto. No, no hay rastro de la nueva Siri La nueva Siri es el elefante en la habitación, dado que desde hace meses se venía filtrando su llegada para esta versión. Sin embargo, no ha sido así y es algo que se supo casi a última hora. En Applesfera El futuro de Apple en la IA ya existe, se llama Visual Intelligence y es de lo mejor que tiene el iPhone. Aunque quizás no sea suficiente Tras haberse retrasado el año pasado y no llegar con iOS 18, tal como se prometió cuando se anunció en junio de 2024, todo apuntaba a iOS 26.4, pese a que Apple nunca dio fechas exactas más allá de decir que sería en este 2026. Pero días antes de las primeras betas, Mark Gurman filtró que Apple había tenido que cambiar de planes y necesitaba algo más de tiempo para integrarla completamente con Gemini. Ahora sigue habiendo esperanzas de que llegue en iOS 26.5, aunque con la cercanía de iOS 27 (se presentará en junio, en la WWDC26), parece más plausible la idea de verla en esa futura versión. Lo que está claro es que llegará este año, tal y como volvió a afirmar Apple recientemente. Y esperamos que esta vez no tengan que volver a contradecirse. En Applesfera | ¿Cuántos años de actualizaciones le quedan a mi iPhone? Así podemos saberlo En Applesfera | Nuevo iPhone plegable - Todo lo que creemos saber sobre él - La noticia Ya es oficial: Apple acaba de lanzar iOS 26.4 y viene con interesantes novedades (aunque no la que más esperábamos) fue publicada originalmente en Applesfera por Álvaro García M. ."
-  },
-  {
-    "titulo": "Dos detenidos en España y Alemania por espiar para Rusia: su objetivo, un alemán que suministra drones a Kiev",
-    "medio": "El Español",
-    "fecha": 1774372870.0,
-    "link": "https://www.elespanol.com/mundo/europa/20260324/detenidos-espana-alemania-espiar-rusia-objetivo-aleman-suministra-drones-kiev/1003744182452_0.html",
-    "resumen": "Los arrestados en la operación son una mujer rumana en la ciudad alemana de Rheine, y un ucraniano, en Elda, en la provincia de Alicante.Más información: El Kremlin habría recibido información europea de la Hungría de Orbán y propuso simular un intento de asesinato"
-  },
-  {
-    "titulo": "Movistar Plus+ activa su Plan Gratuito con programas completos y mucho contenido, seas del operador que seas",
-    "medio": "Xataka",
-    "fecha": 1774372614.0,
-    "link": "https://www.xataka.com/seleccion/movistar-plus-activa-su-plan-gratuito-programas-completos-mucho-contenido-seas-operador-que-seas",
-    "resumen": "Pese a que Movistar Plus+ está disponible para no clientes de la compañía, tenemos nuevo giro de guion. La plataforma ha anunciado hoy la llegada de Plan Gratuito, una modalidad de acceso que es totalmente gratis y que nos permitirá ver un montón de contenidos, tanto en el móvil como en la tele o en cualquier otro dispositivo. ¿Lo mejor? Que para registrarte solo necesitas un mail y una contraseña. La modalidad gratis de Movistar Plus+ tiene mucho para verEste nuevo Plan Gratuito es una forma muy interesante para ver qué ofrece la plataforma sin necesidad de pagar nada. Además, como decimos, para registrarnos no es necesario introducir una tarjeta u otra forma de pago. Basta con un registro muy sencillo con correo electrónico y contraseña que apenas nos llevará un par de minutos. Como es lógico, esta modalidad gratis no nos da acceso a todo el catálogo de Movistar Plus+. Pese a esto, no está falta de contenido en absoluto. Por ejemplo, Plan Gratuito permite disfrutar del primer capítulo de las series originales de la plataforma, incluso las de estreno. Ahí entra 'Por cien millones', así como los primeros episodios de los true crime de Carles Porta o de series como 'Poquita Fe', 'La Mesías' o 'Querer', entre otras. También tendremos disponibles algunos de los programas más destacados que tiene Movistar Plus+, como 'Ilustres Ignorantes' o 'El consultorio de Berto', así como 'El Día Después'. Además, este Plan Gratuito también emitirá la previa y el postpartido de los encuentros de la Champions League y de la Europa League. Por 9,99 euros al mes tienes series completas, cine y fútbol Si pruebas la plataforma y quieres más, tienes la opción de suscribirte por 9,99 euros al mes (o 99,90 euros al año). A cambio, se nos abrirá todo el catálogo de la plataforma, que incluye las series al completo y mucho cine de calidad con películas como 'Sirat', 'Los domingos', 'Maspalomas', 'La Cena' o 'Furia'. Además, junto a otros eventos deportivos en directo, tendremos varios partidos de fútbol muy interesantes. Los más destacados son los cuartos de Champions con los partidazos Real Madrid-Bayern de Múnich (7 de abril) y Atlético de Madrid-Barcelona FC (14 de abril), aunque hay más. Todo teniendo en cuenta que es una plataforma que podemos compartir con un amigo o familiar sin ningún tipo de problema. En Compradicción Carrefour liquida esta QLED de 75” de TCL y su precio cae por debajo de 500 euros Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Movistar Plus+ En Xataka | Mega-guía para montarte un cine en casa: proyector, pantalla, sistema de sonido y más En Xataka | Mejores televisores en calidad precio. Cuál comprar y siete smart TV 4K recomendados - La noticia Movistar Plus+ activa su Plan Gratuito con programas completos y mucho contenido, seas del operador que seas fue publicada originalmente en Xataka por Juan Lorente ."
   },
   {
     "titulo": "Gianni Vittorio Armani sustituye a José Bogas como CEO de Endesa",
@@ -782,13 +768,6 @@
     "fecha": 1774363724.0,
     "link": "https://hipertextual.com/actualidad/la-policia-nacional-lo-confirma-a-partir-de-esta-fecha-vas-a-poder-llevar-el-dni-en-tu-movil/",
     "resumen": "Por fin, casi un año después del lanzamiento oficial de la app MiDNI, la Policía Nacional ha confirmado en sus redes sociales que se puede utilizar para dejar el documento físico en casa. Todavía no, pero la fecha de entrada en vigor de esta normativa será dentro de unos pocos días. A partir de ese […] Seguir leyendo: La Policía Nacional lo confirma: a partir de esta fecha vas a poder llevar el DNI en tu móvil"
-  },
-  {
-    "titulo": "Marvel lanza la primera imagen del especial de ‘The Punisher’ y confirma título y fecha de estreno",
-    "medio": "Hipertextual",
-    "fecha": 1774362919.0,
-    "link": "https://hipertextual.com/cine-television/marvel-lanza-la-primera-imagen-del-especial-de-the-punisher-y-confirma-titulo-y-fecha-de-estreno/",
-    "resumen": "El próximo especial de Marvel Studios en Disney+ va a ser de The Punisher. El proyecto se anunció el año pasado a raíz del final de la primera temporada de Daredevil: Born Again. Ahora, la serie del Diablo de Hell's Kitchen regresa, pero el violento antihéroe no formará parte de ella. Una ausencia que se […] Seguir leyendo: Marvel lanza la primera imagen del especial de ‘The Punisher’ y confirma título y fecha de estreno"
   },
   {
     "titulo": "El fruto seco de Lidl que «anestesia» el estrés: un puñado de este snack y las quejas de tu jefe te darán igual",
