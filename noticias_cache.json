@@ -1,5 +1,236 @@
 [
   {
+    "titulo": "Rosalía para su concierto en seco, revela lo que le pasa en pleno escenario y deja en el aire su actuación en Madrid",
+    "medio": "HuffPost",
+    "fecha": 1774479854.0,
+    "link": "https://www.huffingtonpost.es/life/influencers-celebrities/rosalia-concierto-seco-revela-le-pasa-pleno-escenario-deja-aire-actuacion-madrid-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Centros de datos a lo bestia: Hyperion, Terafab… Ahora se miden en GW y TW, no en servidores",
+    "medio": "Microsiervos",
+    "fecha": 1774479841.0,
+    "link": "https://www.microsiervos.com/archivo/tecnologia/centros-datos-todo-mide-gw-tw-servidores.html",
+    "resumen": "Cuando se habla de los nuevos centros de datos para IA cada vez se ven menos cifras de «número de servidores» y más de gigavatios (GW). La razón es sencilla: contar máquinas ya no significa gran cosa, porque lo que de verdad limita estas gigantescas instalaciones no es cuántos ordenadores y cables tienen dentro, sino cuánta electricidad se les puede proporcionar, cuánto calor se puede disipar y qué capacidad de red tienen para mover datos. Un gigavatio son 1.000 megavatios, o 1.000 millones de vatios, así que hablar de un centro de datos de 1 GW o 5 GW es comparable con la demanda eléctrica de una ciudad grande de alrededor de un millón de habitantes. Es la forma más directa de entender su escala real. En esta liga ya no importa tanto cuántos racks tienes, sino si necesitas una subestación, una central de gas o media región generándote electricidad para que aquello funcione. ¿Para qué se usa toda esa energía? Además de los usos corrientes, en los centros de datos la carrera por la IA ya no trata sólo de modelos más «listos». Va de construir infraestructuras descomunales, con cifras que hace cinco años habrían sonado a ciencia ficción barata, a ingenieros de megaconstrucciones puestos de LSD o a PowerPoints de circo. Meta, por ejemplo, está construyendo en Luisiana su Hyperion, un campus de 2 GW,, con una posible ampliación a 5 GW lista para el futuro. Es como un gigantesco campus temático para informáticos, con un total de 11 edificios y más de 370.000 m² construidos dentro de una parcela de unos 9 km² (!) que es algo así como la cuarta parte de Manhattan en cuanto a superficie. Podría albergar más de 41.000 racks de Nvidias GB200 NVL72 y superar los 3 millones de GPUs. Cada uno de esos racks lleva 72 GPUs, 36 CPUs y del orden de una decena de TB de memoria. En ese «ejército de armarios» cada soldado mide más de 2,2 metros, pesa hasta una 1,5 T y puede consumir unos 120 kW. En un movimiento similar, Elon Musk (y este hombre igual sí que va puesto de algo) ha prometido una fábrica de chips de 20.000 millones de dólares para coches, robots, satélites, una megaconstelación de datacenters y, ya puestos, su sueño de una civilización galáctica. Tiene un nombre humilde: la Terafab. La fábrica de teraloquesean está planteada como una empresa conjunta entre Tesla, SpaceX y xAI y se construiría en Austin, Texas. Musk habla de escalas descomunales: centenares de gigavatios de potencia para las operaciones terrestres y hasta 1 TW para su idea de «procesamiento espacial». Dicho en cristiano: no está hablando de la factura de la luz «al año», sino de una barbaridad de capacidad eléctrica e industrial. En enero, además, SpaceX pidió permiso para poner en órbita hasta un millón de satélites-datacenters. ¡Hasta el infinito y más allá de internet! La premisa parece ser que «el espacio está frío» y que refrigerar los datacenters es lo que más consume energéticamente hablando. La idea puede sonar bien… Hhasta que recuerdas (si no te saltaste las clases de física) detalles menores como que en el espacio no se disipa bien el calor porque no hay aire, que ese millón de satélites hay que lanzarlos, blindarlos, repararlos cuando casquen y luego mover datos a velocidades ¡ejem! mil veces peores que en tierra. Ya veo a astronautas subiendo a hacer el «apagar y encender» a ver si así se arregla cuando haya problemas. El «pequeño» problema es de dónde sacar esa energía y lo que supone hacerlo Estos datacenters son tan grandes que hay que reconsiderar las reglas típicas de la construcción: pesan más, gastan más, necesitan más ancho de banda y ya no basta con ventiladores y aire frío. Los suelos tienen que soportar cargas de hasta 3.000 kg por m². Los paneles prefabricados de hormigón pueden llegar a los 23 metros de longitud. Y algunos proyectos han reducido sus plazos de 30 o 36 meses a apenas un año. Lo del coste económico «ya si eso»… aunque ahí al menos los Excel todo lo aguantan. El verdadero problema está en la energía. Hyperion necesitará 2 GW y 5 GW si crece mucho más, casi 500 MW por edificio, equivalente al consumo de unos 4,2 millones de hogares. Para alimentarlo, planean construir tres centrales de gas con una potencia combinada de 2,2 GW. Las emisiones asociadas podrían ir de 4 a más de 10 millones de toneladas de CO₂ al año, que no es un tema menor. Y eso sin contar con el «festival de hormigón» de la industria de los datacenters, que solo en Estados Unidos es de un millón de toneladas de cemento en los últimos tres años, más o menos el 1% de lo que se utiliza en todo Estados Unidos en un año cualquiera. Si hubiera que ordenar las idas de olla que ya están sobre la mesa, se pone difícil elegir: megaestructuras llenas de racks, constelaciones de satélites con gigantescos panales de refrigeración desplegados, unas necesidades energéticas que ni las luces de Navidad… La impresión general es que la industria de la IA ha pasado de «vamos a entrenar modelos» a «vamos a rehacer media infraestructura industrial y energética del planeta para dar de comer a los modelos». Un auténtico WTF en toda regla. Es como si las más grandes compañías asumieran que su único futuro es escalar más, gastar más y construir más deprisa. Obvio de toda obviedad, pero… ¿Es realista? La intuición nos viene a decir que no, pero dentro de unos años comentamos. _____Foto (CC) Elon Musk por Gage Skidmore @ Flickr. # Enlace Permanente"
+  },
+  {
+    "titulo": "Rectificación de Ingeniería y Economía del Transporte",
+    "medio": "OK Diario",
+    "fecha": 1774479389.0,
+    "link": "https://okdiario.com/espana/rectificacion-ingenieria-economia-del-trasnporte-16485564",
+    "resumen": "En relación con el artículo publicado por este medio el día 23 de marzo de 2026, bajo el titular «La empresa pública que enchufó a Jésica maniobra ahora para colocar a un directivo vinculado al ‘caso Koldo’», INGENIERÍA Y ECONOMÍA DEL TRANSPORTE, S.M.E., M.P., S.A. ejercita su derecho de rectificación al amparo de la Ley … Continuar leyendo \"Rectificación de Ingeniería y Economía del Transporte\""
+  },
+  {
+    "titulo": "Nintendo rebaja el precio de los juegos digitales de la Switch 2",
+    "medio": "Hipertextual",
+    "fecha": 1774478984.0,
+    "link": "https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-switch-2/",
+    "resumen": "Nintendo ha tomado una decisión que muchos jugadores han esperado por décadas. La compañía anunció que rebajará el precio de los juegos digitales exclusivos de Switch 2. Comenzando con Yoshi and the Mysterious Book, todas las versiones descargables serán más baratas que los juegos físicos. En su comunicado, Nintendo reveló que las versiones digitales costarán […] Seguir leyendo: Nintendo rebaja el precio de los juegos digitales de la Switch 2"
+  },
+  {
+    "titulo": "Madrid reduce los tiempos en lista de espera en febrero en todas las áreas de atención sanitaria",
+    "medio": "The Objective",
+    "fecha": 1774478840.0,
+    "link": "https://theobjective.com/actualidad/2026-03-25/madrid-tiempos-lista-espera-todas-areas-atencion-sanitaria/",
+    "resumen": "Los últimos datos del Servicio de Madrileño de Salud (Sermas), correspondientes al mes de febrero, reflejan una mejora generalizada en la Comunidad de Madrid (CAM) de […]"
+  },
+  {
+    "titulo": "Los expertos en geopolítica tecnológica coinciden: el mundo ya se ha dividido en tres bloques digitales y Europa ni siquiera sabe qué componentes chinos llevan sus propios productos",
+    "medio": "HuffPost",
+    "fecha": 1774478566.0,
+    "link": "https://www.huffingtonpost.es/sociedad/expertos-geopolitica-tecnologica-coinciden-mundo-dividido-tres-bloques-digitales-europa-siquiera-componentes-chinos-llevan-propios-productos-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | EE UU amenaza con atacar Irán con más intensidad si Teherán no acepta que ha perdido la guerra",
+    "medio": "El País",
+    "fecha": 1774478334.0,
+    "link": "https://elpais.com/internacional/2026-03-25/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "Irán rechaza la “excesiva” propuesta de Trump para poner fin al conflicto, aunque lo sigue estudiando | La República Islámica exige que cualquier alto el fuego incluya Líbano y que se reconozca su soberanía sobre Ormuz"
+  },
+  {
+    "titulo": "El Gobierno logra colocar a Olóndriz presidenta de la AIReF y colonizarla como hizo con el INE y el Banco de España",
+    "medio": "OK Diario",
+    "fecha": 1774478310.0,
+    "link": "https://okdiario.com/economia/gobierno-logra-colocar-olondriz-presidenta-airef-colonizarla-como-hizo-ine-banco-espana-16487629",
+    "resumen": "El Congreso de los Diputados ha dado el visto bueno este miércoles a la candidata del Gobierno, y amiga de la vicepresidenta primera, María Jesús Montero, Inés Olóndriz, para que sea la nueva presidenta de la Autoridad Independiente de Responsabilidad Fiscal (AIReF). PP y Vox han votado en contra y Junts se ha ausentado de … Continuar leyendo \"El Gobierno logra colocar a Olóndriz presidenta de la AIReF y colonizarla como hizo con el INE y el Banco de España\""
+  },
+  {
+    "titulo": "El producto de Mercadona que más da que hablar: vale 3,90, está por tiempo limitado y todo apunta a éxito",
+    "medio": "HuffPost",
+    "fecha": 1774478019.0,
+    "link": "https://www.huffingtonpost.es/virales/el-producto-mercadona-mas-da-hablar-vale-390-esta-limitado-apunta-exito-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Landaluce choca con el saque de Lehecka en los cuartos de Miami",
+    "medio": "El País",
+    "fecha": 1774477612.0,
+    "link": "https://elpais.com/deportes/tenis/2026-03-25/landaluce-choca-con-el-saque-de-lehecka-en-los-cuartos-de-miami.html",
+    "resumen": "El joven madrileño sucumbe al oficio del checo: 7-6(1) y 7-5, tras 2h 02m"
+  },
+  {
+    "titulo": "María Peláe alza la voz: “Hay que seguir usando los micros para bien”",
+    "medio": "La Vanguardia",
+    "fecha": 1774476920.0,
+    "link": "https://www.lavanguardia.com/television/20260325/11499277/maria-pelae-alza-voz-hay-seguir-usando-micros.html",
+    "resumen": "La artista malagueña repasa su trayectoria, celebra su éxito internacional y reivindica los derechos del colectivo LGTBIQ+ desde la música"
+  },
+  {
+    "titulo": "El ‘pique’ entre Pablo Motos y Javier Cámara en ‘El Hormiguero’: «Te puedo cruzar la cara»",
+    "medio": "OK Diario",
+    "fecha": 1774476902.0,
+    "link": "https://okdiario.com/trailer/pique-pablo-motos-javier-camara-hormiguero-te-puedo-cruzar-cara-16487633",
+    "resumen": "Javier Cámara y Alexandra Jiménez han estado esta noche en El Hormiguero.. Los dos actores más queridos del panorama audiovisual español visitan el programa de Pablo Motos para hablar de sus últimos proyectos y abrir un poco las puertas a su lado más personal. En medio de la entrevista se ha visto un divertido pique … Continuar leyendo \"El ‘pique’ entre Pablo Motos y Javier Cámara en ‘El Hormiguero’: «Te puedo cruzar la cara»\""
+  },
+  {
+    "titulo": "El salto de Landaluce alcanza su tope",
+    "medio": "La Vanguardia",
+    "fecha": 1774476627.0,
+    "link": "https://www.lavanguardia.com/deportes/tenis/20260325/11499279/salto-landaluce-alcanza-tope.html",
+    "resumen": "El sorprendente madrileño se ve apeado en los cuartos de final por Jiri Lehecka, más sólido en los momentos decisivos, por 7-6 (1) y 7-5, en dos horas justas"
+  },
+  {
+    "titulo": "Más de 2.000 millones menos: por qué la viuda de Steve Jobs ha reducido su fortuna a la mitad (y no es lo que parece)",
+    "medio": "Trendencias",
+    "fecha": 1774476054.0,
+    "link": "https://www.trendencias.com/celebrities/2-000-millones-que-viuda-steve-jobs-ha-reducido-su-fortuna-a-mitad-no-que-parece",
+    "resumen": "Más de 2.000 millones de euros, esa es la cifra (redondeada y con conversión de divisa mediante) que cuenta la historia de Laurene Powell Jobs, viuda de Steve Jobs. Sin embargo, no se ha gastado la mitad de su fortuna a golpe de excesos, derroche y una mala gestión del patrimonio sino por el cumplimiento de una promesa. Quién es Laurene y de dónde viene su fortunaLaurene Powell estuvo casada con el fundador de Apple desde 1991 hasta la muerte de Jobs en 2011 y juntos tuvieron tres hijos. Se conocieron en la Universidad de Stanford, cuando ella estudiaba un Máster en Administración de Empresas y él ya era una figura conocida en Silicon Valley. Aunque durante años se mantuvo en un segundo plano, lo cierto es que siempre tuvo proyectos propios, sobre todo ligados al ámbito de la educación. Fue tras la muerte de su marido cuando pasó a gestionar una de las mayores fortunas del mundo tecnológico, heredada principalmente en forma de acciones de Apple y de The Walt Disney Company (por la venta de Pixar). Familia Jobs Menos dinero, pero no por lo que pareceDesde entonces, según ha publicado 'El Economista', su patrimonio se ha reducido en unos 5.000 millones de dólares, aproximadamente la mitad de lo que heredó. ¿El motivo? No es ni misterioso ni dramático sino que ha estado donando grandes cantidades de dinero a proyectos sociales. Se calcula que ha donado anualmente el 10% de sus acciones de Disney desde el fallecimiento de su marido. Aunque para medir el impacto de forma realista también hay que tener en cuenta que dichas acciones han seguido subiendo de valor. Además, más que de una pérdida como tal, se trata de cumplir el deseo compartido con su marido de repartir su riqueza. De hecho, ella misma ha explicado en varias ocasiones que su intención es que esa fortuna no la sobreviva. \"Si vivo lo suficiente, esa fortuna no me sobrevivirá. Era el deseo de Steve\", dijo Powell Jobs en una entrevista con The New York Times, subrayando su deseo y el de Jobs de no acumular patrimonio de generación en generación. Además, también calificó como \"anomalía\" la existencia de fortunas masivas e incidió en que es injusto que una cantidad tan pequeña de personas controle tanta riqueza. The White House Donar, pero a su manera La mayor parte de ese dinero sale a través de Emerson Collective, una organización que mezcla inversión, activismo y filantropía y que trabaja en áreas de necesidad como educación, inmigración o medioambiente. A través de este y otros intermediarios, se calcula que ya ha destinado más de 2.000 millones de dólares a causas benéficas. Pero todavía serán más porque, en 2021, puso en marcha la Waverley Street Foundation, con la idea de invertir 3.500 millones de dólares a lo largo de diez años en proyectos innovadores contra el cambio climático. Más que una herencia, una idea Lo interesante de esta historia no son solo las cifras astronómicas, sino lo que hay detrás. Steve Jobs nunca fue especialmente vocal en vida en el terreno filantrópico. Sin embargo, según ha contado después Powell Jobs, sí tenía claro que el dinero debía tener un propósito. Y eso es justo lo que ella está haciendo: convertir una de las mayores herencias de Silicon Valley en algo que, poco a poco, deje de ser solo suyo. La clave, por lo tanto, no es cuánto dinero ha perdido la familia, sino cuánto ha decidido dar o devolverle a la sociedad. Foto de portada | TechCrunch En Trendencias | Las 25 mejores películas de amor que podemos ver en Amazon Prime Video ahora mismo - La noticia Más de 2.000 millones menos: por qué la viuda de Steve Jobs ha reducido su fortuna a la mitad (y no es lo que parece) fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "Guerra de Irán, EEUU e Israel en directo hoy | Últimas noticias de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos",
+    "medio": "OK Diario",
+    "fecha": 1774475968.0,
+    "link": "https://okdiario.com/internacional/guerra-iran-eeuu-israel-directo-hoy-ultimas-noticias-ataques-estrecho-ormuz-declaraciones-trump-posibles-acuerdos-16469674",
+    "resumen": "Se cumplen 25 días desde que EEUU e Israel lanzaran ataques aéreos masivos contra objetivos en Irán, incluyendo el complejo nuclear de Natanz e instalaciones militares en el corazón de Teherán. Irán mantiene cerrado el Estrecho de Ormuz, una vía vital por la que circula el 20 por ciento del crudo mundial, lo que ha … Continuar leyendo \"Guerra de Irán, EEUU e Israel en directo hoy | Últimas noticias de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos\""
+  },
+  {
+    "titulo": "Martín Landaluce planta cara a Lehecka, pero cae por 7-6 (1) y 7-5 en cuartos de final de Miami",
+    "medio": "El Mundo",
+    "fecha": 1774475907.0,
+    "link": "https://www.elmundo.es/deportes/tenis/2026/03/25/69c44787fdddff382a8b4591.html",
+    "resumen": "El español firma un magnífico torneo y será 102º del mundo, tras dejar la impronta de un jugador al que habrá que tener muy en cuenta. Leer"
+  },
+  {
+    "titulo": "Se acaba el sueño de Landaluce: no puede con Lehecka y se despide de Miami",
+    "medio": "OK Diario",
+    "fecha": 1774475803.0,
+    "link": "https://okdiario.com/deportes/acaba-sueno-landaluce-no-puede-lehecka-despide-miami-16487464",
+    "resumen": "«¡Sí se puede!». «¡Vamos, Martín!». La pista central de Miami ha quedado encandilada a la derecha de Landaluce. Quiere más. Por eso festeja cada punto de partido levantado por el madrileño. Hasta que a la cuarta fue la vencida para Lehecka, que se llevó el tie break del primer set y rompió el servicio en … Continuar leyendo \"Se acaba el sueño de Landaluce: no puede con Lehecka y se despide de Miami\""
+  },
+  {
+    "titulo": "Sarah Mullally hace historia al ser proclamada como la primera arzobispo de Canterbury",
+    "medio": "The Objective",
+    "fecha": 1774475784.0,
+    "link": "https://theobjective.com/sociedad/2026-03-25/sarah-mullally-primera-arzobispo-canterbury/",
+    "resumen": "La primera mujer arzobispo de Canterbury, Sarah Mullally, ha asumido este miércoles el cargo con un primer sermón en el que ha tenido palabras de reconocimiento […]"
+  },
+  {
+    "titulo": "Rusia estaría proveyendo a Irán de sus propios drones de bajo coste mejorados y producidos en masa",
+    "medio": "La Vanguardia",
+    "fecha": 1774475469.0,
+    "link": "https://www.lavanguardia.com/internacional/20260325/11499276/rusia-estaria-proveyendo-iran-propios-drones-coste-mejorados-producidos-masa.html",
+    "resumen": "Para Estados Unidos e Israel resulta muy costoso interceptar las oleadas kamikazes que lanza Teherán"
+  },
+  {
+    "titulo": "Un nuevo estudio confirma la debilidad en la lucha contra el tabaquismo en las consultas médicas: \"No se les da información a los médicos\"",
+    "medio": "HuffPost",
+    "fecha": 1774475424.0,
+    "link": "https://www.huffingtonpost.es/sociedad/nuevo-estudio-confirma-debilidad-lucha-tabaquismo-consultas-medicas-no-les-da-informacion-medicos-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Desarrollan una tecnología para almacenar CO2 de la atmósfera en regiones áridas",
+    "medio": "The Objective",
+    "fecha": 1774475213.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-25/desarrollan-tecnologia-co2-regiones-aridas/",
+    "resumen": "Los niveles de emisiones actuales de dióxido de carbono (CO2) a la atmósfera son tan grandes que, para cumplir con los objetivos climáticos, muchos países están […]"
+  },
+  {
+    "titulo": "El acto de Rufián y Montero en Barcelona será en la Universidad Pompeu Fabra",
+    "medio": "El País",
+    "fecha": 1774474819.0,
+    "link": "https://elpais.com/espana/catalunya/2026-03-25/el-acto-de-rufian-y-montero-en-barcelona-sera-en-la-universidad-pompeu-fabra.html",
+    "resumen": "El coloquio ‘Que s’ha de fer’ (Qué hay que hacer) se realizará el 9 de abril"
+  },
+  {
+    "titulo": "Tres libros imprescindibles que me han hecho llorar de la risa",
+    "medio": "OK Diario",
+    "fecha": 1774474682.0,
+    "link": "https://okdiario.com/cultura/tres-libros-imprescindibles-que-han-hecho-llorar-risa-16486731",
+    "resumen": "Esta semana en recomendaciones literarias de OKDIARIO proponemos tres libros de comedia absolutamente icónicos. Se trata de tres clásicos de la literatura que te harán reír hasta las lágrimas. Nunca he sido un gran lector de este género, pero estas obras me provocan carcajadas cada vez que vuelvo a ellas (y es a menudo). La … Continuar leyendo \"Tres libros imprescindibles que me han hecho llorar de la risa\""
+  },
+  {
+    "titulo": "El ADN antiguo identifica a los primeros perros de Europa",
+    "medio": "The Objective",
+    "fecha": 1774474678.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-03-25/adn-antiguo-primeros-perros-europa/",
+    "resumen": "Los perros fueron los primeros animales en formar una relación doméstica con los humanos, mucho antes de la llegada de la agricultura, y su origen exacto […]"
+  },
+  {
+    "titulo": "He probado este perfume jugoso y floral y se ha convertido en mi nueva obsesión esta primavera: se siente súper femenino y sensual",
+    "medio": "Trendencias",
+    "fecha": 1774474254.0,
+    "link": "https://www.trendencias.com/belleza/he-probado-este-perfume-jugoso-floral-se-ha-convertido-mi-nueva-obsesion-esta-primavera-se-siente-super-femenino-sensual",
+    "resumen": "Elegir un perfume va mucho más allá de desear oler bien, también hay un anhelo de que ese perfume encaje con tu personalidad, que te haga sentir bien cuando lo usas o que tenga ese punto seductor y atractivo que interactúa con los demás. Cada uno de nosotros buscamos cosas diferentes aunque también suele variar según las apetencias del momento o la época del año en la que nos encontremos. Ahora que los días comienzan a ser más luminosos y la temperatura más agradable, solemos decantarnos por perfumes más frescos y jugosos. Aunque es cierto que las notas cítricas o limpias suelen tener un gran protagonismo, hay mucho más donde elegir, y precisamente la primavera es un momento maravilloso para probar otros acordes. Como buena amante de los perfumes (y cada vez más, lo confieso) me encanta incorporar nuevos aromas a mi colección y me gusta descubrir los mejores perfumes de mujer. Mi último descubrimiento es una auténtica maravilla olfativa, toda una delicia para usar durante toda la primavera. Estoy hablando del Perfume Eden Plush Pear 23 de Kayali, que ya se ha convertido en uno de mis favoritos para esta época del año. Este perfume tiene como protagonista a la fresca y jugosa pera. Esta fruta es muy reconocible y tiene una salida muy clara, se hace notar mucho y esa jugosidad típica de la pera se palpa perfectamente. Por lo general, la pera no suele ser de las notas que más buscamos así de primeras en nuestros perfumes, pero yo personalmente desde que probé el Perfume Jo Malone English Pear & Freesia la tengo mucho más en cuenta que antes. Eden Plush Pear 23 de Kayali ideal para primavera Como os decía, los acordes predominantes de Eden Plush Pear son frutales y es un perfume que pertenece a la familia Floral Frutal, pero en realidad es mucho más que eso. Sus notas principales son: Notas de Salida: mandarina, pera y bergamotaNotas de Corazón: gardenia, fresia, lirio de los valles (muguete), flor de azahar del naranjo y agua de coco Notas de Fondo: caviar de vainilla, madera de cachemira y sándalo Cuando hueles por primera vez este perfume te das cuenta de que es ideal para usar ahora en primavera, porque su salida es jugosa y fresca, pero cuando comienza a asentarse se vuelve más luminosa y da un giro olfativo completamente. Esa frescura afrutada inicial de mandarina y pera se empieza a convertir en algo más floral, sin llegar a desaparecer los matices iniciales. Aunque a los minutos da un paso más y aparece la vainilla, logrando que la fragancia se vuelva más sensual y cremosa, y ahí ya te termina de conquistar. Un giro de guión en este perfume, que se transforma desde un dulce y goloso refrescante muy chispeante, hasta llegar a un aroma más calmado, cálido y elegante con un fondo almizclado. Gracias a todos estos matices, es un aroma que me gusta usar en el día a día y ahora en primavera encaja perfectamente con el ambiente. Pero también encuentro que es un perfume ideal para usar de noche, ya que su intensidad es entre media-alta, y se siente muy atractivo, sexy y femenino, con una estela olfativa muy buena. Su durabilidad es otro de sus puntos fuertes, permanece en la piel durante horas, de una forma muy elegante y reconfortante. Si eres de las que suele echarse un poco en la zona de las muñecas (una de las zonas de pulso), verás que la fragancia sigue estando ahí con mucha presencia y cada vez parece oler más rico. Precio 99,00 euros. Fotos | Sephora, Trendencias En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia He probado este perfume jugoso y floral y se ha convertido en mi nueva obsesión esta primavera: se siente súper femenino y sensual fue publicada originalmente en Trendencias por Carolina L. ."
+  },
+  {
+    "titulo": "Teresa Aranguren, periodista de guerra española: \"He visto los heridos del fósforo blanco en Líbano: no tienen cura porque el fósforo sigue quemando la carne hasta llegar al hueso\"",
+    "medio": "HuffPost",
+    "fecha": 1774474200.0,
+    "link": "https://www.huffingtonpost.es/global/teresa-aranguren-periodista-guerra-espanola-he-visto-heridos-fosforo-blanco-libano-cura-fosforo-sigue-quemando-carne-llegar-hueso-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Gobierno coloca a Baltasar Garzón al frente de la Comisión de la Verdad sobre el franquismo",
+    "medio": "The Objective",
+    "fecha": 1774474018.0,
+    "link": "https://theobjective.com/espana/politica/2026-03-25/gobierno-baltasar-garzon-comision-de-la-verdad/",
+    "resumen": "El jurista y exmagistrado Baltasar Garzón presidirá la Comisión de la Verdad creada para esclarecer las violaciones de los derechos humanos durante la Guerra Civil y […]"
+  },
+  {
+    "titulo": "Los inversores de Silicon Valley descubren que el campo también puede ser un negocio de suscripción: así funciona el collar que convierte a los ganaderos en clientes cautivos de por vida",
+    "medio": "HuffPost",
+    "fecha": 1774473311.0,
+    "link": "https://www.huffingtonpost.es/tecnologia/los-inversores-silicon-valley-descubren-campo-negocio-suscripcion-asi-funciona-collar-convierte-ganaderos-clientes-cautivos-vida-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Por menos de 240 euros, esta bici eléctrica es genial para ir por ciudad",
+    "medio": "La Vanguardia",
+    "fecha": 1774473300.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260325/11497810/240-euros-bici-electrica-ligera-homolgada-encaja-perfecto-moverte-ciudad-esfuerzo-mkt-alie.html",
+    "resumen": "Una de esas compras del Aniversario de AliExpress 2026 que tienen sentido si buscas movilidad sencilla y sin complicarte"
+  },
+  {
+    "titulo": "Última entrevista a Noelia Castillo en directo | Últimas noticias sobre la eutanasia, qué le pasó, reacciones y su historia",
+    "medio": "OK Diario",
+    "fecha": 1774473257.0,
+    "link": "https://okdiario.com/cool/television/ultima-hora-eutanasia-noelia-castillo-ramos-directo-cuando-que-paso-todo-sobre-entrevista-16483611",
+    "resumen": "El pasado martes 24 de marzo, durante la emisión de una nueva entrega de Y ahora Sonsoles, los espectadores de Antena 3 se vieron sorprendidos al conocer a Noelia Castillo Ramos. La joven de 25 años lleva muchísimo tiempo tratando de conseguir una muerte digna a través de la eutanasia. Ahora, Noelia vuelve al programa … Continuar leyendo \"Última entrevista a Noelia Castillo en directo | Últimas noticias sobre la eutanasia, qué le pasó, reacciones y su historia\""
+  },
+  {
+    "titulo": "Meta y YouTube condenadas a pagar 3 millones de dólares en EEUU por adicción a redes",
+    "medio": "Infolibre",
+    "fecha": 1774473085.0,
+    "link": "https://www.infolibre.es/politica/meta-youtube-condenadas-pagar-3-millones-dolares-eeuu-adiccion-redes_1_2168187.html",
+    "resumen": "Un jurado de Los Ángeles ha declarado este miércoles culpables a Meta y Youtube de perjudicar la salud mental de menores en una histórica demanda sobre la adicción a las redes sociales y por la que tendrán que pagar una indemnización de 3 millones de dólares (unos 2.6 millones de euros).El juicio comenzó a finales de enero en el Tribunal Superior de Los Ángeles con la demanda de una joven de 20 años que alegó que se volvió adicta a aplicaciones como Instagram y YouTube durante su infancia. Ambas plataformas deberán pagar 3 millones de dólares en concepto de indemnización por daños morales y otros perjuicios económicos. De acuerdo con la sentencia, Meta es responsable del 70% de dicho coste y YouTube del resto.El jurado de este histórico juicio, compuesto por siete mujeres y cinco hombres, seguirá deliberando para decidir qué daños punitivos adicionales deberán pagar las empresas por dolor o fraude.El resultado de esta demanda representa una importante victoria contra dos gigantes tecnológicos y sienta las bases para la resolución de alrededor de 1.500 casos similares contra empresas de redes sociales.La demanda de la joven, identificada como K.G.M., incluía a las herramientas TikTok y Snapchat, que lograron alcanzar un acuerdo en términos no revelados para evitar el primero de una serie de juicios históricos contra las plataformas de redes sociales.Esta resolución se suma a la sentencia dictaminada ayer por un jurado de Nuevo México que también encontró culpable a Meta de ocultar información sobre deficiencias en sus plataformas y prácticas comerciales que facilitaban la explotación sexual infantil y fue condenado a una multa de 375 millones de dólares (324 millones de euros).Estos litigios forman parte de una ola más amplia de casos que cuestionan las prácticas de la industria tecnológica y podrían sentar precedentes sobre los límites de responsabilidad de las redes sociales en EEUU."
+  },
+  {
+    "titulo": "Los expertos en toxicología coinciden en que el acónito azul es la planta más venenosa de Europa: 0,2 gramos en la piel producen quemaduras y parálisis en minutos",
+    "medio": "HuffPost",
+    "fecha": 1774472959.0,
+    "link": "https://www.huffingtonpost.es/sociedad/los-expertos-toxicologia-coinciden-aconito-azul-planta-mas-venenosa-europa-02-gramos-piel-producen-quemaduras-paralisis-minutos-f202603.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Florentino Pérez ganó 9,14 millones como presidente de ACS en 2025",
+    "medio": "Expansión",
+    "fecha": 1774472482.0,
+    "link": "https://www.expansion.com/empresas/inmobiliario/2026/03/25/69c44bfae5fdeac0128b4596.html",
+    "resumen": "La junta del 8 de mayo votará la reelección de Juan Santamaría como consejero ejecutivo y de María José García Beato como independiente. Leer"
+  },
+  {
     "titulo": "Dormir en clase turista ha sido misión imposible. Algunas aerolíneas están probando tres asientos que se convierten en cama",
     "medio": "Xataka",
     "fecha": 1774472454.0,
@@ -12,6 +243,13 @@
     "fecha": 1774472454.0,
     "link": "https://www.trendencias.com/shopping/hannah-montana-celebra-su-20-aniversario-documental-esta-edicion-especial-funko-que-no-sabiamos-que-necesitabamos",
     "resumen": "Si ya estamos emocionadas con el especial de Hannah Montana que acaba de estrenar Disney+ por el 20 aniversario (somos mayores, madre mía), queda una friki sorpresa más: el nuevo Funko de Hannah Montana edición aniversario. Hay lanzamientos que no sabías que necesitabas hasta que llegan, y este es uno de ellos, pura fantasía dosmilera. Este Funko, inspirado en el 20 aniversario de la serie, captura un look de lo más icónico de la protagonista, con botas cowboy blancas y por supuesto, su mítica peluca rubia con la que era capaz de cambiar por completo volviéndose irreconocible por sus compañeros de clase (chúpate esa Superman con gafas). Un capricho nostálgico para todas esas millennials que disfrutamos creando un altar inspirado en nuestras cosas favoritas de la infancia en una Billy de Ikea por 16 euros. Eso sí, no olvides dejarlo dentro de la caja, no solo para que no pierda valor, también para evitar que se llene de polvo (palabra de experta coleccionista). Reinas del pop y de Disney en formato FunkoEsta nueva edición de Hannah Montana no está sola, podemos completar la colección con todas las cantantes que amamos porque Funko (al parecer) se ha propuesto llevarnos a la ruina. Desde el de Sabrina Carpenter, perfecto para las amantes del nuevo pop, hasta el de Mitchie de Camp Rock. Es más, hay tantos iconos hechos Funko que también tenemos a la mismísima Rosalía en forma de figurita y en una edición especial Motomami. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | Hannah Montana En Trendencias | Desde hace más de 50 años, las heroínas de Disney visten de azul: la decisión más feminista del gigante norteamericano - La noticia Hannah Montana celebra su 20 aniversario con un documental y con esta edición especial de Funko que no sabíamos que necesitábamos fue publicada originalmente en Trendencias por María Barba ."
+  },
+  {
+    "titulo": "Una huelga en DHL amenaza el suministro de Cruzcampo en Sevilla durante la Semana Santa",
+    "medio": "El País",
+    "fecha": 1774472292.0,
+    "link": "https://cincodias.elpais.com/companias/2026-03-25/una-huelga-en-dhl-amenaza-el-suministro-de-cruzcampo-en-sevilla-durante-la-semana-santa.html",
+    "resumen": "El operador logístico dice estar trabajando para “garantizar el servicio”"
   },
   {
     "titulo": "Rusia transforma sus drones baratos de madera contrachapada en aviones espía por 10 veces menos que el precio de un dron de reconocimiento convencional",
@@ -28,18 +266,11 @@
     "resumen": "El ministro de Exteriores de Israel, Gideon Saar, ha pedido este miércoles al Consejo de Seguridad de Naciones Unidas declarar al partido-milicia chií libanés Hezbolá una […]"
   },
   {
-    "titulo": "Este nuevo thriller de Charlize Theron conquistará Netflix en el mes de abril: una historia de supervivencia que arrasará en la plataforma",
+    "titulo": "ONCE hoy, miércoles, 25 de marzo de 2026: comprobar el Cupón Diario y Super 11",
     "medio": "OK Diario",
-    "fecha": 1774471552.0,
-    "link": "https://okdiario.com/trailer/este-nuevo-thriller-charlize-theron-conquistara-netflix-mes-abril-historia-supervivencia-que-arrasara-plataforma-16486495",
-    "resumen": "Dentro de aproximadamente un mes, el nuevo thriller de Charlize Theron aterrizará en Netflix. Nos referimos a Depredador dominante (Apex en su título original), un largometraje en el que la actriz sudafricana volverá a demostrar por qué a sus 50 años es una de mejores estrellas del cine de acción de su generación. Pero por … Continuar leyendo \"Este nuevo thriller de Charlize Theron conquistará Netflix en el mes de abril: una historia de supervivencia que arrasará en la plataforma\""
-  },
-  {
-    "titulo": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | EE UU amenaza con atacar Irán con más intensidad si Teherán no acepta que ha perdido la guerra",
-    "medio": "El País",
-    "fecha": 1774471467.0,
-    "link": "https://elpais.com/internacional/2026-03-25/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Irán rechaza la “excesiva” propuesta de Trump para poner fin al conflicto, aunque lo sigue estudiando | La República Islámica exige que cualquier alto el fuego incluya Líbano y que se reconozca su soberanía sobre Ormuz"
+    "fecha": 1774471555.0,
+    "link": "https://okdiario.com/loteria/comprobar-once-hoy-miercoles-25-marzo-2026-cupon-diario-super-11-16486013",
+    "resumen": "La ONCE ya ha realizado los sorteos de hoy miércoles, 25 de marzo de 2026: Cupón Diario y Super 11. Comprueba aquí los números premiados hoy. Comprobar resultado del Cupón Diario de la ONCE El resultado del Cupón Diario de la ONCE del miércoles, 25 de marzo de 2026 es el siguiente: 47538 y serie … Continuar leyendo \"ONCE hoy, miércoles, 25 de marzo de 2026: comprobar el Cupón Diario y Super 11\""
   },
   {
     "titulo": "Último adiós a Tejero: misa con 21 sacerdotes, amor al \"padre\" por encima de la \"Iglesia meretriz\" y el himno a España antes de comulgar",
@@ -47,27 +278,6 @@
     "fecha": 1774471340.0,
     "link": "https://www.elmundo.es/espana/2026/03/25/69c4368ee85ecea9448b4571.html",
     "resumen": "Durante la consagración comenzó a sonar el himno de España. No como un murmullo tímido, sino como una irrupción. Y, por encima de la música, un grito: \"¡Viva España!\" Leer"
-  },
-  {
-    "titulo": "El Gobierno coloca a Baltasar Garzón al frente de la 'Comisión de la Verdad' sobre la Guerra Civil y el franquismo",
-    "medio": "El Español",
-    "fecha": 1774471310.0,
-    "link": "https://www.elespanol.com/espana/20260325/gobierno-coloca-baltasar-garzon-frente-comision-verdad-guerra-civil-franquismo/1003744184148_0.html",
-    "resumen": "El Consejo de Memoria Democrática acordó la designación de las diez personas independientes y de reconocido prestigio que la integrarán.Más información: La victoria 'póstuma' de García Ortiz: el TS avala que volviese a nombrar a Dolores Delgado para memoria democrática"
-  },
-  {
-    "titulo": "La NASA capta desde el espacio el ‘ojo’ del Sáhara: una formación geológica única de 40 kilómetros",
-    "medio": "OK Diario",
-    "fecha": 1774471309.0,
-    "link": "https://okdiario.com/ciencia/nasa-capta-desde-espacio-ojo-del-sahara-formacion-geologica-unica-40-kilometros-16487281",
-    "resumen": "El desierto del Sáhara alberga una de las estructuras geológicas más sorprendentes del planeta. Se trata del conocido como Ojo del Sáhara o estructura de Richat, una formación circular situada en Mauritania que destaca por su tamaño y su peculiar apariencia. En la imagen difundida por el Observatorio de la Tierra de la NASA, la … Continuar leyendo \"La NASA capta desde el espacio el ‘ojo’ del Sáhara: una formación geológica única de 40 kilómetros\""
-  },
-  {
-    "titulo": "Las cámaras captan lo que hace Letizia nada más ver al escolta del presidente de Senegal: siete segundos que son oro",
-    "medio": "HuffPost",
-    "fecha": 1774471233.0,
-    "link": "https://www.huffingtonpost.es/virales/las-camaras-captan-letizia-mas-ver-escolta-presidente-senegal-siete-segundos-son-oro-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "La IA de Google ahora compone canciones completas, y suenan mejor de lo que imaginas",
@@ -98,13 +308,6 @@
     "resumen": "Llegan como dos grandes favoritos Spar Girona y Casademont Zaragoza, que se han ido mostrando como los proyectos más sólidos durante la temporadaEspaña vuelve a la élite del baloncesto mundial: jugará el Mundial 2026 en Alemania ocho años después Este jueves arranca en Tarragona la disputa de la Copa de la Reina de baloncesto 2026, en una edición que se celebra en el Palau d’Esports de Catalunya y que parte con Hozono Global Jairis como el equipo que defiende el título cosechado el año pasado, cuando logró sorprender a los favoritos. Los ocho mejores equipos de la primera vuelta de la LF Endesa se ven las caras en un campeonato a partido único que siempre puede deparar sorpresas, y que se jugará desde este jueves 26 de marzo al domingo 29 de marzo, cuando se conocerá el nuevo campeón. Spar Girona y Casademont Zaragoza llegan como favoritos A esta Copa de la Reina LF Endesa 2026 llegan como dos grandes favoritos Spar Girona y Casademont Zaragoza, que se han ido mostrando como los proyectos más sólidos durante la temporada, habiendo logrado además el objetivo de estar en la Final Six de la Euroliga femenina, que tendrá lugar dentro de varias semanas en Zaragoza. Casademont Zaragoza llega como líder de la clasificación de la LF Endesa, con una de las mejores rachas de la competición con cinco victorias consecutivas. En la última jornada, viene de vencer con un contundente 101-56 al colista, Spar Gran Canaria, y recientemente ha renovado el contrato de pilares de su equipo, entre ellos al entrenador Carlos Cantero. Aventaja en tan solo una victoria a Uni Girona, que es el siguiente en la clasificación y otro de los líderes. Las de Roberto Iñiguez han sido uno de los equipos más estables en su juego durante toda la campaña y además llegan después de haber dado un golpe sobre la mesa en LF Endesa ante un rival directo de la talla de Valencia Basket. Las ‘taronja’ son precisamente unas de las que podrían tomar esta Copa de la Reina como revulsivo, en una temporada en la que se han caído algunos de los objetivos como los de estar en la Final Six de Euroliga y donde han perdido también duelos directos en LF Endesa ante rivales directos. En una situación similar está Perfumerías Avenida, que cayó en cuartos de final de Eurocup después de no disputar Euroliga tras muchos años siendo uno de los fijos de la competición europea. Tanto Valencia como las de Salamanca tienen a su favor el talento de sus plantillas y la experiencia en grandes torneos para anteponerse a Girona y Zaragoza. No hay que olvidarse de Jairis. Las murcianas dieron la sorpresa la pasada edición y esta temporada fueron uno de los que mejor arrancaron el 2026, con fichajes que han aportado un extra como es el caso de Laura Gil, que añade experiencia en un plantel que tiene también talento y juventud. Horarios y dónde ver la Copa de la Reina LF Endesa 2026 Casademont Zaragoza inaugura la competición copera con el duelo de cuartos de final ante IDK Euskotren a las 18 horas, para que luego sea el turno de Valencia Basket y Ensino Lugo, a las 20:30 horas, en el mismo lado del cuadro, este jueves. Para el viernes queda el otro lado del cuadro, primero con el Hozono Global Jairis e Innova-TSN Leganés a las 18:45 horas, para luego dar con el Spar Girona vs Perfumerías Avenida a las 21:30 horas. El sábado tendrán lugar las semifinales, con horarios de 17 y 20 horas, mientras el domingo será la gran final a las 18:30 horas. El torneo se podrá ver al completo en televisión a través del canal Teledeporte y online por RTVE Play, que tiene los derechos de la Liga Femenina Endesa y sus campeonatos relacionados."
   },
   {
-    "titulo": "El acto de Rufián y Montero se celebrará en la Universidad Pompeu Fabra de Barcelona",
-    "medio": "The Objective",
-    "fecha": 1774470770.0,
-    "link": "https://theobjective.com/espana/politica/2026-03-25/acto-rufian-montero-universidad-pompeu-fabra-barcelona/",
-    "resumen": "El acto protagonizado por el portavoz de ERC en el Congreso, Gabriel Rufián, la eurodiputada de Podemos, Irene Montero, y el exdirigente de los Comuns, Xavier […]"
-  },
-  {
     "titulo": "La OCU recomienda no consumir aceite de orujo de oliva por una sustancia tóxica, pero el sector garantiza que es seguro",
     "medio": "El País",
     "fecha": 1774470746.0,
@@ -124,20 +327,6 @@
     "fecha": 1774470653.0,
     "link": "https://www.trendencias.com/silver/laura-cobo-abogada-desheredas-a-hijo-causa-justificada-este-puede-demandar-a-hermanos-que-que-aparecen-testamento",
     "resumen": "Desheredar a un hijo puede parecer una forma directa de cortar un conflicto familiar de raíz. Sin embargo, en España no es una decisión tan sencilla: no basta con excluirlo del testamento por considerar que se ha portado mal con nosotros. De hecho, la ley establece causas muy concretas y exige que estén debidamente justificadas. La abogada Laura Cobo, que ya ha explicado en otras ocasiones cómo gestionar cuestiones prácticas tras un fallecimiento, como el bloqueo de cuentas bancarias que los familiares no anticipan, ha abordado ahora en el podcast Seres Mortales una consecuencia que muchos testadores no calculan: el verdadero problema no lo tendrá quien firma el testamento, sino los hijos que van a heredar. Lo que dice el Código Civil sobre la desheredación Antes de entrar en el escenario que describe Cobo, conviene tener claro el marco legal. El artículo 853 del Código Civil detalla las causas concretas que permiten desheredar a alguien, exigiendo que estas se especifiquen claramente en el testamento para que la exclusión sea válida. En este sentido, no basta con querer apartar a un hijo de la herencia: hay que justificarlo en uno de los supuestos que contempla la ley, y esas causas son taxativas. No se puede desheredar por causa distinta a las tasadas por la ley. Entre esas causas se incluyen situaciones como haber negado alimentos al progenitor sin motivo justificado o haberle maltratado de obra. Una de las evoluciones jurisprudenciales más significativas en materia de desheredación ha sido la ampliación del concepto de maltrato de obra contemplado en el artículo 853.2 del Código Civil para incluir el maltrato psicológico, con el Tribunal Supremo desarrollando esta doctrina desde 2014. Si la causa existe y es real, la desheredación es válida. El problema aparece cuando no lo es, o cuando no se puede demostrar. \"Te quedas tan pichi, pero el problema se lo dejas a tus hijos\" Cobo lo resume con una frase que da una idea bastante precisa de lo que ocurre: \"Tú desheredas a un hijo, te mueres, y te quedas tan pichi\". La cuestión es que, si el proceso no se ajusta a los causas específicas marcadas por el Código Civil, el conflicto no desaparece con el fallecimiento del testador. Simplemente cambia de manos. La abogada plantea un ejemplo concreto con tres hijos. El progenitor decide desheredar al primero y fallece. A partir de ese momento, el hijo desheredado tiene derecho a impugnar el testamento. Y cuando lo hace, la demanda no va contra nadie que ya no esté: va contra los otros dos hermanos. \"Lo que va a hacer el hijo desheredado es presentar una demanda contra el hijo 2 y el hijo 3, diciendo que la causa por la que le han desheredado no es cierta, y que no se basa en ninguno de los supuestos que marca el Código Civil\". Si el juez le da la razón, el testamento no sería válido. La carga de la prueba recae sobre los herederos Aquí es donde el escenario se complica para quienes sí aparecen en el testamento. Si el hijo desheredado decide impugnar el testamento, los herederos legítimos tendrán la responsabilidad de demostrar que los motivos invocados por el testador, o sea, su padre fallecido, son ciertos. Y eso, como señala Cobo, es difícil: \"estás probando algo que no es tuyo, que es de la persona que ha fallecido\". Los hermanos 2 y 3 tendrán que acreditar unos hechos que protagonizó su padre o madre, y en los que ellos no necesariamente estuvieron presentes. Si lo consiguen, el testamento es válido y el reparto se mantiene. Si no, la herencia se distribuye entre los tres hijos como si la desheredación no hubiera existido. Este tipo de pleito entre hermanos es uno de los conflictos más habituales que llegan a los juzgados en materia sucesoria, y uno de los que más deterioro familiar generan. De hecho, las herencias sacan a la luz en muchas ocasiones tensiones familiares que levan años acumuladas, y los procedimientos judiciales las amplifican. @seresmortalesoficial Qué pasa si te desheredan (o desheredas a tus hijos) ❌💰🏠 Punto 6 del episodio: La Desheredación (explicado por Abogada experta en Herencias y Conflictos Familiares) #familia #herencia #padres #hijos #dinero #inmuebles #propiedades #casas #impuestos #aprendizaje #inspiracion #crecimientopersonal ♬ original sound - Seres Mortales Si la causa de desheredación es real y está bien documentada, el testamento aguantará una impugnación. Si no lo es, o si no se pueden reunir las pruebas necesarias, el resultado puede ser exactamente el contrario de lo que el testador pretendía. Fotografías | Laura Cobo, andreas para Freepik, Freepik En Trendencias | Nuestros padres heredaron la casa de los abuelos. Tú quizás no la heredes, porque la venderán para completar su pensión En Trendencias | El error más grave en España a la hora de las herencias: \"Si la aceptas, que sea siempre a beneficio de inventario porque luego hay sorpresas\" En Trendencias | Alberto Sanchez, abogado: \"Si hay testamento hecho, la herencia se debe repartir en tres tercios\" - La noticia Laura Cobo, abogada: \"Si desheredas a un hijo sin causa justificada, este puede demandar a los hermanos que sí aparecen en el testamento\" fue publicada originalmente en Trendencias por Nacho Viñau ."
-  },
-  {
-    "titulo": "Todo sobre Alexandra Jiménez: edad, su pareja actual e hijos, de dónde es y en qué series ha participado",
-    "medio": "OK Diario",
-    "fecha": 1774470611.0,
-    "link": "https://okdiario.com/sociedad/todo-sobre-alexandra-jimenez-edad-pareja-actual-hijos-donde-que-series-participado-16480874",
-    "resumen": "Alexandra Jiménez visita hoy el plató de El Hormiguero junto a Javier Cámara, con quien comparte nuevos proyectos profesionales. La presencia de ambos intérpretes en el popular programa de televisión vuelve a situar en primer plano a una intérprete que, pese a acumular dos décadas de trayectoria en cine y televisión, ha logrado mantener su … Continuar leyendo \"Todo sobre Alexandra Jiménez: edad, su pareja actual e hijos, de dónde es y en qué series ha participado\""
-  },
-  {
-    "titulo": "OnePlus está en oferta y su Watch 2R junta potencia y autonomía",
-    "medio": "La Vanguardia",
-    "fecha": 1774470600.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260325/11498165/oneplus-esta-oferta-aniversario-aliexpress-watch-2r-demuestra-autonomia-potencia-juntas-mkt-alie.html",
-    "resumen": "Un smartwatch que no intenta competir en todo, pero sí en lo que más importa: batería, fluidez y uso real sin complicaciones"
   },
   {
     "titulo": "Noelia, en la víspera de recibir la eutanasia: \"Mi padre no ha respetado mi decisión y nunca lo hará\"",
@@ -168,41 +357,6 @@
     "resumen": "La gobernadora demócrata del Estado firma una ley para que los agentes no puedan cubrirse el rostro, mientras que el Departamento de Seguridad Nacional asegura que no cumplirá con la normativa"
   },
   {
-    "titulo": "Ucrania acaba con el 40% de la exportación de petróleo ruso al atacar 2 puertos bálticos e infraestructuras",
-    "medio": "OK Diario",
-    "fecha": 1774470280.0,
-    "link": "https://okdiario.com/internacional/ucrania-acaba-40-exportacion-petroleo-ruso-atacar-2-puertos-balticos-infraestructuras-16487071",
-    "resumen": "Ucrania ha lanzado el mayor ataque del año contra Rusia y ha golpeado donde más le duele a Putin en estos momentos: en su industria petrolera, tras el levantamiento de sanciones a este carburante por parte de EEUU. El Ejército de Kiev ha llevado a cabo esta pasada madrugada una contundente campaña de ataques con … Continuar leyendo \"Ucrania acaba con el 40% de la exportación de petróleo ruso al atacar 2 puertos bálticos e infraestructuras\""
-  },
-  {
-    "titulo": "Guerra de Irán, EEUU e Israel en directo hoy | Últimas noticias de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos",
-    "medio": "OK Diario",
-    "fecha": 1774470088.0,
-    "link": "https://okdiario.com/internacional/guerra-iran-eeuu-israel-directo-hoy-ultimas-noticias-ataques-estrecho-ormuz-declaraciones-trump-posibles-acuerdos-16469674",
-    "resumen": "Se cumplen 25 días desde que EEUU e Israel lanzaran ataques aéreos masivos contra objetivos en Irán, incluyendo el complejo nuclear de Natanz e instalaciones militares en el corazón de Teherán. Irán mantiene cerrado el Estrecho de Ormuz, una vía vital por la que circula el 20 por ciento del crudo mundial, lo que ha … Continuar leyendo \"Guerra de Irán, EEUU e Israel en directo hoy | Últimas noticias de los ataques, estrecho de Ormuz, declaraciones de Trump y posibles acuerdos\""
-  },
-  {
-    "titulo": "La ONU reconoce la trata de esclavos africanos como el mayor crimen de lesa humanidad",
-    "medio": "The Objective",
-    "fecha": 1774470009.0,
-    "link": "https://theobjective.com/internacional/2026-03-25/onu-trata-esclavos-africanos-crimen-lesa-humanidad/",
-    "resumen": "La Asamblea General de Naciones Unidas ha aprobado este miércoles una resolución impulsada por Ghana que reconoce la trata y esclavitud de africanos como «el crimen […]"
-  },
-  {
-    "titulo": "Inda: «Para callarnos, Sánchez, tendrás que sacarnos con los pies por delante, no te bastará con señalarnos en el Parlamento»",
-    "medio": "OK Diario",
-    "fecha": 1774469942.0,
-    "link": "https://okdiario.com/opinion/inda-callarnos-sanchez-tendras-que-sacarnos-pies-delante-no-te-bastara-senalarnos-parlamento-16487026",
-    "resumen": "El director de OKDIARIO se pone al frente de la defensa de la libertad de prensa ante el ataque lanzado contra este medio este miércoles por el presidente del Gobierno desde el Congreso de los Diputados. Eduardo Inda ilustra cómo «en las autocracias es habitual que el líder de turno utilice la Asamblea Nacional o … Continuar leyendo \"Inda: «Para callarnos, Sánchez, tendrás que sacarnos con los pies por delante, no te bastará con señalarnos en el Parlamento»\""
-  },
-  {
-    "titulo": "La Gomera pide ayuda a la UME y un contingente llega en barco desde Tenerife",
-    "medio": "The Objective",
-    "fecha": 1774469910.0,
-    "link": "https://theobjective.com/sociedad/2026-03-25/la-gomera-ayuda-ume-barco-tenerife/",
-    "resumen": "La Dirección General de Emergencias del Gobierno de Canarias ha activado la situación de emergencia en La Gomera por riesgo de inundaciones debido a la borrasca […]"
-  },
-  {
     "titulo": "Mbappé zanja la polémica sobre su lesión de rodilla: \"Si estoy bien es por mi club. Es falso que se equivocaran en el examen\"",
     "medio": "El Español",
     "fecha": 1774469866.0,
@@ -210,39 +364,11 @@
     "resumen": "El francés atendió a los medios en la rueda de prensa previa al partido contra Brasil y descartó que los servicios médicos del club blanco se equivocaran de rodilla. Más información: El hijo de Cristiano Ronaldo, a prueba en el Real Madrid para fichar por su cantera"
   },
   {
-    "titulo": "Los partes médicos que impiden al pagador de Zapatero en ‘Plus Ultra’, Julito Martínez, ir al Senado: «Tiene estrés agudo»",
-    "medio": "OK Diario",
-    "fecha": 1774469745.0,
-    "link": "https://okdiario.com/investigacion/parte-medico-incapacidad-temporal-julio-martinez-16485814",
-    "resumen": "«Tiene estrés agudo», con estas palabras resume la médico que ha asistido a Julio Martínez Martínez el estado en el que se encuentra el pagador de José Luis Rodríguez Zapatero detenido en el caso Plus Ultra. El empresario pide con estos certificados médicos no asistir a la Comisión de Investigación del caso Koldo en el … Continuar leyendo \"Los partes médicos que impiden al pagador de Zapatero en ‘Plus Ultra’, Julito Martínez, ir al Senado: «Tiene estrés agudo»\""
-  },
-  {
-    "titulo": "Última entrevista a Noelia Castillo en directo | Últimas noticias sobre la eutanasia, qué le pasó, reacciones y su historia",
-    "medio": "OK Diario",
-    "fecha": 1774469717.0,
-    "link": "https://okdiario.com/cool/television/ultima-hora-eutanasia-noelia-castillo-ramos-directo-cuando-que-paso-todo-sobre-entrevista-16483611",
-    "resumen": "El pasado martes 24 de marzo, durante la emisión de una nueva entrega de Y ahora Sonsoles, los espectadores de Antena 3 se vieron sorprendidos al conocer a Noelia Castillo Ramos. La joven de 25 años lleva muchísimo tiempo tratando de conseguir una muerte digna a través de la eutanasia. Ahora, Noelia vuelve al programa … Continuar leyendo \"Última entrevista a Noelia Castillo en directo | Últimas noticias sobre la eutanasia, qué le pasó, reacciones y su historia\""
-  },
-  {
     "titulo": "Mbappé: \"Puede que yo tenga algo de responsabilidad, cuando no comunicas hay rumores\"",
     "medio": "El Mundo",
     "fecha": 1774469295.0,
     "link": "https://www.elmundo.es/deportes/futbol/2026/03/25/69c4408ae4d4d8a50f8b45ca.html",
     "resumen": "El delantero francés habla en la previa del amistoso ante Brasil y dice que la información que ha sido publicada sobre el error del Madrid con su rodilla \"no es verdad\" Leer"
-  },
-  {
-    "titulo": "El Barça entierra la temporada del Madrid con una goleada tremenda en los cuartos de Champions",
-    "medio": "El País",
-    "fecha": 1774469221.0,
-    "link": "https://elpais.com/deportes/futbol/2026-03-25/el-barca-entierra-la-temporada-del-madrid-con-una-goleada-tremenda-en-los-cuartos-de-champions-2-6.html",
-    "resumen": "Las azulgranas arrasan en el Di Stéfano al Real (2-6), sin más respuesta que Linda Caicedo, y convierten la vuelta en el Camp Nou en un mero trámite"
-  },
-  {
-    "titulo": "El Congreso avala como nueva presidenta de la Airef a la candidata de Montero",
-    "medio": "The Objective",
-    "fecha": 1774469117.0,
-    "link": "https://theobjective.com/espana/politica/2026-03-25/congreso-ines-olondriz-presidenta-airef-pp-vox/",
-    "resumen": "La Comisión de Hacienda del Congreso ha respaldado este miércoles la propuesta por María Jesús Montero, vicepresidenta del Gobierno de Pedro Sánchez, para que Inés Olóndriz, […]"
   },
   {
     "titulo": "El magnesio se ha convertido en el suplemento de moda para dormir. Esto es lo que dice la ciencia realmente",
@@ -259,13 +385,6 @@
     "resumen": "No habíamos visto nunca a Hero Fiennes Tiffin en un papel como el que interpreta en su última serie de Prime Video. El joven actor, que quizá te suene porque es el coprotagonista de la saga ‘After’ junto a Josephine Langford, se despoja del look de chico malo para convertirse en el personaje humano literario más adaptado del mundo, con récord Guinness incluido. Y parece que el cambio le ha sentado bien porque ‘El joven Sherlock’ es la serie más vista de Prime Video desde su estreno el pasado 4 de marzo según datos de Flixpatrol. El detective creado por Arthur Conan Doyle en 1887 revive una vez más, esta vez con Guy Ritchie dirigiendo los primero capítulos y con Hero Fiennes Tiffin como Sherlock Holmes. La serie, que adapta la saga de libros juveniles homónima de Andrew Lane, está ambientada en la Inglaterra victoriana, en el Oxford de 1870, y expone, como los libros, una visión alternativa del origen del legendario detective. Además de Fiennes como protagonista esta serie también cuenta con Dónal Finn, Zine Tseng, Joseph Fiennes, Natascha McElhone, Max Irons y Colin Firth en su reparto y la crítica ya ha dicho de ella que es “desenfadada y muy entretenida”, lo que en los tiempos que corren de contenido regulero es un gran piropo. Eso, sumado a que ya se ha confirmado una segunda temporada que también podremos ver en Prime Video, es un sinónimo de éxito. Esta vez la historia nos lleva a conocer al carismático Sherlock Holmes en su versión más joven y rebelde. Cuando conoce a James Moriarty, se ve arrastrado a una investigación por asesinato que pone en peligro su libertad y que se convierte en el primer caso de Sherlock Holmes. Uno que desenreda una conspiración de alcance mundial y que conduce a un enfrentamiento explosivo que cambiará el rumbo de su vida para siempre. La serie de ‘El joven Sherlock’ que Prime Video ha creado es divertida y entretenida, y aunque no reinventa nada -ni la historia ni al famoso personaje- sí tiene una buena dosis de misterio mezclada con humor. Puede que no sea una de las mejores series de Prime Video, pero es más que suficiente para engancharte durante sus ocho episodios y conseguir que pases un buen rato sin pensar en nada más. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | El joven Sherlock (Prime Video) En Trendencias | Las 38 mejores series de Netflix que puedes ver ahora mismo En Trendencias | Las 31 mejores series de HBO Max que puedes ver ahora mismo - La noticia La serie más vista de Prime Video es de un personaje con 139 años. Sigue siendo tan carismático como en su primera novela fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
-    "titulo": "El PP busca acomodo a Vox en los gobiernos de Extremadura y Aragón antes de las andaluzas",
-    "medio": "HuffPost",
-    "fecha": 1774468813.0,
-    "link": "https://www.huffingtonpost.es/politica/el-pp-empieza-asumir-pactos-vox-llegaran-semana-santa-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Inés Olóndriz logra el aval para presidir la Airef con la oposición en contra por primera vez",
     "medio": "La Vanguardia",
     "fecha": 1774468812.0,
@@ -278,20 +397,6 @@
     "fecha": 1774468800.0,
     "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260325/11498782/como-ganar-espacio-terraza-pequena-mejores-muebles-exterior-elegantes-practicos-suman-almacenaje-mkt-alie.html",
     "resumen": "Para ganar un extra de funcionalidad en tu terraza pequeña, opta por uno de estos muebles de exterior rebajados del Aniversario de AliExpress"
-  },
-  {
-    "titulo": "La familia sevillana que empezó con 3 vacas hace 60 años y hoy envasa 14.000 litros diarios y exporta hasta Mauritania: \"Somos los únicos que mantenemos el servicio a domicilio\"",
-    "medio": "HuffPost",
-    "fecha": 1774468800.0,
-    "link": "https://www.huffingtonpost.es/sociedad/familia-sevillana-empezo-3-vacas-60-anos-hoy-envasa-14000-litros-diarios-exporta-mauritania-somos-unicos-mantenemos-servicio-domicilio-f202603.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Progresistas y conservadores se alían en el CGPJ para excluir a los jueces de la ley de prevención de riesgos laborales",
-    "medio": "El País",
-    "fecha": 1774468771.0,
-    "link": "https://elpais.com/espana/2026-03-25/progresistas-y-conservadores-se-alian-en-el-cgpj-para-excluir-a-los-jueces-de-la-ley-de-prevencion-de-riesgos-laborales.html",
-    "resumen": "Los dos vocales propuestos por Sumar se desmarcan del bloque progresista"
   },
   {
     "titulo": "Isabel Garcia Pagan: “Cada día pueden pasar 500 noticias por la web del diario”",
@@ -308,39 +413,11 @@
     "resumen": "El acuerdo actualiza la carrera profesional de los sanitarios y establece mejoras en las condiciones laborales de 130.000 trabajadores Leer"
   },
   {
-    "titulo": "La Complutense cesa a la responsable de Igualdad en plena polémica por la reducción de horas de trabajo",
-    "medio": "El País",
-    "fecha": 1774468586.0,
-    "link": "https://elpais.com/educacion/2026-03-25/la-complutense-cesa-a-la-responsable-de-igualdad-en-plena-polemica-por-la-reduccion-de-horas-de-trabajo.html",
-    "resumen": "El nuevo Plan de Dedicación Académica recorta el tiempo de los equipos de Igualdad y Políticas Sociales para atender a la comunidad universitaria"
-  },
-  {
-    "titulo": "Mbappé: «La información de que examinaron la rodilla equivocada es falsa»",
-    "medio": "The Objective",
-    "fecha": 1774468561.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-03-25/mbappe-informacion-examinaron-rodilla-equivocada-falsa/",
-    "resumen": "Didier Deschamps y Kylian Mbappé han salido a hablar en rueda de prensa previa al choque amistoso de mañana ante la selección de Brasil y el fin […]"
-  },
-  {
-    "titulo": "Jaime Palomera, experto en vivienda: \"Las ayudas a la emancipación deben llegar a más gente, no solo jóvenes\"",
-    "medio": "HuffPost",
-    "fecha": 1774468506.0,
-    "link": "https://www.huffingtonpost.es/politica/jaime-palomera-experto-vivienda-las-ayudas-emancipacion-deben-llegar-mas-gente-jovenes-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "El Barça destroza al Madrid con un histórico y simbólico 2-6",
     "medio": "La Vanguardia",
     "fecha": 1774468119.0,
     "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260325/11499262/barca-destroza-madrid-historico-simbolico-2-6.html",
     "resumen": "Las blaugrana acarician sus octavas semifinales de Champions después de arrollar al conjunto madridista"
-  },
-  {
-    "titulo": "EEUU afirma que el diálogo con Irán continúa pero evita confirmar el plan de paz de Trump",
-    "medio": "The Objective",
-    "fecha": 1774468012.0,
-    "link": "https://theobjective.com/internacional/2026-03-25/eeuu-dialogo-iran-plan-paz-trump/",
-    "resumen": "La Casa Blanca ha matizado este martes las informaciones publicadas en medios acerca de un plan de 15 puntos que la Administración de Donald Trump habría […]"
   },
   {
     "titulo": "Meloni fuerza tres dimisiones en 48 horas tras su derrota en el referéndum sobre la reforma judicial",
@@ -350,25 +427,11 @@
     "resumen": "Este miércoles ha dimitido la ministra de Turismo de Italia, Daniela Santanchè, como pedía Meloni. Su salida se une a la de dos polémicos altos cargos de JusticiaItalia rechaza en referéndum la reforma judicial de Meloni en un golpe político a su Gobierno La primera ministra italiana, Giorgia Meloni, inicia una 'purga' en su Gobierno tras la sonora derrota de su referéndum sobre la reforma judicial y fuerza la dimisión de la ministra de Trabajo y dos altos cargos de Justicia. La última salida ha sido la de Daniela Santanchè, titular de Turismo y miembro del partido ultra Fratelli d'Italia de Meloni, que ha presentado este miércoles su dimisión, como le había pedido públicamente la líder del Ejecutivo y pese a su resistencia a hacerlo. “Querida Giorgia, te presento, como has deseado públicamente, mi dimisión del cargo de ministra que quisiste encargarme y que creo que he desempeñado con mis mejores capacidades”, se lee en una carta dirigida a la inquilina del Palazzo Chigi y difundida por el ministerio. El resultado del referéndum —donde el 'no' a la propuesta se impuso con un 54% de los votos— propició la dimisión de dos polémicos altos cargos del Gobierno, criticados por haber empañado la campaña con sus declaraciones y acciones: el subsecretario del Ministerio de Justicia, Andrea Delmastro, y la jefa de Gabinete, Giusi Bartolozzi. La hasta ahora ministra era uno de los miembros más polémicos del Gobierno por estar implicada en varios procesos judiciales y de fraude. Sin embargo, la primera ministra no ha explicitado los motivos de su petición de renuncia hacia ella. “He querido (y espero que lo entiendas) que quedara públicamente claro que eras tú quien me pedía dejar este cargo, porque, como siempre he dicho, habría dimitido solo ante una solicitud tuya explícita y pública. Quería que quedara claro, por mi honorabilidad, que doy un paso atrás únicamente ante la petición que la jefa de mi partido considera útil y oportuna”, afirma Santanchè en su carta. En la misma, también defiende que actualmente tiene un historial penal “impecable”. La ministra de Turismo de Italia, Daniela Santanchè. Sobre su decisión de no dimitir inmediatamente, sostiene su intención de separar su renuncia del resultado del referéndum. “Quería que se mantuviera separada tanto de los comentarios sobre el referéndum, ya que no quisiera ser el chivo expiatorio de una derrota que ciertamente no ha sido determinada por mí”, alega. Santanchè termina su misiva confesando su “amargura” y tendiendo su mano a la primera ministra: “En mi vida estoy acostumbrada a asumir mis responsabilidades y, a menudo, también las de los demás. Valoro más nuestra amistad y el futuro de nuestro movimiento”. Se trata de la segunda dimisión de un ministro en el Gobierno de Meloni, después de la del extitular de Cultura, Gennaro Sangiuliano, en agosto de 2024 por un escándalo sentimental. La legislatura se tuerce para Meloni Hasta hace pocos días el horizonte político de Meloni, en el último tramo de una legislatura que concluirá previsiblemente en 2027, estaba limpio de nubarrones, pero han surgido inesperadamente con su fracaso en el referéndum al que sometió su importante reforma de la magistratura. El resultado más inmediato ha sido la alegría de una oposición de centro-izquierda que rechazaba en bloque la reforma y que se apunta un triunfo simbólico. Pero también el disgusto de los partidos en el Gobierno y de la mandataria ante su primera gran derrota, que se interpreta también como una encuesta sobre la popularidad de la que goza la líder ultraderechista, al tratarse de una de sus medidas estrella. La participación ha sido clave, según los medios italianos: se acerca al 59% de los 51,4 millones de italianos llamados a votar en una consulta que no requería una tasa de participación mínima para que el resultado sea válido. Ha sido el referéndum con mayor afluencia de la última década, tras otro celebrado en 2016 sobre la composición del Senado donde se llegó al 65% y que derivó en la derrota y dimisión de su gran promotor, el ex primer ministro Matteo Renzi. En los últimos días y semanas, la campaña se aceleró en medio de la polarización y la apatía de gran parte de la ciudadanía que, en muchos casos, no entendió los tecnicismos enrevesados de la reforma y fue a votar más bien en función de su apoyo o rechazo al Gobierno ultraderechista de Meloni. Entre los cambios previstos por la reforma judicial, está la separación de carreras de jueces y fiscales, que hasta ahora pueden cambiar de rol al inicio de su vida profesional. El Ejecutivo apeló a modificar el sistema, alegando que los profesionales de la Justicia ganarán imparcialidad con carreras separadas, sin opción de pasar de juez a fiscal o viceversa, algo que niegan los críticos, que alertaron del mayor control político sobre los tribunales."
   },
   {
-    "titulo": "Nerea Zorokiain, experta en fermentación con 20 años de experiencia: \"Es mucho más peligroso comer algo cocinado dejado en la cocina toda la noche que algo fermentado\"",
-    "medio": "HuffPost",
-    "fecha": 1774467887.0,
-    "link": "https://www.huffingtonpost.es/life/salud/nerea-zorokiain-experta-fermentacion-20-anos-experiencia-es-mas-peligroso-comer-cocinado-dejado-cocina-toda-noche-fermentado-f202603.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Inés Olóndriz, la candidata del Gobierno para presidir la AIReF, sale elegida por mayoría mínima y dirigirá la institución hasta 2032",
     "medio": "El Mundo",
     "fecha": 1774467622.0,
     "link": "https://www.elmundo.es/economia/2026/03/25/69c4251ce85ece05208b457d.html",
     "resumen": "La alto cargo de Hacienda asegura a los diputados que se limitó a dar \"forma técnica\" a la quita de deuda y nuevo modelo de financión que decidió Montero y que será \"independiente\" del Gobierno Leer"
-  },
-  {
-    "titulo": "Aristóteles, filósofo griego: \"Si uno escucha el tipo de música equivocado, se convertirá en el tipo de persona equivocada\"",
-    "medio": "HuffPost",
-    "fecha": 1774467569.0,
-    "link": "https://www.huffingtonpost.es/sociedad/aristoteles-filosofo-griego-si-escucha-tipo-musica-equivocado-convertira-tipo-persona-equivocada-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "Muere el expresidente de las Cortes de Castilla y León Manuel Estella",
@@ -392,25 +455,11 @@
     "resumen": "El Pacto de Estado contra la Violencia de Género contará en 2026 con un respaldo económico de 11,9 millones de euros adicionales, que serán destinados a medidas específicas de atención y prevención, además de otras 13 iniciativas, que se sumarán a las 461 que contempla el acuerdo.Así lo ha avanzado la delegada del Gobierno contra Violencia de Género (DGVG), Carmen Martínez Perza, en el Congreso en la comisión de seguimiento y evaluación del pacto de Estado en esta materia, para informar de la ejecución del mismo, que fue renovado el pasado 26 de febrero de 2025. Dicho pacto contempla 461 medidas en total, de las que son responsables, además de Igualdad, otros ministerios, administraciones e instituciones, y contó en 2025 con 82 millones destinados a medidas directas, además de 160 millones transferidos a comunidades autónomas y 40 millones más para entidades locales.Estos recursos han garantizado la continuidad de servicios esenciales como los centros de crisis 24 horas, el servicio telefónico 016, Atenpro o Cometa, según ha precisado la delegada. De las 461 iniciativas que contempla el pacto, ya se han aplicado 251, lo que representa el 51% de su ejecución global por parte del Gobierno, según ha detallado Martínez Perza.En el caso de las iniciativas que son competencia del Ministerio de Igualdad, se han puesto en marcha 113 medidas de las 211, lo que supone el 54% de ejecución de las iniciativas, con avances en violencia vicaria, trata, violencia sexual, servicios esenciales, y acreditaciones administrativas. En concreto, la Delegación del Gobierno contra la Violencia de Género tiene encomendadas 159 medidas propias y más de 21 compartidas con el Instituto de las Mujeres (IM). De ellas, en 2025 se activaron 90 de las propias y 8 de las compartidas. Por su parte, el Instituto de las Mujeres ha avanzado en 3 de sus 9 medidas exclusivas y 2 compartidas, mientras que en el ámbito general del ministerio, se han ejecutado 12 de las 22 medidas que están bajo su paraguas.En cuanto al resto de ministerios, ha destacado algunas medidas como la mejora en la protección de menores en entornos digitales y la adecuación de sedes judiciales impulsadas por el Ministerio de Presidencia, Justicia y Relaciones con las Cortes; o actuaciones centradas en el asilo, la actualización de VioGén y la protección internacional de las víctimas del Ministerio del Interior.La delegada ha precisado que la activación de las medidas varía según su complejidad, ya que algunas \"son inmediatas\", como campañas, formaciones o ajustes de protocolos, mientras que otras requieren reformas legales, cambios estructurales o actualización de sistemas de evaluación. Además, ha subrayado \"el impulso normativo realizado\", como en la lucha contra la violencia vicaria o la ley integral de trata, que está prevista elevar al Congreso en los próximos meses.En su intervención, la delegada ha enumerado otros avances que ya se han producido, como el sistema de acreditación de las víctimas, las mejoras en los sistemas de protección, o los ajustes en los criterios para garantizar coherencia legal y seguridad jurídica en las subvenciones estatales de apoyo a mujeres y niñas víctimas de trata, entre otros."
   },
   {
-    "titulo": "Junts asegura que el Gobierno aprobará una rebaja en el IVA a los autónomos",
-    "medio": "La Vanguardia",
-    "fecha": 1774467345.0,
-    "link": "https://www.lavanguardia.com/politica/20260325/11499257/junts-asegura-gobierno-aprobara-rebaja-iva-autonomos.html",
-    "resumen": "Los posconvergentes, a cambio de convalidar el decreto anticrisis del Ejecutivo central, han arrancado el compromiso de eximir de ese tributo a los trabajadores por cuenta propia que facturen menos de 85.000 euros"
-  },
-  {
     "titulo": "Instagram y YouTube tendrán que pagar millones a una joven por arruinar su salud mental",
     "medio": "Hipertextual",
     "fecha": 1774467304.0,
     "link": "https://hipertextual.com/legal/veredicto-juicio-instagram-youtube-adiccion/",
     "resumen": "En un veredicto histórico, Instagram y YouTube tendrán que pagar millones de dólares a una joven de 20 años por arruinar su salud mental. En el marco de un juicio ante un tribunal californiano, el jurado determinó que la red social de Meta y la plataforma de vídeos de Google fueron negligentes en el diseño […] Seguir leyendo: Instagram y YouTube tendrán que pagar millones a una joven por arruinar su salud mental"
-  },
-  {
-    "titulo": "Carlos, viticultor: \"Antes mi abuelo bebía vino sin etiquetas y sabía de qué pueblo era cada botella, pero eso es algo que se ha perdido\"",
-    "medio": "HuffPost",
-    "fecha": 1774467102.0,
-    "link": "https://www.huffingtonpost.es/sociedad/carlos-viticultor-antes-mi-abuelo-bebia-vino-etiquetas-sabia-que-pueblo-botella-perdido-f202603.html",
-    "resumen": ""
   },
   {
     "titulo": "La pelea por Villaverde: Shakira quiere meter a 300.000 personas en un lugar que no convence al Gobierno en absoluto",
@@ -425,20 +474,6 @@
     "fecha": 1774467054.0,
     "link": "https://www.trendencias.com/shopping/vuelven-sandalias-tipo-birkenstock-a-lidl-piel-cuestan-solo-7-99-euros",
     "resumen": "Nuestra obsesión por las Birkenstock nos hace buscar clones asequibles que podamos llevar toda la semana, pero no tengamos que gastar un pastizal. En esta ocasión, Lidl ha vuelto a sorprender con un modelo sencillo y plano que parece Arizona y en tono azabache súper versátil. Un diseño minimalista con un cierre de doble hebilla que podemos ajustar según las necesidades de cada una. Son anchas y serán un plus para las personas que necesitan un calzado más especial. Son totalmente planas y parecen muy cómodas, ideales para no sufrir por el dolor de pies. Están hechas de piel y disponibles en color negro y beige. Para lucirlas con glamour, podemos combinarlas con una falda vaquera larga y un top o con unas bermudas y una blusa en un look chic y pura tendencia. El precio en la web oficial de Lidl es 7,99 euros. Cómo combinar estas sandalias Los conjuntos monocolor son un must cuando llega el buen tiempo. En esta ocasión, encontramos un look de la influencer Gabriele Gzimailaite que queda genial con las sandalias de Lidl. Un outfit muy sencillo con detalles de raya diplomática pura tendencia. Para completar este look, podemos apostar por unas joyas doradas o plateadas y unos accesorios con un toque de color como un gorro de ganchillo o un pañuelo. El bolso también es un acierto y una bandolera sería una gran elección. Otros modelos similaresNota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Lidl, @laurencrowe88, @gabrielegz En Trendencias |La chaqueta de Cortefiel que desbanca a la blazer: es elegante, old money y salva todos los looks de entretiempo - La noticia Vuelven las sandalias tipo Birkenstock a Lidl: son de piel y cuestan solo 7,99 euros fue publicada originalmente en Trendencias por Laura Beneyto ."
-  },
-  {
-    "titulo": "Detenidos en Olot dos hombres implicados en la muerte a navajazos de otro el fin de semana",
-    "medio": "La Vanguardia",
-    "fecha": 1774466719.0,
-    "link": "https://www.lavanguardia.com/local/girona/20260325/11499256/detenidos-olot-dos-hombres-implicados-muerte-navajazos-semana.html",
-    "resumen": "Los hechos ocurrieron alrededor de las dos de la madrugada del domingo 22 en la calle Almogàvers del barrio de Sant Miquel"
-  },
-  {
-    "titulo": "Enric Juliana y Esteban Hernández: Reto al Anticristo en el Ateneo",
-    "medio": "La Vanguardia",
-    "fecha": 1774466708.0,
-    "link": "https://www.lavanguardia.com/politica/20260325/11499254/reto-anticristo-ateneo.html",
-    "resumen": ""
   },
   {
     "titulo": "El Congreso avala el 'dedazo' de María Jesús Montero en la AIReF e Inés Olóndriz será su nueva presidenta",
@@ -532,6 +567,13 @@
     "resumen": "La valoración prevista de la división de plasma en el país americano se situaría entre 23.100 millones y 26.800 millones. Leer"
   },
   {
+    "titulo": "El CGPJ abandona la Ley de Prevención de Riegos Laborales como referencia normativa para velar por la salud de los jueces",
+    "medio": "El Español",
+    "fecha": 1774464516.0,
+    "link": "https://www.elespanol.com/espana/tribunales/20260325/cgpj-abandona-ley-prevencion-riegos-laborales-referencia-normativa-velar-salud-jueces/1003744183825_0.html",
+    "resumen": "Una propuesta consensuada por vocales propuestos por PSOE y PP cambia el Reglamento de la carrera con la oposición de Preciado y Herreros, que sostienen que \"es un retroceso de décadas en materia de prevención laboral\". Más información: El CGPJ rechaza archivar la denuncia del ministro Bolaños contra el juez Peinado y ordena al Promotor nuevas diligencias"
+  },
+  {
     "titulo": "La primera ministra danesa buscará formar un gobierno de centroizquierda en medio de la fragmentación",
     "medio": "Infolibre",
     "fecha": 1774464139.0,
@@ -572,13 +614,6 @@
     "fecha": 1774463407.0,
     "link": "https://www.elmundo.es/economia/empresas/2026/03/25/69c42793fdddff00368b4570.html",
     "resumen": "El encuentro tampoco ha abordado la continuidad de De los Mozos Leer"
-  },
-  {
-    "titulo": "Dimite la ministra de Turismo de Italia a petición de Meloni, tras su resistencia inicial",
-    "medio": "El Mundo",
-    "fecha": 1774463381.0,
-    "link": "https://www.elmundo.es/internacional/2026/03/25/69c3d4a821efa0c82a8b45a9.html",
-    "resumen": "Dimiten dos miembros del Ministerio de Justicia y la 'premier' y la titular de Turismo en un intento por limpiar su imagen tras el resultado de las urnas Leer"
   },
   {
     "titulo": "El CEO de Siemens califica de \"desastre\" el empeño de Europa por la soberanía tecnológica en IA",
@@ -637,13 +672,6 @@
     "resumen": "Unos quince ciudadanos zimbabuenses murieron en el frente ruso tras ser reclutados mediante ofertas de empleo fraudulentas y obligados a combatir en Ucrania, informó este miércoles el Gobierno de Zimbabue. “Quince ciudadanos zimbabuenses han perdido la vida tras ser víctimas de trata de personas y ser reclutados para combatir en Rusia”, dijo el ministro de Información, Publicidad y Servicios de Radiodifusión de Zimbabue, Soda Zhemu, durante una rueda de prensa en la que participó EFE.“Según informes, fueron engañados con falsas ofertas de trabajo y obligados a participar en combates en el extranjero. El gobierno ha declarado esto como un grave caso de trata de personas y está actuando con urgencia para proteger a sus ciudadanos\", agregó Zhemu.Hasta ahora, Zimbabue ha identificado un total de 81 ciudadanos reclutados para luchar con Rusia, de los cuales 66 permanecen vivos, mientras el Ejecutivo trabaja para repatriarlos.El presidente Emmerson Mnangagwa instruyó a su Ministerio de Asuntos Exteriores iniciar conversaciones diplomáticas para solicitar una compensación por los quince fallecidos y garantizar un entierro digno.De acuerdo con Zhemu, la mayoría fue atraída mediante promesas de empleos y salarios en Rusia, difundidas a través de redes sociales, pero al llegar fueron enviados al frente sin recibir entrenamiento militar. “Reciben poca o ninguna formación y se les expone a situaciones que ponen en peligro sus vidas. Cuando mueren, resultan heridos o son capturados, los reclutadores desaparecen, dejando a las familias en Zimbabue sin información, sin apoyo y sin nadie a quien responsabilizar\", cerró el ministro.Desde el inicio de la invasión rusa en febrero de 2022, las autoridades ucranianas han informado de la presencia de al menos 1.780 africanos de 36 países luchando del lado ruso.Aunque algunos participan de forma voluntaria como mercenarios, otros han denunciado engaños y coacciones.Kiev también ha reportado que ciudadanos de países como Somalia, Sierra Leona, Togo, Cuba y Sri Lanka, entre otros, fueron capturados, aunque la mayoría muere o resulta gravemente herido antes de ser tomado como prisionero de guerra."
   },
   {
-    "titulo": "Uno de los mayores outlets de Inditex está escondido en una villa medieval gallega rural y encantadora",
-    "medio": "Trendencias",
-    "fecha": 1774461654.0,
-    "link": "https://www.trendencias.com/viajes/uno-mayores-outlets-inditex-esta-escondido-villa-medieval-gallega-rural-encantadora",
-    "resumen": "A 24 kilómetros de Ourense se encuentra uno de los pueblos más bonitos de España, una villa medieval declarada Conjunto Histórico-Artístico repleta de iglesias románicas, calles empedradas, monasterios y puentes de increíble belleza. Es un lugar increíble, pero ha encontrado la fórmula para diferenciarse de otras localidades similares: outlets de moda. Allariz es conocido con el apodo de \"pueblo outlet de Galicia\". La culpa la tienen sus más de veinte tiendas con descuento ubicadas en el casco histórico de la villa, entre calles empedradas y fachadas de piedra del siglo VI. No es un centro comercial típico, sino que los comercios se han integrado en la arquitectura para rehabilitar y mantener la estética medieval. Las calles comerciales principales son da Cruz, Fonteiriña y Santo Estevo, donde podemos encontrar outlets de Adolfo Domínguez, Roberto Verino, Angel Schlesser o Cuplé, entre otros muchos. También tiene presencia Inditex, con un outlet de Massimo Dutti y otro de Tempe, centrado en accesorios de Zara, Bershka y Stradivarius. Todas las tiendas abren de martes a domingo. Esta escapada al norte fusiona shopping, turismo, historia y cultura. Además de irnos de compras, podemos disfrutar de joyas perfectamente preservadas como la iglesia de Santiago, un templo románico gallego del siglo XII. También tienen el monasterio de Santa Clara, con el claustro barroco más grande de España; o el increíble puente medieval del río Arnoia. Nunca un viaje exprés fue tan completo. Fotos | Wikipedia Commons, Guía Repsol, En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. - La noticia Uno de los mayores outlets de Inditex está escondido en una villa medieval gallega rural y encantadora fue publicada originalmente en Trendencias por Pepa López ."
-  },
-  {
     "titulo": "Qué iPhone comprar en 2026 - Guía para elegir el smartphone de Apple más adecuado para ti",
     "medio": "Applesfera",
     "fecha": 1774461654.0,
@@ -663,13 +691,6 @@
     "fecha": 1774460711.0,
     "link": "https://www.infolibre.es/internacional/milei-busca-permitir-venta-tierras-incendiadas-compra-parte-extranjeros_1_2168137.html",
     "resumen": "El Gobierno del presidente argentino Javier Milei ratificó este miércoles que enviará al Congreso modificaciones a las leyes que prohíben la venta de tierras incendiadas para evitar la especulación inmobiliaria, y que limitan la compra de tierras por parte de extranjeros, como parte de un paquete de normas \"dedicado a fortalecer la propiedad privada\".Una de las normativas que el Ejecutivo buscará reformar es la Ley de Manejo del Fuego, que desde su modificación en 2020 impide realizar emprendimientos inmobiliarios, actividades agropecuarias intensivas o modificaciones en el uso de tierras incendiadas.Esta modificación se produce en el contexto de incendios forestales frecuentes, que cada verano azotan la Patagonia argentina y otras regiones del país y que afectaron, desde mediados del pasado diciembre, a unas 64.000 hectáreas de tierra, según las estimaciones de Greenpeace.El Gobierno también impulsará cambios en la norma conocida como ley de tierras rurales, que limita la compra de territorios por parte de extranjeros al 15% del total nacional, provincial o departamental y prohíbe la venta de zonas estratégicas con recursos hídricos o fronterizos.Asimismo, la norma establece que ninguna nacionalidad específica puede superar el 30% del territorio permitido para la venta y que un mismo titular extranjero puede poseer un máximo de mil hectáreas en la zona de mayor actividad agropecuaria del país. \"Inversiones como el petroleo, la minería o el agro requieren la compra de terrenos grandes para llevarse adelante. No podemos permitir que estas no se realicen por un mero capricho ideológico\", dijo en conferencia de prensa el jefe de Gabinete de Ministros, Manuel Adorni, y aseguró que \"hoy los empresarios más importantes del mundo miran a la Argentina como una oportunidad histórica de inversión\".Adorni anunció a su vez que el Ejecutivo intentará impulsar una modificación al régimen de expropiaciones, que limite a casos excepcionales la aplicación del concepto de 'utilidad pública' y que aumente la indemnización percibida por los expropiados. \"El Estado no puede definir de la noche a la mañana que lo tuyo es del Estado por un capricho del gobernante de turno\", argumentó Adorni.Finalmente, el jefe de Gabinete reafirmó el compromiso del Gobierno de avanzar con la aprobación de la modificación de la ley de glaciares —que otorga a las provincias la potestad de permitir la actividad minera en las zonas periglaciales— en la Cámara de Diputados, tras la luz verde obtenida en el Senado el pasado febrero.La iniciativa ha despertado el rechazo de ciudadanos, organizaciones ecologistas y diputados opositores, quienes solicitaron una audiencia pública que comenzó este miércoles y contará con la exposición de 400 personas —entre expertos, ambientalistas y ciudadanos de a pie—, mientras otras miles anticiparon que presentarán escritos y vídeos."
-  },
-  {
-    "titulo": "Vuelven las sandalias con cuña a Gioseppo y Skechers: calzado icónico de los 2000, pero más cómodo y estiloso",
-    "medio": "Trendencias",
-    "fecha": 1774459854.0,
-    "link": "https://www.trendencias.com/shopping/vuelven-sandalias-cuna-a-gioseppo-skechers-calzado-iconico-2000-comodo-estiloso",
-    "resumen": "Con la llegada de la primavera, también aparecen las sandalias con cuña. Una tendencia que recuperamos del año pasado y que triunfó en los años 2000, pero no iba de la mano de la comodidad. En esta ocasión, he encontrado un modelo firmado por Gioseppo que llevaremos con todo nuestro fondo de armario. Un diseño con un detalles en relieve de flor que conquistan a cualquier outfit en la temporada de primavera-verano. Son color azabache y parecen muy cómodas. La altura de la cuña es de cinco centímetros aproximadamente y son tipo Flip Flop. Destacan también por su ligereza, siendo un gran calzado para llevar tanto de día como de noche. Podemos combinarlas con un vestido blanco, haciendo un contraste llamativo o con unos pantalones y una camiseta básica en un conjunto de estilo casual. El precio en la web oficial de Amazon es 29,95 euros, aunque depende de la talla. Otro modelo cómodo y estiloso Este modelo color azabache es una alternativa muy cómoda que también recuperamos de hace más de dos décadas. Cuenta con una plantilla de espuma viscoelástica que proporciona mayor comodidad para que no suframos por el dolor de pies. Las tiras con detalles de pespuntes a contraste agregan más personalidad. El precio en la web oficial de Amazon es 38,90 euros, aunque depende de la talla. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |Amazon, @pipaporras En Trendencias |Massimo Dutti lanza una colección inspirada en los looks de Carolyn Bassette en los 90 a base de básicos minimalistas y estilosos - La noticia Vuelven las sandalias con cuña a Gioseppo y Skechers: calzado icónico de los 2000, pero más cómodo y estiloso fue publicada originalmente en Trendencias por Laura Beneyto ."
   },
   {
     "titulo": "No al cierre de Eureka! Zientzia Museoa",
@@ -714,20 +735,6 @@
     "resumen": "Las Meta Ray-Ban Display son un producto muy interesante, no solo porque integran una pantalla que expande las capacidades de las gafas inteligentes convencionales, sino especialmente porque introducen un mecanismo de control basado en la electromiografía superficial. Sin embargo, el despliegue internacional del producto no se está concretando al ritmo que la compañía espera. Y […] Seguir leyendo: La UE complica los planes de Meta para lanzar las Ray-Ban Display en la región"
   },
   {
-    "titulo": "Arm vuela en Bolsa al anunciar que venderá sus propios chips de IA",
-    "medio": "Expansión",
-    "fecha": 1774457375.0,
-    "link": "https://www.expansion.com/empresas/tecnologia/2026/03/25/69c4121b468aeb83738b4593.html",
-    "resumen": "La empresa británica de diseño de chips para terceros Arm Holdings se dispara cerca del 19% a media sesión en Wall Street tras anunciar que comercializará sus propios chips de inteligencia artificial (IA) para clientes como Meta y OpenAI, entre otros. Leer"
-  },
-  {
-    "titulo": "Las negociaciones en Extremadura avanzan, pero PP y Vox descartan un pacto antes de Semana Santa",
-    "medio": "Infolibre",
-    "fecha": 1774456235.0,
-    "link": "https://www.infolibre.es/politica/pp-vox-dicen-negociaciones-extremadura-niegan-acuerdo_1_2168094.html",
-    "resumen": "El secretario general del PP en Extremadura, Abel Bautista, ha asegurado este miércoles que las negociaciones entre su partido y Vox \"han avanzado mucho\", pero aunque las reuniones son \"muy positivas\" ha desmentido que se haya alcanzado un principio de acuerdo, lo que ha confirmado el partido de Santiago Abascal, algo que ambos descartan se dé antes de Semana Santa.El portavoz de Vox en la Asamblea de Extremadura, Óscar Fernández Calle, ha recalcado a los medios, en una comparecencia por separado, que nunca ha habido acuerdo, pero que han salido \"satisfechos\" del encuentro celebrado este miércoles en Mérida entre los equipos negociadores de ambas formaciones y que son \"optimistas\" para llegar a un entendimiento.Por su parte, Bautista ha abogado por no caer en la \"ansiedad\" de tener gobierno cuanto antes, porque se trata de conseguir un acuerdo para los próximos cuatros años de legislatura y sustentado cada uno de ellos por sus presupuestos, con el fin de evitar la \"inestabilidad\".El dirigente del PP ha desvelado que han hablado de rebajas fiscales, de vivienda, de la central nuclear de Almaraz (Cáceres) o del proyecto de regadío de Tierra de Barros. \"Todos queremos tener un gobierno cuanto antes y queremos darle el gobierno que merecen los extremeños cuanto antes; pero esa ansiedad por darle un gobierno a Extremadura no nos puede hacer llegar a un acuerdo que cayera en la inestabilidad a lo largo del tiempo\", ha expresado Bautista.A su juicio, la negociación va \"por el camino correcto\", pues hay \"sintonía\", \"entendimiento\" y \"predisposición\", además de \"muchísimas más cosas\" que les unen de la que les separan, ha confesado. Sin desvelar los escollos para llegar al acuerdo y tras recalcar que las medidas se tienen que sustentar en partidas presupuestarias concretas, Bautista ha rechazado marcarse plazos para alcanzarlo. Así, ha asegurado que parece \"imposible\" que se consiga antes de Semana Santa, pero \"no por una cuestión de voluntad, sino porque aún quedan cuestiones por concretar\".El dirigente popular ha anunciado que ambos partidos intercambiarán documentación antes de este viernes y se han emplazado a retomar las conversaciones la semana que viene de forma presencial. Conversaciones en las cuales ambos han negado que se haya hablado de reparto de consejerías, paso posterior al acuerdo programático.En la reunión de este miércoles han estado presentes dirigentes nacionales de ambos partidos, personas \"idóneas\" desde el punto de vista técnico y que \"aportan ideas para el futuro de Extremadura\", según Bautista. Entre ellos, por el PP, ha estado el secretario general, Miguel Tellado, y por Vox, los portavoces nacionales de Economía y Energía y de Vivienda, José María Figaredo y Carlos Quero, respectivamente.Por su parte, Óscar Fernández Calle ha apostado por alcanzar un acuerdo \"bueno\" que garantice \"realmente\" el cambio en las políticas en Extremadura, sin entrar antes en el reparto de responsabilidades de gobierno y sin marcarse plazos. \"Ojalá sea antes, pero si tenemos que esperar diez horas más o un día más, no importa, mientras haya un buen acuerdo para los extremeños\", ha expresado, a la vez que ha recordado que el plazo máximo es el 4 de mayo, fecha que marca la investidura fallida de María Guardiola a principios del mes actual en el que se cumplen tres meses de las elecciones autonómicas del 21 de diciembre.Para el dirigente de Vox, hay \"sintonía\", \"avances\" y una \"clara voluntad\" de entendimiento. Asimismo, Figaredo ha subrayado que su partido busca un acuerdo que beneficie a los extremeños y ha negado que esté cerrado, a la vez que ha puntualizado entre las medidas que se abordan la continuidad de la central de Almaraz como \"esencial\" para garantizar el suministro eléctrico."
-  },
-  {
     "titulo": "Alan Ritchson, absuelto y declarado inocente por la pelea con su vecino: «Actuó en defensa propia»",
     "medio": "Hipertextual",
     "fecha": 1774455444.0,
@@ -768,13 +775,6 @@
     "fecha": 1774452049.0,
     "link": "https://hipertextual.com/movilidad/sony-honda-matan-afeela-coche-electrico/",
     "resumen": "Sony y Honda acaban de matar Afeela, su proyecto para desarrollar coches eléctricos en conjunto. Las empresas emitieron un brevísimo comunicado anunciando que ni el Afeela 1, el primer modelo que anunciaron hace ya algunos años, ni el prototipo de SUV que presentaron a comienzos de este año verán la luz. De esta forma, las […] Seguir leyendo: Hasta nunca, Afeela. Sony y Honda matan su coche eléctrico antes de que nadie lo conduzca"
-  },
-  {
-    "titulo": "Este clip de ‘Proyecto Salvación’ con Ryan Gosling conociendo a Rocky por primera vez te va a emocionar",
-    "medio": "Hipertextual",
-    "fecha": 1774452013.0,
-    "link": "https://hipertextual.com/cine-television/este-clip-de-proyecto-salvacion-con-ryan-gosling-conociendo-a-rocky-por-primera-vez-te-va-a-emocionar/",
-    "resumen": "Ryan Gosling protagoniza Proyecto Salvación (Project Hail Mary), la nueva joya de ciencia ficción que ha enamorado al mundo entero. El título tuvo su estreno mundial el pasado viernes y a España llegará al fin este 27 de marzo. Será entonces cuando los espectadores puedan encontrarse con el astronauta más inesperado y su tierna relación […] Seguir leyendo: Este clip de ‘Proyecto Salvación’ con Ryan Gosling conociendo a Rocky por primera vez te va a emocionar"
   },
   {
     "titulo": "La DGT avisa: llevar la baliza V16 no te libra de esta multa de 500 euros",
@@ -1062,13 +1062,6 @@
     "fecha": 1774353600.0,
     "link": "https://www.microsiervos.com/archivo/ciencia/web-oficial-informacion-trio-eclipses-espana.html",
     "resumen": "Por si aún no te has enterado en España nos ha tocado una carambola cósmica y en 2026, 2027 y 2028 podremos ver dos eclipses de Sol totales y uno anular. Así que el Gobierno ha lanzado una web oficial al respecto, Trío de eclipses. La idea es que aglutine información útil para planificar desplazamientos, consultar recomendaciones de transporte, descubrir destinos destacados y conocer qué ver en cada zona en cada uno de ellos. Otro magnífico recurso es el libro gratuito que ha publicado el Instituto Geográfico Nacional sobre estos tres eclipses. De todas formas yo recomendaría buscar la información de asociaciones astronómicas locales, centros de ciencia o similares en el lugar desde el que vayas a ver el eclipse para tener datos más pegados al terreno. # Enlace Permanente"
-  },
-  {
-    "titulo": "Amazon añade nuevas funcionalidades a los dispositivos Ring Intercom para contestar porteros automáticos en remoto",
-    "medio": "Microsiervos",
-    "fecha": 1774350000.0,
-    "link": "https://www.microsiervos.com/archivo/gadgets/nuevas-funcionalidades-ring-intercom.html",
-    "resumen": "Amazon acaba de anunciar una nueva serie de nuevas funcionalidades para los dispositivos Ring Intercom. Algunas son de pago, otras van en el paquete básico. Yo hace ya unos años que tengo instalado en casa un Ring Intercom Audio de Amazon, que ha demostrado ser la mar de práctico, ya que permite contestar el portero automático y, si es necesario, abrir el portal, aunque no estemos en casa. Y desde que lo probé ha bajado de precio, lo que lo hace aún más recomendable. Lo que no sé es si gano mucho con estas nuevas funcionalidades, que son: Historial de vídeo y buzón de voz, que permite guardar de forma segura las llamadas de vídeo y/o audio hasta 180 días, tanto en el caso de las contestadas como de las que no. Captura de instantáneas de visitantes durante los últmos 180 días con independencia de que hayas contestado la llamada o no. Notificaciones con vista previa de vídeo para ver si te interesa contestar o para decidir qué vas a contestar antes de responder a la llamada. Para disfrutar de estas funciones necesitas una suscripción al plan Ring Home Standard que sale por 3,99 € al mes. Aparte de un dispositivo que soporte vídeo, claro, que no es mi caso. El plan Ring Home Premium soporta múltiples dispositivos y algunas funciones más como por ejemplo notificaciones activadas por movimiento, alertas de detección de personas, vídeo en directo multicámara, o un resumen diario de eventos. Pero son 19,99 € al mes. Amén del dispositivo con soporte de vídeo. Amazon ofrece una prueba de 30 días por si quieres mirar si te arreglan algo o no estas nuevas funciones. Y, tengas una suscripción o no, tienes una funcionalidad nueva de regalo, que son las respuestas rápidas, que vienen siendo mensajes pregrabados que puedes dejar listos para que quien toque al timbre reciba una respuesta si no contestas. # Enlace Permanente"
   },
   {
     "titulo": "Bendita rutina",
