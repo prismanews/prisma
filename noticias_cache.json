@@ -1,10 +1,346 @@
 [
   {
+    "titulo": "El PP avisa de la procesión judicial que espera a Sánchez por el ‘Caso Koldo’",
+    "medio": "Moncloa.com",
+    "fecha": 1775100600.0,
+    "link": "https://www.moncloa.com/2026/04/02/pp-procesion-judicial-sanchez-3368964/",
+    "resumen": "Según el PP, el panorama político español atraviesa uno de sus momentos más críticos, marcado por una degeneración institucional que parece no tener freno. Tras una reunión clave con el comité de dirección del PP de Cuenca, el secretario general del Partido Popular, Miguel Tellado, ha dibujado un escenario demoledor para el Ejecutivo central. Según […] La entrada El PP avisa de la procesión judicial que espera a Sánchez por el ‘Caso Koldo’ aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Última hora del lanzamiento de la misión Artemis 2, en directo | Artemis 2 despega con éxito y lanza a la humanidad en una nueva carrera hacia la Luna",
+    "medio": "El País",
+    "fecha": 1775100394.0,
+    "link": "https://elpais.com/ciencia/2026-04-01/ultima-hora-del-lanzamiento-de-la-mision-artemis-2-de-la-nasa-a-la-luna-en-directo.html",
+    "resumen": "Trump ha felicitado a la tripulación en redes y ha publicado: “Estamos ganando: en el espacio, en la Tierra y en todo lo que hay entre medias” | La expedición rodeará el satélite por primera vez en más de medio siglo en un viaje de 10 días"
+  },
+  {
+    "titulo": "VÍDEO | El origen de la pobreza de Cuba | ANÁLISIS ECONÓMICO",
+    "medio": "The Objective",
+    "fecha": 1775100356.0,
+    "link": "https://theobjective.com/videos/economia/2026-04-02/origen-pobreza-cuba-embargo-eeuu-revolucion-haiti-pablo-iglesias-greta-thunberg-capitalismo-comunismo-economia/",
+    "resumen": "La afirmación de Pablo Iglesias de que «sin la Revolución, Cuba estaría como Haití» ignora la realidad histórica. Según el catedrático Carmelo Mesa-Lago, antes de 1959 […]"
+  },
+  {
+    "titulo": "Podcast | «¿No a la guerra?»",
+    "medio": "The Objective",
+    "fecha": 1775100341.0,
+    "link": "https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-iran-el-mundo-es-tu-casa/",
+    "resumen": "En este nuevo episodio de El mundo es tu casa, grabado en el campus de Madrid de Schiller International University, se aborda uno de los conflictos […]"
+  },
+  {
+    "titulo": "Los policías fuerzan un Consejo Extraordinario por su conflicto colectivo",
+    "medio": "Moncloa.com",
+    "fecha": 1775100300.0,
+    "link": "https://www.moncloa.com/2026/04/02/policias-consejo-extraordinario-3368951/",
+    "resumen": "El sindicato JUPOL ha forzado la convocatoria por parte de la Dirección General de la Policía de un Pleno Extraordinario del Consejo de Policía el próximo 9 de abril de 2026, tras la declaración del Conflicto Colectivo presentada por esta organización sindical hace más de un año. El sindicato recuerda que esta medida se ha […] La entrada Los policías fuerzan un Consejo Extraordinario por su conflicto colectivo aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez se ríe de EEUU",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/sanchez-eeuu-articulo-jorge-mestre/",
+    "resumen": "Hay políticos que gobiernan y políticos que actúan. Y luego está Pedro Sánchez, que directamente interpreta. Se pone la gorra, se sube a la bicicleta y […]"
+  },
+  {
+    "titulo": "Bartleby: el desasimiento de la vida",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/bartleby-el-desasimiento-de-la-vida/",
+    "resumen": "La primera vez que leí Bartleby, el escribiente, de Herman Melville, anoté: «Bartleby: el desasimiento de la vida». Lector de Pessoa y Cioran, asiduo al spleen […]"
+  },
+  {
+    "titulo": "El caos de la inmigración",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/caos-inmigracion-articulo-rosa-cullell/",
+    "resumen": "En los ochenta, cuando yo era joven, emigré a Australia. Contra todo pronóstico o porque hablaba algunos idiomas de quienes entraban en ese país oceánico, me […]"
+  },
+  {
+    "titulo": "La China ‘è vicina’",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/china-vicina-articulo-joaquin-leguina/",
+    "resumen": "Las sandeces que Trump predica y ejecuta están convirtiendo a los países occidentales en corredores saltando obstáculos, incluyendo a los propios Estados Unidos. En efecto, el […]"
+  },
+  {
+    "titulo": "‘Sitio’",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/sitio-articulo-fernando-savater/",
+    "resumen": "Tuve, por suerte, unos padres religiosos aunque nada fanáticos. Éramos una familia socialmente católica. De modo que en Semana Santa visitábamos los monumentos en las iglesias […]"
+  },
+  {
+    "titulo": "Aquel PSOE",
+    "medio": "The Objective",
+    "fecha": 1775100300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-04-02/aquel-psoe-articulo-luis-pardo/",
+    "resumen": "¿Saben ustedes esas horribles fiestas de cumpleaños retro-sorpresa en las que al homenajeado le hacen sentir (por ejemplo) como si fuera Pedro Picapiedra y los demás invitados aparecen […]"
+  },
+  {
+    "titulo": "Europa apuesta por la innovación española para modernizar sus sistemas de vigilancia y defensa",
+    "medio": "Moncloa.com",
+    "fecha": 1775100000.0,
+    "link": "https://www.moncloa.com/2026/04/02/europa-sistemas-defensa-3368715/",
+    "resumen": "Como venimos repitiendo los últimos meses la soberanía tecnológica de la Unión Europea ha dejado de ser una aspiración política para convertirse en una necesidad estratégica de primer orden. En este escenario de transformación digital acelerada y tensiones geopolíticas crecientes, surge el proyecto MYRIAD, una ambiciosa iniciativa liderada por la multinacional tecnológica española GMV. Este sistema representa […] La entrada Europa apuesta por la innovación española para modernizar sus sistemas de vigilancia y defensa aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Así modifican las procesiones de Semana Santa la vida en el centro de Madrid",
+    "medio": "Moncloa.com",
+    "fecha": 1775099700.0,
+    "link": "https://www.moncloa.com/2026/04/02/procesiones-semana-santa-centro-3368704/",
+    "resumen": "La capital de España se prepara para vivir sus días de mayor intensidad emocional y logística con la llegada del núcleo central de la Semana Santa. Madrid, una ciudad que entrelaza su fisonomía cosmopolita con siglos de tradición arraigada, verá transformado su pulso habitual entre el Jueves Santo y el Domingo de Resurrección, con motivo […] La entrada Así modifican las procesiones de Semana Santa la vida en el centro de Madrid aparece primero en Moncloa."
+  },
+  {
+    "titulo": "¿Se pueden meter las sartenes en el lavavajillas? La guía definitiva para cuidar el planeta y tu salud",
+    "medio": "OK Diario",
+    "fecha": 1775098836.0,
+    "link": "https://okdiario.com/okgreen/pueden-meter-sartenes-lavavajillas-guia-definitiva-cuidar-planeta-tu-salud-16494348",
+    "resumen": "Tener lavavajillas en casa siempre resulta una opción recomendable, sobre todo si no queremos perder mucho tiempo en la engorrosa tarea de dejar todo limpio tras terminar de comer. Además, se trata de un electrodoméstico especialmente eficiente que reduce de forma significativa el consumo de agua y energía, lo que contribuye a disminuir nuestro impacto … Continuar leyendo \"¿Se pueden meter las sartenes en el lavavajillas? La guía definitiva para cuidar el planeta y tu salud\""
+  },
+  {
+    "titulo": "'Autoridad presidencial', el as en la manga que Trump puede invocar para sacar a EEUU de la OTAN sin pasar por el Congreso",
+    "medio": "El Español",
+    "fecha": 1775097286.0,
+    "link": "https://www.elespanol.com/mundo/america/eeuu/20260402/autoridad-presidencial-as-manga-trump-puede-invocar-sacar-eeuu-otan-sin-pasar-congreso/1003744193005_0.html",
+    "resumen": "La ambigüedad de los poderes con los que la Constitución de EEUU dota al presidente podría permitirle rodear las salvaguardas parlamentarias que se establecieron bajo la administración de Joe Biden. Más información: ¿Cuál es el procedimiento para expulsar a un país de la OTAN? La pregunta sin respuesta que juega a favor de España"
+  },
+  {
+    "titulo": "Trump le pide a Dinamarca pasar de una a cuatro bases en Groenlandia para renunciar a su anexión",
+    "medio": "El Español",
+    "fecha": 1775097286.0,
+    "link": "https://www.elespanol.com/mundo/europa/20260402/trump-pide-dinamarca-pasar-bases-groenlandia-renunciar-anexion/1003744193247_0.html",
+    "resumen": "El jefe del Comando Norte del Ejército de EEUU dice estar trabajando con Copenhague para \"desarrollar más puertos, más aeródromos\" en la isla del Ártico. Más información: Naaja Nathanielsen, ministra de Groenlandia: \"EEUU no puede comprarnos como pueblo con un cheque, es insultante\""
+  },
+  {
+    "titulo": "La guerra de Irán afecta a las Fallas de Valencia: el coste del 'corcho' sube un 17% y el Gremio de Artistas cree que \"no parará\"",
+    "medio": "El Español",
+    "fecha": 1775097285.0,
+    "link": "https://www.elespanol.com/valencia/economia/20260402/guerra-iran-afecta-fallas-valencia-coste-corcho-sube-gremio-artistas-cree-no-parara-dl/1003744192856_0.html",
+    "resumen": "El maestro mayor advierte que el aumento de precio de la materia prima \"es solo la primera consecuencia\". Más información: Convento Jerusalén se convierte en la mejor Falla de Valencia en 2026: repite por segundo año consecutivo en lo más alto"
+  },
+  {
+    "titulo": "La OTAN entra en su mayor crisis por el choque de Trump con Europa por negarse a entrar en la guerra de Irán",
+    "medio": "El Español",
+    "fecha": 1775097276.0,
+    "link": "https://www.elespanol.com/mundo/europa/20260402/otan-entra-mayor-crisis-choque-trump-europa-negarse-entrar-guerra-iran/1003744192609_0.html",
+    "resumen": "El presidente de EEUU amenaza con salirse de la Alianza Atlántica, pero los socios europeos se mantienen firmes en su rechazo a verse arrastrados al conflicto. Más información: Trump señala a Francia y Reino Unido, da un ultimátum a la OTAN por Ormuz e insinúa que EEUU se retirará en breve"
+  },
+  {
+    "titulo": "Manu Sánchez, el fichaje de La 1 al que RTVE ya le exigió \"hablar como uno de Toledo\" para quedarse en la pública",
+    "medio": "El Español",
+    "fecha": 1775097275.0,
+    "link": "https://www.elespanol.com/sevilla/20260402/manu-sanchez-fichaje-rtve-exigio-hablar-toledo-quedarse-publica-dl/1003744192395_0.html",
+    "resumen": "El sevillano es un abanderado de Andalucía y del habla andaluza, lo que, unido a su capacidad humorística, lo ha convertido en uno de los rostros más populares del sur de España. Más información: Ya es oficial: TVE sorprende y ficha a Manu Sánchez para crear nuevos formatos \"desde Andalucía para el mundo\""
+  },
+  {
+    "titulo": "\"Puerto Rico es español, es hora de volver a casa\": Annette Falcón y los boricuas que piden irse de EEUU para ser la 18ª autonomía",
+    "medio": "El Español",
+    "fecha": 1775097274.0,
+    "link": "https://www.elespanol.com/reportajes/20260402/puerto-rico-espanol-hora-volver-casa-annette-falcon-boricuas-piden-irse-eeuu-autonomia/1003744192057_0.html",
+    "resumen": "Encuentros con PSOE, PP y Vox: los puertorriqueños que planean un partido político mientras muchos simpatizantes se silencian por miedo a represalias. Más información:Díaz-Balart, el 'halcón' más cercano a Marco Rubio: 'Ceuta y Melilla no están en España sino en Marruecos. Estas cosas se discuten entre amigos y aliados'"
+  },
+  {
+    "titulo": "Trump canta victoria en Irán, pero anuncia nuevos ataques en las próximas semanas y deja el final de la guerra en el aire",
+    "medio": "El Español",
+    "fecha": 1775097273.0,
+    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260402/trump-canta-victoria-iran-anuncia-nuevos-ataques-proximas-semanas-deja-final-guerra-aire/1003744191839_0.html",
+    "resumen": "El mandatario se proclama ganador de la guerra al afirmar que Irán \"ya no supone una amenaza\" porque \"no pueden fabricar un arma nuclear\". A pesar de haber \"completado\" sus \"objetivos\", amenaza con atacar con \"mucha fuerza\" el territorio enemigo. Más información: Trump podría tomar Jark, pero el reto sería proteger a unas tropas convertidas en una \"diana\" a 25 kilómetros de Irán"
+  },
+  {
+    "titulo": "La noche de los dos vídeos de cumpleaños: Ábalos envió a Koldo el de Jésica después de que Sánchez viera el de Carolina",
+    "medio": "El Español",
+    "fecha": 1775097273.0,
+    "link": "https://www.elespanol.com/espana/20260402/noche-videos-cumpleanos-abalos-envio-koldo-jesica-despues-sanchez-viera-carolina/1003744191083_0.html",
+    "resumen": "El vídeo oficial repasaba la vida del ministro con imágenes familiares y fotos con Sánchez, reflejo del vínculo entre ambos. El otro, resumía un año de relación extramatrimonial. A la fiesta acudieron el presidente y su esposa, María Jesús Montero, Marlaska, Bolaños y Santos Cerdán, entre otros."
+  },
+  {
+    "titulo": "Trump pide paciencia a un público cansado de una guerra que “está a punto de acabar”",
+    "medio": "El País",
+    "fecha": 1775096599.0,
+    "link": "https://elpais.com/internacional/2026-04-02/trump-pide-paciencia-a-un-publico-cansado-sobre-una-guerra-que-esta-a-punto-de-acabar.html",
+    "resumen": "El estrecho de Ormuz, cerrado por Irán, se abrirá “naturalmente” cuando concluya el conflicto “en dos o tres semanas”, pronostica el presidente de Estados Unidos, que amenaza con “golpear duramente” al adversario en ese plazo"
+  },
+  {
+    "titulo": "Trump asegura que la guerra contra Irán «está muy cerca del final»: «Ya ha habido un cambio de régimen»",
+    "medio": "OK Diario",
+    "fecha": 1775096408.0,
+    "link": "https://okdiario.com/internacional/trump-asegura-que-guerra-contra-iran-esta-muy-cerca-del-final-ya-habido-cambio-regimen-16530959",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, se ha dirigido este miércoles a la nación en un discurso en horario de máxima audiencia para informar sobre la evolución de la guerra contra la dictadura de los ayatolás de Irán. «Nunca en la historia de la guerra un enemigo ha sufrido pérdidas tan claras y devastadoras … Continuar leyendo \"Trump asegura que la guerra contra Irán «está muy cerca del final»: «Ya ha habido un cambio de régimen»\""
+  },
+  {
+    "titulo": "Trump dice que abrir el estecho de Ormuz no es su prioridad: «EEUU no necesita el petróleo de Oriente Medio»",
+    "medio": "OK Diario",
+    "fecha": 1775096233.0,
+    "link": "https://okdiario.com/internacional/trump-dice-abrir-estecho-ormuz-no-prioridad-eeuu-no-necesita-petroleo-oriente-medio-16530999",
+    "resumen": "Desde que comenzó la operación de Estados Unidos e Israel contra la dictadura de los ayatolás en Irán, y que acarreó el cierre del estrecho de Ormuz y el consecuente aumento del precio del petróleo, cada vez que el barril se disparaba, Donald Trump venía lanzando un mensaje que calmase a los mercados y frenase … Continuar leyendo \"Trump dice que abrir el estecho de Ormuz no es su prioridad: «EEUU no necesita el petróleo de Oriente Medio»\""
+  },
+  {
+    "titulo": "50 niños con discapacidad de Mallorca reciben atención domiciliaria con un servicio pionero en España",
+    "medio": "OK Diario",
+    "fecha": 1775095260.0,
+    "link": "https://okdiario.com/baleares/50-ninos-discapacidad-mallorca-reciben-atencion-domiciliaria-servicio-pionero-espana-16526013",
+    "resumen": "50 niños con discapacidad de Mallorca reciben atención domiciliaria con un servicio pionero y único en toda España. Una atención gratuita y especializada, dirigida a menores de entre 7 y 12 años con discapacidad intelectual y necesidades de apoyo por conducta, y que se desarrolla directamente en su casa. La directora insular de Personas con Discapacidad … Continuar leyendo \"50 niños con discapacidad de Mallorca reciben atención domiciliaria con un servicio pionero en España\""
+  },
+  {
+    "titulo": "La inacción de la ministra Aagesen augura un nuevo verano sin soluciones a la saturación del Caló des Moro",
+    "medio": "OK Diario",
+    "fecha": 1775095258.0,
+    "link": "https://okdiario.com/baleares/inaccion-ministra-aagesen-augura-nuevo-verano-sin-soluciones-saturacion-del-calo-des-moro-16521513",
+    "resumen": "El pesimismo reina en todas las administraciones que tienen su parte de competencias en zonas marítimo-terrestres de Mallorca en situación de sobreocupación permanente como es Caló des Moro, en el litoral de Santanyí. Según ha podido saber OKBALEARES, la llave la tiene el Ministerio de Transición Ecológica. Sin embargo, Sara Aagesen, la titular, da el … Continuar leyendo \"La inacción de la ministra Aagesen augura un nuevo verano sin soluciones a la saturación del Caló des Moro\""
+  },
+  {
+    "titulo": "La ciudad de la basura",
+    "medio": "OK Diario",
+    "fecha": 1775095246.0,
+    "link": "https://okdiario.com/baleares/ciudad-basura-16527360",
+    "resumen": "El Consell, según decisión de sus actuales dirigentes y sin que al parecer sus oponentes estén también por la labor –ni por supuesto los rectores de la ciudad–, podrá trasladar basura de Ibiza a Mallorca durante al menos diez años. Lo cual supondrá, dicho sea, sin anestesia, que Mallorca, y Palma en concreto, se nos … Continuar leyendo \"La ciudad de la basura\""
+  },
+  {
+    "titulo": "Profesores ‘indepes’ de un instituto de Palma acosan a otros docentes por dejar hablar en español a sus alumnos",
+    "medio": "OK Diario",
+    "fecha": 1775095237.0,
+    "link": "https://okdiario.com/baleares/profesores-instituto-palma-denuncian-persecucion-docentes-dejar-hablar-espanol-sus-alumnos-16489568",
+    "resumen": "Varios profesores del colegio público IES Guillem Sagrera de Palma claman contra el comportamiento «autoritario» de muchos compañeros de profesión que se dedican constantemente a señalar, presionar y perseguir a los docentes que permiten hablar en castellano en sus clases a aquellos alumnos que vienen de fuera y no dominan el catalán. Uno de los … Continuar leyendo \"Profesores ‘indepes’ de un instituto de Palma acosan a otros docentes por dejar hablar en español a sus alumnos\""
+  },
+  {
+    "titulo": "Dos magrebíes destrozan 15 vehículos de un aparcamiento de Palma y roban numerosos objetos personales",
+    "medio": "OK Diario",
+    "fecha": 1775095207.0,
+    "link": "https://okdiario.com/baleares/dos-magrebies-destrozan-15-vehiculos-aparcamiento-palma-roban-numerosos-objetos-personales-16524341",
+    "resumen": "Los ladrones y los vándalos han encontrado un nuevo modus operandi para delinquir en Palma. Su nuevo objetivo se centra ahora en los parkings privados de la capital balear, donde acceden de madrugada para destrozar las ventanillas de los vehículos estacionados y sustraer los objetos de su interior. El último aparcamiento asaltado ha sido el … Continuar leyendo \"Dos magrebíes destrozan 15 vehículos de un aparcamiento de Palma y roban numerosos objetos personales\""
+  },
+  {
+    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump, en un mensaje a la nación: “Haremos retroceder a Irán a la Edad de Piedra”",
+    "medio": "El País",
+    "fecha": 1775094530.0,
+    "link": "https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "El presidente pide “paciencia” a los estadounidenses y asegura que el estrecho de Ormuz se abrirá “naturalmente” | Teherán lanza su mayor oleada de misiles contra Israel de las últimas semanas | Trump asegura que Irán ha pedido un alto el fuego y Teherán lo desmiente"
+  },
+  {
+    "titulo": "Sin fecha para el final de la guerra en Irán: Trump amenaza con hacerlos retroceder \"a la Edad de Piedra\"",
+    "medio": "El Mundo",
+    "fecha": 1775093832.0,
+    "link": "https://www.elmundo.es/internacional/2026/04/02/69cdc846fdddff085c8b458a.html",
+    "resumen": "El republicano se limitó a señalar que están \"cada vez más cerca\" de terminar el \"trabajo\" en Irán y prometió una bajada drástica de los precios de la gasolina una vez que terminen las hostilidades Leer"
+  },
+  {
+    "titulo": "Los astronautas siguen adelante con la misión a pesar de una pérdida de comunicación y problemas con el retrete",
+    "medio": "El País",
+    "fecha": 1775091781.0,
+    "link": "https://elpais.com/ciencia/2026-04-02/los-astronautas-siguen-adelante-con-la-mision-a-pesar-de-una-perdida-de-comunicacion-y-problemas-con-el-retrete.html",
+    "resumen": "Los técnicos de la NASA informan de varios incidentes menores después del despegue de la Artemis 2, primera misión tripulada al satélite en más de medio siglo"
+  },
+  {
+    "titulo": "Una muerte en medio de una trama de robo de fentanilo y propofol saca a la luz el mundo oculto de las \"propo Fest\" en Argentina",
+    "medio": "El Mundo",
+    "fecha": 1775091635.0,
+    "link": "https://www.elmundo.es/internacional/2026/04/02/69cdbfb0fc6c83e43b8b45b1.html",
+    "resumen": "Varios anestesiólogos están involucrados en la trama de \"viajes controlados\" Leer"
+  },
+  {
+    "titulo": "El cohete tripulado más potente lanza a los cuatro astronautas de Artemis 2 hacia un viaje histórico",
+    "medio": "El País",
+    "fecha": 1775090614.0,
+    "link": "https://elpais.com/ciencia/2026-04-01/el-cohete-mas-potente-jamas-construido-lanza-a-los-cuatro-astronautas-de-artemis-2-hacia-un-viaje-historico.html",
+    "resumen": "Despega con éxito la nave Orion desde Florida para un vuelo de 10 días de ida y vuelta al satélite, al que la humanidad regresa por primera vez en más de medio siglo"
+  },
+  {
+    "titulo": "Cómo posicionarse en Bolsa para el fin de la guerra en Irán",
+    "medio": "Expansión",
+    "fecha": 1775090430.0,
+    "link": "https://www.expansion.com/mercados/2026/04/02/69cd0f4e468aeb52148b45b5.html",
+    "resumen": "Los inversores no solo deben estar en guardia ante posibles caídas. La mejora puede aflorar oportunidades. Los analistas advierten que el mercado ya se está posicionando para el final de la guerra, y enumeran varias apuestas tanto \"duraderas\" como tácticas para \"comprar con las caídas\". Leer"
+  },
+  {
+    "titulo": "Los bancos españoles, fuera de la primera línea de fuego del crédito privado",
+    "medio": "Expansión",
+    "fecha": 1775089688.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/04/02/69b40ee0468aebea5b8b4587.html",
+    "resumen": "Santander es el más expuesto, con BBVA, CaixaBank y Sabadell por debajo de la media. La falta de detalle en los datos europeos eleva la incertidumbre. Leer"
+  },
+  {
+    "titulo": "Los venezolanos denuncian el portazo de Sánchez en España: \"Su estabilidad es la estabilidad de Delcy\"",
+    "medio": "El Mundo",
+    "fecha": 1775089348.0,
+    "link": "https://www.elmundo.es/espana/2026/04/02/69cd685fe9cf4a6a3e8b458a.html",
+    "resumen": "El cese de las concesiones de protección temporal por razones humanitarias despierta recelos entre los exiliados Leer"
+  },
+  {
+    "titulo": "Las familias empiezan a ahorrar menos y endeudarse más en un contexto de precios al alza y aumento de la incertidumbre",
+    "medio": "El Mundo",
+    "fecha": 1775089347.0,
+    "link": "https://www.elmundo.es/economia/macroeconomia/2026/04/02/69cd0519e4d4d8f95e8b4571.html",
+    "resumen": "El crédito a las familias creció en febrero a su mayor ritmo desde el año 2008 Leer"
+  },
+  {
+    "titulo": "Los astronautas del Artemis II inician su viaje a la Luna",
+    "medio": "Expansión",
+    "fecha": 1775088919.0,
+    "link": "https://www.expansion.com/sociedad/2026/04/02/69cdb41be5fdea7f368b457e.html",
+    "resumen": "La misión lunar Artemis II, ahora en la órbita terrestre, superó este miércoles los primeros ocho minutos y medio críticos tras su despegue desde Florida, donde también afrontó dos problemas técnicos que causaron tensión en la NASA apenas momentos antes del lanzamiento. Leer"
+  },
+  {
+    "titulo": "El sistema de soporte vital y escudo térmico, las dos mayores incógnitas de la misión Artemisa II",
+    "medio": "Microsiervos",
+    "fecha": 1775088900.0,
+    "link": "https://www.microsiervos.com/archivo/espacio/sistema-soporte-vital-escudo-termico-principales-incognitas-artemisa-ii.html",
+    "resumen": "La tripulación en un simulador de la cápsula Orion durante su entrenamiento – NASA Artemisa II, que acaba de ser lanzada, servirá como una prueba de casi todos los elementos necesarios para enviar una misión tripulada a la superficie de la Luna. Casi porque las naves que se utilizarán precisamente para posarse sobre ella todavía no están listas. Y precisamente por eso la NASA ha decidido apenas hace unas semanas que Artemisa III, en lugar de aterrizar en la Luna, probará los aterrizadores y los trajes espaciales en órbita baja terrestre. En ese sentido se parece mucho a la misión Apolo 8 de 1968. Aunque el Apolo 8 sí entró en órbita alrededor de la Luna antes de emprender camino de vuelta a la Tierra. Artemisa II servirá también para hacer algo de ciencia utilizando a la tripulación como conejillos de indias y para tomar fotos de la superficie de la Luna. Aunque esto último llevan años haciéndolo sin problemas y con resultados espectaculares orbitadores como el Lunar Reconnaissance Orbiter de a NASA o el de la misión india Chandrayaan 2. Pero supongo que ya que van tampoco les cuesta nada hacer unas fotillos de recuerdo. De todos modos, y dentro de la complejidad de una misión espacial en la que una miríada de cosas tienen que funcionar a la perfección para que todo salga bien, hay dos elementos que son especialmente preocupantes en Artemisa II: el sistema de soporte vital de la Orión y su escudo térmico. Lo del sistema de soporte vital no requiere muchas explicaciones: es la primera vez que la Orión vuela con alguien a bordo. Howard Hu, director del programa Orión, decía hace unos días que el sistema de soporte vital de la cápsula ha sido probado con personas en tierra, tanto con traje espacial como sin él, y que no ha dado ningún problema. Pero hay que ver cómo se comporta en el espacio tras el stress del lanzamiento y en las condiciones ambientales del espacio. En cualquier caso no hay que olvidar que van a bordo los trajes intravehiculares de la tripulación, formalmente conocidos como Orion Crew Survival System (OCSS, Sistema de supervivencia de la tripulación de la Orión). Son los que lleva puestos la tripulación en la foto de arriba. Los trajes protegerán a los astronautas el día del lanzamiento y durante las fases de mayor riesgo de la misión cerca de la Luna, en la reentrada, y, llegado el caso, en situaciones de emergencia. Están diseñados para ser utilizados durante un máximo de seis días en caso de emergencia, y pueden proporcionar a los astronautas el oxígeno, la hidratación, la alimentación y la gestión de residuos necesarios. Aunque esperemos que no hagan falta. Lo del escudo térmico es un poco más complejo. Al principio la NASA vendió Artemisa I, en la que una cápsula Orión no tripulada fue a la Luna y amerizó sin problemas aparentes, como un éxito rotundo. Pero con el tiempo se fue sabiendo que el escudo térmico de la cápsula había sufrido muchos más daños de los previstos, perdiendo incluso grandes trozos, tal y como se puede ver en la imagen de la derecha. La agencia ha hecho numerosas pruebas y cree entender la causa de la pérdida de estos fragmentos. Así que para minimizar los riesgos ha modificado la maniobra de reentrada en la atmósfera terrestre en lugar de cambiar el escudo de Integrity por otro de nuevo diseño que será utilizado para Artemisa III, lo que habría retrasado, aún más, el lanzamiento de Artemisa II. Pero no todo el mundo está de acuerdo con las conclusiones de la NASA. Así que toca morderse las uñas hasta el día de la reentrada. Lo ideal sería que la nueva maniobra en efecto redujera el daño que sufra el escudo; si no, con que la cápsula consiga amerizar con su tripulación sana y salva será suficiente. # Enlace Permanente"
+  },
+  {
     "titulo": "Esto es lo que esperar durante la misión Artemisa II",
     "medio": "Microsiervos",
     "fecha": 1775088000.0,
     "link": "https://www.microsiervos.com/archivo/espacio/artemisa-ii-cronograma.html",
-    "resumen": "Clic para ver en grande Con la cápsula Orión bautizada como Integrity en el espacio y con los paneles solares desplegados y en una órbita de 162,5×2.200 km estos son los puntos principales programados para el resto de la misión Artemisa II. Día del lanzamiento T+49 min: la segunda etapa del SLS realiza un encendido de su motor para elevar el perigeo (la parte más cercana a la Tierra) de su órbita y de la Orión, a la que sigue unida, hasta los 185 km. T+1 h 48 min: la segunda etapa hace un segundo encendido del motor para establecer una órbita elíptica de 0×70.000 km. T+3 h: Integrity se separa de la segunda etapa para llevar a cabo una demostración de operaciones de proximidad, en la que la tripulación toma los mandos y practica el encuentro y el acoplamiento entre ambas, aunque sin que llegue a haber contacto. La aproximación mínima es de 30 metros cuando están frene a frente y de 10 metros cuando Integrity se acerca al lateral de la segunda etapa. Una vez terminadas estas pruebas la etapa superior hará una reentrada en la atmósfera de forma controlada; de ahí los cero kilómetros de la órbita. T+13 h 44 min: Integrity usa los motores de su módulo de servicio para una última maniobra de elevación del perigeo de su órbita de las forma para que la cápsula se mantenga en órbita y no reentre. Aún en órbita alrededor de la Tierra la tripulación comprueba que los distintos sistemas de la nave Orión funcionan correctamente, con especial énfasis, per no sólo, en el aseo (la Orión es la primera nave con un aseo completo en ir a la Luna), el sistema de eliminación de dióxido de carbono, y las comunicaciones. La tripulación duerme en dos turnos de cuatro horas. Día 2 A T+1día, una hora y 37 minutos los motores del módulo de servicio de la Orión se encienden durante varios minutos para que alcance la velocidad de escape y comience su camino hacia la Luna en la ya mencionada trayectoria de retorno libre. Una vez camino a la Luna y durante las primeras 36 horas de viaje aún sería posible hacer un retorno rápido a la Tierra en caso de problemas. Pero a partir de ahí la única opción es dar la vuelta alrededor de la Luna. Días 3 a 5 La Orion realiza hasta tres correcciones de trayectoria si son necesarias para ajustar con precisión su aproximación a la Luna. La tripulación prueba el botiquín médico y realiza una demostración de reanimación cardiopulmonar. El quinto día, prueban sus trajes intravehiculares, en los que podrían sobrevivir hasta seis días en caso de despresurización de la Orión. Si, tal y como está previsto, Artemisa II despega a las 00:24 del día 2, a las 21 horas y dos minutos del quinto día alcanzarán una distancia récord de unos 402.000 kilómetros de la Tierra, batiendo el récord del Apolo 13 de 400.177 km. Días 6 a 9 A los seis días, una hora y 23 minutos alcanzarán la distancia mínima a la Luna, que será de uno 7.400 kilómetros sobre su superficie. Integrity realizará hasta tres correcciones de trayectoria para ajustar con precisión su regreso a la Tierra, de nuevo sólo si son necesarias. El día 7 la tripulación descansa. El día 8 la tripulación realiza una demostración de la construcción de un refugio contra la radiación y lleva a cabo pruebas de pilotaje manual. Día 10 La tripulación se pone los trajes intravehiculares para prepararse para la reentrada. A unos 122 kilómetros sobre la Tierra el módulo de servicio se separa del módulo de la tripulación, y para una reentrada en la atmósfera terrestre a 40.000 kilómetros por hora. Dos paracaídas de frenado reducen la velocidad de la cápsula hasta unos 480 kilómetros por hora. A continuación, tres paracaídas guía, seguidos de los tres paracaídas principales, la frenan la cápsula hasta los 27 kilómetros por hora, que será la velocidad a la que americe frente a la costa de San Diego, California. # Enlace Permanente"
+    "resumen": "Clic para ver en grande Con la cápsula Orión bautizada como Integrity en el espacio y con los paneles solares desplegados y en una órbita de 185×2.223 km estos son los puntos principales programados para el resto de la misión Artemisa II. Día del lanzamiento T+49 min: la segunda etapa del SLS realiza un encendido de su motor para elevar el perigeo (la parte más cercana a la Tierra) de su órbita y de la Orión, a la que sigue unida, hasta los 185 km. T+1 h 48 min: la segunda etapa hace un segundo encendido del motor para establecer una órbita elíptica de 0×70.000 km. T+3 h: Integrity se separa de la segunda etapa para llevar a cabo una demostración de operaciones de proximidad, en la que la tripulación toma los mandos y practica el encuentro y el acoplamiento entre ambas, aunque sin que llegue a haber contacto. La aproximación mínima es de 30 metros cuando están frene a frente y de 10 metros cuando Integrity se acerca al lateral de la segunda etapa. Una vez terminadas estas pruebas la etapa superior hará una reentrada en la atmósfera de forma controlada; de ahí los cero kilómetros de la órbita. T+13 h 44 min: Integrity usa los motores de su módulo de servicio para una última maniobra de elevación del perigeo de su órbita de las forma para que la cápsula se mantenga en órbita y no reentre. Aún en órbita alrededor de la Tierra la tripulación comprueba que los distintos sistemas de la nave Orión funcionan correctamente, con especial énfasis, per no sólo, en el aseo (la Orión es la primera nave con un aseo completo en ir a la Luna), el sistema de eliminación de dióxido de carbono, y las comunicaciones. La tripulación duerme en dos turnos de cuatro horas. Día 2 A T+1día, una hora y 37 minutos los motores del módulo de servicio de la Orión se encienden durante varios minutos para que alcance la velocidad de escape y comience su camino hacia la Luna en la ya mencionada trayectoria de retorno libre. Una vez camino a la Luna y durante las primeras 36 horas de viaje aún sería posible hacer un retorno rápido a la Tierra en caso de problemas. Pero a partir de ahí la única opción es dar la vuelta alrededor de la Luna. Días 3 a 5 La Orion realiza hasta tres correcciones de trayectoria si son necesarias para ajustar con precisión su aproximación a la Luna. La tripulación prueba el botiquín médico y realiza una demostración de reanimación cardiopulmonar. El quinto día, prueban sus trajes intravehiculares, en los que podrían sobrevivir hasta seis días en caso de despresurización de la Orión. Si, tal y como está previsto, Artemisa II despega a las 00:24 del día 2, a las 21 horas y dos minutos del quinto día alcanzarán una distancia récord de unos 402.000 kilómetros de la Tierra, batiendo el récord del Apolo 13 de 400.177 km. Días 6 a 9 A los seis días, una hora y 23 minutos alcanzarán la distancia mínima a la Luna, que será de uno 7.400 kilómetros sobre su superficie. Integrity realizará hasta tres correcciones de trayectoria para ajustar con precisión su regreso a la Tierra, de nuevo sólo si son necesarias. El día 7 la tripulación descansa. El día 8 la tripulación realiza una demostración de la construcción de un refugio contra la radiación y lleva a cabo pruebas de pilotaje manual. Día 10 La tripulación se pone los trajes intravehiculares para prepararse para la reentrada. A unos 122 kilómetros sobre la Tierra el módulo de servicio se separa del módulo de la tripulación, y para una reentrada en la atmósfera terrestre a 40.000 kilómetros por hora. Dos paracaídas de frenado reducen la velocidad de la cápsula hasta unos 480 kilómetros por hora. A continuación, tres paracaídas guía, seguidos de los tres paracaídas principales, la frenan la cápsula hasta los 27 kilómetros por hora, que será la velocidad a la que americe frente a la costa de San Diego, California. # Enlace Permanente"
+  },
+  {
+    "titulo": "Indra vale 5.400 millones más tras el paso de Escribano",
+    "medio": "Expansión",
+    "fecha": 1775087758.0,
+    "link": "https://www.expansion.com/mercados/2026/04/01/69cd11a4468aeb7b288b4582.html",
+    "resumen": "Indra se deja torno a un 6% en Bolsa ante la noticia de la previsible dimisión de Ángel Escribano como presidente de la compañía esta tarde. Leer"
+  },
+  {
+    "titulo": "EEUU emitirá el primer bono con respaldo del bitcoin",
+    "medio": "Expansión",
+    "fecha": 1775087480.0,
+    "link": "https://www.expansion.com/mercados/criptomonedas/2026/04/02/69cd5fb2e5fdea30788b456f.html",
+    "resumen": "Moody's ha otorgado una calificación crediticia a esta deuda de 'Ba2' con grado especulativo Leer"
+  },
+  {
+    "titulo": "BBVA refuerza su equipo de banca de inversión en Oriente Medio con un fichaje de Lloyds",
+    "medio": "Expansión",
+    "fecha": 1775087380.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/04/02/69cd5d57468aebbe358b4590.html",
+    "resumen": "El banco no varía su visión estratégica de la región pese a la escalada del conflicto bélico, e incorpora a nuevos perfiles para potenciar su negocio en la región. Leer"
+  },
+  {
+    "titulo": "CaixaBank ofrece PlayStation 5 para captar clientes con nómina",
+    "medio": "Expansión",
+    "fecha": 1775087373.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/04/02/69cb9cea468aeb1f088b4576.html",
+    "resumen": "CaixaBank potencia su campaña de captación de nóminas para reforzar su base de clientes vinculados. Leer"
+  },
+  {
+    "titulo": "Los parches presupuestarios superaron los 120.000 millones en el último año",
+    "medio": "Expansión",
+    "fecha": 1775087335.0,
+    "link": "https://www.expansion.com/economia/2026/04/02/69cd600fe5fdea14668b4573.html",
+    "resumen": "El Gobierno sortea las limitaciones de la prórroga presupuestaria aprobando ampliaciones de crédito por 77.000 millones y transferencias entre ministerios por otros 41.000. Hacienda dispara un 250% los cambios para encajar las cuentas de 2023 al año 2025. Leer"
+  },
+  {
+    "titulo": "David Toscana: \"Pesaban mucho más 15.000 ciegos que 15.000 muertos\"",
+    "medio": "El Mundo",
+    "fecha": 1775087313.0,
+    "link": "https://www.elmundo.es/cultura/literatura/2026/04/02/69cd3a66e9cf4a0e2a8b4591.html",
+    "resumen": "El novelista mexicano es el autor de 'El ejército ciego', el último Premio Alfaguara, escrito con las historias imaginadas de los soldados del ejército búlgaro a los que el emperador de Bizancio ordenó arrancar los ojos en el siglo IX Leer"
+  },
+  {
+    "titulo": "Vox lanza el ataque más duro contra Feijóo y su \"clan de contrabandistas\" y el PP le acusa de actuar como Sánchez para ocultar sus \"problemas internos\"",
+    "medio": "El Mundo",
+    "fecha": 1775087130.0,
+    "link": "https://www.elmundo.es/espana/2026/04/02/69cd9bf5fdddffd56e8b4580.html",
+    "resumen": "En una carta a los afiliados, Garriga responde ante la crisis interna que afronta el partido y, pese a los reproches a Génova, tiende la mano a los barones 'populares' para pactar gobiernos autonómicos Leer"
   },
   {
     "titulo": "La NASA lanza Artemisa II, la primera misión tripulada hacia la Luna en más de 50 años",
@@ -14,32 +350,32 @@
     "resumen": "Despegue de la misión – NASA Tras una de las cuentas atrás más limpias que recuerdo en mucho tiempo la NASA acaba de lanzar la misión Artemisa II hacia la Luna a las 00:35:12 del 2 de abril de 2026. Eso son apenas once minutos más tarde del momento previsto inicialmente. Es la primera vez que despega una misión tripulada hacia nuestro satélites desde que lo hiciera la misión Apolo 17 el 7 de diciembre de 1972. Eso son algo más de 53 años. Estoy seguro de que cuando Eugene Cernan, el comandante de la misión , dijo estas palabras, no esperaba que pasara tanto tiempo. El énfasis es mío: Estoy en la superficie. Y, mientras doy el último paso del hombre desde la superficie, de vuelta a casa por algún tiempo –que creemos no muy lejano en el futuro– tan sólo me gustaría [decir] lo que creo que recogerá la historia. Que el desafío de los Estados Unidos de hoy ha forjado el destino de mañana del hombre. Y, mientras dejamos la Luna en Taurus Littrow, lo hacemos tal y como vinimos y, si es voluntad de Dios, como volveremos: con paz y esperanza para toda la humanidad. Buena suerte a la tripulación del Apolo 17. Pero a diferencia de en aquella ocasión en este caso no se trata de una misión a la superficie de la Luna sino alrededor de la Luna que utilizará una trayectoria de retorno libre al estilo de la del Apolo 13. Aunque en el caso del Apolo 13 fue debido a la explosión en el módulo de servicio y en este caso esa trayectoria ha sido escogida deliberadamente. De este modo aunque el motor del módulo de servicio de la cápsula Orión no vuelva a funcionar en toda la misión una vez lanzada la cápsula hacia la Luna la gravedad combinada de ella y de la Tierra traerán de vuelta la cápsula en 10 días. A bordo de Integrity, que es como ha sido bautizada esta cápsula, van cuatro personas, que durante esta semana y media tendrán que apañárselas en los nueve metros cúbicos de espacio habitable disponibles: De izquierda a derecha Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen – NASA Reid Wiseman, como comandante de la misión. Nacido en Baltimore, Maryland, veterano de la Marina de los Estados Unidos con 27 años de servicio, seleccionado para la promoción de astronautas de la NASA de 2009. Ya ha volado al espacio a bordo de la Soyuz TMA-13M y ha formado pare de la Expedición 40/41 a la Estación Espacial Internacional (EEI). Acumula 165 días, 8 horas y 1 minuto durante los que ha llevado a cabo dos paseos espaciales que suman 12 horas y 47 minutos. Victor Glover, como piloto. Nacido en Pomona (California), es piloto naval y piloto de pruebas de los aviones F/A-18 Hornet, Super Hornet y EA-18G Growler. Fue seleccionado para formar parte de la promoción de astronautas de la NASA de 2013. Voló al espacio, también como piloto, a bordo de la Crew-1, la primera misión operativa de la Crew Dragon a la ISS, en 2021. Acumula 167 días, 6 horas y 29 minutos en órbita, durante los que ha llevado a cabo cuatro paseos espaciales con un total de 26 horas y siete minutos. Christina Koch, como especialista de misión. Nacida en Grand Rapids, Míchigan, es una ingeniera, investigadora y formadora con amplia experiencia, seleccionada en la promoción de astronautas de la NASA de 2013. Ya ha volado al espacio a bordo de la Soyuz MS-12, lanzada en 2019, aunque volvió en la MS-23 ya en 2020. Durante su tiempo en el espacio fue ingeniera de vuelo en la EEI durante la expediciones 50, 60 y 61. Acumula 328 días, 13 horas y 58 minutos en el espacio, lo que es la misión espacial más larga de una mujer. En ellos llevó a cabo cuatro paseos espaciales, incluyendo el primero a cargo de dos mujeres, en los que acumula 42 horas y quince minutos, y Jeremy Hansen, también como especialista de la misión. Nacido en London, Ontario, es piloto de CF-18 de las Fuerzas Armadas Canadienses. Y a diferencia de sus compañeros no es de la NASA sino de la Agencia Espacial Canadiense, para la que fue seleccionado en 2011. Ha participado en numerosos programas científicos, incluida la misión subterránea NEEMO 19, y trabajó en las comunicaciones del equipo de tierra con la Estación Espacial Internacional en 2011. Pero Artemisa II es su primer viaje al espacio. Aquí cabe preguntarse cómo es posible que, siendo el módulo de servicio de la cápsula Orión una contribución de la Agencia Espacial Europea (ESA) y sin el que la Orión no podría ir a ningún sitio no haya ningún astronauta de la ESA a bordo. A cambio existía la promesa de un par de plazas a bordo de la Estación Lunar Gateway, que no a la superficie de la Luna, en próximas misiones del programa Artemisa. Pero ahora que Gateway ha sido cancelada supongo que toca renegociar todo esto. El Módulo de servicio europeo (ESM, European Service Module) proporciona el sistema de soporte vital para la cápsula Orión así como la electricidad a través de sus paneles solares. Y los motores que la llevan de la órbita terrestre a la órbita lunar y de vuelta a casa, así como los motores de maniobra. Mide unos cuatro metros de diámetro y otros tantos de alto. Lo fabrica Airbus para la ESA – Airbus Hansen será el vigesimoquinto estadounidense en abandonar la. órbita baja terrestre. Glover el vigesimosexto, pero además será la primera persona de color en hacerlo. Koch será la vigesimoséptima y la primera mujer en ir más allá de la órbita baja terrestre. Hansen será la primera persona no estadounidense en hacerlo. Y ya puestos, es la séptima vez que astronautas de la NASA estrenan una nave tripulada tras las cápsulas de los programas Mercury y Gemini, el módulo de mando del programa Apolo, el módulo lunar del mismo programa, los transbordadores espaciales, y la Crew Dragon. Esta es también la primera ocasión en que aproximadamente el 75 % de la población de la Tierra vivirá una misión tripulada a la Luna. E incluso yo, que pertenezco al otro 25 % no es que me acuerde para nada el programa Apolo. Así que iremos siguiendo día a día las novedades de esta misión. # Enlace Permanente"
   },
   {
-    "titulo": "Última hora del lanzamiento de la misión Artemis 2, en directo | Artemis 2 despega con éxito y lanza a la humanidad en una nueva carrera hacia la Luna",
+    "titulo": "Video | Así fue el despegue del Artemis 2 rumbo a la Luna",
     "medio": "El País",
-    "fecha": 1775084305.0,
-    "link": "https://elpais.com/ciencia/2026-04-01/ultima-hora-del-lanzamiento-de-la-mision-artemis-2-de-la-nasa-a-la-luna-en-directo.html",
-    "resumen": "Trump ha felicitado a la tripulación en redes y ha publicado: “Estamos ganando: en el espacio, en la Tierra y en todo lo que hay entre medias” | La expedición rodeará el satélite por primera vez en más de medio siglo en un viaje de 10 días"
+    "fecha": 1775086845.0,
+    "link": "https://elpais.com/us/2026-04-01/video-asi-fue-el-despegue-del-artemis-2-rumbo-a-la-luna.html",
+    "resumen": "La expedición rodeará el satélite por primera vez en más de medio siglo en un viaje de 10 días"
   },
   {
-    "titulo": "Despega la misión Artemis II que llevará a cuatro astronautas alrededor de la Luna tras más de 50 años",
-    "medio": "Europa Press",
-    "fecha": 1775083192.0,
-    "link": "https://www.europapress.es/internacional/noticia-despega-mision-artemis-ii-llevara-cuatro-astronautas-alrededor-luna-mas-50-anos-20260402003952.html",
-    "resumen": "El cohete SLS (Sistema de Lanzamiento Espacial) ha despegado este jueves a las 00.35 (hora española) desde el Centro Espacial Kennedy de la NASA en Florida, en el marco de la misión Artemis II que llevará a cuatro astronautas alrededor de la Luna tras más de 50 años."
+    "titulo": "EEUU pone rumbo a la Luna con el despegue de Artemisa 2: \"Hoy comienza la próxima era de la exploración espacial\"",
+    "medio": "El Mundo",
+    "fecha": 1775085825.0,
+    "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/01/69cd411fe85ece5b5b8b456e.html",
+    "resumen": "Tras una emocionante cuenta atrás en la que se han resuelto dos problemas técnicos, la NASA ha iniciado la carrera lunar del siglo XXI. Cuatro astronautas viajan ya a bordo de la nave 'Orión', en la primera misión tripulada a nuestro satélite desde 1972. \"Estamos ganando en el espacio, en la Tierra y en todas partes\", dice Trump Leer"
   },
   {
-    "titulo": "La NASA completa con éxito el lanzamiento del Artemis II, que llevará al hombre de vuelta a la órbita de la Luna",
-    "medio": "OK Diario",
-    "fecha": 1775083161.0,
-    "link": "https://okdiario.com/ciencia/nasa-completa-exito-lanzamiento-artemis-ii-que-llevara-hombre-luna-57-anos-despues-16529544",
-    "resumen": "La NASA ha completado con éxito el lanzamiento de Artemis II, la primera misión tripulada del programa Artemis, en un hito que marca el regreso del ser humano a la órbita de la Luna 53 años y cinco meses después de las históricas misiones del Programa Apolo. El despegue tuvo lugar desde el Centro Espacial … Continuar leyendo \"La NASA completa con éxito el lanzamiento del Artemis II, que llevará al hombre de vuelta a la órbita de la Luna\""
+    "titulo": "Un operativo del Gobierno detiene a 102 personas en un golpe contra la extorsión en el Estado de México",
+    "medio": "El País",
+    "fecha": 1775085152.0,
+    "link": "https://elpais.com/mexico/2026-04-01/un-operativo-del-gobierno-detiene-a-102-personas-en-un-golpe-contra-la-extorsion-en-el-estado-de-mexico.html",
+    "resumen": "Las autoridades se han incautado 192 inmuebles relacionados con el narcomenudeo en una operación que ha capturado a 25 mexicanos y 77 extranjeros"
   },
   {
-    "titulo": "La Humanidad emprende el viaje a la órbita lunar 54 años después: la misión Artemis II despega con éxito desde Florida",
-    "medio": "El Español",
-    "fecha": 1775083091.0,
-    "link": "https://www.elespanol.com/omicrono/defensa-y-espacio/20260402/humanidad-emprende-viaje-orbita-lunar-anos-despues-mision-artemis-ii-despega-exito-florida/1003744192900_0.html",
-    "resumen": "A la hora programada, el cohete SLS y los cuatro ocupantes de la nave Orion han despegado de Cabo Cañaveral rumbo al espacio profundo. Más información: La histórica misión para volver a la Luna con un cohete de récord y una tripulación pionera"
+    "titulo": "Un Mundial ya completo con debutantes, regresos tras medio siglo y mucha \"incertidumbre\" por la guerra en Irán, el ICE y el narcotráfico",
+    "medio": "El Mundo",
+    "fecha": 1775084894.0,
+    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/04/02/69ccd800fdddffcf0b8b456f.html",
+    "resumen": "Infantino insiste en que la selección iraní disputará sus partidos en Los Ángeles y Seattle, aunque la federación había pedido jugar en México. Curazao, Cabo Verde, Jordania y Uzbekistán debutan aprovechando la ampliación a 48 selecciones. Leer"
   },
   {
     "titulo": "Despega la misión Artemis II: la humanidad pone rumbo a la Luna más de 50 años después",
@@ -49,25 +385,53 @@
     "resumen": ""
   },
   {
-    "titulo": "EEUU pone rumbo a la Luna con el despegue de Artemisa 2: \"Hoy comienza la próxima era de la exploración espacial\"",
-    "medio": "El Mundo",
-    "fecha": 1775082952.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/01/69cd411fe85ece5b5b8b456e.html",
-    "resumen": "Tras una emocionante cuenta atrás en la que se han resuelto dos problemas técnicos, la NASA ha iniciado la carrera lunar del siglo XXI. Cuatro astronautas viajan ya a bordo de la nave Orión, en la primera misión a nuestro satélite desde 1972. \"Estamos ganando en el espacio, en la Tierra y en todas partes\", dice Trump Leer"
+    "titulo": "¿Puede ayudar China a resolver la guerra?",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11504351/ayudar-china-resolver-guerra.html",
+    "resumen": "Irán depende totalmente de China, así que esta puede influir para que se avenga a una pronta solución a la guerra"
   },
   {
-    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán exige un alto el fuego garantizado para poner fin a la guerra de forma definitiva",
-    "medio": "El País",
-    "fecha": 1775081236.0,
-    "link": "https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Teherán lanza su mayor oleada de misiles contra Israel de las últimas semanas | Trump asegura que Irán ha pedido un alto el fuego y Teherán lo desmiente | Un bombardeo en Teherán hiere a un exministro y mata a su mujer"
+    "titulo": "El peligro de sobrepensar en Semana Santa",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11503616/peligro-sobrepensar-semana-santa.html",
+    "resumen": ""
   },
   {
-    "titulo": "A qué hora es el despegue del Artemis II hoy y dónde ver en España en directo el vuelo de la NASA a la Luna por streaming y TV",
-    "medio": "OK Diario",
-    "fecha": 1775080538.0,
-    "link": "https://okdiario.com/ciencia/que-hora-espanola-despegue-del-artemis-hoy-donde-ver-vuelo-nasa-luna-directo-streaming-tv-16505654",
-    "resumen": "El lanzamiento de Artemis II marca uno de los momentos más importantes de la exploración en la actualidad. Marca el regreso del hombre al espacio profundo más de medio siglo después de las misiones del Programa Apolo. La expectación es enorme, tanto por el reto técnico como por el simbolismo que representa esta misión dentro … Continuar leyendo \"A qué hora es el despegue del Artemis II hoy y dónde ver en España en directo el vuelo de la NASA a la Luna por streaming y TV\""
+    "titulo": "Una piedra en el zapato",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11504094/piedra-zapato.html",
+    "resumen": "Un juez nombrado por Bush paraliza las obras del salón de baile de la Casa Blanca"
+  },
+  {
+    "titulo": "De los abusos en México",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11504052/abusos-mexico.html",
+    "resumen": "¿Los abusos del pasado justifican humillaciones o discriminaciones en el presente?"
+  },
+  {
+    "titulo": "Los tres hombres fuertes",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11504115/tres-hombres-fuertes.html",
+    "resumen": "En el 2029, Trump ya no tendrá el poder; Putin y Xi Jinping, si viven, seguirán en sus puestos"
+  },
+  {
+    "titulo": "Los poetas acuden al rescate",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11503987/poetas-acuden-rescate.html",
+    "resumen": "Siempre tenemos a mano una especie de botiquín de primeros auxilios en forma de líneas de poemas"
+  },
+  {
+    "titulo": "Nunca se fueron",
+    "medio": "La Vanguardia",
+    "fecha": 1775082600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260402/11504247/nunca.html",
+    "resumen": "La ciudad de Palma sigue su ritmo, y Josep Maria Llompart, discreto, la acompaña"
   },
   {
     "titulo": "Estados Unidos levanta las sanciones contra Delcy Rodríguez",
@@ -77,39 +441,11 @@
     "resumen": "El Departamento del Tesoro elimina a la presidenta de Venezuela de la lista principal de nacionales especialmente designados, que conlleva el bloqueo de activos financieros"
   },
   {
-    "titulo": "Un operativo del Gobierno detiene a 102 personas en un golpe contra la extorsión en el Estado de México",
-    "medio": "El País",
-    "fecha": 1775079414.0,
-    "link": "https://elpais.com/mexico/2026-04-01/un-operativo-del-gobierno-detiene-a-102-personas-en-un-golpe-contra-la-extorsion-en-el-estado-de-mexico.html",
-    "resumen": "Las autoridades se han incautado 192 inmuebles relacionados con el narcomenudeo en una operación que ha capturado a 25 mexicanos y 77 extranjeros"
-  },
-  {
     "titulo": "Reparto de 'The White Lotus' 4: todos los actores y actrices confirmados de la nueva temporada",
     "medio": "Trendencias",
     "fecha": 1775079264.0,
     "link": "https://www.trendencias.com/series-de-television/the-white-lotus-reparto",
     "resumen": "Hay una serie de HBO cuyo casting nunca decepciona y su cuarta temporada parece que no será la excepción. Porque se ha desvelado el nombre de los actores y actrices que darán vida a los próximos personajes de 'The White Lotus' y volveremos a ver desfilar esa mezcla de nombres de que te suenan, caras que has visto mil veces (aunque a veces no sepas dónde) y conforman un mix perfecto entre iconos, secundarios de lujo y nuevos descubrimientos. Aquí va el repaso a todo lo que se sabe, de momento, de la temporada 4 de 'The White Lotus'. Índice de Contenidos (20) Nuevos fichajes en 'The White Lotus': temporada 4 Heather Graham Rosie Perez Ben Schnetzer Tobias Santelmann Frida Gustavsson Laura Smet Helena Bonham Carter Steve Coogan Chris Messina Kumail Nanjiani Chloe Bennet Max Greenfield Vincent Cassel Alexander Ludwig AJ Michalka Sandra Bernhard Personajes que repiten en la temporada 4 Dónde se rueda la temporada 4 de \"The White Lotus\" Fecha de estreno de \"The White Lotus\" Nuevos fichajes en 'The White Lotus': temporada 4Por ahora, solo se ha anunciado de forma oficial el nombre de los actores pero no se sabe qué personajes interpretarán, lo que en The White Lotus' solo significa una cosa: que absolutamente cualquiera de estos actores puede acabar siendo el el cadáver del primer episodio. Heather Graham Si creciste en los 2000, la cara de Heather Graham te suena seguro porque ella fue la inolvidable chica Bond en 'Austin Powers: la espía que me achuchó' (1999). Aunque también es conocida por hacer de la novia de Stu Price en 'Resacón en Las Vegas' (2009). En 'The White Lotus' nos encajaría verla en ese perfil de mujer rica con pasado turbio que la serie adora. Rosie Perez A esta actriz estadounidense, pero de origen puertorriqueño, ya las visto en 'Los blancos no la saben meter' (1992) y, más recientemente, como la detective Renee Montoya en 'Aves de presa' (2020), la película en la que Margot Robbie da vida a Harley Quinn. Rosie Perez tiene esa vibra con un punto caótico que nos parece perfecto para encajar en el resort White Lotus, ya sea finalmente como empleada o como huésped. Ben Schnetzer Aunque la de Ben Schnetzer es una cara menos mainstream, sí puede que sea reconocible para los espectadores de cine indie. Destacó en la película 'Orgullo' (2014) y en la serie de drama postapocalíptico 'Y: The Last Man' (2021). El neoyorquino, de 36 años, suele interpretar personajes intensitos con conflicto interno. Un blanco fácil para acabar mal en el universo de esta serie. Tobias Santelmann Kon-Tiki (2012) Si has visto la serie de vikingos de Netflix 'The Last Kingdom', ya sabrás de quién estamos hablando. Aunque el actor noruego también ha aparecido en otras ficciones históricas, como 'Hércules' (2014). Su presencia imponente hace pensar que, probablemente, será uno de los buenorros de la temporada y uno de esos personajes que parecen tranquilos… hasta que no. Frida Gustavsson A la modelo sueca reconvertida en actriz la conocemos, principalmente, por hacer de Freydis en la exitosa serie 'Vikingos: Valhalla' (2022). Desprende ese aire magnético, enigmático y elegante que ya han tenido otros personajes femeninos de la serie. Además, por su nacionalidad y apariencia, pensamos que su trama estará muy probablemente ligada a la de Tobias Santelmann. Laura Smet Laura Smet es una actriz francesa habitual en el cine europeo. Aunque es menos conocida a nivel internacional, es muy respetada. No se conoce nada sobre su personaje aún pero todo apunta a que interpretará a una local, ya sea como trabajadora del hotel o alguien que vive/veranea donde sucede la acción. Helena Bonham Carter Si hay un fichaje que no necesita presentación es el de Helena Bonham Carter. Icono absoluto del cine británico (y del de Tim Burton), ha hecho de todo. Desde 'Harry Potter' hasta 'The Crown' y pasando por 'El club de la lucha' (1999), siempre robándose el plano sin pedir permiso. Su presencia en 'The White Lotus' apunta claramente a una huésped de las que no se olvidan: excéntrica, imprevisible y e incapaz de pasar desapercibida. Steve Coogan El humor británico más afilado tiene nombre y apellidos y son los de Steve Coogan. Aunque empezó su carrera como humorista de stand up, es en títulos como 'Philomena' (2013) o la sitcom 'The Trip' (2010) donde ha perfeccionado ese arte de incomodar con elegancia y sarcasmo que lo caracterizan. En el universo de Mark White, creemos que podría ser ese personaje que sonríe mientras lanza pullas a diestro y siniestro, elevando la tensión con cada frase aparentemente inocente. Chris Messina Chris Messina es de esos actores que, sin necesidad de ser el protagonista, siempre mejoran cualquier escena en la que aparecen. De la comedia de 'The Mindy Project' (2012) al thriller turbio de 'Heridas abiertas' (2018), ha demostrado una versatilidad que encaja a la perfección con los personajes moralmente ambiguos de la serie de HBO. Nos lo imaginamos dando vida a alguien difícil de descifrar, alguien en quien nunca sabes si debes confiar o evitar. Kumail Nanjiani De la sensibilidad indie de 'La gran enfermedad del amor' (2017) al blockbuster palomitero de 'Eternals '(2021), Kumail Nanjiani ha construido su carrera a base de puro carisma. Su presencia seguramente aportará ligereza a la trama, pero también una inteligencia cómica de las que esconden capas. En 'The White Lotus' podría acabar siendo ese huésped que parece encantador pero que se nota que esconde algo. Chloe Bennet Gage Skidmore Chloe Bennet ganó popularidad como Daisy en la serie de Marvel 'Agents of S.H.I.E.L.D.' (2013) y, desde entonces, se ha ido consolidando como una actriz capaz de mezclar acción, vulnerabilidad y carácter. Su incorporación introduce una energía más joven al reparto, con un claro potencial para verse envuelta (o provocar) alguno de los conflictos más intensos del resort. Max Greenfield Para muchos, siempre será Schmidt de 'New Girl', pero Max Greenfield ha demostrado que su vis cómica va mucho más allá del personaje que lo hizo famoso. Su capacidad para moverse entre lo neurótico y lo hilarante lo convierte en el candidato perfecto para desatar el caos emocional que se respira siempre en 'The White Lotus', donde las apariencias siempre están a punto de saltar por los aires. Vincent Cassel Pocas presencias en la pantalla imponen tanto como la del francés Vincent Cassel. Con una filmografía que va de 'Cisne negro' (2010) al cine europeo más de autor, su magnetismo suele venir acompañado de una amenaza latente. En 'The White Lotus' nos lo imaginamos como un personaje peligroso, de esos que no necesitan levantar la voz para inquietar. Alexander Ludwig El canadiense Alexander Ludwig es sinónimo de intensidad física y drama. Lo ha demostrado con su Bjorn en 'Vikingos' o con su paso por 'Los juegos del hambre'. Su perfil nos encaja con un personaje de gran presencia, pero también con conflictos internos que pueden estallar en cualquier momento. Sea lo que sea, un cóctel perfecto para el ecosistema de la serie. AJ Michalka Actriz y cantante, AJ Michalka se dio a conocer en la pequeña pantalla con la sitcom 'The Goldbergs' (2013), pero su carrera ha ido ampliándose con proyectos donde siempre mezcla carisma y sensibilidad. En este reparto coral tiene todas las papeletas para convertirse en una de las sorpresas: ese personaje que empieza en segundo plano y acaba siendo la clave. Sandra Bernhard Pose Actriz veterana, irreverente y con personalidad, Sandra Bernhard lleva décadas de carrera marcada por una voz propia. Su paso por series como 'Pose' demuestra que tiene un radar afinado para personajes con filo. En 'The White Lotus' no nos extrañaría verla en la piel de alguien que siempre diga en voz alta lo que los demás solo se atreven a pensar. Personajes que repiten en la temporada 4Fiel a su ADN de antología, 'The White Lotus' volverá a apostar por un reparto coral mayoritariamente nuevo en su cuarta temporada, pero todo indica que no romperá del todo con el pasado. De hecho, hay dos nombres que suenan con fuerza para continuar el hilo narrativo que conecte esta nueva entrega con las anteriores: Belinda y Greg. Belinda, interpretada por Natasha Rothwell, es ya una figura clave en el universo de la serie. Introducida en la primera temporada como gerente del spa en Hawái y recuperada después en la tercera, su personaje encarna esa tensión constante entre los trabajadores del resort y los huéspedes privilegiados. Su posible regreso en la cuarta entrega permitiría seguir explorando una de las tramas más críticas de la serie hacia el lujo y sus dinámicas de poder. HBO Por su parte, Greg (el personaje de Jon Gries) se ha convertido casi en el hilo conductor silencioso de The White Lotus. Presente en todas las temporadas hasta ahora, su historia (ligada al arco de la difunta Tanya) ha ido dejando cabos sueltos que la serie podría terminar de atar en la costa francesa. Eso sí, conviene bajar un poco el hype porque, aunque ambos nombres se mueven como los más probables entre los fans, HBO no ha confirmado oficialmente si algunos personajes regresarán ni en cuáles serán ni en qué medida tendrán peso en la trama. Dónde se rueda la temporada 4 de \"The White Lotus\" En esta serie el destino es casi tan importante como el drama. Para su cuarta temporada, la ficción vuelve a Europa y convertirá Francia en un decorado. Por un lado, su creador, Mike White, ha dejado caer en entrevistas su intención de alejarse del entorno playero tras varias temporadas ambientadas en resorts junto al mar. Por otro lado, se ha visto al equipo de localización de HBO explorando tanto París como la Costa Azul, lo que vuelve a poner sobre la mesa el contraste entre un entorno urbano sofisticado y el clásico destino vacacional mediterráneo. John Jason Junior En paralelo, algunos fans apuntan a un posible enclave concreto: el Hôtel du Cap-Eden-Roc, en Antibes, entre Cannes y Niza. Un hotel icónico, aislado y con ese punto exclusivo que la serie convierte siempre en personaje. Eso sí, por ahora no hay confirmación oficial ni sobre este resort ni sobre si la colaboración habitual con la cadena Four Seasons continuará en esta nueva etapa. Fecha de estreno de \"The White Lotus\" Por ahora, se desconoce cuándo se estrenará la cuarta temporada de 'The White Lotus', pero por los tiempos de producción no se espera hasta, por lo menos, finales de 2026. Aunque lo más probable es que haya que esperar hasta 2027. Foto de portada | HBO Fotos del interior | Dimitri Sarantis, Joella Marano, Gage Skidmore, Frida Gustavsson, Georges Biard, dominio público, Gordon Correll, diginmag, Gage Skidmore, Fuzheado, Georges Biard, Kevin Scanlon, AJ Michalka - La noticia Reparto de 'The White Lotus' 4: todos los actores y actrices confirmados de la nueva temporada fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
-    "titulo": "Andy (ex de Andy y Lucas) rompe a llorar ante Ana Milán: «Yo no he ganado dinero»",
-    "medio": "OK Diario",
-    "fecha": 1775079255.0,
-    "link": "https://okdiario.com/cool/television/andy-ex-andy-lucas-rompe-ana-milan-yo-no-he-ganado-dinero-16530439",
-    "resumen": "Este miércoles 1 de abril, el programa de Cuatro Ex. La vida después ha tenido como primer invitado a Andy Morales, componente del ya desaparecido dúo musical Andy y Lucas. El cantante ha contado todo sobre la ruptura profesional y personal del que fue su mejor amigo y compañero. En un momento determinado de la … Continuar leyendo \"Andy (ex de Andy y Lucas) rompe a llorar ante Ana Milán: «Yo no he ganado dinero»\""
-  },
-  {
-    "titulo": "SpaceX inicia los trámites para la mayor salida a bolsa de la historia: espera recaudar 75.000 millones",
-    "medio": "OK Diario",
-    "fecha": 1775079020.0,
-    "link": "https://okdiario.com/economia/spacex-inicia-tramites-mayor-salida-bolsa-historia-espera-recaudar-75-000-millones-16530398",
-    "resumen": "La empresa aeroespacial SpaceX, fundada por el magnate Elon Musk en 2002, ha dado inicio a los trámites para dar el salto a la bolsa. La compañía ha presentado de forma confidencial una solicitud ante la Comisión de Bolsa y Valores (SEC) de Estados Unidos para una Oferta Pública de Venta (OPV), según han informado … Continuar leyendo \"SpaceX inicia los trámites para la mayor salida a bolsa de la historia: espera recaudar 75.000 millones\""
-  },
-  {
-    "titulo": "10 curiosidades de Artemis II: de las tortillas antimigas al muro de fuego final",
-    "medio": "OK Diario",
-    "fecha": 1775078251.0,
-    "link": "https://okdiario.com/ciencia/10-curiosidades-artemis-ii-tortillas-antimigas-muro-fuego-final-16530455",
-    "resumen": "La misión Artemis II marca uno de los momentos más esperados del nuevo programa de exploración lunar de la NASA: el primer vuelo tripulado que pondrá a prueba, en condiciones reales, el sistema con el que se pretende regresar a la Luna. A bordo de la cápsula Orion y lanzados por el potente cohete Space … Continuar leyendo \"10 curiosidades de Artemis II: de las tortillas antimigas al muro de fuego final\""
   },
   {
     "titulo": "EEUU retira las sanciones impuestas a Delcy Rodríguez",
@@ -119,25 +455,11 @@
     "resumen": "La presidenta encargada de Venezuela valora el gesto de Donald Trump y espera que se levanten asimismo las sanciones impuestas al país latinoamericano"
   },
   {
-    "titulo": "Estados Unidos levanta las sanciones contra Delcy: \"Es un paso para normalizar y fortalecer las relaciones\"",
-    "medio": "El Español",
-    "fecha": 1775077431.0,
-    "link": "https://www.elespanol.com/mundo/20260401/unidos-levanta-sanciones-delcy-paso-normalizar-fortalecer-relaciones/1003744193265_0.html",
-    "resumen": "La presidenta interina confía en que este paso sea la antesala del levantamiento de las sanciones actualmente impuestas contra Venezuela. Más información: El juez descarta desestimar el caso contra Maduro como pedía al no poder costear su defensa por las sanciones de EEUU"
-  },
-  {
     "titulo": "Los precios de la memoria han empezado a caer en algunos mercados. Aún queda mucho para dar por cerrada la crisis de la IA",
     "medio": "Xataka",
     "fecha": 1775077385.0,
     "link": "https://www.xataka.com/componentes/precios-memoria-han-empezado-a-caer-algunos-mercados-queda-mucho-para-dar-cerrada-crisis-ia",
     "resumen": "Hay una escena que se repite cada vez que el mercado da una tregua, aunque sea mínima: basta con que el precio de un componente clave empiece a bajar para que surja la sensación de que lo peor ha pasado. Es exactamente lo que está ocurriendo ahora con la memoria DDR5. En las últimas semanas se han registrado caídas en el canal minorista de varios mercados, y eso ha reactivado una pregunta inevitable entre quienes llevan meses siguiendo la evolución de los precios: si estamos ante el principio del fin de la crisis de la memoria o simplemente ante un ajuste puntual. Una presión extendida. Para entender lo que estamos viendo ahora conviene ampliar el foco y mirar el recorrido reciente del mercado. La subida de precios de la memoria no solo ha golpeado al usuario que quiere actualizar su equipo, sino también a fabricantes, distribuidores y ensambladores, en un contexto marcado por tensiones de oferta y demanda que llevan meses condicionando compras y estrategias. Por lo tanto, estamos ante un escenario de presión que ha terminado afectando a buena parte del mercado del hardware. Dónde y cuánto están cayendo los precios. Más allá de la percepción, lo que hay ahora mismo es un cambio medible en algunos escaparates. TrendForce apunta a descensos claros en el canal retail de varias regiones. En Europa, el mercado alemán registró una caída del 7,2% mensual en marzo de 2026, mientras que en Estados Unidos se han visto rebajas superiores al 20% en kits concretos de DDR5 de 32 GB. El caso más llamativo es China, donde módulos de 16 GB han retrocedido entre un 25% y un 30% desde los picos de principios de año. Una corrección. Detrás de este ajuste hay una explicación bastante más terrenal de lo que podría parecer. Según la firma de análisis y las fuentes del sector que cita, el principal factor es una menor tracción del consumo tras meses de precios elevados, lo que ha llevado a muchos compradores a retrasar decisiones y a los distribuidores a acelerar la salida de inventario. A esto se suma un desfase habitual entre el mercado spot y los contratos, que puede tardar entre uno y dos meses en trasladarse a los envíos reales. En Xataka La memoria RAM supone ya el 35% del coste de un nuevo PC, así que HP ha tomado la única decisión posible El ruido alrededor de TurboQuant. En paralelo a esta corrección ha aparecido un elemento que ha alimentado el debate en el mercado. TurboQuant, un algoritmo de compresión de Google, ha sido interpretado en parte de la cobertura reciente como una señal de que la presión sobre la RAM podría relajarse. Sin embargo, las lecturas más prudentes apuntan en otra dirección, señalando que se trata de una mejora incremental y no de un cambio capaz de alterar por sí solo la demanda estructural, especialmente en memoria para servidores y cargas ligadas a inteligencia artificial, que sigue siendo elevada. ¿Fin de la crisis? Todo esto encaja en una idea que el propio sector repite con bastante claridad. A partir de fabricantes de memoria con base en Taiwán, los precios por contrato se han mantenido estables pese a la volatilidad en el canal minorista, y la demanda en segmentos como servidores, DRAM y HBM sigue firme, en parte respaldada por acuerdos a varios años con grandes clientes. En este contexto, la corrección actual se interpreta como un ajuste puntual, no como un giro suficiente para dar por resuelto el actual episodio de tensión. Cautela y más cautela. Lo que estamos viendo en algunos mercados es un alivio puntual para el consumidor, sí, pero todo apunta a que se trata de una corrección dentro de un ciclo todavía tensionado por factores de fondo que no han desaparecido. Las previsiones más optimistas hablan de una normalización progresiva hacia finales de 2026 en algunos segmentos, mientras que otras la sitúan incluso más allá. Con este escenario, dar por terminada la crisis de la memoria sería adelantarse a unos acontecimientos que, por ahora, siguen lejos de confirmarse. Imágenes | Andrey Matveev En Xataka | La IA necesita memoria urgentemente, así que Samsung y SK van a inyectar 1.000 millones de dólares en China - La noticia Los precios de la memoria han empezado a caer en algunos mercados. Aún queda mucho para dar por cerrada la crisis de la IA fue publicada originalmente en Xataka por Javier Marquez ."
-  },
-  {
-    "titulo": "Hallan evidencias de explosiones cósmicas que no dejan rastro de agujeros negros",
-    "medio": "The Objective",
-    "fecha": 1775077236.0,
-    "link": "https://theobjective.com/sociedad/ciencia/2026-04-01/evidencias-explosiones-cosmicas-agujeros-negros/",
-    "resumen": "Al final de sus vidas, la mayoría de las estrellas masivas colapsan para formar agujeros negros, objetos con una gravedad tan intensa que ni siquiera la luz puede […]"
   },
   {
     "titulo": "Beneficios de lavarse los pies con bicarbonato de sodio y aceite de oliva",
@@ -147,39 +469,11 @@
     "resumen": "Los pies necesitan los mismos cuidados que cualquier otra parte del cuerpo y a pesar de ello suelen ser los grandes olvidados. Hay muchas formas de mimarlos y de tenerlos perfectos, pero hay una opción sencilla y en versión casera que les vendrá de maravilla. Hablamos de la combinación de bicarbonato de sodio con aceite de oliva, dos ingredientes que a buen seguro tenemos en nuestra cocina. Frente a cosméticos más sofisticados, este método es de esos que podemos realizar en cualquier momento porque solo se necesitan ingredientes de uso común. El bicarbonato de sodio tiene propiedades exfoliantes y desodorantes, mientras que el aceite de oliva es ideal para nutrir y suavizar la piel de los pies. La mezcla de ambos productos es un combo perfecto para limpiar, suavizar e hidratar los pies. Su aplicación se realiza de forma directa sobre la piel realizando un masaje pero en realidad esto es solo una parte del proceso. Los beneficios del bicarbonato y el aceite de oliva en los piesSi eres de las que está buscando un método eficaz y económico para poner a punto los pies, esta mezcla puede que sea lo que estás buscando. Porque los beneficios son varios y aquí te los contamos. Por un lado el bicarbonato al tener una textura rugosa al tacto y al ser fino, es perfecto para exfoliar los pies y eliminar las impurezas. Funciona como un exfoliante y ayuda a eliminar las células muertas, la suciedad e incluso para tratar los hongos de los pies gracias a sus propiedades antifúngicas. Por otro lado es un ingrediente perfecto para neutralizar los olores ya que absorbe la humedad y neutraliza las bacterias causantes de mal olor. En cuanto al aceite de oliva, será el encargado de aportar nutrición y favorecer la hidratación, ayudando a suavizar, a mejorar la piel seca y las rugosidades o grietas que presenten los pies. El aceite de oliva cuenta con ingredientes muy beneficiosos para la piel como ácidos grasos y la vitamina E. Las durezas y las callosidades es otra de las preocupaciones que suelen presentar los pies, sobre todo cuando no se les presta la atención suficiente. Pues bien, justamente esta combinación de ingredientes (exfoliación + hidratación) facilitará la reducción progresiva de zonas endurecidas o ásperas. Por último y no menos interesante, tenemos el efecto del propio masaje durante la aplicación del producto. Esto generará mucha relajación, sensación de descanso en los pies y mejorará la circulación en la zona. Procedimiento para aplicar la mezcla Seguro que después de descubrir todas los beneficios de esta mezcla tan sencilla te han entrado ganas de ponerla en práctica. Así que vamos a ver cómo se realiza: Lo primero es preparar la mezcla, para ello usaremos un recipiente y echaremos dos cucharadas de bicarbonato de sodio con una cucharada de aceite de oliva hasta obtener una pasta uniforme. Antes de comenzar con la aplicación, los pies deben ser perfectamente limpios, así que se recomienda limpiar los pies con agua y jabón. Ahora sí, con los pies húmedos, aplicamos la preparación sobre toda la piel, incluyendo talones y espacios entre los dedos. En este paso es importante masajear bien e insistir en las zonas más resecas para eliminar todas la pieles muertas. Estaremos unos cinco minutos. Lo siguiente que debemos hacer, es dejar que el producto actúe sobre la piel durante otros cinco minutos. Pasado este tiempo ya podemos retirar con agua tibia y secar completamente con una toalla limpia, sin olvidarnos de secar bien entre los dedos. Finalmente, aunque esto es opcional, podemos aplicar una crema para prolongar la hidratación y ahora que los pies están más receptivos disfrutar de los beneficios de una buena crema de pies. Fotos | kaboompics en Pexels, Jonathan Borba en Pexels En Trendencias | Uñas 'toasted nails': las siete manicuras naturales más elegantes de la temporada En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Beneficios de lavarse los pies con bicarbonato de sodio y aceite de oliva fue publicada originalmente en Trendencias por Carolina L. ."
   },
   {
-    "titulo": "Estados Unidos levanta las sanciones contra la presidenta interina de Venezuela Delcy Rodríguez",
-    "medio": "OK Diario",
-    "fecha": 1775077102.0,
-    "link": "https://okdiario.com/internacional/estados-unidos-levanta-sanciones-contra-presidenta-interina-venezuela-delcy-rodriguez-16530458",
-    "resumen": "El Gobierno de Estados Unidos ha levantado las sanciones que había impuesto a la presidenta interina de Venezuela, Delcy Rodríguez. Así lo indica el Departamento del Tesoro en su página web, menos de tres meses después de que las fuerzas estadounidenses capturaran al entonces presidente del país, Nicolás Maduro. La Oficina de Control de Activos … Continuar leyendo \"Estados Unidos levanta las sanciones contra la presidenta interina de Venezuela Delcy Rodríguez\""
-  },
-  {
-    "titulo": "Un artrópodo marino de hace 500 millones de años es el ancestro de arañas y cangrejos",
-    "medio": "The Objective",
-    "fecha": 1775077095.0,
-    "link": "https://theobjective.com/sociedad/ciencia/2026-04-01/artropodo-marino-ancestro-aranas-cangrejos/",
-    "resumen": "Un fósil de 500 millones de años de antigüedad perteneciente a un antepasado primitivo de las arañas, escorpiones y ácaros revela cómo evolucionaron los primeros artrópodos llamados quelicerados. […]"
-  },
-  {
     "titulo": "Irán ha destruido o dañado 26 unidades del equipamiento militar más avanzado de EEUU en pocas semanas: radares, aviones cisterna y drones que ya no se fabrican",
     "medio": "HuffPost",
     "fecha": 1775076514.0,
     "link": "https://www.huffingtonpost.es/global/iran-destruido-danado-26-unidades-equipamiento-militar-mas-avanzado-eeuu-pocas-semanas-radares-aviones-cisterna-drones-fabrican-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Vox pide por carta a sus afiliados «apoyo» a sus pactos de Gobierno con el PP: «Hay que frenar al mafioso de la Moncloa»",
-    "medio": "OK Diario",
-    "fecha": 1775076172.0,
-    "link": "https://okdiario.com/espana/vox-pide-carta-sus-afiliados-apoyo-sus-pactos-gobierno-pp-hay-que-frenar-mafioso-moncloa-16530140",
-    "resumen": "Vox ha mandado una carta interna alertando del «brutal ataque» que la formación está sufriendo en las últimas semanas, señalando como responsable de orquestar la maniobra al líder del PP, Alberto Núñez Feijóo. Al tiempo, ha dado orden a todos los afiliados a favor de llegar a las instituciones con «máxima representación» para «formar gobiernos» … Continuar leyendo \"Vox pide por carta a sus afiliados «apoyo» a sus pactos de Gobierno con el PP: «Hay que frenar al mafioso de la Moncloa»\""
-  },
-  {
-    "titulo": "Guerra Irán, Israel y EEUU hoy 1 de abril en directo | Ataques, reapertura estrecho Ormuz y petróleo",
-    "medio": "OK Diario",
-    "fecha": 1775075692.0,
-    "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-directo-hoy-1-abril-eeuu-israel-estrecho-ormuz-16520196",
-    "resumen": "El conflicto entre Estados Unidos, Israel e Irán, iniciado el 28 de febrero con bombardeos sobre ciudades iraníes, sigue en una fase de máxima intensidad en Oriente Medio. Washington y Tel Aviv buscan debilitar la capacidad militar iraní, especialmente su programa de misiles y su industria nuclear, mientras Teherán responde con ataques de misiles y … Continuar leyendo \"Guerra Irán, Israel y EEUU hoy 1 de abril en directo | Ataques, reapertura estrecho Ormuz y petróleo\""
   },
   {
     "titulo": "Los expertos avisan: si la guerra en Irán no termina pronto, los españoles pagarán más por la gasolina, los vuelos, la cesta de la compra y la hipoteca al mismo tiempo",
@@ -189,39 +483,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Detenida la condenada a prisión permanente por matar a su bebé al arrojarlo a un contenedor",
-    "medio": "La Vanguardia",
-    "fecha": 1775075497.0,
-    "link": "https://www.lavanguardia.com/local/baleares/20260401/11504413/detenida-mujer-condenada-prision-permanente-matar-bebe-arrojandolo-contenedor-mallorca.html",
-    "resumen": "Ha sido localizada sobre las 20.30 horas de este miércoles en Manacor después de dos semanas fugada"
-  },
-  {
-    "titulo": "España envía a Cuba un millar de kits de ayuda humanitaria para unas 5.000 personas",
-    "medio": "The Objective",
-    "fecha": 1775075446.0,
-    "link": "https://theobjective.com/internacional/2026-04-01/cuba-millar-kits-alimentos-higiene-espana/",
-    "resumen": "La Agencia Española de Cooperación Internacional para el Desarrollo (Aecid) ha comenzado el reparto en Cuba de un envío de ayuda humanitaria formado por 1.000 kits […]"
-  },
-  {
-    "titulo": "Manos Limpias pide al juez Peinado que deje de investigar a la asesora de Begoña Gómez",
-    "medio": "The Objective",
-    "fecha": 1775074978.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-04-01/manos-limpias-juez-peinado-exonere-asesora-begona-gomez/",
-    "resumen": "Manos Limpias, una de las acusaciones populares de la causa en la que se investiga a Begoña Gómez, la mujer del presidente del Gobierno Pedro Sánchez, […]"
-  },
-  {
     "titulo": "Lori Glaze, física de la NASA: \"En la próxima década esperamos tener varias bases habitables en la Luna donde los astronautas puedan quedarse\"",
     "medio": "HuffPost",
     "fecha": 1775074856.0,
     "link": "https://www.huffingtonpost.es/tecnologia/lori-glaze-fisica-nasa-proxima-decada-esperamos-bases-habitables-luna-astronautas-puedan-quedarse-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "La defensa de Begoña Gómez pide al juez que archive el caso: “Flaco favor se está haciendo a la imagen de la Justicia”",
-    "medio": "El País",
-    "fecha": 1775074696.0,
-    "link": "https://elpais.com/espana/2026-04-01/begona-gomez-y-la-fiscalia-piden-al-juez-peinado-que-archive-el-caso.html",
-    "resumen": "Las acusaciones reclaman nuevas diligencias y Manos Limpias pide cerrar la causa para la asesora de La Moncloa"
   },
   {
     "titulo": "Gante por primera vez: las claves de un viajero experto para organizar tu visita y no perderte nada",
@@ -238,39 +504,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Las mejores imágenes del Miércoles Santo en España",
-    "medio": "The Objective",
-    "fecha": 1775074249.0,
-    "link": "https://theobjective.com/galerias/espana/2026-04-01/mejores-imagenes-miercoles-santo-espana/",
-    "resumen": ""
-  },
-  {
-    "titulo": "Renfe licita la compra de 30 trenes de alta velocidad por hasta 4.145 millones de euros",
-    "medio": "El País",
-    "fecha": 1775074176.0,
-    "link": "https://cincodias.elpais.com/companias/2026-04-01/renfe-licita-la-compra-de-30-trenes-de-alta-velocidad-por-hasta-4145-millones-de-euros.html",
-    "resumen": "La operadora estatal aplaza temporalmente su proyecto para unir por AVE Madrid y París ante las trabas administrativas"
-  },
-  {
-    "titulo": "EEUU levanta las sanciones contra Delcy Rodríguez ocho años después",
-    "medio": "El Mundo",
-    "fecha": 1775073982.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/01/69cd7a71e9cf4af62e8b458b.html",
-    "resumen": "Washington retiró a Rodríguez de su lista negra mediante una publicación en el sitio web de la oficina gubernamental encargada de las sanciones económicas (OFAC). Leer"
-  },
-  {
     "titulo": "Los astronautas de Artemis II realizarán experimentos en los que serán sus propios modelos de estudio",
     "medio": "Xataka",
     "fecha": 1775073624.0,
     "link": "https://www.xataka.com/espacio/asi-experimentaran-consigo-mismos-astronautas-artemis-ii-astronautas-virtuales-a-saliva-trozos-papel",
     "resumen": "Realizar experimentos en el espacio es complicado. No abundan los recursos y mucho menos los sujetos de estudio. Por eso, a veces estos deben ser los propios experimentadores. Es justamente lo que tendrán que hacer en los próximos 10 días los tripulantes de Artemis II si todo sale bien. Una de sus misiones será realizar experimentos sobre cómo afectan las condiciones del espacio exterior a la salud humana. Y lo comprobarán sobre sí mismos. Antecedentes. Es bien sabido que las estancias en el espacio, por cortas que sean, pueden afectar a la salud humana. No hay más que ver el reciente ejemplo del astronauta que perdió el habla en la Estación Espacial Internacional (EEI) por causas aún desconocidas. Por este motivo, buena parte de los experimentos que se llevan a cabo en estas instalaciones van dirigidos justo a eso: analizar cómo afectan cuestiones como la microgravedad, el aislamiento o las radiaciones cósmicas a la salud humana. Se han hecho descubrimientos interesantes, pero la realidad es que no es lo mismo llevar a cabo los experimentos en la órbita terrestre baja, donde está la EEI, que en la Luna. En Xataka Cuando los primeros astronautas fueron a la Luna orinaban y defecaban en bolsas: Artemis II va a facilitarles la vida Una misión para protegerlos a todos. Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen tendrán varias misiones en sus 10 días de viaje. Para empezar, tendrán que probar el buen funcionamiento de la nave y su viabilidad para el alunizaje que se llevará a cabo en Artemis III. También realizarán fotografías de la cara oculta de la Luna y otras mediciones de interés científico. Y, finalmente, servirán de sujetos de estudio en una serie de experimentos sobre los efectos del espacio en la salud humana. Esta vez sí: más lejos de la órbita terrestre baja. Sueño espacial. El primer estudio que realizarán en este sentido será ARCHeR, un conjunto de experimentos dirigidos a analizar cómo afecta el espacio a factores como el sueño, el estrés, la cognición y el trabajo en equipo. Para monitorizarlo, llevarán pulseras de actividad, cuyas mediciones se sumarán a las tomadas en Tierra tanto antes como después de la misión. El conjunto de toda esta información será muy útil para comprender cómo afectan el aislamiento y el estrés de una misión como esta a la mente de los astronautas. Salud inmunitaria. En la Estación Espacial Internacional se ha comprobado que es más probable que algunos virus, como el de la varicela zóster, salgan del estado de latencia. Se trata de virus que el sistema inmunitario no es capaz de eliminar por completo, sino que quedan latentes en el organismo. En el caso del varicela zóster, por ejemplo, se quedan en los nervios, sumidos en una especie de letargo del que puede que no salgan nunca. Si lo hacen, suele ser por una bajada de defensas. Por eso, se cree que el espacio podría afectar al sistema inmunitario. Para comprobarlo, los tripulantes de Artemis II se tomarán muestras de saliva húmeda y sangre antes y después de su viaje. También tomarán muestras de saliva seca durante el tiempo que dura la misión. Astronauta depositando muestra de saliva seca La saliva seca se obtiene depositando la muestra en unas hojas de papel específico para ello. No vale un papel cualquiera. Es la mejor forma de guardar muestras de saliva en el espacio, donde no se pueden refrigerar con normalidad. Una vez que se analicen todas las muestras, el objetivo será estudiar los niveles de biomarcadores inmunitarios en busca de posibles declives causados por el espacio. Astronautas virtuales para examinar la radiación. También es importante comprobar cómo afecta la radiación a la salud de los astronautas. En viajes como este, no saldrán de la nave, que dispone de los escudos adecuados para que la radiación no les cause daños. Sin embargo, en futuros alunizajes, especialmente si se establecen bases lunares, sí que podría darse esa temida exposición a la radiación. Para estudiar cuáles serían los efectos y diseñar sistemas de protección eficaces, se ha puesto en marcha AVATAR, un experimento que consiste en fabricar un astronauta virtual por cada uno de los miembros de la tripulación. Médula ósea artificial Todos ellos han proporcionado muestras de células de su médula ósea que se han cultivado en un chip del tamaño de una memoria USB. Así, se ha obtenido una pequeña médula ósea artificial con las características de cada uno de ellos. Estas sí que se expondrán a la radiación mientras que los astronautas siguen a salvo. Dado que es una parte del cuerpo en la que hay muchas células en división, es especialmente susceptible a la radiación. Por eso, se puede ver mucho mejor cuáles serían los efectos. Además, se pueden comparar con las muestras de células tomadas de los propios astronautas una vez que vuelvan de la misión. Medidas para el futuro. Todos estos experimentos servirán para proteger mucho mejor a los astronautas que viajen a la Luna en el futuro. Por ejemplo, se podrían buscar medidas para atajar sus problemas de sueño o trajes que protejan mejor de la radiación. Además, gracias al sistema AVATAR, se podrían enviar los chips antes de que los astronautas vayan al espacio. Así, se comprobarían los efectos específicos sobre su salud y se diseñarían botiquines adecuados para cada uno de ellos. Todo esto será posible gracias a que Wiseman, Glover, Koch y Hansen actuarán simultáneamente como científicos y modelos de estudio. Imágenes | NASA | Emulate | Freepik En Xataka | Artemis II llevará a la NASA a la Luna medio siglo después. Lo hará con la ayuda de la Universidad de Sevilla - La noticia Los astronautas de Artemis II realizarán experimentos en los que serán sus propios modelos de estudio fue publicada originalmente en Xataka por Azucena Martín ."
-  },
-  {
-    "titulo": "El grupo 'Barcelona con la selección' compró casi 1.900 entradas en los sectores donde se iniciaron los cánticos racistas",
-    "medio": "El Mundo",
-    "fecha": 1775073022.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/04/01/69cd5655fdddff92708b456f.html",
-    "resumen": "Se autodefinen como un \"grupo apolítico\". Los tickets se adquirieron a través de un canal exclusivo que incluía un 40% de descuento para socios del Espanyol y se enfadaron por no poder introducir cámaras y mástiles en el campo, así como por no poder utilizar el sistema de megafonía habitual en ese sector del estadio Leer"
   },
   {
     "titulo": "Un hombre organizó 140 vuelos ilegales de drones a nueve cárceles británicas en dos meses y cobró 30.000 euros: le han condenado a más de cinco años de prisión",
@@ -280,20 +518,6 @@
     "resumen": ""
   },
   {
-    "titulo": "SpaceX de Elon Musk da el primer paso hacia la mayor salida a bolsa de la historia",
-    "medio": "La Vanguardia",
-    "fecha": 1775071946.0,
-    "link": "https://www.lavanguardia.com/economia/20260401/11504404/spacex-elon-musk-da-primer-paso-mayor-salida-bolsa-historia.html",
-    "resumen": "La compañía tendría previsto su lanzamiento en junio"
-  },
-  {
-    "titulo": "Renfe licita la compra de 30 nuevos AVE por 1.650 millones",
-    "medio": "Expansión",
-    "fecha": 1775071934.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/04/01/69cd72ba468aebc2188b4597.html",
-    "resumen": "Se contempla la opción de ampliar el pedido con 10 unidades más, hasta 2.150 millones de euros. Leer"
-  },
-  {
     "titulo": "El problema de Microsoft no es haber perdido una cuarta parte de su valor en tres meses. Es que lleva tiempo equivocándose",
     "medio": "Xataka",
     "fecha": 1775071888.0,
@@ -301,39 +525,11 @@
     "resumen": "Parece que no hace tanto tiempo cuando muchos celebraban la apuesta de Microsoft por Azure. La decisión de Satya Nadella de volcarse en la computación en la nube empezó a traducirse pronto en buenos resultados financieros, impulsando a la compañía de Redmond a encadenar cifras récord de ingresos. Pero había algo más relevante en ese movimiento: la constatación de que podía generar enormes beneficios más allá de Windows. Aquella estrategia, iniciada en 2014, terminó por marcar un antes y un después que se hizo especialmente visible en 2019, cuando la firma alcanzó por primera vez una capitalización de mercado de un billón de dólares. Sin embargo, ni siquiera los estrategas más orientados al largo plazo, como Nadella, están exentos de errores. Microsoft lleva tiempo encadenando decisiones discutibles que han acabado teniendo un impacto directo en sus resultados trimestrales. En concreto, la compañía ha perdido casi una cuarta parte de su valor en apenas tres meses. Para ponerlo en contexto, hablamos de su mayor caída trimestral desde la crisis financiera de 2008. Un retroceso de esta magnitud, lógicamente, no pasa desapercibido. Del liderazgo en la nube a una estrategia bajo presión Si queremos entender por qué el relato se ha torcido, tenemos que empezar por lo más evidente: el mercado ha reaccionado con dureza y, sobre todo, de forma selectiva. En el primer trimestre de 2026, Microsoft perdió cerca de un 23% de su valor en bolsa, según CNBC, mientras el Nasdaq cedió alrededor de un 7%. No es un movimiento menor, entre otras cosas porque hablamos de una caída de una magnitud que no se veía en casi dos décadas. Ese desfase frente al resto del sector empieza a señalar problemas que van más allá del contexto general. Durante un tiempo, la apuesta por OpenAI fue vista como uno de los grandes aciertos estratégicos de Microsoft, y no es difícil entender por qué. La compañía ha invertido alrededor de 13.000 millones de dólares para integrar esta tecnología en Azure y en productos como Copilot, lo que le permitió colocarse en una posición muy ventajosa en la carrera de la inteligencia artificial. Sin embargo, con el paso del tiempo también hemos empezado a ver la otra cara de esa decisión: una dependencia tecnológica muy elevada y una presión creciente por justificar ese despliegue. Con el paso de los meses, esa relación tan estrecha también ha empezado a cambiar de forma silenciosa. Aunque Azure sigue siendo un socio clave para OpenAI, la compañía dirigida por Sam Altman ha comenzado a abrir su infraestructura a otros actores para sostener el crecimiento de sus modelos, que cada vez exigen más capacidad de cómputo y energía. Eso no rompe la alianza, pero sí cambia su significado, porque Microsoft ya no concentra con la misma claridad toda la ventaja estratégica que había logrado en las primeras fases del acuerdo. Si bajamos al terreno del producto, donde todas estas apuestas deberían materializarse, el caso de Copilot es especialmente ilustrativo. Microsoft ha intentado convertir este asistente en el eje de su nueva propuesta de valor, integrándolo en Microsoft 365 y en buena parte de su ecosistema, pero la adopción no está yendo al ritmo esperado. Según The Information, casi nadie usa Copilot. Lo que hemos visto es que llevar la inteligencia artificial al día a día de las empresas resulta más complejo de lo que parecía sobre el papel. A todo esto se suma una tensión que no siempre se ve, pero que está muy presente en la trastienda de esta carrera: la de cómo repartir recursos en un entorno de demanda creciente. Microsoft está invirtiendo de forma masiva en infraestructura para sostener el auge de la IA, pero al mismo tiempo tiene que decidir cómo asigna esa capacidad entre Azure y sus propios servicios. En enero, la directora financiera Amy Hood llegó a señalar que el crecimiento de Azure en el trimestre de diciembre habría sido aún mayor si la compañía hubiese destinado más chips a la nube en lugar de repartir parte de esa capacidad entre servicios como Copilot. El desgaste no se limita a la inteligencia artificial, y eso también conviene tenerlo en cuenta. También este año hemos visto caídas notables en ingresos y en varias áreas del ecosistema Xbox, en un contexto marcado además por anteriores subidas de precio en Game Pass y en las consolas. Puede parecer un frente menor al lado de Azure o de Microsoft 365, pero ayuda a completar la foto de una compañía que ha ido abriendo demasiados flancos a la vez. Lo que hemos visto es que incluso en áreas donde tenía una posición consolidada, Microsoft está encontrando más dificultades para mantener el ritmo. En Xataka OpenAI ya vale 852.000 millones de dólares: nunca una empresa había sido tan valiosa quemando tanto dinero Si juntamos todas estas piezas, lo que empieza a emerger es una desconexión cada vez más evidente entre la fortaleza operativa de Microsoft y la forma en que el mercado está valorando su estrategia. La compañía sigue siendo la cuarta más valiosa del planeta, continúa creciendo, con ingresos al alza cercanos al 17% interanual en su último trimestre reportado y con Azure avanzando un 39% en el trimestre de diciembre, pero esa solidez no se está trasladando a su cotización ni a su valoración. Imágenes | Xataka con Nano Banana 2 En Xataka | El fantasma de IBM: el gran reto de Satya Nadella es evitar que Microsoft termine convertida en un fósil tecnológico - La noticia El problema de Microsoft no es haber perdido una cuarta parte de su valor en tres meses. Es que lleva tiempo equivocándose fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
-    "titulo": "Un muerto y tres heridos por la deflagración y el incendio en una cafetería de Almería",
-    "medio": "El País",
-    "fecha": 1775071883.0,
-    "link": "https://elpais.com/espana/2026-04-01/un-muerto-y-varios-heridos-por-la-deflagracion-y-el-incendio-en-una-cafeteria-de-almeria.html",
-    "resumen": "La primera hipótesis de trabajo en el lugar del siniestro apunta a una bombona de gas"
-  },
-  {
-    "titulo": "Trump abre el camino para una rápida salida de Estados Unidos de la guerra contra Irán",
-    "medio": "El País",
-    "fecha": 1775071820.0,
-    "link": "https://elpais.com/internacional/2026-04-01/trump-abre-el-camino-para-una-rapida-salida-de-estados-unidos-de-la-guerra-contra-iran.html",
-    "resumen": "Teherán desmiente haber pedido un alto el fuego, como dijo el mandatario republicano, al tiempo que lanza su mayor oleada de misiles contra Israel de las últimas semanas"
-  },
-  {
     "titulo": "No solo los móviles: Raspberry Pi también sube sus precios por culpa de la RAM",
     "medio": "Hipertextual",
     "fecha": 1775071800.0,
     "link": "https://hipertextual.com/tecnologia/raspberry-pi-sube-precios-ram-2026/",
     "resumen": "Si tienes pensado comprar una Raspberry Pi, prepárate porque acaba de ponerse bastante más cara. La empresa británica ha anunciado su tercera ronda de subidas de precios desde diciembre, y esta vez los incrementos son los más duros hasta la fecha. Uno de los más evidentes es el Pis 500+, el modelo de gama alta […] Seguir leyendo: No solo los móviles: Raspberry Pi también sube sus precios por culpa de la RAM"
-  },
-  {
-    "titulo": "El presidente iraní, a EEUU: \"Presentar a Irán como una amenaza no se ajusta ni a la realidad histórica ni a los hechos observables en la actualidad\"",
-    "medio": "El Mundo",
-    "fecha": 1775071631.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/01/69cd6ec3fc6c83ba3e8b45bd.html",
-    "resumen": "Masoud Pezeshkian se dirige al pueblo estadounidense en una carta y lanza un aviso a los que atacan las infraestructuras vitales de su país Leer"
-  },
-  {
-    "titulo": "Trump es el primer presidente de EEUU en acudir a una audiencia en el Tribunal Supremo",
-    "medio": "The Objective",
-    "fecha": 1775071500.0,
-    "link": "https://theobjective.com/internacional/2026-04-01/trump-primer-argumentos-orales-tribunal-supremo/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, se ha convertido este miércoles en el primer mandatario en asistir a una audiencia de argumentos orales en el […]"
   },
   {
     "titulo": "Daniel y Celia, conductores de autobús en Alemania: \"El alquiler es de 550 euros y gano casi 3.000\"",
@@ -371,34 +567,6 @@
     "resumen": "Hay rutas que te exigen y rutas que te cuentan cosas de una forma apacible y placentera. El Canal de Castilla pertenece a la segunda categoría. No tiene puertos, ni tramos técnicos, ni paisajes que quiten el aliento de esa manera espectacular que se ve en las fotos de redes sociales de ciclistas que recorren determinadas rutas. Lo que tiene es otra cosa: algo más de 200 kilómetros de camino casi llano junto al agua, con esclusas centenarias cada poco rato y la sensación persistente de que estás siguiendo el rastro de algo que fue importante. El canal nació en el siglo XVIII con un objetivo muy concreto: mover el cereal castellano hacia los puertos del norte sin depender de caminos en mal estado. Bajo el reinado de Fernando VI, el Marqués de la Ensenada impulsó el proyecto, que el ingeniero Antonio de Ulloa desarrolló con asesoramiento francés. Las obras comenzaron en 1753 y no terminaron hasta 1849. Durante ese tiempo se construyeron tres ramales (Norte, Campos y Sur) que atraviesan Palencia, Burgos y Valladolid. En el siglo XIX llegó a tener más de 400 barcazas activas transportando trigo, harina y madera. Incluso hubo servicio de pasajeros entre Valladolid y Palencia. Luego llegó el ferrocarril, y en 1959 la navegación comercial se cerró definitivamente. Hoy el canal riega campos y abastece de agua a varios municipios, pero también ha encontrado una segunda vida como ruta cicloturista. Fue declarado Bien de Interés Cultural en 1991, y a lo largo de su trazado se conservan esclusas, dársenas, casas de escluseros y antiguas fábricas que se pueden visitar o simplemente contemplar desde la bici, convirtiéndose en referente para todos los que disfrutan recorriendo rutas cicloturistas o vías verdes. Además, es ideal para quienes desean introducirse en el mundo del ciclismo después de los 50. Cómo planificar el recorrido Lo primero que hay que saber a la hora de pensar en hacer el recorrido es que la ruta, no es circular, así que conviene organizarse un poco y dividir el camino en tres etapas. La opción más habitual es dejar el coche en Valladolid y tomar un tren de Media Distancia hasta la estación de Alar del Rey-San Quirce, que admite bicicletas. Desde allí se rueda en dirección sur, aprovechando que el suave desnivel del terreno va a favor. Los caminos de sirga (los que antaño usaban los animales para tirar de las barcazas desde tierra) están en buen estado y son perfectamente transitables con una bici de gravel o de montaña. No son carriles bici asfaltados, sino caminos de tierra, lo cual forma parte del encanto. Etapa 1: Alar del Rey - FrómistaEl ramal Norte, con 58 kilómetros de distancia, arranca en Alar del Rey, donde el canal capta las aguas del Pisuerga. Esta primera etapa tiene 24 esclusas, que dan idea de lo que fue construir esto en el XVIII. El camino pasa por Herrera de Pisuerga (con su embarcadero todavía activo), Osorno, Lantadilla, Requena de Campos y Boadilla del Camino antes de llegar a Frómista. En Frómista merece la pena parar: la iglesia de San Martín es una de las piezas más puras e importantes del románico español. Etapa 2: Frómista - Ribas de CamposEsta es la etapa más tranquila de las tres, con 41 kilómetros. El paisaje se abre, el canal empieza a parecerse más a una infraestructura de riego que a una vía navegable, y los kilómetros van pasando casi sin que te des cuenta. Amusco, San Cebrián de Campos, Piña de Campos... el ritmo es constante. El final de etapa llega en Ribas de Campos, donde hay una esclusa triple que es de las más llamativas de todo el recorrido. Etapa 3: Ribas de Campos - Valladolid Aquí comienza el ramal Sur. El paisaje cambia un poco: más cultivos, más acequias, algún tramo donde el canal pierde la rigidez de las etapas anteriores. Antes de llegar a Valladolid se pasa por Grijota, Dueñas, Cigales, Cabezón de Pisuerga y Fuensaldaña. Una jornada cómoda de unos 47 kilómetros para cerrar el viaje, con la capital vallisoletana esperando al final con toda la logística resuelta. El ramal de Campos: la variante más llanaEn Palencia hay un desvío que no todo el mundo toma pero que vale mucho la pena considerar. En lugar de seguir hacia Valladolid, se puede girar hacia el oeste y tomar el ramal de Campos hasta Medina de Rioseco. Son 78 kilómetros con apenas siete esclusas (el tramo más llano de los tres) por Tierra de Campos, con paisajes repletos de campos de cereal, y pueblos como Paredes de Nava, Becerril de Campos o Castromocho. Medina de Rioseco tiene su propia dársena y una antigua fábrica de harina reconvertida que merece la parada. Fotografías | Junta de Castilla y León En Trendencias | Miguel Induráin: \"Gané los cinco Tours con colesterol. Unas veces estaba más alto y otras menos, pero durante toda la vida me ha acompañado\" En Trendencias | 10 viajes que merecen la pena después de los 50: lugares para recorrer con calma y sin estrés En Trendencias | La ciudad más bonita de Europa es perfecta para mayores de 50: calles llanas repletas de arte y comida tradicional - La noticia La ruta ciclista más sencilla y con historia de Castilla y León: es casi llana y perfecta para personas que están comenzado a correr en bici fue publicada originalmente en Trendencias por Nacho Viñau ."
   },
   {
-    "titulo": "Flick disfruta del día de fiesta en el Tibidabo: el técnico, a la espera de los internacionales",
-    "medio": "La Vanguardia",
-    "fecha": 1775069144.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260401/11504392/flick-disfruta-dia-fiesta-tibidabo-tecnico-espera-internacionales.html",
-    "resumen": "El entrenador alemán ha subido al parque de atracciones para desconectar en la jornada de descanso del Barça"
-  },
-  {
-    "titulo": "Trump amenazó con cortar el suministro de armas a Ucrania si Europa no le apoyaba en Ormuz",
-    "medio": "Expansión",
-    "fecha": 1775068598.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/04/01/69cd63db468aeb6c718b4586.html",
-    "resumen": "Mark Rutte, máximo responsable de la OTAN, instó a miembros clave de la alianza a ofrecer ayuda a EEUU para reabrir una vía marítima clave. Leer"
-  },
-  {
-    "titulo": "Grifols extiende a 3.000 millones un préstamo para refinanciar la deuda que vence en 2027",
-    "medio": "Expansión",
-    "fecha": 1775068543.0,
-    "link": "https://www.expansion.com/catalunya/2026/04/01/69cd6457468aebd23b8b4583.html",
-    "resumen": "El grupo amplía el tramo previsto en euros de 500 millones a 1.250 millones. Leer"
-  },
-  {
-    "titulo": "Lamine Yamal condena los \"intolerables\" cánticos xenófobos e islamófobos de Cornellà: \"Usar una religión como burla en un campo os deja como personas ignorantes y racistas\"",
-    "medio": "El Mundo",
-    "fecha": 1775068274.0,
-    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/04/01/69cd15e8fc6c83683b8b459b.html",
-    "resumen": "El jugador de la Selección Española y del FC Barcelona afirma que \"el fútbol es para disfrutarlo y animar, no para faltar al respeto a la gente por lo que es o en lo que cree\" Leer"
-  },
-  {
     "titulo": "París tiene un tráfico tan caótico que ya juguetean con una idea: reconvertir su M-30 para circular en bici y pasear",
     "medio": "Xataka",
     "fecha": 1775068224.0,
@@ -413,32 +581,11 @@
     "resumen": "Parece que Mercadona lo ha vuelto a hacer y ya está conquistando a gran parte de sus consumidoras con su nuevo lanzamiento beauty. Desde luego este producto, que ya está en su sección de perfumería, no ha dejado a nadie indiferente. Nos referimos a los aceites de labios que acaban de sacar y que son de edición limitada. No es la primera vez que encontramos un lip oil en Mercadona, pero el furor de este tipo de labiales es tal, que esta primavera han vuelto a apostar por este formato. Con un precio de 5 euros, nos encontramos dos versiones: un rosa clarito y un marrón tostado. Los labios se llevan jugosos y naturales Esta temporada los labios siguen luciendo muy naturales pero con intención. Los labios se llevan muy cuidados, con color pero suave, y con un extra de brillo que les aporta ese aspecto jugoso y carnoso. Justamente en esta línea es la propuesta de estos aceites que combinan beneficios de cuidado con efectos cosméticos. Su fórmula proporciona hidratación y suavidad a la vez que aportan color y mucho brillo a los labios. La marca nos habla de unos aceites ligeros sin efecto pegajoso, a diferencia de un gloss clásico que tanto rechazo suele generar. Los lip oils son precisamente perfectos por eso, porque tienen lo mejor de un bálsamo labial y lo mejor de un brillo de labios pero con una textura mucho más cómoda y liviana. @tamibarroso_ Publi 🌸 @MyGlowApp | Skincare con IA PROBANDO LOS NUEVOS 🫦 JELLY LIP OIL 🫦 DE MERCADONA 💚 EN LOS 2 TONOS: 01 ROSITA 🩷 Y 02 MARRÓN 🤎 #mercadona #jellylipoilmercadona #novedadesmercadona #lipoilmercadona #novedadmercadona ♬ Monopoly City - Brilian T Los dos tonos elegidos para los Jelly Lip Oil Deliplus son completamente diferentes pero igualmente con ese aura de labio natural y perfecto que se busca ahora. Por un lado, tenemos el tono 01 Rosa que es un rosa muy sutil, tanto que una vez aplicado el color parece difuminarse tanto que luce prácticamente transparente. Puede ser una buena opción para quienes no buscan añadir color y prefieran esos acabado de glass skin puros. Por otro lado, tenemos el tono 02 Chocolate que contiene iridiscencias doradas. Este color sí que se nota más y luce como un marrón tostado muy elegante, en el que se aprecian pequeñas partículas iluminadoras y que así de primeras nos recuerda mucho a las preciosas uñas 'toasted nails', ahí lo dejo. El labial que desearás que te acompañe a todas partes Los aceites labiales son estupendos para cuidar los labios y aportar ese punto de color que realza la belleza natural de los mismos. Pero igualmente son perfectos para añadir sobre algún labial si deseamos que resalte más o que su acabado no sea tan seco. Otra opción es marcarnos un buen lip combo y en este caso la mejor opción es el tono Chocolate que pigmenta mucho más y es integraría mejor con el perfilador, por ejemplo el Perfilador Canela de Mercadona. Su fórmula cómoda y fácil de llevar es otra de sus ventajas frente a otro tipo de productos para los labios. Se pueden reaplicar en cualquier momento y gracias a sus aceites nutritivos proporcionan comodidad, suavidad e hidratación profunda. Sin duda es una alternativa muy económica e interesante respecto a otros lip oil que encontramos en el mercado. Fotos | Mercadona, Jonas Wilson en Pexels En Trendencias | Los cinco perfumes de Mercadona con olor a limpio que son elegantes y reconfortantes - La noticia Mercadona ya tiene el aceite de labios con ‘efecto jugoso’ más apetecible de la primavera fue publicada originalmente en Trendencias por Carolina L. ."
   },
   {
-    "titulo": "Vall d’Hebron tendrá la primera electrolinera de carga ultrarrápida pública de Barcelona",
-    "medio": "La Vanguardia",
-    "fecha": 1775068088.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260401/11504389/vall-hebron-primera-electrolinera-carga-ultrarrapida-publica-barcelona.html",
-    "resumen": "El espacio pensado para dar autonomía en un cuarto de hora a una docena de vehículos a la vez se instalará junto a la ronda de Dalt y tendrá zonas de descanso para los conductores"
-  },
-  {
     "titulo": "La función más esperada de Windows 11 está a punto de llegar tras una filtración",
     "medio": "Hipertextual",
     "fecha": 1775067600.0,
     "link": "https://hipertextual.com/software/windows-11-cambiar-ubicacion-barra-tareas/",
     "resumen": "Microsoft está a punto de lanzar una de las funciones más pedidas de Windows 11 desde su lanzamiento. Tal y como lo anticipó en una carta de promesa, el gigante tecnológico permitirá cambiar la orientación de la barra de tareas para colocarla en cualquier parte de la pantalla. Un video filtrado por la misma Microsoft […] Seguir leyendo: La función más esperada de Windows 11 está a punto de llegar tras una filtración"
-  },
-  {
-    "titulo": "Condenan a Nacho Vidal a tres años de prisión por traficar con 'cocaína rosa' en una zona de ocio de Valencia",
-    "medio": "El Mundo",
-    "fecha": 1775066693.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/2026/04/01/69ccedd5e9cf4a011f8b45a9.html",
-    "resumen": "El actor, que ha reconocido los hechos, no entrará en la cárcel tras un pacto con la Fiscalía Leer"
-  },
-  {
-    "titulo": "Trump se topa con el recelo del Supremo en su intento de limitar la ciudadanía a indocumentados",
-    "medio": "El Mundo",
-    "fecha": 1775066503.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/01/69cd5bbe21efa0631d8b459b.html",
-    "resumen": "El republicano, que asistió a la audiencia del alto tribunal en lo que se considera una presión a los jueces, pretende reinterpretar la histórica Enmienda 14, vigente desde 1868 Leer"
   },
   {
     "titulo": "Anatomía de un colapso: cómo un relé en Gipuzkoa salvó a Europa mientras el sistema español moría de éxito",
@@ -455,39 +602,11 @@
     "resumen": "La primavera avanza y las sandalias griegas vuelven. Un calzado con mucho rollazo que llevaremos fácilmente con cualquier look diario. Este zapato se inspira en la estética clásica del mediterráneo y es un básico moderno que combina comodidad, estilo y versatilidad. En esta ocasión, hemos encontrado un modelo firmado por Gioseppo súper elegante. Una opción en tono azabache con detalle joya que eleva su diseño. Son minimalistas y cuentan con un cierre de lazada que envuelve el tobillo. Son muy cómodas, ya que tienen una plantilla acolchada. Están hechas de piel y cuentan con la puntera redonda. Para llevarlas con glamour en 2026, desde unos pantalones bombachos hasta un vestido de rayas serán un acierto. Además, los básicos del fondo de armario también son buena elección y jamás nos fallarán. El precio de las sandalias en la web oficial de El Corte Inglés es 49,95 euros. Cómo combinar estas sandalias griegas Con un vestido Este vestido midi con estampado de rayas es una gran opción que combina a la perfección con las sandalias de Gioseppo. Una elección de Hannibal Laguna Collection con mangas abullonadas y un corte amplio con una falda con frunces. El cinturón añade contraste y acentúa la cintura. El precio en la web oficial de El Corte Inglés es 258 euros. Con una falda midi Esta falda midi de tubo es una opción muy original que combina el tejido denim con un estampado de rayas pura tendencia. Cuenta con bordados de flores que suman contraste y una apertura en la parte delantera. Una elección que podremos llevar diariamente con una blusa bonita o una camiseta básica. El precio en la web oficial de El Corte Inglés es 79,90 euros. Con unos shorts Estos shorts de tiro medio y pinzas delanteras son muy elegantes y quedan genial con las sandalias de Gioseppo. Cuentan con bolsillos que elevan su diseño y un bajo con puntillas pura tendencia. Uno de sus puntos fuertes en la versatilidad, ya que podremos combinarlo con una chaqueta del mismo tono en un conjunto monocolor. El precio en la web oficial de Zara es 25,95 euros. Con un pantalón bombacho Estos pantalones bombachos están firmados por Sfera. Son color azul marino, uno de los tonos más populares de la temporada. Están hechos de lino y tienen detalles de pinza que elevan el diseño. La cintura es ajustable con un cordón y es súper fresquito para llevarlos de lunes a domingo. El precio en la web oficial de El Corte Inglés es 35,99 euros. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |El Corte Inglés, Zara, @bartabacmode En Trendencias |Cómo comprar los vaqueros perfectos: guía práctica para acertar con la talla en diferentes marcas - La noticia Así son las sandalias griegas de Gioseppo más bonitas y perfectas para combinar con faldas, vestidos y shorts en primavera 2026 fue publicada originalmente en Trendencias por Laura Beneyto ."
   },
   {
-    "titulo": "Estados Unidos aprueba la píldora antiobesidad de Lilly",
-    "medio": "Expansión",
-    "fecha": 1775064807.0,
-    "link": "https://www.expansion.com/empresas/industria/2026/04/01/69cd44c8468aebc3188b4591.html",
-    "resumen": "La píldora de la farmacéutica Lilly estará disponible en Estados Unidos a partir del 6 de abril a un precio inicial de 149 dólares. Leer"
-  },
-  {
-    "titulo": "Google rebaja sus Pixel y eso reabre una pregunta muy simple: cuál merece más la pena según tu uso",
-    "medio": "La Vanguardia",
-    "fecha": 1775064600.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260401/11502145/google-rebaja-pixel-reabre-pregunta-simple-cual-merece-mas-pena-mkt-alie.html",
-    "resumen": "Tres Pixel con tamaños parecidos, pero con diferencias muy claras en cámara, potencia y precio"
-  },
-  {
     "titulo": "La curiosa primera grabación de la Semana Santa en Sevilla que rodaron los propios hermanos Lumière",
     "medio": "eldiario.es",
     "fecha": 1775064600.0,
     "link": "https://www.eldiario.es/spin/curiosa-primera-grabacion-semana-santa-sevilla-rodaron-propios-hermanos-lumiere-pm_1_13116075.html",
     "resumen": "Tan solo dos años después de haber inventado el cinematógrafo, los hermanos Lumière viajaron a SevillaLa primera escena de terror de la historia fue una broma en blanco y negro de los hermanos Lumière La Semana Santa de Sevilla es una de las más destacadas de las que se dan en España, siendo también una de las 26 que tiene la denominación de Fiesta de Interés Turístico Internacional y cuyos desfiles son todo un despliegue de folclore, cultura y también arte, al ser todo un museo barroco al aire libre. Desde el Domingo de Ramos hasta el Domingo de Resurrección, son 60 hermandades las que desfilan hacia la Catedral de Sevilla, con un séquito que acompaña a las distintas imágenes que protagonizan principalmente los nazarenos. Pero son las tallas las que ofrecen uno de los hechos más destacados, al ser auténticas obras de arte que fueron creadas por algunos de los mejores artistas del Barroco hasta la actualidad como son Martínez Montañés, Juan de Mesa, Castillo Lastrucci, Ruíz Gijón, Pedro Roldán o La Roldana. Una fiesta que, además, tiene el honor de haber tenido su primera grabación de manos de los propios inventores del cinematógrafo, los hermanos Lumière, unos de los propulsores que dieron tecnología que daría lugar al cine. Detalles de la primera grabación de la Semana Santa en Sevilla Tan solo dos años después de haber inventado el cinematógrafo, los hermanos Lumière viajaron a Sevilla, en 1898, y fueron artífices la que supuso la primera grabación, en la captaron imágenes de la procesión del Cristo de las Penas de la Hermandad de la Estrella. Pero en esta primera grabación de la Semana Santa en Sevilla no solo se puede ver la procesión como tal, sino también algunos sucesos curiosos que pasaron a su alrededor, como cuando un policía aparta a los niños del paso. El resultado de la grabación fue sorprendente en su ejecución en la época, y además ayudó a inmortalizar el legado de las costumbres sociales, religiosas y de los cofrades. En el viaje a Sevilla, Auguste Marie Louis Nicolás y Louis Jean Lumière rodaron también una corrida de toros en ese mismo viaje a Sevilla."
-  },
-  {
-    "titulo": "El Gobierno pide a la Fiscalía que investigue los cánticos racistas en el RCDE Stadium",
-    "medio": "La Vanguardia",
-    "fecha": 1775064083.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260401/11504369/ministerio-igualdad-pide-fiscalia-investigue-canticos-racistas-rcde-stadium.html",
-    "resumen": "El grito “musulmán el que no bote” se escuchó en tres ocasiones durante el partido amistoso entre España y Egipto celebrado este martes en Cornellà"
-  },
-  {
-    "titulo": "Elon Musk lanza la histórica OPV de SpaceX para el verano",
-    "medio": "Expansión",
-    "fecha": 1775064014.0,
-    "link": "https://www.expansion.com/economia-digital/companias/2026/04/01/69cd53c9468aeb05758b45a4.html",
-    "resumen": "El magnate Elon Musk ha puesto en marcha la salida a Bolsa del grupo aeroespacial SpaceX, que se prevé sea la mayor colocación de la historia y que podría tener lugar entre junio y julio. Leer"
   },
   {
     "titulo": "SpaceX pone en marcha su salida a bolsa y le apunta a una valoración bestial",
@@ -502,20 +621,6 @@
     "fecha": 1775062958.0,
     "link": "https://www.eldiario.es/spin/historia-universidad-parecia-cerrada-academias-shuyuan-china-abren-linea-antigua-pm_1_13115058.html",
     "resumen": "Formar a las élites - La tradición china desarrolló espacios donde se leían textos, se discutían ideas y se educaba a alumnos mucho antes que en Europa, pero ese papel ha recibido menos atención al contar la historiaLa defensa de China fue su perdición: así fue como la Gran Muralla debilitó al imperio que la alzó Las instituciones dedicadas al aprendizaje surgieron para ordenar el conocimiento y formar a quienes iban a dirigir la sociedad. La primera universidad que suele citarse en la actualidad depende de cómo se defina ese término, y ahí entran nombres como Al-Qarawiyyin en Fez, fundada en 859, o la Universidad de Bolonia en 1088, que organizó estudios con estructura más reconocible en Europa. Esas instituciones nacieron con un propósito claro: preparar juristas, teólogos o funcionarios capaces de sostener el funcionamiento político y religioso. Al mismo tiempo, la sabiduría china ha quedado muchas veces fuera de ese relato, aunque allí ya existían espacios donde se estudiaban textos, se debatían ideas y se formaban alumnos mucho antes de que Europa organizara sus universidades. Esa diferencia de reconocimiento sigue marcando cómo se cuenta la historia del conocimiento. Las academias shuyuan crecieron como espacios avanzados sin títulos oficiales Las academias shuyuan, tal y como recoge Yuhua Lyu en The Origins of the Classical Academy, fueron centros de estudio en la China antigua que surgieron en la dinastía Tang y acabaron funcionando como espacios de formación avanzada, aunque no otorgaban títulos oficiales como las universidades europeas. Estas academias reunían a estudiantes y maestros para leer textos clásicos, discutir su sentido y formar el carácter moral según el pensamiento confuciano. Estas instituciones alcanzaron su mayor desarrollo en la dinastía Song y llegaron a consolidarse como una red estable de enseñanza superior. Su existencia demuestra que el aprendizaje organizado no nació en un único lugar ni siguió un único modelo. Durante periodos de inestabilidad, organizaron clases regulares y evaluaciones internas El término shuyuan apareció en el siglo VIII durante la dinastía Tang, pero en ese momento no designaba todavía una escuela como tal. Se utilizaba para nombrar espacios donde se copiaban, corregían y guardaban textos clásicos. En lugares como la Academia del Palacio Jixian, los funcionarios revisaban documentos y preparaban materiales que luego se usaban en la administración imperial. Con el paso del tiempo, algunos de esos espacios empezaron a recibir estudiantes, y ahí se produjo el cambio que los acercó a una institución educativa. La enseñanza comenzó con maestros que reunían discípulos sin sedes fijas Antes de que existieran esas academias con nombre propio, la enseñanza ya se transmitía a través de maestros que reunían a sus discípulos. Confucio abrió la educación a personas que no pertenecían a la aristocracia y organizó grupos donde se aprendían normas morales y formas de gobierno. En aquellos encuentros, los alumnos escuchaban, repetían y debatían textos, aunque no había edificios fijos ni normas comunes para todos. Ese modo de enseñanza privada se mantuvo durante siglos y sentó las bases de lo que más tarde serían las academias. La vida en las academias seguía un ritmo marcado desde el amanecer Dentro de las shuyuan, la vida diaria seguía un ritmo muy estricto. Los estudiantes se levantaban al amanecer, recitaban textos en voz alta y asistían a clases donde el maestro explicaba pasajes de los clásicos. Después se organizaban debates en grupo y ejercicios de escritura, mientras que al final del día se dedicaban a leer o a reflexionar en silencio. También se celebraban encuentros donde se leían poemas o se compartían ideas, lo que hacía que el aprendizaje no quedara limitado a la clase formal. En muchos casos, las academias estaban situadas en zonas apartadas, rodeadas de vegetación, y los alumnos paseaban por esos espacios mientras repasaban lo aprendido. El sistema educativo chino funcionaba con varios modelos al mismo tiempo El sistema educativo chino no dependía solo de estas academias. Existían escuelas familiares, centros estatales y redes de enseñanza privada que funcionaban al mismo tiempo. Cada uno cumplía una función distinta dentro de la sociedad. Las instituciones oficiales preparaban a quienes querían presentarse a los exámenes imperiales, mientras que las academias privadas ofrecían un espacio más flexible donde estudiar sin depender del Estado. Cuando el poder político se debilitaba, los maestros asumían el papel de mantener la enseñanza, y eso hizo que las academias ganaran peso en momentos de crisis. Las academias chinas evolucionaron desde tareas técnicas hasta enseñanza completa Con el tiempo, esas academias pasaron de ser lugares de estudio individual a centros donde se formaban estudiantes de manera sistemática. Durante el final de la dinastía Tang y el periodo de las Cinco Dinastías, muchas escuelas oficiales dejaron de funcionar con normalidad. En ese contexto, las shuyuan ampliaron su actividad y empezaron a organizar clases regulares, evaluaciones internas y programas de estudio más definidos. Aun así, no entregaban títulos oficiales ni seguían una estructura de facultades como las universidades europeas. Esa diferencia explica por qué se las puede considerar antecedentes, pero no equivalentes directos. El origen público o privado de las academias sigue en discusión El debate sobre si las academias fueron primero públicas o privadas sigue abierto. Algunos indicios apuntan a que existían espacios de enseñanza antes de que el Estado utilizara el término shuyuan, pero los documentos muestran que la denominación se consolidó cuando las autoridades la adoptaron. A partir de ahí, el nombre se extendió también a centros que no dependían del gobierno. Esa evolución refleja cómo una misma forma de enseñanza podía adaptarse a distintos contextos sin perder su función principal, formar a personas capaces de leer, debatir y actuar dentro de la sociedad."
-  },
-  {
-    "titulo": "Beatriz y Eugenia de York asistirán al Royal Ascot de este año, tras su ausencia en la Pascua de Windsor",
-    "medio": "La Vanguardia",
-    "fecha": 1775062907.0,
-    "link": "https://www.lavanguardia.com/gente/20260401/11504357/beatriz-eugenia-york-asistiran-royal-ascot-ano-ausencia-pascua-windsor.html",
-    "resumen": "El rey Carlos III se habría encargado de invitarlas expresamente, distanciándose de las acciones de su padre"
-  },
-  {
-    "titulo": "Un muerto y varios heridos en Almería tras la explosión de una cafetería",
-    "medio": "El Español",
-    "fecha": 1775062830.0,
-    "link": "https://www.elespanol.com/espana/andalucia/20260401/muerto-varios-heridos-almeria-explosion-cafeteria/1003744193061_0.html",
-    "resumen": "Las primeras hipótesis apuntan como causa de la deflagración a una bombona de butano. Más información: Muere a los 82 años el 'Padre Coraje' tras una larga lucha por esclarecer la muerte de su hijo, todavía sin resolver"
   },
   {
     "titulo": "Dacia se ha visto obligada a dejar de ser Dacia. Solución: vendernos un no-coche por 6.000 euros",
@@ -546,32 +651,11 @@
     "resumen": "El incidente, presuntamente causado por gas, ha ocurrido en un establecimiento hostelero en las inmediaciones de la plaza de toros, registrándose una segunda deflagración en una cochera colindante Un fallecido y tres heridos es el saldo provisional de la deflagración ocurrida esta tarde en un establecimiento hostelero en las inmediaciones de la plaza de toros de Almería. Se trata de la cafetería La Posada, en la calle Conde de Villamonte, aunque también se ha producido una segunda explosión en la cochera colindante, ambas posiblemente causadas por gas, informa el Emergencias 112. Dos de los afectados han sido evacuados al Hospital Universitario Torrecárdenas, uno de ellos en estado grave por quemaduras y otro de carácter leve por inhalación de humo. El tercer herido ha sido trasladado al centro de salud de la plaza de toros, si bien por el momento se desconoce su patología. La gravedad del incidente ha movilizado un amplio operativo de seguridad. A la zona se han desplazado dotaciones de Bomberos, Policía Local, Policía Nacional y sanitarios del 061. Debido a la violencia de la deflagración, se ha requerido la presencia de especialistas del Tedax para asegurar la “zona cero”. Supervisando las tareas de rescate desde el lugar de los hechos se encuentra la concejala de Seguridad Ciudadana y Emergencias, María del Mar García Lorca."
   },
   {
-    "titulo": "Moncloa elige a Ángel Simón para presidir Indra tras dimitir Escribano",
-    "medio": "Expansión",
-    "fecha": 1775062813.0,
-    "link": "https://www.expansion.com/empresas/2026/04/01/69cd4f16e5fdea83388b4571.html",
-    "resumen": "El ex-CEO de CriteriaCaixa es el hombre elegido por Moncloa y Sepi para tomar las riendas de la compañía que tiene que liderar el sector de la Defensa en España. No tendrá funciones ejecutivas, a diferencia de su predecesor. Leer"
-  },
-  {
     "titulo": "Fin a la 'era Escribano' en Indra: catorce meses al frente sin salvar el \"conflicto de interés\" con su empresa familiar",
     "medio": "eldiario.es",
     "fecha": 1775062092.0,
     "link": "https://www.eldiario.es/economia/escribano-indra-catorce-meses-frente-salvar-conflicto-interes-empresa-familiar_1_13115765.html",
     "resumen": "Ángel Escribano llegó a la presidencia de Indra propuesto por la SEPI en enero de 2025. EM&E, su empresa familiar con la que el Gobierno quería fusionar a Indra para construir un campeón nacional, posee el 14,3% del capital de la tecnológicaÁngel Escribano dimite como presidente de Indra por su “desgaste personal”Indra y el ‘abrazo del oso’ de los Escribano: un pulso de poder que inquieta a la Moncloa Después de catorce meses en el cargo, el hasta ahora presidente de Indra Sistemas, Ángel Escribano, ha dimitido tras un consejo extraordinario de la compañía pese a sus reticencias iniciales y tras pedir la Sociedad Estatal de Participaciones Industriales (SEPI) que resolviera su conflicto de interés. La SEPI, la sociedad inversora del Estado, pidió que se solucionara el conflicto de interés existente en la operación que negociaban Indra y EM&E, empresa propiedad a partes iguales de Ángel Escribano y de su hermano Javier, también consejero dominical de Indra. Indra y EM&E se encontraban en conversaciones para una operación de fusión, con el objetivo último de crear un gran campeón nacional en el ámbito de la Defensa, en un momento de auge en las inversiones militares. Madrileño y nacido el 31 de julio de 1971, llegó en enero de 2025 a la presidencia de Indra en sustitución de Marc Murtra. Quienes le conocen le describen como un empresario cercano, campechano y, sobre todo, determinado. Sin formación universitaria, pero con conocimientos técnicos en procesos de mecanizado de alta precisión, Escribano cuenta con una trayectoria empresarial poco habitual. Su andadura comenzó en un pequeño taller familiar de mecanización de tornos en Coslada (Madrid), fundado por su padre, donde trabajaba junto a su hermano Javier. En 1989 cofundó Mecanizados Escribano, actualmente EM&E Group, empresa de la que ha sido presidente hasta 2025 y que es un referente en el sector de la defensa y la seguridad. Junto a su hermano, impulsó la transformación de este taller en un grupo con presencia nacional e internacional en el ámbito de la defensa. La compañía pasó de fabricar piezas mecánicas bajo especificación de terceros a diseñar, desarrollar y fabricar sistemas complejos, como estaciones de armas de control remoto, sistemas electroópticos y kits de munición guiada. El grupo cuenta con más de 1.300 empleados y una cifra de negocio superior a los 355 millones de euros, según datos de 2024. Relevó a Marc Murtra tras su salida a Telefónica Su empresa, EM&E, afloró un 3% de participación del capital en Indra en mayo de 2023; porcentaje que elevó al 8% en abril del año siguiente, y a 14,3% ese mismo año. En enero de 2025 fue elegido presidente de Indra tras la salida de José María Álvarez-Pallete de la Presidencia de Telefónica, después de que se lo pidieran los accionistas de referencia y fue sustituido por Marc Murtra, que entonces era presidente de Indra. Escribano, que relevó en el cargo a Marc Murtra, defendía entre sus allegados que no pensaba dimitir y que su situación no era equiparable a la de José María Álvarez-Pallete, ya que él era propietario del 14,3% a diferencia de Pallete que era un gestor. Su salida se produce en un momento clave para la compañía, en pleno refuerzo de su posición en el sector de defensa y después de incrementar el valor de la acción de la tecnológica en una estrategia que pasaba por fortalecer la compañía en el área de defensa y lanzarse a la fabricación de productos."
-  },
-  {
-    "titulo": "Ángel Escribano formaliza su dimisión como presidente de Indra y la Sepi propone a Ángel Simón para sucederle",
-    "medio": "El Español",
-    "fecha": 1775062085.0,
-    "link": "https://www.elespanol.com/invertia/empresas/20260401/escribano-dimite-presidente-indra-continuidad-no-puede-afectar-estabilidad-empresa/1003744192597_0.html",
-    "resumen": "El Gobierno consigue su objetivo sin el apoyo del consejo de administración, ni de los principales accionistas privados. Más información: El Gobierno baraja a Ángel Simón como presidente de Indra si fracasan las negociaciones con Escribano"
-  },
-  {
-    "titulo": "Parlem estanca ventas y recorta a la mitad el ebitda en 2025",
-    "medio": "Expansión",
-    "fecha": 1775062071.0,
-    "link": "https://www.expansion.com/catalunya/2026/04/01/69cd42a9468aebb5068b458f.html",
-    "resumen": "La operadora de telecomunicaciones admite que la fallida integración con Avatel le ha hecho desviarse del foco de su negocio en un entorno dominado por la intensificación de ofertas low cost y el incremento de los costes de adquisición de clientes. Leer"
   },
   {
     "titulo": "Escribano deja su cargo en Indra por \"responsabilidad\" y para no interferir en la estabilidad de la compañía",
@@ -581,13 +665,6 @@
     "resumen": "Ángel Escribano ha formalizado su renuncia a la presidencia de Indra mediante una carta remitida al consejo de administración de la compañía en la que justifica su decisión \"por responsabilidad\" y \"para no interferir en la estabilidad de la compañía\"."
   },
   {
-    "titulo": "Muere a los 82 años el 'Padre Coraje' tras una larga lucha por esclarecer la muerte de su hijo, todavía sin resolver",
-    "medio": "El Español",
-    "fecha": 1775061519.0,
-    "link": "https://www.elespanol.com/espana/andalucia/20260401/muere-anos-padre-coraje-larga-lucha-esclarecer-muerte-hijo-todavia-sin-resolver/1003744193001_0.html",
-    "resumen": "Francisco Holgado se ha convertido en el símbolo de las víctimas que reclaman justicia. Más información: El regreso del 'Padre Coraje': 11 huellas nuevas para encontrar al asesino de su hijo"
-  },
-  {
     "titulo": "Trump acude al Supremo para la vista sobre su orden que limita la ciudadanía por nacimiento",
     "medio": "Infolibre",
     "fecha": 1775061475.0,
@@ -595,25 +672,11 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, acudió este miércoles a la sesión de la Corte Suprema que debate la legalidad de su orden para limitar la ciudadanía por derecho de nacimiento, que el republicano quiere negar a hijos de padres indocumentados o con visados temporales.Esta es la primera vez que un mandatario estadounidense en ejercicio presencia argumentos orales ante el alto tribunal, que ya en junio de 2025 falló a favor de Trump y levantó los bloqueos en tribunales menores a la controvertida política.El presidente llegó unos diez minutos antes de que comenzara la vista y tomó asiento en la primera fila de la sección pública en la sala. Trump escuchó en silencio con las manos entrelazadas el inicio de la sesión, a corta distancia del atril donde el procurador general, John Sauer, defiende la posición de su Administración.\"Si el presidente Trump desea acudir a la Corte Suprema para ver cómo la ACLU le da una lección sobre el significado de la Constitución y la ciudadanía por derecho de nacimiento, estaremos encantados de sentarnos junto a él en ese mismo tribunal\", dijo Anthony D. Romero, de la Unión de Libertades Civiles Estadounidenses (ACLU).El director ejecutivo de la organización, que respalda la demanda contra Trump en el Supremo, indicó en un comunicado que \"cualquier intento de desviar la atención de la gravedad y la importancia de este caso no tendrá éxito\" y afirmó que el tribunal \"está a la altura de la tarea de interpretar y defender la Constitución, incluso bajo la atenta mirada de un presidente en ejercicio\".\"Este es uno de los casos más importantes de los últimos cien años\" de Estados Unidos, insistió Romero.Limitar la ciudadanía automática para hijos de migrantes irregulares fue una de las promesas de campaña del líder republicano, que regresó al poder hace más de un año con una recrudecida política antimigración.El presidente firmó la orden ejecutiva el mismo día en que asumió su segundo mandato en enero de 2025, aunque esta fue recurrida casi de inmediato en cortes de varios estados.La decisión del Supremo de escuchar argumentos en este caso significa la revisión de un derecho consagrado en la Enmienda 14 de la Constitución, que desde el siglo XIX garantiza la ciudadanía estadounidense a las personas nacidas en el territorio.Trump ha defendido su posición diciendo que esta legislación se aprobó tras la guerra civil (1861-1865) para proteger a los \"hijos de los esclavos\" y no para \"quienes se toman vacaciones para obtener la ciudadanía\" estadounidense.En junio pasado, la mayoría conservadora de la Corte (6-3) respaldó a Trump en su petición de levantar los bloqueos emitidos por jueces en Maryland, Washington y Massachusetts, quienes determinaron en decisiones separadas que el presidente no tiene la autoridad de cambiar o restringir la Constitución.Entonces, el Supremo no decidió sobre la constitucionalidad de la orden ejecutiva de Trump, sino sobre la jurisdicción de los juzgados menores y la legalidad en sus decisiones de bloquear a nivel nacional una orden del Ejecutivo.Expertos legales, defensores de los derechos humanos y detractores del mandatario han cuestionado esta limitación, porque señalan que la ciudadanía por nacimiento es un derecho constitucional que no puede ser derogado por una orden presidencial.Unos 255.000 niños al año podrían verse afectados si la Corte Suprema se pone de lado de Trump y reafirma las limitaciones a la ciudadanía por nacimiento, según un estudio del Migration Policy Institute.Aunque no asistieron a sesiones en el ejercicio de su cargo, varios presidentes han estado relacionados con el Supremo. Richard Nixon (1969-1974) defendió un caso ante la corte en 1967 entre su mandato como vicepresidente y presidente, mientras que William Howard Taft ejerció como jefe del tribunal tras su presidencia (1909-1913)."
   },
   {
-    "titulo": "Baleària invertirá 45 millones en modernizar la flota de Armas",
-    "medio": "Expansión",
-    "fecha": 1775061461.0,
-    "link": "https://www.expansion.com/valencia/2026/04/01/69cd2a92468aeb22468b457b.html",
-    "resumen": "Tras recibir el visto bueno de Competencia, la naviera se prepara para operar las rutas en Canarias y em el Estrecho. Leer"
-  },
-  {
     "titulo": "Cuatro esqueletos con clavos en Roma cambian la lectura de un entierro imperial y apuntan a un ritual contra los muertos",
     "medio": "eldiario.es",
     "fecha": 1775061283.0,
     "link": "https://www.eldiario.es/spin/cuatro-esqueletos-clavos-roma-cambian-lectura-entierro-imperial-apuntan-ritual-muertos-pm_1_13115158.html",
     "resumen": "Papel protector - La misma intervención se repite en distintos enterramientos, lo que sugiere que varias personas siguieron una creencia común para evitar que los fallecidos salieran de la tumbaCuando Roma impulsó la vida urbana en Britania apareció un problema muy serio: una población al borde de la muerte Los relatos sobre cuerpos que vuelven a levantarse no nacieron hace pocos años, aunque hoy parezca lo contrario. La idea de los zombis como figuras reconocibles apareció en tiempos recientes, con raíces en tradiciones caribeñas ligadas a Haití, donde se hablaba de personas sometidas mediante rituales, y más tarde se transformó en un fenómeno cultural difundido por el cine y la literatura del siglo XX. Esa imagen actual describe cadáveres que caminan y atacan, pero no coincide con lo que otras sociedades antiguas imaginaban. En Roma no existía ese tipo de figura, aunque sí había un temor muy claro a que algunos muertos no permanecieran en su tumba y regresaran a molestar a los vivos. Un hallazgo en Ostiense muestra entierros con hierro en los cuerpos Cuatro esqueletos hallados en una necrópolis de la zona de Ostiense, a las afueras de la antigua Roma, muestran clavos colocados en sus cuerpos como parte de un ritual para impedir ese regreso. Los enterramientos datan de hace unos 1.800 años y presentan una intervención que no responde a una construcción funeraria normal. Los clavos aparecen insertados o situados sobre partes del cuerpo, lo que indica una acción deliberada. El hallazgo, recogido en excavaciones recientes, describe un procedimiento dirigido a fijar al difunto dentro de la tumba y evitar cualquier movimiento posterior. Se pensaba que algunas personas podían volver si su despedida no se hacía bien o si murieron de forma violenta, y entonces traían enfermedad o conflictos a la comunidad En varios de esos cuerpos, los clavos se colocaron en zonas concretas. En uno de los individuos, el hierro atravesaba el pecho a la altura del corazón. En otros casos, los objetos estaban junto al torso o el abdomen, lo que sugiere que se clavaron en tejidos blandos que no se han conservado. La posición repetida en distintos enterramientos indica que no fue un gesto aislado. Alguien ejecutó ese acto siguiendo una intención clara, con la idea de inmovilizar al difunto dentro del espacio funerario. Las creencias explican que ese gesto buscaba frenar posibles regresos Ese gesto tiene sentido dentro de las creencias romanas sobre los llamados muertos inquietos. Se pensaba que algunas personas podían regresar si su entierro no se realizaba de forma correcta o si habían muerto en circunstancias violentas. Esos retornos no se entendían como apariciones neutras. Se asociaban a enfermedades, desgracias o conflictos dentro de la comunidad. Por eso, el uso de clavos se interpreta como una medida preventiva. Al fijar el cuerpo, se buscaba impedir cualquier intento de levantarse o desplazarse. El lugar donde aparecieron estos restos ayuda a entender el contexto. La necrópolis de Ostiense se situaba junto a una vía importante que conectaba la ciudad con su puerto. En ese espacio convivían tumbas de distintos niveles sociales, desde construcciones elaboradas hasta enterramientos sencillos en tierra. Las excavaciones han documentado prácticas funerarias variadas, pero estos cuatro casos destacan porque introducen un elemento que no aparece en la mayoría de las sepulturas. El uso del hierro aparece también en otros ritos con intención protectora El uso del clavo no se limitaba a los enterramientos. En la sociedad romana tenía presencia en rituales religiosos y en acciones con intención protectora. En la ceremonia conocida como clavum figendi, se introducía un gran clavo en un templo para cerrar un ciclo temporal. También existían creencias que atribuían al hierro efectos sobre la salud o la protección frente a epidemias. En otro ámbito, las tablillas de maldición se perforaban con clavos para fijar una invocación contra alguien. En todos esos casos, el objeto se utilizaba para fijar, sellar o bloquear algo que no se podía controlar de otra manera. La comunidad gestionaba el miedo con rituales aplicados a ciertos cuerpos La identidad de los individuos enterrados con clavos sigue sin aclararse. Los restos no permiten establecer con certeza quiénes eran. En otros yacimientos, prácticas similares se han asociado a personas consideradas peligrosas, como criminales o individuos que murieron en circunstancias fuera de lo común. En este caso no hay pruebas que confirmen esa idea. También cabe la posibilidad de que el miedo no respondiera a hechos concretos, sino a la percepción de quienes organizaron el entierro. Ese conjunto de prácticas muestra una relación compleja con la muerte. Los romanos rendían culto a sus antepasados y mantenían rituales para honrarlos, pero al mismo tiempo aplicaban medidas para evitar problemas con ciertos difuntos. La presencia de clavos en estas tumbas no describe una historia de violencia, sino un intento de gestionar un miedo muy concreto. El enterramiento no cerraba siempre la historia de una persona, y algunos buscaban asegurarse de que esa historia no continuara fuera de la tumba."
-  },
-  {
-    "titulo": "Juanma Moreno: \"Cada Miércoles Santo me reencuentro con una tradición; tengo mucha ilusión\"",
-    "medio": "El Español",
-    "fecha": 1775061199.0,
-    "link": "https://www.elespanol.com/malaga/cultura/cofradias/20260401/juanma-moreno-miercoles-santo-reencuentro-tradicion-mucha-ilusion/1003744192920_0.html",
-    "resumen": "El presidente de la Junta de Andalucía vuelve a convertirse un año más en hombre de trono del Señor de la Exaltación, de las Reales Cofradías Fusionadas. Más información: Juanma Moreno vuelve a los varales del Señor de la Exaltación de Fusionadas: \"Quiero darle el relevo a mi hijo\""
   },
   {
     "titulo": "El Gobierno propone que Ángel Simón sea el nuevo presidente de Indra en sustitución de Escribano, que dimite por su “desgaste personal”",
@@ -635,13 +698,6 @@
     "fecha": 1775060754.0,
     "link": "https://www.europapress.es/andalucia/noticia-podemos-apuesta-candidatura-unitaria-andalucia-81-apoyo-consulta-casi-6000-inscritos-20260401182554.html",
     "resumen": "Las bases de Podemos Andalucía han votado a favor de la construcción de una candidatura lo \"más amplia y unitaria posible\" de cara a las elecciones andaluzas del próximo 17 de mayo en la consulta realizada por el partido de forma exprés, en un plazo de 24 horas, entre este pasado martes y este miércoles. En total han participado 5.710 personas, de las que 4.648 (81,4%) han manifestado su respaldo a esta opción."
-  },
-  {
-    "titulo": "Las bases de Podemos apoyan ir a las elecciones andaluzas con Por Andalucía",
-    "medio": "El Español",
-    "fecha": 1775060195.0,
-    "link": "https://www.elespanol.com/espana/andalucia/20260401/bases-podemos-apoyan-ir-elecciones-andaluzas-andalucia/1003744192837_0.html",
-    "resumen": "Tras el 'sí' del 81 por ciento de los militantes, los morados formarán parte de la candidatura liderada por Antonio Maíllo. Más información: Podemos está dispuesto a concurrir en Por Andalucía a las elecciones \"sin condiciones\", pero con \"un acuerdo previo\""
   },
   {
     "titulo": "Anthropic filtró por error el código de Claude Code y ahora no puede borrarlo de internet",
@@ -721,13 +777,6 @@
     "resumen": "Hoy es 1 de abril de 2026. Apple cumple 50 años. Medio siglo desde que Jobs, Wozniak y Wayne firmaron el acuerdo que lo empezó todo en un garaje de Los Altos, California. Y la compañía ha decidido celebrarlo a lo grande, pero no solo hacia fuera. También por dentro. La celebración lleva semanas cocinándose: conciertos en Apple Store, la carta de Tim Cook, eventos Today at Apple en varias ciudades. Pero hoy, el día del aniversario, Apple ha sacado toda la artillería a la vez. Tocar la campana de la bolsa. Un vídeo especial en su web, varios regalos para empleados y un concierto que tiene más historia detrás de lo que parece a primera vista. Hay cosas para el mundo y hay cosas solo para los suyos. Y las segundas, inevitablemente, son las que más envidia dan. La web de Apple que merece que la abras ahora mismoSi todavía no has entrado en apple.es hoy, hazlo. La página de inicio estrena una animación especial que repasa los productos más icónicos de la compañía con ese estilo de ilustración a mano que Apple ha usado para todo el aniversario: el Mac original, el iMac, el iPod, el iPhone 17 Pro, el Vision Pro. Cincuenta años resumidos en unos pocos segundos, con ese trazo arcoíris que lo conecta todo. Debajo, la frase elegida como lema de la celebración: \"50 Years of Thinking Different\". Tim Cook, el Nasdaq y un discurso que no sonó a corporativoEsta mañana, Tim Cook ha tocado la campana de apertura del Nasdaq desde Apple Park, rodeado de todo el equipo directivo (Ternus, O'Brien, Joswiak, Eddy Cue) y una multitud de empleados. Para la ocasión, la ceremonia se ha celebrado de forma remota desde Cupertino en lugar del habitual escenario de Times Square. Un detalle que dice bastante: hoy el centro era Apple Park, no Wall Street. Lo mejor ha sido el discurso. Tim Cook habló de un garaje, de sueños, de usuarios que han \"lanzado pequeños negocios, transformado industrias, avanzado ciencia que salva vidas y hecho arte que nos ha emocionado\". Para ser un acto financiero, salió bastante bien. Poco después, Tim Cook publicó en X un vídeo de 29 segundos que es exactamente lo que parece: un rewind de 50 productos en medio siglo. El iPod Shuffle, el iPhone original, el MacBook Air de sobre, el Apple Watch, el Vision Pro, el MacBook Neo... Vídeo | @tim_cook La camiseta que ningún fan podrá comprar en una Apple Store Y luego está lo que Apple ha preparado puertas adentro. Los empleados están recibiendo estos días un pack de edición limitada que cualquier fanboy daría lo que fuera por tener: Una camiseta conmemorativaUn pin esmaltadoUn póster Los tres con el logo arcoíris dibujado a mano y el mensaje \"1976-2026, 50 Years of Apple\". Ya circulan fotos en X y nos ponen los dientes bien largos. Desde Applesfera llevamos semanas pidiendo que algo así llegara a las Apple Store, porque habría volado. Pero Apple es Apple. Eso sí, igual en unos días vemos aparecer en eBay algunos de estos productos. Imagen | @L0vetodream Imagen | @ClassicII_MrMac Imagen | @ClassicII_MrMac El concierto más icónico irónico de los últimos cincuenta añosPero si hay un elemento de esta celebración que trasciende lo anecdótico, ese es el concierto privado que Paul McCartney ha ofrecido esta noche en Apple Park, exclusivamente para los empleados. Otro regalo hacia dentro. Y aquí es donde la cosa se pone buena de verdad. Durante casi treinta años, McCartney y los Beatles (a través de Apple Corps, la discográfica que el grupo fundó en 1968) fueron el mayor dolor de cabeza legal de Apple. @laurarojas911 Very nice 😊 #paulmccartney McCartney at Apple Park #apple #fyp ♬ original sound - Laura Rojas El conflicto arrancó en 1978 y no se cerró hasta 2007, con un acuerdo que se estima costó a Cupertino alrededor de 500 millones de dólares. El simple hecho de que iTunes existiera fue durante años motivo de demanda judicial. Dos empresas con el mismo nombre peleando durante tres décadas por quién tenía derecho a usarlo. Y ahora, en el aniversario más redondo de la compañía, uno de los \"Fab Four\" sube al escenario del campus que Apple construyó como símbolo de todo lo que quiere ser. La historia, a veces, tiene un sentido del humor impecable. Hasta Jobs lo hubiera reconocido. En Applesfera | Los 11 libros que enseñaron a Steve Jobs a liderar y convertir a Apple en la empresa que es hoy En Applesfera | Nuevo iPhone plegable - Todo lo que creemos saber sobre él - La noticia Hoy es el 50 aniversario de Apple y sus empleados reciben unos objetos de edición limitada que los más fanboys darían lo que fuera por tener fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Reino Unido, Francia, Alemania y otros 32 países se reunirán para decidir cómo reabrir Ormuz: España, ausente",
-    "medio": "El Español",
-    "fecha": 1775053098.0,
-    "link": "https://www.elespanol.com/mundo/20260401/reino-unido-francia-alemania-paises-reunen-decidir-reabrir-ormuz-espana-no-presente/1003744192713_0.html",
-    "resumen": "Starmer ha anunciado una cumbre virtual de los 35 este jueves para estudiar \"medidas diplomáticas y políticas\" que contribuyan a su reapertura.Más información: Keir Starmer reclama a los europeos estar \"listos para luchar si es necesario\": \"Esa es la moneda de estos tiempos\""
-  },
-  {
     "titulo": "Capitalism Had a Beginning and Will Someday End",
     "medio": "Jacobin ES",
     "fecha": 1775052696.0,
@@ -805,6 +854,13 @@
     "resumen": "Hace 20 años, un servidor empezaba sus estudios en la Universidad, la Selección Española de Fútbol no había ganado ni el Mundial ni las dos Eurocopas consecutivas, la crisis económica era una pequeña amenaza y la pandemia del covid-19 era algo únicamente visto en películas de ciencia ficción. Y hace exactamente 20 años, una casi […] Seguir leyendo: Álvaro Uriarte, VP Consumer Electronics en Samsung: “Llevamos liderando 20 años el mercado de los televisores, no nos asusta la competencia.”"
   },
   {
+    "titulo": "Ángel Escribano dimite como presidente de Indra y la SEPI propone a Ángel Simón como sustituto",
+    "medio": "Infolibre",
+    "fecha": 1775045520.0,
+    "link": "https://www.infolibre.es/economia/escribano-preve-dimitir-tarde-presidente-indra-consejo-extraordinario_1_2171574.html",
+    "resumen": "El presidente de Indra, Ángel Escribano ha dimitido como presidente de Indra, en el Consejo de Administración que se ha celebrado este miércoles pese a que había anunciado a su entorno que no tenía previsto renunciar al cargo y después semanas de especulaciones sobre su posible salida.En sustitución, la Sociedad Estatal de Participaciones Industriales (SEPI), ha propuesto a Ángel Simón, un empresario de larga trayectoria y que ocupó el puesto de consejero delegado de Criteria Caixa. En una carta que ha mandado a la CNMV este miércoles, Escribano se ha referido a los \"acontecimientos de las últimas semanas\", que le han generado un \"desgaste personal\" y una amenaza para los objetivos que considera \"esenciales para el futuro de Indra y del sector\".\"No puedo permitir que mi continuidad pueda interferir en la estabilidad de la compañía, en sus profesionales y en la confianza de sus inversores\", ha apuntado el ya expresidente de Indra, que ha afirmado que, con esta renuncia, antepone el interés de la empresa al suyo propio.El ya expresidente de Indra ha asegurado, en su carta, que siempre ha actuado desde la \"lealtad\", el \"trabajo constante\" y el \"compromiso personal\", plenamente convencido de la relevancia estratégica de Indra y de su papel esencial para situar al sector de la Defensa española en el lugar que le corresponde.Además, ha agradecido \"sinceramente\" el apoyo que ha recibido del Consejo de Administración.Indra ha puesto en marcha el proceso de sucesión en el cargo de presidente, según ha anunciado la tecnológica a la Comisión Nacional del Mercado de Valores (CNMV).El Consejo de Administración ha dejado constancia de la valiosa contribución y liderazgo de Escribano durante su etapa como presidente ejecutivo.La dimisión, se produce después de que los hermanos Ángel y Javier Escribano, propietarios de EM&E, renunciaran a la operación que se estaba negociando entre esta empresa e Indra y después de que la sociedad Estatal de Participaciones Industriales (SEPI) les reclamara subsanar el conflicto de interés que existía en el proceso.Tras esta petición, el presidente de EM&E envió una carta a los consejeros de Indra anunciándoles que renunciaban a la operación con Indra y el Consejo de Administración de Indra dio por finalizado el análisis que se realizaba a la operación.El posible relevo del presidente de la compañía sobrevolaba antes del consejo de administración que se celebró el pasado 25 de marzo, de carácter ordinario, tras el cual se mantuvo en el cargo.El 25 de marzo se celebraron dos consejos de administración, uno extraordinario, convocado para cerrar los flecos de la operación con EM&E, tras la carta de renuncia a la operación con Indra enviada por Javier Escribano a los miembros del Consejo, y otro ordinario, en el que no figuraba en el orden del día la renuncia del presidente, pero en el que podía ser que se planteara el asunto.Al finalizar los consejos, no trascendió información alguna salvo que habían sido tensos y que Escribano no había sido relevado. Indra no informó a la Comisión Nacional del Mercado de Valores (CNMV) de asunto alguno. Antes de comenzar el consejo, ya se conocía que SEPI no tenía previsto pedir su relevo.Escribano tiene más de un 14% de Indra, mientras que la SEPI es el principal accionista con cerca del 30%. Como tercer accionista figura el fondo Amber, fundado por Joseph Oughourlian -presidente de Prisa-, y en cuarto por Sapa Placencia.Hace poco más de diez días, Ángel Escribano dijo a su entorno que no tenía intención de abandonar el cargo que ocupa en la multinacional española, ya que consideraba que contaba con el respaldo en ese momento del consejo de administración de la compañía y de la junta, según informaron a EFE fuentes conocedoras de la situación.Escribano opinaba además, según las fuentes, que su situación era distinta a la del presidente de Telefónica, José María Álvarez-Pallete, que fue relevado en el cargo en enero de 2025, después de que la SEPI le retirara el apoyo, ya que considera que él es el segundo accionista de referencia.En el Consejo de Administración de Indra están sentados 15 consejeros, Ángel Escribano y el consejero delegado, José Vicente de los Mozos; un representante de EM&E, Javier Escribano; otro de Amber, Pablo Jiménez de Parga; uno de la empresa de defensa vasca Sapa, Jokin Aperribay; y tres de SEPI, Antonio Cuevas, Juan Moscoso y Miguel Sebastián.A estos se suman siete independientes: Bernardo Villazán, Josep Oriol, Eva María Fernández, Aránzazu Díaz Lladó, Teresa Busto, Belén Amitrain y Virginia Arce."
+  },
+  {
     "titulo": "Cómo visitar gratis la mejor ruta de Sevilla y Cádiz: los 30 túneles con 0% emisiones",
     "medio": "Moncloa.com",
     "fecha": 1775045400.0,
@@ -854,20 +910,6 @@
     "resumen": "Hace más de cincuenta años que ningún ser humano ha viajado a la Luna, y eso está a punto de cambiar. Esta noche, la del miércoles 1 al jueves 2 a las 00:24 horas (hora de Madrid), la misión Artemis II hará en el viaje más largo que ha hecho nadie en décadas: diez días rodeando la Luna y volviendo a casa, el primer paso para que los astronautas vuelvan a pisarla con el siguiente Artemis III. El lanzamiento se podrá seguir en directo desde el canal de YouTube de la NASA, como siempre. Cualquiera podremos verlo desde el sofá. Pero hay una diferencia enorme entre ver un cohete despegar en una pantalla y estar a pocos metros de él cuando arranca, y esa diferencia es exactamente lo que la empresa Cosmic Perspective va a capturar para Apple. Se ha plantado en el Kennedy Space Center con una cámara colocada apuntando directamente a los motores del cohete. La imagen ya dice mucho: una Blackmagic a pocos metros del cohete, con el Artemis II al fondo, la misma cámara con la que se graba Apple Immersive Video para Vision Pro. Lista para aguantar lo que sea que pase ahí abajo cuando todo esto arranque. Cosmic Perspective lo ha confirmado en X: están capturando Apple Immersive Video para Vision Pro, y el resultado va a ser material que difícilmente va a tener competencia en el catálogo inmersivo de Apple en mucho tiempo. La misión más ambiciosa desde el Apollo Para entender la importancia de esta misión, hay que dimensionar bien lo que está a punto de ocurrir. La Tierra tiene un escudo invisible que nos protege de la radiación del sol y del espacio: la magnetosfera. Ningún astronauta ha salido de ahí desde el programa Apollo, hace más de cincuenta años. Reid Wiseman, Victor Glover, Christina Koch y al canadiense Jeremy Hansen van a cruzarla, alejarse más de 400.000 kilómetros de casa, rodear la Luna y volver. Son los primeros humanos en hacer algo así desde la generación que vio el Apollo en blanco y negro por la televisión. Artemis II no tiene alunizaje, pero sin ella no hay Artemis III, que es la misión en la que alguien vuelve a pisar la Luna. Esto es el ensayo general y se está grabando con la mejor cámara inmersiva del mundo y en exclusiva para Apple Vision Pro. Ruta del Artemis II Una cámara colocada donde ninguna había estado antes Cosmic Perspective no es una productora cualquiera que ha conseguido una acreditación de prensa y se ha puesto a grabar desde las gradas. Llevan años especializándose en llevar lanzamientos espaciales a formatos inmersivos, con vídeo 3D, audio espacial estéreo y la obsesión de poner al espectador dentro de la experiencia en lugar de simplemente mostrársela desde fuera. El Artemis II era la oportunidad más grande que podían imaginar, y han conseguido lo que han conseguido: una cámara colocada dentro del perímetro de seguridad, a pocos metros del cohete. Todo eso grabado en el formato más exigente que existe ahora mismo para este tipo de contenido: Apple Immersive Video. La cámara que han colocado es la Blackmagic URSA Cine Immersive, desarrollada junto a Apple específicamente para capturar contenido para Vision Pro. Graba en 8K y tiene dos objetivos separados a la distancia aproximada del ojo humano. Esa separación es exactamente lo que permite al visor reproducir profundidad. No es un efecto, no es postproducción, es todo grabado en el momento y lo que hace que lo que ves en Vision Pro tenga esa sensación de que si estiras el brazo podrías tocarlo. Apple no ha dicho nada públicamente, que es exactamente lo que suele hacer: ningún anuncio previo, ningún comunicado. Seguramente, un día aparecerá el contenido disponible en Apple Immersive Video con una nota de prensa. Cosmic Perspective además tiene en camino su propia app Rocket Launch VR para Vision Pro, así que el material podría llegar a través de Apple, a través de su app, o de las dos maneras. Lo que está claro es que el material se va a grabar de una forma única, y que la experiencia de verlo en Vision Pro va a ser lo más cerca que alguien puede estar de un cohete espacial sin salir de casa. En Applesfera | Nuevas gafas de Apple - Todo lo que creemos saber sobre ellas En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo - La noticia La vuelta a la Luna de la NASA arranca esta noche. El único \"invitado\" a pie del Artemis II es una cámara para Apple de 25.000 euros fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Viajes de Semana Santa: el truco de la velocidad para que tu depósito dure mucho más tiempo",
-    "medio": "Moncloa.com",
-    "fecha": 1775041200.0,
-    "link": "https://www.moncloa.com/2026/04/01/viajes-combustible-ahorro-3368772/",
-    "resumen": "¿Realmente crees que llegar quince minutos antes a tu destino justifica pagar un sobrecoste del veinte por ciento en tus viajes actuales? La física nos dice que la mayoría de los conductores españoles están tirando billetes por el tubo de escape simplemente por no entender cómo el aire frena su coche de forma violenta. El […] La entrada Viajes de Semana Santa: el truco de la velocidad para que tu depósito dure mucho más tiempo aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Sky Seats del Mutua Madrid Open: experiencia premium gastronómica y visitas exclusivas a la pista central",
-    "medio": "Moncloa.com",
-    "fecha": 1775040607.0,
-    "link": "https://www.moncloa.com/2026/04/01/sky-seats-mutua-madrid-open-experiencia-3368946/",
-    "resumen": "El Mutua Madrid Open refuerza su propuesta con el lanzamiento de los renovados Sky Seats, una experiencia premium diseñada para disfrutar del torneo desde una perspectiva única. Este producto combina asientos en la pista central con acceso exclusivo al Sky Seats Lounge, un espacio completamente rediseñado que destaca por su cuidada oferta gastronómica, una estética […] La entrada Sky Seats del Mutua Madrid Open: experiencia premium gastronómica y visitas exclusivas a la pista central aparece primero en Moncloa."
-  },
-  {
     "titulo": "Si tienes un Apple Watch, atento a este accesorio en El Corte Inglés: una base de carga de un único módulo rebajada un 57%",
     "medio": "Applesfera",
     "fecha": 1775039424.0,
@@ -875,25 +917,11 @@
     "resumen": "Por lo general, las bases de carga que más solemos ver de oferta en tiendas como Amazon son las que incluyen un módulo para el iPhone o dos o tres para unos AirPods y un Apple Watch. Pero hay excepciones como la de El Corte Inglés, que ahora mismo ha bajado un 57% la base de carga Belkin para los relojes de Apple. Su precio ha bajado hasta los 29,99 euros desde los 69,99 euros habituales. Una base de carga con gestor de cables Esta base de carga Belkin destaca principalmente por su formato, ya que hablamos de un accesorio plano y bastante compacto, lo que permite utilizarlo en casa o llevarlo de viaje de forma muy cómoda. Cabe mencionar que incorpora un único módulo de carga para un Apple Watch, por lo que no es un modelo 2 en 1 o 3 en 1. El módulo de carga se puede desplegar para poder elegir si queremos cargar el Apple Watch en horizontal o en vertical. Además, si valoras el tenerlo todo bien ordenador, esta base de carga viene con un cable USB-C con función de gestión de cable (básicamente permite enrollarlo para que no quede suelto). ¿Quieres cargar también un iPhone y unos AirPods? En la misma tienda de El Corte Inglés podemos encontrar otra oferta, en este caso en la base de carga Belkin 3 en 1. Incorpora tres módulos para un móvil, un reloj y unos auriculares de Apple. Su precio, eso sí, es más elevado al alcanzar los 69,99 euros en lugar de los habituales 119,99 euros. ⚡ EN RESUMEN: oferta de la base de carga belkin para apple watch hoy ✅ LO MEJORSu formato, ya que permite que lo podamos tener en la mesita de noche sin que ocupe demasiado espacio.Su inclinación para que se pueda colocar el Apple Watch en horizontal o en vertical.Su sistema de gestión de cables para tenerlo todo mucho más ordenado. ❌ LO PEORNo incluye adaptador, por lo que tendrás que comprar uno o utilizar alguno que tengas en casa. 💡 CÓMPRALO SI... Quieres cargar el Apple Watch con una base de carga que sea eficiente pero que no sea muy cara. ⛔ NO LO COMPRES SI... Prefieres utilizar el cable para cargarlo porque es más cómodo de transportar. En Compradicción Esta semana ha llegado a Lidl la hidrolimpiadora con todos los accesorios y sin ruidos por menos de 55 euros También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Belkin En Applesfera | Los mejores Apple Watch para comprar. Todos los relojes inteligentes del catálogo de Apple y sus características En Applesfera | Las correas más curiosas y que más nos han gustado para tu Apple Watch - La noticia Si tienes un Apple Watch, atento a este accesorio en El Corte Inglés: una base de carga de un único módulo rebajada un 57% fue publicada originalmente en Applesfera por Alberto García ."
   },
   {
-    "titulo": "Semana Santa en casa: 5 series españolas que no te despegarán del sofá",
-    "medio": "Moncloa.com",
-    "fecha": 1775039400.0,
-    "link": "https://www.moncloa.com/2026/04/01/semana-santa-series-espanolas-3368732/",
-    "resumen": "Iniciamos abril con la Semana Santa, un momento de recogimiento y muchas veces, la transmisión en estos días no suele ser del gusto de todos los televidentes. Por eso, he recopilado algunas series españolas y de talla internacional que seguro no te dejarán despegarte de la pantalla. Estas alternativas tienen todo para entretener cuando deseas […] La entrada Semana Santa en casa: 5 series españolas que no te despegarán del sofá aparece primero en Moncloa."
-  },
-  {
     "titulo": "Canada Is Redefining Who Can Seek Asylum",
     "medio": "Jacobin ES",
     "fecha": 1775039285.0,
     "link": "https://jacobin.com/2026/04/canada-asylum-law-us-deportation/",
     "resumen": "Hidden on the eighth floor of a white-gray building, with a massive “For Rent” sign above the door, is Welcome Collective, one of Montreal’s many clinics dedicated to supporting the thousands of refugee claimants who call the city home. It is also where Sara, a mother of three originally from Morocco, sought help after the […]"
-  },
-  {
-    "titulo": "Así es la casa de Nicolás Coronado en Toledo: 800 metros de jardín, yoga y una granja",
-    "medio": "Moncloa.com",
-    "fecha": 1775038500.0,
-    "link": "https://www.moncloa.com/2026/04/01/nicolas-coronado-casa-toledo-3368790/",
-    "resumen": "¿Cuántos hijos de famosos acaban construyendo algo propio de verdad? Nicolás Coronado no se conformó con heredar un apellido de peso en el cine español ni con aparecer en programas de televisión. Tomó una decisión radical: instalarse en el campo, en plena provincia de Toledo, y dar forma a un proyecto de vida que tiene […] La entrada Así es la casa de Nicolás Coronado en Toledo: 800 metros de jardín, yoga y una granja aparece primero en Moncloa."
   },
   {
     "titulo": "Apple cumple 50 años durante los que, de estar a punto de desaparecer tras su éxito inicial, ha pasado a ser una de las empresas más valiosas de mundo",
@@ -1020,13 +1048,6 @@
     "fecha": 1774937476.0,
     "link": "https://yorokobu.es/pablo-erroz/",
     "resumen": "La Mercedes-Benz Fashion Week Madrid es un escenario donde el glamour se respira en cada pasillo. Volúmenes imposibles, tejidos que parecen obras de arte, modelos que desfilan como esculturas vivientes… Pero este año ocurrió algo inesperado. Desfilaron perros. Sí, perros. No como adorables accesorios para la foto, sino como protagonistas de un mensaje incómodo: hay miles de animales esperando un hogar y alguien decidió meterlos en la pasarela para que no se olvide. El diseñador Pablo Erroz, acompañado por Kiwoko, presentó The Residence, su colección para 2026, incluyendo por primera vez arneses, collares, correas y dispensadores de bolsas para perros. La entrada Pablo Erroz y la moda con mensaje: cuando los perros conquistan la pasarela se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "La empresa china CAS Space estrena con éxito el cohete Kinetica 2, también conocido como Cohete poderoso 2",
-    "medio": "Microsiervos",
-    "fecha": 1774897200.0,
-    "link": "https://www.microsiervos.com/archivo/espacio/la-empresa-china-cas-space-estrena-con-exito-el-cohete-kinetica-2-tambien-conocido-como-cohete-poderoso-2.html",
-    "resumen": "La empresa china CAS Space ha lanzado hoy con éxito su primer cohete Kinetica 2. El Kinetica 2, también conocido como Lijian-2, que viene a querer decir Cohete poderoso 2, es un cohete de dos etapas de 53 metros de altura con un diámetro de 3,32 metros, aunque la cofia protectora llega hasta los 4,2 metros. Sus motores funcionan con oxígeno líquido y keroseno. Su capacidad a órbita baja terrestre (LEO) es de 12 toneladas, mientras que llega a las 7,8 para un lanzamiento a una órbita sincrónica al Sol de 500 kilómetros en su configuración con dos propulsores laterales. El primer Kinetica 2 bajo las estrellas, listo para volar hacia ellas – CAS Space Aunque según las necesidades de la misión puede volar con ninguno, en cuyo caso su capacidad a LEO es de dos toneladas, o con cuatro, con lo que llega a las 20 toneladas. Una de las características que destaca el fabricante es que dado que tanto el cuerpo central como los propulsores laterales tienen el mismo diámetro eso permite que los depósitos, las secciones intermedias y otros componentes sean totalmente intercambiables. Un poco –o un mucho– al estilo del Falcon Heavy, sí. Aunque a escala algo más modesta. Salvo que, a diferencia del cohete de SpaceX, en el Kinetica 2 el núcleo central y los propulsores laterales vuelven juntos a tierra. La empresa espera empezar a reutilizarlos a partir del año que viene. En este primer lanzamiento llevaba a bordo el prototipo de la nave de carga Qingzhou, que en el futuro dará servicio a la la Estación Espacial China (CSS). También iban a bordo los satélites Xinzhengcheng-01 y Tianshi-01, de los que se sabe poco más que llevaban diversas demostraciones tecnológicas como cargas útiles. Una vez que entre en servicio la nave de carga Qingzhou podrá llevar hasta 1.800 kilos de carga a la CSS en un espacio interior de 27 metros cúbicos. La nave también podrá llevarse hasta 2.900 kilos de material de desecho o ya no necesario a bordo de la estación espacial para que se desintegre en la atmósfera en una reentrada controlada al final de la misión. # Enlace Permanente"
   },
   {
     "titulo": "Practica el ‘mindfulness’: mira un cuadro",
