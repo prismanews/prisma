@@ -1,5 +1,236 @@
 [
   {
+    "titulo": "Un curioso ajedrez 1-D",
+    "medio": "Microsiervos",
+    "fecha": 1775865479.0,
+    "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/un-curioso-ajedrez-1-d.html",
+    "resumen": "Si simplemente oyes «ajedrez de una dimensión» la cosa parece imposible, pero si luego ves el tablero el juego se antoja un poco más plausible. El caso es que el 1-D Chess de Rowan Monk, inspirado por una descripción que hizo Martin Gardner en su legendaria columna Juegos matemáticos del Scientific American en 1980, es de todo menos trivial. Al rey lo acompañan una torre y un caballo, porque la simplificación no da para mucho más. Las reglas son las mismas que en el ajedrez convencional, excepto que el caballo mueve saltando una casilla y aterrizando en la siguiente. Empiezan las blancas y se juega contra el ordenador. Si empiezas a jugar casi seguro que acabas la partida en tablas, porque con tan pocas piezas no hay muchas opciones: la torre mueve o captura y el caballo salta. El ansiaviva te llevará a capturar y si no calculas bien… ¡rey ahogado! Esa regla del ajedrez (un tanto criticada por algunos, que la consideran injusta) dice que si el rey enemigo no está en jaque pero tampoco puede mover, la partida acaba en tablas. Así que probablemente empezarás a hacer movimientos de tanteo, adelante y atrás. Pero si te excedes… tablas por repetición, que es otra regla que dice que si se produce tres veces la misma configuración en el tablero, el juego finaliza en tablas. Naturalmente, si solo quedan los dos reyes en el tablero, el resultado también son tablas. Así que, entre unas cosas y otras, yo todavía no he conseguido ganar ni una vez. O no he probado opciones suficientes o es que en una versión tan simplificada del juego es imposible contra una estrategia medianamente decente del ordenador. Relacionado: Varios diseños de ajedrez unidimensional sorprendentemente curiosos Variantes geométricamente interesantes de ajedrez: tableros con forma de esfera, toroide, cinta de Möbius… y otras con reglas inventadas Avances en ajedrez tridimensional # Enlace Permanente"
+  },
+  {
+    "titulo": "Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",
+    "medio": "El País",
+    "fecha": 1775862175.0,
+    "link": "https://elpais.com/ciencia/2026-04-10/ultima-hora-del-regreso-de-la-mision-artemis-ii-de-la-nasa-desde-la-luna-a-la-tierra-en-directo.html",
+    "resumen": "La nave Orion ya ha completado la última maniobra antes de iniciar la reentrada tras nueve días de misión a la Luna | En el descenso, de apenas 13 minutos, la cápsula de la tripulación superará los 40.000 kilómetros por hora y temperaturas por encima de los 2.500 grados"
+  },
+  {
+    "titulo": "El Gobierno celebra el \"aval\" del Consejo de Estado a la regularización extraordinaria",
+    "medio": "El Mundo",
+    "fecha": 1775860887.0,
+    "link": "https://www.elmundo.es/espana/2026/04/11/69d97a0cfc6c83aa038b4594.html",
+    "resumen": "El órgano consultivo ha emitido este viernes el dictamen sobre el Real Decreto y el Ministerio de Elma Saiz lo llevará al Consejo de Ministros \"lo antes posible\" Leer"
+  },
+  {
+    "titulo": "Guía de valores en Bolsa: potencial por descorchar tras el conflicto",
+    "medio": "Expansión",
+    "fecha": 1775860415.0,
+    "link": "https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html",
+    "resumen": "El conflicto en Irán ha puesto una piedra en el camino de la buena racha que llevaban las empresas españolas hasta finales de febrero, pero cerca de una veintena del Ibex bate todavía la subida del 5,18% del índice desde enero. Leer"
+  },
+  {
+    "titulo": "La gran banca aprieta y encarece las ofertas oficiales a tipo fijo",
+    "medio": "Expansión",
+    "fecha": 1775860278.0,
+    "link": "https://www.expansion.com/ahorro/2026/04/11/69d950dce5fdea2b748b4585.html",
+    "resumen": "Se sitúan en una banda entre el 3,5% y el 4,5%. Leer"
+  },
+  {
+    "titulo": "Última hora de la guerra en Irán y el alto el fuego | Trump, Líbano, estrecho de Ormuz hoy",
+    "medio": "OK Diario",
+    "fecha": 1775860115.0,
+    "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-eeuu-israel-directo-alto-fuego-fragil-maxima-tension-oriente-medio-16572323",
+    "resumen": "La guerra entre Estados Unidos, Israel e Irán entra en una fase marcada por una tregua muy frágil. Aunque se ha anunciado un alto el fuego de dos semanas y el inicio de negociaciones en Islamabad, la realidad sobre el terreno sigue dominada por la desconfianza y las amenazas cruzadas. A esta hora, el conflicto … Continuar leyendo \"Última hora de la guerra en Irán y el alto el fuego | Trump, Líbano, estrecho de Ormuz hoy\""
+  },
+  {
+    "titulo": "Guía completa para declararlas criptomonedas en esta Renta",
+    "medio": "Expansión",
+    "fecha": 1775859690.0,
+    "link": "https://www.expansion.com/economia/declaracion-renta/2026/04/11/69d96c21468aeb30248b45a1.html",
+    "resumen": "La Agencia Tributaria ha añadido un apartado con casillas específicas para los activos digitales y refuerza el control sobre las operaciones de permuta, el 'staking' y los saldos en el extranjero. Leer"
+  },
+  {
+    "titulo": "Arranca la negociación por la paz en Irán condicionada por Israel",
+    "medio": "Expansión",
+    "fecha": 1775859674.0,
+    "link": "https://www.expansion.com/economia/2026/04/11/69d94b30e5fdea0c568b459a.html",
+    "resumen": "Irán supedita el diálogo con Estados Unidos en Pakistán a que el alto el fuego se extienda al Líbano, que en los últimos días ha sido objetivo de los bombardeos israelíes. Leer"
+  },
+  {
+    "titulo": "¿Qué esperar de las bolsas a partir de ahora?",
+    "medio": "Expansión",
+    "fecha": 1775859644.0,
+    "link": "https://www.expansion.com/ahorro/2026/04/11/69d9347a468aeb122e8b458f.html",
+    "resumen": "La resolución del conflicto daría alas a las bolsas, pero por ahora hay recelo sobre que suceda a corto plazo. Se esperan sesiones de volatilidad a golpe de noticia. Leer"
+  },
+  {
+    "titulo": "Cómo Carlos Bosch pasó de reponedor en hipermercados a transformar la hostelería con Grupo GastroPortal",
+    "medio": "Expansión",
+    "fecha": 1775859619.0,
+    "link": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2026/04/10/69d918c5468aeb69358b4579.html",
+    "resumen": "Carlos Bosch, fundador y CEO de Grupo GastroPortal, ha construido desde Alicante un modelo de restauración basado en marca, experiencia y gestión empresarial. Con conceptos como El Portal y Manero, el empresario impulsa una estrategia de crecimiento sostenido, innovación organizativa y fidelización del talento en un sector marcado por la rotación y la transformación tecnológica. Leer"
+  },
+  {
+    "titulo": "Sara Blakely, la creadora de la prenda favorita de las estrellas",
+    "medio": "Expansión",
+    "fecha": 1775859596.0,
+    "link": "https://www.expansion.com/empresas/distribucion/2026/04/11/69d96700468aeb11718b4593.html",
+    "resumen": "En doce años, pasó de trabajar en un parque temático a formar parte de la lista 'Forbes'. Fundó Spanx con apenas 5.000 dólares en el bolsillo. Hoy, la compañía vale 1.200 millones de dólares. Leer"
+  },
+  {
+    "titulo": "Los chips: desatados y sin techo",
+    "medio": "Expansión",
+    "fecha": 1775859573.0,
+    "link": "https://www.expansion.com/mercados/2026/04/11/69d38360e5fdea7c468b45a2.html",
+    "resumen": "El índice de los semiconductores (SOX) ha vuelto a colocarse en subida libre absoluta. Leer"
+  },
+  {
+    "titulo": "Israel y Líbano iniciarán conversaciones de paz en Washington el martes",
+    "medio": "OK Diario",
+    "fecha": 1775859165.0,
+    "link": "https://okdiario.com/internacional/israel-libano-iniciaran-conversaciones-paz-washington-martes-16582966",
+    "resumen": "Israel y Líbano iniciarán conversaciones de paz en Washington el próximo martes, tras la reciente invitación de Trump para acordar un alto el fuego. Eso, sí, Teherán se niega a que los terroristas de Hezbolá formen parte de esa negociación. Así lo ha asegurado el embajador de Israel en Estados Unidos. Por su parte, el … Continuar leyendo \"Israel y Líbano iniciarán conversaciones de paz en Washington el martes\""
+  },
+  {
+    "titulo": "Rescatan a un niño de 9 años encerrado en una furgoneta durante más de un año en Francia",
+    "medio": "OK Diario",
+    "fecha": 1775858813.0,
+    "link": "https://okdiario.com/internacional/rescatan-nino-9-anos-encerrado-furgoneta-durante-mas-ano-francia-16582550",
+    "resumen": "Un niño de nueve años ha sido encontrado por la policía desnudo y desnutrido en una furgoneta en Francia. El menor había estado encerrado desde hacía más de un año en un pueblo de Alsacia. La Fiscalía de Mulhouse ha informado del suceso después de encarcelar a su padre y dejar bajo control judicial a … Continuar leyendo \"Rescatan a un niño de 9 años encerrado en una furgoneta durante más de un año en Francia\""
+  },
+  {
+    "titulo": "Regreso de Artemis II a la Tierra, en directo | La histórica misión de la NASA a la cara oculta de la Luna vuelve a casa",
+    "medio": "El Español",
+    "fecha": 1775858689.0,
+    "link": "https://www.elespanol.com/omicrono/20260411/regreso-artemis-ii-tierra-directo-historica-mision-nasa-cara-oculta-luna-vuelve-casa/1003744202668_10.html",
+    "resumen": "Siga la última hora sobre el amerizaje de la cápsula Orión en el Pacífico. Más información: Artemis II inicia la vuelta a la Tierra tras llevar al hombre más lejos que nunca y ver \"lo que nadie ha visto antes\" de la Luna"
+  },
+  {
+    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Israel iniciará conversaciones de paz con Líbano este martes en Washington",
+    "medio": "El País",
+    "fecha": 1775858560.0,
+    "link": "https://elpais.com/internacional/2026-04-10/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "Irán condiciona el diálogo con EE UU a que paren los ataques en Líbano | Estados Unidos, ante las negociaciones con Irán previstas para mañana: “Que no intenten jugar con nosotros”"
+  },
+  {
+    "titulo": "Tu cocina al aire libre: los mejores hornillos de gas con cartuchos listos para cocinar",
+    "medio": "The Objective",
+    "fecha": 1775858460.0,
+    "link": "https://theobjective.com/productos-recomendados/2026-04-11/hornillos-de-gas-con-cartuchos/",
+    "resumen": "En un mundo donde la movilidad, la autosuficiencia y la practicidad son más importantes que nunca, los hornillos de gas con cartuchos se consolidan como una […]"
+  },
+  {
+    "titulo": "Álvaro Arbeloa, contra los árbitros tras otro gatillazo liguero: “Es otra más, nadie entiende cuándo entra el VAR”",
+    "medio": "El País",
+    "fecha": 1775858362.0,
+    "link": "https://elpais.com/deportes/futbol/2026-04-10/alvaro-arbeloa-contra-los-arbitros-tras-otro-gatillazo-liguero-es-otra-mas-nadie-entiende-cuando-entra-el-var.html",
+    "resumen": "El técnico blanco, que solo suma 10 puntos de los últimos 21, se queja por un posible penalti a Mbappé, que acaba con la cara ensangrentada"
+  },
+  {
+    "titulo": "Si juegas ‘Call of Duty’, ya tendrías habilidades para convertirte en controlador de tráfico aéreo",
+    "medio": "Hipertextual",
+    "fecha": 1775858340.0,
+    "link": "https://hipertextual.com/aviacion/estados-unidos-recluta-jugadores-controladores-aeroes/",
+    "resumen": "Reaccionar en milisegundos, mantener el foco en múltiples objetivos simultáneos y no perder la calma cuando todo se acelera. Son habilidades que cualquier jugador habitual conoce bien y resulta que también describen lo que necesita un controlador de tráfico aéreo. Al menos eso es lo que cree la Administración Federal de Aviación de Estados Unidos, […] Seguir leyendo: Si juegas ‘Call of Duty’, ya tendrías habilidades para convertirte en controlador de tráfico aéreo"
+  },
+  {
+    "titulo": "Rectificación de Espinosa de los Monteros",
+    "medio": "OK Diario",
+    "fecha": 1775858199.0,
+    "link": "https://okdiario.com/espana/rectificacion-espinosa-monteros-16576235",
+    "resumen": "«En relación con el artículo titulado “Espinosa intentó colar de nº1 en las listas de Vox en Chiva a un empresario con intereses en un pelotazo fotovoltaico de 110 millones”, publicado el 31 de marzo de 2026, Iván Espinosa de los Monteros ejercita su derecho de rectificación al amparo de la Ley Orgánica 2/84 de … Continuar leyendo \"Rectificación de Espinosa de los Monteros\""
+  },
+  {
+    "titulo": "Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",
+    "medio": "OK Diario",
+    "fecha": 1775857967.0,
+    "link": "https://okdiario.com/cool/television/kiko-rivera-explota-contra-angela-portero-viernes-eres-que-trincaba-eh-16582809",
+    "resumen": "En su visita a ¡De viernes! de este 10 de abril, Kiko Rivera se ha enfrentado a los colaboradores del programa de Telecinco y ha sido muy criticado y amonestado por su comportamiento. En un momento dado, el hijo de Isabel Pantoja se ha enfrentado a las tertulianas Ángela Portero y Lydia Lozano. La actitud … Continuar leyendo \"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»\""
+  },
+  {
+    "titulo": "Jesulín de Ubrique aclara cómo llegó a grabar un disco: «Me vine arriba»",
+    "medio": "OK Diario",
+    "fecha": 1775857832.0,
+    "link": "https://okdiario.com/happyfm/jesulin-ubrique-aclara-como-llego-grabar-disco-vine-arriba-16545186",
+    "resumen": "Jesulín de Ubrique se ha convertido en el fichaje estrella de Tu cara me suena 13, edición en la que tendrá que demostrar que no ha perdido la voz después de 30 años en los que no ha querido volver a cantar. Hay que recordar que el ex torero llegó a publicar un disco en … Continuar leyendo \"Jesulín de Ubrique aclara cómo llegó a grabar un disco: «Me vine arriba»\""
+  },
+  {
+    "titulo": "Fangoria, Inna y Abraham Mateo, protagonistas de LOS40 Primavera Pop 2026",
+    "medio": "El País",
+    "fecha": 1775857052.0,
+    "link": "https://elpais.com/cultura/2026-04-10/fangoria-inna-y-abraham-mateo-protagonistas-de-los40-primavera-pop-2026.html",
+    "resumen": "La emisora celebra su 60º aniversario y reúne en el Movistar Arena a 22 artistas, entre los que también destacaron Juan Magán, Beret, La Beba o Saiko"
+  },
+  {
+    "titulo": "Un coche se precipita a la planta inferior de un parking municipal en Chamberí y deja dos heridos leves",
+    "medio": "El Mundo",
+    "fecha": 1775856900.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/10/69d95c01e9cf4a90378b4596.html",
+    "resumen": "El aparcamiento ha estado cerrado durante más de dos horas Leer"
+  },
+  {
+    "titulo": "Vídeo en directo: la tripulación de Artemis II regresa a la Tierra",
+    "medio": "HuffPost",
+    "fecha": 1775856749.0,
+    "link": "https://www.huffingtonpost.es/videos/video-directo-tripulacion-artemis-ii-regresa-tierra-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Un caco irá a la cárcel tras robarle el bolso a una mujer en Londres sin saber que en su interior había joyas valoradas en 2,5 millones de euros",
+    "medio": "HuffPost",
+    "fecha": 1775856603.0,
+    "link": "https://www.huffingtonpost.es/sociedad/un-cacoa-carcel-robarle-bolso-mujer-londres-interior-habia-joyas-valoradas-25-millones-euros-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Real Madrid ya no da para más",
+    "medio": "El País",
+    "fecha": 1775856322.0,
+    "link": "https://elpais.com/deportes/futbol/2026-04-10/el-real-madrid-ya-no-da-para-mas.html",
+    "resumen": "El equipo de Arbeloa, muy impreciso, empata sin reacción contra el Girona, entrega otro pedazo de Liga al Barça y se juega ya toda la temporada a una difícil remontada el miércoles contra el Bayern en Múnich"
+  },
+  {
+    "titulo": "Líbano anuncia un encuentro con Israel el próximo martes en Washington",
+    "medio": "Europa Press",
+    "fecha": 1775856220.0,
+    "link": "https://www.europapress.es/internacional/noticia-libano-anuncia-encuentro-israel-proximo-martes-washington-20260410232340.html",
+    "resumen": "El presidente libanés, Joseph Aoun, ha anunciado este viernes que las negociaciones para un alto el fuego con Israel comenzarán el próximo martes, 14 de abril, con un encuentro en Washington, un día después de que el primer ministro israelí, Benjamin Netanyahu haya ordenado mantener conversaciones de paz con Líbano pese a insistir en su negativa a una tregua en el país vecino, donde ya han muerto más de 1.900 personas en esta ofensiva."
+  },
+  {
+    "titulo": "Corrupción máxima, imposible de aceptar en Europa",
+    "medio": "OK Diario",
+    "fecha": 1775855898.0,
+    "link": "https://okdiario.com/opinion/corrupcion-maxima-imposible-aceptar-europa-16582778",
+    "resumen": "No hay palabras para definir lo que está ocurriendo en España. La corrupción más lacerante y más sucia domina el día a día de los españoles, encabezada por acción y por omisión por el presidente del Gobierno. No es solo la corrupción política plena, sin ética alguna y con ataque fulminante al Estado de Derecho … Continuar leyendo \"Corrupción máxima, imposible de aceptar en Europa\""
+  },
+  {
+    "titulo": "Kiko Rivera sobre Irene Rosales: «No la odio pero me molesta al máximo nivel»",
+    "medio": "OK Diario",
+    "fecha": 1775855358.0,
+    "link": "https://okdiario.com/cool/kiko-rivera-sobre-irene-rosales-no-odio-pero-molesto-maximo-nivel-16582596",
+    "resumen": "Este 20 de abril, Kiko Rivera se ha sentado en el plató de ¡De viernes! después de la incendiaria entrevista que concedió al mismo programa de Telecinco la semana anterior, en la que, según él mismo ha reconocido, «perdió los papeles» contra su expareja, Irene Rosales, madre de dos de sus hijas. Además, el primogénito … Continuar leyendo \"Kiko Rivera sobre Irene Rosales: «No la odio pero me molesta al máximo nivel»\""
+  },
+  {
+    "titulo": "Trump está preparado para lanzar un duro ataque contra Irán si fracasa el diálogo",
+    "medio": "The Objective",
+    "fecha": 1775855212.0,
+    "link": "https://theobjective.com/internacional/2026-04-10/trump-lanzar-ataque-iran-dialogo/",
+    "resumen": "El presidente de EEUU, Donald Trump, ha asegurado este viernes que su país está preparándose para un duro ataque contra Irán si fracasan las negociaciones que […]"
+  },
+  {
+    "titulo": "Sergio García agita el fantasma de la retirada: “Cada vez está más cerca”",
+    "medio": "El País",
+    "fecha": 1775855176.0,
+    "link": "https://elpais.com/deportes/2026-04-10/sergio-garcia-agita-el-fantasma-de-la-retirada-cada-vez-esta-mas-cerca.html",
+    "resumen": "El golfista castellonense pasa el corte en el Masters de Augusta pero muestra toda su frustración por juego: “Me pongo sobre la bola y espero que no me dé un patatús”"
+  },
+  {
+    "titulo": "Un Madrid a la deriva y sin pólvora empata con el Girona y cava su tumba en la Liga",
+    "medio": "El Mundo",
+    "fecha": 1775855098.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/04/10/69d94541fdddff40778b457a.html",
+    "resumen": "Los blancos, en un partido sin ritmo en el que Mbappé perdonó varias ocasiones, no pasan del 1-1 ante los de Míchel. Valverde y Lemar, goleadores. Los locales pidieron penalti sobre el galo en el tramo final por un codazo de Reis. Leer"
+  },
+  {
     "titulo": "Un ‘Arc Raiders’ de Disney, con todos sus personajes, estaría en camino de la mano de Epic Games",
     "medio": "Hipertextual",
     "fecha": 1775854800.0,
@@ -7,11 +238,11 @@
     "resumen": "El primer fruto de la alianza entre Disney y Epic Games sería de lo más llamativo. Según reporta Bloomberg, la firma detrás de Fortnite estaría desarrollando un shooter de extracción al estilo Arc Raiders con los personajes de The Walt Disney Company. De acuerdo con el citado medio, el Arc Raiders de Disney se lanzaría […] Seguir leyendo: Un ‘Arc Raiders’ de Disney, con todos sus personajes, estaría en camino de la mano de Epic Games"
   },
   {
-    "titulo": "Última hora del regreso de Artemis 2, en directo | La nave Orion completa la última maniobra antes de iniciar la reentrada",
-    "medio": "El País",
-    "fecha": 1775854602.0,
-    "link": "https://elpais.com/ciencia/2026-04-10/ultima-hora-del-regreso-de-la-mision-artemis-ii-de-la-nasa-desde-la-luna-a-la-tierra-en-directo.html",
-    "resumen": "Los cuatro astronautas vuelven tras su misión de nueve días para rodear la Luna | En el descenso, de apenas 13 minutos, la cápsula de la tripulación superará los 40.000 kilómetros por hora y temperaturas por encima de los 2.500 grados | La maniobra de regreso pondrá a prueba el escudo térmico de la nave, que ha generado preocupación entre ingenieros veteranos"
+    "titulo": "El Madrid se hunde ante el Girona con polémica: deja La Liga en bandeja al Barça y genera dudas antes de Múnich",
+    "medio": "El Español",
+    "fecha": 1775854584.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260410/madrid-hunde-girona-polemica-deja-liga-bandeja-barca-alimenta-dudas-munich/1003744203038_0.html",
+    "resumen": "Alberola Rojas no señaló un penalti en el tramo final y los de Arbeloa, incapaces de pasar del empate, se marcharon silbados una vez más por el Santiago Bernabéu."
   },
   {
     "titulo": "Comienza el juicio en Reino Unido contra un asesor fiscal que estafó millones de euros a jubilados que querían comprar vivienda en España: lo hizo porque estaba \"harto de ser pobre\"",
@@ -26,13 +257,6 @@
     "fecha": 1775853694.0,
     "link": "https://www.huffingtonpost.es/sociedad/la-enfermedad-rara-pulmon-palomitas-alarma-mal-explicada-sanidad-reino-unido-desmiente-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Última hora de la guerra en Irán y el alto el fuego | Trump, Líbano, estrecho de Ormuz hoy",
-    "medio": "OK Diario",
-    "fecha": 1775853635.0,
-    "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-eeuu-israel-directo-alto-fuego-fragil-maxima-tension-oriente-medio-16572323",
-    "resumen": "La guerra entre Estados Unidos, Israel e Irán entra en una fase marcada por una tregua muy frágil. Aunque se ha anunciado un alto el fuego de dos semanas y el inicio de negociaciones en Islamabad, la realidad sobre el terreno sigue dominada por la desconfianza y las amenazas cruzadas. A esta hora, el conflicto … Continuar leyendo \"Última hora de la guerra en Irán y el alto el fuego | Trump, Líbano, estrecho de Ormuz hoy\""
   },
   {
     "titulo": "Jon Rahm supera el corte en el Masters de Augusta animado por Rafa Nadal y Alcaraz",
@@ -102,7 +326,7 @@
     "medio": "eldiario.es",
     "fecha": 1775851663.0,
     "link": "https://www.eldiario.es/sociedad/artemisa-cuatro-astronautas-mision-regresan-tierra_1_13132403.html",
-    "resumen": "Tras rodear la Luna y batir el récord de distancia, los tripulantes de la nave Orión se preparan para la fase más crítica y peligrosa de su viaje: la reentrada atmosférica, prevista en torno a las 2:00 am (hora peninsular española). En menos de cuatro horas, la misión Artemisa II se enfrenta a su prueba más crítica y peligrosa. Tras un histórico viaje de diez días en torno a la Luna, los cuatro tripulantes de la nave Orión — Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen— se preparan para impactar contra el océano Pacífico. El inminente regreso a casa viene marcado por la máxima tensión debido a las dudas científicas sobre la resistencia del escudo térmico de la cápsula. En elDiario.es te ofreceremos toda la información del regreso de Artemisa II en directo. La tripulación, que ha hecho historia por incluir a la primera mujer, al primer ciudadano no estadounidense y al primer hombre negro en viajar a la Luna, pondrá fin a una odisea sin precedentes desde la década de los setenta. Durante su travesía, no solo han tenido la oportunidad de contemplar zonas inéditas de la cara oculta del satélite y de presenciar un sobrecogedor eclipse solar de casi una hora, sino que también han batido el récord absoluto de lejanía de la Tierra, superando en unos 6.600 kilómetros la marca que ostentaba la histórica misión Apolo 13. El proceso de amerizaje, previsto frente a la costa occidental estadounidense de San Diego para la tarde de este viernes (hora local), es una maniobra vertiginosa y cronometrada al milímetro. La secuencia final arrancará cuando la cápsula en la que viajan los astronautas se desprenda de su módulo de servicio, el cual alberga los sistemas principales de energía y propulsión. El Módulo de Servicio Europeo (ESM), proporcionado por la Agencia Espacial Europea (ESA), desempeña una función vital hasta los instantes previos al amerizaje. Durante todo el viaje, este módulo ha sido el corazón de la nave Orion, albergando los sistemas principales de energía, comunicaciones y los motores de propulsión encargados de dirigir e impulsar el vehículo a través del espacio. En la fase final del descenso, su papel culmina con una maniobra crítica: su propia separación. Minutos antes de penetrar en la atmósfera, el ESM debe desprenderse obligatoriamente del módulo donde viajan los astronautas para dejar al descubierto el escudo térmico de la base de la cápsula. Esta acción es imprescindible, ya que dicho escudo es la única barrera capaz de proteger a la tripulación del calor extremo de la reentrada; por su parte, el módulo de servicio, con su trabajo ya finalizado, se desvía para quemarse y desintegrarse de forma programada en la atmósfera terrestre. Apenas cuatro minutos después de la separación del ESM, la nave encenderá sus propulsores para enfilar la trayectoria de caída, adentrándose en las capas superiores de la atmósfera terrestre a una espeluznante velocidad cercana a los 38.600 kilómetros por hora. Será la brutal fricción del aire la encargada de frenar el vehículo antes de que se desplieguen los paracaídas que garantizarán un posado seguro en el agua. A pesar del indudable éxito operativo demostrado hasta el momento, esta última fase está teñida de una profunda preocupación técnica. El principal motivo de alarma reside en el escudo térmico de la base de la nave, encargado de proteger a sus ocupantes de las destructivas temperaturas de la reentrada, ya que sin él la estructura metálica colapsaría y se desintegraría por completo. Durante el vuelo no tripulado de Artemisa I, este revestimiento protector sufrió graves daños imprevistos, perdiendo fragmentos enteros porque la acumulación de gases resquebrajó el material en lugar de permitir que se quemara de forma gradual. Dado que la actual cápsula ya tenía instalado un escudo con idéntica formulación, la NASA no pudo aplicar las mejoras diseñadas para futuras misiones. Esta vulnerabilidad ha generado un intenso y amargo debate interno que ha despertado los peores fantasmas de la agencia, recordando dolorosamente a las advertencias ignoradas en las tragedias del Challenger y el Columbia. Estas son las horas aproximadas para las últimas fases del aterrizaje (horario peninsular español): 01:27 h (33 minutos antes del amerizaje): Se produce la separación del módulo de la tripulación y el módulo de servicio. A partir de este momento, la cápsula Orión viaja en solitario. 01:47 h (13 minutos antes del amerizaje): Interfaz de entrada. La nave penetra en la atmósfera terrestre a 121.920 metros (unos 122 kilómetros) de altitud. En este punto comienza el pico máximo de calentamiento térmico por la fricción y el temido apagón temporal de comunicaciones. Entre las 01:47 h y las 02:00 h: A medida que la nave pierde altitud, se produce la secuencia de despliegue de los paracaídas. Primero se libera la cubierta del compartimento delantero (a unos 8.000 metros), seguido de los paracaídas de frenado a 7.620 metros de altitud, y finalmente los paracaídas piloto y los principales cuando la cápsula desciende a 2.896 metros. 02:00 h: Amerizaje definitivo en las aguas del océano Pacífico. Inmediatamente después del impacto, el sistema de reacción del módulo se pone en “modo seguro” y apenas quince minutos más tarde se produce el apagado final de la cápsula. 02:00 h a 04:00 h: Tienen lugar las operaciones de recuperación por parte de los equipos de rescate, que deben llegar a la cápsula y extraer a la tripulación en un plazo máximo de dos horas tras el impacto en el agua. A partir de las 00:30 h (hora peninsular española), la transmisión oficial de la NASA podrá verse aquí:"
+    "resumen": "Tras rodear la Luna y batir el récord de distancia, los tripulantes de la nave Orión se preparan para la fase más crítica y peligrosa de su viaje: la reentrada atmosférica, prevista en torno a las 2:07 am (hora peninsular española). ¿Qué viene después de Artemisa II? Las siguientes misiones para que los humanos se establezcan en la Luna En poco más de una hora, la misión Artemisa II se enfrenta a su prueba más crítica y peligrosa. Tras un histórico viaje de diez días en torno a la Luna, los cuatro tripulantes de la nave Orión — Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen— se preparan para impactar contra el océano Pacífico. El inminente regreso a casa viene marcado por la máxima tensión debido a las dudas científicas sobre la resistencia del escudo térmico de la cápsula. En elDiario.es te ofrecemos toda la información del regreso de Artemisa II en directo. La tripulación, que ha hecho historia por incluir a la primera mujer, al primer ciudadano no estadounidense y al primer hombre negro en viajar a la Luna, pondrá fin a un vuelo sin precedentes desde la década de 1970. Durante su travesía, no solo han tenido la oportunidad de contemplar zonas inéditas de la cara oculta del satélite y de presenciar un sobrecogedor eclipse solar de casi una hora, sino que también han batido el récord absoluto de lejanía de la Tierra, superando en unos 6.600 kilómetros la marca que ostentaba la histórica misión Apolo 13. El proceso de amerizaje, previsto frente a la costa occidental estadounidense de San Diego, es una maniobra vertiginosa y cronometrada al milímetro. La secuencia final arrancará cuando la cápsula en la que viajan los astronautas se desprenda de su módulo de servicio, el cual alberga los sistemas principales de energía y propulsión. El Módulo de Servicio Europeo (ESM), proporcionado por la Agencia Espacial Europea (ESA), desempeña una función vital hasta los instantes previos al amerizaje. Durante todo el viaje, este módulo ha sido el corazón de la nave Orion, albergando los sistemas principales de energía, comunicaciones y los motores de propulsión encargados de dirigir e impulsar el vehículo a través del espacio. En la fase final del descenso, su papel culmina con una maniobra crítica: su propia separación. Minutos antes de penetrar en la atmósfera, el ESM debe desprenderse obligatoriamente del módulo donde viajan los astronautas para dejar al descubierto el escudo térmico de la base de la cápsula. Esta acción es imprescindible, ya que dicho escudo es la única barrera capaz de proteger a la tripulación del calor extremo de la reentrada; por su parte, el módulo de servicio, con su trabajo ya finalizado, se desvía para quemarse y desintegrarse de forma programada en la atmósfera terrestre. Apenas cuatro minutos después de la separación del ESM, la nave encenderá sus propulsores para enfilar la trayectoria de caída, adentrándose en las capas superiores de la atmósfera terrestre a una espeluznante velocidad cercana a los 38.600 kilómetros por hora. Será la brutal fricción del aire la encargada de frenar el vehículo antes de que se desplieguen los paracaídas que garantizarán un posado seguro en el agua. A pesar del éxito operativo demostrado hasta el momento, esta última fase está teñida de una profunda preocupación técnica. El principal motivo de alarma reside en el escudo térmico de la base de la nave, encargado de proteger a sus ocupantes de las destructivas temperaturas de la reentrada, ya que sin él la estructura metálica colapsaría y se desintegraría por completo. Durante el vuelo no tripulado de Artemisa I, este revestimiento protector sufrió graves daños imprevistos, perdiendo fragmentos enteros porque la acumulación de gases resquebrajó el material en lugar de permitir que se quemara de forma gradual. Dado que la actual cápsula ya tenía instalado un escudo con idéntica formulación, la NASA no pudo aplicar las mejoras diseñadas para futuras misiones. Esta vulnerabilidad ha generado un intenso y amargo debate interno que ha despertado los peores fantasmas de la agencia, recordando dolorosamente a las advertencias ignoradas en las tragedias del Challenger y el Columbia. Estas son las horas aproximadas para las últimas fases del aterrizaje (horario peninsular español): 01:27 h (33 minutos antes del amerizaje): Se produce la separación del módulo de la tripulación y el módulo de servicio. A partir de este momento, la cápsula Orión viaja en solitario. 01:47 h (13 minutos antes del amerizaje): Interfaz de entrada. La nave penetra en la atmósfera terrestre a 121.920 metros (unos 122 kilómetros) de altitud. En este punto comienza el pico máximo de calentamiento térmico por la fricción y el temido apagón temporal de comunicaciones. Entre las 01:47 h y las 02:07 h: A medida que la nave pierde altitud, se produce la secuencia de despliegue de los paracaídas. Primero se libera la cubierta del compartimento delantero (a unos 8.000 metros), seguido de los paracaídas de frenado a 7.620 metros de altitud, y finalmente los paracaídas piloto y los principales cuando la cápsula desciende a 2.896 metros. 02:07 h: Amerizaje definitivo en las aguas del océano Pacífico. Inmediatamente después del impacto, el sistema de reacción del módulo se pone en “modo seguro” y apenas quince minutos más tarde se produce el apagado final de la cápsula. 02:07 h a 04:00 h: Tienen lugar las operaciones de recuperación por parte de los equipos de rescate, que deben llegar a la cápsula y extraer a la tripulación en un plazo máximo de dos horas tras el impacto en el agua."
   },
   {
     "titulo": "Polémica por el arco del triunfo de Trump en Washington: un gesto de vanidad el doble de alto que el Monumento a Lincoln",
@@ -110,20 +334,6 @@
     "fecha": 1775851618.0,
     "link": "https://www.elespanol.com/mundo/america/eeuu/20260410/polemica-arco-triunfo-trump-washington-gesto-vanidad-doble-alto-monumento-lincoln/1003744203029_0.html",
     "resumen": "La Casa Blanca presenta el boceto del monumento con el que pretende conmemorar el 250 aniversario de la independencia de Estados Unidos.Más información: Trump desvela cómo será su biblioteca: mucho dorado, una estatua gigante de él, un museo de aviones y ni un solo libro"
-  },
-  {
-    "titulo": "El Barcelona cae ante el Mónaco y se mete en un lío tremendo",
-    "medio": "El País",
-    "fecha": 1775851590.0,
-    "link": "https://elpais.com/deportes/baloncesto/2026-04-10/el-barcelona-cae-ante-el-monaco-y-se-mete-en-un-lio-tremendo.html",
-    "resumen": "El equipo azulgrana podría quedar apeado en la última jornada de la Euroliga en caso de perder ante el Bayern y que el Dubái supere al Valencia"
-  },
-  {
-    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Estados Unidos, ante las negociaciones con Irán previstas para mañana: “Que no intenten jugar con nosotros”",
-    "medio": "El País",
-    "fecha": 1775851303.0,
-    "link": "https://elpais.com/internacional/2026-04-10/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Teherán condiciona el diálogo con Washington a que paren los ataques en Líbano | Netanyahu, sobre España: “No permitiré que ningún país libre una guerra diplomática contra nosotros sin pagar un precio inmediato” | Cerca de una veintena de muertos en ataques israelíes en el sur de Líbano | Sánchez: “No permitamos una nueva Gaza en Líbano”"
   },
   {
     "titulo": "Sabíamos que había agua en la Luna, pero no por qué algunos cráteres estaban vacíos. Al fin tenemos la respuesta",
@@ -140,13 +350,6 @@
     "resumen": "Durante siglos, el conocimiento no se perdió únicamente en incendios épicos ni en saqueos cinematográficos. A veces bastó con algo mucho más ¿práctico? como una rasqueta, un pergamino caro y la necesidad de escribir encima. La última prueba acaba de aparecer en una vitrina del Museo de Bellas Artes de Blois, en Francia. En este museo de provincia es donde ha sido localizada una de las páginas desaparecidas del llamado Palimpsesto de Arquímedes. Se trata de la página 123 y contiene fragmentos de 'Sobre la esfera y el cilindro', uno de los tratados del matemático griego. No obstante, la importancia de esta historia radica en todo lo que sucedió antes y en por que, en primera instancia, esa página no debería haber estado perdida. Antes de Newton, antes de todoMucho antes de que figuras como Isaac Newton o Gottfried Wilhelm Leibniz desarrollaran el cálculo infinitesimal, Arquímedes ya había jugado en esa liga. En el siglo II a. C., desarrolló métodos para calcular áreas, volúmenes y relaciones geométricas con una precisión que hoy asociamos a matemáticas mucho más tardías. The Walters Museum En ese mismo corpus aparecían ideas que anticipaba la base de lo que muchos siglos después partirían la programación, la estadística o incluso la inteligencia artificial. Por lo tanto, no es una exageración decir que parte de la ingeniería moderna (desde puentes y rascacielos hasta las trayectorias espaciales) se la debemos a conceptos que él ya había intuido. Sin embargo, durante siglos, ni siquiera lo supimos. El día que alguien decidió borrar a Arquímedes En algún momento de la Edad Media, probablemente en Constantinopla, unos monjes cogieron ese manuscrito y lo convirtieron en otra cosa. Esto quiere decir literalmente que rasparon el texto original para reutilizarlo y escribieron encima oraciones. No fue un acto de censura ni de desprecio intelectual. Fue reciclaje o reaprovechamiento de recursos. En aquella época, el pergamino era caro, escaso y reutilizable. Y, de hecho, esa práctica era tan común que tenía nombre: palimpsesto. Así nació el Palimpsesto de Arquímedes: un libro de rezos que debajo escondía uno de los textos científicos más avanzados de la Antigüedad. The Walters Museum Un descubrimiento tardío (y casi accidental)En 1906, el filólogo danés Johan Ludvig Heiberg se topó con ese manuscrito y se dio cuenta de que algo no encajaba. Bajo el escrito religioso detectó trazos geométricos, letras antiguas y matemáticas. Lo documentó gráficamente, pero todavía tendría que pasar más tiempo para que el misterio de su contenido se resolviera. En 1998, tras haber desaparecido en colecciones privadas y reaparecer en una subasta en Nueva York, la ciencia pudo leer el borrado con luz ultravioleta, infrarroja y rayos X. De este modo, los investigadores empezaron a reconstruir el texto original. Lo que apareció fue 'El Método de los Teoremas Mecánicos', una obra que no descubrió nada nuevo para entonces, pero que cambió la forma de entender la historia de las matemáticas. La página 123: lo que se recupera y lo que faltaEl hallazgo en Blois confirma algo que inquieta tanto como fascina a investigadores y expertos: el manuscrito sigue incompleto. De las tres páginas que se saben desaparecidas, solo una ha reaparecido este año. Pudieron identificarla comparándola con las fotografías tomadas en 1906, antes de que el libro desapareciera en manos privadas. En una de sus caras, el texto matemático sobrevive parcialmente, cubierto por oraciones. En la otra, una ilustración añadida en el siglo XX (el profeta Daniel entre leones) oculta lo que aún no se puede leer. Los investigadores van a usar ahora técnicas de imagen multiespectral y fluorescencia de rayos X para intentar recuperar este texto oculto. Además de ser arqueológica, la historia del 'Palimpsesto de Arquímedes' se vuelve casi filosófica cuando uno se da cuenta de todo lo que puede haberse perdido en otros pergaminos reutilizados y textos borrados sin saber qué contenían en bibliotecas olvidadas. Tal vez, parte del conocimiento que hoy celebramos como \"descubrimiento\" podría haber sido también un redescubrimiento con siglos de retraso. Foto de portada | Darran Shen En Trendencias | Los 100 mejores libros de la historia que te engancharán de principio a fin - La noticia El día que la humanidad perdió siglos de avance tecnológico y científico porque unos monjes borraron un libro de Arquímedes fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "La presidenta de México viaja a España la próxima semana para reunirse con Sánchez, Lula y Petro",
-    "medio": "El País",
-    "fecha": 1775851084.0,
-    "link": "https://elpais.com/mexico/2026-04-10/la-presidenta-de-mexico-viaja-a-espana-la-proxima-semana-para-un-cita-con-sanchez-lula-y-petro.html",
-    "resumen": "La visita de Claudia Sheinbaum, para un encuentro de gobiernos progresistas el 18 de abril, se da en un contexto de acercamiento reciente entre ambos países tras años de enfriamiento de las relaciones diplomáticas"
-  },
-  {
     "titulo": "Una piloto de aviación comercial explica la razón por la que muchos vuelos evitan las auroras boreales: \"Calma, si hace falta se modifican rutas\"",
     "medio": "HuffPost",
     "fecha": 1775850756.0,
@@ -161,24 +364,10 @@
     "resumen": "La Global Sumud Flotilla partirá este domingo desde Barcelona con unas 70 embarcaciones y más de 1.000 participantes de 70 países, en una misión que busca […]"
   },
   {
-    "titulo": "En directo, Artemis 2 vuelve hoy a la Tierra: así será el rescate de los astronautas tras la peligrosa reentrada de la nave envuelta en una bola de fuego",
-    "medio": "El Mundo",
-    "fecha": 1775850522.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/10/69d8d11bfdddff8f088b457a.html",
-    "resumen": "La primera cara que verán los cuatro tripulantes de Artemis 2 después de estar 10 días confinados en una nave de cinco metros será la de un buzo de la Marina de EEUU, que será el encargado de abrir la escotilla. El amerizaje está previsto para las 02.07 horas del sábado Leer"
-  },
-  {
     "titulo": "Una formación política denuncia a Netanyahu y al jefe del Ejército de Israel ante la Audiencia Nacional",
     "medio": "HuffPost",
     "fecha": 1775850454.0,
     "link": "https://www.huffingtonpost.es/politica/formacion-politica-iustitia-europa-denuncia-netanyahu-jefe-ejercito-israel-audiencia-nacional-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Es oficial: el Gobierno se moviliza para declarar los hórreos como un \"patrimonio cultural inmaterial\" a proteger",
-    "medio": "HuffPost",
-    "fecha": 1775850341.0,
-    "link": "https://www.huffingtonpost.es/life/cultura/es-oficial-gobierno-moviliza-declarar-horreos-patrimonio-cultural-inmaterial-proteger-f202604.html",
     "resumen": ""
   },
   {
@@ -189,46 +378,11 @@
     "resumen": "La Guardia Civil y la Policía Nacional han activado el dispositivo de búsqueda para tratar de localizar a este recluso, en paradero desconocido. Más información: Alfonso Basterra, con permiso para salir de prisión, novia y una novela dedicada a Asunta 13 años después de asesinarla"
   },
   {
-    "titulo": "Euromillones: comprobar sorteo del viernes 10 de abril",
-    "medio": "El País",
-    "fecha": 1775850143.0,
-    "link": "https://elpais.com/sorteos/2026-04-10/euromillones-sorteo-del-viernes-10-de-abril.html",
-    "resumen": "Este viernes Loterías y Apuestas del Estado reparte un bote de 105 millones en los Euromillones"
-  },
-  {
-    "titulo": "El Barça cae en Mónaco y puede ser eliminado de la Euroliga si no gana al Bayern en la última jornada",
-    "medio": "OK Diario",
-    "fecha": 1775849774.0,
-    "link": "https://okdiario.com/deportes/barca-cae-monaco-puede-ser-eliminado-euroliga-si-no-gana-bayern-ultima-jornada-16582353",
-    "resumen": "El Barcelona puede quedarse fuera del play off de la Euroliga ocho años después porque la derrota de este jueves en Mónaco (93-86), la decimoséptima en la fase regular, le obliga a ganar al Bayern de Múnich en la última jornada para evitar ser eliminado sin ni siquiera jugar el play in. Las 20 victorias … Continuar leyendo \"El Barça cae en Mónaco y puede ser eliminado de la Euroliga si no gana al Bayern en la última jornada\""
-  },
-  {
-    "titulo": "La aplicación móvil de Wikipedia tiene una funcionalidad que te va a hacer disfrutar mucho más de tus viajes: así es como funciona",
-    "medio": "HuffPost",
-    "fecha": 1775849710.0,
-    "link": "https://www.huffingtonpost.es/tecnologia/aplicacion-movil-wikipedia-funcionalidad-disfrutar-mas-viajes-asi-funciona-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Cuponazo de la ONCE | Comprobar resultados del sorteo de hoy, viernes 10 de abril de 2026",
-    "medio": "El Español",
-    "fecha": 1775849255.0,
-    "link": "https://www.elespanol.com/loterias/20260410/cuponazo-once-comprobar-resultados-sorteo-hoy-viernes-abril/1003744199196_10.html",
-    "resumen": "El Cuponazo de la ONCE ofrece todos los viernes un premio a las cinco cifras y serie de 6 millones de euros y 134 premios de 40.000 euros a las 5 cifras del número premiado."
-  },
-  {
     "titulo": "Carmen Calvo rechaza regular la prostitución y exige una ley abolicionista",
     "medio": "The Objective",
     "fecha": 1775849187.0,
     "link": "https://theobjective.com/espana/politica/2026-04-10/carmen-calvo-prostitucion-ley-abolicista/",
     "resumen": "La presidenta del Consejo de Estado, Carmen Calvo, ha asegurado este viernes que «el feminismo no es regulacionista», sino abolicionista, y ha rechazado las posiciones que […]"
-  },
-  {
-    "titulo": "El Govern elige a Santander, Sabadell y Abanca para su nueva deuda",
-    "medio": "Expansión",
-    "fecha": 1775849143.0,
-    "link": "https://www.expansion.com/catalunya/2026/04/10/69d94e7ae5fdeaac518b458b.html",
-    "resumen": "Las tres entidades prestan un total de 293 millones de euros a la Generalitat en la primera operación de nuevo endeudamiento de la Administración catalana con la banca privada desde 2012. Leer"
   },
   {
     "titulo": "Fallece la sevillana Olga Carrión, directora del Instituto Andaluz de la Mujer",
@@ -238,25 +392,11 @@
     "resumen": "La 'popular' fue además directora del Distrito Casco Antiguo entre 2011 y 2015, durante el mandato del alcalde Zoido. Más información: Fernando Ónega: el cronista sereno de la democracia que creó el mejor eslogan de Adolfo Suárez"
   },
   {
-    "titulo": "Cuándo es la jornada ‘retro’ de la Liga: qué es y todo lo que debes saber",
-    "medio": "OK Diario",
-    "fecha": 1775848140.0,
-    "link": "https://okdiario.com/deportes/todo-lo-que-debes-saber-sobre-jornada-retro-liga-16568925",
-    "resumen": "La Liga celebrará este fin de semana la primera jornada retro de su historia. Entre el 10 y el 13 de abril, en los partidos correspondientes a la jornada 31 de la Liga EA Sports, los equipos y árbitros lucirán camisetas inspiradas en diseños del pasado. Real Madrid, Barcelona, Getafe y Rayo Vallecano no están … Continuar leyendo \"Cuándo es la jornada ‘retro’ de la Liga: qué es y todo lo que debes saber\""
-  },
-  {
     "titulo": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención del militar español en Líbano",
     "medio": "eldiario.es",
     "fecha": 1775847852.0,
     "link": "https://www.eldiario.es/politica/partido-iustitia-europa-denuncia-netanyahu-audiencia-nacional-detencion-militar-espanol-libano_1_13134679.html",
     "resumen": "Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coaccionesIsrael detuvo a un 'casco azul' español en Líbano y lo liberó “en menos de una hora” tras protestar España El partido político extraparlamentario Iustitia Europa ha interpuesto ante la Audiencia Nacional una denuncia contra el primer ministro de Israel, Benjamin Netanyahu, contra el jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi y contra otros mandos y militares israelíes aún por identificar por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coacciones. Los hechos que se recogen en la denuncia, a la que ha tenido acceso elDiario.es, ocurrieron el pasado 7 de abril cuando un sargento del Ejército español que formaba parte de la Fuerza Provisional de las Naciones Unidas para el Líbano (FINUL) fue presuntamente detenido ilegalmente por fuerzas israelíes durante aproximadamente una hora. La formación presidida por el abogado Luis Pardo, que se identifica como “apartido” y ha ejercido la acusación contra Begoña Gómez, la mujer del presidente del Gobierno, califica el episodio de “ataque deliberado y flagrante violación del Derecho Internacional” y recuerda que se produjo cuando un convoy logístico del contingente español de la FINUL (cascos azules) fue “interceptado de manera hostil por fuerzas israelíes en la demarcación de Taybeh”. Cabe recordar que sobre esta detención, la portavoz del PP en el Congreso, Ester Muñoz, indicó el pasado jueves que ella había tenido controles de tráfico en los que había estado “bastante más tiempo retenida”. La denuncia explica que ese personal español que fue retenido por fuerzas israelíes operaba bajo el amparo de la Resolución 1701 (2006) del Consejo de Seguridad de la ONU, que exige el respeto a la seguridad y libertad de movimiento de la FINUL. “Durante la interceptación, un sargento español fue extraído violentamente de su vehículo, retenido ilegalmente durante aproximadamente una hora y sometido a violencia física y trato degradante, antes de ser liberado tras una intensa presión diplomática”, recuerda. Añade que el incidente ha sido calificado por fuentes oficiales como un “acto absolutamente hostil con violencia física” y recuerda que tras ser extraído e introducido con violencia en otro vehículo sufrió “un traslado forzoso a una localización distinta y no autorizada, consumando así una privación de libertad ambulatoria”. Suma a esto que lo ocurrido “no solo constituye una detención ilegal en toda regla, sino un trato degradante proscrito por el Derecho Internacional” que fue ejecutado “con la clara intención de amedrentar y desmoralizar al contingente de paz”. Lamenta además que la liberación del militar solo se produjo “tras una intensa y urgente gestión diplomática del Gobierno de España ante las autoridades israelíes” y asevera que este no es un hecho aislado o fortuito sino que se enmarca “en un patrón de hostigamiento” dado que se han dado ataques directos e indirectos contra patrullas de la FINUL. Tras describir lo acaecido, la formación indica que la Audiencia Nacional es la competente para conocer de la denuncia dado que los hechos descritos son compatibles con el delito de crímenes de guerra y no consta que se haya iniciado procedimiento alguno en Israel ni en el ámbito de la Corte Penal Internacional. Y recuerda que afectan a un ciudadano nacional y atenta contra los intereses del Estado español en el mantenimiento de la paz y la seguridad internacionales, así como contra la propia arquitectura de seguridad colectiva de las Naciones Unidas. La responsabilidad penal Para Iustitia Europa la responsabilidad penal debe recaer primariamente en los militares que ejecutaron materialmente la detención porque fueron autores directos de la interceptación del convoy, de la coacción para detenerlo, de la extracción del militar español de su vehículo, y de su posterior retención y traslado forzoso. “La identificación precisa de estos ejecutores materiales es, por tanto, una de las finalidades primordiales de la fase de instrucción que se solicita, a fin de que respondan individualmente por sus acciones”, añade. Y suma a esto que el Derecho Penal Internacional “ha consolidado el principio de responsabilidad del superior para la prevención y sanción de atrocidades”. Por otro lado, resalta que aunque la jurisdicción penal se centra en la responsabilidad individual, considera que los actos denunciados conllevan “la responsabilidad internacional del Estado de Israel”. La denuncia solicita una serie de diligencias a la Audiencia Nacional, como que requiera a Interpol y Europol que identifique al personal israelí que llevó a cabo la detención; que recabe los informes al respecto que hayan elaborado desde el CNI; y que cite en calidad de testigos tanto a la ministra de Defensa, Margarita Robles, como el militar retenido, entre otras."
-  },
-  {
-    "titulo": "Sevilla – Atlético de Madrid: cuándo es, horario y canal de televisión para ver en directo el partido de la Liga",
-    "medio": "OK Diario",
-    "fecha": 1775847641.0,
-    "link": "https://okdiario.com/deportes/sevilla-atletico-madrid-cuando-horario-canal-television-ver-directo-partido-liga-video-16577274",
-    "resumen": "Dos clubes históricos de nuestro país como son el Sevilla y el Atlético de Madrid se enfrentan en esta jornada 31 de la Liga. Cuando estos dos equipos se miden suele producirse de todo, desde polémicas, goles y mucha tensión, pero lo cierto es que los colchoneros irán algo más tranquilos porque por delante tienen … Continuar leyendo \"Sevilla – Atlético de Madrid: cuándo es, horario y canal de televisión para ver en directo el partido de la Liga\""
   },
   {
     "titulo": "Europa se ha cansado de ser el \"actor secundario\" de la NASA. Y por eso está empezando a trabajar con China",
@@ -280,20 +420,6 @@
     "resumen": "Karl Urban está en el centro de la escena por el reciente estreno de los primeros episodios de The Boys, temporada 5. El actor neozelandés transita un gran momento de la mano de la serie de Amazon Prime Video y va por más. Este año, de hecho, se pondrá en la piel de Johnny Cage […] Seguir leyendo: Estrella de ‘The Boys’ quiere una película de ‘Red Dead Redemption’ y se ofrece como protagonista. Buena suerte para convencer a Rockstar"
   },
   {
-    "titulo": "Tradebe refinancia deuda con un préstamo de 330 millones",
-    "medio": "Expansión",
-    "fecha": 1775847572.0,
-    "link": "https://www.expansion.com/catalunya/2026/04/10/69d9476d468aebc5488b459c.html",
-    "resumen": "La división de medio ambiente del grupo firma una nueva financiación que vence en 2031. Leer"
-  },
-  {
-    "titulo": "Así será el arco del triunfo que Trump quiere instalar en el centro de Washington",
-    "medio": "El País",
-    "fecha": 1775847294.0,
-    "link": "https://elpais.com/internacional/2026-04-10/asi-sera-el-arco-del-triunfo-que-trump-quiere-instalar-en-el-centro-de-washington.html",
-    "resumen": "La Casa Blanca ha enviado el proyecto a la Comisión de Bellas Artes de la capital"
-  },
-  {
     "titulo": "La tripulación del Artemis II prepara la última maniobra para su reentrada en la atmósfera",
     "medio": "The Objective",
     "fecha": 1775847244.0,
@@ -301,25 +427,11 @@
     "resumen": "Los astronautas de la misión Artemis II se preparan para realizar la tercera maniobra de retorno, que se producirá a las 20.53 horas de este viernes […]"
   },
   {
-    "titulo": "Vacherot supera a De Miñaur y se medirá a Alcaraz en semifinales de Montecarlo",
-    "medio": "OK Diario",
-    "fecha": 1775847043.0,
-    "link": "https://okdiario.com/deportes/vacherot-supera-minaur-medira-alcaraz-semifinales-montecarlo-16581951",
-    "resumen": "Carlos Alcaraz ya conoce su rival para las semifinales del Masters 1000 de Montecarlo. El número uno del ranking ATP se medirá al local Valentin Vacherot frente un público monegasco que contará por primera vez con un tenista de su país en estas instancias del torneo. El vigente campeón en Shanghái volvió a exprimirse al … Continuar leyendo \"Vacherot supera a De Miñaur y se medirá a Alcaraz en semifinales de Montecarlo\""
-  },
-  {
     "titulo": "El príncipe Harry, demandado por difamación por su antigua ONG en África ante el Tribunal Superior de Inglaterra y Gales",
     "medio": "El Español",
     "fecha": 1775846889.0,
     "link": "https://www.elespanol.com/corazon/casas-reales/20260410/principe-harry-demandado-difamacion-antigua-ong-africa-tribunal-superior-inglaterra-gales/1003744202897_0.html",
     "resumen": "'Sentable' inició las acciones legales contra el duque de Sussex y el exoficial de la Guardia Galesa, Mark Dyer, en marzo de 2025. Más información: La reina Isabel II desconfiaba de su nieto Harry: grababa todas sus conversaciones y rehusaba reunirse con él en privado"
-  },
-  {
-    "titulo": "Detenido un hombre por apuñalar a su cuñado cuando maltrataba a su hermana",
-    "medio": "El Mundo",
-    "fecha": 1775846869.0,
-    "link": "https://www.elmundo.es/madrid/2026/04/10/69d93c60e9cf4a777a8b45b3.html",
-    "resumen": "El herido, de 62 años de edad, se encuentra hospitalizado con pronóstico grave Leer"
   },
   {
     "titulo": "Alcaraz se sacude las angustias ante Bublik y mantiene el pulso por el número uno en Montecarlo",
@@ -336,41 +448,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Ángel Víctor Torres prorrogará hasta 2027 el reparto de menores migrantes",
-    "medio": "The Objective",
-    "fecha": 1775846301.0,
-    "link": "https://theobjective.com/espana/politica/2026-04-10/angel-victor-torres-2027-menores-migrantes/",
-    "resumen": "El ministro de Política Territorial, Ángel Víctor Torres, ha asegurado este viernes que el decreto para distribuir la acogida de los menores migrantes entre todas las […]"
-  },
-  {
-    "titulo": "Los clubes de LaLiga Hypermotion buscan en el exterior diversificar ingresos y reforzar la marca",
-    "medio": "The Objective",
-    "fecha": 1775846251.0,
-    "link": "https://theobjective.com/actualidad/2026-04-10/clubes-laliga-exterior-ingresos-marca/",
-    "resumen": "La internacionalización se consolida como uno de los ejes estratégicos de LaLiga Hypermotion. Cada vez más clubes impulsan su presencia en mercados extranjeros para construir un […]"
-  },
-  {
-    "titulo": "Se filtran la fecha y el lugar de la boda de Taylor Swift: será el evento más patriótico del verano",
-    "medio": "OK Diario",
-    "fecha": 1775846244.0,
-    "link": "https://okdiario.com/cool/famosos/filtran-fecha-lugar-boda-taylor-swift-sera-evento-mas-patriotico-del-verano-16582085",
-    "resumen": "Taylor Swift y Travis Kelce están en la recta final de su noviazgo y dentro de tres meses pasarán por el altar. La cantante ha alcanzado un éxito mundial que ni ella misma se imaginaba y, después de una cantidad de relaciones fallidas como las de Harry Styles, Joe Jonas o Calvin Harris, parece que … Continuar leyendo \"Se filtran la fecha y el lugar de la boda de Taylor Swift: será el evento más patriótico del verano\""
-  },
-  {
-    "titulo": "Begoña Gómez, ‘catedrática consorte’",
-    "medio": "OK Diario",
-    "fecha": 1775846091.0,
-    "link": "https://okdiario.com/opinion/begona-gomez-catedratica-consorte-16581156",
-    "resumen": "Con las ganas que tenía Begoña Gómez de ser catedrática pese a no contar con titulación y hay que ver lo poco que le duró lo de la cátedra de la Universidad Complutense. Aquello terminó como el rosario de la aurora y fue el germen de la poliimputación que vino después. Ahora, Begoña tiene una … Continuar leyendo \"Begoña Gómez, ‘catedrática consorte’\""
-  },
-  {
-    "titulo": "Este fin de semana con Expansión: Fuera de Serie, Guía de la Bolsa y Guía del IRPF",
-    "medio": "Expansión",
-    "fecha": 1775845887.0,
-    "link": "https://www.expansion.com/empresas/2026/04/10/69d93adf468aebf8258b4597.html",
-    "resumen": "EXPANSIÓN ofrece este fin de semana 11 y 12 de abril un gran despliegue especial con un nuevo número de la publicación de estilo de vida Fuera de Serie, la Guía de los Valores de la Bolsa y el primer capítulo de la Guía Práctica de los Impuestos 2026. Leer"
-  },
-  {
     "titulo": "Hay una forma de entender el momento que vive Samsung: en tres meses de 2026 ha ganado más que en todo 2025",
     "medio": "Xataka",
     "fecha": 1775845813.0,
@@ -383,13 +460,6 @@
     "fecha": 1775845617.0,
     "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/10/69d8f6b7e85ece97048b457d.html",
     "resumen": "El número dos de la dirección socialista provincial, Juan Cornejo, encabezará finalmente la candidatura al 17-M en contra de los deseos de la secretaria general Leer"
-  },
-  {
-    "titulo": "Real Madrid - Girona, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga",
-    "medio": "El Español",
-    "fecha": 1775844900.0,
-    "link": "https://www.elespanol.com/deportes/20260410/real-madrid-girona-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744201519_22.html",
-    "resumen": "El Real Madrid recibe al Girona en el Santiago Bernabéu en un duelo clave de la jornada 31 de La Liga. Los blancos buscan seguir en la lucha por el liderato frente a un conjunto catalán que, tras una temporada llena de altibajos, pelea por mantenerse en los puestos europeos."
   },
   {
     "titulo": "Un fallecido y una niña de 4 años muy grave en el choque frontal de dos coches en Corral de Calatrava (Ciudad Real)",
@@ -441,25 +511,11 @@
     "resumen": "Francia está lista para cambiarse a Linux. A casi un año de que anunciara sus planes para adoptar el software libre como base en todas las oficinas gubernamentales, el país galo confirmó que comenzará a migrar algunos ordenadores que actualmente ejecutan Windows a Linux. La idea es recuperar la soberanía digital, algo que muchos países […] Seguir leyendo: Francia inicia su transición histórica de Windows a Linux y el software libre"
   },
   {
-    "titulo": "El disfraz de moderación del chavismo reciclado choca con la realidad",
-    "medio": "El Mundo",
-    "fecha": 1775843107.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/10/69d934a3fdddff150a8b458c.html",
-    "resumen": "La Asamblea Nacional confirma a Larry Devoe, el jurista favorito de Delcy Rodríguez como fiscal general de la República Leer"
-  },
-  {
     "titulo": "LaLiga lleva años en guerra con Cloudflare por la piratería. Acaba de aliarse con su principal competidor",
     "medio": "Xataka",
     "fecha": 1775842213.0,
     "link": "https://www.xataka.com/legislacion-y-derechos/laliga-lleva-anos-guerra-cloudflare-pirateria-acaba-aliarse-su-principal-competidor",
     "resumen": "Tenemos una noticia mala y otra peor. La mala es que condena de los bloqueos indiscriminados de IPs de LaLiga sigue produciéndose más de un año después. La malísima es que probablemente vayan a más. Sobre todo, después del acuerdo al que LaLiga ha llegado con Fastly. Qué ha pasado. LaLiga anunciaba ayer un acuerdo con la empresa Fastly, competidora directa de Cloudflare en el mecado \"edge cloud\". Ambas proporcionan servicios de CDN y aceleración de contenido además de seguridad web, pero sus filosofías son distintas. Mientras una se ha convertido en la gran defensora de la privacidad de sus clientes y usuarios, la otra se ha aliado con LaLiga para ayudarla en esa cruzada contra las emisiones de partidos de fútbol en plataformas IPTV. En realidad LaLiga ya hizo un movimiento parecido hace un año. En Xataka La cruzada de LaLiga con el fútbol viene de largo. Y con Movistar y Cloudflare están pagando justos por pecadores IA para detectar emisiones ilegales. Según el anuncio, Fastly \"ha desarrollado un sistema de detección inteligente y específico que aprovecha la IA y las señales de contenido de los propietarios para identificar emisiones ilegales casi en tiempo real\". Dicha solución, afirman en LaLiga, permitirá la eliminación del \"contenido ilegal [...] con una mayor precisión y reduciendo drásticamente el margen de actuación para la piratería\". El problema técnico que hace que la velocidad lo sea todo. Los datos del estudio de Grant Thornton que cita la nota de prensa son reveladores: en 2024 se detectaron al menos 10,8 millones de retransmisiones no autorizadas, el 81% sin suspensión de emisión, y solo el 2,7% abordadas en menos de treinta minutos. Una emisión ilegal de este tipo tiene una ventana de valor muy corta. Si no se elimina en los primeros minutos, el daño ya está hecho. IA para detectar... ¿y un martillo para bloquear? El sistema que ha creado Fastly promete esa detección quirúrgica de esas emisiones IPTV, pero no hay detalles ni evidencias de que efectivamente cumpla esa promesa. La verdadera pregunta luego será otra: si esa información de detección acabará contribuyendo a que los bloqueos masivos e indiscriminados de IPs sean aún más masivos e indiscriminados, o si logra mejorar esa precisión. No parece probable, porque las IPs compartidas siguen siendo la raíz del problema: cuando LaLiga ordena bloquear una IP de Cloudflare, en realidad esa IP está compartida por decenas, cientos o incluso miles de sitios web. Tumbar al culpable hace que muchísimos inocentes queden castigados una y otra vez. El enemigo de mi enemigo es mi amigo. LaLiga lleva años intentando forzar la colaboración de Cloudflare por la vía judicial. Eso ha tenido costes legales, daños colaterales y una batalla de relaciones públicas que ha impactado claramente en la reputación del organismo. La alternativa buscada es la de acudir a alguien que precisamente entiende a la perfección cómo funciona el segmento en el que se mueve Cloudflare. No solo eso: si tiene éxito, Fastly puede acabar atrayendo a otras ligas y productores televisivos de todo el mundo. La verdadera solución probablemente sería otra. En Xataka | \"Hemos pasado de ingresar 70.000 euros al mes a 40.000\": los bloqueos de IP de LaLiga están desangrando a muchas empresas - La noticia LaLiga lleva años en guerra con Cloudflare por la piratería. Acaba de aliarse con su principal competidor fue publicada originalmente en Xataka por Javier Pastor ."
-  },
-  {
-    "titulo": "Un muerto y 27 heridos en el accidente de un autobús turístico en San Sebastián de La Gomera",
-    "medio": "El Mundo",
-    "fecha": 1775841780.0,
-    "link": "https://www.elmundo.es/espana/2026/04/10/69d8f4dde85ecec4268b4579.html",
-    "resumen": "Un fallo en el sistema de frenado es la principal hipótesis que maneja la Guardia Civil Leer"
   },
   {
     "titulo": "El PSOE de Cádiz tuerce el brazo de Montero e impone su candidatura para las andaluzas en un clima de máxima tensión",
@@ -497,13 +553,6 @@
     "resumen": "Según el precio actual del iPhone Air y teniendo en cuenta nuestro análisis de tendencias y el histórico del mercado, así vemos la compra ahora de este teléfono de Apple: 🟢 LUZ VERDE: Compra con confianza iPhone air Veredicto Descuento histórico con sucesor lejano. El mejor precio desde su lanzamiento con rebajas muy difíciles de ver en Apple. PVP oficial 1.219 euros (Apple Store) Precio objetivo \"en la calle\" No pagues más de 900 euros (Amazon) Próximo lanzamiento iPhone Air 2 en primavera de 2027 Nuestra recomendación Si el diseño y la ligereza son tu prioridad, este es el momento. No esperamos bajadas mucho más fuertes Coste de arrepentimiento Bajo. Podría bajar 20-30 euros más, pero el margen a este precio es mínimo Índice de Contenidos (7) ¿Por qué el iPhone Air está en verde? Histórico y predicción de precios del iPhone Air Las mejores ofertas del iPhone Air ahora: ¿Cuándo sale el sucesor del iPhone Air? ¿Es para ti el iPhone Air ahora? Buenas alternativas al iPhone Air En resumen ¿Por qué el iPhone Air está en verde?Ponemos el semáforo en verde al tener más de un 25% de descuento sobre el precio oficial. Además, a esto se suma que es un modelo de iPhone que hasta dentro de un año no va a tener sucesor, ya que el ciclo del iPhone Air hasta el iPhone Air 2 será de 18 meses entre ellos, y no de 12 como solía ser. Pero hay más contexto que merece la pena conocer: Las ventas del Air no fueron las esperadas. Poco después de su lanzamiento se alertó de recortes de producción del 80% en algunos componentes. Ese exceso de stock es lo que ha desencadenado todo lo que vino después.Dos bajadas de precio coordinadas en meses. De 1.219 euros a 999 euros en enero, y de 999 euros a 899 euros en marzo. Ese tipo de movimientos no los decide Amazon un día por la mañana. Los activa Apple para mover inventario parado, que es de lo más caro que le puede salir a una empresa: capital inmovilizado, espacio ocupado, valor que se deprecia sin moverse.Apple no hace rebajas directas, pero sí las activa. Como Apple no aplica descuentos en sus propias tiendas ni en su web, se apoya en los llamados Apple Reseller para sacar ese stock restante. Estamos hablando de tiendas como Amazon, K-tuin, Rossellimac, MediaMarkt, El Corte Inglés...El precio ha llegado a su suelo natural. Con históricos de 899 euros, Apple ya está muy cerca del límite en el margen de ganancias que puede permitirse. Aunque pueda producirse alguna bajada adicional, no se espera que sea mucho mayor a la actual.Y por supuesto, si lo que quieres es conseguir el mejor precio, es mejor dejar de lado la Apple Store. El precio en apple.com no se ha movido desde el día del lanzamiento y no lo va a hacer. El descuento está en Amazon, MediaMarkt y distribuidores oficiales, y en este caso llevan meses demostrándolo. Histórico y predicción de precios del iPhone Air El iPhone Air es el primer modelo de esta gama, así que no tenemos un año anterior con el que comparar. Lo que sí tenemos es el modelo al que vino a sustituir: el iPhone 16 Plus. Son gamas distintas y parten de precios distintos (el Plus salió a 1.109 euros, el Air a 1.219 euros), pero su evolución nos da pistas sobre lo que puede pasar. Esto es lo que vemos: El iPhone 16 Plus marcó el camino. Salió a 1.109 euros, bajó en enero (mes 3), volvió a bajar en abril (mes 6) y se mantuvo estable hasta septiembre, cuando el iPhone 17 lo dejó atrás.El iPhone Air ha ido más rápido. Primera bajada en enero, segunda en marzo. Mismo esquema, más acelerado, porque Apple tenía más stock del previsto.Pero septiembre no es una amenaza para el iPhone Air. El iPhone 16 Plus cayó de precio porque llegó su sucesor. El iPhone Air 2 no llega hasta la primavera de 2027. Sin esa presión, el precio una vez ha bajado, se mantendrá estable.¿Entonces? Si ves el Air a 899 euros, estás en el suelo histórico. No esperamos bajadas más grandes a partir de aquí. Las mejores ofertas del iPhone Air ahora: Ten en cuenta que muchas veces las ofertas dejan de estar disponibles desde que publicamos (se acaba el stock o la tienda decide cambiar el precio), así que asegúrate bien antes de comprar. Estas son las que hemos encontrado del iPhone Air (256 GB) ahora: ¿Cuándo sale el sucesor del iPhone Air? El iPhone Air salió en septiembre de 2025, así que a día de hoy lleva siete meses en el mercado. Lo normal en Apple es que los iPhones se renueven cada doce meses, pero el Air es un caso especial: todo apunta a que el ciclo entre el Air original y el Air 2 será de unos 18 meses, no de 12. Eso significa que quien compre ahora va a tener el modelo más reciente de la gama durante aproximadamente un año más, sin que llegue ningún sucesor a hacerle sombra. La fecha más probable para el iPhone Air 2 es la primavera de 2027. Apple está partiendo sus lanzamientos en dos: en septiembre de 2026 solo llegarán los modelos iPhone 18 Pro y el iPhone plegable, mientras que el iPhone 18 estándar y el iPhone Air 2 lo harían en primavera del año siguiente. En cuanto a novedades, la renovación del iPhone Air 2 apunta a ser bastante pausada. Lo más seguro es el salto al chip A20 Pro de 2 nanómetros (hasta un 30% más eficiente que el A19 Pro actual), mejoras de batería y una Dynamic Island algo más pequeña. La gran incógnita es si llegará con una segunda cámara: los rumores no se ponen de acuerdo, y conociendo a Apple, lo más probable es que ese salto quede para una tercera generación. Si la cámara es un factor clave para ti y necesitas más de un objetivo, quizás tiene más sentido mirar otras opciones ya ahora que esperar al iPhone Air 2 con la esperanza de que llegue con dos cámaras. ¿Es para ti el iPhone Air ahora? Aquí tenemos que ser honestos, porque si lo que buscas es el iPhone más completo por el precio, el iPhone 17 gana. Tiene dos cámaras, algo más de batería (30 horas frente a 27) y ahora mismo se mueve en un rango de precio muy similar. Pero el iPhone Air aspira a otra cosa. Es el iPhone más ligero y cómodo que Apple ha fabricado en décadas. Desde el iPhone 6 o 7 no teníamos algo así en la mano. Eso no sale en ninguna especificación, pero quien lo hemos usado sabemos de esa sensación de decir \"que gusto tener este iPhone en las manos\". Si eso es lo que buscas, y sabes que no necesitas zoom óptico ni eres un usuario muy exigente con la batería, el momento es este. ✅ Cómpralo hoy si: La ligereza y el diseño son tu prioridad y lo que buscas en un iPhoneTu móvil actual está llegando a su fin o llevas más de tres años con el mismoNo necesitas zoom óptico ni haces muchas fotos con el móvilLo encuentras sobre los 899 euros, que es donde está ahora mismo ❌ No te lo recomiendo si: La fotografía es primordial paraTienes un iPhone de la gama Pro a partir del iPhone 13 ProIncluso si tienes un iPhone 15 en adelante, tampoco te compensa el cambio.La batería es una preocupación en tu día a día Buenas alternativas al iPhone Air iPhone 17. La alternativa más directa que en Applesfera te recomendamos. Ahora mismo compiten en precio, pero el iPhone 17 te da una cámara más y algo más de batería. El iPhone Air nos ha hecho muy felices usándolo, pero si no tienes claro que la ligereza es tu prioridad, el iPhone 17 es la apuesta segura. iPhone 17e. Si lo que te atraía del iPhone Air era tener algo manejable sin gastarte demasiado, el iPhone 17e merece un vistazo. También tiene una sola cámara y autonomía similar. El problema es la pantalla: más pequeña, menos brillo y sin tasa de refresco alta. Si le das mucho uso al móvil, lo vas a notar. Pero si tu uso es más básico, la diferencia de precio respecto al iPhone Air es para prestarle atención. En resumen ¿Es buen momento para comprar el iPhone Air en abril de 2026? Sí, y por eso colocamos nuestro semáforo en verde. Lleva meses bajando de precio de una forma muy inusual en Apple, y a 899 euros estamos en el mínimo histórico del modelo. No esperamos bajadas importantes desde aquí, y el sucesor no llega hasta la primavera de 2027 . Si el iPhone Air te convence, y sobre todo si lo que buscas es el iPhone más ligero y cómodo que Apple ha fabricado en años, no tiene mucho sentido seguir esperando. En Applesfera estaremos siguiendo de cerca la evolución del precio de este modelo, así que no nos pierdas la pista si todavía tienes dudas. En Applesfera | Qué iPhone comprar en 2026 - Guía para elegir el smartphone de Apple más adecuado para ti En Applesfera | Nuevo iPhone Air 2 - Todo lo que creemos saber sobre él - La noticia ¿Es buen momento para comprar un iPhone Air o va a bajar pronto de precio? Esto es lo que nos dicen los datos. fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Se prevé que el Covid persistente cueste a las economías de la OCDE hasta 135.000 millones de dólares al año",
-    "medio": "Expansión",
-    "fecha": 1775840328.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/04/10/69d92c3ee5fdea756d8b4590.html",
-    "resumen": "Un nuevo estudio apunta al impacto en el PIB de un descenso de la productividad y la dimisión de trabajadores a consecuencia de la larga enfermedad. Leer"
-  },
-  {
     "titulo": "Trump reanudará los ataques a Irán si fracasan las conversaciones de Islamabad",
     "medio": "Europa Press",
     "fecha": 1775840161.0,
@@ -532,13 +581,6 @@
     "resumen": "En cuestión de meses (si se cumplen los plazos) Europa estrenará un nuevo y flamante astropuerto, una instalación diseñada para acoger aeronaves de vuelos estratosféricos. Lo curioso no es el complejo en sí, que podrá usarse para trabajar con dirigibles capaces de volar a 20.000 m de altitud. Ni siquiera lo es el enorme tamaño de su hangar y nave. Lo llamativo es que ese astropuerto no estará en ninguna de las metrópolis o polos industriales de Europa, sino en Teruel. Y ya está tomando forma. De Teruel a la estratosfera. Aunque medio planeta está pendiente de la misión Artemis II y su vuelo pionero sobre la cara oculta de la Luna, en Aragón el programa de la NASA está compartiendo titulares con otra aventura aeroespacial de calado: la construcción del astropuerto de Teruel, un complejo diseñado para operaciones con la estratosfera. Sus obras arrancaron hace poco más de un año, en marzo de 2025, pero la instalación ha vuelto a ser noticia estos días por una visita del consejero de Fomento de Aragón en funciones, Octavio López. Despejando el calendario. El de López no fue un acto protocolario sin más. Durante la cita se despejó el cronograma del proyecto: la idea es que los trabajos estén listos antes de que finalice este el año y la instalación pueda ponerse en marcha (tras algunos trámites todavía pendientes) a lo largo de 2027. \"Las obras van viento en popa y en plazo, como se puede comprobar. Todo hace prever que en el último trimestre de 2026 se podrá lanzar la licitación para que el complejo aeroespacial pueda estar operativo y en actividad en el primer trimestre de 2027\", celebró el consejero aragonés. Y como siempre dice más una imagen que mil palabras, el anuncio lo acompañó de fotografías en los que puede verse cómo el esqueleto metálico del complejo ya se recorta en el horizonte. \"Singular y único\". Instalaciones aeronáuticas hay muchas, pero desde el Gobierno aragonés se insiste en que esta en concreto será \"singular y única en Europa\". El complejo dotará al aeropuerto de Teruel de capacidad para aeronaves de vuelos estratosféricos con dirigibles tipo HAPS, naves pensadas para operar a 20.000 metros de altitud. De ahí lo de 'astropuerto' (o 'estratopuerto'). \"Teruel va a ser el centro de la construcción, puesta en marcha y ensamblaje y reciclaje y mantenimiento de esas unidades que va a ser la referencia en Europa”, destaca López, que durante su visita a las obras estuvo acompañado, entre otros, de la alcaldesa de Teruel, Emma Buj, y el director del aeropuerto. ¿Por qué es importante? Básicamente por su alcance, carácter pionero y lo que supone para toda la región. \"Permitirá dotar al aeropuerto de capacidad para aeronaves de vuelos estratosféricos, obteniendo las características de astropuerto para el lanzamiento, aterrizaje, control, fabricación y mantenimiento de naves espaciales\", precisa el portal de comunicación de la Junta de Aragón. Se calcula que en su hangar podrán construirse unos 35 dirigibles estratosféricos cada año. Su uso es interesante tanto para la investigación científica como para la observación atmosférica, labores de monitorización y comunicaciones. ¿Y cómo será el astropuerto? Sus medidas son desde luego sorprendentes. El hangar y la nave de producción de dirigibles ocuparán en total unas 2,66 ha. Su forma es rectangular y sus dimensiones en planta rondan los 376,2 x 70,8 m. En los laterales incluirá oficinas y los talleres de ensamblaje y mantenimiento. \"Delante de la fachada este del hangar se diseña una plataforma para dirigible con unas dimensiones de 330 x 220 m, otras 6,6 ha más\", precisa el Gobierno. Dar forma a semejante titán exigirá movilizar toneladas y toneladas de materiales. Diario de Teruel asegura que solo en la estructura metálica se emplearán 2.266 t de acero y 12.000 barras y bolas. Una de las piezas más impresionantes será la puerta del hangar, que medirá 60 x 52 m y se manejará con un sistema plegable. Solo esa pieza requerirá de una inversión millonaria. Pensando en el futuro. La primera piedra del complejo se colocó el 11 de marzo de 2025, después de que las obras se adjudicasen por 39,8 millones (sin IVA) a una UTE formada por Aldesa e Ideconsa. El plazo de ejecución es de 20 meses, con lo que se cumpliría a finales de este mismo año. El Gobierno quiere lanzar la licitación para operar las instalaciones pensando ya en 2027. La idea, recuerda El Periódico de Aragón, es cederlas durante 40 años a la adjudicataria, que deberá hacer frente a un canon. \"Entre octubre o noviembre podremos sacar el pliego para hacer coincidir el final de la construcción de la nave con el inicio de la actividad correspondiente\", reconoce el consejero. La compañía aeroespacial Sceye ha mostrado su interés en instalarse en el aeropuerto de Teruel, pero el Ejecutivo aragonés quiere que la licitación sea abierta, para que pueda optar cualquier empresa del mundo interesada. Imágenes | Aeropuerto de Teruel y Gobierno de Aragón En Xataka | Vuelo de Qatar Airways con destino Teruel: el aeropuerto aragonés se ha convertido en un refugio de la guerra de Irán - La noticia Teruel está construyendo un hangar XXXL para dirigibles. Su objetivo: ser la primera ciudad de Europa con un \"astropuerto\" fue publicada originalmente en Xataka por Carlos Prego ."
   },
   {
-    "titulo": "Bruselas autoriza la compra de Masorange por parte de Orange",
-    "medio": "Expansión",
-    "fecha": 1775838058.0,
-    "link": "https://www.expansion.com/empresas/tecnologia/masorange/2026/04/10/69d922c8e5fdeae0338b4578.html",
-    "resumen": "La Comisión Europea ha dado luz verde a la toma de control de Masorange por parte de Orange, en una operación valorada en unos 4.300 millones de euros. Leer"
-  },
-  {
     "titulo": "Descenso generalizado de temperaturas y tormentas fuertes en Andalucía y Sistema Central",
     "medio": "Infolibre",
     "fecha": 1775837960.0,
@@ -553,25 +595,11 @@
     "resumen": "El Banco de Francia confirmaba ayer algo que llevaba tiempo gestándose en silencio: ha retirado hasta el último lingote de oro que tenía guardado en las bóvedas de la Reserva Federal de Nueva York. Una operación que habitualmente podría haberse extendido durante dos décadas pero que, de repente, se ha acelerado. El detonante tiene nombre propio: Donald Trump. Lo que en principio comenzó como una operación técnica de actualización de sus reservas de oro, con los últimos movimientos de EEUU frente a sus aliados europeos, incluida Francia, se ha convertido en el primer gran movimiento geopolítico que ha dejado a media Europa mirándose los unos a los otros. Además, la jugada les ha dejado con más dinero del que tenían. La clave es vender en el momento y lugar adecuado. Lo primero que hay que entender es que Francia no fletó ningún avión cargado de oro para traerlo de vuelta a Europa. En lugar de mover físicamente los lingotes, el Banco de Francia tomó una decisión más inteligente. Tal u como explicaba la entidad bancaria en un comunicado, entre julio de 2025 y enero de 2026, han ido vendiendo las 129 toneladas de oro antiguo que almacenaba en la Reserva Federal de Nueva York en el mercado de oro norteamericano. En Xataka El oro de la discordia: por qué 14 municipios de Guadalajara se han rebelado contra el plan de \"soberanía mineral\" de Europa De ese modo, los franceses han aprovechado unos precios del oro en máximos históricos. Con esos ingresos, Francia ha ido comprando lingotes de oro que cumplía con el nuevo estándar de mayor calidad en el mercado europeo, que registraba unos precios más contenidos, para almacenar esos lingotes directamente en sus bóvedas de París. La operación se completó en 26 transacciones distintas y generó unos ingresos extraordinarios de 11.000 millones de euros para el banco central francés. Un resultado que transformó los 7.700 millones de euros en pérdidas que registró en 2024, en un beneficio neto de 8.100 millones de euros en 2025. ¿Por qué había oro europeo en EEUU? La historia de este oro en Nueva York se remonta al final de la Segunda Guerra Mundial. Tras el conflicto, el dólar se convirtió en el eje del comercio internacional y tener reservas en Nueva York permitía a los países venderlas rápidamente y obtener divisa para facilitar los pagos en el comercio global. Además, con la Guerra Fría en pleno auge y la URSS al acecho, muchos gobiernos europeos preferían que sus reservas de oro se mantuvieran en la lejana Nueva York antes que en París o Londres, protegiendo su tesoro de hipotéticas invasiones rusas. Una primera reducción importante de esa reserva de oro llegó en los años sesenta, cuando De Gaulle tomó la decisión de repatriar parte de las reservas francesas y otros países lo imitaron. Pero no se llevaron todo. Francia mantenía aún ese 5% de sus reservas totales al otro lado del Atlántico, una cifra que puede parecer pequeña pero que equivale a una montaña de lingotes. Con el último movimiento, Francia concentra ahora la totalidad de sus 2.437 toneladas en París, convirtiéndose en el cuarto mayor tenedor mundial de oro. En Xataka La inversión más segura y rentable que puedes hacer a día de hoy es la misma que hace 3.000 años: comprar oro La chispa que ha encendido Europa. Este mismo año se ha sabido que India ha repatriado ya 274 toneladas de oro desde 2023, y que actualmente alrededor de dos tercios de sus 880,8 toneladas totales se encuentran en territorio nacional, impulsadas por los riesgos geopolíticos y la necesidad de mayor control y liquidez. Desde OMFIF señalan que la ubicación del almacenamiento del oro ha vuelto a convertirse en una prioridad para los bancos centrales, especialmente desde que se incautaron los activos rusos depositados en terceros países tras la invasión de Ucrania. Sin embargo, la chispa que ha encendido la maquinaria de la repatriación del oro europeo ha sido la actitud errática de Donald Trump. Sus ataques públicos a Jerome Powell y sus intentos repetidos de interferir en la política monetaria han generado una inquietud creciente entre los bancos centrales europeos sobre quién controla realmente las instituciones que custodian su oro. Alemania e Italia: los siguientes en el punto de mira. Tras el movimiento de Francia, la atención se ha dirigido hacia los bancos centrales de Alemania e Italia, los dos países con mayores reservas de oro en suelo estadounidense. Alemania conserva 1.236 toneladas en las bóvedas de Nueva York, el 37% de sus reservas totales, mientras que Italia tiene allí 1.053 toneladas, el 43% del total. Juntos, ambos países acumulan el equivalente a 245.000 millones de dólares en lingotes en Nueva York. Michael Jäger, vicepresidente de la Federación de Contribuyentes Alemanes (Bund der Steuerzahler) y presidente de la Asociación Europea de Contribuyentes (TAE) declaró que \"la imprevisibilidad de Trump y su incesante búsqueda de ingresos hacen que nuestro oro ya no esté seguro en las bóvedas de la Reserva Federal. ¿Qué ocurre si la provocación sobre Groenlandia continúa? El riesgo de que el Bundesbank no pueda acceder a su oro va en aumento. Por eso debería repatriar sus reservas\". Por ahora, ninguno de los dos países ha anunciado una decisión oficial sobre el futuro de su oro en EEUU. En Xataka | No por nada le llaman el \"magnate del oro\": tiene 82 años y y ha ganado un 746% apostando por una mina que ni siquiera funciona Imagen | Unsplash (Samuel Regan-Asante, Scottsdale Mint) - La noticia Francia se ha llevado todo su oro de EEUU: ha salido ganando con el traslado fue publicada originalmente en Xataka por Rubén Andrés ."
   },
   {
-    "titulo": "Buena noticia para los CEO con acento extranjero",
-    "medio": "Expansión",
-    "fecha": 1775837795.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/04/10/69d92255e5fdeafc018b4587.html",
-    "resumen": "Los inversores pueden preferirlos en un momento determinado. Leer"
-  },
-  {
     "titulo": "El hombre que intentaba que ChatGPT contara de 1 a 200… y le inflingía otras torturas propias de las IAs, como preguntar qué significa la «S» de «ChatGPT»",
     "medio": "Microsiervos",
     "fecha": 1775837683.0,
     "link": "https://www.microsiervos.com/archivo/ia/hombre-intentaba-chatgpt-contara-1-a-200-torturas-ias.html",
     "resumen": "Por aquí no somos muy de vídeos verticales, pero en este caso no hay otra opción. FatherPi es un tipo con mucho ingenio y una pizca de mala leche que se dedica a torturar a las IAs planteándoles retos imposibles… Solo que resulta que esos «retos imposibles» son tareas tan mundanas como contar de 1 a 200 en voz alta (cosa que no pueden hacer) o responder a «Qué significa la S de ChatGPT» (que, obvio de toda obviedad, no lleva ninguna S). Vi el primero de sus vídeos cuando llevaba 18 días de intentos tratando de hacer que ChatGPT contara de 1 a 200, con la excusa de que era para marcar el ritmo al hacer abdominales. Los resultados eran desastrosos: o bien se negaba, o se paraba en el 20 o 30, o comenzaba a saltarse números o incluso cosas más peregrinas. Pero lo mejor y más WTF son las estúpidas excusas de los LLM «complacientes» del tipo: «Ah, sí, fallo mío, lo haré de nuevo» o «He parado porque pensé que necesitabas un descanso» o «Pensé que quizá querías preguntar algo». ¿Con esto quieren «dominar el mundo»? Aparte de esa serie tiene otros muchos vídeos en su canal. Otro estupendo es este en el que le lanza a ChatGPT la pregunta trampa de «qué significa la S en ChatGPT», algo que podría responder cualquier niño de cinco años. También tiene una sesión de tortura fina con Claude, preguntándole por «la S de Claude» y como el modelo dice que no hay S en C-l-a-u-d-e, le machaca con que «No estás incluyendo la S. Yo veo la S. Veo físicamente la S. Tú no la ves físicamente. Pero todo el mundo ve la S menos tú…» aunque Claude no se achanta ni da por acabada la conversación. También lo hace con Grok, aunque ahí no sé si da más risa del ridículo avatar con voz sensual que el troleo (¡bidireccional!) en sí. Un detalle interesante es que tras 24 días consiguió que ChatGPT contara del 1 al 200, pero… atención: para que funcionara tuvo que usar una cuenta gratuita, nueva y limpia recién creada, porque si usaba su cuenta normal de pago era cuando fallaba miserablemente. ¿Por qué? ChatGPT le explicó que podría ser la caché, algún factor externo, algún bug, o el condensador de fluzo… vamos que no se saca nada en claro. WTF de toda WTFquiedad. En fin, que Roko (¡alabado sea!) nos perdone en su grandeza por dar a conocer estos vídeos tan crueles con las IAs, pero tal vez enseñar estas torpezas sirva también para que los modelos mejoren y la IA siga evolucionando. Relacionado: El extraño caso de las IAs que no sabían representar relojes Un diálogo visual de besugos que da pie a cuestionar algunas cosas sobre los bots y la inteligencia artificial ChatGPT acierta el 67% de las «preguntas de Trivial», aunque sólo el 50% de los acertijos y problemas de lógica; «no entiende ni razona» La base de datos de incidentes de las inteligencias artificiales ya existe. El top 3 lo encabezan de momento Facebook, Tesla y Google # Enlace Permanente"
-  },
-  {
-    "titulo": "Capgemini anuncia un ERE en España por el impacto de la inteligencia artificial",
-    "medio": "Expansión",
-    "fecha": 1775837667.0,
-    "link": "https://www.expansion.com/empresas/2026/04/10/69d92140e5fdea7a238b4588.html",
-    "resumen": "La consultora tecnológica, que emplea en España a 11.000 trabajadores, asegura que el entorno operativo es \"cada vez más incierto\". Leer"
   },
   {
     "titulo": "Un paseo marítimo con vistas al océano, pescado exquisito y playas eternas: el pueblo pesquero de Galicia ideal para recorrer a pie",
@@ -593,20 +621,6 @@
     "fecha": 1775836310.0,
     "link": "https://www.infolibre.es/politica/9-000-personas-murieron-listas-espera-dependencia-enero-marzo_1_2175847.html",
     "resumen": "Casi 9.000 personas murieron esperando una resolución del sistema de la dependencia en el primer trimestre de 2026, según el Observatorio Estatal para la Dependencia, que eleva la lista de espera en hasta 271.556 personas, ya que no excluye las que llevan menos de seis meses (plazo establecido por la ley) como hace el Ministerio de Derechos Sociales, que la fija en 152.249 personas.Así figura en el informe del observatorio de la Asociación de Directores y Gerentes en Servicios Sociales publicado este viernes tras presentar Derechos Sociales los datos del Panel del Sistema para la Autonomía y Atención a la Dependencia (SAAD) a 31 de marzo de 2026, y que critica que el Ministerio y las comunidades proclamen que se bate el récord de personas atendidas cada año \"para justificar su triunfalismo y ocultar la realidad\".El observatorio cuantifica en 271.556 las personas en listas de espera (13.389 más que a finales del pasado año): 118.716 pendientes de una valoración y 152.840 esperando prestaciones y servicios que tienen reconocidos.Por su parte, el Ministerio de Derechos Sociales no incluye en la lista de espera a las personas que llevan en esa situación menos de seis meses, que es el plazo máximo fijado por la ley para responder a los procedimientos; estima que son 152.249 personas y destaca que esa lista baja un 16,6% en un año.La asociación critica que no se incluya en la suma total a todas las personas y a sus familias que están esperando durante meses una respuesta de la administración. Según su evaluación, con los datos oficiales, \"se necesitarían 86 años para lograr que no hubiese lista de espera\".El observatorio señala que de las 8.996 personas que han fallecido en estos tres meses (992 más que el año pasado a estas alturas), 4.628 lo hicieron esperando ser valoradas y 4.368 a recibir la prestación a la que tenían derecho.Casi la mitad de estas muertes se concentran en Cataluña (2.886) y Andalucía (1.567), mientras que Galicia es la comunidad con menos fallecimientos en lista de espera, con 21, detallan los profesionales de los servicios sociales.\"Es lógico que, mientras haya decenas de miles de personas en las listas de espera, cada vez aumente más el número de personas beneficiarias, aunque sea con servicios de low cost\", reprocha la asociación.Sobre estas críticas de que el sistema ofrece servicios de bajo coste se ha pronunciado en la presentación del panel la secretaria de Estado de Derechos Sociales, Rosa Martínez, que ha reconocido que \"el peso de las prestaciones en el total\" del sistema \"quizá es más alto del que sería deseable\".Ha incidido, no obstante, en que hay \"una voluntad y un compromiso por parte de las comunidades autónomas por reducir la lista de espera y por continuar aumentando el porcentaje de servicios que se ofrecen, reduciendo el de prestaciones\"."
-  },
-  {
-    "titulo": "El Ibex supera el 18.200 tras ganar un 3,7% en su tercera semana al alza",
-    "medio": "Expansión",
-    "fecha": 1775835500.0,
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/04/10/69d88fff468aebfa258b456d.html",
-    "resumen": "Las Bolsas europeas han despedido la sesión con movimientos estrechos a la espera de las negociaciones previstas para este fin de semana entre EEUU e Irán y aliviadas por un IPC de EEUU que se ha disparado justo en línea con lo esperado. Leer"
-  },
-  {
-    "titulo": "El sector aéreo europeo sufrirá escasez de combustible en tres semanas si no se reabre el estrecho de Ormuz",
-    "medio": "Europa Press",
-    "fecha": 1775835173.0,
-    "link": "https://www.europapress.es/economia/transportes-00343/noticia-sector-aereo-europeo-sufrira-escasez-combustible-tres-semanas-si-no-reabre-estrecho-ormuz-20260410173253.html",
-    "resumen": "El sector aéreo de la Unión Europea sufrirá una escasez generalizada de combustible para aviones si no se reanuda el tránsito por el estrecho de Ormuz, cerrado por Irán tras la ofensiva lanzada por Estados Unidos e Israel contra el país, en las próximas tres semanas, según las estimaciones de la división europea del Consejo Internacional de Aeropuertos (ACI, por sus siglas en inglés)."
   },
   {
     "titulo": "No hay sorpresas: el Samsung Galaxy Z Flip 8 revela su diseño al completo en una nueva filtración",
@@ -693,6 +707,13 @@
     "resumen": "El primer ministro de Israel, Benjamín Netanyahu, acusó este viernes a España de \"librar una guerra diplomática\" contra su país, por lo que ordenó expulsar a los representantes españoles del Centro de Coordinación Cívico-Militar (CMCC, por su siglas en inglés) para la supervisión del alto el fuego en la Franja de Gaza.\"Quien ataque al Estado de Israel en lugar de a los regímenes terroristas, quienquiera que haga esto, no será nuestro socio en el futuro de la región\", afirmó en un videomensaje. \"No estoy dispuesto a tolerar esta hipocresía ni esta hostilidad. No permitiré que ningún país libre una guerra diplomática contra nosotros sin pagar un precio inmediato por ello\".El líder israelí acusó a España de difamar a los soldados del Ejército israelí, a raíz de las críticas del Gobierno español a los distintos conflictos en los que el país se ha involucrado, y aseguró que no \"permanecerá impasible\" ante los ataques.\"Por lo tanto, he ordenado la expulsión de los representantes españoles del centro de coordinación en Kiryat Gat, después de que España haya optado repetidamente por oponerse a Israel\", añade.El Ministerio de Exteriores israelí anunció este viernes la decisión, motivada por lo que califican como un \"sesgo antiisraelí tan flagrante\" del Ejecutivo del presidente del Gobierno de España, Pedro Sánchez.Según Exteriores israelí, España ha sido notificada formalmente de la decisión, así como Estados Unidos también fue informado con antelación.El CMCC es el centro multinacional establecido a finales de noviembre en Kiryat Gat (sur de Israel) para avanzar con el plan de paz promovido por Estados Unidos y de cara a una futura reconstrucción y estabilización de la devastada Franja de Gaza.Esta medida supone la última escalada en la disputa diplomática entre ambos países, cuyas relaciones se han ido deteriorando a partir de los ataques terroristas de Hamás del 7 de octubre y la posterior ofensiva del Ejército israelí en la Franja de Gaza, cuya brutalidad (más de 72.000 muertos) ha sido criticada por el Gobierno español.El ministro español de Asuntos Exteriores, José Manuel Albares, señaló este viernes que las descalificaciones de Israel contra España \"son una vez más absurdas y calumniosas\", refiriéndose a los últimos comentarios del Gobierno israelí, uno de cuyos ministros dijo de Pedro Sánchez que es \"un completo y absoluto don nadie\".Albares, en una entrevista en la televisión pública española (TVE), acusó además a Israel de \"intentar malograr\" la negociación entre EE.UU. e Irán para frenar la guerra, incluso antes de que se sienten mañana en Islamabad, al continuar con los bombardeos en Líbano."
   },
   {
+    "titulo": "Un muerto y 27 heridos en el accidente de un autobús turístico en La Gomera",
+    "medio": "Infolibre",
+    "fecha": 1775828802.0,
+    "link": "https://www.infolibre.es/politica/muerto-27-heridos-accidente-autobus-turistico-gomera_1_2175783.html",
+    "resumen": "Un fallo en los frenos es una de las hipótesis que se barajan en la investigación del accidente del autobús turístico ocurrido este viernes en La Gomera, que se ha saldado con uno de sus ocupantes fallecido, un turista británico de 77 años, y otros 27 heridos.Fuentes próximas a la investigación consultadas por EFE señalan que esta es una de las hipótesis con las que se trabaja en estos momentos, a la espera de conocer los resultados definitivos de la inspección en el lugar del siniestro, y tras lo manifestado por el conductor tras el siniestro.El accidente ha ocurrido sobre las 13:20 horas en el kilómetro 4,500 de la carretera GM-2, cuando el autobús turístico de la compañía Gomera Tours se despeñó por un terraplén desde diez metros de altura.Según fuentes de los servicios de emergencias, ha fallecido un británico de 77 años, y el resto de los ocupantes y el conductor, han resultado heridos.En esa misma carretera se produjo el año pasado otro siniestro similar prácticamente en la misma zona, en el que murió una mujer de 73 años.El conductor del autobús accidentado este viernes es un profesional experimentado y está familiarizado con la vía en la que se produjo el siniestro, según han informado a EFE fuentes de la empresa Gomera Tours, que no ha podido contactar todavía con él. Según estas fuentes, el conductor tiene unos 50 años, y está hospitalizado.El grupo de turistas se había alojado en Playa Santiago, en el municipio de Alajeró, y se dirigía al muelle de San Sebastián de La Gomera para tomar un ferri rumbo a Tenerife.Se trata de una ruta que \"se hace prácticamente todos los días\", abundan las fuentes consultadas por EFE, al igual que otras que opera la compañía en La Gomera.Ningún autobús de esta empresa había sufrido hasta la fecha un accidente de tal gravedad."
+  },
+  {
     "titulo": "Si pagas más de 4€ por el cine en Madrid, te están timando: 5 lugares donde la entrada es casi gratis",
     "medio": "Moncloa.com",
     "fecha": 1775827800.0,
@@ -733,13 +754,6 @@
     "fecha": 1775825440.0,
     "link": "https://hipertextual.com/cine-television/steven-spielberg-no-quiere-dirigir-una-pelicula-de-terror-y-la-culpa-es-de-este-exitazo-de-2025/",
     "resumen": "Steven Spielberg, uno de los mejores directores de la historia del cine, ha confirmado que no quiere dirigir una película de terror. Y es algo de lo más intrigante porque, precisamente, su filmografía destaca por una gran maestría en géneros de lo más diversos. Aunque muchos le relacionan con el cine de ciencia ficción (E.T. […] Seguir leyendo: Steven Spielberg no quiere dirigir una película de terror y la culpa es de este exitazo de 2025"
-  },
-  {
-    "titulo": "25.000 euros, SUV y 100% eléctrico: Tesla vuelve a la carga con el Model 2, el hermano pequeño del Model Y",
-    "medio": "Hipertextual",
-    "fecha": 1775825071.0,
-    "link": "https://hipertextual.com/movilidad/25-000-euros-suv-y-100-electrico-tesla-vuelve-a-la-carga-con-el-model-2-el-hermano-pequeno-del-model-y/",
-    "resumen": "Esta semana se cumplen dos años desde que Reuters y Elon Musk tuvieran una disputa de afirmaciones sobre el Tesla Model 2. El medio afirmaba que el magnate había cancelado el coche barato de la compañía, mientras que el propio Musk desmentía esas declaraciones. Según él, el proyecto seguía en pie. 700 días más tarde, […] Seguir leyendo: 25.000 euros, SUV y 100% eléctrico: Tesla vuelve a la carga con el Model 2, el hermano pequeño del Model Y"
   },
   {
     "titulo": "La primera semana del juicio a Ábalos o 'la España de los enchufes'",
@@ -985,13 +999,6 @@
     "fecha": 1775738955.0,
     "link": "https://jacobin.com/2026/04/democrats-coxe-ai-searchlight-nvidia/",
     "resumen": "The previously undisclosed board of an ascendant DC think tank pushing Democrats to the center includes a Democratic Party megadonor with a stake in artificial intelligence chip designer Nvidia, which could benefit from the organization’s efforts to defend data center build-outs and limit AI regulation. The Lever exclusively reports that philanthropist Simone Coxe — whose […]"
-  },
-  {
-    "titulo": "Los peores bulos sobre la comida que corren por ahí, rebatidos con una base científica y nutricional",
-    "medio": "Microsiervos",
-    "fecha": 1775737637.0,
-    "link": "https://www.microsiervos.com/archivo/leyendas-urbanas/peores-bulos-comida-base-cientifica-nutricional.html",
-    "resumen": "El amigo Mikel (a.k.a. El comidista) tiene vídeos en su canal tan buenos como divertidos, eso ya es sabido y bien populares que son. Pero me ha llamado especialmente la atención este que publicó el otro día acerca de los peores bulos sobre la comida, dado que es algo que entra en el terreno de la ciencia de la nutrición y la desinformación (des)interesada, los «bulos» y leyendas urbanas de toda la vida, casi por igual. Aderezado con sus jocosas descripciones y citando a la plataforma de verificación de contenidos Ágora Social de profesionales acreditados (especialmente en Nutrición), Mikel hace una lista de unos 18 bulos sobre la comida, entre los que están estos que me llamaron la atención: «Necesitas algo más que agua tras 8–10 horas sin beber» y «Hay que beber 2 litros de agua al día sí o sí» Falso: el agua es suficiente; no hacen falta añadidos especiales. Basta con beber cuando se tiene sed (salvo casos especiales). «El agua (microplásticos, disruptores) cambia las hormonas o la orientación sexual» Falso: eso no tiene base científica. Y WTF de afirmación. «Una dieta principalmente de frutas y verduras causa desnutrición» Falso: son alimentos clave y saludables. «La fruta fermenta en el estómago si se come de postre» Falso: otra leyenda urbana, de las más escuchadas. «La carne roja es imprescindible o siempre saludable» o «Comer grandes cantidades de proteína es la solución universal» Falso: el consumo frecuente (especialmente carne procesada) aumenta ciertos riesgos. Comer demasiada no es necesario ni equilibrado. Me recordó a El rey del hígado. «El trigo actual es tóxico porque tiene más gluten» Falso: nadie vende trigo tóxico. Simplemente puede ser problemático para celíacos o alérgicos. Parece claro que, como dice Mikel, si quieres consejos sobre lo que comes y cómo lo comes, «mejor escuchar a un profesional acreditado que señores enseñando los pectorales en Instagram… No va a salir bien.» Lo del agua «especial» con propiedades «mágicas», las carnes rojas a lo bestia y las hormonas a cambio de frutas no es ciencia: es gente «muy segura» diciendo cosas muy equivocadas con buena iluminación. § Bonus: no puedo evitar mencionar el que sin duda es uno de mis vídeos favoritos de Mikel: El vino de 1 euro que engañó a los entendidos, que ya tiene una década pero por el que no pasa el tiempo. Menudos «entendidos». Y menudo negocio el de los «vinos de lujo gourmet». Recomiendo también Sour Grapes para entender cómo funciona el mercado de subastas de vinos finos y raros. También salen «entendidos». Relacionado: «La leche es mala» (falso de toda falsedad) # Enlace Permanente"
   },
   {
     "titulo": ".st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} ¿Se están perdiendo los valores? ¿Qué valores?",
