@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 21 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1775814563">
+    <link rel="stylesheet" href="prisma.css?v=1775820534">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>21 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 21 medios · <time datetime="2026-04-10T09:49:23.431868">Actualizado: 10/04/2026 09:49</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-04-10T11:28:54.040272">Actualizado: 10/04/2026 11:28</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -136,6 +136,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -146,6 +147,7 @@
                 <option value="HuffPost">HuffPost</option>
                 <option value="Infolibre">Infolibre</option>
                 <option value="Jacobin ES">Jacobin ES</option>
+                <option value="La Vanguardia">La Vanguardia</option>
                 <option value="Microsiervos">Microsiervos</option>
                 <option value="Moncloa.com">Moncloa.com</option>
                 <option value="OK Diario">OK Diario</option>
@@ -158,12 +160,50 @@
             </select>
         </div>
 
-        <div class="card" data-medios="El Independiente,OK Diario,eldiario.es,Verne,ABC,Genbeta,Europa Press,Infolibre,Microsiervos,Xataka,The Objective">
-            <h2>En foco: Madrid, historia y josué</h2>
+        <div class="card" data-medios="Applesfera">
+            <h2>Hoy: Apple, iphone y delgado</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                11 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/seleccion/iphone-delgado-fecha-baja-precio-puedes-comprarlo-a-su-minimo-historico" target="_blank" rel="noopener">El iPhone más delgado hasta la fecha baja (aún más) de precio: ya puedes comprarlo a su mínimo histórico</a></p>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/rumores/cupertino-siguen-deshojando-margarita-iphone-18-pro-futuro-isla-dinamica-se-vuelve-a-poner-duda" target="_blank" rel="noopener">En Cupertino siguen deshojando la margarita con el iPhone 18 Pro. El futuro de la Isla Dinámica se vuelve a poner en duda</a></p>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/accesorios/no-apple-parece-ojala-fuese-nuevo-mando-xiaomi-tiene-magia-ecosistema-apple-para-compartir-pantalla-movil" target="_blank" rel="noopener">No es de Apple, pero lo parece y ojalá lo fuese: el nuevo mando de Xiaomi tiene hasta la "magia" del ecosistema de Apple para compartir la pantalla del móvil</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-tv/vuelve-mayores-joyas-ocultas-apple-tv-segunda-temporada-materia-oscura-tiene-fecha-para-su-viaje-multiverso" target="_blank" rel="noopener">Pasó con 'Separación' y la historia amenaza con repetirse. La mejor serie sobre el multiverso anuncia su segunda temporada en Apple TV</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Xataka,El Español,OK Diario">
+            <h2>Relevante: Irán, guerra y trump</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -180,118 +220,15 @@
                 </div>
             </div>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/economia/empresas/josue-reyzabal-impulsa-cines-callao-como-eje-cultural-turistico-madrid-celebrar-sus-100-anos-historia-16575635" target="_blank" rel="noopener">Josué Reyzabal impulsa a los Cines Callao como eje cultural y turístico de Madrid al celebrar sus 100 años de historia</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/ultima-hora-guerra-iran-eeuu-israel-directo-alto-fuego-fragil-maxima-tension-oriente-medio-16572323" target="_blank" rel="noopener">Última hora de la guerra en Irán y el alto el fuego | Trump, Líbano, estrecho de Ormuz hoy</a></p>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/historia/misterios-historia-que-siguen-sin-explicacion-16557620" target="_blank" rel="noopener">Los misterios de la historia que siguen sin explicación</a></p>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/2026-04-10/temporal-cabeza-estatua-fernando-vii-sevilla/" target="_blank" rel="noopener">El temporal arranca la cabeza a la estatua de Fernando VII en Sevilla</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 9 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/motor/puntos-recarga-estancan-espana-datos-muestran-ralentizacion-pm_1_13132666.html" target="_blank" rel="noopener">Los puntos de recarga se estancan en España: los datos que muestran una ralentización</a></p>
-
-                    <p><strong>Xataka:</strong> <a href="https://www.xataka.com/magnet/1599-alguien-anoto-como-se-hacian-tortillas-espana-zanja-vez-debate-sincebollistas" target="_blank" rel="noopener">En 1599 alguien anotó cómo se hacían las tortillas en España. Y zanja de una vez el debate entre "con y sincebollistas"</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/madrid/noticia-detenido-autor-muerte-menor-villanueva-canada-20260410085105.html" target="_blank" rel="noopener">Detenido el autor de la muerte de un menor en Villanueva de la Cañada (Madrid)</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/medioambiente/gripe-porcina-tormentas-guerra-encarecen-alimentos-10-origen-mes_1_2175300.html" target="_blank" rel="noopener">La gripe porcina, las tormentas y ahora la guerra encarecen los alimentos un 10% en origen en solo un mes</a></p>
-
-                    <p><strong>Microsiervos:</strong> <a href="https://www.microsiervos.com/archivo/leyendas-urbanas/peores-bulos-comida-base-cientifica-nutricional.html" target="_blank" rel="noopener">Los peores bulos sobre la comida que corren por ahí, rebatidos con una base científica y nutricional</a></p>
-
-                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/aragon/2026/04/08/negociaciones-pp-vox-aragon/" target="_blank" rel="noopener">Vaquero, sobre las negociaciones entre PP y Vox en Aragón: "Ese guiso a fuego lento acabará bien"</a></p>
-
-                    <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial" target="_blank" rel="noopener">El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial</a></p>
-
-                    <p><strong>Verne:</strong> <a href="https://verne.elpais.com/verne/2021/03/01/articulo/1614584363_382946.html" target="_blank" rel="noopener">Así ha cambiado España desde los primeros censos del siglo XVIII</a></p>
-
-                    <p><strong>ABC:</strong> <a href="http://www.abc.es" target="_blank" rel="noopener">Los alumnos de la Autónoma acorralan a los 150 radicales del violento escrache a Felipe González</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="Xataka,OK Diario,El País,Expansión">
-            <h2>Tema: Irán, guerra y israel</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                4 medios · tono equilibrado · 
-                múltiples perspectivas
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/ultima-hora-guerra-iran-eeuu-israel-directo-alto-fuego-fragil-maxima-tension-oriente-medio-16572323" target="_blank" rel="noopener">Guerra en Irán, EEUU e Israel en directo | Última hora de Trump, Líbano y el estrecho de Ormuz hoy</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-10/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán insiste en que la ofensiva en Líbano tiene que parar antes de la negociación con EE UU mientras Israel y Hezbolá intercambian ataques</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/america/eeuu/20260410/terremoto-mundo-maga-trump-ataca-influencers-conservadores-criticarle-iran-tacha-estupidos/1003744201471_0.html" target="_blank" rel="noopener">Terremoto en el mundo MAGA: Trump ataca a los 'influencers' conservadores por criticarle por Irán y los tacha de "estúpidos"</a></p>
 
             <p><strong>Xataka:</strong> <a href="https://www.xataka.com/movilidad/guerra-iran-va-a-alargar-gran-secreto-aerolineas-que-tu-proximo-avion-sea-todavia-antiguo-no-te-des-cuenta" target="_blank" rel="noopener">La guerra de Irán va a alargar el gran secreto de las aerolíneas: que tu próximo avión sea todavía más antiguo… y no te des ni cuenta</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 2 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-10/mojtaba-jamenei-sigue-en-paradero-desconocido-pero-iran-no-da-signos-de-vacio-de-poder.html" target="_blank" rel="noopener">¿Quién manda en Irán? El líder supremo sigue en paradero desconocido pero el régimen no da signos de vacío de poder</a></p>
-
-                    <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/financial-times/2026/04/10/69d8ac37468aeb643a8b4570.html" target="_blank" rel="noopener">La guerra en Irán dejará secuelas a largo plazo en Wall Street, advierten los inversores</a></p>
-
-                </div>
-            </details>
         </div>
 
-        <div class="card" data-medios="Europa Press,El Mundo,Microsiervos,El País">
-            <h2>Claves: Artemis, tierra y bola</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                4 medios · tono equilibrado · 
-                múltiples perspectivas
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 52%;"></div>
-                    <div class="barra-conservadora" style="width: 48%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 52%</span>
-                    <span>Conservador 48%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/10/69d7807ee85ece3f1c8b45bd.html" target="_blank" rel="noopener">Caer a la Tierra a la velocidad de una bala y envueltos en una bola de fuego: llega el momento más peligroso para la tripulación de Artemis 2</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/ciencia/2026-04-10/los-astronautas-de-artemis-ante-el-momento-mas-peligroso-que-les-queda-la-reentrada-iremos-montados-en-una-bola-de-fuego.html" target="_blank" rel="noopener">Los astronautas de Artemis, ante el momento más peligroso que les queda, la reentrada: “Iremos montados en una bola de fuego”</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/ciencia/noticia-astronautas-mision-artemis-ii-realizan-exito-segunda-maniobra-volver-tierra-20260410064221.html" target="_blank" rel="noopener">Los astronautas de la misión Artemis II realizan con éxito la segunda maniobra para volver a la Tierra</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 1 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Microsiervos:</strong> <a href="https://www.microsiervos.com/archivo/espacio/artemisa-ii-viene-camino-casa.html" target="_blank" rel="noopener">Artemisa II viene camino de casa</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="The Objective,HuffPost,Europa Press">
-            <h2>Claves: Montero, acto y rufián</h2>
+        <div class="card" data-medios="El Mundo,El Español,El Independiente">
+            <h2>Tema: Adamuz, accidente y alta</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -312,18 +249,47 @@
                 </div>
             </div>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/moda/irene-montero-rescata-camiseta-mensaje-claro-acto-rufian-f202604.html" target="_blank" rel="noopener">Irene Montero rescata una camiseta con un mensaje claro durante su acto con Rufián</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/andalucia/20260410/victimas-adamuz-critican-gestion-sanitaria-accidente-piden-exhaustiva-investigacion/1003744201717_0.html" target="_blank" rel="noopener">Víctimas de Adamuz critican "la gestión sanitaria" del accidente y piden una "exhaustiva investigación"</a></p>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/politica/2026-04-10/sumar-acto-montero-rufian-union-izquierda/" target="_blank" rel="noopener">Sumar considera el acto Montero-Rufián un paso más para construir la unión de la izquierda</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/2026/04/10/69d8cb6fe9cf4a6a268b4599.html" target="_blank" rel="noopener">La alta velocidad pierde un tercio de sus viajeros tras el accidente mortal de Adamuz</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-montero-dice-hablara-todos-incluidos-iu-sumar-concretar-frente-amplio-presento-rufian-20260410101814.html" target="_blank" rel="noopener">Montero dice que hablará "con todos", incluidos IU y Sumar, para "concretar" el frente amplio que presentó con Rufián</a></p>
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/economia/2026/04/10/viajeros-alta-velocidad-febrero-adamuz/" target="_blank" rel="noopener">Los viajeros de alta velocidad se hunden un 32% en febrero tras la tragedia de Adamuz</a></p>
         </div>
 
-        <div class="card" data-medios="El Mundo,Europa Press">
-            <h2>Portada: Mérida, cerrar y acuerdo</h2>
+        <div class="card" data-medios="El Mundo,eldiario.es,Europa Press">
+            <h2>Tema: Pacto, extremadura y descarta</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/castilla-y-leon/politica/vox-descarta-arrancar-legislatura-castilla-leon-pacto-gobierno-2022_1_13133116.html" target="_blank" rel="noopener">Vox descarta arrancar la legislatura de Castilla y León con un pacto de gobierno como en 2022</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/extremadura/2026/04/10/69d8c18ee9cf4aad058b4595.html" target="_blank" rel="noopener">PP y Vox perfilan ya en Extremadura en una reunión al máximo nivel su primer pacto en dos años</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-pp-vox-reunen-nuevo-merida-intentar-cerrar-acuerdo-gobierno-extremadura-20260410110207.html" target="_blank" rel="noopener">El PP y Vox se reúnen de nuevo en Mérida para intentar cerrar un acuerdo de gobierno en Extremadura</a></p>
+        </div>
+
+        <div class="card" data-medios="Europa Press,eldiario.es,HuffPost">
+            <h2>En foco: Rufián, montero y acto</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -332,25 +298,27 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
                 </div>
             </div>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/extremadura/2026/04/10/69d8c18ee9cf4aad058b4595.html" target="_blank" rel="noopener">Los equipos negociadores de PP y Vox se vuelven a reunir en Mérida para cerrar el acuerdo de gobernabilidad en Extremadura</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/catalunya/erc-responde-rufian-partido-no-resolver-disputas-izquierda-espanola-acto-montero_1_13132699.html" target="_blank" rel="noopener">ERC responde a Rufián que el partido no puede "resolver las disputas de la izquierda española" tras su acto con Montero</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-pp-vox-reunen-nuevo-merida-intentar-cerrar-acuerdo-gobierno-extremadura-20260410110207.html" target="_blank" rel="noopener">El PP y Vox se reúnen de nuevo en Mérida para intentar cerrar un acuerdo de gobierno en Extremadura</a></p>
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/moda/irene-montero-rescata-camiseta-mensaje-claro-acto-rufian-f202604.html" target="_blank" rel="noopener">Irene Montero rescata una camiseta con un mensaje claro durante su acto con Rufián</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-montero-dice-hablara-todos-incluidos-iu-sumar-concretar-frente-amplio-presento-rufian-20260410101814.html" target="_blank" rel="noopener">Montero dice que hablará "con todos", incluidos IU y Sumar, para "concretar" el frente amplio que presentó con Rufián</a></p>
         </div>
 
-        <div class="card" data-medios="Applesfera">
-            <h2>Claves: Iphone, cupertino y siguen</h2>
+        <div class="card" data-medios="El Mundo,Infolibre">
+            <h2>Hoy: Fiscalía, condena y general</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
+                2 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -368,9 +336,198 @@
                 </div>
             </div>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/rumores/cupertino-siguen-deshojando-margarita-iphone-18-pro-futuro-isla-dinamica-se-vuelve-a-poner-duda" target="_blank" rel="noopener">En Cupertino siguen deshojando la margarita con el iPhone 18 Pro. El futuro de la Isla Dinámica se vuelve a poner en duda</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/04/10/69d8d5edfc6c839d388b45c1.html" target="_blank" rel="noopener">La Fiscalía recurre al Constitucional para que anule la condena al ex fiscal general Álvaro García Ortiz</a></p>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/rumores/filtran-precio-iphone-plegable-preparar-ahorros-se-va-a-quedar-corto-esta-vez" target="_blank" rel="noopener">Filtran el precio del iPhone plegable. Preparar los ahorros se va a quedar corto esta vez</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/fiscalia-pide-tc-anular-condena-exfiscal-general-revelacion-secretos_1_2175636.html" target="_blank" rel="noopener">La Fiscalía pide al TC anular la condena al exfiscal general por revelación de secretos</a></p>
+        </div>
+
+        <div class="card" data-medios="El Independiente,OK Diario">
+            <h2>En foco: Tiempo, este y aemet</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 52%;"></div>
+                    <div class="barra-conservadora" style="width: 48%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 52%</span>
+                    <span>Conservador 48%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/baleares/aemet-confirma-cambio-radical-tiempo-este-domingo-baleares-lluvias-barro-bajada-temperaturas-16577206" target="_blank" rel="noopener">La AEMET confirma el cambio radical de tiempo este domingo en Baleares: lluvias con barro y bajada de temperaturas</a></p>
+
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/futuro/2026/04/10/tiempo-fin-de-semana-drasticos-cambios-temperatura/" target="_blank" rel="noopener">El tiempo este fin de semana: drásticos cambios de temperatura</a></p>
+        </div>
+
+        <div class="card" data-medios="El Mundo,eldiario.es">
+            <h2>Tema: Mazón, recurre y audiencia</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 52%;"></div>
+                    <div class="barra-conservadora" style="width: 48%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 52%</span>
+                    <span>Conservador 48%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/comunidad-valenciana/2026/04/10/69d8d2d2e85ece0d358b4586.html" target="_blank" rel="noopener">Mazón recurre a la Audiencia para personarse en la causa de la dana: alega "indefensión" y pide anular las diligencias contra él</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/comunitat-valenciana/mazon-recurre-audiencia-negativa-jueza-dana-pueda-personarse-causa_1_13133114.html" target="_blank" rel="noopener">Mazón recurre ante la Audiencia la negativa de la jueza de la dana a que pueda personarse en la causa</a></p>
+        </div>
+
+        <div class="card" data-medios="Microsiervos">
+            <h2>Hoy: Artemisa, reentrada y atmósfera</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🔵 Enfoque ligeramente progresista</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 53%;"></div>
+                    <div class="barra-conservadora" style="width: 47%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 53%</span>
+                    <span>Conservador 47%</span>
+                </div>
+            </div>
+
+            <p><strong>Microsiervos:</strong> <a href="https://www.microsiervos.com/archivo/espacio/reentrada-atmosfera-prueba-final-artemisa-ii.html" target="_blank" rel="noopener">La reentrada en la atmósfera, prueba final para Artemisa II</a></p>
+
+            <p><strong>Microsiervos:</strong> <a href="https://www.microsiervos.com/archivo/espacio/artemisa-ii-viene-camino-casa.html" target="_blank" rel="noopener">Artemisa II viene camino de casa</a></p>
+        </div>
+
+        <div class="card" data-medios="Hipertextual">
+            <h2>Portada: Instagram, sorpresa y espera</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/actualidad/instagram-da-la-sorpresa-tras-anos-de-espera-al-fin-permite-editar-los-comentarios-una-vez-publicados/" target="_blank" rel="noopener">Instagram da la sorpresa: tras años de espera, al fin permite editar los comentarios una vez publicados</a></p>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/mobile/whatsapp-cambia-de-diseno-y-se-vuelve-mas-instagram-preparate-para-ver-esto-en-la-pestana-de-chats/" target="_blank" rel="noopener">WhatsApp cambia de diseño y se vuelve más “Instagram”: prepárate para ver esto en la pestaña de chats</a></p>
+        </div>
+
+        <div class="card" data-medios="El País,Infolibre">
+            <h2>Tema: Corazón, duplicado y saramago</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/cultura/2026-04-10/el-corazon-duplicado-de-saramago.html" target="_blank" rel="noopener">El corazón duplicado de Saramago</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/plaza-publica/cara-oculta-humano_129_2173673.html" target="_blank" rel="noopener">La cara oculta de lo humano</a></p>
+        </div>
+
+        <div class="card" data-medios="The Objective,El Independiente">
+            <h2>En foco: Psoe, koldo y senado</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/2026/04/10/el-psoe-oculta-a-la-comision-koldo-del-senado-los-tickets-de-los-pagos-en-metalico-a-abalos-y-su-asesor/" target="_blank" rel="noopener">El PSOE oculta a la 'comisión Koldo' del Senado los tickets de los pagos en metálico a Ábalos y su asesor</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/politica/2026-04-10/psoe-senado-facturas-tickets-abalos-koldo-cerdan/" target="_blank" rel="noopener">El PSOE niega al Senado las facturas de los tickets de gastos de Ábalos, Koldo y Cerdán</a></p>
+        </div>
+
+        <div class="card" data-medios="HuffPost,Xataka">
+            <h2>Portada: Declaración, renta y puedes</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/economia/asi-puedes-modificar-declaracion-renta-presentada-evitar-problemas-hacienda-f202604.html" target="_blank" rel="noopener">Así puedes modificar una declaración de la renta ya presentada</a></p>
+
+            <p><strong>Xataka:</strong> <a href="https://www.xataka.com/basics/avisos-hacienda-antes-multarte-renta-2025-estos-que-recibes-hay-errores-tu-declaracion-2026" target="_blank" rel="noopener">Avisos de Hacienda antes de multarte en la Renta 2025: estos son los que recibes si hay errores en tu declaración de 2026</a></p>
         </div>
 
         <div class="cta-section">
