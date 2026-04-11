@@ -1,5 +1,82 @@
 [
   {
+    "titulo": "Bad Gyal demuestra ser la 'más cara' a golpe de 'twerk' en un Madrid entregado",
+    "medio": "HuffPost",
+    "fecha": 1775947646.0,
+    "link": "https://www.huffingtonpost.es/life/cultura/bad-gyal-demuestra-mas-cara-golpe-twerk-madrid-entregado-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El déficit comercial de España con China se ha duplicado desde 2018",
+    "medio": "The Objective",
+    "fecha": 1775946300.0,
+    "link": "https://theobjective.com/economia/2026-04-12/deficit-comercial-china/",
+    "resumen": "España contrajo un déficit comercial con China de 32.242 millones de euros en 2025, según la estadística difundida este viernes por Eurostat. Aunque este dato infravalora […]"
+  },
+  {
+    "titulo": "Muere el fiscal Antonio Vercher, pionero del derecho medioambiental",
+    "medio": "El País",
+    "fecha": 1775945020.0,
+    "link": "https://elpais.com/clima-y-medio-ambiente/2026-04-11/muere-el-fiscal-antonio-vercher-pionero-del-derecho-medioambiental.html",
+    "resumen": "El jurista estuvo dos décadas al frente de la Fiscalía especializada, desde donde impulsó la defensa de la casa común"
+  },
+  {
+    "titulo": "Trump advierte que le «da igual» llegar a un acuerdo con Irán",
+    "medio": "The Objective",
+    "fecha": 1775944983.0,
+    "link": "https://theobjective.com/internacional/2026-04-12/trump-da-igual-acuerdo-iran/",
+    "resumen": "El presidente estadounidense, Donald Trump, ha asegurado este sábado que a él le «da igual» llegar a un acuerdo o no con Irán porque, «pase lo […]"
+  },
+  {
+    "titulo": "Simeone defiende su «plan» pese a las tres derrotas seguidas en Liga: «No me voy a mover de eso»",
+    "medio": "OK Diario",
+    "fecha": 1775944477.0,
+    "link": "https://okdiario.com/deportes/simeone-defiende-plan-pese-tres-derrotas-seguidas-liga-no-voy-mover-eso-16586300",
+    "resumen": "Diego Pablo Simeone atendió a los medios tras la derrota del Atlético de Madrid contra el Sevilla en el Sánchez Pizjuán (2-1). El argentino, que presenció el partido de Liga desde la grada por sanción, defendió su «plan» al ser preguntado por el equipo que presenta en los últimos compromisos ligueros pensando en la Champions … Continuar leyendo \"Simeone defiende su «plan» pese a las tres derrotas seguidas en Liga: «No me voy a mover de eso»\""
+  },
+  {
+    "titulo": "Orbán promete «una victoria que sorprenderá a todos»",
+    "medio": "The Objective",
+    "fecha": 1775943765.0,
+    "link": "https://theobjective.com/internacional/2026-04-11/orban-victoria/",
+    "resumen": "El primer ministro de Hungría, Viktor Orbán, ha asegurado que su partido, Fidesz, logrará «una victoria que sorprenderá a todos» en las elecciones legislativas previstas para […]"
+  },
+  {
+    "titulo": "El Sevilla respira a costa de un Atlético con la mente puesta en la Champions y la final de Copa",
+    "medio": "El País",
+    "fecha": 1775943411.0,
+    "link": "https://elpais.com/deportes/futbol/2026-04-11/el-sevilla-respira-a-costa-de-un-atletico-con-la-mente-puesta-en-la-champions-y-la-final-de-copa.html",
+    "resumen": "Los andaluces salen de la zona de descenso al derrotar a un rival plagado de suplentes y canteranos"
+  },
+  {
+    "titulo": "Un Atlético que piensa en Champions cae ante un Sevilla que sale del descenso",
+    "medio": "El Mundo",
+    "fecha": 1775941547.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/04/11/69da965afc6c83c5368b4593.html",
+    "resumen": "Akor y Gudelj dieron la primera victoria a Luis García Plaza en el banquillo hispalense en un duelo en el que marcó el canterano rojiblanco Boñar Leer"
+  },
+  {
+    "titulo": "Más cara, más sexual, más poderosa: Bad Gyal pone caliente Madrid para celebrar 10 años de carrera",
+    "medio": "El Mundo",
+    "fecha": 1775941514.0,
+    "link": "https://www.elmundo.es/cultura/musica/2026/04/11/69dab44f21efa07b398b457d.html",
+    "resumen": "La cantante ha hecho suyo el término 'Zorra', lo ha redifinido y lo ha convertido en motivo de orgullo femenino -y feminista- para quienes la siguen Leer"
+  },
+  {
+    "titulo": "El Pizjuán engulle a la juventud del Atlético y el Sevilla respira",
+    "medio": "OK Diario",
+    "fecha": 1775941505.0,
+    "link": "https://okdiario.com/deportes/cronica-sevilla-atleti-16585914",
+    "resumen": "El estadio Ramón Sánchez Pizjuán engulló a la juventud atlética y el Sevilla salvó el primer match ball por la permanencia ante un Atlético de Madrid plagado de suplentes y con cuatro canteranos en el once (2-1). El equipo hispalense evitó más drama en un sábado en el que la victoria del Elche durante la … Continuar leyendo \"El Pizjuán engulle a la juventud del Atlético y el Sevilla respira\""
+  },
+  {
+    "titulo": "Irán y EEUU concluyen con «optimismo» la primera fase de sus negociaciones",
+    "medio": "The Objective",
+    "fecha": 1775941503.0,
+    "link": "https://theobjective.com/internacional/2026-04-11/iran-eeuu-primera-fase-negociaciones/",
+    "resumen": "Irán y Estados Unidos han concluido este sábado en Islamabad la primera fase de sus negociaciones directas con señales de «optimismo» y el intercambio de las […]"
+  },
+  {
     "titulo": "Jornada 31 de la Liga: resumen de los partidos",
     "medio": "OK Diario",
     "fecha": 1775941205.0,
@@ -12,6 +89,13 @@
     "fecha": 1775940786.0,
     "link": "https://www.elmundo.es/madrid/2026/04/11/69dab28bfdddff3e038b4570.html",
     "resumen": "El Santo Padre desveló, a través del concierto que este sábado se celebró en esta céntrica plaza, que será en esa misma ubicación donde se reunirá con las familias y los jóvenes en su visita a Madrid Leer"
+  },
+  {
+    "titulo": "El Barcelona prolonga su hegemonía tras conquistar su 16ª Liga Asobal consecutiva",
+    "medio": "El País",
+    "fecha": 1775939620.0,
+    "link": "https://elpais.com/deportes/2026-04-11/el-barcelona-prolonga-su-hegemonia-tras-conquistar-su-16-liga-asobal-consecutiva.html",
+    "resumen": "El conjunto azulgrana dirigido por Carlos Ortega celebra su 33º título liguero de forma matemática a falta de seis jornadas tras la derrota del Dicorpebal Logroño ante el Irudek Bidasoa Irún"
   },
   {
     "titulo": "Netanyahu advierte de que la campaña de Irán «no ha terminado»",
@@ -42,13 +126,6 @@
     "resumen": "Álvaro Sánchez Cotrina es el nuevo líder del PSOE de Extremadura. Cubre así la vacante dejada por el ex presidente de la Diputación de Badajoz, Miguel Ángel Gallardo, que dimitió como secretario general de los socialistas extremeños tras la debacle electoral del pasado diciembre, cuando las urnas certificaron el hundimiento del PSOE en el que … Continuar leyendo \"El candidato de Sánchez gana las primarias del PSOE extremeño que enchufó al hermano del presidente\""
   },
   {
-    "titulo": "Carlos Alcaraz - Jannik Sinner, una final de alto voltaje: el número uno en juego, la corona de Montecarlo y el cetro ATP",
-    "medio": "El Español",
-    "fecha": 1775938548.0,
-    "link": "https://www.elespanol.com/deportes/tenis/20260411/carlos-alcaraz-jannik-sinner-final-alto-voltaje-numero-juego-corona-montecarlo-cetro-atp/1003744203522_0.html",
-    "resumen": "Diez meses después de jugar la última final en tierra batida, el español y el italiano vuelven a escribir un nuevo capítulo en una rivalidad que ya es histórica. Más información: Carlos Alcaraz se impone con comodidad a Vacherot y acepta el reto de Sinner en la final del Masters 1.000 de Montecarlo"
-  },
-  {
     "titulo": "Los expertos en defensa antidron alertan: Europa está comprando tecnología ucraniana sin saber cómo integrarla y eso crea una laguna enorme en sus defensas aéreas",
     "medio": "HuffPost",
     "fecha": 1775938464.0,
@@ -61,13 +138,6 @@
     "fecha": 1775938396.0,
     "link": "https://www.huffingtonpost.es/sociedad/una-especialista-fertilizantes-avisa-viene-guerraan-es-inevitable-suban-precios-alimentos-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Empeñados en el hundimiento",
-    "medio": "El País",
-    "fecha": 1775938037.0,
-    "link": "https://elpais.com/cultura/2026-04-11/empenados-en-el-hundimiento.html",
-    "resumen": "Sin petición mayoritaria y tras un pinchazo y un aviso, el palco concedió una oreja a Lama de Góngora; Pepe Moral y Fabio Jiménez, por encima de una bella, desigual y descastada corrida de Alcurrucén"
   },
   {
     "titulo": "El Barça deja casi sentenciada la Liga tras golear al Espanyol",
@@ -119,13 +189,6 @@
     "resumen": "El Barcelona recupera la pegada en el derbi, refuerza su liderato con una ventaja de nueve puntos y toma aire y ánimo para la Champions después de la exhibición de inicio a fin del 10"
   },
   {
-    "titulo": "Álvaro Sánchez Cotrina gana las primarias del PSOE en Extremadura",
-    "medio": "El Español",
-    "fecha": 1775936312.0,
-    "link": "https://www.elespanol.com/espana/politica/20260411/alvaro-sanchez-cotrina-gana-primarias-psoe-extremadura/1003744203405_0.html",
-    "resumen": "El alcalde de Salorino se ha impuesto a Soraya Vega en las elecciones primarias del Partido Socialista en Extremadura. Más información: Otro Sánchez para levantar el PSOE extremeño: el 'yerno perfecto' de casi 1,90, favorito para suceder a Gallardo"
-  },
-  {
     "titulo": "A qué hora juega Carlos Alcaraz Vs. Sinner: cuándo es la final del Masters 1000 de Montecarlo y dónde ver por TV en directo gratis y en vivo online",
     "medio": "OK Diario",
     "fecha": 1775936156.0,
@@ -133,11 +196,18 @@
     "resumen": "El mundo del tenis se ha acostumbrado ya a los Carlos Alcaraz – Sinner, que durante años van a copar las finales de los grandes torneos. En este Masters 1000 de Montecarlo 2026 vamos a disfrutar de un nuevo enfrentamiento entre el murciano y el italiano donde ya sólo puede quedar uno tras un gran … Continuar leyendo \"A qué hora juega Carlos Alcaraz Vs. Sinner: cuándo es la final del Masters 1000 de Montecarlo y dónde ver por TV en directo gratis y en vivo online\""
   },
   {
+    "titulo": "Sorpresa en el PSOE de Extremadura: Álvaro Sánchez Cotrina rompe décadas de dominio de Badajoz y se impone en las primarias",
+    "medio": "HuffPost",
+    "fecha": 1775936125.0,
+    "link": "https://www.huffingtonpost.es/politica/sorpresa-psoe-extremadura-alvaro-sanchez-cotrina-rompe-decadas-dominio-badajoz-impone-primarias-f202604.html",
+    "resumen": ""
+  },
+  {
     "titulo": "El lujo de Aventado y el toreo de Fabio Jiménez con la suerte en contra en Sevilla",
     "medio": "El Mundo",
     "fecha": 1775935930.0,
     "link": "https://www.elmundo.es/cultura/toros/2026/04/11/69da19ee21efa07b278b456e.html",
-    "resumen": "Lama de Góngora se hace con una generosa oreja de un superclase de Alcurrucén y Pepe Moral pasea una justa vuelta al ruedo; Fabio pone lo mejor con el peor lote de una corrida de caras hechuras Leer"
+    "resumen": "Lama de Góngora se hace con una generosa oreja de un superclase de Alcurrucén y Pepe Moral pasea una justa vuelta al ruedo; Fabio pone lo mejor con el peor lote de una corrida de caras hechuras y dos toros de nota Leer"
   },
   {
     "titulo": "Flick prefiere ser cauto: «¿Liga sentenciada? No está acabada»",
@@ -196,32 +266,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Aviso de la AEMET por tormentas, lluvias de más de 30 l/m² y granizo en estas seis provincias de España",
-    "medio": "OK Diario",
-    "fecha": 1775934944.0,
-    "link": "https://okdiario.com/sociedad/aviso-aemet-tormentas-lluvias-mas-30-l-m%c2%b2-granizo-estas-seis-provincias-espana-16585973",
-    "resumen": "La Agencia Estatal de Meteorología (AEMET) ha emitido este sábado un aviso por un episodio de inestabilidad que afectará en las próximas horas a varias zonas de España, con especial incidencia en seis provincias donde se esperan tormentas localmente fuertes, lluvias intensas y posible granizo. Lluvias intensas y riesgo de inundaciones Las precipitaciones asociadas a … Continuar leyendo \"Aviso de la AEMET por tormentas, lluvias de más de 30 l/m² y granizo en estas seis provincias de España\""
-  },
-  {
-    "titulo": "Sánchez sablea a los valencianos tras la DANA cobrándoles 2.371 millones más en impuestos",
-    "medio": "OK Diario",
-    "fecha": 1775934850.0,
-    "link": "https://okdiario.com/espana/sanchez-sablea-valencianos-dana-cobrandoles-2-371-millones-mas-impuestos-16585526",
-    "resumen": "Ni menos presión tributaria para ayudar a los damnificados, ni exenciones fiscales generalizadas para contribuir a la reconstrucción social y económica. Las cifras de ingresos tributarios del Estado en la provincia de Valencia demuestran que el Gobierno de Pedro Sánchez ni siquiera congeló la recaudación fiscal en la provincia de Valencia tras la DANA sino … Continuar leyendo \"Sánchez sablea a los valencianos tras la DANA cobrándoles 2.371 millones más en impuestos\""
-  },
-  {
     "titulo": "Netanyahu obstaculiza con su ofensiva en Líbano un alto el fuego en el que no cree",
     "medio": "El País",
     "fecha": 1775934796.0,
     "link": "https://elpais.com/internacional/2026-04-11/netanyahu-obstaculiza-con-su-ofensiva-en-libano-un-alto-el-fuego-en-el-que-no-cree.html",
     "resumen": "El primer ministro israelí acepta dialogar con Beirut forzado por Trump tras los ataques que han causado más de 350 muertos"
-  },
-  {
-    "titulo": "Alice Kellen publica 'El Club del Olvido': \"Vivimos un mundo donde es difícil escapar de las nuevas tecnologías. Te quedas en los márgenes\"",
-    "medio": "HuffPost",
-    "fecha": 1775934796.0,
-    "link": "https://www.huffingtonpost.es/life/cultura/alice-kellen-f202604.html",
-    "resumen": ""
   },
   {
     "titulo": "El Consejo de Estado pone en solfa la regularización de inmigrantes",
@@ -231,25 +280,11 @@
     "resumen": "Duda de los criterios de vulnerabilidad y de la acreditación de antecedentes penales Leer"
   },
   {
-    "titulo": "Rusia y Ucrania activan un alto el fuego por la Pascua Ortodoxa",
+    "titulo": "Rusia y Ucrania activan un alto el fuego por la Pascua ortodoxa",
     "medio": "The Objective",
     "fecha": 1775934532.0,
     "link": "https://theobjective.com/internacional/2026-04-11/rusia-ucrania-alto-fuego-pascua-ortodoxa/",
-    "resumen": "La tregua Pascual acordada por Rusia y Ucrania entró en vigor este sábado a las 16.00 hora local (13.00 GMT) y, en principio, expirará a medianoche […]"
-  },
-  {
-    "titulo": "El Barça rearma su autoestima al golear a un orgulloso Espanyol en la recta final del derbi",
-    "medio": "La Vanguardia",
-    "fecha": 1775934166.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260411/11511170/barca-rearma-autoestima-golear-espanyol-recta-final-derbi.html",
-    "resumen": "El líder se escapa a 9 puntos en la Liga y ya piensa en una remontada en la Champions"
-  },
-  {
-    "titulo": "Muere John Nolan, veterano actor de teatro conocido por la serie ‘Vigilados’ y las películas de Batman, a los 87 años",
-    "medio": "El País",
-    "fecha": 1775934085.0,
-    "link": "https://elpais.com/cultura/2026-04-11/muere-john-nolan-veterano-actor-de-teatro-conocido-por-la-serie-vigilados-y-las-peliculas-de-batman-a-los-87-anos.html",
-    "resumen": "El intérprete británico era el tío de los cineastas y guionistas Christopher y Jonathan, en cuyas producciones encontró sus papeles más célebres"
+    "resumen": "La tregua pascual acordada por Rusia y Ucrania entró en vigor este sábado a las 16.00 hora local (13.00 GMT) y, en principio, expirará a medianoche […]"
   },
   {
     "titulo": "Uso Claude y desde que instalé esta extensión de Chrome ya no me quedo sin créditos",
@@ -270,28 +305,7 @@
     "medio": "Europa Press",
     "fecha": 1775933038.0,
     "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-celebra-media-liga-derbi-20260411204358.html",
-    "resumen": "Un doblete de Ferran Torres y los goles de Lamine Yamal y Marcus Rashford en los últimos minutos dieron la victoria (4-1) al FC Barcelona sobre el Espanyol este sábado en la jornada 31 de LaLiga EA Sports, un derbi azulgrana en el Spotify Camp Nou que supone medio título liguero para los locales, antes de buscar el martes remontar un 0-2 en Champions contra el Atlético de Madrid."
-  },
-  {
-    "titulo": "La conexión Lamine - Ferran se luce en el derbi ante el Espanyol y el Barça deja sentenciada La Liga con una nueva victoria",
-    "medio": "El Español",
-    "fecha": 1775932218.0,
-    "link": "https://www.elespanol.com/deportes/futbol/20260411/conexion-lamine-ferran-luce-derbi-espanyol-barca-deja-sentenciada-liga-nueva-victoria/1003744203482_0.html",
-    "resumen": "'El Tiburón', con un doblete, vio portería 14 partidos después. Lamine, en el minuto 87, sentenció el partido y Rashford selló la goleada. Más información: El Real Madrid considera La Liga fraudulenta: la lista de escándalos arbitrales que le alejaron de pelear por el título"
-  },
-  {
-    "titulo": "La megafonía del Camp Nou suena en dos ocasiones para frenar cánticos",
-    "medio": "La Vanguardia",
-    "fecha": 1775931655.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260411/11511156/megafonia-camp-nou-suena-dos-ocasiones-frenar-canticos.html",
-    "resumen": "Fue en los minutos 33 y 58 del derbi catalán entre el Barça y el Espanyol"
-  },
-  {
-    "titulo": "Da a luz la mujer embarazada que resultó herida grave en el accidente de Adamuz",
-    "medio": "El País",
-    "fecha": 1775931220.0,
-    "link": "https://elpais.com/espana/2026-04-11/da-a-luz-la-mujer-embarazada-que-resulto-herida-grave-en-el-accidente-de-adamuz.html",
-    "resumen": "Es la única paciente que permanece ingresada desde el descarrilamiento. El bebé se encuentra en buen estado, indican fuentes de la Junta andaluza"
+    "resumen": "El Barça celebra media liga con el derbi El líder goleó (4-1) a un Espanyol vivo hasta los últimos minutos en el Camp Nou y metió 9 puntos al Real Madrid MADRID, 11 (EUROPA PRESS) Un doblete de Ferran Torres y los goles de Lamine Yamal y Marcus Rashford en los últimos minutos dieron la victoria (4-1) al FC Barcelona sobre el Espanyol este sábado en la jornada 31 de LaLiga EA Sports, un derbi azulgrana en el Spotify Camp Nou que supone medio título liguero para los locales, antes de buscar el martes remontar un 0-2 en Champions contra el Atlético de Madrid."
   },
   {
     "titulo": "El Papa desvela el primer acto oficial de su visita a España: un encuentro en la Plaza de Cibeles",
@@ -301,39 +315,11 @@
     "resumen": "El Papa León XIV ha confirmado oficialmente un acto de la agenda de la visita que va a realizar a España entre el 6 y el […]"
   },
   {
-    "titulo": "Del regreso desde las estrellas a los gestos que nos unen en la Tierra y más imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1775930911.0,
-    "link": "https://www.lavanguardia.com/fotos/20260411/11511151/regreso-estrellas-gestos-unen-tierra-mas-imagenes-dia.html",
-    "resumen": "Un mismo día, muchas historias bajo el mismo cielo"
-  },
-  {
-    "titulo": "\"Todos cruzamos los dedos\": la UE suspira por la derrota electoral de Orban, pero nadie espera \"un cambio total\" en Hungría",
-    "medio": "El Mundo",
-    "fecha": 1775930869.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/11/69d920c5e9cf4a777a8b45a2.html",
-    "resumen": "La victoria de Magyar facilitaría en gran medida las decisiones del Consejo, empezando por el crédito de 90.000 millones a Ucrania, y eliminaría la conexión directa entre Bruselas y Moscú que supone el actual Ejecutivo húngaro Leer"
-  },
-  {
-    "titulo": "Dos escaladores en estado grave al ser alcanzados por la caída de piedras en Montserrat",
-    "medio": "La Vanguardia",
-    "fecha": 1775930823.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260411/11511154/dos-escaladores-grave-alcanzados-caida-piedras-montserrat.html",
-    "resumen": "El accidente se ha producido esta tarde en el sector Columpi del macizo, en el término municipal de El Bruc"
-  },
-  {
     "titulo": "Jimmy Kimmel señala que \"Pedro Sánchez ya está harto\" de Trump",
     "medio": "eldiario.es",
     "fecha": 1775930800.0,
     "link": "https://www.eldiario.es/rastreador/jimmy-kimmel-senala-pedro-sanchez-harto-trump_132_13135955.html",
     "resumen": "\"Es difícil que Trump pueda vengarse de España porque el único aceite que puede quitarles es el de esas latitas de anchoas\", ha bromeado el famoso presentador de televisión en su programaJimmy Kimmel ofrece a Trump todos los premios que ha ganado si retira el ICE de Minnesota El presidente del Gobierno, Pedro Sánchez, se ha destacado como uno de los principales líderes europeos en rechazar la guerra contra Irán, así como el asesinato de decenas de miles de palestinos en Gaza y Cisjordania por parte de Israel o el aumento del gasto militar de cada socio de la OTAN. Por ello, Sánchez, que esta semana también ha pedido que el alto el fuego en Irán incluyera al Líbano y que Europa suspendiera el acuerdo de asociación con Israel para frenar a Netanyahu, ha sido criticado por su homólogo estadounidense, Donald Trump. Todo esto no ha pasado desapercibido en Estados Unidos y este viernes el popular presentador de televisión, Jimmy Kimmel, mencionaba en su 'late show' al líder español. Kimmel, asimismo muy crítico con el presidente estadounidense, señalaba que Trump acababa de reunirse con el líder de la OTAN, Mark Rutte, y que esa reunión de dos horas no había salido “bien”, según los allí presentes: “Dijeron que no era más que una diatriba de insultos”. El presentador continuó con su explicación: “El presidente del Gobierno de España, Pedro Sánchez, ya está harto. Después del acuerdo del alto el fuego dijo que el Gobierno de España no aplaudirá a quienes incendien el mundo solo porque se presenten allí con un cubo”. El público que estaba en el plató aplaudió la frase mientras Kimmel bromeaba en 'spanglish': “Not too 'bueno'”. “Es difícil que Trump pueda vengarse de España porque el único aceite que puede quitarles es el de esas latitas de anchoas”, siguió bromeando Kimmel acerca de la curiosa costumbre de Trump de atacar solo a países con petróleo."
-  },
-  {
-    "titulo": "El PP recurre al Senado para que el Gobierno fije ayudas para 36.000 apicultores afectados por el coste del gasóleo A",
-    "medio": "El Español",
-    "fecha": 1775930643.0,
-    "link": "https://www.elespanol.com/espana/murcia/20260411/pp-recurre-senado-gobierno-fije-ayudas-apicultores-afectados-coste-gasoleo/1003744203468_0.html",
-    "resumen": "La moción de los populares justifica la medida porque el sector apícola, en plena campaña, sufre el encarecimiento de \"un 20%\" en energía, combustibles, fertilizantes o plásticos agrícolas, a causa de los conflictos bélicos. Más información: Manos Limpias pedirá al juez que la asesora de Begoña Gómez vuelva a declarar como testigo si logra que deje de ser investigada"
   },
   {
     "titulo": "Nos prometieron que 20 minutos de chispazos equivalían a 4 horas de gimnasio. La ciencia dice que es más complicado",
@@ -350,13 +336,6 @@
     "resumen": "Se acerca el día de la madre y no sabemos cómo acertar. Así que un detalle que jamás falla es una pulsera de plata. En las últimas novedades de Pandora hemos encontrado un modelo muy bonito con detalles de mariposa que elevan su diseño. Una opción que podrán llevar 24/7 tanto a la oficina como a una boda de verano. Una opción atemporal que simboliza la transformación, la libertad y el crecimiento. En definitiva, es todo aquello que significa nuestra madre para nosotras. Un regalo que pasará de generación en generación y una forma de que podamos estar siempre conectadas. Una opción minimalista que podemos combinar con otros brazaletes y piezas de colores que eleven cualquier look diario. Sobre una piel bronceada, la plata agregará mucha luz y será un comodín para llevar tanto de día como de noche. El precio en la web oficial de El Corte Inglés es 249 euros. Cómo combinar esta pulsera de PandoraCon un anillo de mariposa Este anillo de plata con un diseño de mariposa también está disponible en Pandora y será un elemento perfecto para combinar con la pulsera. Un conjunto muy elegante que llevaremos de lunes a domingo. Este modelo cuenta, además, con unos detalles brillantes y una piedra en tono azul cielo. El precio en la web oficial de El Corte Inglés es 49 euros. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |El Corte Inglés, @mariafrubies En Trendencias |Vaqueros para mujer 2026: todos los jeans que se llevan y los mejores looks para combinarlos - La noticia Decimos te quiero a nuestra madre con la nueva pulsera de plata de Pandora con eslabones de mariposa fue publicada originalmente en Trendencias por Laura Beneyto ."
   },
   {
-    "titulo": "No son iPad ni falta que hace: 3 tablets con teclado y bastante RAM por muy poco dinero",
-    "medio": "La Vanguardia",
-    "fecha": 1775930400.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260411/11510115/son-ipad-falta-3-tablets-chinas-teclado-ram-poco-dinero-mkt-alie.html",
-    "resumen": "Opciones muy económicas que apuestan por packs completos, mucha RAM y uso tipo portátil sin gastar demasiado"
-  },
-  {
     "titulo": "Este es el mejor vídeo sobre Apple que vas a ver hoy: 50 años de historia en 1 minuto",
     "medio": "Hipertextual",
     "fecha": 1775930400.0,
@@ -364,46 +343,11 @@
     "resumen": "No es un anuncio oficial de Apple ni una superproducción, pero este vídeo sobre los productos de la compañía que nos hemos encontrado en Instagram merece muchísimo la pena. Es tan sencillo como nostálgico, y cualquier fanático de la californiana y sus ordenadores sabrá apreciarlo. Además, depende de la edad que tengas, es posible que […] Seguir leyendo: Este es el mejor vídeo sobre Apple que vas a ver hoy: 50 años de historia en 1 minuto"
   },
   {
-    "titulo": "Israel convoca al encargado de negocios de España por el muñeco de Netanyahu en Málaga",
-    "medio": "The Objective",
-    "fecha": 1775930259.0,
-    "link": "https://theobjective.com/internacional/2026-04-11/israel-negocios-espana-muneco-netanyahu-en-malaga/",
-    "resumen": "Israel ha convocado a la encargada de negocios española en Israel, la representación de España en el país desde la retirada de la embajadora, para recibir […]"
-  },
-  {
-    "titulo": "La justicia de EE.UU. permite continuar la construcción del salón de baile de la Casa Blanca",
-    "medio": "La Vanguardia",
-    "fecha": 1775930193.0,
-    "link": "https://www.lavanguardia.com/internacional/20260411/11511152/justicia-ee-uu-permite-continuar-construccion-salon-baile-casa-blanca.html",
-    "resumen": "Un tribunal inferior había emitido una orden judicial el 31 de marzo para detener las obras"
-  },
-  {
     "titulo": "La oferta de alquiler en piso compartido se dispara un 22% con los precios al alza",
     "medio": "Expansión",
     "fecha": 1775929668.0,
     "link": "https://www.expansion.com/inmobiliario/2026/04/11/69da1ec0e5fdeafc018b459a.html",
     "resumen": "Las habitaciones en piso compartido se disparan un 86% en Segovia capital, seguida de Valencia (68%), Las Palmas de Gran Canaria (67%), Santa Cruz de Tenerife (55%), Alicante (43%) y Almería (40%). Leer"
-  },
-  {
-    "titulo": "Negociaciones EEUU-Irán: Juego de narrativas en Pakistán ante la falta de acuerdos sólidos",
-    "medio": "El Mundo",
-    "fecha": 1775929438.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/11/69d9d190e4d4d8d55c8b456d.html",
-    "resumen": "La primera jornada de las negociaciones, sin avances públicos. Washington asegura que inicia el desminado de Ormuz y Teherán que obliga a retirar los buques americanos Leer"
-  },
-  {
-    "titulo": "El grito del Papa contra el “delirio agresivo” y la “locura” de la guerra",
-    "medio": "La Vanguardia",
-    "fecha": 1775928999.0,
-    "link": "https://www.lavanguardia.com/internacional/20260411/11511147/grito-papa-delirio-agresivo-locura-guerra.html",
-    "resumen": "León XIV lanza un “¡deténganse!” a los gobernantes en su discurso más duro frente al conflicto"
-  },
-  {
-    "titulo": "Péter Magyar, el antiguo aliado de Orbán que amenaza con quitarle el poder tras 16 años",
-    "medio": "The Objective",
-    "fecha": 1775928905.0,
-    "link": "https://theobjective.com/internacional/2026-04-11/peter-magyar-el-antiguo-aliado-de-orban-que-amenaza-con-quitarle-el-poder-tras-16-anos/",
-    "resumen": "Péter Magyar ha pasado de formar parte del entorno político de Viktor Orbán a convertirse en la amenaza más seria para el primer ministro húngaro en […]"
   },
   {
     "titulo": "El día que un hombre se atrevió a llegar más lejos que nadie: una pelea real con Bruce Lee donde no había límites",
@@ -434,13 +378,6 @@
     "resumen": "La subida de las bases mínimas de cotización con efectos retroactivos eleva en 135 euros al mes el pago para los trabajadores por cuenta propia socios de cooperativas, colaboradores y a quienes no declaran rendimientos. ATA denuncia que se rompe la progresividad de la subida que fijó el nuevo sistema por rendimientos netos. Leer"
   },
   {
-    "titulo": "Israel convoca a la responsable de la embajada por la quema de un muñeco de Netanyahu",
-    "medio": "La Vanguardia",
-    "fecha": 1775927682.0,
-    "link": "https://www.lavanguardia.com/politica/20260411/11511139/israel-convoca-encargada-negocios-espanola-quema-muneco-netanyahu-burgo.html",
-    "resumen": "El ejecutivo israelí acusa de “antisemita” la tradición y apunta a Pedro Sánchez"
-  },
-  {
     "titulo": "Por qué Bollywood ya no atrae a la audiencia",
     "medio": "Expansión",
     "fecha": 1775927375.0,
@@ -453,20 +390,6 @@
     "fecha": 1775927317.0,
     "link": "https://www.expansion.com/economia/financial-times/2026/04/11/69da1009e5fdea0c568b45ab.html",
     "resumen": "Novo Nordisk aplicará rebajas de hasta el 50% en Wegovy y Ozempic para ampliar su base de clientes en EEUU. La farmacéutica apuesta por la accesibilidad para conquistar un mercado masivo desatendido. Leer"
-  },
-  {
-    "titulo": "Tragedia en el corazón del Alto Tajo: un hombre muere al caer por las escaleras del mirador del Barranco de la Hoz",
-    "medio": "El Español",
-    "fecha": 1775927021.0,
-    "link": "https://www.elespanol.com/eldigitalcastillalamancha/sociedad/sucesos/20260411/tragedia-corazon-alto-tajo-hombre-muere-caerse-escaleras-mirador-barranco-hoz/1003744203428_0.html",
-    "resumen": "Se ha precipitado a una zona de difícil acceso y ha fallecido en el acto, según han apuntado fuentes del 112 de Castilla-La Mancha.Más información: El Parque Natural del Alto Tajo cumple 25 años: \"A partir de 2020 se han multiplicado las visitas desde Madrid\""
-  },
-  {
-    "titulo": "La única hospitalizada por el accidente de Adamuz da a luz a un bebé en la UCI",
-    "medio": "The Objective",
-    "fecha": 1775926839.0,
-    "link": "https://theobjective.com/espana/2026-04-11/unica-hospitalizada-adamuz-luz-bebe-uci/",
-    "resumen": "La única persona que permanece hospitalizada tras el accidente ferroviario del pasado 18 de enero en Adamuz (Córdoba) ha dado a luz este sábado a un […]"
   },
   {
     "titulo": "Llevamos décadas mandando a las embarazadas a la cama por precaución. La ciencia acaba de demostrar que es un gran error",
@@ -504,13 +427,6 @@
     "resumen": "En enero de 2026, las plataformas de streaming chinas registraron el lanzamiento de más de 14.600 series breves generadas con inteligencia artificial. Son 470 títulos nuevos al día, todos listos para distribuirse a través de aplicaciones como Douyin o Hongguo. El dato que no se difunde tanto es dónde fue a parar casi todo ese contenido. Viva la microdramática. Los microdramas (o duanju) son series para móvil con episodios de entre dos y cinco minutos, habitualmente adaptaciones de novelas previamente publicadas en formato web, y que se difunden en páginas financiadas no con suscripciones, sino mediante micropagos y publicidad algorítmica. La narrativa de estas series es extremadamente formulaica, pese a que sobre el papel parezca muy variada: los ricos también lloran, viajes en el tiempo, venganzas sentimentales, melodramas concentrados en unos pocos minutos, todo pensado (tramas circulares y repetitivas, personajes que enuncian lo que está sucediendo) para consumir entre paradas de metro. El irresistible crecimiento del duanju. El formato llevaba años floreciendo antes de que llegara la IA. El mercado chino de los microdramas pasó de ingresos de 500 millones de dólares en 2021 a 7.000 millones en 2024, superando ese año la taquilla cinematográfica nacional por primera vez. En 2025, el sector ya rozaba los 9.400 millones. Se calcula que más de 830 millones de usuarios consumían el formato, y cerca del 60% de ellos paga o realiza transacciones en plataformas que ofrecen unos pocos capítulos gratis para enganchar a los espectadores. Como en tantos otros aspectos industriales, China ha construido, sin llamar la atención del resto del mundo, el mayor mercado de entretenimiento serializado en términos de volumen del planeta. En Xataka Episodios de un minuto, tramas locas y millones de visionados: bienvenido a la era de los microdramas Invasión IA. Producir un microdrama de acción real costaba más de un millón de yuanes en 2024. Con herramientas de IA como Kling o Seedance, el mismo proyecto sale por entre 50.000 y 100.000 yuanes (entre 6.000 y 12.000 euros). En los estudios de producción más baratos, la cifra baja a 30.000 o 40.000 yuanes por serie completa. El coste por minuto de contenido cayó de entre 3.000 y 5.000 yuanes a comienzos de 2024 a entre 200 y 1.000 en la actualidad. Todo cambia. Esa caída ha transformado la estructura de la industria del microdrama, y ha impulsado a empresas especializadas en la variante IA del género como Jiangyou Culture, que con el respaldo de China Literature (el grupo editorial afiliado a Tencent), creció hasta los mil empleados y factura en torno a 1.000 millones de yuanes anuales con márgenes netos de entre el 20% y el 30%. Judian, otra productora, genera alrededor de un centenar de microdramas fotorrealistas al mes y entre mil y dos mil audiodramas con voz sintetizada. 99,88%. De las 127.800 series de IA en circulación en febrero de 2026, la proporción que cruzó el umbral de los 100 millones de visitas fue del 0,117%. En 2025, la app especializada Douyin lanzó 60.000 series generadas con IA, y solo noventa y seis alcanzaron esa misma cifra. Esa tasa de éxito del 0,16% ha ido bajando a medida que el volumen de producción sube. Pero también hay diferencias con los microdramas de acción real: la serie de IA más vista acumuló unos mil millones de reproducciones, y la de acción real más exitosa, 4.400 millones. Los espectadores detectan la cualidad sintética y el uncanny valley se carga el compromiso emocional, lo que lleva, según los expertos, a un abismo importante: el espectador no quiere pagar por ello. El gasto publicitario. El modelo dominante de negocio en este millonario sector es el conocido como \"arbitraje de tráfico\": producir barato con IA, invertir agresivamente en publicidad dentro de las plataformas para generar visitas y rezar para poder sobrevivir del margen. En marzo de 2026, el gasto publicitario diario en microdramas de IA en Douyin superó los 70 millones de yuanes, sobrepasando por primera vez al de las producciones de acción real. Es decir: el bucle puede sostenerse económicamente aunque las audiencias no acompañen. En Xataka La nueva fiebre en China son series para móvil con episodios de un minuto. Y preparan su desembarco fuera de Asia Los actores sufren. El actor Li Wenhao entró en la industria de los microdramas en 2023 y llegó a trabajar 50 días consecutivos. En marzo de 2026 solo trabajó seis, según recoge Hello China Tech. Los castings son cada vez más infrecuentes, las productoras de microdramas cada vez contratan menos humanos: por ejemplo, Chengdu Zhongdu, un estudio de tamaño medio, anunció en marzo el abandono de la producción live-action, reconvirtiendo toda su plantilla a IA. La actriz Hao Lei, una de las figuras más respetadas del cine dramático chino, ha dicho que la IA reemplazará al 90% de los actores, y añadió que en ciertos registros ya supera al equivalente humano. Caras robadas. El desplazamiento de actores profesionales era previsible, pero no lo era tanto la apropiación masiva y no autorizada de rostros reales. A comienzos de 2026, un drama histórico de 72 episodios generado con IA apareció en Hongguo y obtuvo una popularidad muy notoria antes de que una blogger especializada en indumentaria tradicional china descubriera que uno de los personajes tenía su cara. Lo mismo detectó otra creadora de contenido, y ninguna de las dos fue compensada ni informada, cuenta también Hello China Tech. Y por supuesto, también actores profesionales han sido víctimas de este tipo de prácticas: Yi Yangqianxi (Jackson Yee), Xiao Zhan o Dilraba Dilmurat son algunos de ellos. Pero los casos de personas semianónimas, como esas creadoras de contenido, es mucho más sangrante: ellas descubrieron el robo de su cara casi por casualidad, así que cualquiera que haya subido suficiente contenido a internet como para entrenar a una IA puede encontrarse en una situación similar. Cabecera | Pandaily - La noticia En China se producen 470 series hechas con IA al día. El 99,9% de ellas no llega a nadie fue publicada originalmente en Xataka por John Tones ."
   },
   {
-    "titulo": "Gabriel, el padre de David: \"Julio mató a mi hijo por no querer seguir siendo su amigo porque ese chico decía que eran novios\"",
-    "medio": "El Español",
-    "fecha": 1775924441.0,
-    "link": "https://www.elespanol.com/madrid/sociedad/20260411/gabriel-padre-david-julio-mato-hijo-no-querer-seguir-amigo-chico-decia-novios/1003744203306_0.html",
-    "resumen": "\"No quiero que Julio vuelva a la calle para que mate a otro niño. No ha matado solo a mi hijo David, ha matado a un pueblo entero\", subraya el progenitor del pequeño, de 11 años, asesinado en el centro cultural de Villanueva de la Cañada. Más información: Obsesiones y bullying: el cóctel que hizo que ‘Julito’ engañara a David para asesinarlo en un baño de Villanueva"
-  },
-  {
     "titulo": "Alemania ha encontrado una fuente de perovskita para paneles solares en un lugar insólito: balas del siglo XVII",
     "medio": "Xataka",
     "fecha": 1775924172.0,
@@ -546,13 +462,6 @@
     "resumen": "Windows 11 ya no tiene bugs por resolver, según la documentación oficial de Microsoft. Según reporta Neowin, la firma de Redmond sostiene que todos los fallos del sistema operativo que le fueron notificados han recibido su correspondiente solución. Si la novedad te causa sorpresa, no estás solo. Suponiendo que lo que la empresa afirma es […] Seguir leyendo: Windows 11 ya no tiene bugs según Microsoft (no es broma)"
   },
   {
-    "titulo": "Alcaraz supera por la vía rápida a Vacherot y disputará una nueva final ante Sinner",
-    "medio": "The Objective",
-    "fecha": 1775923099.0,
-    "link": "https://theobjective.com/deportes/2026-04-11/alcaraz-vacherot-final-sinner/",
-    "resumen": "El tenista español Carlos Alcaraz ha derrotado este sábado por 6-4 y 6-4 al monegasco, y local, Valentin Vacherot en las semifinales del Masters 1000 de […]"
-  },
-  {
     "titulo": "Cerca de cien detenidos en una protesta a favor de Palestine Action en Londres",
     "medio": "eldiario.es",
     "fecha": 1775923076.0,
@@ -565,13 +474,6 @@
     "fecha": 1775922820.0,
     "link": "https://www.infolibre.es/internacional/iran-estados-unidos-reunen-pakistan-iniciar-primer-dialogo-directo-50-anos_1_2176178.html",
     "resumen": "Irán y Estados Unidos inician este sábado en Islamabad (Pakistán) su primer encuentro directo en el marco de las negociaciones de paz, tras una mañana de consultas separadas con Pakistán, el país anfitrión del diálogo y principal mediador. Según una fuente diplomática paquistaní, las conversaciones cara a cara entre ambas delegaciones ya están en marcha, aunque con pausas técnicas como un receso para la oración.El contacto, confirmado también por un alto funcionario de la Casa Blanca como una “reunión trilateral presencial” entre Washington, Teherán e Islamabad, supone el diálogo de más alto nivel entre ambos países desde la Revolución Islámica de 1979. Las delegaciones están encabezadas por el vicepresidente estadounidense, J.D. Vance, y el presidente del Parlamento iraní, Mohamad Baqer Qalibaf, el nuevo hombre fuerte de Irán. Aunque la cumbre estaba prevista inicialmente para una sola jornada, fuentes diplomáticas de los tres países no descartan que se prolongue hasta el domingo. Durante la mañana, ambas partes se reunieron por separado con el primer ministro paquistaní, Shehbaz Sharif, a quien Irán trasladó sus principales condiciones para avanzar en un acuerdo. Entre ellas figuran el control del Estrecho de Ormuz, la liberación de activos iraníes bloqueados y la aplicación de un alto el fuego regional que incluya también al Líbano.Desde Teherán, el portavoz de Exteriores, Ismail Bagaei, explicó que “las consideraciones, puntos de vista y demandas de Irán, basadas en ese mismo paquete de propuesta de 10 puntos, fueron transmitidas a la parte paquistaní”. Además, insistió en una de las líneas rojas de su país: “El alto el fuego debe llevarse a cabo de manera real”.Bagaei subrayó también la vigilancia iraní sobre el terreno: “Estamos atentos y en contacto con las Fuerzas Armadas iraníes para que se informe de la más mínima violación del alto el fuego”. Y advirtió: “Donde sea necesario, los defensores de la patria reaccionarán de manera firme y rápida”.En paralelo, medios iraníes señalaron que Estados Unidos habría accedido a desbloquear parte de los activos congelados como gesto de buena voluntad, extremo que ha sido negado por Washington. Tras una primera sesión de casi dos horas, las conversaciones han pasado “de los aspectos generales a la discusión de detalles técnicos”, según la agencia Tasnim.En el plano político, el vicepresidente primero iraní, Mohamad Reza Aref, afirmó en redes sociales que “si negociamos en Islamabad con representantes de ‘Estados Unidos Primero’, es probable alcanzar un acuerdo beneficioso para ambas partes y para el mundo”. Sin embargo, advirtió: “Si nos enfrentamos a representantes de ‘Israel Primero’, no habrá acuerdo”.Aref fue más allá al alertar de las consecuencias de un eventual fracaso: “Inevitablemente Irán continuará su defensa con aún más firmeza que antes, y el mundo afrontará mayores costes”.Por su parte, Mohamad Baqer Qalibaf reiteró la disposición de su país al diálogo, aunque con reservas: “Tenemos buena voluntad, pero no confiamos en Estados Unidos debido a las experiencias de las últimas conversaciones”.Según el portavoz Bagaei, “salvo las primeras horas del alto el fuego, no hemos observado nuevas violaciones”, aunque insistió en la necesidad de incluir el conflicto en Líbano dentro de cualquier acuerdo para avanzar en un contacto directo pleno entre ambas partes."
-  },
-  {
-    "titulo": "Manos Limpias pedirá al juez que la asesora de Begoña Gómez vuelva a declarar como testigo si logra que deje de ser investigada",
-    "medio": "El Español",
-    "fecha": 1775922250.0,
-    "link": "https://www.elespanol.com/espana/tribunales/20260411/manos-limpias-pedira-juez-asesora-begona-gomez-vuelva-declarar-testigo-logra-deje-investigada/1003744203381_0.html",
-    "resumen": "Considera a Cristina Álvarez una \"testigo clave\" de las reuniones a las asistió acompañando a la esposa de Pedro Sánchez. Más información: Google indica al juez Peinado que la asesora de Begoña Gómez fue invitada a una de otras 26 reuniones sobre el 'software'"
   },
   {
     "titulo": "Macron aboga por respetar la tregua entre EEUU e Irán y pide que se amplíe \"sin demora\" al Líbano",
@@ -620,7 +522,7 @@
     "medio": "eldiario.es",
     "fecha": 1775917845.0,
     "link": "https://www.eldiario.es/internacional/marcha-conversaciones-paz-estados-unidos-e-iran-islamabad_1_13135759.html",
-    "resumen": "Se trata de la primera vez en décadas que representantes estadounidenses e iraníes conversan cara a caraTrump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra Las primeras rondas de conversaciones entre los Estados Unidos e Irán para poner fin a la guerra de seis semanas han terminado con “optimismo”. “Las dos partes se muestran optimistas sobre el resultado de las conversaciones”, ha afirmado una fuente diplomática a la agencia EFE. La delegación estadounidense, liderada por el vicepresidente JD Vance, y la iraní, liderada por el portavoz del parlamento iraní, Mohammed Bagher Ghalibaf, han negociado en persona durante más de cuatro horas este sábado por la mañana en Islamabad. La cita en la capital pakistaní constituye la primera reunión cara a cara de alto nivel entre oficiales de Estados Unidos e Irán desde que la revolución islámica de 1979 enfrentó a los dos países durante casi medio siglo. A pesar del “optimismo” descrito inicialmente, el goteo de informaciones que han ido filtrándose del Hotel Serena -donde discurre el encuentro- apunta en otra dirección. La tercera ronda de negociaciones ya se ha alargado pasadas las 11 de la noche (hora local en Islamabad) y no hay certeza de cuándo va a terminar. Vance había venido sin una vuelta programada, lo que podría dar margen a que la reunión pudiera continuar el domingo. Uno de los principales puntos donde parecen estar encalladas ambas partes es el futuro del estrecho de Ormuz, según apuntan medios estatales iraníes. Fuentes de la delegación iraní también explican a Al Jazeera que las demandas de Estados Unidos sobre el estrecho son demasiado “ambiciosas” y que parecen encontrarse en un punto muerto. Por el momento, Washington no ha filtrado ninguna información sobre cómo están discurriendo las negociaciones. En su plan de 10 puntos, los ayatolás piden controlar Ormuz, mientras que en la propuesta estadounidense, Washington solo mencionaba la petición de reabrir el paso marítimo. Aun así, es difícil discernir hasta qué punto discrepan ambas partes, pues ninguno de los dos países han publicado una versión oficial de sus demandas. Todo lo que se sabe ha sido a través de declaraciones de diplomáticos y oficiales gubernamentales a la prensa. Fuera del Hotel Serena, las mismas discrepancias sobre Ormuz se han traducido en una serie de mensajes cruzados entre Estados Unidos e Irán. En una publicación en Truth Social, el presidente estadounidense Donald Trump había asegurado en Truth Social que el ejército de Estados Unidos había empezado a “despejar el estrecho de Ormuz como un favor a países de todo el mundo”. Poco después del mensaje del presidente, el Comando Central del ejército estadounidense (CENTCOM) ha informado de que dos buques de guerra habían cruzado el estrecho este sábado por primera vez desde que Irán cerró la vía marítima al tráfico comercial. Versión que rápidamente ha sido contradicha por Irán. El portavoz del Cuartel General Central Khatam al-Anbiya del ejército iraní ha emitido un comunicado en el que niega rotundamente los hechos. “La afirmación del comandante del CENTCOM sobre la aproximación y entrada de buques estadounidenses en el estrecho de Ormuz es categóricamente rechazada”, ha dicho el portavoz. Y ha puntualizado que: “La iniciativa para el paso y movimiento de cualquier embarcación está en manos de las Fuerzas Armadas de la República Islámica de Irán”. Según el CENTCOM los barcos USS Frank E. Peterson y el USS Michael Murphy habrían entrado en el paso marítimo para retirar las minas navales puestas anteriormente por la Guardia Revolucionaria y garantizar que esté completamente libre para cuando pasen los buques comerciales. A pesar de que Washington insista en que se ha reabierto Ormuz, la mayoría de cargueros y petroleros se niegan a pasar por falta de garantías de seguridad. Ahora mismo, las aseguradoras han disparado los precios debido al inestable contexto y a una tregua con escasas probabilidades de que dure las dos semanas establecidas. Mientras ambas partes negociaban sobre cómo poner fin al conflicto, Israel ha seguido poniendo en riesgo el alto el fuego con sus ataques al sur del Líbano, el último este mismo sábado. Tanto Irán como Pakistán, el país mediador, han denunciado que Tel Aviv está incumpliendo los términos de la tregua, ya que esta también incluía al país árabe. Pero Benjamin Netanyahu se niega a acatar este punto y Trump insiste en que el Líbano no formaba parte del acuerdo original. El cese de hostilidades en el Líbano El cese de las hostilidades contra el Líbano es otro de los puntos de fricción entre ambas delegaciones en esta primera jornada de negociaciones. Al inicio de las conversaciones, los ayatolás dibujaron el fin de los bombardeos como una premisa clara, tal como estipulaba el acuerdo del alto el fuego inicial. Según medios iraníes estatales, Teherán habría logrado obtener una especie de garantía por parte de Estados Unidos de que Israel va a reducir sus ataques contra el país árabe. Por el momento, ni la parte estadounidense ni la israelí han confirmado dicha información. Lejos de calmar las tensiones, en una publicación en X, Netanyahu ha prometido que la campaña militar de Israel contra Irán “no ha terminado”, aunque Israel ya ha logrado lo que describió como “logros históricos”. “Los golpeamos, y aún nos queda más por hacer”, ha afirmado. La posición de Israel vuelve a subrayar las divergencias de intereses con Estados Unidos que ya han aparecido a lo largo de las seis semanas de campaña en Oriente Medio. En otro episodio más de informaciones cruzadas, Washington también ha salido a desmentir las afirmaciones de los medios estatales iraníes sobre la liberación de activos iraníes congelados. El portavoz del parlamento iraní lo había establecido como requisito para poder arrancar antes las conversaciones. Antes del inicio de la reunión, las dos delegaciones se reunieron por separado con los mediadores de Pakistán. El grupo estadounidense, además de Vance, también incluye el enviado especial Steve Witkoff y el yerno de Trump, Jared Kushner. Ayer por la noche también llegaron los representantes iraníes, entre ellos el portavoz del Parlamento, Mohammed Bagher Ghalibaf, y el ministro de Exteriores, Abbas Araghchi."
+    "resumen": "Se trata de la primera vez en décadas que representantes estadounidenses e iraníes conversan cara a caraTrump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra Las primeras rondas de conversaciones entre los Estados Unidos e Irán para poner fin a la guerra de seis semanas han terminado con “optimismo”. “Las dos partes se muestran optimistas sobre el resultado de las conversaciones”, ha afirmado una fuente diplomática a la agencia EFE. La delegación estadounidense, liderada por el vicepresidente JD Vance, y la iraní, liderada por el portavoz del parlamento iraní, Mohammed Bagher Ghalibaf, han negociado en persona durante más de cuatro horas este sábado por la mañana en Islamabad. La cita en la capital pakistaní constituye la primera reunión cara a cara de alto nivel entre oficiales de Estados Unidos e Irán desde que la revolución islámica de 1979 enfrentó a los dos países durante casi medio siglo. A pesar del “optimismo” descrito inicialmente, el goteo de informaciones que han ido filtrándose del Hotel Serena -donde discurre el encuentro- apunta en otra dirección. La tercera ronda de negociaciones ya se ha alargado pasadas las 11 de la noche (hora local en Islamabad) y no hay certeza de cuándo va a terminar. Vance había venido sin una vuelta programada, lo que podría dar margen a que la reunión pudiera continuar el domingo. Uno de los principales puntos donde parecen estar encalladas ambas partes es el futuro del estrecho de Ormuz, según apuntan medios estatales iraníes. Fuentes de la delegación iraní también explican a Al Jazeera que las demandas de Estados Unidos sobre el estrecho son demasiado “ambiciosas” y que parecen encontrarse en un punto muerto. Por el momento, Washington no ha filtrado ninguna información sobre cómo están discurriendo las negociaciones. En su plan de 10 puntos, los ayatolás piden controlar Ormuz, mientras que en la propuesta estadounidense, Washington solo mencionaba la petición de reabrir el paso marítimo. Aun así, es difícil discernir hasta qué punto discrepan ambas partes, pues ninguno de los dos países han publicado una versión oficial de sus demandas. Todo lo que se sabe ha sido a través de declaraciones de diplomáticos y oficiales gubernamentales a la prensa. Fuera del Hotel Serena, las mismas discrepancias sobre Ormuz se han traducido en una serie de mensajes cruzados entre Estados Unidos e Irán. En una publicación en Truth Social, el presidente estadounidense Donald Trump había asegurado en Truth Social que el ejército de Estados Unidos había empezado a “despejar el estrecho de Ormuz como un favor a países de todo el mundo”. Poco después del mensaje del presidente, el Comando Central del ejército estadounidense (CENTCOM) ha informado de que dos buques de guerra habían cruzado el estrecho este sábado por primera vez desde que Irán cerró la vía marítima al tráfico comercial. Versión que rápidamente ha sido contradicha por Irán. El portavoz del Cuartel General Central Khatam al-Anbiya del ejército iraní ha emitido un comunicado en el que niega rotundamente los hechos. “La afirmación del comandante del CENTCOM sobre la aproximación y entrada de buques estadounidenses en el estrecho de Ormuz es categóricamente rechazada”, ha dicho el portavoz. Y ha puntualizado que: “La iniciativa para el paso y movimiento de cualquier embarcación está en manos de las Fuerzas Armadas de la República Islámica de Irán”. Según el CENTCOM los barcos USS Frank E. Peterson y el USS Michael Murphy habrían entrado en el paso marítimo para retirar las minas navales puestas anteriormente por la Guardia Revolucionaria y garantizar que esté completamente libre para cuando pasen los buques comerciales. A pesar de que Washington insista en que se ha reabierto Ormuz, la mayoría de cargueros y petroleros se niegan a pasar por falta de garantías de seguridad. Ahora mismo, las aseguradoras han disparado los precios debido al inestable contexto y a una tregua con escasas probabilidades de que dure las dos semanas establecidas. Mientras ambas partes negociaban sobre cómo poner fin al conflicto, Israel ha seguido poniendo en riesgo el alto el fuego con sus ataques al sur del Líbano, el último este mismo sábado. Tanto Irán como Pakistán, el país mediador, han denunciado que Tel Aviv está incumpliendo los términos de la tregua, ya que esta también incluía al país árabe. Pero Benjamin Netanyahu se niega a acatar este punto y Trump insiste en que el Líbano no formaba parte del acuerdo original. El cese de hostilidades en el Líbano El cese de las hostilidades contra el Líbano es otro de los puntos de fricción entre ambas delegaciones en esta primera jornada de negociaciones. Al inicio de las conversaciones, los ayatolás dibujaron el fin de los bombardeos como una premisa clara, tal como estipulaba el acuerdo del alto el fuego inicial. Según medios iraníes estatales, Teherán habría logrado obtener una especie de garantía por parte de Estados Unidos de que Israel va a reducir sus ataques contra el país árabe. Por el momento, ni la parte estadounidense ni la israelí han confirmado dicha información. Lejos de calmar las tensiones, en una publicación en X, Netanyahu ha prometido que la campaña militar de Israel contra Irán “no ha terminado”, aunque Israel ya ha logrado lo que describió como “logros históricos”. “Los golpeamos, y aún nos queda más por hacer”, ha afirmado. La posición de Israel vuelve a subrayar las divergencias de intereses con Estados Unidos que ya han aparecido a lo largo de las seis semanas de campaña en Oriente Medio. En otro episodio más de informaciones cruzadas, Washington también ha salido a desmentir las afirmaciones de los medios estatales iraníes sobre la liberación de activos iraníes congelados. El portavoz del parlamento iraní lo había establecido como requisito para poder arrancar antes las conversaciones. Antes del inicio de la reunión, las dos delegaciones se reunieron por separado con los mediadores de Pakistán. El grupo estadounidense, además de Vance, también incluyó el enviado especial Steve Witkoff y el yerno de Trump, Jared Kushner. Ayer por la noche también llegaron los representantes iraníes, entre ellos el portavoz del Parlamento, Mohammed Bagher Ghalibaf, y el ministro de Exteriores, Abbas Araghchi. Mientras la jornada de conversaciones superaba ya las 12 horas, en Washington Trump ha insistido a los periodistas que EEUU “ha ganado” la guerra“. El magnate, antes de subirse al helicóptero, ha afirmado que ”no me importa“ si se llega a un acuerdo o no en Islamabad. Por la información filtrada a través de medios iraníes, parece que se ha llegado a un punto muerto."
   },
   {
     "titulo": "Novedad en Sfera: cinco conjuntos de lino muy cómodos que rejuvenecen, son elegantes y hacen match con las sandalias",
