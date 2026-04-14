@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 18 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1776138773">
+    <link rel="stylesheet" href="prisma.css?v=1776147559">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 23 medios · <time datetime="2026-04-14T03:52:53.328692">Actualizado: 14/04/2026 03:52</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>18 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 18 medios · <time datetime="2026-04-14T06:19:19.356576">Actualizado: 14/04/2026 06:19</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -135,37 +135,110 @@
             <select id="filtro-medio">
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
-                <option value="Applesfera">Applesfera</option>
                 <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
                 <option value="Europa Press">Europa Press</option>
                 <option value="Expansión">Expansión</option>
-                <option value="Genbeta">Genbeta</option>
                 <option value="Hipertextual">Hipertextual</option>
                 <option value="HuffPost">HuffPost</option>
                 <option value="Infolibre">Infolibre</option>
                 <option value="Jacobin ES">Jacobin ES</option>
                 <option value="La Vanguardia">La Vanguardia</option>
-                <option value="Microsiervos">Microsiervos</option>
                 <option value="Moncloa.com">Moncloa.com</option>
                 <option value="OK Diario">OK Diario</option>
                 <option value="The Objective">The Objective</option>
-                <option value="Trendencias">Trendencias</option>
                 <option value="Verne">Verne</option>
-                <option value="Xataka">Xataka</option>
                 <option value="Yorokobu">Yorokobu</option>
                 <option value="eldiario.es">eldiario.es</option>
             </select>
         </div>
 
-        <div class="card" data-medios="Infolibre,Moncloa.com,Europa Press,El Español">
-            <h2>Hoy: Delitos, begoña y gómez</h2>
+        <div class="card" data-medios="El Mundo,OK Diario,El País,El Español">
+            <h2>Tema: Irán, guerra y directo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 4 medios · tono equilibrado · 
                 múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 44%;"></div>
+                    <div class="barra-conservadora" style="width: 56%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 44%</span>
+                    <span>Conservador 56%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/guerra-iran-directo-ultima-hora-escalada-bloqueo-naval-riesgo-nueva-ofensiva-16595769" target="_blank" rel="noopener">Guerra de Irán en directo: última hora de la escalada, el bloqueo naval y el riesgo de una nueva ofensiva</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-14/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Dos petroleros sancionados por EE UU atraviesan el estrecho de Ormuz pese al bloqueo estadounidense</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/oriente-proximo/20260414/guerra-iran-ultima-hora-directo-pakistan-propone-celebrar-segunda-ronda-negociaciones-eeuu-finalice-alto-fuego/1003744205566_10.html" target="_blank" rel="noopener">Guerra de Irán, última hora, en directo | Pakistán propone celebrar una segunda ronda de negociaciones entre EEUU e Irán antes de que finalice el alto el fuego</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 2 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/04/14/69ddce4d21efa0b1798b45a7.html" target="_blank" rel="noopener">Pakistán presiona para que EEUU e Irán regresen a la mesa de negociación antes de que expire el alto el fuego</a></p>
+
+                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/20260414/espana-asegura-presupuestos-ahora-ejecutivo-quiere-minimizar-efectos-guerra-iran/1003744205550_0.html" target="_blank" rel="noopener">España asegura que "habrá Presupuestos" pero que ahora el Ejecutivo quiere "minimizar los efectos de la guerra" en Irán</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="The Objective,Europa Press,El Mundo,El País">
+            <h2>Claves: Sánchez, lado y correcto</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-04-14/xi-sanchez-correcto-historia-ley-selva/" target="_blank" rel="noopener">Xi dice a Sánchez estar ambos «del lado correcto de la historia» ante la «ley de la selva»</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-04-14/xi-jinping-situa-a-espana-en-el-lado-correcto-de-la-historia-y-emplaza-a-sanchez-a-luchar-contra-la-ley-de-la-selva.html" target="_blank" rel="noopener">Xi Jinping sitúa a España “en el lado correcto de la historia” y emplaza a Sánchez a luchar contra la “ley de la selva”</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-xi-situa-junto-sanchez-lado-correcto-historia-celebra-solida-relacion-bilateral-20260414055755.html" target="_blank" rel="noopener">Xi se sitúa junto a Sánchez "en el lado correcto de la historia" y celebra la sólida relación bilateral</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/04/14/69ddb9f4fdddff92678b4599.html" target="_blank" rel="noopener">Xi hace equipo con Sánchez ante las guerras que respalda Trump: "China y España estamos del lado correcto de la historia" y rechanzan el "retorno a la ley de la selva"</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Moncloa.com,Europa Press,El Español">
+            <h2>Portada: Delitos, begoña y gómez</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -187,50 +260,10 @@
             <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/tribunales/20260414/sanchez-arriesga-mujer-siente-jurado-popular-delitos-filo-elecciones/1003744205490_0.html" target="_blank" rel="noopener">Sánchez se arriesga a que su mujer se siente ante un jurado popular por cuatro delitos al filo de las elecciones</a></p>
 
             <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-juez-peinado-procesa-begona-gomez-cuatro-presuntos-delitos-no-intrusismo-profesional-20260413123632.html" target="_blank" rel="noopener">El juez Peinado procesa a Begoña Gómez por cuatro presuntos delitos pero no por intrusismo profesional</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 2 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/juez-peinado-cierra-instruccion-procesa-begona-gomez-cuatro-delitos_1_2176707.html" target="_blank" rel="noopener">El juez Peinado cierra la instrucción y procesa a Begoña Gómez por cuatro delitos</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/igualdad/mujer-asesinada-hombre-cordoba-posteriormente-sido-detenido_1_2176635.html" target="_blank" rel="noopener">Detenido un hombre en Córdoba por asesinar a su mujer con un arma blanca</a></p>
-
-                </div>
-            </details>
         </div>
 
-        <div class="card" data-medios="Trendencias,El Mundo,Moncloa.com">
-            <h2>Hoy: Playas, todo y está</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/metropoli/gastronomia/2026/04/14/69b69f7721efa06c168b4579.html" target="_blank" rel="noopener">Los Cañitas Maite desembarcan en Málaga: la nueva excusa para visitar la ciudad sabe a croqueta y ensaladilla de gamba blanca malagueña</a></p>
-
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/viajes/costa-larguisima-vistas-al-mar-pescado-riquisimo-playas-eternas-pueblo-pesquero-cadiz-para-escapar-todo-ano" target="_blank" rel="noopener">Una costa larguísima con vistas al mar, pescado riquísimo y playas eternas: el pueblo pesquero de Cádiz para escapar todo el año</a></p>
-
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/04/13/espana-menorca-paraiso-3370409/" target="_blank" rel="noopener">Olvida Cerdeña: el paraíso de playas cristalinas y ruinas históricas que está en España y que a partir de mayo ya está todo reservado</a></p>
-        </div>
-
-        <div class="card" data-medios="OK Diario,Moncloa.com">
-            <h2>Portada: Regularización, masiva y chantaje</h2>
+        <div class="card" data-medios="OK Diario,eldiario.es">
+            <h2>Hoy: Hacienda, renta y confirmado</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -242,49 +275,22 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
                 </div>
             </div>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/opinion/chantaje-sanchez-regularizacion-masiva-inmigrantes-o-subida-impuestos-16596805" target="_blank" rel="noopener">El chantaje de Sánchez: regularización masiva de inmigrantes o subida de impuestos</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/madrid/confirmado-hacienda-23-deducciones-renta-2026-si-vives-comunidad-madrid-16594338" target="_blank" rel="noopener">Confirmado por Hacienda: 23 deducciones de la Renta 2026 si vives en la Comunidad de Madrid</a></p>
 
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/04/14/pp-regularizacion-migrantes-3370662/" target="_blank" rel="noopener">El PP duda que la regularización masiva de migrantes mejore la economía</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/opinion/tribuna-abierta/hacienda-devuelve-80-donaciones-no-beneficiarte-renta_129_13129910.html" target="_blank" rel="noopener">Hacienda te devuelve hasta el 80% de tus donaciones: lo que quizás no sabes y puede beneficiarte en la Renta</a></p>
         </div>
 
-        <div class="card" data-medios="The Objective">
-            <h2>Portada: Podcast, mundo y cambiado</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/podcasts/el-gris-importa/podcast-mundo-cambiado-mal-gris-importa/" target="_blank" rel="noopener">Podcast | El mundo ha cambiado y no necesariamente para mal</a></p>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/podcasts/dos-orillas-podcast/podcast-dos-orillas-cumbre-sanchez/" target="_blank" rel="noopener">Podcast | La cumbre ‘progresista’ de Sánchez</a></p>
-        </div>
-
-        <div class="card" data-medios="Verne,Moncloa.com">
-            <h2>Hoy: Campaña, jueces y aprendan</h2>
+        <div class="card" data-medios="The Objective,Verne">
+            <h2>Tema: Abril, 2026 y tienes</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -305,13 +311,67 @@
                 </div>
             </div>
 
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/04/14/jueces-aprender-catalan-3370050/" target="_blank" rel="noopener">Campaña para que los jueces aprendan catalán en cualquier lugar de España</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/2026-04-14/14-de-abril-de-2026-lo-que-tienes-que-saber-de-espana/" target="_blank" rel="noopener">14 de abril de 2026: lo que tienes que saber de España</a></p>
 
             <p><strong>Verne:</strong> <a href="https://verne.elpais.com/verne/2021/03/01/articulo/1614584363_382946.html" target="_blank" rel="noopener">Así ha cambiado España desde los primeros censos del siglo XVIII</a></p>
         </div>
 
-        <div class="card" data-medios="Expansión,Moncloa.com">
-            <h2>En foco: Mercadona, supera y cuota</h2>
+        <div class="card" data-medios="El Mundo,La Vanguardia">
+            <h2>Portada: Wnba, brilla y propia</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/deportes/baloncesto/nba/20260414/11512796/awa-fam-brilla-luz-propia-noche-historica-baloncesto-espanol-wnba.html" target="_blank" rel="noopener">Awa Fam brilla con luz propia en una noche histórica para el baloncesto español en la WNBA</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/baloncesto/2026/04/14/69ddcfddfc6c83366b8b4583.html" target="_blank" rel="noopener">Tres españolas hacen historia en el draft de la WNBA, con Awa Fam igualando el nº3 de Pau Gasol</a></p>
+        </div>
+
+        <div class="card" data-medios="El Mundo,El Español">
+            <h2>Portada: Málaga, sufre y paradoja</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/malaga/20260414/malaga-sufre-paradoja-exito-referente-crecimiento-vivienda-ahogando-vecinos/1003744204886_0.html" target="_blank" rel="noopener">Málaga sufre la paradoja del éxito: referente en crecimiento, pero con la vivienda 'ahogando' a sus vecinos</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/metropoli/gastronomia/2026/04/14/69b69f7721efa06c168b4579.html" target="_blank" rel="noopener">Los Cañitas Maite desembarcan en Málaga: la nueva excusa para visitar la ciudad sabe a croqueta y ensaladilla de gamba blanca malagueña</a></p>
+        </div>
+
+        <div class="card" data-medios="Moncloa.com,Expansión">
+            <h2>Hoy: Mercadona, supera y cuota</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -335,141 +395,6 @@
             <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/distribucion/2026/04/14/69dd3cea468aebaa508b45c0.html" target="_blank" rel="noopener">Mercadona ya supera el 30% de cuota en Comunidad Valenciana, Andalucía y Canarias</a></p>
 
             <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/04/13/sueldos-inflacion-estancamiento-3370410/" target="_blank" rel="noopener">El preocupante dato de los sueldos en España: ¿por qué el salario real solo ha subido un 6% en 30 años?</a></p>
-        </div>
-
-        <div class="card" data-medios="Expansión,HuffPost">
-            <h2>En foco: Unicaja, busca y compras</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
-                </div>
-            </div>
-
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/banca/2026/04/14/69dd560f468aeb723d8b45b5.html" target="_blank" rel="noopener">Unicaja busca compras o alianzas para crecer en consumo</a></p>
-
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/virales/el-consejo-aprender-ingles-sabias-necesitabas-f202604.html" target="_blank" rel="noopener">El consejo para aprender inglés que no sabías que necesitabas</a></p>
-        </div>
-
-        <div class="card" data-medios="eldiario.es,Europa Press">
-            <h2>Portada: Adif, guardia y civil</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/andalucia/presidente-adif-contradice-guardia-civil-rotura-via-adamuz-no-interpretado_1_13140132.html" target="_blank" rel="noopener">El presidente de Adif contradice a la Guardia Civil sobre la rotura de la vía en Adamuz: "No está bien interpretado"</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/transportes-00343/noticia-adif-cree-guardia-civil-malinterpreto-tecnicismo-apunta-rotura-carril-previa-adamuz-20260413203414.html" target="_blank" rel="noopener">Adif cree que la Guardia Civil malinterpretó el tecnicismo que apunta a la rotura de carril previa en Adamuz</a></p>
-        </div>
-
-        <div class="card" data-medios="Infolibre,eldiario.es">
-            <h2>Tema: Trump, bloqueo y eeuu</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/trump-confirma-bloqueo-eeuu-estrecho-ormuz-comenzado_1_13140019.html" target="_blank" rel="noopener">Trump confirma que el bloqueo de EEUU del estrecho de Ormuz ha comenzado</a></p>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/trump-amenaza-eliminar-buque-irani-salte-bloqueo-eeuu-ormuz_1_2176899.html" target="_blank" rel="noopener">Trump amenaza con "eliminar" cualquier buque iraní que se salte el bloqueo de EEUU en Ormuz</a></p>
-        </div>
-
-        <div class="card" data-medios="Xataka,Microsiervos">
-            <h2>Hoy: Éxito, luna y artemis</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 52%;"></div>
-                    <div class="barra-conservadora" style="width: 48%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 52%</span>
-                    <span>Conservador 48%</span>
-                </div>
-            </div>
-
-            <p><strong>Xataka:</strong> <a href="https://www.xataka.com/espacio/artemis-ii-ha-sido-exito-plan-nasa-luna-se-tambalea-demasiada-ambicion-para-poco-tiempo" target="_blank" rel="noopener">Artemis II ha sido un éxito, pero el plan de la NASA en la Luna se tambalea: demasiada ambición para tan poco tiempo</a></p>
-
-            <p><strong>Microsiervos:</strong> <a href="https://www.microsiervos.com/archivo/espacio/termina-exito-artemisa-ii-primera-mision-tripulada-luna-mas-50-anos.html" target="_blank" rel="noopener">Termina con éxito Artemisa II, la primera misión tripulada hacia la Luna en más de 50 años</a></p>
-        </div>
-
-        <div class="card" data-medios="Infolibre,Europa Press">
-            <h2>Claves: Responde, trump y león</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
-                </div>
-            </div>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/leon-xiv-responde-ataque-trump-miedo-reafirmando-compromiso-paz_1_2176945.html" target="_blank" rel="noopener">León XIV responde al ataque de Trump sin miedo y reafirmando su compromiso con la paz</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/sociedad/noticia-papa-responde-trump-no-soy-politico-hablo-evangelio-lideres-mundo-les-digo-basta-guerras-20260413134433.html" target="_blank" rel="noopener">El Papa responde a Trump: "No soy político, hablo del Evangelio. A los líderes del mundo les digo basta de guerras"</a></p>
         </div>
 
         <div class="cta-section">
