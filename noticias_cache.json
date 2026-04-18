@@ -1,52 +1,185 @@
 [
   {
-    "titulo": "Atlético - Real Sociedad en directo | La final se va a la prórroga",
+    "titulo": "Marrero corona a la Real Sociedad en una final de Copa épica ante el Atlético",
     "medio": "El País",
-    "fecha": 1776546087.0,
-    "link": "https://elpais.com/deportes/futbol/2026-04-18/atletico-real-sociedad-en-directo-la-final-de-la-copa-del-rey-en-vivo.html",
-    "resumen": "Barrenetxea marcó a los 14 segundos de encuentro, Lookman contrarrestó el gol inicial en el minuto 19 y Oyarzabal anotó el 1-2 de penalti al borde del descanso"
+    "fecha": 1776552743.0,
+    "link": "https://elpais.com/deportes/futbol/2026-04-18/marrero-corona-a-la-real-sociedad-en-una-final-de-copa-epica-ante-el-atletico.html",
+    "resumen": "El meta suplente del conjunto vasco detiene dos penaltis en la tanda decisiva en un partido en el que su equipo conquistó su tercer entorchado copero y en la que los rojiblancos igualaron dos veces el marcador"
   },
   {
-    "titulo": "Atlético de Madrid y Real Sociedad van a la prórroga de la final tras 90 minutos de infarto",
-    "medio": "The Objective",
-    "fecha": 1776546001.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-04-18/atletico-madrid-real-sociedad-final-copa-rey/",
-    "resumen": "Empate en el estadio sevillano de La Cartuja entre Atlético de Madrid y Real Sociedad después de los 90 minutos. Los goles de Lookman y Julián […]"
-  },
-  {
-    "titulo": "Resultado Atlético de Madrid – Real Sociedad en directo hoy: resumen, goles y cómo va la final Copa del Rey en vivo (2-2)",
+    "titulo": "Simeone no se esconde: «Los aficionados necesitan ganar, no que les mande ningún mensaje»",
     "medio": "OK Diario",
-    "fecha": 1776545879.0,
+    "fecha": 1776552546.0,
+    "link": "https://okdiario.com/deportes/simeone-no-esconde-aficionados-necesitan-ganar-no-que-les-mande-ningun-mensaje-16633449",
+    "resumen": "Simeone resopló antes de comparecer ante los medios de comunicación. Un resoplido para afrontar lo que viene, que es el duelo por la defunción en Copa del Rey. El Atlético claudicó en la tanda de penaltis ante una grandiosa Real Sociedad. Una cornada de doble trayectoria. La propia derrota y el golpe psicológico para lo … Continuar leyendo \"Simeone no se esconde: «Los aficionados necesitan ganar, no que les mande ningún mensaje»\""
+  },
+  {
+    "titulo": "La coalición de izquierdas veta a Irene Montero: \"No puede liderar, las encuestas dicen que el pequeño es Podemos\"",
+    "medio": "El Mundo",
+    "fecha": 1776551972.0,
+    "link": "https://www.elmundo.es/cataluna/2026/04/18/69e267a9fc6c832d0a8b458f.html",
+    "resumen": "Recuerda que la formación morada \"está sufriendo por su supervivencia\" y la anima a integrarse sin condiciones imposibles en el conglomerado que ya forman Sumar, Más Madrid, Comunes e IU Leer"
+  },
+  {
+    "titulo": "Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",
+    "medio": "OK Diario",
+    "fecha": 1776551759.0,
     "link": "https://okdiario.com/deportes/atletico-madrid-real-sociedad-directo-hoy-resultado-goles-como-va-final-copa-del-rey-vivo-16631314",
-    "resumen": "La final de la Copa del Rey ha paralizado el mundo del fútbol español. La emoción vuelve a La Cartuja con el Atlético de Madrid y la Real Sociedad compitiendo por ser campeones en Sevilla entre la presión desbordante para escribir sus nombres en la historia de la competición. No hay términos medios en un … Continuar leyendo \"Resultado Atlético de Madrid – Real Sociedad en directo hoy: resumen, goles y cómo va la final Copa del Rey en vivo (2-2)\""
+    "resumen": "La final de la Copa del Rey ha paralizado el mundo del fútbol español. La emoción vuelve a La Cartuja con el Atlético de Madrid y la Real Sociedad compitiendo por ser campeones en Sevilla entre la presión desbordante para escribir sus nombres en la historia de la competición. No hay términos medios en un … Continuar leyendo \"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)\""
   },
   {
-    "titulo": "Atlético de Madrid - Real Sociedad, fútbol hoy en directo: Julián Álvarez empata la final de la Copa del Rey",
+    "titulo": "Koke tras perder la final de Copa: «Es una noche dura… pero hay que seguir porque tenemos la Champions»",
+    "medio": "OK Diario",
+    "fecha": 1776551719.0,
+    "link": "https://okdiario.com/deportes/koke-perder-final-copa-noche-dura-pero-hay-que-seguir-porque-tenemos-champions-16633435",
+    "resumen": "Koke compareció ante los medios de comunicación a pie de campo sobre el césped de La Cartuja tras perder la final de la Copa del Rey contra la Real Sociedad y aseguró que es una «noche dura» para todos los rojiblancos, pero que deben levantarse para competir las semifinales de la Champions League que tienen … Continuar leyendo \"Koke tras perder la final de Copa: «Es una noche dura… pero hay que seguir porque tenemos la Champions»\""
+  },
+  {
+    "titulo": "La gloria de Marrero, de Zubieta a campeón de Copa: \"Hay que creer. El chico que soñaba lo ha logrado\"",
+    "medio": "El Mundo",
+    "fecha": 1776551685.0,
+    "link": "https://www.elmundo.es/deportes/futbol/copa-del-rey/2026/04/19/69e406f8e4d4d81b3b8b456e.html",
+    "resumen": "Con 24 años, confiesa que tiró de \"chuleta\" ante Sorloth y Julián. Solo tiene una manía: ponerse primero el guante izquierdo y la bota derecha Leer"
+  },
+  {
+    "titulo": "Irán atribuye la «derrota» de EEUU a «errores estratégicos»",
+    "medio": "The Objective",
+    "fecha": 1776551564.0,
+    "link": "https://theobjective.com/internacional/2026-04-19/iran-derrota-eeuu-errores-estrategicos/",
+    "resumen": "El presidente del Parlamento iraní, Mohamad Baqer Qalibaf, ha apuntado a los «errores estratégicos» como causa de la «derrota» de Estados Unidos en la actual guerra […]"
+  },
+  {
+    "titulo": "Así fue la celebración de la Real Sociedad tras ser campeón de la Copa del Rey ante el Atlético",
+    "medio": "OK Diario",
+    "fecha": 1776551357.0,
+    "link": "https://okdiario.com/deportes/asi-fue-celebracion-real-sociedad-ser-campeon-copa-del-rey-atletico-16633396",
+    "resumen": "La Real Sociedad volvió a tocar el cielo en La Cartuja tras proclamarse campeón de la Copa del Rey. Después de una tensa tanda de penaltis, el conjunto vasco venció al Atlético con un Marrero colosal desde la portería y con un Pablo Marín que metió el gol definitivo para desatar la locura en Sevilla. … Continuar leyendo \"Así fue la celebración de la Real Sociedad tras ser campeón de la Copa del Rey ante el Atlético\""
+  },
+  {
+    "titulo": "Desolación absoluta del Atlético: así reaccionaron Simeone y los jugadores a la derrota en los penaltis",
+    "medio": "OK Diario",
+    "fecha": 1776550917.0,
+    "link": "https://okdiario.com/deportes/desolacion-absoluta-del-atletico-asi-reaccionaron-simeone-jugadores-derrota-penaltis-16633364",
+    "resumen": "Desolación absoluta fue lo que sintió el Atlético de Madrid de Simeone sobre el césped de La Cartuja tras perder la final de la Copa del Rey contra la Real Sociedad en una dramática tanda de penaltis. Los jugadores del equipo rojiblanco terminaron abatidos y con lágrimas en los ojos. También el entrenador argentino terminó … Continuar leyendo \"Desolación absoluta del Atlético: así reaccionaron Simeone y los jugadores a la derrota en los penaltis\""
+  },
+  {
+    "titulo": "Unai Marrero, héroe de la Real Sociedad: «Tenía apuntado donde iban a tirar, pero no me lo creo aún»",
+    "medio": "OK Diario",
+    "fecha": 1776550828.0,
+    "link": "https://okdiario.com/deportes/unai-marrero-heroe-real-sociedad-tenia-apuntado-donde-iban-tirar-pero-no-lo-creo-aun-16633378",
+    "resumen": "Unai Marrero fue el inesperado MVP de la final de la Copa del Rey. El portero suplente de la Real Sociedad inscribió con letras doradas su nombre en la historia del club vasco tras conseguir la cuarta Copa del Rey de la historia del club ante un gran Atlético de Madrid. El guardameta detuvo los … Continuar leyendo \"Unai Marrero, héroe de la Real Sociedad: «Tenía apuntado donde iban a tirar, pero no me lo creo aún»\""
+  },
+  {
+    "titulo": "Marrero emula a Arconada y da la Copa a la Real Sociedad en los penaltis ante el Atlético",
+    "medio": "El Mundo",
+    "fecha": 1776550595.0,
+    "link": "https://www.elmundo.es/deportes/futbol/copa-del-rey/2026/04/19/69e3bd14e9cf4a157e8b4572.html",
+    "resumen": "Los donostiarras fueron siempre por delante en el marcador con goles de Barrene y Oyarzabal que empataron Lookman y Julián. El portero donostiarra paró los dos primeros penaltis Leer"
+  },
+  {
+    "titulo": "Marrero y Pablo Marín le dan a la Real Sociedad su cuarta Copa del Rey en la tanda de penaltis",
+    "medio": "OK Diario",
+    "fecha": 1776550091.0,
+    "link": "https://okdiario.com/deportes/marrero-pablo-marin-dan-real-sociedad-cuarta-copa-del-rey-tanda-penaltis-16633215",
+    "resumen": "Unai Marrero y Pablo Marín. Dos hombres de la casa. Dos hombres de Zubieta, canteranos de la Real Sociedad, han sido los encargados de darle la cuarta Copa del Rey al equipo txuri-urdin. Lo han hecho en una agónica tanda de penaltis donde el portero donostiarra detuvo dos lanzamientos, a Sorloth y Julián, mientras que … Continuar leyendo \"Marrero y Pablo Marín le dan a la Real Sociedad su cuarta Copa del Rey en la tanda de penaltis\""
+  },
+  {
+    "titulo": "Vivir y morir con Simeone: nadie sabe qué es este Atleti",
+    "medio": "El Mundo",
+    "fecha": 1776550086.0,
+    "link": "https://www.elmundo.es/deportes/futbol/2026/04/19/69e3ffa0e9cf4a92608b45a5.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Trump hace brillar al Papa",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/opinion/20260419/11517088/trump-brillar-papa.html",
+    "resumen": "León XIV dijo que Jesús “no escucha las oraciones de quienes hacen la guerra”"
+  },
+  {
+    "titulo": "Barcelona, epicentro progresista global",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/opinion/20260419/11517029/barcelona-epicentro-progresista-global.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La otra cena de Montjuïc",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/opinion/20260419/11517086/cena-montjuic.html",
+    "resumen": "Los socialistas han desplazado a los comunes en una cumbre en la que los referentes extranjeros"
+  },
+  {
+    "titulo": "“El interés de los americanos por Europa ha crecido”",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/dinero/20260419/11516475/interes-americanos-europa-crecido.html",
+    "resumen": "La compañía americana estrena ruta a América desde Barcelona en un momento de alta tensión en el transporte aéreo por la guerra en Irán"
+  },
+  {
+    "titulo": "Trump y el número maldito",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/dinero/20260419/11516387/trump-numero-maldito.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Primero de Mayo con pan",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/dinero/20260419/11516440/primero-mayo-pan.html",
+    "resumen": "Francia ha vivido una enconada batalla política y un debate nacional en torno a la apertura de panaderías y floristerías el Primero de Mayo; al final se ha acordado una solución parcial"
+  },
+  {
+    "titulo": "¿Hacia una ‘ruptura listiana’ europea?",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/dinero/20260419/11516469/ruptura-listiana-europea.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La escuela del metro",
+    "medio": "La Vanguardia",
+    "fecha": 1776549900.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20260419/11515954/escuela-metro.html",
+    "resumen": "El centro educativo Cavall Bernat, en la rambla del Raval, fue creado en 1945 para formar hasta 1985 a los hijos de los trabajadores del suburbano y conserva un bello teatro con arcos de inspiración gaudiniana"
+  },
+  {
+    "titulo": "El mercado de las flores parisino que es un paseo imprescindible en primavera",
+    "medio": "eldiario.es",
+    "fecha": 1776549598.0,
+    "link": "https://www.eldiario.es/viajes/mercado-flores-parisino-paseo-imprescindible-primavera-pm_1_13149244.html",
+    "resumen": "En pleno corazón de París, entre edificios institucionales y calles transitadas, existe un rincón donde la ciudad cambia de ritmo y se llena de color, aromas y tradiciónEste es el curioso motivo por el que las Ramblas de Barcelona aún se conocen como “Rambla de las Flores” Hay lugares en París que parecen pensados para detener el tiempo, aunque estén rodeados de tráfico, turistas y edificios administrativos. Uno de ellos es el Marché aux Fleurs Reine Elizabeth II, un mercado que, desde hace más de dos siglos, transforma un rincón del centro en un pequeño oasis vegetal donde el bullicio urbano queda en segundo plano. Situado en la plaza Louis Lépine, justo a la salida del metro Cité y a pocos pasos de iconos como Catedral de Notre Dame, este mercado es uno de los pocos que han sobrevivido en la ciudad dedicados exclusivamente a las flores y las plantas. Un mercado con más de 200 años de historia Fundado en 1808, el mercado ha mantenido su esencia a lo largo del tiempo, adaptándose a los cambios de la ciudad sin perder su carácter original. Bajo una estructura metálica que recuerda a los antiguos mercados europeos, los puestos se suceden ofreciendo una variedad casi inabarcable de especies vegetales, desde las más clásicas hasta las más exóticas. Rosas, orquídeas, plantas carnívoras, arbustos o pequeñas macetas conviven con utensilios de jardinería en un espacio donde cada rincón parece pensado para despertar los sentidos. Pasear por aquí no es solo comprar, sino observar cómo el color y el aroma se convierten en protagonistas en medio de una ciudad que, por momentos, parece olvidar su propio ritmo acelerado. Primavera, el momento perfecto para perderse Aunque el mercado abre todos los días desde primera hora de la mañana, es en primavera cuando alcanza su máximo esplendor. Las flores llenan los puestos con una intensidad especial, y el ambiente invita a recorrerlo sin prisa, como si se tratara de un pequeño paréntesis dentro del viaje. Sin embargo, cada estación aporta su propio matiz. En Navidad, por ejemplo, el espacio se transforma por completo, sustituyendo los tonos verdes y florales por dorados, rojos y decoraciones típicas de las fiestas, lo que convierte el paseo en una experiencia completamente distinta. El curioso mercado de los domingos Uno de los aspectos más llamativos de este lugar llega cada domingo, cuando el mercado se amplía y da paso también a la venta de aves y pequeños animales. Jaulas de madera, pájaros de distintas especies e incluso peces o pequeños roedores aparecen entre los puestos, añadiendo una capa más de curiosidad a un espacio que ya de por sí resulta singular. Este contraste entre lo vegetal y lo animal, entre lo ornamental y lo cotidiano, refuerza la sensación de estar en un lugar que no responde a una única lógica, sino a una tradición que ha ido evolucionando con el tiempo. Un paseo que resume otra forma de vivir la ciudad En una ciudad donde cada rincón parece tener una historia que contar, el Marché aux Fleurs ofrece algo distinto: una pausa. No es un gran monumento ni un lugar imprescindible en las guías más rápidas, pero precisamente por eso se convierte en uno de esos espacios que mejor capturan la esencia de París. Porque, al final, viajar también consiste en encontrar esos lugares donde no pasa nada extraordinario y, sin embargo, ocurre todo: el sonido de una conversación, el olor de una flor recién cortada o la sensación de estar, simplemente, en el sitio adecuado en el momento justo."
+  },
+  {
+    "titulo": "La Real Sociedad arrebata al Atlético una Copa de infarto",
+    "medio": "Europa Press",
+    "fecha": 1776549497.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-sociedad-campeon-copa-rey-batir-atletico-madrid-penaltis-20260418235817.html",
+    "resumen": "La Real Sociedad se proclamó campeona de la Copa del Rey 2025-2026 tras imponerse en la tanda de penaltis al Atlético de Madrid, levantando su cuarto título copero de la historia en una final en la que vio cómo le igualaban los rojiblancos por partida doble los goles de Ander Barrenetxea y Mikel Oyarzabal."
+  },
+  {
+    "titulo": "Así queda el palmarés de la Copa del Rey tras la victoria de la Real Sociedad",
+    "medio": "OK Diario",
+    "fecha": 1776549455.0,
+    "link": "https://okdiario.com/deportes/asi-queda-palmares-copa-del-rey-victoria-real-sociedad-2-16633015",
+    "resumen": "El palmarés de la Copa del Rey se ha actualizado este sábado 18 de abril tras la final disputada en La Cartuja en esta edición de 2026, donde la Real Sociedad ha ganado el cuarto título de su historia tras vencer al Atlético de Madrid en una dramática tanda de penaltis. Durante los 120 minutos anteriores, … Continuar leyendo \"Así queda el palmarés de la Copa del Rey tras la victoria de la Real Sociedad\""
+  },
+  {
+    "titulo": "La Real Sociedad gana su cuarta Copa del Rey tras vencer en penaltis al Atlético de Madrid",
+    "medio": "HuffPost",
+    "fecha": 1776549357.0,
+    "link": "https://www.huffingtonpost.es/deporte/final-copa-rey-atletico-madrid-real-sociedad-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Unai Marrero se viste de héroe en la tanda de penaltis y la Real Sociedad se proclama campeón de Copa tras ganar al Atlético",
     "medio": "El Español",
-    "fecha": 1776545577.0,
-    "link": "https://www.elespanol.com/deportes/20260418/atletico-madrid-real-sociedad-futbol-hoy-directo-previa-ultima-hora-final-copa-rey/1003744212635_10.html",
-    "resumen": "👉🏻 Eusebio Sacristán: \"Entre Griezmann y Julián Álvarez puede estar el gol de la historia del Atlético de Madrid\" 💫 Sevilla, una ciudad tomada por la final de la Copa del Rey: autocaravanas, supermercados llenos y ni una sola mesa libre"
-  },
-  {
-    "titulo": "Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan",
-    "medio": "OK Diario",
-    "fecha": 1776545457.0,
-    "link": "https://okdiario.com/deportes/nunca-13-segundos-dieron-tanto-barrenetxea-adelanta-real-sociedad-final-copa-16632448",
-    "resumen": "La final de Copa del Rey empezó de lo más animada. Ander Barrenetxea hizo el gol más rápido en la historia de la final del campeonato, cabeceando un centro de Guedes. Tardó 13 segundos, en la primera jugada del partido. No podía ponerse más cuesta arriba para un Atlético que reaccionaría, con el empate por … Continuar leyendo \"Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan\""
-  },
-  {
-    "titulo": "España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero",
-    "medio": "OK Diario",
-    "fecha": 1776545159.0,
-    "link": "https://okdiario.com/economia/espana-cambia-normas-oficial-partir-noviembre-deberas-devolver-latas-botellas-recuperar-tu-dinero-16632996",
-    "resumen": "España implantará el sistema de devolución de envases en 2026. España dará un giro importante en su modelo de reciclaje a partir de noviembre de 2026, cuando será obligatorio devolver latas, botellas y otros envases para recuperar el dinero abonado como depósito en el momento de la compra. España cambia las normas y es oficial: … Continuar leyendo \"España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero\""
-  },
-  {
-    "titulo": "Dónde ver el resultado en directo el Atlético de Madrid – Real Sociedad gratis por TV online la final de la Copa del Rey",
-    "medio": "OK Diario",
-    "fecha": 1776544515.0,
-    "link": "https://okdiario.com/deportes/donde-ver-directo-atletico-madrid-real-sociedad-gratis-tv-online-final-copa-del-rey-16616084",
-    "resumen": "Llega uno de los momentos más esperados de la temporada porque estamos en la recta final y ya vamos a conocer quién será el campeón de la Copa del Rey. El Atlético de Madrid y la Real Sociedad pelearán en la gran final por salir vencedores y alzar al cielo de Sevilla el trofeo con … Continuar leyendo \"Dónde ver el resultado en directo el Atlético de Madrid – Real Sociedad gratis por TV online la final de la Copa del Rey\""
+    "fecha": 1776549291.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260418/unai-marrero-viste-heroe-tanda-penaltis-real-sociedad-proclama-campeon-copa-ganar-atletico/1003744212651_0.html",
+    "resumen": "Julián Álvarez mandó la final a la prórroga en el 82', pero el portero vasco fue crucial en la tanda con dos paradas. Marín anotó el penalti decisivo."
   },
   {
     "titulo": "Una turista pone una cámara en su habitación de hotel y alucina con lo que ve: \"Estaba usando mis cosas\"",
@@ -81,14 +214,7 @@
     "medio": "El Mundo",
     "fecha": 1776543652.0,
     "link": "https://www.elmundo.es/cultura/toros/2026/04/18/69e32e9fe9cf4a40418b4574.html",
-    "resumen": "El sevillano pincha una gran faena a un Bolsilillo memorable, el mejor de un lote de Puerta del Príncipe; el ganadero echa un borrón con dos toros impresentables tras los cuatro hijos de Cobradiezmos Leer"
-  },
-  {
-    "titulo": "¡Descanso! La Real Sociedad va por delante ante el Atlético (1-2) en la final de Copa",
-    "medio": "La Vanguardia",
-    "fecha": 1776542901.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260418/11516967/atletico-de-madrid-real-sociedad-final-copa-del-rey-partido-futbol-hoy-en-directo.html",
-    "resumen": "⚽ Final de la Copa del Rey | DESCANSO | Atlético de Madrid 1 - 2 Real Sociedad"
+    "resumen": "El sevillano pincha una gran faena a un toro (Bolsilillo) memorable, el mejor de un lote de Puerta del Príncipe; el ganadero echa un borrón con dos ejemplares impresentables tras cuatro notables hijos de Cobradiezmos Leer"
   },
   {
     "titulo": "Sánchez asegura en la cumbre ‘progresista’ que el tiempo de la derecha se acaba",
@@ -117,20 +243,6 @@
     "fecha": 1776542416.0,
     "link": "https://www.huffingtonpost.es/sociedad/invierte-370000-euros-vivienda-preven-pase-linea-autobus-jardin-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Rojuu, protagonista del último confesionario de Rosalía en Barcelona: “Yo soy la perla”",
-    "medio": "La Vanguardia",
-    "fecha": 1776542394.0,
-    "link": "https://www.lavanguardia.com/gente/20260418/11516566/rojuu-protagonista-ultimo-confesionario-rosalia-barcelona-perla.html",
-    "resumen": "El músico y youtuber barcelonés explicó como, tras irse con otra persona, tuvo que luchar para intentar volver a conquistar a su “verdadero amor”"
-  },
-  {
-    "titulo": "Incredulidad en los puertos de Galicia: el increíble viaje de un pez marcado hace 10 años en Cabo Verde que ha terminado en redes gallegas",
-    "medio": "OK Diario",
-    "fecha": 1776542384.0,
-    "link": "https://okdiario.com/naturaleza/incredulidad-puertos-galicia-increible-viaje-pez-marcado-hace-10-anos-cabo-verde-que-terminado-redes-gallegas-16632930",
-    "resumen": "Un atún patudo marcado en Cabo Verde en 2016 ha reaparecido casi diez años después en el Atlántico. Este hallazgo ha provocado la incredulidad en los puertos de Galicia: es el increíble viaje de un pez marcado hace 10 años en Cabo Verde que ha terminado en redes gallegas. Un atún patudo (Thunnus obesus) marcado … Continuar leyendo \"Incredulidad en los puertos de Galicia: el increíble viaje de un pez marcado hace 10 años en Cabo Verde que ha terminado en redes gallegas\""
   },
   {
     "titulo": "Nicolás Copérnico, científico: \"La naturaleza nunca hace nada superfluo, nada inútil, y sabe sacar múltiples efectos de una sola causa\"",
@@ -196,13 +308,6 @@
     "resumen": "Las autoridades ucranianas investigan como terrorismo el tiroteo. Leer"
   },
   {
-    "titulo": "Los comunidad venezolana en Madrid arropa a Corina Machado: «Se me saltan las lágrimas al verla»",
-    "medio": "OK Diario",
-    "fecha": 1776541141.0,
-    "link": "https://okdiario.com/espana/comunidad-venezolana-madrid-arropa-corina-machado-saltan-lagrimas-verla-16632885",
-    "resumen": "Miles de venezolanos han arropado a la ganadora del Premio Nobel de la Paz y líder de la oposición venezolana, María Corina Machado, que este sábado ha recibido la Medalla de Oro de la Comunidad de Madrid. Los venezolanos residentes en España han acudido a la Puerta del Sol a celebrar la entrega del galardón … Continuar leyendo \"Los comunidad venezolana en Madrid arropa a Corina Machado: «Se me saltan las lágrimas al verla»\""
-  },
-  {
     "titulo": "Un seguidor de la Real Sociedad herido por la coz de un caballo policial y pitada al rey y al himno en la final en Sevilla",
     "medio": "eldiario.es",
     "fecha": 1776541136.0,
@@ -224,27 +329,6 @@
     "resumen": "Tres días pueden dar mucho de sí si se elige bien el destino. Desde recorrer miradores y subir a tranvías en Lisboa hasta perderse entre zocos en Marrakech Gante por primera vez: las claves de un viajero experto para organizar tu visita y no perderte nada El puente de mayo es un momento perfecto para aprovechar y hacer un pequeño viaje. Tres días bien aprovechados dan para mucho más de lo que parece, sobre todo en primavera, cuando las temperaturas acompañan y los días son largos. Además, con vuelos de menos de tres horas desde España, hay destinos que permiten exprimir el tiempo al máximo. Y como verás, las posibilidades son muchas y muy variadas. La clave está en organizarse bien. Por eso, te proponemos escapadas pensadas día a día, con planes concretos para cada jornada. La idea no es verlo todo, sino seleccionar bien y encajar visitas, paseos y alguna que otra experiencia para que el viaje cunda sin ir con la sensación de estar corriendo de un sitio a otro. Si los planteamos bien, tres días pueden ser más que suficientes para hacerse una buena idea de un destino. Entre las propuestas hay ciudades que se recorren casi sin darte cuenta, como Lisboa, enlazando miradores, tranvías y una escapada a Sintra, y otras que suponen un cambio total de registro, como Marrakech, donde perderse por la medina, recorrer los zocos o terminar el día en Jemaa el-Fna forman parte del plan. También hay hueco para Burdeos, ideal para combinar su elegante centro con una excursión entre viñedos. Para Nápoles, intensa y caótica a partes iguales. Y para Bruselas, perfecta para alternar la Grand Place, museos y una escapada a ciudades cercanas como Brujas o Gante. Cinco destinos muy diferentes, pero muy interesantes si queremos aprovechar el puente de mayo para romper con la rutina. Lisboa Lisboa es uno de esos destinos que encajan especialmente bien en una escapada de tres días: cercana, manejable y con muchos planes a poca distancia entre sí. El primer día puedes empezar por Alfama, dejándote llevar por sus calles hasta miradores como Portas do Sol. Desde ahí, puedes bajar hacia la catedral y continuar hasta la Baixa, pasando por la Plaza del Comercio. Por la tarde, acércate a Belém para ver el Monasterio de los Jerónimos y la Torre de Belém, y termina el día con un paseo junto al Tajo. La Torre de Belém, en Lisboa. El segundo día lo puedes dedicar a seguir explorando otras partes de la ciudad. Una buena idea es subir al Castillo de San Jorge a primera hora y, después, ir enlazando miradores como el de Santa Justa o São Pedro de Alcântara. También puedes moverte en el tranvía 28; no hay cosa más típica en Lisboa. A lo largo del día, alterna paseos por Chiado con una parada en el Convento do Carmo. Por la noche, una cena con fado sería la guinda perfecta. Para el tercer día, lo más recomendable es salir de la ciudad. La excursión a Sintra es casi imprescindible, con paradas en el Palacio da Pena y la Quinta da Regaleira. Si prefieres algo más tranquilo, puedes acercarte a Cascais y pasear por su centro y su paseo marítimo. En ambos casos, la idea es aprovechar la mañana y volver con tiempo suficiente para ir al aeropuerto esa tarde. Marrakech Marrakech es un destino cercano, pero que nos lleva muy lejos porque el contraste es tremendo. El primer día puedes dedicarlo a una toma de contacto con la medina. Empieza por la mezquita Koutoubia y continúa hacia el Palacio de la Bahía y las Tumbas Saadíes. Después, piérdete por las calles hasta llegar a Jemaa el-Fna, que al caer la tarde se transforma por completo. Una buena idea es cenar en alguno de sus puestos o subir a una terraza para ver el ambiente desde arriba. La plaza de Jemaa el-Fna, en Marrakech. El segundo día lo puedes organizar con más calma. Empieza en el Jardín Majorelle y el Museo Yves Saint Laurent, y después acércate a la madrasa Ben Youssef, uno de los rincones más bonitos de la ciudad. A partir de ahí, dedica tiempo a recorrer los zocos con calma, entrando en talleres y pequeñas tiendas. Cuando te des cuenta, estarás regateando por algo que ni siquiera querías. Por la tarde, un hammam tradicional es una buena forma de parar y descansar antes de cenar en algún riad. Para el tercer día, puedes completar la visita con lugares como el Palacio El Badi o el Museo de Marrakech, y dar un último paseo por la medina para compras de última hora. También es buena idea volver a Jemaa el-Fna para verlo con otra luz. Después, comida tranquila y regreso con tiempo al alojamiento para recoger el equipaje antes del vuelo. Burdeos Burdeos es una ciudad elegante y muy cómoda de recorrer, perfecta para una escapada corta. El primer día puedes centrarte en su centro histórico, empezando por la plaza de la Bolsa y el espejo de agua, y continuando por la calle Sainte-Catherine hasta la catedral de Saint-André. Desde ahí, puedes subir a la Torre Pey-Berland para tener vistas de la ciudad y seguir paseando por el casco antiguo. Por la tarde, acércate al barrio de Chartrons y termina el día junto al río Garona. Place de la Bourse, en Burdeos. El segundo día es perfecto para una excursión. Una de las más interesantes es a Saint-Émilion, donde puedes recorrer su casco medieval, entrar en su iglesia monolítica y visitar alguna bodega de los alrededores. Otra opción es la Duna de Pilat, donde puedes subir hasta la cima y disfrutar de las vistas del Atlántico. Son dos planes muy diferentes, pero ambos encajan muy bien en una jornada completa. Para el tercer día, puedes dedicar la mañana a conocer la Cité du Vin, uno de los espacios más interesantes de la ciudad, o pasear por los muelles del Garona en bici o a pie. También puedes volver al centro para una última comida en alguna terraza antes de dirigirte al aeropuerto con tiempo. Nápoles Nápoles es intensa, directa y a veces caótica, pero precisamente por eso resulta tan interesante. El primer día puedes empezar por su centro histórico, recorriendo Spaccanapoli y entrando en lugares como la iglesia del Gesù Nuovo o el Duomo de San Gennaro. A medida que avanzas, irás enlazando plazas, iglesias y pequeñas tiendas. Por la tarde, puedes acercarte a la zona del paseo marítimo y el Castel dell’Ovo, con el Vesubio siempre de fondo. El Parque Arqueológico de Pompeya. El segundo día lo puedes dedicar a una excursión a Pompeya, donde merece la pena recorrer con calma las ruinas y hacerse una idea de cómo era la ciudad. Si prefieres, también puedes combinarlo con una parada rápida en Herculano. Es un día más intenso, pero muy diferente al anterior. Para el tercer día, puedes completar la visita con el Museo Arqueológico Nacional, que ayuda a entender mejor lo visto en Pompeya, y subir al mirador del Castel Sant’Elmo para tener una vista panorámica de la ciudad. Después, un último paseo por el centro, aprovecha para probar la pizza fritta si no lo has hecho ya, y pon rumbo al aeropuerto. Bruselas Bruselas es una ciudad perfecta para combinar visitas urbanas con alguna escapada cercana. El primer día puedes empezar en la Grand Place y recorrer sus alrededores, pasando por las Galerías Saint Hubert y el Manneken Pis. A partir de ahí, puedes seguir hacia el Mont des Arts y visitar el Museo Magritte o los Museos Reales de Bellas Artes. Entre medias, siempre hay tiempo para parar a probar gofres o chocolate. La Grand Place de Bruselas. El segundo día lo puedes dedicar a explorar otras zonas de la ciudad. Una buena idea es acercarte al Atomium y pasear por el parque de Laeken, donde también está el Palacio Real. Después, puedes dirigirte al barrio europeo y visitar el Parlamentarium, que explica de forma muy clara cómo funciona la Unión Europea. Si prefieres un plan más especial, acércate a los Invernaderos Reales de Laeken, que solo abren unas semanas entre abril y mayo, y es una buena oportunidad. Para el tercer día, lo más recomendable es hacer una excursión a Brujas o Gante. En Brujas puedes recorrer sus canales y plazas medievales, y en Gante, visitar el castillo de los Condes de Flandes y su centro histórico. En ambos casos, saliendo temprano en tren tendrás tiempo suficiente para volver a Bruselas, recoger el equipaje y dirigirte a tu vuelo de vuelta a casa."
   },
   {
-    "titulo": "Juan Carlos Rivero revoluciona las redes con sus comentarios en la final de Copa entre Atlético y Real Sociedad",
-    "medio": "OK Diario",
-    "fecha": 1776540276.0,
-    "link": "https://okdiario.com/deportes/juan-carlos-rivero-revoluciona-redes-sus-comentarios-final-copa-atletico-real-sociedad-16631466",
-    "resumen": "Juan Carlos Rivero ha vuelto a encender las redes sociales con sus comentarios en la final de Copa del Rey, partido que enfrenta a Atlético de Madrid y Real Sociedad en La Cartuja de Sevilla. El narrador de Televisión Española ha sido otra vez protagonista por sus comentarios en este gran partido de fútbol que … Continuar leyendo \"Juan Carlos Rivero revoluciona las redes con sus comentarios en la final de Copa entre Atlético y Real Sociedad\""
-  },
-  {
-    "titulo": "Un mallorquín de 93 años explica el cambio en la vivienda en Palma: \"Me vendían un solar de 800 metros por 15.000 pesetas, ahora eso vale una fortuna\"",
-    "medio": "HuffPost",
-    "fecha": 1776539905.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-mallorquin-93nos-explica-cambio-vivienda-palma-me-vendian-solar-800-metros-15000-pesetas-vale-fortuna-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La afición del Atlético respondió con una bandera de España gigante a las ikurriñas de la Real Sociedad",
-    "medio": "OK Diario",
-    "fecha": 1776539832.0,
-    "link": "https://okdiario.com/deportes/aficion-del-atletico-respondio-bandera-espana-gigante-ikurrinas-real-sociedad-16632605",
-    "resumen": "Antes de la pelea futbolística, batalla de banderas en la grada. El fondo de la afición del Atlético de Madrid lució una gigantesca bandera de España, escoltada por miles de menor tamaño, mientras que los aficionados de la Real Sociedad sacaron todas las ikurriñas posibles. Todo acompañado de gritos de «viva España», por parte de … Continuar leyendo \"La afición del Atlético respondió con una bandera de España gigante a las ikurriñas de la Real Sociedad\""
-  },
-  {
     "titulo": "El espíritu Mamdani en Barcelona: de asaltar los cielos a arreglar el asfalto",
     "medio": "El País",
     "fecha": 1776539400.0,
@@ -264,13 +348,6 @@
     "fecha": 1776538910.0,
     "link": "https://www.trendencias.com/cine/romcom-julia-roberts-george-clooney-que-esta-peliculas-vistas-netflix",
     "resumen": "En 2022 se estrenó una de las comedias más esperadas del entonces con una suculenta trama y como actores protagonistas Julia Roberts y George Clooney. Una comedia romántica en la que celebrities de tal calibre coincidían juntos parecía ser motivo más que suficiente para acudir a las salas y disfrutar a ciegas de la historia que traían entre manos. Se trataba, de hecho, de la quinta película que hacían juntos y no nos defraudó. Ahora ha llegado por fin a Netflix y se ha colocado entre las más vistas. En esta película, Georgia (Julia Roberts) y David (George Clooney) son una pareja de divorciados que viajan a Bali dispuestos a evitar que su hija en común, Lily (Kaitlyn Dever), arruine su vida por completo casándose en ese lugar con su novio Gede (Maxime Bouttier). Ellos no se soportan y verlos intentando ponerse de acuerdo para frenar el estrepitoso enlace resulta de lo más delirante. Los planes que proponen para arruinar la celebración de su hija al final acaban uniéndoles más de lo que esperaban. Ya sabéis: el roce hace el cariño. No nos cabe duda que como pareja cinematográfica ambos actores son imparables porque la química que tienen traspasa la pantalla. Nos recuerda, en cierto modo, a esas romcoms de los 90 y principios de los 2000 que tanto nos gustan, donde lo delirante siempre tiene un hueco en la trama. Todo es maravillosamente predecible, pero en el buen sentido. Una espera un buen final feliz para reconciliarse con la vida tras los créditos y la película lo promete. Además de los paisajes increíbles que nos hacen viajar por las playas más alucinantes de Bali, la fotografía es otro punto fuerte de la cinta. Una de las principales razones por las que te dan ganas de pillarte un avión rumbo a dicho destino para disfrutar de unos días de película. Tenemos que decirlo: que esté en el número dos de Netflix nos parece de lo más razonable. Fotos | Netflix En Trendencias | Las 31 mejores series de HBO Max que puedes ver ahora mismo - La noticia La romcom con Julia Roberts y George Clooney que está entre las películas más vistas de Netflix fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "Comparativa de cuberterías 2026: cuáles son las mejores para tu hogar y familia",
-    "medio": "La Vanguardia",
-    "fecha": 1776538800.0,
-    "link": "https://www.lavanguardia.com/comprar/hogar-cocina/20260418/11512063/mejores-cuberterias-comparativas-mkt-eo.html",
-    "resumen": "Si estás pensando en renovar la cubertería o quieres darle un nuevo look a tus mesas, debes conocer las mejores cuberterías y qué las caracteriza. Lo analizamos"
   },
   {
     "titulo": "Las 5 polémicas con las que tendrá que lidiar ‘Michael’, el biopic de Michael Jackson",
@@ -308,25 +385,18 @@
     "resumen": "En el complejo mapa genético que rodea al conocido síndrome de Down, el problema no radica en que haya una falta de información en nuestras células, sino que hay un exceso. La presencia de una tercera copia del cromosoma 21 desequilibra todo el sistema celular que acaba generando toda una clínica que a día de hoy no tenía ningún tipo de cura. Pero gracias a los avances clínicos y las revolucionarias terapias génicas, hemos encontrado la forma de apagar este gen que está extra en las células de las personas con Down. Un interruptor natural. Para entender este avance, hay que mirar cómo la propia naturaleza resuelve sus propios desequilibrios genéticos. Y es que, para quien no lo sepa, en los seres humanos el sexo está determinado por dos tipos de cromosomas: el X y el Y. En el caso de ser mujer, se tendrán los cromosomas XX, y si se es hombre, se será XY. El problema, reduciéndolo a lo más básico, es que siempre se tiene que silenciar uno de los genes 'X' para que la carga genética esté compensada en el humano. Y esto es algo que se hace gracias al gen XIST que codifica una molécula de ARN que recubre el cromosoma y altera su cromatina, silenciando de facto sus genes. Algo que ha sido desarrollado por la propia naturaleza para poder mantener la especie, y entonces la pregunta es obligada: ¿por qué no usar este interruptor natural para silenciar los cromosomas que generan enfermedades tan importantes como el Down? En Xataka Llevábamos casi 40 años buscando la herencia genética de Chernóbil. Un nuevo estudio acaba de encontrarla No es algo nuevo. La idea de usar este\"interruptor\" para poder alterar la expresión génica de los cromosomas que tenemos en exceso no es nueva, ya que en 2013 la investigadora Jeanne Lawrence demostró por primera vez que este ARN podía inducir el silenciamiento del cromosoma 21 extra en células humanas que tenía en un laboratorio en cultivo. Más tarde, en 2020, se logró aplicar en células madre neurales, pero el problema histórico siempre ha sido el mismo: la bajísima eficiencia a la hora de integrar este gen en las células afectadas. Un nuevo hito. Esto ha cambiado de manera radical, ya que un equipo del Centro Médico Beth Israel Deaconess de Boston ha publicado un nuevo artículo en PNAS con una solución para erradicar este cuello de botella gracias a la herramienta CRISPR/Cas9. Este sistema se puede visualizar como unas simples tijeras que cortan específicamente en nuestro ADN para eliminar algo que nos sobraba o que estaba alterado. El problema es que no era muy eficiente para integrar nuevo material genético, y para superarlo, los científicos han desarrollado una versión modificada de CRISPR/Cas9 que dispara la tasa de éxito de la integración del gen XIST que va a silenciar el tercer cromosoma 21. Buenos resultados. Aquí se reconoce cómo se ha logrado integrar XIST en un 20-40% de las líneas celulares que cuentan con la trisomía del 21. Además, el método afecta de forma fiable solo a la copia extra del cromosoma 21 sin que silencie otros genes que pueden acarrear otras enfermedades. Hay problemas. Pese al entusiasmo, la técnica está lejos de aplicarse en humanos, ya que uno de los mayores retos de CRISPR son las mutaciones off-target, es decir, que actúe en otros puntos genéticos que son sus objetivos marcados. Y esto ocurre cuando estas 'tijeras' corta una secuencia del ADN que se parece mucho a su objetivo, pero que en realidad no es. De esta manera, un error off-target podría desencadenar problemas celulares severos o incluso cáncer. Estudios recientes muestran que la experimentación en embriones con estas técnicas a menudo resulta en un mosaicismo con células editadas y no editadas, así como ediciones incompletas. Esto hace que ahora mismo se tenga que trabajar en tener una mayor especificidad en los objetivos genéticos de la terapia para que las consecuencias de usarla no sean mucho mayores que el hecho de curar una enfermedad. En Xataka Dormir con el móvil a 30 centímetros de nuestra cara nos está rompiendo el sueño. Pero no por el motivo más sospechado Choque ético. La polémica está servida con las terapias genéticas en general, ya que ahora mismo unas de las líneas que hay abiertas es la de eliminar este cromosoma extra directamente en un embrión humano antes de implementarlo en una mujer para que no nazca con esta enfermedad. Aquí es donde los expertos en bioética apuntan a que experimentar con embriones humanos daña su integridad física y plantea riesgos irreversibles para futuras generaciones. Además, subrayan la urgencia de distinguir entre el uso de CRISPR con fines puramente terapéuticos, como tratar síntomas, y su uso para la \"mejora genética\" o la selección de embriones que sean mucho más avanzados o perfectos genéticamente. Esto se suma también a que la edición genética en embriones con fines reproductivos ahora mismo está prohibida en la mayoría de los países. Imágenes | Sangharsh Lohakare En Xataka | Lo sorprendente no es que hayamos secuenciado el ADN de un neandertal de hace 11.000 años: es lo que ha revelado - La noticia La ciencia ha logrado apagar el cromosoma extra del síndrome de Down. También ha abierto el gran debate ético sobre la edición génica fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
+    "titulo": "Final de la Copa del Rey, en directo: ¡3-4 en penaltis y título para la Real Sociedad!",
+    "medio": "Europa Press",
+    "fecha": 1776536998.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-final-copa-rey-directo-atletico-madrid-real-sociedad-20260418202958.html",
+    "resumen": "El Atlético de Madrid y la Real Sociedad disputan en La Cartuja la final de la Copa del Rey Mapfre 2025/2026 con la intención de aprovechar la ocasión de celebrar un título, que se resiste los últimos años en el equipo rojiblanco y con la ambición 'txuri-urdin' intacta. La final de este sábado promete."
+  },
+  {
     "titulo": "Irán cierra de nuevo el estrecho de Ormuz hasta que Trump levante su propio bloqueo",
     "medio": "El País",
     "fecha": 1776536889.0,
     "link": "https://elpais.com/internacional/2026-04-18/iran-cierra-de-nuevo-el-estrecho-de-ormuz-hasta-que-trump-levante-su-propio-bloqueo.html",
     "resumen": "La Guardia Revolucionaria reimpone un “control estricto” sobre el corredor y ataca dos buques"
-  },
-  {
-    "titulo": "Ayuso pone Sol a los pies de Machado y la anuncia como futura presidenta de Venezuela",
-    "medio": "The Objective",
-    "fecha": 1776536387.0,
-    "link": "https://theobjective.com/internacional/2026-04-18/ayuso-sol-machado-venezuela/",
-    "resumen": "La Puerta del Sol ha vuelto a convertirse este sábado en un punto de encuentro para la diáspora venezolana. Bajo el reloj de la Real Casa […]"
-  },
-  {
-    "titulo": "Rafa Jódar: “Mi padre me dijo: ‘Sal ahí fuera y a disfrutar’”",
-    "medio": "La Vanguardia",
-    "fecha": 1776535596.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20260418/11517015/rafa-jodar-mi-padre-me-dijo-sal-fuera-disfrutar.html",
-    "resumen": "El madrileño destacó la gran experiencia vivida en su primer Trofeo Conde de Godó después de quedarse a las puertas de la final"
   },
   {
     "titulo": "Las 31 mejores series de Amazon Prime Video que puedes ver ahora mismo",
@@ -357,13 +427,6 @@
     "resumen": "Proyecto Salvación ha sorprendido por varias cosas a la vez. Por un lado, su capacidad para innovar en el cine de ciencia ficción, desde una visión optimista del género. También, por demostrar que el cine puede ser un espectáculo emotivo, a gran escala y sorprendente, con historias que no pertenezcan a sagas o sean un […] Seguir leyendo: La increíble historia real del escritor de ‘Proyecto Salvación’"
   },
   {
-    "titulo": "“Lo que no tienes en tu despensa puede estar afectando a tus hormonas”",
-    "medio": "La Vanguardia",
-    "fecha": 1776534900.0,
-    "link": "https://www.lavanguardia.com/comprar/deporte-salud/20260418/11514987/marta-marce-nutricionista-experta-menopausia-tienes-despensa-afectando-tus-hormonas.html",
-    "resumen": "En la perimenopausia y la menopausia, el enfoque nutricional evoluciona: ya no basta con comer saludable, sino con elegir de forma estratégica alimentos y suplementos que respalden el equilibrio hormonal, la masa muscular y la salud digestiva"
-  },
-  {
     "titulo": "Ayuso impone la Medalla de Oro a María Corina Machado y esta asegura que \"muy pronto\" le dará las llaves de Caracas",
     "medio": "eldiario.es",
     "fecha": 1776534457.0,
@@ -371,46 +434,11 @@
     "resumen": "La presidenta autonómica madrileña no se ha olvidado del Foro progresista celebrado este fin de semana en Barcelona, asgura que \"ningún representante europeo\" ha acudido a la cita pese a la presencia de la líder del Partido Democrático italiano, el vicecanciller alemán o el sueco Stefan Löfven, presidente del Partido de los Socialistas EuropeosMaría Corina Machado justifica su rechazo a reunirse con Sánchez por la cumbre progresista en Barcelona La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha impuesto este sábado la Medalla de Oro de la región a la líder opositora venezolana y premio Nobel de la Paz, María Corina Machado, mientras “el socialismo del siglo XXI está de guateque en Barcelona”, en alusión a la cumbre progresista a la que ha acudido el presidente del Gobierno, Pedro Sánchez, y otros líderes internacionales. Durante su discurso tras entregar a Machado esta distinción, la presidenta autonómica ha deslizado que el evento celebrado este fin de semana en Barcelona fue convocado “cuando sabía que este evento se iba a celebrar”. Además, ha destacado que apenas “ningún representante europeo” ha acudido a la cita de Sánchez con el presidente brasileño, Lula da Silva; o la mexicana Claudia Sheinbaum. Ayuso ha obviado la presencia de altos mandatarios de la Unión Europea; el vicecanciller de Alemania y ministro de Finanzas, Lars Klingbeil, o del viceprimer ministro de Reino Unido y titular de Justicia, David Lammy. “Nos dan lecciones quienes tienen dividido a su pueblo entre una pretendida lucha de clases, multiplicando la pobreza para que la culpa sea de una minoría rica y no de gobiernos que con sus decisiones hunden la economía de las familias y de los autónomos, los que hacen del recuerdo de cada uno memoria impuesta por ley de manera totalitaria”, ha defendido Ayuso. En este punto, la presidenta madrileña ha rechazado “lecciones” de quienes “hasta hace ni un año” eran “cómplices” del régimen de Venezuela y “ganaban dinero con el sufrimiento del pueblo de Venezuela mientras sabían que había hambruna, desaparecidos y presos políticos maltratados”. A continuación, Ayuso ha señalado de nuevo a Sánchez por unas declaraciones desde Barcelona en las que ha animado a “hacer lo que sea por defender la democracia”, ante lo que la presidenta madrileña ha respondido si esa defensa pasa por ir “contra la Justicia, los medios de comunicación” y “carcomer” el sistema público “como ocurrió en Venezuela”. Más tarde, Ayuso y María Corina Machado, acompañadas de la hija de Edmundo González, han salido al balcón de la Real Casa de Correos, “la casa de la libertad”, según Ayuso, y donde ya se ha mostrado junto a otros líderes de ultraderecha como el presidente argentino Javier Milei. “En esta plaza hemos reivindicado todos estos largos años la libertad del pueblo de Venezuela, de Cuba, de Nicaragua y de tantas naciones hermanas. En esta plaza hemos alzado la voz juntos contra las dictaduras en representación de las millones de personas que se han visto forzadas a dejar atrás su tierra, pero han encontrado en Madrid su nuevo hogar”, ha arengado Ayuso. Ante una Puerta del Sol llena de venezolanos y entre algunos gritos de “presidenta”, Ayuso ha aventurado que “el cambio va a llegar de manera imparable” a Venezuela y Machado, “un día no muy lejano” será la primera presidenta venezolana de la historia. Machado augura su retorno a Venezuela En presencia del Gobierno regional al completo, Machado ha recibido esta distinción “en atención a los méritos” de la opositora venezolana, “figura clave” en el país sudamericano “por su incansable labor en favor de la democracia, la defensa de los Derechos Humanos y la libertad” y que ha recibido el último Premio Nobel de la Paz, seguramente el que mayor polémica ha provocado en los últimos años por su defensa de la intervención extranjera en su país. Tras recibir de manos de la presidenta autonómica la Medalla de Oro, Machado ha trasladado su agradecimiento a Ayuso y a los madrileños, y ha expresado su “honor inmenso” por una distinción que toma en nombre de todos los ciudadanos “de dentro y fuera” de su país que “han arriesgado su vida por la libertad”. “Tenía que ser precisamente aquí, en Madrid, donde siento que esta tarde comienza nuestro retorno. Desde aquí comenzamos a preparar esta nueva fase en la cual regresaremos millones a construir juntos un país del cual nos sentamos todos orgullosos de ser venezolanos”, ha aseverado la líder opositora, que se encuentra bajo orden de busca y captura en su país de origen. En este punto, Machado ha asegurado que cuando regrese a Venezuela para construir un nuevo sistema político de la mano del “presidente electo” González, lo hará también con los miles de madrileños en el exilio, incluidos los que viven en Madrid. “Sí Isabel, van a regresar”, ha trasladado a Ayuso, a quien desde el balcón de Sol ha asegurado que pronto entregará las llaves de Caracas. Antes de recibir la Medalla de Oro de la región, Machado ha mantenido un encuentro privado con Ayuso en la sede del Gobierno regional y ha firmado en el Libro de Honor de la Comunidad de Madrid, donde ha trasladado su agradecimiento a los madrileños por haber “acogido a miles de venezolanos”. “Pronto les recibiremos a muchos de ustedes en una Venezuela libre”, ha añadido. Recuerdo a Edmundo González Por su parte, Edmundo González también ha sido reconocido con la Medalla Internacional. Sin embargo, el candidato presidencial venezolano no ha podido acudir al acto por problemas de salud y ha sido su hija Carolina quien ha recibido el galardón de manos de la presidenta regional. Así, a González se le ha reconocido con la Medalla Internacional “como gesto de cortesía, reconocimiento y respeto de los ciudadanos de la Comunidad de Madrid” y considerándolo como “presidente democráticamente elegido de Venezuela en las elecciones presidenciales del 28 de julio de 2024”. Carolina González ha leído a continuación una misiva redactada de puño y letra por el propio Edmundo en la que ha agradecido la distinción de la Comunidad de Madrid y ha recalcado que está del lado de Machado. “Estamos juntos en esto, como lo hemos estado desde el primer día”, ha expresado González de boca de su hija menor."
   },
   {
-    "titulo": "Sánchez clama en Barcelona: “Los ultras y las derechas lacayas gritan porque su tiempo se acaba”",
-    "medio": "La Vanguardia",
-    "fecha": 1776533775.0,
-    "link": "https://www.lavanguardia.com/politica/20260418/11517010/sanchez-clama-barcelona-ultras-derechas-lacayas-gritan-acaba.html",
-    "resumen": "El presidente del Gobierno y el brasileño Lula da Silva clausuran la Global Progressive Mobilisation en un ambiente de entusiasmo frente a la agenda ideológica de Trump, con el apoyo del alcalde de Nueva York o el gobernador Tim Walz"
-  },
-  {
     "titulo": "China ha activado su experimento más ambicioso desde 1980: que su \"Ibiza\" no sea solo para vacaciones, sino para negocios",
     "medio": "Xataka",
     "fecha": 1776533510.0,
     "link": "https://www.xataka.com/magnet/china-ha-activado-su-experimento-ambicioso-1980-que-su-ibiza-no-sea-solo-para-vacaciones-sino-para-cerrar-negocios",
     "resumen": "En la década de 1980, un pequeño pueblo pesquero del sur de China llamado Shenzhen fue elegido para un experimento económico que, en apenas tres décadas, lo transformó en una megaciudad de más de diez millones de habitantes y en uno de los mayores centros tecnológicos del planeta. La apuesta, que en su momento parecía arriesgada y casi improvisada, acabaría redefiniendo la forma en que China utiliza su territorio para probar ideas que luego escalan al resto del país. Un experimento que la lógica de los 80. Lo cierto es que China lleva décadas utilizando zonas económicas especiales como laboratorios de apertura, pero lo que está ocurriendo ahora en Hainan supone un salto de escala difícil de comparar (e imaginar) con cualquier intento anterior. ¿La razón? A diferencia de aquellos enclaves industriales de finales del siglo XX, el proyecto actual no se limita a una ciudad o un polígono, sino que abarca una isla entera convertida en plataforma económica. La decisión de separar su régimen aduanero del resto del país marca un punto de inflexión, porque transforma Hainan en una puerta diferenciada de acceso al mercado chino. Es, en esencia, la reactivación del modelo que impulsó el crecimiento de China en los 80, pero llevado a una dimensión hiperbólica mucho más ambiciosa y con un objetivo global. En Xataka Creíamos que éramos 8.000 millones de personas en todo el planeta. Hasta que unos investigadores se pusieron a hacer números De destino turístico a nodo económico global. Contaban en un extenso reportaje en el Financial Times parte de su historia. Durante años, Hainan fue conocida principalmente como un destino tropical dentro de China, más vinculado al turismo interno que a la gran estrategia económica del país. Ese papel ha ido cambiando rápidamente con una combinación de incentivos fiscales, desregulación selectiva y facilidades para la inversión extranjera que buscan atraer empresas de todo el mundo. La eliminación de aranceles sobre la mayoría de los productos y la posibilidad de reexportar bienes al resto de China sin impuestos tras añadir valor local son herramientas diseñadas para estimular la industria. Al mismo tiempo, la isla se posiciona como un entorno más flexible que el resto del país, incluso permitiendo acceso más abierto a internet en zonas específicas, lo que refuerza su atractivo para sectores tecnológicos y financieros. Vista satelital de la isla La gran apuesta planetaria. El núcleo del proyecto es claro y no se esconde: convertir Hainan en el mayor puerto de libre comercio del mundo, un objetivo que redefine su papel dentro de la economía china y global. Qué duda cabe, para lograrlo, Pekín ha introducido algunas de las políticas más avanzadas del país en materia de apertura, incluyendo en la ecuación tipos impositivos reducidos y menos restricciones a la inversión extranjera. De esta forma, el proyecto no solo busca atraer capital, sino también reorganizar cadenas de suministro, facilitando un modelo en el que la producción, transformación y exportación se concentran en la isla. Esta estrategia pretende situar a Hainan como un nodo clave entre China y el sudeste asiático, funcionando como plataforma de entrada y salida de bienes en un entorno más competitivo. Entre rivalidad y alianza con Hong Kong. Imposible obviarlo. La transformación de Hainan no ocurre en el vacío, sino en relación directa con otros grandes centros económicos de la región, especialmente Hong Kong. Lo curioso aquí es que, lejos de plantearse únicamente como un competidor, el discurso oficial apuesta por una relación híbrida en la que ambas economías se complementan. De esta forma, Hainan aspira a aprovechar la experiencia de Hong Kong en finanzas, talento y servicios legales, mientras ofrece espacio para industrializar proyectos y ampliar cadenas de producción. En ese sentido, recordaba el Times que el modelo propuesto (órdenes en Hong Kong, producción en Hainan y ventas globales) refleja una estrategia de integración que, al mismo tiempo, introduce una competencia directa en ámbitos clave como la fiscalidad o la atracción de inversión. En Xataka El Golfo ya no da miedo por los misiles o los drones: da miedo porque ni siquiera EEUU quiere acercarse demasiado Dudas, límites y la gran incógnita. A pesar de la ambición del proyecto, no todos los analistas están convencidos de su viabilidad a largo plazo. La ubicación insular, la distancia respecto al núcleo industrial chino y las limitaciones de infraestructura plantean desafíos importantes para atraer industrias intensivas en capital. Además, el contexto internacional actual, con un menor interés extranjero en invertir en China, añade incertidumbre sobre su capacidad real para convertirse en un gran imán global. Sin embargo, incluso con esas dudas, el movimiento revela una intención clara: mientras el foco internacional se reparte en otros escenarios, China está activando uno de sus experimentos más ambiciosos en décadas, nada menos que intentar convertir una isla tropical en toda una pieza central de su estrategia económica global. Imagen | 江上清风1961, NASA En Xataka | Hainan, el Benidorm de China con toques de ciencia ficción En Xataka | Mientras el mundo miraba a Irán, China se ha apoderado de una isla en el Pacífico sin un solo tiro. Y ahora la está militarizando - La noticia China ha activado su experimento más ambicioso desde 1980: que su \"Ibiza\" no sea solo para vacaciones, sino para negocios fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
-    "titulo": "Sánchez proclama el fin de \"la internacional ultraderechista\": \"Gritan porque saben que su tiempo se acaba\"",
-    "medio": "El Mundo",
-    "fecha": 1776533281.0,
-    "link": "https://www.elmundo.es/espana/2026/04/18/69e355e6fdddfff71e8b457e.html",
-    "resumen": "\"A partir de hoy la vergüenza cambia de bando y lo va a hacer para siempre\", ha recalado el presidente del Gobierno en la clausura de la Global Progressive Mobilisation Leer"
-  },
-  {
-    "titulo": "Investigan una brutal agresión en un instituto de Fuengirola a un menor de 14 años al que tendrán que reconstruir la mandíbula con placas de titanio",
-    "medio": "El Mundo",
-    "fecha": 1776533152.0,
-    "link": "https://www.elmundo.es/andalucia/2026/04/18/69e353c8e9cf4ac3468b45a1.html",
-    "resumen": "Familiares del menor agredido y del supuesto agresor alertaron al centro escolar de la enemistad entre los adolescentes, que estaban en la misma clase Leer"
-  },
-  {
-    "titulo": "Venezolanos exiliados en España, sobre el regreso a su país: \"Estamos esperando que se haga una transición con elecciones libres\"",
-    "medio": "El Mundo",
-    "fecha": 1776532901.0,
-    "link": "https://www.elmundo.es/espana/2026/04/18/69e3acfa21efa0523c8b4596.html",
-    "resumen": "\"Mi mayor ilusión es poder regresar a mi país\". Miles de asistentes al acto de apoyo a María Corina Machado en Madrid se unen en un solo grito que mezcla la nostalgia de un hogar con la urgencia política de Venezuela Leer"
-  },
-  {
-    "titulo": "Miles de miembros de la diáspora aclaman a María Corina en Sol y piden \"libertad\" para Venezuela",
-    "medio": "El Mundo",
-    "fecha": 1776532543.0,
-    "link": "https://www.elmundo.es/espana/2026/04/18/69e39f67e9cf4a98788b45af.html",
-    "resumen": "Acuden a la Puerta del Sol para reencontrarse con su líder y compartir el momento en el que Isabel Díaz Ayuso le entrega el reconocimiento de la región en la Real Casa de Correos Leer"
   },
   {
     "titulo": "Las capitales continúan al alza",
@@ -425,13 +453,6 @@
     "fecha": 1776532279.0,
     "link": "https://www.eldiario.es/internacional/lideres-mundiales-progresistas-reactivan-barcelona-alianza-guerra-ola-reaccionaria_1_13152799.html",
     "resumen": "La cuarta Reunión para la Defensa de la Democracia, impulsada por Sánchez y Lula, congrega a más de una veintena de mandatarios europeos, americanos y africanos comprometidos con un orden mundial basado en la paz y el multilateralismoSánchez: “El tiempo de la internacional ultraderechista y la derecha lacaya ha llegado a su fin” Resignarse a que llegue la extrema derecha y arrase con las democracias no puede ser la única opción a la que estén condenados los progresistas de todo el mundo. Con esta idea como guía, una veintena de mandatarios internacionales encabezados por Pedro Sánchez y Lula Da Silva se han citado este fin de semana en Barcelona para poner las bases de una nueva alianza global contra la ola reaccionaria, en un momento en el que la posición del Gobierno español contra las guerras iniciadas por Donald Trump han encontrado eco, sobre todo en América Latina. A lo largo de dos jornadas, en las que se han celebrado una cumbre bilateral España-Brasil, una reunión con representantes gubernamentales y un encuentro de organizaciones progresistas de todo el mundo, los líderes mundiales de izquierda y centro-izquierda han reactivado un polo que tiene voluntad de ser una oposición al mundo que dibuja Donald Trump y un contrapeso a lo que Sánchez ha definido en diferentes ocasiones como la “internacional del odio”. “El tiempo de la internacional ultraderechista y la derecha lacaya ha llegado a su fin”, ha defendido Sánchez ante un plenario repleto este sábado. El jefe del Ejecutivo español ha asegurado que este evento es el punto de inflexión para una alianza progresista que, a partir de ahora, estará orgullosa de ser “pacifista, ecologista, sindicalista y feminista”. Por su lado, Lula ha defendido un mundo basado en reglas y el papel del progresismo en la historia. “El proyecto neoliberal prometió prosperidad y entregó hambre desigualdad e inseguridad, creó crisis tras crisis”, ha criticado Lula, que ha reclamado al progresismo coherencia y hacer desde los gobiernos lo que promete antes de las elecciones. “La extrema derecha ha sabido aprovechar el malestar de la población creando mentiras. Contra las mujeres, contra los negros, contra las personas LGTBIQ+”, ha criticado el jefe de Estado brasileño, que ha elogiado a Sánchez por “la valentía de no permitir que los aviones de guerra de EEUU salieran de aquí para bombardear Irán”. Este sábado, ya ante la veintena de líderes que han compartido mesa en el recinto de la Fira de Barcelona, situado en L'Hospitalet de Llobregat, Sánchez ha profundizado en su llamamiento a cerrar el paso a los planes de la extrema derecha. “La democracia no puede darse por sentada. Vemos ataques al sistema multilateral, un intento tras otro de impugnar reglas del derecho internacional y una peligrosa normalización del uso de la fuerza”, ha asegurado Sánchez. Multilateralismo, rechazo al genocidio en Gaza y a la guerra en Irán, legalidad internacional y reforma de los mecanismos de gobernanza mundial como la ONU son algunos de los ejes en los que todos los participantes de las cumbres han coincidido, más allá de los acentos que cada país ha querido ponerle. Para todos ellos, la consigna se condensa en un llamamiento a la paz en medio de un mundo cada vez más convulso. Lula da Silva ha advertido de forma reiterada sobre los peligros de la conflictividad mundial, también Claudia Sheinbaum, que ha reclamado una declaración para evitar una incursión militar en Cuba tras las reiteradas amenazas de Trump a la isla. Finalmente esa declaración en defensa de Cuba y del Derecho Internacional se ha emitido y ha contado con la firma de España, Brasil y México, países que también se han comprometido a “incrementar de manera coordinada” la respuesta humanitaria “dirigida a aliviar el sufrimiento del pueblo cubano”. Por su parte, el sudafricano Ramaphosa ha reclamado una reforma de la ONU para evitar que las guerras sigan aflorando sin que haya mecanismos internacionales para detenerlas. Una demanda a la que también ha aludido Lula y otros líderes, mientras que España ha reiterado su apoyo a que la secretaría general de la organización internacional recaíga por primera vez en una mujer. Si la primera jornada estuvo protagonizada por el alineamiento político que mostraron Sánchez y Lula, que propusieron a sus respectivos países como “motores” para acercar América y Europa, el segundo día reflejó la amplitud del llamamiento de los dos líderes. Entre los tres eventos han acabado participando hasta 18 mandatarios de máximo nivel, pero también decenas de ministros, presidentes de administraciones federales y locales, embajadores o líderes de partidos. En la Fira estuvieron presentes los presidentes y primeros ministros de México, Colombia, Uruguay, Sudáfrica, Irlanda, Lituania, Albania, Cabo Verde o Barbados, así como vicepresidentes de Alemania, Reino Unido, Austria, Ghana o Botsuana. En las jornadas políticas han intervenido también algunos de los rostros habituales de oposición a Trump en su propio país, como el Gobernador de Minessota, que ha estado presente. “Os necesitamos, no perdáis la fe en el pueblo americano, condenad la monstruosidad que ocupa la Casa Blanca, presionad, denunciad”, ha dicho Tim Walz. Mientras, la que fue candidata demócrata a la presidencia, Hillary Clinton, el senador Bernie Sanders y el alcalde de Nueva York, Zohran Mamdani, han enviado un vídeo. Por parte de los anfitriones acudió la mayor parte de los ministros socialistas del Gobierno, así como el president de la Generalitat Salvador Illa y algunos de sus consellers, y el alcalde de Barcelona. No pasó inadvertida la presencia de la mexicana Sheinbaum, que con su asistencia certificó el deshielo en las relaciones de su país con España, de la que se había alejado tras la demanda de una disculpa oficial por la colonización. Tras varios años en los que esta petición no se había satisfecho, el rey Felipe VI aprovechó una visita a una exposición sobre México para reconocer que hubo “mucho abuso” en la conquista, palabras que desde el gobierno mexicano se entendieron como “un avance”. Esperanza contra la “internacional ultraderechista” Con 6.500 personas movilizadas y decenas de líderes, cargos y caras conocidas presentes, la reunión de Barcelona supone una inyección de optimismo para los movimientos socialdemócratas de izquierdas que iniciaron 2026 atónitos por la violencia desplegada por EEUU en Venezuela o Irán. Uno de los objetivos de las jornadas era dar la vuelta al sentimiento de inevitabilidad que se ha apoderado de buena parte de las bases progresistas tanto en Europa como en Latinoamérica y otros países. En línea con eso, “esperanza” ha sido una de las palabras que los ponentes han repetido más. Una esperanza que debe servir para que los demócratas dejen de tener miedo al futuro. “Prevaleceremos, la democracia nos pertenece a todos, así dibujamos el futuro en común”, afirmó el sueco Stefan Löfven, presidente del Partido de los Socialistas Europeos. “El futuro no es propiedad de nadie y no será ni de los más fuertes ni de los soberbios”, remarcó el president catalán Salvador Illa. Junto a esto, los temas económicos han protagonizado también buena parte de las intervenciones de los líderes. Una demanda reiterada es imponer un impuesto especial a los llamados “megaricos”. También una transición energética, que ha sido remarcada como urgente desde posiciones tan a priori alejadas como la vicepresidenta de la Comisión Europea, Teresa Ribera, y el presidente de Colombia, Gustavo Petro. Otro de los temas muy comentados es la necesidad de imponer reglas a los gigantes tecnológicos. Unas redes sociales donde la propaganda extremista campa a sus anchas, cuando no directamente controladas por magnates de ideologías ultras, es un campo de batalla sesgado. No menos problemático es que buena parte de la infraestructura de los estados y las instituciones democráticas recaigan sobre empresas privadas e indiferentes, en el mejor de los casos, a la defensa de la democracia. En Brasil hay, además, preocupación por la arremetida de Trump contra Pix, el sistema de pagos instantáneos que ha independizado de facto a millones de brasileños de las tarjetas de crédito de compañías norteamericanas. Sánchez consolida su apuesta internacional Para el presidente del Gobierno estas jornadas suponen un importante espaldarazo y, también, un colofón a la intensa agenda internacional desplegada en los últimos meses, que llega después de su viaje oficial a China. Sánchez ya llamó la atención del mundo progresista hace un año, cuando fue el único dirigente de la OTAN que se opuso abiertamente a los planes de Trump para aumentar al 5% del PIB la aportación a la alianza militar. Aquellas aguas bajaron y el presidente norteamericano pareció olvidarse de España, pero el líder del PSOE volvió a ser uno de los pocos primeros ministros europeos que, hace un mes, rechazaron de plano los ataques sobre Irán. Aquella toma de posición de la Moncloa marcó una inflexión, pues fue el desencadenante de varios cambios en las reacciones de otros países europeos. Sánchez había demostrado que decir no a Trump no solo era posible, sino que podía tener rédito político y apoyos internacionales. En unas jornadas que han reunido a lo más granado del progresismo mundial, Sánchez se ha mostrado dispuesto a reimpulsarse contra la extrema derecha que representa Vox en España, pero también contra la “derecha lacaya”, tal como ha tildado al PP. En este sentido, el anuncio del acuerdo de Gobierno de Extremadura entre PP y Vox anunciado precisamente el jueves, sirvió a Sánchez como ejemplo de contra qué luchan los progresistas reunidos en Barcelona."
-  },
-  {
-    "titulo": "“La han cortado con una radial y la han despeñado”, desaparece la Cruz del Aneto",
-    "medio": "La Vanguardia",
-    "fecha": 1776532243.0,
-    "link": "https://www.lavanguardia.com/local/aragon/20260418/11516997/han-cortado-radial-han-despenado-investigan-desaparicion-cruz-aneto.html",
-    "resumen": "La Guardia Civil mantiene abiertas todas las hipótesis, aunque la del vandalismo es la principal"
   },
   {
     "titulo": "Más complicado alquilar en Barcelona",
@@ -474,13 +495,6 @@
     "fecha": 1776531416.0,
     "link": "https://www.expansion.com/inmobiliario/mercado/2026/04/18/69e3b73ce5fdea6c5f8b456e.html",
     "resumen": "Los precios de la vivienda por metro cuadrado en la capital catalana superan en términos nominales los máximos de 2007 en el primer trimestre. Nou Barris, Sant Andreu y Sant Martí encabezan las alzas. Leer"
-  },
-  {
-    "titulo": "Corina Machado recibe la Medalla de Oro de Madrid y se da un baño de masas en la Puerta del Sol",
-    "medio": "La Vanguardia",
-    "fecha": 1776531377.0,
-    "link": "https://www.lavanguardia.com/internacional/20260418/11516991/maria-corina-machado-encuentra-ayuso-recibe-medalla-oro-madrid.html",
-    "resumen": "Cientos de venezolanos se manifiestan a las puertas de la sede del Gobierno autonómico para apoyar a la líder de la oposición venezolana"
   },
   {
     "titulo": "Sánchez: \"El tiempo de la internacional ultraderechista y la derecha lacaya ha llegado a su fin\"",
@@ -607,13 +621,6 @@
     "fecha": 1776520026.0,
     "link": "https://www.expansion.com/economia/politica/2026/04/18/69e38b54e5fdea771b8b4595.html",
     "resumen": "El presidente de Estados Unidos vuelve a cargar contra España y asegura que su economía \"es triste de ver\". El FMI rebajó esta semana las previsiones de crecimiento de España para 2026 -dos décimas menos-, pero sigue situando a nuestro país por encima del resto de grandes economías europeas y de la media de la zona euro. Leer"
-  },
-  {
-    "titulo": "Cadena humana para pedir la libertad de 'Los 6 de Zaragoza'",
-    "medio": "eldiario.es",
-    "fecha": 1776519961.0,
-    "link": "https://www.eldiario.es/aragon/cadena-humana-pedir-libertad-6-zaragoza_1_13153676.html",
-    "resumen": "Los convocados han unido este sábado la Audiencia Provincial y la sede del PSOE en la capital aragonesa en una movilización convocada por la plataforma de apoyo cuando se cumplen dos años del ingreso en prisión de los jóvenes Dos de 'Los 6 de Zaragoza' cumplen dos años en prisión: convocan una protesta para exigir su indulto Una cadena humana ha unido este sábado la Audiencia Provincial y la sede del PSOE en la capital aragonesa para exigir la libertad de los conocidos como 'Los 6 de Zaragoza', en una movilización convocada por la plataforma de apoyo cuando se cumplen dos años del ingreso en prisión de los jóvenes. La acción ha concluido con una concentración en la plaza del Portillo y se ha desarrollado después de que dos de los condenados, Javitxu Aijón y Adrián Latorre, quedaran en libertad en septiembre de 2025 tras el indulto parcial del Gobierno, mientras que Imad y Daniel continúan encarcelados, el primero en tercer grado y con tratamiento psiquiátrico en un centro de día. El portavoz de la plataforma, Javitxu Aijón, ha reclamado “la inmediata puesta en libertad de los 6 de Zaragoza, la derogación de la Ley Mordaza, una reforma no punitiva del Código penal y el fin a las infiltraciones policiales en colectivos sociales”. Ha señalado que su salida y la de Adrián se ha producido “gracias a la gran movilización de varios años” y ha recordado que “todavía quedan en prisión otros 2 compañeros, Imad y Daniel, por lo que no podemos hablar de que esté resuelta la situación”. Aijón ha sostenido que ambos estuvieron “casi un año y medio encerrados por unas detenciones aleatorias y unas sentencias injustas sin más pruebas que la opinión policial” y ha preguntado por qué los otros dos jóvenes no han sido liberados. También ha considerado que el caso “no es un caso aislado” y ha citado otros procesos judiciales contra activistas. Durante la movilización se ha solicitado además colaboración económica para afrontar las penas económicas impuestas, que suman 200.000 euros, mediante aportaciones solidarias. El caso se remonta a los disturbios registrados el 17 de enero de 2019 durante una manifestación contra un mitin de Vox. Cuatro jóvenes mayores de edad fueron condenados a 4 años y 9 meses de prisión, pena confirmada por el Tribunal Supremo, mientras que otros dos, menores entonces, recibieron un año de libertad vigilada y el pago de 11.000 euros. En septiembre de 2025 el Gobierno concedió el indulto parcial a dos de los condenados."
   },
   {
     "titulo": "Netflix tiene la miniserie cozy que no sabías que necesitabas: está en el top de 32 países",
@@ -749,13 +756,6 @@
     "resumen": "Aunque Sleuth the Truth está todavía en pruebas la idea es ingeniosa. Es un juego a medio camino entre el ¿Quién es quien? (también conocido como ¿Quién soy?) y el 20 preguntas, que es como el Akinator «inverso» de toda la vida. En ambos se van eliminando personajes u opciones mediante preguntas lanzadas para deducir quién o qué puede ser lo que se busca. En Sleuth the Truth las respuestas las da una IA, de modo que se pueden hacer las preguntas libremente. La respuesta será sí, no o más o menos; por ejemplo yo pregunté si un personaje era médico pero me dijo que «más o menos», que no era médico pero hacía dibujos de anatomía. Está bien que se pueda preguntar cualquier cosa (¿Es un deporte en equipo? ¿Tiene barba?) porque así se tienen más opciones para deducir bien. Basta ir tachando las opciones que no parece que sean y finalmente elegir una. Hay un nuevo juego cada día, y decenas de categorías ya pasadas que también se pueden jugar, desde Pioneros de la innovación a Personajes de Juego de Tronos o Filósofos de la antigüedad. En algunos hay tan solo 16 tarjetas (opciones) pero en otros hay 30 (Lenguajes de programación) o casi 50 (Capitales del mundo). La estrategia es bastante sencilla (divide por dos y vencerás rápido, pero no siempre es obvio cómo), y el juego no es especialmente difícil, pero está bastante entretenido. Relacionado: Akinator, el genio de las 20 preguntas «Prohibido vehículos en el parque», un test rápido sobre reglas Está centrado. O no. Pero no hay término medio 20 Preguntas, misma idea pero «en renovación» (muerto, vamos) # Enlace Permanente"
   },
   {
-    "titulo": "El Rey Juan Carlos: \"Con el Gobierno actual las cosas deben ser muy difíciles para mi hijo\"",
-    "medio": "Europa Press",
-    "fecha": 1776508460.0,
-    "link": "https://www.europapress.es/nacional/noticia-rey-juan-carlos-gobierno-actual-cosas-deben-ser-muy-dificiles-hijo-20260418123420.html",
-    "resumen": "El Rey Juan Carlos ha asegurado que \"las cosas deben ser muy difíciles\" para su hijo Felipe VI \"con el Gobierno actual\" y lamenta que la monarquía haya perdido relevancia en España."
-  },
-  {
     "titulo": "El iPhone más económico de Apple se vuelve más barato: precio mínimo histórico para el iPhone 17e",
     "medio": "Applesfera",
     "fecha": 1776508255.0,
@@ -824,6 +824,13 @@
     "fecha": 1776504250.0,
     "link": "https://www.elindependiente.com/internacional/2026/04/18/iran-reestablece-un-control-estricto-sobre-ormuz-por-los-incumplimientos-de-eeuu-con-estas-mentiras-no-han-ganado-la-guerra/",
     "resumen": "Irán ha asegurado este sábado que ha restablecido un “control estricto” sobre el estrecho de Ormuz, en un nuevo giro […]"
+  },
+  {
+    "titulo": "Juan Carlos I afirma en una entrevista que \"con el Gobierno actual las cosas deben ser muy difíciles para mi hijo\"",
+    "medio": "El Español",
+    "fecha": 1776504194.0,
+    "link": "https://www.elespanol.com/espana/politica/20260418/juan-carlos-afirma-entrevista-gobierno-actual-cosas-deben-dificiles-hijo/1003744212359_0.html",
+    "resumen": "El rey emérito considera que la Princesa Leonor \"tendría que estar más en primera línea\" porque \"da una muy buena imagen de la monarquía\". Más información: Juan Carlos I, ante la Asamblea Nacional de Francia al recibir el premio a sus memorias: \"Nadie es profeta en su tierra\""
   },
   {
     "titulo": "\"Tengo que tener cuidado con lo que digo\": el rey Juan Carlos sugiere que las relaciones de Felipe VI con el Gobierno son \"muy difíciles\"",
