@@ -1,10 +1,122 @@
 [
   {
+    "titulo": "Cruce de cables: Las emisoras de números",
+    "medio": "Microsiervos",
+    "fecha": 1776642109.0,
+    "link": "https://www.microsiervos.com/archivo/seguridad/cruce-cables-85-emisoras-de-numeros.html",
+    "resumen": "Estuve contándole a David Sierra de Cruce de cables (RNE) lo que hay detrás de las emisoras de números, porque últimamente se han estado oyendo voces en persa recitando números «al azar» por onda corta tal y como ya conté en una anotación. Estas extrañas emisoras se conocen desde principios del siglo XX, cuando la I Guerra Mundial, y son un sistema criptográfico más viejo que el hilo negro. Pero también muy seguro. El audio está aquí: Las emisoras de números y el misterio de V32 en la guerra de Irán, Estados Unidos e Israel [a partir de 17:05]. La emisora llamada V32 emite dos veces al día, desde una base militar estadounidense cerca de Stuttgart. Cualquiera puede escuchar estos mensajes con equipo básico: basta una radio de onda corta (SW), que cubra aproximadamente de 3 a 30 MHz. Eso, y un cable como antena de varios metros, según la distancia a la emisora. Lo que se oye son básicamente, una larguísima serie de números aparentemente aleatorios, a partir de una hora determinada. Es un mensaje encriptado con una libreta de un solo uso. ¿Qué hace que el sistema de libreta de un solo uso sea irrompible? Funciona así: cada letra equivale a un número (A=1, B=2, etc) y la libreta de claves se comparte de antemano de forma segura. El mensaje original se cifra (HOLA = 8, 15, 12, 1…). La libreta secreta contiene números al azar (ej. 4, 19, 7, 23…). Se elige un punto de comienzo para sincronizarse (ej. la página del día en cuestión, o un número al principio del mensaje) y se suman los números del mensaje y la libreta para cada letra, uno a uno (si se pasa de 26 se empieza por 1 de nuevo), emitiendo el resultado. En otro lugar del mundo, el receptor simplemente resta la clave y descifra el mensaje. En la práctica, la clave tiene que ser tan larga como el mensaje, y no se reutiliza nunca. Es realmente irrompible si cada parte de la clave se usa una sola vez y es verdaderamente aleatoria; el secreto está en haber protegido la clave desde el principio. Entonces… ¿Es un sistema perfecto? No está claro si esos mensajes son de los Estadounidenses para sus tropas, para espías infiltrados o qué pueden contener. También se ha visto cómo se usaban interferencias para que intentar «tapar» la señal, emitiendo ruido, tonos, pitidos o clics en la misma frecuencia, para que la señal se degrade y no se pueda recibir bien. Pero interferir no siempre es fácil si el emisor cambia de frecuencia, cosa que ya han hecho. La libreta de uso único y el uso de una emisora de números es perfecto… pero definitivamente poco práctico en situaciones «normales» cuando hay que transmitir una gran cantidad de información. ¿Podría un sistema así seguir funcionando si hubiera un apagón global de Internet? Sí, porque no usa redes digitales más allá de la radio. Las claves se distribuyen previamente y no depende de satélites ni centros de datos. Prácticamente podrías comunicarte y recibir secretos con lápiz y papel. Relacionado: La radio que susurra números: el misterio de V32 en el conflicto entre Israel, Estados Unidos e Irán La curiosa «emisora de números» que usaba la Stasi Estaciones de números en Twitter Emisoras de números Las emisoras de números ya tienen película # Enlace Permanente"
+  },
+  {
+    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego",
+    "medio": "El País",
+    "fecha": 1776638256.0,
+    "link": "https://elpais.com/internacional/2026-04-19/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "Teherán señala a Washington por haber disparado contra un buque iraní proveniente de China | Un carguero francés recibe disparos en el estrecho de Ormuz"
+  },
+  {
+    "titulo": "El candidato prorruso Rumen Radev vence las legislativas y será el primer ministro de Bulgaria",
+    "medio": "El País",
+    "fecha": 1776636771.0,
+    "link": "https://elpais.com/internacional/2026-04-19/el-candidato-prorruso-se-perfila-como-proximo-primer-ministro-de-bulgaria.html",
+    "resumen": "El expresidente, que reniega del euro y de la ayuda a Ucrania, obtiene una holgada mayoría que le permitirá gobernar en solitario, según las proyecciones de voto"
+  },
+  {
+    "titulo": "Así queda la clasificación de Segunda División tras la jornada 36: ¡ocho equipos en la pelea directa!",
+    "medio": "OK Diario",
+    "fecha": 1776636646.0,
+    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-segunda-division-jornada-36-ocho-equipos-pelea-directa-16636939",
+    "resumen": "La pelea en Segunda División por el ascenso a la Liga la próxima temporada está más ardiente que nunca. Después de terminar todos los partidos de la jornada 36, son varios los equipos que siguen dando un paso al frente para terminar tanto en los dos puestos de ascenso directo como en los puestos de … Continuar leyendo \"Así queda la clasificación de Segunda División tras la jornada 36: ¡ocho equipos en la pelea directa!\""
+  },
+  {
+    "titulo": "Charlene de Carvalho-Heineken, la discreta reina de la cerveza",
+    "medio": "Expansión",
+    "fecha": 1776636440.0,
+    "link": "https://www.expansion.com/podcasts/genios-finanzas/2026/04/20/69e2193be5fdea2b128b457b.html",
+    "resumen": "Pasó de ser ama de casa a dirigir Heineken tras el fallecimiento de su padre en 2002. Aunque delega la gestión diaria, lidera las decisiones relacionadas con el posicionamiento de la marca y la política de adquisiciones y nombramientos clave. Leer"
+  },
+  {
+    "titulo": "Ocho firmas pujan por el primer concurso de solares de la Generalitat",
+    "medio": "Expansión",
+    "fecha": 1776636300.0,
+    "link": "https://www.expansion.com/catalunya/2026/04/20/69e523bc468aeb1c0a8b4576.html",
+    "resumen": "Se trata de una licitación de la Generalitat para construir casi 2.000 viviendas por toda Cataluña. Leer"
+  },
+  {
+    "titulo": "Iberia, Vueling y Air Europa sortean la falta de queroseno en Europa",
+    "medio": "Expansión",
+    "fecha": 1776636117.0,
+    "link": "https://www.expansion.com/empresas/transporte/2026/04/20/69e5346be5fdea75778b4598.html",
+    "resumen": "La menor dependencia de compras del golfo Pérsico y la mayor capacidad de refino de Repsol, Moeve y BP alejan a las aerolíneas españolas de la amenaza de falta de combustible de otros países. Leer"
+  },
+  {
+    "titulo": "Repsol reclamará 125 millones a Iberdrola, Endesa y Naturgy por el apagón",
+    "medio": "Expansión",
+    "fecha": 1776636115.0,
+    "link": "https://www.expansion.com/empresas/energia/2026/04/20/69e52fab468aebe93c8b4570.html",
+    "resumen": "El cero eléctrico de hace un año afectó a las cinco refinerías del grupo energético en España, situadas en demarcaciones de las redes de las tres grandes eléctricas. Leer"
+  },
+  {
+    "titulo": "El apagón del apagón",
+    "medio": "Expansión",
+    "fecha": 1776636113.0,
+    "link": "https://www.expansion.com/empresas/energia/2026/04/20/69e52deee5fdea75778b4591.html",
+    "resumen": "El sector eléctrico español ha estado tan nervioso y enloquecido en los últimos doce meses, intentando buscar un culpable del apagón de hace un año, que el pasado 20 de marzo nadie prestó atención a lo más importante. Lo que decían desde otros países: \"Busquen soluciones entre todos los españoles, y pónganse de acuerdo entre ustedes. Porque, si no, les puede volver a ocurrir\". Leer"
+  },
+  {
+    "titulo": "Cambios en la Renta para 1,2 millones de autónomos por el ajuste de cotizaciones",
+    "medio": "Expansión",
+    "fecha": 1776636110.0,
+    "link": "https://www.expansion.com/economia/2026/04/20/69e51c77468aebc9168b4583.html",
+    "resumen": "460.000 autónomos tendrán que incorporar a su base imponible la devolución del exceso de cotización de 2023, mientras que casi 800.000 la reducirán tras haber tenido que pagar diferencias el año pasado. Leer"
+  },
+  {
+    "titulo": "Joaquim Agut: \"Cirsa hará adquisiciones más grandes de empresas para crecer\"",
+    "medio": "Expansión",
+    "fecha": 1776636108.0,
+    "link": "https://www.expansion.com/empresas/2026/04/20/69e52a69e5fdeace118b4577.html",
+    "resumen": "\"A medida que el mercado de capitales nos vaya conociendo, la acción estará donde debe estar\", asegura el máximo responsable del grupo de juego. Leer"
+  },
+  {
+    "titulo": "Santander y JPMorgan dominan el M&A con la compra de Webster",
+    "medio": "Expansión",
+    "fecha": 1776636106.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/04/20/69d63725468aeb620b8b45a9.html",
+    "resumen": "La banca de inversión duplica sus ingresos por asesorar compraventas en España con la adquisición en EEUU como estrella. Es la mayor operación del primer trimestre y condiciona el ránking. Leer"
+  },
+  {
+    "titulo": "Delcy Rodríguez pide a los líderes de Estados Unidos y de Europa poner fin a las sanciones",
+    "medio": "The Objective",
+    "fecha": 1776636042.0,
+    "link": "https://theobjective.com/internacional/2026-04-20/delcy-rodriguez-pide-estados-unidos-europa-sanciones/",
+    "resumen": "La presidenta encargada de Venezuela, Delcy Rodríguez, pidió este domingo a los líderes de Estados Unidos y de Europa el cese total de las sanciones, en […]"
+  },
+  {
+    "titulo": "Muere un inspector de Policía de forma accidental al dispararse su arma en su casa de Guadalajara",
+    "medio": "El Mundo",
+    "fecha": 1776635964.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/19/69e54f9bfdddff73098b4574.html",
+    "resumen": "Habia estado destinado en el GEO y ahora trabajaba en Madrid en la Brigada Operativa de Apoyo Leer"
+  },
+  {
+    "titulo": "Un crítico gastronómico señala qué tres errores de los restaurantes le \"chirrían\": lo del pago con tarjeta provocará debate",
+    "medio": "HuffPost",
+    "fecha": 1776634895.0,
+    "link": "https://www.huffingtonpost.es/virales/un-critico-gastronomiconala-que-tres-errores-restaurantes-le-chirrian-pago-tarjeta-provocara-debate-f202604.html",
+    "resumen": ""
+  },
+  {
     "titulo": "Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán",
     "medio": "OK Diario",
     "fecha": 1776632603.0,
     "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-directo-hoy-alto-fuego-fragil-tension-ormuz-situacion-oriente-proximo-16633235",
     "resumen": "La guerra en torno a Irán encara este 19 de abril en un escenario de tregua muy frágil, con un alto el fuego de dos semanas que sigue generando dudas sobre su alcance real. Tras más de un mes de escalada, con ataques y contraataques constantes, el conflicto permanece abierto y condicionado por la falta … Continuar leyendo \"Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán\""
+  },
+  {
+    "titulo": "Disposición sin premio para los novilleros",
+    "medio": "El País",
+    "fecha": 1776632546.0,
+    "link": "https://elpais.com/cultura/2026-04-19/disposicion-sin-premio-para-los-novilleros.html",
+    "resumen": "La terna estuvo integrada por tres capaces jóvenes toreros que se repartieron tres ovaciones"
   },
   {
     "titulo": "Freud ya lo advirtió hace un siglo y no le faltaba razón: «Uno es dueño de lo que calla y esclavo de sus palabras»",
@@ -14,7 +126,7 @@
     "resumen": "El padre del psicoanálisis, Sigmund Freud, ya lo advirtió hace un siglo, realizando una reflexión sobre el peso de las palabras y el valor del silencio. Así, Freud ya lo advirtió hace un siglo y no le faltaba razón: «Uno es dueño de lo que calla y esclavo de sus palabras». Sigmund Freud dejó numerosas … Continuar leyendo \"Freud ya lo advirtió hace un siglo y no le faltaba razón: «Uno es dueño de lo que calla y esclavo de sus palabras»\""
   },
   {
-    "titulo": "Lula da Silva reza en la Sagrada Familia tras la cumbre ‘progrsista’ de Sánchez en Barcelona",
+    "titulo": "Lula da Silva reza en la Sagrada Familia tras la cumbre ‘progresista’ de Sánchez en Barcelona",
     "medio": "The Objective",
     "fecha": 1776631523.0,
     "link": "https://theobjective.com/internacional/2026-04-19/lula-da-silva-reza-sagrada-familia-barcelona/",
@@ -56,13 +168,6 @@
     "resumen": "El presidente de Estados Unidos Donald Trump ha afirmado este domingo que Washington ha incautado un barco iraní antes de una nueva ronda de conversaciones de paz. Trump ha realizado este anuncio después de que la dictadura de los ayatolás de Irán indicase que no tiene previsto participar, por el momento, en una nueva ronda … Continuar leyendo \"EEUU captura un gran carguero iraní en el Golfo de Omán tras amenazar los ayatolás con «reanudar la guerra»\""
   },
   {
-    "titulo": "Irán cierra Ormuz y amenaza con retirarse de las negociaciones de paz",
-    "medio": "Expansión",
-    "fecha": 1776629340.0,
-    "link": "https://www.expansion.com/economia/2026/04/19/69e5365a468aeb1f268b459d.html",
-    "resumen": "Teherán denuncia que el bloqueo estadounidense de sus puertos es \"delictivo\" y viola la tregua. Trump amenaza con \"destruir todas las centrales eléctricas\" iraníes. Leer"
-  },
-  {
     "titulo": "La Policía alerta sobre la \"estafa perfecta\" y enseña a protegerse de ella con este truco",
     "medio": "HuffPost",
     "fecha": 1776629327.0,
@@ -98,6 +203,13 @@
     "resumen": ""
   },
   {
+    "titulo": "Estados Unidos ataca a un buque iraní en Ormuz y Teherán suspende las negociaciones de paz",
+    "medio": "La Vanguardia",
+    "fecha": 1776629088.0,
+    "link": "https://www.lavanguardia.com/internacional/20260419/11517584/estados-unidos-ataca-buque-irani-trataba-cruzar-ormuz-control.html",
+    "resumen": "El armador francés CMA CGM señala que uno de sus cargueros fue disparado en la zona, previsiblemente por Irán"
+  },
+  {
     "titulo": "Henry David Thoreau, filósofo: “Vive de una forma tan intensa y espartana que puedas prescindir de todo lo que no sea auténtico”",
     "medio": "Trendencias",
     "fecha": 1776628910.0,
@@ -109,7 +221,7 @@
     "medio": "El Mundo",
     "fecha": 1776628838.0,
     "link": "https://www.elmundo.es/internacional/2026/04/19/69e53464e9cf4ae5078b4576.html",
-    "resumen": "\"La tripulación iraní no respondió, así que nuestro buque de la Armada lo paró haciéndole un agujero en la sala de máquinas. Ahora mismo los marines tienen bajo custodia el buque\", ha explicado Trump en un mensaje publicado en redes sociales Leer"
+    "resumen": "Según el mando militar conjunto de Irán, las fuerzas iraníes también han atacado algunos buques militares de EEUU con drones Leer"
   },
   {
     "titulo": "5 series y 2 películas que ver en streaming y que se acaban de estrenar",
@@ -140,13 +252,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Israel critica \"el doble rasero del Gobierno de Pedro Sánchez\"",
-    "medio": "Expansión",
-    "fecha": 1776628045.0,
-    "link": "https://www.expansion.com/economia/politica/2026/04/19/69e5311f468aeb42488b4581.html",
-    "resumen": "El ministro de Exteriores israelí, Gideon Saar, ha criticado al presidente del Gobierno, Pedro Sánchez, por su anuncio de que España planteará este martes en Bruselas que la Unión Europea rompa su acuerdo de asociación con Israel y ha cuestionado su legitimidad para erigirse en referente en materia de derechos humanos. Leer"
-  },
-  {
     "titulo": "Cartagena, una devaluada Puerta del Príncipe",
     "medio": "El País",
     "fecha": 1776628017.0,
@@ -154,18 +259,18 @@
     "resumen": "El caballero alicantino cortó tres orejas; dos, Guillermo Hermoso, y una Lea Vicens, a una nobilísima y templada corrida de El Capea"
   },
   {
-    "titulo": "El candidato prorruso se perfila como próximo primer ministro de Bulgaria",
-    "medio": "El País",
-    "fecha": 1776627969.0,
-    "link": "https://elpais.com/internacional/2026-04-19/el-candidato-prorruso-se-perfila-como-proximo-primer-ministro-de-bulgaria.html",
-    "resumen": "Tras desembarazarse de Orbán en Hungría, la UE topa ahora con las intenciones del expresidente Rumen Radev, que reniega del euro y de la ayuda a Ucrania"
+    "titulo": "ONCE hoy, domingo, 19 de abril de 2026: comprobar el Sueldazo y Super 11",
+    "medio": "OK Diario",
+    "fecha": 1776627912.0,
+    "link": "https://okdiario.com/loteria/comprobar-once-hoy-domingo-19-abril-2026-sueldazo-super-11-16635084",
+    "resumen": "La ONCE ya ha realizado los sorteos de hoy domingo, 19 de abril de 2026: Sueldazo y Super 11. Comprueba aquí los números premiados hoy. Comprobar Sueldazo de la ONCE hoy El resultado del Sueldazo ONCE de hoy domingo 19 de abril de 2026 es 99244 de la serie 002. Este premio concede 5.000 euros al … Continuar leyendo \"ONCE hoy, domingo, 19 de abril de 2026: comprobar el Sueldazo y Super 11\""
   },
   {
-    "titulo": "Estremecedor accidente en el Rally de Córdoba acaba con un muerto y dos heridos graves",
+    "titulo": "Bonoloto: comprobar el resultado del sorteo de hoy, domingo 19 de abril de 2026",
     "medio": "OK Diario",
-    "fecha": 1776627563.0,
-    "link": "https://okdiario.com/deportes/estremecedor-accidente-rally-cordoba-acaba-muerto-dos-heridos-graves-16636620",
-    "resumen": "Trágico accidente en el mundo del motor en el Rally de Córdoba (Argentina) después de unas aparatosas vueltas de campana de un coche que ha provocado la muerte de un espectador y dos heridos muy graves que fueron rápidamente trasladados al hospital para que sus vidas no corrieran peligro. Un suceso que no ha tardado … Continuar leyendo \"Estremecedor accidente en el Rally de Córdoba acaba con un muerto y dos heridos graves\""
+    "fecha": 1776627902.0,
+    "link": "https://okdiario.com/loteria/comprobar-bonoloto-resultado-numero-premiado-hoy-domingo-19-abril-2026-16635009",
+    "resumen": "Los resultados del sorteo de la Bonoloto celebrado hoy, domingo 19 de abril de 2026 ya se conocen por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 9, 13, 42, 44, 45 y 47. El número complementario es el 2 y el reintegro el 6. Cómo jugar … Continuar leyendo \"Bonoloto: comprobar el resultado del sorteo de hoy, domingo 19 de abril de 2026\""
   },
   {
     "titulo": "Trump revive a Sánchez: “Señor presidente, ¿por qué no se calla?”",
@@ -196,13 +301,6 @@
     "resumen": "El presidente estadounidense asegura que se trata de \"la última oportunidad\" para aceptar la paz, pero medios oficiales iraníes aseguran que Teherán no acudirá a las conversaciones en Islamabad Leer"
   },
   {
-    "titulo": "María Cuadrado, el diamante de la literatura española con 27 matrículas de honor y cinco libros a sus 21 años",
-    "medio": "HuffPost",
-    "fecha": 1776626373.0,
-    "link": "https://www.huffingtonpost.es/virales/maria-cuadrado-diamante-literatura-espanola-27-matriculas-honor-cinco-libros-21nos-f202604.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Guardiola doblega al Arsenal y ataca su séptima Premier",
     "medio": "El País",
     "fecha": 1776626126.0,
@@ -217,18 +315,18 @@
     "resumen": "El Ejército de Israel lleva mes y medio ocupando esa zona de forma ilegalIsrael reconoce haber atacado el sur del Líbano durante el alto el fuego El Ejército de Israel lleva 46 días ocupando de forma ilegal parte del sur del Líbano y bombardeando la zona. Según ha informado este domingo el diario Haaretz, basándose en testimonios de comandantes israelíes, sus militares continúan llevando a cabo demoliciones “sistemáticas” de “viviendas civiles, edificios públicos y escuelas” en las aldeas fronterizas. Un soldado israelí ha ido más allá. El periodista palestino Yunis Tirawi ha compartido en su cuenta de X este domingo una foto en el que se ve al militar destruyendo a martillazos la figura de Jesucristo en una aldea cristiana del sur del país libanés. La imagen muestran a un soldado del Ejército de Israel golpeando con un martillo largo la cara de una talla de Jesucristo crucificado descolgada de la cruz en la que se encontraba. La figura había quedado invertida y estaba apoyada en el suelo, donde el militar la destrozaba. La escena ocurre en un espacio abierto, concretamente en un terreno vallado. Según Tirawi y el diario israelí Yedioth Ahronoth, se trata de la aldea de Debel, en el sector central del sur del Líbano, que permanece ocupado militarmente por Israel. El Ejército de Israel dijo este domingo que estaba examinando la fotografía. “Si resulta ser una imagen real y reciente, estas acciones no están en línea con los valores de las FDI (Fuerzas de Defensa de Israel, el Ejército) y el comportamiento esperado de los soldados de las FDI”, informó en un comunicado uno de los portavoces de las fuerzas armadas, Nadav Shoshani. El portavoz aseguró que el “incidente será investigado concienzuda y profundamente” y que, de ser necesario, “se tomarán medidas” en función de lo descubierto."
   },
   {
-    "titulo": "La Universidad de Ámsterdam rompe las reglas de la física: crean el metamaterial que cobra vida y toma decisiones sin intervención humana",
-    "medio": "OK Diario",
-    "fecha": 1776625707.0,
-    "link": "https://okdiario.com/ciencia/universidad-amsterdam-rompe-reglas-fisica-crean-metamaterial-que-cobra-vida-toma-decisiones-sin-intervencion-humana-16636564",
-    "resumen": "Hay materiales que aprenden. Es la revolución silenciosa de los metamateriales. Los metamateriales llevan años empujando los límites de la ciencia de materiales. Su clave no está en la composición química, sino en su estructura interna: pequeñas variaciones en su diseño permiten obtener propiedades completamente nuevas, desde resistencia extrema con poco peso hasta capacidades ópticas … Continuar leyendo \"La Universidad de Ámsterdam rompe las reglas de la física: crean el metamaterial que cobra vida y toma decisiones sin intervención humana\""
-  },
-  {
     "titulo": "El Real Madrid acusa el desgaste físico ante La Laguna Tenerife y cae derrotado en la Liga Endesa tras doce victorias consecutivas",
     "medio": "El Español",
     "fecha": 1776625675.0,
     "link": "https://www.elespanol.com/deportes/baloncesto/20260419/real-madrid-acusa-desgaste-fisico-laguna-tenerife-cae-derrotado-liga-endesa-doce-victorias-consecutivas/1003744213159_0.html",
     "resumen": "El conjunto blanco estuvo durante todo el partido remando a contracorriente sin acierto en el triple y mostrándose nuevamente vulnerable en defensa (90-95)."
+  },
+  {
+    "titulo": "Todo a la vez en Barcelona",
+    "medio": "La Vanguardia",
+    "fecha": 1776625517.0,
+    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260419/11517569/vez-barcelona.html",
+    "resumen": ""
   },
   {
     "titulo": "La experiencia de volar ha cambiado. Airbus cree que puede llevarla mucho más lejos con cama doble, baño y bar",
@@ -259,18 +357,18 @@
     "resumen": "El ex presidente gana las elecciones legislativas, pero no es suficiente para garantizar el poder con una mayoría estable Leer"
   },
   {
-    "titulo": "Tragedia en la Intermodal de Palma: 6 fallecidos y 33 heridos en una escena de terror, todo formaba parte de un simulacro",
-    "medio": "OK Diario",
-    "fecha": 1776624571.0,
-    "link": "https://okdiario.com/baleares/tragedia-intermodal-palma-6-fallecidos-33-heridos-escena-terror-todo-formaba-parte-simulacro-16635864",
-    "resumen": "Momentos de auténtico pánico se han vivido en la estación Intermodal de Palma tras un grave accidente con incendio que ha dejado un balance provisional de 33 víctimas, entre ellas seis fallecidos y 27 heridos de diversa consideración. La densa humareda, los accesos bloqueados y la desesperación de los presentes han convertido la principal infraestructura … Continuar leyendo \"Tragedia en la Intermodal de Palma: 6 fallecidos y 33 heridos en una escena de terror, todo formaba parte de un simulacro\""
+    "titulo": "Una visita al Eibar explica la ambición del nuevo Sant Andreu, recién ascendido a Primera RFEF",
+    "medio": "La Vanguardia",
+    "fecha": 1776623922.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol/20260419/11517535/visita-eibar-explica-ambicion-nuevo-sant-andreu-recien-ascendido-primera-rfef.html",
+    "resumen": "Los barceloneses han subido de categoría este domingo tras ganar al Reus Reddis (2-1) en el Narcís Sala, el primer paso de un recorrido que quieren finalizar llegando a las categorías profesionales"
   },
   {
-    "titulo": "Sánchez lidera la internacional del crimen",
-    "medio": "OK Diario",
-    "fecha": 1776624304.0,
-    "link": "https://okdiario.com/opinion/sanchez-lidera-internacional-del-crimen-16636491",
-    "resumen": "Mientras en Madrid era levantada en multitud la presencia de la Premio Nobel de la Paz, María Corina Machado, en Barcelona se celebraba el simposio de la vergüenza. La reunión de autócratas unidos liderada por el peor de todos ellos, Pedro Sánchez (en ausencia de su mentor, el lobbista de narcos y dictadores), convocó a … Continuar leyendo \"Sánchez lidera la internacional del crimen\""
+    "titulo": "‘Por qué no escribo nada’, el documental que ilumina la cara más desconocida de Carmen Laforet",
+    "medio": "La Vanguardia",
+    "fecha": 1776623766.0,
+    "link": "https://www.lavanguardia.com/cultura/20260419/11517479/por-que-no-escribo-nada-documental-ilumina-cara-mas-desconocida-carmen-laforet.html",
+    "resumen": "La directora catalana Isabel Fernández reivindica a la autora de 'Nada', una “escritora vagabunda” que nunca traicionó sus compromisos"
   },
   {
     "titulo": "Alemania ha encontrado un filón para el turismo en el sitio más inesperado: está convirtiendo viejas minas en lagos",
@@ -308,6 +406,13 @@
     "resumen": "El título de la película que llegará a HBO Max el próximo 23 de abril es una declaración de intenciones en sí mismo. Un apellido, pero es el de soltera de una de las mujeres más impresionantes y mediáticas de la historia de Reino Unido: Spencer. Diana Spencer, a quien quizá recuerdes más como Lady Di. Pero es precisamente la elección de ‘Spencer’ como nombre la película, la que nos da la primera pista de lo que veremos, la historia de una mujer que no terminó de encajar en un mundo en el que intentaba sobrevivir. La película se centra en un fin de semana. Concretamente en uno a principios de los años 90. Tres días en las que serían las últimas vacaciones navideñas en la Casa de Windsor para la princesa Diana de Gales. Y es un fin de semana importante porque en él, Lady Di tomaría la decisión de terminar con su matrimonio con el príncipe Carlos. Más allá de esto, este drama es una ventana a los deseos y fantasmas de Diana de Gales. Es un vistazo a su mundo interior y no podría haber tenido a una mejor intérprete, porque Kristen Stewart está absolutamente magnética. Dirigida por Pablo Larraín y con guion de Steven Knight, ‘Spencer’ es el mejor papel en el que hemos visto a Stewart. Dejas de ver a la actriz para ver al personaje mediático en el primer momento en que copa la pantalla. Llegó a ser tan Diana de Gales como la propia Diana de Gales y lo hizo imitando sus gestos de una forma que impresionó a uno de sus antiguos empleados, Ken Wharfe. El británico, que fue guardaespaldas de la princesa Diana de 1989 a 1993, cuando vió la película fue muy claro: \"De todas las personas que han interpretado a Diana durante los últimos 10 años, Kristen es la más cercana a ella. Se las arregló para perfeccionar sus gestos”, aseguró a la revista People. Más allá de la interpretación de su protagonista, nominada a los Oscars como ‘Mejor Actriz’, la fotografía de Claire Mathon es una de las mejores bazas que tiene la película, pero si me tengo que quedar con algo es con la música. Corre a cargo de Jonny Greenwood, el compositor habitual de Paul Thomas Anderson, y es capaz de añadir una tensión perturbadora a este retrato femenino lleno de matices. Una Diana viva y tierna, pero también una provocadora, rebelde y tremendamente asustada y solitaria El vestuario, evidentemente, es un protagonista más que se une a Sally Hawkins, Jack Farthing, Timothy Spall y Sean Harris que completan el reparto. Las réplicas de grandes looks que aún recordamos de la princesa, son el acompañamiento perfecto para que cuando Stewart aparezca en pantalla, solo veamos a Diana de Gales. Puede que no sea una película para todo el mundo, porque el ritmo contemplativo y el enfoque más sensorial que quiso darle Larraín, no es para todos. Pero Kristen Stewart está tan bien, que solo por ver cómo es capaz de capturar la fragilidad y a la vez la fuerza de Diana de forma contenida, merece la pena. Aunque es oscura y algo subjetiva, también es una forma de ver a una princesa marginada en una historia trágica. No hay una romantización en esta película. Solo una Diana que sufre y eso, traspasa la pantalla. Una película maravillosa para ver el próximo fin de semana en HBO Max y si no quieres esperar, para disfrutar en Prime Video ahora mismo Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | Spencer (HBO Max) En Trendencias | Las 31 mejores series de Amazon Prime Video que puedes ver ahora mismo En Trendencias | Las 31 mejores series de HBO Max que puedes ver ahora mismo - La noticia El próximo jueves llega a HBO Max la película que mejor reflejó a Lady Di según su antiguo guardaespaldas fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
+    "titulo": "MediaMarkt te hace un 15% en casi todo si compras desde la app (y merece la pena)",
+    "medio": "La Vanguardia",
+    "fecha": 1776621600.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260419/11516023/mediamarkt-15-descuento-comprar-app-mkt-medi.html",
+    "resumen": "Te explicamos cómo conseguir el 15% comprando desde la app y en qué productos merece realmente la pena aprovecharlo ahora"
+  },
+  {
     "titulo": "Loquillo, más allá del cantante: un bulto en el cuello que le paralizó, su hijo Cayo y la dura enfermedad de su mujer",
     "medio": "The Objective",
     "fecha": 1776621600.0,
@@ -329,11 +434,25 @@
     "resumen": "El presidente del PP-A y candidato a la reelección como presidente de la Junta de Andalucía, Juanma Moreno, ha apelado este domingo a la ciudadanía a […]"
   },
   {
+    "titulo": "Muere el hombre herido el martes en un tiroteo de ajuste de cuentas en Barcelona",
+    "medio": "La Vanguardia",
+    "fecha": 1776621080.0,
+    "link": "https://www.lavanguardia.com/sucesos/20260419/11517540/fallece-hombre-herido-martes-tiroteo-ajuste-cuentas-barcelona.html",
+    "resumen": "La víctima recibió varios disparos y fue trasladado en estado grave al hospital del Mar"
+  },
+  {
     "titulo": "Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan",
     "medio": "El País",
     "fecha": 1776620994.0,
     "link": "https://elpais.com/internacional/2026-04-19/trump-retoma-las-negociaciones-con-iran-pero-amenaza-con-destruir-todas-sus-centrales-electricas-si-no-acepta-su-plan.html",
     "resumen": "El presidente estadounidense envía a Vance, Witkoff y Kushner a Pakistán para reanudar el lunes las conversaciones de paz. Teherán no acudirá mientras prosiga el “bloqueo naval”"
+  },
+  {
+    "titulo": "El Bayern celebra con moderación la Bundesliga y pone el foco en el triplete",
+    "medio": "La Vanguardia",
+    "fecha": 1776620621.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol/20260419/11517538/bayern-celebra-moderacion-bundesliga-pone-foco-triplete.html",
+    "resumen": "Kompany evita una gran celebración del título tras vencer 4-2 al Stuttgart y se marca como objetivo el triplete, al estar en semifinales de la Copa alemana y Champions"
   },
   {
     "titulo": "Juan Carlos I abandona Sangenjo (Pontevedra) tras cinco días y la visita de la infanta Elena",
@@ -343,13 +462,6 @@
     "resumen": "Juan Carlos I ha abandonado el municipio pontevedrés de Sanxenxo, tras pasar cinco días, salir a navegar y recibir la visita de su hija, la infanta […]"
   },
   {
-    "titulo": "El Bayern mantiene su hegemonía en Alemania: 13 de las últimas 14 ligas son suyas",
-    "medio": "El País",
-    "fecha": 1776620546.0,
-    "link": "https://elpais.com/deportes/futbol/2026-04-19/el-bayern-mantiene-su-hegemonia-en-alemania-13-de-las-ultimas-14-ligas-son-suyas.html",
-    "resumen": "El único título que no lograron los bávaros fue con Xabi Alonso al frente del Bayer Leverkusen dos ediciones atrás"
-  },
-  {
     "titulo": "Se reanuda la circulación del AVE Madrid-Barcelona suspendida por arrollamiento",
     "medio": "The Objective",
     "fecha": 1776620512.0,
@@ -357,11 +469,11 @@
     "resumen": "Renfe ha autorizado la reanudación de la circulación por ambas vías de la línea de alta velocidad entre Madrid, Zaragoza y Barcelona, que ha estado suspendida […]"
   },
   {
-    "titulo": "Muere el hombre tiroteado el martes en Barcelona ante su mujer",
-    "medio": "El País",
-    "fecha": 1776620499.0,
-    "link": "https://elpais.com/espana/catalunya/2026-04-19/muere-el-hombre-tiroteado-el-martes-en-barcelona-ante-su-mujer.html",
-    "resumen": "Los Mossos d’Esquadra investigan el caso como parte de la disputa entre los clanes serbios Kavac y Skaljari"
+    "titulo": "La línea de alta velocidad entre Madrid y Barcelona, cortada por un arrollamiento",
+    "medio": "La Vanguardia",
+    "fecha": 1776620302.0,
+    "link": "https://www.lavanguardia.com/vida/20260419/11517539/linea-alta-velocidad-madrid-barcelona-cortada-arrollamiento.html",
+    "resumen": "Adif trabaja para resolver la incidencia tras su restablecimiento parcial, sin informar sobre posibles víctimas"
   },
   {
     "titulo": "La paradoja de la gravedad artificial: Einstein nos dijo cómo hacerla, la ingeniería nos dice que es casi imposible",
@@ -399,6 +511,13 @@
     "resumen": "El accidente, que ha tenido lugar en \"un punto de paso no autorizado\" del municipio madrileño de Alcalá de Henares, ha provocado la interrupción de la línea durante al menos una hora Se reanuda la circulación en la línea de alta velocidad que une las ciudades de Madrid, Zaragoza y Barcelona, tras permanecer interrumpida durante al menos una hora a causa del arrollamiento de una persona en el municipio madrileño de Alcalá de Henares. “Se restablece la circulación normal después de la actuación de servicios de emergencia en plena vía”, ha informado Adif, tras una limitación temporal de velocidad una vez se ha reanudado el servicio. El accidente, según ha detallado Renfe, ha tenido lugar en “un punto de paso no autorizado” en Alcalá de Henares. Durante al menos una hora, los trenes de larga distancia 3152 y 6171 han permanecido detenidos ante las señales de entrada y, los trenes de alta velocidad, detenidos en las estaciones Madrid Puerta de Atocha y Zaragoza Delicias."
   },
   {
+    "titulo": "Falla el tercer lanzamiento de un New Glenn de Blue Origin aún a pesar de que han conseguido reutilizar con éxito la primera etapa",
+    "medio": "Microsiervos",
+    "fecha": 1776618900.0,
+    "link": "https://www.microsiervos.com/archivo/espacio/falla-tercer-lanzamiento-new-glenn-recuperan-primera-etapa.html",
+    "resumen": "Hoy ha sido un día agridulce en Blue Origin con el fallo del tercer New Glenn, aún a pesar de que han conseguido recuperar la primera etapa del cohete. El objetivo de la misión era colocar en órbita el satélite BlueBird 7 de AST SpaceMobile pero un fallo de la segunda etapa del cohete ha impedido que alcanzara la órbita prevista; está aún por ver si es recuperable. El satélite forma parte de la serie BlueBird Bloque 2 de la empresa y está diseñado para ofrecer cobertura desde el espacio a teléfonos inteligentes estándar. Monta una de las antenas más grandes jamás desplegada en órbita por un satélite comercial con unos 223 m². La empresa cuenta con tener entre 45 y 60 en órbita antes de que termine este año pero eso también está por ver teniendo en cuenta que este es el primero de ellos. A cambio, la primera etapa del cohete, que volaba en su segunda misión, aterrizó sin problemas –aunque rodeada por nubes de vapor de agua que hicieron dudar del resultado durante unos instantes– en el espaciopuerto flotante Jacklyn, con lo que podrá volver a ser utilizada. La primera etapa del New Glenn utilizado hoy era la bautizada como Never Tell Me The Odds, No me hables de las probabilidades, la misma que utilizó el pasado mes de noviembre en el segundo lanzamiento de un New Glenn. La empresa de Jeff Bezos se convierte así en la segunda, tras SpaceX, en recuperar y reutilizar la primera etapa de un cohete capaz de lanzamientos orbitales. Aunque en realidad esta información tiene algo de truco, ya que Blue Origin la lanzó con motores nuevos, aparte de con algunas mejoras que quería probar. Pero la idea es volver a utilizar esos motores del primer lanzamiento de la Never Tell Me The Odds en un futuro vuelo. Recuperar la primera etapa no sólo contribuye a abaratar los costes de los lanzamientos sino que debería permitir un aumento en la cadencia de estos en cuanto la empresa tenga el suficiente número de primeras etapas construidas y activas. Pero claro, antes tendrá que analizar qué pasó con la segunda etapa y tomar las medidas correctoras oportunas. Relacionado, Blue Origin lanza con éxito su primer cohete New Glenn AST SpaceMobile despliega la enorme antena de 64 metros cuadrados de su satélite de prueba de telefonía 5G desde el espacio AST SpaceMobile hace la primera llamada vía satélite de la historia con un móvil estándar El satélite de telefonía móvil BlueWalker 3 brilla más que casi cualquier estrella # Enlace Permanente"
+  },
+  {
     "titulo": "El gran sorpasso: Meta va a superar a Google en publicidad digital por primera vez en la historia",
     "medio": "Xataka",
     "fecha": 1776618110.0,
@@ -420,32 +539,11 @@
     "resumen": "The Pitt culminó su segunda temporada dejando algo claro. No es un fenómeno de un día y su éxito solo aumentó en una nueva entrega controvertida y compleja. Mucho más, porque la producción apostó a mantener el estilo de explorar en su personaje de manera sutil, en medio de complicadas situaciones médicas. El resultado es […] Seguir leyendo: Lo bueno, lo malo y lo feo de la segunda temporada de ‘The Pitt’"
   },
   {
-    "titulo": "Mueren ocho niños de entre uno y 14 años en un tiroteo masivo en Luisiana",
-    "medio": "La Vanguardia",
-    "fecha": 1776617742.0,
-    "link": "https://www.lavanguardia.com/sucesos/20260419/11517523/mueren-ocho-ninos-14-anos-tiroteo-masivo-luisiana.html",
-    "resumen": "El sospechoso se dio a la fuga y fue abatido por agentes durante la persecución"
-  },
-  {
-    "titulo": "Si tu móvil ya va lento, estos Xiaomi por menos de 200 euros son donde empezaría a mirar",
-    "medio": "La Vanguardia",
-    "fecha": 1776617700.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260419/11513867/movil-lento-xiaomi-200-euros-son-empezaria-mirar-mkt-alie.html",
-    "resumen": "Tres modelos que apuestan por batería grande, pantallas fluidas y lo justo en potencia para no desesperarse en el día a día"
-  },
-  {
-    "titulo": "Muere un joven de 25 años en un tiroteo en Torrevieja",
-    "medio": "La Vanguardia",
-    "fecha": 1776617653.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260419/11517521/muere-joven-25-anos-tiroteo-torrevieja.html",
-    "resumen": "La Guardia Civil investiga los hechos ocurrido en las proximidades de la playa del Cura"
-  },
-  {
-    "titulo": "Yolanda Díaz dejará el Congreso al final de la legislatura: «No voy a ir en ninguna lista»",
-    "medio": "The Objective",
-    "fecha": 1776617386.0,
-    "link": "https://theobjective.com/espana/politica/2026-04-19/yolanda-diaz-congreso-final-legislatura/",
-    "resumen": "La vicepresidenta segunda del Gobierno y ministra de Trabajo y Economía Social, Yolanda Díaz, ha confirmado que cerrará su etapa en el Congreso de los Diputados […]"
+    "titulo": "Mueren ocho niños de entre uno y catorce años en un tiroteo masivo en Luisiana, EEUU",
+    "medio": "eldiario.es",
+    "fecha": 1776617592.0,
+    "link": "https://www.eldiario.es/internacional/mueren-ocho-ninos-catorce-anos-tiroteo-masivo-luisiana-eeuu_1_13155431.html",
+    "resumen": "La Policía de la localidad, Shreveport, calificó el suceso como un \"altercado doméstico\", pues algunos de los tiroteados eran descendientes del agresorSuben a nueve los muertos en un tiroteo en un colegio de Turquía Ocho niños de entre uno y catorce años murieron en un tiroteo masivo que tuvo lugar en la madrugada de este domingo en la ciudad de Shreveport, en el estado sureño de Luisiana, según reportes de la Policía de esa localidad, que calificó el suceso como un “altercado doméstico”. Un total de diez personas recibieron disparos durante el suceso, según el portavoz policial, Christopher Bordelon, que informó que el sospechoso, alguna de cuyas víctimas “eran sus descendientes”, se dio a la fuga en un vehículo robado y fue abatido por agentes durante la persecución. “Creemos que él es el único individuo que efectuó disparos”, afirmó Bordelon en referencia al supuesto responsable. Las únicas supervivientes del tiroteo son dos mujeres adultas, una de ellas con heridas serias que ponen en peligro su vida, según medios locales. La escena del crimen es “extensa” y abarca unos tres hogares en el vecindario de Cedar Grove de Shreveport, especificó Bordelon, que advirtió que la investigación se encuentra en su etapa inicial y que toda la información es preliminar. “Esta es una situación trágica, tal vez la situación más trágica que hayamos vivido jamás”, dijo Tom Arceneaux, alcalde de esta ciudad del noroeste de Luisiana, de unos 180.000 habitantes. “Es una mañana terrible”, se lamentó."
   },
   {
     "titulo": "Moreno y Montero confrontan modelo sanitario en el primer día de precampaña andaluza: “desmantelamiento” o “bulo”",
@@ -462,53 +560,11 @@
     "resumen": "Esta semana, Flamenca Stone compartía en Bluesky un vídeo con el comentario \"esto es literalmente una trama de 'Idiocracia'\". No es la primera vez que sucede ni será la última. La película de 2006 que pasó desapercibida en su día (de forma más que buscada, para evitar demandas de las muchas marcas que eran satirizadas) lleva años generando ese mismo escalofrío reconocible, como una especie de versión perversa de Los Simpsons: miras una sátira y no sabes si estas viendo más bien un documental adelantado a su tiempo. 20 años de vaticinios. Mike Judge tardó tres años en lograr que 'Idiocracia' fuera estrenada. Cuando lo consiguió, recaudó tan solo 495.000 dólares en su primer fin de semana. Fox no organizó ni pases de prensa, y no invirtió ni en trailers para televisión: era demasiado ácida e incómoda. El director de 'Beavis y Butt-Head' y 'Silicon Valley' había construido una sátira sobre una América del año 2505 donde los idiotas se habían reproducido tanto entre sí que la población estaba compuesta esencialmente por descerebrados. Un joven perfectamente normal del presente despierta en esa época (sí, es el argumento de 'Futurama', por entonces recién cancelada) y es celebrado como prácticamente un genio. Idiocracia Today. El tiempo la ha puesto en su sitio y pese a pasar desapercibida en su estreno, su edición en formatos domésticos primero y su paso por streaming después (ahora la tienes en Movistar Plus+) la ha dotado de cierta consideración de culto. Revisemos algunas de las cuestiones que se plantearon como parte de una sátira absolutamente exagerada (como demuestra que Judge decidiera ambientarla en nada menos que el siglo XXVI) pero que resultan escalofriantemente cercanas en el contexto actual. O como decía el propio director, \"No soy ningún profeta. Me equivoqué por 490 años.\" En Xataka Las 23 mejores películas de ciencia-ficción La chispa de la vida. Empecemos, sin ir más lejos, por el uso de refrescos como agua de riego. En el futuro, la bebida deportiva Brawndo ha sustituido al agua, lo que ha provocado que los cultivos lleven décadas sin crecer. \"Brawndo tiene lo que las plantas necesitan. Tiene electrolitos.\" le dicen al protagonista cuando este se extraña de la ausencia de agua. Por supuesto, nadie sabe qué demonios es un electrolito. Mientras tanto, la realidad: Trump piensa que los refrescos curan el cáncer porque matan la hierba y por tanto, posiblemente también matan las céluloas cancerígenas. Si me preguntan, mucho más loco que 'Idiocracia', aunque lo cierto es que está documentado que cada vez más personas optan por bebidas deportivas o energéticas cuando antes bebían agua. Todo marcas. En la película, la cadena Costco tiene su facultad de derecho. La única operadora de telecomunicaciones del país se llama AOL-TimeWarner-Taco Bell-Gobierno de EE.UU., y las franjas de la bandera son logotipos. Es especialmente significativa (por visionaria en tiempos pre-streaming) la escena de la pantalla de la televisión: el programa ocupa un recuadro en el centro de la pantalla, rodeado de publicidad por todas partes. Youtube o cualquier web de streaming de vídeos tiene un aspecto similar. En cuanto a la presencia de marcas en instituciones públicas o los patrocinios de espacios públicos, hace tiempo que dejó de ser una cuestión distópica, ¿eh, madrileños? Presidente reconocible. Dwayne Elizondo Mountain Dew Herbert Camacho, exluchador y presidente de los Estados Unidos en 2505, entra al Congreso en motocicleta, con una guitarra eléctrica, disparando al aire. Su capacidad de gestión es nula y su carisma, arrollador para un país de imbéciles. El actor Terry Crews reconoció sentir un escalofrío cuando empezó a ver los mítines de Trump en 2016. El coguionista Etan Cohen escribió en Twitter ese mismo año que no podía creer que la película se hubiera convertido en un documental. En 2024, Hulk Hogan apareció en la Convención Nacional Republicana con un discurso salido de una promo de lucha libre. Las similitudes llegan hasta hoy, pero nos quedamos con la reflexión de Espinof sobre la película: la lógica del entretenimiento ha colonizado por completo el debate político. Dejar de pensar por convenio. El deterioro del lenguaje en 'Idiocracia' es parte de la sociedad: las palabras se sustituyen por pictogramas y los procesos de razonamiento se diluyen. Nadie recuerda cómo se razona sin una pantalla delante. En 2025, un estudio del MIT advirtió que las herramientas de inteligencia artificial pueden acelerar el deterioro cognitivo al mecanizar las tareas rutinarias y dejar solo el manejo de excepciones al usuario. Investigaciones de la Universidad McGill apuntan en la misma dirección con el GPS y la memoria espacial: cuanto más lo usas, menos recuerdas cómo orientarte sin él. En Xataka El peligro de usar chatbots de IA para todo es real: el MIT ha descubierto la “deuda cognitiva” Muera la inteligencia. En su análisis de una sociedad cada vez más anti-intelectual, Jot Down describía cómo esta corriente cada vez más asentada ya no se presenta como ignorancia sino como sobreinformación: la ilusión de que acceder a datos infinitos durante periodos cortos de veinte segundos equivale a aprender. Lo vivimos continuamente: el algoritmo recompensa los formatos breves, la cámara de eco de las redes sociales amplifica lo que ya crees con frases-slogan. Ese \"No al pensamiento crítico\" vertebra toda 'Idiocracia' y es el auténtico subtexto de la película. Nadie es perfecto. 'Idiocracia' erraba, eso sí, en su planteamiento inicial: el desastre arrancaba cuando los ricos dejaban de tener hijos y entonces las clases bajas y sin educación básica empezaban a reproducirse. Una idea de tintes peligrosamente eugenésicos en la que por suerte el resto de la película no incide y que ha sido completamente arrollada por una realidad innegociable: si algo nos ha demostrado el mundo actual es que los milmillonarios que nos rodean no son, precisamente, los lápices más afilados del estuche. En Xataka | Si la pregunta es si la IA es ya tan buena como la inteligencia humana, la respuesta es: resuelve este puzzle - La noticia Se suponía que 'Idiocracia' era una sátira de un futuro más estúpido. El miedo es que se esté haciendo real fue publicada originalmente en Xataka por John Tones ."
   },
   {
-    "titulo": "Un incendio calcina el Centro Astronómico del Alto Turia en Aras de los Olmos",
-    "medio": "La Vanguardia",
-    "fecha": 1776615991.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260419/11517506/incendio-accidental-calcina-centro-astronomico-alto-turia-aras-olmos.html",
-    "resumen": "El centro, que se ubica en una de las localidades mejor ubicadas para admirar el próximo eclipse del 12 de agosto, ha activado una campaña de micromecenazgo para recuperar las instalaciones y su material"
-  },
-  {
-    "titulo": "'C’est magnifique !': Fils se eleva en Barcelona para ganar su primer Godó al batir a Rublev",
-    "medio": "La Vanguardia",
-    "fecha": 1776615773.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20260419/11517509/c-est-magnifique-fils-eleva-barcelona-ganar-primer-godo.html",
-    "resumen": "41 años más tarde, otro tenista francés toma el RCTB y reevoca los tiempos de Thierry Tulasne (6-2 y 7-6 (2))"
-  },
-  {
-    "titulo": "María Corina Machado en EL MUNDO tras el baño de masas en Sol: \"Verme con Pedro Sánchez habría enviado un mensaje inadecuado; nuestra causa tiene que ver con la verdad y con la gente\"",
-    "medio": "El Mundo",
-    "fecha": 1776615744.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/19/69e4e717fdddff672d8b456d.html",
-    "resumen": "El director Joaquín Manso conversa con la Premio Nobel de la Paz y líder opositora venezolana, en su visita a Madrid, un día después de su encuentro con la diáspora para impulsar su regreso a Caracas Leer"
-  },
-  {
-    "titulo": "Arthur Fils conquista el Trofeo Conde de Godó ante Rublev y más imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1776615601.0,
-    "link": "https://www.lavanguardia.com/fotos/20260419/11517471/arthur-fils-conquista-trofeo-conde-godo-rublev-mas-imagenes-dia.html",
-    "resumen": "Arthur Fils vence en el Godó, la Real Sociedad alza la Copa del Rey, Pekín estrena maratones humanoides y el Líbano aguarda el retorno tras el alto el fuego pactado."
-  },
-  {
-    "titulo": "Musk acusa a Sánchez de “alta traición” por la regularización de inmigrantes",
-    "medio": "La Vanguardia",
-    "fecha": 1776615507.0,
-    "link": "https://www.lavanguardia.com/internacional/20260419/11517508/elon-musk-vuelve-arremeter-sanchez-le-acusa-alta-traicion-regularizacion-inmigrantes.html",
-    "resumen": "“El sucio Sánchez es culpable de alta traición”, ha escrito el magnate estadounidense en un mensaje publicado en la red social X"
-  },
-  {
     "titulo": "Petro demandará al presidente de Ecuador por vincularlo con un narcotraficante",
     "medio": "eldiario.es",
     "fecha": 1776615269.0,
     "link": "https://www.eldiario.es/internacional/petro-demandara-presidente-ecuador-vincularlo-narcotraficante_1_13155400.html",
     "resumen": "Daniel Noboa afirmó en una entrevista que el mandatario colombiano se reunió con algunas personas supuestamente vinculadas con el narcotraficante conocido como FitoPetro carga contra los presidentes latinoamericanos “cortesanos” de Trump: “Otros decidimos mirarnos de tú a tú” El presidente de Colombia, Gustavo Petro, demandará por calumnia a su homólogo ecuatoriano, Daniel Noboa, luego de que este asegurara que durante una visita a la ciudad Manta en 2025, el mandatario colombiano se reunió con algunas personas supuestamente vinculadas con el narcotraficante José Adolfo Macías Villamar, Fito. “He decidido demandar penalmente al presidente Noboa por su calumnia”, escribió Petro este domingo en la red social X al anunciar la acción judicial. El señalamiento de Noboa, hecho en una entrevista con la revista colombiana Semana en la que no confirmó un encuentro directo de Petro con Fito, fue rechazado por el mandatario colombiano, quien negó cualquier relación y aseguró que su presencia en Ecuador en aquella ocasión obedeció únicamente a actividades oficiales. En esa entrevista, Noboa afirmó que Petro “se reunió con miembros de la Revolución Ciudadana, y algunos de esos miembros tienen nexos con Fito”, en referencia al movimiento político ecuatoriano vinculado al expresidente Rafael Correa, actualmente en la oposición. Petro respondió a esas declaraciones defendiendo su visita a Manta, a donde según explicó, viajó en mayo de 2025 luego de asistir en Quito a la segunda toma de posesión de Noboa, y aseguró que durante toda su estancia contó con la protección permanente del Ejército ecuatoriano, así como con su esquema de seguridad colombiano. “El mismo Noboa dio la orden, como debe ser, para que el ejército ecuatoriano en todo momento día y noche, me cuidaran en Manta, a donde fui el día de su posesión a la que asistí y me trató con displicencia solo porque pedí la libertad del preso político Jorge Glas, ciudadano colombiano y exvicepresidente de la república del Ecuador”, agregó Petro. Visita secreta La visita de Petro a Manta no estaba en su agenda de viaje a Ecuador y se supo de ella por informaciones de prensa, tras las cuales surgieron versiones no confirmadas de que el mandatario supuestamente se había reunido en esa ciudad con Fito, el narcotraficante más peligroso de ese país, que fue capturado un mes después y extraditado a Estados Unidos. Petro subrayó hoy que tanto sus escoltas como otros testigos pueden dar fe de sus actividades en ese viaje, y rechazó que su presencia en esa ciudad pueda ser interpretada como indicio de contactos irregulares. Este episodio se suma a otros desencuentros entre los dos presidentes, reflejo del deterioro de la relación bilateral, que en los últimos meses ha escalado también al terreno comercial, con la imposición mutua de aranceles a productos de ambos países y la llamada a consultas de ambos embajadores."
-  },
-  {
-    "titulo": "La Orchestra Baobab y la belle époque africana (★★★★✩)",
-    "medio": "La Vanguardia",
-    "fecha": 1776614721.0,
-    "link": "https://www.lavanguardia.com/cultura/20260419/11517494/orchestra-baobab-belle-epoque-africana.html",
-    "resumen": "La actuación de la legendaria banda africana se inscribe en el festival Blues & Ritmes de Badalona y su insobornable deseo de presentar propuestas musicales exclusivas y exquisitas"
   },
   {
     "titulo": "Elon Musk vuelve a arremeter contra Sánchez y le acusa \"de alta traición\" por la regularización de inmigrantes",
@@ -546,13 +602,6 @@
     "resumen": "Que GTA Online es uno de los juegos más lucrativos de Rockstar Games, no es novedad. Sin embargo, hasta aquí no teníamos un dato real de cuánto dinero generaba el multijugador en línea de GTA V en PC y consolas. Sin embargo, eso acaba de cambiar gracias a un reciente hackeo que ha sufrido la […] Seguir leyendo: GTA Online, la gallina de los huevos de oro de Rockstar. Revelan cuánto dinero genera y la cifra asusta"
   },
   {
-    "titulo": "ERC arranca la creación de un consorcio que tutelará la inversión estatal en Cataluña",
-    "medio": "Expansión",
-    "fecha": 1776614096.0,
-    "link": "https://www.expansion.com/catalunya/2026/04/19/69e4f96f468aebad618b4592.html",
-    "resumen": "Leer"
-  },
-  {
     "titulo": "Mamdani y Obama se reúnen en una guardería del Bronx para cantar y leer con los niños",
     "medio": "eldiario.es",
     "fecha": 1776613884.0,
@@ -572,13 +621,6 @@
     "fecha": 1776613241.0,
     "link": "https://www.europapress.es/nacional/noticia-embajada-venezuela-pide-disculpas-palabras-carlos-baute-acto-maria-corina-machado-madrid-20260419174041.html",
     "resumen": "Califica de \"discurso de odio\" el grito de 'Fuera la mona' que alentó Baute y \"una forma de violencia política basada en misoginia y racismo\""
-  },
-  {
-    "titulo": "Ormuz: desbloqueo temporal insuficiente",
-    "medio": "Expansión",
-    "fecha": 1776611474.0,
-    "link": "https://www.expansion.com/opinion/2026/04/19/69e4f08ee5fdea41308b4570.html",
-    "resumen": "El anuncio por parte de Irán de que permite de nuevo el paso libre de barcos a través del estrecho de Ormuz dio el viernes un nuevo respiro a los mercados internacionales y a la cotización de las materias primas clave. Leer"
   },
   {
     "titulo": "El thriller de Netflix, número 1 en 90 países, que Stephen King elogia: \"Tiene la mejor frase del año\"",
@@ -623,27 +665,6 @@
     "resumen": "Claude se ha convertido en una de las herramientas de IA más populares del momento y su crecimiento no ha parado. Ese éxito, sin embargo, tiene un coste directo para quienes lo usan a diario: los límites de sesión se agotan más rápido que antes. Las últimas cifras de Anthropic revelan que un 7% de […] Seguir leyendo: Uso Claude y desde que aplico estos trucos dejé de agotar mis límites de uso"
   },
   {
-    "titulo": "Revalorización de la vivienda: Málaga y Baleares lideran en la costa",
-    "medio": "Expansión",
-    "fecha": 1776606781.0,
-    "link": "https://www.expansion.com/inmobiliario/mercado/2026/04/19/69e4ddfa468aebe8498b45a2.html",
-    "resumen": "Los precios de la vivienda en la costa se disparan hasta un 47% en los últimos cinco años. Leer"
-  },
-  {
-    "titulo": "Comprar una vivienda para ponerla en alquiler ofrece una rentabilidad bruta anual del 6,7%",
-    "medio": "Expansión",
-    "fecha": 1776606005.0,
-    "link": "https://www.expansion.com/inmobiliario/mercado/2026/04/19/69e4da7e468aeb4e328b4585.html",
-    "resumen": "Murcia capital lidera el ránking de rentabilidad seguida de Segovia, Castellón, Huelva, Jaén y Lleida. Leer"
-  },
-  {
-    "titulo": "La regeneración de Agra del Orzán dispara los precios en A Coruña",
-    "medio": "Expansión",
-    "fecha": 1776605428.0,
-    "link": "https://www.expansion.com/inmobiliario/guia-de-la-vivienda/2026/04/19/69e29192468aeb94628b458c.html",
-    "resumen": "El entorno de Vigo continúa al alza. Leer"
-  },
-  {
     "titulo": "Yolanda Díaz confirma que no irá \"en ninguna\" lista para las elecciones generales",
     "medio": "eldiario.es",
     "fecha": 1776605199.0,
@@ -663,6 +684,13 @@
     "fecha": 1776603600.0,
     "link": "https://hipertextual.com/cine-television/de-que-va-el-terrorifico-true-crime-confia-en-mi-el-falso-profeta-del-que-todo-el-mundo-habla/",
     "resumen": "Confía en mí: El falso profeta, el nuevo true crime de Netflix, pone sobre la mesa un punto controvertido. La proliferación de las sectas en la actualidad y, lo que es más terrorífico, la manera en que grupos extremistas utilizan la fe como una forma de control. Pero en lugar de profundizar en el tema […] Seguir leyendo: De qué va el terrorífico true crime ‘Confía en mí’? El falso profeta, del que todo el mundo habla"
+  },
+  {
+    "titulo": "La Ley de Moore está de cumpleaños",
+    "medio": "Microsiervos",
+    "fecha": 1776603600.0,
+    "link": "https://www.microsiervos.com/archivo/ordenadores/40-aniversario-ley-moore.html",
+    "resumen": "Tal día como hoy en 1965 el número que marcaba el 35 aniversario de la revista Electronics publicaba un artículo titulado Cramming More Components onto Integrated Circuits [PDF] en el que salía de lo que luego sería conocido como la Ley de Moore: La complejidad de los componentes de coste mínimo ha aumentado a un ritmo de aproximadamente dos veces al año… Sin duda, a corto plazo cabe esperar que este ritmo continúe, si no que aumente. A más largo plazo, la tasa de aumento es un poco más incierta, aunque no hay razón para creer que no se mantendrá casi constante durante al menos 10 años. Esto significa que, en 1975, el número de componentes por circuito integrado para un coste mínimo será de 65.000. Creo que un circuito tan grande puede construirse en una sola oblea. Básicamente en este texto Gordon Moore, el co-fundador de Intel, decía que el número de componentes que se podría integrar en un chip se duplicaría cada año, y con ello la potencia de los ordenadores y de cualquier dispositivo que los utilizara. El propio Moore durante muchos años se resistió a llamarla Ley de Moore ya que no creía que fuera a ser especialmente precisa, Y de hecho fue Carver Mead, un profesor de Cal Tech quien le dio ese nombre. Pero su predicción, hecha en principio para 10 años, y que en 1995 modificó para decir que la duplicación en cuestión se produciría cada dos años, ha demostrado aguantar muy bien el paso del tiempo. Como es casi de rigor en estos casos, se han venido oyendo anuncios y previsiones acerca de la muerte de esta ley durante casi tanto tiempo como lleva escrita. E incluso el propio Gordon Moore dijo allá por 2006 que la tecnología a estaba punto de alcanzar la barrera del tamaño de los átomos, lo que producirá una ralentización del proceso a menos que se adopten otras tecnologías en la fabricación de chips: Moore's Law is dead, says Gordon Moore. Y de hecho a estas alturas el consenso parece estar en que esa duplicación está produciéndose más bien cada dos años y medio. Pero lo cierto es que los cacharros que los usan siguen pareciendo cada vez más potentes. # Enlace Permanente"
   },
   {
     "titulo": "Maíllo critica el modelo \"estafa\" y \"clasista\" de Moreno que \"desprecia lo público\" y que es \"indistinguible\" a Vox",
@@ -719,6 +747,13 @@
     "fecha": 1776596510.0,
     "link": "https://www.applesfera.com/curiosidades/jef-raskin-filosofo-que-ideo-nombre-macintosh-que-envio-carta-a-apple-para-quejarse-steve-jobs",
     "resumen": "El Lisa, el Macintosh, el iPod, el iPhone original... Steve Jobs se considera el padre de casi todos los dispositivos que Apple ha ido lanzando a lo largo de los años. Pero aunque eso no deje de ser cierto, hay otras personas sin las que esos productos de Apple habrían sido imposibles. Jef Raskin fue una de esas personas. Estuvo en Apple casi desde sus inicios, tanto que su número de empleado fue el 31. La idea de chocar la tecnología y las artes en forma de un producto, el Macintosh, vino en buena parte de su mente. Puede que no hayas oído hablar de él, pero su legado en Apple sigue latente. El hombre que no pudo trabajar con Steve Jobs De izquierda a derecha: Mike Scott, Steve Jobs, Jef Raskin, Chris Espinosa y Steve Wozniak Jef, matemático y filósofo, apareció en el garaje en el que Steve Jobs y Steve Wozniak cuando el Apple II acababa de lanzarse al mercado. En aquella época Jef regentaba una empresa llamada Bannister and Crun, que terminó siendo la encargada de escribir el manual de instrucciones del Apple II. Fue el primer trato que tuvo con los Steves. De ahí saltó a ser el responsable de publicaciones de Apple, pero Raskin ya tenía claro que no quería quedarse ahí para siempre. Empezó a trabajar en la idea de un ordenador para todo el mundo, una máquina que democratizara la informática para que dejara de ser algo reservado a unos pocos profesionales. De hecho mandó un mensaje a Steve Jobs para convencerle de que le ayudara con esa idea: \"No cuesta imaginarse cómo una computadora portátil puede abrir nuevas áreas enteras de uso, y otorgar a Apple de nuevo un acceso a un mercado completamente disponible\" En Applesfera El Apple Museum de Utrecht es el mejor lugar para entender por qué Apple es Apple Jobs no fue convencido por esa carta, pero sí que acabó entrando en el proyecto que terminaría convirtiéndose en el Macintosh original después de que le expulsaran del proyecto Lisa en otoño de 1980. Fue el propio Raskin quien eligió el nombre, basándose en el de su tipo favorito de manzana. Curiosamente, el nombre \"Macintosh\" se escribió originalmente con \"McIntosh\" por parte de Rasking. Sin embargo, hubo que modificarlo para evitar conflictos de marca con el fabricante de equipos de sonido McIntosh Laboratory. El padre de Macintosh Todos recordamos ese ordenador, pero su gestación no fue precisamente un camino de rosas. Steve Jobs y Jeff Raskin tuvieron encontronazos discutiendo sobre las especificaciones del Macintosh: Raskin quería un ordenador asequible que costara menos de 500 dólares y Jobs quería el mejor ordenador sin mirar lo que iba a costar. Raskin odiaba el ratón porque obligaba al usuario a mover la mano constantemente entre éste y el teclado y Jobs venía de crear el Lisa con la primera interfaz gráfica y un cursor. Raskin idealizaba un sistema que se controlara únicamente con el teclado y comandos intuitivos, algo que consideraba más rápido y natural. Sus ideas iniciales para el Mac incluían también una interfaz textual simplificada, muy distinta a la que finalmente concimos. En Applesfera Steve Jobs se empeñaba en pagar la cuenta de sus compañeros. Su supuesta generosidad era pura picaresca para comer gratis Con el tiempo, Jobs fue criticando más y más el proyecto de Raskin, llegando a hablar con el entonces CEO Mike Scott para reiterarle que la visión de Raskin no era la adecuada y que él tenía que ser el responsable del proyecto. Por su parte, Raskin envió un memorando al CEO quejándose de la actitud de Jobs y enumerando sus \"defectos\": Se salta citas regularmente. Actúa sin pensar y con mal juicio. No da el crédito adecuado cuando es necesario. Reacciona 'ad hominem' a menudo. Toma decisiones absurdas e innecesarias intentando ser paternal. No escuche e interrumpe. No mantiene sus promesas ni cumple compromisos. Toma decisiones 'ex cathedra'. Es demasiado optimista con sus estimaciones. Es a menudo irresponsable e inconsiderado, y es un mal gestor de proyectos de software. Raskin pudo tener razón con la actitud de Jobs ya que siempre ha sido objeto de crítica por muchas personas, pero lamentablemente no le sirvió para seguir en el proyecto del Macintosh. El CEO de Apple de aquella época puso a Jobs al frente del proyecto y el resto ya es historia, con Raskin abandonando Apple frustrado. Paradójicamente, algunas de las decisiones que Jobs impuso, como usar el ratón y apostar por una interfaz gráfica avanzada, acabaron definiendo el Mac como un producto revolucionario. Pero por el camino sacrificaron buena parte de la visión \"accesible\" que proponía Raskin. Tras este periplo, Raskin creó su enfoque original de ordenador bautizándolo como Canon Cat. Puedes incluso emularlo en esta web de Internet Archive. No tenía ratón ni interfaz gráfica, pero usaba ciertas teclas como actuadores que permitían adaptar el texto que escribiéramos a las necesidades del usuario. Puedes verlo e acción aquí: Su filosofía en el Canon Cat seguía buscando eliminar la fricción entre pensamiento y ejecución: la máquina debía \"quedar fuera del camino\" del usuario. Esa idea se puede rastrear en muchos principios del diseño actual de interfaces, desde los atajos de teclado hasta los sistemas operativos sin distracciones. El Canon Cat acabaría teniendo una vida corta tras vender sólo 20.000 unidades. A los seis meses dejó de venderse. La memoria en la historia de la informática se fue para el Macintosh, que sigue siendo la base de la informática doméstica moderna. Al menos, la que tuvimos antes de la llegada de móviles y tabletas. Raskin escribió un libro publicado en el año 2000, 'The Humane Interface', que narra su visión sobre cómo debe de ser una interfaz de ordenador según su visión propia. Un cáncer de páncreas se lo llevó en febrero de 2005, cuando tenía 61 años. Puede que Raskin tuviera una presencia turbulenta en Apple, pero aún así dejó una huella indudable en la historia de la compañía. En Applesfera | Apple macOS: todas las versiones hasta la fecha, cómo saber la que estás usando y cómo actualizar el sistema operativo En Applesfera | Cómo escribir el símbolo de Apple o la manzana mordida  en tu Mac, iPhone y iPad - La noticia Jef Raskin, el filósofo que ideó el nombre del Macintosh y que envió una carta a Apple para quejarse de Steve Jobs fue publicada originalmente en Applesfera por Miguel López ."
+  },
+  {
+    "titulo": "La NASA apaga un instrumento más de la Voyager 1 con la idea de prolongar aún más su misión, que va para los 50 años cuando iba a durar cinco",
+    "medio": "Microsiervos",
+    "fecha": 1776596400.0,
+    "link": "https://www.microsiervos.com/archivo/ciencia/nasa-apaga-un-instrumentos-mas-voyager-1-prolongar-mision.html",
+    "resumen": "Una de las Voyager fotografiada por la NASA antes de su lanzamiento. Los RTG están montados en el brazo que se extiende hacia izquierda; el detector de partículas cargadas de baja energía (LECP) es el más cercano al cuerpo de la sonda en la parte inferior del brazo de instrumentos que se extiende hacia la derecha – NASA Dentro de su plan para prolongar la misión de las sondas Voyager, que fueron lanzadas a finales del verano de 1977 para una misión de cinco años, la NASA acaba de enviar los comandos para apagar el detector de partículas cargadas de baja energía (LECP) de la Voyager 1. El LECP lleva en funcionamiento prácticamente desde el lanzamiento de la sonda hace casi 49 años. Mide partículas cargadas de baja energía, como iones, electrones y rayos cósmicos, tanto las que proceden de nuestro sistema solar como las que proceden de nuestra galaxia. Y con eso ha dado datos fundamentales sobre la estructura del medio interestelar al haber podido tomar medidas más allá de la heliosfera. De hecho las Voyager son las únicas naves espaciales que se encuentran lo suficientemente lejos de la Tierra como para proporcionar esta información. El problema es que los generadores termoeléctricos de radioisótopos (RTG por sus siglas en inglés) que montan ambas sondas cada año van produciendo unos 4 vatios menos de energía. Esto es así porque usan la desintegración de unas esferas de plutonio-238 para generar calor que a su vez es convertido en electricidad para hacer funcionar las sondas. Pero según se van desintegrando esas esferas la producción de calor y por ende de electricidad baja. Un pellet de plutonio-238 de los RTG de las sondas Cassini y Galileo sin ningún tipo de envoltura – Laboratorio Nacional de Los Álamos Exprimiendo hasta el último vatio Por eso hace tiempo que la NASA tiene en marcha un programa de apagado selectivo de sistemas e instrumentos a bordo de las dos Voyager según van fallando o según ya no tienen utilidad. Así que ahora es el turno del LECP de la Voyager 1; el de la Voyager 2 fue apagado en marzo del año pasado. Aunque el motor que hace girar el sensor del LECP en círculo para escanear en todas las direcciones seguirá encendido, igual que el del LECP de la Voyager 2. Esto es así porque consume muy poca energía y al mantenerlos en funcionamiento el equipo de la misión tiene más probabilidades de poder volver a encender los LECP algún día si averiguan de dónde sacar la electricidad necesaria. Y es que están terminando los detalles de un plan al que han bautizado como «el Big Bang» que está diseñado para prolongar aún más el funcionamiento de las Voyager. La idea consiste en sustituir de una sola vez un conjunto de dispositivos eléctricos —de ahí el nombre—, apagando algunos de ellos y sustituyéndolos por alternativas de menor consumo energético para mantener las nave espaciales lo suficientemente calientes como para seguir recopilando datos científicos. «Big Bang» se va a implementar primero en la Voyager 2, que dispone de algo más de potencia de reserva y se encuentra más cerca de la Tierra, lo que la convierte en el sujeto de prueba más seguro. Las pruebas están previstas para mayo y junio de este año. Y si salen bien, el equipo intentará aplicar la misma solución a la Voyager 1 no antes de julio. Nada mal para unas sondas que, como decía arriba, llevan ya casi 50 años en lo que iba a ser una misión de cinco años. Esto deja en funcionamiento el magnetómetro y el subsistema de ondas de plasma en la Voyager 1, mientras que en la Voyager 2 siguen en funcionamiento su megnetómetro, el detector de ondas de plasma, y el detector de rayos cósmicos. Si quieres saber más sobre estas incansables viajeras recomiendo como siempre el libro Viajes interestelares de Pedro León, en el que está todo lo que querías saber y algunas cosas que no sabías que querías saber de ellas. Relacionado, La Voyager 1 vuelve a enviar telemetría correctamente gracias a una actualización de software hecha a 24.000 millones de kilómetros La NASA retoma el contacto con la Voyager 1 utilizando una radio que llevaba sin uso desde 1981 La sonda Voyager 1 tiene que emitir al menos 25 fotones para que se reciba un bit de sus señales en la Tierra # Enlace Permanente"
   },
   {
     "titulo": "Dance Marathons Were the Forerunners of Today’s Reality TV",
@@ -910,6 +945,13 @@
     "resumen": "“All the old crap of the thirties is coming back again — the sh-t about the ‘class line,’ the ‘role of the working class,’ the ‘trained cadres,’ the ‘vanguard party,’ and the ‘proletarian dictatorship.’ It is all back again, and in a more vulgarized form than ever.” So declared the anarcho-ecologist Murray Bookchin in his […]"
   },
   {
+    "titulo": "Donde pongo el ojo, ¡mojo!, una historia de la aviación antiincendios",
+    "medio": "Microsiervos",
+    "fecha": 1776513600.0,
+    "link": "https://www.microsiervos.com/archivo/libros/donde-pongo-ojo-mojo-historia-aviacion-antiincendios.html",
+    "resumen": "Donde pongo el ojo ¡mojo! Aviación antiincendios: historia, desarrollo y futuro. Por José Manuel Gil García. Editado por Alejandro Polanco Masa, 14 de abril de 2026. 324 páginas. Con fotografías de Esteban Lamas y José Luis Maquieira. En España su representación más conocida es la de los famosos «botijos» rojos y amarillos del 43 Grupo de Fuerzas Aéreas, cuyo lema da título al libro. Pero la aviación antiincendios tiene muchos más aspectos, empezando por otras aeronaves similares a los Canadair y helicópteros de varios tipos y las personas que los operan. Aunque sin olvidarnos de los paracaidistas que saltan hacia los incendios o las brigadas forestales que se bajan de un helicóptero a dos palmos de un incendio para asegurar una intervención rápida que busca cortar lo antes posible su expansión. En este libro José Manuel reúne lo que lleva tiempo escribiendo en su blog sobre este aspecto de la aviación, así que si te interesa lo más mínimo, lo recomiendo sin duda. Cuenta no sólo la historia de la lucha contra incendios desde el aire a lo largo y ancho del mundo sino también la evolución de los distintos tipos de mecanismos de descarga de agua –no es trivial– y de los distintos modelos de aeronaves que se han dedicado a esta tarea, algunas realmente sorprendentes, no todas ellas especialmente efectivas, e intenta aventurar por dónde va a ir en el futuro. El libro lo complementan sendas entrevistas a Manuel Belmonte de Gálvez, quien durante muchos años fue piloto del 43 Grupo, y a José Luis García, piloto de helicópteros antiincendios. Lo dicho, un libro para disfrutar con calma. _____El enlace a Amazon lleva nuestro código de asociado. Así que si compras el libro o incluso alguna cosa más que no tenga nada que ver tras seguirlo puede que cobremos alguna pequeña comisión. # Enlace Permanente"
+  },
+  {
     "titulo": "Zohran Mamdani and the Left Made Kathy Hochul Tax the Rich",
     "medio": "Jacobin ES",
     "fecha": 1776512741.0,
@@ -936,6 +978,13 @@
     "fecha": 1776509122.0,
     "link": "https://www.elindependiente.com/espana/2026/04/18/maria-corina-machado-cumbre-barcelona-reunion-pedro-sanchez/",
     "resumen": "La líder opositora venezolana María Corina Machado ha reafirmado este sábado en Madrid su decisión de no reunirse con el […]"
+  },
+  {
+    "titulo": "Un juego de deducción a medio camino entre el «¿Quién es quien?» y el «20 preguntas»",
+    "medio": "Microsiervos",
+    "fecha": 1776508898.0,
+    "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/juego-deduccion-quien-es-quien-20-preguntas.html",
+    "resumen": "Aunque Sleuth the Truth está todavía en pruebas la idea es ingeniosa. Es un juego a medio camino entre el ¿Quién es quien? (también conocido como ¿Quién soy?) y el 20 preguntas, que es como el Akinator «inverso» de toda la vida. En ambos se van eliminando personajes u opciones mediante preguntas lanzadas para deducir quién o qué puede ser lo que se busca. En Sleuth the Truth las respuestas las da una IA, de modo que se pueden hacer las preguntas libremente. La respuesta será sí, no o más o menos; por ejemplo yo pregunté si un personaje era médico pero me dijo que «más o menos», que no era médico pero hacía dibujos de anatomía. Está bien que se pueda preguntar cualquier cosa (¿Es un deporte en equipo? ¿Tiene barba?) porque así se tienen más opciones para deducir bien. Basta ir tachando las opciones que no parece que sean y finalmente elegir una. Hay un nuevo juego cada día, y decenas de categorías ya pasadas que también se pueden jugar, desde Pioneros de la innovación a Personajes de Juego de Tronos o Filósofos de la antigüedad. En algunos hay tan solo 16 tarjetas (opciones) pero en otros hay 30 (Lenguajes de programación) o casi 50 (Capitales del mundo). La estrategia es bastante sencilla (divide por dos y vencerás rápido, pero no siempre es obvio cómo), y el juego no es especialmente difícil, pero está bastante entretenido. Relacionado: Akinator, el genio de las 20 preguntas «Prohibido vehículos en el parque», un test rápido sobre reglas Está centrado. O no. Pero no hay término medio 20 Preguntas, misma idea pero «en renovación» (muerto, vamos) # Enlace Permanente"
   },
   {
     "titulo": "El iPhone más económico de Apple se vuelve más barato: precio mínimo histórico para el iPhone 17e",
@@ -994,11 +1043,25 @@
     "resumen": "El Hospital Universitario Fundación Jiménez Díaz ha reunido a especialistas en Neurología, Rehabilitación y tecnología sanitaria en una jornada centrada […]"
   },
   {
+    "titulo": "Un Falcon Heavy lanzará el rover europeo Rosalind Franklin hacia Marte",
+    "medio": "Microsiervos",
+    "fecha": 1776443400.0,
+    "link": "https://www.microsiervos.com/archivo/espacio/falcon-heavy-lanzara-rover-europa-rosalind-franklin.html",
+    "resumen": "Lanzamiento del Europa Clipper a bordo de un Falcon Heavy – NASA La NASA y SpaceX han firmado un contrato que especifica que será un Falcon Heavy el que lance el rover europeo Rosalind Franklin hacia Marte no antes de finales de 2028. Será la primera misión que perfore bajo la superficie de Marte en busca de indicios de vida pasada en el planeta rojo. Esto es una magnífica noticia porque aunque estaba pactado que la NASA iba a poner el lanzador de la misión el año pasado la administración Trump quiso cargarse ese acuerdo dentro de los brutales recortes que quiso imponer al presupuesto de la agencia. Pero el Congreso consiguió limitarlos mucho –aunque básicamente a cambio de cargarse la misión de retorno de muestras de Marte– así que por fin la NASA ha puesto en marcha ROSA, Rosalind Franklin Support and Augmentation, Apoyo y ampliación del proyecto Rosalind Franklin, lo que incluye el lanzamiento de la misión. No antes de finales de 2028 no porque haya dudas de que SpaceX pueda tener un Falcon Heavy a tiempo sino porque la próxima ventana de lanzamiento se abre entonces. Recuerda que la posición relativa de la Tierra y Marte en sus órbitas es adecuada para lanzar misiones hacia allá aproximadamente cada 26 meses. Si no llevo mal las cuentas este es el cuarto cohete que se supone que va a lanzar la misión: Cuando la Agencia Espacial Europea empezó a hablar de lanzar un rover a Marte –lo que quería haber hecho allá por 2009– el lanzador iba a ser un Soyuz. Tras los retrasos correspondientes y ya convertida en la misión ExoMars, el rover tenía que haber despegado en 2018 en un Atlas V de United Launch Alliance. Pero la administración Obama se rajó y el lanzador pasó a ser un Protón ruso, que de hecho lanzó la misión ExoMars 2016 que puso en órbita alrededor de Marte la TGO y estampó contra el suelo el aterrizador Schiaparelli. Aunque problemas con los paracaídas de descenso y la pandemia de covid impidieron lanzar en 2018 y en 2020 y para 2022 la invasión de Ucrania por parte de Rusia dio al traste con la posibilidad de lanzar en un Protón al cortar la ESA relaciones con la agencia espacial rusa; de ahí el Falcon Heavy. Lo de la invasión de Ucrania hizo que Rosalind Franklin se quedara no sólo sin lanzador sino también sin módulo de aterrizaje, que también iba a poner Roscosmos y cuya construcción tuvo que asumir la ESA. De ahí que no se pudiera aprovechar la ventana de lanzamiento de finales de 2024. Y de ahí que ahora se hable de lanzar no antes de finales de 2028 no sólo por la ventana de lanzamiento sino a ver si el aterrizador está listo a tiempo. Impresión artística del aterrizaje de la misión en Marte – Airbus Este lanzamiento será, si sigo sin llevar mal las cuentas, el primero de SpaceX hacia Marte. Y no, el roadster de Elon Musk que lanzó el primer Falcon Heavy no fue lanzado hacia Marte sino que fue colocado en una órbita heliocéntrica que en su punto más alejado está más lejos que Marte, lo que no es lo mismo. Y añade una interesante misión científica más a la cuenta del Falcon Heavy, que ya lanzó la sonda Psyche hacia el asteroide del mismo nombre y el orbitador Europa Clipper hacia la luna homónima de Júpiter y está previsto que lance también el telescopio espacial Nancy Grace Roman y el dron Dragonfly hacia Titán. De todas formas, y dada la volatilidad de Donald Trump, estoy cruzando los dedos de los pies y de las manos para que Rosalind Franklin no se vuelva a quedar sin cohete. Que ya está a vueltas con darle otro hachazo al presupuesto de la NASA. # Enlace Permanente"
+  },
+  {
     "titulo": "Próxima parada: ¡La Estación de la Comedia!",
     "medio": "Yorokobu",
     "fecha": 1776417182.0,
     "link": "https://yorokobu.es/estacion-de-la-comedia/",
     "resumen": "«Viajes, maletas y andenes. Elementos propios en todas las estaciones, pero hoy cogemos otra vía. La del tren con destino Risotas. Hoy, en Callejeros Benjeros: ¡La Estación de la Comedia!». Así presenta el célebre cómico y creador de contenidos Benja Serra un planazo genuino donde los haya: el festival de humor en la Real Fábrica de Tapices de Madrid. Ojo, que dura un día solo, pero ¡vaya día! Sábado, 18 de abril de 2026. ¡Y gratis! El artífice de los vídeos virales que parodia con sorna y juegos de palabras tronchantes aquel exitoso programa de televisión, titulado Callejeros viajeros, forma La entrada Próxima parada: ¡La Estación de la Comedia! se publicó primero en Yorokobu."
+  },
+  {
+    "titulo": "AMS Live, para hacer planespotting (más o menos) en Ámsterdam a través de YouTube",
+    "medio": "Microsiervos",
+    "fecha": 1776358800.0,
+    "link": "https://www.microsiervos.com/archivo/aerotrastorno/ams-live-planespotting-asmterdam-youtube.html",
+    "resumen": "Aunque puede hartar un poco la predominancia del azul KLM lo cierto es que el aeropuerto de Ámsterdam-Schiphol es una especie de atractor irresistible para quienes somos del ramo del aerotrastorno por la enorme variedad de aerolíneas que operan en él. No en vano es el aeropuerto con más movimientos en Europa. Yo mismo he echado unas cuantas horas haciendo planespotting allí, como pueden atestiguar cientos –o miles– de fotos procesadas y definitivamente varios miles de ficheros RAW. Y a falta de estar allí, estoy tirando a enganchado a AMS Live, el canal de YouTube de Boy Randsdorp que de jueves a domingo (por lo general) retransmite parte de la actividad del aeropuerto. Parte porque Schiphol es inabarcable. Suele empezar poco antes de las 10 de la mañana y termina después de las 14. Boy va cambiando de sitio, lo que le da una cierta variedad a su canal. Igual que lo hacen sus comentarios acerca de los aviones que van pasando por delante de su cámara y acerca de la actividad del aeropuerto; se nota que lleva tiempo haciendo planespotting allí. Sus retransmisiones son en abierto y luego las deja en su canal, aunque además sube un clip corto con lo mejor del día como el que está arriba. Aunque si quieres te puedes hacer miembro del canal para tener acceso a algunas salas de char privadas y cosas así. Ojo, que puede resultar adictivo. Relacionado, Guía para fotografiar aviones - Dónde Fotografia de aviones - Cómo OpenAirportMap es una especie de enciclopedia de aeropuertos con detallados mapas y datos abiertos Planespotting de larga exposición Un año de planespotting en Los Ángeles Planespotting desde un helicóptero en Los Angeles Skíathos, la versión europea del aeropuerto de St. Marteen El Aeropuerto Adolfo Suárez Madrid-Barajas estrena mirador para hacer planespotting, AKA fotografiar aviones Un día de planespotting en el aeropuerto de Funchal en Madeira Luchtwachttoren: las torres modulares de hormigón para planespotting de los Países Bajos en la guerra fría Cruce de cables: Planespotting # Enlace Permanente"
   },
   {
     "titulo": "La imagen número uno y el valle del desencanto de la IA",
