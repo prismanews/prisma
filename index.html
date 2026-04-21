@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1776759768">
+    <link rel="stylesheet" href="prisma.css?v=1776765859">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-04-21T08:22:48.263613">Actualizado: 21/04/2026 08:22</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-04-21T10:04:19.492103">Actualizado: 21/04/2026 10:04</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -136,6 +136,7 @@
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
                 <option value="Applesfera">Applesfera</option>
+                <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
@@ -159,8 +160,50 @@
             </select>
         </div>
 
-        <div class="card" data-medios="Xataka,Applesfera,Hipertextual,Europa Press">
-            <h2>En foco: Apple, john y ternus</h2>
+        <div class="card" data-medios="OK Diario,Hipertextual,Applesfera">
+            <h2>Portada: Apple, john y ternus</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/tecnologia/tim-cook-dejara-ser-ceo-apple-john-ternus-tomara-relevo-septiembre-16645241" target="_blank" rel="noopener">Tim Cook dejará de ser CEO de Apple: John Ternus tomará el relevo en septiembre</a></p>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/michael-scott-a-john-ternus-pasando-steve-jobs-todos-ceos-historia-apple" target="_blank" rel="noopener">De Michael Scott a John Ternus pasando por Steve Jobs: todos los CEOs en la historia de Apple</a></p>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/" target="_blank" rel="noopener">Quién es John Ternus, el nuevo CEO de Apple</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 3 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/esto-no-adios-tim-cook-se-desnuda-emocionalmente-su-despedida-como-ceo-apple" target="_blank" rel="noopener">"Esto no es un adiós". Tim Cook se desnuda (emocionalmente) en su despedida como CEO de Apple</a></p>
+
+                    <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/grandes-movimientos-directiva-apple-john-ternus-como-nuevo-ceo-srouji-ocupara-su-puesto" target="_blank" rel="noopener">Grandes movimientos en la directiva de Apple: con John Ternus como nuevo CEO, Srouji ocupará su puesto</a></p>
+
+                    <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/apple/tim-cook-deja-apple-john-ternus-nuevo-ceo/" target="_blank" rel="noopener">Adiós, Tim Cook: Apple elige a su nuevo CEO</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="El País,OK Diario,Europa Press,HuffPost">
+            <h2>Relevante: Irán, guerra y directo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 4 medios · tono equilibrado · 
@@ -181,99 +224,24 @@
                 </div>
             </div>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/michael-scott-a-john-ternus-pasando-steve-jobs-todos-ceos-historia-apple" target="_blank" rel="noopener">De Michael Scott a John Ternus pasando por Steve Jobs: todos los CEOs en la historia de Apple</a></p>
-
-            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/" target="_blank" rel="noopener">Quién es John Ternus, el nuevo CEO de Apple</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/noticia-tim-cook-deja-cargo-ceo-apple-sera-sustituido-john-ternus-20260421003140.html" target="_blank" rel="noopener">Tim Cook deja su cargo como CEO de Apple y será sustituido por John Ternus</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 4 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/esto-no-adios-tim-cook-se-desnuda-emocionalmente-su-despedida-como-ceo-apple" target="_blank" rel="noopener">"Esto no es un adiós". Tim Cook se desnuda (emocionalmente) en su despedida como CEO de Apple</a></p>
-
-                    <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-1/grandes-movimientos-directiva-apple-john-ternus-como-nuevo-ceo-srouji-ocupara-su-puesto" target="_blank" rel="noopener">Grandes movimientos en la directiva de Apple: con John Ternus como nuevo CEO, Srouji ocupará su puesto</a></p>
-
-                    <p><strong>Xataka:</strong> <a href="https://www.xataka.com/empresas-y-economia/fin-era-apple-tim-cook-dejara-cargo-ceo-john-ternus-sera-nuevo-lider" target="_blank" rel="noopener">Fin de una era en Apple: Tim Cook dejará el cargo de CEO y John Ternus será el nuevo líder</a></p>
-
-                    <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/apple/tim-cook-deja-apple-john-ternus-nuevo-ceo/" target="_blank" rel="noopener">Adiós, Tim Cook: Apple elige a su nuevo CEO</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="El Mundo,Europa Press,OK Diario,El País,HuffPost">
-            <h2>Relevante: Irán, guerra y directo</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                5 medios · tono equilibrado · 
-                múltiples perspectivas
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-21/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán está “preparado para responder decisivamente” a cualquier falta estadounidense al alto el fuego</a></p>
-
             <p><strong>OK Diario:</strong> <a href="https://okdiario.com/internacional/guerra-iran-directo-hoy-ultima-hora-del-estrecho-ormuz-posibles-negociaciones-eeuu-ultimas-noticias-trump-16641750" target="_blank" rel="noopener">Guerra de Irán, en directo hoy: última hora del estrecho de Ormuz, posibles negociaciones con EEUU y últimas noticias de Trump</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-21/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html" target="_blank" rel="noopener">Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ormuz y el material nuclear: los asuntos clave que alejan a Irán y EE UU del fin del conflicto</a></p>
 
             <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/global/guerraan-directo-ultima-hora-negociaciones-donald-trump-ataques-eeuu-e-israel-f202604.html" target="_blank" rel="noopener">Guerra en Irán, en directo: última hora de las negociaciones con Donald Trump y los ataques de EEUU e Israel</a></p>
 
             <details class="ver-mas">
-                <summary>+ 3 noticias más</summary>
+                <summary>+ 1 noticias más</summary>
                 <div class="noticias-extra">
 
                     <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-trump-asegura-iran-negociara-pakistan-enfrentara-problemas-nunca-antes-vistos-20260421080039.html" target="_blank" rel="noopener">Trump asegura que Irán negociará en Pakistán o "se enfrentará a problemas nunca antes vistos"</a></p>
-
-                    <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/04/20/69e66fbce9cf4aff1e8b4594.html" target="_blank" rel="noopener">Irán y Estados Unidos se enrocan en la máxima presión antes del fin de la tregua</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-guerra-iran-directo-hoy-ultima-hora-conflicto-eeuu-israel-iran-20260421074448.html" target="_blank" rel="noopener">Guerra Irán | Directo: Irán reitera que no negociará "bajo la amenaza y la fuerza"</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="eldiario.es,Europa Press">
-            <h2>Relevante: Cláusula, antifraude y incluye</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
-                </div>
-            </div>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/comunitat-valenciana/gobierno-incluye-adjudicaciones-vpo-clausula-antifraude-evitar-escandalos-alicante_1_13159050.html" target="_blank" rel="noopener">El Gobierno incluye en las adjudicaciones de VPO una cláusula antifraude "para evitar escándalos como el de Alicante"</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-isabel-rodriguez-avanza-clausula-antifraude-plan-estatal-vivienda-caso-vpo-20260421001141.html" target="_blank" rel="noopener">Isabel Rodríguez avanza una "cláusula antifraude" en el Plan Estatal de Vivienda tras el caso de las VPO</a></p>
-        </div>
-
-        <div class="card" data-medios="El País,Expansión">
-            <h2>Hoy: Amancio, ortega y navantia</h2>
+        <div class="card" data-medios="Europa Press,The Objective">
+            <h2>Relevante: Exsecretaria, ábalos y ministro</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -294,13 +262,291 @@
                 </div>
             </div>
 
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/energia/2026/04/21/69e715bc468aebe5378b4592.html" target="_blank" rel="noopener">Amancio Ortega y Navantia venden Enagás Renovable a Ardian</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/tribunales/2026-04-21/secretaria-abalos-aldama-hidalgo-transportes/" target="_blank" rel="noopener">La exsecretaria de Ábalos revela que Aldama se reunió con Hidalgo y el ministro en Transportes</a></p>
 
-            <p><strong>El País:</strong> <a href="https://cincodias.elpais.com/companias/2026-04-21/enagas-adquiere-el-315-del-operador-frances-terega-y-vende-un-40-de-su-filial-de-renovables.html" target="_blank" rel="noopener">Un fondo de Ardian controlará el 80% de Enagás Renovables, tras el acuerdo con el gestor del gas, Amancio Ortega y Navantia</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/directo/espana/tribunales/2026-04-21/juicio-caso-mascarillas-en-directo-testificales-maroto-correos/" target="_blank" rel="noopener">El juicio del ‘caso mascarillas’, en directo | La exsecretaria de Ábalos: «Jésica viajó en 13 viajes oficiales acompañando al ministro»</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-exsecretaria-abalos-confirma-jessica-fue-13-viajes-oficiales-pagados-koldo-jamas-dinero-publico-20260421112432.html" target="_blank" rel="noopener">La exsecretaria de Ábalos confirma que Jéssica fue a 13 viajes oficiales, pagados por Koldo y "jamás" con dinero público</a></p>
         </div>
 
-        <div class="card" data-medios="El Independiente,La Vanguardia">
-            <h2>Tema: Dónde, barça y estrella</h2>
+        <div class="card" data-medios="El Español,El Mundo,The Objective">
+            <h2>Relevante: Morante, puebla y sale</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/cultura/toros/2026/04/21/69e74294fc6c8337228b45a9.html" target="_blank" rel="noopener">Morante de la Puebla sale de la UCI: "Temía que me hubiera alcanzado las tripas"</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/gente/2026-04-21/ultima-hora-estado-morante-puebla-cornada/" target="_blank" rel="noopener">La última hora sobre el estado de Morante de la Puebla: sale de la UCI y ha tenido «mucho dolor»</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/corazon/famosos/20260421/impactante-fotografia-morante-puebla-camilla-oxigeno-grave-cogida-maestranza/1003744214849_0.html" target="_blank" rel="noopener">La impactante fotografía de Morante de la Puebla, en camilla y con oxígeno, tras su grave cogida en La Maestranza</a></p>
+        </div>
+
+        <div class="card" data-medios="eldiario.es,Europa Press,HuffPost">
+            <h2>Portada: Armengol, diputado y congreso</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/armengol-quiere-mano-dura-evitar-incidentes-protagonizo-diputado-vox-f202604.html" target="_blank" rel="noopener">Armengol quiere mano dura para evitar en el Congreso incidentes como el que protagonizó un diputado de Vox</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/politica/armengol-avisara-diputado-vox-expulsado-semana-pasada-suspenderle-mes_1_13159243.html" target="_blank" rel="noopener">Armengol avisará al diputado de Vox que fue expulsado la semana pasada de que puede suspenderle hasta por un mes</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-armengol-pide-dotar-congreso-mas-instrumentos-actuar-conflictos-provocado-diputado-vox-20260421105652.html" target="_blank" rel="noopener">Armengol pide dotar al Congreso de más instrumentos para actuar ante conflictos como el provocado por el diputado de Vox</a></p>
+        </div>
+
+        <div class="card" data-medios="HuffPost,Europa Press,The Objective">
+            <h2>Portada: Jefe, gabinete y illa</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 48%;"></div>
+                    <div class="barra-conservadora" style="width: 52%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 48%</span>
+                    <span>Conservador 52%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/tribunales/2026-04-21/investigan-jefe-gabinete-illa-causa-contratos-municipales/" target="_blank" rel="noopener">Investigan al jefe de gabinete de Illa en una causa judicial sobre contratos municipales</a></p>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/sociedad/investigan-exalcalde-esparreguera-jefe-gabinete-salvador-illa-causa-judicial-f202604.html" target="_blank" rel="noopener">Investigan al exalcalde de Esparreguera y jefe de gabinete de Salvador Illa en una causa judicial</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/catalunya/noticia-govern-tiene-plena-confianza-jefe-gabinete-illa-investigado-causa-judicial-20260421101848.html" target="_blank" rel="noopener">El Govern tiene "plena confianza" en el jefe de gabinete de Illa, investigado en una causa judicial</a></p>
+        </div>
+
+        <div class="card" data-medios="OK Diario,eldiario.es">
+            <h2>En foco: Fiesta, repetirá y ricardo</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/cool/actualidad/repetira-ricardo-salinas-propia-feria-abril-asi-fue-fiesta-que-monto-ano-pasado-yate-125-millones-16644514" target="_blank" rel="noopener">¿Repetirá Ricardo Salinas su propia Feria de Abril? Así fue la fiesta que montó el año pasado en su yate de 125 millones</a></p>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/spin/paises-vienen-mayoria-rosas-venderan-catalunya-fiesta-sant-jordi-pm_1_13159085.html" target="_blank" rel="noopener">Cuántas y de qué países vienen la mayoría de las rosas que se venderán en Catalunya en la fiesta de Sant Jordi</a></p>
+        </div>
+
+        <div class="card" data-medios="El País,Expansión">
+            <h2>Portada: Hoeps, mercedesbenz y significa</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://cincodias.elpais.com/companias/2026-04-21/reiner-hoeps-mercedes-benz-china-ya-no-significa-barato-tambien-significa-calidad.html" target="_blank" rel="noopener">Reiner Hoeps (Mercedes-Benz): “China ya no significa barato, también significa calidad”</a></p>
+
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/motor/2026/04/21/69e7426b468aeb7c538b458b.html" target="_blank" rel="noopener">Hoeps (Mercedes-Benz): "Los fabricantes chinos no tienen la marca, pero son rivales superpotentes"</a></p>
+        </div>
+
+        <div class="card" data-medios="Europa Press,El Independiente">
+            <h2>Relevante: Moreno, critica y exceso</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
+                </div>
+            </div>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-moreno-critica-literatura-hiperbole-vox-prioridad-nacional-20260421113252.html" target="_blank" rel="noopener">Moreno critica el "exceso de literatura" y la "hipérbole" de Vox con la "prioridad nacional"</a></p>
+
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/2026/04/20/ortega-smith-y-sus-dos-concejales-criticos-demandaran-a-la-cupula-de-vox-por-un-delito-de-vulneracion-de-derechos-fundamentales/" target="_blank" rel="noopener">Ortega Smith y sus dos concejales críticos demandarán a la cúpula de Vox por un delito de vulneración de derechos fundamentales</a></p>
+        </div>
+
+        <div class="card" data-medios="Xataka,El Mundo">
+            <h2>Portada: Apagón, polémicas y medidas</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>Xataka:</strong> <a href="https://www.xataka.com/energia/espana-vs-apagon-polemicas-medidas-que-hemos-blindado-red-ano-despues-colapso" target="_blank" rel="noopener">España vs. el apagón: las polémicas medidas con las que hemos blindado la red un año después del colapso</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/empresas/2026/04/21/69e72cb7e9cf4af8138b4595.html" target="_blank" rel="noopener">Cani Fernández (CNMC): "España nunca estuvo en un vacío normativo. El sistema tenía herramientas para evitar el apagón"</a></p>
+        </div>
+
+        <div class="card" data-medios="El País,HuffPost">
+            <h2>Claves: Madonna, denuncia y robo</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/cultura/madonna-denuncia-robo-prendas-vintage-lucio-coachella-f202604.html" target="_blank" rel="noopener">Madonna denuncia el robo de las prendas 'vintage' que lució en el Coachella y pide una recompensa</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/gente/2026-04-21/madonna-denuncia-el-robo-del-vestuario-que-uso-en-coachella-y-ofrece-una-recompensa-para-recuperarlo-no-es-solo-ropa-es-parte-de-mi-historia.html" target="_blank" rel="noopener">Madonna denuncia el robo del vestuario que usó en Coachella y ofrece una recompensa para recuperarlo: “No es solo ropa, es parte de mi historia”</a></p>
+        </div>
+
+        <div class="card" data-medios="El País,Infolibre">
+            <h2>Portada: Señal, fuerte y israel</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-04-21/albares-la-ue-debe-enviar-una-senal-fuerte-a-israel.html" target="_blank" rel="noopener">Albares insta a la UE a enviar una “señal fuerte” a Israel con la suspensión del acuerdo de asociación</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/internacional/espana-pedira-ue-suspension-total-acuerdo-asociacion-senal-fuerte-israel_1_2180935.html" target="_blank" rel="noopener">España pedirá a la UE la suspensión total del acuerdo de asociación o una "señal fuerte" contra Israel</a></p>
+        </div>
+
+        <div class="card" data-medios="Hipertextual">
+            <h2>En foco: James, gunn y superman</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
+                </div>
+            </div>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/nueva-pelicula-del-universo-dc-de-james-gunn-lanza-primera-imagen-clayface/" target="_blank" rel="noopener">La nueva película del ‘Universo DC’ de James Gunn lanza su primera imagen: no tendrá nada que ver con ‘Superman’</a></p>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/superman-man-of-tomorrow-inicia-rodaje/" target="_blank" rel="noopener">‘Superman: Man of Tomorrow’ inicia su rodaje y James Gunn muestra su nuevo logo con un guiño a Brainiac</a></p>
+        </div>
+
+        <div class="card" data-medios="La Vanguardia,El Independiente">
+            <h2>En foco: Dónde, barça y estrella</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -324,33 +570,6 @@
             <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/comprar/cultura-ocio/20260421/11517875/donde-ver-barca-estrella-roja-dia-hora-decisivo-partido-euroliga-baloncesto-mkt-movi.html" target="_blank" rel="noopener">Dónde ver el Barça - Estrella Roja: los culés se la juegan para seguir vivos en la Euroliga</a></p>
 
             <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/madrid/2026/04/20/derecho-devolucion-tasa-basuras-madrid/" target="_blank" rel="noopener">Estas son las personas que tienen derecho a la devolución de la tasa de basuras en Madrid</a></p>
-        </div>
-
-        <div class="card" data-medios="El Mundo,La Vanguardia">
-            <h2>Relevante: Tiroteo, teotihuacán y identificado</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
-                </div>
-            </div>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/sucesos/20260421/11518769/identificado-autor-tiroteo-teotihuacan-joven-mexicano-27-anos.html" target="_blank" rel="noopener">Identificado el autor del tiroteo de Teotihuacán: un joven mexicano de 27 años</a></p>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/04/20/69e67dafe4d4d884288b45a3.html" target="_blank" rel="noopener">Un hombre mata a una turista canadiense y deja 13 heridos tras un tiroteo en las pirámides de Teotihuacán en México</a></p>
         </div>
 
         <div class="card" data-medios="Infolibre">
@@ -378,33 +597,6 @@
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/club-infolibre/librepensadores/activismo-vecinal-ciutat-vella_129_2179271.html" target="_blank" rel="noopener">Activismo vecinal de Ciutat Vella</a></p>
 
             <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/plaza-publica/activismo-sofa_129_2180328.html" target="_blank" rel="noopener">Activismo de sofá</a></p>
-        </div>
-
-        <div class="card" data-medios="Yorokobu">
-            <h2>En foco: Fill, f5a623st1 y fillrule</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
-                </div>
-            </div>
-
-            <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/entrevista-a-carlos-chaguaceda/" target="_blank" rel="noopener">.st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} El Prado I: El arte de colar a Velázquez en tu ‘feed’</a></p>
-
-            <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/rosalia-cultura-pop/" target="_blank" rel="noopener">.st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} Rosalía entra en el Olimpo: cuando el pop deja de ser espectáculo y se convierte en institución cultural</a></p>
         </div>
 
         <div class="cta-section">
