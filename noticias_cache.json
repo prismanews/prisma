@@ -1,24 +1,423 @@
 [
   {
+    "titulo": "Cox compra por 4.000 millones el negocio de Iberdrola en México, que sale del país",
+    "medio": "OK Diario",
+    "fecha": 1777059055.0,
+    "link": "https://okdiario.com/economia/empresas/cox-compra-4-000-millones-negocio-iberdrola-mexico-que-sale-del-pais-16672789",
+    "resumen": "El grupo Cox ha obtenido el negocio de Iberdrola en México por 4.000 millones de dólares, 3.643 millones de euros. De esta forma, la energética pone fin a su presencia en el país. La transacción se ha ejecutado en línea con lo anunciado al mercado en julio de 2025. Con esta adquisición, Cox incorpora una … Continuar leyendo \"Cox compra por 4.000 millones el negocio de Iberdrola en México, que sale del país\""
+  },
+  {
+    "titulo": "Jannik Sinner, sobre la lesión de Carlos Alcaraz: «El tenis es mucho mejor con él»",
+    "medio": "The Objective",
+    "fecha": 1777058837.0,
+    "link": "https://theobjective.com/deportes/2026-04-24/jannik-sinner-tenis-alcaraz-mejor/",
+    "resumen": "El tenista italiano Jannik Sinner ha comentado este viernes que el tenis «necesita a Carlos Alcaraz» porque es «mucho mejor» cuando el español está presente, y […]"
+  },
+  {
+    "titulo": "Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»",
+    "medio": "OK Diario",
+    "fecha": 1777058802.0,
+    "link": "https://okdiario.com/espana/guardiola-proclama-que-pacto-pp-vox-extremadura-garantiza-gobierno-sensatez-verdad-16673358",
+    "resumen": "María Guardiola ha tomado posesión de su cargo como presidenta de la Junta de Extremadura este viernes, en el Anfiteatro de Mérida. La líder popular ha defendido el pacto alcanzado entre el PP y Vox para formar gobierno en la comunidad. «Extremadura merece una política con sentido, verdad, transparencia y sensatez», ha dicho Guardiola. La … Continuar leyendo \"Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»\""
+  },
+  {
+    "titulo": "María Guardiola pide dejar atrás los bandos y la confrontación y apostar por el diálogo para su nueva legislatura",
+    "medio": "El Mundo",
+    "fecha": 1777058672.0,
+    "link": "https://www.elmundo.es/espana/extremadura/2026/04/24/69eba0f5e85eceee178b456e.html",
+    "resumen": "La nueva presidenta de la Junta de Extremadura ha subrayado que este nuevo gobierno de coalición no será el de los míos frente a los tuyos\" y que \"Extremadura está cansada de tensiones y de bloqueos\". Leer"
+  },
+  {
+    "titulo": "Rafa Jódar ilumina Madrid: se agiganta para sorprender a De Miñaur y avanza de ronda",
+    "medio": "OK Diario",
+    "fecha": 1777058611.0,
+    "link": "https://okdiario.com/deportes/rafa-jodar-ilumina-madrid-agiganta-sorprender-minaur-avanza-ronda-16673516",
+    "resumen": "Grita Rafa Jódar. Brama con fuerza para júbilo de una Manolo Santana entregada al grito de guerra de las últimas décadas. «¡Vamos, Rafa!». Celebra Jódar un triunfo (6-3, 6-1) de esos que recordará siempre. En Madrid, su ciudad natal, y ante De Miñaur, la octava mejor raqueta del mundo. Acaba el australiano con cara de … Continuar leyendo \"Rafa Jódar ilumina Madrid: se agiganta para sorprender a De Miñaur y avanza de ronda\""
+  },
+  {
+    "titulo": "Siria arresta al 'Carnicero de Al Tadamon', sospechoso de una masacre de 500 civiles en 2013 bajo el régimen de Al Assad",
+    "medio": "El Español",
+    "fecha": 1777058505.0,
+    "link": "https://www.elespanol.com/mundo/asia/20260424/siria-arresta-carnicero-tadamon-sospechoso-masacre-civiles-regimen-assad/1003744221611_0.html",
+    "resumen": "Amjad Yusef es un exoficial de la Inteligencia Militar y está acusado de dirigir una matanza considerada como una de las mayores evidencias de crímenes de guerra durante el conflicto.Más información: El régimen de Al Asad trasladó miles de cadáveres a una fosa común en el desierto para ocultar crímenes de guerra"
+  },
+  {
+    "titulo": "Guardiola carga en su toma de posesión contra \"los muros\" y garantiza con el 'corazón' que habrá \"derechos sin vaivenes\"",
+    "medio": "El Español",
+    "fecha": 1777058315.0,
+    "link": "https://www.elespanol.com/espana/politica/20260424/guardiola-carga-toma-posesion-muros-garantiza-corazon-derechos-sin-vaivenes/1003744221573_0.html",
+    "resumen": "\"Los servicios públicos, el bienestar, y la vida de las personas van a ser la máxima prioridad del gobierno de la Junta. Y eso no es negociable. No es matizable\", ha dicho.Más información: Guardiola defiende su pacto con Vox: \"Sé que ha creado ruido pero lean el acuerdo palabra por palabra\""
+  },
+  {
+    "titulo": "Trump quiere expulsar a España de la OTAN: un profesor de Relaciones Internacionales reacciona demoledor",
+    "medio": "HuffPost",
+    "fecha": 1777057873.0,
+    "link": "https://www.huffingtonpost.es/virales/trump-quiere-expulsar-espana-otan-profesor-rrii-le-da-vuelta-tortilla-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Gobierno pone en marcha la agencia estatal para «evaluar políticas públicas»",
+    "medio": "The Objective",
+    "fecha": 1777057793.0,
+    "link": "https://theobjective.com/espana/politica/2026-04-24/gobierno-pone-marcha-agencia-estatal-evaluar-politicas-publicas/",
+    "resumen": "El Gobierno ha puesto en marcha este viernes la Agencia Estatal de Evaluación de Políticas Públicas (Aeval), con la que busca «mejorar y modernizar» el diseño […]"
+  },
+  {
+    "titulo": "Cox cierra la compra de Iberdrola México",
+    "medio": "Expansión",
+    "fecha": 1777057705.0,
+    "link": "https://www.expansion.com/empresas/energia/2026/04/24/69ebbfa5e5fdea78608b459c.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",
+    "medio": "HuffPost",
+    "fecha": 1777057588.0,
+    "link": "https://www.huffingtonpost.es/global/espana-eeuu-alemania-japon-reino-unido-otros-cinco-paises-coinciden-hackers-chinos-routers-frigorificos-inteligentes-hogares-atacar-infraestructuras-occidentales-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está \"nacionalizando\" la IA",
+    "medio": "Xataka",
+    "fecha": 1777057312.0,
+    "link": "https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia",
+    "resumen": "El caso de Manus parece que ha plantado una semilla en cómo China va a gestionar su talento de IA. Y es que Pekín le ha dado otro toque de atención a otra empresa de inteligencia artificial, MiroMind, para que no mueva ni investigadores ni propiedad intelectual fuera de sus fronteras. Si bien China no prohíbe exportar chips como hace Estados Unidos, sí parece estar prohibiendo exportar cerebros. Y con ello está construyendo, a la fuerza, un ecosistema de IA propio y con grandes barricadas. Lo de Manus. En enero de 2025, la startup Manus, nacida en Wuhan, reubicada en Singapur y vendida a Meta por 2.000 millones de dólares, parecía haber ejecutado el movimiento perfecto: salir de China, acceder a capital occidental y completar una de las operaciones que más han dado de qué hablar en terreno IA. Tras el lío, Pekín actúo vetándole la salida del país a sus cofundadores mientras investigaban si la operación había incumplido alguna normativa de exportación. Para el resto de startups el mensaje ha calado hondo. En Xataka DeepSeek acaba de lanzar un modelo que compite con Opus 4.6. Cuesta siete veces menos y funciona en chips chinos Lo que ha pasado con MiroMind. Según ha publicado The Washington Post, las autoridades chinas advirtieron directamente a MiroMind, una startup especializada en razonamiento avanzado con sede declarada en Redwood City, California, y Singapur, que no trasladara talento ni investigación al extranjero. Gran parte del trabajo inicial de la empresa se había desarrollado en China, y su científico jefe era hasta hace poco Jifeng Dai, un reputado investigador de la Universidad de Tsinghua que antes había liderado proyectos en SenseTime, una empresa de software de IA parcialmente estatal. Según declaró el propio Dai al Washington Post, dejó MiroMind precisamente porque la empresa le pidió que se reubicara fuera de China, algo que no estaba dispuesto a aceptar. A día de hoy, MiroMind no tiene empleados en China, aunque la mayoría de su plantilla sigue siendo de nacionalidad china y trabaja en ese idioma desde Singapur. El modelo que ya no funciona. Durante años, muchas startups chinas han optado por constituir la empresa legalmente en Singapur, contratar a un puñado de empleados locales y seguir operando desde China. El mismísimo ‘ Singapore washing’, que es como se le conoce coloquialmente a esta operación en el sector. El caso Manus ha dejado claro que eso ya no es suficiente. Matthias Hendrichs, asesor de empresas de IA en Singapur, explicaba a la CNBC que para que la operación sea real y no un parapeto, \"todo el equipo tiene que reubicarse, la base de clientes debe trasladarse y los primeros inversores chinos generalmente tienen que salir de sus posiciones\". “El lugar donde se desarrolla el producto es más importante que el lugar donde está registrada la sociedad matriz,” explicaba también al medio Yuan Cao, abogado. La estrategia de Pekín. Lo que está haciendo China no tiene un equivalente directo con lo que hace Estados Unidos. Washington controla la exportación de chips y tecnología de fabricación de semiconductores. Pekín, en cambio, está controlando la exportación de talento e investigación. No impide que sus empresas se internacionalicen (de hecho, las anima a expandirse globalmente) pero sí traza una línea roja: no puedes llevarte tu ADN tecnológico. El resultado es un intento de construir un ecosistema de IA autosuficiente que no sangre hacia Occidente. Que eso lo fortalece por concentración o lo debilita por aislamiento es todavía una pregunta abierta. En Xataka Diferenciar la realidad de la IA es cada vez más difícil. Y eso son buenas noticias para los depredadores sexuales Singapur en el ojo del huracán. La ciudad-estado, que lleva años actuando como puente entre Oriente y Occidente, empieza a verse atrapada en el fuego cruzado. Según recoge Reuters, cada vez más empresas la eligen no para conectar con ambos bloques, sino para alejarse de los dos. Pero ese papel de zona gris también tiene sus riesgos. Chong Ja Ian, politólogo de la Universidad Nacional de Singapur, explicaba al medio que si Singapur sigue siendo percibida como un espacio donde se producen transferencias tecnológicas que ninguno de los dos grandes bloques quiere que ocurran, \"podría acabar con restricciones impuestas sobre ella\". Y ahora qué. Los fundadores de startups chinas se enfrentan a una disyuntiva con una sombra cada vez mayor: o construyen su empresa desde el primer día fuera de China, renunciando a las ventajas del ecosistema local (subvenciones, ingenieros baratos, mercado doméstico), o asumen que Pekín puede llamar a la puerta y reclamar su trabajo en cualquier momento. \"El camino de Manus es uno por el que la gente ya no va a transitar\", contaba Wayne Shiong, socio de Argo Venture Partners, a CNBC. La fractura tecnológica global se profundiza. Dos ‘internets’, dos cadenas de suministro de chips, dos ecosistemas de IA. Y ahora, también, dos mercados de talento que Pekín y Washington están decididos a mantener separados. Imagen de portada | Unsplash (aboodi vesakaran, Arif Riyanto) En Xataka | \"El 70% del trabajo fueron tres días\": Mercadona ha creado su propio buscador interno con Claude Code tras años pensando en cómo hacerlo - La noticia China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está \"nacionalizando\" la IA fue publicada originalmente en Xataka por Antonio Vallejo ."
+  },
+  {
+    "titulo": "Llegan a Zara y Sfera cinco faldas largas pura tendencia en primavera 2026 que estilizan y rejuvenecen",
+    "medio": "Trendencias",
+    "fecha": 1777057312.0,
+    "link": "https://www.trendencias.com/shopping/llegan-a-zara-sfera-cinco-faldas-largas-pura-tendencia-primavera-2026-que-estilizan-rejuvenecen",
+    "resumen": "Con la llegada del buen tiempo, hemos sustituido a los pantalones -todos excepto los de lino- por unas faldas largas pura tendencia esta primavera 2026 que estilizan y rejuvenecen. A Zara y Sfera han llegado varios modelos que parecen de lujo y son muy elegantes. Son un must para llevar con sandalias de plataforma o alpargatas. Cinco faldas largas de Zara y Sfera Esta falda en tono marrón chocolate apuesta por la elegancia. Tiene un forro interior y unos bordados al tono. Una opción sofisticada con corte midi que podemos llevar con unas sandalias de tacón o unos salones cómodos. El talle es alto y el diseño evasé pura tendencia. El precio en la web oficial de Zara es 39,95 euros. Esta falda en tono mostaza es muy alegre y será la protagonista de todos los looks diarios. Es de tiro medio y cuenta con un forro interior que combina al tono. Tiene un corte midi y su diseño es muy sencillo. Queda genial tanto con una camiseta básica en un look informal o con una blusa más sofisticada. El precio en la web oficial de Zara es 39,95 euros. Los cuadros viven su mejor momento y esta falda es el mejor ejemplo. Una opción con cintura elástica ajustable con cordones. Cuenta con una silueta evasé híper cómoda y favorecedora. Un modelo que llevaremos sin parar de lunes a domingo. El precio en la web oficial de Zara es 29,95 euros. Esta falda de encaje en tono azul cielo es pura tendencia y cuenta con un diseño muy romántico. Una opción con cintura elástica y un forro interior. Tiene un bajo asimétrico y el corte es midi. Una elección que podemos completar con un top del mismo tono en un conjunto monocolor sofisticado. El precio en la web oficial de Zara es 29,95 euros. Esta falda estampada ha llegado a Sfera y es un modelo elegante y vibrante. Una opción con un corte midi que podemos llevar con unas sandalias planas o unas bailarinas cualquier día de la semana. Tiene un pespunte en la abertura central y es fácil de lucirla. El precio en la web oficial de El Corte Inglés es 25,99 euros. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos |El Corte Inglés, Zara, @annabelrosendahl En Trendencias |Cómo comprar los vaqueros perfectos: guía práctica para acertar con la talla en diferentes marcas - La noticia Llegan a Zara y Sfera cinco faldas largas pura tendencia en primavera 2026 que estilizan y rejuvenecen fue publicada originalmente en Trendencias por Laura Beneyto ."
+  },
+  {
+    "titulo": "Cuponazo de la ONCE hoy | Comprobar resultados del sorteo del viernes 24 de abril",
+    "medio": "El Español",
+    "fecha": 1777057260.0,
+    "link": "https://www.elespanol.com/loterias/20260424/cuponazo-once-hoy-comprobar-resultados-sorteo-viernes-24-abril/1003744221485_10.html",
+    "resumen": "El Cuponazo de la ONCE ofrece todos los viernes un premio a las cinco cifras y serie de 6 millones de euros y 134 premios de 40.000 euros a las 5 cifras del número premiado.Lotería Nacional, en directo | Comprobar resultados del sorteo del jueves 23 de abril"
+  },
+  {
+    "titulo": "Atlético de Madrid – Athletic Club: horario y cómo ver por TV en directo y en vivo online gratis el partido de la Liga",
+    "medio": "OK Diario",
+    "fecha": 1777057236.0,
+    "link": "https://okdiario.com/deportes/atletico-madrid-athletic-club-horario-como-ver-tv-directo-vivo-online-gratis-partido-liga-video-16668465",
+    "resumen": "El Atlético de Madrid y el Athletic Club van a protagonizar un auténtico partidazo en el Metropolitano, ya que siempre que estos dos conjuntos se miden sobre el terreno de juego podemos esperar goles y polémicas. En esta jornada 32 de la Liga veremos qué hacen ambos equipos, que, sin duda, intentarán llevarse los tres … Continuar leyendo \"Atlético de Madrid – Athletic Club: horario y cómo ver por TV en directo y en vivo online gratis el partido de la Liga\""
+  },
+  {
+    "titulo": "No es solo belleza, es industria: la potencia de la cosmética y la perfumería españolas, que exportan más que el vino y el aceite",
+    "medio": "HuffPost",
+    "fecha": 1777057208.0,
+    "link": "https://www.huffingtonpost.es/life/moda/no-es-solo-belleza-es-industria-la-potencia-de-la-cosmetica-y-la-perfumeria-que-exportan-mas-que-el-vino-y-el-aceite-f202604.html",
+    "resumen": ""
+  },
+  {
     "titulo": "Guerra de Irán, última hora en directo: alto al fuego, declaraciones de Trump, situación en el estrecho de Ormuz y noticias de la OTAN en vivo",
     "medio": "OK Diario",
-    "fecha": 1777052037.0,
+    "fecha": 1777056837.0,
     "link": "https://okdiario.com/internacional/ultima-hora-guerra-iran-directo-hoy-alto-fuego-posibles-negociaciones-trump-noticias-del-estrecho-ormuz-16656126",
     "resumen": "Sigue en directo en OKDIARIO la evolución del alto el fuego entre Estados Unidos, Israel e Irán, cuya vigencia expiraba este miércoles, pero que finalmente ha sido prorrogado de forma indefinida en las últimas horas. El presidente de Estados Unidos, Donald Trump, ha anunciado la extensión del cese de bombardeos, una decisión que, según ha … Continuar leyendo \"Guerra de Irán, última hora en directo: alto al fuego, declaraciones de Trump, situación en el estrecho de Ormuz y noticias de la OTAN en vivo\""
   },
   {
-    "titulo": "Elecciones municipales el sábado en Palestina: Gaza celebrará su primera votación en 20 años",
-    "medio": "The Objective",
-    "fecha": 1777051938.0,
-    "link": "https://theobjective.com/internacional/2026-04-24/palestina-sabado-municipales-gaza-dos-decadas/",
-    "resumen": "Palestina celebrará este sábado unas elecciones en las que estarán en liza los puestos en los consejos locales, una votación que, en el caso de la […]"
+    "titulo": "Francia investiga si un secador de pelo manipuló los sensores del aeropuerto de París para hacer ganar 34.000 dólares a apostadores de Polymarket",
+    "medio": "HuffPost",
+    "fecha": 1777056678.0,
+    "link": "https://www.huffingtonpost.es/sociedad/francia-investiga-secador-pelo-manipulo-sensores-aeropuerto-paris-ganar-34000-dolares-apostadores-polymarket-f202604.html",
+    "resumen": ""
   },
   {
-    "titulo": "Fran Rivera rompe el silencio sobre el estado de salud de Roca Rey: «Se ha jugado la vida sin trampa ni cartón»",
+    "titulo": "Trump envía a Pakistán a sus dos principales negociadores para retomar el diálogo con Teherán",
+    "medio": "El País",
+    "fecha": 1777056651.0,
+    "link": "https://elpais.com/internacional/2026-04-24/trump-envia-a-pakistan-a-sus-dos-principales-negociadores-para-retomar-el-dialogo-con-teheran.html",
+    "resumen": "Jared Kushner y Steve Witkoff se verán con el ministro de Exteriores iraní en la segunda ronda de diálogo para poner fin a la guerra"
+  },
+  {
+    "titulo": "Guardiola toma posesión: «Los derechos no van a estar sometidos a ningún vaivén político»",
+    "medio": "The Objective",
+    "fecha": 1777056393.0,
+    "link": "https://theobjective.com/espana/politica/2026-04-24/maria-guardiola-servicios-publicos-dialogo-posesion/",
+    "resumen": "La presidenta de la Junta de Extremadura, María Guardiola, ha comprometido en su toma de posesión en el cargo, celebrada esta tarde en el Anfiteatro Romano […]"
+  },
+  {
+    "titulo": "¿Qué chip usará el Galaxy S27 Ultra? El gran cambio de Samsung aún se haría esperar",
+    "medio": "Hipertextual",
+    "fecha": 1777056300.0,
+    "link": "https://hipertextual.com/mobile/chip-samsung-galaxy-s27-ultra-exynos-snapdragon/",
+    "resumen": "El Galaxy S26 Ultra lleva apenas un puñado de meses en el mercado, pero los rumores sobre su sucesor no se han hecho esperar. El más reciente se vincula con el chip que usaría el Galaxy S27 Ultra, que, si bien todavía su existencia no se hizo pública, implicaría que el gran cambio de Samsung […] Seguir leyendo: ¿Qué chip usará el Galaxy S27 Ultra? El gran cambio de Samsung aún se haría esperar"
+  },
+  {
+    "titulo": "Trump reintroduce el pelotón de fusilamiento en las ejecuciones federales",
+    "medio": "El País",
+    "fecha": 1777056291.0,
+    "link": "https://elpais.com/internacional/2026-04-24/trump-reintroduce-el-peloton-de-fusilamiento-en-las-ejecuciones-federales.html",
+    "resumen": "El Departamento de Justicia quiere ampliar la aplicación de la pena capital y también vuelve a aceptar el protocolo de inyecciones letales"
+  },
+  {
+    "titulo": "Dudas con Lamine Yamal",
     "medio": "OK Diario",
-    "fecha": 1777051901.0,
-    "link": "https://okdiario.com/cool/fran-rivera-rompe-silencio-sobre-estado-salud-roca-rey-jugado-vida-sin-trampa-ni-carton-16672743",
-    "resumen": "El torero Andrés Roca Rey atraviesa uno de los momentos más delicados de su carrera tras la grave cogida sufrida en la plaza de Sevilla. El diestro peruano, actual pareja de Cayetana Rivera, resultó herido con dos trayectorias de hasta 35 centímetros en el muslo derecho, en un percance que ha marcado una de las … Continuar leyendo \"Fran Rivera rompe el silencio sobre el estado de salud de Roca Rey: «Se ha jugado la vida sin trampa ni cartón»\""
+    "fecha": 1777056135.0,
+    "link": "https://okdiario.com/deportes/dudas-lamine-yamal-16673260",
+    "resumen": "Marcos López analiza en su sección OKSCOUTING la baja de Lamine Yamal. El jugador del Barcelona no volverá a jugar con los azulgranas en lo que resta de temporada. Se espera que esté para el Mundial y el analista futbolístico explica cómo sobrevivir a la ausencia del jugador español."
+  },
+  {
+    "titulo": "Delcy Rodríguez y Petro estrechan lazos en la primera visita a Caracas tras la caída de Maduro",
+    "medio": "The Objective",
+    "fecha": 1777055984.0,
+    "link": "https://theobjective.com/internacional/2026-04-24/delcy-rodriguez-gustavo-petro-venezuela-seguridad/",
+    "resumen": "El presidente de Colombia, Gustavo Petro, llegó este viernes al palacio presidencial de Miraflores en su primera visita a Venezuela desde la captura en enero pasado […]"
+  },
+  {
+    "titulo": "El Pentágono dará a Trump \"opciones creíbles\" para responder a la inacción de países de la OTAN en la ofensiva en Irán",
+    "medio": "Europa Press",
+    "fecha": 1777055878.0,
+    "link": "https://www.europapress.es/internacional/noticia-pentagono-dara-trump-opciones-creibles-responder-inaccion-paises-otan-ofensiva-iran-20260424203758.html",
+    "resumen": "El Pentágono ha asegurado este viernes que dará al presidente de Estados Unidos, Donald Trump, \"opciones creíbles\" para responder ante lo que Washington describe como una inacción de sus aliados en el seno de la OTAN durante la ofensiva contra Irán, tras las informaciones que apuntan a un supuesto correo del Departamento de Estado en el que se pone sobre la mesa una posible suspensión de España en el seno de la Alianza."
+  },
+  {
+    "titulo": "Guardiola, en la toma de posesión: “Hago un llamamiento a la moderación”",
+    "medio": "La Vanguardia",
+    "fecha": 1777055767.0,
+    "link": "https://www.lavanguardia.com/politica/20260424/11522222/guardiola-toma-posesion-llamamiento-moderacion-conversacion-pausada.html",
+    "resumen": "La presidenta de la Junta de Extremadura avisa que la “ciudadanía está muy cansada del ruido”"
+  },
+  {
+    "titulo": "Google planea invertir hasta 40.000 millones de dólares en Anthropic",
+    "medio": "Expansión",
+    "fecha": 1777055762.0,
+    "link": "https://www.expansion.com/empresas/tecnologia/2026/04/24/69ebb754e5fdeaee2b8b45a5.html",
+    "resumen": "El gigante estadounidense Google planea invertir hasta 40.000 millones de dólares adicionales (34.150 millones de euros) en Anthropic. Leer"
+  },
+  {
+    "titulo": "Meta despide a 8.000 empleados y Microsoft ofrece la prejubilación a más de 8.000 el mismo día: la IA sustituye a los trabajadores mientras las dos empresas gastarán 235.000 millones en ella",
+    "medio": "HuffPost",
+    "fecha": 1777055700.0,
+    "link": "https://www.huffingtonpost.es/tecnologia/meta-despide-8000-empleados-microsoft-ofrece-prejubilacion-mas-8000-dia-ia-sustituye-trabajadores-dos-empresas-gastaran-235000-millones-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Hay un producto preparado para que dejemos de sacar el móvil del bolsillo. Las gafas: Crossover 1x44",
+    "medio": "Xataka",
+    "fecha": 1777055512.0,
+    "link": "https://www.xataka.com/crossover/hay-producto-preparado-dejemos-sacar-movil-bolsillo-gafas-crossover-1x44",
+    "resumen": "Al móvil llevamos años queriéndole buscar sustituto. Creíamos que los relojes inteligentes podían ser una buena alternativa, pero en realidad han acabado convirtiéndose en un útil complemento, sin más. Sin embargo con las gafas inteligentes y conectadas las cosas prometen cambiar, sobre todo porque se trata de un producto con un formato muy llamativo, unas prestaciones que pueden ser realmente notables y un estado actual que promete mucho a corto plazo. En Xataka Tras los móviles, los coches, los robots y la IA, llega la próxima gran avalancha tecnológica de China: las gafas La pregunta es si unas gafas pueden procesar todo lo que pueden hacer hoy en día los smartphones. Puede que no estén preparadas para nuestro consumo actual de vídeo o redes —ahí la pantalla táctil del móvil sigue ganando de momento— pero sus posibilidades en cuanto a interacción de voz y visual con la IA son muy interesantes. Hay aquí un primer reto claro con la privacidad. Ya vimos cómo las Google Glass no pudieron luchar contra ese estigma, y las suspicacias han seguido apareciendo con las gafas Ray-Ban Meta. El otro, el de la miniaturización: ¿podrá la tecnología llegar a integrar todo lo necesario en estas gafas de apenas 50 gramos para lograr que la expeiencia y las prestaciones logren su resultado? Lo que hemos visto parece apuntar a que sí —los fabricantes chinos están sorprendiendo mucho en este terreno—, pero habrá que ver cómo avanza rápido. De todo ello hablamos en este nuevo episodio de Crossover, así que esperamos que lo disfutéis y os resulte interesante. En YouTube | Crossover En Xataka | Acudir a una oposición con unas gafas IA y aprobarla haciendo trampas ya es posible. Y Valencia quiere evitarlo - La noticia Hay un producto preparado para que dejemos de sacar el móvil del bolsillo. Las gafas: Crossover 1x44 fue publicada originalmente en Xataka por Javier Pastor ."
+  },
+  {
+    "titulo": "Betis - Real Madrid, fútbol hoy en directo La Liga: resultado, goleadores y estadísticas con el partido de La Liga",
+    "medio": "El Español",
+    "fecha": 1777055400.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260424/betis-real-madrid-futbol-hoy-directo-liga-resultado-goleadores-estadisticas-partido/1003744221164_22.html",
+    "resumen": "Betis y Real Madrid llegan al encuentro con escaso margen de error. En pleno final de temporada, ambos conjuntos están obligados a contar sus partidos por victorias para apurar las opciones de alcanzar los objetivos."
+  },
+  {
+    "titulo": "«El que pite el himno de España que no juegue la Copa»",
+    "medio": "OK Diario",
+    "fecha": 1777055384.0,
+    "link": "https://okdiario.com/deportes/que-pite-himno-espana-que-no-juegue-copa-16673135",
+    "resumen": "Pipi Estrada dio sus notas de la semana y quiso ser muy claro suspendiendo a aquellos que en la última final de la Copa del Rey decidieron pitar el himno de España. El periodista asturiano tiene claro que los simpatizantes del equipo que pite el himno sean sancionados con su no participación en el torneo … Continuar leyendo \"«El que pite el himno de España que no juegue la Copa»\""
+  },
+  {
+    "titulo": "El trinitario Diler paseaba con su novia por Vallecas cuando un ñeta en patinete le asestó al menos dos puñaladas y lo mató",
+    "medio": "El Español",
+    "fecha": 1777055369.0,
+    "link": "https://www.elespanol.com/madrid/sociedad/20260424/trinitario-diler-paseaba-novia-vallecas-neta-patinete-asesto-punaladas-mato/1003744221556_0.html",
+    "resumen": "El 30 de marzo de 2025 un joven de 27 también falleció siguiendo un modus operandi similar en la Avenida de la Albufera. Más información: La Policía busca al autor de la muerte de un joven de 17 años en Puente de Vallecas: le asestó dos puñaladas por la espalda"
+  },
+  {
+    "titulo": "Roca Rey abandona la uci y está fuera de peligro tras la dramática cornada en Sevilla",
+    "medio": "La Vanguardia",
+    "fecha": 1777054957.0,
+    "link": "https://www.lavanguardia.com/vida/20260424/11522217/roca-rey-abandona-uci-esta-fuera-peligro-dramatica-cornada-sevilla.html",
+    "resumen": "Francisco Rivera, padre de la novia del diestro, acudió al hospital donde comparó el percance con el que le segó la vida a su padre, Paquirri"
+  },
+  {
+    "titulo": "Carlos Alcaraz no competirá en Roland Garros por su lesión en la muñeca derecha",
+    "medio": "El Mundo",
+    "fecha": 1777054913.0,
+    "link": "https://www.elmundo.es/deportes/tenis/2026/04/24/69eb909dfc6c83cf788b4596.html",
+    "resumen": "Después de las últimas pruebas, el número dos del mundo descarta su participación en toda la gira de tierra batida y no se pone una fecha de regreso Leer"
+  },
+  {
+    "titulo": "El juez reclama los movimientos bancarios de Montoro y su entorno de los últimos 20 años",
+    "medio": "The Objective",
+    "fecha": 1777054844.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-04-24/juez-movimientos-bancarios-montoro-entorno-ultimos-20-anos/",
+    "resumen": "El titular del Juzgado de Instrucción número 2 de Tarragona, Rubén Rus Vela, ha dictado un auto en el que autoriza el rastreo de los movimientos […]"
+  },
+  {
+    "titulo": "Lula se somete a una intervención médica para extirparle un carcinoma en la cabeza",
+    "medio": "The Objective",
+    "fecha": 1777054834.0,
+    "link": "https://theobjective.com/internacional/2026-04-24/lula-intervencion-medica-retirarle-carcinoma/",
+    "resumen": "El presidente de Brasil, Luiz Inácio Lula da Silva, se ha sometido este viernes a una intervención médica para retirarle un carcinoma en la cabeza, que […]"
+  },
+  {
+    "titulo": "Àngel Llàcer: su edad, su pareja actual y la enfermedad que casi acaba con su vida",
+    "medio": "OK Diario",
+    "fecha": 1777054807.0,
+    "link": "https://okdiario.com/happyfm/angel-llacer-edad-pareja-enfermedad-que-casi-acaba-vida-14273513",
+    "resumen": "La parrilla televisiva española nos ha presentado, a lo largo de los años, a muchos rostros que han marcado de una manera o de otra los programas de la televisión. Uno de ellos, indiscutiblemente, es Àngel Llàcer. Pues, el catalán se ha convertido en una de las figuras más habituales e indispensables de Tu cara … Continuar leyendo \"Àngel Llàcer: su edad, su pareja actual y la enfermedad que casi acaba con su vida\""
+  },
+  {
+    "titulo": "Séneca, filósofo estoico: \"Cuenta los días de tu vida, y verás cuán pocos y desechados han sido los que has tenido para ti\"",
+    "medio": "HuffPost",
+    "fecha": 1777054800.0,
+    "link": "https://www.huffingtonpost.es/sociedad/seneca-filosofo-estoico-cuenta-dias-vida-veras-pocos-desechados-han-sido-has-tenido-ti-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Hoy llega a Prime Video la serie sobre un videoclub porno con la que Amazon quiere establecer su propia 'Machos Alfa'",
+    "medio": "Xataka",
+    "fecha": 1777054552.0,
+    "link": "https://www.xataka.com/streaming/hoy-llega-a-prime-video-serie-videoclub-porno-que-amazon-quiere-establecer-su-propia-machos-alfa",
+    "resumen": "Nines es ama de casa, conservadora, y en 1998 acaba de quedarse sola al frente de un videoclub en quiebra en Valladolid. La solución que encuentra, el porno, es el punto de partida de 'Cochinas', la nueva serie original de Prime Video que se estrena hoy en la plataforma y cuyo enfoque y estilo recuerda al exitazo de Netflix 'Machos alfa'. La premisa podría sonar a comedia provocadora de temporada, pero la serie se lleva hablando de ella desde que se presentó en el Festival de Málaga. La historia arranca cuando esta mujer interpretada por Malena Alterio hereda de su marido en coma un negocio que está en números rojos. Para pagar las facturas decide especializarse en el único género que da dinero, el porno, lo que le cambia la vida y desencadena un terremoto social entre las vecinas del barrio. Con la ayuda de la deslenguada empleada del videoclub y un cliente habitual y cinéfilo empedernido, transforma la vida de la ciudad. Carlos del Hoyo, creador de la serie, lo es también junto a Abril Zamora de 'Señoras del Hampa', donde empezó a experimentar con el humor negro, la comedia de situación y los personajes femeninos con carácter. 'Cochinas' se estrenará simultáneamente en más de 240 países, como parte de la estrategia de Prime Video de difundir sus ficciones españolas, ya que las cifras son muy prometedoras: gracias a producciones como 'Culpa mía' o 'Reina roja', tres de los diez títulos españoles más vistos de 2023 recibieron el 80% de sus reproducciones fuera de España. En Xataka Hoy llega el estreno más importante de Netflix de esta semana, un thriller psicológico rebosante de acción con Charlize Theron La pregunta con 'Cochinas' es si una comedia tan específicamente arraigada en la geografía, el lenguaje y los tabúes de la España profunda puede funcionar con esa misma lógica de exportación. La respuesta la tendremos en las próximas semanas pero de momento, es una más en el amplio catálogo de Amazon: desde que Prime Video lanzó su primera serie original española en 2018, 'Pequeñas coincidencias', el streamer ha estrenado más de treinta producciones propias de distintos géneros. En Xataka | Hoy se estrena en Netflix el spin-off animado de la única franquicia potente de la plataforma: 'Stranger Things' - La noticia Hoy llega a Prime Video la serie sobre un videoclub porno con la que Amazon quiere establecer su propia 'Machos Alfa' fue publicada originalmente en Xataka por John Tones ."
+  },
+  {
+    "titulo": "EEUU reanuda las negociaciones con Irán en Islamabad con Witkoff y Kushner, y sin Vance",
+    "medio": "The Objective",
+    "fecha": 1777054347.0,
+    "link": "https://theobjective.com/internacional/2026-04-24/eeuu-negociaciones-iran-islamabad-witkoff-kushner-vance/",
+    "resumen": "La Casa Blanca ha confirmado este viernes el envío de una delegación estadounidense a Islamabad, Pakistán, con vistas a mantener conversaciones directas para poner fin al […]"
+  },
+  {
+    "titulo": "Gustavo Petro y Delcy Rodríguez deshielan relaciones en Caracas",
+    "medio": "El País",
+    "fecha": 1777054334.0,
+    "link": "https://elpais.com/america-colombia/2026-04-24/gustavo-petro-y-delcy-rodriguez-deshielan-relaciones-en-caracas.html",
+    "resumen": "La líder chavista recibe del colombiano la primera visita de un jefe de Estado como presidenta encargada"
+  },
+  {
+    "titulo": "Guardiola promete en su toma de posesión como presidenta que los derechos no estarán sometidos a \"vaivén político\"",
+    "medio": "Europa Press",
+    "fecha": 1777054263.0,
+    "link": "https://www.europapress.es/extremadura/noticia-guardiola-promete-toma-posesion-presidenta-derechos-no-estaran-sometidos-vaiven-politico-20260424201103.html",
+    "resumen": "La presidenta de la Junta de Extremadura, María Guardiola, ha comprometido en su toma de posesión en el cargo celebrada esta tarde en el Anfiteatro Romano de Mérida que los derechos \"no van a estar sometidos a ningún vaivén político\" como algo que \"no es negociable\" ni \"matizable\"."
+  },
+  {
+    "titulo": "Este aeropuerto español cerrará por un mes por renovación de la pista",
+    "medio": "HuffPost",
+    "fecha": 1777054166.0,
+    "link": "https://www.huffingtonpost.es/life/viajes/este-aeropuerto-espanol-cerrara-mes-cancelaran-todos-vuelos-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Gobierno resta importancia a los choques con Trump y los ve como una oportunidad: \"Que nos sitúe como enemigo político es una maravilla\"",
+    "medio": "El Mundo",
+    "fecha": 1777054161.0,
+    "link": "https://www.elmundo.es/espana/2026/04/24/69ebb1b9fc6c8342558b4590.html",
+    "resumen": "La Moncloa ha encontrado en la recuperación del 'No a la guerra' un emblema sobre el que surfear lo que queda de legislatura Leer"
+  },
+  {
+    "titulo": "Trump envía a Witkoff y Kushner a negociar con Irán en Pakistán y mantiene a JD Vance \"a la espera\"",
+    "medio": "El Español",
+    "fecha": 1777054018.0,
+    "link": "https://www.elespanol.com/mundo/america/eeuu/20260424/trump-envia-witkoff-kushner-negociar-iran-pakistan-mantiene-jd-vance-espera/1003744221532_0.html",
+    "resumen": "Leavitt aclaró que esperan que a raíz de estas conversaciones la diplomacia continúe y se llegue a un punto donde se cumplan las líneas rojas de Trump.Más información: La resistencia de Irán frente a Trump empieza a mostrar sus grietas: el paro, la inflación y la censura agotan a los iraníes"
+  },
+  {
+    "titulo": "Azcón será investido presidente el próximo miércoles con el apoyo de Vox",
+    "medio": "La Vanguardia",
+    "fecha": 1777053940.0,
+    "link": "https://www.lavanguardia.com/politica/20260424/11522213/azcon-sera-investido-presidente-proximo-miercoles-apoyo-vox.html",
+    "resumen": "El popular expondrá el martes su programa de gobierno con los ultras, que incluye la polémica “prioridad nacional”, y el miércoles será el turno de la votación"
+  },
+  {
+    "titulo": "Paramount arrebata a Netflix la compra de Warner y redefine la industria del ‘streaming’",
+    "medio": "The Objective",
+    "fecha": 1777053923.0,
+    "link": "https://theobjective.com/tecnologia/2026-04-24/netflix-paramount-hollywood-netflix/",
+    "resumen": "La batalla del streaming por la compra de Warner Bros finaliza con un ganador, mientras Netflix ha decidido retirarse en el último momento. Los accionistas han […]"
+  },
+  {
+    "titulo": "El James Webb acaba de encontrar nubes de agua donde no esperábamos: a 12 años luz, en un gigante que humilla a Júpiter",
+    "medio": "Xataka",
+    "fecha": 1777053712.0,
+    "link": "https://www.xataka.com/espacio/james-webb-acaba-encontrar-nubes-agua-donde-no-se-esperaban-a-12-anos-luz-gigante-que-humilla-a-jupiter",
+    "resumen": "Aunque todos nos hemos quejado alguna vez de las nubes cuando nos han arruinado un día soleado, sin ellas la Tierra sería mucho más inhóspita. Por eso, el hallazgo que acaba de hacer el Telescopio Espacial James Webb en un exoplaneta ubicado a 12 años luz de nosotros es realmente interesante. No es amoniaco, es agua. Epsilon Indi Ab es un gigante gaseoso aún más grande que Júpiter, que se encuentra en un sistema estelar formado por dos enanas marrones y una estrella tipo K. Se sabe que este planeta tiene nubes en su atmósfera, igual que Júpiter. Dado su parecido, se podría esperar que las nubes de unos y otros tuviesen la misma composición. Las nubes de Júpiter se componen básicamente de amoniaco. Sin embargo, cuando unos científicos han analizado la composición de las nubes de Epsilon Indi Ab con ayuda del James Webb, han descubierto que apenas hay amoniaco en ellas. En realidad están compuestas mayormente por agua helada, como las que tenemos aquí en la Tierra. En Xataka El James Webb ha resuelto un misterio que llevaba años intrigando a los astrónomos: la velocidad de rotación de Saturno Más caliente de lo esperado. El exoplaneta Epsilon Indi Ab se encuentra a una distancia de su estrella similar a la que separa a Urano de nuestro Sol. Urano es un planeta muy muy frío por razones obvias. Sin embargo, Epsilon Indi Ab es mucho más grande y joven, por lo que aún conserva buena parte del calor que se originó con su formación. Aunque no hay una cifra clara, se cree que puede tener una temperatura media de 0ºC. Eso puede parecernos frío si nos pilla en la Tierra sin abrigo, pero para una planeta tan alejado de su planeta es bastante calor. Ese calor se emite en forma de radiación infrarroja y es aquí donde empieza lo bueno. El James Webb entra en juego. El Telescopio Espacial James Webb tiene una gran capacidad para detectar y medir luz infrarroja. Por eso, ha sido con él con el que se han podido analizar estas nubes. Para ello, el primer paso ha sido bloquear la luz de la estrella. Si esto no se hiciese, interferiría con la radiación infrarroja emitida por el planeta y no podría analizarse adecuadamente. Hecho esto, se usaron filtros que capturan 10,6 y 11,3 μm de luz. Así, la observación se centraría en la radiación del planeta, justo en los rangos de interés. Se sabe que los cristales de amoniaco bloquean la luz de 10,6 μm cuando esta pasa por ellos. Si las nubes de nuestro exoplaneta fueran como las de Júpiter se habría observado un gran bloqueo en este rango. Pero no fue así. Debía haber otra sustancia en ellas. Al estudiar los filtros de 11,3 μm y observar también una leve emisión de luz a 3 y 5 μm, se concluyó que esa otra sustancia debía ser agua. Los cristales de las nubes de Epsilon Indi Ab son de agua congelada, como en la Tierra. Un compañero en la retaguardia. Dado que las nubes de agua son muy importantes para la habitabilidad de un planeta, este hallazgo demuestra la capacidad del James Webb para analizar un factor más a la hora de buscar análogos terrestres más allá de nuestro sistema solar. Lo mejor es que, según ha adelantado la NASA esta semana, el Telescopio Espacial Roman, que se lanzará en septiembre si todo va bien, puede unir sus fuerzas a las del James Webb, aportando resultados aún más precisos. Quizás estemos ante el equipo perfecto para encontrar ese planeta que tanto tiempo llevamos buscando. Imagen | E. C. Matthews, MPIA / T. Müller, HdA En Xataka | El James Webb lleva años detectando puntos rojos en el universo: el único problema es que no sabemos qué son - La noticia El James Webb acaba de encontrar nubes de agua donde no esperábamos: a 12 años luz, en un gigante que humilla a Júpiter fue publicada originalmente en Xataka por Azucena Martín ."
+  },
+  {
+    "titulo": "Argentina, expectante ante la posibilidad de que Trump castigue a Reino Unido y deje de apoyarlo en la disputa por las Islas Malvinas",
+    "medio": "El Mundo",
+    "fecha": 1777053678.0,
+    "link": "https://www.elmundo.es/internacional/2026/04/24/69ebaf0be85eceee178b4577.html",
+    "resumen": "El presidente Javier Milei reconoció que están realizando todo lo posible para que todo el territorio vuelva a manos de su nación Leer"
+  },
+  {
+    "titulo": "'La isla de Amrum', sobre la pérdida de la inocencia en la Alemania de 1945, mejor película",
+    "medio": "La Vanguardia",
+    "fecha": 1777053600.0,
+    "link": "https://www.lavanguardia.com/cultura/20260424/11521843/isla-amrum-sobre-perdida-inocencia-alemania-1945-mejor-pelicula-bcn-film-fest.html",
+    "resumen": "'Primavera', del italiano Damiano Michieletto, logra el premio a mejor dirección y montaje mientras la noruega 'Solomamma', suma guion, actriz y el de la crítica"
+  },
+  {
+    "titulo": "La UE discute en Chipre cómo activar su artículo de ayuda mutua en caso de ataque militar contra un Estado: Trump y la amenaza a Groenlandia avivan el debate",
+    "medio": "HuffPost",
+    "fecha": 1777053600.0,
+    "link": "https://www.huffingtonpost.es/global/la-ue-discute-chipre-como-activar-articulo-ayuda-mutua-caso-ataque-militar-trump-amenaza-groenlandia-avivan-debate-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad",
+    "medio": "El País",
+    "fecha": 1777053469.0,
+    "link": "https://elpais.com/deportes/futbol/2026-04-24/betis-real-madrid-en-directo-el-partido-de-laliga-en-vivo.html",
+    "resumen": "El brasileño aprovecha un rechace de Vallés a un tiro de Valverde para abrir la lata"
+  },
+  {
+    "titulo": "Sinner, con la cabeza puesta en Roland Garros, persigue su quinto Masters 1000 consecutivo en Madrid",
+    "medio": "El País",
+    "fecha": 1777053387.0,
+    "link": "https://elpais.com/deportes/tenis/2026-04-24/sinner-con-la-cabeza-puesta-en-roland-garros-persigue-su-quinto-masters-1000-consecutivo-en-madrid.html",
+    "resumen": "El número uno derrota a Bonzi (6-7(6), 6-1 y 6-3, 2h 20m) en su regreso a la Caja Mágica, donde busca convertirse en el primer tenista en levantar cinco ‘miles’ seguidos, y lamenta la baja de Alcaraz en París: “El tenis necesita a Carlos”"
+  },
+  {
+    "titulo": "El nuevo DeepSeek V4 es más eficiente que ChatGPT y programa como una bestia",
+    "medio": "Hipertextual",
+    "fecha": 1777053235.0,
+    "link": "https://hipertextual.com/inteligencia-artificial/deepseek-v4-modelo-ia-contexto-largo/",
+    "resumen": "A más de un año de tomar por sorpresa a ChatGPT y Gemini, DeepSeek está de regreso con un nuevo modelo de IA. La empresa china presentó la familia DeepSeek-V4, conformada por dos modelos que se enfocan en la eficiencia en contextos largos. A diferencia de 2025, DeepSeek ya no solo compite con OpenAI, Anthropic […] Seguir leyendo: El nuevo DeepSeek V4 es más eficiente que ChatGPT y programa como una bestia"
+  },
+  {
+    "titulo": "La UE asegura que será “parte de la solución” en Oriente Próximo pero bajo la bandera del derecho internacional",
+    "medio": "El País",
+    "fecha": 1777053183.0,
+    "link": "https://elpais.com/internacional/2026-04-24/la-ue-asegura-que-sera-parte-de-la-solucion-en-oriente-proximo-pero-bajo-la-bandera-del-derecho-internacional.html",
+    "resumen": "Sánchez considera que la crisis en la región “demuestra el fracaso de la fuerza bruta”. Los líderes europeos rechazan levantar sanciones a Irán y exigen la reapertura del estrecho de Ormuz “sin peajes y respetando la libertad de navegación”"
+  },
+  {
+    "titulo": "La UE y Estados Unidos buscan estrechar la colaboración en el suministro de materias primas críticas",
+    "medio": "El País",
+    "fecha": 1777053037.0,
+    "link": "https://elpais.com/internacional/2026-04-24/la-ue-y-estados-unidos-buscan-estrechar-la-colaboracion-en-el-suministro-de-materias-primas-criticas.html",
+    "resumen": "Sefcovic y Rubio firman una guía para abrir negociaciones el mismo día que el secretario de Defensa, Pete Hegseth, carga con dureza contra Europa"
+  },
+  {
+    "titulo": "El Departamento de Justicia de Estados Unidos recomienda el uso de pelotones de fusilamiento y la electrocución como métodos de ejecución",
+    "medio": "El Mundo",
+    "fecha": 1777052981.0,
+    "link": "https://www.elmundo.es/internacional/2026/04/24/69ebac6a21efa0bd308b45b8.html",
+    "resumen": "Se trataría de garantizar que el Departamento esté preparado para llevar a cabo ejecuciones federales legales \"incluso si no se dispone de un fármaco específico\", señala el informe de Justicia Leer"
+  },
+  {
+    "titulo": "La Justicia paraliza las obras del recinto ferial y palacio de congresos de Pozuelo",
+    "medio": "eldiario.es",
+    "fecha": 1777052819.0,
+    "link": "https://www.eldiario.es/madrid/justicia-paraliza-obras-recinto-ferial-palacio-congresos-pozuelo_1_13171223.html",
+    "resumen": "La asociación de vecinos afectados celebra que un magistrado del tribunal de lo contencioso-administrativo haya aceptado detener de forma cautelar las obras del pretendido recintoVecinos de Pozuelo se levantan contra el recinto ferial y el palacio de congresos: “Iremos a los tribunales” Los 2.000 vecinos de Pozuelo de Alarcón que la asociación de afectados calcula que existen por la construcción de un recinto ferial, un palacio de congresos y un hotel cerca de sus viviendas respiran algo más aliviados desde hace unos días. Un tribunal ha acordado como medida cautelar que las obras del proyecto no podrán comenzar hasta que haya sentencia firme sobre las consecuencias que puede acarrear su edificación. Los damnificados denuncian que no existe un informe medioambiental actualizado y temen ser víctimas de los problemas de tráfico y ruido que se generarían, mientras que el Consistorio defiende la construcción de estos enclaves al ser “fuente de riqueza y empleo”. Javier Cabo, presidente de Pozuelo por la Calidad de Vida y contra el Ruido (POZCAVIR), afirma que la tramitación de la documentación por parte del Ayuntamiento “carece de todos los estudios pertinentes que se deben realizar” si se quiere realizar un proyecto de tales características. Tras agotar la vía municipal, la entidad acudió al tribunal de lo contencioso-administrativo. No les han dado la razón todavía, pero entienden que el magistrado ha apreciado indicios de que “estas obras podrían causar daños irreversibles sobre el entorno natural y residencial”. Sin embargo, el Ayuntamiento liderado por Paloma Tejero (PP) ha señalado a elDiario.es que cuentan con varios informes favorables a la intervención. Citan uno fechado en diciembre de 2023 y emitido por la Comunidad de Madrid. En él se recoge que “no se observan riesgos para la salud humana y el medio ambiente, ni valores de vulnerabilidad del terreno objeto del planeamiento urbanístico”. Ante dicho extremo, Cabo incide en que ese dictamen fue emitido antes de darse a conocer el pretendido destino final de los terrenos. “Un informe ambiental general en el que no se concreta qué se va a construir lógicamente no sirve para nada”, defiende el pozuelero. El Ayuntamiento, por su parte, afirma que también existe un informe favorable de la Dirección General de Carreteras de la Comunidad de Madrid, tal y como ya han aportado al juzgado. A ello se suma un pronunciamiento de la Confederación Hidrográfica del Tajo, pues el recinto podría afectar al arroyo de La Plata, en el que se recoge que “esta intervención urbanística constituye un impacto ambiental negativo de escasa entidad, ya que las comunidades vegetales más interesantes se han integrado en la ordenación propuesta”. El presidente de la asociación de afectados se retrotrae al informe medioambiental realizado de forma previa al conocimiento del uso final de la parcela para “invalidar” todas las resoluciones posteriores. “Una vez que en enero de 2024 descubren la verdadera finalidad del terreno es cuando deberían haberlo pedido, y no antes”, sostiene el mismo Cabo. Sin obras hasta la sentencia Sin embargo, el tribunal de instancia competente ha acordado admitir y aplicar las medidas cautelares solicitadas por POZCAVIR, lo que supone la paralización del proyecto urbanístico promovido por el Ayuntamiento de Pozuelo. La asociación ha destacado que “la adopción de medidas cautelares implica que el juzgado aprecia riesgo de daños irreversibles y la necesidad de proteger el entorno mientras se analiza la legalidad del proyecto”. Ante este último movimiento a nivel judicial, el Ayuntamiento ha precisado que apenas afecta al futuro del enclave. Ya decidieron hace un mes y medio no iniciar las obras. “No queríamos que nos pillara con las obras recién iniciadas, lo que habría puesto en peligro la celebración de las fiestas de septiembre en esa misma parcela, que es en realidad lo único que pretende POZCAVIR. Así, nos quedamos como estábamos hasta que el juez decida y seguimos celebrando las fiestas en el mismo sitio y como en los últimos años”, han explicado. Los mismos terrenos ya han sido utilizados hasta en cuatro ocasiones por el Ayuntamiento a lo largo de los dos últimos años, tanto para celebrar las fiestas patronales como para festejar con una macrofiesta la nochevieja. Fátima Arranz, cuya vivienda se sitúa a 300 metros del epicentro del ruido, ha sido una de las vecinas que ha sufrido las consecuencias: “Ya hemos visto cómo en esas ocasiones la primera entrada a Pozuelo desde Madrid se congestiona y hay problemas con el servicio de los autobuses”. Esta antigua profesora de la Universidad Complutense de Madrid, que vive en el municipio desde 1994, enfatiza que el proyecto del recinto ferial y palacio de congresos es la forma de comenzar a urbanizar esa parte de Pozuelo, pegada a la Casa de Campo y el madrileño barrio de Aravaca. “No creo que el Ayuntamiento se eche para atrás porque urbanizar da muchos millones. Al menos la Justicia parece que funciona, porque es increíble que en todas las capitales europeas quieran recuperar los espacios verdes y aquí los estemos liquidando”, critica a sus 69 años. Los vecinos se sienten respaldados por la Justicia Desde POZCAVIR reiteran que la meta que persigue el Ayuntamiento es transformar “un espacio que actualmente actúa como zona de transición natural y pulmón verde, sustituyéndolo por infraestructuras destinadas a grandes eventos”. Contraria es la postura que esgrime el Consistorio, desde donde defienden el proyecto porque “el sector de los negocios y congresos es una fuente de riqueza y empleo de Madrid, hasta el punto de que hay mucha más demanda que oferta, por lo que, para un municipio como Pozuelo, tan cerca de la capital y con el atractivo de esta ciudad, es una oportunidad de seguir generando riqueza y empleo”. Del mismo modo, argumentan que ubicar en ese espacio el recinto ferial es “idóneo”, pues antes las fiestas tenían lugar en el centro del pueblo, “lo que impedía organizarlas con más seguridad y menos molestias, como muchos vecinos reconocen y agradecen desde que se hacen en esa zona la avenida de Europa”, siempre según la versión aportada por el Consistorio. Muy diferente es lo que opina Enrique Giménez, vecino de esta misma avenida, donde se concentra la mayoría de afectados: “Las medidas cautelares son un reconocimiento al desastre que puede suponer la urbanización y posterior construcción en la zona”. Este economista de 58 años expone que “como español me he sentido respaldado por un estado de derecho que hasta el momento parecía que no me estaba representando”. Además, admite que hasta el momento se han sentido “huérfanos e ignorados”. La opinión de Giménez es una de las tantas que desde POZCAVIR recogen día tras día. “Los vecinos de Pozuelo vivimos aquí por lo que representa el municipio, no por tener unos servicios en una ubicación equivocada y absurda. Estamos aquí porque queremos tranquilidad y descanso, y queremos que eso siga así, que es para lo que contribuimos con nuestros impuestos”, desarrolla tras más de doce años como residente en la localidad. Sin acercamiento de posturas Cabo, el presidente de POZCAVIR, reclama que el Ayuntamiento reciba a los afectados, algo que nunca ha sucedido, tal y como critica. “Se cierran en banda y repiten una y otra vez que tienen mayoría absoluta y que esto estaba en su programa electoral. Lo que no dicen es que en su programa electoral también ponía que el recinto estaría alejado de las zonas residenciales”, puntualiza el activista. Por el momento, los vecinos organizados en la asociación esperarán la resolución judicial definitiva. Según sus abogados, el desenlace final todavía podría tardar en llegar un año. “Nuestra expectativa es que el Ayuntamiento se dé cuenta de la barbaridad urbanística que está cometiendo y del enorme perjuicio que está causando a los vecinos”, concluye el presidente. A la par, desde el Consistorio repiten que tienen “plena confianza de que este proyecto cumple todos los requisitos, incluidos y sobre todo los medioambientales”."
+  },
+  {
+    "titulo": "Más de 130.000 inmigrantes solicitan la regularización en la primera semana en vigor del real decreto",
+    "medio": "El País",
+    "fecha": 1777052245.0,
+    "link": "https://elpais.com/espana/2026-04-24/mas-de-130000-inmigrantes-solicitan-la-regularizacion-en-la-primera-semana-en-vigor-del-real-decreto.html",
+    "resumen": "El Gobierno espera que la medida afecte a 500.000 personas que residen en España"
+  },
+  {
+    "titulo": "Jorge Azcón será investido presidente el próximo miércoles: estos son los días clave de la investidura",
+    "medio": "El Español",
+    "fecha": 1777051878.0,
+    "link": "https://www.elespanol.com/aragon/20260424/jorge-azcon-investido-presidente-proximo-miercoles-dias-clave-investidura/1003744220579_0.html",
+    "resumen": "Azcón pronunciará su discurso el martes 28 y el jueves tomará posesión como presidente de Aragón.Más información: PP y Vox dejan solo a medias la rebaja del Impuesto de Sucesiones: así es la prometida reforma fiscal en Aragón"
   },
   {
     "titulo": "Detenido por robar 52 cámaras en la URJC de Móstoles",
@@ -26,13 +425,6 @@
     "fecha": 1777051800.0,
     "link": "https://www.moncloa.com/2026/04/24/robo-camaras-urjc-mostoles-detenido-3373100/",
     "resumen": "Detenido por el robo de 52 cámaras en la URJC de Móstoles valoradas en más de 40.000 euros, que revendía online. La entrada Detenido por robar 52 cámaras en la URJC de Móstoles aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Álex Márquez resurge: «Necesitaba un día así»",
-    "medio": "OK Diario",
-    "fecha": 1777051773.0,
-    "link": "https://okdiario.com/deportes/alex-marquez-resurge-necesitaba-dia-asi-16672148",
-    "resumen": "Álex Márquez ha empezado por todo lo alto, muy cerca del récord de la pista. Otro viernes más con buenas sensaciones en Jerez. En esta ocasión le ha venido como anillo al dedo al 73, que reconoció que «necesitaba un día así». Le venía todo «muy fluido» al ganador del GP de España de MotoGP … Continuar leyendo \"Álex Márquez resurge: «Necesitaba un día así»\""
   },
   {
     "titulo": "El alcalde José Miguel Luengo prohíbe construir pisos para particulares en La Manga: solo autoriza alojamientos turísticos",
@@ -49,53 +441,25 @@
     "resumen": "La Casa Blanca ha confirmado este viernes el envío de una delegación estadounidense a Islamabad, Pakistán, con vistas a mantener conversaciones directas para poner fin al conflicto desatado a finales de febrero en Irán, en medio de una tregua indefinida anunciada esta semana por el presidente de Estados Unidos, Donald Trump."
   },
   {
-    "titulo": "Robles responde a la Casa Blanca y exige «respeto» por el papel de España en la OTAN",
-    "medio": "The Objective",
-    "fecha": 1777051507.0,
-    "link": "https://theobjective.com/internacional/2026-04-24/robles-eeuu-espana-otan-respeto/",
-    "resumen": "La ministra de Defensa, Margarita Robles, ha reivindicado que España es un aliado «serio y fiable» de la OTAN y ha reclamado respeto por el papel […]"
+    "titulo": "EEUU e Irán anuncian el regreso a las negociaciones en Pakistán",
+    "medio": "eldiario.es",
+    "fecha": 1777051607.0,
+    "link": "https://www.eldiario.es/internacional/eeuu-e-iran-anuncian-reanudan-negociadores-pakistan_1_13171224.html",
+    "resumen": "La portavoz de la Casa Blanca confía el viaje del negociador Steve Witkoff y del yerno del presidente, Jared Kushner, al tiempo que Teherán asegura que viajará su ministro de Exteriores. El vicepresidente de EEUU, JD Vance, no viajará de momentoEl jefe del Pentágono insulta a Europa por la falta de apoyo en Irán: “Tienen reuniones estúpidas y pomposas pero no hacen esfuerzos serios” Estados Unidos e Irán vuelven a la mesa de negociación. Después de que Teherán anunciara el envío de su ministro de Exteriores, Seyyed Abbs Araghchi, a las negociaciones en la capital pakistaní de Islamabad, EEUU ha hecho lo propio. Según medios estatales de Irán, el ministro de Asuntos Exteriores iraní, Abbas Araghchi, y su equipo ya han aterrizado este viernes en Islamabad, mientras que Witkoff y Kushner viajarán a Pakistán el sábado por la mañana, Un funcionario pakistaní ha declarado a Al Jazeera que ahora existe una “alta probabilidad de que se produzca un avance” entre EEUU e Irán, tras días de escalada de riesgos y tensiones crecientes en el estrecho de Ormuz. La portavoz de la Casa Blanca, Karoline Leavitt, ha explicado la decisión este viernes: “El presidente se ha mostrado flexible al conceder una prórroga del alto el fuego durante todo este tiempo; y ha decidido enviar de nuevo a Islamabad al enviado especial Witkoff y a Jared Kushner. Los iraníes quieren dialogar. Quieren dialogar en persona. Y, por eso, el presidente siempre está dispuesto a dar una oportunidad a la diplomacia. Así que Steve y Jared se dirigirán mañana [por este sábado] a Pakistán para escuchar a los iraníes. Esperamos que se logren avances y que de esta reunión surjan resultados positivos. El presidente, el vicepresidente y el secretario de Estado estarán aquí, en Estados Unidos, a la espera de novedades. Y tengo entendido que el vicepresidente está a la espera y dispuesto a viajar a Pakistán si consideramos que es necesario usar su tiempo”. La reunión prevista para este sábado tendría que haberse producido el pasado martes, pero ninguna delegación terminó viajando a Islamabad, en medio del doble bloqueo de Ormuz que tiene estancado el avance de las conversaciones. Mientras tanto, Estados Unidos tiene, por primera vez desde 2003, tres portaviones desplegados en Oriente Medio al mismo tiempo con motivo de su ofensiva en Irán y el bloqueo naval al país persa. Según ha informado el Mando Central de EEUU en sus redes sociales, en estos momentos se encuentran operativos el USS Abraham Lincoln (CVN 72), el USS Gerald R. Ford (CVN 78) y el USS George H.W. Bush (CVN 77). En cuanto al despliegue de tropas, el país norteamericano tiene actualmente 15,000 marineros y marines operando en Oriente Medio. En total, las fuerzas de EEUU ascienden a más de 200 aeronaves y 12 barcos de guerra."
   },
   {
-    "titulo": "El español que se beneficia de la ausencia de Alcaraz en Roland Garros",
-    "medio": "OK Diario",
-    "fecha": 1777051322.0,
-    "link": "https://okdiario.com/deportes/espanol-que-beneficia-ausencia-alcaraz-roland-garros-16672331",
-    "resumen": "Carlos Alcaraz no estará en Roland Garros 2026. La lesión de la muñeca que le llevó a retirarse del Godó y a perderse el Mutua Madrid Open le impedirá estar en el segundo Grand Slam del año. No podrá defender título en París, en lo que es una pésima noticia para el tenis mundial. Sin … Continuar leyendo \"El español que se beneficia de la ausencia de Alcaraz en Roland Garros\""
+    "titulo": "La Administración Trump busca introducir el fusilamiento en la pena de muerte federal",
+    "medio": "La Vanguardia",
+    "fecha": 1777051548.0,
+    "link": "https://www.lavanguardia.com/internacional/20260424/11522199/administracion-trump-busca-introducir-fusilamiento-pena-muerte-federal.html",
+    "resumen": "El Gobierno también quiere reducir el número de años entre la condena y la ejecución"
   },
   {
-    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",
-    "medio": "El País",
-    "fecha": 1777051241.0,
-    "link": "https://elpais.com/internacional/2026-04-24/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Washington advierte a Europa: “Lleváis décadas beneficiándoos de nuestra protección y el tiempo se ha acabado” | El ejército israelí vuelve a bombardear Líbano y Hezbolá advierte de que la prórroga de la tregua “carece de sentido”"
-  },
-  {
-    "titulo": "Lefties tiene el conjunto elegante ‘efecto tipazo’ que conquista a las mujeres de +50",
-    "medio": "OK Diario",
-    "fecha": 1777051206.0,
-    "link": "https://okdiario.com/cool/moda/lefties-tiene-conjunto-elegante-efecto-tipazo-que-conquista-mujeres-50-16672955",
-    "resumen": "Con la llegada del verano, la moda se orienta hacia prendas más frescas, cómodas y versátiles que permitan afrontar las altas temperaturas sin renunciar al estilo. Los conjuntos se convierten en grandes protagonistas, ya que facilitan la elección diaria y aportan un look equilibrado y moderno. Entre las tendencias más destacadas de la temporada, está … Continuar leyendo \"Lefties tiene el conjunto elegante ‘efecto tipazo’ que conquista a las mujeres de +50\""
-  },
-  {
-    "titulo": "El CGPJ deniega a la juez de la DANA el amparo frente al abogado del ex secretario de Emergencias",
-    "medio": "OK Diario",
-    "fecha": 1777050794.0,
-    "link": "https://okdiario.com/comunidad-valenciana/cgpj-deniega-juez-dana-amparo-frente-abogado-del-ex-secretario-emergencias-16671850",
-    "resumen": "El Pleno del Consejo General del Poder Judicial (CGPJ) ha denegado el amparo a la juez que instruye el caso de la DANA, la magistrada Nuria Ruiz Tobarra, solicitado por ella misma, en relación al requerimiento del Colegio de Abogados de Valencia (ICAV) de cesar en el empleo de expresiones de descrédito o que afecten … Continuar leyendo \"El CGPJ deniega a la juez de la DANA el amparo frente al abogado del ex secretario de Emergencias\""
-  },
-  {
-    "titulo": "Trump reintroduce el pelotón de fusilamiento en las ejecuciones federales",
-    "medio": "El País",
-    "fecha": 1777050778.0,
-    "link": "https://elpais.com/internacional/2026-04-24/trump-reintroduce-el-peloton-de-fusilamiento-en-las-ejecuciones-federales.html",
-    "resumen": "El Departamento de Justicia quiere ampliar la aplicación de la pena capital y también vuelve a aceptar el protocolo de inyecciones letales"
-  },
-  {
-    "titulo": "La reacción de Sinner al enterarse de la baja de Alcaraz en Roland Garros: «Es muy triste…»",
-    "medio": "OK Diario",
-    "fecha": 1777050704.0,
-    "link": "https://okdiario.com/deportes/reaccion-sinner-enterarse-baja-alcaraz-roland-garros-muy-triste-16672633",
-    "resumen": "Jannik Sinner ha reaccionado a la baja de Carlos Alcaraz en Roland Garros. La noticia de que el tenista español no estará en el Grand Slam de la tierra batida llegó justo en el momento en el que el italiano debutaba en el Mutua Madrid Open. Una vez que Sinner derrotó a Bonzi (6-7, 6-1 … Continuar leyendo \"La reacción de Sinner al enterarse de la baja de Alcaraz en Roland Garros: «Es muy triste…»\""
+    "titulo": "El Rey que pregunta sobre la IA",
+    "medio": "La Vanguardia",
+    "fecha": 1777050990.0,
+    "link": "https://www.lavanguardia.com/vida/20260424/11522198/rey-pregunta-sobre-ia.html",
+    "resumen": ""
   },
   {
     "titulo": "Un menor de 17 años de la banda de los Trinitarios muere apuñalado por otro joven en Puente de Vallecas",
@@ -105,6 +469,13 @@
     "resumen": "La víctima había sido detenido en numerosas ocasiones Leer"
   },
   {
+    "titulo": "Cornadas dolorosas y un cupido caprichoso",
+    "medio": "La Vanguardia",
+    "fecha": 1777050619.0,
+    "link": "https://www.lavanguardia.com/gente/20260424/11522195/cornadas-dolorosas-cupido-caprichoso.html",
+    "resumen": "Amores sorpresa, separaciones de alto voltaje, dos cogidas históricas y el recuerdo a la reina Isabel II"
+  },
+  {
     "titulo": "Vox enreda al PP valenciano con la \"prioridad nacional\" en plena negociación de los primeros presupuestos de Llorca",
     "medio": "El Mundo",
     "fecha": 1777050453.0,
@@ -112,11 +483,11 @@
     "resumen": "Tras fracasar en su intento de colar la reivindicación en la reforma de la renta valenciana de inclusión, los de Abascal recuperan en Valencia la exigencia para asegurarse una posición de fuerza en el debate de las cuentas Leer"
   },
   {
-    "titulo": "La OTAN responde al plan del Pentágono sobre España: \"El tratado fundacional no contempla ningún mecanismo para la expulsión de un miembro\"",
-    "medio": "El Mundo",
-    "fecha": 1777050348.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/24/69eb5ed6e4d4d898278b45a8.html",
-    "resumen": "Un funcionario de la Alianza confirma a EL MUNDO que la posible suspensión, tal como maneja el Departamento de Guerra de EEUU, no es posible Leer"
+    "titulo": "El fabricante chino MG elige a España para instalar su fábrica europea de coches",
+    "medio": "La Vanguardia",
+    "fecha": 1777050171.0,
+    "link": "https://www.lavanguardia.com/dinero/20260424/11522191/saic-dueno-mg-elige-espana-instalar-fabrica-europea-coches.html",
+    "resumen": "Con esta planta nueva, la marca podría mitigar los efectos de los aranceles de la Unión Europea"
   },
   {
     "titulo": "Precios al nivel de Roland Garros, palcos VIP vacíos y la sombra de las apuestas: el raro ambiente del Mutua Madrid Open",
@@ -140,39 +511,11 @@
     "resumen": "Ha sido la semana de Apple. Probablemente una de las más importantes de la última década para la compañía, y eso que no ha habido ningún keynote, ningún iPhone nuevo ni ningún\"One more thing\". Solo un comunicado, una fecha (uno de septiembre) y un nombre: John Ternus. Tim Cook se va después de casi 15 años al frente de la empresa más valiosa del mundo. Y aunque la noticia no ha pillado por sorpresa (llevaba meses en el ambiente) verlo por escrito es otra cosa. Tim Cook no solo ha sido un CEO extraordinario: ha sido el hombre que demostró que Apple podía existir sin Steve Jobs. Y eso, en 2011, no era una certeza precisamente. Porque hay que recordar el contexto en el que Tim Cook llegó. Suceder a Steve Jobs era una tarea casi imposible de asumir, no tanto por lo que había que hacer, sino por lo que la gente esperaba que hicieras. Steve Jobs había fallecido un día después de presentar el iPhone 4s, literalmente el día después, y el mundo entero miraba a Cupertino con una mezcla de duelo y escepticismo. Tim Cook en la presentación del iPhone 4s ¿Quién demonios iba a estar a la altura? Tim Cook encontró su camino, y además la época acompañaba: los smartphones llevaban apenas unos años en el mercado, los AirPods y el Apple Watch estaban por llegar, y la curva de innovación tenía todavía muchísimo recorrido por delante. John Ternus llega en una situación diferente. La presión mediática es menor (no hay ningún genio irrepetible al que suceder) pero el mapa de retos es, si cabe, más exigente. Apple es hoy una máquina de hacer dinero, sí. Pero no es suficiente cuando la industria entera está siendo reescrita por la inteligencia artificial, cuando la competencia no para de mover ficha y cuando los grandes interrogantes sobre el futuro del hardware todavía no tienen respuesta. Y es así como John Ternus los hereda todos. El hombre que tocó cada producto importante de AppleJohn Ternus no es un nombre que el gran público reconozca de inmediato, y eso dice bastante de cómo ha construido su carrera. Lleva 25 años en Apple, prácticamente desde el principio del siglo, y en ese tiempo ha puesto las manos encima de casi todo: supervisó la transición de los Mac de Intel a Apple Silicon, lideró el desarrollo de los AirPods, estuvo detrás de generaciones enteras de iPhone, iPad y Mac, y fue un defensor activo de iPadOS como sistema operativo propio. Desde 2021 ocupa la vicepresidencia sénior de Ingeniería de Hardware, el cargo desde el que ha dirigido prácticamente todo el hardware de la compañía. Dentro de Apple lo describen como carismático y apreciado. Es lo que en el sector llaman un \"product guy\": alguien que prefiere estar cerca de los equipos de desarrollo, que entiende los productos desde dentro y que toma decisiones desde el conocimiento técnico, no desde la distancia ejecutiva. Tim Cook lo ha definido como \"un brillante ingeniero y pensador\" con \"la mente de un ingeniero y el alma de un innovador\". Los dos frentes que no pueden esperar para John TernusSi hay dos temas que John Ternus no puede aparcar ni un solo día desde que tome el mando, esos son la inteligencia artificial y el futuro del hardware más allá del iPhone. En inteligencia artificial, Apple llega tarde y lo sabe. Apple Intelligence ha recibido más críticas que aplausos, varias funciones se han retrasado, y la renovación de Siri (el gran termómetro público de lo que Apple puede hacer con la IA) sigue siendo una promesa más que una realidad. Para no quedarse atrás, la compañía ha optado por integrar y Gemini de Google en sus sistemas, algo que funciona en el corto plazo pero que a largo plazo plantea una pregunta: ¿Va a depender Apple de sus competidores para una de las tecnologías más importantes de los próximos años? Y luego está el hardware del futuro. Apple Vision Pro es, técnicamente, el visor de realidad mixta más avanzado del mercado. Pero \"el más avanzado\" y \"el más popular\" son cosas muy distintas, y de momento el producto no ha encontrado su lugar en la vida cotidiana de la gente. Al mismo tiempo, la categoría de las gafas inteligentes se ven con total normalidad por la calle gracias a propuestas como las Ray-Ban Meta, que apuntan a un mercado masivo con un precio, sí, masivo. John Ternus (que viene del hardware) tendrá que decidir hacia dónde va Apple en este espacio y con qué ritmo. Es quizás la categoría con más potencial y más incertidumbre al mismo tiempo. Y conectado directamente con todo esto está el hogar. Apple lleva años siendo una presencia tímida en el salón comparada con Amazon y Google, y eso está a punto de cambiar. La compañía tiene en camino su primer HomePod con pantalla. Pero se ha retrasado hasta septiembre precisamente por los problemas con la nueva Siri. Eso lo dice todo. Y si el HomePod con pantalla es el primer paso, el segundo ya está sobre la mesa: un robot de sobremesa con un brazo articulado y pantalla que se mueve para seguirte por la habitación, previsto para 2027. Apple quiere entrar en el hogar en serio, y John Ternus es el hombre que más ha empujado ese hardware desde dentro. Ahora le toca también ejecutarlo. La lista de deberes para John Más allá de estos dos grandes frentes urgentes, John Ternus hereda una lista de tareas. Algunas son puntos que Tim Cook dejó en marcha. Otras son decisiones que John Ternus tendrá que tomar desde cero: El iPhone plegable y el próximo \"One more thing\": Tim Cook acumuló varios momentos de esos a lo largo de su mandato, desde los AirPods hasta el Apple Watch o los servicios. El iPhone plegable apunta a ser el primero de John Ternus, porque técnicamente llegará cuando él ya esté al mando. La pregunta es qué viene después, cuál será su propia marca en el catálogo de Apple. Un MacBook Pro táctil también asoma por el horizonte, ¿pero y más allá? La relación con Estados Unidos y China a la vez: Apple es probablemente la única empresa tecnológica que ha conseguido mantener una relación razonablemente buena con ambos gobiernos de forma simultánea, algo que en el contexto geopolítico actual es casi un milagro. John Ternus tendrá que seguir en ese equilibrio mientras gestiona la diversificación de la cadena de producción hacia India y Vietnam, y las presiones para fabricar más en suelo estadounidense.La App Store y la regulación: el modelo de negocio de la App Store está bajo presión judicial en varios frentes: en Estados Unidos, en Europa y ahora también en India, donde Apple se enfrenta a una posible multa de 38.000 millones de dólares por abuso de posición dominante. Navegar todo esto sin ceder más de lo necesario y sin perder ingresos por el camino es un ejercicio de precisión que Tim Cook ha practicado durante años.La política medioambiental: durante la era de Tim Cook, Apple eliminó el cargador de la caja del iPhone, los auriculares, y ha construido una narrativa de sostenibilidad muy potente. ¿Cómo continuará John Ternus esa política? ¿Se impondrá la bandera medioambiental o habrá cambios de rumbo? Es una de esas decisiones que dicen mucho sobre los valores de quien manda.Diversidad e inclusión: Apple ha tenido una postura pública activa en estos temas durante años, aunque la compañía, como casi todo el sector tecnológico, todavía no ha puesto a una mujer al frente. Con John Ternus, la racha continúa. Lo que haga internamente con las políticas de diversidad será uno de los primeros indicadores de qué tipo de liderazgo cultural quiere ejercer.Las Apple Store y su espíritu: uno de los grandes aciertos de Tim Cook fue fichar a Angela Ahrendts para transformar las tiendas de Apple. Las convirtió en espacios donde cualquier persona (no solo los más fanboys) quisiera pasar tiempo: más verdes, más abiertas, con los Today at Apple... Tiendas pensadas como centros culturales urbanos. Es un legado que merece continuidad y que también puede evolucionar. ¿Tiene John Ternus una visión propia sobre esto?El teletrabajo y la cultura interna: Apple ha tenido tensiones internas con sus políticas de trabajo presencial en los últimos años. Es un tema que puede parecer menor desde fuera pero que tiene un impacto enorme en la retención de talento. Un nuevo CEO puede cambiarlo todo o no cambiar nada. Lo que decida John Ternus en este frente también será una declaración de cómo quiere la Apple del futuro. En Applesfera Mucho pelazo y carisma, pero Apple ha preferido a otro: por qué Federighi no es el elegido para heredar el trono Una máquina que tiene que volver a sorprenderTim Cook nos entrega Apple en un estado envidiable: la empresa más valiosa del mundo, con una base de usuarios fidelísima, un ecosistema de productos y servicios sin rival y una reputación de marca que pocas compañías en la historia han conseguido. Es un legado extraordinario. Pero John Ternus no llega solo a mantener eso. El mercado, los usuarios y la industria esperan algo más: que Apple vuelva a sorprender de verdad, que encuentre su lugar en la era de la inteligencia artificial y que demuestre que la fórmula que funcionó con el iPhone, con los AirPods y con Apple Silicon todavía tiene capacidad para redefinir categorías enteras. John Ternus conoce Apple mejor que casi nadie. Ha tocado cada producto importante de los últimos 25 años. Ahora le toca decidir cuál será el siguiente. En Applesfera | WWDC26: fecha y novedades que esperamos del gran evento de Apple en el que se presentará iOS 27 En Applesfera | Nuevo iPhone plegable - Todo lo que sebemos sobre el primer 'fold' de Apple, su diseño o el posible precio rumoreado - La noticia Los frentes abiertos de John Ternus: así está la lista de deberes que el nuevo jefe de Apple tiene sobre la mesa fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Euromillones: comprobar el resultado del sorteo de hoy viernes 24 de abril de 2026",
-    "medio": "OK Diario",
-    "fecha": 1777050059.0,
-    "link": "https://okdiario.com/loteria/euromillones-comprobar-resultado-del-sorteo-hoy-viernes-24-abril-2026-16670645",
-    "resumen": "El resultado del número premiado de Euromillones de hoy, viernes 24 de abril de 2026, se podrá comprobar en breves momentos una vez que finalice la celebración del sorteo. El sorteo del Euromillón se celebra cada martes y viernes a partir de las 21:00 y tan solo 15 minutos más tarde se conoce el resultado … Continuar leyendo \"Euromillones: comprobar el resultado del sorteo de hoy viernes 24 de abril de 2026\""
-  },
-  {
-    "titulo": "Rosalía para su concierto en Ámsterdam para explicar qué es Sant Jordi: \"Me encantan las rosas, pero regaladme un libro\"",
-    "medio": "HuffPost",
-    "fecha": 1777049889.0,
-    "link": "https://www.huffingtonpost.es/virales/rosalia-concierto-amsterdam-explicar-fans-que-sant-jordi-es-especial-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Detenido un seguidor de la Real Sociedad que acosó a una furgoneta del Atlético tras la final",
-    "medio": "The Objective",
-    "fecha": 1777049690.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-04-24/detenido-seguidor-real-sociedad-furgoneta-atletico/",
-    "resumen": "Un seguidor de la Real Sociedad ha sido detenido por la Guardia Civil en Gipuzkoa por conducción temeraria después de que el pasado domingo, un día […]"
-  },
-  {
     "titulo": "Verisure elige a Germán Larrea como nuevo director general en España",
     "medio": "Expansión",
     "fecha": 1777049604.0,
     "link": "https://www.expansion.com/empresas/2026/04/24/69eb9ffe468aeb3d198b4592.html",
     "resumen": "Hasta ahora se desempeñaba como subdirector general comercial de la compañía en España. Leer"
-  },
-  {
-    "titulo": "Un convoy de 40 autobuses azules destino Burgos: el Ayuntamiento de Madrid los cede tras el incendio que arrasó la mitad de la flota",
-    "medio": "El País",
-    "fecha": 1777049570.0,
-    "link": "https://elpais.com/espana/madrid/2026-04-24/un-convoy-de-40-autobuses-azules-destino-burgos-el-ayuntamiento-de-madrid-los-cede-tras-el-incendio-que-arraso-la-mitad-de-la-flota.html",
-    "resumen": "Los vehículos de la EMT han llegado este viernes por la tarde a la ciudad de Castilla y León, donde permanecerán, por lo pronto, seis meses, con posibilidad de ampliar el periodo si fuera necesario"
   },
   {
     "titulo": "Seis lecciones de las mayores crisis financieras de la historia",
@@ -182,60 +525,11 @@
     "resumen": "Babilonia perdonaba deudas rompiendo tablillas para evitar revueltas. Hoy, ante una deuda mundial disparada, la historia financiera da lecciones sobre riesgos o burbujas que los inversores no pueden ignorar. Leer"
   },
   {
-    "titulo": "El Gobierno de Trump propone usar pelotones de fusilamiento, la cámara de gas y la silla eléctrica para las ejecuciones",
-    "medio": "El Español",
-    "fecha": 1777049060.0,
-    "link": "https://www.elespanol.com/mundo/america/eeuu/20260424/gobierno-trump-propone-usar-pelotones-fusilamiento-camara-gas-silla-electrica-ejecuciones/1003744221354_0.html",
-    "resumen": "El Departamento de Justicia ha propuesto retomar esos tres métodos para los delitos más graves.Más información: Ejecución por fusilamiento en EEUU: un reo es ajusticiado en el paredón en Carolina del Sur por primera vez en 15 años"
-  },
-  {
-    "titulo": "El Ibex 35 cae un 4,29% en su segunda peor semana desde el inicio de la guerra de Irán",
-    "medio": "The Objective",
-    "fecha": 1777049039.0,
-    "link": "https://theobjective.com/economia/2026-04-24/ibex-35-cae-429-segunda-peor-semana-inicio-guerra-iran/",
-    "resumen": "El Ibex 35 ha cerrado su segunda peor semana desde que se inició el conflicto de Estados Unidos e Israel contra Irán, al caer un 4,29%, […]"
-  },
-  {
-    "titulo": "El 14% de los adultos españoles padece insomnio",
-    "medio": "El País",
-    "fecha": 1777048888.0,
-    "link": "https://elpais.com/salud-y-bienestar/2026-04-24/el-14-de-los-adultos-espanoles-padece-insomnio.html",
-    "resumen": "El porcentaje de niños de hasta 5 años que sufren ese trastorno del sueño se eleva hasta el 30%"
-  },
-  {
-    "titulo": "Bayer espera cerrar pronto las demandas por el glifosato con un desembolso legal que ronda los 24.000 millones",
-    "medio": "El País",
-    "fecha": 1777048873.0,
-    "link": "https://elpais.com/economia/2026-04-24/bayer-espera-cerrar-pronto-las-demandas-por-el-glifosato-con-un-desembolso-legal-que-ronda-los-24000-millones.html",
-    "resumen": "Las cantidades previstas en los litigios por los supuestos efectos cancerígenos del herbicida se perfilan como el segundo mayor desembolso de una empresa alemana tras el de Volkswagen"
-  },
-  {
-    "titulo": "Jonpe, el profe \"macarra\" que dedicaba canciones a etarras e irá 4 años preso por \"sexual grooming\" a 3 alumnas menores",
-    "medio": "El Español",
-    "fecha": 1777048731.0,
-    "link": "https://www.elespanol.com/reportajes/20260424/jonpe-profe-macarra-dedicaba-canciones-etarras-ira-anos-preso-sexual-grooming-alumnas-menores/1003744220628_0.html",
-    "resumen": "La Audiencia de Guipúzcoa condena al docente por un delito de acercamiento sexual a través de internet y otro de amenazas condicionales. Su abogado avanza a EL ESPAÑOL que tienen \"la idea inicial de recurrir la sentencia\".Más información: Condenado a 4 años y medio de cárcel el profesor que ofreció dinero a 3 alumnas a cambio de favores sexuales"
-  },
-  {
     "titulo": "MG elige España para su primera fábrica de coches en Europa",
     "medio": "El Mundo",
     "fecha": 1777048703.0,
     "link": "https://www.elmundo.es/motor/2026/04/24/69eb95defdddff29318b45a0.html",
     "resumen": "Así lo asegura la agencia Bloomberg, que señala que nuestro país habría desbancado a Hungría. Aunque todavía están por concretar detalles como el calendario, la inversión, la capacidad de la fábrica y su ubicación, que podría recaer en Galicia. Leer"
-  },
-  {
-    "titulo": "La Audiencia Nacional justifica la citación a Jordi Pujol a Madrid para evitar caer en el «edadismo»",
-    "medio": "The Objective",
-    "fecha": 1777048609.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-04-24/audiencia-nacional-justifica-citacion-pujol-evitar-caer-edadismo/",
-    "resumen": "El tribunal de la Audiencia Nacional que juzga el caso Pujol ha justificado ante los abogados su decisión de citar presencialmente al expresidente catalán Jordi Pujol […]"
-  },
-  {
-    "titulo": "Carlos Alcaraz no competirá en Roland Garros por su lesión en la muñeca derecha",
-    "medio": "El Mundo",
-    "fecha": 1777048580.0,
-    "link": "https://www.elmundo.es/deportes/tenis/2026/04/24/69eb909dfc6c83cf788b4596.html",
-    "resumen": "Después de las últimas pruebas, el número dos del mundo descarta su participación en toda la gira de tierra batida y no se pone una fecha de regreso Leer"
   },
   {
     "titulo": "Jamie Oliver destapa el error que arruina las verduras a la plancha",
@@ -245,32 +539,11 @@
     "resumen": "Las verduras a la plancha de Jamie Oliver salen perfectas si corriges el error más común: sartén fría y piezas amontonadas. La entrada Jamie Oliver destapa el error que arruina las verduras a la plancha aparece primero en Moncloa."
   },
   {
-    "titulo": "Moreno Bonilla dice que \"le quita el sueño\" el bloqueo de Vox y un andaluz le da la lección del día",
-    "medio": "HuffPost",
-    "fecha": 1777048549.0,
-    "link": "https://www.huffingtonpost.es/virales/anton-losada-resume-prioridad-nacional-vox-llamando-cosas-por-nombre-f202604.html",
-    "resumen": ""
-  },
-  {
     "titulo": "La Unión Europea y EEUU firman un acuerdo para romper el control chino de los minerales críticos",
     "medio": "eldiario.es",
     "fecha": 1777048534.0,
     "link": "https://www.eldiario.es/economia/union-europea-eeuu-firman-acuerdo-romper-control-chino-minerales-criticos_1_13171009.html",
     "resumen": "El comisario de Comercio, Maros Sefcovic, y el secretario de Estado estadounidense, Marco Rubio, formalizan la asociación estratégica entre los dos bloques \"para construir cadenas de suministro de minerales críticos seguras y sostenibles\"Europa busca una respuesta más dura contra China por restringir las exportaciones de minerales críticos Acuerdo entre la Unión Europea y los Estados Unidos sobre minerales críticos. La UE y EEUU han acordado este viernes un plan de acción sobre minerales críticos con la firma de un memorando de entendimiento sobre una asociación estratégica para profundizar en la cooperación en este tipo de materias primas. Los minerales críticos y las tierras raras se han convertido en fundamentales en el nuevo contexto geopolítico, ya que son fundamentales para la industria tecnológica y de defensa. China controla el suministro mundial de metales críticos: representa el 70% de la minería global y el 90% de la capacidad de procesamiento de estos materiales en el mundo. Ante el control chino de estas materias primas, el comisario de Comercio, Maros Sefcovic, y el secretario de Estado estadounidense, Marco Rubio, han formalizado la asociación estratégica entre los dos bloques “para construir cadenas de suministro de minerales críticos seguras y sostenibles”. China ha utilizado el suministro de materiales críticos como arma geopolítica cuando se ha enfrentado a algunas crisis diplomáticas, como ocurrió en octubre de 2025, con el anuncio del gigante asiático de ampliar las restricciones a las exportaciones de tierras raras y otros materiales críticos tras el deterioro de las relaciones comerciales entre Europa y China con la decisión de la UE de imponer nuevos aranceles a los vehículos eléctricos. El anuncio chino del freno de la exportación de estas materias primas provocó que la industria europea del automóvil advirtiera del fuerte impacto que puede generar en sus líneas de producción las restricciones chinas, mientras que la empresa holandesa ASML, fabricante europeo de semiconductores, avisó de que se estaba preparando para interrupciones en su producción, según informó Bloomberg. El acuerdo entre la UE y EEUU contempla la cooperación bilateral a lo largo de toda la cadena de valor —desde la exploración, extracción, procesamiento y refinado hasta el reciclaje y la recuperación—, así como el impulso a la innovación, la inversión y la cartografía geológica. Además, en la búsqueda de abrir el mercado de minerales críticos y reducir la dependencia de China, Sefcovic y el representante comercial de EEUU, Jamieson Greer, presentaron “un Plan de Acción para la resiliencia de las cadenas de suministro de minerales críticos, que abre la vía hacia una posible iniciativa comercial plurilateral con socios globales”. Aunque las relaciones comerciales entre la UE y EEUU se han visto golpeadas por la política que ha seguido Donald Trump de aranceles, en el acuerdo firmado por ambas partes se van a estudiar instrumentos para reforzar acciones coordinadas como “precios mínimos ajustados en frontera, mercados basados en normas, subvenciones para cubrir brechas de precios y acuerdos de compra garantizada”."
-  },
-  {
-    "titulo": "Marc Márquez afronta sin excusas su tercera peor sequía en MotoGP: “Desde que pasó lo que pasó, he tenido que ir adaptándome”",
-    "medio": "El País",
-    "fecha": 1777048354.0,
-    "link": "https://elpais.com/deportes/motociclismo/2026-04-24/marc-marquez-afronta-sin-excusas-su-tercera-peor-sequia-en-motogp-desde-que-paso-lo-que-paso-he-tenido-que-ir-adaptandome.html",
-    "resumen": "El piloto de Ducati busca recuperar su mejor versión en Jerez para volver a ganar nueve grandes premios y siete meses después de su última lesión"
-  },
-  {
-    "titulo": "Lula recibe el alta y deja el hospital tras someterse a dos intervenciones médicas programadas en São Paulo",
-    "medio": "El País",
-    "fecha": 1777048333.0,
-    "link": "https://elpais.com/america/2026-04-24/lula-se-somete-a-dos-intervenciones-medicas-programadas-en-un-hospital-de-sao-paulo.html",
-    "resumen": "Al presidente de Brasil, de 80 años, le han extirpado una lesión de cáncer de piel mientras se prepara para las elecciones de octubre"
   },
   {
     "titulo": "He probado el robot aspirador más pequeño del mundo: el Roomba Mini entra por el tamaño, pero la experiencia no va solo de eso",
@@ -287,13 +560,6 @@
     "resumen": "Comportamiento común - Una investigación publicada en una revista científica observa de forma sistemática esta conducta en aves del archipiélago, con datos que permiten entender cuándo ocurre y qué consecuencias deja Las peleas por comida o refugio no son la única forma en la que algunos animales aseguran su supervivencia, ya que también recurren a quitar recursos a otros individuos cuando encuentran una oportunidad clara. Ese tipo de conducta, que en términos humanos podría describirse como un robo, aparece en distintos grupos y cumple una función muy concreta en situaciones de presión ambiental. Algunos peces arrebatan presas recién capturadas, ciertos insectos usan materiales ajenos para construir refugios y varias aves se llevan partes de nidos cercanos para ahorrar tiempo y energía. Este comportamiento no surge por casualidad, sino cuando los recursos escasean o el entorno obliga a acelerar procesos vitales como la reproducción. En esos casos, el perjuicio para el otro individuo puede ser inmediato, ya que pierde tiempo, energía o incluso la posibilidad de sacar adelante a su descendencia. El análisis mide la frecuencia y relaciona casos con abundancia Un estudio publicado en The American Naturalist documenta por primera vez el robo de material de nidos entre aves de Hawai‘i y analiza su frecuencia, causas y efectos sobre el éxito reproductivo. El trabajo, recogido por esa revista científica, se centró en observar de forma sistemática un comportamiento que hasta ahora solo se había visto de manera aislada. Los datos permiten identificar qué especies participan, en qué situaciones ocurre y qué consecuencias tiene sobre los nidos afectados. La investigación aporta así un punto de partida para entender un tipo de interacción que no se había medido con detalle en el medio natural. Las aves afrontan más presión al concentrarse en zonas altas Erin Wilson Rankin, entomóloga de la University of California - Riverside, lideró el estudio junto a David Rankin, biólogo de la misma institución, con el objetivo de registrar este comportamiento en condiciones reales. El equipo siguió durante seis meses más de 200 nidos de aves que viven en las copas de los árboles.Según explicó Wilson Rankin, “las personas que trabajan sobre el terreno han visto este comportamiento durante años, pero nunca se había documentado con este nivel de detalle”. Ese seguimiento permitió pasar de observaciones puntuales a un registro continuo que detalla todos los pormenores de este hábito. Los robos ocurren entre nidos situados a la misma altura El análisis se centró en el llamado cleptoparasitismo de material de nido, que consiste en coger ramas, musgo u otros elementos de construcciones ajenas. En total se controlaron 216 nidos de aves paseriformes en la isla de Hawai‘i, lo que permitió medir la frecuencia del comportamiento y relacionarla con la presencia de cada especie en el entorno. Los datos muestran que las especies más abundantes también aparecen más veces como víctimas y como responsables de estos robos, lo que indica que la probabilidad de sufrir o cometer este tipo de acción depende en gran parte de cuántos individuos hay en la zona. Los investigadores detectaron un patrón claro en la altura de los nidos afectados, ya que la mayoría de los robos se produjeron entre estructuras situadas a niveles similares dentro de los árboles. Este resultado coincide con la hipótesis de superposición en altura, que plantea que las aves toman materiales de nidos que encuentran mientras buscan alimento. El comportamiento no requiere desplazamientos largos ni exploraciones específicas, ya que ocurre en el mismo espacio donde el animal desarrolla su actividad diaria. El apapane roba y también pierde material dentro de su especie Entre las especies observadas destacan el i‘iwi, el apapane y el Hawai‘i amakihi, todas ellas aves nativas del bosque hawaiano. El apapane aparece como el caso más repetido tanto en el papel de ladrón como en el de víctima, algo que se explica por su número dentro del ecosistema. Wilson Rankin señaló que “lo fascinante es que este comportamiento también ocurre dentro de la misma especie”, y añadió que “los apapane robaban a otros apapane”. Este detalle confirma que la competencia no solo se da entre especies distintas, sino también dentro de un mismo grupo. Parte de los casos afecta a nidos con huevos o crías El estudio también analizó en qué condiciones se producían los robos y encontró que alrededor del 10% afectaba a nidos activos, es decir, aquellos en construcción o con huevos o crías. En estos casos, el daño tiene consecuencias más claras, ya que la pérdida de material puede debilitar la estructura o provocar que los padres abandonen el lugar. Aproximadamente un 5% de los nidos estudiados fracasó después de sufrir un robo, lo que indica que este comportamiento tiene efectos cuantificables sobre la reproducción. La observación directa en los bosques de Hawai‘i confirmó que este tipo de interacción es más común de lo que se pensaba y que puede pasar desapercibida porque no implica enfrentamientos visibles. En muchos casos, las aves toman materiales de nidos ya abandonados, lo que reduce el conflicto directo, pero aun así mantiene la lógica de aprovechar recursos ajenos para reducir esfuerzo propio. Las aves actúan sobre estructuras situadas a la misma altura Además del beneficio inmediato para el individuo que roba, existen riesgos asociados a este comportamiento. Los materiales pueden transportar parásitos o enfermedades, y en otros contextos algunas especies defienden sus nidos con ataques. Aunque las aves hawaianas suelen mostrar un comportamiento tranquilo, el estudio advierte que esta interacción puede tener efectos indirectos en la salud y la estabilidad de las poblaciones. El contexto ecológico añade presión a estas especies, ya que muchas de ellas se han visto desplazadas a zonas más altas por enfermedades transmitidas por mosquitos introducidos por humanos. Este desplazamiento concentra a los individuos en espacios más reducidos, lo que aumenta la competencia por lugares seguros y materiales adecuados para construir nidos. En ese escenario, comportamientos como el robo de material pueden aparecer con mayor frecuencia y afectar a la reproducción de varias especies al mismo tiempo."
   },
   {
-    "titulo": "¿Por qué la bolsa mundial bate récords en plena guerra? El auge de la IA y el miedo a perderse las subidas eclipsan a Ormuz",
-    "medio": "El Español",
-    "fecha": 1777048231.0,
-    "link": "https://www.elespanol.com/invertia/mercados/20260424/bolsa-mundial-bate-records-plena-guerra-auge-ia-miedo-perderse-subidas-eclipsan-ormuz/1003744218848_0.html",
-    "resumen": "La euforia tecnológica desata el 'FOMO' y empuja al índice de los chips de Wall Street a la mayor racha alcista de toda su historia.Más información: Las bolsas eligen vivir para luchar otro día: el respiro de los parqués choca con un petróleo condenado a seguir caro"
-  },
-  {
     "titulo": "Madrid dará hasta 5.500 euros a empresas por contratar jóvenes",
     "medio": "Moncloa.com",
     "fecha": 1777048200.0,
@@ -301,53 +567,11 @@
     "resumen": "Las ayudas Madrid contratar jóvenes llegan en 2026 con hasta 5.500 euros por contrato indefinido a menores de 30 años. La entrada Madrid dará hasta 5.500 euros a empresas por contratar jóvenes aparece primero en Moncloa."
   },
   {
-    "titulo": "Netanyahu revela que ha sido tratado con éxito de un tumor maligno en la próstata",
-    "medio": "El Mundo",
-    "fecha": 1777048184.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/24/69eb9835e9cf4a5e4a8b45bc.html",
-    "resumen": "Según el primer ministro israelí, el \"tratamiento dirigido\" ha eliminado \"el problema\" sin dejar rastro Leer"
-  },
-  {
-    "titulo": "Instagram lanza Instants, una nueva app con la que quiere competir con beReal: dónde descargarla y cómo se usa",
-    "medio": "HuffPost",
-    "fecha": 1777047924.0,
-    "link": "https://www.huffingtonpost.es/tecnologia/instagram-lanza-instants-nueva-app-quiere-competir-bereal-donde-descargarla-como-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Detenido un seguidor de la Real Sociedad que acosó en la carretera a varios aficionados del Atlético",
-    "medio": "El País",
-    "fecha": 1777047749.0,
-    "link": "https://elpais.com/espana/2026-04-24/detenido-un-seguidor-de-la-real-sociedad-que-acoso-en-la-carretera-a-varios-aficionados-del-atletico.html",
-    "resumen": "El arrestado, de 33 años, está investigado por un delito contra la seguridad vial"
-  },
-  {
-    "titulo": "Rajoy reconoció y comentó en el juicio de Gürtel los mensajes que ha negado o no recordado durante la vista de Kitchen",
+    "titulo": "Rajoy reconoció en el juicio de Gürtel en 2017 los mensajes que ahora no recuerda en Kitchen",
     "medio": "eldiario.es",
     "fecha": 1777047532.0,
     "link": "https://www.eldiario.es/politica/rajoy-reconocio-comento-juicio-gurtel-mensajes-negado-no-recordado-durante-vista-kitchen_1_13170579.html",
     "resumen": "El testigo aseguró el pasado jueves que no había enviado un mensaje al extesorero en el que escribía \"hacemos lo que podemos\" mientras que en su declaración de julio de 2017 en la Audiencia Nacional reconoció el SMS y añadió: \"No tiene significado ninguno\"Rajoy niega la guerra sucia de su Gobierno con una afirmación sin pruebas y numerosos olvidos El expresidente del Gobierno Mariano Rajoy respondió el pasado jueves en el juicio de Kitchen a las preguntas sobre los mensajes que se intercambió con Luis Bárcenas en 2012 y 2013, durante la instrucción del caso Gürtel y tras el estallido de la caja B del PP. Lo hizo de dos formas: dijo que no recordaba algunos mensajes e incluso negó haber enviado uno de ellos, pese a estar acreditado en la causa judicial. Sus respuestas son distintas, incluso opuestas, a las que ofreció en 2017, también en la Audiencia Nacional, durante el primer gran juicio del caso Gürtel, la trama de mordidas y comisiones alrededor del Partido Popular en las comunidades autonómas de Madrid y Valencia 26 de julio de 2017. Rajoy se enfrenta a uno de los episodios más relevantes de su mandato como presidente del Gobierno. Declara como testigo en el caso de corrupción que a la postre motivará su salida del Palacio de La Moncloa. Responde desde el estrado por estar en ejercicio del cargo, según había acordado previamente el tribunal. El abogado de una de las acusaciones le pregunta por los mensajes que se intercambió con el extesorero de su partido. Rajoy reconoce los mensajes que envió, los comenta y concluye que no significa que él interviniera en ningún procedimiento judicial a favor del antiguo cargo del PP. El 23 de febrero de 2012, el extesorero del PP escribió a Rajoy y este le respondió tres días más tarde: “Luis, nada es fácil. Hacemos lo que podemos”. El pasado jueves, en el juicio por la operación parapolicial para sabotear el caso de la caja B, Rajoy afirmó: “No tengo ni idea de lo que es eso”. “¿Ese mensaje lo manda usted?”, le preguntó el letrado Jaime Montero, de Podemos. “No”, contestó Rajoy. En julio de 2017, Rajoy había dado una versión contraria. Admitió haber mandado el mensaje y ofreció su versión sobre él. “No tiene ningún significado ninguno”, dijo en primer lugar. Y luego añadió: “Hacemos lo que podemos significa lo que exactamente significa hacemos lo que podemos (...) Significa que no hicimos nada que pudiera perjudicar a ningún proceso”. En el juicio de Gürtel, el abogado del Partido Socialista de Madrid, Wilfredo Jurado, preguntó a Rajoy también por el mensaje de “Luis, sé fuerte”. Fue enviado el 18 de enero de 2013. Solo dos días antes de ese mensaje había llegado a España comisión rogatoria de Suiza acreditando que Bárcenas tenía 22 millones de euros escondidos en el Dresdner Bank. En el juicio, Rajoy trasladó que el botín del tesorero supuso un antes y un después en su relación. Algo totalmente contradictorio con los mensajes que se intercambian aquel 18 de enero. Esa mañana, El Mundo ha publicado que Bárcenas repartía sobres de entre 5.000 y 15.000 euros mensuales entre los dirigentes del partido. Y que ese dinero procedía de donaciones de empresarios. Bárcenas escribe a Rajoy para pedirle que el partido salga a desmentir “la filtración de Cospedal a El Mundo”. Esa relación tan fría entre ellos no era compartida, al menos entonces por el tesorero, que traslada a Rajoy: “Sabes que te estoy agradecido por el apoyo que personalmente siempre me has dado”. El presidente responde: “Luis. Lo entiendo. Sé fuerte. Mañana te llamaré. Un abrazo”. Rajoy dijo el jueves que este es el único SMS con Bárcenas que recuerda, pero por la única razón de que “a lo largo de los últimos quince años se ha publicado casi todos días”. Cuando fue preguntado por ese mensaje en el juicio de Gürtel, en 2017, Rajoy respondió: “Ya lo he dicho en numerosas ocasiones. Uno no siempre acierta en la vida. Uno manda muchos mensajes en la vida, pero no hice absolutamente nada. Hasta tal punto que no le llamé”. En 2021, durante el juicio de la caja B del PP, una pieza separada de Gürtel, Rajoy ya no recordaba “ninguno de los mensajes” con Bárcenas, a excepción de aquel en el que escribió “Luis, sé fuerte”. Inauguró el guion del pasado jueves. Los juicios de esta semana y el de 2021, los de la desmemoria, se diferencian del de Gürtel, en 2017, en que entonces Rajoy era presidente del Gobierno."
-  },
-  {
-    "titulo": "Detenido un hombre por matar a su madre de 92 años ingresada en un centro en Barcelona",
-    "medio": "The Objective",
-    "fecha": 1777047351.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-04-24/detenido-hombre-matar-madre-ingresada-centro-barcelona/",
-    "resumen": "Los Mossos d’Esquadra han detenido este viernes a un hombre de 67 años que presuntamente ha matado a su madre de 92, que estaba ingresada en […]"
-  },
-  {
-    "titulo": "Macron anuncia que abandonará la política en 2027, al término de su segundo y último mandato presidencial",
-    "medio": "El Español",
-    "fecha": 1777046763.0,
-    "link": "https://www.elespanol.com/mundo/europa/20260424/macron-anuncia-abandonara-politica-termino-segundo-ultimo-mandato-presidencial/1003744221270_0.html",
-    "resumen": "La Constitución francesa impide a los presidentes de la República gobernar durante un tercer periodo.Más información: Francia, ante el dilema: cómo frenar a la extrema derecha en las presidenciales cuando no ilusiona ningún otro candidato"
-  },
-  {
-    "titulo": "Un joven mata por la espalda a un menor de edad en Puente de Vallecas (Madrid)",
-    "medio": "HuffPost",
-    "fecha": 1777046692.0,
-    "link": "https://www.huffingtonpost.es/sociedad/matan-punaladas-menor-edad-puente-vallecas-madrid-f202604.html",
-    "resumen": ""
   },
   {
     "titulo": "Neus Moya, podóloga: “las nuevas bailarinas tabi de Zara me han sorprendido, son extremadamente cómodas”",
@@ -378,48 +602,6 @@
     "resumen": "La institución británica cree que el precio de los activos, en máximos, no refleja los riesgos actuales. Leer"
   },
   {
-    "titulo": "Antonio Muñoz Molina sorprende al hablar de una serie de televisión: \"Es el mejor retrato de la verdadera vida americana que yo he visto en televisión\"",
-    "medio": "HuffPost",
-    "fecha": 1777046375.0,
-    "link": "https://www.huffingtonpost.es/life/cultura/antonio-munoz-molina-sorprender-hablar-serie-television-es-mejor-retrato-verdadera-vida-americana-he-visto-television-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La entrevista de Andrea Ropero en 'El Intermedio' que no para de compartirse: \"Esto es periodismo\"",
-    "medio": "HuffPost",
-    "fecha": 1777046335.0,
-    "link": "https://www.huffingtonpost.es/virales/la-entrevista-andrea-ropero-compartirse-esto-periodismo-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Carlos Alcaraz anuncia que no jugará Roland Garros por su lesión en la muñeca: \"Es un momento complicado para mí\"",
-    "medio": "El Español",
-    "fecha": 1777046124.0,
-    "link": "https://www.elespanol.com/deportes/tenis/20260424/carlos-alcaraz-anuncia-no-jugara-roland-garros-lesion-muneca-momento-complicado/1003744221312_0.html",
-    "resumen": "El número 2 del mundo ha confirmado en sus redes sociales que no estará presente en el Masters 1.000 de Roma y no podrá defender la 'Copa de los Mosqueteros'.Más información: Jannik Sinner, el ídolo de repuesto del Mutua y su mejor oportunidad para dejar su firma en la casa de Carlos Alcaraz"
-  },
-  {
-    "titulo": "Anna Nadal, fisioterapeuta y experta en salud integrativa: \"Si no duermes suficiente, te vas a convertir en una máquina de fabricar inflamación\"",
-    "medio": "HuffPost",
-    "fecha": 1777045985.0,
-    "link": "https://www.huffingtonpost.es/life/salud/anna-nadal-fisioterapeuta-experta-salud-integrativa-si-duermes-suficiente-te-vas-convertir-maquina-fabricar-inflamacion-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Carlos Alcaraz renuncia a Roland Garros y a Roma por su lesión: \"Lo más prudente es ser cautos\"",
-    "medio": "HuffPost",
-    "fecha": 1777045915.0,
-    "link": "https://www.huffingtonpost.es/deporte/carlos-alcaraz-renuncia-roland-garros-roma-lesion-lo-mas-prudente-cautos-f202604.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Muere un menor de 17 años apuñalado por otro joven desde un patinete en Entrevías (Madrid)",
-    "medio": "The Objective",
-    "fecha": 1777045909.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-04-24/menor-edad-apunalado-patinete-madrid/",
-    "resumen": "La Policía Nacional investiga el homicidio de un chico de 17 años de edad que ha sido apuñalado por otro joven mientras paseaba por la calle […]"
-  },
-  {
     "titulo": "Carlos Alcaraz se da de baja de Roland Garros",
     "medio": "Europa Press",
     "fecha": 1777045734.0,
@@ -434,25 +616,11 @@
     "resumen": "Un exejecutivo de PlayStation cree que dejar de lanzar sus juegos AAA en ordenadores podría ser contraproducente para Sony desde lo económico. Shuhei Yoshida, uno de los directivos más icónicos de la compañía y antiguo líder de PlayStation Studios, consideró que abandonar el PC puede terminar siendo una mala idea. Durante su participación en el […] Seguir leyendo: Abandonar el PC puede ser una mala idea para los grandes juegos de Sony, dice el exjefe de PlayStation Studios"
   },
   {
-    "titulo": "La Policía busca al autor de la muerte de un joven de 17 años en Puente de Vallecas: le asestó dos puñaladas por la espalda",
-    "medio": "El Español",
-    "fecha": 1777045319.0,
-    "link": "https://www.elespanol.com/madrid/sociedad/20260424/policia-busca-autor-muerte-joven-anos-puente-vallecas-asesto-punaladas-espalda/1003744221202_0.html",
-    "resumen": "El menor, de origen hondureño, recibió sendas cuchilladas por parte de una persona que iba en patinete y se fugó tras el suceso. Más información: La vida en la cárcel de Julio, el asesino de David: \"Actúa como un niño de 13 años. No le consta haber hecho nada malo\""
-  },
-  {
     "titulo": "El Ibex pierde los 17.700 puntos tras caer un 4,3% en una semana con pleno de caídas",
     "medio": "Expansión",
     "fecha": 1777045263.0,
     "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/04/24/69eb02dae5fdea84628b457a.html",
     "resumen": "El Ibex 35 parte este viernes desde los 17.885 puntos, tras retroceder ayer un 0,67%. Leer"
-  },
-  {
-    "titulo": "Fallece Josep Manuel Anglada, figura clave del alpinismo",
-    "medio": "La Vanguardia",
-    "fecha": 1777044952.0,
-    "link": "https://www.lavanguardia.com/vida/20260424/11522101/fallece-josep-manuel-anglada-figura-clave-alpinismo.html",
-    "resumen": "El mundo de la montaña despide a un escalador, empresario y viajero muy querido y respetado"
   },
   {
     "titulo": "Alubias cacio e pepe: el giro proteico al clásico italiano",
@@ -467,20 +635,6 @@
     "fecha": 1777044817.0,
     "link": "https://www.expansion.com/economia/financial-times/2026/04/24/69eb8d46468aeb9f278b458a.html",
     "resumen": "El primer ministro polaco afirma que la UE debería reforzar su cláusula de defensa mutua del Artículo 42.7. Leer"
-  },
-  {
-    "titulo": "Investigan a la suegra de Carolina Flores tras el asesinato de la exreina de belleza en México: \"Tú eres mío y ella me robó\"",
-    "medio": "El Mundo",
-    "fecha": 1777044764.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/24/69eb8688fc6c83d5518b45b8.html",
-    "resumen": "La víctima se encontraba en su domicilio junto a su marido, su hijo de ocho meses y su suegra, a quien la Fiscalía investiga por su posible implicación Leer"
-  },
-  {
-    "titulo": "CaixaResearch Institute: La investigación hace ciudad (★★★★✩)",
-    "medio": "La Vanguardia",
-    "fecha": 1777044727.0,
-    "link": "https://www.lavanguardia.com/vida/20260424/11522099/caixaresearch-institute-investigacion-ciudad.html",
-    "resumen": "La principal virtud de este edificio es quizás sea la manera en que coloniza y ordena con criterios urbanos su solar"
   },
   {
     "titulo": "España tiene a un pájaro feísimo que no quiere que se extinga. Y toda Europa depende de que no lo haga",
@@ -504,13 +658,6 @@
     "resumen": "Vida más sencilla - Aquellas comunidades ajustaban sus decisiones a los recursos disponibles en cada zona, lo que permitía aprovechar mejor lo que ofrecía el terreno sin invertir tiempo extraEl Homo sapiens usó arcos y flechas hace 54.000 años para imponerse a los neandertales en Europa Los atajos en la conducta humana aparecen en cuanto existe una forma de gastar menos energía para lograr el mismo resultado. El ser humano tiende a elegir caminos que requieren menos esfuerzo físico o menos desplazamiento cuando el entorno lo permite. Esa inclinación no es nueva ni pertenece solo al presente, ya que también se observa en los primeros habitantes de la Tierra, que ajustaban sus decisiones a lo que tenían más a mano. Ese comportamiento no responde a una falta de capacidad, sino a una forma de adaptarse mejor a los recursos disponibles y a las condiciones del entorno. Cuando una opción reduce el trabajo necesario para sobrevivir, esa opción gana terreno frente a otras más exigentes. A partir de ahí se entienden decisiones muy concretas en la vida diaria del pasado. Un asentamiento antiguo se ubicó junto a un lago por la leña Un estudio publicado en Quaternary Science Reviews muestra que los humanos de hace unos 780.000 años elegían asentarse en Gesher Benot Ya’aqov en función del acceso a madera flotante para mantener el fuego. El trabajo, recogido por Discover, indica que no buscaban tipos de madera concretos, sino que aprovechaban lo que el entorno dejaba en la orilla del lago. Esa disponibilidad reducía el esfuerzo necesario para mantener el fuego activo durante largos periodos. Nira Alperson-Afil, investigadora del Instituto de Arqueología de la Universidad Bar-Ilan, explicó a Discover que “estos primeros grupos elegían la orilla no solo por el agua o los animales, sino también por la madera que encontraban allí”. El análisis del equipo muestra que la recogida de madera no seguía un patrón de selección detallada, sino una lógica de acceso inmediato. Los restos indican que las ramas y troncos arrastrados por el agua se acumulaban en la orilla y quedaban listos para su uso. Esa disponibilidad evitaba desplazamientos largos o tareas adicionales de recolección. El sistema funcionaba porque el entorno renovaba de forma continua ese recurso. La elección del lugar se apoyaba en esa ventaja, ya que el fuego requería un suministro constante de combustible. El análisis del carbón reveló una gran variedad de especies Los investigadores estudiaron 266 fragmentos de carbón con microscopio para identificar su origen. El resultado mostró presencia de fresno, sauce, vid, adelfa, olivo, roble, pistacho y granado. El fresno representaba más del 50% del conjunto, seguido del olivo. Esa variedad indica que el entorno tenía zonas húmedas cerca del agua y áreas de bosque abierto. También señala que el material quemado reflejaba lo que había disponible alrededor, sin una selección estricta de especies. El carbón antiguo suele desaparecer con el paso del tiempo, por lo que encontrar restos en un yacimiento tan antiguo es poco habitual. Ethel Allué, arqueobotánica de la Universitat Rovira i Virgili, explicó a Discover que “las plantas suelen quedar fuera del registro arqueológico”. En este caso, la gran cantidad de restos conservados permitió reconstruir con más detalle el uso del fuego. Esa acumulación ofrece una imagen más completa del comportamiento de estos grupos. El uso del fuego no solo aportaba calor o luz, también obligaba a mantener una rutina de abastecimiento. Alperson-Afil señaló que “el fuego ofrecía ventajas, pero también hacía a estos grupos dependientes de su mantenimiento”. Esa dependencia explica por qué la cercanía a combustible influía en la elección del lugar donde vivir. Mantener el fuego encendido exigía estar pendiente todo el tiempo, y cuando esa tarea se hacía más fácil, el día a día cambiaba de forma clara. Los restos hallados muestran una vida organizada alrededor del fuego Hace unos 800.000 años, comunidades humanas se reunían en torno al paleo lago Hula, en el norte de lo que hoy es Israel. Allí encontraban agua, animales para cazar y plantas para alimentarse, pero también materiales para fabricar herramientas. Las excavaciones dirigidas por Naama Goren-Inbar revelaron más de 20 niveles de ocupación, lo que indica que el lugar fue utilizado durante generaciones. Esa repetición confirma que ofrecía ventajas claras frente a otros puntos del entorno. En ese mismo lugar aparecieron restos de un elefante de colmillos rectos con señales de corte, lo que indica que fue procesado allí mismo. También se hallaron dientes de carpa junto a fragmentos de piedra quemada, lo que apunta a la preparación de pescado sobre fuego. Estas evidencias muestran una organización del espacio en torno a los hogares, donde se cocinaba, se trabajaba la piedra y se gestionaban los recursos. Esa forma de organizar la vida encaja con la elección de un entorno que facilitaba tareas básicas, donde el acceso al combustible reducía el esfuerzo necesario para mantener todo en marcha."
   },
   {
-    "titulo": "Expulsar a España de la OTAN: el farol de EEUU",
-    "medio": "El Español",
-    "fecha": 1777044646.0,
-    "link": "https://www.elespanol.com/mundo/20260424/expulsar-espana-otan-farol-eeuu/1003744221180_0.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Rechazo frontal al plan de Mossos en institutos de Cataluña",
     "medio": "Moncloa.com",
     "fecha": 1777044600.0,
@@ -525,27 +672,6 @@
     "resumen": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha incoado quince nuevos expedientes a Endesa, TotalEnergies, Engie, ContourGlobal y a la asociación nuclear Ascó-Vandellos (de la que forman parte Endesa e Iberdrola) en el marco de su investigación sobre lo ocurrido en el apagón del 28 de abril del pasado año.La apertura de estos nuevos expedientes se produce una semana después de que el regulador incoara una veintena de expedientes sancionadores a Red Eléctrica y a compañías como Iberdrola, Endesa, Naturgy, Repsol o la Asociación Nuclear Ascó-Vandellós II, por lo que la cifra total asciende a 35.Estos nuevos expedientes \"incluyen también la investigación de prácticas producidas en días o periodos distintos al 28 de abril, pero que constituirían igualmente indicios de posibles infracciones sectoriales detectados\" en el marco de la investigación del incidente, señala el regulador.No obstante, la CNMC recalca que los hechos objeto de estos procedimientos \"no implican, por sí mismos, la atribución del origen o causa del apagón a las empresas afectadas\", dado que, explica, el incidente respondió a un origen multifactorial.El propio regulador subraya que la incoación de estos expedientes \"no prejuzga el resultado final de la investigación\" y añade que los procedimientos tendrán una duración máxima que varía entre los nueve y los dieciocho meses en función de la gravedad de la infracción.En todo caso, los interesados podrán formular alegaciones y proponer la práctica de pruebas, indica la CNMC.De las quince nuevas incoaciones, once se dirigen a Endesa Generación, otro corresponde a la compañía Engie, otro a Total Energies y otro a ContourGlobal por la central térmica riojana de Arrúbal, mientras que el último de ellos se dirige a la asociación nuclear Ascó-Vandellos (de la que forman parte Endesa e Iberdrola).Los veinte casos abiertos la semana pasada se repartían en cinco expedientes de Iberdrola Generación; otros cinco de Endesa Generación (que ahora suma dieciséis) y otros cinco expedientes en el caso de Naturgy, tres de ellos de Naturgy Ciclos Combinados y dos de Naturgy Generación.Asimismo, se incluye un expediente abierto a Repsol Generación Eléctrica; dos expedientes a la asociación nuclear Ascó-Vandellos (de la que forman parte Endesa e Iberdrola y que ahora suma tres), y otro a Bahía de Bizkaia Electricidad (participado por la suiza Gunvor y el Ente Vasco de la Energía).A excepción del abierto a Ascó-Vandellos, todos los expedientes se incoan por una posible infracción del artículo 65.8 de la ley del sector eléctrico, como la práctica totalidad de los incoados la semana pasada a diversas empresas.No obstante, el tramitado a la asociación nuclear Ascó-Vandellos se debe al artículo 65.34 de esa misma ley, por, según la CNMC, posibles \"ofertas con valores anormales o desproporcionados para alterar indebidamente el despacho de las unidades de generación o la casación del mercado\".En cualquier caso, estos quince procedimientos se abren para estudiar posibles infracciones \"graves\", mientras que se mantiene la única infracción \"muy grave\" al abierto la semana pasada a Red Eléctrica."
   },
   {
-    "titulo": "El Departamento de Justicia de Trump cierra la investigación criminal contra Jerome Powell para desbloquear el nombramiento de su sucesor",
-    "medio": "El Mundo",
-    "fecha": 1777043785.0,
-    "link": "https://www.elmundo.es/economia/macroeconomia/2026/04/24/69eb8908fc6c83a8708b45de.html",
-    "resumen": "Varios senadores, incluyendo uno republicano, habían anunciado que no votarían para ratificar a Kevin Warsh hasta que se exonerara al presidente de la Reserva Federal, presionado por la Casa Blanca para que bajara los tipos de interés o dimitiera. Leer"
-  },
-  {
-    "titulo": "Junts reclama un plan de choque para reducir los efectos del polen en Barcelona",
-    "medio": "La Vanguardia",
-    "fecha": 1777043666.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260424/11522088/junts-reclama-plan-choque-reducir-efectos-polen-barcelona.html",
-    "resumen": "Considera que es inaceptable que miles de ciudadanos sufran molestias como las provocada por los frutos del plátano de sombra durante la diada de Sant Jordi"
-  },
-  {
-    "titulo": "Los repartidores de Glovo van a la huelga contra los 750 despidos anunciados",
-    "medio": "La Vanguardia",
-    "fecha": 1777043554.0,
-    "link": "https://www.lavanguardia.com/economia/20260424/11522065/repartidores-glovo-huelga-750-despidos-anunciados.html",
-    "resumen": "Este viernes está convocada la primera jornada de huelga en España por los “abusos laborales” de la empresa denunciados por los sindicatos"
-  },
-  {
     "titulo": "Detenido un hombre por matar a su madre en Barcelona",
     "medio": "eldiario.es",
     "fecha": 1777043442.0,
@@ -553,32 +679,11 @@
     "resumen": "El autor del feminicidio llama al 112 para confesar el crimen, ocurrido en el centro sociosanitario donde estaba ingresada la mujer Los Mossos d’Esquadra han detenido en la mañana de este viernes a un hombre por matar a su madre, ingresada en un centro sociosanitario, en el distrito barcelonés de Sant Andreu. Según ha informado la policía catalana en un comunicado, el propio autor de los hechos, un hombre de 67 años de edad, ha llamado al 112 a las 8.45h. En la llamada, el hombre ha explicado que había matado a su madre, de 92 años de edad. Hasta el lugar de los hechos se ha desplazado una patrulla de los Mossos que ha comprobado el crimen. La División de Investigación Criminal (DIC) ha abierto una investigación sobre el caso y esclarecer las causas del feminicidio. En una situación de emergencia, se puede llamar a los Mossos al 112 o a los teléfonos de la Policía Nacional (091) y de la Guardia Civil (062), y en caso de ser imposible realizar una llamada, se puede recurrir a la aplicación ALERTCOPS, desde la que se envía una señal de alerta a la policía con geolocalización."
   },
   {
-    "titulo": "La CNMC abre 15 nuevos expedientes sancionadores por el apagón",
-    "medio": "La Vanguardia",
-    "fecha": 1777043293.0,
-    "link": "https://www.lavanguardia.com/economia/20260424/11522094/endesa-recibe-11-15-nuevos-expedientes-abiertos-cnmc-apagon-electrico.html",
-    "resumen": "La central nuclear de Ascó-Valdellós, y las energéticas Total, Engie y Contour el resto de investigadas en esta segunda tanda de procedimientos sanciones del regulador"
-  },
-  {
-    "titulo": "El Departamento de Justicia de EE.UU. archiva la investigación penal contra Jerome Powell",
-    "medio": "La Vanguardia",
-    "fecha": 1777043045.0,
-    "link": "https://www.lavanguardia.com/economia/20260424/11522086/departamento-justicia-ee-uu-archiva-investigacion-penal-jerome-powell.html",
-    "resumen": "El movimiento busca despejar el camino para que Kevin Warsh, nominado por Trump para sucederlo, pueda ser confirmado en el Senado"
-  },
-  {
     "titulo": "La UE hace oídos sordos a la petición de los países de medidas \"más ambiciosas\" para luchar contra la subida de precios energéticos",
     "medio": "eldiario.es",
     "fecha": 1777043001.0,
     "link": "https://www.eldiario.es/economia/ue-oidos-sordos-peticion-paises-medidas-ambiciosas-luchar-subida-precios-energeticos_1_13169414.html",
     "resumen": "Ni la flexibilización de las reglas fiscales, como han pedido España e Italia, ni impuestos a los beneficios extraordinarios de las energéticas, solicitados por varios países, Bruselas se limita a mantener sus recomendaciones y a anunciar un plan de electrificación que se presentará este verano “Más ambición”. Los líderes de la UE reunidos en la cumbre informal que se ha celebrado el jueves y viernes en Nicosia, Chipre, han lanzado un claro mensaje a la Comisión Europea. Las medidas energéticas para luchar contra el impacto de subidas de precios por la guerra de Irán propuestas por el equipo de la presidenta Ursula Von der Leyen son “muchas recomendaciones y buenas prácticas, pero nada concreto”. Aunque la factura energética de la UE se ha incrementado en 25.000 millones de euros desde el comienzo de los bombardeos de EEUU e Israel sobre Irán, la respuesta del presidente del Consejo Europeo, António Costa, y la presidenta de la Comisión Europea ha sido ignorar las peticiones, poner como excusa el diferente mix energético de los estados miembros y remitir a 95.000 millones de fondos europeos pendientes de gastar para que se dediquen a proyectos energéticos Aunque la Comisión Europea ha tratado de vender las medidas como “oportunas, específicas y temporales”, la realidad es que no dejan de ser un compendio de recomendaciones basadas en la coordinación entre países, la creación de un nuevo Observatorio de Combustibles para hacer un seguimiento de la producción y seguir la línea trazada en la agenda verde de la UE para acelerar la transición hacia una energía limpia autóctona y reforzar el sistema de redes, un discurso que hace años que la Comisión ha puesto sobre la mesa. A su llegada a la cumbre este viernes, el presidente del Gobierno, Pedro Sánchez, ha propuesto que se prorrogue durante un año los fondos europeos Next Generation para dedicarlos a inversiones en electrificación y las energías renovables, además de poner el foco en un aspecto bastante polémico en los pasillos de las instituciones europeas en Bruselas: “Hay que abrir el debate y aprobar una flexibilización de las reglas fiscales, como con el gasto en Defensa”. En contra de flexibilizar el corsé del déficit Sin embargo, Von der Leyen ha respondido que la cláusula de salvaguardia que permite flexibilizar el corsé del déficit “solo puede activarse en caso de una grave recesión económica en la zona euro o en la Unión Europea en su conjunto. Afortunadamente, esa no es la situación actual, pero seguimos vigilando muy de cerca la evolución, y el Ecofin debatirá el asunto en detalle, por lo que permanecemos atentos”. Respecto a la utilización de fondos europeos para inversiones energéticas, la presidenta de la Comisión ha subrayado que “si se suman los fondos Next Generation EU, los fondos de cohesión y el Fondo de Modernización, hay alrededor de 300.000 millones de euros dedicados a inversiones energéticas. De ellos, 95.000 millones aún no se han utilizado. Por ello, he instado a los Estados miembros a que lo hagan”. Sánchez volvió a recordar que España, junto con Alemania, Italia, Austria y Portugal mandó una carta la semana pasada en la que pedían a la Comisión que pusiera en marcha el marco legal para que los países miembros pudieran aprobar un nuevo impuesto sobre los beneficios extraordinarios de las empresas energéticas. “Tenemos que hacer una acción coordinada para que se vuelva a crear, como hicimos durante la crisis energética de Rusia, un impuesto a las grandes empresas energéticas, un impuesto extraordinario para permitir financiar buena parte de las respuestas que nos están llevando ahora mismo a protegernos a los ciudadanos, a las empresas y a las industrias”, ha subrayado Sánchez. Ni esta medida ni otras que aparecieron en un borrador que trabajaron los técnicos de la Comisión como la obligatoriedad de un día de teletrabajo o la subvención del transporte público han aparecido en la propuesta de Bruselas. Plan de Acción de Electrificación para este verano A pesar de la situación de incertidumbre, otras medidas tendrán que esperar al verano, cuando Von der Leyen ha anunciado que se presentará “el Plan de Acción de Electrificación con un objetivo ambicioso, porque el mensaje general de las discusiones fue que debemos avanzar hacia una energía limpia y de producción propia. No es solo una cuestión de asequibilidad, sino también de seguridad económica e independencia”. La decepción por las propuestas energéticas de la Comisión no es una cuestión de familias políticas. El primer ministro belga, Bart de Wever, conservador, ha respaldado también un marco que regule los beneficios extraordinarios“ de las energéticas y ha subrayado que las propuestas son ”muchas recomendaciones y buenas prácticas, pero nada concreto“. También la ultraderechista primera ministra de Italia, Giorgia Meloni, ha remarcado que “sería un error afrontar esta situación solo cuando ya se ha llegado al límite, el precio que se paga entonces es mucho más alto”, añadiendo que la defensa de la UE también debería ser “la protección de la integridad económica europea”. La mala situación de las cuentas públicas de Italia ya había hecho que Meloni insistiera en que Bruselas debería flexibilizar las reglas fiscales para que los países puedan incurrir en déficit sin que sean castigados por la UE. “En lo que respecta a las ayudas estatales, el margen fiscal no es igual para todos”, ha puntualizado la primera ministra italiana, que ha recalcado que “Europa debe ser mucho más valiente; aprecio la propuesta de la presidenta de la Comisión Europea, pero no es un paso adelante suficiente”. Mientras que la primera ministra de Letonia, Evika Silina, de centro derecha, ha comentado que los líderes de la UE pretenden “mejorar las propuestas de Bruselas” ante las informaciones contradictorias que lanza Donald Trump sobre la duración de la guerra. “Tenemos que estar mejor preparados para la siguiente crisis. Lamentablemente, los precios de los carburantes van a seguir altos y tenemos que tomar decisiones rápidas”. Ante el escaso impacto de las medidas de la Comisión, el presidente de Chipre, Nikos Christodoulides, país que ostenta la presidencia semestral de la UE, ha informado de que los Gobiernos han decidido encargar a sus responsables de Economía que presenten “propuestas fiscales muy específicas” para afrontar la crisis de precios energéticos. “Hemos decidido pedir a los ministros de Finanzas, que se reúnen en mayo, que prosigan las discusiones para que propongan medidas muy específicas a corto plazo sobre la crisis energética”."
-  },
-  {
-    "titulo": "Hemos estado usando a nuestras mascotas para aliviar nuestra ansiedad. Y ahora el estrés se lo están quedando ellas",
-    "medio": "Xataka",
-    "fecha": 1777042913.0,
-    "link": "https://www.xataka.com/ecologia-y-naturaleza/hemos-estado-usando-a-nuestras-mascotas-para-aliviar-nuestra-ansiedad-ciencia-avisa-que-estres-se-estan-quedando-ellos",
-    "resumen": "Cuando se llega a casa después de un día agotador, los que tienen una mascota en casa la verdad es que esperan poder ser recibidos por su afecto incondicional, puesto que para muchos es la mejor terapia contra la ansiedad. Y es aquí donde, durante muchos años, hemos pensado que nuestros perros o gatos actúan como un escudo protector frente al caos exterior, pero la verdad es que estamos viendo que lo que de verdad ocurre es que absorben nuestro estrés, algo que, al igual que nos ocurre a nosotros, no es para nada bueno. Se transmite. Aquí son varios los estudios científicos publicados en los últimos años los que han comenzado a dibujar un panorama claro sobre lo que los etólogos denominan \"contagio emocional interespecífico\", haciendo que los animales sean auténticos espejos de nuestro estado mental. Uno de los estudios más importantes fue publicado en el año 2019 en Scientefic Reports y recogió diferentes medidas del estrés a largo plazo. Para hacerlo, los investigadores decidieron analizar la concentración de cortisol, que es la principal hormona del estrés, en el pelo de 58 perros y en el de sus respectivos dueños durante todo un año. En Xataka El perro es aún más antiguo de lo que creíamos: un cachorro de hace 15.800 años reescribe la historia de la domesticación Los resultados. Aquí se vio que los niveles de cortisol estaban sincronizados, haciendo que cuando el humano presentaba picos de cortisol, porque estaba bastante estresado, el perro también lo tuviera. De esta manera, los autores del estudio concluyeron que son los perros los que \"reflejan\"el nivel de estrés de sus humanos y no al revés. Además, las investigaciones recientes apuntan a que los perros son capaces de percibir cambios fisiológicos sutiles en nosotros, como los olores corporales asociados al estrés humano, respondiendo a ellos con mayor ansiedad o adoptando posturas y conductas más pesimistas. Y esto es algo que muestra cómo son verdaderos espejos de lo que nos ocurre a nosotros. Los problemas del trabajo. Si pensábamos que el teletrabajo o el hecho de estar dándole vueltas a un problema de trabajo solo nos afecta a los humanos, la verdad es que estamos muy equivocados. Esto es lo que nos dice la ciencia en diferentes artículos que apuntan a que la rumiación laboral, que es el hábito de estar dándole vueltas al mismo tema durante nuestro tiempo libre, se cobra un peaje directo sobre nuestras mascotas, al asociarse a aumentos significativos de estrés en los perros. Y esto se explica porque, aunque estamos físicamente al lado de nuestras mascotas, el hecho de estar pensando en un tema que nos obsesiona y nos preocupa provoca que no hagamos una buena interacción con nuestra mascota para que se sientan completamente seguras. Y esto lógicamente se manifiesta con un sufrimiento mental. En Xataka Llevábamos décadas equivocados sobre el fondo del mar: acabamos de encontrar todo un ecosistema escondido bajo la corteza oceánica ¿Cómo lo sabemos? El estrés de los animales a veces lo asociamos únicamente a cuando tienen que hacer una visita al veterinario o cuando hay un gran estruendo, como cuando se tira un petardo, pero la realidad es diferente. Aquí los animales, cuando viven en un entorno inestable, como por ejemplo con muchos ruidos, conflictos o con muchas horas de soledad, se detona una serie de cambios que a menudo los dueños malinterpretan como \"mal comportamiento\". Pero aquí el estrés en los animales se puede manifestar con una inquietud constante, la tendencia a esconderse, un apego excesivo, el hecho de no parar de ladrar, conductas destructivas de muebles y mucho más. Es por ello que ante un comportamiento inusual hay que comenzar a analizar la situación que se vive en casa, puesto que puede verse contagiado, como ocurre con los niños más pequeños que también sienten el estrés que hay en casa. Imágenes | lookstudio en Freepik En Xataka | Hemos atiborrado a los monos de Gibraltar de Doritos. Su solución ha sido comer tierra como si fuera omeprazol - La noticia Hemos estado usando a nuestras mascotas para aliviar nuestra ansiedad. Y ahora el estrés se lo están quedando ellas fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
     "titulo": "El iPhone 18 se aprieta el cinturón: filtran sus recortes para que no tengamos un susto al pagar",
@@ -609,25 +714,11 @@
     "resumen": "Su consejero delegado afirma que el fabricante estadounidense de chips ha llevado a cabo cambios 'fundamentales' tras un proceso de reestructuración de un año. Leer"
   },
   {
-    "titulo": "El príncipe Enrique camina por un campo de minas antipersona en Ucrania",
-    "medio": "La Vanguardia",
-    "fecha": 1777042473.0,
-    "link": "https://www.lavanguardia.com/gente/20260424/11522074/principe-enrique-camina-campo-minas-antipersona-ucrania.html",
-    "resumen": "El duque de Sussex ha repetido la imagen que dio la vuelta al mundo de su madre en Angola en 1997"
-  },
-  {
-    "titulo": "Junts desconvoca el acto de apoyo a Pujol en la Audiencia Nacional a petición de la familia",
-    "medio": "La Vanguardia",
-    "fecha": 1777042452.0,
-    "link": "https://www.lavanguardia.com/politica/20260424/11522075/familia-pujol-pide-junts-acompane-expresident-declarar-audiencia-nacional.html",
-    "resumen": "La formación de Carles Puigdemont había organizado un acto en Madrid para dar apoyo al fundador de Convergència Democràtica de Catalunya"
-  },
-  {
-    "titulo": "El delegado del Gobierno en Madrid, tras el anuncio de querella del alcalde de Móstoles: \"Tendría que haber dimitido ya\"",
-    "medio": "eldiario.es",
-    "fecha": 1777042301.0,
-    "link": "https://www.eldiario.es/madrid/delegado-gobierno-madrid-anuncio-querella-alcalde-mostoles-tendria-haber-dimitido_1_13170567.html",
-    "resumen": "Francisco Martín Aguirre ha criticado que el alcalde de Móstoles copresida este viernes la reunión de la Junta de Seguridad Local a pesar del caso de presunto acoso sexual y laboral a una exconcejala: \"No debe presidir una comisión de seguridad, hace un flaco favor a las mujeres\"Un juzgado admite la querella de la exconcejala de Móstoles por acoso sexual y laboral contra el alcalde y el PP Tensión este viernes en la reunión de la Junta de Seguridad Local. El delegado del Gobierno en Madrid, Francisco Martín Aguirre, ha cargado al inicio de la reunión contra el alcalde de Móstoles, Manuel Bautista, por copresidir la junta a pesar de que hace solo unos días un juzgado ha admitido a trámite la querella de la exconcejala de la misma localidad contra el edil por presunto acoso sexual y laboral. “Este señor tras lo que ha hecho no debe presidir una comisión como la que hemos celebrado en la que se habla de seguridad”, ha afeado Martín en declaraciones a elDiario.es. Tras las palabras de Martín, Manuel Bautista ha anunciado que presentará una querella contra el delegado del Gobierno por supuesta vulneración del honor. Una querella que Martín considera que es un intento para “despistar”: “No hay que caer en esa estrategia por la que está intentando distraernos a todos”, ha criticado, para insistir en que “no debe ser él quien esté al frente de una reunión de esta naturaleza, tendría que haber dimitido hace mucho”. El delegado considera que sería “hipócrita” que criticara este punto al salir de la reunión y no en la misma, aunque el Partido Popular ha tildado lo sucedido de “falta de respeto”, “indignidad” y de “no tener ningún tipo de escrúpulos”. En declaraciones remitidas a los medios de comunicación, el secretario general del PP de Madrid, Alfonso Serrano, ha acusado al delegado de ir “al ayuntamiento de un alcalde a insultarle y a faltarle el honor”. “No vamos a recibir ningún tipo de lecciones de este elemento que pertenece a un Gobierno corrupto”, ha añadido. Sin embargo, para Martín se trataba de una “cuestión de orden”: “Hay que recordar que él ha sido acusado por la que era su número dos. No es una campaña de ningún partido”, ha añadido. La exedil denunció de forma interna un supuesto caso de acoso sexual que se convirtió en acoso laboral, aunque la presidenta madrileña, Isabel Díaz Ayuso, no se llegó a reunir con ella. Con quien sí se reunió fue precisamente con el alcalde de Móstoles cinco días después de conocer el caso. Ahora, el delegado del Gobierno denuncia que el partido del alcalde le “está amparando y protegiendo”. Fuentes de Delegación aseguran que no le dan “mayor importancia” al anuncio de la querella por parte de Bautista: “Bastantes explicaciones tendrá que dar” a la Justicia."
+    "titulo": "El Departamento de Justicia de EEUU cierra la investigación sobre Jerome Powell (Fed)",
+    "medio": "Europa Press",
+    "fecha": 1777042457.0,
+    "link": "https://www.europapress.es/economia/legal-00345/noticia-departamento-justicia-eeuu-cierra-investigacion-jerome-powell-fed-20260424165417.html",
+    "resumen": "La fiscal para el Distrito de Columbia (Washington D.C.), Jeanine Pirro, ha informado de que el Departamento de Justicia no se hará cargo de la investigación iniciada contra el actual presidente de la Reserva Federal (Fed), Jerome Powell, por los sobrecostes en la reforma de la sede del banco central."
   },
   {
     "titulo": "La CNMC incoa 15 nuevos expedientes sancionadores por indicios de infracción grave por el apagón eléctrico",
@@ -635,20 +726,6 @@
     "fecha": 1777041908.0,
     "link": "https://www.europapress.es/economia/energia-00341/noticia-cnmc-incoa-15-nuevos-expedientes-sancionadores-indicios-infraccion-grave-apagon-electrico-20260424164508.html",
     "resumen": "La CNMC ha abierto expediente a Endesa, TotalEnergies, Engie y ContourGlobal La Rioja, todos ellos por posibles infracciones graves"
-  },
-  {
-    "titulo": "Los fiscales archivan la investigación penal contra el presidente de la Fed",
-    "medio": "Expansión",
-    "fecha": 1777041831.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/04/24/69eb819ce5fdea46538b4591.html",
-    "resumen": "La decisión elimina un posible obstáculo para la confirmación de Kevin Warsh como próximo presidente del banco central estadounidense. Leer"
-  },
-  {
-    "titulo": "Obras en la M-607: el tercer carril incluye un paso de fauna que preserva rutas naturales de animales",
-    "medio": "eldiario.es",
-    "fecha": 1777041628.0,
-    "link": "https://www.eldiario.es/spin/obras-m-607-tercer-carril-incluye-paso-fauna-preserva-rutas-naturales-animales-pm_1_13167470.html",
-    "resumen": "Conservación - El punto elegido conecta dos espacios protegidos y ya aparecía en la planificación ambiental por el número de incidentes registrados, además de ofrecer buenas condiciones para integrarse Los pasos de peatones no sirven de nada para un jabalí que intenta cruzar una avenida llena de coches. Las ciudades dificultan el movimiento de los animales porque introducen carreteras, vallas y tráfico que cortan sus rutas habituales. Ese problema se agrava cuando el contacto con los vehículos acaba en atropellos, que figuran entre las principales causas de muerte para muchas especies en zonas cercanas a núcleos urbanos. La presencia continuada de tráfico obliga a la fauna a tomar riesgos al cruzar, lo que altera sus desplazamientos y reduce su capacidad para encontrar alimento o refugio. Este escenario obliga a buscar soluciones que permitan a los animales atravesar infraestructuras sin exponerse a los coches, y una de ellas pasa por crear pasos elevados que imitan el terreno natural pero que dependen de cómo se diseñan y dónde se colocan. Madrid levanta un paso verde sobre la M-607 La Comunidad de Madrid ha incorporado un paso de fauna en la ampliación del tercer carril de la M-607 para permitir que los animales crucen sin exponerse a los vehículos. Este ecoducto forma parte de una intervención más amplia sobre la carretera entre Tres Cantos y Colmenar Viejo, con la intención de mejorar la movilidad y, al mismo tiempo, reducir los atropellos. La actuación incluye una estructura cubierta de tierra y vegetación que reproduce el terreno natural. La medida busca recuperar la continuidad del paso de la fauna en un tramo donde el tráfico supera los 60.000 vehículos diarios. Se plantan arbustos y encinas y se añaden vallados y grandes piedras que limitan la presencia humana, de modo que los animales perciben el entorno como una extensión natural El diseño del ecoducto no sigue el modelo de un puente convencional, ya que se apoya en cuatro falsos túneles de hormigón y se cubre con una capa de tierra que permite el crecimiento de vegetación. La estructura alcanza unos 140 metros de longitud y cerca de 60 metros de anchura, lo que crea una superficie amplia para el paso de animales. Sobre esa base se plantan especies como la retama, escaramujo o romero, además de encinas colocadas con separación regular. Este sistema hace que el paso se perciba como una continuidad del entorno, y así los animales lo utilizan sin cambios en su comportamiento habitual. También se instalan vallados de madera para reducir el contacto visual con el tráfico y bloques de piedra de entre 400 y 800 kilos que impiden el acceso de vehículos. Colmenar Viejo concentra un corredor con muchos atropellos La ubicación elegida se sitúa en Colmenar Viejo, en un punto donde la carretera atraviesa un corredor utilizado por la fauna. La planificación ambiental de la Comunidad de Madrid ya señalaba este tramo como uno de los que necesitaban pasos de fauna debido a la cantidad de atropellos registrados. Además, este punto permite mantener la conexión entre El Pardo y el Parque Regional de la Cuenca Alta del Manzanares. La elección responde también a las condiciones del terreno y a la ausencia de zonas edificadas cercanas, lo que facilita la integración del paso sin interferencias. La expansión urbana corta rutas y eleva muertes de fauna La construcción del ecoducto se organiza en dos etapas que permiten levantar la estructura sin interrumpir completamente el tráfico. En una primera fase se ejecutan las pilas intermedias que sostienen el conjunto, mientras que en la segunda se completan los arcos y la cobertura superior. Este proceso se coordina con los desvíos necesarios para mantener la circulación en la vía. La obra se integra dentro del conjunto del tercer carril, lo que obliga a ajustar tiempos y fases para no afectar al avance general del proyecto. La ampliación de la M-607 integra movilidad y protección La M-607 es una de las carreteras con mayor carga de tráfico en el norte de la región, con una intensidad media diaria de 62.291 vehículos. La ampliación contempla 7,3 kilómetros en este tramo y forma parte de un plan más amplio que busca mejorar la movilidad y reducir retenciones. En ese contexto, el ecoducto no se limita a ser una infraestructura ambiental, ya que se incorpora como parte de una actuación pensada para reorganizar el uso de la vía. La carretera seguirá siendo un eje principal de conexión, pero con un elemento añadido que corrige uno de sus efectos más graves sobre la fauna. El proyecto cuenta con una inversión inicial de 29,1 millones de euros para el tercer carril, a los que se suman 8,55 millones tras una modificación del contrato que incluye el paso de fauna. Aunque no hay una fecha concreta para el inicio del ecoducto, la previsión sitúa la finalización de todo el conjunto en la primavera de 2027. En ese momento, el tramo no solo tendrá más capacidad para vehículos, también permitirá que los animales crucen por encima de la carretera siguiendo sus rutas habituales sin entrar en la calzada."
   },
   {
     "titulo": "Madrid abre las ayudas de 4.000 euros por contratar empleada de hogar",
@@ -663,13 +740,6 @@
     "fecha": 1777039800.0,
     "link": "https://www.moncloa.com/2026/04/24/cena-metabolismo-atun-reset-3372956/",
     "resumen": "¿Cuántas veces has arruinado tu descanso y tu salud hormonal por creer que una ensalada de hojas verdes es la cena ideal para no engordar? La realidad es que privar al cuerpo de proteínas estructurales al final del día bloquea la señal de saciedad y ralentiza tu metabolismo de forma drástica. Este enfoque basado en […] La entrada La cena de 10 minutos con una lata de atún que los expertos recomiendan para resetear el metabolismo aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Viaje al centro del motor chino (parte 2): he visto el futuro de los coches en Pekín y sí, es eléctrico (y chulísimo)",
-    "medio": "Xataka",
-    "fecha": 1777039313.0,
-    "link": "https://www.xataka.com/movilidad/viaje-al-centro-motor-chino-parte-2-he-visto-futuro-coches-pekin-electrico-chulisimo",
-    "resumen": "Recuerdo cuando estuve en Dubái y asistí a GITEX, la feria de tecnología más grande del mundo con sus 230.000 metros cuadrados de stands repartidos en varios pabellones. Aquello me pareció absolutamente inabarcable, incluso teniendo dos o tres días para visitarla con relativa calma. Era algo absolutamente demencial. Tres años más tarde no he amanecido en Dubái, sino en Pekín. Y si los 230.000 metros cuadrados de GITEX fueron abrumadores, los 380.000 metros cuadrados del Salón del Automóvil de Pekín, los 1.451 coches expuestos, los 181 coches nuevos, los 71 coches conceptuales y las 200 ruedas de prensa son, directamente, misión imposible. Hall de Chery | Imagen: Xataka Necesitaría una semana para recorrer los dos pabellones que dan forma a este evento, pero apenas he tenido unas horas. Tampoco es que haya necesitado mucho más. No solo porque el 99% de los coches que he visto aquí no llegarán a España, que también, sino porque basta darse una vuelta por los stands de Chery, Xiaomi, BYD, Geely, Changan, Nio, Xpeng y compañía para descubrir que el futuro del automóvil no lleva sello europeo, sino una bandera china que se luce con orgullo. AION i60 | Imagen: Xataka La muestra más clara de que algo está cambiando y de que el sector está evolucionando es la expectación. He asistido a infinitos eventos de tecnología, desde el CES al IFA pasando por el MWC o GITEX. Llevaba años, muchos años, sin ver colas para entrar en un stand, para hacerle fotos al último producto lanzado por una empresa. Aquí pues bueno, esta fue la rueda de prensa del Grupo Chery. Momentos previos a la rueda de prensa de Chery | Imagen: Xataka Mientras que la tecnología de consumo se ha convertido en una comodity, en tanto que todo el mundo tiene un móvil, un portátil, un reloj y unos auriculares, los coches están transcionando. Hablar de coches es, quizá, quedarse corto, porque lo que Pekín me está enseñando es que el coche esta pasando a ser un gadget. Ya no es solo una cuestión de consumos, acabados y carrocería. Aquí hablar de un coche pasa por hablar de conectividad, de potencias de carga, de ecosistema, de infoentretenimiento. Mientras que la tecnología pasa ahora mismo por un momento de relativo estancamiento, reduciendo la innovación a mejoras incrementales en aspectos concretos, el motor es todo lo contrario. El sector vive uno de sus mejores momentos en materia de variedad, capacidad y tecnología. Jetour G700 | Imagen: Xataka La gasolina, o mejor dicho, la electricidad que impulsa esta evolución tiene sello chino. Me pregunto, ahora que veo en primera persona el poderío de empresas como BYD, Chery, Nio y compañía, si esto nadie lo pensó cuando los fabricantes vendieron su capacidad a largo plazo por beneficios a corto plazo. ¿Nadie pensó que China, que requiere una asociación con un socio local y la cesión de propiedad intelectual a cambio de poder vender en su enorme país, iba a dar un puñetazo sobre la mesa algún día? ¿Que, en algún momento, iba a querer dejar de fabricar para otros para coger lo aprendido, mejorarlo, optimizarlo y venderlo por sí misma? Arcfox S5, la gama premium de la pekinesa BAIC | Imagen: Xataka Seguro que externalizar el moldeado, la producción de piezas y la ingeniería permitió mantener los precios bajos y aumentar la competitividad antaño, pero ahora el tablero ha cambiado. Ahora es la marca china la que también acumula años de expertise compitiendo en un mercado ultra agresivo y electrificado como el local, la que es capaz de integrar verticalmente y controlar todo el proceso de fabricación, desde las baterías hasta el ultimo tornillo, y si no lo hace seguro que tiene una empresa cercana capaz de proveer hasta el último cable. Porque esa es una ventaja competitiva enorme: si Europa o Estados Unidos quiere una pieza china tiene que esperar a que la envíen y llegue. Días, como mínimo. ¿Esos acabados? 🤤 | Imagen: Xataka Si la necesita una marca china, seguramente solo tenga que cruzar la acera o conducir unos minutos hasta la sede del fabricante. Esa capacidad, ese buen hacer, lo veo claro al recorrer los infinitos halls que hay en el Salón. Veo a una BYD que llena un Hall 3 entero con sus marcas, presumiendo de un roadster de 1.000 CV como es el Denza Z. Su acabado tiene poco que envidiarle a cualquier coche europeo, aunque dudo que llegue a Europa. Denza Z | Imagen: Xataka Denza Z | Imagen: Xataka Denza Z | Imagen: Xataka Veo también un superdeportivo espectacular de su marca Fangchengbao capaz de desencajarle la mandíbula a cualquier persona. En fin, qué decir | Imagen: Xataka A su lado, un Denza Z9 GT y un Fangchengbao congelados a -33 grados le sirven a la marca para presumir de carga rápida en condiciones extremas, clavando al milímetro la promesa de que el coche, congelado, se carga por completo en 9 minutos. Pocas demos más arriesgadas se me ocurren. Sí, está congelado | Imagen: Xataka Esa es una imagen en vivo de la pantalla interior del coche congelado | Imagen: Xataka Luego está este coche, también BYD, con temática de My Little Pony que dejo aquí por los jajas. Sí, es pelito | Imagen: Xataka Las llantas, por favor | Imagen: Xataka Sin palabras | Imagen: Xataka En el hall de Chery, que ha tenido la conferencia más abarrotada que he visto en años, los ejecutivos de la empresa explican su vocación internacional y sus planes para seguir extendiendo sus tentáculos. Y debo decir que da hasta vértigo. Cuando un ejecutivo chino hace una presentación en inglés no es por gusto. Es una declaración de intenciones como la copa de un pino. Chery ha presentado el Omoda 4, el Lepas L6 EV y el Tiggo V (que puede transformarse en pick-up, descapotable y SUV y que veremos aquí como un Omoda, Jaecoo o Ebro). La firma, además, tiene intención de traer sus marcas Lepas (de corte más elegante) y Exeed (que será Exlantix y se venderá como una marca premium) a España. Omoda 4 | Imagen: Xataka Lepas L6 EV | Imagen: Xataka Tiggo V (aquí los conocemos como Omoda, Jaecoo o Ebro) | Imagen: Xataka Veremos novedades de Ebro más adelante, pero en cualquier caso, la estrategia china es clara: el futuro está fuera, en el mercado internacional, y pasa por los híbridos enchufables. China tiene averiguada su red de carga para dar el salto al BEV, pero las marcas parecen conscientes de que Europa, sobre todo en el sur, no. ¿Su propuesta? Mientras llega la infraestructura necesaria para el eléctrico, he aquí una tremenda oferta de híbridos e híbridos enchufables con los que disparar la demanda de infraestructura de carga. Que las marcas estén empujando este formato no es casualidad. La expansión de Chery en un ilustrador mapa | Imagen: Xataka De hecho, les funciona de miedo. Omoda solo ha tardado tres años en vender un millón de vehículos y Lepas, que se lanzó hace nada, pretende hacerlo para 2030. Otra marca a la que no conviene perder de vista es Nio. Nio es la Tesla china. La compañía produce vehículos completamente eléctricos con unas capacidades y acabados espectaculares. Se fundó en el año 2014 y en el 2023 ya estaba lanzando su primer eléctrico. En ese vídeo podéis ver el Nio ET9, un precioso sedán del año 2025 en cuyo interior hay una batería de 100 kWh de CATL capaz de ofrecer más de 600 km de autonomía. Eso, y bailar, como salta a la vista. Los robotaxis también han tenido su parte de protagonismo. Empresas como Exeed y BAIC (Beijing Automotive Industry Corporation) han presentado sus respectivas propuestas, todas ellas conceptuales, aunque con una pinta sensacional, al menos en lo que a acabados se refiere. Por lo que sea, no hemos podido probarlos. El robotaxi de BAIC | Imagen: Xataka El robotaxi de BAIC | Imagen: Xataka El robotaxi de BAIC | Imagen: Xataka El interior del robotaxi de BAIC | Imagen: Xataka El robotaxi de Exceed | Imagen: Xataka El robotaxi de Exceed | Imagen: Xataka El robotaxi de Exceed | Imagen: Xataka Por concluir, ¿qué nos ha enseñado este salón? Que el futuro será eléctrico o no será, hablando en plata. Ese futuro no llegará mañana, ni pasado, ni es realista que Europa de el salto al BEV en un abrir y cerrar de ojos, pero tendrá que hacerlo. Antes o después, pero la realidad es que el petróleo es finito. ¿Quién venderá los coches que darán forma a esa transición? ¿Quién está liderando el desarrollo de baterías, motorizaciones híbridas y optimizando procesos? Exacto. Este mamotreto de seis ruedas es el Jetour F700 y es un híbrido enchufable de 892 CV | Imagen: Xataka En China están, literalmente, dibujando el futuro de la movilidad. Hoy, en este salón, hemos visto el presente y futuro más inmediato de China, pero también un adelanto de lo que, antes o después, acabará sucediendo en el resto de países. El reto, por supuesto, es desarrollar la infraestructura necesaria para facilitar ese salto. Algo desafiante, sin duda, pero también necesario a todas luces. Más entregas: Viaje al centro del motor chino (parte 1): un paseo por Pekín, Ebro, Chery y las calles en silencio​Imágenes| Xataka En Xataka | La gran pega al coche eléctrico es que tarda mucho en cargarse. CATL tiene una solución de 6 minutos y 27 segundos - La noticia Viaje al centro del motor chino (parte 2): he visto el futuro de los coches en Pekín y sí, es eléctrico (y chulísimo) fue publicada originalmente en Xataka por Jose García ."
   },
   {
     "titulo": "Parecen unas bailarinas pero son las nuevas sneakerinas de Adidas en color açaí que llevan todas las modernas",
@@ -700,25 +770,11 @@
     "resumen": "Cómo corregir la acidez del gazpacho sin cambiar su sabor: el truco del pan remojado y la pizca de bicarbonato que usan los cocineros. La entrada Adiós al gazpacho ácido: el truco de chef para salvarlo en segundos aparece primero en Moncloa."
   },
   {
-    "titulo": "TCL X11L, primeras impresiones: TCL democratizó el MiniLED y ahora lo ha mejorado para convertirlo en premium",
-    "medio": "Xataka",
-    "fecha": 1777037512.0,
-    "link": "https://www.xataka.com/televisores/tcl-x11l-primeras-impresiones-tcl-democratizo-miniled-ahora-ha-mejorado-para-convertirlo-premium",
-    "resumen": "Hace algunos años, si querías conocer de primera mano las prestaciones que se incluían en los nuevos televisores tenías que irte a Japón o Corea del Sur. En la actualidad, Shenzhen se ha convertido en el laboratorio de I+D del que surgen las tecnologías que llegarán a los salones de todo el mundo. En ese contexto, nos hemos ido hasta China para conocer de primera mano qué ha convertido a TCL en uno de los rivales más serios para las marcas tradicionales. Su buque insignia para 2026, TCL X11L con el nuevo panel Super Quantum Dots MiniLED (SQD MiniLED) es un buen ejemplo del potencial de la marca y su capacidad para fabricar pantallas MiniLED avanzadas con un coste mucho más bajo que otros fabricantes. Esta es nuestra primera toma de contacto del televisor más top del catálogo TCL. TCL X11L de 98 pulgadas panel SQD MiniLED 4K UHD , 144 Hz, 16:9 y 100% de cobertura del espacio de color BT.2020 resolución 3.840 x 2.160 puntos tamaños disponibles 75, 85 y 98 pulgadas hdr Dolby Vision IQ, Dolby Vision, HDR10+, HDR10 y HLG retroiluminación WHVA 2.0 Ultra con 20.736 zonas de atenuación local independientes brillo máximo 10.000 nits (pico) sistema operativo Google TV sonido 4.2.2 canalesDolby AtmosDTS Virtual XCalibrado por Bang & Olufsen tecnologías para juegos VRR, ALLM, Game Master conectividad 4 x HDMI 2.1 conectividad inalámbrica WiFi 6Bluetooth 5.4 dimensiones 2.168 × 1.313 × 420 mm (con soporte)2.168 × 1.267 × 21 (sin soporte) peso 67,5 kg (con pies) (98 pulgadas) precio 4.299 euros para el de 75\"6.499 euros para el de 85\" 8.999 euros para el de 98\" Su diseño no pasa inadvertido No se puede negar que el TCL X11L no pasa inadvertido en una sala. Su imponente tamaño y la profundidad de los colores que exhibe acaparó todas las miradas en una sala llena de pantallas y dispositivos de TCL. No es para menos, era un pantallote con una diagonal de 98\" no apto para todos los salones en España. En Xataka El mercado de los televisores está más vivo que nunca: los fabricantes chinos se están comiendo a las marcas históricas Tres cosas llaman la atención cuando te acercas. La primera es que, para ser un televisor con tecnología MiniLED con retroiluminación, han conseguir reducir el grosor del televisor a solo 20 mm. Además, su trasera es totalmente plana, por lo que le brinda un aspecto monolítico. La unidad expuesta descansaba sobre unas patas en forma de V invertida para facilitar su movilidad y exposición sin necesidad de instalarla sobre un mueble, pero la versión que llega a los hogares tendrá unas patas más pequeñas. Por otro lado, llama la atención la ausencia de marcos en la pantalla. Es decir, los píxeles llegan casi de borde a borde del panel, sin dejar el estrecho marco negro de 6 mm habitual en estas pantallas. En definitiva, el X11L es el gama alta de TCL y no se molesta en disimularlo. La unidad a la que hemos tenido acceso era la de 98\", con una presencia impresionante. También está disponible en versiones de 75 y 85 pulgadas. La estrella indiscutible: el panel SQD MiniLEDEl mayor argumento de este televisor es, sin lugar a duda, el de la nueva pantalla SQD MiniLED que se estrena con varias tecnologías que la convierten en la primera de una nueva generación de la tecnología MiniLED, unida al desarrollo de una nueva formulación para los nanocristales Quantum Dots. Por un lado, la matriz de MiniLEDs que retroiluminan este panel han reducido su tamaño con respecto a la generación anterior y se también se ha desarrollado un nuevo encapsulado diseñado en silicona en lugar de policarbonato que actúa como una \"minilente\" que evita la dispersión de la luz y la concentra en el panel LCD. Gracias a ese nuevo diseño, TCL ha conseguido elevar el brillo por encima de los 10.000 nits de brillo pico. Es decir, aunque la pantalla es una de las más brillantes que he tenido delante, no alcanza ese brillo en toda la pantalla todo el rato, sino que solo se alcanzan esos niveles en momentos puntuales y únicamente en destellos o brillos especulares. La propia construcción del panel se ha mejorado para reducir la distancia óptica entre los MiniLEDs y el panel, de forma que no solo se mejora la concentración de la luz, sino que esta está más cerca para aprovecharla al máximo. Esa reducción también es uno de los motivos por los que TCL ha podido fabricar un televisor MiniLED con un grosor de solo 20 mm. No llega a los niveles de delgadez de los OLED, pero no está nada mal para ser un televisor con retroilumación. En Xataka \"Cuanto más grande, mejor\": Carlos Li, CEO de TCL Europa, sobre la apuesta por las teles gigantes para conquistar la gama alta Paralelamente a esa mejora en el brillo, el nuevo panel recibe su nombre de los SQD (Super Quantum Dots) una reformulación de los nanocristales con los que se consiguen mejores resultados en términos de potencia nueva formulación química de los nanocristales Quantum Dot que mejora la representación de color y potencia su intensidad. Esta nueva formulación patentada en exclusiva por TCL permite que el volumen de color, es decir, el número de matices diferentes de un mismo color que el panel puede representar también crezca, hasta alcanzar el 100% del espacio de color BT.2020 que se utiliza en ámbitos cinematográficos. La suma de una pantalla de gran formato, un brillo de locos y un mayor volumen de color deja como resultado una de las mejores experiencias visuales que ofrece el mercado actual. La mayor riqueza de color hace que las imágenes adquieran una mayor profundidad y realismo, con colores vivos y manteniendo el control de las luces altas para evitar lo que se denomina \"clipping\" o un exceso de iluminación en las zonas más brillantes evitando que se conviertan en una mancha blanca en la pantalla y sigan mostrando detalles y colores vivos. La miniaturización de los diodos LED y su encapsulado ha permitido aumentar la densidad de puntos luz incrementando de ese modo las zonas de atenuación. Según la diagonal de la pantalla, el número de zonas varía entre las 20.736 zonas de atenuación local del modelo de 98 pulgadas, a las 14.400 de los televisores de 85 pulgadas o las 11.520 zonas del modelo de 75 pulgadas. Algo que también me sorprendió, y más en una pantalla tan grande, fueron los ángulos de visión. Habitualmente, las pantallas basadas en tecnología VA tienden a lavar los colores y a perder contraste a medida que se va inclinando el ángulo de visión. Sin embargo, el X11L ha conseguido mantener el tipo y no se aprecian cambios en la intensidad hasta que prácticamente se alcanzan los 90°. Aún así, la pérdida tampoco es significativa. Un mando pensado para el usuario En realidad, el mando a distancia es uno de los responsables accidentales de que hoy puedas estar leyendo estas primeras impresiones. Pedí al responsable de la demostración poder ver el mando y amablemente me cedió el control del televisor. Una cosa llevó a la otra y, casi sin querer pude probar la calidad de imagen con distintos modos de imagen, ajustes e iluminaciones. No te voy a engañar, el sistema operativo Google TV estaba en chino, por lo que no me atreví a adentrarme demasiado en sus menús, pero sí lo suficiente para hacerme una idea de su calidad más allá del acotado modo de demostración ajustados por TCL para dejar a su televisor en buen lugar. Las sensaciones con este mando son muy buenas, es un mando sencillo, sin demasiados botones y retroiluminado en blanco, pero sin el minimalismo extremo de los mandos de Samsung. Construido en lo que parecía metal (si era plástico estaba muy logrado) y con la peculiaridad de añadir dos botones en el lateral que te permiten cambiar el brillo de la pantalla y el modo de imagen, sin tener que navegar por distintos menús para cambiarlo. Por ejemplo, al pasar de ver una película o una serie con el modo Filmmaker a ver un partido de fútbol con el modo Estándar, basta con pulsar ese botón y seleccionarlo, no tienes que navegar por dos o tres menús de opciones de imagen. Este botón fue el que me dio pie a cambiar el modo de imagen \"perfecto\" para las demostraciones, y poder formarme una idea más realistas de cómo se representan los colores en otros modos de imagen. Te lo adelanto: lo hace muy bien. Con el Filmmaker no pecan de puristas y TCL lo ha ajustado muy bien, manteniendo el equilibrio en la calibración, y evitando esa sensación tan habitual en este modo de que está demasiado oscuro. Todo ello teniendo en cuenta que el lugar donde nos encontrábamos era un espacio muy iluminado. El extraordinario brillo de la X11L permite incrementar puntualmente la intensidad del brillo para adaptarlo a la iluminación de la sala, por lo que puedes subir un poco este parámetro desde el mando cuando es de día y el salón está muy iluminado, o reducirlo por la noche para hacer más confortable la visualización del contenido. En cuanto al sonido se da una situación poco habitual. Hemos podido ver los altavoces, pero no pudimos escucharlos. El televisor cuenta con un sistema de sonido compatible con Dolby Atmos y ajustado por Bang & Olufsen distribuido en una configuración de 4.2.2 canales. Curiosamente, en una de las demostraciones técnicas del X11L nos mostraron los altavoces que montaba este modelo: dos módulos para bajos en la trasera, dos altavoces ubicados cerca de las esquinas superiores que proporcionan la direccionalidad y la emulación del sonido envolvente, así como los dos grupos de altavoces frontales y el módulo central. Todos ellos formados por dos tweeters y uno de rango medio. Los componentes prometían. Por alguna razón, a nadie se le ocurrió que tal vez sería interesante verlos en acción. Las demos disponibles en las X11L eran de imagen, pero no tenían sonido, por lo que realmente, no puedo contarte qué me pareció el televisor en este aspecto. En la presentación en sociedad de la X11L también se reveló el precio de este modelo. Es el buque insignia de TCL y sus tamaños ya apuntan a que va dirigido a un perfil de cliente muy específico. El precio de venta recomendado para el modelo de 75 pulgadas es de 4.299 euros para el modelo de 75\", de 6.499 euros para el de 85 pulgadas y de 8.999 euros para el espectacular televisor de 98\" que hemos probado. En Xataka | TCL se ha colado en el mercado de los televisores haciendo lo que parecía imposible: democratizar el Mini-LED - La noticia TCL X11L, primeras impresiones: TCL democratizó el MiniLED y ahora lo ha mejorado para convertirlo en premium fue publicada originalmente en Xataka por Rubén Andrés ."
-  },
-  {
     "titulo": "El cierre de las nucleares, un asunto con puntos de vista contrapuestos",
     "medio": "Microsiervos",
     "fecha": 1777037036.0,
     "link": "https://www.microsiervos.com/archivo/energia/cierre-nucleares-puntos-vista-contrapuestos.html",
     "resumen": "El debate sobre la nuclear sigue abierto con dos lecturas contrapuestas. Mientras Foro Nuclear aplaude la recomendación europea de evitar el cierre prematuro de las centrales nucleares, Greenpeace, Ecologistas en Acción y Adenex defienden lo contrario: «¿Alargar las nucleares? No, gracias». El hecho es que la Comisión Europea ha dado un paso más como se explica en el paquete europeo AccelerateEU, que considera la energía nuclear «un componente importante para la descarbonización, la competitividad industrial y la seguridad de suministro». Básicamente recomienda evitar el cierre anticipado de las centrales existentes. Su posición es que mantenerlas de forma segura reduce el uso de combustibles fósiles, aporta estabilidad al sistema eléctrico y acercaría a España a una estrategia energética europea más pragmática. Alemania ya cerró todas sus nucleares en 2023, pero ha suavizado su oposición política a la nuclear, aunque tampoco se va a poner a reabrir centrales. Mientras tanto, Greenpeace y otros grupos ecologistas consideran que alargar la vida de centrales como Almaraz bloquea la transición a las renovables y traslada costes a la sociedad. Según han calculado, prolongar Almaraz tres años más allá del cierre previsto supondría más de 3.800 millones de euros de sobrecoste y hasta 12,3 millones de toneladas de CO₂ equivalente adicionales entre 2026 y 2033, debido no a que las emitan las nucleares, sino a su relación con otras fuentes de energía y al «espacio» que ocupa en el mix. También recuerdan que Cofrentes tiene su cierre previsto para 2030 y critican que ampliar los reactores más allá de los 46 años pactados no es recomendable por sus costes, dependencia del uranio importado y residuos activos durante miles de años. Relacionado: Foro Nuclear advierte sobre el impacto del cierre de Almaraz porque es como intentar hacer funcionar un horno sin electricidad: mala idea El gobierno «alarga» la vida de las centrales nucleares en España Cómo se desmantela una central nuclear A rehacer los planes de emergencia nuclear Centrales nucleares en España # Enlace Permanente"
-  },
-  {
-    "titulo": "PcComponentes tumba el precio (hasta alcanzar mínimo histórico) de esta tele OLED de Samsung",
-    "medio": "Xataka",
-    "fecha": 1777036552.0,
-    "link": "https://www.xataka.com/seleccion/pccomponentes-tumba-precio-alcanzar-minimo-historico-esta-tele-oled-samsung",
-    "resumen": "Hasta hace unos años, si querías disfrutar de la mejor tecnología de panel de Samsung (el OLED) tenías que comprarte una tele de 55 pulgadas o más. Esto dejaba fuera de juego a cualquiera que buscara una pantalla para un salón más pequeño. Pero esto ha sido hasta la llegada de la Samsung QE48S90F que ahora puedes llevarte a precio mínimo histórico en PcComponentes: 816,57 euros frente a los 1.699 euros que tiene de PVP recomendado. Una tele con certificación Pantone y genial para gaming La serie S90F no es una gama de entrada. Estamos hablando de un panel OLED que destaca por ofrecernos un contraste infinito. Esto se traduce en que cada píxel se apaga por completo, eliminando el molesto halo grisáceo en las escenas oscuras que ofrecen otras tecnologías más baratas. Otra de las cosas por las que destaca esta tele es por contar con certificación Pantone, garantizándote así que los colores que ves son exactamente los que el director de cine (o el creador del juego, ya que es una tele buena también para gaming) imaginó. En Xataka Amazon ya ha lanzado Alexa+ en España: cinco dispositivos en los que usarla gratis si eres cliente Prime Su tasa de refresco es de 100 Hz, aunque si eliges el modo gaming, el refresco aumenta hasta los 144 Hz, para que puedas disfrutar de mayor fluidez en juegos más exigentes. En lo que a juegos se refiere, también se puede destacar que incorpora cuatro puertos HDMI 2.1 y tecnologías VRR y ALLM, así como Gaming Hub, para que tengas acceso directo a juegos en la nube sin necesidad de consola. Esta tele es compatible con HDR10+ (en imagen) y Dolby Atmos (en audio). Sus altavoces ofrecen una potencia de 40 W, que es más que la media de las teles del mercado, aunque para potenciar este apartado al máximo, lo ideal es que le conectes una barra de sonido. ⚡ EN RESUMEN: oferta para la smart tv samsung QE48S90FAEXXH hoy ✅ LO MEJORCalidad de imagen imbatible: el contraste del OLED de Samsung es excelente. Los colores son más vivos que en los paneles OLED tradicionales de la competencia.Tamaño versátil: 48 pulgadas es el tamaño perfecto para quienes quieren una experiencia de cine en salones pequeños (o incluso en el dormitorio) o un monitor gigante para productividad y juego. ❌ LO PEORBrillo en salas muy iluminadas... Aunque han mejorado mucho, los paneles OLED siguen sufriendo un poco más que los MiniLED si tienes una ventana con sol directo justo enfrente.Sin Dolby Vision... Como es habitual en Samsung, apuestan por el HDR10+, dejando fuera el estándar de Dolby, aunque para la mayoría de usuarios es una diferencia sutil. 💡 CÓMPRALO SI... Eres un cinéfilo con espacio reducido, ya que si tienes un dormitorio o un salón pequeño donde una tele de 55 pulgadas quedaría exagerada, pero no quieres renunciar a ver películas con la calidad de negros de una sala de cine, esta tele es una buena inversión. ⛔ NO LO COMPRES SI... Eres un purista del Dolby Vision y tienes una enorme colección de Blu-rays en este formato y eres muy exigente con ello, esta no es tu tele. Samsung te decepcionará porque solo soporta HDR10+. Algunas barras de sonido que te pueden interesar para esta teleAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Webedia y Samsung En Xataka | Mejores televisores en calidad precio. Cuál comprar y siete smart TV 4K recomendados En Xataka | Mejores barras de sonido en calidad precio. Cuál comprar y siete modelos recomendados desde 140 euros - La noticia PcComponentes tumba el precio (hasta alcanzar mínimo histórico) de esta tele OLED de Samsung fue publicada originalmente en Xataka por Fran León ."
   },
   {
     "titulo": "Las nuevas New Balance color 'verano en Galicia' que prometen convertirse en las favoritas de las pijas en el norte",
@@ -756,13 +812,6 @@
     "resumen": "A lo largo de los últimos años, algo ha quedado claro: el anime es ideal para contar grandes historias. Pero en especial, las más dramáticas, gracias a su capacidad ilimitada para profundizar en la psicología de los personajes. Eso, a través de recursos visuales que otros medios difícilmente pueden replicar con la misma carga simbólica. […] Seguir leyendo: Estos son los 12 mejores animes para los amantes del drama"
   },
   {
-    "titulo": "Mercedes-Benz presenta su nuevo bólido lleno de lujo y poder: un coche que lleva al diablo que viste de Prada en los detalles",
-    "medio": "Trendencias",
-    "fecha": 1777032113.0,
-    "link": "https://www.trendencias.com/hombres/mercedes-benz-presenta-su-nuevo-bolido-lleno-lujo-poder-coche-que-lleva-al-diablo-que-viste-prada-detalles",
-    "resumen": "Hay colaboraciones que nacen para vender y otras que entienden el poder de una buena escena: en ese sentido Mercedes-Benz lo tiene claro y ha decidido jugar presentando un coche único que combina cine, moda y lujo automotriz con el que la marca alemana, junto a su submarca Maybach, no solo presume potencia y diseño, sino que se convierte en protagonista silencioso de 'El diablo viste de Prada 2', una de las secuelas más esperadas del cine reciente. Desde su primera entrega, la película se consolidó como un referente cultural donde el detalle lo es todo: en ese mismo espíritu, Maybach entra en escena como un personaje más, llevando el lujo al extremo con un coche que no busca robar protagonismo, pero lo consigue con la misma elegancia con la que Miranda Priestly dominaría cualquier situación. En Espinof Meryl Streep, sobre su escena más difícil con Clint Eastwood en 1995: \"Hicieron un elegante ejercicio para recortarla en la edición de la película\" El modelo elegido para esta aparición no es cualquier pieza del catálogo, sino el Mercedes-Maybach S-Class, una berlina que llega con una misión bastante clara: redefinir lo que significa el lujo contemporáneo sobre cuatro ruedas. La transformación no es solo técnica, también es emocional, porque este coche está pensado como un espacio de desconexión absoluta, donde la ingeniería y la artesanía trabajan juntas para crear una experiencia que va más allá de conducir. Este modelo introduce el sistema operativo MB.OS, una plataforma digital diseñada para ser tan intuitiva como elegante, capaz de anticiparse a lo que necesita el usuario sin romper la atmósfera de calma. La interfaz, impulsada por inteligencia artificial y conectada a un ecosistema que evoluciona con actualizaciones constantes, convierte al coche en algo más cercano a un dispositivo vivo que a una máquina tradicional. Pero donde realmente se entiende el lenguaje Maybach es en los detalles: la parrilla frontal crece, se ilumina y adquiere una presencia casi ceremonial, mientras pequeños gestos construyen una estética que transmite autoridad sin caer en la vulgar presunción, como detalles grabados de la película en la carrocería interna del vehículo. El interior lleva esa filosofía todavía más lejos: materiales como maderas de poro abierto, textiles de nueva generación e incluso opciones sin cuero redefinen la idea clásica de exclusividad. La iluminación ambiental, con decenas de combinaciones posibles, reacciona al entorno y a las acciones del usuario, creando una atmósfera que cambia casi imperceptiblemente. A nivel mecánico, la historia sigue la misma línea con sus motores electrificados de seis y ocho cilindros, junto con la persistencia del icónico V12 en algunos mercados, que equilibran potencia y suavidad con una naturalidad sorprendente. La tecnología mild-hybrid y los sistemas de suspensión predictiva hacen que el coche literalmente se adapte a la carretera antes de tocarla, reforzando esa sensación de desplazamiento sin esfuerzo que define a Maybach desde hace más de un siglo. Esta colaboración no llega sólo al azar: este 2026, Mercedes-Benz celebra 140 años desde la invención del automóvil, mientras Maybach supera el siglo marcando el estándar del lujo automotriz. Esta nueva S-Class no solo continúa ese legado, también lo actualiza con una visión donde la personalización extrema —a través de programas como MANUFAKTUR— convierte cada unidad en una pieza prácticamente única. Al final, este nuevo Maybach es una idea muy concreta de poder y sofisticación que no necesita exagerar para imponerse. Como en la moda, como en el cine, todo está en cómo se lleva. Y en este caso, se lleva con la misma seguridad con la que alguien entra a una sala sabiendo que no necesita presentación. Fotos de Mercedes-Benz | @luxuriousbymm En Trendencias | El jefe de diseño de Audi busca volver a lo esencial y quiere dejar de lado las pantallas para regresar a los botones En Trendencias | Ni la más grande ni la más cara: Iker Casillas y su colección de motos brilla por su valor sentimental y una nueva adquisición con historia - La noticia Mercedes-Benz presenta su nuevo bólido lleno de lujo y poder: un coche que lleva al diablo que viste de Prada en los detalles fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
     "titulo": "¿Es buen momento para comprar unos AirPods Pro 3 o van a bajar pronto de precio? Esto es lo que nos dicen los datos",
     "medio": "Applesfera",
     "fecha": 1777032113.0,
@@ -789,20 +838,6 @@
     "fecha": 1777028512.0,
     "link": "https://www.applesfera.com/servicios-apple/google-no-se-ha-podido-aguantar-hay-fecha-para-nueva-siri-no-precisamente-manana",
     "resumen": "Google no ha podido resistirse. En plena conferencia Google Cloud Next, apareció sobre su escenario de Las Vegas el logo de Apple bien grande. Detrás de él estaba el CEO de Google Cloud aprovechando el momento para recordarle al mundo quién está detrás de la nueva Siri. Lo que dijeron es que Google iba a ser el motor de Apple Intelligence y Siri. Y de paso... han confirmado algo: que la nueva Siri llega este año. No es que sea información nueva. Apple ya había prometido 2026 como fecha de lanzamiento, y lo había reconfirmado en febrero. Pero sabiendo que Apple ha patinado alguna vez con las fechas, da tranquilidad escuchárselo a Google. Aunque ojo, porque 2026 queda, y mucho. Google saca pecho, y tiene motivosLas palabras del CEO de Google Cloud no dejaban mucho margen a la interpretación: Estamos colaborando con Apple como su proveedor de nube preferido para desarrollar la próxima generación de modelos Apple Foundation basados en tecnología Gemini. Estos modelos impulsarán las futuras funciones de Apple Intelligence, incluida una Siri más personalizada que llegará a finales de este año. En este comunicado hay dos cosas que nos dejan con la duda. La primera es lo de ser \"proveedor de nube preferido\". Google ya utilizó esas palabras cuando se anunció el acuerdo a principios de año. Y es que no está del todo claro si la nueva Siri funcionará: Directamente en la infraestructura de servidores de GoogleSi Apple montará sus propios servidores dentro de los centros de datos de GoogleO si Apple alojará Google Gemini en su Private Cloud ComputeSon cosas distintas, y Apple no ha dicho cuál de las tres variantes escogerá. Lo que sí sabemos es que Apple le ha pedido a Google que investigue cómo montar esa infraestructura, porque anticipa una carga de trabajo en la nube mucho mayor cuando la nueva Siri arranque de verdad. Seguro que descubrimos mucho más en la WWDC26, cuando anuncien oficialmente la nueva Siri. \"Llegará a finales de este año\": la fecha que Apple no ha dadoLo segundo que más ha llamado la atención es el espacio temporal que ha dado Google para el lanzamiento de la nueva Siri. \"Llegará a finales de este año\". El problema es que puede significar cosas muy distintas dependiendo de cómo vayan los desarrollos internos. El escenario optimista pasa por la WWDC del 8 de junio. Apple presenta iOS 27, la nueva Siri está bien madura, las betas arrancan en verano y el lanzamiento oficial llega en septiembre junto al iPhone 18 Pro. Limpio, ordenado, dentro del calendario habitual. Pero hay otro escenario, igual de plausible, que ya tiene precedente. Apple Intelligence se anunció en junio de 2024 y lo más interesante no llegó hasta iOS 18.2, en diciembre. El mismo patrón podría repetirse aquí. Apple presenta la nueva Siri en la WWDC, pero las primeras betas con la nueva Siri no arrancan hasta septiembre y el lanzamiento final se produce con iOS 27.2, ya en diciembre. Técnicamente sigue siendo \"este año\". Técnicamente Apple cumple su promesa. Google también. Y esa frase de \"llegará a finales de este año\"... bueno, habrá que esperar a junio para saberlo. En Applesfera Falta poco más de un mes para iOS 27 y las filtraciones son claras: mucha IA y lo que no trajo iOS 26 Dos años para llegar hasta aquíQue Google esté en el centro de este proyecto no era el plan original. Apple quería hacerlo con sus propios modelos. Luego miró hacia Anthropic. Las negociaciones avanzaron, los números no cuadraron y Google entró al final del proceso, en otoño de 2025. El acuerdo se hizo oficial en enero de 2026. Eso explica los retrasos. Integrar Gemini en Siri no es conectar una API y listo, es reescribir cómo el asistente procesa información, cómo se comunica con los servidores y cómo gestiona los datos personales del usuario manteniendo los estándares de privacidad de Apple. La WWDC del 8 de junio dirá cuánto han avanzado. Google ya ha puesto sus cartas sobre la mesa. Ahora le toca a Apple enseñar qué ha hecho con ellas. En Applesfera | Nuevo iOS 27 - todo lo que creemos saber sobre el futuro sistema operativo para el iPhone En Applesfera | WWDC26: fecha y novedades que esperamos del gran evento de Apple en el que se presentará iOS 27 - La noticia Google no se ha podido aguantar: ya hay fecha para la nueva Siri y no es precisamente mañana fue publicada originalmente en Applesfera por Guille Lomener ."
-  },
-  {
-    "titulo": "El PP-A roza una nueva mayoría absoluta en Andalucía con casi 18 puntos de ventaja sobre el PSOE-A según el CIS",
-    "medio": "Europa Press",
-    "fecha": 1777028057.0,
-    "link": "https://www.europapress.es/andalucia/noticia-pp-roza-nueva-mayoria-absoluta-andalucia-casi-18-puntos-ventaja-psoe-cis-20260424125417.html",
-    "resumen": "El PP-A podría volver a ganar con una mayoría absoluta de hasta 59 diputados las próximas elecciones andaluzas del 17 de mayo, en las que obtendría el 43,6% de los votos y una ventaja de casi 18 puntos sobre el PSOE-A, que concentraría el 25,8% de los sufragios y tendría entre 27 y 34 diputados, según el estudio preelectoral de estos comicios publicado este viernes, 24 de abril, por el Centro de Investigaciones Sociológicas (CIS), a una semana de que comience oficialmente la campaña electoral."
-  },
-  {
-    "titulo": "Obispos piden \"prioridad de Evangelio\" frente a \"prioridad nacional\" y acusan de \"injuria\" a Abascal",
-    "medio": "Europa Press",
-    "fecha": 1777027332.0,
-    "link": "https://www.europapress.es/sociedad/noticia-obispos-piden-prioridad-evangelio-frente-prioridad-nacionalla-iglesia-no-estara-nunca-excluir-otro-20260424124212.html",
-    "resumen": "El secretario general y portavoz de la Conferencia Episcopal Española (CEE), Francisco César García Magán, ha pedido \"prioridad de Evangelio\" frente a la \"prioridad nacional\" que propone Vox y ha asegurado que la Iglesia \"no estará nunca\" de acuerdo con medidas que traten de \"excluir o anular al otro\"."
   },
   {
     "titulo": "Híbrido o eléctrico, diseño SUV rompedor y confirmado para España: el nuevo OMODA 4 quiere ser tu próximo coche",
@@ -840,13 +875,6 @@
     "resumen": "Apple TV no es Netflix. Ni en cantidad de catálogo, ni en popularidad. Pero yo soy un firme defensor de que la plataforma tiene auténticas joyas por las que merece la pena suscribirse. De ahí que cada vez que un familiar, amigo o conocido me pide consejo, no dudo en decirle qué es lo primero que tiene que ver. Soy muy de series ligeras tipo 'Loot' o la recién estrenada 'Margo tiene problemas de dinero'. Pero si tengo que hacer una carta de presentación con las mejores series, saco la artillería pesada y presento las siguientes. Índice de Contenidos (5) 'Defender a Jacob' (una temporada - ya finalizada) 'Pluribus' (una temporada - aún en emisión) 'Separación' (dos temporadas - aún en emisión) 'Silo' (dos temporadas - aún en emisión) 'Ted Lasso' (tres temporadas - aún en emisión) 'Defender a Jacob' (una temporada - ya finalizada) En menos de siete horas se puede disfrutar de la mejor miniserie de la plataforma. Una que merece ya la pena por ver en pantalla a un Chris Evans que demuestra que es mucho más que un buen Capitán América. Y todo parte de lo de un drama familiar en el que nada es lo que parece. Un niño aparece muerto, y todas las miradas apuntan al hijo de un fiscal (Evans) que, de repente, tiene que decidir hasta dónde está dispuesto a llegar por protegerle. Lo que más engancha es la sensación constante de duda. No es tanto descubrir qué ha pasado, sino convivir con la incertidumbre. ¿Y si tu hijo no es quien creías? ¿Y si sí lo es? La serie juega muy bien con eso, con silencios incómodos y decisiones que pesan más de lo que parece. 'Pluribus' (una temporada - aún en emisión) De la mano de Vince Gilligan nos encontramos una serie que, a riesgo de parecer exagerado, podría quedar en el mismo top que 'Breaking Bad' o 'Better Call Saul'. Aunque 'Pluribus' parte de una narrativa completamente distinta. La historia gira en torno a Carol (Rhea Seehorn), que de repente empieza a ver como el resto del mundo se ha convertido en una especie de mente colmena excesivamente amable y servicial con ella. Hay muchos cuerpos, pero un único individuo. Y eso la hace cuestionarse absolutamente todo lo que le rodea, empezando por su propia cordura. En Applesfera La subida de precios de Netflix me deja algo claro: nunca más pagaré una suscripción anual A lo largo de la serie va descubriendo que no es la única inmune a esa especie de virus que ha contagiado al resto. Sin embargo, se siente sola en su lucha por hacer que todo vuelva a la normalidad. Y más cuando existe la amenaza de que, de alguna otra forma, ella acabe también formando parte de esa mente colmena de la que no se sabe muy bien su objetivo final. Acabó de emitirse su primera temporada en diciembre, pero ya está confirmada una segunda temporada que llegará el año que viene. O eso se espera sabiendo que empezará a rodarse a finales de este año. Y lo mejor es que Gilligan tiene intención de hacer, como mínimo, cuatro temporadas. 'Separación' (dos temporadas - aún en emisión) El origen de 'Separación' expresa, en mi opinión, una de las ideas más potentes que he visto en televisión en los últimos años. Una empresa que permite separar quirúrgicamente tu vida laboral de la personal. Cuando estás en la oficina, no recuerdas nada de fuera. Cuando sales, no sabes qué haces dentro. Y claro, con esa premisa todo parece maravilloso, hasta que se acaba convirtiendo en un thriller psicológico en el que nos hacemos muchas preguntas acerca de si los dentri (así se llama a la parte laboral) realmente son las mismas personas o no y qué inquietudes pueden tener. Más allá de la trama, también engancha la sensación de incomodidad constante. Esa oficina aséptica, esos personajes que intuyen que algo no cuadra. Y nosotros, como espectadores, vamos siempre un paso por detrás, intentando entender las reglas de ese extraño universo. 'Silo' (dos temporadas - aún en emisión) Imagina vivir bajo tierra, en una estructura gigantesca dividida en cientos de pisos sin saber qué hay realmente fuera. Nunca lo has visto porque no se puede salir desde hace cientos de años. El planeta es inhabitable y ese silo es la única forma que tiene el ser humano de sobrevivir. 'Silo', que se basa en las novelas 'Crónicas del Silo', parte de esa premisa clásica de ciencia ficción, pero la ejecuta con mucho cuidado. Poco a poco va desvelando cómo funciona esa sociedad cerrada, qué normas la sostienen y qué pasa cuando alguien decide romperlas. Y aunque para muchos lo peor sea su ritmo, a mí me parece una excelente forma de dosificar la información. No cuenta todo de golpe y obliga a observar detalles y sospechar de todos. Actualmente ha emitido ya dos temporadas, pero la tercera temporada de 'Silo' llegará el 3 de julio, tal y como se confirmó esta misma semana. Será además la penúltima, ya que la serie cerrará con una cuarta temporada que, aunque podría ya estar grabada, no tiene fecha de estreno. 'Ted Lasso' (tres temporadas - aún en emisión) Si no has oído hablar de esta serie, quizás es que estabas en el silo de la anterior serie. Es la serie más conocida y premiada de la plataforma, aunque honestamente eso son cosas que me gustan poco cuando se trata de recomendar una serie. Porque 'Ted Lasso' es mucho más que la serie estrella de Apple TV. Y menos mal. Es una de esas series que te hace sentir bien. Una en la que, en realidad, el fútbol es lo de menos. Porque sí, se basa en un inexperto entrenador de fútbol con caóticos métodos que aterriza en la mejor liga del mundo. Pero al final eso queda en un segundo plano. En Applesfera Que 'Ted Lasso' vuelva con nuevos capítulos es una gran noticia. Lo que vendrá después me da bastante miedo En 'Ted Lasso' lo importante es cómo trata a sus personajes, cómo los deja crecer poco a poco sin forzar nada. Es una serie que va de personas, de inseguridades, de aprender a encajar y de entender que no siempre hay que ganar para avanzar. Y ahí es donde termina enganchando de verdad, casi sin que te des cuenta. Después de ver las tres primeras temporada observarás que todo queda bastante cerrado. Y tiene sentido porque era el final de la serie, pero para sorpresa y alegría de muchos, renovó y su cuarta temporada llegará este mismo verano (probablemente en agosto). Imágenes y vídeos | Apple TV En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo En Applesfera | Las 23 mejores películas de Apple TV según la crítica y cómo verlas sin pagar un solo euro - La noticia \"Me acabo de suscribir a Apple TV y solo quiero ver sus mejores series\". Este es, sin duda, mi TOP 5 fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "“Me quedé paralizado”: Tim Cook revela cuál ha sido su mayor error y su mayor éxito como CEO de Apple",
-    "medio": "Hipertextual",
-    "fecha": 1777021527.0,
-    "link": "https://hipertextual.com/tecnologia/me-quede-paralizado-tim-cook-revela-cual-ha-sido-su-mayor-error-y-su-mayor-exito-como-ceo-de-apple/",
-    "resumen": "Este septiembre, Tim Cook dejará de ser oficialmente el CEO de Apple. Son 15 años de trayectoria en las que el ejecutivo ha logrado hitos dentro de la compañía, incluyendo el lanzamiento de nuevas categorías de producto, nuevos servicios o incluso estrategias medioambientales que ninguna otra empresa tecnológica ha conseguido hasta ahora. Pero Tim Cook […] Seguir leyendo: “Me quedé paralizado”: Tim Cook revela cuál ha sido su mayor error y su mayor éxito como CEO de Apple"
-  },
-  {
     "titulo": "Israel matiza la extensión de la tregua con el Líbano anunciada por Trump: “No es del 100%”",
     "medio": "Infolibre",
     "fecha": 1777020873.0,
@@ -859,13 +887,6 @@
     "fecha": 1777017793.0,
     "link": "https://www.infolibre.es/politica/sanchez-resta-importancia-correo-electronico-pentagono-expulsar-espana-otan_1_2182939.html",
     "resumen": "Estados Unidos vuelve a tener problemas con España. En un correo interno del Pentágono se plantean distintas formas en las que el país norteamericano podría penalizar a los aliados “difíciles” de la OTAN que no apoyaron a Estados Unidos en su ataque a Irán. En esos aliados “difíciles” entra España. Un funcionario estadounidense ha explicado a Reuters que en el correo se recoge la posibilidad de suspender a España de la Alianza y de revisar la postura estadounidense en respecto a la reclamación británica a las Islas Malvinas. Por su parte, Pedro Sánchez, restó relevancia a esto y aseguró que el Ejecutivo español no trabaja sobre correos electrónicos, sino sobre documentos oficiales, y cumple con sus obligaciones.\"La posición del Gobierno de España es clara: absoluta colaboración con los aliados, pero siempre dentro del marco de la legalidad internacional\", añadió.El texto enviado recoge la frustración estadounidense por la negativa de algunos aliados de permitir el acceso, uso de bases y derechos de sobrevuelo para la guerra contra Irán, algo que se indica en el mensaje que ven como “el mínimo imprescindible para la OTAN”, según ha contado este funcionario, que ha hablado bajo condición de anonimato con la agencia. Lo cierto es que no es la primera vez que Estados Unidos muestra su disconformidad con España. Uno de los últimos choques entre los dos mandatarios llegó por la guerra en Oriente Medio, que comenzó con el ataque conjunto entre Estados Unidos e Israel a Irán. El presidente Pedro Sánchez se negó a dejar que los estadounidenses utilizaran sus bases en suelo español –una naval en Rota y una aérea en Morón– para atacar a el país y cerró el espacio aéreo a aviones de Estados Unidos que participan en la guerra. Ante esa nueva novedad en las cada vez más constantes amenazas por parte de la Administración Trump, el presidente del Gobierno ha sido claro y ha restado importancia a lo sucedido a su llegada a la reunión informal de líderes de la Unión Europea en Chipre. “Nosotros no trabajamos sobre emails, trabajamos sobre documentos oficiales y posicionamientos que haga en este caso el gobierno de Estados Unidos. La posición del Gobierno de España es clara: absoluta colaboración con los aliados, pero siempre dentro del marco de la legalidad internacional”, ha reiterado Sánchez. Si bien las medidas que se incluyen en el correo no tendrían mucho impacto en las operaciones militares de Estados Unidos, si lograrían enviar una señal fuerte. Su finalidad entonces sería “reducir el sentido de derecho adquirido por parte de los europeos”. Por tanto, suspender a España de la Alianza no tendría un impacto real pero sí uno simbólico. Una de las propuestas se basa en suspender a los países “difíciles” de puestos importantes o prestigiosos dentro de la Alianza. Precisamente, el presidente Trump ya lleva varios meses mostrando su inconformidad con la OTAN. Su último ataque llegó con la negativa de los países de enviar refuerzos al Estrecho de Ormuz, que se cerró al tráfico marítimo después de que comenzara la guerra. El presidente Donald Trump, ha insistido varias veces en la posibilidad de que su país abandone la OTAN, \"considerando seriamente\" la retirada de la alianza a la que ha calificado como un \"tigre de papel\". El propio Mark Rutte, secretario general de la OTAN, explicó que el mandatario está “claramente decepcionado” tras reunirse con Trump en la Casa Blanca. El republicano siempre ha sido crítico con la Alianza Atlántica, al considerar que su país gasta demasiado en la defensa de los aliados, pero ha incrementado su frustración por la negativa del bloque a implicarse en la guerra de Irán y desbloquear el Estrecho de Ormuz. Y parece que cada vez más, aunque la posibilidad de que sus amenazas se materialicen no están tan claras."
-  },
-  {
-    "titulo": "Apple ya tiene el arma secreta para que los iPhone 18 sean un éxito",
-    "medio": "Hipertextual",
-    "fecha": 1777015611.0,
-    "link": "https://hipertextual.com/apple/apple-ya-tiene-el-arma-secreta-para-que-los-iphone-18-sean-un-exito/",
-    "resumen": "El mercado de la telefonía, y en general el de la tecnología, se enfrenta a un año 2026 algo complicado, y Apple ya tendría en su mano la estrategia perfecta para salir victoriosa con su próxima serie. ¿Cuál? No hacer nada. La crisis de la memoria RAM está forzando a las compañías de todo el […] Seguir leyendo: Apple ya tiene el arma secreta para que los iPhone 18 sean un éxito"
   },
   {
     "titulo": "Consumo informa a más de 500 empresas de la obligatoriedad de aceptar la prórroga de los alquileres",
