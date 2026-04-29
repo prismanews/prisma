@@ -1,10 +1,171 @@
 [
   {
-    "titulo": "Tétrico arbitraje de Makkelie: pita un penalti riguroso y el VAR le corrige en dos para salvar al Atlético",
+    "titulo": "El triste final de Espejo, el mejor tardeo de la capital: cierra después de una batalla judicial con el Ayuntamiento y entra en concurso de acreedores",
+    "medio": "El Mundo",
+    "fecha": 1777504697.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/30/69f255cbe85ece714d8b458a.html",
+    "resumen": "La famosa terraza del Paseo de Recoletos fue clausurada en marzo y los tardeos seguirán hasta mediados de mayo en su local de la acera de enfrente Leer"
+  },
+  {
+    "titulo": "Desde la frontera de Israel con Líbano: \"Dicen que uno se acostumbra, pero no es verdad. Nadie quiere vivir en guerra\"",
+    "medio": "El Mundo",
+    "fecha": 1777504000.0,
+    "link": "https://www.elmundo.es/internacional/2026/04/30/69f251a4e4d4d8157a8b457d.html",
+    "resumen": "En un recorrido entre las zonas israelíes atacadas por Hizbulá, los testimonios evidencian la realidad de vivir bajo una tregua muy frágil Leer"
+  },
+  {
+    "titulo": "Albares invita a Sheinbaum a la Cumbre Iberoamericana en Madrid",
+    "medio": "The Objective",
+    "fecha": 1777503711.0,
+    "link": "https://theobjective.com/internacional/2026-04-30/albares-sheinbaum-cumbre-iberoamericana-madrid/",
+    "resumen": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha entregado este miércoles en persona a la presidenta de México, Claudia Sheinbaum, la […]"
+  },
+  {
+    "titulo": "El estafador del amor nigeriano detenido 'in fraganti' en una marisquería de Gran Via tras sacarle 140.000 euros a una jubilada de Noruega",
+    "medio": "El Mundo",
+    "fecha": 1777503301.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/30/69f26fc5fdddffde288b45ac.html",
+    "resumen": "La mujer creyó haber conocido a un exitoso militar canadiense que trabajaba para una una multinacional petrolera Leer"
+  },
+  {
+    "titulo": "Trump pone en el aire 40.000 soldados en Alemania tras las críticas de Berlín: \"Estamos estudiando reducir tropas\"",
+    "medio": "HuffPost",
+    "fecha": 1777503262.0,
+    "link": "https://www.huffingtonpost.es/global/trump-pone-aire-40000-soldados-alemania-criticas-berlin-estamos-estudiando-reducir-tropas-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Israel encuentra condones y drogas en la ‘flotilla’ icono de Podemos y Sumar que iba a Gaza",
     "medio": "OK Diario",
-    "fecha": 1777497741.0,
-    "link": "https://okdiario.com/deportes/tetrico-arbitraje-makkelie-pita-penalti-riguroso-var-corrige-dos-salvar-atletico-16704241",
-    "resumen": "La ida de las semifinales de la Champions League entre el Atlético de Madrid y el Arsenal tuvo a Danny Makkelie como protagonista. El árbitro falló en casi todo. Al Atlético le pitó dos penaltis en contra y se dejó otro sin pitar a su favor. Suficiente para decantar la balanza a favor de los … Continuar leyendo \"Tétrico arbitraje de Makkelie: pita un penalti riguroso y el VAR le corrige en dos para salvar al Atlético\""
+    "fecha": 1777503120.0,
+    "link": "https://okdiario.com/espana/israel-encuentra-condones-drogas-flotilla-icono-podemos-sumar-que-iba-gaza-16704821",
+    "resumen": "El Ministerio de Asuntos Exteriores de Israel ha enseñado este miércoles en un vídeo enviado por un portavoz a través de un comunicado que han encontrado «condones y drogas» en la flotilla icono de Podemos y Sumar que zarpó a mediados de abril desde Barcelona. La Armada israelí ha comenzado a interceptar la flotilla este … Continuar leyendo \"Israel encuentra condones y drogas en la ‘flotilla’ icono de Podemos y Sumar que iba a Gaza\""
+  },
+  {
+    "titulo": "Un rompecabezas lógico acerca de los caminos hamiltonianos",
+    "medio": "Microsiervos",
+    "fecha": 1777503079.0,
+    "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/rompecabezas-logico-caminos-hamiltonianos.html",
+    "resumen": "Number Trail es un sencillo pero elegante pasatiempo en el que hay construir caminos hamiltonianos (el clásico «de un solo trazo y sin pasar dos veces por el mismo vértice») para tableros de distintos tamaños en los que las casillas son los vértices y hay que seguir el orden de los números. ¿Parece fácil? Pues en los niveles más altos hay hasta obstáculos. Hay mucha matemática en estos rompecabezas, que empiezan siendo muy fáciles y obvios para irse enrevesando: en el menú se ve que hay cien distintos (de 5×5 a 10×10) y se puede elegir el nivel fácilmente. Y aunque no lo parezca, todos tienen solución y son lo que computacionalmente se conoce como un problema NP-completo, cuyo arquetipo es el «problema del viajante». Hamilton estudió estos grafos allá por 1850. Aquí pueden investigarse en la práctica, volver atrás y ver cómo lo que podrían ser líneas rectas es mejor que sean serpenteantes, o cómo a veces conviene dar una vuelta para evitar las encerronas. Precisamente cuando en los niveles más avanzados aparecen los muros algunas rutas quedan prohibidas. Hay algoritmos para avanzar con más seguridad, pero ninguno es perfecto, así que hay que tirar de la intuición. El juego es elegante y tiene modo día/noche, diversos temas para cambiar los colores a gusto de cada cual, registro de tiempos récord y todo funciona con HTML/CSS y JavaScript. De hecho en la página de demos de Nikos Papadopoulos hay otros muchos entretenimientos y demostraciones igualmente elegantes tanto en concepto como en programación. Relacionados: La ciudad de Königsberg, sus siete puentes y la teoría de grafos El problema del viajante, versión física, para humanos y bots Una forma de resolver el problema del viajante, visualmente explicada El laberinto más difícil del mundo utilizando conceptos geométricos Quince formas distintas de generar laberintos y verlas en acción Puzzles lógicos «penrosianos» El puzzle topológico de los anillos # Enlace Permanente"
+  },
+  {
+    "titulo": "La gran confesión de Manuel Carrasco en ‘El Hormiguero’: «He ido a Plaza de Castilla a declarar»",
+    "medio": "OK Diario",
+    "fecha": 1777502861.0,
+    "link": "https://okdiario.com/actualidad/gran-confesion-manuel-carrasco-hormiguero-he-ido-plaza-castilla-declarar-16704335",
+    "resumen": "Este miércoles 29 de abril, Manuel Carrasco ha sido el invitado de El Hormiguero en Antena 3. El artista ha publicado Pueblo Salvaje I, un nuevo disco que mantiene el éxito de su anterior trabajo discográfico. Además, ya cuenta los días para su habitual cita en el estadio de La Cartuja, en Sevilla, donde llenará durante cuatro … Continuar leyendo \"La gran confesión de Manuel Carrasco en ‘El Hormiguero’: «He ido a Plaza de Castilla a declarar»\""
+  },
+  {
+    "titulo": "La izquierda lanza una campaña de linchamiento contra el juez que llega el caso de agresión contra el ex DAO",
+    "medio": "OK Diario",
+    "fecha": 1777502628.0,
+    "link": "https://okdiario.com/espana/izquierda-lanza-campana-linchamiento-contra-juez-que-llega-caso-agresion-contra-ex-dao-16704489",
+    "resumen": "La izquierda mediática y política ha lanzado un linchamiento público contra el juez David Maman Benchimol, encargado de la denuncia por violación desapada por OKDIARIO contra el ex jefe de la Policía, José Ángel González, acusando a éste de «machismo». Los ataques comenzaron la pasada semana, y tienen su origen en algunas reflexiones vertidas por … Continuar leyendo \"La izquierda lanza una campaña de linchamiento contra el juez que llega el caso de agresión contra el ex DAO\""
+  },
+  {
+    "titulo": "Ana Rosa Quintana: «Amenazaron con quemar mi casa con mis hijos dentro»",
+    "medio": "OK Diario",
+    "fecha": 1777502514.0,
+    "link": "https://okdiario.com/cool/television/ana-rosa-quintana-amenazaron-quemar-casa-mis-hijos-dentro-16704316",
+    "resumen": "Ana Rosa Quintana ha sido una de las invitadas del estreno de la segunda temporada de 100% Únicos, el programa de Cuatro en el que varias personas con trastorno del espectro autista (TEA) entrevistan a personajes famosos. La periodista y presentadora de El programa de Ana Rosa en Telecinco contestará preguntas sobre su ideología política … Continuar leyendo \"Ana Rosa Quintana: «Amenazaron con quemar mi casa con mis hijos dentro»\""
+  },
+  {
+    "titulo": "Leo Harlem: \"Si me llaman cuñao por triunfar sin meterme en charcos, pues sí, soy un cuñao, y cada día el de más gente\"",
+    "medio": "El Mundo",
+    "fecha": 1777502258.0,
+    "link": "https://www.elmundo.es/cultura/2026/04/30/69e78b74fdddff72758b4581.html",
+    "resumen": "En plena retirada progresiva, protagoniza una película por última vez y relativiza los clichés que le rodean: \"Quienes dictan lo que es bueno o malo viven en una realidad paralela\" Leer"
+  },
+  {
+    "titulo": "Cuándo es el GP de Miami de F1 2026: todos los horarios y dónde ver en directo y por TV online la carrera del Mundial de Fórmula 1",
+    "medio": "OK Diario",
+    "fecha": 1777501559.0,
+    "link": "https://okdiario.com/deportes/cuando-gp-miami-f1-horario-como-ver-television-directo-vivo-online-carrera-del-mundial-formula-1-2026-video-16682906",
+    "resumen": "El Mundial de Fórmula 1 2026 vuelve por todo lo alto tras varias semanas sin competición. Los pilotos se reúnen en el GP de Miami para ofrecer un fin de semana apasionante a todos los amantes de este deporte, ya que tenemos que destacar que es uno de esos fines de semana especiales porque habrá … Continuar leyendo \"Cuándo es el GP de Miami de F1 2026: todos los horarios y dónde ver en directo y por TV online la carrera del Mundial de Fórmula 1\""
+  },
+  {
+    "titulo": "Simeone alza la voz: «Para pitar un penalti en semifinales de Champions tiene que ser más penalti»",
+    "medio": "OK Diario",
+    "fecha": 1777501014.0,
+    "link": "https://okdiario.com/deportes/simeone-alza-voz-pitar-penalti-semifinales-champions-tiene-que-ser-mas-penalti-16704675",
+    "resumen": "Simeone se ajustó la corbata nada más entrar y tragó saliva. Con una mezcla de satisfacción por el trabajo hecho e insuficiente porque su rival escapó vivo. Griezmann se topó con el larguero, Lookman consigo mismo y la polémica arbitral hizo el resto. Al final, Atlético y Arsenal se neutralizaron desde el punto de penalti … Continuar leyendo \"Simeone alza la voz: «Para pitar un penalti en semifinales de Champions tiene que ser más penalti»\""
+  },
+  {
+    "titulo": "Rafael Jódar: valiente, agresivo y altamente cualificado",
+    "medio": "El Mundo",
+    "fecha": 1777500821.0,
+    "link": "https://www.elmundo.es/deportes/tenis/2026/04/30/69f2498be85ece60538b45a4.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "La impronta de Rafael Jódar, una estrella en ciernes: \"Lo que está haciendo es increíble\"",
+    "medio": "El Mundo",
+    "fecha": 1777500819.0,
+    "link": "https://www.elmundo.es/deportes/tenis/2026/04/30/69f251f2fdddffee468b458a.html",
+    "resumen": "\"Veré el partido y analizaré las cosas que he hecho bien y las que he hecho mal\", comentó el jugador español Leer"
+  },
+  {
+    "titulo": "Arteta carga contra el árbitro: «Estoy enfadado… inaceptable que revisen 13 veces un penalti para anularlo”",
+    "medio": "OK Diario",
+    "fecha": 1777500230.0,
+    "link": "https://okdiario.com/deportes/arteta-carga-contra-arbitraje-estoy-muy-enfadado-inaceptable-que-revisen-13-veces-penalti-anularlo-16704636",
+    "resumen": "Mikel Arteta analizó el empate del Atlético de Madrid y el Arsenal en el Metropolitano. «Hemos tenido pasajes del partido en los que jugamos como queríamos. Estuvimos torpes en el inicio de la segunda parte, pero sabíamos que era algo que teníamos que atravesar», explicó el técnico del club inglés, que se quejó mucho del … Continuar leyendo \"Arteta carga contra el árbitro: «Estoy enfadado… inaceptable que revisen 13 veces un penalti para anularlo”\""
+  },
+  {
+    "titulo": "El Ayuntamiento de Rivas (IU) contrata la sanidad privada que critica: 225.000 euros en servicios de Quirón desde 2021",
+    "medio": "El Mundo",
+    "fecha": 1777500211.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/30/69f23305fc6c8358668b4592.html",
+    "resumen": "\"Son los clientes preferentes de aquello que dicen combatir. Basta de teatro\", recrimina el PP a la alcaldesa Leer"
+  },
+  {
+    "titulo": "La Fiscalía pide 12 años de inhabilitación para el alcalde de Villamantilla (PP) por colocar a su hermana en la guardería del Ayuntamiento con \"absoluta omisión de las normas mínimas de contratación\"",
+    "medio": "El Mundo",
+    "fecha": 1777500209.0,
+    "link": "https://www.elmundo.es/madrid/2026/04/30/69f21f87fc6c8354668b457c.html",
+    "resumen": "Juan Antonio de la Morena será juzgado en la Audiencia Provincial por prevaricación y también deberá responder civilmente Leer"
+  },
+  {
+    "titulo": "Israel intercepta temporalmente a la Global Sumud Flotilla en aguas internacionales",
+    "medio": "El País",
+    "fecha": 1777500197.0,
+    "link": "https://elpais.com/internacional/2026-04-29/israel-intercepta-temporalmente-a-la-global-sumud-flotilla-en-aguas-internacionales.html",
+    "resumen": "La nueva misión humanitaria con ayuda para Gaza iba camino a desviar el paso de un carguero con destino Israel"
+  },
+  {
+    "titulo": "La gran noche de los fondos: estos son los ganadores",
+    "medio": "Expansión",
+    "fecha": 1777500001.0,
+    "link": "https://www.expansion.com/mercados/fondos/2026/04/30/69f2047b468aeb293f8b45bb.html",
+    "resumen": "Los premios EXPANSIÓN-Allfunds reconocieron la gestión de los mejores fondos de inversión y planes de pensiones de 2025. Leer"
+  },
+  {
+    "titulo": "El milmillonario José Elías explica por qué está \"encantado\" cuando baja el mercado",
+    "medio": "HuffPost",
+    "fecha": 1777499633.0,
+    "link": "https://www.huffingtonpost.es/virales/el-milmillonario-joseias-explica-que-esta-encantado-baja-mercado-f202604.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "David Bustamante se emociona ante las cámaras: «A mí con la ansiedad me da por comer»",
+    "medio": "OK Diario",
+    "fecha": 1777499273.0,
+    "link": "https://okdiario.com/cool/television/david-bustamante-emociona-camaras-ansiedad-da-comer-16704325",
+    "resumen": "Este miércoles 29 de abril se ha estrenado la segunda temporada de 100% Únicos y David Bustamante ha sido uno de los invitados del programa de Cuatro. El cantante se ha enfrentado a una entrevista muy especial ante personas con trastorno del espectro autista (TEA), y ha revelado su faceta más cercana y cómplice al … Continuar leyendo \"David Bustamante se emociona ante las cámaras: «A mí con la ansiedad me da por comer»\""
+  },
+  {
+    "titulo": "Gemini ahora puede generar archivos de Office desde el chat (y gratis)",
+    "medio": "Hipertextual",
+    "fecha": 1777499100.0,
+    "link": "https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-excel-pdf/",
+    "resumen": "Google ha añadido a Gemini la capacidad de generar archivos de Office. Los usuarios podrán crear archivos de Word, Excel o PDF de forma gratuita dentro de la conversación, lo que elimina la necesidad de cambiarse entre aplicaciones. La nueva función pone fin a una de las mayores carencias de Gemini y la coloca al […] Seguir leyendo: Gemini ahora puede generar archivos de Office desde el chat (y gratis)"
+  },
+  {
+    "titulo": "El Surne Bilbao gana la FIBA Europe Cup y el baloncesto español encadena 10 años con títulos continentales",
+    "medio": "El País",
+    "fecha": 1777497720.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-04-29/el-surne-bilbao-gana-la-fiba-europe-cup-y-el-baloncesto-espanol-encadena-10-anos-con-titulos-continentales.html",
+    "resumen": "El conjunto vasco celebra su segunda corona europea después de remontar ante el Paok en la vuelta de la final"
   },
   {
     "titulo": "Estados Unidos asesta el mayor golpe contra la narcopolítica en México",
@@ -12,13 +173,6 @@
     "fecha": 1777497460.0,
     "link": "https://elpais.com/mexico/2026-04-29/estados-unidos-asesta-el-mayor-golpe-contra-la-narcopolitica-en-mexico.html",
     "resumen": "La Administración de Trump acusa al gobernador de Sinaloa y miembro del partido oficialista, Rubén Rocha, de colusión, junto a otros nueve funcionarios de ese Estado, con el cartel de Joaquín ‘El Chapo’ Guzmán e Ismael ‘El Mayo’ Zambada"
-  },
-  {
-    "titulo": "Así queda el cuadro de las semifinales de la Champions League: resultados de los partidos",
-    "medio": "OK Diario",
-    "fecha": 1777497385.0,
-    "link": "https://okdiario.com/deportes/asi-queda-cuadro-semifinales-champions-league-resultados-partidos-16704144",
-    "resumen": "Las semifinales de la Champions League han afrontado esta semana sus partidos de ida, en el Parque de los Príncipes y en el Metropolitano. Paris Saint-Germain, Bayern de Múnich, Atlético de Madrid y Arsenal disputaron la ida de las semifinales de la máxima competición entre martes y miércoles. El primero entre franceses y alemanes disputado … Continuar leyendo \"Así queda el cuadro de las semifinales de la Champions League: resultados de los partidos\""
   },
   {
     "titulo": "El Atlético deja vivo al Arsenal en el Metropolitano",
@@ -33,20 +187,6 @@
     "fecha": 1777497311.0,
     "link": "https://theobjective.com/deportes/futbol/2026-04-29/nueve-meses-carcel-aficionado-oviedo-racista/",
     "resumen": "El acusado de proferir insultos racistas contra Marcus Rashford, jugador del FC Barcelona, durante el partido contra el Real Oviedo celebrado en el Estadio Carlos Tartiere […]"
-  },
-  {
-    "titulo": "La UE registró casi 100.000 violaciones en 2024, un 150% más que hace una decáda",
-    "medio": "OK Diario",
-    "fecha": 1777497025.0,
-    "link": "https://okdiario.com/internacional/union-europea-registro-casi-100-000-violaciones-2024-150-mas-que-hace-decada-16704046",
-    "resumen": "Las policías de los Estados miembros de la Unión Europea registraron en 2024 un total de 256.302 delitos de violencia sexual, de ellos, 98.190 fueron clasificados como violaciones, lo que representa el 38% del total de estos delitos. Según los datos publicados por Eurostat, las violaciones han aumentado un 150% en los últimos diez años. … Continuar leyendo \"La UE registró casi 100.000 violaciones en 2024, un 150% más que hace una decáda\""
-  },
-  {
-    "titulo": "Las 50 sombras de Ábalos",
-    "medio": "OK Diario",
-    "fecha": 1777496884.0,
-    "link": "https://okdiario.com/opinion/50-sombras-abalos-16703963",
-    "resumen": "Lo de Aldama no ha sido una declaración judicial, ha sido un exorcismo, o una catarsis de pelirroja despechada con memoria de elefante y gestión del rencor deficiente, todo muy en clave Sam Peckinpah. Aldama ha demostrado que, si tiene que aficionarse a las humedades de Soto del Real, se lleva por delante hasta el … Continuar leyendo \"Las 50 sombras de Ábalos\""
   },
   {
     "titulo": "Atlético de Madrid y Arsenal sellan un empate y dejan la semifinal abierta para la vuelta",
@@ -77,13 +217,6 @@
     "resumen": "Se anota una plusvalía de 28.700 millones de dólares por sus inversiones en empresas y anuncia una subida del 5% de su dividendo trimestral, que pasará a 0,22 dólares. Leer"
   },
   {
-    "titulo": "Atlético y Arsenal empatan en un combate nulo y lo dejan todo para Londres",
-    "medio": "El Mundo",
-    "fecha": 1777496581.0,
-    "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/04/29/69f24e54e85ece89638b4598.html",
-    "resumen": "Los tantos, de Gyokeres y Julián, llegaron de penalti en un partido en el que el Rey Felipe VI estuvo en el palco junto al alcalde de Madrid Leer"
-  },
-  {
     "titulo": "Así funciona el gel de cejas laminadas para conseguir un efecto lifting de forma sencilla",
     "medio": "Trendencias",
     "fecha": 1777496425.0,
@@ -103,27 +236,6 @@
     "fecha": 1777496263.0,
     "link": "https://www.elespanol.com/deportes/futbol/20260429/atletico-madrid-vuelve-mostrar-caras-antagonicas-arsenal-deja-deberes-londres/1003744228203_0.html",
     "resumen": "Los colchoneros fueron un equipo tímido en la primera parte, mientras que en la segunda mitad se desataron y merecieron más. Gyokeres y Julián marcaron de penalti."
-  },
-  {
-    "titulo": "Atlético y Arsenal dejan la Champions para Londres",
-    "medio": "OK Diario",
-    "fecha": 1777496256.0,
-    "link": "https://okdiario.com/deportes/atletico-arsenal-dejan-champions-londres-16703833",
-    "resumen": "Hubo un tiempo en el que el fútbol se dominaba a través de la táctica pura y dura; el actual lo hace desde la verticalidad y el intercambio de golpeos. Del estilo contemporáneo abrieron las semifinales de Champions PSG y Bayern de Múnich; de la forma de antaño lo hicieron Atlético y Arsenal. Más bien, … Continuar leyendo \"Atlético y Arsenal dejan la Champions para Londres\""
-  },
-  {
-    "titulo": "Resultado Atlético de Madrid – Arsenal: resumen, goles y cómo ha quedado el partido de Champions League (1-1)",
-    "medio": "OK Diario",
-    "fecha": 1777496124.0,
-    "link": "https://okdiario.com/deportes/como-va-atletico-madrid-arsenal-directo-resultado-goles-del-partido-champions-league-hoy-vivo-online-1-1-16701755",
-    "resumen": "Atlético de Madrid y Arsenal se enfrentan este miércoles en el partido de ida de las semifinales de la Champions League. El Metropolitano acoge un partidazo entre rojiblancos y gunners que buscan la final contra el ganador de la otra eliminatoria que disputan PSG y Bayern. Sigue en vivo y en directo en OKDIARIO el … Continuar leyendo \"Resultado Atlético de Madrid – Arsenal: resumen, goles y cómo ha quedado el partido de Champions League (1-1)\""
-  },
-  {
-    "titulo": "El Real Madrid golpea primero y duro al Hapoel, pero pierde a Tavares",
-    "medio": "El Mundo",
-    "fecha": 1777495998.0,
-    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/04/29/69f21efa21efa01b5f8b4571.html",
-    "resumen": "Los blancos derrotan al equipo de Tel Aviv en el primer partido de la serie de cuartos, a pesar de la lesión del pívot en los minutos iniciales y de la presencia únicamente de los abonados en el Palacio. Seis triples de Campazzo Leer"
   },
   {
     "titulo": "Elon Musk se debate entre la candidez y la ira en su segundo día de juicio: “¡Sin mí, OpenAI no existiría!”",
@@ -154,13 +266,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Quién es Sergio Dalma: todo sobre su biografía, edad, canciones y vida personal del cantante",
-    "medio": "OK Diario",
-    "fecha": 1777495193.0,
-    "link": "https://okdiario.com/cool/famosos/quien-sergio-dalma-todo-sobre-biografia-edad-canciones-vida-personal-del-cantante-16703971",
-    "resumen": "Sergio Dalma acude como invitado a La Revuelta para presentar Ritorno a Via Dalma, su vigésimo tercer disco. También presenta la gira con la que lo presentará por toda España. ¿Cuál es el verdadero nombre de Sergio Dalma? Muchos lo conocen como Sergio Dalma, pero no es su nombre real, sino que es Josep Sergi Capdevila Querol. … Continuar leyendo \"Quién es Sergio Dalma: todo sobre su biografía, edad, canciones y vida personal del cantante\""
-  },
-  {
     "titulo": "El beneficio de Meta crece un 61% a costa de disparar su gasto en IA",
     "medio": "Expansión",
     "fecha": 1777495120.0,
@@ -172,7 +277,7 @@
     "medio": "Xataka",
     "fecha": 1777495088.0,
     "link": "https://www.xataka.com/robotica-e-ia/google-ha-llevado-a-gemini-paso-alla-ahora-genera-archivos-excel-pdfs-mucho-directamente",
-    "resumen": "La inteligencia artificial generativa ha cambiado muchas cosas, pero no ha eliminado una escena muy cotidiana: pedirle algo al chatbot, recibir una respuesta útil y terminar llevándola a mano a otro documento. Una propuesta que acaba en Word, una tabla que termina en Excel, unas ideas que alguien convierte después en diapositivas o un resumen que hay que dejar limpio para enviar. Esa capa intermedia sigue consumiendo tiempo, aunque parezca pequeña. Google acaba de apuntar justo ahí con Gemini: menos copiar y pegar, y más convertir una petición en un archivo que podamos usar directamente. La novedad. La actualización anunciada por Google busca llevar esa idea a la práctica dentro de la propia aplicación de Gemini. Según la compañía, el asistente ya puede crear PDFs, documentos de Microsoft Word, hojas de cálculo de Excel, archivos de Google Docs, Sheets y Slides, y otros formatos directamente desde el chat con una simple petición. Sundar Pichai señaló en una publicación que la función ya está disponible para todos los usuarios de la app de Gemini a nivel global. Más formatos. La lista completa ayuda a entender el alcance de la función, pero la idea de fondo es más sencilla: Gemini no se queda encerrado en el ecosistema de Google. La compañía incluye archivos de Workspace, formatos de Microsoft Office y opciones como CSV, TXT, RTF, Markdown o LaTeX, más habituales en tareas de datos, documentación o contenido estructurado. Eso hace que el asistente pueda encajar mejor en rutinas muy distintas. La clave está en que Gemini no solo puede recibir una orden, sino también contexto. Por ejemplo, podríamos subir varios apuntes al chatbot y pedirle una guía de estudio en PDF, con estructura, elementos visuales y ecuaciones si queremos un resultado más completo. Ese es el tipo de escenario donde la novedad gana sentido. Un escenario donde también podemos trabajarlo con materiales propios y con instrucciones a medida para obtener una salida concreta. En Xataka El juicio de Musk contra Altman empieza con una pregunta que nadie ha respondido: ¿puede una ONG cambiar de misión? Tiempo de crear (y revisar). Estamos ante una función que promete, sobre todo porque ataca una de esas pequeñas pérdidas de tiempo que se repiten cada día sin que les prestemos demasiada atención. Ahora bien, que Gemini pueda crear un archivo no significa que ese archivo vaya a estar listo para enviar, publicar o presentar sin mirarlo con calma. Como ocurre con cualquier salida generada por IA, deberíamos dedicar tiempo a revisar los datos, incluso el tono, la estructura y el formato. Imágenes | Google En Xataka | El modelo \"freemium\" de la IA está muriendo: GitHub Copilot y Claude están poniendo cada vez más tarifas y costes - La noticia Google ha llevado a Gemini un paso más allá: ahora genera archivos de Excel, PDFs y mucho más directamente fue publicada originalmente en Xataka por Javier Marquez ."
+    "resumen": "La inteligencia artificial generativa ha cambiado muchas cosas, pero no ha eliminado una escena muy cotidiana: pedirle algo al chatbot, recibir una respuesta útil y terminar llevándola a mano a otro documento. Una propuesta que acaba en Word, una tabla que termina en Excel, unas ideas que alguien convierte después en diapositivas o un resumen que hay que dejar limpio para enviar. Esa capa intermedia sigue consumiendo tiempo, aunque parezca pequeña. Google acaba de apuntar justo ahí con Gemini: menos copiar y pegar, y más convertir una petición en un archivo que podamos usar directamente. La novedad. La actualización anunciada por Google busca llevar esa idea a la práctica dentro de la propia aplicación de Gemini. Según la compañía, el asistente ya puede crear PDFs, documentos de Microsoft Word, hojas de cálculo de Excel, archivos de Google Docs, Sheets y Slides, y otros formatos directamente desde el chat con una simple petición. Sundar Pichai señaló en una publicación que la función ya está disponible para todos los usuarios de la app de Gemini a nivel global. Más formatos. La lista completa ayuda a entender el alcance de la función, pero la idea de fondo es más sencilla: Gemini no se queda encerrado en el ecosistema de Google. La compañía incluye archivos de Workspace, formatos de Microsoft Office y opciones como CSV, TXT, RTF, Markdown o LaTeX, más habituales en tareas de datos, documentación o contenido estructurado. Eso hace que el asistente pueda encajar mejor en rutinas muy distintas. Algunos ejemplos. Lo cierto es que no hace falta imaginar casos demasiado complejos. Basta con pensar en esas tareas pequeñas que suelen quedar a medio camino entre el chat y otra aplicación, y pedirle a Gemini que las entregue con una forma más aprovechable. Veamos algunas de ellas. Convertir una propuesta de presupuesto en una hoja de cálculoOrdenar ideas sueltas en un borrador con estructura claraResumir una colaboración extensa en un PDF de una páginaTransformar apuntes de clase en una guía de estudio lista para revisarCrea una presentación estilo PowerPoint con información de base Vamos con una petición concreta basada en el último ejemplo. Crea una presentación estilo PowerPoint a partir de la información que te proporciono. Extrae solo las ideas más importantes, organiza el contenido en unas 8-10 diapositivas y utiliza un estilo visual acorde a la temática. Como podemos ver, podemos subir archivos para que Gemini haga su trabajo, como apuntes y después pedirle, por ejemplo, una guía de estudio en PDF o una presentación con diapositivas. Ese es el tipo de escenario donde la novedad gana sentido. Un escenario donde también podemos trabajarlo con materiales propios y con instrucciones a medida para obtener una salida concreta. En Xataka El juicio de Musk contra Altman empieza con una pregunta que nadie ha respondido: ¿puede una ONG cambiar de misión? Tiempo de crear (y revisar). Estamos ante una función que promete, sobre todo porque ataca una de esas pequeñas pérdidas de tiempo que se repiten cada día sin que les prestemos demasiada atención. Ahora bien, que Gemini pueda crear un archivo no significa que ese archivo vaya a estar listo para enviar, publicar o presentar sin mirarlo con calma. Como ocurre con cualquier salida generada por IA, deberíamos dedicar tiempo a revisar los datos, incluso el tono, la estructura y el formato. Imágenes | Google | Captura de pantalla En Xataka | El modelo \"freemium\" de la IA está muriendo: GitHub Copilot y Claude están poniendo cada vez más tarifas y costes - La noticia Google ha llevado a Gemini un paso más allá: ahora genera archivos de Excel, PDFs y mucho más directamente fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
     "titulo": "La embajadora israelí en España niega el respaldo a Marruecos sobre Ceuta y Melilla",
@@ -180,13 +285,6 @@
     "fecha": 1777494715.0,
     "link": "https://theobjective.com/internacional/2026-04-29/embajadora-espana-israel-marruecos-ceuta-melilla/",
     "resumen": "La embajadora de Israel en España, Dana Erlich, ha asegurado este miércoles que Israel «no está pensando» en apoyar las reivindicaciones de Marruecos en las ciudades […]"
-  },
-  {
-    "titulo": "Dónde ver el resultado del Atlético de Madrid – Arsenal en directo y online por televisión en vivo el partido de la Champions League hoy",
-    "medio": "OK Diario",
-    "fecha": 1777494637.0,
-    "link": "https://okdiario.com/deportes/donde-ver-atletico-madrid-arsenal-champions-league-hoy-online-gratis-television-directo-16683865",
-    "resumen": "Llega el momento de la verdad para el Atlético de Madrid, ya que se juega la temporada, al igual que el Arsenal, su rival en esta ida de las semifinales de la Champions League. Los colchoneros han depositado todo en la máxima competición continental, mientras que los de Londres están en medio de la pelea … Continuar leyendo \"Dónde ver el resultado del Atlético de Madrid – Arsenal en directo y online por televisión en vivo el partido de la Champions League hoy\""
   },
   {
     "titulo": "Meta se desploma en el mercado de futuros tras elevar su previsión de gasto en IA hasta 145.000 millones de dólares",
@@ -245,27 +343,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Microsoft gana un 31% más en nueve meses con el mercado en vilo por el auge de la IA",
-    "medio": "El País",
-    "fecha": 1777493614.0,
-    "link": "https://elpais.com/economia/2026-04-29/microsoft-gana-un-31-mas-en-nueve-meses-con-el-mercado-en-vilo-por-el-auge-de-la-ia.html",
-    "resumen": "El crecimiento de Azure y el negocio de inteligencia artificial impulsan las cuentas mientras el mercado vigila el elevado gasto en infraestructuras y su rentabilidad"
-  },
-  {
-    "titulo": "Casi 2,5 millones de descendientes de españoles han pedido la nacionalidad al amparo de la Ley de Memoria Democrática",
-    "medio": "El País",
-    "fecha": 1777493328.0,
-    "link": "https://elpais.com/espana/2026-04-29/casi-25-millones-de-descendientes-de-espanoles-han-pedido-la-nacionalidad-al-amparo-de-la-ley-de-memoria-democratica.html",
-    "resumen": "Claudia Sheinbaum recibe al ministro Albares en México, quien le entrega la invitación de Felipe VI para que asista a la Cumbre Iberoamericana de Madrid en noviembre"
-  },
-  {
-    "titulo": "Estados Unidos acusa al gobernador de Sinaloa y a otros nueve funcionarios mexicanos de narcotráfico",
-    "medio": "El Mundo",
-    "fecha": 1777493144.0,
-    "link": "https://www.elmundo.es/internacional/2026/04/29/69dbf33ae9cf4a931e8b4576.html",
-    "resumen": "Washington ha pedido la extradición de los señalados, pero México asegura que la Fiscalía estadounidense no cuenta con pruebas de su culpabilidad Leer"
-  },
-  {
     "titulo": "Von der Leyen y Magyar negociarán para desbloquear los fondos congelados a Hungría",
     "medio": "The Objective",
     "fecha": 1777493075.0,
@@ -301,13 +378,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Las redes convierten el altercado entre Begoña Gómez y Vito Quiles en un fenómeno viral y se llenan de memes",
-    "medio": "El Mundo",
-    "fecha": 1777492002.0,
-    "link": "https://www.elmundo.es/espana/2026/04/29/69f2549ce4d4d8a1088b4580.html",
-    "resumen": "El altercado en una cafetería de Las Rozas ha desatado cientos de memes en X, TikTok e Instagram Leer"
-  },
-  {
     "titulo": "Jerome Powell continuará en la junta de gobernadores tras dejar la presidencia de la Fed",
     "medio": "El Independiente",
     "fecha": 1777491765.0,
@@ -320,20 +390,6 @@
     "fecha": 1777491729.0,
     "link": "https://www.huffingtonpost.es/planeta/javier-armentia-astrofisico-sobre-eclipse-solar-el-30-abril-dia-espejo-veras-ponerse-sitio-12-agosto-f202604.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Las amigas que protegieron a Begoña Gómez de Vito Quiles en el restaurante Espanis de las Rozas: \"¡Pero que paréis, Charos!\"",
-    "medio": "El Mundo",
-    "fecha": 1777491540.0,
-    "link": "https://www.elmundo.es/madrid/2026/04/29/69f24df1e4d4d8d91a8b4592.html",
-    "resumen": "Las acompañantes de la mujer del presidente trataron de evitar la persecución, que llegó a producirse a gatas, en los alrededores del local Leer"
-  },
-  {
-    "titulo": "Begoña Gómez denuncia a Vito Quiles por agresión tras un altercado en una cafetería",
-    "medio": "El Mundo",
-    "fecha": 1777491497.0,
-    "link": "https://www.elmundo.es/espana/2026/04/29/69f208e0fdddff55678b4578.html",
-    "resumen": "A la mujer del presidente no se le permitía salir del recinto y ahí es donde se habría producido la agresión. Un momento que no se aprecia en el corte que ha subido el activista a sus redes sociales Leer"
   },
   {
     "titulo": "José Sacristan tiene un mensaje para los jóvenes que piensan que \"no se está tan mal\" en una dictadura",
@@ -376,13 +432,6 @@
     "fecha": 1777490214.0,
     "link": "https://www.elespanol.com/espana/20260429/dia-aldama-convirtio-sanchez-numero-organizacion-criminal-controlaba-gobierno-psoe/1003744227811_0.html",
     "resumen": "El empresario aseguró en el Supremo que el presidente conocía y permitía los negocios de la trama de Ábalos y Koldo.Durante sus siete horas de intervención también acusó a Sánchez de participar en la financiación ilegal del PSOE y de pactar un contrato de 2.500M."
-  },
-  {
-    "titulo": "Lo que escondía el \"haced algo ya, coño\" que reclamó una mujer en el Congreso a los diputados que votaban la prórroga de los alquileres: \"Era el grito de toda una nación\"",
-    "medio": "HuffPost",
-    "fecha": 1777489867.0,
-    "link": "https://www.huffingtonpost.es/politica/lo-escondia-haced-cono-mujer-reclamo-tribuna-congreso-diputados-votaban-prorroga-contratos-alquiler-f202604.html",
-    "resumen": ""
   },
   {
     "titulo": "Feijóo reta a Sánchez a querellarse contra Aldama: si no lo hace, «de inventada nada»",
@@ -434,25 +483,11 @@
     "resumen": "El presidente de EEUU mezcla los países ante la prensa en el Despacho Oval: \"Creo que Ucrania, desde el punto de vista militar, está derrotada. Tenían 159 barcos. Todos los barcos están hundidos. Todos sus aviones han sido derribados\" “Creo que Ucrania, desde el punto de vista militar, está derrotada. Tenían 159 barcos. Todos los barcos están hundidos. Todos sus aviones han sido derribados”. Así ha confundido el presidente de EEUU, Donald Trump, Ucrania por Irán al hablar de la conversación mantenida con el presidente ruso, Vladímir Putin: “Hablé de Ucrania y también un poco de Irán. Tratamos varios temas, sobre todo Ucrania. Y tuvimos una conversación muy buena. Creo que vamos a encontrar una solución con bastante rapidez, espero”. ¿Qué guerra cree que terminará primero?, le pregunta la corresponsal en la Casa Blanca de CNN, Kaitlan Collins, y Trump responde: “Mmm, esa es una pregunta interesante. Ya sabes, viniendo de ti, es muy interesante. Qué guerra terminará primero, no lo sé. Quizá sigan un calendario similar. Creo que, militarmente, Ucrania está derrotada. No lo sabrías leyendo las noticias falsas, pero militarmente, tenían 159 barcos. Todos los barcos están ahora mismo bajo el agua. Todos sus aviones han sido derribados o han quedado diezmados. Tenían misiles, y el 82% ha desaparecido. Y tenían drones, y la mayoría de ellos han desaparecido. La mayoría de las fábricas han desaparecido en su mayor parte. Y nosotros tenemos un equipo antidrones tremendo. Así que diría que, en general, estamos en bastante buena forma. Además, su economía se está hundiendo. Si lees The New York Times, dirías que les va de maravilla porque son noticias falsas. O si ves la CNN”. Según Trump, habló con el presidente ruso “más sobre la guerra en Ucrania, pero a él le gustaría echar una mano [con Irán]. Y le dije: 'Antes de que me ayudes, quiero que pongas fin a tu guerra'. Así que tuvimos una buena conversación. Lo conozco desde hace mucho tiempo. Creo que estaba dispuesto a llegar a un acuerdo hace tiempo. Creo que algunas personas le pusieron trabas para llegar a un acuerdo. Pero hablamos más sobre Ucrania”. En relación con el bloqueo que EEUU está ejerciendo sobre el estrecho de Ormuz, Trump ha señalado:“ El bloqueo es una genialidad. El bloqueo ha sido infalible al 100%. Demuestra lo buena que es nuestra Armada. Te lo puedo asegurar. Ahora tienen que rendirse. Eso es todo lo que tienen que hacer. Solo decir: 'Nos rendimos. Nos rendimos'. Su economía es una economía muerta”."
   },
   {
-    "titulo": "El lado personal de Manuel Carrasco: cómo conoció a su mujer y sus dos hijos Chloé y Gael",
-    "medio": "The Objective",
-    "fecha": 1777489200.0,
-    "link": "https://theobjective.com/gente/2026-04-29/el-lado-personal-de-manuel-carrasco-como-conocio-a-su-mujer-y-sus-dos-hijos-chloe-y-gael/",
-    "resumen": "Manuel Carrasco es uno de los cantantes más reputados de nuestro país. El de Huelva lleva más de veinte años haciendo bailar a infinidad de personas […]"
-  },
-  {
-    "titulo": "Buena suerte, pásalo bien, no mueras: una película que es más una advertencia sobre el negro futuro de la IA que sobre viajes en el tiempo",
+    "titulo": "Buena suerte, pásalo bien, no mueras: una película que es más una advertencia acerca del negro futuro de la IA que sobre viajes en el tiempo",
     "medio": "Microsiervos",
     "fecha": 1777489182.0,
     "link": "https://www.microsiervos.com/archivo/peliculas-tv/buena-suerte-pasalo-bien-no-mueras-futuro-viajes-tiempo.html",
     "resumen": "Como es sabido, por aquí somos muy fans de las historias sobre viajes en el tiempo, ya sean relatos, novelas, cortometrajes, series o películas. Así que Buena suerte, pásalo bien, no mueras (Gore Verbinski, 2025; Good Luck, Have Fun, Don’t Die es el título original) ha sido una elección obvia para pasar un buen rato. Aquí va mi reseña nada cualificada sin spoilers más allá de lo que se ve en el trailer. La película narra los cronoviajes del protagonista (Sam Rockwell, el de Moon), un «hombre del futuro» ataviado muy en la estética de 12 monos, que llega al presente para reclutar un equipo con el que salvar a la humanidad de un futuro apocalíptico. Como cabe suponer, primero tiene que convencer a la gente de que no es un vagabundo zumbado y luego elegir a los mejores, porque ha probado de todo y no lo consigue nunca; aquí el viaje en el tiempo funciona un poco a medio camino entre El día de la marmota y Al filo del mañana: puedes hacer ¡clic! y «reintentar la misión» de nuevo. La historia es más de humor que terrorífica, con un equipo a medio camino entre La guerra del mañana (buena idea, pero no era gran cosa) y FAQ sobre viajes en el tiempo (personajes torpones). Hay un guión bien trabajado acerca de cómo una IA más descarriada que la peor pesadilla de Black Mirror consigue agilipollar y a la humanidad a través de slop en TikToks e Instagrams. Lo que comienza maquinado para pudrir el cerebro acaba convirtiendo a todo el mundo en meros zombies… y alguna que otra cosa peor. Es una peli de persecuciones de baratillo, pero con muchas buenas ideas bien sembradas. Si tuviera que quedarme con alguna escena por lo hilarante, seguramente sería el diálogo entre unos alumnos quinceañeros y un profesor sustituto de literatura al que apabullan cuando les explica que deben leer Ana Karenina… en papel. Sin separar la vista del móvil, le espetan que el autor es un boomer, preguntan que si está en formato película, que si acaso es literatura juvenil, se quejan de que el autor tiene un millón de años, de que el audiobook que una alumna ya está escuchando en su móvil es un puto coñazo… Una pasivo-agresividad sin límites, probablemente con toques de realidad de hoy en día. El futuro es incierto, y puede ser todo lo malo que nos tememos y aún peor. Exageradamente peor. Yo he pasado un buen rato viéndolo en la película. No es nada más que eso, pero toca tantos temas blackmirrorianos y pone sobre la mesa el nivel de locura al que pueden llegar las IAs descarriadas que debería ser casi obligatoria verla… y hasta de comentarla en clase como medida de precaución. Bonus: un acertijo que tiene que ver con lo que le sucede al protagonista de la película y que leí hace poco en alguna red social… Si viajaras ahora mismo, de repente, al pasado, al año 1987, y tuvieras que demostrarle a la gente que provienes del futuro simplemente con lo que sabes y los objetos que llevas encima… ¿Podrías hacerlo de forma convincente? ¿Cuánto crees que tardarías? Relacionados: 12 monos Viajes en el tiempo en las películas, en modo «elige tu propia aventura» Los viajes en el tiempo en la ficción Regreso al futuro La máquina del tiempo de un minuto The Time Travelers FAQ sobre Viajes en el Tiempo Black Mirror: una serie que hay que ver, aunque solo sea por los detalles que rodean a las historias # Enlace Permanente"
-  },
-  {
-    "titulo": "ATLÉTICO DE MADRID vs ARSENAL | UEFA CHAMPIONS LEAGUE - Ida Semifinal | EN DIRECTO",
-    "medio": "HuffPost",
-    "fecha": 1777488737.0,
-    "link": "https://www.huffingtonpost.es/videos/atletico-madrid-vs-arsenal-uefa-champions-league-ida-semifinal-directobr-f202604.html",
-    "resumen": ""
   },
   {
     "titulo": "Feijóo tras oír la \"gravísima\" declaración de Aldama: \"Si Sánchez no se ha querellado ya, entonces no era una inventada\"",
@@ -474,20 +509,6 @@
     "fecha": 1777488364.0,
     "link": "https://www.elindependiente.com/internacional/2026/04/29/trump-y-putin-mantienen-una-excelente-conversacion-telefonica-para-intentar-avanzar-sobre-iran-y-ucrania/",
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha afirmado este miércoles que mantuvo una “excelente conversación” telefónica con su homólogo […]"
-  },
-  {
-    "titulo": "La Fed mantiene los tipos de interés en la 'despedida' de Jerome Powell",
-    "medio": "El Mundo",
-    "fecha": 1777487857.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/04/29/69f24c6521efa0e2488b4580.html",
-    "resumen": "El presidente de la Reserva Federal, que acaba mandato el 15 de mayo, anuncia que seguirá en la junta como \"gobernador de perfil bajo\" para protegerse de las amenazas de Trump: \"no me dejan otra opción\" Leer"
-  },
-  {
-    "titulo": "Aldama: Montero pidió a Abalos \"un empresario de confianza\" para el 'pelotazo' de la sede de la Sepi pero \"Begoña lo quería para ella\"",
-    "medio": "El Mundo",
-    "fecha": 1777487724.0,
-    "link": "https://www.elmundo.es/espana/2026/04/29/69f24601e85ece790f8b4573.html",
-    "resumen": "El intermediario relata su intento inmobiliario con comisión de 15 millones ante el Supremo sin que la Sepi acepte dar explicaciones Leer"
   },
   {
     "titulo": "La Reserva Federal mantiene sin cambios los tipos de interés en la última reunión de Powell",
@@ -593,13 +614,6 @@
     "fecha": 1777483826.0,
     "link": "https://www.trendencias.com/shopping/como-adaptar-nuestro-skincare-facilmente-a-primavera-para-tener-cutis-liso-hidratado-efecto-glow-gastar-fortuna",
     "resumen": "Llevamos meses esperando a la primavera, el invierno ha sido especialmente duro y romantizamos esta estación (con razón). Pero que las horas de sol aumenten y la temperatura suba tiene consecuencias para nuestra piel, especialmente la del rostro: cambios hormonales, alérgenos e incluso una mayor producción de grasa pueden traducirse en rojeces, picor o sensibilidad. Por eso toca adaptar nuestro skincare a la nueva temporada, dando protagonismo a la hidratación y a la protección solar (ya sabemos que es el mejor antiedad que existe). Invertir en cremas fotoprotectoras adecuadas para nuestro tipo de piel, introducir una exfoliación suave un par de veces por semana y buscar una formulación con un punto extra de hidratación en nuestra crema de noche serán imprescindibles. Y en la redacción tenemos cinco favoritos para crear rutina equilibrada para mantener nuestra piel sana, con glow y protegida en primavera. Un exfoliante natural Después del invierno, lo normal es que se acumulen células muertas que nos apagan un poco y que incluso evitan que los tratamientos penetren bien. Además, con el calor puede aumentar la producción de grasa, lo que puede implicar la aparición de poros obstruidos o imperfecciones. Aplicar un exfoliante suave como este de Nuxe por 21 euros dos (o tres) veces por semana elimina esa capita superficial, dejando la piel más lisa y luminosa. Un sérum con vitamina C Incorporar un sérum de vitamina C como este Banana Bright en primavera es fundamental para conseguir ese efecto glow que mencionábamos antes. No solo porque es un potente antioxidante que ayuda a proteger la piel, mejorar la luminosidad y unificar el tono, también ayuda a estimular la producción de colágeno gracias al combo formado por la alta concentración de vitamina C y el ácido hialurónico. Una formula que promete es una piel fresca, jugosa y saludable por 68 euros. Una crema hidratante con textura gel Si algo da pereza cuando suben las temperaturas es la sesación pesada de una crema muy densa. Por eso, es buena idea incorporar cremas con textura gel como esta de Yves Rocher por 13,99 euros que ayuda mantener la piel hidratada sin excesos gracias a su textura ligera. Como mezcla ácido hialurónico y activos vegetales promete retener el agua en la piel, aportando frescura y luminosidad. Además, ayuda a combatir la deshidratación típica del cambio de estación, ayudando a equilibrar la piel y suavizar pequeñas líneas de expresión que aparecen por la falta de agua. Protección solar ligera Y hablando de ligereza, este protector solar de Beauty of Joseon es uno de los más vendidos y virales en TikTok precisamente por eso. Se extiende sin esfuerzo y se absorbe rapidísimo (confirmado por esta editora vuestra editora que lleva usándolo dos meses y está encantada). Por supuesto, tiene Factor 50 y promete una hidratación extra gracias al extracto de arroz. Lo tenemos por 14,95 euros. Mascarilla hidratante para labios Los labios son una de las zonas que más sufren los cambios de temperatura, con el frío se agrietan pero con el calor se resecan (además, el aire acondicionado no ayuda). Por eso, incorporar una mascarilla labial hidratante como esta Honey Glaze con miel puede ser determinante -pocas cosas lucen menos que un lip combo con los labios agrietados-, la tenemos por 26 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @lauraescanes, Sephora, Yves Rocher, Druni En Trendencias | La tendencia de primavera 2026: cambiarse la raya del pelo a partir de los 50 En Trendencias | Los tonos de pelo que más favorecen y quitan años son los que suavizan facciones e iluminan - La noticia Cómo adaptar nuestro 'skincare' fácilmente a la primavera para tener un cutis liso, hidratado y con 'efecto glow' sin gastar una fortuna fue publicada originalmente en Trendencias por María Barba ."
-  },
-  {
-    "titulo": "Ence pierde 17,6 millones hasta marzo por las huelgas en Navia y los temporales",
-    "medio": "Expansión",
-    "fecha": 1777483758.0,
-    "link": "https://www.expansion.com/empresas/industria/2026/04/29/69f23fd6468aeb510b8b4579.html",
-    "resumen": "Quiere capitalizar el aumento del precio de la celulosa y ve oportunidades derivadas del conflicto en Oriente Próximo. Leer"
   },
   {
     "titulo": "El Supremo de EEUU anula el mapa electoral de Luisiana por uso excesivo de criterios raciales",
@@ -726,13 +740,6 @@
     "fecha": 1777478400.0,
     "link": "https://hipertextual.com/mobile/nuevos-motorola-razr-70-70-plus-y-70-ultra/",
     "resumen": "Además del nuevo Edge 70 Pro, Motorola acaba de actualizar su familia de plegables tipo concha de la mano de los Razr 70, 70 Plus y 70 Ultra. Como seguramente ya se percataron, la gran novedad de este años es que el fabricante introdujo un tercer modelo intermedio con el que busca seducir a un […] Seguir leyendo: Nuevos Razr 70, 70 Plus y 70 Ultra: Motorola ahora tiene plegables para todos los gustos (y bolsillos)"
-  },
-  {
-    "titulo": "El nuevo Motorola Edge 70 Pro ya está aquí y lo tiene todo para conquistarte",
-    "medio": "Hipertextual",
-    "fecha": 1777478400.0,
-    "link": "https://hipertextual.com/mobile/nuevo-motorola-edge-70-pro-caracteristicas-disponibilidad-precio/",
-    "resumen": "Después de bastante espera (y expectación), el Motorola Edge 70 Pro es oficial. El nuevo móvil de la marca llega con un diseño conocido, pero hace gala de un acabado premium y de una tabla de características técnicas nada despreciable. Todo esto, para plantarle cara a Samsung y Xiaomi en un mercado tan competitivo como […] Seguir leyendo: El nuevo Motorola Edge 70 Pro ya está aquí y lo tiene todo para conquistarte"
   },
   {
     "titulo": "Familias de víctimas de la matanza canadiense de Tumbler Ridge demandan a OpenAI",
@@ -868,6 +875,13 @@
     "resumen": "Según han informado fuentes de La Moncloa, Begoña Gómez, esposa del presidente del Gobierno, Pedro Sánchez, va a presentar una denuncia contra Vito Quiles.Desde Moncloa relatan que Gómez habría sido abordada por Quiles en el interior de la cafetería EsPanis en el municipio madrileño de Las Rozas cuando iba acompañada de dos amigas y el agitador ultra les habría impedido la salida del establecimiento.Después de este incidente, Quiles ha publicado en sus redes sociales un vídeo en el que, tras perseguir a Gómez, sus acompañantes le agarran para que deje de grabarla.En el vídeo difundido se puede ver cómo Quiles espera a la salida de la cafetería a Gómez y después la sigue por la calle haciéndole preguntas como \"¿Usted se arrepiente de haber utilizado su condición de mujer del presidente para hacer chanchullos?\" o \"¿Usted utilizó una asesora que pagamos todos los españoles para sus negocios personales?\".En respuesta, las acompañantes de Gómez agarran por la espalda a Quiles demandándole que deje de grabar diciéndole frases como \"Quita esa mierda\" o \"¿Eres tonto?\"."
   },
   {
+    "titulo": "Begoña Gómez denunciará a Vito Quiles por una \"agresión\" en una cafetería",
+    "medio": "Europa Press",
+    "fecha": 1777470866.0,
+    "link": "https://www.europapress.es/nacional/noticia-begona-gomez-denunciara-vito-quiles-agresion-cafeteria-20260429155426.html",
+    "resumen": "La mujer del presidente del Gobierno, Begoña Gómez, va a presentar una denuncia contra Vito Quiles por una \"agresión\" en una cafetería, según trasladan fuentes del Gobierno."
+  },
+  {
     "titulo": "El Gobierno tacha a Aldama de \"mentiroso\" y le reprocha que acuse al PSOE \"sin pruebas\"",
     "medio": "Europa Press",
     "fecha": 1777467469.0,
@@ -992,13 +1006,6 @@
     "fecha": 1777309200.0,
     "link": "https://www.microsiervos.com/archivo/aerotrastorno/informe-preliminar-air-canda-express-camion-bomberos-laguardia.html",
     "resumen": "La Junta Nacional de Seguridad en el Transporte (NTSB) de los Estados Unidos ha publicado su informe preliminar [PDF] sobre el accidente del vuelo vuelo 8646 de Air Canadá Express, que el pasado 23 de marzo terminaba con un choque entre el CRJ 600 que lo estaba haciendo y un camión de bomberos del aeropuerto LaCuardia en Nueva York. Como siempre en el caso de un informe preliminar el objetivo es establecer los hechos, no buscar las causas. Así, se confirma que había un grupo de vehículos de emergencia que habían salido de su parque con el objetivo de responder a una emergencia declarada por otro avión que estaba al otro lado de la pista activa. Y que esos vehículos recibieron autorización para cruzarla después de que el CRJ de Air Canadá Express hubiera recibido autorización para aterrizar en esa misma pista. El resultado, el citado choque, en el que murieron el piloto y el copiloto del avión y resultaron heridas otras 39 personas, seis de ellas de consideración. Pero hay aclara algunas cosas que el día del accidente no estaban claras: Había dos controladores en servicio en LaGuardia, lo que es normal para ese horario –el accidente se produjo poco después de las once y media locales–. Uno se estaba encargando del control en tierra y otro de los aterrizajes y despegues. Pero precisamente a causa de la emergencia declarada por el otro avión el controlador que se estaba ocupando de los aterrizajes y despegues se había hecho cargo temporalmente también de los movimientos en tierra. Otra cosa que aclara es que quien mandó parar al camión 1, que fue el que chocó con el avión, fue la conductora del camión 7 y no ninguno de los controladores. Pero la primera transmisión «stop, stop, stop» no indicaba a quién iba dirigida, así que el conductor del camión 1 no captó que iba por él. Y para cuando la conductora del camión 7 indicó que era el camión 1 el que tenía que parar ya era tarde. El grabador de voz de cabina del CRJ recogió tanto la autorización a los camiones de emergencia para cruzar la pista como los mensajes para que se detuvieran. Otra cosa que revela es que ninguno de los camiones llevaba un transpondedor, un emisor de radio que da información acerca de su posición, por lo que el ADSE-X, un sistema automatizado para avisar de posibles colisiones, no consiguió identificarlos como un problema, con lo que no se produjo ninguna alerta. Por lo demás el estado del avión y la cualificación de su tripulación, de los bomberos y de los controladores no revela nada fuera de lo normal. Todos tenían experiencia demostrada y estaban dentro de los márgenes de horas de trabajo correctos para ese día. # Enlace Permanente"
-  },
-  {
-    "titulo": "Convocados los Prismas Casa de las Ciencias a la Divulgación de 2026 de los Museos Científicos Coruñeses",
-    "medio": "Microsiervos",
-    "fecha": 1777284000.0,
-    "link": "https://www.microsiervos.com/archivo/ciencia/convocados-prismas-2025-casa-ciencias-divulgacion.html",
-    "resumen": "Unos Prismas Casa de las Ciencias a la espera de sus ganadores – Museos Científicos Coruñeses Otro año más los Museos Científicos Coruñeses, en los que trabajo en el MundoReal™, han convocado los Prismas Casa de las Ciencias a la Divulgación. Así a lo tonto esta es ya la XXXIX convocatoria. Siguiendo el orden en el que aparecen en las bases, estas con las categorías de los premios: Vídeo. Nuevos medios. Proyectos de divulgación científica sobre el agua en el medio urbano. Artículo periodístico. Radio. Proyecto singular Libro editado. Prisma Especial del Jurado. Todas ellas recibirán un prisma de bronce como premio. Además todas menos las dos últimas tienen una dotación económica de 4.000 €. Las bases y fichas de participación están disponibles en el enlace de arriba. No dejes de consultarlas si estás pensando en participar. Se pueden presentar trabajos hechos públicos entre el 1 de mayo de 2025 y el 1 de mayo de 2029. El plazo de recepción de candidaturas para todas las categorías empieza el 1 de mayo termina el 1 de junio. Que no se te pase; luego no hay nada que hacer. # Enlace Permanente"
   },
   {
     "titulo": "Administración, yo sé que tú me hablas… pero no te entiendo",
