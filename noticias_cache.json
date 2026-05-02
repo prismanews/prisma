@@ -1,59 +1,353 @@
 [
   {
-    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump acusa a España e Italia de estar conformes con que Irán tenga un arma nuclear",
+    "titulo": "Derek Parfit, filósofo, ya lo dijo en 1984: «Lo que hace que una vida sea mejor no siempre coincide con lo que nos hace sentir bien en el momento»",
+    "medio": "The Objective",
+    "fecha": 1777694400.0,
+    "link": "https://theobjective.com/lifestyle/2026-05-02/derek-parfit-filosofo-ya-lo-dijo-en-1984-lo-que-hace-que-una-vida-sea-mejor-no-siempre-coincide-con-lo-que-nos-hace-sentir-bien-en-el-momento/",
+    "resumen": "En una época marcada por la inmediatez y la búsqueda constante de gratificación, la reflexión del filósofo Derek Parfit resuena con una vigencia sorprendente. «Lo que […]"
+  },
+  {
+    "titulo": "El Supremo condena cuatro veces al Gobierno de Sánchez por ocultar información al Senado",
+    "medio": "OK Diario",
+    "fecha": 1777693977.0,
+    "link": "https://okdiario.com/espana/supremo-condena-cuatro-veces-gobierno-sanchez-ocultar-informacion-senado-16669630",
+    "resumen": "El Tribunal Supremo ha dictado cuatro sentencias en apenas una semana —entre el 15 y el 21 de abril de 2026— en las que condena al Gobierno de PSOE y Sumar por vulnerar el derecho fundamental de participación política de senadores del Grupo Parlamentario Popular al negarles, sin justificación legal suficiente, información que habían solicitado por … Continuar leyendo \"El Supremo condena cuatro veces al Gobierno de Sánchez por ocultar información al Senado\""
+  },
+  {
+    "titulo": "Marlaska gasta 800.000 € para distribuir coches policiales mientras los guardias han de recogerlos en moto",
+    "medio": "OK Diario",
+    "fecha": 1777693740.0,
+    "link": "https://okdiario.com/espana/marlaska-gasta-800-000-distribuir-coches-policiales-mientras-guardias-han-recogerlos-moto-16628428",
+    "resumen": "El ministro del Interior, Fernando Grande-Marlaska, gastará hasta 800.000 euros para distribuir vehículos en la Policía Nacional mientras a los guardias civiles los obliga a realizar viajes de hasta 10 horas en moto en un mismo día para sustituir sus viejas motos por las nuevas, que se encuentran en Madrid, como recientemente ha revelado OKDIARIO. … Continuar leyendo \"Marlaska gasta 800.000 € para distribuir coches policiales mientras los guardias han de recogerlos en moto\""
+  },
+  {
+    "titulo": "El Gobierno no verifica si las ONG a las que subvenciona en países del Islam tienen vínculos con el yihadismo",
+    "medio": "OK Diario",
+    "fecha": 1777693723.0,
+    "link": "https://okdiario.com/espana/gobierno-no-verifica-si-ong-que-subvenciona-paises-del-islam-tienen-vinculos-yihadismo-16715439",
+    "resumen": "El Gobierno de Pedro Sánchez admite que no verifica si las organizaciones no gubernamentales (ONG) a las que subvenciona en países de mayoría islámica tienen vínculos con el yihadismo. Desde el Ejecutivo socialista aseguran que «no existe un control específico» más allá de lo que prevé la ley que, en ningún caso, establece este tipo … Continuar leyendo \"El Gobierno no verifica si las ONG a las que subvenciona en países del Islam tienen vínculos con el yihadismo\""
+  },
+  {
+    "titulo": "El Gobierno sondea cómo incentivar el voto de los ‘nietos del exilio’ tras nacionalizar a medio millón",
+    "medio": "OK Diario",
+    "fecha": 1777693618.0,
+    "link": "https://okdiario.com/espana/gobierno-sondea-como-incentivar-voto-nietos-del-exilio-nacionalizar-medio-millon-16715035",
+    "resumen": "El Gobierno ha trasladado a la Junta Electoral su «preocupación» por la baja participación electoral de los españoles en el exterior, el conocido como voto CERA. En los tres últimos procesos electorales -los comicios autonómicos en Extremadura, Aragón y Castilla y León- el PSOE obtuvo el mayor respaldo de los residentes fuera de España. Esta … Continuar leyendo \"El Gobierno sondea cómo incentivar el voto de los ‘nietos del exilio’ tras nacionalizar a medio millón\""
+  },
+  {
+    "titulo": "Illa reparte cada año 8 millones entre 1.304 asociaciones de inmigrantes para que aprendan catalán",
+    "medio": "OK Diario",
+    "fecha": 1777693613.0,
+    "link": "https://okdiario.com/cataluna/illa-reparte-cada-ano-8-millones-1-304-asociaciones-inmigrantes-bajo-pretexto-que-aprendan-catalan-16613135",
+    "resumen": "El presidente de la Generalitat de Cataluña, Salvador Illa, mantiene una red multitudinaria de asociaciones de inmigrantes regadas con dinero público. Hasta más de 8 millones de euros destina su Ejecutivo a financiar este tipo de entidades para fomentar el catalán y la igualdad, mientras que el 25% de las familias catalanas están en exclusión … Continuar leyendo \"Illa reparte cada año 8 millones entre 1.304 asociaciones de inmigrantes para que aprendan catalán\""
+  },
+  {
+    "titulo": "Bolaños reconoce que no contabiliza las rebajas de condenas y excarcelaciones por la ley del ‘sólo sí es sí’",
+    "medio": "OK Diario",
+    "fecha": 1777693610.0,
+    "link": "https://okdiario.com/espana/bolanos-reconoce-que-no-contabiliza-rebajas-condenas-excarcelaciones-ley-del-solo-si-si-16687210",
+    "resumen": "Félix Bolaños reconoce que el Ministerio de Justicia no contabiliza las rebajas de condena ni las excarcelaciones derivadas de la ley del solo sí es sí. El Gobierno lo admite por escrito, en una respuesta parlamentaria a una pregunta formulada el pasado mes de marzo por el grupo parlamentario de Vox. «En relación con la … Continuar leyendo \"Bolaños reconoce que no contabiliza las rebajas de condenas y excarcelaciones por la ley del ‘sólo sí es sí’\""
+  },
+  {
+    "titulo": "Osasuna-Barcelona: ganar y esperar para cantar el alirón",
+    "medio": "OK Diario",
+    "fecha": 1777693556.0,
+    "link": "https://okdiario.com/deportes/osasuna-barcelona-ganar-esperar-cantar-aliron-16714235",
+    "resumen": "El Barcelona visita este sábado a Osasuna (El Sadar, 21:00) con el objetivo de ganar la Liga cuanto antes. Ya estamos en la jornada 34 y hay solamente 15 puntos en disputa. El conjunto blaugrana le saca 11 puntos al Real Madrid y este mismo fin de semana podría ser campeón. Para cantar el alirón … Continuar leyendo \"Osasuna-Barcelona: ganar y esperar para cantar el alirón\""
+  },
+  {
+    "titulo": "Una experta analiza los retoques de María Jesús Montero: «Lleva Botox, relleno e inductores de colágeno»",
+    "medio": "OK Diario",
+    "fecha": 1777693553.0,
+    "link": "https://okdiario.com/cool/actualidad/experta-analiza-retoques-maria-jesus-montero-botox-relleno-inductores-colageno-16714960",
+    "resumen": "La campaña electoral ya ha arrancado en Andalucía y María Jesús Montero se enfrenta al difícil reto de ganar a Juanma Moreno. La actual ministra de Hacienda y vicepresidenta primera del Gobierno aspira a convertirse en la sustituta del actual presidente de la Junta de Andalucía, además de enfrentarse a los múltiples problemas de su … Continuar leyendo \"Una experta analiza los retoques de María Jesús Montero: «Lleva Botox, relleno e inductores de colágeno»\""
+  },
+  {
+    "titulo": "Luc Ferry (75), filósofo francés: «La búsqueda de felicidad en la modernidad pasa por encontrar sentido fuera de las antiguas estructuras religiosas»",
+    "medio": "The Objective",
+    "fecha": 1777693500.0,
+    "link": "https://theobjective.com/lifestyle/2026-05-02/luc-ferry-75-filosofo-frances-la-busqueda-de-felicidad-en-la-modernidad-pasa-por-encontrar-sentido-fuera-de-las-antiguas-estructuras-religiosas/",
+    "resumen": "El filósofo Luc Ferry, vuelve a situarse en el centro del debate intelectual europeo con una idea que, lejos de ser nueva, adquiere renovada vigencia en […]"
+  },
+  {
+    "titulo": "Sin bata blanca, consulta ni sala de espera: los psicólogos llevan la terapia a los colegios de Madrid",
     "medio": "El País",
-    "fecha": 1777676875.0,
-    "link": "https://elpais.com/internacional/2026-05-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Estados Unidos retirará a 5.000 soldados de Alemania como protesta por su actitud en la guerra| Trump dice que no está “contento” con las negociaciones con Irán y se plantea “aniquilarlos”"
+    "fecha": 1777692601.0,
+    "link": "https://elpais.com/espana/madrid/2026-05-02/sin-bata-blanca-consulta-ni-sala-de-espera-los-psicologos-llevan-la-terapia-a-los-colegios-de-madrid.html",
+    "resumen": "El equipo del Programa de Enlace Clínico en Salud Mental llega a 117 centros educativos públicos y concertados ante el auge de los problemas emocionales y conductuales en menores"
   },
   {
-    "titulo": "La dura confesión de Makoke en su peor etapa con Kiko Matamoros: «Mi madre tuvo que prestar dinero a Kiko»",
-    "medio": "OK Diario",
-    "fecha": 1777676473.0,
-    "link": "https://okdiario.com/cool/actualidad/dura-confesion-makoke-peor-etapa-kiko-matamoros-madre-tuvo-que-prestar-dinero-kiko-16716469",
-    "resumen": "Parece que Makoke comienza a levantar cabeza, aunque todavía no se encuentra en el momento óptimo en el que le gustaría estar. La colaboradora lleva mucho tiempo en el foco mediático por diversos problemas, algunos propios y otros relacionados con su ex pareja, Kiko Matamoros. Al margen de los problemas con la Agencia Tributaria y … Continuar leyendo \"La dura confesión de Makoke en su peor etapa con Kiko Matamoros: «Mi madre tuvo que prestar dinero a Kiko»\""
+    "titulo": "Malacara: “En la calle se habla de sanidad. La gente debe saber lo que está en juego”",
+    "medio": "El País",
+    "fecha": 1777692601.0,
+    "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-02/malacara-en-la-calle-se-habla-de-sanidad-la-gente-debe-saber-lo-que-esta-en-juego.html",
+    "resumen": "Conocido por sus contenidos en internet y los diseños irreverentes de sus camisetas en andaluz, el creador sevillano llegó a participar en campañas políticas, aunque ahora limita su participación a la ropa"
   },
   {
-    "titulo": "El 1 de mayo: manifestación contra… ellos mismos",
-    "medio": "OK Diario",
-    "fecha": 1777675523.0,
-    "link": "https://okdiario.com/opinion/1-mayo-manifestacion-contra-ellos-mismos-16716421",
-    "resumen": "El 1 de mayo era el día de los trabajadores contra el poder. Ahora es el día del poder disfrazado de trabajador. Este año hemos visto a Yolanda Díaz y María Jesús Montero en la manifestación. Pancarta en mano. Gesto serio. Foto perfecta. Sólo hay un pequeño problema: ellas son el poder. La escena es difícil … Continuar leyendo \"El 1 de mayo: manifestación contra… ellos mismos\""
+    "titulo": "Los bomberos de una base de León sin agua potable esperan una nueva que en 2023 iba a estar “prácticamente terminada”",
+    "medio": "El País",
+    "fecha": 1777692601.0,
+    "link": "https://elpais.com/espana/2026-05-02/los-bomberos-de-una-base-de-leon-sin-agua-potable-esperan-una-nueva-que-en-2023-iba-a-estar-practicamente-terminada.html",
+    "resumen": "La Junta de Castilla y León lleva años retrasando una instalación en Oterico, una zona con muchos incendios, que prometió en 2022"
   },
   {
-    "titulo": "Trump ordena retirar 5.000 soldados de Alemania tras el desafío del canciller Merz",
+    "titulo": "La ZBE de Guadalajara se convierte en la cuarta que cae en los juzgados",
+    "medio": "Moncloa.com",
+    "fecha": 1777692600.0,
+    "link": "https://www.moncloa.com/2026/05/02/guadalajara-cuarta-zbe-juzgados-3373879/",
+    "resumen": "Guadalajara se ha unido a las capitales de provincia donde ha caído la Zona de Bajas Emisiones (ZBE) en los tribunales. Tras las ciudades de Valladolid, Badajoz y Segovia, la asociación Liberum ha logrado que la ZBE de Guadalajara también cayera y esperan que pronto lo hagan las de Oviedo y Santander por los recursos […] La entrada La ZBE de Guadalajara se convierte en la cuarta que cae en los juzgados aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Podcast | Entrevista a Alberto Nadal",
+    "medio": "The Objective",
+    "fecha": 1777692356.0,
+    "link": "https://theobjective.com/podcasts/entrevista-politica/podcast-entrevista-alberto-nadal/",
+    "resumen": "Paloma Cervilla entrevista a Alberto Nadal, secretario de Economía y Empleo del Partido Popular."
+  },
+  {
+    "titulo": "Guía rápida para sobrevivir a una comida familiar… en dos minutos",
+    "medio": "The Objective",
+    "fecha": 1777692335.0,
+    "link": "https://theobjective.com/podcasts/en-dos-minutos/guia-comida-familiar-en-dos-minutos/",
+    "resumen": "Gonzalo Bans analiza en dos minutos cómo sobrevivir a una comida familiar. [¿Eres anunciante y quieres patrocinar este programa? Escríbenos a comercial@theobjective.com]"
+  },
+  {
+    "titulo": "VÍDEO | Entrevista a Alberto Nadal: «Con Sánchez la clase media es cada vez más pobre y más dependiente»",
+    "medio": "The Objective",
+    "fecha": 1777692307.0,
+    "link": "https://theobjective.com/videos/espana/politica/2026-05-02/video-entrevista-alberto-nadal-economia-espana-europa/",
+    "resumen": ""
+  },
+  {
+    "titulo": "Caso Puertos: archivada la causa contra el empresario acusado de «chivatazo» de los registros",
+    "medio": "Moncloa.com",
+    "fecha": 1777692300.0,
+    "link": "https://www.moncloa.com/2026/05/02/caso-puertos-archivo-chivatazo-3374397/",
+    "resumen": "El presunto «chivatazo» que ocasionó que se adelantase el registro de la Autoridad Portuaria de Baleares (APB) en julio de 2020 ha sido archivado por el Juzgado de Instrucción número 3 de Palma de Mallorca, al no encontrarse al funcionario que habría realizado tal «chivatazo». Hay que recordar que la Guardia Civil detuvo a un empresario […] La entrada Caso Puertos: archivada la causa contra el empresario acusado de «chivatazo» de los registros aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Una comedia",
+    "medio": "The Objective",
+    "fecha": 1777692300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-05-02/una-comedia-articulo-felix-de-azua/",
+    "resumen": "Me sigue pareciendo incomprensible que alguien se tome en serio al Gobierno de Sánchez como si fuera un Gobierno demócrata y ya, por ampliación, a las […]"
+  },
+  {
+    "titulo": "¿De qué color es nuestro progreso?",
+    "medio": "The Objective",
+    "fecha": 1777692300.0,
+    "link": "https://theobjective.com/elsubjetivo/opinion/2026-05-02/color-nuestro-progreso-articulo-pablo-lora/",
+    "resumen": "En Volver la vista atrás (¡gracias Mauricio por la recomendación!), Juan Gabriel Vásquez recrea la vida en China del cineasta colombiano Sergio Cabrera y su hermana […]"
+  },
+  {
+    "titulo": "Madrid recurre la tasa de basuras pero no devolverá lo cobrado",
+    "medio": "Moncloa.com",
+    "fecha": 1777692000.0,
+    "link": "https://www.moncloa.com/2026/05/02/tasa-basuras-madrid-devolucion-recurso-3374368/",
+    "resumen": "La tasa de basuras Madrid irá al Supremo: el Ayuntamiento solo devolverá lo cobrado a quienes ya hayan recurrido. La entrada Madrid recurre la tasa de basuras pero no devolverá lo cobrado aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El riesgo de inundación obliga a elevar tres metros la calle central del futuro barrio de las Tres Chimeneas",
+    "medio": "El País",
+    "fecha": 1777691700.0,
+    "link": "https://elpais.com/espana/catalunya/2026-05-02/el-riesgo-de-inundacion-obliga-a-elevar-tres-metros-la-calle-central-del-futuro-barrio-de-las-tres-chimeneas.html",
+    "resumen": "La Generalitat contempla ganar un centenar de pisos públicos haciéndolos más pequeños o reduciendo zonas comunes"
+  },
+  {
+    "titulo": "El Liceu acoge un elegante Werther con el debut en el rol del tenor Xabier Anduaga",
+    "medio": "El País",
+    "fecha": 1777691700.0,
+    "link": "https://elpais.com/espana/catalunya/2026-05-02/el-liceu-acoge-un-elegante-werther-con-el-debut-en-el-rol-del-tenor-xabier-anduaga.html",
+    "resumen": "El teatro programa 10 funciones de la ópera de Jules Massenet sobre el gran héroe romántico inspirado en la obra de Goethe"
+  },
+  {
+    "titulo": "El teatro amateur está vivo",
+    "medio": "El País",
+    "fecha": 1777691700.0,
+    "link": "https://elpais.com/espana/catalunya/2026-05-02/el-teatro-amateur-esta-vivo.html",
+    "resumen": "Cataluña cuenta con unos 340 grupos federados"
+  },
+  {
+    "titulo": "El 40% del sector empresarial español respalda la regularización de migrantes",
+    "medio": "Moncloa.com",
+    "fecha": 1777691700.0,
+    "link": "https://www.moncloa.com/2026/05/02/regularizacion-migrantes-3374419/",
+    "resumen": "El panorama económico de España durante el primer trimestre de 2026 revela una postura clara por parte del tejido productivo nacional respecto a la gestión migratoria. Según el último informe International Business Report (IBR) de Grant Thornton, el 40% de las empresas españolas valora de forma positiva la regularización masiva de migrantes planteada por el […] La entrada El 40% del sector empresarial español respalda la regularización de migrantes aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump dice que Estados Unidos “tomará Cuba casi inmediatamente”",
+    "medio": "El País",
+    "fecha": 1777688240.0,
+    "link": "https://elpais.com/america/2026-05-02/trump-dice-que-estados-unidos-tomara-cuba-casi-inmediatamente.html",
+    "resumen": "El presidente estadounidense eleva el tono de sus amenazas a la isla después de redoblar las sanciones a La Habana"
+  },
+  {
+    "titulo": "Trump rechaza la última oferta de paz iraní y ataca a España e Italia porque \"les parece bien que Irán tenga armas nucleares\"",
+    "medio": "El Español",
+    "fecha": 1777687662.0,
+    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260502/trump-rechaza-ultima-oferta-paz-irani-ataca-espana-italia-parece-bien-iran-armas-nucleares/1003744230750_0.html",
+    "resumen": "Vuelve a mostrar su enfado con sus aliados europeos el mismo día que Araqchi iniciaba una ronda de llamadas para explicar la nueva propuesta de paz.Más información: Trump dice que a España e Italia \"les parece bien que Irán tenga armas nucleares\" y que \"eso no es muy inteligente\"."
+  },
+  {
+    "titulo": "Trump ordena la retirada de 5.000 soldados de Alemania tras el desafío del canciller Merz",
+    "medio": "El Español",
+    "fecha": 1777687022.0,
+    "link": "https://www.elespanol.com/usa/20260502/trump-ordena-retirada-soldados-alemania-desafio-canciller-merz/1003744230804_0.html",
+    "resumen": "Sean Parnell, portavoz del Pentágono, añadió que Washington prevé \"que la retirada se completará en los próximos seis a 12 meses\".Más información: Trump dice que a España e Italia \"les parece bien que Irán tenga armas nucleares\" y que \"eso no es muy inteligente\"."
+  },
+  {
+    "titulo": "Sánchez intenta salvar a María Jesús Montero haciendo de las andaluzas un plebiscito sobre él: pide gobernar hasta 2035",
+    "medio": "El Español",
+    "fecha": 1777684353.0,
+    "link": "https://www.elespanol.com/espana/politica/20260502/sanchez-intenta-salvar-maria-jesus-montero-haciendo-andaluzas-plebiscito-pide-gobernar/1003744230767_0.html",
+    "resumen": "Juanma Moreno pide una mayoría suficiente para regir \"sin las manos atadas\" y sin depender de los pactos con Vox.Más información: Sánchez superará a Zapatero en febrero y a Aznar en mayo en duración en la Moncloa: sólo le quedará batir a Felipe González"
+  },
+  {
+    "titulo": "Las 'chistorras' no eran sólo para Koldo: también para los gastos de Ábalos y de la Secretaría de Organización del PSOE",
+    "medio": "El Español",
+    "fecha": 1777684193.0,
+    "link": "https://www.elespanol.com/espana/politica/20260502/chistorras-no-solo-koldo-gastos-abalos-secretaria-organizacion-psoe/1003744230326_0.html",
+    "resumen": "La declaración de Koldo García como acusado alimenta la tesis de Anticorrupción, según la cual los pagos en sobres en Ferraz pudieron ser un mecanismo de \"blanqueo\" de fondos procedentes de las comisiones ilegales.Los documentos publicados por EL ESPAÑOL acreditan un descuadre de más de 27.000 euros entre las cantidades que declaró el PSOE, y la información hallada en el móvil del asesor.Más información: Koldo sólo concuerda con Aldama en que el PSOE tenía una caja B: de los cupos de petróleo a las \"chistorras\""
+  },
+  {
+    "titulo": "Del \"ojalá desahucien a algún diputado\" de Pepe Álvarez a la \"huelga general\" de Irene Montero: un 1-M electoralista",
+    "medio": "El Español",
+    "fecha": 1777684168.0,
+    "link": "https://www.elespanol.com/espana/politica/20260502/ojala-desahucien-algun-diputado-pepe-alvarez-huelga-general-irene-montero-electoralista/1003744230626_0.html",
+    "resumen": "UGT, CCOO junto con María Jesús Montero y Yolanda Díaz se trasladan a Málaga en la manifestación más electoralista y centrada en vivienda, mientras que Irene Montero se queda en Madrid con CNT y CGT.Más información: El 1 de Mayo más electoral: de la denuncia de Feijóo al \"impuesto al trabajo\" a la petición de huelga de Irene Montero"
+  },
+  {
+    "titulo": "El Comité contra la Tortura europeo denuncia a España por maltratos en centros de menas y a presos con mala salud mental",
+    "medio": "El Español",
+    "fecha": 1777684154.0,
+    "link": "https://www.elespanol.com/espana/politica/20260502/comite-tortura-europeo-denuncia-espana-maltratos-centros-menas-presos-mala-salud-mental/1003744229077_0.html",
+    "resumen": "El organismo del Consejo de Europa afea a España el uso de correas en camas para menores y presos vulnerables y reclama \"tolerancia cero\" con los malos tratos policiales y en los centros.Más información: Un niño de 4 años, agredido sexualmente por un menor de 16 en un centro tutelado por el Gobierno de Chivite."
+  },
+  {
+    "titulo": "El diario secreto de José Antonio: amantes, la carta secreta de Azaña y un golpe para ¿una dictadura republicana?",
+    "medio": "El Español",
+    "fecha": 1777684063.0,
+    "link": "https://www.elespanol.com/espana/politica/20260502/diario-secreto-jose-antonio-amantes-carta-secreta-azana-golpe-dictadura-republicana/1003744230777_0.html",
+    "resumen": "José Antonio Martín Otín, conocido como Petón, acaba de publicar un libro donde desmenuza un diario hasta ahora inédito de Primo de Rivera, fundador de Falange."
+  },
+  {
+    "titulo": "España perdería más de 700 millones, 10.000 empleos y \"cooperación militar\" si EEUU se retira de Rota y Morón",
+    "medio": "El Español",
+    "fecha": 1777682272.0,
+    "link": "https://www.elespanol.com/reportajes/20260502/espana-perderia-millones-empleos-cooperacion-militar-eeuu-retira-rota-moron/1003744230530_0.html",
+    "resumen": "Rota aparece como la base naval europea, de uso compartido con España, en la que más dinero mueve el Pentágono hacia la economía local, y se encuentra inmersa en obras de ampliacion para albergar el sexto destructor que configure el 'Golden Dome', el escudo antimisiles multicapa. Más información: Trump amenaza con retirar sus tropas de España por su postura sobre Irán y el Gobierno dice estar \"tranquilo\" ante esa opción"
+  },
+  {
+    "titulo": "Día 1 de Mercosur: el campo se divide y pone sus esperanzas en el TJUE para cambiar el acuerdo",
     "medio": "El Mundo",
-    "fecha": 1777675443.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/02/69f52b5421efa08d778b456f.html",
-    "resumen": "En su primer mandato decidió reducir en 12.000 efectivos en el país, en medio de una redistribución de fuerzas enfocada al Índico, pero la decisión de hoy llega tras las críticas germanas a la operación militar en Irán Leer"
+    "fecha": 1777682079.0,
+    "link": "https://www.elmundo.es/economia/macroeconomia/2026/05/02/69f3329bfdddffde288b45cd.html",
+    "resumen": "El tratado entra en vigor provisionalmente mientras la justicia europea analiza su encaje en la spolíticas comunes. Agricultores y ganaderos temen por su viabilidad, mientras el vino y el aceite lo celebran Leer"
   },
   {
-    "titulo": "Después de él siempre nos aburriremos un poco",
+    "titulo": "El dilema del PP ante Vito Quiles",
     "medio": "El Mundo",
-    "fecha": 1777673284.0,
-    "link": "https://www.elmundo.es/podcasts/yira-yira/2026/05/02/69f371f8e9cf4adb1b8b4586.html",
+    "fecha": 1777682078.0,
+    "link": "https://www.elmundo.es/espana/2026/05/02/69f4a45021efa0a1468b4570.html",
     "resumen": "Leer"
   },
   {
-    "titulo": "Los mejores cargadores magnéticos inalámbricos para coches: no te quedes sin batería",
-    "medio": "The Objective",
-    "fecha": 1777672995.0,
-    "link": "https://theobjective.com/productos-recomendados/2026-05-02/mejores-cargadores-magneticos-inalambricos-coche/",
-    "resumen": "Ventajas de usar cargadores magnéticos Carga sin complicaciones ¿Harto de cables enredados y conexiones engorrosas? Un cargador magnético inalámbrico elimina la necesidad de cables, brindándote una […]"
+    "titulo": "Bernd Lange (Comisión de Comercio Internacional de la Eurocámara): \"Realmente dependemos del comercio externo: Europa se juega un 50,4% de su PIB\"",
+    "medio": "El Mundo",
+    "fecha": 1777682073.0,
+    "link": "https://www.elmundo.es/economia/macroeconomia/2026/05/02/69f36ad4e85ece790f8b45a3.html",
+    "resumen": "En la entrada en vigor del tratado UE-Mercosur, el eurodiputado subraya la necesidad de que Europa aumente sus alianzas para ganar independencia de EEUU Leer"
   },
   {
-    "titulo": "Jornada 34 de la Liga: resumen de los partidos",
-    "medio": "OK Diario",
-    "fecha": 1777672865.0,
-    "link": "https://okdiario.com/deportes/jornada-liga-ea-sports-resumen-partidos-13325184",
-    "resumen": "La jornada 34 de la Liga 2025-26 ya está en marcha. Tras disputarse una jornada entre semana (de martes a jueves), y otra el pasado fin de semana (la 32, aplazada por la final de Copa), ha regresado la competición nacional. Estos son los resúmenes de los 10 partidos de la jornada 34 de Liga. … Continuar leyendo \"Jornada 34 de la Liga: resumen de los partidos\""
+    "titulo": "De TACO a NACHO: las sogas sobre los cuellos del comercio mundial se estrechan",
+    "medio": "El Mundo",
+    "fecha": 1777682072.0,
+    "link": "https://www.elmundo.es/internacional/2026/05/02/69f4b9cee4d4d857578b4587.html",
+    "resumen": "Irán demuestra que bloquear rutas clave es más fácil de lo previsto, mientras Estados Unidos pierde capacidad para garantizar la seguridad marítima y aérea en un sistema más expuesto a ataques y decisiones políticas Leer"
   },
   {
-    "titulo": "El campeón aterriza en el Mundial: pole de Norris para la sprint y nuevo hundimiento de Alonso",
-    "medio": "OK Diario",
-    "fecha": 1777672269.0,
-    "link": "https://okdiario.com/deportes/campeon-aterriza-mundial-pole-norris-sprint-nuevo-hundimiento-alonso-16716368",
-    "resumen": "Han pasado casi dos meses y tres Grandes Premios, pero el campeón ya ha aterrizado en el Mundial de Fórmula 1 2026. Lando Norris se ha hecho con la pole para la carrera al sprint de este sábado en Miami y peleará desde la primera fila con el actual líder del campeonato, Kimi Antonelli, que … Continuar leyendo \"El campeón aterriza en el Mundial: pole de Norris para la sprint y nuevo hundimiento de Alonso\""
+    "titulo": "La Selva de la plaza de los Mostenses, el templo del menú de 'vino y Casera': \"Ahora el centro no es barrio ni es nada\"",
+    "medio": "El Mundo",
+    "fecha": 1777681895.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/2026/05/02/69f1ce80fdddff80378b45a2.html",
+    "resumen": "Carmelo Gutiérrez lleva casi 40 años al frente de una taberna castiza que resiste a orillas de la Gran Vía con un eslogan contundente: «Comidas y copas» Leer"
+  },
+  {
+    "titulo": "Trump agrava su cisma con la OTAN y retira 5.000 soldados de Alemania",
+    "medio": "El País",
+    "fecha": 1777676522.0,
+    "link": "https://elpais.com/internacional/2026-05-01/trump-agrava-su-cisma-con-la-otan-y-retira-5000-soldados-de-alemania.html",
+    "resumen": "La salida se completará en los próximos seis a doce meses y dejará el despliegue de Estados Unidos en Europa en el nivel previo a la invasión de Ucrania"
+  },
+  {
+    "titulo": "No es que el tiempo lo cure todo",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527729/cure.html",
+    "resumen": "Quimi Portet y Manolo García mezclaron de todo, lo cotidiano con lo insólito"
+  },
+  {
+    "titulo": "El mundo patas arriba",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527583/mundo-patas.html",
+    "resumen": "Tellado homenajeó a Baselitz, defendiendo al acosador (Vito Quiles) en lugar de a la víctima"
+  },
+  {
+    "titulo": "Desde Barcelona: de trinchera a proyecto",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527493/barcelona-trinchera-proyecto.html",
+    "resumen": "Aun con mejoras en la vida de la gente, el progresismo pierde la batalla de los valores"
+  },
+  {
+    "titulo": "La corriente del Atlántico",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527494/corriente-atlantico.html",
+    "resumen": "Debido al deshielo provocado por el calentamiento global, la corriente del Atlántico podría colapsar"
+  },
+  {
+    "titulo": "Grietas en la España ensimismada",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527501/grietas-espana-ensimismada.html",
+    "resumen": "Desde fuera se observa a Sánchez como una excepción en una Europa servil ante EE.UU. e Israel"
+  },
+  {
+    "titulo": "Mi primer pregón: Madrid",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527638/mi-primer-pregon-madrid.html",
+    "resumen": "¿Puede un catalán loar a Madrid en un pregón, entrar en el Parnaso y ganar amigos?"
+  },
+  {
+    "titulo": "Fuerza y derecho en Oriente Medio",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527507/fuerza-derecho-oriente-medio.html",
+    "resumen": "Es clara la fractura actual e irreversible de Occidente en dos partes, Europa y EE.UU."
+  },
+  {
+    "titulo": "El pánico de los delfines",
+    "medio": "La Vanguardia",
+    "fecha": 1777674600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260502/11527502/panico-delfines.html",
+    "resumen": "Millones de personas unidas en el mismo desastre, por el desvarío de cuatro hombres"
+  },
+  {
+    "titulo": "Mamá vota al PP. Cómo la ideología influye en el número de hijos en España",
+    "medio": "El Mundo",
+    "fecha": 1777673640.0,
+    "link": "https://www.elmundo.es/yodona/actualidad/2026/05/02/69f07103fdddff39298b45bd.html",
+    "resumen": "¿Afecta la ideología a la maternidad? Mientras las conservadoras tienden a tener más hijos que las progresistas, las de extrema derecha e izquierda rechazan en mayor medida reproducirse. Leer"
+  },
+  {
+    "titulo": "El otro Dos de Mayo de Madrid con la ancestral fiesta floral de las Mayas en Colmenar Viejo: \"Son como unas diosas\"",
+    "medio": "El Mundo",
+    "fecha": 1777673594.0,
+    "link": "https://www.elmundo.es/madrid/2026/05/02/69f49f7221efa0ad4b8b4586.html",
+    "resumen": "Las calles del pueblo se impregnan este sábado del colorido de los altares y la ilusión de las niñas en una celebración de origen medieval que simboliza el despertar de la naturaleza y la llegada de la primavera Leer"
   },
   {
     "titulo": "La 'start up' española de drones Skyboria ampliará capital y apunta a Latinoamérica",
@@ -112,116 +406,11 @@
     "resumen": "El fundador de Ikea creó desde un cobertizo un fenómeno cultural, pero mantuvo una vida muy humilde. Leer"
   },
   {
-    "titulo": "Piqué la vuelve a liar con los árbitros: «¡Ahora, si queréis, ponedlo en el acta!»",
-    "medio": "OK Diario",
-    "fecha": 1777671250.0,
-    "link": "https://okdiario.com/deportes/pique-vuelve-liar-arbitros-ahora-si-quereis-ponedlo-acta-16716288",
-    "resumen": "Gerard Piqué ha vuelto a dar la nota con los árbitros en el último partido. El propietario del Andorra acumula ya cuatro multas esta temporada por sus encontronazos con los árbitros, y ahora se expone a otra sanción tras los últimos acontecimientos. El colegiado del Andorra-Albacete reflejó en el acta que el ex futbolista le … Continuar leyendo \"Piqué la vuelve a liar con los árbitros: «¡Ahora, si queréis, ponedlo en el acta!»\""
-  },
-  {
-    "titulo": "El Girona pierde ante el Mallorca e incendia la parte baja de la tabla",
-    "medio": "El País",
-    "fecha": 1777671088.0,
-    "link": "https://elpais.com/deportes/futbol/2026-05-01/el-girona-pierde-ante-el-mallorca-e-incendia-la-parte-baja-de-la-tabla.html",
-    "resumen": "Aunque el equipo dirigido por Míchel rozó el empate, la falta de acierto y un gol de Samu Costa deja al club catalán en problemas con el ‘sorpasso’ en la clasificación de los bermellones"
-  },
-  {
-    "titulo": "La UE avisa a Trump: responderá a sus aranceles para proteger sus intereses",
-    "medio": "The Objective",
-    "fecha": 1777670731.0,
-    "link": "https://theobjective.com/internacional/2026-05-01/ue-trump-aranceles-intereses/",
-    "resumen": "La Unión Europea ha afirmado que está cumpliendo con los compromisos adquiridos con Estados Unidos en su Declaración Conjunta y que se reserva el derecho a […]"
-  },
-  {
-    "titulo": "Corneado de gravedad en un muslo el banderillero Raúl Ruiz en Las Ventas",
-    "medio": "OK Diario",
-    "fecha": 1777669929.0,
-    "link": "https://okdiario.com/toros/corneado-gravedad-muslo-subalterno-raul-ruiz-ventas-16716294",
-    "resumen": "La primera novillada de la Feria de la Comunidad de Madrid en la Plaza de Las Ventas se ha teñido de dramatismo en el último toro de la tarde. El banderillero Raúl Ruiz, conocido como Cachorro, ha sufrido una durísima cornada en el muslo derecho al colocar el tercer par de banderillas al sexto novillo … Continuar leyendo \"Corneado de gravedad en un muslo el banderillero Raúl Ruiz en Las Ventas\""
-  },
-  {
-    "titulo": "Bolsonaro deja la prisión domiciliaria para operarse un hombro",
-    "medio": "El País",
-    "fecha": 1777669746.0,
-    "link": "https://elpais.com/america/2026-05-01/bolsonaro-deja-la-prision-domiciliaria-para-operarse-un-hombro.html",
-    "resumen": "El expresidente de Brasil, condenado a 27 años de cárcel por golpismo, pasará unos días en observación"
-  },
-  {
-    "titulo": "Campazzo lanza al Real Madrid rumbo a la Final Four",
-    "medio": "El País",
-    "fecha": 1777669610.0,
-    "link": "https://elpais.com/deportes/baloncesto/2026-05-01/campazzo-lanza-al-real-madrid-rumbo-a-la-final-four.html",
-    "resumen": "El base argentino lidera con 23 puntos la segunda victoria blanca ante el Hapoel Tel Aviv (102-75) en los cuartos de final"
-  },
-  {
-    "titulo": "Isa Pantoja tajante sobre la reconciliación entre Kiko y su madre: “Tiene demasiadas expectativas, con ella nunca se sabe”",
-    "medio": "OK Diario",
-    "fecha": 1777669499.0,
-    "link": "https://okdiario.com/cool/actualidad/isa-pantoja-tajante-sobre-reconciliacion-kiko-madre-tiene-demasiadas-expectativas-nunca-sabe-16716261",
-    "resumen": "Isa Pantoja no está viviendo uno de sus mejores momentos. Hace unas semanas veíamos cómo algo insólito, e incluso un poco extraño, sucedía dentro del clan Pantoja. Isabel Pantoja y Kiko Rivera firmaban la paz entre madre e hijo tras años marcados por el silencio, la distancia y los constantes enfrentamientos públicos. La verdad es … Continuar leyendo \"Isa Pantoja tajante sobre la reconciliación entre Kiko y su madre: “Tiene demasiadas expectativas, con ella nunca se sabe”\""
-  },
-  {
-    "titulo": "Campazzo y dos rebeldes dejan al Real Madrid a un paso de la Final Four",
-    "medio": "El Mundo",
-    "fecha": 1777668804.0,
-    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/05/01/69f4e7e9e9cf4ad15e8b457a.html",
-    "resumen": "El base argentino lidera la paliza blanca al Hapoel para poner el 2-0 en la eliminatoria. Sin Tavares, Garuba y Feliz resultaron decisivos desde su intensidad. 62-33 fue el parcial de la segunda parte. Leer"
-  },
-  {
-    "titulo": "El Real Madrid saca músculo en la segunda parte y se lleva una importantísima victoria ante el Hapoel para encarrilar la serie",
-    "medio": "El Español",
-    "fecha": 1777668631.0,
-    "link": "https://www.elespanol.com/deportes/baloncesto/20260501/real-madrid-saca-musculo-segunda-parte-lleva-importantisima-victoria-hapoel-encarrilar-serie/1003744230753_0.html",
-    "resumen": "Campazzo lideró al conjunto blanco con un partido sobresaliente (23 puntos, 6 asistencias) y el fondo de armario terminó por romper la igualdad (102-75)."
-  },
-  {
-    "titulo": "Juanma Moreno manda un mensaje a los votantes de Vox: «Necesitamos autonomía»",
-    "medio": "The Objective",
-    "fecha": 1777668080.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-01/juanma-moreno-votantes-vox-autonomia/",
-    "resumen": "El presidente de la Junta y candidato del PP-A a la reelección, Juanma Moreno, ha apelado este viernes a un apoyo mayoritario a su partido en […]"
-  },
-  {
-    "titulo": "EL PAÍS salta de las páginas a la calle",
-    "medio": "El País",
-    "fecha": 1777667350.0,
-    "link": "https://elpais.com/aniversario/2026-05-01/el-pais-salta-de-las-paginas-a-la-calle.html",
-    "resumen": "El periódico celebra en Matadero Madrid la primera jornada de un festival por sus 50 años en el que muestra a los lectores cómo y por quién se reinventa cada día"
-  },
-  {
-    "titulo": "Trump anuncia aranceles del 25% a la importación de coches europeos",
-    "medio": "El País",
-    "fecha": 1777667258.0,
-    "link": "https://elpais.com/internacional/2026-05-01/trump-anuncia-aranceles-del-25-a-la-importacion-de-coches-europeos.html",
-    "resumen": "El presidente de Estados Unidos sostiene que Bruselas no ha cumplido con el acuerdo comercial alcanzado el año pasado"
-  },
-  {
-    "titulo": "Una reivindicación del poder de la palabra frente a los autoritarismos",
-    "medio": "El País",
-    "fecha": 1777667255.0,
-    "link": "https://elpais.com/aniversario/2026-05-01/una-reivindicacion-del-poder-de-la-palabra-frente-a-los-autoritarismos.html",
-    "resumen": "Sergio Ramírez, que recibirá este lunes el Premio Ortega y Gasset de Periodismo, dialoga con Gioconda Belli y Jesús Ceberio sobre Nicaragua, el exilio y Trump"
-  },
-  {
-    "titulo": "La capacidad de Álvaro Serrano y una grave cornada a Raúl Ruiz, entre un saldo ganadero en Las Ventas",
-    "medio": "El Mundo",
-    "fecha": 1777667108.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/05/01/69f50c15e9cf4ab23d8b4578.html",
-    "resumen": "El banderillero sufre una herida en el muslo derecho de \"25 cm, que contusiona arteria femoral y produce destrozos en músculos aductores, vasto interno y recto anterior\"; gran entrada Leer"
-  },
-  {
-    "titulo": "Cuponazo de la ONCE hoy | Comprobar resultados del sorteo del viernes 1 de mayo",
-    "medio": "El Español",
-    "fecha": 1777666920.0,
-    "link": "https://www.elespanol.com/loterias/20260501/cuponazo-once-hoy-comprobar-resultados-sorteo-viernes-1-mayo/1003744230680_10.html",
-    "resumen": "El Cuponazo de la ONCE ofrece todos los viernes un premio a las cinco cifras y serie de 6 millones de euros y 134 premios de 40.000 euros a las 5 cifras del número premiado.Lotería Nacional, en directo | Comprobar resultados del sorteo del jueves 30 de abril"
-  },
-  {
-    "titulo": "El subalterno Raúl Ruiz, gravemente corneado",
-    "medio": "El País",
-    "fecha": 1777665818.0,
-    "link": "https://elpais.com/cultura/2026-05-01/el-subalterno-raul-ruiz-gravemente-corneado.html",
-    "resumen": "El torero fue prendido en el muslo derecho por el sexto novillo a la hora de colocar el segundo par de banderillas"
+    "titulo": "Beneficios",
+    "medio": "eldiario.es",
+    "fecha": 1777665836.0,
+    "link": "https://www.eldiario.es/opinion/beneficios_131_13189218.html",
+    "resumen": "BBVA dispara su beneficio un 11% y gana 2.989 millones en el primer trimestre"
   },
   {
     "titulo": "Alba Guijarro, psicóloga: \"Esta es la razón por la que te bloqueas en los conflictos y lo que tienes que hacer\"",
@@ -231,25 +420,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Alineación posible del Barcelona contra Osasuna: Flick apuesta por el mejor once que tiene",
-    "medio": "OK Diario",
-    "fecha": 1777665634.0,
-    "link": "https://okdiario.com/deportes/alineacion-posible-del-barcelona-contra-osasuna-flick-apuesta-mejor-once-que-tiene-16715040",
-    "resumen": "La alineación del Barcelona para medirse a Osasuna este sábado en El Sadar con motivo de la jornada 34 de la Liga será la mejor posible al alcance de Hansi Flick. Lamine Yamal es baja por lesión y Koundé por sanción. Raphinha y Bernal vuelven a la convocatoria, pero no están todavía disponibles para salir … Continuar leyendo \"Alineación posible del Barcelona contra Osasuna: Flick apuesta por el mejor once que tiene\""
-  },
-  {
     "titulo": "Drones con cables más finos que el hilo dental: la nueva tecnología de Hezbollah que vuela a 50 km, es invisible para los radares y ya ha matado a un soldado israelí en el sur del Líbano",
     "medio": "HuffPost",
     "fecha": 1777665600.0,
     "link": "https://www.huffingtonpost.es/global/drones-cables-mas-finos-hilo-dental-nueva-tecnologiahezbollahque-vuela-50-km-invisible-radares-matado-soldado-israeli-sur-libano-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El papa León XIV nombra obispo en Estados Unidos a un ex inmigrante indocumentado",
-    "medio": "El Mundo",
-    "fecha": 1777665434.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/01/69f50577e9cf4afa388b4582.html",
-    "resumen": "El Vaticano anunció en un comunicado el nombramiento de Evelio Menjivar Ayala, de 55 años, actualmente obispo auxiliar en Washington, como obispo de la diócesis de Wheeling-Charleston, en Virginia Occidental Leer"
   },
   {
     "titulo": "The Historic Strike That Transformed the Danish West Indies",
@@ -273,32 +448,46 @@
     "resumen": "Lejos de la imagen clásica de dunas infinitas, los desiertos de España adoptan formas muy distintas. Badlands, estepas o paisajes volcánicos que aparecen en lugares como Gorafe, las Bardenas Reales o Los MonegrosConsejos de viajero a viajero: todo lo que necesitas saber para visitar Albania por primera vez Aunque en el imaginario colectivo un desierto es un mar de arena cruzado por camellos, en realidad hay muchos tipos de desiertos: cálidos, fríos, volcánicos, costeros, interiores, rocosos, lunares, salados... Porque la principal característica de un desierto no es su aspecto, sino la falta de lluvias. Y bajo esa definición, España cuenta con varios ejemplos repartidos por su geografía, algunos más evidentes y otros bastante inesperados. En nuestro país predominan los climas áridos y semiáridos, con precipitaciones escasas y muy irregulares, temperaturas que pueden ser extremas y una vegetación adaptada a sobrevivir con muy poca agua. De ahí surgen paisajes tan característicos como las cárcavas, los barrancos o las llamadas badlands, moldeados por la erosión durante miles de años. Además, aunque a simple vista puedan parecer lugares vacíos, muchos de estos espacios albergan una biodiversidad sorprendente. En este recorrido nos detenemos en algunos de los desiertos más representativos de España. Desde el de Tabernas, en Almería, hasta las formaciones rojizas de Gorafe, las estepas del valle del Ebro como las Bardenas Reales o Los Monegros, y los paisajes volcánicos y de dunas de Canarias. Un mapa diverso y variado que demuestra que, sin salir de España, también es posible adentrarse en territorios extremos. Andalucía: el epicentro árido Si hay una comunidad donde el paisaje desértico se manifiesta con más claridad, esa es Andalucía. Aquí se concentran varios de los ejemplos más representativos, cada uno con un origen y unas formas distintas, pero todos marcados por la escasez de agua y la erosión. Desierto de Tabernas (Almería) El de Tabernas es, con diferencia, el más conocido. Y también el más singular: está considerado el único desierto propiamente dicho de Europa continental. Las precipitaciones no llegan a los 250 mm anuales y su ubicación, encajado entre las sierras de los Filabres y Alhamilla, actúa como una barrera que bloquea la humedad del Mediterráneo. El resultado es un paisaje de cárcavas, ramblas y barrancos que parecen sacados de otro continente. En realidad, hace millones de años todo este territorio estaba cubierto por el mar, y esa historia geológica todavía se puede leer en sus formaciones, con fósiles y sedimentos que convierten la zona en un auténtico museo al aire libre. A pesar de su apariencia, Tabernas no es un lugar vacío. Alberga una fauna adaptada a condiciones extremas y una flora con numerosos endemismos. Eso sí, su imagen más popular sigue ligada al cine, ya durante décadas fue escenario habitual de los spaghetti western, y aún hoy conserva parte de ese aire de decorado natural. Desierto de Tabernas, en Almería. Desierto de Gorafe y Los Coloraos (Granada) En el norte de Granada, el paisaje cambia de forma pero no de esencia. El desierto de Gorafe y el paraje de Los Coloraos forman uno de los sistemas de badlands más espectaculares de Europa. Aquí dominan los tonos rojizos, ocres y amarillos, que varían según la luz del día y refuerzan la sensación de estar en un terreno extremo. La erosión del agua durante milenios ha esculpido un relieve de cárcavas, cañones y lomas que se extiende por la depresión de Guadix-Baza. Pero este no es solo un espacio natural, también es un lugar con un importante valor histórico. En la zona se conserva uno de los mayores conjuntos de dólmenes de Europa, con más de 240 estructuras megalíticas. Esa combinación de paisaje y patrimonio convierte a Gorafe en un destino distinto, donde el interés no está solo en lo que se ve, sino también en lo que nos cuentan sus piedras. Desierto de Larva (Jaén) Mucho menos conocido, el desierto de Larva es uno de esos lugares que rara vez aparecen en las rutas más populares. Situado en la comarca de Sierra Mágina, en el municipio menos poblado de la provincia de Jaén, ofrece un paisaje de lomas desnudas, barrancos arcillosos y amplios horizontes. Se extiende por más de 57.000 hectáreas y, aunque comparte rasgos con otros entornos áridos, mantiene una identidad propia. La erosión ha modelado un terreno irregular, donde la vegetación es escasa pero resistente, y donde el silencio y la sensación de aislamiento lo llenan todo. Además, su cercanía a espacios naturales como Sierra Mágina y Cazorla refuerza ese contraste entre zonas verdes y áreas más secas. Podemos decir que es un desierto discreto, pero con mucha personalidad. El valle del Ebro: estepas del norte Lejos del sur, el paisaje desértico aparece también en el norte, en un entorno que sorprende por su proximidad a zonas de alta montaña. En el valle del Ebro se concentran dos de los grandes espacios semiáridos del país. Bardenas Reales (Navarra y Aragón) A unos 70 kilómetros de los Pirineos, las Bardenas Reales rompen cualquier expectativa. Más de 42.000 hectáreas de terreno árido, sin núcleos urbanos, donde el viento y el agua han ido modelando un paisaje de aspecto casi lunar. Las formaciones más características son los llamados “cabezos”, cerros aislados coronados por roca más dura, entre los que destaca Castildetierra, convertido en símbolo del parque. El conjunto se divide en varias zonas, siendo la Bardena Blanca la más árida y fotografiada, y la Bardena Negra la que concentra algo más de vegetación. Declaradas Reserva de la Biosfera, las Bardenas son también un espacio frágil, donde la erosión sigue actuando y donde cada forma responde a un proceso geológico muy concreto. Aun así, su accesibilidad permite recorrerlas a pie, en bici o en coche por pistas autorizadas. Parque Natural de las Bardenas Reales Los Monegros (Zaragoza y Huescar) Más extensos todavía son Los Monegros, una enorme estepa subdesértica que se reparte entre Zaragoza y Huesca. Con más de 270.000 hectáreas, es uno de los paisajes más singulares de la península. Aquí el terreno combina llanuras áridas, montes bajos, lagunas saladas y sierras como la de Alcubierre, que introduce un contraste evidente en medio de la sequedad. La escasez de lluvias y la salinidad del suelo explican en gran parte este aspecto, aunque también hay una explicación histórica: la tala masiva de bosques en el pasado contribuyó a acentuar la aridez. A pesar de ello, Los Monegros destacan por su biodiversidad. Se han catalogado numerosas de especies, muchas de ellas adaptadas a estas condiciones. Es un paisaje abierto, de horizontes realmente lejanos. Islas Canarias: paisajes volcánicos y de arena Si en la península dominan los desiertos de tipo continental, en Canarias el paisaje árido tiene un marcado carácter volcánico y, en algunos casos, claramente africano. Parque Nacional de Timanfaya (Lanzarote) Timanfaya es, probablemente, uno de los paisajes más impactantes de España. Su origen está en las erupciones volcánicas del siglo XVIII, que durante varios años cubrieron gran parte de Lanzarote con lava y ceniza. Hoy, ese territorio está formado por campos de lava solidificada, conos volcánicos y suelos oscuros donde apenas crece la vegetación. No pienses en un desierto de arena, Timanfaya es un desierto geológico, donde lo que domina es la roca. Aun así, no es un paisaje muerto. Bajo la superficie siguen registrándose altas temperaturas, y el parque funciona como un laboratorio natural para estudiar la actividad volcánica. La visita está muy regulada, precisamente para proteger un entorno tan frágil como singular. Parque Nacional de Timanfaya, Lanzarote Corralejo y Jandía (Fuerteventura) En Fuerteventura, el desierto sí se acerca más a la imagen clásica. En Corralejo, al norte de la isla, se extiende un campo de dunas de arena blanca que se funde con el Atlántico. Son más de 2.000 hectáreas de arena modelada por el viento, con playas que refuerzan esa sensación de estar efectivamente en otro continente. Al sur, la península de Jandía ofrece un paisaje diferente, más abrupto, con grandes barrancos y un clima especialmente duro. Es también un espacio con numerosos endemismos, donde la vida se adapta a condiciones muy exigentes. Dunas de Maspalomas (Gran Canaria) En Gran Canaria, el sistema dunar de Maspalomas completa este recorrido por los desiertos insulares. Aquí las dunas conviven con una laguna y un palmeral, formando un ecosistema singular junto al mar. Es uno de los paisajes más reconocibles del archipiélago y, al mismo tiempo, uno de los más delicados. El movimiento constante de la arena y la presión turística obligan a mantener medidas de conservación para preservar su equilibrio. Otros rincones sorprendentes Desierto de Mahoya (Murcia) Entre los municipios murcianos de Abanilla y Fortuna se esconde otro de esos paisajes inesperados. El desierto de Mahoya no es tan conocido como otros, pero ofrece una estampa muy característica, con relieves suaves, tonos claros y una apariencia que recuerda, en algunos puntos, a un paisaje lunar. Aquí la aridez se combina con la presencia puntual de palmeras, creando pequeños oasis que rompen la dureza del terreno. Es un buen ejemplo de cómo, incluso en zonas menos extensas, las condiciones climáticas y geológicas pueden dar lugar a entornos desérticos y pintorescos."
   },
   {
+    "titulo": "La buena educación",
+    "medio": "eldiario.es",
+    "fecha": 1777663837.0,
+    "link": "https://www.eldiario.es/andalucia/desdeelsur/buena-educacion_132_13187807.html",
+    "resumen": "Entender que el mundo no es una prolongación de tu realidad, que no está hecho a tu medida, que hay familias distintas, casas distintas, entornos socio económicos diversos Hace unos días escuché al director de cine Victor García León en el podcast La cena de los idiotés plantear el siguiente dilema. Supongamos que eres una persona de izquierdas, tienes un hijo y quieres lo mejor para él. A los seis años tienes que mandarlo al colegio y entonces qué haces: ¿Eliges un colegio privado, dándole todas las herramientas posibles para trabajar en un mundo hostil, o le metes en el cole público de barrio y te fías de su talento y capacidad para sobrevivir en un mundo hostil? El planteamiento me chirrió tanto que pensé que no podía ser, que quizá era un fragmento descontextualizado. Tuve que escucharlo varias veces para comprobar que sí, que Víctor García León, hijo, por cierto, de dos referentes culturales de la izquierda, la cantautora Rosa León y el director y guionista, Jose Luis García Sánchez, estaba diciendo lo que estaba diciendo. No se trataba del dilema, elegir entre la pública y la privada, allá cada uno, por supuesto, sino de la afirmación que llevaba implícita el planteamiento: que la educación pública no da las mejores herramientas, que si hablamos de calidad educativa, el colegio privado es la mejor opción y que si mandas a tus hijos a la pública, tendrás que confiar en la suerte o en sus habilidades innatas para que sepan arreglárselas en el mundo. Me da la sensación de que tal desprecio hacia la educación pública procede de un profundo desconocimiento de la misma. He estudiado toda mi vida en la pública y no lo cambiaría por nada del mundo, por eso, cuando escucho que no ofrece “las mejores herramientas”, no puedo evitar preguntarme de qué estamos hablando exactamente. ¿Cuáles son esas herramientas? ¿Qué entendemos por una buena educación? Si entendemos la escuela como una fábrica de futuros líderes del mercado laboral, como espacio que multiplica sus posibilidades de éxito económico, como un networking temprano para niños de seis años destinados a alcanzar el éxito profesional, puedo ver la lógica, pero no la comparto. Y sinceramente, me horroriza. La educación primaria no es, o no debería ser, la antesala del mercado laboral. La escuela es el primer lugar donde uno se encuentra con el mundo fuera de casa, donde empieza a hacerse preguntas y a construir una mirada propia La educación primaria no es, o no debería ser, la antesala del mercado laboral. La escuela es el primer lugar donde uno se encuentra con el mundo fuera de casa, donde empieza a hacerse preguntas y a construir una mirada propia. Donde adquiere una cultura y también un modo de situarse ante la vida. Y en este aprendizaje hay algo mucho más valioso que instalaciones deportivas de primera o metodologías ultramodernas: la convivencia con otros que no se parecen a ti. Entender que el mundo no es una prolongación de tu realidad, que no está hecho a tu medida, que hay familias distintas, casas distintas, entornos socio económicos diversos. Pero que dentro de ese micromundo, que es el colegio público, todos sois iguales y tenéis los mismos derechos. Leía unas palabras de la también cineasta Lucrecia Martel que me parecieron de lo más reveladoras: “Cuando una familia decide frente dos posibilidades, entre la escuela pública y la privada ¿Qué es lo que se privilegia eligiendo la privada? Una futura red de contactos. No se privilegia qué va a aprender el chico sino a quien va a conocer. Uno sabe que a ese hijito lo va a sumergir en una red que le va a permitir resolver muchas cosas en la vida. Ese colegio al que asistí, que fue bastante inútil para mi en cuanto a formación, me permite, en dos o tres llamadas, conseguir un abogado, un juez, un notario. La educación genera una complicidad de clase que permite no ver el mundo.” Quizá, la buena educación, las mejores herramientas, no sean solo las que nos permitan acceder a una posición acomodada, resolver cosas con dos o tres llamadas, sino las que nos enseñen a mirar el mundo con toda su complejidad y a no vivir en una burbuja, las que nos impulsen a cuestionarlo, y si es posible, transformarlo."
+  },
+  {
+    "titulo": "El fin de la impunidad",
+    "medio": "eldiario.es",
+    "fecha": 1777663836.0,
+    "link": "https://www.eldiario.es/opinion/zona-critica/impunidad_129_13188806.html",
+    "resumen": "Almudena Lastra no será revalidada como Fiscal Superior de Madrid. El corporativismo judicial y la prensa empotrada protestan en masa hablando de purga. El cuarto poder, hoy maquinaria de presión de la derecha, tiene como objetivo al gobierno y exige no criticar a la justicia No es el fin de la impunidad, sino un deseo ferviente, una necesidad. Sí apunta a un paso en esa dirección al que le están poniendo ya contundentes trabas. La fiscal general del Estado, Teresa Peramato, ha decidido no renovar en el cargo a la Fiscal Superior de la Comunidad de Madrid Almudena Lastra, al cumplirse sus cinco años de mandato, aunque ella deseaba continuar. Lastra fue la fiscal que apuntaló con su declaración, sin pruebas, la condena de García Ortiz por el filtrado del correo del novio de Ayuso que le atribuyeron. Un caso escandaloso al que pudimos asistir. como espectadores asombrados, incluso en la vista oral en el Supremo. El corporativismo judicial y la prensa empotrada han salido a criticar la medida en masa. De una forma desmedida, hablando con propiedad, y que crece conforme pasan las horas. Asociaciones varias de profesionales de la justicia, y artículos de prensa de una virulencia que resulta amenazante, hablan de purga y defenestración, de mafia nada menos, sin pudor alguno por lo que han consentido a lo largo de estos años que critican y un largo trecho de los anteriores. El fiscal general, por cierto, es un cargo de libre designación de cada gobierno y ha habido de todo. Dicen que el finiquito de Lastra ha sido “por haber cumplido su obligación”, y es tal la vehemencia de su argumento que nos deja la duda de con quién la ha cumplido. Visto lo que confirma otro caso judicial -la Kitchen del PP- son de esperar maniobras. Impactante testimonio del comisario Morocho, agente clave en esa investigación. Ha denunciado ante el juez las presiones que sufrió por parte del PP destinadas a entorpecer sus pesquisas. Dice que “fue objeto de monitorización y seguimientos, tanto en el despacho como en su vehículo, y que hasta el magistrado Pablo Ruz -el primer instructor al que quitaron el caso con un traslado- ”temía que su despacho estaba microfonado, por lo que tomaban precauciones para hablar de temas críticos“. También ha declarado que le desmantelaron el equipo del que disponía. De 11 policías, se quedó en 5. ”Había un montón de comisiones rogatorias que analizar sobre flujos de dinero. Había mucha información que vino de cuentas bancarias en el exterior, que no hubo capacidad de analizar porque no teníamos el personal“, ha declarado. A él también le tentaron con un buen puesto… fuera de España. No aceptó. Ojalá tuviera un cargo directivo este profesional tan honesto. Lo terrible es que no es la primera vez que profesionales concienzudos sufren problemas: recordemos que al heroico comisario de Vallecas le destrozaron la vida por encontrar la mochila que resolvió en buena parte la autoría del 11M. Hechos. Toda la basura que aún permanece sobre todo esto, no deja de ser más que eso: basura. La prensa al servicio de los intereses del PP está volcada en contar, a su manera, los dos juicios que se celebran -casualmente a la vez-, el de Aldama, Koldo y Ábalos. Dan una prioridad absoluta al que vinculan al PSOE. De sus jugosos detalles daba cuenta la crónica de Íñigo Sáenz de Ugarte. Y, sí, ha sido muy notoria la diversidad de trato a los implicados en la Audiencia Nacional y en el Tribunal Supremo. En el juicio de las mascarillas se habla de todo menos de mascarillas, y se acusa sin pruebas y sin objeciones del Tribunal. En el Supremo -la Kitchen- todo lo contrario, al punto de que hay nombres y preguntas que no se admiten. En mi opinión, la diferencia entre ambos casos es la que existe entre un pillaje cutre y unas técnicas mafiosas de alto volumen. Volviendo a Lastra, conviene recordar que fue también la Fiscal que impidió en repetidas ocasiones investigar las muertes en las residencias de Madrid durante la pandemia. Las familias de las víctimas se muestran esperanzadas con el relevo, aunque es un tema prescrito en una buena parte por el tiempo transcurrido sin tomar medidas. El cese de Lastra, sin embargo, es una noticia positiva para el funcionamiento de la justicia, por las razones descritas; un pequeño paso de los muchos que serían necesarios. Nuestra profesión, el periodismo, también anda con serias taras y lo constatamos en el tratamiento de estas noticias y de muchas otras. Ya no hay inconveniente para algunos hasta en mentir a toda portada. Pero no son solo los bulos con intencionalidad política que tanto daño hacen, lo peor, si cabe, es la destrucción del concepto de periodismo. Estamos viendo cosas que no creeríamos, como decía el pobre replicante de Blade Runner. Intencionadamente o porque así lo creen, pretenden ya considerar periodistas a los agitadores de ultraderecha con cámara y micrófono. Vito Quiles -el más activo de todos- está muy vinculado al PP, cobra del PP, cerró su campaña electoral en Aragón. Alguien le facilita direcciones y movimientos de quienes quiere acosar. Es lo que hace: acosar. A niveles terribles como los bulos lanzados contra el portavoz de Facua, Rubén Sánchez. Pues resulta que lo están considerando periodista, desde el PP al español que parece ejercer de entusiasta portavoz mediático de Trump desde la Casa Blanca. Tellado y Ester Muñoz, portavoces oficiales de los populares, han llegado a decir que “condenan la violencia… también contra el periodista”, respecto al abordaje que sufrió Begoña Gómez, esposa de Pedro Sánchez por parte de este sujeto. No es periodista, no ejerce como tal. Y esto debió cortarse hace mucho tiempo. Nunca debió tener acreditación en el Congreso -se le dio Meritxell Batet- y no se comprende que la mantenga. Están comparando a humoristas -y de la talla de Wyoming o Gonzo- con un agitador ultra con micrófono. Y han desvirtuado por completo, con los años, qué es un escrache. En principio fue una crítica ejercida sobre todo por la PAH (Plataforma de Afectados por la Hipoteca) contra especuladores inmobiliarios, a modo de manifestación y desde luego sin violencia alguna. Por cierto, Pablo Iglesias pagó caro hablar de aquello como jarabe democrático porque llegó a sufrir el peor de los acosos hasta ahora. Su casa, con la familia dentro (Irene Montero, él y sus hijos pequeños), asediada durante meses y a diario. Siempre la manipulación y el doble rasero, la ley del embudo en un país en el que la justicia y la información sufren graves disfunciones. En este clima de violencia politica, violencia pura y dura en realidad, cuadra que un sujeto de la calaña de Santiago Abascal, presidente de Vox, llame a Pedro Sanchez “chulo de putas” en un mitin. Pero debería tener la respuesta que exige: judicial y penal. Es mucho más que un insulto, es la deshumanizacion fascista del presidente, un cargo institucional. No puede dejarse pasar. No es nada fácil todo esto tan esencial y urgente al mismo tiempo. El control que el periodismo ha de ejercer como Cuarto Poder sobre los otros tres (ejecutivo, legislativo y judicial) en nombre de la sociedad se ha convertido prioritariamente en un formidable aparato de propaganda a favor de la derecha, de presión también. Asimétrica: el objetivo esencial es el gobierno y exigen no criticar siquiera a la justicia. La fuerza del aparato es tal que han logrado colar entre personas proclives a dejarse desinformar incluso que ocurre al revés. Esas manadas que le salen gratis a los manipuladores -políticos y mediáticos- parecen en este momento incontrolables. Pero un país no puede funcionar con normalidad así. Hay que actuar por el bien de la sociedad en su conjunto. Ha de llegar el finde la impunidad, pero ya y de verdad. Todo esto ha coincidido con el informe que Reporteros Sin Fronteras en su núcleo internacional publicó este mismo jueves sobre lo que llaman libertad de prensa. La puntuación media de los 180 países analizados nunca había sido tan baja en este último cuarto de siglo y en España el descenso es más marcado. Se ve amenazada “por un aumento de las acciones judiciales abusivas y el señalamiento político contra los periodistas”. En preguntas concretas de Eldiario.es a la relatora del informe denuncia las acciones “intimidatorias” contra la prensa del “entorno de Ayuso” y del juez Peinado. Y cree que “buscan silenciar e intimidar” a los periodistas, así como generar una “pesadilla ideológica y económica” a los medios de comunicación. Relata un “clima de 'lawfare'” contra los medios. Obviamente contra los que informan. Reporteros Sin Fronteras rebate precisamente todo lo que hace esa derecha de la que hablamos y cuenta justo al revés. Osan decir últimamente que es el gobierno el que amordaza a los medios (de derechas). Y es significativo este párrafo que incluyo en su totalidad: “Reporteros sin Fronteras” también sostiene que “el crecimiento de la extrema derecha y de su visibilización en redes sociales ha disparado el ciberacoso” y “los ataques a periodistas en coberturas exteriores son frecuentes”. “La formación ultraderechista Vox utiliza a agitadores para sabotear ruedas de prensa en el Parlamento y acosar a periodistas críticos incluso en su esfera privada. El hostigamiento de estos agitadores dentro y fuera de las redes, con la connivencia de políticos y medios digitales afines, se ceba especialmente con las mujeres periodistas, víctimas de una violencia digital que cada vez salta más al espacio físico”. Vean dónde queda la defensa del PP, de Tellado y Muñoz, de ese “periodista” al que pagan para acosar. No renovar en el puesto de fiscal Superior de Madrid a Almudena Lastra está en tan buena dirección que podríamos soñar con el principio del fin de la impunidad. No se saltan ningún precepto, puesto que su mandato había caducado. Nos da respuesta a la pregunta que nos hacemos tantas veces ¿no se puede hacer nada ante lo que está pasando? Una compensación de los desequilibrios, un alivio a la impotencia. Algo. Nada fácil, visto la revuelta por un pequeño paso. Pero claro que se puede. Queda un gran trabajo por hacer en campos fundamentales y en diversos sentidos. Cada vez es más peligrosa la marea de revancha, sin embargo. Al menos que no nos engañen con el diagnóstico. Y una vez más hay que advertir lo mucho que nos jugamos con todo esto."
+  },
+  {
+    "titulo": "La singularidad de Vox",
+    "medio": "eldiario.es",
+    "fecha": 1777663836.0,
+    "link": "https://www.eldiario.es/contracorriente/singularidad-vox_132_13189066.html",
+    "resumen": "La formación de Abascal es la única de la extrema derecha europea que ha optado por Trump en su enfrentamiento con León XIV. Llama la atención que haya ocurrido en un país como España Vox ha sido el único partido de extrema derecha europea que ha optado por Donald Trump en su enfrentamiento con León XIV. Llama la atención que haya ocurrido en un país como España, en el que la elección del papa es, con diferencia, la elección más importante de todas las que se celebran en el mundo. Para la sociedad española no hay ningún mandatario extranjero al que se le reconozca la autoridad que se le reconoce al papa. Tuvimos ocasión de comprobarlo en el proceso constituyente de 1978, en el que la Iglesia católica consiguió ser mencionada expresamente en el articulado, además de incluir una regulación del derecho a la educación a su medida y de adjuntar al texto constitucional unos “Acuerdos con la Santa Sede”, materialmente preconstitucionales aunque formalmente postconstitucionales, que preservan la posición privilegiada de la Iglesia en nuestro sistema político. La sombra del pontificado de Juan Pablo II se proyectó a continuación sobre la inicial puesta en marcha de nuestro sistema constitucional, en especial desde que en 1982 el PSOE consiguió la presidencia del Gobierno, que mantendría durante cuatro legislaturas. La evidencia empírica de que disponemos nos enseña que la Iglesia Católica es el instrumento de movilización política de la derecha española. Es la única institución que es capaz de unificarla. Cuando ella decide abrazar una determinada causa, las derechas se convierten en una sola. De ahí que su presencia o ausencia resulte decisiva. La primera foto de Colón, con Alberto Rivera, Pablo Casado y Santiago Abascal, fue sumamente expresiva. La manifestación había sido convocada para el día antes de la apertura de juicio oral del procés, con la finalidad más que evidente de crear un ambiente de cruzada antinacionalista. La ausencia de la Iglesia la redujo a una manifestación importante, pero nada más. Se notó en el propio juicio, como tuvimos ocasión de comprobar los que asistimos a la primera sesión y a las posteriores. El pontificado de Francisco supuso un cambio en la Iglesia Católica que ha acompañado de manera significativa a los años de Pedro Sánchez en la Presidencia del Gobierno. En las condiciones tan difíciles en que ha tenido que ejercer la presidencia, es difícil que hubiera podido hacerlo durante tantos años con un Papa como Juan Pablo II y con una Conferencia Episcopal alineada con él. La continuidad de la trayectoria de Francisco por León XIV, en un momento en que la guerra y la inmigración se han convertido en los dos problemas de mayor envergadura, ha sido un elemento de suma importancia para devaluar políticamente al presidente Donald Trump y para dar oxígeno al presidente del Gobierno español. Con otro papa y con una Iglesia española alineada en otra dirección, hubiera sido muy difícil que el presidente del Gobierno hubiese podido liderar la posición contraria a Donald Trump. Convertirse en la némesis de Donald Trump, como lo calificó el Financial Times. De ahí que no se entienda muy bien que Santiago Abascal haya adoptado una posición tan abiertamente beligerante contra la Iglesia española. Si Donald Trump ha tenido que recular porque no podía sostener un enfrentamiento con el Papa en los términos en que lo había iniciado, porque empezaba a perder el apoyo de los católicos estadounidenses, ¿qué puede esperar Santiago Abascal, que tiene que enfrentarse, además, con una Iglesia más resabiada, como es la Iglesia española? En las elecciones andaluzas, Vox va a tener la oportunidad de comprobar si ha acertado o no con su agresión a la Iglesia. Si consigue un buen resultado, sería la primera vez que una derecha española lo consigue. El impacto que podría tener en las próximas elecciones generales podría ser determinante."
+  },
+  {
+    "titulo": "Lo que los toros enseñan a las infancias",
+    "medio": "eldiario.es",
+    "fecha": 1777663836.0,
+    "link": "https://www.eldiario.es/opinion/zona-critica/toros-ensenan-infancias_129_13189110.html",
+    "resumen": "Lo que reciben las personas menores de edad que asisten a un espectáuclo taurino no es solo el mensaje de que hay violencia que se permite, sino que esa violencia puede ser admirada, recompensada y convertida en motivo de orgullo, es parte de la fiesta nacional, es una identidad y una tradición Sangre y aplausos es lo que, en esencia, se presencia en una plaza de toros. El espectáculo de cómo se tortura a un animal hasta darle muerte. Son las personas expertas en desarrollo infantil, y no el activismo animalista, quienes sostiene que las niñas, niños y adolescentes que acuden a las corridas de toros no tienen las herramientas cognitivas y emocionales necesarias para comprender la violencia que representan cada una de las escenas de ese ritual de sufrimiento y muerte inflingido a un animal indefenso. No es una simple cuestión de edad legal, es mucho más, es una cuestión directamente vinculada al desarrollo de las personas menores de edad, a su salud emocional, física y mental. Por eso, desde la perspectiva de los derechos de las infancias y las adolescencias, el ordenamiento jurídico debe trazar con precisión los límites de lo que la infancia puede presenciar, consumir o experimentar cuando esos contenidos entrañan una exposición a la violencia explícita con efectos perjudiciales y perturbadores sobre quienes aún están formándose neurológicamente. Ese argumento, el de la protección de la infancia frente a contenidos perturbadores o potencialmente perjudiciales, es paradójicamente el mismo que invoca el sector ideológico que impulsa los toros y las escuelas de tauromaquia dirigidas a personas menores de edad cuando exige retirar de las bibliotecas públicas libros relacionados con la diversidad sexual, defiende el pin parental para blindar a sus hijas e hijos de la educación afectivo-sexual o reacciona tapándoles los ojos ante una mujer desnuda o el beso de dos personas del mismo sexo. Resulta difícil comprender cuál es la lógica de esa supuesta protección y qué valores quieren transmitir a niñas, niños y adolescentes cuando cuestionan o restringen herramientas educativas y culturales orientadas a prevenir la violencia entre las personas, sean estas adultas o menores de edad, mientras normalizan -e incluso subvencionan- la exposición y enseñanza de una cultura centrada en torturar y matar animales reales con las propias manos cuando en una clara posición de subordinación. La tauromaquia es un rito de iniciación en una forma muy concreta de hombría. En un modelo de masculinidad que se construye en torno a la dominación, al control del miedo y a la capacidad de imponerse sobre otro ser vivo cuya vida se considera prescindible. Las personas menores de edad que se forman en ese entorno interiorizan jerarquías, roles y formas de relación con la violencia que, al presentarse como legítimas y merecedoras de aplauso, se instalan como referencia de lo que significa ser valiente, ser hombre. Lo que transmite la tauromaquia no es únicamente un arte o una tradición, es una manera de entender la dominación del hombre sobre el resto de las vidas como parte de un orden natural. Lo que ven las niñas, niños y adolescentes que acuden a un espectáculo taurino es la muerte cruel, violenta y sangrienta de un toro encerrado en un espacio del que no va a salir con vida. Se ven involucrados como parte de una expresión colectiva que celebra una violencia de la que no solo son testigos, porque la experiencia también les atraviesa emocional y cognitivamente. Esto -dicen personas expertas en psicología infantil- es lo que provoca que dicha experiencia tenga altas probabilidades de impactar en su forma de comprender el daño y la empatía, al no poder entender por qué se celebra un sufrimiento que en cualquier otro contexto se les enseñaría a rechazar. Lo que reciben las personas menores de edad no es solo el mensaje de que hay violencia que se permite, sino que esa violencia puede ser admirada, recompensada y convertida en motivo de orgullo, es parte de la fiesta nacional, es una identidad y una tradición. Es decir, incuestionable. Por eso el Comité de los Derechos del Niño de Naciones Unidas lleva desde 2018 señalando a España que prohíba la participación y la asistencia de personas menores de edad a los espectáculos taurinos, y por eso en enero de 2025 ha vuelto a insistir en la urgencia de tomar medidas concretas. Una advertencia basada en estándares internacionales de protección de las infancias frente a la exposición a la violencia y sus consecuencias en el desarrollo. Los mismos estándares que, no por casualidad, también promueven la educación en diversidad, en igualdad y en derechos humanos como herramientas fundamentales para que niñas, niños y adolescentes aprendan a reconocer el daño, a desarrollar empatía, a identificar las violencias que les amenazan y a construir relaciones basadas en el respeto a todas las vidas humanas y no humanas."
+  },
+  {
+    "titulo": "Lo único que no puede tumbar el Congreso es una huelga de alquileres",
+    "medio": "eldiario.es",
+    "fecha": 1777663836.0,
+    "link": "https://www.eldiario.es/opinion/zona-critica/unico-no-tumbar-congreso-huelga-alquileres_129_13188698.html",
+    "resumen": "El día que dejemos de pagarlo todos a la vez, no va a ser una catástrofe, va a ser, por fin, una negociación Dentro de dos semanas voy a estar viviendo en un hotel de las islas frisias holandesas. No de vacaciones, creo que se entiende. Me voy porque en España, en el año 2026, me resulta más barato pagar una habitación en un archipiélago del Mar del Norte que acceder a un alquiler en mi propio país, porque en mi país, que es España, ha decidido priorizar que unas cuantas sanguijuelas puedan vivir de mi salario antes que yo mismo. Hay frases que se ensayan mentalmente durante días antes de escribirlas, porque suenan a cosa que no puede ser verdad. Esta es verdad. Detrás de esas frases solo queda un silencio que se ha ido instalando entre lo que cuesta vivir y lo que se puede ganar honradamente. El alquiler en España subió un 8,5 por ciento el año pasado. En Valencia, en cinco años, ha subido un 70 por ciento; en Barcelona un 55 por ciento y en Madrid un 45 por ciento. Estos números ya no sorprenden a nadie, que también es la peor forma de sorprender. Nos hemos acostumbrado a que las cifras sean obscenas porque llevan tanto tiempo siéndolo que han perdido su capacidad de escandalizar. Decir que el alquiler ha subido un 70 por ciento en cinco años en una ciudad española suena, a estas alturas, a meteorología. A mí me suena a la voz metálica de la megafonía de un aeropuerto. El Gobierno aprobó hace unos meses un Real Decreto que decía, en esencia, que si tu contrato termina este año o el que viene, podías pedir dos años más al mismo precio, con una subida máxima del 2%. Nada del otro mundo, lo mínimo. Lo mínimo de lo mínimo, de hecho, porque ni siquiera tocaba lo que de verdad destroza a la gente: el precio de la mensualidad; lo que te piden cuando llamas por un piso y todavía no has firmado nada y ya te han descartado, porque si algo nos ha enseñado el capitalismo es que seas quien seas siempre hay alguien más desesperado que tú y dispuesto a pagar lo que sea. A mí, personalmente, ese decreto no me habría salvado porque a mí ya no me salva nada dentro del mercado actual. Con todo, el Congreso votó el decreto este martes y se encargó de enterrarlo, por si acaso. Lo han enterrado, juntos, el PP, Vox y Junts, que son tres partidos que no tienen nada en común excepto que ninguno de sus diputados tiene que buscar piso este año. Bustinduy ha dicho que volverán a intentarlo las veces que haga falta, y yo se lo agradezco, pero los ministros tienen la capacidad de hablar siempre en futuro mientras los demás vivimos en un presente que nos aplasta. Y lo que necesitamos, en realidad, no es otro decreto de mínimos que proteja a los que ya tienen contrato; que también. Lo que necesitamos es que alguien ponga un techo a los que te pueden ofrecer un techo. Lo que necesitamos es que el mercado no pueda pedirte lo que le dé la gana solo porque hay alguien dispuesto a pagar lo que sea porque vivir en la calle no es una opción. Pero eso no estaba en el decreto. Eso no está en ningún sitio. Lo que sí está, en cambio, es la sensación de que uno ya no sabe muy bien qué hacer con el enfado. El enfado es una cosa rara cuando se alarga durante años. Al principio escribes sobre ello, lo hablas con un amigo, discutes en una sobremesa, le explicas a algún imbécil en Twitter por qué no tiene razón y después te cansas. Después te das cuenta de que ese imbécil tampoco tiene la culpa, que ese imbécil también paga un alquiler, que en realidad estáis los dos discutiendo sobre quién va a salir peor parado de una pelea que ninguno de los dos va a ganar. Y te callas porque estás cansado. Delante de un contrato de trabajo en neerlandés es donde uno empieza a pensar cosas que hace cinco años no pensaba. Cosas que quizá tengan mala prensa o que resuenan a cántico del Viña Rock; cosas que un columnista responsable evitaría pronunciar. Pero los columnistas responsables llevan veinte años evitándolas y los alquileres han subido como un viaje de popper, así que igual la responsabilidad dialéctica ha consistido, todo este tiempo, en evitar hablar de lo que deberíamos empezar a planificar como una acción coordinada. La historia tiene tres respuestas para cuando la ley no es justa y ninguna de ellas es cómoda para quienes tienen mucho que perder. La primera es que si el Contrato Social no nos protege, no le debemos nada; la segunda es que un alquiler que no se puede pagar es un alquiler que, antes o después, no se paga. Y la última de ellas es que el día que dejemos de pagarlo todos a la vez, no va a ser una catástrofe, va a ser, por fin, una negociación."
+  },
+  {
     "titulo": "Sabadell vende TSB al Santander por 3.300 millones y cierra la operación",
     "medio": "Moncloa.com",
     "fecha": 1777663020.0,
     "link": "https://www.moncloa.com/2026/05/01/sabadell-vende-tsb-santander-3300-millones-3374666/",
     "resumen": "Sabadell vende TSB al Santander por 3.300 millones tras el visto bueno de los supervisores y cierra una década en Reino Unido. La entrada Sabadell vende TSB al Santander por 3.300 millones y cierra la operación aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Sánchez, ante sus peores pronósticos en Andalucía: «Hay partido y lo vamos a ganar»",
-    "medio": "The Objective",
-    "fecha": 1777662878.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-01/sanchez-peores-pronosticos-andalucia/",
-    "resumen": "El presidente del Gobierno, Pedro Sánchez, ha llamado este viernes en el mitin del PSOE-A en Cártama a la movilzación en un momento en que el […]"
-  },
-  {
-    "titulo": "Trump comunica al Congreso que la guerra con Irán \"ha terminado\" para sortear la autorización del Capitolio",
-    "medio": "eldiario.es",
-    "fecha": 1777662777.0,
-    "link": "https://www.eldiario.es/internacional/trump-comunica-congreso-guerra-iran-terminado-sortear-autorizacion-capitolio-pesar-soldados-zona_1_13189186.html",
-    "resumen": "La Casa Blanca afirma al Congreso en una carta enviada el viernes que las hostilidades con Irán han \"cesado\", a pesar de la presencia de las fuerzas armadas estadounidenses en la región, incluidos tres portaaviones y unos 15.000 soldados, y de que las negociaciones con Teherán están bloqueadasTrump se salta el límite legal para continuar la guerra de Irán sin autorización del Congreso y sin un plan de salida El estrecho de Ormuz sigue bloqueado, las negociaciones están estancadas y EEUU tiene 15.000 soldados y tres portaaviones en la región. Pero, según la Casa Blanca, la guerra que comenzó el 28 de febrero “ha terminado”, de acuerdo con la comunicación formal del presidente de EEUU, Donald Trump, enviada al Congreso para sortear la petición de autorización al Capitolio para proseguir con las hostilidades. La carta de Trump sortea el plazo legal del 1 de mayo para obtener la aprobación de los miembros del Congreso para continuar la guerra con Irán. Ese plazo ya estaba destinado a expirar sin que los congresistas republicanos hicieran nada, toda vez que están sometidos al estricto control del presidente de EEUU. La carta pone de relieve la jurídicamente cuestionable afirmación del poder presidencial que subyace en la guerra de Trump, que este inició sin la aprobación del Congreso hace dos meses. Sin embargo, al mismo tiempo, dice en la carta que la guerra puede estar lejos de haber concluido. “A pesar del éxito de las operaciones de Estados Unidos contra el régimen iraní y de los continuos esfuerzos por garantizar una paz duradera, la amenaza que Irán representa para Estados Unidos y nuestras Fuerzas Armadas sigue siendo significativa”, afirma el presidente de EEUU. “No se ha producido ningún intercambio de disparos entre las Fuerzas de los Estados Unidos e Irán desde el 7 de abril de 2026”, escribe el presidente en cartas prácticamente idénticas dirigidas al presidente de la Cámara de Representantes, Mike Johnson, y al senador republicano Chuck Grassley, presidente pro tempore del Senado: “Las hostilidades que comenzaron el 28 de febrero de 2026 han concluido”. La Constitución otorga al Congreso la facultad de declarar la guerra. El asunto clave es la resolución sobre los poderes de guerra de 1973, una ley posterior a la guerra de Vietnam destinada a limitar la autoridad presidencial y garantizar que las intervenciones militares prolongadas cuenten con la aprobación del Congreso. El conflicto comenzó el 28 de febrero, cuando las fuerzas estadounidenses, junto con Israel, lanzaron ataques a gran escala contra objetivos iraníes, desencadenando un enfrentamiento regional. Desde entonces, Irán ha respondido, los mercados energéticos mundiales se han visto perturbados y el Congreso de EEUU se ha mostrado reacio a ejercer su función constitucional. En virtud de la resolución sobre los poderes de guerra, el presidente puede iniciar una acción militar sin autorización previa, pero debe notificarlo al Congreso en un plazo de 48 horas y poner fin a las hostilidades en un plazo de 60 días, a menos que los legisladores aprueben una prórroga. Ese plazo de 60 días, que comenzó a contar a partir de la notificación del presidente a los congresistas el 2 de marzo, ha expirado el viernes 1 de mayo. Propuesta iraní rechazada por EEUU Irán ha mandado este viernes a Estados Unidos una nueva propuesta de negociación de paz a través de Pakistán, según ha informado la agencia oficial iraní. Por el momento, se desconocen los detalles de la propuesta. La nueva oferta se produce mientras un alto mando militar iraní advierte de que cualquier nuevo ataque estadounidense provocará “una represalia sostenida, de gran alcance y dolorosa”. Trump, por su parte, ha vuelto a decir este viernes que EEUU “ya ha ganado” la guerra y afirmó que “no” estaba “satisfecho” con la nueva propuesta. Además, ha dicho que quiere “ganar por un margen mayor” y asegurarse de que Irán nunca pueda conseguir un arma nuclear. Teherán ya había presentado una propuesta la semana pasada a Washington, también a través de Pakistán. En ese momento, se ofreció una negociación en varias fases, con la primera de ellas centrada en el fin de la guerra y la reapertura del estrecho de Ormuz por ambas partes y dejar la cuestión del programa nuclear iraní para más tarde. Las conversaciones directas entre las dos partes se encuentran encalladas ante la negativa iraní de sentarse a negociar mientras EEUU mantenga el cerco naval a sus puertos y buques, una medida con la que busca bloquear la economía iraní. Irán, por su parte, mantiene el control del tráfico en el estrecho de Ormuz, la estratégica ruta por la que transitaba el 20% del petróleo mundial, lo que ha disparado el precio del crudo. Las dos partes mantuvieron un encuentro en Islamabad el 11 y 12 de abril con una delegación iraní liderada por el presidente del Parlamento, Mohamed Baqer Qalibaf, y la estadounidense por el vicepresidente JD Vance. En ese encuentro, sin embargo, no lograron un acuerdo para poner fin a la guerra que Estados Unidos e Israel lanzaron contra Irán el 20 de febrero y que se encuentra detenida desde el alto el fuego del 8 de abril."
-  },
-  {
-    "titulo": "Apelaciones al voto útil progresista y rechazo al acoso a Begoña Gómez en la \"aldea gala\" del PSOE en Málaga: \"Votar al PP es lo mismo que votar a Vox\"",
-    "medio": "El Mundo",
-    "fecha": 1777662254.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/01/69f4d28de4d4d868158b4599.html",
-    "resumen": "Los socialistas se congratulan de que han conseguido llenar el pabellón polideportivo de Cártama, en una provincia que ha votado masivamente al PP en las últimas convocatorias Leer"
   },
   {
     "titulo": "Ocho 'momentos' de la historia colectiva que han marcado los 50 años de 'El País'",
@@ -336,46 +525,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Sánchez y Zapatero arropan a Montero para exhibir “orgullo” socialista y dar la vuelta a las encuestas: “Hay partido”",
-    "medio": "eldiario.es",
-    "fecha": 1777661221.0,
-    "link": "https://www.eldiario.es/andalucia/sanchez-zapatero-arropan-montero-exhibir-orgullo-socialista-dar-vuelta-encuestas-hay-partido_1_13189033.html",
-    "resumen": "La candidata socialista, acompañada de los dos últimos presidentes socialistas, acusa a Moreno de esconder sus siglas para evitar responder de los pactos autonómicos con VoxMontero inicia en Granada la campaña socialista que busca minimizar daños frente al PP de Moreno El PSOE ha desplegado este viernes toda su potencia en Cártama (Málaga). Arropando a María Jesús Montero, hasta hace pocas semanas primera espada del gobierno de Pedro Sánchez y ahora candidata, han estado el Presidente del Gobierno y su antecesor socialista, José Luis Rodríguez Zapatero, en un intento de insuflar ánimo a una campaña que la derecha, con encuestas en la mano, trata de acotar a la única disyuntiva de si Vox se incorpora o no al Gobierno de Moreno. “Zapatero decía que el PSOE solo pierde las elecciones cuando las da por perdidas. Y yo digo: hay partido y lo vamos a ganar”, ha arrancado Sánchez, cuyo leit motiv ha sido la apelación al “orgullo” socialista por las políticas desarrolladas en los ocho años que lleva en el poder como aval para dar la vuelta a las encuestas. “Hay que estar orgullosos, después de guerras, volcanes y presidentes ultraderechistas al otro lado del planeta”, ha advertido Sánchez: “Ahora que hablan de prioridades: el éxito económico y de país tiene que ver con el cambio de prioridades que imprimimos a este país hace ocho años. Donde hubo crisis hoy hay crecimiento. Donde hubo paro hoy hay empleo. Donde hubo confrontación hoy hay convivencia”, ha añadido citando los datos de crecimiento (2,6%), cotizantes (22 millones), subida de salario mínimo (66%) o reducción de brecha salarial (-8%), antes de resumir su arenga: “Orgullo de ser socialista, orgullo de ser español”. El PSOE, como esta mañana los sindicatos, han decidido dar la vuelta al concepto de “prioridad nacional” esgrimido por la ultraderecha y aceptado por el PP en los dos últimos pactos autonómicos. “Las prioridades es lo que hace que un país retroceda o avance”, ha señalado Sánchez. “Cuando un gobierno quita el dinero a la sanidad pública para dársela a la privada provoca el deterioro de la atención para la mayoría de la gente y el negocio millonario para unos pocos”. Consciente de que su oposición a la guerra y a Trump y Netanyahu galvaniza al electorado progresista, Sánchez no ha esquivado las respuestas a ambos, sacando pecho de su posicionamiento por la paz, la denuncia de las violaciones del derecho internacional en Líbano y Gaza y el reconocimiento de Palestina. “Netanyahu ha secuestrado a varios ciudadanos que estaban en la flotilla. Le digo que España siempre va a proteger a sus ciudadanos, a defender el derecho internacional y que queremos la libertad del ciudadano español que ha sido secuestrado. Espero que quienes hablan tanto de patria secunden esta petición”. Montero se centra en la sanidad y vivienda Sánchez ha animado a trasladar sus políticas a Andalucía de la mano de Montero, que le ha precedido y se ha centrado en el eje de su campaña: la defensa de los servicios públicos y, singularmente, de la sanidad pública. Montero ha desgranado sus principales promesas para la sanidad, y también para la vivienda, la otra gran preocupación de los andaluces. La primera medida si llega a San Telmo, ha dicho, será “eliminar por ley” las listas de espera al médico de familia, al especialista y a las intervenciones quirúrgicas. Y en el mismo Consejo de Gobierno adoptarán una medida para financiar a los jóvenes el 20% de la entrada a la vivienda y triplicar las ayudas al alquiler. Montero, que ni ha mencionado a Vox, ha acusado a Moreno de esconder su programa y las siglas para evitar responder por los pactos de su partido en otras comunidades autónomas, que incluyen la aceptación del concepto de “prioridad nacional” impuesta por Vox. Antes de él, José Luis Rodríguez Zapatero había tirado de todos sus recursos para animar el ambiente. Comenzó recordando que este 2 de mayo el PSOE cumple 147 años, y siguió subrayando la “hipocresía” de la derecha por oponerse a avances, como el matrimonio igualitario, que acaban aceptando. “Ese derecho, como todos los derechos sociales, laborales y civiles que ha conquistado la España democrática han sido gracias al PSOE”. También pidió a la derecha y la ultraderecha que no insulte ni deshumanice a Sánchez, en un día en el que el presidente de la formación ultra, Santiago Abascal, ha llamado a Sánchez “chulo de putas”: “Vox y PP la misma cosa es. En contra de los inmigrantes y sus derechos. No condenan la guerra. Están en contra de las políticas contra el cambio climático. La misma política de insultar: no siembren odio, no den esos golpes a la Constitución”. “Me siento orgulloso de un Gobierno que ha dicho no al 5% de gasto en Defensa. No era una broma, ni una añagaza electoral. Ayer Alemania ha decidido recortar 40.000 millones en Sanidad para afrontar ese crecimiento de gasto en Defensa, que es una locura. Nos quedamos tranquilos de ver que nuestro presidente le dijo no a Donald Trump”, ha dicho Zapatero, antes de que los asistentes corearan el No a la Guerra. Zapatero también apeló al orgullo por la regularización extraordinaria y de la propia autonomía andaluza, a la que la derecha no apoyó en 1981 con el lema que él recordó: “Andaluz, este no es tu referéndum”. Y reivindicó como propio el despegue de Málaga, sostenido por la ampliación del aeropuerto, la transformación del Puerto, el AVE o la hiperronda, impulsados cuando Magdalena Álvarez era su ministra de Fomento. Montero contra las encuestas La candidata socialista ha acusado al PP y a Moreno de buscar una desmovilización del electorado progresista dando el partido por ganado. Lucha contra el riesgo de que el anticipo de una derrota desmovilice a su electorado hasta hacerla demasiado dolorosa, y se esfuerza en conjurar esta profecía de Cassandra. Aspira el PSOE a salir de la dinámica de derrotas dolorosas que encadena en esta primavera electoral autonómica. Las encuestas electorales, desde las privadas a las del CENTRA, pasando por las del CIS, sugieren que todo lo que sea no rebajar el suelo de 30 diputados de 2022 será una dulce derrota. Sánchez ha encadenado tres fines de semana seguidos en Andalucía acompañando a la candidata Montero. Sabe que la identificación con él de su vicepresidenta primera es máxima, y que en un fracaso electoral los focos también le apuntarán a él, quien redobló la apuesta por ministros candidatos cuando Montero desembarcó en Andalucía, y tendrá difícil esquivar la lectura de que ese fracaso es también suyo. Montero, que fue designada candidata a finales de 2024, ha tenido año y medio para desembarcar en Andalucía, compaginando sus funciones como ministra de Hacienda con la inmersión en los temas más sensibles en Andalucía, de la degradación de los servicios públicos a El Algarrobico. Montero venía con la misión de revitalizar a un PSOE-A alicaído, mimetizado con el tono pausado de su anterior líder, Juan Espadas. Está por ver que el chute que sus intervenciones imprimen a la militancia se traslade a los votantes. Este viernes era día grande para los socialistas en Málaga, porque el acto electoral se añadía al acto central del Primero de Mayo, que los sindicatos trasladaron de Madrid a Málaga por primera vez en muchos años. Allí estuvieron Unai Sordo y Pepe Álvarez, secretarios generales de CCOO y UGT, respectivamente, y por parte del PSOE la candidata Montero y la ministra portavoz del PSOE, Elma Sáiz. Cártama, talismán de Pedro Sánchez Cártama es, desde hace ya casi una década, un espacio seguro para Sánchez. Fue Jorge Gallardo, alcalde de este municipio en expansión (29.264 habitantes) del área metropolitana de Málaga uno de sus primeros apoyos, también en horas bajas, cuando el hoy Presidente era el outsider que peleaba con el aparato del partido para regresar a la secretaría general. Cártama fue parada relevante en el viaje por carretera que emprendió para recuperar el mando en el partido. Una mañana de mayo de 2017 se presentó aquí ante un millar de militantes y con “la moral del Alcoyano”, y se preguntó en voz alta por qué algunos en su partido “habían regalado el poder a la derecha”. Apuntó a Susana Díaz por su descabalgamiento, pero también al entonces secretario general de los socialistas malagueños, Miguel Ángel Heredia. Aquel día no había en cargo ni un solo cargo institucional, salvo Gallardo. Semanas después Sánchez regresó a la Secretaría General, desde cogió impulso para una moción de censura que le llevó a presidir el Gobierno, hasta hoy. Sánchez siempre ha agradecido a Gallardo el apoyo que le dio entonces. Ahora el malagueño tiene hilo directo con el Presidente y es vocal en la Ejecutiva Federal del PSOE, y aquella aldea gala rodeada por susanistas es uno de los escasos reductos de poder municipal socialista en una provincia teñida de azul. Por eso, las visitas electorales o de partido de Sánchez a Málaga lo son con frecuencia a Cártama. Así ocurrió en la campaña andaluza de 2022. Este viernes se habilitó el pabellón de la ciudad deportiva, que se quedó corto. La organización calculaba unos 1.800 asistentes, además de alrededor de 400 que se quedaron a las puertas."
-  },
-  {
-    "titulo": "Sánchez sostiene que está \"en el ecuador de la tarea\" e insiste en que quiere seguir hasta 2035 con un \"gobierno progresista\"",
-    "medio": "El Español",
-    "fecha": 1777661052.0,
-    "link": "https://www.elespanol.com/espana/politica/20260501/sanchez-sostiene-ecuador-tarea-insiste-quiere-seguir-gobierno-progresista/1003744230713_0.html",
-    "resumen": "El presidente del Gobierno ha arropado a la candidata socialista a la Junta de Andalucía, María Jesús Montero, en el primer mitin de campaña del PSOE en Cártama (Málaga).Más información: Sánchez se propone gobernar hasta 2035: \"España lo que necesita son ocho años más de gobierno progresista\""
-  },
-  {
-    "titulo": "Mueren en Francia cinco jóvenes de entre 17 y 20 años al caer su coche de 20 metros",
-    "medio": "El Mundo",
-    "fecha": 1777660350.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/01/69f4f1b2e9cf4a72458b4587.html",
-    "resumen": "El vehículo cayó por un precipicio al borde de un río, lo que provocó el incendio del vehículo, según las autoridades Leer"
-  },
-  {
-    "titulo": "Montero avisa del afán del PP por «desmovilizar el voto progresista»: «Somos más y lo saben»",
-    "medio": "The Objective",
-    "fecha": 1777660105.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-01/montero-avisa-pp-voto-progresista/",
-    "resumen": "La secretaria general del PSOE-A y candidata a la presidencia de la Junta de Andalucía, María Jesús Montero, ha incidido este viernes en criticar la «campaña […]"
-  },
-  {
     "titulo": "Trump carga de nuevo contra España: \"Les parece bien que Irán tenga un arma nuclear\"",
     "medio": "El Independiente",
     "fecha": 1777660018.0,
     "link": "https://www.elindependiente.com/internacional/2026/05/01/trump-carga-de-nuevo-contra-espana-les-parece-bien-que-iran-tenga-un-arma-nuclear/",
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha trasladado este viernes su descontento con España por la postura del Gobierno […]"
-  },
-  {
-    "titulo": "La \"farsa\" del salario mínimo de Delcy desata protestas en Caracas mientras el chavismo organiza un megaconcierto en una base militar",
-    "medio": "El Mundo",
-    "fecha": 1777659723.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/01/69f4e993e85ece844d8b4577.html",
-    "resumen": "Pese al anuncio de subida de la retribución mínima realizado ayer por la presidenta encargada, hasta hace unas horas no alcanzaba ni un dólar Leer"
   },
   {
     "titulo": "FESTIVAL EL PAÍS 50 ANIVERSARIO | De todo nos pasa",
@@ -406,6 +560,13 @@
     "resumen": ""
   },
   {
+    "titulo": "Montero avisa del \"afán\" del PP por \"deshumanizar\" y \"desmovilizar el voto progresista\" el 17M: \"Somos más y lo saben\"",
+    "medio": "Europa Press",
+    "fecha": 1777657748.0,
+    "link": "https://www.europapress.es/andalucia/malaga-00356/noticia-montero-avisa-afan-pp-deshumanizar-desmovilizar-voto-progresista-17m-somos-mas-saben-20260501194908.html",
+    "resumen": "La secretaria general del PSOE-A y candidata a la presidencia de la Junta de Andalucía, María Jesús Montero, ha incidido este viernes en criticar la \"campaña de deshumanización\" del adversario político que, en su opinión, despliega el PP para \"desgastar\" al PSOE, así como su \"afán\" por \"desmovilizar el voto progresista\" de cara a las elecciones andaluzas del 17 de mayo, porque los votantes progresistas son \"más\" en Andalucía, y \"lo saben\" los 'populares'."
+  },
+  {
     "titulo": "Trump afirma que no está satisfecho con la última propuesta de acuerdo de Irán: \"Ya veremos que pasa\"",
     "medio": "Europa Press",
     "fecha": 1777657681.0,
@@ -413,25 +574,11 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha mostrado este viernes su disconformidad con una última propuesta de acuerdo presentada por Irán, y ha puesto en duda que las autoridades de este país estén capacitadas para alcanzar ningún tipo de entendimiento. \"Han hecho avances, pero no creo que lo logren\", ha dicho."
   },
   {
-    "titulo": "Zapatero ironiza sobre China en un mitin en Andalucía: «Soy amigo íntimo de Xi Jinping»",
-    "medio": "The Objective",
-    "fecha": 1777657353.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-01/zapatero-china-mitin-andalucia-xi-jinping/",
-    "resumen": "La candidata del PSOE a la Junta de Andalucía, María Jesús Montero, ha estado este viernes en un mítin en Cártama (Málaga) arropada por Pedro Sánchez […]"
-  },
-  {
     "titulo": "Del desierto de Almería a las llanuras de Marte: el accidentado viaje del rover que busca hacer historia en 2028",
     "medio": "Xataka",
     "fecha": 1777656626.0,
     "link": "https://www.xataka.com/espacio/desierto-almeria-a-llanuras-marte-accidentado-viaje-rover-que-busca-hacer-historia-2028",
     "resumen": "Rosalind Franklin hizo uno de los descubrimientos científicos más importantes del siglo XX. Sus compañeros se adueñaron de su trabajo y recibieron el premio Nobel y ella ni siquiera vivió para verlo. Cuando la Agencia Espacial Europea (ESA) decidió bautizar el rover de la misión ExoMars con su nombre no se pensó que el robot podría arrastrar también la mala suerte de su tocaya. Lamentablemente, lleva años arrastrando incidencias que han retrasado su lanzamiento. Eso sí, parece que al menos la Rosalind marciana sí que ha tenido por fin un golpe de suerte. Todo está listo otra vez para su lanzamiento en 2028. Aún falta tiempo, pero hay mucho por hacer. La NASA entra en escena. Este mes de abril la NASA ha anunciado la firma del proyecto Rosalind Franklin Support and Augmentation (ROSA), con el que se compromete a dar apoyo a la ESA durante la misión ExoMars. Concretamente, la agencia espacial estadounidense proporcionará hardware y servicios para la misión, incluyendo el servicio de lanzamiento, los motores de freno para la plataforma de aterrizaje del rover y las unidades de calentamiento de radioisótopos para los sistemas internos del robot. El sistema de lanzamiento elegido será a través de un Falcon Heavy de SpaceX, que partirá del Complejo de Lanzamiento 39A en el Centro Espacial Kennedy de la NASA en Florida. En Xataka Qué son en realidad las “arañas” vistas por una sonda de la ESA en la “ciudad Inca” de Marte Una misión sin precedentes. La misión ExoMars está compuesta por dos piezas. Por un lado, el ExoMars Trace Gas Orbiter (TGO), que sí pudo lanzarse con éxito y lleva en la órbita marciana desde 2016. Por otro lado el rover Rosalind Franklin; que, si todo va bien, se lanzará a finales de 2028. El orbitador se encarga de estudiar la atmósfera marciana, mientras que el rover aterrizará en el planeta rojo para buscar signos de vida presente o pasada bajo su superficie. Será el primer rover con la capacidad de perforar el suelo. Se hizo algo parecido con la misión Insight de la NASA, pero en este caso el instrumento empleado era un lander. No podía moverse del sitio como los rovers, por lo que no podía estudiar el planeta tan a fondo como lo hará Rosalind Franklin. Muchas incidencias, pero vuelve a haber esperanza. El lanzamiento de Rosalind Franklin ha pasado por muchas incidencias. Primero fueron los problemas técnicos y la pandemia de COVID-19 los que obligaron a posponer la misión a 2022. Del servicio de lanzamiento se iba a encargar Roscosmos, la agencia espacial rusa. A raíz de la invasión de Rusia a Ucrania, se cortó toda relación comercial entre la ESA y Roscosmos, por lo que la misión se tuvo que posponer. Ya no había ningún cohete disponible para viajar a Marte y, además, había que sustituir algunos instrumentos de origen ruso. Han sido muchos años de espera, pero por fin parece que el acuerdo con la NASA ha abierto el camino a seguir con los preparativos. El Gobierno de Donald Trump estuvo a punto de llevar al traste el acuerdo, pero finalmente el apoyo del Congreso fue más fuerte. Queda mucho por hacer. Antes de que se pospusiera su lanzamiento, el rover se sometió a múltiples pruebas para comprobar que podrá resistir las condiciones marcianas. Por ejemplo, en 2018 se probó en el desierto de Tabernas, en Almería. Este lugar fue elegido entre varios análogos marcianos terrestres, entre otros motivos por contener un mineral llamado jarosita que también se ha encontrado en Marte. Más tarde, en 2020, se probó el rover en un laboratorio de Toulouse, en el que se emularon las condiciones ambientales marcianas. Si funcionó bien entonces, debería hacerlo también ahora. No obstante, puede que haya que someter al rover a nuevas pruebas para demostrar que sigue a punto para emprender este viaje para el que ha esperado tanto. Seguro que en estos dos años Rosalind Franklin nos da por fin muchas cosas que contar. Imagen | ESA En Xataka | Llevamos años midiendo terremotos en Marte para darnos cuenta de algo: su núcleo no es como el nuestro - La noticia Del desierto de Almería a las llanuras de Marte: el accidentado viaje del rover que busca hacer historia en 2028 fue publicada originalmente en Xataka por Azucena Martín ."
-  },
-  {
-    "titulo": "Trump dice que a España e Italia \"les parece bien que Irán tenga armas nucleares\" y que \"eso no es muy inteligente\"",
-    "medio": "El Español",
-    "fecha": 1777655413.0,
-    "link": "https://www.elespanol.com/mundo/20260501/trump-dice-espana-italia-parece-bien-iran-armas-nucleares-no-inteligente/1003744230660_0.html",
-    "resumen": "Si Teherán lograra un arma atómica \"habría problemas como los que el mundo nunca ha visto antes\", ha declarado el presidente estadounidense.Más información. Irán mueve ficha y envía a EEUU una nueva propuesta de negociación a través de Pakistán"
   },
   {
     "titulo": "How Massachusetts Teachers Transformed Their Union",
@@ -462,13 +609,6 @@
     "resumen": "Las frases más inspiradoras muchas veces nacen de una vida que no tuvo nada de inspiradora, en el sentido cómodo de la palabra. Porque no son citas dichas para una taza sino consejos de resiliencia. Como esta perla de sabiduría de Marie Curie: La vida no es fácil para nadie. Pero, ¿qué importa? Hay que perseverar y, sobre todo, tener confianza en uno mismo. Hay que creer que se está dotado para algo y que ese algo hay que alcanzarlo, cueste lo que cueste. La cita aparece en la biografía 'Madame Curie', escrita por su hija Ève Curie, quien tuvo acceso directo a los diarios y correspondencia privada de su madre. Y es que cuando Curie habla de que la vida no es fácil lo hace desde su experiencia siendo mujer en un entorno científico profundamente hostil. Ya sea por ser extranjera en Francia, investigar en condiciones precarias, quedarse viuda tras la muerte repentina de Pierre Curie o estar sometida a un escrutinio público feroz cuando su vida privada se convirtió en escándalo. Todo ello mientras desarrollaba una carrera que acabaría cambiando la historia de la ciencia y le valdría dos premios Nobel. A veces, desde el presente, leemos su figura exclusivamente desde la heroicidad pero no fue, precisamente, una vida fácil. Y, sin embargo, en lugar de romantizar el sufrimiento o convertirlo en identidad, Curie lo reduce en su pensamiento a una especie de punto de partida común: la vida no es fácil para nadie. Punto. No hay victimismo, pero tampoco negación. Hay aceptación. Y, a partir de ahí, una decisión. Porque lo interesante de la frase no es tanto el diagnóstico como lo que viene después. Ese \"¿qué importa?\" no es indiferencia, sino a rebeldía. Como si dijera: sí, es difícil, pero eso no es lo relevante. Lo relevante es lo que haces con esa dificultad. Luego llega la parte difícil: la confianza en uno mismo. Aunque este sea un concepto que hou se ha vaciado bastante de contenido. Se ha convertido en eslogan y en un mantra de autoayuda. Pero confiar en uno mismo, tal y como se refiere Marie Curie, no es una cuestión de autoestima inflada, sino de supervivencia. Es creer en tus capacidades aún cuando el entorno entero parece diseñado para cuestionarlas. Y después, la idea más potente de todas: creer que estás dotado para algo. Aquí Marie curie nos habla de propósito. De aferrarnos a esa intuición de que hay algo que se te da bien de forma casi innata, apostar por algo que te interesa lo suficiente como para insistir en ello incluso cuando no compensa. Y aquí es donde la cita empieza a resonar de forma distinta en 2026. Vivimos en un momento en el que muchas de las cosas que antes definían nuestro valor (producir, resolver, calcular, incluso crear) están siendo replicadas o directamente superadas por la tecnología. La eficiencia ya no es necesariamente humana. Y eso deja una pregunta flotando: si las máquinas pueden hacer cada vez más cosas, ¿qué queda para nosotros? ¿Cuál es mi propósito si soy reemplazable? Una posible respuesta es que precisamente por eso se vuelve más relevante esa idea de \"estar dotado para algo\", pero entendida una habilidad concreta que no es simplemente técnica, sino como una combinación de curiosidad, sensibilidad, criterio y perseverancia. Una aptitud que parte de lo que sabes hacer y evoluciona a por qué insistes en hacerlo. Porque lo que Curie plantea no es un camino fácil ni rápido. Es, de hecho, lo contrario: creer en algo sin garantías, trabajar en ello sin certezas y sostener esa convicción el tiempo suficiente como para que tenga sentido. En un contexto donde todo tiende a lo inmediato, a lo optimizado, a lo automatizado y lo vocacional y lo pasional quedan sistemáticamente excluidos, esa forma de perseverancia casi resulta contracultural. Y por eso la frase sigue resultándonos contemporánea. No porque nos prometa que todo saldrá bien (que no lo hace) sino porque propone hacer una especie de acuerdo contigo mismo: la vida será difícil, sí, pero eso no te exime de intentar averiguar qué puedes aportar e ir a por ello con cierta terquedad. Foto de portada | Dominio público En Trendencias | Los 100 mejores libros de la historia que te engancharán de principio a fin - La noticia Marie Curie, doble Premio Nobel: \"La vida no es fácil para nadie, pero hay que tener confianza y creer que se está dotado para algo\" fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "Isabel Coixet, más allá del cine: fue una creativa de éxito, su vida ‘foodie’ junto a su hija Zoe y una casa llena de libros",
-    "medio": "The Objective",
-    "fecha": 1777654800.0,
-    "link": "https://theobjective.com/gente/2026-05-01/isabel-coixet-creativa-hija-zoe-casa-libros/",
-    "resumen": "Isabel Coixet es uno de los rostros más conocidos del cine. La directora lleva una larga carrera a su espalda que se ha extendido hasta la […]"
-  },
-  {
     "titulo": "5 películas y una serie que deberías ver si te gustó ‘El diablo viste Prada 2’",
     "medio": "Hipertextual",
     "fecha": 1777654800.0,
@@ -483,25 +623,18 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, acusó este viernes a la Unión Europea (UE) de incumplir el pacto comercial negociado con Washington y anunció que, como consecuencia de ello, elevará al 25% el arancel a los coches y camiones fabricados por el bloque comunitario, según informa Efe.\"Me complace anunciar que, dado que la Unión Europea no está cumpliendo con nuestro acuerdo comercial, el cual fue plenamente pactado, la próxima semana aumentaré los aranceles aplicados a la Unión Europea sobre los automóviles y camiones que ingresan a los Estados Unidos. El arancel se elevará al 25%\", escribió Trump en su red Truth Social.Trump insistió en que \"queda plenamente entendido y acordado que, si fabrican los automóviles y camiones en plantas ubicadas en los EEUU, no se aplicará ningún arancel\".No está claro bajo qué autoridad elevará los aranceles a la UE, después de que el Tribunal Supremo le invalidó en febrero gran parte de los que ya había fijado, con lo que desmontó el esquema arancelario utilizado en su guerra comercial contra los socios de EEUU. Tras este revés, el presidente estadounidense impuso un nuevo arancel global temporal del 10% bajo un nuevo marco legal, que teóricamente deberá ser extendido por el Congreso en julio.A mediados de 2025, ambas partes alcanzaron un acuerdo por el cual la UE aceptaba un arancel del 15% para la mayoría de productos europeos a cambio de que EEUU exporte la mayoría de los suyos al 0%.El pacto comercial aún está pendiente de ratificación por parte de Bruselas, después de que el Parlamento Europeo haya pedido una serie de salvaguardas que permitan suspender su implementación si Trump amenaza con nuevos aranceles al bloque comunitario o pone en riesgo su integridad territorial, como ocurrió en enero durante la crisis diplomática por el control de la isla de Groenlandia, de soberanía danesa."
   },
   {
-    "titulo": "Trump acusa a la UE de incumplir el acuerdo comercial y sube algunos aranceles al 25%",
-    "medio": "The Objective",
-    "fecha": 1777653272.0,
-    "link": "https://theobjective.com/internacional/2026-05-01/trump-ue-acuerdo-comercial-aranceles-25/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha acusado este viernes a la Unión Europea de incumplir el acuerdo comercial bilateral que mantienen. Como represalia, ha […]"
-  },
-  {
-    "titulo": "Trump subirá al 25% el arancel a la importación de vehículos europeos: \"La UE no está cumpliendo nuestro acuerdo\"",
-    "medio": "El Español",
-    "fecha": 1777653101.0,
-    "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260501/trump-subira-arancel-importacion-vehiculos-europeos-ue-no-cumpliendo-acuerdo/1003744230624_0.html",
-    "resumen": "El incremento se aplicará a partir de la próxima semana. El arancel, en estos momentos, está en el 15%."
-  },
-  {
     "titulo": "El mapa del hundimiento de Ciudad de México: crónica de un colapso anunciado y registrado casi en vivo por la NASA",
     "medio": "Xataka",
     "fecha": 1777653026.0,
     "link": "https://www.xataka.com/ecologia-y-naturaleza/mapa-hundimiento-ciudad-mexico-cronica-colapso-anunciado-registrado-casi-vivo-nasa",
     "resumen": "La Ciudad de México se enfrenta a uno de los desafíos geológicos más complejos que existen y no son los terremotos: es la subsidencia acelerada por la actividad humana. ¿Qué es eso? El hundimiento lento y progresivo del suelo. Una de las causas está en la extracción de demasiada agua del subsuelo porque ese agua en parte sujeta el terreno desde dentro. Si no hay agua, los sedimentos se compactan por acción de la gravedad y como resultado, la superficie desciende. Ciudad de México lleva más de un siglo hundiéndose por esta razón y la reciente misión satelital NISAR, una colaboración entre la NASA y su homólogo indio ISRO, ha puesto en marcha una vigilancia sin precedentes que ya da sus frutos: la cartografía más detallada y reciente de este fenómeno en la capital mexicana para vigilar su hundimiento casi en tiempo real. Es más que un mapa: es una herramienta de supervivencia para una ciudad habitada por más de 20 millones de personas. Ciudad de México se hunde. La primera vez que se reportó la subsidencia en México fue en 1925. Los datos desde 1898 hasta 2005 evidencian un hundimiento constante durante todo el periodo, con una tasa máxima de 40 centímetros al año entre 1998 y 2002. Ni es nuevo ni es algo pequeño y además, es un proceso acumulativo y mayoritariamente irreversible. Así que Ciudad de México se está deformando. Los datos del Sentinel-1 mostraban que la superficie del suelo se hunde a una tasa de 35 cm por año dentro de la ciudad, mientras que las zonas de la periferia sufren una ligera elevación de unos dos centímetros al año como respuesta elástica a esa pérdida de masa de agua. Los nuevos datos del NISAR apenas abarcan tres meses (de octubre de 2025 a enero de 2026) y su lectura es tan sencilla como alarmante: el tono azul oscuro marca aquellas zonas que se hunden más de 2 centímetros al mes por subsidencia. Mapa de la subsidencia de Ciudad de México. NASA Por qué es importante. El problema es de seguridad pública y económico. El Economista se hace eco de un estudio de Ingeniería y Gestión Hídrica que cuantifica los daños estructurales derivados de la subsidencia: unos 67.926 millones de pesos al año (unos 3.312 millones de euros) en tuberías, averías, fracturas de edificios, entre otros. Podría parecer que el hecho de hundirse en sí fuera lo peor, pero lo verdaderamente destructivo es la diferencia de velocidad entre aquellas zonas que bajan más rápido que otras, lo que causa daños progresivos en las infraestructuras en tanto en cuanto genera tensiones estructurales críticas para el diseño de infraestructuras. Además de los daños materiales, la subsidencia altera la respuesta sísmica del suelo, aumenta el riesgo de inundaciones graves al modificar el drenaje natural de la cuenca y favorece la migración de sales y contaminantes en los acuíferos, lo que afecta a la calidad del agua. En pocas palabras, dispara las alarmas ante una futura crisis hídrica. En Xataka México está a 45ºC en abril y ni siquiera es su problema más grave: es que se está calentando más rápido que nunca Contexto. El origen del problema es una combinación de factores geológicos naturales y decisiones históricas de urbanismo. La Ciudad de México se construyó sobre el antiguo lecho del lago Texcoco, drenado por los conquistadores españoles. Al drenar el lago, la ciudad quedó asentada sobre su antiguo lecho, formado por arcillas lacustres de origen volcánico y orgánico. En condiciones naturales estas arcillas sostenían el ecosistema del lago sin colapsar. Sin embargo, el desarrollo de la ciudad y la extracción de agua ha hecho que el equilibrio se rompa: el limo se compacta y hace que el suelo se contraiga y se hunda. El crecimiento urbano de Ciudad de México impide que las lluvias recarguen los acuíferos porque cada vez hay más suelo cubierto por superficies impermeables como asfalto. Es un círculo vicioso: hay menos recarga natural del acuífero, lo que obliga a bombear más agua, la compactación se acelera y agrava el hundimiento, dañando las infraestructuras. No hay vuelta atrás. Cuando el esfuerzo de soportar la ciudad sobre sus hombros supera la tensión de preconsolidación (el límite de resistencia de la arcilla), las láminas minerales colapsan y se reordenan de forma definitiva. Es un camino de no retorno: aunque se dejara de extraer agua mañana, buena parte del hundimiento acumulado no puede revertirse. La ciudad literalmente ha perdido metros de altura que nunca recuperará. Lo que sí puede controlarse son los daños, lo que pasa por un cambio en la gestión hídrica donde reducir la dependencia de los acuíferos es algo esencial. Eso sí, implica buscar otros recursos hídricos como trasvases o reciclar el agua, además de facilitar la penetración del agua en el subsuelo. Estas medidas no van a revertir el daño causado, pero al menos ralentizarían el hundimiento y ofrecerían un alternativa de acceso al agua a una megaurbe. La tecnología detrás del mapa. El satélite NISAR es el primero en llevar dos instrumentos de radar de apertura sintética a diferentes longitudes de onda y es capaz de monitorizar las superficies terrestres y de hielo de la Tierra dos veces cada 12 días gracias a un enorme reflector de antena de 12 metros de diámetro. La técnica empleada se llama interferometría SAR (InSAR) y consiste en comparar dos imágenes de radar tomadas en distintos momentos: al medir los cambios de fase de la señal se pueden detectar desplazamientos de terreno de apenas milímetros. La gran ventaja de NISAR frente a sus predecesores es su banda L (longitud de onda de unos 24 centímetros), lo que le permite trabajar incluso en terrenos con vegetación densa o mucha humedad donde otros radares como el Sentinel-1 perdían calidad. Esta herramienta convierte a NISAR en un sistema de alerta temprana global para ciudades que se enfrenten a riesgos similares. En Xataka | México toca el cielo con un nuevo y elegante rascacielos de 484 metros y 99 plantas: será el más alto de todo América Latina En Xataka | Cancún tiene un enorme cuello de botella en su zona turística: México lo va a solucionar con un megapuente Portada | NASA y Alexis Tostado - La noticia El mapa del hundimiento de Ciudad de México: crónica de un colapso anunciado y registrado casi en vivo por la NASA fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Trump acusa a la UE de incumplir el acuerdo comercial y sube al 25% los aranceles a automóviles y camiones",
+    "medio": "Europa Press",
+    "fecha": 1777652820.0,
+    "link": "https://www.europapress.es/internacional/noticia-trump-acusa-ue-incumplir-acuerdo-comercial-sube-25-aranceles-automoviles-camiones-20260501182700.html",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, ha acusado este viernes a la Unión Europea de incumplir el acuerdo comercial bilateral que mantienen y anunciado que, como represalia, la semana que viene elevará al 25% los aranceles a turismos y camiones."
   },
   {
     "titulo": "Ayuso alerta al PP de Madrid de un posible fraude en las urnas",
@@ -532,46 +665,11 @@
     "resumen": "Durante años si a Vicky Martín Berrocal le hablaban de deporte salía huyendo. Sin embargo, hoy en día, el cambio que ha experimentado tanto a nivel físico como mental ha sido tan grande que la diseñadora solo puede agradecerle al ejercicio y los buenos hábitos, todo lo que le han reportado para su salud. \"El músculo es vida\", dice Vicky en uno de sus vídeos de Instagram junto a su entrenadora personal, Crys Díaz. Y razón no le falta, porque el ejercicio de fuerza se ha convertido, corroborado por la ciencia, en un auténtico salvavidas si lo que queremos es llegar lo más autónomos, fuertes e independientes posible a la vejez. El nuevo, consciente y saludable estilo de vida de Vicky Martín Berrocal\"Voy al gimnasio tres o cuatro veces por semana\", confesaba en una de sus publicaciones de Instagram, según este articulo, y es que si hay algo por lo que se caracteriza la diseñadora es por compartir su día a día en las stories de su perfil, que cuenta ya con 1,4 millones de seguidores, donde comparte desde que se levanta hasta que se acuesta todos sus planes, proyectos, rutinas y reflexiones, de una manera íntima y muy personal. En una de sus historias de hace unos meses decía, según apuntan en Telva: \"Casi dos años después de haber comenzado a entrenar en ayunas, puedo decir que no solo doy fe de sus múltiples beneficios (cambio de estructura corporal, quema de grasa, etc), sino que estoy absolutamente enganchada al subidón de energía que supone arrancar la jornada reseteando el organismo. Así que todos los días me despierto y me pongo a caminar\". @vickymartinberrocal Y es que el estilo de vida por el que ahora apuesta Vicky es mucho más saludable que hace unos años: \"53 años y ¡sintiéndome mejor que nunca!Soy feliz de poder decir que sigo atravesando los mejores años de mi vida\", decía en la publicación de su cumpleaños. Cuida su alimentación de forma consciente: \"Beber agua de coco en ayunas ofrece beneficios para la salud y ayuda a mantener un peso saludable, es lo que yo desayuno\", pero como decimos lo que realmente le ha hecho hacer 'click' en su cerebro ha sido incorporar el hábito del ejercicio en su día a día. \"Mi amiga Paquita me ha puesto esta maravillosa máquina de andar en la terraza de mi habitación\", decía en otra de sus stories, siempre con el buen humor que le caracteriza. Pero, sin duda, el objetivo de Vicky no ha sido solo el de bajar kilos porque eso no funciona, ha asegurado en alguna ocasión, sino el de concienciarse de la importancia de unos buenos hábitos. Y es que, según dice, las dietas que prometen bajar de peso en poco tiempo \"son una locura, y tienen un efecto rebote brutal. No se trata solo de una talla, no es que haya que tener un cuerpo perfecto\", se sinceraba en esta otra entrevista. @revista_hola Vicky Martín Berrocal relata cómo ha sido su relación con la alimentación 🌟 #vickymartinberrocal #alimentacion #alimentacionsaludable #comerbien ♬ sonido original - Revista ¡HOLA! Y en relación a esto, la diseñadora también hablaba en uno de sus últimos vídeos sobre la celulitis: \"Ya está bien. Levanta la mano si tienes celulitis. Vamos a normalizar lo real\", reivindica. \"No tienes que esconderla. No tienes que sufrir por ello\". El entrenamiento cardiovascular de alta intensidad se ha convertido en otro de sus retos que, aunque al principio confiesa haberle costado, pero hoy dice se siente orgullosa de haber conseguido incorporarlo en su rutina de ejercicio. Sin duda, muchas veces a la hora de ir al gimnasio hay que tirar de disciplina porque las ganas nunca se tienen. Y esto nos pasa a la mayoría de los mortales, Vicky Martín Berrocal incluida: \"Para mantener hábitos de vida saludables, os animo a que busquéis el deporte que más os guste y os propongáis practicarlo tres veces por semana\", aconseja y también agradece a su entrenadora la motivación: \"Gracias Crys Díaz por recordarme esos días que no me apetece hacer nada, lo importante que es el deporte para mi vida\". Fotografías | @vickymartinberrocal En Trendencias | Penélope Cruz, a sus 51 años: \"Cuando empecé a trabajar me creía mayor, pero era una niña, no me cambiaría para nada por ella. Ahora me pongo menos trampas\" En Trendencias | Jesús Vázquez, a sus 60 años: \"Existe una especie de rechazo a la edad. Según te haces mayor parece que dejas de ser interesante, visible, atractivo\" - La noticia Vicky Martín Berrocal, sobre su rutina a los 53 años: \"Llevo casi dos años despertándome y caminando en ayunas. Y voy tres o cuatro días al gimnasio por semana\" fue publicada originalmente en Trendencias por Sara Hormigo ."
   },
   {
-    "titulo": "Trump acusa sin pruebas a la UE de incumplir el acuerdo comercial y anuncia aranceles del 25% a los coches y camiones europeos",
-    "medio": "eldiario.es",
-    "fecha": 1777651171.0,
-    "link": "https://www.eldiario.es/internacional/trump-anuncia-aranceles-adicionales-25-coches-camiones-ue_1_13188968.html",
-    "resumen": "El presidente de EEUU amenaza con nuevos gravámenes contra los países europeos, sin explicar los motivos de la nueva amenaza ni el modo de ejecutarla, dado que el Supremo de EEUU prohibió los atajos en materia arancelaria. El arancel base aplicado por EEEUU a la UE es del 15%Trump se salta el límite legal para continuar la guerra de Irán sin autorización del Congreso y sin un plan de salida Nueva amenaza de Trump contra sus aliados. El presidente de EEUU ha anunciado este viernes aranceles adicionales del 25% a los coches y camiones europeos. “Me complace anunciar que, dado que la Unión Europea no está cumpliendo con el acuerdo comercial que acordamos en su totalidad, la próxima semana aumentaré los aranceles que se aplican a la Unión Europea por los automóviles y camiones que entran en Estados Unidos”, ha anunciado el presidente de EEUU en un post en Truth Social. El acuerdo comercial elimina los aranceles sobre cientos de productos industriales y agrícolas estadounidenses, mientras impone un arancel general del 15% sobre la UE. Eso sí, Trump no explica qué parte de los acuerdos no está cumpliendo la Unión Europea. Y realiza la amenaza una semana después de que la Unión Europea y los Estados Unidos sellaran en Washington un acuerdo sobre minerales críticos con la firma de un memorando de entendimiento sobre una asociación estratégica para profundizar en la cooperación en este tipo de materias primas. Los minerales críticos y las tierras raras se han convertido en fundamentales en el nuevo contexto geopolítico, ya que son fundamentales para la industria tecnológica y de defensa. China controla el suministro mundial de metales críticos: representa el 70% de la minería global y el 90% de la capacidad de procesamiento de estos materiales en el mundo. Así, ante el control chino de estas materias primas, el comisario de Comercio, Maros Sefcovic, y el secretario de Estado estadounidense, Marco Rubio, formalizaron el viernes pasado la asociación estratégica entre los dos bloques “para construir cadenas de suministro de minerales críticos seguras y sostenibles”. Pero eso parece importarle poco a Donald Trump, quien ha afirmado este viernes: “El arancel se incrementará al 25%. Queda totalmente claro y acordado que, si fabrican automóviles y camiones en plantas de EEUU, no habrá arancel: ”Actualmente, se están construyendo numerosas fábricas de automóviles y camiones, con una inversión de más de 100 000 millones de dólares, todo un récord en la historia de la fabricación de automóviles y camiones. Estas fábricas, con personal estadounidense, abrirán pronto. ¡Nunca ha habido nada parecido a lo que está ocurriendo hoy en Estados Unidos!“ Lo que no explica Trump, tampoco, es cómo ejecutará esa amenaza, toda vez que el Tribunal Supremo de EEUU ha prohibido la vía ejecutiva para este tipo de gravámenes por considerarla un atajo inconstitucional. Truth Social de Trump sobre aranceles a la UE."
-  },
-  {
     "titulo": "Barbara Kopple on Her Labor Documentary Masterpieces",
     "medio": "Jacobin ES",
     "fecha": 1777650183.0,
     "link": "https://jacobin.com/2026/05/kopple-harlan-county-american-dream",
     "resumen": "Barbara Kopple’s films Harlan County USA and American Dream captured labor struggle as it was happening: on picket lines, inside unions, and under pressure. Decades later, both remain some of the finest labor documentaries ever made."
-  },
-  {
-    "titulo": "España condena la retención de un ciudadano español de la flotilla y exige su liberación inmediata",
-    "medio": "El Español",
-    "fecha": 1777649936.0,
-    "link": "https://www.elespanol.com/espana/20260501/espana-condena-retencion-ciudadano-espanol-flotilla-exige-liberacion-inmediata/1003744230572_0.html",
-    "resumen": "El ciudadano con nacionalidad española Saif Abukeshek habría sido ilegalmente retenido por Israel y estaría siendo trasladado en estos momentos a ese país.Más información. Israel intercepta la flotilla Sumud a la altura de Grecia cuando se dirigía hacia Gaza y detiene a 175 de sus tripulantes"
-  },
-  {
-    "titulo": "El truco infalible de los chefs para que los chiles piquen menos",
-    "medio": "Moncloa.com",
-    "fecha": 1777649820.0,
-    "link": "https://www.moncloa.com/2026/05/01/truco-quitar-picor-chiles-pimientos-3374545/",
-    "resumen": "Cómo quitar picor a chiles con el truco que usan los cocineros: retirar venas y un remojo con sal. Funciona sin perder sabor. La entrada El truco infalible de los chefs para que los chiles piquen menos aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Mucho Quiles y poco Sánchez: lo que va de una cafetería al Supremo",
-    "medio": "El Español",
-    "fecha": 1777649039.0,
-    "link": "https://www.elespanol.com/opinion/columnas/20260501/quiles-sanchez-va-cafeteria-supremo/1003744230112_12.html",
-    "resumen": "Apúntate y recibe cada miércoles esta newsletter para leerla antes que nadie y no perderte la información más relevante."
-  },
-  {
-    "titulo": "Jonas, el autoproclamado rey de Suiza que se adueña de terrenos huérfanos, tiene moneda propia y hasta su rito de coronación",
-    "medio": "El Español",
-    "fecha": 1777648015.0,
-    "link": "https://www.elespanol.com/corazon/casas-reales/20260501/jonas-autoproclamado-rey-suiza-convirtio-terrenos-huerfanos-suculento-patrimonio-inmobiliario/1003744230448_0.html",
-    "resumen": "El técnico suizo, de 31 años, aprovechó un vacío legal para adueñarse de 151 parcelas con más de 117.000 metros cuadrados.Más información: El 80 cumpleaños de Gustavo de Suecia, la mayor reunión de miembros de la realeza desde el funeral de la reina Isabel II"
   },
   {
     "titulo": "Chile tiene uno de los cielos más valiosos de la Tierra. Las renovables lo están poniendo contra las cuerdas",
@@ -595,32 +693,11 @@
     "resumen": "Tener un Amazon Fire TV y que se quede pillado es una de las situaciones más incómodas que hay. Los motivos son diversos, aunque hay uno que se repite en buena parte de los hogares: la conexión. Pasa sobre todo en los aparatos más antiguos, y la solución no es sencilla si no conoces la […] Seguir leyendo: Este es el accesorio perfecto para tu Amazon Fire TV. Adiós a los problemas de conexión o Internet lento"
   },
   {
-    "titulo": "Miles de trabajadores se manifiestan en Barcelona con el reclamo: “Paz, vivienda y salario”",
-    "medio": "eldiario.es",
-    "fecha": 1777647223.0,
-    "link": "https://www.eldiario.es/catalunya/miles-trabajadores-manifiestan-barcelona-reclamo-paz-vivienda-salario_1_13188884.html",
-    "resumen": "Los dos sindicatos mayoritarios lamentan el impacto de los conflictos en la clase trabajadora Miles de trabajadores se han manifestado este Primero de Mayo en Barcelona bajo el lema “Contra las guerras y el fascismo, más derechos y más sindicalismo”. La protesta, convocada por los sindicatos CCOO y UGT, ha puesto el foco en “tres grandes reivindicaciones: paz, vivienda y salario”. Así lo han resumido los secretarios generales de los dos sindicatos mayoritarios, que han lamentado el impacto de los conflictos en la clase trabajadora. También han cargado contra las políticas de extrema derecha, al tiempo que han aprovechado para denunciar la crisis de la vivienda. La manifestación ha arrancado desde la plaza Urquinaona y ha bajado por Via Laietana haciendo parada frente a Foment del Treball. Según los sindicatos, ha reunido a 10.000 personas, cifra que la Guardia Urbana ha rebajado hasta las 2.500. Este viernes por la mañana, CCOO y UGT también han convocado manifestaciones en Tarragona, Girona, Lleida, Terrassa, Tortosa, Igualada y Reus, además de en otros puntos del Estado. En la capital catalana, la tradicional manifestación ha finalizado en la plaza de Correos, un recorrido más largo que el año pasado porque ya no hay obras en la Via Laietana. En los parlamentos finales, la secretaria general de CCOO, Belén López, ha criticado que la patronal hable de “fraude” en las bajas médicas. “Eso es mentira, nosotros ejercemos nuestro derecho a la salud”, ha afirmado López. “Este país no tiene un problema de absentismo, sino de presentismo. La gente, pese a estar enferma, va a trabajar porque vivimos con empresas que no son democráticas”, ha añadido. También ha hecho un llamamiento a movilizarse el 5 de mayo ante el Parlament, cuando se votará la ley de dependencia, para reclamar que se destine el 2% del PIB. “Se tiene que financiar con los impuestos de los ricos y de las empresas”, ha apuntado López. La líder de CCOO ha pedido una “reforma profunda” del sistema de despidos y ha rechazado los expedientes de regulación en Ficosa y Nestlé. “Las empresas no pueden utilizar a las personas como si fueran piezas de un inventario”, ha criticado. “Hay que garantizar que el despido es la última opción y que por encima de los beneficios de las empresas está nuestro puesto de trabajo”, ha señalado. Por su parte, el secretario general de UGT, Camil Ros, ha comenzado reivindicando la protesta convocada este viernes y la lucha histórica de los sindicatos. “Los que estáis haciendo cola en la AP-7, podéis hacer cola porque el sindicalismo consiguió que el día del Primero de Mayo fuera festivo”, ha lanzado. En su discurso, los sindicatos también han elogiado el proceso de regularización de migrantes que arrancó la semana pasada y han cargado reiteradamente contra el fascismo. “¿Conocéis algún lugar donde haya ganado la derecha o la extrema derecha y se viva mejor que antes?”, ha cuestionado Ros. “La extrema derecha divide a la gente. Si no queréis que pase lo mismo que en Estados Unidos, en Catalunya y España no podéis votar lo mismo”, ha dicho. Como es habitual, la manifestación ha terminado con la Internacional y Els Segadors."
-  },
-  {
-    "titulo": "‘El Padrino’ no habría tenido segunda ni tercera parte si hubiera sido por Francis Ford Coppola: “Me obligaron por la codicia”",
-    "medio": "eldiario.es",
-    "fecha": 1777647096.0,
-    "link": "https://www.eldiario.es/spin/el-padrino-no-habria-tenido-segunda-tercera-parte-si-hubiera-sido-francis-ford-coppola-pm_1_13188874.html",
-    "resumen": "El director de cine ha revelado que su idea era que el proyecto tuviera tan solo una película, ni siquiera estuvo de acuerdo en que existiera ‘El padrino. Parte II’Documentaba los rodajes de Francis Ford Coppola y comenzó como directora de cine a los 80 años Actualmente tanto ‘El Padrino’ como ‘El Padrino: parte II’ son consideradas dos de las mejores películas de la historia del cine, dos sin las que no se entendería parte de lo que Hollywood hizo después y que, además, encumbró a su director Francis Ford Coppola, quien más tarde firmaría también títulos como ‘Apocalypse Now’. Cabe tener en cuenta que antes de dirigir la primera de ‘El Padrino’ en 1972, Coppola venía de ser un desconocido y haber participado en la cinta de terror de serie B ‘Demencia 13’ o ‘Llueve sobre mi corazón’, pero cuando Paramount adquirió los derechos de la obra de Mario Puzo quiso que el equipo estuviera formado mayoritariamente por italoamericanos. Coppola no quiso rodar ‘El padrino. Parte II’ Así es como acabó siendo seleccionado para dirigir ‘El Padrino’ y el resto es historia. Pero en una reciente entrevista, el director de cine ha revelado que su idea era que el proyecto tuviera tan solo una película, ni siquiera estuvo de acuerdo en que existiera ‘El padrino. Parte II’, a pesar de que ganó varios premios Oscar y para algunos incluso supera a su predecesora: “En realidad, nunca quise hacer las secuelas de 'El padrino'. Me obligaron por la codicia de las productoras, querían sacar más dinero con ellas. ¡Siempre sentí eso! La primera parte de ‘El padrino’ fue un drama perfectamente bueno y puso fin a todos los aspectos de la historia: resolvió el personaje y, en realidad, estaba destinada a ser una sola película”, admitió Coppola, aunque a su vez confirmó que tuvo total libertad. “Sigo pensando que la historia había quedado completa con la primera parte. Solo hice ‘El padrino. Parte II’ porque pensé que sería interesante hacer una película sobre un hombre y su padre con su misma edad, y contar las dos historias en paralelo, que es lo que hice. Y eso fue un logro”, afirmó. “‘El padrino. Parte III’ tenía muchas cosas buenas, pero se hizo demasiado apresurada” Quince años después de la secuela llegó la tercera entrega y final de la trilogía, ‘El padrino. Parte III’, que estrenada en 1990 es la menos popular de las tres y acusó diversos problemas, que para Francis Ford Coppola se debieron a las prisas del rodaje: “Creo que tenía muchas cosas buenas. Tenía un buen potencial, pero se hizo de manera demasiado apresurada porque se hizo en un año y querían que saliera esa misma Navidad. Era una historia grande, compleja y difícil. Creo que si hubiera dedicado más tiempo a escribirla habría resuelto o definido mejor algunos de los problemas, en lugar de hacerlo mientras estábamos rodando”. El director también quiso añadir que “la pérdida de Robert Duvall como personaje marcó la diferencia. Si lo piensas, él fue una parte muy importante de esa historia. Claramente, era el personaje más importante que aún vivía de las otras dos películas. Así que creo que, al final, perder al personaje de Hagen fue algo que no pude dejar atrás tan fácilmente. Creo que podría haberle convencido si no hubiéramos empezado a rodar de inmediato”. Las propias historias del rodaje de ‘El Padrino’ propiciaron mucho material para la cultura pop y la industria del cine, tanto que esto ha dado como resultado la miniserie ‘La oferta’ de Michael Tolkin en 2022 o la película que se está preparando llamada ‘Francis and the Godfather’, con Jake Gyllenhaal, Oscar Isaac o Elisabeth Moss."
-  },
-  {
     "titulo": "May 1: Day of Work or Workers’ Day?",
     "medio": "Jacobin ES",
     "fecha": 1777646271.0,
     "link": "https://jacobin.com/2026/05/may-day-france-draft-law",
     "resumen": "In France, May Day has long been a day for all workers to stop working. A recent proposal for some businesses to remain open forced unions to defend the idea that French workers keep May Day as a day to themselves."
-  },
-  {
-    "titulo": "Adiós al cristal del horno sucio: el truco para limpiarlo sin desmontar la puerta",
-    "medio": "Moncloa.com",
-    "fecha": 1777646160.0,
-    "link": "https://www.moncloa.com/2026/05/01/limpiar-cristal-horno-sin-desmontar-truco-3374543/",
-    "resumen": "Cómo limpiar el cristal del horno sin desmontar la puerta con bicarbonato, vinagre y una percha forrada. La entrada Adiós al cristal del horno sucio: el truco para limpiarlo sin desmontar la puerta aparece primero en Moncloa."
   },
   {
     "titulo": "He viajado en taxi autónomo y un dron me ha traído el bubble tea: así es un jueves cualquiera en Shenzhen",
@@ -644,27 +721,6 @@
     "resumen": "No hace falta ponerse full distópico ni imaginar futuros muy rebuscados para que una historia sea verdaderamente inquietantes. A veces el miedo está en escenarios mucho más parecidos a nuestra realidad: una casa ordenada, una familia aparentemente perfecta, una comunidad donde todos sonríen demasiado y nadie cuestiona nada. Ese es el terreno que pisa 'Los no elegidos', la miniserie británica de Netflix que se ha convertido en su último número uno global de lo más visto en series y que demuestra que el mejor suspense también puede construirse desde el silencio, la obediencia y las reglas no escritas. Mientras buena parte del catálogo de Netflix apuesta por thrillers trepidantes, crímenes sangrientos o sinopsis con plot twists cada diez minutos, 'Los no elegidos' elige otro camino más pausado, más psicológico y bastante más incómodo. Aquí la amenaza no llega desde fuera sino que es la columna vertebral del sistema. Y eso la hace todavía más perturbadora. 'Los no elegidos' se desarrolla en la Hermandad de los Divinos, una comunidad religiosa cerrada, en el entorno rural británico, donde la vida cotidiana está regida por una estricta jerarquía patriarcal. Los hombres ocupan el espacio público, toman todas las decisiones y representan la autoridad moral. Las mujeres se encargan del hogar, cuidan de los hijos y aceptan un rol en el que no preguntarse nada. El mundo exterior, mientras tanto, se describe como un lugar peligroso, corrupto y moralmente degradado. Por lo tanto, creen que fuera solo hay caos y dentro protección. Aunque dicha protección venga con un precio altísimo. En el centro de la historia está Rosie, una madre joven que ha crecido dentro de la secta y que jamás ha conocido otra forma de vivir. Pero Rosie no se presenta como una heroína clásica ni como una rebelde desde el minuto uno. Precisamente ahí está uno de los mayores aciertos de la serie, porque entiende que despertar no siempre se produce en un gran estallido, sino mediante pequeñísimas grietas internas. Una duda. Una mirada. Una contradicción imposible de ignorar. La llegada de Sam, un forastero de pasado problemático, funciona como detonante de ese proceso. Su presencia altera el equilibrio de la comunidad y pone en marcha un conflicto en el que tendrá que plantearse si resulta más peligroso permanecer en un sistema que la anula o confiar en alguien de quien tampoco sabes demasiado. La serie juega con esa ambigüedad evitando ofrecer respuestas fáciles. Uno de los puntos fuertes de 'Los no elegidos' es su atmósfera. Todo está diseñado para transmitir una calma inquietante a través de colores apagados, cielos encapotados, interiores pulcros, modales impecables. Una estética sobria que encaja con el discurso de la comunidad, donde la pureza exterior sirve para esconder dinámicas mucho más oscuras. La serie acierta al mostrar que el control rara vez se presenta como violencia explícita desde el primer momento. Muchas veces llega disfrazado de amor, tradición, deber o cuidado. Por eso resulta inevitable acordarse de títulos como 'El cuento de la criada' o 'Unorthodox'. Aunque aquí no se habla de una distopía ni de un contexto lejano, sino de una Inglaterra contemporánea, recordando que ciertas formas de manipulación no pertenecen al pasado ni a la ficción futurista. La serie, además, se cimienta sobre documentación real de comunidades religiosas y testimonios de antiguos miembros de grupos similares. No es una serie pensada solo para entretener. También lanza preguntas incómodas como: cuánto de nuestras decisiones es realmente nuestro, cuánto poder puede ejercer una comunidad sobre la identidad individual o hasta qué punto el miedo a perderlo todo le impide a una persona salir de un lugar que ya no soporta. En tiempos de consumo rápido y series olvidadas a las pocas horas, se agradecen ficciones que dejan poso. 'Los no elegidos' lo consigue con una historia absorbente, un conflicto moral interesante y una protagonista cuya evolución sostiene todo el relato. Se ve rápido porque son solo seis capítulos, sí, pero de los que no se olvidan. Fotos | Netflix En Trendencias | Las 25 mejores películas de amor que podemos ver en Amazon Prime Video ahora mismo - La noticia La serie más vista de Netflix a nivel global tiene solo seis episodios de puro suspense. Imposible no verla del tirón fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "Estée Lauder eleva a 10.000 el recorte de su plantilla mientras negocia su fusión con Puig",
-    "medio": "La Vanguardia",
-    "fecha": 1777643506.0,
-    "link": "https://www.lavanguardia.com/dinero/20260501/11527615/estee-lauder-recorta-empleos-fusion-puig.html",
-    "resumen": "El gigante de la cosmética mejora sus previsiones para el cierre del año"
-  },
-  {
-    "titulo": "Pasta con gorgonzola y nueces: 4 ingredientes y sabe a Italia",
-    "medio": "Moncloa.com",
-    "fecha": 1777642500.0,
-    "link": "https://www.moncloa.com/2026/05/01/pasta-gorgonzola-nueces-receta-italiana-3374541/",
-    "resumen": "Receta de pasta gorgonzola y nueces lista en 10 minutos: cuatro ingredientes y el truco para que la salsa quede sedosa. La entrada Pasta con gorgonzola y nueces: 4 ingredientes y sabe a Italia aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Del oráculo de Kimmel a la mano esquiva de Melania",
-    "medio": "La Vanguardia",
-    "fecha": 1777642200.0,
-    "link": "https://www.lavanguardia.com/gente/20260501/11527612/oraculo-kimmel-mano-esquiva-melania.html",
-    "resumen": "Jimmy Kimmel se gana la ira de los Trump, Melania le esquiva la mano y Antonio Banderas presume de ex"
-  },
-  {
     "titulo": "Strikes Are Down, but Workers Are Rediscovering Their Power",
     "medio": "Jacobin ES",
     "fecha": 1777642063.0,
@@ -677,13 +733,6 @@
     "fecha": 1777640980.0,
     "link": "https://www.infolibre.es/politica/calles-llenan-mayo-vivienda-reivindicacion-central_1_2186762.html",
     "resumen": "La manifestación central del Primero de Mayo, que este año se ha celebrado en Málaga, ha finalizado poco después de las 14.00 horas con la reclamación de los sindicatos UGT y CCOO para mejorar los salarios, poner solución al \"polvorín social\" de la vivienda y defender la paz mundial, informa EFE.La marcha ha terminado con la intervención de los secretarios generales de los dos grandes sindicatos, Pepe Álvarez y Unai Sordo, quienes han remarcado la necesidad de repartir la riqueza, aumentar los salarios y poner una solución al importante problema de la vivienda, sobre todo para los jóvenes.Los sindicatos, que cifran la participación en unas 20.000 personas, han resaltado el carácter internacional que ha tenido este Primero de Mayo por lo que está ocurriendo en Palestina, Gaza, Ucrania e Irán, y han expresado con rotundidad su rechazo a la guerra.Pepe Álvarez ha señalado que hay que conseguir que la prioridad nacional sean \"las mujeres y los hombres\", ha abogado por volver a \"plantar la batalla\" por el control horario para que las empresas no sigan \"abusando\" y ha avanzado que si los precios siguen al alza, las dos organizaciones pedirán a mitad de año la subida del SMI.Por su parte, Unai Sordo ha asegurado que \"no hay mayor trinchera que no llegar a final de mes\" y ha considerado que la subida media de los sueldos no es suficiente todavía para millones de familias. Ha calificado como \"un escándalo\" la situación de la vivienda, que \"condena\" a la juventud: \"Es un polvorín social\", ha dicho.En todo el país, miles de personas se han sumado a las más de cien manifestaciones convocadas por CCOO y UGT este Primero de Mayo, bajo el lema \"Derechos, no trinchera. Salarios, vivienda y democracia\".El presidente del Gobierno, Pedro Sánchez, ha celebrado los avances conseguidos en los derechos de los trabajadores y ha destacado que estos han sido compatibles con unos niveles de creación de empleo récord. \"Hubo un tiempo donde los derechos eran un privilegio. Hoy sabemos que muchas cosas no eran imposibles y que empleo y derechos pueden ir de la mano\", ha destacado en un mensaje en redes sociales donde felicita el Primero de Mayo.Sánchez apunta que España es el país de la Unión Europea que más crece, con 22 millones de personas ocupadas y un salario mínimo que duplica el de hace tan solo una década. \"Hemos avanzado mucho subiendo el SMI, reduciendo la temporalidad, con la reforma laboral, protegiendo el empleo, impulsando la corresponsabilidad entre hombres y mujeres\", añade.Por su parte, la portavoz del Gobierno y ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha garantizado que en España se va a seguir avanzando en derechos laborales y en protección social \"sin dar un paso atrás\". Saiz, que ha participado en la manifestación central, ha dicho a los periodistas que continuarán trabajando para que España \"siga siendo un país próspero, de la mano del diálogo social\". Ha recordado que \"ha costado mucho llegar hasta aquí\" y ha afirmado que se va a \"garantizar\" el crecimiento.La oposición ha aprovechado la ocasión para cargar contra el Gobierno. El líder del PP, Alberto Núñez Feijóo, ha acusado al Ejecutivo de convertir el trabajo en \"una carrera de obstáculos\" y ha asegurado que con su partido merecerá la pena \"volver a trabajar\", insistiendo en que \"trabajar ha de servir para vivir, no sólo para pagar\".En un vídeo difundido a través de la red social X, Feijóo ha señalado que el 1 de Mayo es el día de todos los trabajadores, pero especialmente \"de los que madrugan, emprenden, cotizan y no llegan a fin de mes\", criticando que el Ejecutivo gane más \"cuando las familias llegan con menos\".España necesita un cambio, ha dicho, \"para devolver el sentido del esfuerzo\" y por eso el PP hará \"que valga la pena volver a trabajar\"Con la mirada puesta en la cuestión habitacional, la vicepresidenta segunda del Gobierno y ministra de Trabajo y Economía Social, Yolanda Díaz, ha anunciado que volverán a llevar al Congreso el decreto que prorroga los alquileres \"en defensa de la gente trabajadora\" y de \"miles de personas humildes\" después de que \"las tres derechas lo tiraran\" en la Cámara Baja.Díaz ha lanzado un mensaje \"alto y claro\" para defender a quienes \"levantan España con sus manos\". Ha rechazado la \"resignación\" y ha pedido que la gente salga a movilizarse porque \"los derechos se ganan en las calles también\", y ha enviado \"un mensaje de optimismo\" porque el Gobierno va a \"seguir trabajando para defender a la clase trabajadora\" y, en materia de alquileres, lo van a \"volver a hacer\".En la misma línea, el ministro de Cultura y portavoz de Sumar, Ernest Urtasun, ha hecho un llamamiento a la movilización ciudadana para luchar por el derecho a la vivienda y para que el decreto \"sea permanente\". En el inicio de la manifestación que recorría el centro de Barcelona, Urtasun aseguraba, en declaraciones a los periodistas, que \"hoy salimos a la calle con el derecho a la vivienda como cuestión central\"."
-  },
-  {
-    "titulo": "Irán envía una nueva propuesta de negociaciones de paz a Estados Unidos",
-    "medio": "La Vanguardia",
-    "fecha": 1777640685.0,
-    "link": "https://www.lavanguardia.com/internacional/20260501/11527614/iran-envio-ultima-propuesta-estados-unidos-traves-mediadores-paquistanies.html",
-    "resumen": "Las negociaciones para terminar la guerra se encuentran actualmente estancadas"
   },
   {
     "titulo": "Ni short, ni pitillo: Mango lanza el pantalón más elegante pura tendencia en primavera y perfecto para los looks de entretiempo",
@@ -714,18 +763,18 @@
     "resumen": "Countless influencers and quack positive-thinking gurus tell us that success is all a matter of individual effort. International Workers’ Day reminds us that individuals are happiest when we have others standing alongside us."
   },
   {
+    "titulo": "Irán envía una nueva propuesta de negociaciones de paz a EEUU",
+    "medio": "El Independiente",
+    "fecha": 1777640361.0,
+    "link": "https://www.elindependiente.com/internacional/2026/05/01/iran-envia-nueva-propuesta-negociaciones-paz-eeuu/",
+    "resumen": "Irán ha enviado a Estados Unidos una nueva propuesta de negociación de paz a través de Pakistán, según ha informado […]"
+  },
+  {
     "titulo": "Cerámica para Pedro Sánchez, payasos y un partido de fútbol: los campos de refugiados saharauis se abren a España",
     "medio": "El Independiente",
     "fecha": 1777638876.0,
     "link": "https://www.elindependiente.com/internacional/2026/05/01/ceramica-pedro-sanchez-payasos-partido-futbol-campos-refugiados-saharauis-abren-espana/",
     "resumen": "Los campamentos de refugiados saharauis en Tinduf (Argelia) hierven con cultura. Estos días se celebra el Festival Internacional de Cine […]"
-  },
-  {
-    "titulo": "Declaran culpable al cofundador de la marca británica Superdry de violar a una mujer en su domicilio",
-    "medio": "La Vanguardia",
-    "fecha": 1777638858.0,
-    "link": "https://www.lavanguardia.com/gente/20260501/11527609/declaran-culpable-cofundador-marca-britanica-superdry-violar-mujer-domicilio.html",
-    "resumen": "Los hechos sucedieron en la madrugada del 7 de mayo de 2022 tras una salida nocturna en Cheltenham, en el suroeste de Inglaterra"
   },
   {
     "titulo": "Ni Skechers ni New Balance: estas son las Asics 'lima limón' híper cómodas que sí recomiendan los podólogos expertos",
@@ -735,32 +784,11 @@
     "resumen": "Cuando buscamos deportivas poniendo por delante la comodidad, Skechers o New Balance suelen ser la primera parada. Sin embargo, este experto podólogo las ha dado solo un aprobado raspado, alegando que hay unas zapatillas de tendencia que son muchísimo más respetuosas con la pisada (además de bonitas). Estas Asics han ganado. Este podólogo experto categoriza deportivas en función de lo adecuadas que son para una pisada natural. En el ranking, nos recuerda que las Adidas Samba son horribles para los pies, algo que ya sabíamos. Pero también nos descubre que las Skechers no son tan maravillosas como creíamos y que hay mejores, como estas Asics Kayano. Según él, las Asics Kayano \"son la dosis justa de amortiguación y estabilidad, ideales si tienes sobrepeso o eres pronador\". Es decir, que son tan confortables y se adecúan tanto a la forma de nuestro paso que sirven incluso si tu pisada se apoya más en el interior que en el exterior, algo bastante común. Lo que el podólogo no cuenta es que, además de saludables, son preciosas. El nuevo lanzamiento de Kayano viene en colores veraniegos, ácidos y refrescantes, con detalles en lima limón que aligerarán cualquier look de la temporada de calor con absoluto confort. Ideales para viajar, hacer turismo, caminar horas y no tener dolor de pies, incluso cuando se hinchan por el aumento de temperaturas. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | @laurenladnier, @podomanu, El Corte Inglés. En Trendencias | Cómo lavar las zapatillas en la lavadora sin que se estropeen: el trucazo de mi madre para que queden impecables. - La noticia Ni Skechers ni New Balance: estas son las Asics 'lima limón' híper cómodas que sí recomiendan los podólogos expertos fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "Los mini PC con hasta 24 GB de RAM que más convencen ahora",
-    "medio": "La Vanguardia",
-    "fecha": 1777636800.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260501/11524297/mini-pc-24-gb-ram-mas-convenciendo-2026-espacio-potencia-precio-mkt-alie.html",
-    "resumen": "Equipos compactos que encajan muy bien si quieres despejar la mesa sin renunciar a una experiencia fluida para trabajar, estudiar o montar un setup limpio"
-  },
-  {
-    "titulo": "Flick: “Creo al 100% que podemos competir con el Bayern y el PSG”",
-    "medio": "La Vanguardia",
-    "fecha": 1777636619.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260501/11527563/flick-creo-100-competir-bayern-psg.html",
-    "resumen": "El técnico alemán no quiere hablar de celebraciones ni de récord de 100 puntos: “Solo hemos ganado una Liga, vamos bien para la segunda, pero hay que ganar más partidos más”"
-  },
-  {
     "titulo": "Montero se manifiesta junto a Díaz y los líderes de CCOO y UGT por el día del trabajador y lamenta que la vivienda sea \"un bien de lujo\"",
     "medio": "El Independiente",
     "fecha": 1777636445.0,
     "link": "https://www.elindependiente.com/espana/2026/05/01/montero-manifiesta-diaz-lideres-ccoo-ugt-dia-trabajador-lamenta-vivienda-bien-lujo/",
     "resumen": "La secretaria general del PSOE andaluz, María Jesús Montero, ha participado este viernes en Málaga en la manifestación del Primero […]"
-  },
-  {
-    "titulo": "Una 'rave' en un terreno militar de alto riesgo reúne a miles de personas en Francia",
-    "medio": "La Vanguardia",
-    "fecha": 1777636116.0,
-    "link": "https://www.lavanguardia.com/internacional/20260501/11527591/rave-terreno-militar-alto-riesgo-reune-miles-personas-francia.html",
-    "resumen": "Las autoridades han contabilizado más de 2.000 vehículos en una zona con posible presencia de municiones sin explotar"
   },
   {
     "titulo": "Sánchez celebra la entrada en vigor de Mercosur como una de las \"mayores áreas de libre comercio del mundo\"",
@@ -782,20 +810,6 @@
     "fecha": 1777634617.0,
     "link": "https://www.europapress.es/nacional/noticia-robles-pide-respeto-espana-advertencias-trump-aliados-no-cumplen-objetivos-defensa-20260501132337.html",
     "resumen": "La ministra de Defensa, Margarita Robles, ha reclamado \"respeto\" para España y ha reivindicado el compromiso \"firme\" del país con la OTAN y con la paz en el mundo, al ser preguntada por las advertencias del presidente de Estados Unidos, Donald Trump, a los aliados que no cumplen los objetivos de gasto en Defensa."
-  },
-  {
-    "titulo": "Otra denuncia contra un conserje de un colegio de Torelló por abuso sexual a un menor",
-    "medio": "La Vanguardia",
-    "fecha": 1777634603.0,
-    "link": "https://www.lavanguardia.com/sucesos/20260501/11527557/denuncia-conserje-colegio-torello-abuso-sexual-menor.html",
-    "resumen": "El hombre fue detenido tras conocerse una primera denuncia por los mismos hechos pero quedó en libertad provisional"
-  },
-  {
-    "titulo": "La M-607 estrena tercer carril justo en el puente de mayo",
-    "medio": "Moncloa.com",
-    "fecha": 1777633500.0,
-    "link": "https://www.moncloa.com/2026/05/01/tercer-carril-m607-puente-mayo-3374631/",
-    "resumen": "El tercer carril de la M-607 abre su primer tramo entre Tres Cantos y Colmenar coincidiendo con la operación salida del puente de mayo. La entrada La M-607 estrena tercer carril justo en el puente de mayo aparece primero en Moncloa."
   },
   {
     "titulo": "5 curiosidades que seguro no conocías de ‘El Diablo viste de Prada 2’",
