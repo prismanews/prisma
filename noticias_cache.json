@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Anthropic acaba de dejar atrás el mayor lastre de Claude. Lo ha conseguido tras sellar una alianza con SpaceX de Elon Musk",
+    "medio": "Xataka",
+    "fecha": 1778108280.0,
+    "link": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-dejar-atras-mayor-lastre-claude-ha-conseguido-sellar-alianza-spacex-elon-musk",
+    "resumen": "Hay pocas cosas más frustrantes que encontrar una herramienta que encaja casi exactamente con lo que necesitamos y descubrir, justo cuando empezamos a sacarle partido, que no podemos seguir usándola al mismo ritmo. Claude se ha ganado un lugar destacado entre quienes usan la inteligencia artificial para programar, analizar documentos o trabajar con tareas exigentes, pero también ha arrastrado una queja muy concreta: sus límites de uso. No hablamos de una molestia menor, sino de una fricción capaz de romper el flujo de trabajo. Anthropic ha decidido atacar el problema. La compañía liderada por Dario Amodei anunció una subida de los límites de Claude Code y de la API de Claude, apoyándose en una nueva alianza con SpaceXAI. El pacto le dará acceso a Colossus 1, una infraestructura que Anthropic presenta como una vía para mejorar directamente la experiencia de sus usuarios más intensivos. La promesa, por ahora, es clara: más margen para usar Claude sin que la demanda le pase factura tan rápido. La tensión con los límites. El ajuste que ayuda a entender esta noticia llegó unas semanas antes. Anthropic modificó recientemente sus límites temporales para gestionar mejor la demanda durante las horas punta. En la práctica, eso significaba que las sesiones de cinco horas podían consumirse antes de que pasaran esas cinco horas reales si el uso se producía en las franjas de mayor demanda. El cambio afectaba especialmente a quienes hacían un uso más intenso de Claude. Más margen para usar Claude. Anthropic concreta la mejora en tres cambios que, según la compañía, entran en vigor inmediatamente. El primero es la duplicación de los límites de cinco horas de Claude Code para los planes Pro, Max, Team y Enterprise por asiento. El segundo es la eliminación de la reducción de límites en horas punta para Claude Code en las cuentas Pro y Max. El tercero afecta a la API: Anthropic asegura que ha elevado de forma considerable los límites de uso para los modelos Claude Opus, aunque el alcance exacto depende de la tabla de límites publicada por la propia compañía. El músculo de Colossus 1. El acuerdo con SpaceXAI es la pieza más llamativa del anuncio porque Anthropic asegura que podrá usar toda la capacidad de cómputo del centro de datos Colossus 1. Según la compañía, eso supone más de 300 megavatios de nueva capacidad y más de 220.000 GPU NVIDIA que estarán disponibles en el plazo de un mes. SpaceXAI también detalla que el clúster incluye despliegues de H100, H200 y aceleradores GB200. La transformación continúa. SpaceXAI no aparece en este acuerdo como una simple etiqueta nueva dentro del ecosistema de SpaceX. El contexto, Elon Musk señaló que “xAI se disolverá como compañía independiente” y que sus productos de inteligencia artificial pasarán a integrarse bajo SpaceXAI. La frase ayuda a entender por qué Anthropic habla de esta marca al explicar su nuevo acceso a capacidad de cómputo. Eso sí, para evitar confusiones, lo anunciado por Anthropic no es una compra ni una fusión, sino un acuerdo para usar infraestructura de IA. En Xataka Bill Gates sobre la IA: \"Sobreestimamos lo que pasará en los próximos dos años y subestimamos qué ocurrirá en los siguientes diez\" No es un acuerdo aislado. Anthropic también quiso enmarcar la alianza con SpaceXAI dentro de una estrategia de capacidad mucho más amplia. La compañía recuerda un acuerdo de hasta 5 GW con Amazon, que incluye casi 1 GW de nueva capacidad para finales de 2026, y otro pacto de 5 GW con Google y Broadcom que empezará a entrar en funcionamiento en 2027. A eso suma una alianza estratégica con Microsoft y NVIDIA, con 30.000 millones de dólares de capacidad en Azure, y una inversión de 50.000 millones de dólares en infraestructura de IA en Estados Unidos con Fluidstack. La parte más futurista. El acuerdo también incluye una derivada mucho más especulativa. Anthropic afirma que, como parte del pacto, ha expresado interés en colaborar con SpaceXAI para desarrollar varios gigavatios de capacidad de cómputo orbital. SpaceXAI lo presenta como una posible respuesta a la presión que la IA está ejerciendo sobre la energía, el suelo y la refrigeración en tierra, pero por ahora estamos lejos de algo tangible. Eso sí, esa vía solo tendría sentido si antes se superan importantes retos de ingeniería. El reto real. Anthropic ha puesto sobre la mesa una respuesta directa a una de las grandes quejas alrededor de Claude, aunque todavía falta la parte más importante: comprobar cómo se nota en el uso real. Los nuevos límites y la capacidad adicional de SpaceXAI parecen apuntar en la dirección correcta para quienes trabajan de forma intensiva con estos servicios. La mejora, por tanto, abre una nueva fase: la de comprobar si Claude puede ofrecer más margen sin que sus usuarios vuelvan a encontrarse demasiado pronto con el mismo muro. Imágenes | Xataka con Nano Banana En Xataka | La “economía de los tokens” se ha roto: las tarifas planas de IA para programar son matemáticamente insostenibles - La noticia Anthropic acaba de dejar atrás el mayor lastre de Claude. Lo ha conseguido tras sellar una alianza con SpaceX de Elon Musk fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Critican a una influencer por decir \"me valió\": su respuesta deberían ponerla en los colegios de toda España",
+    "medio": "HuffPost",
+    "fecha": 1778107775.0,
+    "link": "https://www.huffingtonpost.es/virales/critican-influencer-decir-me-valio-respuesta-deberian-ponerla-colegios-toda-espana-f202605.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "‘Horizonte’ desvela lo que «no ha dicho nadie» sobre el barco con hantavirus",
+    "medio": "OK Diario",
+    "fecha": 1778106572.0,
+    "link": "https://okdiario.com/cool/horizonte-desvela-lo-que-no-dicho-medio-sobre-barco-hantavirus-16748086",
+    "resumen": "Un día más, Horizonte se ha vuelto a volcar en la alerta sanitaria internacional provocada por un brote de hantavirus a bordo de un crucero con destino a las Islas Canarias. Veinticuatro horas después de que el programa de Cuatro mostrase unas imágenes en exclusiva de cómo se trasladaban a pacientes enfermos del crucero, Iker … Continuar leyendo \"‘Horizonte’ desvela lo que «no ha dicho nadie» sobre el barco con hantavirus\""
+  },
+  {
+    "titulo": "Alivia las piernas y reduce la retención con las mejores máquinas de presoterapia",
+    "medio": "The Objective",
+    "fecha": 1778105400.0,
+    "link": "https://theobjective.com/productos-recomendados/2026-05-07/mejores-maquinas-de-presoterapia/",
+    "resumen": "Si buscas una forma efectiva y natural de mejorar tu salud, bienestar y apariencia, las máquinas de presoterapia son la solución ideal. Este innovador tratamiento no […]"
+  },
+  {
+    "titulo": "Bélgica embarga 840 millones a España por los impagos a las renovables de Sánchez",
+    "medio": "OK Diario",
+    "fecha": 1778104896.0,
+    "link": "https://okdiario.com/economia/belgica-embarga-840-millones-espana-impagos-renovables-sanchez-16745214",
+    "resumen": "El Gobierno de Pedro Sánchez suma y sigue por los impagos a las renovables, estrategia seguida por el Ejecutivo para intentar reducir la factura a pagar por la pérdida de decenas de arbitrajes en los tribunales internacionales por el recorte unilateral en 2010 y 2013 de las primas a las inversiones en energías renovables. Tras … Continuar leyendo \"Bélgica embarga 840 millones a España por los impagos a las renovables de Sánchez\""
+  },
+  {
+    "titulo": "Eufórico Luis Enrique: «Hicimos historia el año pasado y queremos continuarla»",
+    "medio": "OK Diario",
+    "fecha": 1778104734.0,
+    "link": "https://okdiario.com/deportes/euforico-luis-enrique-hicimos-historia-ano-pasado-queremos-continuarla-16747990",
+    "resumen": "Luis Enrique celebró con plena euforia el pase de su PSG a la segunda final de su historia en la Champions League, las dos seguidas en 2025 y 2026. El entrenador español es el protagonista de la época más gloriosa del club francés, que de ganar al Arsenal el próximo 30 de mayo en Budapest … Continuar leyendo \"Eufórico Luis Enrique: «Hicimos historia el año pasado y queremos continuarla»\""
+  },
+  {
+    "titulo": "Última hora del brote de hantavirus, en directo | Interior informa de que la evacuación en Canarias del crucero con pasajeros confinados por hantavirus será el lunes",
+    "medio": "El País",
+    "fecha": 1778104501.0,
+    "link": "https://elpais.com/sociedad/2026-05-06/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html",
+    "resumen": "Los 14 españoles del crucero serán examinados y trasladados al hospital militar de Madrid | Aterriza en Ámsterdam el primer vuelo con afectado"
+  },
+  {
+    "titulo": "Brote de hantavirus, en directo: llegada del crucero a Canarias, número de casos, qué es, síntomas y última hora en España",
+    "medio": "OK Diario",
+    "fecha": 1778104460.0,
+    "link": "https://okdiario.com/espana/hantavirus-posible-destino-del-crucero-canarias-directo-que-sabe-sintomas-tratamiento-ultima-hora-contagios-hoy-16739798",
+    "resumen": "El Gobierno español ha confirmado que permitirá la llegada a Canarias del crucero afectado por un brote de hantavirus, tras la recomendación de la Organización Mundial de la Salud (OMS). En el crucero viajan 14 españoles (de seis CCAA), de un total de 149 personas a bordo donde 88 son pasajeros y 61 tripulantes (de 23 … Continuar leyendo \"Brote de hantavirus, en directo: llegada del crucero a Canarias, número de casos, qué es, síntomas y última hora en España\""
+  },
+  {
+    "titulo": "Pensábamos que Linux era un sistema operativo “blindado”: una vulnerabilidad acaba de sacudir casi todas sus versiones",
+    "medio": "Xataka",
+    "fecha": 1778104261.0,
+    "link": "https://www.xataka.com/seguridad/pensabamos-que-linux-era-especialmente-seguro-vulnerabilidad-acaba-sacudir-casi-todas-sus-versiones",
+    "resumen": "Linux tiene fama de sistema robusto. No invulnerable, claro, pero sí especialmente resistente, hasta el punto de haberse convertido en una de las bases silenciosas de Internet, de los servidores empresariales y de muchos entornos donde la seguridad es parte del contrato. Por eso una vulnerabilidad como CopyFail resulta especialmente seria: no hablamos de un fallo menor en una aplicación aislada, sino de un problema en el kernel que puede permitir que alguien que ya ejecuta código con pocos permisos acabe obteniendo acceso root. CopyFail. La vulnerabilidad, identificada como CVE-2026-31431, salió a la luz cuando la firma Theori hizo públicos los detalles del fallo y el código de explotación tras haber avisado cinco semanas antes al equipo de seguridad del kernel de Linux. Ese matiz temporal es importante porque el kernel ya había recibido parches en varias ramas, desde 7.0 hasta 5.10.254. Lo que no había ocurrido todavía, al menos de forma generalizada, era su traslado efectivo a muchas distribuciones Linux. De qué estamos hablando. CopyFail es una escalada local de privilegios. No significa que cualquiera pueda atacar desde fuera una máquina Linux sin más, sino que alguien que ya puede ejecutar código dentro del sistema con permisos limitados, por ejemplo desde una cuenta normal, un servicio web comprometido, un contenedor o un trabajo de CI/CD, puede intentar escalar hasta root. En Linux, root es la cuenta con control administrativo completo. Por eso el riesgo no está en la primera puerta de entrada, sino en lo que ocurre justo después: un acceso acotado puede convertirse en control del sistema. Un exploit demasiado fiable. Hay otro elemento que explica la alarma. Muchas vulnerabilidades del kernel dependen de condiciones muy concretas para funcionar, como una corrupción de memoria que puede variar según la versión, la distribución o incluso la máquina. CopyFail parte de un fallo lógico en la API criptográfica del kernel, y eso cambia el terreno. Los investigadores de Bugcrowd explican que al tratarse de un fallo lógico, el exploit no depende de ajustes internos tan específicos, un rasgo que reduce la fricción para los atacantes y complica el trabajo de los defensores. En Xataka El phishing ya nos había desbordado por los canales digitales: ahora está empezando a llegar por cartas físicas El parche. El caso también deja una lección sobre cómo se coordinan las vulnerabilidades en Linux. Como mencionamos arriba, Theori comunicó el fallo al equipo de seguridad del kernel cinco semanas antes de darlo a conocer públicamente. El problema es que, para la mayoría de los usuarios, las correcciones no llegan directamente, sino a través de distribuciones que empaquetan, prueban y publican sus propios parches o mitigaciones. Cuando el exploit se hizo público, ese proceso aún no había terminado en muchas distribuciones o versiones, dejando una ventana de exposición difícil de ignorar. Situación actual. Con los días, parte del ecosistema ha empezado a cerrar la brecha, pero no de una forma uniforme. Al momento de publicar este artículo, distribuciones como Debian, Arch, Fedora, SUSE y Amazon Linux ya habían publicado parches o avisos para determinadas ramas, mientras que Ubuntu insistía en actualizar el sistema y aplicar mitigaciones si el kernel corregido aún no estaba disponible o no se había cargado tras un reinicio. Imágenes | Xataka con Nano Banana En Xataka | El Banco Central Europeo le ha echado un vistazo a Mythos y ha tomado una decisión: prepararse para el peor de los escenarios - La noticia Pensábamos que Linux era un sistema operativo “blindado”: una vulnerabilidad acaba de sacudir casi todas sus versiones fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "El PSG, rey del ataque, defiende como nadie y se clasifica para la final de la Champions",
+    "medio": "El País",
+    "fecha": 1778103981.0,
+    "link": "https://elpais.com/deportes/futbol/2026-05-06/el-psg-rey-del-ataque-defiende-como-nadie-y-se-clasifica-para-la-final-de-la-champions.html",
+    "resumen": "El equipo de Luis Enrique, con un gol de Dembélé y una exhibición en el arte de la presión en bloque bajo, frustra al Bayern en el Allianz Arena"
+  },
+  {
+    "titulo": "España bloquea la salida del avión con pacientes de hantavirus en Gran Canaria: no autoriza otro \"equipo burbuja\"",
+    "medio": "HuffPost",
+    "fecha": 1778103949.0,
+    "link": "https://www.huffingtonpost.es/politica/espana-bloquea-salida-avion-pacientes-hantavirus-gran-canaria-autoriza-equipo-burbuja-f202605.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La Policía Municipal de Madrid descubre 600 kilos de cocaína tras perseguir a un coche sospechoso en Puente de Vallecas",
+    "medio": "El Mundo",
+    "fecha": 1778103703.0,
+    "link": "https://www.elmundo.es/madrid/2026/05/06/69fbadc921efa0c2358b459d.html",
+    "resumen": "Los agentes detuvieron a uno de los ocupantes del coche donde hallaron además un arma tipo fusil Leer"
+  },
+  {
     "titulo": "Punto y final para ‘The Bear’: la temporada 5 será la última y tiene fecha de estreno",
     "medio": "Hipertextual",
     "fecha": 1778103600.0,
@@ -12,20 +96,6 @@
     "fecha": 1778103449.0,
     "link": "https://okdiario.com/deportes/asi-son-cuentas-futbol-espanol-obtener-quinta-plaza-champions-manos-del-rayo-16739905",
     "resumen": "La quinta plaza de Champions League para el fútbol español depende del Rayo Vallecano. La eliminación del Atlético en las semifinales de la Champions League ante el Arsenal hace que España dependa del conjunto vallecano, que este jueves se juega el pase a la final de la Conference League ante el Estrasburgo. Una victoria madrileña … Continuar leyendo \"Así son las cuentas para el fútbol español para obtener la quinta plaza de la Champions: en manos del Rayo\""
-  },
-  {
-    "titulo": "Bayern Múnich - PSG en directo | El PSG hace bueno el 5-4 de la ida y se medirá en la final de la Champions contra el Arsenal",
-    "medio": "El País",
-    "fecha": 1778103342.0,
-    "link": "https://elpais.com/deportes/futbol/2026-05-06/bayern-munich-psg-en-directo-el-partido-de-vuelta-de-las-semifinales-de-la-champions-league-en-vivo.html",
-    "resumen": "Dembélé adelantó al PSG en el minuto 3 y Kane igualó la contienda con un gol en el 93"
-  },
-  {
-    "titulo": "Última hora del brote de hantavirus, en directo | Interior informa de que la evacuación en Canarias del crucero con pasajeros confinados por hantavirus será el lunes",
-    "medio": "El País",
-    "fecha": 1778103041.0,
-    "link": "https://elpais.com/sociedad/2026-05-06/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html",
-    "resumen": "Los 14 españoles del crucero serán examinados y trasladados al hospital militar de Madrid | Aterriza en Ámsterdam el primer vuelo con afectado"
   },
   {
     "titulo": "El día que una isla del Caribe entró en pánico con la visita de Jeff Bezos. Su historial de compras hizo saltar todas las alarmas",
@@ -91,39 +161,11 @@
     "resumen": "Después del partidazo que firmaron el PSG y el Bayern de Múnich en París la pasada semana estos dos equipos se vuelven a ver las caras, esta vez en la vuelta de las semifinales de la Champions League, que será decisivo. Sólo puede quedar uno y el conjunto de Luis Enrique, que es el vigente … Continuar leyendo \"Resultado Bayern de Múnich – PSG hoy: resumen, cómo ha quedado y quién ha ganado el partido de semifinales de la Champions League\""
   },
   {
-    "titulo": "Qué equipos jugarán la final de la Champions League: cuándo es, dónde se juega y cómo ver por televisión gratis",
-    "medio": "OK Diario",
-    "fecha": 1778101812.0,
-    "link": "https://okdiario.com/deportes/que-equipos-jugaran-final-champions-league-cuando-donde-juega-como-ver-television-gratis-16738596",
-    "resumen": "La final de la Champions League 2025/26 ya tiene a sus dos equipos confirmados. Uno es el Arsenal inglés, que ha eliminado al Atlético de Madrid en semifinales. El conjunto de Londres ganó por 1-0 al club español en el Emirates en el partido de vuelta y ha llegado a su segunda final de su … Continuar leyendo \"Qué equipos jugarán la final de la Champions League: cuándo es, dónde se juega y cómo ver por televisión gratis\""
-  },
-  {
     "titulo": "El contrabando de tabaco ahoga a Francia y 600 centros sanitarios cambian de idea: el vaper es eficaz para dejar de fumar",
     "medio": "HuffPost",
     "fecha": 1778101379.0,
     "link": "https://www.huffingtonpost.es/sociedad/el-contrabando-tabaco-ahoga-francia-600-centros-sanitarios-cambian-idea-vaper-eficaz-dejar-fumar-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El fútbol español hace historia en la Champions League con dos entrenadores en la final",
-    "medio": "OK Diario",
-    "fecha": 1778101319.0,
-    "link": "https://okdiario.com/deportes/futbol-espanol-hace-historia-champions-league-dos-entrenadores-final-16747566",
-    "resumen": "Luis Enrique y Mikel Arteta pondrán la nota española en la final de la Champions League 2026, siendo la primera vez en la que dos entrenadores de nuestro país se jugarán el título en la máxima competición continental. Budapest acogerá esta final inédita entre París Saint-Germain y Arsenal en la que será también la primera … Continuar leyendo \"El fútbol español hace historia en la Champions League con dos entrenadores en la final\""
-  },
-  {
-    "titulo": "Arsenal y PSG jugarán la final de la Champions League el 30 de mayo en Budapest",
-    "medio": "OK Diario",
-    "fecha": 1778101300.0,
-    "link": "https://okdiario.com/deportes/arsenal-psg-jugaran-final-champions-league-30-mayo-budapest-16746796",
-    "resumen": "Arsenal y PSG jugarán la final de la Champions League 2025-26. Desde este miércoles ya conocemos los dos finalistas que buscarán el título más importante de cada temporada. El partido por el título se jugará el próximo 30 de mayo en Budapest (18:00 horas) y enfrentará a los equipos dirigidos por los dos entrenadores españoles … Continuar leyendo \"Arsenal y PSG jugarán la final de la Champions League el 30 de mayo en Budapest\""
-  },
-  {
-    "titulo": "El PSG supera la trampa de Múnich, resiste ante el Bayern y repite final de Champions",
-    "medio": "OK Diario",
-    "fecha": 1778101296.0,
-    "link": "https://okdiario.com/deportes/psg-supera-trampa-munich-resiste-bayern-repite-final-champions-16746810",
-    "resumen": "El PSG superó la trampa de Múnich y el Allianz Arena con un tempranero gol de Dembélé y una fantástica actuación defensiva de todo el equipo de Luis Enrique que desactivó a un Bayern más flojo que en otras ocasiones. Kane empató el partido en el 94, pero ya era demasiado tarde. El París Saint-Germain … Continuar leyendo \"El PSG supera la trampa de Múnich, resiste ante el Bayern y repite final de Champions\""
   },
   {
     "titulo": "Zara estrena en mayo cinco chaquetas de entretiempo ideales para llevar con vestidos, pantalones y faldas esta primavera 2026",
@@ -236,13 +278,6 @@
     "fecha": 1778097993.0,
     "link": "https://elpais.com/espana/2026-05-06/el-juicio-de-las-mascarillas-visto-para-sentencia-la-fiscalia-da-por-probada-una-trama-criminal-con-abalos-en-la-cuspide.html",
     "resumen": "El exministro lamenta su “presunción de culpabilidad” y dice ser víctima de un “proceso inquisitorial”"
-  },
-  {
-    "titulo": "El candidato de Vox en Andalucía llama «estúpida» a la socialista Montse Mínguez",
-    "medio": "The Objective",
-    "fecha": 1778097885.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-06/candidato-vox-andalucia-estupida-montse-minguez/",
-    "resumen": "El candidato de Vox a la Presidencia de la Junta de Andalucía, Manuel Gavira, ha llamado «estúpida» este miércoles a la portavoz de la Ejecutiva del […]"
   },
   {
     "titulo": "El crucero con los pasajeros confinados por hantavirus va rumbo a Canarias, mientras se pierde el rastro de otros 23",
@@ -362,20 +397,6 @@
     "fecha": 1778094949.0,
     "link": "https://www.expansion.com/catalunya/2026/05/06/69fb89ab468aeb844f8b4585.html",
     "resumen": "La histórica empresa barcelonesa, propiedad desde 2008 de Aernnova Aerospace, entra en proceso de liquidación y quiere despedir a sus 185 empleados. Leer"
-  },
-  {
-    "titulo": "Qué se sabe de la rotura de la burbuja de aislamiento en el avión que transportaba a dos evacuados del 'crucero del hantavirus'",
-    "medio": "HuffPost",
-    "fecha": 1778094348.0,
-    "link": "https://www.huffingtonpost.es/sociedad/que-rotura-burbuja-aislamiento-avion-transportaba-dos-evacuados-crucero-hantavirus-f202605.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Guillermo Antiñolo, ginecólogo del Virgen del Rocío (69 años): \"La política es uno de los principales problemas que tiene la medicina pública\"",
-    "medio": "HuffPost",
-    "fecha": 1778094300.0,
-    "link": "https://www.huffingtonpost.es/politica/guillermo-antinolo-ginecologo-virgen-rocio-69nos-la-politica-principales-problemas-medicina-publica-f202605.html",
-    "resumen": ""
   },
   {
     "titulo": "El James Webb acaba de avistar lo imposible: una galaxia primitiva que ha dejado de girar mucho antes de lo previsto",
@@ -574,13 +595,6 @@
     "resumen": "Terzic se hizo viral cuando se publicó una foto suya en la grada con la bufanda del Borussia Dortmund al cuello celebrando el título de Bundesliga en la temporada 2011-12Cambio histórico en la Quiniela: incluirá cuatro partidos de la Liga F desde la próxima temporada Después de especulaciones tras anunciar la marcha de Ernesto Valverde al final de la temporada, el Athletic Club ha confirmado la llegada de Edin Terzic como sustituto en el banquillo para las dos próximas campañas, convirtiéndose así en el segundo alemán en la historia del equipo tras Jupp Heynckes y el segundo también en Laliga junto a Hansi Flick en el FC Barcelona. El entrenador, de 43 años, ofrece un perfil interesante, ya que ha tenido el Borussia Dortmund como único equipo, donde fue “hombre de la casa” y al que llevó a la final de Champions League en 2024, aunque también genera incertidumbre por ser su primera experiencia fuera del fútbol alemán y lleva desde que salió del conjunto germano sin entrenar. Su insólita carrera en el Borussia Dortmund: de aficionado a entrenador Su carrera en el Borussia Dortmund fue toda una historia, pasando de aficionado al banquillo. Al equipo llegó como analista en la era de Jurgen Klopp, para luego ser asistente de Hannes Wolf trabajando entre el juvenil y el filial. En su primera etapa como entrenador del primer equipo, como interino, logró la Copa en 2021, pero sería en su segunda cuando llegó a su punto álgido al jugar la final de la Liga de Campeones en 2024, lo que le llevó a ser uno de los nombres emergentes en el fútbol europeo. Su éxito en el Dortmund fue visto como un logro de la motivación al conseguir levantar a un equipo que pasó de perder la Bundesliga en el último momento en 2023 a casi levantar la Champions League en Wembley. El hecho de haber comenzado desde las gradas le conecta con un fútbol de sentimiento identitario, lo que lo vincula a la cultura del Athletic Club. “Nací a 30 kilómetros aquí y vine al estadio, por primera vez, con 9 años. He sido aficionado del Borussia Dortmund toda mi vida. Soy de esta región y todo su pasado me ha moldeado”, reconoce Terzic, que se hizo viral cuando se publicó una foto suya en la grada con la bufanda al cuello celebrando el título de Bundesliga en la temporada 2011-12. Edin Terzic, además, tiene una historia personal peculiar. Su origen es balcánico, hijo de inmigrantes que escaparon de la guerra en los Balcanes, con padre bosnio y madre croata. Antes de entrenador, además, fue jugador, delantero, aunque no pasó del fútbol regional, sin haber salido del estado de Renania del Norte-Westfalia, en equipos como el Iserlohn, SC Westfalia 04 Herne, SG Wattenscheid 09 o FC Borussia Dröschede, de donde se retiró en 2013. Cómo jugará el Athletic de Terzic Sin experiencia previa en el fútbol español, hay cierta incertidumbre por como puede ser su Athletic Club. Si tenemos en cuenta lo que ofreció en el Borussia Dortmund, su estilo está basado en la intensidad, la presión alta y las transiciones rápidas. Tiene gran capacidad para adaptar su esquema según el rival, siendo un equipo dinámico. Su enfoque prioriza la solidez defensiva en bloque medio para explotar luego la velocidad por las bandas, un hecho que encajaría perfectamente en un equipo con jugadores como los hermanos Williams. A esto se une que desde Alemania destacan su liderazgo cercano y su habilidad para potenciar jóvenes talentos, un hecho que también tiene relevancia en un club con una cantera como la del Athletic. El segundo alemán en la historia del Athletic La llegada de Edin Terzic al Athletic sería el objetivo cumplido del alemán, pues aseguraron que quería entrenar en Laliga y que incluso se había tomado un año sabático para aprender español, un hecho que se podría comprobar en su presentación con el equipo. No será el primer técnico procedente de Alemania en Bilbao, porque ese dato corresponde a Jupp Heynckes durante dos etapas, en 1992-1994 y 2001-2003, y dejó un recuerdo de elegancia y profesionalidad. Heynckes dejó también huella en el fútbol español al ganar la séptima copa de Europa para el Real Madrid en 1998 tras 32 años de sequía. Más allá de nombres actuales como Flick, otros ilustres germanos que han pasado en Laliga han sido Udo Lattek en el Barça, Bernd Schuster en el Real Madrid o Bernd Krauss en la Real Sociedad, entre otros."
   },
   {
-    "titulo": "En 2019, París apostó por el control de alquileres y ahora tiene resultados: 968 euros de ahorro al año para los inquilinos",
-    "medio": "Xataka",
-    "fecha": 1778088626.0,
-    "link": "https://www.xataka.com/magnet/2019-paris-aposto-control-alquileres-ahora-tiene-leccion-para-espana-968-eur-ahorro-al-ano-para-inquilinos",
-    "resumen": "En julio de 2019, casi a las puertas de la pandemia, París decidió echar mano de una medida que había puesto poco antes a su alcance la nueva ley de vivienda francesa: limitar la escalada de sus alquileres. La idea era muy sencilla. Durante unos años se aplicaría un programa piloto para evitar que en el mercado imperase la ley del más fuerte acaudalado. Casi siete años después y con el futuro de la iniciativa rodeado de dudas, Francia ya sabe cómo ha ido el experimento: calcula que el control de rentas ha permitido a París reducir sus alquileres un 5%, con un ahorro medio de 85€ al mes. La experiencia es interesante para Francia… y para España, que ha apostado también por fórmulas de control de rentas. A vueltas con los alquileres. España no es el único país europeo que a lo largo de los últimos años ha intentado regular (en mayor o menor medida, con más o menos éxito) los precios de los alquileres residenciales. En 2019, apoyándose en una nueva ley del sector inmobiliario (ELAN), París solicitó poner en marcha un programa experimental para aplicar ciertos límites a la escalada de las rentas. El control de precios entró en vigor en julio de ese mismo año y la idea era que se aplicara durante un lustro, un período durante el que se trabajaría con los valores de referencia del Observatorio de Alquileres del Área Metropolitana de París (OLAP). Para calcularlos se tuvieron en cuenta aspectos como la ubicación de las viviendas, su antigüedad, si se arrendan con o sin muebles o cuántas habitaciones tienen. La medida se extendió tanto a los contratos firmados a partir de 2019 como a los renovados. ¿Y cómo le ha ido? Esa es la pregunta que quiere resolver Atelier Parisien d'Urbanisme (APUR), una agencia urbana que hace unos años empezó a evaluar los efectos del control de precios en la capital francesa. Sus primeras conclusiones llegaron hace dos años. Ahora las ha actualizado con un nuevo informe que deja botando un par de datos interesantes. El principal es que en seis años (entre 2019 y 2025) la medida ha logrado contener los alquileres un 5%, lo que equivale a un ahorro anual de cientos de euros para los inquilinos. \"El análisis econométrico muestra que, durante el período comprendido entre julio de 2019 y junio de 2025, los alquileres parisinos fueron, en promedio, un 5% más bajos de lo que habrían sido sin la regulación\", señala APUR en su informe. “Para este período, el alquiler mensual promedio observado fue de 1.519 euros. Sin la regulación, habría alcanzado los 1.600, lo que supone un ahorro medio de 81 euros al mes (968 al año) para los inquilinos de París”. Otro dato clave: 1.019 euros. El nuevo informe de APUR maneja datos de 2025, lo que permite tener una ‘foto’ más actualizada del impacto de la medida. Por ejemplo, sus técnicos calculan que en el último ejercicio analizado (julio de 2024-junio de 2025) la renta media rondó los 1.632 euros, 85 euros menos de lo que estarían pagando los inquilinos de París si hace casi siete años la ciudad no hubiese apostado por la limitación de precios. Al año eso se traduce en unos 1.019 euros más en el bolsillo de los arrendatarios. La agencia parisina ha detectado otro dato curioso. El efecto moderador de los precios parece sentirse de forma especial en las viviendas más pequeñas. Si de media los alquileres se han contenido un 5%, en el caso de los alojamientos de menor tamaño (menos de 18 m2) la reducción ronda el 12,4%. El efecto va suavizándose a medida que aumenta la superficie de la vivienda, hasta \"dejar de ser significativo\" en las más amplias. No es ninguna sorpresa. Las leyes ALUR y ELAN, de las que bebe la medida parisina, se marcaban como prioridad moderar los alquileres de las viviendas más pequeñas. En Xataka París tiene muy pocas viviendas disponibles y muchas oficinas y aparcamientos vacíos. Así que ha sumado dos más dos ¿Afecta a la oferta? Una de las críticas que suelen esgrimir quienes se oponen a la regulación es que, al controlar los alquileres, se desincentiva que los propietarios saquen sus viviendas al mercado. Es decir, que la medida quizás sirva para contener la subida de precios, pero lo hace a costa de asfixiar la oferta y reducir los pisos disponibles. Tras estudiar el sector los técnicos de APUR han concluido que eso no es cierto. \"No se puede atribuir al sistema de control de alquileres ningún deterioro duradero en la oferta de vivienda de alquiler\", recoge el informe. De hecho las oscilaciones más claras en el número de pisos anunciados no se explican por la regulación, sino por factores ajenos al mercado, como la pandemia o los Juegos Olímpicos de 2024. ¿Es todo positivo? No. El estudio también revela que, pese a que el programa lleva en vigor casi siete años, su alcance aún es reducido y hay una parte considerable del mercado que logra esquivar el control de precios. \"Con un 48,6% de los anuncios que superan el umbral reglamentario en el último período analizado (julio de 2024-junio de 2025), el potencial sin explotar sigue siendo considerable\", desliza APUR. Es más, sus responsables estiman que si todos los caseros cumpliesen la normativa el efecto moderador sobre los precios no sería del 5%, sino casi el doble, alrededor de un 10%. Más allá de Francia. El análisis de APUR es importante para Francia, donde París (y el resto de 70 municipios que se han acogido al control de alquileres) se arriesga a que la medida finalice el próximo noviembre, pero también para otros países de la UE que se han planteado regular sus mercados. En España sin ir más lejos el Gobierno impulsó un sistema de 'zonas de mercado tensionado' que permite aplicar restricciones a las subida de alquileres. Aunque se calcula que la medida alcanza ya a más de nueve millones de inquilinos, no se extiende a todo el país. La ley señala que son las comunidades autónomas las que deben solicitar la declaración de 'zona tensionada', algo que ha hecho Cataluña, pero a lo que hasta ahora se han resistido regiones como Madrid o Baleares. Imágenes | Alexander Kagan (Unsplash) y John Towner (Unsplash) En Xataka | Un fenómeno silencioso se está gestando en Madrid: gente que se va a vivir a Valladolid y vuelve a trabajar en tren - La noticia En 2019, París apostó por el control de alquileres y ahora tiene resultados: 968 euros de ahorro al año para los inquilinos fue publicada originalmente en Xataka por Carlos Prego ."
-  },
-  {
     "titulo": "La Familia Real se vuelca con la visita del Papa: bienvenida en el Palacio Real, asistencia a misas y despedida en Tenerife",
     "medio": "El Mundo",
     "fecha": 1778088617.0,
@@ -602,13 +616,6 @@
     "resumen": "El modelo de defensa aérea basado en misiles millonarios empieza a dar paso a interceptores low-cost. La OTAN se apunta a la doctrina ucraniana y España busca su encaje. La entrada OTAN compra drones interceptores baratos para frenar los Shahed aparece primero en Moncloa."
   },
   {
-    "titulo": "La principal hipótesis del origen del brote de hantavirus es que una pareja holandesa lo contrajo observando aves en Ushuaia (Argentina)",
-    "medio": "El Mundo",
-    "fecha": 1778088558.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/05/06/69fb6805e9cf4a6c768b45cd.html",
-    "resumen": "Según la OMS el contagio no se produjo en el barco, ya que desde la fecha de embarque hasta la aparición de los primeros síntomas no pasó el suficiente tiempo para que se produjera la incubación Leer"
-  },
-  {
     "titulo": "Vuelve a Madrid la Fórmula 1 de la hípica",
     "medio": "Expansión",
     "fecha": 1778088045.0,
@@ -621,13 +628,6 @@
     "fecha": 1778088044.0,
     "link": "https://jacobin.com/2026/05/devil-wears-prada-sequel-streep",
     "resumen": "At this point, the Devil Wears Prada franchise is a major cultural phenomenon. And The Devil Wears Prada 2 is a worthy addition, with more than a dash of topicality in its treatment of some of the bleaker aspects of contemporary existence."
-  },
-  {
-    "titulo": "\"¿Quién necesita beber a las cinco de la mañana?\": el CEO de Ryanair tiene claro por qué cada vez hay más borrachos en sus vuelos",
-    "medio": "Xataka",
-    "fecha": 1778087785.0,
-    "link": "https://www.xataka.com/movilidad/ceo-ryanair-tiene-claro-quien-tiene-culpa-que-haya-pasajeros-borrachos-sus-vuelos-matinales-aeropuertos",
-    "resumen": "El CEO de Ryanair, Michael O'Leary, ha pedido que los aeropuertos dejen de servir alcohol antes de los vuelos de primera hora de la mañana. Según su argumento, el mal comportamiento a bordo no para de crecer y piensa que mediante esta iniciativa no tendrían que desviar sus vuelos por culpa del comportamiento de algunos pasajeros. Un problema creciente. \"Si me remonto a diez años atrás, teníamos quizá una desviación por semana. Ahora estamos cerca de una al día\", contaba el propio O'Leary a The Times. Según datos de la Autoridad de Aviación Civil británica (CAA), las aerolíneas registran alrededor de 400 incidentes disruptivos más al año que antes de la pandemia. En Xataka La guerra de Irán ya ha llevado una aerolínea estadounidense a la quiebra. Es un serio aviso de lo que está por venir Por qué los aeropuertos tienen manga ancha. A diferencia de los bares y restaurantes convencionales, los establecimientos dentro de las zonas de embarque en el Reino Unido están exentos de las restricciones de horario que regulan la venta de alcohol en el resto del país. Eso significa que pueden abrir y servir bebidas a cualquier hora, incluidas las cinco o las seis de la mañana. \"No entiendo por qué alguien sirve cerveza a esa hora. ¿Quién necesita beber a las cinco de la mañana?\", continuaba O'Leary. Lo que pide Ryanair. La aerolínea irlandesa lleva años reclamando un límite de dos consumiciones por pasajero en los aeropuertos, algo que, según O'Leary, la propia compañía ya aplica a bordo de sus aviones. Ahora va un paso más allá y exige que los aeropuertos respeten los mismos horarios de venta de alcohol que rigen para el resto de establecimientos. Su idea es que ese límite quede vinculado a la tarjeta de embarque, para hacer el control más efectivo. \"Los que no actúan con responsabilidad, los que se lucran, son los aeropuertos que tienen esos bares abiertos a las cinco o las seis de la mañana y que, durante los retrasos, están encantados de servir todo el alcohol que quieran porque saben que el problema se lo exportan a las aerolíneas\", contaba el directivo al medio. Además, O'Leary señala también al consumo de drogas como principal agravante. Las rutas más afectadas. Según cuenta The Times, los vuelos con mayor incidencia de comportamientos problemáticos son los que conectan el Reino Unido con destinos de ocio como Ibiza, Alicante o Tenerife. También registran problemas frecuentes las rutas procedentes de Irlanda y Polonia. En Xataka Hay miles de pasajeros europeos quedándose en tierra cada semana. Y Ryanair tiene muy claro cuál es el problema Qué dice la ley. Ir borracho en un avión es un delito en el Reino Unido, penado con multas de hasta 5.000 libras y dos años de cárcel. Si encima la cosa va a más y obliga a la aerolínea a desviar el vuelo, las consecuencias económicas pueden alcanzar las 80.000 libras (lo que es hacerse un Melendi en toda regla). Ryanair ya ha emprendido acciones legales contra pasajeros que han provocado desvíos. Según cuenta el medio, en enero del año pasado presentó una demanda en Irlanda contra un viajero reclamando 15.000 euros por un vuelo desviado en la ruta Dublín-Lanzarote. Los riesgos son reales. \"Hasta que alguien provoque un accidente que cause un siniestro aéreo con cientos de muertos, ningún gobierno tomará este problema en serio. Y las aerolíneas están desesperadas\", contaba O’Leary a The Times. Otras compañías como Jet2 también presionan para crear una base de datos nacional que permita vetar a los pasajeros conflictivos en todas las aerolíneas británicas. AirportsUK, el organismo que agrupa a los aeropuertos del país, defiende que ya trabajan junto al resto del sector a través de campañas de concienciación. Imagen de portada | Niels Baars y BENCE BOROS En Xataka | Las aerolíneas europeas están aprovechando la crisis de Irán para acelerar algo viejo: complicarte aún más el viaje - La noticia \"¿Quién necesita beber a las cinco de la mañana?\": el CEO de Ryanair tiene claro por qué cada vez hay más borrachos en sus vuelos fue publicada originalmente en Xataka por Antonio Vallejo ."
   },
   {
     "titulo": "Óscar Puente, en la vuelta a la política de Sémper tras el cáncer: \"Este personaje no me la cuela, es peor que Tellado\"",
