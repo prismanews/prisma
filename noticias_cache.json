@@ -1,10 +1,129 @@
 [
   {
+    "titulo": "Ecuador inicia el juicio contra el expresidente Lenín Moreno por cohecho",
+    "medio": "El País",
+    "fecha": 1778541213.0,
+    "link": "https://elpais.com/america/2026-05-11/ecuador-inicia-el-juicio-contra-el-expresidente-lenin-moreno-por-cohecho.html",
+    "resumen": "La Fiscalía sostiene que una red de corrupción movió 76 millones de dólares en sobornos que habrían beneficiado al entorno cercano del exmandatario"
+  },
+  {
+    "titulo": "El primer español con hantavirus, trasladado en una cápsula de aislamiento a la planta 22 del Gómez Ulla: espera una segunda prueba que sería \"confirmatoria\"",
+    "medio": "El Mundo",
+    "fecha": 1778540990.0,
+    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/05/11/6a023a7dfc6c831a1b8b45a4.html",
+    "resumen": "Culmina el operativo del MV Hondius con 125 repatriados, mientras Sanidad monitoriza a los 14 españoles en el hospital madrileño Leer"
+  },
+  {
+    "titulo": "Cara a cara en Pekín entre los dos hombres más poderosos del mundo",
+    "medio": "El Mundo",
+    "fecha": 1778540948.0,
+    "link": "https://www.elmundo.es/internacional/2026/05/12/6a01a4fefdddff9f478b4577.html",
+    "resumen": "Donald Trump aterrizará el miércoles en la capital china. Será el primer viaje de un presidente estadounidense al gigante asiático en nueve años. La guerra en Irán, el comercio, la IA y Taiwan serán temas prioritarios en la agenda Leer"
+  },
+  {
+    "titulo": "El PSOE congela en el Congreso la ley que le impide desviar partidas de los fondos europeos para pagar pensiones",
+    "medio": "El Mundo",
+    "fecha": 1778540504.0,
+    "link": "https://www.elmundo.es/economia/2026/05/12/6a0211bfe4d4d85a2e8b457d.html",
+    "resumen": "Armengol amplía ya nueve veces en dos meses el plazo de enmiendas para la la proposición que logró sacar el PP y Vox con abstención de Junts Leer"
+  },
+  {
+    "titulo": "Argentina recuerda los libros prohibidos de la dictadura",
+    "medio": "El País",
+    "fecha": 1778539830.0,
+    "link": "https://elpais.com/argentina/2026-05-11/argentina-recuerda-los-libros-prohibidos-de-la-dictadura.html",
+    "resumen": "La Feria del Libro de Buenos Aires se despide tras haber recordado el 50 aniversario del golpe con charlas, una maratón de lecturas y una exposición"
+  },
+  {
+    "titulo": "Zabala de la Serna: \"Morante es el torero de la gente: lo aman ciudadanos de izquierdas y de derechas\"",
+    "medio": "El Mundo",
+    "fecha": 1778539349.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/05/12/6a01e233fdddffc1478b45a1.html",
+    "resumen": "El crítico taurino de EL MUNDO indaga en la figura genial y dañada del torero en un libro, 'Memoria de Morante', una revelación, un diálogo y un viaje entre las tinieblas de un genio luminoso, el mejor torero (dice) de la historia Leer"
+  },
+  {
+    "titulo": "Los cribados fallidos del cáncer de mama incendian el debate andaluz: Moreno responde atacando al pasado sanitario del PSOE",
+    "medio": "HuffPost",
+    "fecha": 1778539172.0,
+    "link": "https://www.huffingtonpost.es/politica/los-cribados-fallidos-cancer-mama-incendian-debate-andaluz-moreno-responde-atacando-pasado-sanitario-psoe-f202605.html",
+    "resumen": ""
+  },
+  {
     "titulo": "La falta de medios en la lucha contra el narcotráfico marca el debate \"decisivo\" de Canal Sur entre los cinco candidatos del 17-M: \"No son accidentes, son asesinatos\"",
     "medio": "El Mundo",
-    "fecha": 1778535705.0,
+    "fecha": 1778538259.0,
     "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/11/6a02247ee4d4d87e3e8b4571.html",
     "resumen": "Juanma Moreno recrimina a Vox que no parara su campaña electoral y la izquierda acusa al candidato del PP de hacer electoralismo con las víctimas Leer"
+  },
+  {
+    "titulo": "Hantavirus, última hora del crucero MV Hondius en Canarias, en directo | Casos confirmados, cómo se contagia y todo sobre el brote",
+    "medio": "OK Diario",
+    "fecha": 1778538259.0,
+    "link": "https://okdiario.com/espana/hantavirus-barco-mv-hondius-directo-evacuacion-pasajeros-nuevos-contagios-noticias-desde-tenerife-hoy-16769381",
+    "resumen": "El operativo de desembarco del crucero MV Hondius, afectado por un brote de hantavirus ha finalizado este lunes, 11 de mayo, a las 19:10 horas. Los últimos en desembarcar han sido los pasajeros australianos y neerlandeses, que son 27. Todos han sido evacuados en dos aviones militares de Países Bajos, país al que pertenece la … Continuar leyendo \"Hantavirus, última hora del crucero MV Hondius en Canarias, en directo | Casos confirmados, cómo se contagia y todo sobre el brote\""
+  },
+  {
+    "titulo": "El Parlamento israelí aprueba ley para juzgar a los terroristas que participaron en el ataque del 7 de octubre del 2023",
+    "medio": "El Mundo",
+    "fecha": 1778537487.0,
+    "link": "https://www.elmundo.es/internacional/2026/05/11/6a022d34fdddffee398b45b4.html",
+    "resumen": "Se crea un marco legal especial con un tribunal militar en Jerusalén que juzgará los detenidos por el ataque de Hamas en el sur de Israel Leer"
+  },
+  {
+    "titulo": "Gavira hace soñar a Vox con ser clave en Andalucía: «La prioridad nacional es una cuestión de supervivencia»",
+    "medio": "OK Diario",
+    "fecha": 1778537399.0,
+    "link": "https://okdiario.com/andalucia/manuel-gavira-consagra-como-apoyo-estable-hace-sonar-vox-ser-clave-17-m-andalucia-prioridad-nacional-cuestion-supervivencia-16778270",
+    "resumen": "Una semana después del primer gran debate previo a las elecciones andaluzas del próximo 17 de mayo, que se saldó con la clara victoria de las derechas en ese bloque formado por Juanma Moreno Bonilla (PP) y Manuel Gavira (Vox), la televisión andaluza reunió de nuevo a los cinco candidatos para una segunda vuelta. Un … Continuar leyendo \"Gavira hace soñar a Vox con ser clave en Andalucía: «La prioridad nacional es una cuestión de supervivencia»\""
+  },
+  {
+    "titulo": "La médico que descubre grasa peligrosa en personas delgadas: \"El IMC lleva años desactualizado\"",
+    "medio": "El Mundo",
+    "fecha": 1778537215.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/05/12/69f59c3ce85ece59058b4572.html",
+    "resumen": "Aunque en su familia no había antecedentes en la profesión, la médico de familia Alicia de Castro siempre tuvo claro que quería ayudar a otras personas. Ahora emprende escaneando tu cuerpo en 10 minutos. Leer"
+  },
+  {
+    "titulo": "La comida distópica de Alchemist, uno de los mejores restaurantes del mundo, y su laboratorio Spora: plásticos del mar, pollos enjaulados, 'carne' de semillas de uva, chocolate sin cacao...",
+    "medio": "El Mundo",
+    "fecha": 1778537186.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/2026/05/12/69f8da3be9cf4a2c498b45ad.html",
+    "resumen": "El chef Rasmus Munk investiga nuevos alimentos para agitar conciencias. La experiencia en su reconocido comedor puede durar hasta ocho horas y cuesta unos 750 euros, sin bebida. Leer"
+  },
+  {
+    "titulo": "Moreno triturará al PSOE revalidando su mayoría absoluta",
+    "medio": "OK Diario",
+    "fecha": 1778536799.0,
+    "link": "https://okdiario.com/opinion/moreno-triturara-psoe-revalidando-mayoria-absoluta-16775703",
+    "resumen": "La última encuesta de Data10 sobre las elecciones de Andalucía, y que OKDIARIO publica al límite de lo permitido por una ley electoral que impone a partir de ahora un absurdo silencio demoscópico, coloca al PP de Juanma Moreno en posición de revalidar su mayoría absoluta, con una horquilla entre los 54 y 57 escaños … Continuar leyendo \"Moreno triturará al PSOE revalidando su mayoría absoluta\""
+  },
+  {
+    "titulo": "Noche en Blanco (y Amarillo) por la visita del Papa León XIV: museos gratis en Madrid, horarios y programa completo",
+    "medio": "OK Diario",
+    "fecha": 1778536783.0,
+    "link": "https://okdiario.com/espana/noche-blanco-amarillo-visita-del-papa-leon-xiv-museos-gratis-madrid-horarios-programa-completo-16778144",
+    "resumen": "La ciudad de Madrid se prepara para una edición especial de la Noche en Blanco (y Amarillo), un evento extraordinario organizado con motivo de la visita del Papa León XIV, que transformará la capital en un gran escenario cultural, religioso y artístico durante toda la noche entre el 6 y el 7 de junio. La … Continuar leyendo \"Noche en Blanco (y Amarillo) por la visita del Papa León XIV: museos gratis en Madrid, horarios y programa completo\""
+  },
+  {
+    "titulo": "Moreno atrapa la mayoría absoluta y Montero lleva al PSOE al peor resultado de su historia",
+    "medio": "OK Diario",
+    "fecha": 1778536783.0,
+    "link": "https://okdiario.com/andalucia/moreno-atrapa-mayoria-absoluta-montero-lleva-psoe-peor-resultado-historia-16775544",
+    "resumen": "Juanma Moreno está en condiciones de revalidar el 17M la mayoría absoluta que logró en las elecciones de 2022. A una semana de los comicios, el PP lograría 56 escaños (43,1%), con una distancia de 29 diputados con el PSOE de María Jesús Montero, que se desploma a su peor resultado histórico (27 escaños, 22,4%). … Continuar leyendo \"Moreno atrapa la mayoría absoluta y Montero lleva al PSOE al peor resultado de su historia\""
+  },
+  {
+    "titulo": "El PSOE ha perdido uno de cada dos votantes en Andalucía desde que Sánchez es el líder del partido",
+    "medio": "OK Diario",
+    "fecha": 1778536758.0,
+    "link": "https://okdiario.com/andalucia/psoe-perdido-uno-cada-dos-votantes-andalucia-desde-que-sanchez-lider-del-partido-16775650",
+    "resumen": "Desde que Pedro Sánchez encabeza el PSOE, la formación ha perdido a uno de cada dos votantes en Andalucía. En concreto, el apoyo a los socialistas ha caído un 48,2% desde el año 2012, cuando se celebraron los últimos comicios antes de su llegada a la secretaría general del partido. El desplome es una realidad. … Continuar leyendo \"El PSOE ha perdido uno de cada dos votantes en Andalucía desde que Sánchez es el líder del partido\""
+  },
+  {
+    "titulo": "Iker Jiménez homenajea a la Guardia Civil: «Intenta que el narcotráfico no se meta en este país»",
+    "medio": "OK Diario",
+    "fecha": 1778536653.0,
+    "link": "https://okdiario.com/cool/television/iker-jimenez-homenajea-guardia-civil-intentan-que-narcotrafico-no-meta-este-pais-16778204",
+    "resumen": "Iker Jiménez ha comenzado la emisión de Horizonte (Cuatro) este lunes 11 de mayo dedicando su programa a los dos guardias civiles que han muerto al chocar dos embarcaciones del cuerpo mientras perseguían a una narcolancha a unas 80 millas de la costa de Huelva. El comunicador de Mediaset España, visiblemente emocionado, ha querido rendir … Continuar leyendo \"Iker Jiménez homenajea a la Guardia Civil: «Intenta que el narcotráfico no se meta en este país»\""
   },
   {
     "titulo": "Una experta explica por qué cuando abres una bolsa de patatas no puedes parar de comer",
@@ -21,11 +140,11 @@
     "resumen": "El Real Oviedo ha consumado su descenso a Segunda División este lunes después del empate cosechado por el Girona en Vallecas ante el Rayo Vallecano y tras no lograr los asturianos ganar al Getafe el pasado domingo en el Tartiere. El conjunto asturiano sólo ha durado una temporada en la máxima categoría, tras su regreso … Continuar leyendo \"El Real Oviedo consuma su descenso a Segunda División tras una temporada en Primera\""
   },
   {
-    "titulo": "Debate final de las elecciones de Andalucía: Moreno reacciona al asedio de los cribados con las muertes de Adamuz y los guardias civiles",
+    "titulo": "El debate final de las elecciones de Andalucía del 17M | Moreno reacciona al asedio por los cribados con las muertes de Adamuz y los guardias civiles",
     "medio": "El País",
     "fecha": 1778535118.0,
     "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-11/el-ultimo-debate-electoral-enfrenta-a-los-cinco-principales-candidatos-a-presidir-la-junta-de-andalucia-el-17m.html",
-    "resumen": "El presidente de la Junta recuerda que su padre también murió por cáncer de colon por un diagnóstico tardío"
+    "resumen": "El presidente de la Junta recuerda en televisión que su padre también murió por cáncer de colon por un diagnóstico tardío"
   },
   {
     "titulo": "El informe sobre desapariciones de la CIDH vuelve a enfrentar a colectivos con el Gobierno de Sheinbaum",
@@ -56,13 +175,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Juanma Moreno asesta el golpe definitivo a Montero y confía en su estabilidad para alcanzar la mayoría absoluta: «Usted miente más que habla»",
-    "medio": "OK Diario",
-    "fecha": 1778534960.0,
-    "link": "https://okdiario.com/andalucia/juanma-moreno-asesta-golpe-definitivo-montero-confia-estabilidad-alcanzar-mayoria-absoluta-usted-miente-mas-que-habla-16774226",
-    "resumen": "El segundo debate electoral de la campaña de las elecciones andaluzas del 17 de mayo deja a Juanma Moreno como el triunfador de la noche. El encuentro de esta noche siguió la tónica del primero: atacar al gobierno de Moreno Bonilla y su gestión. El líder del PP andaluz, en su primera intervención, quiso presumir … Continuar leyendo \"Juanma Moreno asesta el golpe definitivo a Montero y confía en su estabilidad para alcanzar la mayoría absoluta: «Usted miente más que habla»\""
-  },
-  {
     "titulo": "Moreno pide más medios contra el narcotráfico y «la verdad» de Adamuz frente a Montero",
     "medio": "The Objective",
     "fecha": 1778534730.0,
@@ -74,14 +186,7 @@
     "medio": "eldiario.es",
     "fecha": 1778534457.0,
     "link": "https://www.eldiario.es/andalucia/izquierdas-asedian-moreno-ultimo-debate-electoral-cribados-sanidad-provoca-muertes_1_13212567.html",
-    "resumen": "El candidato del PP, visiblemente incómodo, defiende que \"ninguna mujer\" ha fallecido por esta crisis y reacciona al hablar de financiación autonómica, mientras PSOE, Por Andalucía y Adelante denuncian el \"desastre premeditado\" sanitario y cargan contra el \"fraude\" fiscal por \"bajar impuestos a los superricos\" Seis encuestas sitúan a Moreno al borde de reeditar su mayoría absoluta a seis días de las elecciones andaluzas Un debate frente a un aluvión de encuestas. El segundo choque entre los candidatos de los cinco partidos con representación en el Parlamento andaluz ha venido precedido por la publicación de hasta seis sondeos que coinciden en tres cuestiones: el PP está rozando de nuevo la mayoría absoluta, el PSOE puede horadar su suelo –que son sus actuales 30 parlamentarios– y tanto Vox como las dos formaciones más a la izquierda (Por Andalucía y Adelante Andalucía) mejoran sus actuales cifras. Con estos datos bajo el brazo, los mismos que se barajan desde la precampaña, los aspirantes han encarado un encuentro en Canal Sur Televisión que siempre se publicita como “el decisivo” por aquello de ser el último. Esta segunda confrontación a cinco previa al 17M ha estado adobado, además, por un coro de protestas que esperaba a los candidatos a las puertas de la sede de la RTVA, en la que se sumaban Mareas Blancas, representantes de Amama (la asociación que destapó la crisis con los cribados del cáncer de mama) y, sobre todo, trabajadores del propio Canal Sur, que este lunes han protagonizado la primera de las tres jornadas de huelga que ha convocado el Comité Intercentros. Los candidatos de izquierda –Antonio Maíllo, José Ignacio García y María Jesús Montero, por orden de llegada– han cruzado la calle para saludar a estos colectivos, mientras que Manuel Gavira (Vox) y el propio Moreno han pasado de largo cuando no hacía mucho que la televisión pública se fuera a negro durante el programa de Juan y Medio por esta protesta. Y si Amama y las Mareas Blancas estaban en la puerta, en la cuestión sanitaria es donde las izquierdas se han hecho especialmente fuertes ante un Moreno visiblemente incómodo y que ha dejado muchos interrogantes sin responder con el argumento de que era “interpelado por todos”. “Todos contra mí”, ha lamentado, mientras las izquierdas (PSOE, Por Andalucía y Adelante) han acosado a preguntas a un líder del PP andaluz que se ha escudado en que la Junta “asumió su responsabilidad” con la salida de “toda la cúpula del SAS” e insistiendo en que “ninguna mujer ha fallecido”. Agrio cara a cara Moreno-Montero Pese a ello, no ha dado los detalles que se le han reclamado, limitándose a asegurar que “hubo un problema de información con 2.317 mujeres y se pidió perdón”, además de cesar a toda la cúpula del Servicio Andaluz de Salud (SAS). “¿No ha habido muertes? Debe ser que las familias se lo inventan”, ha replicado Montero, a la que se han unido Maíllo y García en su crítica a una gestión sanitaria que “provoca muertes” evitables. Maíllo ha presentado una “enmienda a la totalidad” a su política sanitaria, que ha calificado de “desastre premeditado para convencer a la sociedad andaluza de que la mejor sanidad es la que se paga”. “Es un desastre”, ha apostillado, antes de que Moreno y Montero se enzarzaran en un agrio cara a cara de nuevo con los cribados de cáncer de mama como protagonistas. El aspirante del PP ha acusado a la candidata socialista de “no decir ni una verdad”, recordando la promesa incumplida del PSOE en 2010 sobre el cribado de cáncer de colon y agarrándose a su propia experiencia personal. “Durante esos nueve años muchas personas fallecieron porque no hubo cribado de cáncer de colon, entre ellas mi padre, que tuvo un diagnóstico tardío y por tanto metastásico”. “A mí me habéis llamado asesino desde las cuentas oficiales del PSOE”, ha denunciado, antes de preguntarse de manera retórica “¿qué podría llamarle a usted?”. “¿Pero sabe la diferencia entre usted y yo? Que yo no soy como usted”, le ha espetado el candidato del PP. “Ni yo como usted”, ha replicado Montero. El “lío” y el “chantaje” En política es moneda de uso común decir que unas elecciones no se ganan en los debates, pero que sí se pueden perder. El presidente andaluz y aspirante a la reelección por el PP, Juan Manuel Moreno, evidenció en el celebrado hace una semana en RTVE que no estaba dispuesto a arriesgar lo más mínimo, lo que al final jugó en su contra y le llevó a ofrecer una imagen acartonada que rozó el bloqueo. Este lunes, encima, entraba en el plató con un mensaje cristalino que horas antes había llegado vía Madrid: Vox descarta la abstención si Moreno roza la mayoría absoluta pero no la logra, en ese escenario –ha avisado su portavoz nacional– lo que tocaría es negociar para que la ultraderecha entre en el Gobierno andaluz. Esto, en el lenguaje de campaña de Moreno es el “lío” a evitar, al que confronta la “estabilidad” que reportaría renovar su mayoría absoluta, la misma táctica que tan bien le salió hace cuatro años al atraer un voto de centro progresista que vio en él una alternativa más viable para parar a la ultraderecha que la propia izquierda. Por encima de todo está el aval de su marca personal, muy por encima de las siglas del partido, presentándose como un tipo fiable, predecible y con sus dosis de progresista y andalucista. Como él mismo dijo hace cuatro años, “es mucho más fácil votar a Juanma Moreno que votar al PP”."
-  },
-  {
-    "titulo": "Hantavirus, última hora del crucero MV Hondius en Canarias, en directo | Casos confirmados, cómo se contagia y todo sobre el brote",
-    "medio": "OK Diario",
-    "fecha": 1778534059.0,
-    "link": "https://okdiario.com/espana/hantavirus-barco-mv-hondius-directo-evacuacion-pasajeros-nuevos-contagios-noticias-desde-tenerife-hoy-16769381",
-    "resumen": "El operativo de desembarco del crucero MV Hondius, afectado por un brote de hantavirus ha finalizado este lunes, 11 de mayo, a las 19:10 horas. Los últimos en desembarcar han sido los pasajeros australianos y neerlandeses, que son 27. Todos han sido evacuados en dos aviones militares de Países Bajos, país al que pertenece la … Continuar leyendo \"Hantavirus, última hora del crucero MV Hondius en Canarias, en directo | Casos confirmados, cómo se contagia y todo sobre el brote\""
+    "resumen": "El candidato del PP, visiblemente incómodo, defiende que \"ninguna mujer\" ha fallecido por esta crisis y reacciona al hablar de financiación autonómica, mientras PSOE, Por Andalucía y Adelante denuncian el \"desastre premeditado\" sanitario y cargan contra el \"fraude\" fiscal por \"bajar impuestos a los superricos\" Seis encuestas sitúan a Moreno al borde de reeditar su mayoría absoluta a seis días de las elecciones andaluzas Un debate frente a un aluvión de encuestas. El segundo choque entre los candidatos de los cinco partidos con representación en el Parlamento andaluz ha venido precedido por la publicación de hasta seis sondeos que coinciden en tres cuestiones: el PP está rozando de nuevo la mayoría absoluta, el PSOE puede horadar su suelo –que son sus actuales 30 parlamentarios– y tanto Vox como las dos formaciones más a la izquierda (Por Andalucía y Adelante Andalucía) mejoran sus actuales cifras. Con estos datos bajo el brazo, los mismos que se barajan desde la precampaña, los aspirantes han encarado un encuentro en Canal Sur Televisión que siempre se publicita como “el decisivo” por aquello de ser el último. Esta segunda confrontación a cinco previa al 17M ha estado adobado, además, por un coro de protestas que esperaba a los candidatos a las puertas de la sede de la RTVA, en la que se sumaban Mareas Blancas, representantes de Amama (la asociación que destapó la crisis con los cribados del cáncer de mama) y, sobre todo, trabajadores del propio Canal Sur, que este lunes han protagonizado la primera de las tres jornadas de huelga que ha convocado el Comité Intercentros. Los candidatos de izquierda –Antonio Maíllo, José Ignacio García y María Jesús Montero, por orden de llegada– han cruzado la calle para saludar a estos colectivos, mientras que Manuel Gavira (Vox) y el propio Moreno han pasado de largo cuando no hacía mucho que la televisión pública se fuera a negro durante el programa de Juan y Medio por esta protesta. Y si Amama y las Mareas Blancas estaban en la puerta, en la cuestión sanitaria es donde las izquierdas se han hecho especialmente fuertes ante un Moreno visiblemente incómodo y que ha dejado muchos interrogantes sin responder con el argumento de que era “interpelado por todos”. “Todos contra mí”, ha lamentado, mientras las izquierdas (PSOE, Por Andalucía y Adelante) han acosado a preguntas a un líder del PP andaluz que se ha escudado en que la Junta “asumió su responsabilidad” con la salida de “toda la cúpula del SAS” e insistiendo en que “ninguna mujer ha fallecido”. Agrio cara a cara Moreno-Montero Juan Manuel Moreno saluda al llegar a la sede de RTVA. Pese a ello, no ha dado los detalles que se le han reclamado, limitándose a asegurar que “hubo un problema de información con 2.317 mujeres y se pidió perdón”, además de cesar a toda la cúpula del Servicio Andaluz de Salud (SAS). “¿No ha habido muertes? Debe ser que las familias se lo inventan”, ha replicado Montero, a la que se han unido Maíllo y García en su crítica a una gestión sanitaria que “provoca muertes” evitables. El choque Moreno-Montero también se ha reproducido cuando el presidente ha sacado a relucir tragedia ferroviaria de Adamuz (Córdoba), lamentando la falta de dimisiones y de explicaciones –lo que ha provocado la indignada reacción del alcalde del municipio–, a lo que le ha replicado que todo se sabrá, como también “qué pasó con el 112” y la actuación de los servicios de emergencia que dependen de la Junta. Maíllo ha presentado una “enmienda a la totalidad” a su política sanitaria, que ha calificado de “desastre premeditado para convencer a la sociedad andaluza de que la mejor sanidad es la que se paga”. “Es un desastre”, ha apostillado, antes de que Moreno y Montero se enzarzaran en un agrio cara a cara de nuevo con los cribados de cáncer de mama como protagonistas. El aspirante del PP ha acusado a la candidata socialista de “no decir ni una verdad”, recordando la promesa incumplida del PSOE en 2010 sobre el cribado de cáncer de colon y agarrándose a su propia experiencia personal. “Durante esos nueve años muchas personas fallecieron porque no hubo cribado de cáncer de colon, entre ellas mi padre, que tuvo un diagnóstico tardío y por tanto metastásico”. “A mí me habéis llamado asesino desde las cuentas oficiales del PSOE”, ha denunciado, antes de preguntarse de manera retórica “¿qué podría llamarle a usted?”. “¿Pero sabe la diferencia entre usted y yo? Que yo no soy como usted”, le ha espetado el candidato del PP. “Ni yo como usted”, ha replicado Montero. La candidata socialista, María Jesús Montero. Gavira, a hablar de su libro Durante el debate, el cara a cara más común ha sido entre estos dos protagonistas, fajándose menos Moreno a la hora de replicar a Maíllo y García, que por su parte le ha dejado alguna que otra puya a la candidata socialista sobre todo en cuestión de financiación autonómica. Como en el primer debate, las izquierdas han llegado a hacerle un tres contra uno al presidente, que ha respondido con silencios, sonrisas irónicas o comentarios sueltos diciendo que los reproches que le hacían eran una barbaridad o directamente una mentira. El que ha vuelto a parecer un verso suelto ha sido Manuel Gavira, al que de hecho en varios momentos le sobraba tiempo que consumía por puro protocolo. Sus ideas fuerza han sido las mismas: la “prioridad nacional” duramente replicada por las izquierdas (aquí Moreno no ha bajado a la arena), la bandera de una política de “sentido común” y centralizar en los migrantes prácticamente todos los problemas de la sociedad española, “colapsando” los servicios públicos y disparando la inseguridad, apuntándoles incluso de estar detrás de las violaciones y las agresiones a ancianos. Moreno, como también hizo en el primer debate, casi no se ha dirigido al candidato de Vox, al que le reprochó que no suspendiera la campaña el día de luto oficial por la muerte de dos guardias civiles en la persecución de unas narcolanchas. Ante sucesos tan graves, ha vuelto a esgrimir el “sentido común”, que en este caso consistiría en que “ante el narco, el alto o el plomo, o que las narcolanchas se paren o acaben en el fondo del mar”. Manuel Gavira atiende a los medios al finalizar el debate. El “lío” y el “chantaje” En política es moneda de uso común decir que unas elecciones no se ganan en los debates, pero que sí se pueden perder. El presidente andaluz y aspirante a la reelección por el PP, Juan Manuel Moreno, evidenció en el celebrado hace una semana en RTVE que no estaba dispuesto a arriesgar lo más mínimo, lo que al final jugó en su contra y le llevó a ofrecer una imagen acartonada que rozó el bloqueo. Este lunes, encima, entraba en el plató con un mensaje cristalino que horas antes había llegado vía Madrid: Vox descarta la abstención si Moreno roza la mayoría absoluta pero no la logra, en ese escenario –ha avisado su portavoz nacional– lo que tocaría es negociar para que la ultraderecha entre en el Gobierno andaluz. Esto, en el lenguaje de campaña de Moreno es el “lío” a evitar, al que confronta la “estabilidad” que reportaría renovar su mayoría absoluta, la misma táctica que tan bien le salió hace cuatro años al atraer un voto de centro progresista que vio en él una alternativa más viable para parar a la ultraderecha que la propia izquierda. Por encima de todo está el aval de su marca personal, muy por encima de las siglas del partido, presentándose como un tipo fiable, predecible y con sus dosis de progresista y andalucista. Como él mismo dijo hace cuatro años, “es mucho más fácil votar a Juanma Moreno que votar al PP”. Frente al “lío” o el “desgobierno” de Moreno, como también lo ha definido en su último minuto, las izquierdas (sobre todo José Ignacio García y Antonio Maíllo) han contrapuesto el “chantaje” de asegurar que si el PP no logra mayoría absoluta está en riesgo hasta la convocatoria de oposiciones. “No sé si sabe lo duro que es estudiar unas oposiciones, yo sí. Es durísimo chantajear a los andaluces y andaluzas diciendo «o me votan o no se van a celebrar las oposiciones», ha lamentado García, profesor de Secundaria, que ha insistido en que es falso que no se puedan convocar oposiciones si no se conforma Gobierno de inmediato: ”Se nota que nunca ha hecho unas oposiciones“. Antonio Maíllo, líder de Por Andalucía, \"la candidatura de la unidad\". “Fraude” fiscal y “fritos” a impuestos La otra cuestión en la que han cargado las tintas las formaciones de izquierdas ha sido en la política fiscal del Gobierno de Moreno, contra el que Maíllo (Por Andalucía) ha cargado llegándole a acusar de cometer “fraude fiscal en términos políticos” porque “cuando le dice a la gente que le baja impuestos, se los baja a los superricos”. Por su parte, García (Adelante) ha lamentado que en Andalucía alguien que gana 80.000 euros al año puede desgravarse las clases de inglés privadas de su hijo, “pero si ganas 25.000 euros al año no puedes desgravarte el alquiler de tu vivienda”. En paralelo, María Jesús Montero ha sacado a escena la “asfixia” de las universidades andaluzas, “mientras autorizan universidades privadas sin criterios de calidad”, “con menos papeles que un conejo de campo”, como ha llegado a afirmar José Ignacio García. Montero ha ido más allá y ha extendido el problema a todas las etapas educativas: “¿Qué le parece que las familias andaluzas tengan que endeudarse para matricular a sus hijos en formación profesional o en el máster obligatorio? No ofertan plazas públicas para la formación. ¿Por qué obliga a las familias andaluzas a endeudarse?”. Donde más cómodo se ha mostrado Juan Manuel Moreno, y ha dado una imagen más suelta, ha sido con el modelo de financiación autonómica, no sin antes acusar a Montero de “freírnos a impuestos” como ministra de Hacienda durante los últimos años en el Gobierno de España, convirtiendo a Andalucía y al país en general “en un infierno fiscal”. Y ante el argumento de la socialista de que la Junta ha recibido 54.000 millones de euros más que los que transfería el Ejecutivo central bajo la presidencia del PP, Moreno ha respondido con que “ese es nuestro dinero, no lo regala el Gobierno de España”. José Ignacio García con su camiseta dedicada a García Lorca. “Usted sería una magnífica candidata en Cataluña”, ha esgrimido Moreno por un lado, mientras por el otro Montero volvía una y otra vez a pedir explicaciones por la no aceptación de un modelo con el que Andalucía es la que más gana. Un rechazo que a Andalucía le cuesta 5.700 millones de euros que deja de ingresar si se incluye el fondo de compensación. Y un último toque más frívolo, centrado en los looks lucidos en el debate, en el que han vuelto a repetir dos candidatos con corbata, aunque esta vez han aparcado el color verde para apostar por el azul (Moreno) y el rojo (Gavira). Las izquierdas han vuelto a prescindir de este complemento, con Maíllo con camisa blanca y García en vaqueros y camiseta, esta vez con una imagen de Federico García Lorca en defensa de “la memoria histórica, la cultura andaluza y Granada”. Montero, por su parte, ha apostado por el rojo frente al vestido verde del primer debate."
   },
   {
     "titulo": "Un cabezazo de Stuani da al Girona un punto de oro ante el Rayo",
@@ -96,27 +201,6 @@
     "fecha": 1778533935.0,
     "link": "https://elpais.com/internacional/2026-05-11/starmer-se-aferra-a-la-promesa-de-un-mayor-acercamiento-a-la-ue-para-frenar-la-rebelion-laborista-que-pide-su-dimision.html",
     "resumen": "“Voy a demostrar a los que dudan de mí que se equivocan”, ha dicho el primer ministro británico. Los críticos reclaman unas nuevas primarias para septiembre"
-  },
-  {
-    "titulo": "Sara Correia: quién es, edad, de dónde es y su carrera como cantante de fado",
-    "medio": "OK Diario",
-    "fecha": 1778533868.0,
-    "link": "https://okdiario.com/cool/famosos/sara-correia-quien-edad-donde-carrera-como-cantante-fado-16778039",
-    "resumen": "La cantante portuguesa Sara Correia es una de las voces más destacadas del fado contemporáneo. Representa a una nueva generación de fadistas que mantienen la tradición del género mientras le aportan una identidad propia y actual. Nació en Fornos, Santa Maria da Feira (Portugal). Es hija de un músico. Su interpretación provoca una emoción intensa, … Continuar leyendo \"Sara Correia: quién es, edad, de dónde es y su carrera como cantante de fado\""
-  },
-  {
-    "titulo": "La confesión de Carolina Marín sobre su cuerpo en ‘El Hormiguero’: «Lo he llevado más allá del límite»",
-    "medio": "OK Diario",
-    "fecha": 1778533811.0,
-    "link": "https://okdiario.com/cool/television/confesion-carolina-marin-sobre-cuerpo-hormiguero-lo-he-llevado-mas-alla-del-limite-16777979",
-    "resumen": "Tras anunciar su retirada del deporte profesional, la campeona olímpica de bádminton, Carolina Marín, ha revelado en El Hormiguero los sacrificios detrás de ser la primera europea en destronar a las potencias asiáticas: un oro olímpico en Río 2016, tres mundiales consecutivos (2014-2018) y 24 títulos que han dado a conocer un deporte minoritario en … Continuar leyendo \"La confesión de Carolina Marín sobre su cuerpo en ‘El Hormiguero’: «Lo he llevado más allá del límite»\""
-  },
-  {
-    "titulo": "El oscuro presagio del director de la OMS y su «cuídense mucho»: ya van 5 positivos, 3 muertos y 71 ingresados por hantavirus",
-    "medio": "OK Diario",
-    "fecha": 1778533657.0,
-    "link": "https://okdiario.com/espana/oscuro-presagio-del-director-oms-cuidense-mucho-ya-van-5-positivos-3-muertos-71-ingresados-hantavirus-16777516",
-    "resumen": "Tras el brote de hantavirus surgido en el crucero holandés Hondius, ya se han confirmado cinco casos positivos de hantavirus -variante de los Andes- asociados al brote en el barco que zarpó de Argentina. Además, se registran varios casos sospechosos o probables, con un total de alrededor de ocho casos sospechosos. Los positivos son: Uno … Continuar leyendo \"El oscuro presagio del director de la OMS y su «cuídense mucho»: ya van 5 positivos, 3 muertos y 71 ingresados por hantavirus\""
   },
   {
     "titulo": "The Fight to Free Palestinian Organizer Salah Sarsour From ICE",
@@ -140,27 +224,6 @@
     "resumen": "Hace unos años se puso de moda el término guilty pleasure que lo único que hacía es hacer que nos sintiéramos juzgadas por consumir. Decía Esther Peñas en Ethic que “los estereotipos y los patrones de socialización tienen mucho que ver con lo que se oculta que se disfruta y lo que se muestra abiertamente”. Yo no me oculto y te digo que empecé a ver esta serie que otrora hubiera calificado como guilty pleasure, y la gocé enormemente. Está basada en la saga de novelas de Elle Kennedy, y creada para televisión por Louisa Levy. Prime Video estrena todos los episodios de su primera temporada el próximo 13 de mayo, pero he tenido la suerte de haber visto los siete primeros capítulos, de los ocho que la forman. Estoy contando las horas para ver el último el miércoles. Hablo de ‘Kiss me (Off Campus)’, que quiere convertirse en un hitazo como lo fue ‘El verano en que me enamoré’. En el reparto encontramos a Ella Bright y Belmont Cameli como los protagonistas principales que dan vida a Hannah y Graham, pero también empieza a introducirnos en el universo Off Campus con otros personajes a quien dan vida Mika Abdalla, Antonio Cipriano, Jalen Thomas Brooks, Josh Heuston y Stephen Kalyn entre otros. La primera temporada de este drama universitario que sigue a un equipo de hockey, se centra en Hannah Wells y Garrett Graham. Ella es música, necesita una beca para seguir estudiando en la universidad y el deporte no le interesa en absoluto. Él es capitán del equipo de hockey, su padre es una ex estrella de este deporte y bueno, es el clásico deportista que parece que lo único que quiere es ganar y ligar. No necesitas saber nada más en realidad, solo que lo que esperas ver no se parece en nada a lo que verás. Esperas ver el típico machirulo, chulo y tóxico, pero lo que descubres es otra cosa: unas dinámicas masculinas muy deconstruidas. Al principio de la serie esperas que sea más de lo mismo: buena chica que conoce a un mal chico y que espera cambiarle. Ella no quiere cambiarle a él ni él necesita ser cambiado en realidad porque demuestra que es posible tener responsabilidad afectiva hasta cuando la relación que se tiene es de amigos con derechos. La sorpresa te la llevas especialmente en ellos, aunque suene fatal decirlo, porque no te esperas esa visión de las relaciones mucho más sincera en cuanto a intenciones. Y no esperas tampoco que sexualmente sean tan generosos como lo son. Eso es, sin duda alguna, un soplo de aire fresco si hablamos de series subidas de tono en las que el sexo es un protagonista más. La serie es sexy, divertida, con un toque de drama y capaz de hacer que no pienses en nada más, lo que en los tiempos que corren no es solo una buena idea, sino algo más que necesario. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | Kiss me (Off Campus) Prime Video En Trendencias | Las 31 mejores series de HBO Max que puedes ver ahora mismo En Trendencias | Las 31 mejores series de Amazon Prime Video que puedes ver ahora mismo - La noticia Acabo de ver los primeros capítulos del nuevo bombazo de Prime Video: una serie de universitarios subida de tono y perfecta para desconectar fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
-    "titulo": "Jornada 35 de la Liga: resumen de los partidos",
-    "medio": "OK Diario",
-    "fecha": 1778533205.0,
-    "link": "https://okdiario.com/deportes/jornada-liga-ea-sports-resumen-partidos-13325184",
-    "resumen": "La jornada 35 de la Liga 2025-26 ya está en marcha. Sólo quedan cuatro para el final del campeonato y esta fecha está marcada por la disputa del Clásico del fútbol español, el Barcelona – Real Madrid que se jugará el domingo a las 21:00 horas. Pero, además, hay otros nueve interesantes encuentros. Aquí puedes … Continuar leyendo \"Jornada 35 de la Liga: resumen de los partidos\""
-  },
-  {
-    "titulo": "Mariano Peña: quién es, edad, de dónde es y su trayectoria como actor",
-    "medio": "OK Diario",
-    "fecha": 1778533050.0,
-    "link": "https://okdiario.com/cool/famosos/mariano-pena-quien-edad-donde-trayectoria-como-actor-16777661",
-    "resumen": "Mariano Peña nació en Manzanilla (Huelva) el 1 de febrero de 1960. Es un actor español de cine, televisión y doblaje. Es conocido principalmente por interpretar a Mauricio Colmenero en la serie Aída y por ser la voz del Maestro Roshi en Dragon Ball, así como del señor Wilson en Daniel el travieso. Aída es … Continuar leyendo \"Mariano Peña: quién es, edad, de dónde es y su trayectoria como actor\""
-  },
-  {
-    "titulo": "Trump se lleva a Elon Musk, Tim Cook y otros 14 consejeros de grandes empresas a su viaje a China",
-    "medio": "El Mundo",
-    "fecha": 1778532584.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/05/11/6a022a1fe4d4d8d90b8b4593.html",
-    "resumen": "Líderes de bancos, gestoras, empresas de pagos o del sector de los semiconductores se suman a la delegación en busca de suavizar las relaciones con Pekín y hacer grandes anuncios, como la venta de 500 aviones de Boeing Leer"
-  },
-  {
     "titulo": "El izquierdista Roberto Sánchez disputará a Fujimori la presidencia de Perú el 7 de junio",
     "medio": "The Objective",
     "fecha": 1778532368.0,
@@ -180,13 +243,6 @@
     "fecha": 1778532108.0,
     "link": "https://elpais.com/cultura/2026-05-11/aparece-en-paises-bajos-un-cuadro-robado-por-los-nazis-al-coleccionista-judio-goudstikker.html",
     "resumen": "La obra formaba parte de la colección de Goudstikker, una de las reclamaciones más importantes de arte robado a los judíos. Tras saberse la noticia, la familia que poseía el cuadro lo ha entregado esta tarde al ‘detective del arte’ Arthur Brand"
-  },
-  {
-    "titulo": "El primer español con hantavirus, trasladado en una cápsula de aislamiento a la planta 22 del Gómez Ulla: espera una segunda prueba que sería \"confirmatoria\"",
-    "medio": "El Mundo",
-    "fecha": 1778531849.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/05/11/6a023a7dfc6c831a1b8b45a4.html",
-    "resumen": "Culmina el operativo del MV Hondius con 125 repatriados, mientras Sanidad monitoriza a los 14 españoles en el hospital madrileño Leer"
   },
   {
     "titulo": "Starmer, acorralado por la revuelta laborista para que dimita",
@@ -215,13 +271,6 @@
     "fecha": 1778531361.0,
     "link": "https://www.huffingtonpost.es/virales/lo-dice-revilla-sobre-quienes-querian-fondeo-hondius-clavijo-grabe-fuego-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El Parlamento israelí aprueba ley para juzgar a los terroristas que participaron en el ataque del 7 de octubre del 2023",
-    "medio": "El Mundo",
-    "fecha": 1778531290.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/11/6a022d34fdddffee398b45b4.html",
-    "resumen": "Se crea un marco legal especial con un tribunal militar en Jerusalén que juzgará los detenidos por el ataque de Hamas en el sur de Israel Leer"
   },
   {
     "titulo": "El mayor submarino nuclear de Estados Unidos atraca en Gibraltar",
@@ -287,11 +336,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Uno de los españoles aislados en el Gómez Ulla da un positivo provisional en su primera PCR por hantavirus",
-    "medio": "El País",
-    "fecha": 1778529235.0,
-    "link": "https://elpais.com/sociedad/2026-05-11/uno-de-los-espanoles-aislados-en-el-gomez-ulla-da-un-positivo-provisional-en-su-primera-pcr-para-hantavirus.html",
-    "resumen": "El posible positivo ha sido aislado en una unidad de alto nivel. Los otros trece han dado negativo y mantendrán la cuarentena durante 42 días"
+    "titulo": "Uno de los españoles aislados en el Gómez Ulla da «positivo provisional» en hantavirus",
+    "medio": "The Objective",
+    "fecha": 1778529178.0,
+    "link": "https://theobjective.com/sanidad/2026-05-11/positivo-espanol-aislado-gomez-ulla/",
+    "resumen": "Un español aislado en el hospital Gómez Ulla de Madrid ha dado positivo provisional este lunes en la prueba PCR que se le ha realizado a […]"
   },
   {
     "titulo": "Gabriel Rufián ve a Lamine Yamal ondeando la bandera de Palestina y da la reacción de la temporada",
@@ -299,13 +348,6 @@
     "fecha": 1778528995.0,
     "link": "https://www.huffingtonpost.es/virales/gabriel-rufian-ve-lamine-yamal-ondeando-bandera-palestina-da-reaccion-temporada-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "La salida de los últimos pasajeros pone fin a la evacuación del ‘Hondius’ en Tenerife",
-    "medio": "El País",
-    "fecha": 1778528767.0,
-    "link": "https://elpais.com/sociedad/2026-05-11/la-salida-de-los-ultimos-pasajeros-pone-fin-a-la-evacuacion-del-hondius-en-tenerife.html",
-    "resumen": "El buque zarpa hacia Róterdam mientras los expertos proceden a la desinfección del puerto"
   },
   {
     "titulo": "En directo | Los candidatos a las elecciones andaluzas encaran su último debate a cinco en Canal Sur",
@@ -350,13 +392,6 @@
     "resumen": "Conseguir que un look a base de jeans y sneakers llame la atención de las más fashionistas no es sencillo. Dos prendas tan básicas a las que mucha gente recurre en su día a día es complicado lucirlas de forma diferencial, sacando a relucir tu propio estilo. Para ello nos fijamos en las coreanas y es que se han vuelto unas de nuestras claras referentes en cuestiones de moda a través del K-Pop y los K-Dramas, pero también con sus looks cómodos y sofisticados en el street style. Aquí te dejamos algunas de las sneakers made in Corea más buscadas y que mejor sientan con tus denim, para elevar un outfit sencillo. Toma nota. Sí al animal print: el estampado de vacaUna puesta segura para que tu look de zapatillas y vaqueros no pase desapercibido es decantarse por un modelo con cow print. Es pura tendencia y con los jeans wide leg sientan de cine. Estas de la firma coreana Andersson Bell nos parece todo un acierto. Zapatillas animal print de Andersson Bell Color plata: disco girlCon estética gopcore, pero un color girlie que nos recuerda a los outfits de noche donde el plateado es el tono estrella. Estas zapatillas coreanas de la marca Low Classic nos parecen perfectas para combinar con unos vaqueros de corte ballon que dejen protagonismo a las zapatillas. Zapatillas plateadas Low Classic Las clásicas negras, en su versión más trendyQue tus zapatillas acaparen las miradas de todo aquel que se cruza contigo y se conviertan en un calzado de deseo para el resto, de ese por el que te pregunta todas tus amigas, no significa apostar solo por patrones maximalistas o tonos muy vibrantes. A veces unas sneakers negras con personalidad son más que suficiente para un look de diez junto a unos jeans rectos. Estas de Songzio son un claro ejemplo. Zapatillas negras Songzio Minimalismo chicEn color tierra y con una estética que no puede ser más tendencia. Apostando por una silueta que sienta súper bien con unas bermudas vaqueras. Estas zapatillas coreanas de la firma Margesherwood nos parecen super especiales, a pesar de tener un diseño cero excéntrico. Te delatan como una buena fashion victim. En rosa pastel: un toque coquetteEn nuestra selección de zapatillas coreanas no podían faltar unas estilo Salomon, reivindicando la estética montañera. Eso sí, con un color de lo más romántico, un rosa pastel que hace contraste con ese aire más tosco de la zapatilla y casa a la perfección. Estas sneakers de la firma coreana Kolon Sporta son perfectas para llevar con vaqueros flare en un color lavado clarito. Ideales para dar un aire más veraniego a tus looks, pero sin tener que renunciar a la comodidad de las zapatillas en los días de calor. Fotos | @yezyizhere, Anderson Bell, Low Classic, Songzio, Margesherwood, Kolon Sporta En Trendencias | Mejores zapatillas para ir al gimnasio: cómo tienen que ser y cuáles elegir. - La noticia Cinco zapatillas coreanas para llevar con jeans como una experta en moda esta primavera-verano 2026 fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "Investigadores de Vanderbilt: \"Tenemos un fármaco contra el hantavirus prometedor, pero faltan 40 millones de dólares para el siguiente paso y nadie los pone\"",
-    "medio": "HuffPost",
-    "fecha": 1778527709.0,
-    "link": "https://www.huffingtonpost.es/sociedad/investigadores-vanderbilt-tenemos-farmaco-hantavirus-prometedor-faltan-40-millones-dolares-siguiente-paso-nadie-pone-f202605.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Suma Capital negocia con el dueño de OD Hotels la compra de Ocean Almond",
     "medio": "Expansión",
     "fecha": 1778527039.0,
@@ -371,18 +406,11 @@
     "resumen": "Apple ha lanzado iOS 26.5 con una de las funciones más esperadas por los usuarios de un iPhone. La nueva actualización activa el cifrado de extremo a extremo en los mensajes RCS, por lo que ya te podrás mensajear de forma segura con un usuario de Android. Esta versión de iOS también incluye nuevos fondos […] Seguir leyendo: Apple lanza iOS 26.5 con mensajes cifrados entre iPhone y Android"
   },
   {
-    "titulo": "Un pasajero español aislado en el Hospital Gómez Ulla da positivo provisional en hantavirus",
-    "medio": "El Independiente",
-    "fecha": 1778526876.0,
-    "link": "https://www.elindependiente.com/vida-sana/salud/2026/05/11/un-pasajero-espanol-aislado-en-el-hospital-gomez-ulla-da-positivo-provisional-en-hantavirus/",
-    "resumen": "Un pasajero español del crucero MV Hondius, aislado en el Hospital Gómez Ulla, ha dado positivo provisional por hantavirus en […]"
-  },
-  {
-    "titulo": "Un pasajero español da positivo en hantavirus",
-    "medio": "eldiario.es",
-    "fecha": 1778526726.0,
-    "link": "https://www.eldiario.es/sociedad/pasajero-espanol-da-positivo-hantavirus_1_13212157.html",
-    "resumen": "Desde Sanidad indican que se trata de un \"positivo provisional\", a la espera del resultado de una segunda prueba de confirmación; los otros 13 pasajeros han dado negativoLos pasajeros españoles del barco del hantavirus harán cuarentena hasta el 17 de junio Uno de los 14 españoles evacuados del barco MV Hondius –13 pasajeros y un tripulante– ha dado “positivo provisional” por hantavirus en la prueba PCR que se les han realizado al llegar al Hospital Central de la Defensa Gómez Ulla. “En la actualidad, no presenta síntomas y su estado general es bueno”, indican fuentes gubernamentales, que señalan que “en las próximas horas se sabrán los resultados definitivos”. Este ciudadano está aislado y, como manda el protocolo de Sanidad, será trasladado a una de las Unidad de Aislamiento y Tratamiento de Alto Nivel (UATAN) del Gómez Ulla. Allí, permanecerá hasta la obtención de una prueba negativa o, en caso de que comenzase a presentar síntomas, hasta su recuperación clínica. Desde la Organización Mundial de la Salud ya habían advertido la semana pasada que era “posible” que apareciesen nuevos casos, “dado el periodo de incubación” del virus, de unos 42 días. Un mensaje que han vuelto a trasladar este lunes, después de que se confirmase un nuevo positivo en una de las cinco personas de nacionalidad francesa que fueron repatriadas este domingo y de que Estados Unidos informase de un caso y un sospechoso. “Sabemos que el período de incubación del hantavirus y del virus Andes es muy largo. En promedio, las personas que adquieren el virus solo desarrollarán síntomas unas tres semanas después, aunque pueden durar 40 o 45 días”, explicó esta tarde el jefe de la Unidad de Epidemiología de la OMS, Olivier le Polain. Ese “promedio” de unas tres semanas retrotrae el calendario al 20 de abril. El primer caso confirmado por PCR fue el pasado 2 de mayo. Las otras trece personas que viajaban a bordo del crucero donde surgió el brote de hantavirus han dado negativo y permanecerán en cuarentena en el hospital Gómez Ulla de Madrid. El secretario de Estado de Sanidad, Javier Padilla, ha explicado este martes que esa cuarentena se podrá extender hasta 42 días, a contar desde el pasado 6 de mayo. Ese día se produjo la evacuación del MV Hondius de los pasajeros con síntomas, que fueron trasladados a Países Bajos. La jefa de emergencias de alto impacto de la OMS, Diana Rojas, señaló este domingo que el protocolo de esta organización considera que la cuarentena debe ser de 42 días desde el momento del desembarco del buque, aunque “hay varios países que están considerando el 'día cero' el día en el que el último caso confirmado salió del barco”. Sanidad ha tomado su decisión tras un “análisis pormenorizado de todas las relaciones que ha habido dentro del barco”. Ese largo periodo de incubación “es también la razón por la que el período de seguimiento es tan largo, porque las personas todavía pueden desarrollar síntomas mucho más tarde”, indicó este lunes Le Polein. El experto explicó que “la capacidad de infección es más alta” en “los primeros momentos de la enfermedad”, cuando “resulta un poco más difícil reconocerlo”. Por eso, desaconsejó esperar a que el virus dé la cara para aislarse y llegó a plantear la posibilidad de que fuera transmisible incluso antes de presentar síntomas. Los expertos llevan días asegurando que el riesgo de transmisión entre personas es bajo y que se requieren contactos estrechos. Las autoridades sanitarias internacionales siguen considerando “bajo” el riesgo para la población global. Por el momento, los 13 españoles que han dado negativo son para Sanidad “contactos”: no presentan síntomas, pero estuvieron en el MV Hondius entre el 1 de abril y el 10 de mayo. Si continúan asintomáticas, esta primera semana estrán bajo “aislamiento estricto” en el Gómez Ulla. Después, se someterán a un nuevo test en siete días, que se enviará para su análisis al Centro Nacional de Microbiología. Las autoridades sanitarias contemplan para estas personas una “vigilancia activa supervisada”. Se les tomará la temperatura dos veces al día y se investigará cualquier presencia de síntomas compatibles con la hantavirus. “Si se presente un aumento de temperatura o cualquier síntoma compatible, serán considerados y tratados como casos probables”, indica el Protocolo de manejo de contactos y casos del Ministerio. Si alguno de estos 13 pasajeros presentase síntomas, sería trasladado a una habitación de aislamiento con presión negativa y se le realizaría una PCR en sangre y suero y un frotis nasofaríngeo, en caso de presentar síntomas respiratorios. Si sale negativa y continúa con síntomas, se repetirá a las 24 horas y, si continúa siendo negativa y persiste la sintomatología, de nuevo a las 48 horas. Es el mismo protocolo que se está siguiendo con la paciente de Alicante, que estuvo en el mismo avión en el que embarcó la pasajera del crucero que falleció finalmente en Johannesburgo. En caso de que se produzca algún nuevo positivo, este será trasladado a la Unidad de Aislamiento y Tratamiento de Alto Nivel (UATAN). Francia ha confirmado este lunes su primer caso de hantavirus. De los cinco pasajeros franceses que viajaban en el crucero y que fueron repatriados este domingo, una mujer comenzó a presentar síntomas durante el vuelo de Tenerife a París y ha dado finalmente positivo. El otro positivo detectado en las últimas horas es de Estados Unidos. El Departamento de Sanidad y Servicios Humanos (HHS, por sus siglas en inglés) anunció que de los 17 estadounidenses que viajaban en el crucero, dos lo hicieron en unidades de biocontención del avión por “precaución excesiva”: uno ha dado “positivo leve” en una PCR para el virus Andino y negativo en otra, realizadas por el equipo de epidemiólogos y otro presenta “síntomas leves”."
+    "titulo": "Sanidad confirma un caso positivo de hantavirus entre los 14 españoles del Gómez Ulla",
+    "medio": "El Español",
+    "fecha": 1778526649.0,
+    "link": "https://www.elespanol.com/ciencia/20260511/sanidad-confirma-caso-positivo-hantavirus-espanoles-gomez-ulla/1003744241112_0.html",
+    "resumen": "Ante un resultado positivo, el protocolo aprobado por Sanidad establece que se ingresará al paciente en una unidad UATAN hasta la recuperación clínica.Más información: Las imágenes del desembarco del MV Hondius y el traslado de los 14 españoles"
   },
   {
     "titulo": "Nexus reduce ingresos y ganancias antes de ejecutar el plan de Sojitz",
@@ -390,13 +418,6 @@
     "fecha": 1778526191.0,
     "link": "https://www.expansion.com/catalunya/2026/05/11/6a0227db468aeb47278b458d.html",
     "resumen": "La comercializadora alcanza una facturación de 1.673 millones en 2025 y obtiene un beneficio de 11,3 millones en un ejercicio marcado por la alta volatilidad, los cambios regulatorios y el gran apagón. Leer"
-  },
-  {
-    "titulo": "Hallan el cuerpo de uno de los soldados estadounidenses desaparecidos en Marruecos",
-    "medio": "El Mundo",
-    "fecha": 1778526061.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/11/6a022765fdddff1a1b8b45af.html",
-    "resumen": "Los dos fueron reportados como desaparecidos el 2 de mayo luego de participar en \"León Africano\". Equipos militares siguen en busca del otro soldado Leer"
   },
   {
     "titulo": "La Generación Z ya no quiere trabajar para Amazon, Apple o Google. El 76% apuesta por carreras radicalmente opuestas a la programación",
@@ -418,13 +439,6 @@
     "fecha": 1778525993.0,
     "link": "https://www.elespanol.com/mujer/protagonistas/20260511/jose-luis-martinez-almeida-tomas-paramo-maria-jaime-dj-nano-paz-padilla-celebran-premios-castizos-gran-noche-neochulapismo/1003744240696_3.html",
     "resumen": "El teatro Circo Price de Madrid ha acogido la primera edición de estos galardones que celebran la tradición madrileña.Más información: Los I Premios Castizos: Tomás Páramo, María G de Jaime, Johanna von Müller-Klingspor y Paz Padilla, entre los ganadores"
-  },
-  {
-    "titulo": "El Hantavirus, un tema secundario en EEUU: \"Tenemos esto bajo control y no estamos preocupados\"",
-    "medio": "El Mundo",
-    "fecha": 1778525347.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/11/6a021b19fc6c83cb308b4586.html",
-    "resumen": "Tras la llegada de los 17 turistas del crucero, el presidente y el Centro para el Control y la Prevención de Enfermedades insisten en que \"el riesgo para la población estadounidense sigue siendo extremadamente bajo\" Leer"
   },
   {
     "titulo": "García da por \"completada\" la misión del hantavirus: \"España ha cumplido con eficacia, transparencia y humanidad\"",
@@ -460,13 +474,6 @@
     "fecha": 1778524226.0,
     "link": "https://www.xataka.com/movilidad/solar-impulse-convirtio-realidad-sueno-avion-solar-ahora-ha-terminado-destruido-accidente",
     "resumen": "Hubo un tiempo en el que el Solar Impulse 2 parecía sacado de una pregunta sencilla: hasta dónde puede llegar un avión si dejamos fuera el combustible convencional. La respuesta no fue un producto comercial, sino una aeronave experimental alimentada por energía solar y baterías que acabó dando la vuelta al mundo. Por eso la noticia tiene una carga especial. Aquel avión que simbolizó una forma distinta de imaginar la aviación ha terminado estrellado en el Golfo de México durante una prueba autónoma. El golpe llegó el 4 de mayo. Según Aviation Safety Network, el Solar Impulse 2 estaba realizando un vuelo autónomo de pruebas cuando perdió potencia y terminó estrellándose en el agua. La parte menos amarga de la noticia es que no hubo heridos ni fallecidos, algo importante porque el avión ya volaba sin tripulación en esta nueva etapa. La parte más simbólica es otra: el aparato que durante años convirtió una promesa tecnológica en algo visible ha quedado reducido a los restos de un accidente. Detrás del proyecto estaba Bertrand Piccard, una figura marcada por una tradición familiar de exploradores: su abuelo Auguste Piccard fue pionero de las profundidades y su padre, Jacques Piccard, llegó a la fosa de las Marianas. En 2003 empezó a imaginar una aeronave solar capaz de dar la vuelta al mundo para llamar la atención sobre la “energía sostenible”. Primero llegó Solar Impulse 1, con su vuelo inicial en 2009, y después el salto definitivo. El avión que convirtió el sol en energía de vuelo Lo llamativo es que aquella ambición no se apoyaba en una máquina gigantesca en el sentido tradicional. El Solar Impulse 2 tenía una envergadura enorme, unos 71 metros, superior a la de un Boeing 747, pero pesaba alrededor de 2,3 toneladas gracias a su estructura de fibra de carbono. La energía llegaba de 17.248 células fotovoltaicas repartidas por el avión, con una potencia máxima de 66 kW para mover cuatro motores eléctricos y cargar cuatro baterías de iones de litio. '' El momento que lo convirtió en algo más que una rareza tecnológica llegó en 2016. Aquel año, el Solar Impulse 2 completó la primera vuelta al mundo de un avión de ala fija alimentado íntegramente por energía solar, una travesía que se alargó durante más de 15 meses. Bertrand Piccard y André Borschberg, cofundador de la fundación, se fueron alternando a los mandos durante el recorrido. No era una demostración de velocidad, desde luego: el avión se movía entre 31 y 62 millas por hora, bajando el ritmo durante los tramos nocturnos. Después de aquella hazaña, la historia cambió de tono. En 2019, la Solar Impulse Foundation anunció la venta del avión a Skydweller Aero por una cantidad no revelada. La compañía hispanoestadounidense no miraba el proyecto exactamente desde el mismo lugar que sus creadores: su interés pasaba por explorar el potencial de la aeronave como plataforma de vigilancia y comunicaciones, un destino muy distinto al mensaje original de concienciación energética. Con Skydweller empezó también la transformación técnica del aparato. Tras incorporar numerosas modificaciones, el avión completó en España su primer vuelo autónomo en 2023, y al año siguiente realizó en el aeropuerto internacional de Stennis, cerca de Bay St. Louis, Mississippi, su primera operación completamente no tripulada. En Xataka Mientras la clase turística se degrada, Airbus tiene claro el futuro: una clase premium con camas dobles y baño privado El objetivo declarado por la compañía era desarrollar una flota de aviones solares capaces de realizar vuelos sin escalas en determinadas latitudes, entre Miami y Río de Janeiro. La ambición era evidente: operaciones casi continuas para contratos militares y comerciales, con un coste mucho menor que las opciones basadas en satélites. Una promesa enorme que ha terminado bajo el agua. Imágenes | Solar Impulse (1, 2, 3, 4) En Xataka | Mientras todos miramos a Irán, algo se mueve en el Círculo Polar Ártico: Rusia está enviando a bombarderos con misiles - La noticia El Solar Impulse convirtió en realidad el sueño del avión solar. Ahora ha terminado destruido tras un accidente fue publicada originalmente en Xataka por Javier Marquez ."
-  },
-  {
-    "titulo": "Vox descarta una abstención si Juanma Moreno se queda al borde de la absoluta en Andalucía",
-    "medio": "El Mundo",
-    "fecha": 1778524002.0,
-    "link": "https://www.elmundo.es/espana/2026/05/11/6a01c9d0e4d4d8e9608b4583.html",
-    "resumen": "El partido insiste en rebajar sus expectativas y se limita a decir que \"ojalá\" las urnas den a la formación capacidad de influir en el futuro gobierno Leer"
   },
   {
     "titulo": "El dueño de Quirónsalud abre un 'hub' en Barcelona",
@@ -509,13 +516,6 @@
     "fecha": 1778522701.0,
     "link": "https://www.elindependiente.com/espana/2026/05/11/juzgado-huelva-investiga-muerte-dos-guardias-civiles-persecucion-narcolancha/",
     "resumen": "La plaza numero 2 de la Sección de Instrucción de Huelva ha abierto diligencias por la muerte de los dos […]"
-  },
-  {
-    "titulo": "Un tribunal boliviano declara en rebeldía a expresidente Evo Morales por ausentarse a un juicio en su contra por trata agravada",
-    "medio": "El Mundo",
-    "fecha": 1778522571.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/11/6a0218d8e9cf4a6a308b45bc.html",
-    "resumen": "El exmandatario está acusado de haber mantenido una relación con una menor de edad, con la que presuntamente tuvo una hija en 2016, mientras fue presidente de Bolivia Leer"
   },
   {
     "titulo": "Tatooine ya no es ciencia ficción: un nuevo método de búsqueda detecta decenas de posibles planetas con dos soles que nos habían pasado desapercibidos",
@@ -679,6 +679,13 @@
     "resumen": "McEvoy invita a que sean \"los sindicatos que abandonaron la mesa de negociación\" los que reanuden las conversaciones y cifra en un 50,12% el seguimiento de la huelga.Más información: El TSJCV avala que los servicios mínimos de la huelga docente cubran las clases de bachiller para garantizar la PAU"
   },
   {
+    "titulo": "Cuatro CC.AA. rastrearán redes y frecuencias para que los alumnos no copien y vetar la IA en Selectividad",
+    "medio": "Europa Press",
+    "fecha": 1778516366.0,
+    "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-murcia-galicia-cataluna-aragon-rastrearan-redes-frecuencias-alumnos-no-copien-selectividad-20260511181926.html",
+    "resumen": "La Región de Murcia, Galicia, Cataluña y Aragón aplicarán medidas de rastreo de redes y frecuencias para evitar que los alumnos copien y vetar el uso de Inteligencia Artificial (IA) durante el examen de la prueba de acceso a la universidad (PAU) de este verano."
+  },
+  {
     "titulo": "“Contra el odio, periodismo digno”: infoLibre cumple 13 años",
     "medio": "Infolibre",
     "fecha": 1778515510.0,
@@ -803,13 +810,6 @@
     "fecha": 1778506366.0,
     "link": "https://www.moncloa.com/2026/05/11/masa-polar-cataluna-ultimo-dia-3376448/",
     "resumen": "El Meteocat alerta del último día de buen tiempo en Cataluña antes de que una masa de aire polar provoque un descenso térmico brusco, lluvias y nieve en cotas bajas a partir del martes 12 de mayo. La entrada Meteocat alerta: este lunes es el último día de buen tiempo en Cataluña antes de la masa polar aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Los Veintisiete dan luz verde a sancionar a colonos israelíes en Cisjordania y a altos cargos de Hamás",
-    "medio": "Europa Press",
-    "fecha": 1778506222.0,
-    "link": "https://www.europapress.es/internacional/noticia-veintisiete-dan-luz-verde-sancionar-colonos-israelies-cisjordania-altos-cargos-hamas-20260511153022.html",
-    "resumen": "Los Veintisiete han alcanzado este lunes un acuerdo político para la imposición de sanciones contra colonos israelíes por la violencia ejercida desde sus asentamientos en Cisjordania, y también para aprobar nuevas medidas restrictivas contra altos cargos del Movimiento de Resistencia Islámica (Hamás)."
   },
   {
     "titulo": "Italy’s Ruling Class Has Found Its Plan B",
