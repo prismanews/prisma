@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 21 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1779032501">
+    <link rel="stylesheet" href="prisma.css?v=1779039316">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>21 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 21 medios · <time datetime="2026-05-17T15:41:41.355600">Actualizado: 17/05/2026 15:41</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-05-17T17:35:16.656575">Actualizado: 17/05/2026 17:35</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -135,12 +135,14 @@
             <select id="filtro-medio">
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
+                <option value="Applesfera">Applesfera</option>
                 <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
                 <option value="Europa Press">Europa Press</option>
                 <option value="Expansión">Expansión</option>
+                <option value="Genbeta">Genbeta</option>
                 <option value="Hipertextual">Hipertextual</option>
                 <option value="HuffPost">HuffPost</option>
                 <option value="Infolibre">Infolibre</option>
@@ -158,12 +160,128 @@
             </select>
         </div>
 
-        <div class="card" data-medios="eldiario.es,Moncloa.com,El Mundo,Europa Press">
-            <h2>Claves: Ataque, moscú y drones</h2>
+        <div class="card" data-medios="Europa Press,Infolibre,Expansión,El País,El Mundo">
+            <h2>Portada: Participación, puntos y 2022</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                5 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html" target="_blank" rel="noopener">Elecciones en Andalucía 17M, en directo | La participación a las 18.00 sube más de siete puntos respecto a 2022 y supera el 52%</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a09897a21efa0e74a8b4582.html" target="_blank" rel="noopener">La participación a las 18.00 horas en las elecciones de Andalucía se dispara al 52,16%, más de siete puntos y medio superior a la de 2022</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/participacion-andalucia-sube-7-6-puntos-2022-18-00-horas-supera-52_1_2194409.html" target="_blank" rel="noopener">La participación en Andalucía sube 7,6 puntos más que en 2022 y supera el 52% a las 18.00 horas</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 2 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Expansión:</strong> <a href="https://www.expansion.com/elecciones/elecciones-andalucia/2026/05/17/6a099487468aeb31558b4570.html" target="_blank" rel="noopener">La participación es del 52,16% a las 18:00 horas, 7,6 puntos más que en 2022</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-directo-elecciones-andalucia-2026-participacion-resultados-ultima-hora-elecciones-autonomicas-17m-20260517055950.html" target="_blank" rel="noopener">Directo | Elecciones Andalucía 2026: La participación alcanza el 52,16% a las 18 horas, 7,65 puntos más que en 2022</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="El País,The Objective,El Español,El Mundo">
+            <h2>En foco: Madrid, coche y policía</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 4 medios · tono equilibrado · 
                 múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/sociedad/suceso/2026-05-17/vtc-accidente-madrid-policia-local-ocho-heridos/" target="_blank" rel="noopener">Un VTC choca en Madrid con un coche de Policía Local y deja ocho heridos</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/futbol/2026-05-17/la-jornada-37-de-la-liga-en-directo-todos-los-partidos-en-vivo.html" target="_blank" rel="noopener">La jornada 37 de la Liga en directo | marca el Atlético; Levante y Girona, en descenso</a></p>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/madrid/2026/05/17/6a09f0d9fdddff2d048b4584.html" target="_blank" rel="noopener">Ocho heridos en la calle Alcalá durante un choque múltiple entre un coche, un Uber y una patrulla de la Policía Nacional</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/20260517/sevilla-real-madrid-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744246758_22.html" target="_blank" rel="noopener">Sevilla - Real Madrid, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="OK Diario,El País">
+            <h2>Claves: Hora, colegios y electorales</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/hasta-que-hora-puede-votar-hoy-andalucia-16781899" target="_blank" rel="noopener">A qué hora cierran los colegios electorales en Andalucía 2026: horarios, cómo va hoy la participación, resultados, y hasta qué hora se puede votar</a></p>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/cuando-cierran-colegios-electorales-andalucia-hoy-2-16801656" target="_blank" rel="noopener">¿A qué hora cierran los colegios electorales en Andalucía hoy?</a></p>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/elecciones-andalucia-2026-directo-ultima-hora-votaciones-candidatos-donde-votar-participacion-16781881" target="_blank" rel="noopener">Cómo van las elecciones de Andalucía 2026, en directo hoy: últimas noticias, resultados, quién ganará, escrutinio, sondeos, participación, a qué hora cierran los colegios electorales y última hora en vivo</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El País:</strong> <a href="https://elpais.com/espana/elecciones-andalucia/2026-05-17/los-problemas-para-constituir-las-mesas-en-tres-colegios-electorales-retrasan-la-publicacion-de-datos-oficiales.html" target="_blank" rel="noopener">Los problemas para constituir las mesas en tres colegios electorales retrasan la publicación de datos oficiales</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="eldiario.es,Moncloa.com,Europa Press">
+            <h2>Tema: Ataque, moscú y tres</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                3 medios · tono equilibrado · 
+                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -182,89 +300,13 @@
 
             <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/05/17/ataque-drones-moscu-127-uav-3377556/" target="_blank" rel="noopener">Ataque drones Moscú: Ucrania lanza 127 UAV, tres civiles muertos en el mayor asalto</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/05/17/6a096727e85ece1d7f8b456d.html" target="_blank" rel="noopener">La guerra de Ucrania salpica de nuevo a Moscú con el mayor ataque con drones en la capital en más de un año</a></p>
-
             <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/ucrania-lanza-ataque-drones-moscu-deja-tres-muertos-15-heridos_1_13227561.html" target="_blank" rel="noopener">Ucrania lanza un ataque con drones contra Moscú que deja al menos tres muertos y 15 heridos</a></p>
 
-            <details class="ver-mas">
-                <summary>+ 1 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-ataque-ucraniano-drones-dirigido-moscu-deja-menos-tres-muertos-cuatro-heridos-20260517060934.html" target="_blank" rel="noopener">Al menos tres muertos y 17 heridos en el ataque ucraniano contra Moscú más potente de toda la guerra</a></p>
-
-                </div>
-            </details>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-ataque-ucraniano-drones-dirigido-moscu-deja-menos-tres-muertos-cuatro-heridos-20260517060934.html" target="_blank" rel="noopener">Al menos tres muertos y 17 heridos en el ataque ucraniano contra Moscú más potente de toda la guerra</a></p>
         </div>
 
-        <div class="card" data-medios="OK Diario,El País,HuffPost">
-            <h2>Hoy: Andalucía, hora y colegios</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/elecciones-andalucia-2026-directo-ultima-hora-votaciones-candidatos-donde-votar-participacion-16781881" target="_blank" rel="noopener">Resultado de las elecciones Andalucía 2026, en directo: cómo van, quién ganará, escrutinio, sondeos, participación, a qué hora cierran los colegios electorales y última hora en vivo</a></p>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/andalucia/hasta-que-hora-puede-votar-hoy-andalucia-16781899" target="_blank" rel="noopener">Horario elecciones Andalucía 2026: a qué hora cierran los colegios, cómo va hoy la participación, resultado, y hasta qué hora se puede votar</a></p>
-
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/unos-resultados-conoceran-mas-tarde-previsto-horario-tres-colegios-andalucia-retrasos-f202605.html" target="_blank" rel="noopener">Unos resultados que se conocerán más tarde de lo previsto: amplían el horario en tres colegios de Andalucía por retrasos</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 1 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>El País:</strong> <a href="https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html" target="_blank" rel="noopener">Elecciones en Andalucía 17M, en directo | La publicación de resultados se retrasa a las 20.43 por problemas en la constitución de tres colegios</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="eldiario.es,Moncloa.com,El Mundo">
-            <h2>En foco: Hantavirus, negativo y barcelona</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
-                </div>
-            </div>
-
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/05/17/hantavirus-barcelona-cuarentena-domiciliaria-3377541/" target="_blank" rel="noopener">Hantavirus en Barcelona: cuarentena domiciliaria para pacientes si dan negativo</a></p>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/ciencia-y-salud/salud/2026/05/17/6a06fc2ce85ecee64c8b45b7.html" target="_blank" rel="noopener">José Antonio López Guerrero, virólogo: "Este hantavirus no tiene el potencial pandémico que sí demostró tener el coronavirus"</a></p>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/comunitat-valenciana/mujer-aislada-hospital-alicante-da-negativo-hantavirus-cuarta-vez_1_13227683.html" target="_blank" rel="noopener">La mujer aislada en un hospital de Alicante da negativo en hantavirus por cuarta vez</a></p>
-        </div>
-
-        <div class="card" data-medios="El Español,El País,Europa Press">
-            <h2>Portada: Participación, tres y puntos</h2>
+        <div class="card" data-medios="Yorokobu,Europa Press,Trendencias">
+            <h2>En foco: Novedad, tous y anillo</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -276,159 +318,24 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html" target="_blank" rel="noopener">La participación en las elecciones andaluzas sube tres puntos a las 14.00 respecto a 2022</a></p>
-
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/andalucia/20260517/participacion-crece-puntos-andaluces-votado/1003744248620_0.html" target="_blank" rel="noopener">La participación crece tres puntos a las 14.00 con respecto a 2022: más del 37,23 % de los andaluces ya ha votado</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-directo-elecciones-andalucia-2026-participacion-resultados-ultima-hora-elecciones-autonomicas-17m-20260517055950.html" target="_blank" rel="noopener">Directo | Elecciones Andalucía 2026: La participación alcanza el 37,25% a las 14 horas, tres puntos más que en 2022</a></p>
-        </div>
-
-        <div class="card" data-medios="El País,El Mundo">
-            <h2>En foco: Accidente, márquez y motogp</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/motociclismo/2026/05/17/6a09ba0321efa04b0f8b4586.html" target="_blank" rel="noopener">Un grave accidente de Álex Márquez en el Gran Premio de Cataluña de MotoGP obliga a interrumpir la carrera</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/motociclismo/2026-05-17/gravisimo-accidente-de-alex-marquez-durante-la-carrera-del-gp-de-catalunya.html" target="_blank" rel="noopener">Un espeluznante accidente en el GP de Catalunya de MotoGP termina con Alex Márquez en el hospital</a></p>
-        </div>
-
-        <div class="card" data-medios="Expansión,OK Diario">
-            <h2>Claves: Internacional, euros y cabrera</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/okplanes/cabrera-ofrece-cine-nacional-internacional-solo-2-euros-16797453" target="_blank" rel="noopener">La Cabrera ofrece cine nacional e internacional por solo 2 euros</a></p>
-
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/transporte/2026/05/17/6a09b1c4468aebc6708b4583.html" target="_blank" rel="noopener">Cada turista internacional tiene previsto gastar más de 2.500 euros en España este verano</a></p>
-        </div>
-
-        <div class="card" data-medios="The Objective,El Español">
-            <h2>Relevante: Álex, márquez y caída</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
-                </div>
-            </div>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/deportes/2026-05-17/alex-marquez-hospital-circuito-cataluna/" target="_blank" rel="noopener">Álex Márquez es trasladado al hospital tras una brutal caída en el circuito de Cataluña</a></p>
-
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/motor/motogp/20260517/alex-marquez-sufre-caida-escalofriante-gp-cataluna-provoca-bandera-roja-carrera/1003744248799_0.html" target="_blank" rel="noopener">Álex Márquez sufre una espeluznante caída durante la carrera en Barcelona y es evacuado en ambulancia</a></p>
-        </div>
-
-        <div class="card" data-medios="The Objective,Europa Press">
-            <h2>Tema: Ébola, brote y uganda</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/2026-05-17/sanidad-muy-bajo-riesgo-ebola-espana/" target="_blank" rel="noopener">Sanidad ve «muy bajo» el riesgo de ébola en España tras el brote en el Congo y Uganda</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-salud-oms-declara-emergencia-internacional-brote-ebola-rdc-uganda-20260517042049.html" target="_blank" rel="noopener">La OMS declara la emergencia internacional por un brote de ébola en RDC y Uganda</a></p>
-        </div>
-
-        <div class="card" data-medios="Yorokobu,Trendencias">
-            <h2>Relevante: Novedad, tous y anillo</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
                 </div>
             </div>
 
             <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/shopping/novedad-tous-anillo-plata-bonito-atemporal-que-pasara-madres-a-hijas" target="_blank" rel="noopener">Novedad en Tous: el anillo de plata más bonito y atemporal que pasará de madres a hijas</a></p>
 
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-montero-anima-andaluces-no-quedarse-casa-ir-votar-ilusion-17m-importantisimo-20260517113345.html" target="_blank" rel="noopener">Montero anima a los andaluces a no quedarse "en casa" y a ir a votar "con ilusión" en este 17M "importantísimo"</a></p>
+
             <p><strong>Yorokobu:</strong> <a href="https://yorokobu.es/elegante-culto-al-cuerpo-por-dentro-y-por-fuera-el-arte-de-fernando-vicente/" target="_blank" rel="noopener">Elegante culto al cuerpo, por dentro y por fuera: el arte de Fernando Vicente</a></p>
         </div>
 
-        <div class="card" data-medios="Xataka,La Vanguardia">
-            <h2>En foco: Preguntas, dónde y quedaron</h2>
+        <div class="card" data-medios="Expansión,El País">
+            <h2>Portada: Regreso, minab y masacre</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -449,13 +356,67 @@
                 </div>
             </div>
 
-            <p><strong>Xataka:</strong> <a href="https://www.xataka.com/movilidad/te-preguntas-donde-quedaron-todos-patinetes-compartidos-este-estudio-te-da-respuesta" target="_blank" rel="noopener">Si te preguntas dónde quedaron todos aquellos patinetes compartidos, este estudio te da la respuesta</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/planeta-futuro/2026-05-17/regreso-a-minab-la-masacre-en-la-escuela-que-conmociono-y-unio-a-los-iranies.html" target="_blank" rel="noopener">Regreso a Minab, la masacre en la escuela que conmocionó y unió a los iraníes</a></p>
 
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/dinero/20260517/11539421/como-proteger-patrimonio-tiempos-inciertos-brl.html" target="_blank" rel="noopener">Cómo proteger el patrimonio en estos tiempos inciertos</a></p>
+            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/2026/05/17/6a098897e5fdea6b608b4571.html" target="_blank" rel="noopener">Irán advierte a EEUU de una respuesta "más contundente" ante cualquier nueva agresión</a></p>
         </div>
 
-        <div class="card" data-medios="El Español,Europa Press">
-            <h2>Relevante: Bardem, cannes y trump</h2>
+        <div class="card" data-medios="El Español,El Mundo">
+            <h2>Portada: Álex, márquez y fractura</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/motociclismo/2026/05/17/6a09ba0321efa04b0f8b4586.html" target="_blank" rel="noopener">Álex Márquez, con fractura de clavícula y de una vértebra, tras un espeluznante accidente sufrido en el GP de Cataluña</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/motor/motogp/20260517/alex-marquez-sufre-caida-escalofriante-gp-cataluna-provoca-bandera-roja-carrera/1003744248799_0.html" target="_blank" rel="noopener">Álex Márquez se fractura la clavícula derecha y la vértebra C7 tras su espeluznante caída en Barcelona y será operado</a></p>
+        </div>
+
+        <div class="card" data-medios="El Independiente,El Mundo">
+            <h2>Tema: Psoe, granada y candidata</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/andalucia/2026/05/17/6a09e7b7e9cf4a90378b4589.html" target="_blank" rel="noopener">La candidata del PSOE en Granada vota en una mesa que no le corresponde y obliga a anular al azar un voto de la urna</a></p>
+
+            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/espana/2026/05/15/granada-huelva-cadiz-jaen-cuatro-provincias-clave-psoe-17m/" target="_blank" rel="noopener">Granada, Huelva, Cádiz y Jaén: las cuatro provincias en las que el PSOE apura la batalla para intentar evitar una debacle</a></p>
+        </div>
+
+        <div class="card" data-medios="eldiario.es,Moncloa.com">
+            <h2>Portada: Hantavirus, negativo y barcelona</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -467,45 +428,18 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
+                    <div class="barra-progresista" style="width: 51%;"></div>
+                    <div class="barra-conservadora" style="width: 49%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
+                    <span>Progresista 51%</span>
+                    <span>Conservador 49%</span>
                 </div>
             </div>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/cultura/cine-00128/noticia-bardem-carga-cannes-contra-puto-comportamiento-masculino-toxico-trump-netanyahu-putin-20260517140553.html" target="_blank" rel="noopener">Bardem carga en Cannes contra el "puto comportamiento masculino tóxico" de Trump, Netanyahu y Putin</a></p>
+            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/05/17/hantavirus-barcelona-cuarentena-domiciliaria-3377541/" target="_blank" rel="noopener">Hantavirus en Barcelona: cuarentena domiciliaria para pacientes si dan negativo</a></p>
 
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/el-cultural/cine/20260517/javier-bardem-cannes-masculinidad-toxica-perpetuan-hombres-poder-trump-putin/1003744248773_0.html" target="_blank" rel="noopener">Javier Bardem en Cannes: "La masculinidad tóxica la perpetúan hombres en el poder como Trump y Putin"</a></p>
-        </div>
-
-        <div class="card" data-medios="Europa Press">
-            <h2>Tema: Anima, votar y este</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/cadiz-00351/noticia-gavira-anima-votar-17m-andaluces-tenemos-oportunidad-sentido-comun-imponga-20260517120826.html" target="_blank" rel="noopener">Gavira anima a votar este 17M: "Los andaluces tenemos la oportunidad para que el sentido común se imponga"</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-montero-anima-andaluces-no-quedarse-casa-ir-votar-ilusion-17m-importantisimo-20260517113345.html" target="_blank" rel="noopener">Montero anima a los andaluces a no quedarse "en casa" y a ir a votar "con ilusión" en este 17M "importantísimo"</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/comunitat-valenciana/mujer-aislada-hospital-alicante-da-negativo-hantavirus-cuarta-vez_1_13227683.html" target="_blank" rel="noopener">La mujer aislada en un hospital de Alicante da negativo en hantavirus por cuarta vez</a></p>
         </div>
 
         <div class="cta-section">
