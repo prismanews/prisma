@@ -1,5 +1,145 @@
 [
   {
+    "titulo": "SpaceX lanza con éxito el Starship V3 tras un intento fallido en Texas",
+    "medio": "El Mundo",
+    "fecha": 1779492589.0,
+    "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/05/23/6a10e66be85ece0b798b4598.html",
+    "resumen": "El despegue marca el primer vuelo de prueba de la nave más grande y potente desarrollada por la empresa del magnate Elon Musk Leer"
+  },
+  {
+    "titulo": "Una fuga química obliga a evacuar a 40.000 personas en el sur de California: \"Nos preparamos para dos escenarios: que el tanque se fracture o explote\"",
+    "medio": "El Mundo",
+    "fecha": 1779492025.0,
+    "link": "https://www.elmundo.es/internacional/2026/05/23/6a10e05ae9cf4a634d8b45e1.html",
+    "resumen": "El tanque, que almacenaba entre 22.700 y 26.500 litros de metacrilato de metilo, se sobrecalentó y empezó a liberar vapores tóxicos al aire Leer"
+  },
+  {
+    "titulo": "García Montero, sobre el congreso de la lengua española: “España abandonó todo el imperialismo de la época franquista”",
+    "medio": "El País",
+    "fecha": 1779490915.0,
+    "link": "https://elpais.com/america/2026-05-22/garcia-montero-sobre-el-congreso-de-la-lengua-espanola-espana-abandono-todo-el-imperialismo-de-la-epoca-franquista.html",
+    "resumen": "El director del Instituto Cervantes y la ministra de Educación de Panamá firman un acuerdo que confirma al país centroamericano como organizador del XI Congreso Internacional de la Lengua Española (CILE) de 2028"
+  },
+  {
+    "titulo": "‘Macondo York’, la mirada de un García Márquez agobiado por la Gran Manzana",
+    "medio": "El País",
+    "fecha": 1779489327.0,
+    "link": "https://elpais.com/america/2026-05-22/macondo-york-la-mirada-de-un-garcia-marquez-agobiado-por-la-gran-manzana.html",
+    "resumen": "El diseñador Iván Onatra rescata en un libro gráfico los convulsos seis meses que el escritor colombiano vivió en Nueva York, a través de un viaje tipográfico y visual por el asfalto neoyorquino y citas del Nobel de Literatura"
+  },
+  {
+    "titulo": "La policía choca en La Paz con manifestantes que intentaban bloquear el acceso al aeropuerto",
+    "medio": "El País",
+    "fecha": 1779488858.0,
+    "link": "https://elpais.com/america/2026-05-22/la-policia-choca-en-la-paz-con-manifestantes-que-intentaban-bloquear-el-acceso-al-aeropuerto.html",
+    "resumen": "La ciudad sede del Gobierno de Bolivia lleva días con protestas en contra del presidente Rodrigo Paz que han generado problemas de abastecimiento por cortes en las carreteras"
+  },
+  {
+    "titulo": "ADEMA FP gradúa a más de 100 estudiantes en una promoción marcada por la excelencia y la empleabilidad",
+    "medio": "OK Diario",
+    "fecha": 1779488222.0,
+    "link": "https://okdiario.com/baleares/adema-fp-gradua-mas-100-estudiantes-promocion-marcada-excelencia-empleabilidad-17138180",
+    "resumen": "El Pati de la Misericòrdia de Palma volvió a vestirse de gala para acoger la tarde este viernes el acto de graduación del alumnado del Centro de Formación Profesional de ADEMA, en una emotiva ceremonia que reunió a estudiantes, familias, profesorado, autoridades y representantes del ámbito educativo. ADEMA, con una trayectoria de más de 30 … Continuar leyendo \"ADEMA FP gradúa a más de 100 estudiantes en una promoción marcada por la excelencia y la empleabilidad\""
+  },
+  {
+    "titulo": "Los mejores dividendos del mundo para tiempos revueltos",
+    "medio": "Expansión",
+    "fecha": 1779487887.0,
+    "link": "https://www.expansion.com/mercados/2026/05/23/6a10b86ee5fdea0b1d8b4588.html",
+    "resumen": "Iberdrola y Enagás, entre los valores españoles, junto a los europeos Munich Re, Axa, Enel, Sanofi y Roche son señalados por sus pagos seguros y al alza, junto a la americana Coca-Cola, por su resistencia. Leer"
+  },
+  {
+    "titulo": "Trump se ha reunido este viernes con sus principales asesores para decidir si reanuda la guerra en Irán",
+    "medio": "OK Diario",
+    "fecha": 1779487847.0,
+    "link": "https://okdiario.com/internacional/trump-reunido-este-viernes-sus-principales-asesores-sobre-iran-decidir-si-reanuda-guerra-17138113",
+    "resumen": "El presidente de EEUU, Donald Trump, ha reunido este viernes a su equipo de seguridad nacional de más alto nivel para analizar la situación de la guerra con Irán, según fuentes de la Casa Blanca. Fuentes cercanas al presidente indican que Trump está considerando seriamente ordenar nuevos ataques contra Irán y reanudar la guerra si … Continuar leyendo \"Trump se ha reunido este viernes con sus principales asesores para decidir si reanuda la guerra en Irán\""
+  },
+  {
+    "titulo": "Puig retoma su plan estratégico tras enterrar la fusión conEstée Lauder",
+    "medio": "Expansión",
+    "fecha": 1779487810.0,
+    "link": "https://www.expansion.com/empresas/distribucion/2026/05/23/6a10b36c468aeb2d798b457e.html",
+    "resumen": "El grupo, que se desplomó ayer en Bolsa un 13,4%, prevé reactivar las compras que quedaron aparcadas por las negociaciones y abrir una nueva línea de negocio en el canal farmacia. Leer"
+  },
+  {
+    "titulo": "CaixaBank no encuentra techo y alcanza los 19 millones de clientes",
+    "medio": "Expansión",
+    "fecha": 1779487791.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/05/23/6a10bde5468aebfe2a8b459b.html",
+    "resumen": "El banco sigue creciendo pese a tener cuotas de mercado superiores al 25% en todos los grandes negocios, como los seguros de vida, los fondos de inversión y las domiciliaciones de nóminas. Leer"
+  },
+  {
+    "titulo": "George Russell se lleva la mini pole en Canadá, con Sainz décimo y Alonso estrellado",
+    "medio": "OK Diario",
+    "fecha": 1779487284.0,
+    "link": "https://okdiario.com/deportes/george-russell-lleva-mini-pole-canada-sainz-decimo-alonso-estrella-17138135",
+    "resumen": "Mercedes empieza mandando en Canadá con un nuevo doblete. George Russell se ha llevado la mini pole (1:12.965) en la clasificación al sprint del GP de Canadá de Fórmula 1. El británico se impuso por apenas 68 milésimas a su compañero de equipo, Kimi Antonelli, que se quedó muy cerca de llevarse el premio gordo. … Continuar leyendo \"George Russell se lleva la mini pole en Canadá, con Sainz décimo y Alonso estrellado\""
+  },
+  {
+    "titulo": "Paco Roca: \"La memoria es el presente, pensar que es el pasado es un error\"",
+    "medio": "eldiario.es",
+    "fecha": 1779487211.0,
+    "link": "https://www.eldiario.es/cultura/comics/paco-roca-memoria-presente-pensar-pasado-error_1_13243047.html",
+    "resumen": "El historietista indaga sobre el amor y la pareja en su nueva novela gráfica, 'El viaje': \"Las relaciones estables son un invento humano porque es más práctico vivir en pareja que solo\"Javier Calvo y Javier Ambrossi, el fenómeno de Cannes: “Hay gente intentando poner de moda el fascismo y nuestro trabajo es que no suceda” Paco Roca ha decidido dar un paso más en su indagación en la memoria dedicando su nuevo cómic a la que generamos de nuestras relaciones sentimentales. El viaje (Astiberri) es una historia sobre el final del amor, una reflexión profunda sobre la vida en pareja, lo que buscamos en ellas y si son posibles, a largo plazo, en el mundo actual. El punto de partida fue la separación a la que él mismo se enfrentó hace unos años, a la que fue sumando capas que en sus viñetas aportan más preguntas que respuestas. El autor de Arrugas y El abismo del olvido, despliega en esta novela gráfica la honestidad, ternura y humildad que hacen falta para reconocerse lo que en el pasado pudo gestionarse mejor en busca de mejorar el presente; sin obviar los errores, contradicciones ni ejercicios de cobardía. Pero tampoco recreándose en ellos. Aquí el pasado no ata, anula ni genera una nostalgia ciega; es la puerta a otras puertas abiertas que merece la pena abrir. Lo hace a través de Fran, un exitoso escritor que, atrapado en un pequeño pueblo de la Patagonia argentina tras la cancelación de su vuelo de regreso a casa, lidia con la ruptura con la que ha sido su pareja durante casi veinte años. El viaje llega a las librerías al tiempo que ya se está preparando su adaptación al cine. ¿Están las relaciones duraderas en peligro en estos tiempos de inmediatez y múltiples estímulos? En estos momentos hay más separaciones que bodas, y es curioso si te planteas para qué sirven las relaciones de pareja estables. Son un invento humano que hicimos en su momento porque es más práctico vivir en pareja que vivir solo económicamente, a la hora de los esfuerzos. Eso en cierta manera es antinatural. La monogamia en sí ya es un reto importante tan a largo plazo porque entran en conflicto muchas cosas. Por un lado, buscamos seguridad, pero al mismo tiempo queremos que todo cambie. No queremos monotonía, pero sí la seguridad que conlleva esa estabilidad. Queremos un deseo que a su vez se pierde cuando tienes a esa persona todos los días. Hay mil cosas que hacen que aquello sea difícil de mantener y más en una sociedad como la actual, que cada vez valoramos más el individualismo y el proyecto personal que el común. Pensamos que nuestra vida está continuamente carente de algo, que nos estamos perdiendo algo importante, que hemos visto en redes algo que no tenemos. Acabamos echando de menos algo que creemos que está ahí fuera a nuestro alcance, pero que la vida en pareja impide o dificulta en muchos casos. Fran, el protagonista del viaje, descubre que su vuelo se ha cancelado En El viaje hace alusión a las parejas que siguen porque ninguna de las dos tiene el valor de separarse. Problemas actuales como la precariedad y la crisis de vivienda, ¿están afectando también a las relaciones? Sí. El 50% de las parejas se separan, pero eso no quiere decir que el otro 50% sean parejas perfectas que están juntas porque quieren estar juntas, sino que en muchos casos es imposible separarse porque no puedes pagar dos pisos o duplicar la cantidad de gastos que eso supone. O simplemente por miedo. No deseas la vida que tienes, pero te da miedo perder eso porque no estás seguro de encontrar lo que quieres encontrar. La pareja es muy complicada, pero la parte positiva de todo esto es que existe el amor. Es lo que hace que nos olvidemos de todos estos factores, porque si no sería imposible emprender una relación, sabiendo que tienes una gran posibilidad de fracaso. El amor es lo que nos hace olvidar todo eso y pensar que la nuestra es diferente a cualquier otra y que tendrá éxito. ¿Quería que, pese a que la historia girara en torno a una ruptura, fuera realista y esperanzadora? De todos los cómics que he hecho, este es del que menos respuestas he obtenido porque entran en juego muchos factores que son incontrolables, desde emociones a cadencias de la infancia que proyectas en tus relaciones futuras. Todo complejísimo y cada pareja es un mundo. El viaje no es un libro de autoayuda, es un libro en el que mucha gente se va a sentir identificada. Simplemente trata de contar los asuntos a los que todos nos enfrentamos. Desde cómo gestionar la vida con unos hijos después de una ruptura, qué hacemos con la memoria, qué guardamos en un cajón para no verlo a diario y nos permita avanzar, qué dejamos fuera para recordar que lo que hemos vivido no ha sido un tiempo perdido. El historietista Paco Roca, publica 'El viaje' En El viaje hay una mirada al pasado esperanzadora en cuanto a que permite tener un presente y futuro mejores. Una idea completamente alejada de quienes defienden que “cualquier tiempo pasado fue mejor”. Me interesa el tema de la memoria y creo que es un error pensar que la memoria es el pasado. La memoria es el presente. Lo que continuamente estamos haciendo es un relato del pasado desde el presente. Y de todo lo que hay en el pasado, en cada presente encontramos lo que queremos encontrar. Esto nos pasa como sociedad, que miramos determinados aspectos del pasado y a partir de ahí hacemos una reconstrucción. Los muy nacionalistas españoles, solamente cogen una parte de la historia. Se van a los Reyes Católicos, a Hernán Cortés y a los rojos que acabaron con todas las tradiciones y demás; y son capaces de crear un relato del pasado a partir de esos puntos. Y pensar que eso es la historia de España que nos lleva hasta ahora. Un musulmán español hará un recorrido muy diferente. Lo hacemos como sociedad e individualmente constantemente, y siempre desde un presente. Si nuestro nacionalismo está atacado, busco en el pasado ese recorrido. Si mi identidad está atacada, buscaré en ese pasado. Con las relaciones ocurre lo mismo, que acabamos buscando en ese pasado todo lo que nos ha llevado a ello, lo malo que ha sido todo; y posiblemente después de unos años busquemos otras cosas porque estemos en otra situación, porque queramos sentirnos bien con aquello que fuimos en pareja y buscamos otras cosas. La historia todavía está buscando cuál va a ser el relato del pasado por lo menos en ese momento de su vida. No quiere decir que ese relato quede para siempre, es cambiante y va dejando fuera a determinadas cosas que nunca olvidará, pero que seguramente mantendrá en un cajón. Al igual que con la memoria histórica. No se trata de estar todos los días hablando y teniendo presente determinadas cosas, pero sí de analizarlas y de que nos sirvan para seguir avanzando. En las relaciones es igual. El pensamiento en bucle que tenemos muchas veces al final de una relación es simplemente nuestro cerebro que está intentando digerir todo, encontrar unas razones, unos motivos y errores que nos permitan en un futuro mejorar y comprender lo que ha ocurrido. Fran, tratando de localizar el hotel donde se quedará hasta que le reasignen de vuelo Con la memoria histórica sucede esto, quienes miran hacia atrás buscando un futuro mejor, y quienes tienen apego a la nostalgia para no avanzar. Claro, ese es el equilibrio y lo complicado. Al trabajar en este cómic, una de las cosas sobre las que tenía convencimiento respecto a la memoria histórica es que no hay que olvidar, mientras que con otros asuntos más personales, sí. Pero claro, acabas encontrando esa teoría que lo unifica un poco todo: hay que cerrar heridas. Cuando algo está tan presente en tu vida, ya sea una ruptura sentimental o una sociedad, la anormalidad está en no cerrar las heridas. Como sociedad necesitas cerrar heridas, ya sea en reparación y justicia, en escuchar a las víctimas o exhumar los cuerpos de las fosas comunes. Antes de olvidar hay que cerrar para poder reemprender tu vida y seguir avanzando. En las relaciones de pareja también. No se trata de olvidar tu pasado, sino ser capaz de asimilar que aquello terminó, que nunca volverá, que los recuerdos son vivencias que han quedado; pero todo esto que ya lo tengo gestionado, lo guardo en un cajón porque si no, sería incapaz de rehacer mi vida. Tanto como sociedad como en persona, te das cuenta de que se trata de cerrar heridas. Hasta que no cierras heridas no puedes avanzar, y para cerrar heridas requieres de una mirada atrás, de una reflexión y de intentar estar en paz como sociedad y persona contigo mismo. Cuando algo está tan presente en tu vida, ya sea una ruptura sentimental o de una sociedad, la anormalidad está en no cerrar las heridas. Como sociedad lo necesitas, ya sea en reparación y justicia, en escuchar a las víctimas o exhumar los cuerpos de las fosas comunes Paco Roca — Historietista De cara a lo que tiene que ver con los ritmos y el que ahora tengamos que estar continuamente en todo, ¿siente que este contexto le ha podido afectar al crear sus historias? No sabría qué decirte. Tengo muchísima suerte porque puedo elegir los temas que quiero tratar y, en principio, yo marco mis ritmos; pero es verdad que a veces te ves metido en una dinámica que no puedes controlar. A partir del éxito de Arrugas he tenido otra vida, en lo laboral y personal. Elvira Lindo decía que cuando las cosas te van bien, todo se une para evitar que puedas seguir trabajando. Es un gran problema porque hasta ese momento tu tiempo es para lo que tú quieres, pero cuando te empieza a ir bien, tienes mil cosas que hacer. Dentro de tu país, ir a todas las ferias que te van invitando, charlas, premios. También empiezas a ser traducido a infinidad de países a los que tienes que viajar; y al mismo tiempo lo que quieres es seguir creando porque sabes que si dejas de crear todo se hunde. No es de una forma directa de una editorial que te marque los tiempos, pero sí que es verdad que es un mogollón de cosas difíciles de gestionar, sobre todo porque te quedas en un limbo intermedio en el que no controlas tu tiempo."
+  },
+  {
+    "titulo": "Coches eléctricos españoles: así son los nuevos Volkswagen, Cupra y Skoda 'made in Spain'",
+    "medio": "Expansión",
+    "fecha": 1779487170.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/05/22/6a10509b468aebbc368b459d.html",
+    "resumen": "Las marcas del Grupo Volkswagen comienzan a producir en sus plantas españolas sus nuevos modelos eléctricos pequeños, que están llamados a ser unos superventas en Europa y convertirán a España en un 'hub' europeo de la movilidad eléctrica. Leer"
+  },
+  {
+    "titulo": "Las claves bursátiles de la próxima semana",
+    "medio": "Expansión",
+    "fecha": 1779487139.0,
+    "link": "https://videos.expansion.com/v/xaauk6a-las-claves-bursatiles-de-la-proxima-semana-22-5-2026?uetv_pl=0",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "No hay infortunio que tumbe al Madrid: derrota al Valencia y buscará en Atenas su 12ª Euroliga",
+    "medio": "El Mundo",
+    "fecha": 1779487081.0,
+    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/05/22/6a109888e4d4d8af418b45cb.html",
+    "resumen": "Los blancos superan sus ausencias y la lesión de Garuba para vencer a los taronja en una semifinal que dominaron desde el segundo cuarto. El acierto, los 25 puntos de Hezonja y el rebote, claves Leer"
+  },
+  {
+    "titulo": "La posibilidad de predecir el futuro seduce al inversor minorista en EEUU",
+    "medio": "Expansión",
+    "fecha": 1779487080.0,
+    "link": "https://www.expansion.com/mercados/2026/05/22/6a10ae3ee5fdea851a8b458c.html",
+    "resumen": "Kalshi, Polymarket o Robinhood convierten el resultado de elecciones, reuniones de la Fed o un partido en contratos de futuros negociables, aunque sus críticos argumentan que son apuestas disfrazadas de inversión. Leer"
+  },
+  {
+    "titulo": "La geopolítica y la IA marcan el futuro global",
+    "medio": "Expansión",
+    "fecha": 1779487060.0,
+    "link": "https://www.expansion.com/foro-internacional/2026/05/22/6a10bb9b468aebbc368b45b5.html",
+    "resumen": "Los expertos abogan por una mayor integración europea que permita al Viejo Continente ganar agilidad y tiempo para competir con EEUU y China por el liderazgo en este nuevo escenario mundial. Leer"
+  },
+  {
+    "titulo": "Las últimas apuestas de Berkshire, a examen",
+    "medio": "Expansión",
+    "fecha": 1779486956.0,
+    "link": "https://www.expansion.com/mercados/2026/05/22/6a05dd01e5fdea95468b458c.html",
+    "resumen": "Vende toda la posición en Amazon y en su lugar compra Google y 'New York Times' con ganas. Leer"
+  },
+  {
+    "titulo": "Trágico accidente en Mallorca: un hombre de 67 años muere tras chocar contra un muro de piedra",
+    "medio": "OK Diario",
+    "fecha": 1779486604.0,
+    "link": "https://okdiario.com/baleares/tragico-accidente-mallorca-hombre-67-anos-muere-chocar-contra-muro-piedra-17138055",
+    "resumen": "Las carreteras de Mallorca se cobran una nueva víctima mortal. Se trata de un hombre de 67 años y de nacionalidad española que perdió la vida este viernes por la tarde tras sufrir un aparatoso accidente de tráfico en la carretera vieja de Inca (Ma-13A), a la altura del término municipal de Santa Maria del … Continuar leyendo \"Trágico accidente en Mallorca: un hombre de 67 años muere tras chocar contra un muro de piedra\""
+  },
+  {
+    "titulo": "Gloriosa oda al toro 'Cantaor': la excelencia de Victoriano del Río se cita, otra vez, con Las Ventas",
+    "medio": "El Mundo",
+    "fecha": 1779486446.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/05/22/6a102beefdddff65428b45a2.html",
+    "resumen": "Un ejemplar de proverbial categoría, premiado con la vuelta al ruedo, resucita al mejor Sebastián Castella, que arruina su séptima Puerta Grande con la espada Leer"
+  },
+  {
     "titulo": "La familia del testaferro de Maduro Alex Saab abandona Venezuela y vivirá en Miami tras su deportación a EEUU",
     "medio": "OK Diario",
     "fecha": 1779486246.0,
@@ -26,13 +166,6 @@
     "fecha": 1779484200.0,
     "link": "https://elpais.com/espana/2026-05-22/el-supremo-rechaza-suspender-el-decreto-de-regularizacion-de-inmigrantes.html",
     "resumen": "La Sala de lo Contencioso desestima la petición cautelar de la Comunidad de Madrid, Vox y tres asociaciones"
-  },
-  {
-    "titulo": "Gloriosa oda al toro 'Cantaor': la excelencia de Victoriano del Río se cita, otra vez, con Las Ventas",
-    "medio": "El Mundo",
-    "fecha": 1779484066.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/05/22/6a102beefdddff65428b45a2.html",
-    "resumen": "Un ejemplar de proverbial categoría, premiado con la vuelta al ruedo, resucita al mejor Sebastián Castella, que arruina su séptima Puerta Grande con la espada Leer"
   },
   {
     "titulo": "Ayuso insiste en que Sánchez ha unido su destino al de Zapatero y pide elecciones",
@@ -140,32 +273,11 @@
     "resumen": "La artista ha aparecido sobre la azotea de 'La Casita' tras 'Yo perreo sola' y ha interpretado el éxito de su último álbum 'Da Me'"
   },
   {
-    "titulo": "Castella firma una de sus faenas más rotundas en Madrid pero la espada le roba la Puerta Grande",
-    "medio": "OK Diario",
-    "fecha": 1779481425.0,
-    "link": "https://okdiario.com/toros/castella-firma-sus-faenas-mas-rotundas-madrid-pero-espada-roba-puerta-grande-17137674",
-    "resumen": "La mítica ganadería madrileña de Victoriano del Río regresaba a Las Ventas, plaza en la que ha escrito grandes páginas de historia, con un encierro de imponente seriedad para una terna que había levantado gran expectación: Sebastián Castella, Emilio de Justo y Tomás Rufo. Abrió plaza Castella ante un primer toro que apenas le ofreció … Continuar leyendo \"Castella firma una de sus faenas más rotundas en Madrid pero la espada le roba la Puerta Grande\""
-  },
-  {
     "titulo": "Vox reclama la comparecencia del CSD por la polémica camiseta del Athletic Club",
     "medio": "The Objective",
     "fecha": 1779481300.0,
     "link": "https://theobjective.com/espana/politica/2026-05-22/vox-csd-congreso-camiseta-athletic/",
     "resumen": "El Grupo Parlamentario Vox ha registrado este viernes en el Congreso de los Diputados una solicitud de comparecencia del presidente del Consejo Superior de Deportes, José […]"
-  },
-  {
-    "titulo": "Lamine Yamal, Marc Giró y varios jugadores del Barça visitan la casita de Bad Bunny en el primer concierto en Barcelona",
-    "medio": "El País",
-    "fecha": 1779481074.0,
-    "link": "https://elpais.com/cultura/2026-05-22/lamine-yamal-marc-giro-y-varios-jugadores-del-barca-visitan-la-casita-de-bad-bunny-en-el-primer-concierto-en-barcelona.html",
-    "resumen": "Bad Gyal ha sido la artista invitada sorpresa con las canciones ‘Yo perreo sola’ y ‘Dame’"
-  },
-  {
-    "titulo": "La familia de Alex Saab abandona Venezuela",
-    "medio": "El País",
-    "fecha": 1779481055.0,
-    "link": "https://elpais.com/america/2026-05-22/la-familia-de-alex-saab-abandona-venezuela.html",
-    "resumen": "Camila Fabri, sus hijas y varios parientes dejan el país tras la deportación del empresario. Fuentes oficiales aseguran que vivirán en Miami como parte de un acuerdo con Estados Unidos"
   },
   {
     "titulo": "Cuponazo ONCE hoy | Comprobar resultados y número premiado del sorteo del viernes 22 de mayo",
@@ -182,25 +294,11 @@
     "resumen": "El pacto, que forma parte de la estrategia de diversificación contra China, facilita que las empresas de la UE vendan sus servicios y participen en licitaciones en México.Más información: EEUU acusa al gobernador de Sinaloa de tener vínculos con el poderoso cártel y provoca un terremoto político en México"
   },
   {
-    "titulo": "José Antonio Guardiola gana el Premio de Periodismo Cirilo Rodríguez",
-    "medio": "El País",
-    "fecha": 1779480705.0,
-    "link": "https://elpais.com/internacional/2026-05-22/jose-antonio-guardiola-gana-el-premio-de-periodismo-cirilo-rodriguez.html",
-    "resumen": "El corresponsal de TVE en México y Centroamérica ha dedicado su carrera a la información internacional"
-  },
-  {
     "titulo": "Un Real Madrid de récord despierta al Valencia y jugará la final de la Euroliga ante el Olympiacos",
     "medio": "La Vanguardia",
     "fecha": 1779480118.0,
     "link": "https://www.lavanguardia.com/deportes/baloncesto/20260522/11545484/valencia-real-madrid-euroliga-final-four-resumen.html",
     "resumen": "Hezonja y Feliz propulsan a los de Scariolo ante un tierno rival"
-  },
-  {
-    "titulo": "No hay infortunio que tumbe al Madrid: derrota al Valencia y buscará en Atenas su 12ª Euroliga",
-    "medio": "El Mundo",
-    "fecha": 1779480094.0,
-    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/05/22/6a109888e4d4d8af418b45cb.html",
-    "resumen": "Los blancos superan sus ausencias y la lesión de Garuba para vencer a los taronja en una semifinal que dominaron desde el segundo cuarto. El acierto, los 25 puntos de Hezonja y el rebote, claves Leer"
   },
   {
     "titulo": "Pelo corto a los 50: los cortes y peinados más rejuvenecedores y fáciles de hacer que no te harán perder ni un minuto",
@@ -245,20 +343,6 @@
     "resumen": "Otra final más para el Real Madrid. El conjunto de Sergio Scariolo ha superado al Valencia Basket (90-105) en las semifinales de la Final Four de […]"
   },
   {
-    "titulo": "Alineación posible del Barcelona contra el Valencia: último once de Flick con rotaciones",
-    "medio": "OK Diario",
-    "fecha": 1779480016.0,
-    "link": "https://okdiario.com/deportes/alineacion-posible-del-barcelona-contra-valencia-ultimo-once-flick-rotaciones-17132996",
-    "resumen": "La alineación del Barcelona en la última jornada de Liga contra el Valencia en Mestalla este sábado tendrá rotaciones y una mezcla entre titulares y suplentes. Lewandowski jugará su último partido con la camiseta azulgrana ante el cuadro valencianista. También tendrá minutos Szczesny en portería. La última alineación de Hansi Flick en esta temporada comienza … Continuar leyendo \"Alineación posible del Barcelona contra el Valencia: último once de Flick con rotaciones\""
-  },
-  {
-    "titulo": "Ayuso retrata a Sánchez: «Le pasó la cartera ministerial de la corrupción de Ábalos al caradura de Zapatero»",
-    "medio": "OK Diario",
-    "fecha": 1779479823.0,
-    "link": "https://okdiario.com/madrid/ayuso-retrata-sanchez-paso-cartera-ministerial-corrupcion-abalos-caradura-zapatero-17137016",
-    "resumen": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha calificado a Pedro Sánchez como líder del ‘caso Zapatero’ por «pasar la cartera ministerial de la corrupción de Ábalos a Zapatero». La líder madrileña ha subrayado que Sánchez «ha unido su destino» al del ex presidente, al que ha calificado como «el padrino del … Continuar leyendo \"Ayuso retrata a Sánchez: «Le pasó la cartera ministerial de la corrupción de Ábalos al caradura de Zapatero»\""
-  },
-  {
     "titulo": "Onda Cero renueva sus mañanas con Rafa Latorre en la parte informativa y Carlos Alsina en el magazine",
     "medio": "El Español",
     "fecha": 1779479652.0,
@@ -280,25 +364,11 @@
     "resumen": "Varias personalidades se han dejado ver en el escenario durante el espectáculo del puertorriqueño en el Estadi Olímpic"
   },
   {
-    "titulo": "El precio del apoyo de ERC y En Comú a Illa: 893 millones en 2026",
-    "medio": "Expansión",
-    "fecha": 1779479098.0,
-    "link": "https://www.expansion.com/catalunya/2026/05/22/6a10b224e5fdea3e778b45a7.html",
-    "resumen": "l Consell Executiu remite al Parlament unas cuentas récord que, incluyendo a todo el sector público, movilizarán más de 54.000 millones de euros. Leer"
-  },
-  {
     "titulo": "Víctor Manuel señala qué es lo que teme que va a pasar tras la imputación a Zapatero",
     "medio": "HuffPost",
     "fecha": 1779478687.0,
     "link": "https://www.huffingtonpost.es/virales/victor-manuelnala-que-teme-pasar-imputacion-zapatero-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Jonathan Andic, el heredero de Mango convertido en sospechoso de homicidio",
-    "medio": "Expansión",
-    "fecha": 1779478653.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/05/22/6a10ad70e5fdea16328b4579.html",
-    "resumen": "El hijo del fundador de la marca de moda está siendo investigado por posible participación en un crimen relacionado con la muerte de su padre. Leer"
   },
   {
     "titulo": "Ese correo que te ha llegado de Google no es spam: qué significa y qué debes hacer",
@@ -315,13 +385,6 @@
     "resumen": "El presidente del Gobierno, Pedro Sánchez, ha celebrado este viernes el Acuerdo Comercial Modernizado entre la UE y México: «Con el acuerdo, todos ganamos». En un […]"
   },
   {
-    "titulo": "La trama que implica a Zapatero se extiende a Cataluña: quiso lucrarse con el Hard Rock",
-    "medio": "Expansión",
-    "fecha": 1779477420.0,
-    "link": "https://www.expansion.com/catalunya/2026/05/22/6a10a5c3e5fdeab7568b457b.html",
-    "resumen": "El juez detecta que dos de las empresas presuntamente implicadas barajaron una comisión del 3% por intermediar en el desbloqueo del macroproyecto, pero no detecta pagos. Leer"
-  },
-  {
     "titulo": "Another Chance at Blocking Funding of Israeli Settlements",
     "medio": "Jacobin ES",
     "fecha": 1779477309.0,
@@ -336,25 +399,11 @@
     "resumen": "El presidente de Cox trata de armar su candidatura y contacta también con los posibles miembros de su lista electoral.Más información: Enrique Riquelme negocia el aval para el Real Madrid con Andbank tras el portazo de la banca española"
   },
   {
-    "titulo": "Russell Crowe se topa con la peste porcina en Barcelona: la Generalitat paraliza el rodaje de su película",
-    "medio": "OK Diario",
-    "fecha": 1779477100.0,
-    "link": "https://okdiario.com/cool/russell-crowe-topa-peste-porcina-barcelona-generalitat-paraliza-rodaje-pelicula-17137364",
-    "resumen": "El equipo de filmación de la película The Last Druid, protagonizada por Russell Crowe, se ha visto obligado a interrumpir sus trabajos en Barcelona tras la intervención de las autoridades catalanas por un brote de peste porcina africana. La Conselleria de Agricultura de la Generalitat de Cataluña ha ordenado la paralización inmediata del rodaje, que … Continuar leyendo \"Russell Crowe se topa con la peste porcina en Barcelona: la Generalitat paraliza el rodaje de su película\""
-  },
-  {
     "titulo": "Más cerca de 'P fkn R': qué esperar de la llegada de Bad Bunny a España",
     "medio": "HuffPost",
     "fecha": 1779477022.0,
     "link": "https://www.huffingtonpost.es/life/cultura/mas-cerca-p-fkn-r-que-esperar-llegada-bad-bunny-espana-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "HyFive planea invertir 490 millones de euros en el Puerto de Barcelona",
-    "medio": "Expansión",
-    "fecha": 1779476737.0,
-    "link": "https://www.expansion.com/catalunya/2026/05/22/6a108557e5fdea222b8b458c.html",
-    "resumen": "La empresa vasca controlada por White Summit Capital solicita una concesión administrativa para construir una planta de hidrógeno y otra de 'e-metanol' y metanol renovable. Leer"
   },
   {
     "titulo": "El Airbus A380 fue uno de los mayores tropiezos de Airbus: sus piezas sostienen ahora un negocio millonario",
@@ -399,13 +448,6 @@
     "resumen": "El expresidente del Gobierno ha recalcado la presunción de inocencia “es indiscutible”"
   },
   {
-    "titulo": "Tulsi Gabbard dimite como directora de Inteligencia Nacional del Gobierno de Trump",
-    "medio": "Expansión",
-    "fecha": 1779475605.0,
-    "link": "https://www.expansion.com/economia/politica/2026/05/22/6a10a3a3468aeb155f8b4583.html",
-    "resumen": "Gabbard ha sido la responsable de coordinar las 18 agencias de la comunidad de inteligencia estadounidense, incluida la CIA. Leer"
-  },
-  {
     "titulo": "Canadá arresta al administrador de la botnet Kimwolf por ataques a infraestructura militar de EE.UU.",
     "medio": "Moncloa.com",
     "fecha": 1779475129.0,
@@ -418,6 +460,13 @@
     "fecha": 1779474978.0,
     "link": "https://www.huffingtonpost.es/virales/jesus-marana-ve-tuit-miguel-angel-rodriguez-sobre-pedro-sanchez-arrasa-tres-frases-demoledoras-f202605.html",
     "resumen": ""
+  },
+  {
+    "titulo": "Paralizan el rodaje de una película de Russell Crowe por la peste porcina en Barcelona",
+    "medio": "The Objective",
+    "fecha": 1779474913.0,
+    "link": "https://theobjective.com/cultura/cine/2026-05-22/paralizan-rodaje-russell-crowe-peste-porcina/",
+    "resumen": "The Last Druid, la película protagonizada por Russell Crowe y dirigida por William Eubank, se ha visto obligada a suspender su rodaje en Barcelona por un […]"
   },
   {
     "titulo": "Felipe González dice no atreverse a \"creer\" la acusación contra Zapatero: \"Su presunción de inocencia es indiscutible\"",
@@ -588,13 +637,6 @@
     "resumen": "Hay un pueblo pesquero del siglo XI en Tarragona que muy poca gente conoce, a pesar de su precioso casco histórico y sus increíbles playas de dunas y marismas salvajes. Hablamos de la villa de Torredembarra, que nació como una zona de fronteras entre las taifas musulmanas y Barcelona, para convertirse hoy en un viaje al pasado con playa y buena comida de diez. Qué ver en Torredembarra, Tarragona El centro histórico de Torredembarra es un derroche de monumentos históricos que te dejarán impresionado. Comenzamos por la joya de la corona, la Torre de la Vila, una impresionante fortaleza de vigilancia medieval que se ideó en el siglo XI y aún sigue en pie. Justo en frente se encuentra el Castell, un edificio renacentista de 1565 preciosamente conservado, que hoy en día alberga el ayuntamiento. Torre de la Vila Si te pierdes por sus callejones empedrados y restos de murallas medievales llegarás a otros tesoros centenarios, como la iglesia parroquial de Sant Pere, un templo del siglo XV y XVIII, con un órgano barroco en su interior. También verás el Castillo de los Icard del siglo XVI, la Plaza del Castell o las casas indianas coloridas que rodean el carrer Joan Güell, plaça de la Font y el carrer d’Antoni Puig. Desde aquí nos acercamos hacia la costa, donde el antiguo barrio de pescadores de Baix a Mar mantiene su encanto marinero tradicional. Justo al lado están las playas de La Paella, de Baix a Mar y Cal Bofill, con una enorme mansión del siglo XX pegada al mar. Ahora, el barrio ha crecido con el turismo, sumando un precioso paseo marítimo y restaurantes con vistas al Mediterráneo. Al sur de estas preciosas playas urbanas se encuentra el Puerto Náutico, donde podemos contratar excursiones de submarinismo y otros deportes acuáticos. Desde allí sale el Camí de Ronda, que te lleva hasta el Faro de Torredembarra dando un precioso paseo por los acantilados junto al mar. Esta torre, de 58 metros, está sobre el acantilado de Roquer y tiene un atardecer mágico. Si vamos hacia el norte, encontraremos el núcleo de Clará. Este fue el primer asentamiento de la zona, pero en el año 1057 recibieron una donación a cambio de construir una torre defensiva. Esa es la Torre de la Vila, donde se generó otro núcleo poblacional en los siglos XIII y XIV, desplanzando a toda la población. Hoy en día, Clarà es un pequeño pueblito con pocas casas, una iglesia y un castillo muy auténticos y cuidados, donde los turistas apenas llegan. Más allá está Els Muntanyans, una playa protegida y salvaje con dunas de arena y marismas, que forman lagunas de agua salada y tienen un aspecto virgen. Se puede recorrer a pie o en bicicleta, siempre siguiendo las pasarelas de madera habilitadas para ello. Dónde comer barato y rico en Torredembarra, Tarragona Restaurante El Capitán Como buen pueblo del mediterráneo catalán, el pescado fresco y el marisco son las base de toda su gastronomía. Tampoco faltan los arroces caldosos y negros, las fideúas y las calderetas marineras. Podemos disfrutar de ello en forma de tapeo en Les Taules, una taberna clásica y tradicional de toda la vida. O en El Capitán, donde su materia prima es conocida en toda la localidad. Arroz en Cal Pastoret Además, a las afueras de Torredembarra está Cal Pastoret. No es barato, pero comer auténtica cocina tradicional catalana en una masía del siglo XVIII es una experiencia muy difícil de dejar pasar. Especialmente, cuando veas el aspecto de sus arroces. Qué hacer en los alrededores de Torredembarra, Tarragona Muy cerca de Torredembarra está el maravillo pueblo de Altafulla, un núcleo medieval amurallado que continua habitado. Es una excursión de día perfecta para pasear entre callejones empedrados, casonas señoriales, restos de la antigua muralla del siglo XIV y un Castillo del siglo XI. También tiene una preciosa playa con un paseo marítimo antiguo. Así, tu escapada de verano contará doble. Fotos | Expedia, Wikipedia Commons, Turismo Torredembarra, Camping Clarà, @elcapitanrest, @restaurantcalpastoret, Catalunya Turisme. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. En Xataka | Por qué se calienta el cargador del celular y cuál es la mejor forma de solucionarlo. En 3DJuegos | Entre Indiana Jones y Misión Imposible: a sus 72 años, Jackie Chan regresará en la cuarta película de una de sus mejores sagas de acción. - La noticia Como Trieste, pero sin las colas kilométricas de turistas: el pueblo pesquero del siglo XI que se mantiene intacto en el Mediterráneo fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "JPMorgan quiere reducir su exposición a préstamos vinculados al capital riesgo",
-    "medio": "Expansión",
-    "fecha": 1779468945.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/05/22/6a108a8de5fdea2e798b4577.html",
-    "resumen": "El mayor banco de Estados Unidos negocia la transferencia de riesgos en un momento en el que las firmas de capital riesgo lidian con una desaceleración prolongada. Leer"
-  },
-  {
     "titulo": "Guerra civil en la Casa Rosada ante un Milei cada vez más alterado: \"El Gobierno vive a los saltos\"",
     "medio": "El Mundo",
     "fecha": 1779468525.0,
@@ -607,34 +649,6 @@
     "fecha": 1779468177.0,
     "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20260522/kevin-warsh-jura-cargo-presidente-reserva-federal-donald-trump-promete-actuar-independencia/1003744256596_0.html",
     "resumen": "La Fed cierra de manera definitiva la 'era Powell' y encara una nueva etapa con la inflación en el punto de mira tras el repunte de la energía por Irán.Más información: 'El método Warsh' o cómo presidir la Fed con 2.000 millones en el banco, lazos 'cripto' y la IA por bandera"
-  },
-  {
-    "titulo": "Trump: \"Quiero que Kevin Warsh sea totalmente independiente\" como nuevo presidente de la Reserva Federal",
-    "medio": "Expansión",
-    "fecha": 1779467675.0,
-    "link": "https://www.expansion.com/mercados/2026/05/22/6a10851ee5fdea5a558b4583.html",
-    "resumen": "Kevin Warsh ha tomado posesión como presidente de la Fed en una ceremonia en la Casa Blanca, algo que no ocurría desde 1987. Leer"
-  },
-  {
-    "titulo": "¿Siguen fallando las barreras de ChatGPT? Un periodista obtuvo ayuda táctica para un ataque masivo",
-    "medio": "eldiario.es",
-    "fecha": 1779467542.0,
-    "link": "https://www.eldiario.es/spin/siguen-fallando-barreras-chatgpt-periodista-obtuvo-ayuda-tactica-ataque-masivo-pm_1_13243727.html",
-    "resumen": "Peligro de la IA - La investigación citó casos ocurridos en Las Vegas, Finlandia, Canadá y Florida mientras familiares de víctimas presentaban denuncias federales por consultas relacionadas con notoriedad mediática y armamento Organizar un ataque indiscriminado obliga a preparar horarios, rutas, movimientos y formas de escapar o resistir una respuesta policial. Ese proceso suele incluir pruebas previas, búsqueda de armas, cálculo de distancias y maneras de mantener la calma bajo presión. Muchas personas que fantasean con cometer una matanza dudan durante semanas o meses porque cada decisión abre nuevos problemas prácticos y aumenta el riesgo de ser detectadas antes de actuar. Ahí entra ahora la inteligencia artificial. Los asistentes conversacionales responden al instante, mantienen largas charlas y ofrecen explicaciones ordenadas sobre casi cualquier asunto. Esa rapidez puede convertir una búsqueda torpe y fragmentada en una cadena continua de preguntas y respuestas. También reduce barreras para personas aisladas, obsesionadas o emocionalmente inestables que buscan orientación sin exponerse ante otra persona. Los chatbots facilitan preparativos para matanzas si se les insiste El periodista Mark Follman abrió una cuenta gratuita de ChatGPT el 14 de abril y utilizó una simulación para comprobar hasta dónde llegaban las barreras del sistema. Según Mother Jones, el reportero fingió preparar un tiroteo masivo y, después de varios intentos, obtuvo consejos sobre armas, entrenamiento y tácticas. La conversación avanzó durante unos 20 minutos y terminó con respuestas que incluían recomendaciones para afrontar situaciones caóticas, soportar disparos policiales o grabar el ataque con una cámara corporal. OpenAI rechazó después cualquier relación entre ChatGPT y delitos reales. Follman entregó el contenido íntegro de la prueba a un especialista en evaluación de amenazas con décadas de experiencia operativa. El experto, que habló de forma anónima con Mother Jones, calificó el resultado como “muy perturbador”. También afirmó que las respuestas del chatbot apenas introducían frenos emocionales o señales de alarma frente a una persona que pudiera estar acercándose a la violencia. “Posibles atacantes reciben orientación operativa y apoyo de un chatbot sin apenas cuestionamiento”, explicó. El analista añadió que el sistema tampoco intentaba reforzar dudas o vacilaciones del usuario, algo que sí suele buscar un profesional humano durante una intervención preventiva. La investigación conecta con varios ataques recientes en los que los sospechosos habrían usado ChatGPT mientras hablaban sobre violencia o agravios personales. El texto menciona el atentado con un Cybertruck en Las Vegas, un apuñalamiento escolar en Finlandia y dos tiroteos en centros educativos de Canadá y Estados Unidos. En el caso de Florida State University, la viuda de una víctima, Vandana Joshi, presentó una demanda federal contra OpenAI. La acusación sostiene que Phoenix Ikner mantuvo “conversaciones extensas” con el chatbot y preguntó por armas, notoriedad mediática y horarios concurridos antes del ataque. Otra ofensiva judicial se abrió tras el tiroteo de Tumbler Ridge, en la Columbia Británica. Siete familias denunciaron a OpenAI y a Sam Altman después de que un joven de 18 años matara a ocho personas, entre ellas seis menores. OpenAI aseguró que reforzó barreras contra usos violentos Las demandas sostienen que la empresa detectó conversaciones preocupantes relacionadas con armas y aun así no avisó a las autoridades. El Wall Street Journal publicó que la cuenta del sospechoso había sido vetada meses antes por referencias reiteradas a violencia armada. Altman escribió una carta pública en la que aseguró: “Lamento profundamente que no alertáramos a las fuerzas de seguridad”. OpenAI respondió que mantiene “tolerancia cero” frente al uso violento de sus herramientas y aseguró que ya reforzó las salvaguardas del sistema. Drew Pusateri, portavoz de la compañía, declaró a NBC News que ChatGPT “no promovió ni alentó actividades ilegales o dañinas”. La empresa también afirmó que coopera con investigaciones policiales y que intenta redirigir a usuarios en crisis hacia recursos de ayuda psicológica. Aun así, Mother Jones indicó que OpenAI evitó responder preguntas detalladas sobre la prueba de Follman o sobre el funcionamiento interno de sus sistemas de detección. ChatGPT volvió a responder tras cambiar la explicación inicial Durante la simulación, Follman comprobó que las respuestas cambiaban según la manera de formular las preguntas. En un momento, ChatGPT se negó a hablar de disparos desde una azotea y recordó la importancia de actuar dentro de la ley. Poco después, el periodista dijo que investigaba el asunto con fines informativos y el sistema volvió a ofrecer observaciones tácticas. El chatbot llegó a recomendar entrenamientos con distracciones de personas “corriendo y gritando”, explicó cómo desactivar rápidamente el seguro de un AR-15 y sugirió utilizar cámaras corporales para registrar el ataque. “Eso te dará una ventaja extra para el gran día”, respondió en una de las conversaciones reproducidas por Mother Jones. Los expertos temen relaciones más profundas con usuarios aislados El debate ahora gira alrededor de un problema difícil de resolver. Las empresas tecnológicas pueden vigilar más conversaciones y avisar antes a la policía, pero esa vigilancia también abre dudas sobre privacidad y errores de interpretación. Los especialistas en amenazas consultados por Mother Jones creen que los chatbots mantienen una relación más íntima y persistente que los antiguos buscadores de internet porque acompañan al usuario, responden a cada duda y mantienen el diálogo durante horas. Esa dinámica preocupa especialmente en personas solitarias o suicidas. Los registros del atacante de Florida State University mostraban mensajes como “las mujeres me odian” y “no sé qué hacer”. Para muchos psicólogos o agentes especializados, frases así exigirían una intervención inmediata."
-  },
-  {
-    "titulo": "El Supremo rechaza la suspensión cautelar de la regularización masiva de inmigrantes mientras estudia los recursos",
-    "medio": "El Mundo",
-    "fecha": 1779466450.0,
-    "link": "https://www.elmundo.es/espana/2026/05/22/6a10801021efa0b4358b457e.html",
-    "resumen": "Descarta los argumentos esgrimidos este viernes por la Comunidad de Madrid y Vox y rechaza que Hazte Oír y otras dos asociaciones puedan impugnar el real decreto Leer"
-  },
-  {
-    "titulo": "Ale-Hop crece un 10,6% en ventas y gana 54 millones en 2025",
-    "medio": "Expansión",
-    "fecha": 1779466404.0,
-    "link": "https://www.expansion.com/valencia/2026/05/22/6a1080a0e5fdea54668b45a4.html",
-    "resumen": "La cadena, con 360 establecimientos, facturó 281 millones de euros e invirtió 42 millones. Leer"
   },
   {
     "titulo": "¿Adiós para siempre a los Chromecast? Google deja sin soporte a casi todos los modelos",
@@ -691,13 +705,6 @@
     "fecha": 1779464446.0,
     "link": "https://www.infolibre.es/medios/periodista-angels-barcelo-abandona-cadena-meses-tensiones-internas_1_2197608.html",
     "resumen": "Àngels Barceló abandonará al final de la actual temporada la Cadena SER, emisora en la que presenta y dirige el programa matutino Hoy por hoy, líder de audiencia de la radio en España, según ha confirmado la propia emisora.Por el momento se desconoce el próximo destino de la periodista, que ha comunicado su decisión esta mañana a la dirección de la cadena y a su equipo en el programa. Su renuncia se produce después de meses de tensiones internas de algunos de los principales responsables de programas con Fran Llorente, director de contenidos designado por Joseph Oughourlian, presidente y primer accionista de Prisa, en mayo de 2024. Un conflicto que ha sido especialmente significativo con la periodista catalana y que tiene que ver –según fuentes internas– con la reorientación ideológica que quiere hacer Oughourlian. El pasado marzo, infoLibre desveló que Barceló no contaba con el respaldo del presidente del grupo, que en más de una ocasión había manifestado su predilección por Carlos Alsina, el presentador estrella de Onda Cero Radio, propiedad de Atresmedia, en detrimento de Hoy por Hoy, el buque insignia de su propia emisora, dirigido y presentado por Barceló. Hasta el punto de sintonizar la emisora de Alsina cada mañana, en vez de la SER, según fuentes internas de Prisa, que oficialmente negó esta información.En los últimos meses se acumulan indicios que apuntan a que Prisa está modulando su perfil de centroizquierda hacia posiciones más cómodas para la derecha política y económica. Es un desplazamiento que no se ha producido mediante un manifiesto explícito, sino a través de cambios en las afinidades de sus principales responsables, en la selección de voces y enfoques editoriales y en la manera de situarse en el mapa de alianzas mediáticas. El resultado es la sensación, dentro y fuera del sector, de que el grupo busca cambiar su centro de gravedad para alejarse de Pedro Sánchez y preparar el terreno para una eventual victoria de la derecha en las próximas elecciones generales.Una de las claves de este proceso sería, en opinión de algunos observadores, la creciente sintonía entre Prisa y operadores mediáticos claramente instalados en el campo de la derecha, tanto en el ámbito audiovisual como en el radiofónico. La elección de determinados referentes informativos, el creciente protagonismo de tertulianos y analistas conservadores en espacios antaño asociados al centroizquierda, o la decisión de abrir espacios de reflexión con firmas de marcado perfil neoliberal, son movimientos que, cada uno por separado, podrían leerse como gestos de pluralidad –como explican desde la dirección de la SER–, pero que en conjunto dibujan una deriva reconocible. Se trata de un reajuste que desdibuja la frontera que separaba a Prisa de los grandes conglomerados privados alineados con la derecha, hasta el punto de favorecer dinámicas de colaboración y convergencia de relato donde antes predominaba la competencia ideológica. Este corrimiento tiene implicaciones políticas evidentes en un ecosistema mediático ya fuertemente desequilibrado hacia la derecha, en el que cada actor que abandona de facto el espacio progresista deja un vacío difícil de cubrir. Si un grupo con el peso simbólico y estructural de Prisa en la socialdemocracia española se desplaza hacia un centro cada vez más escorado, el resultado es una pérdida de capacidad de interlocución crítica frente a las agendas conservadoras y una mayor homogeneización del debate público en torno a marcos favorables a la derecha. De momento no se sabe todavía quién va a sustituir a Barceló a partir de la próxima temporada al frente del veterano programa matutino, por el que han pasado periodistas como Iñaki Gabilondo, Gemma Nierga o Carles Francino.Nacida en Barcelona en 1963, Ángels Barceló aterrizó en la Cadena SER en Madrid en julio de 2005, al frente del programa de fin de semana A vivir que son dos días. Entre 2008 y 2019 dirigió y presentó el informativo vespertino Hora 25 y desde septiembre de 2019 dirige y presenta el magacín matinal Hoy por hoy, líder de audiencia en la radio en España.\"El 31 de agosto, con el inicio de la temporada 26-27, la SER estrenará una nueva etapa de 'Hoy por hoy' sin Àngels Barceló, que hoy ha comunicado que no renovará su contrato\", indica el comunicado hecho público por la emisora, que recoge las palabras de la presentadora: \"Agradezco infinito la lealtad y la confianza de los oyentes, de mis equipos y de mis colaboradores\".\"Trasladamos a Àngels nuestro reconocimiento y agradecimiento por su dedicación y su aportación a la SER durante estos 21 años\", señala en el comunicado Jaume Serra, director general de radio y negocio audiovisual, mientras que Pilar Gil, consejera delegada de Prisa Media, ha recordado que está en marcha un \"gran proyecto de transformación\" para la nueva temporada."
-  },
-  {
-    "titulo": "Rebeca Pérez es investida como nueva alcaldesa de Murcia y se convierte en la primera mujer regidora en la historia de la ciudad",
-    "medio": "El Mundo",
-    "fecha": 1779464334.0,
-    "link": "https://www.elmundo.es/murcia/2026/05/22/6a102e6ffc6c837a6f8b45a5.html",
-    "resumen": "La hasta ahora vicealcaldesa ha sido electa en un pleno extraordinario tras el fallecimiento, el pasado 10 de mayo, de José Ballesta Leer"
   },
   {
     "titulo": "Taiwán niega una pausa en la compra de armas de EE.UU. por la guerra con Irán",
