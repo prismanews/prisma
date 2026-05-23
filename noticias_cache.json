@@ -1,17 +1,178 @@
 [
   {
+    "titulo": "Zapatero, el activo de Caracas",
+    "medio": "El Mundo",
+    "fecha": 1779578350.0,
+    "link": "https://www.elmundo.es/espana/2026/05/24/6a11f650e4d4d8a82b8b457e.html",
+    "resumen": "Sánchez, que tiene un imán para la atracción de cuatreros, sumó indisimuladamente al ex presidente a su corporación y lo erigió en su canciller Leer"
+  },
+  {
+    "titulo": "Zapatero canceló una hipoteca de golpe con una transferencia de 500.000 euros",
+    "medio": "El Mundo",
+    "fecha": 1779578349.0,
+    "link": "https://www.elmundo.es/espana/2026/05/24/6a12095ae4d4d8d76a8b458a.html",
+    "resumen": "El ex presidente y su mujer compraron un inmueble en Madrid en febrero de 2024 y lo finiquitaron poco después / La Udef analiza las cuentas de sus hijas, en las que el socialista aparece como autorizado Leer"
+  },
+  {
+    "titulo": "Las dos 'aldeas galas' del socialismo andaluz en municipios de más de 40.000 habitantes: \"Aquí se vive bien, no es cuestión de ideología, sino de gestión\"",
+    "medio": "El Mundo",
+    "fecha": 1779577936.0,
+    "link": "https://www.elmundo.es/andalucia/2026/05/24/6a0f186221efa03a598b45cf.html",
+    "resumen": "El PSOE ha ganado todas las elecciones desde 1983 en La Rinconada (Sevilla) y recupera apoyos en Puerto Real / Las carencias en las infraestructuras sanitarias y educativas lastran los apoyos al PP Leer"
+  },
+  {
+    "titulo": "Lino Cheng, representante de Taiwán en España: \"España no puede tener una política sana con China sin una equilibrada con Taiwán\"",
+    "medio": "El Mundo",
+    "fecha": 1779577930.0,
+    "link": "https://www.elmundo.es/internacional/2026/05/24/6a1170e521efa0896e8b45d8.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Aizpiri (Enagás): \"Europa va hacia una mayor integración energética. No debemos dar respuestas fragmentadas a crisis globales\"",
+    "medio": "El Mundo",
+    "fecha": 1779577929.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/05/24/6a05e0b9e9cf4a76158b45a1.html",
+    "resumen": "El CEO de Enagás ha cumplido ya cuatro años en el cargo, un primer mandato en el que, a pesar de los sucesivos 'shock' internacionales, ha virado por completo el rumbo de la compañía que gestiona las grandes infraestructuras de gas de España Leer"
+  },
+  {
+    "titulo": "Una serie de disparos en los alrededores de la Casa Blanca provocan dos heridos",
+    "medio": "El País",
+    "fecha": 1779577743.0,
+    "link": "https://elpais.com/internacional/2026-05-23/unos-disparos-en-los-alrededores-de-la-casa-blanca-fuerzan-el-cierre-momentaneo-de-sus-instalaciones.html",
+    "resumen": "El suceso, ocurrido menos de un mes después del intento de atentado contra Trump en la Cena de los Corresponsales, fuerza el cierre momentáneo de las instalaciones"
+  },
+  {
+    "titulo": "España se queda sin silla en la cúpula del BCE por segunda vez en 28 años y Sánchez se encuentra en minoría europea para recuperarla",
+    "medio": "El Mundo",
+    "fecha": 1779577567.0,
+    "link": "https://www.elmundo.es/economia/macroeconomia/2026/05/24/6a0ef99721efa0aa418b45c3.html",
+    "resumen": "De Guindos sale de Fráncfort el viernes y no habrá españoles en la selecta ejecutiva del Banco Central Europeo. El presidente está políticamente débil en la UE para recobrar la plaza Leer"
+  },
+  {
+    "titulo": "Alarma en la Casa Blanca: dos individuos resultan heridos tras un enfrentamiento con el Servicio Secreto",
+    "medio": "OK Diario",
+    "fecha": 1779577374.0,
+    "link": "https://okdiario.com/internacional/alarma-casa-blanca-desalojado-jardin-escucharse-varios-disparos-17141906",
+    "resumen": "Dos individuos han resultado heridos de bala este sábado tras un enfrentamiento con agentes del Servicio Secreto registrado en las inmediaciones de la Casa Blanca, lo que ha obligado a activar de inmediato los protocolos de máxima seguridad en torno al complejo presidencial. El presidente de Estados Unidos Donald Trump se encontraba en ese momento … Continuar leyendo \"Alarma en la Casa Blanca: dos individuos resultan heridos tras un enfrentamiento con el Servicio Secreto\""
+  },
+  {
+    "titulo": "El policía motorista anti skins: \"Se infiltraba en todos los grupos, iba tan camuflado que hasta le terminaban pegando los antidisturbios en las cargas\"",
+    "medio": "El Mundo",
+    "fecha": 1779576356.0,
+    "link": "https://www.elmundo.es/madrid/2026/05/24/6a0e217fe4d4d860508b45ae.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "El enigma de la disestesia solar: cuando el sol quema la piel y provoca un dolor insoportable, pero no deja ninguna marca física",
+    "medio": "El Mundo",
+    "fecha": 1779576354.0,
+    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/05/24/6a118832fc6c83ac038b45a1.html",
+    "resumen": "Los investigadores no saben por qué la luz solar duele y causa fiebre, cansancio extremo y síncopes a algunas personas. Los fármacos neuromoduladores parecen calmar esas sensaciones. Estos días en el congreso de la Academia Española de Dermatología y Venereología (AEDV), celebrado en Maspalomas (Gran Canaria), se han analizado cuatro casos detectados en España Leer"
+  },
+  {
+    "titulo": "Zapatero logró que Delcy autorizase a Plus Ultra seis vuelos antes del rescate: «Excelente»",
+    "medio": "The Objective",
+    "fecha": 1779574485.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-05-24/zapatero-delcy-plus-ultra/",
+    "resumen": "Un mes antes del rescate de Plus Ultra, José Luis Rodríguez Zapatero consiguió para la aerolínea la luz verde de las autoridades venezolanas a seis vuelos […]"
+  },
+  {
+    "titulo": "La mujer de Zapatero canceló la hipoteca de medio millón de su chalé de lujo en Madrid",
+    "medio": "The Objective",
+    "fecha": 1779574115.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-05-24/mujer-zapatero-cancela-hipoteca-chale-de-lujo/",
+    "resumen": "Sonsoles Espinosa, esposa del expresidente José Luis Rodríguez Zapatero, está en el foco de la UDEF al ser cotitular de la cuenta bancaria en la que […]"
+  },
+  {
     "titulo": "Los jefes de Plus Ultra, sobre cómo llegar al Gobierno: “Delcy que llame a Ábalos. O alguien con ZP”",
     "medio": "El País",
-    "fecha": 1779571422.0,
+    "fecha": 1779573668.0,
     "link": "https://elpais.com/espana/2026-05-23/las-conversaciones-de-la-trama-plus-ultra-situan-a-delcy-rodriguez-en-la-operacion-que-llame-a-abalos-o-alguien-con-zapatero.html",
     "resumen": "EL PAÍS accede al informe policial de la UDEF con las conversaciones de la red que implican al expresidente del Gobierno, Rodríguez Zapatero"
   },
   {
+    "titulo": "Arañazos en Mercedes: pole para Russell en Canadá, tras enzarzarse cera con Antonelli",
+    "medio": "El País",
+    "fecha": 1779573625.0,
+    "link": "https://elpais.com/deportes/formula-1/2026-05-23/aranazos-en-mercedes-pole-para-russell-en-canada-tras-enzarzarse-cera-con-antonelli.html",
+    "resumen": "El británico y su compañero se las tienen en la ‘sprint’ previa a la cronometrada, que les vuelve a colocar el uno al lado del otro"
+  },
+  {
+    "titulo": "El Girona y el Mallorca descienden a Segunda División",
+    "medio": "El País",
+    "fecha": 1779573092.0,
+    "link": "https://elpais.com/deportes/futbol/2026-05-23/el-girona-y-el-mallorca-descienden-a-segunda-division.html",
+    "resumen": "El Levante, Osasuna y el Elche jugarán la próxima temporada en Primera"
+  },
+  {
+    "titulo": "El FMI presenta en el ECOFIN de Nicosia: la deuda de la UE será ‘explosiva’ en 2040",
+    "medio": "Moncloa.com",
+    "fecha": 1779573032.0,
+    "link": "https://www.moncloa.com/2026/05/23/fmi-alerta-deuda-publica-ue-2040-ecofin-3379170/",
+    "resumen": "El FMI lanza una alerta demoledora: la deuda de la UE será explosiva en 2040 si no se crea financiación conjunta. España, entre el ajuste y la necesidad de inversión. La entrada El FMI presenta en el ECOFIN de Nicosia: la deuda de la UE será ‘explosiva’ en 2040 aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump ve cerca un alto el fuego con Irán pero el destino del estrecho de Ormuz sigue en disputa",
+    "medio": "El País",
+    "fecha": 1779572908.0,
+    "link": "https://elpais.com/internacional/2026-05-23/estados-unidos-lanza-senales-de-optimismo-para-prorrogar-el-alto-el-fuego-en-iran.html",
+    "resumen": "El presidente de Estados Unidos dice que el pacto incluye la reapertura del estratégico paso y Teherán lo desmiente a los pocos minutos"
+  },
+  {
+    "titulo": "Prohens logra la reelección como presidenta del PP de Baleares con el 99,93% de los votos",
+    "medio": "Moncloa.com",
+    "fecha": 1779572882.0,
+    "link": "https://www.moncloa.com/2026/05/23/prohens-reelegida-presidenta-pp-baleares-3379175/",
+    "resumen": "Marga Prohens, reelegida presidenta del PP balear con un 99,93% de respaldo. El cónclave, arropado por Feijóo, lanza un mensaje de estabilidad y crítica al Gobierno. La entrada Prohens logra la reelección como presidenta del PP de Baleares con el 99,93% de los votos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ayuso cierra aulas públicas en el sur de Madrid y dispara la educación privada",
+    "medio": "Moncloa.com",
+    "fecha": 1779572849.0,
+    "link": "https://www.moncloa.com/2026/05/23/ayuso-cierra-aulas-publicas-sur-madrid-3379181/",
+    "resumen": "La Comunidad de Madrid cierra 78 aulas públicas y dispara la expansión de la privada en el sur, el histórico cinturón rojo, transformando el voto socialista en un territorio antes orgulloso de su identidad de clase. La entrada Ayuso cierra aulas públicas en el sur de Madrid y dispara la educación privada aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Carvajal: “Con mi salida ponemos fin a una era maravillosa”",
+    "medio": "El País",
+    "fecha": 1779572659.0,
+    "link": "https://elpais.com/deportes/futbol/2026-05-23/carvajal-con-mi-salida-ponemos-fin-a-una-era-maravillosa.html",
+    "resumen": "El gran capitán se despide del Real Madrid después de 24 años en el club en el día del adiós de Alaba celebrado con una victoria contra el Athletic"
+  },
+  {
+    "titulo": "La gran victoria del Valencia contra el Barça no le sirve para alcanzar Europa",
+    "medio": "El País",
+    "fecha": 1779572576.0,
+    "link": "https://elpais.com/deportes/futbol/2026-05-23/la-gran-victoria-del-valencia-contra-el-barca-no-le-sirve-para-alcanzar-europa.html",
+    "resumen": "Los azulgranas solo presumieron del gol 120 de Lewandowski en su último partido con el club"
+  },
+  {
+    "titulo": "Zapatero pagó una hipoteca de medio millón desde una cuenta de Sonsoles receptora de dinero de la trama",
+    "medio": "OK Diario",
+    "fecha": 1779572498.0,
+    "link": "https://okdiario.com/investigacion/zapatero-pago-hipoteca-medio-millon-desde-cuenta-sonsoles-receptora-dinero-trama-17141615",
+    "resumen": "El imputado ex presidente del Gobierno, José Luis Rodríguez Zapatero, pagó una hipoteca de medio millón desde una cuenta bancaria con la que operaba su mujer, Sonsoles Espinosa. Esta cuenta también aparece como receptora de dinero de la trama en el informe -al que ha accedido OKDIARIO- elaborado por la Unidad de Delincuencia Económica y … Continuar leyendo \"Zapatero pagó una hipoteca de medio millón desde una cuenta de Sonsoles receptora de dinero de la trama\""
+  },
+  {
     "titulo": "Resultado de la última jornada de la Liga: resumen, clasificación, goles y cómo han quedado los partidos hoy",
     "medio": "OK Diario",
-    "fecha": 1779571354.0,
+    "fecha": 1779572194.0,
     "link": "https://okdiario.com/deportes/ultima-jornada-liga-directo-donde-ver-gratis-ultima-hora-como-van-resultado-partidos-hoy-vivo-17140528",
     "resumen": "Después de nueve meses de competición, la temporada 2025/26 concluye en la Liga con la disputa de la Jornada 38 en horario unificado. Nueve encuentros de la última jornada del campeonato se juegan de forma simultánea a las 21:00 horas del sábado, con Villarreal y Atlético de Madrid echando el cierre a la Primera División … Continuar leyendo \"Resultado de la última jornada de la Liga: resumen, clasificación, goles y cómo han quedado los partidos hoy\""
+  },
+  {
+    "titulo": "Nuevo doblete de Mercedes en Canadá: Russell le arrebata la pole a Antonelli en el último segundo",
+    "medio": "OK Diario",
+    "fecha": 1779571943.0,
+    "link": "https://okdiario.com/deportes/nuevo-doblete-mercedes-canada-russell-arrebata-pole-antonelli-ultimo-segundo-17141393",
+    "resumen": "Mercedes lo ha vuelto a hacer, apareció en el último momento para firmar un nuevo doblete en clasificación. George Russell se apuntó la pole de nuevo en la clasificación del GP de Canadá de F1, como en la de la sprint, tras quitársela a su compañero Kimi Antonelli en el último suspiro. No tuvieron una … Continuar leyendo \"Nuevo doblete de Mercedes en Canadá: Russell le arrebata la pole a Antonelli en el último segundo\""
+  },
+  {
+    "titulo": "La importancia de Zapatero en el rescate de Plus Ultra: «meterle chola al Zapa»",
+    "medio": "Moncloa.com",
+    "fecha": 1779571865.0,
+    "link": "https://www.moncloa.com/2026/05/23/plus-ultra-zapatero-3379173/",
+    "resumen": "El informe de la UDEF no deja lugar a dudas. El ex presidente español José Luis Rodríguez Zapatero influyó positivamente en el rescate de Plus Ultra por 53 millones de euros. Los redactores del informe recogen conversaciones aportadas por el HSI de Estados Unidos encontradas en el teléfono móvil de Rodolfo Reyes Rojas, accionista principal […] La entrada La importancia de Zapatero en el rescate de Plus Ultra: «meterle chola al Zapa» aparece primero en Moncloa."
   },
   {
     "titulo": "Vuelve el EuroGeta: los de Bordalás jugarán la Conference y el Celta la Europa League",
@@ -26,20 +187,6 @@
     "fecha": 1779571280.0,
     "link": "https://theobjective.com/internacional/2026-05-23/trump-asegura-negocian-ultimos-flecos-iran-reabrir-ormuz/",
     "resumen": "El presidente de Estados Unidos, Donald Trump, informó este sábado de que se están negociando los últimos detalles de un acuerdo de paz con Irán que […]"
-  },
-  {
-    "titulo": "Los Javis enamoran a Cannes con su canto a Lorca y se hacen con el Premio a la dirección, mientras Cristian Mungiu logra una discutible Palma de Oro",
-    "medio": "El Mundo",
-    "fecha": 1779570965.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/05/23/6a11fa8021efa05d0a8b45b2.html",
-    "resumen": "La bola negra comparte ex aequo el premio a la dirección con el polaco Pawel Pawlikowski, por Fatherland, en un palmarés encabezado por Fjord, un ambiguo estudio de la intolerancia firmado por el rumano Cristian Mungiu, que logra su segunda Palma de Oro Leer"
-  },
-  {
-    "titulo": "Aviones de EEUU ejecutan un ejercicio militar sobre Caracas cuatro meses después de la captura de Maduro",
-    "medio": "El Mundo",
-    "fecha": 1779570921.0,
-    "link": "https://www.elmundo.es/internacional/2026/05/23/6a11d1b8e4d4d8a5418b45bb.html",
-    "resumen": "Las autoridades chavistas advierten a la población para evitar sustos entre los habitantes de la capital Leer"
   },
   {
     "titulo": "Drama: el Mallorca desciende con la segunda puntuación más alta del siglo y el Elche condena al Girona",
@@ -63,13 +210,6 @@
     "resumen": "Osasuna, Elche y Levante consiguieron certificar su permanencia en Primera División en una última jornada que tuvo a todos en vilo hasta el último segundo."
   },
   {
-    "titulo": "Trump ve cerca un acuerdo de alto el fuego con Irán que reabra el estrecho de Ormuz",
-    "medio": "El País",
-    "fecha": 1779570696.0,
-    "link": "https://elpais.com/internacional/2026-05-23/estados-unidos-lanza-senales-de-optimismo-para-prorrogar-el-alto-el-fuego-en-iran.html",
-    "resumen": "El presidente de Estados Unidos dice que el pacto se anunciará pronto mientras que el diario ‘Financial Times’ apunta a que la nueva tregua podría durar 60 días"
-  },
-  {
     "titulo": "La ‘trama Plus Ultra’ habló de torpedear la investigación judicial: “Hay que hacer un Kitchen Gabinet”",
     "medio": "El País",
     "fecha": 1779570570.0,
@@ -84,11 +224,11 @@
     "resumen": "El Barcelona despidió la temporada con otra derrota fuera de casa ante un Valencia que intentó hasta el último momento entrar en Europa, pero se terminó quedando en la orilla. Lewandowski marcó su último gol con la camiseta del Barça en el que fue el 0-1. En la última media hora, los de Corberán remontaron … Continuar leyendo \"El Barcelona cierra el curso con otra derrota\""
   },
   {
-    "titulo": "La última jornada de la Liga en directo | El Girona y el Mallorca descienden a Segunda",
-    "medio": "El País",
-    "fecha": 1779570502.0,
-    "link": "https://elpais.com/deportes/futbol/2026-05-23/la-ultima-jornada-de-la-liga-en-directo-todos-los-partidos-en-vivo.html",
-    "resumen": "Levante, Elche y Osasuna mantienen con mucho sufrimiento la categoría | El Getafe se clasifica a la Conference y el Celta a la Europa League"
+    "titulo": "El Girona se va al infierno de Segunda",
+    "medio": "La Vanguardia",
+    "fecha": 1779570505.0,
+    "link": "https://www.lavanguardia.com/deportes/20260523/11545982/girona-elche-liga-ultima-jornada-salvacion-descenso-aferra-primera-division.html",
+    "resumen": "El Elche envía a Segunda División al conjunto de Montilivi, víctima de su ansiedad y su dificultad para marcar"
   },
   {
     "titulo": "Resultado de la clasificación del GP de Canadá de F1: resumen, parrilla de salida y cómo han quedado Alonso y Sainz",
@@ -98,18 +238,18 @@
     "resumen": "¡Buenas noches! Bienvenidos a la retransmisión en directo de la clasificación del GP de Canadá de F1. Los Mercedes parten como principales favoritos para hacerse con la pole tras lo visto en la carrera al sprint. George Russell se llevó la mini pole el viernes en la clasificación para la carrera corta que ha ganado … Continuar leyendo \"Resultado de la clasificación del GP de Canadá de F1: resumen, parrilla de salida y cómo han quedado Alonso y Sainz\""
   },
   {
-    "titulo": "Así queda la clasificación final de la Liga tras la disputa de la jornada 38",
-    "medio": "OK Diario",
-    "fecha": 1779570346.0,
-    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-final-liga-disputa-jornada-38-17141265",
-    "resumen": "Nueve partidos a la vez para dilucidar la clasificación de la Liga 2025-2026. Sólo queda uno por celebrarse, el Villarreal–Atlético en el que estará en juego la tercera posición. Del resto, ya se conoce todo. El Barcelona es campeón, el Real Madrid segundo y tanto Villarreal, como Atlético y Betis jugarán la Champions. Había en … Continuar leyendo \"Así queda la clasificación final de la Liga tras la disputa de la jornada 38\""
+    "titulo": "El campeón se va de vacaciones media hora antes de tiempo y cae en Mestalla",
+    "medio": "La Vanguardia",
+    "fecha": 1779570466.0,
+    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260523/11546035/campeon-vacaciones-media-hora-cae-mestalla.html",
+    "resumen": "Lewandowski se despidió con su último gol de blaugrana pero en cinco minutos el Valencia da la vuelta al resultado"
   },
   {
     "titulo": "La UDEF caza a Zapatero creando facturas falsas: «¿Ponemos más importe?»",
     "medio": "The Objective",
     "fecha": 1779570254.0,
     "link": "https://theobjective.com/espana/2026-05-23/udef-caza-zapatero-creando-facturas-falsas/",
-    "resumen": "La Unidad de Delincuencia Económica y Fiscal de la Policía (UDEF) apunta en su informe sobre el ‘caso Plus Ultra‘ que el expresidente José Luis Rodríguez […]"
+    "resumen": "La Unidad de Delincuencia Económica y Fiscal de la Policía (UDEF) apunta en su informe sobre el caso Plus Ultra que el expresidente José Luis Rodríguez […]"
   },
   {
     "titulo": "La evolución de estilo de Bad Bunny: de un reguetonero excesivo más a un icono que no tiene miedo de experimentar",
@@ -117,6 +257,13 @@
     "fecha": 1779570078.0,
     "link": "https://www.huffingtonpost.es/life/moda/la-evolucion-estilo-bad-bunny-reggaetonero-mas-icono-miedo-experimentar-f202605.html",
     "resumen": ""
+  },
+  {
+    "titulo": "El Madrid despide a Carvajal, su último héroe",
+    "medio": "La Vanguardia",
+    "fecha": 1779569825.0,
+    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260523/11546033/madrid-despide-ultimo-heroe.html",
+    "resumen": "En plena crisis de futbolista formados en Valdebebas en el primer equipo, la despedida de Carvajal acapara el fin de un curso en blanco, con Mbappé silbado y tambores electorales"
   },
   {
     "titulo": "El Real Madrid cierra la temporada con una cómoda victoria ante el Athletic en el partido de las despedidas",
@@ -137,7 +284,14 @@
     "medio": "eldiario.es",
     "fecha": 1779569677.0,
     "link": "https://www.eldiario.es/politica/directivo-plus-ultra-afirmo-whatsapp-reunio-zapatero-durante-tramitacion-rescate_1_13245603.html",
-    "resumen": "Los dos informes de la UDEF que constan en el sumario recogen conversaciones de directivos de la aerolínea en las que hacen referencia a supuestas reuniones con el expresidente o a posibles acciones que hubiera podido realizar Radiografía del auto contra Zapatero: múltiples indicios y acusaciones por atar Uno de los dos informes de la UDEF incorporados a la causa que investiga por tráfico de influencias al expresidente José Luis Rodríguez Zapatero apunta a su posible papel en el rescate público de la aerolínea Plus Ultra. El atestado detalla una conversación mantenida en octubre de 2020 entre el actual presidente de la compañía Julio Martínez Sola y el socio accionista venezolano Rodolfo Reyes y en la que el primero detalla por WhatsApp un supuesto encuentro con el que fuera jefe del Ejecutivo: “Estoy con los Zapatero y los chinos. veremos (sic)”. Este mensaje, sobre el que ponen el foco los investigadores obtiene rápida respuesta de Reyes, con un simple “suerte”. El atestado indica que el directivo de la aerolínea sostiene que “se encuentra en ese momento con José Luis Rodríguez Zapatero y unos ciudadanos de nacionalidad china”. No obstante, la expresión abre la puerta a que pudiera referirse a personas cercanas a la figura del expresidente dado que los directivos de la aerolínea hablaban en ocasiones del “Grupo Zapatero” para referirse a personas vinculadas al expresidente. Esencialmente, Julio Martínez Martínez, el empresario que cobró más de 300.000 euros de Plus Ultra. Y que, a su vez, pagó 490.780 euros a Zapatero y 239.755 a la empresa de sus hijas entre 2020 y 2024. Días después de ese mensaje, indica la UDEF en su informe, el 19 de octubre de 2020, la SEPI remitió a Plus Ultra un requerimiento de subsanación adicional y aclaraciones con la intención de mejorar la solicitud inicial de ayuda ante la situación creada en la pandemia. En ese momento, la aerolínea también estaba teniendo dificultades para conseguir permisos de vuelo de la autoridad de aviación civil de China. De la obtención de esas autorizaciones dependía que un cliente asiático, que estaba “muy nervioso”, liberara un pago urgente de 660.000 dólares a favor de Plus Ultra. El informe también recoge otra conversación de directivos de la aerolínea en la que hacen referencia a otra supuesta reunión del expresidente en relación con el rescate. En este caso, ese encuentro se habría producido meses después, en febrero de 2021, un mes antes de que el Consejo de Ministros aprobara el préstamo público. En esa reunión, Zapatero habría comunicado a uno de los principales accionistas de la aerolínea, Camilo Ibrahim Issa, que la tramitación del rescate iba “viento en popa” “Puedes organizar una comida con el tocayo, tu y Camilo. Camilo estuvo hoy con Zp. Le dijo que todo va viento en popa”, asegura el venezolano Rodolfo Reyes, que ese momento tenía el 40% de las acciones de Plus Ultra. “Lo sabía. De hecho, me pregunto el tocayo (estaba con ZP) cuanto tenía Camilio en Plus (sic)”, responde el vicepresidente de la compañía, Julio Martínez Sola. El “tocayo” al que se refieren es el citado Julio Martínez Martínez. La investigación de la Audiencia Nacional sitúa el rescate de 53 millones de euros concedido a la aerolínea Plus Ultra en la pandemia como el núcleo central de la trama. La resolución detalla que ante la imposibilidad de la aerolínea para conseguir créditos bancarios, sus directivos recurrieron en paralelo a José Luis Ábalos y a Zapatero, si bien fue la vía del expresidente “la que adquirió un papel predominante y permitió a Plus Ultra alcanzar los objetivos perseguidos”. Los informes recogen una conversación de siete meses antes, del 30 de marzo de 2020 en la que Rodolfo Reyes y Julio Martínez Sola debaten qué contactos políticos utilizar para acceder a la financiación y donde surge el nombre del expresidente del Gobierno. “Tienes idea como llegamos a los hilos políticos, tema ayudas, financiamiento etc etc etc (sic)”, escribe el venezolano Rodolfo Reyes a Martínez Sola el 30 de marzo de 2020. Este último responde que ya había puesto en marcha el asunto “por dos vías”: “Delcy que llame a Ábalos. O alguien con Zapatero”. En la misma conversación, el empresario venezolano llega a preguntar al entonces presidente de la aerolínea si “sirve pa algo ese ”señor“, en alusión a Zapatero. A lo que su interlocutor le contesta que ”es pro Sanchez“, ”y pro Maduro“. ”El fin justifica los medios“, añade. Sin embargo, los informes de la Unidad de Delincuencia Económica y Fiscal (UDEF) no contienen más pruebas que las que el juez José Luis Calama presentó en el auto de 88 páginas conocido el pasado martes y de las que se sirvió para sostener la imputación a Zapatero por organización criminal, tráfico de influencias y falsedad."
+    "resumen": "Los dos informes de la UDEF que constan en el sumario recogen conversaciones de directivos de la aerolínea en las que hacen referencia a supuestas reuniones con el expresidente o a posibles acciones que hubiera podido realizar Radiografía del auto contra Zapatero: múltiples indicios y acusaciones por atar Uno de los dos informes de la UDEF incorporados a la causa que investiga por tráfico de influencias al expresidente José Luis Rodríguez Zapatero apunta a su posible papel en el rescate público de la aerolínea Plus Ultra. El atestado detalla una conversación mantenida en octubre de 2020 entre el actual presidente de la compañía, Julio Martínez Sola, y el socio accionista venezolano Rodolfo Reyes en la que el primero detalla por WhatsApp un supuesto encuentro con el que fuera jefe del Ejecutivo: “Estoy con los Zapatero y los chinos. veremos (sic)”. Este mensaje, sobre el que ponen el foco los investigadores obtiene rápida respuesta de Reyes con un simple “suerte”. El atestado indica que el directivo de la aerolínea sostiene que “se encuentra en ese momento con José Luis Rodríguez Zapatero y unos ciudadanos de nacionalidad china”. No obstante, la expresión abre la puerta a que pudiera referirse a personas cercanas a la figura del expresidente dado que los directivos de la aerolínea hablaban en ocasiones del “Grupo Zapatero” para referirse a personas vinculadas al expresidente. Esencialmente, Julio Martínez Martínez, quien durante cinco años pagó a Zapatero por informes geoestratégicos a través de su empresa, Análisis Relevante, con la que facturaba a Plus Ultra por sus servicios de asesoría. Días después de ese mensaje, indica la UDEF en su informe, el 19 de octubre de 2020, la SEPI remitió a Plus Ultra un requerimiento de subsanación adicional y aclaraciones con la intención de mejorar la solicitud inicial de ayuda ante la situación creada en la pandemia. En ese momento, la aerolínea también estaba teniendo dificultades para conseguir permisos de vuelo de la autoridad de aviación civil de China. De la obtención de esas autorizaciones dependía que un cliente asiático, que estaba “muy nervioso”, liberara un pago urgente de 660.000 dólares a favor de Plus Ultra. El informe también recoge otra conversación de directivos de la aerolínea en la que hacen referencia a otra supuesta reunión del expresidente en relación con el rescate. En este caso, ese encuentro se habría producido meses después, en febrero de 2021, un mes antes de que el Consejo de Ministros aprobara el préstamo público. En esa reunión, Zapatero habría comunicado a uno de los principales accionistas de la aerolínea, Camilo Ibrahim Issa, que la tramitación del rescate iba “viento en popa”. “Puedes organizar una comida con el tocayo, tu y Camilo. Camilo estuvo hoy con Zp. Le dijo que todo va viento en popa”, asegura el venezolano Rodolfo Reyes, que ese momento tenía el 40% de las acciones de Plus Ultra. “Lo sabía. De hecho, me pregunto el tocayo (estaba con ZP) cuanto tenía Camilio en Plus (sic)”, responde el entonces vicepresidente de la compañía, Julio Martínez Sola. El “tocayo” al que se refieren es el citado Julio Martínez Martínez. La investigación de la Audiencia Nacional sitúa el rescate de 53 millones de euros concedido a la aerolínea Plus Ultra en la pandemia como el episodio central de la trama. La resolución detalla que ante la imposibilidad de la aerolínea para conseguir créditos bancarios, sus directivos recurrieron en paralelo a José Luis Ábalos y a Zapatero, si bien fue la vía del expresidente “la que adquirió un papel predominante y permitió a Plus Ultra alcanzar los objetivos perseguidos”. Los informes recogen una conversación de las primeras semanas de la pandemia en la que Rodolfo Reyes y Julio Martínez Sola debaten qué contactos políticos utilizar para acceder a la financiación y en la que surge el nombre del expresidente del Gobierno. “Tienes idea como llegamos a los hilos políticos, tema ayudas, financiamiento etc etc etc (sic)”, escribe el venezolano Rodolfo Reyes a Martínez Sola el 30 de marzo de 2020. Este último responde que ya había puesto en marcha el asunto “por dos vías”: “Delcy que llame a Ábalos. O alguien con Zapatero”. En la misma conversación, el empresario venezolano llega a preguntar al entonces presidente de la aerolínea si “sirve pa algo ese ”señor“, en alusión a Zapatero. A lo que su interlocutor le contesta que ”es pro Sanchez“, ”y pro Maduro“. ”El fin justifica los medios“, añade. En su comparecencia en el Senado el pasado marzo, Zapatero admitió que sabía que su amigo Julio Martínez Martínez tenía “alguna relación” con Plus Ultra, aunque negó en numerosas ocasiones que él tuviera vinculación alguna con la aerolínea. “Es una especulación, una conjetura, una hipótesis”, afirmó el expresidente, que reiteró que sus trabajos de consultoría nada tenían que ver con Plus Ultra. No obstante, los agentes han localizado dos archivos de Excel —“LISTA AR OK.xlsx” y “DIRECCIONES EMAIL JM xlsx”— enviados por Zapatero a Julio Martínez Martínez el 6 de julio de 2021 con supuestos clientes de su empresa Análisis Relevante. Entre esos clientes figuran los citados Julio Martínez Sola y Camilo Ibrahim Issa, vinculados a la aerolínea. También aparecen otros nombres como el presidente del Real Madrid y del grupo ACS, Florentino Pérez, el expresidente de Indra Fernando Abril-Martorell, la presidenta de Red Eléctrica Beatriz Corredor o directivos de la tecnológica Huawei. Según la Policía, el envío personal de estos listados muestra una dinámica según la cual Zapatero “daría el visto bueno a un listado de receptores de los informes de asesoría emitidos por Análisis Relevante”. Los informes de la UDEF no contienen, sin embargo, más pruebas que las que el juez José Luis Calama presentó en el auto de 88 páginas conocido el pasado martes y de las que se sirvió para sostener la imputación a Zapatero por organización criminal, tráfico de influencias y falsedad. La hipoteca y la off-shore en Islas Vírgenes Uno de los dos atestados recoge varios correos electrónicos relacionados con la supuesta creación de una sociedad off-shore que, según los investigadores, habría ordenado crear Rodríguez Zapatero para cobrar una comisión del 1% por el rescate público de Plus Ultra. Si bien en ninguno de los documentos incluidos se arroja luz sobre esa supuesta orden del expresidente, sí que se dice que Zapatero habría sido quien mandó a su secretaria (Gertrudis) organizar una comida en el restaurante Portonovo con Julio Martínez Martínez. “Tanto del hecho de que la iniciativa parta de Gertrudis como del empleo de un escolta se deriva que necesariamente las instrucciones tienen que partir de José Luis Rodríguez Zapatero”, explican los agentes de la UDEF. Como un día después empieza el cruce de correos entre Julio Martínez y la persona que se iba a encargar de crear una off-shore en Dubái (Tomás Guerrero), la UDEF infiere que el germen de esa creación de la sociedad es la comida del Portonovo. Y eso a pesar de que en realidad, y a juzgar por lo que refleja el atestado (“mesa para dos”) Guerrero no estuvo en la comida de Zapatero y Martínez. Dando por hecho la constitución de esa sociedad en Dubái, la UDEF incluye que que “la red de influencia dispondría de, al menos, otra sociedad radicada en territorios off-shore, como así se desprende del análisis de los correos electrónicos hallados” en el portátil de Julio Martínez. Explica que han localizado un documento que revela que ese empresario contaba también con una mercantil en las Islas Vírgenes Británicas, Landside Holding LTD. A este hallazgo, la UDEF suma otro, y es que “según inteligencia financiera, José Luis Rodriguez Zapatero y su esposa adquirieron un inmueble (...) el 26 de febrero de 2024 por un precio de compraventa de 580.000 euros”. Relatan que el Santander les concedió un préstamo hipotecario para esta operación por importe de 500.000 euros, y que el mismo fue cancelado anticipadamente el 16 de enero de 2025 mediante una transferencia de 498.000 euros."
+  },
+  {
+    "titulo": "Nunca vuelvas a hacer patatas al mayordomo sin este truco: quedan cremosísimas en 30 minutos",
+    "medio": "Moncloa.com",
+    "fecha": 1779569444.0,
+    "link": "https://www.moncloa.com/2026/05/23/papas-al-mayordomo-garnicion-cremosa-3379014/",
+    "resumen": "Papas al mayordomo cremosas en 30 minutos: cocinadas en leche y mantequilla, con un truco sencillo para que queden irresistibles. La entrada Nunca vuelvas a hacer patatas al mayordomo sin este truco: quedan cremosísimas en 30 minutos aparece primero en Moncloa."
   },
   {
     "titulo": "La presunta trama de Plus Ultra recurrió a Zapatero por ser \"pro Sánchez y pro Maduro\": \"El fin justifica los medios\"",
@@ -145,20 +299,6 @@
     "fecha": 1779569435.0,
     "link": "https://www.europapress.es/nacional/noticia-presunta-trama-plus-ultra-recurrio-zapatero-ser-pro-sanchez-pro-maduro-fin-justifica-medios-20260523225035.html",
     "resumen": "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional detectó conversaciones de los implicados en la presunta trama del 'caso Plus Ultra' que investiga la Audiencia Nacional en la que conversaban sobre el rol del expresidente del Gobierno José Luis Rodríguez Zapatero para conseguir el rescate para la aerolínea en plena pandemia, señalando que era una persona \"pro Sánchez y pro Maduro\"."
-  },
-  {
-    "titulo": "Trump anuncia un principio de acuerdo de paz con Irán y confirma la reapertura del estrecho de Ormuz",
-    "medio": "OK Diario",
-    "fecha": 1779569400.0,
-    "link": "https://okdiario.com/internacional/trump-anuncia-principio-acuerdo-paz-iran-confirma-reapertura-del-estrecho-ormuz-17141433",
-    "resumen": "El presidente de Estados Unidos Donald Trump ha anunciado este sábado en redes sociales un principio de acuerdo de paz con la dictadura de los ayatolás de Irán y ha confirmado la reapertura del estrecho de Ormuz. El presidente de EEUU ha asegurado que el pacto está «prácticamente negociado» tras hablar con líderes árabes, Pakistán, … Continuar leyendo \"Trump anuncia un principio de acuerdo de paz con Irán y confirma la reapertura del estrecho de Ormuz\""
-  },
-  {
-    "titulo": "Cristian Mungiu, ganador de la Palma de Oro con ‘Fjord’: “Pongamos nervioso al público”",
-    "medio": "El País",
-    "fecha": 1779569282.0,
-    "link": "https://elpais.com/cultura/cine/2026-05-23/cristian-mungiu-ganador-de-la-palma-de-oro-con-fjord-pongamos-nervioso-al-publico.html",
-    "resumen": "El cineasta rumano triunfa por segunda vez en el festival de Cannes con el drama de una familia muy religiosa por recuperar a sus hijos. “La empatía no vale de mucho si se hace entre iguales”, apunta"
   },
   {
     "titulo": "Trump asegura que se están negociando los \"últimos detalles\" del acuerdo con Irán, que se anunciará \"pronto\"",
@@ -175,25 +315,11 @@
     "resumen": "Un informe de la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, al que ha tenido acceso EFE, recoge un mensaje del presidente […]"
   },
   {
-    "titulo": "De Penélope Cruz a Demi Moore: la alfombra roja de la ceremonia de clausura en Cannes 2026",
-    "medio": "El País",
-    "fecha": 1779568986.0,
-    "link": "https://elpais.com/smoda/moda/2026-05-23/de-penelope-cruz-a-demi-moore-la-alfombra-roja-de-la-ceremonia-de-clausura-en-cannes.html",
-    "resumen": "La 79º edición del Festival de Cannes ha llegado a su fin extendiendo por última vez su célebre alfombra en la escalinata del Palacio de Festivales. Por ella ha pasado de nuevo el equipo español de ‘La bola negra’, pero también grandes estrellas como Isabelle Huppert, Eva Longoria, Tilda Swinton…"
-  },
-  {
-    "titulo": "La imagen del dueño de Plus Ultra celebrando el rescate con ostras y champán: «Esto lo pagamos con el 1%»",
-    "medio": "OK Diario",
-    "fecha": 1779568429.0,
-    "link": "https://okdiario.com/investigacion/imagen-del-dueno-plus-ultra-celebrando-rescate-ostras-champan-esto-lo-pagamos-1-17141260",
-    "resumen": "El dueño de Plus Ultra, Julio Martínez Sola, celebró el rescate de 53 de millones dado por el Gobierno de Pedro Sánchez, con la mediación del imputado ex presidente del Gobierno José Luis Rodríguez Zapatero, con una comida con ostras y champán. Así aparece en el informe de la UDEF al que ha tenido acceso … Continuar leyendo \"La imagen del dueño de Plus Ultra celebrando el rescate con ostras y champán: «Esto lo pagamos con el 1%»\""
-  },
-  {
-    "titulo": "Estados Unidos concreta un simulacro militar de evacuación en Caracas",
-    "medio": "El País",
-    "fecha": 1779568280.0,
-    "link": "https://elpais.com/america/2026-05-23/estados-unidos-concreta-un-simulacro-militar-de-evacuacion-en-caracas.html",
-    "resumen": "Dos aeronaves militares sobrevolaron la capital venezolana y realizaron maniobras en la embajada de EE UU. El jefe del Comando Sur, Francis Donovan, visitó el país por segunda vez"
+    "titulo": "Palma de Oro contra el fundamentalismo",
+    "medio": "La Vanguardia",
+    "fecha": 1779568692.0,
+    "link": "https://www.lavanguardia.com/cultura/20260523/11546032/palma-oro-fundamentalismo.html",
+    "resumen": ""
   },
   {
     "titulo": "José Antonio Donaire, comisionado de Turismo Sostenible de Barcelona: \"No queremos más turistas, ni uno más. Hemos llegado al final del camino\"",
@@ -210,13 +336,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Localizada una empresa del amigo de Zapatero en el paraíso fiscal de las Islas Vírgenes británicas",
-    "medio": "El País",
-    "fecha": 1779568154.0,
-    "link": "https://elpais.com/espana/2026-05-23/localizada-una-empresa-del-amigo-de-zapatero-en-el-paraiso-fiscal-de-las-islas-virgenes-britanicas.html",
-    "resumen": "La Policía destaca que esta compañía, de nombre similar a la de Dubái, controla una cartera de valores de cientos de miles de dólares"
-  },
-  {
     "titulo": "Misiles nucleares en el fondo del mar: la OTAN sigue la pista de 'Skythen', el proyecto secreto ruso para hundir silos a distancia",
     "medio": "HuffPost",
     "fecha": 1779568138.0,
@@ -224,11 +343,25 @@
     "resumen": ""
   },
   {
+    "titulo": "Ibai Llanos y Bryant Myers, protagonistas de la segunda noche de Bad Bunny en Barcelona",
+    "medio": "La Vanguardia",
+    "fecha": 1779568079.0,
+    "link": "https://www.lavanguardia.com/cultura/musica/20260523/11545962/ibai-llanos-bryant-myers-protagonistas-segunda-noche-bad-bunny-barcelona.html",
+    "resumen": "El streamer fue el encargado de prounciar la frase “¡Acho, PR es otra cosa!” desde la 'Casita' y desató la locura en el Estadi Olímpic"
+  },
+  {
     "titulo": "La trama intentó boicotear la investigación: «Hay que hacer un Kitchen Gabinet»",
     "medio": "The Objective",
     "fecha": 1779567964.0,
     "link": "https://theobjective.com/espana/2026-05-23/trama-intento-boicotear-investigacion-kitchen-gabinet/",
     "resumen": "Un informe de la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, al que ha tenido acceso EFE, revela una conversación entre Rodolfo […]"
+  },
+  {
+    "titulo": "Russell se lleva el sprint del GP de Canadá",
+    "medio": "La Vanguardia",
+    "fecha": 1779567580.0,
+    "link": "https://www.lavanguardia.com/deportes/20260523/11545994/russell-lleva-sprint-gp-canada.html",
+    "resumen": "Duro enfrentamiento entre el piloto inglés y su compañero Antonelli"
   },
   {
     "titulo": "Los informes de la UDEF de Plus Ultra: «Ja ja ja, a limpiar, Zapatero aquí manda»",
@@ -259,18 +392,25 @@
     "resumen": "Unas zapatillas negras son un esencial en el armario, pero contar con una súper especiales hacen de este básico un auténtico amuleto en nuestros outfits. Por eso estábamos en busca de unas sneakers donde este tono fuera el absoluto protagonista, pero que siguiese una estética más vintage y atrevida. Fue cuando dimos con el nuevo modelo de Adidas, que celebra moda gopcore, las Megaride by AVAVAV. Adidas Megaride by AVAVAV Con un diseño parecido al de las deportivas de montaña, estas Adidas se asemejan bastante a nuestros modelos favoritos de Salomon. Justo hoy salen a la venta y estamos deseando hacernos con ellas. Nos encantan para combinar con un vestido midi negro en verano, como este de Massimo Dutti. Así rompemos con la línea coquette y romántica, apostando por fusionar estilos dándole al look y toque más moderno. Otra combinación infalible es llevar estas zapatillas con unas bermudas vaqueras y un top rojo como este, también de Massimo Dutti . Y es que la clave está en decantarse por una parte de arriba súper vibrante que no centre toda la atención en las zapatillas. Sabemos bien que esa estética gopcore atrapa miradas, así que la clave está en buscar un equilibrio. Top rojo Massimo Dutti También nos encantan estas zapatillas para combinarlas con prendas de deporte y ahora que los monos en clave fitness son tendencia en estado puro, uno como este de Oysho en color crema nos parece un diez de diez. Un look perfecto para ir al gym que te vas a querer poner hasta cuando no vas a entrenar. Nosotras tenemos claro que estas zapatillas se van directas a nuestra lista de deseos, porque son un esencial que combina con todo nuestro armario y la vez se trata de una pieza de lo más especial. Su precio es de 200 euros, pero merece 100% la pena la inversión. Palabra de editora. Fotos | Adidas, @linza.sza, Massimo Dutti, Oysho En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. - La noticia Adiós Salomon, hola Adidas: así son las nuevas zapatillas gopcore de aire retro dosmilero que quieren todas las modernas fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
+    "titulo": "Mungiu, Palma de Oro con 'Fjord' y Los Javis comparten el premio a la mejor dirección con Pawlikowski",
+    "medio": "La Vanguardia",
+    "fecha": 1779565855.0,
+    "link": "https://www.lavanguardia.com/cultura/20260523/11545934/mungiu-logra-segunda-palma-oro-fjord-javis-comparten-premio-mejor-direccion-pawlikowski.html",
+    "resumen": "El palmarés, que ha dejado fuera a las cintas de Almodóvar y Sorogoyen, ha estado marcado por el clima político y social actual"
+  },
+  {
+    "titulo": "Plus Ultra celebró el rescate entre champán y ostras: “La SEPI no aprueba esos gastos”",
+    "medio": "La Vanguardia",
+    "fecha": 1779565403.0,
+    "link": "https://www.lavanguardia.com/politica/20260523/11545986/trama-plus-ultra-celebro-rescate-champan-ostras-sepi-aprueba-gastos.html",
+    "resumen": "“Tranquilo, eso sale del 1% [en referencia a la comisión que se habrían desembolsado por el rescate]”., respondieron en el grupo de whatsapp de la trama tras preguntar si la sociedad pública asumiría la cuenta"
+  },
+  {
     "titulo": "Los Javis ganan como mejor dirección en el Festival de Cannes por 'La Bola Negra' y 'Fjord' gana la Palma de Oro",
     "medio": "HuffPost",
     "fecha": 1779565274.0,
     "link": "https://www.huffingtonpost.es/life/cultura/los-javis-ganan-mejor-direccion-festival-cannes-la-bola-negra-fjord-gana-palma-oro-f202605.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Los Javis ganan el premio a Mejor Dirección en Cannes por su película ‘La bola negra’",
-    "medio": "The Objective",
-    "fecha": 1779564622.0,
-    "link": "https://theobjective.com/cultura/2026-05-23/javis-ganan-mejor-direccion-cannes-la-bola-negra/",
-    "resumen": "Los cineastas españoles Javier Calvo y Javier Ambrossi han ganado el premio a Mejor Dirección la 79 edición del Festival de Cannes por su película ‘La […]"
   },
   {
     "titulo": "La UDEF descubre una sociedad opaca constituida por el \"testaferro\" de Zapatero, en el paraíso fiscal de Islas Vírgenes",
@@ -280,18 +420,11 @@
     "resumen": "La Policía halla un documento que mandataba a Landside Holding Ltd a actuar en nombre del Banco de Desarrollo Económico y Social de Venezuela en una negociación con una firma internacional de intermediación financiera.Más información: El informe de la UDEF acredita que Zapatero felicitó desde su móvil a la trama de Plus Ultra por sus gestiones en Venezuela"
   },
   {
-    "titulo": "La mujer aislada en el Hospital Clínic de Barcelona da negativo por hantavirus y seguirá la cuarentena en casa",
-    "medio": "El Mundo",
-    "fecha": 1779564203.0,
-    "link": "https://www.elmundo.es/cataluna/2026/05/23/6a11fc58e85ece7b518b457b.html",
-    "resumen": "Seguirá en situación de aislamiento en su domicilio, con las medidas de seguridad recomendadas, durante 14 días Leer"
-  },
-  {
-    "titulo": "Los investigados en el 'caso Plus Ultra' se jactaron de poder influir en la fiscal jefe para \"cortar\" el proceso: \"Hay que hacer un Kitchen Gabinet\"",
-    "medio": "El Mundo",
-    "fecha": 1779563915.0,
-    "link": "https://www.elmundo.es/espana/2026/05/23/6a11caaefc6c8339628b4579.html",
-    "resumen": "Según la Udef, las conversaciones de los implicados \"refuerzan y complementan, evidenciándose nuevos indicios del ejercicio de las influencias y de las irregularidades detectadas para obtener la ayuda de 53 millones otorgada a la compañía Plus Ultra\" Leer"
+    "titulo": "Los Javis ganan el premio a Mejor Dirección en la 79 edición del Festival de Cannes por su película 'La bola negra'",
+    "medio": "Europa Press",
+    "fecha": 1779564198.0,
+    "link": "https://www.europapress.es/cultura/cine-00128/noticia-javis-ganan-premio-mejor-direccion-79-edicion-festival-cannes-pelicula-bola-negra-20260523212318.html",
+    "resumen": "Los cineastas españoles Javier Calvo y Javier Ambrossi han ganado el premio a Mejor Dirección la 79 edición del Festival de Cannes por su película 'La bola negra'. El galardón lo han conseguido ex-aequo con el director polaco Pawel Pawlikowski, premiado por 'Fatherland'."
   },
   {
     "titulo": "Llevamos décadas ignorando un órgano porque lo creíamos inútil. Ahora han visto que es crucial en nuestra longevidad",
@@ -329,13 +462,6 @@
     "resumen": "Tras años relegados, los fondos especializados en energías limpias recuperan el brillo. Los inversores confían en las renovables como alternativa al petróleo y gas. Leer"
   },
   {
-    "titulo": "Urtasun pide a la Fiscalía investigar las «torturas» de Israel a los miembros de la Flotilla",
-    "medio": "The Objective",
-    "fecha": 1779561436.0,
-    "link": "https://theobjective.com/espana/politica/2026-05-23/urtasun-investigar-torturas-israel-miembros-flotilla/",
-    "resumen": "El ministro de Cultura, Ernest Urtasun, ha pedido a la Fiscalía que inicie una investigación ante la Audiencia Nacional por las «torturas» cometidas por Israel a […]"
-  },
-  {
     "titulo": "En 1967 Canadá construyó viviendas futuristas como piezas de Lego. Medio siglo después siguen sin saber cómo repararlas",
     "medio": "Xataka",
     "fecha": 1779561093.0,
@@ -348,13 +474,6 @@
     "fecha": 1779560845.0,
     "link": "https://www.elespanol.com/valencia/20260523/marea-camisetas-verdes-valencia-huelga-educativa-redobla-presion-consell-defiende-oferta/1003744257241_0.html",
     "resumen": "Miles de docentes, familias y estudiantes abarrotan el centro de la ciudad tras dos semanas de huelga indefinida después de que Generalitat insista en la propuesta \"más ambiciosa de España\".Más información: Ningún sindicato firma el acuerdo de la Generalitat que propone una subida salarial de 200€ al mes al profesorado"
-  },
-  {
-    "titulo": "El Barcelona arrolla al Lyon, gana su cuarta Copa de Europa y sella un curso 'cum laude'",
-    "medio": "El Mundo",
-    "fecha": 1779560701.0,
-    "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/05/23/6a11ef9ee4d4d8fd4c8b4572.html",
-    "resumen": "Se impuso por 4-0 gracias a una gran segunda parte y completa la temporada con cuatro títulos, tras hacerse también con la Liga, la Copa y la Supercopa de España. Pajor y Paralluelo marcaron por partida doble Leer"
   },
   {
     "titulo": "Una manifestación en Vitoria denuncia \"la proliferación de infraestructuras industriales\" en el entorno rural",
@@ -376,13 +495,6 @@
     "fecha": 1779560200.0,
     "link": "https://www.moncloa.com/2026/05/23/extorsion-pura-ransomware-empresas-espanolas-3379152/",
     "resumen": "Los ciberdelincuentes abandonan el cifrado para centrarse en la extorsión silenciosa basada en datos. El último informe de Kaspersky alerta del impacto en empresas españolas. La entrada Kaspersky alerta: la extorsión pura ransomware silenciosa ya afecta a empresas españolas aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Una marea de más de 30.000 profesores y familias llena Valencia tras 10 días de huelga: \"Es para mejorar la atención de hijos\"",
-    "medio": "El Mundo",
-    "fecha": 1779559900.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/2026/05/23/6a11e0a6fc6c83f64c8b4577.html",
-    "resumen": "Sindicatos presentarán este lunes una propuesta a la Conselleria de Educación \"más detallada\": \"Estamos concretando mejor las medidas\". Leer"
   },
   {
     "titulo": "Los bomberos luchan por apagar un incendio en una planta de reciclado de Fraga: se inició el viernes",
@@ -420,25 +532,11 @@
     "resumen": "La ostra empieza a ganar presencia en bares y restaurantes especializados en las ciudades europeas de la mano de un […]"
   },
   {
-    "titulo": "EL MUNDO accede en exclusiva al informe de la Udef del 'caso Zapatero': sitúa al ex presidente y sus hijas como \"principales beneficiarios\" de la trama corrupta",
-    "medio": "El Mundo",
-    "fecha": 1779558902.0,
-    "link": "https://www.elmundo.es/espana/2026/05/23/6a11c46ce85ece0b798b45ae.html",
-    "resumen": "La Policía sitúa la existencia de un \"equipo\" liderado por el ex presidente que habría actuado como nexo de influencia entre una \"boutique\" financiera y distintos actores empresariales e institucionales Leer"
-  },
-  {
     "titulo": "El Barça arrolla al OL para sumar su cuarta Champions",
     "medio": "Europa Press",
     "fecha": 1779558894.0,
     "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-femeni-arrolla-ol-lyonnes-conquista-cuarta-champions-20260523195454.html",
     "resumen": "El Barça Femení ha ganado este sábado al OL Lyonnes (4-0) en el Ullevaal Stadion de Oslo (Noruega) en la final de la Liga de Campeones Femenina para conquistar así su cuarta Champions, todas en los últimos seis años y confirmar así su dominio actual en el fútbol femenino europeo."
-  },
-  {
-    "titulo": "El Barcelona gana por 4-0 frente al Lyon su cuarta Champions femenina",
-    "medio": "The Objective",
-    "fecha": 1779558880.0,
-    "link": "https://theobjective.com/deportes/2026-05-23/barcelona-champions-femenina-lyon-2026/",
-    "resumen": "El FC Barcelona ha ganado este sábado su cuarta Liga de Campeones Femenina tras vencer en la final de Oslo (Noruega) al Olympique de Lyon por […]"
   },
   {
     "titulo": "Ewa Pajor y Salma Paralluelo impulsan al Barça a conquistar su cuarto título de la Champions League Femenina",
@@ -453,13 +551,6 @@
     "fecha": 1779558282.0,
     "link": "https://www.eldiario.es/politica/cupula-plus-ultra-presumio-controlar-causa-penal-abierta-denuncia-manos-limpias_1_13245454.html",
     "resumen": "Un informe de la UDEF al que ha accedido elDiario.es revela conversaciones donde los directivos de la aerolínea planearon cortocircuitar el proceso judicial, que acabó archivado tras 19 meses de investigaciónQuince días sin tregua: Zapatero, Ábalos, Cerdán y el juicio a su hermano asfixian a Sánchez en los tribunales La cúpula de Plus Ultra presumió en 2021 de controlar la causa judicial abierta en el juzgado 15 de Plaza de Castilla tras la denuncia presentada por Manos Limpias. El informe elaborado por la UDEF en el que se basa el auto de imputación del expresidente José Luis Rodríguez Zapatero recoge información sobre reuniones mantenidas por la cúpula de la compañía aérea en la que se mostraban preocupados por la causa abierta en el juzgado tan solo un mes después de que hubieran conseguido el préstamo de 53 millones aprobado por el Gobierno de Pedro Sánchez. Este informe de la UDEF, adelantado por El Mundo y al que ha tenido acceso elDiario.es, detalla cómo el propietario del 40% de las acciones de Plus Ultra, el venezolano Rodolfo Reyes —que hace solo unos meses se desprendió de sus participaciones en la aerolínea— dio instrucciones al resto de directivos para cortocircuitar la causa penal que instruía la juez Esperanza Collazos. Los principales investigados del caso Plus Ultra se jactaron de tener influencia para “cortar” el proceso judicial que investigaba en Plaza de Castilla el rescate de la aerolínea. En las conversaciones intervenidas por la Unidad de Delincuencia Económica y Fiscal (UDEF), el exdueño de la compañía, el venezolano Rodolfo Reyes, comenzó a dar instrucciones para intentar cortocircuitar las actuaciones judiciales que dirigía la juez Esperanza Collazos. Para torpedear esa investigación judicial, según consta en el informe, Reyes pidió recurrir a la influencia de Julio Martínez Martínez, a quién tenía contratada la aerolínea para resolver problemas de funcionamiento de la compañía en Venezuela. Julio Martínez Martínez es amigo de Zapatero y durante cinco años le pagó por informes geoestratégicos a través de su empresa, Análisis Relevante, con la que facturaba a Plus Ultra por sus servicios de asesoría. Los directivos de Plus Ultra señalan en las conversaciones intervenidas por la UDEF y a las que ha accedido elDiario.es que había que montar un “Kitchen Gabinet” porque “la fiscal jefe es amiga”. Para entonces, ya había estallado el escándalo de la guerra sucia policial durante el mandato del PP para tapar la financiación ilegal del partido que presidía Mariano Rajoy mediante el espionaje ilegal a la familia del extesorero Luis Bárcenas entre 2014 y 2015 para robar documentación que pudiera incriminar al Gobierno de entonces. La fiscal jefe provincial de Madrid era, desde 2018, Pilar Rodríguez. La fiscal superior de la Comunidad de Madrid era Almudena Lastra. Según la UDEF, esta conversación y otras “refuerzan y complementan, evidenciándose nuevos indicios del ejercicio de las influencias y de las irregularidades detectadas para obtener la ayuda de 53 millones otorgada a la compañía Plus Ultra Líneas Aéreas”. La jueza Esperanza Collazos admitió a trámite la querella presentada por Manos Limpias el 25 de marzo de 2021, apenas cuatro días después de que el Consejo de Ministros aprobase la ayuda a Plus Ultra. La querella iba dirigida contra Bartolomé Lora Toro, vicepresidente de la SEPI —llegó a este puesto nombrado por el Gobierno de Mariano Rajoy— y el resto de miembros del Consejo de Administración por “presuntos delitos de malversación de caudales públicos y un delito de tráfico de influencias por presunta intervención en la concesión de una ayuda con fondos públicos por importe de 53 millones de euros a Plus Ultra”. Durante la investigación del caso, la jueza llegó a nombrar a un perito judicial para que informase sobre la situación financiera de la aerolínea antes de solicitar la ayuda. El decreto del Gobierno que reguló este mecanismo de apoyo a empresas en crisis por la pandemia especificaba que no se darían ayudas a aquellas empresas que antes del 1 de enero de 2020 estuvieran “en crisis”. La instructora llegó a convocar un careo en el juzgado entre el perito judicial que había nombrado y el perito aportado por Plus Ultra. Tras 19 meses de instrucción, la juez acordó el archivo de las actuaciones con una conclusión que dejó por escrito para justificar su decisión: “El delito de obtención de subvenciones o ayudas de las Administraciones Públicas falseando las condiciones requeridas para su concesión u ocultando las que la hubieses impedido, previsto y penado en el artículo 308 del Código Penal, requiriéndose como elemento del tipo el que sea cometido de forma dolosa, no cabe la comisión imprudente, lo que lleva a considerar, a la vista de las periciales practicadas que por parte de la empresa no se ocultaron datos, con el ánimo de defraudar, y deduciéndose de la prueba del careo que la interpretación contable siembra una duda sobre ese ánimo defraudatorio que la parte querellante afirma existir. Una cosa es prácticas contables no ortodoxas y otra, la comisión de un tipo penal”."
-  },
-  {
-    "titulo": "El narco cruza otro límite en el sur en su desafío al Estado: investigan el robo de tres embarcaciones de la Armada",
-    "medio": "El Mundo",
-    "fecha": 1779557533.0,
-    "link": "https://www.elmundo.es/andalucia/2026/05/23/6a11bfa9e85ece1d598b45d1.html",
-    "resumen": "Las lanchas semirrígidas, con equipos dentro, desaparecieron en la playa del Retín, en Barbate durante unas maniobras militares Leer"
   },
   {
     "titulo": "La NASA ha mirado a Torrevieja desde el espacio y ha visto una enorme masa de agua rosa esencial para encontrar vida en Marte",
@@ -483,27 +574,6 @@
     "resumen": "Metro de Madrid invertirá 3,5 millones en climatizar 93 trenes de las líneas 1 y 5, dos de las más calurosas en verano. La medida busca reducir las quejas de los usuarios. La entrada Metro de Madrid reforzará la climatización de 93 trenes de L1 y L5 con 3,5 millones aparece primero en Moncloa."
   },
   {
-    "titulo": "Putin reúne al Consejo de Seguridad ruso tras ataque ucraniano en Lugansk",
-    "medio": "Moncloa.com",
-    "fecha": 1779556252.0,
-    "link": "https://www.moncloa.com/2026/05/23/putin-consejo-seguridad-rusia-lugansk-3379136/",
-    "resumen": "Putin convoca al Consejo de Seguridad ruso para analizar un ataque en Lugansk y coordinar posibles represalias. La reunión incluye a los jefes de Defensa e inteligencia. La entrada Putin reúne al Consejo de Seguridad ruso tras ataque ucraniano en Lugansk aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Tulsi Gabbard abandona la Inteligencia Nacional de EE.UU. tras el cáncer óseo de su marido",
-    "medio": "Moncloa.com",
-    "fecha": 1779556184.0,
-    "link": "https://www.moncloa.com/2026/05/23/dimision-tulsi-gabbard-inteligencia-nacional-3379138/",
-    "resumen": "Tulsi Gabbard dimite como directora de Inteligencia Nacional tras el diagnóstico de cáncer óseo de su marido. Deja en el aire la investigación sobre más de 40 biolaboratorios estadounidenses en Ucrania. La entrada Tulsi Gabbard abandona la Inteligencia Nacional de EE.UU. tras el cáncer óseo de su marido aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Gasolineras baratas Madrid hoy 23 de mayo: ahorra hasta 0,20 €/litro",
-    "medio": "Moncloa.com",
-    "fecha": 1779556148.0,
-    "link": "https://www.moncloa.com/2026/05/23/gasolineras-baratas-madrid-23-mayo-3379139/",
-    "resumen": "El sábado 23 de mayo arranca con gasolina 95 a 1,365€ en Meco, la más barata de Madrid. Ahorra hasta 20 céntimos por litro usando el Geoportal. La entrada Gasolineras baratas Madrid hoy 23 de mayo: ahorra hasta 0,20 €/litro aparece primero en Moncloa."
-  },
-  {
     "titulo": "Miles de trabajadores se manifiestan por toda España contra el convenio de la patronal de Inditex, Mango y Primark",
     "medio": "eldiario.es",
     "fecha": 1779556137.0,
@@ -516,13 +586,6 @@
     "fecha": 1779556128.0,
     "link": "https://www.elindependiente.com/economia/2026/05/23/el-ibex-35-podria-alcanzar-los-20-000-puntos-durante-los-proximos-12-meses-segun-los-analistas/",
     "resumen": "El Ibex 35 se acerca de nuevo a sus máximos históricos pese al clima de incertidumbre geopolítica provocado por la […]"
-  },
-  {
-    "titulo": "Trump aplaza regulación de IA tras presiones de Musk, Zuckerberg y Sacks",
-    "medio": "Moncloa.com",
-    "fecha": 1779556092.0,
-    "link": "https://www.moncloa.com/2026/05/23/trump-aplaza-regulacion-ia-presiones-musk-3379141/",
-    "resumen": "El presidente de EEUU ha pospuesto la firma de una orden ejecutiva que establecía supervisión gubernamental sobre modelos avanzados de IA, presionado por magnates tecnológicos y la competencia con China. La entrada Trump aplaza regulación de IA tras presiones de Musk, Zuckerberg y Sacks aparece primero en Moncloa."
   },
   {
     "titulo": "Si te despiertas cansado de forma habitual, tu descanso está fragmentado. La buena noticia es que la ciencia sabe cómo arreglarlo",
@@ -557,7 +620,14 @@
     "medio": "eldiario.es",
     "fecha": 1779554260.0,
     "link": "https://www.eldiario.es/internacional/eeuu-e-iran-confirman-avances-negociaciones-paz-anticipan-acuerdo-proximos-dias_1_13245364.html",
-    "resumen": "El presidente de EEUU asegura que el acuerdo es inminente y que el estrecho de Ormuz se reabrirá, si bien emplaza a más adelante para difundir el contenido del supuesto acuerdo, sobre el que aún no se ha manifestado Irán Más de 100 barcos han atravesado Ormuz con permiso de Irán en los últimos cuatro días en plena disputa por la gestión del estrecho Acuerdo inminente. Según Donald Trump, y a falta de que se hagan públicos los detalles y de la confirmación por parte de Irán al anuncio del presidente de EEUU. En una secuencia de confirmaciones casi simultáneas, Estados Unidos, Irán y Pakistán, como medidador del conflicto entre ambos países, han apuntado este sábado avances en las negociaciones para alcanzar un acuerdo de paz entre Washington y Teherán que permita también desbloquear el estrecho de Ormuz. Horas después, el presidente de EEUU, Donald Trump, publicaba un mensaje en su red social Truth Social en el que aseguraba que ambos países están “cerca” de cerrar un acuerdo de paz, a falta de los detalles finales, y que este será anunciado “pronto”. Trump, que no ha viajado este fin de semana a la boda de su hijo en Bahamas para permanecer en la Casa Blanca, ha comunicado que ha mantenido una conversación con el príncipe heredero de Arabia Saudí, el jeque de Emiratos Árabes, el emir de Qatar, el presidente turco o los reyes de Egipto, Bahréin y Jordania, y en la que se han tratado los detalles de este memorándum de paz. Trump ha afirmado en Truth Social: “Se ha negociado en gran medida un Acuerdo, sujeto a finalización entre los Estados Unidos de América, la República Islámica de Irán y los otros países. Por otra parte, he tenido una llamada con el primer ministro de Israel, Bibi Netanyahu, que, igualmente, salió muy bien. Los aspectos finales y detalles del acuerdo se están discutiendo actualmente, y se anunciarán en breve. Además de muchos otros elementos del Acuerdo, se abrirá el Estrecho de Hormuz”. Unas horas antes, el secretario de Estado de EEUU, Marco Rubio, ha ratificado desde Nueva Delhi, donde se encuentra de visita oficial hasta el martes, la existencia de “avances” y “algunos progresos” y ha anticipado un anuncio oficial en los próximos días. “Existe la posibilidad de que, ya sea más tarde hoy, mañana o en un par de días, tengamos algo que decir”, ha declarado Rubio, quien ha advertido de que la crisis exige soluciones definitivas y ha reiterado que la postura inamovible de la Casa Blanca es que Teherán “nunca podrá tener un arma nuclear”. La cancillería iraní, por su lado, también ha afirmado que ambas partes “han acercado posturas”, pero ha evitado dar por cercano un acuerdo definitivo y ha precisado que todavía es necesario esperar “para ver qué ocurre en los próximos tres o cuatro días”. Según el portavoz del ministerio iraní, Esmail Bagaei, las partes tratan de cerrar un memorando de entendimiento de catorce puntos centrado en el fin de la guerra en todos los frentes, incluido el Líbano, y después de finalizar ese documento, empezarán a negociar el programa nuclear iraní, el levantamiento de las sanciones estadounidenses y el desbloqueo de los fondos iraníes en el extranjero, en un plazo de entre 30 y 60 días. Pakistán, el último en pronunciarse e intermediario entre ambas partes, ha asegurado que los diálogos mantenidos en las últimas 24 horas en Teherán han fructificado hacia un “entendimiento final” entre Irán y Estados Unidos. Islamabad ha calificado el viaje del jefe del Ejército, Asim Munir, a la capital iran como “breve pero altamente productivo” y ha asegurado que los encuentros se han desarrollado en un ambiente positivo y constructivo bajo los esfuerzos de paz. Durante su estancia en Teherán, el jefe militar paquistaní se ha reunido con el presidente del país, Masud Pezeshkian; con el presidente del Parlamento, Mohamad Baqer Qalibaf, que ejerce de jefe negociador en el proceso de paz con Washington; y con los ministros, Abás Araqchí y Eskandar Momeni, de Asuntos Exteriores e Interior, respectivamente."
+    "resumen": "El presidente de EEUU asegura que el acuerdo es inminente y que el estrecho de Ormuz se reabrirá, si bien emplaza a más adelante para difundir el contenido del supuesto acuerdo, sobre el que aún no se ha manifestado Irán Más de 100 barcos han atravesado Ormuz con permiso de Irán en los últimos cuatro días en plena disputa por la gestión del estrecho Acuerdo inminente. Según Donald Trump, y a falta de que se hagan públicos los detalles y de la confirmación por parte de Irán al anuncio del presidente de EEUU. En una secuencia de confirmaciones casi simultáneas, Estados Unidos, Irán y Pakistán, como medidador del conflicto entre ambos países, han apuntado este sábado avances en las negociaciones para alcanzar un acuerdo de paz entre Washington y Teherán que permita también desbloquear el estrecho de Ormuz. Horas después, el presidente de EEUU, Donald Trump, publicaba un mensaje en su red social Truth Social en el que aseguraba que ambos países están “cerca” de cerrar un acuerdo de paz, a falta de los detalles finales, y que este será anunciado “pronto”. Trump, que no ha viajado este fin de semana a la boda de su hijo en Bahamas para permanecer en la Casa Blanca, ha comunicado que ha mantenido una conversación con el príncipe heredero de Arabia Saudí, el jeque de Emiratos Árabes, el emir de Qatar, el presidente turco o los reyes de Egipto, Bahréin y Jordania, y en la que se han tratado los detalles de este memorándum de paz. Trump ha afirmado en Truth Social: “Se ha negociado en gran medida un Acuerdo, sujeto a finalización entre los Estados Unidos de América, la República Islámica de Irán y los otros países. Por otra parte, he tenido una llamada con el primer ministro de Israel, Bibi Netanyahu, que, igualmente, salió muy bien. Los aspectos finales y detalles del acuerdo se están discutiendo actualmente, y se anunciarán en breve. Además de muchos otros elementos del Acuerdo, se abrirá el Estrecho de Hormuz”. Según algunos medios, el borrador de la propuesta incluye el fin de la guerra en todos los frentes, incluido Líbano; liberar varios miles de millones de dólares de los fondos bloqueados de Irán y abriendo el estrecho de Ormuz. Después de esto, según los medios, las partes tendrán 30 días para ponerse de acuerdo sobre la cuestión nuclear. Unas horas antes, el secretario de Estado de EEUU, Marco Rubio, ha ratificado desde Nueva Delhi, donde se encuentra de visita oficial hasta el martes, la existencia de “avances” y “algunos progresos” y ha anticipado un anuncio oficial en los próximos días. “Existe la posibilidad de que, ya sea más tarde hoy, mañana o en un par de días, tengamos algo que decir”, ha declarado Rubio, quien ha advertido de que la crisis exige soluciones definitivas y ha reiterado que la postura inamovible de la Casa Blanca es que Teherán “nunca podrá tener un arma nuclear”. La cancillería iraní, por su lado, también ha afirmado que ambas partes “han acercado posturas”, pero ha evitado dar por cercano un acuerdo definitivo y ha precisado que todavía es necesario esperar “para ver qué ocurre en los próximos tres o cuatro días”. Según el portavoz del ministerio iraní, Esmail Bagaei, las partes tratan de cerrar un memorando de entendimiento de catorce puntos centrado en el fin de la guerra en todos los frentes, incluido el Líbano, y después de finalizar ese documento, empezarán a negociar el programa nuclear iraní, el levantamiento de las sanciones estadounidenses y el desbloqueo de los fondos iraníes en el extranjero, en un plazo de entre 30 y 60 días. Pakistán, el último en pronunciarse e intermediario entre ambas partes, ha asegurado que los diálogos mantenidos en las últimas 24 horas en Teherán han fructificado hacia un “entendimiento final” entre Irán y Estados Unidos. Islamabad ha calificado el viaje del jefe del Ejército, Asim Munir, a la capital iran como “breve pero altamente productivo” y ha asegurado que los encuentros se han desarrollado en un ambiente positivo y constructivo bajo los esfuerzos de paz. Durante su estancia en Teherán, el jefe militar paquistaní se ha reunido con el presidente del país, Masud Pezeshkian; con el presidente del Parlamento, Mohamad Baqer Qalibaf, que ejerce de jefe negociador en el proceso de paz con Washington; y con los ministros, Abás Araqchí y Eskandar Momeni, de Asuntos Exteriores e Interior, respectivamente."
+  },
+  {
+    "titulo": "Zupiria comparecerá el martes en el Parlamento tras los incidentes en el recibimiento a miembros de la Flotilla",
+    "medio": "Europa Press",
+    "fecha": 1779553977.0,
+    "link": "https://www.europapress.es/euskadi/noticia-zupiria-comparecera-martes-parlamento-incidentes-recibimiento-miembros-flotilla-20260523183257.html",
+    "resumen": "El consejero de Seguridad, Bingen Zupiria, comparecerá el próximo martes en la Comisión de Instituciones, Gobernanza Pública y Seguridad del Parlamento Vasco para dar \"las explicaciones necesarias\" sobre la actuación de la Ertzaintza en el aeropuerto de Loiu durante el recibimiento a miembros de la integrantes de la Global Sumud Flotilla. El consejero ha asegurado que se intentará \"aclarar cuanto antes los incidentes ocurridos y las responsabilidades que se pudieran derivar\"."
   },
   {
     "titulo": "Hay una ciudad medieval en Alemania construida en un cráter de meteorito. Sus muros esconden 72.000 toneladas de diamantes",
@@ -567,39 +637,11 @@
     "resumen": "Si has visto Shingeki no Kyojin (si no lo has hecho, qué envidia me das), la comparación con Shiganshina es inevitable: la imagen de la izquierda del montaje de la portada corresponde a la plaza del mercado de Nördlingen y la de la derecha es la ciudad vista desde arriba, completamente fortificada con un muro que la envuelve. Sin embargo y aunque es destino de peregrinación de los fans de la serie, oficialmente no hay relación entre ambas. A primera vista la arquitectura de Nördlingen la convierten en una aldea bávara de cuento más, pero esta ciudad alemana del distrito de Donau-Ries (en Suabia), es de todo menos una más. En 1215, el emperador Federico II la ascendió a ciudad imperial del Sacro Imperio Romano Germánico y un siglo después empezaron a construir la muralla. El municipio está integrado dentro del cráter que dejó un meteorito al caer. No obstante, esto lo sabemos ahora: hasta los años 60 del siglo XX, los propios geólogos pensaban que la depresión era un volcán inactivo. Nördlingen está en un cráter. El Nördlinger Ries es una depresión de 24 kilómetros de ancho y hasta 150 metros provocada por el impacto de un meteorito de aproximadamente un kilómetro de diámetro en el Mioceno, lo que horadó un cráter primario de 11 kilómetros. Como ahonda la Unión Internacional de Ciencias Geológicas, ese agujero creció por el levantamiento del fondo del cráter y el colapso marginal, hasta llegar a lo que es ahora. El asteroide Ries impactó con velocidad de al menos 70 000 km/h, provocando una explosión de calor y energía que aproximadamente duró unos 10 minutos: la onda expansiva recorrió la zona incendiándolo todo hasta a 100 kilómetros de distancia, lo que acabó con la vida en ese radio. Después se formó un lago donde se asentó una flora y fauna diversas. Los hallazgos en las cercanas cuevas de Ofnet constatan que el sitio de la actual Nördlingen ya estaba habitado en el Paleolítico tardío. La muralla perfila el diámetro del meteorito. Cuando en 1327 Luis el Bávaro ordenó levantar la muralla de Nördlingen, nadie sabía que estaba trazando el contorno exacto del meteorito que había impactado allí 15 millones de años antes, como señala la NASA. El casco histórico medieval encaja casi perfectamente dentro del kilómetro de diámetro del cráter primario: una coincidencia geológica que no se descubriría hasta el siglo XX. Con 2,7 kilómetros de perímetro, es una de las tres murallas medievales de Alemania conservadas casi intactas y la única que puede recorrerse en su totalidad: cinco puertas, doce torres y dos bastiones conforman ese circuito que, visto desde lo alto de la torre Daniel, revela su forma perfectamente circular: la huella que subyace de la catástrofe del Mioceno. Y un pequeño detalle: está hecha con piedras que albergan pequeños diamantes. La muralla de Nördlingen. Wolkenkratzer, vía Wikimedia Muros hechos de diamantes. Las ciudades acostumbran a tener su cantera de piedra, pero Nördlingen tenía diamantes: el impacto del meteorito generó una cantidad estimada de 72.000 toneladas de ellos al golpear un depósito local de grafito, así que sus edificios construidos en piedra contienen millones de pequeños diamantes. La piedra no es tampoco una cualquiera: es la suevita, extremadamente rara y jaspeada con pequeños cristales verdosos. Se encuentra en otras localizaciones del planeta donde hubo impactos similares, pero la concentración de gemas en Nördlingen es única. Quienes construyeron esos edificios no sabían que estaban trabajando con diamantes: lo descubrieron tras la visita de Eugene Shoemaker y Edward Chao, los dos geólogos estadounidenses que en 1960 demostraron el origen por impacto al encontrar cuarzo de choque en los propios muros de la iglesia de San Jorge. La iglesia de San Jorge. Tkx vía Wikimedia La \"lujosa\" iglesia de San Jorge. Normalmente las joyas en iglesias se reservan para los retablos, pero en San Jorge están también en los muros. De hecho, fue la construcción que reveló el uso de suevita extraída de la cuenca del Ries. La de San Jorge es una de las iglesias de salón gótico tardío más grandes del sur de Alemania y fue construida entre 1427 y 1505, cuando Nördlingen era Imperial. La torre la iglesia se la conoce como \"Daniel\" y tiene 90 metros de altura: después de subir 350 escalones se puede llegar al mirador (a 70 metros), donde observar la forma perfectamente circular de la ciudad y el cráter que la rodea. La torre conserva además una de las tradiciones más insólitas de la Europa moderna: un vigilante nocturno que lleva desde la Edad Media gritando antes de media noche para avisar que todo está bien. Nördlingen, campo de entrenamiento espacial. Dado que los cráteres de impacto se dan también en la Luna y en Marte, el Nördlinger Ries lleva décadas utilizándose como campo de entrenamiento para enseñar a los astronautas a reconocer las rocas y minerales creados por impactos. Los astronautas del Apolo 14 y del Apolo 17 de la NASA estudiaron la geología del cráter en 1970. Pero no es algo exclusivo de la agencia espacial norteamericana: es uno de los tres destinos del programa PANGAEA de la Agencia Espacial Europea, junto a los Dolomitas italianos y Lanzarote. También la JAXA ha realizado entrenamientos allí. En Xataka | Que Christian Friedrich von Kahlbut muriera en 1702 no tiene nada de excepcional. Que su cadáver no se haya descompuesto, sí En Xataka | Un cazatesoros saqueó un pecio, no reveló dónde había guardado el tesoro y pasó 10 años en la cárcel. Ahora es libre para recuperarlo Portada | Tilman2007 y Bayerische Vermessungsverwaltung - La noticia Hay una ciudad medieval en Alemania construida en un cráter de meteorito. Sus muros esconden 72.000 toneladas de diamantes fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
-    "titulo": "El capitán siempre es el último en abandonar el barco: Jan Dobrogowski baja del 'Hondius'",
-    "medio": "La Vanguardia",
-    "fecha": 1779553340.0,
-    "link": "https://www.lavanguardia.com/vida/20260523/11545923/capitan-siempre-ultimo-abandonar-barco-jan-dobrogowski-baja-hondius.html",
-    "resumen": "El director general de la OMS, Tedros Adhanom Ghebreyesus, ha agradecido a Jan Dobrogowski su cooperación y liderazgo"
-  },
-  {
-    "titulo": "Tiros de los Mossos después de que un coche robado embistiera un vehículo policial",
-    "medio": "La Vanguardia",
-    "fecha": 1779552979.0,
-    "link": "https://www.lavanguardia.com/sucesos/20260523/11545920/tiros-mossos-coche-robado-embistiera-vehiculo-policial.html",
-    "resumen": "La policía pudo detener a uno de los sospechosos"
-  },
-  {
     "titulo": "Rusia ha encontrado en China algo más importante que drones: un entrenamiento secreto para la guerra en Ucrania",
     "medio": "Xataka",
     "fecha": 1779552934.0,
     "link": "https://www.xataka.com/magnet/rusia-ha-encontrado-china-algo-importante-que-drones-entrenamiento-secreto-para-guerra-ucrania",
     "resumen": "La escena tuvo lugar hace unos meses. Soldados ucranianos dejaron sorprendidos a instructores británicos cuando descubrieron que muchos ejércitos de la OTAN todavía no utilizaban redes antidrón de forma habitual. Después de varios años de guerra, Ucrania estaba empezando a enseñar a Occidente cómo sobrevivir en un frente dominado por drones. Mucho más que drones. Durante buena parte de la guerra de Ucrania, la relación entre China y Rusia se ha interpretado sobre todo en términos económicos y tecnológicos. Pekín compraba petróleo y gas ruso mientras empresas chinas aparecían vinculadas al suministro de componentes electrónicos, drones y maquinaria útil para la industria militar rusa. Sin embargo, las revelaciones a las que ha tenido acceso Reuters sobre el entrenamiento secreto de militares rusos en instalaciones chinas apuntan a algo mucho más profundo: China no estaría limitándose a sostener indirectamente la economía de guerra rusa, sino participando en la formación táctica y doctrinal de soldados que luego regresan directamente al frente ucraniano. Eso cambia enormemente la dimensión de la relación entre ambos países. En Xataka China está ganándole la partida a EEUU con una estrategia sencilla: fabricar misiles hipersónicos al precio de un Tesla La guerra como aula militar. Según los documentos y fuentes de inteligencia europeas, unos 200 militares rusos fueron entrenados discretamente en China a finales de 2025 bajo un acuerdo firmado entre altos mandos de ambos países. El programa incluía formación en drones FPV, guerra electrónica, aviación del ejército, infantería mecanizada y desminado. Algunas sesiones se desarrollaron en centros militares de Pekín, Nankín, Zhengzhou o Shijiazhuang. Lo importante no es solo el número de soldados, relativamente pequeño, sino el perfil de muchos de ellos: instructores y mandos capaces de retransmitir ese conocimiento a unidades enteras una vez de vuelta en Ucrania. En otras palabras, China no estaría simplemente enviando tecnología, sino ayudando a perfeccionar la manera en la que Rusia libra la guerra moderna. China aprende mientras Rusia combate. Ocurre que la relación también beneficia enormemente a Pekín. El Ejército Popular de Liberación no ha combatido una gran guerra desde hace décadas y la invasión rusa de Ucrania se ha convertido en el mayor laboratorio militar real del planeta. Rusia aporta experiencia directa de combate en drones, trincheras, guerra electrónica y desgaste masivo. China aporta capacidad industrial, simuladores avanzados, producción tecnológica y métodos de entrenamiento cada vez más sofisticados. El intercambio resulta extremadamente valioso para ambos. Moscú consigue acceso a tecnología y formación difícil de obtener bajo sanciones occidentales, mientras Pekín puede observar cómo funcionan realmente armas, tácticas y doctrinas modernas sin verse implicado oficialmente en el conflicto. Revolución silenciosa. El corazón de toda esta cooperación gira alrededor de los drones. Ucrania ha transformado por completo la forma de combatir utilizando FPV baratos capaces de destruir blindados, posiciones fortificadas e incluso helicópteros. Rusia tuvo que adaptarse rápidamente a esa realidad y ahora parece estar recurriendo a China para profesionalizar aún más parte de ese ecosistema. Los documentos describen entrenamiento con simuladores de vuelo, uso coordinado de drones con morteros, guerra electrónica contra drones enemigos y sistemas físicos de interceptación mediante redes. Todo ello refleja hasta qué punto la guerra moderna está dejando de depender exclusivamente de grandes plataformas tradicionales para centrarse cada vez más en sistemas baratos, masivos y muy difíciles de neutralizar. La preocupación de Europa. Para las agencias europeas, lo verdaderamente inquietante es que parte de esos militares entrenados en China ya habrían participado posteriormente en operaciones de combate en Crimea ocupada y Zaporiyia. Eso significa que el conocimiento adquirido en instalaciones chinas termina aplicándose directamente sobre el campo de batalla europeo. Pekín, por su parte, continúa defendiendo públicamente una posición neutral y sigue presentándose como posible mediador de paz, pero este tipo de cooperación erosiona seriamente esa imagen. A ojos de muchos gobiernos occidentales, China estaría entrando en una zona gris mucho más sensible: no enviar tropas propias ni armas oficialmente, pero sí contribuir a mejorar la capacidad operativa rusa en una guerra activa contra Ucrania. En Xataka China ya tiene drones capaces de disparar con precisión quirúrgica a 100 metros. No es una buena noticia para Taiwán Alianza cada vez más militar. La revelación confirma además hasta qué punto la asociación “sin límites” anunciada por Xi Jinping y Vladímir Putin antes de la invasión de 2022 ha evolucionado mucho más allá de simples ejercicios conjuntos o declaraciones diplomáticas. China y Rusia ya no parecen limitarse a coordinar posiciones políticas frente a Occidente, están empezando a compartir conocimientos prácticos de combate, entrenamiento y doctrina. El detalle más significativo quizá sea precisamente el secretismo de los acuerdos: prohibición de cobertura mediática, restricciones de información a terceros y programas desarrollados discretamente lejos del foco internacional. Todo ello sugiere que ambos países entienden perfectamente la sensibilidad política de una cooperación que, aunque todavía indirecta, acerca cada vez más a China al funcionamiento real de la guerra en Ucrania. Imagen | Vitaly V. Kuzmin En Xataka | El cierre del estrecho de Ormuz ahoga la economía china. Su única salida energética es un histórico pacto con Putin En Xataka | Mientras todos miraban a Ormuz, Rusia ha encontrado una ruta mucho más importante para abastecer de drones a Irán - La noticia Rusia ha encontrado en China algo más importante que drones: un entrenamiento secreto para la guerra en Ucrania fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
-    "titulo": "Miles de valencianos salen a la calle en defensa de la educación pública",
-    "medio": "La Vanguardia",
-    "fecha": 1779552694.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260523/11545812/arranca-segunda-gran-manifestacion-profesorado-valenciano-educacion.html",
-    "resumen": "Al grito de “consellera dimisión” una marea verde ha inundado el centro de València. Los sindicatos han anunciado que mañana van a trabajar en una contrapropuesta para llevar el próximo lunes a la Conselleria de Educación"
-  },
-  {
-    "titulo": "Cuatro detenidos, cargas y porrazos en la llegada de los activistas de la flotilla propalestina a Bilbao",
-    "medio": "La Vanguardia",
-    "fecha": 1779552398.0,
-    "link": "https://www.lavanguardia.com/local/paisvasco/20260523/11545909/cuatro-detenidos-cargas-porrazos-llegada-activistas-flotilla-propalestina-bilbao.html",
-    "resumen": "La Ertzaintza los ha detenido por desobediencia grave"
   },
   {
     "titulo": "Miles de familias usaban estos vigilabebés para sentirse más seguras: el problema es que cualquiera podía mirar",
@@ -623,20 +665,6 @@
     "resumen": "Un investigador de seguridad descubrió un fallo grave en Claude Code que permitía ejecutar comandos en tu ordenador con solo abrir un enlace. Según los primeros análisis, un hacker podría colar instrucciones maliciosas dentro de un prompt. Aunque Anthropic ya lanzó la versión 2.1.118 que corrige el problema, si no has actualizado, sigues expuesto. Joern […] Seguir leyendo: Descubren un fallo crítico en Claude Code que ponía en riesgo tu ordenador sin que lo supieras"
   },
   {
-    "titulo": "Riquelme supera los 'muros' de Florentino y su candidatura depende de la junta electoral",
-    "medio": "La Vanguardia",
-    "fecha": 1779551860.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260523/11545793/riquelme-supera-muros-florentino-candidatura-esta-manos-junta-electoral.html",
-    "resumen": "El empresario entregó la documentación en Valdebebas este sábado que le debe oficializar como candidato, a la espera de que el Real Madrid se pronuncie en las próximas horas"
-  },
-  {
-    "titulo": "Freidoras de aire, ollas programables y batidoras: los pequeños electrodomésticos más vendidos este mes en AliExpress",
-    "medio": "La Vanguardia",
-    "fecha": 1779551700.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260523/11544271/freidoras-aire-ollas-programables-batidoras-pequenos-electrodomesticos-aliexpress-mas-vendidos-mes-mkt-alie.html",
-    "resumen": "¿Buscas freidora de aire, olla programable o batidora sin pagar precio de tienda convencional? Estos son los ocho más vendidos este mes en AliExpress de marcas como Aigostar, Taurus y Narvi"
-  },
-  {
     "titulo": "Meet Rae Huang, the Progressive Pastor Running for LA Mayor",
     "medio": "Jacobin ES",
     "fecha": 1779551611.0,
@@ -644,32 +672,11 @@
     "resumen": "Reverend Rae Huang is running for mayor of Los Angeles on a platform to expand the public sphere: social housing, free buses, a public bank, and public movie theaters. She explains how her political vision was shaped in part by her Christian background."
   },
   {
-    "titulo": "Tres de tres para Vingegaard, que se viste de rosa en el Pila",
-    "medio": "La Vanguardia",
-    "fecha": 1779551075.0,
-    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260523/11545915/tres-tres-vingegaard-viste-rosa-pila.html",
-    "resumen": "El danés, que ha ganado en todos los finales en alto, toma el mando en el Giro con casi tres minutos sobre Gall"
-  },
-  {
-    "titulo": "EE.UU. exige a RD Congo aislarse “en una burbuja” para disputar el Mundial tras el brote de ébola",
-    "medio": "La Vanguardia",
-    "fecha": 1779549435.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260523/11545889/estados-unidos-exige-rd-congo-aislarse-disputar-mundial-brote-ebola.html",
-    "resumen": "El jefe del grupo de trabajo de la Casa Blanca para el torneo aseguró que, si la selección no respeta las condiciones, no podrá disputar la Copa del Mundo"
-  },
-  {
     "titulo": "Telefónica encadena tres semanas al alza en Bolsa impulsada por la presentación de sus resultados trimestrales",
     "medio": "El Independiente",
     "fecha": 1779548941.0,
     "link": "https://www.elindependiente.com/economia/2026/05/23/telefonica-encadena-tres-semanas-alza-bolsa-impulsada-presentacion-resultados-trimestrales/",
     "resumen": "Los vaivenes geopolíticos provocados por la guerra en Irán y las constantes fluctuaciones de los mercados ante cada avance —o […]"
-  },
-  {
-    "titulo": "Génova se desmarca de la batalla en NNGG y anima a atraer jóvenes: ‘Ni inducimos ni paramos candidaturas’",
-    "medio": "Moncloa.com",
-    "fecha": 1779548640.0,
-    "link": "https://www.moncloa.com/2026/05/23/genova-nuevas-generaciones-candidaturas-3379109/",
-    "resumen": "Génova elige la neutralidad en la carrera por Nuevas Generaciones y apuesta por ampliar la base juvenil. Ignacio Dancausa, con el apoyo de Ayuso, aspira a liderar la organización. La entrada Génova se desmarca de la batalla en NNGG y anima a atraer jóvenes: ‘Ni inducimos ni paramos candidaturas’ aparece primero en Moncloa."
   },
   {
     "titulo": "Encontrar apps en el iPhone es lo más fácil del mundo: cinco formas de localizarlos rápidamente (aunque no los tengas a la vista)",
@@ -747,20 +754,6 @@
     "fecha": 1779540750.0,
     "link": "https://jacobin.com/2026/05/congress-self-driving-trucks-safety",
     "resumen": "Despite mounting safety concerns, House lawmakers inserted a provision into a transportation funding bill this week that would block states from establishing safeguards for self-driving trucks and other commercial vehicles — after fierce industry lobbying."
-  },
-  {
-    "titulo": "Los activistas de la Flotilla acusan a Israel de \"malos tratos\" a su llegada a Barcelona",
-    "medio": "Europa Press",
-    "fecha": 1779540474.0,
-    "link": "https://www.europapress.es/catalunya/noticia-activistas-flotilla-acusan-israel-malos-tratos-llegada-barcelona-20260523144754.html",
-    "resumen": "Los 18 activistas catalanes que formaban parte de la Global Sumud Flotilla han llegado este sábado sobre las 13.30 horas al Aeropuerto de Barcelona en un vuelo procedente de Ankara (Turquía), y en declaraciones a la prensa han acusado a Israel de agresiones y \"malos tratos\" físicos y psicológicos durante su detención."
-  },
-  {
-    "titulo": "Francia prohíbe la entrada en el país a Itamar Ben Gvir por maltratar a los activistas de la flotilla",
-    "medio": "Europa Press",
-    "fecha": 1779539997.0,
-    "link": "https://www.europapress.es/internacional/noticia-francia-prohibe-entrada-pais-itamar-ben-gvir-maltratar-activistas-flotilla-20260523143957.html",
-    "resumen": "El Gobierno francés ha anunciado este sábado que prohíbe \"con efecto inmediato\", la entrada en el país del ultranacionalista ministro de Seguridad israelí, Itamar Ben Gvir, por maltratar a los integrantes de la última flotilla humanitaria para Gaza interceptada esta semana por Israel en aguas internacionales."
   },
   {
     "titulo": "«No me digas lo que te dice la IA». A ver si se convierte en respuesta de moda",
@@ -852,6 +845,13 @@
     "fecha": 1779532294.0,
     "link": "https://www.applesfera.com/seleccion/cartera-magsafe-apple-marca-nuevo-minimo-historico-ideal-para-no-dejarte-tarjeta-dni-casa",
     "resumen": "Los accesorios con MagSafe me parecen superútiles. Por ejemplo, es muy útil tener una batería pegada al móvil para no tener cables colgando. Otro accesorio que me parece igual de útil y que es lo que nos ocupa hoy es una cartera, concretamente la de Apple. Esta tiene un precio elevado si la comparamos con la de terceros, pero ahora mismo tiene su precio más bajo hasta la fecha: sale por 40,84 euros. Es compatible con Buscar y tiene tres huecos para tarjetas El PVP de esta cartera es de 69 euros, aunque la podemos encontrar un poco más barata en varias tiendas. Ahora bien, no la habíamos visto bajar tanto hasta ahora que se queda rozando los 40 euros, por lo que estamos ante un buen momento de compra. Cabe destacar que está a este precio en dos colores solamente: negro y verde musgo. ¿Qué ofrece este accesorio de Apple? Pues es una cartera con trenzado fino bastante discreta y con el logo de la compañía en él. Como te puedes imaginar, se pega a tu iPhone y te permite llevar, de forma segura, hasta tres tarjetas adheridas al teléfono. Esto es algo muy útil si, como yo, sueles olvidar en casa el DNI o la tarjeta. Además, te ahorra llevar una cartera aparte si no quieres llevar efectivo encima. Otra cosa interesante de la misma es que es compatible con Buscar. De esta forma, si la cartera se separa del iPhone, recibirás una notificación y podrás ver en un mapa su última posición. Ahora bien, no es como un AirTag porque no tiene batería ni podrás seguir localizándola, algo a tener en cuenta. Pese a ello, un buen accesorio oficial que, como decimos, tiene su mejor precio hasta ahora. ⚡ EN RESUMEN: oferta de la cartera magsafe de apple ✅ LO MEJOREs muy cómoda para llevar el DNI o tarjetas: Tiene espacio para tres tarjetas y como las llevas pegadas al móvil, es muy difícil que te las dejes en casa.Compatible con Buscar: Si separas la cartera del móvil recibirás un aviso y podrás consultar su última ubicación. ❌ LO PEORLocalizarla no es tan fácil como con un AirTag: No tiene batería, así que no podrás seguir localizandola si la pierdes. 💡 CÓMPRALO SI... Quieres un accesorio MagSafe oficial de Apple para llevar tus tarjetas de forma segura y cómoda junto al iPhone ⛔ NO LO COMPRES SI... Prefieres una alternativa más económica como la de Spigen o Satechi. En Xataka Lidl tiene la solución definitiva para viajar sin facturar y esquivar las multas de equipaje en las aerolíneas low cost También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Applesfera, Apple En Applesfera | Mejores accesorios Magsafe para tu iPhone En Applesfera | Comparativa de AirTag 1 vs AirTag 2: diseño, especificaciones y precio - La noticia La cartera MagSafe de Apple marca nuevo mínimo histórico: ideal para no dejarte más la tarjeta o el DNI en casa fue publicada originalmente en Applesfera por Juan Lorente ."
+  },
+  {
+    "titulo": "Miles de personas piden en Madrid la dimisión de Sánchez en una marcha apoyada por Vox y PP",
+    "medio": "Europa Press",
+    "fecha": 1779531733.0,
+    "link": "https://www.europapress.es/nacional/noticia-miles-personas-piden-madrid-dimision-sanchez-marcha-apoyada-vox-pp-20260523122213.html",
+    "resumen": "Miles de personas se han sumado a la 'Marcha por la dignidad' que ha recorrido este sábado el centro de Madrid para pedir la dimisión del presidente del Gobierno, Pedro Sánchez, una protesta convocada por Sociedad Civil Española, que coordina a más de 150 asociaciones civiles, a la que se han sumado Vox y el PP."
   },
   {
     "titulo": "Espaguetis con albóndigas de ternera y berenjena. Receta de plato único para chuparse los dedos",
@@ -1047,7 +1047,7 @@
     "medio": "Microsiervos",
     "fecha": 1779407151.0,
     "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/hot-or-not-literal-temperaturas-ciudades-mundo.html",
-    "resumen": "¿Es más calurosa Nairobi, en Kenia o Basra, en Irak, a día de hoy? En Hot or Not? todo lo que hay que hacer es comparar las temperaturas de ciudades del mundo, más concretamente la temperatura a día de hoy. ¿Está en el hemisferio Norte o el Sur, con las estaciones «invertidas»? ¿Tendrá microclima? ¿En qué latitud se encuentra? Saber algo sobre todo esto puede ayudar bastante a acertar. Las fotografías a veces ayudan… o a veces no tanto, porque pueden estar tomadas en verano y que ahora sea invierno allí o viceversa. Una vez comenzado el juego cada acierto es un punto, pero si fallas se acabó la partida. El reto es contra ti mismo: no hay tablas de récords, ni comparaciones con otros jugadores, ni nada de nada, es así de simple. Tan solo hay un tímido botón de Compartir para picar a los amigos cuando acumules una buena puntuación. El nombre del juego es un homenaje al clásico Hot or Not? del año 2000 (ahora alojado en otro lugar) donde se subía una foto y se podía votar el aspecto físico de otras personas… Una especie de precursor de Tinder y del «desplazar a la izquierda», «desplazar a la derecha» para juzgar los libros por su portada. Suerte y a adivinar muchas temperaturas, aprendices de Braseros y Madrueños. Relacionados: Un ránking ELO para todo Face Off: descubriendo tu mejor «selfie» con ayuda de los amigos Hoodmaps muestra mapas de ciudades de todo el mundo con «etiquetas» descriptivas de los barrios escritas por la gente # Enlace Permanente"
+    "resumen": "¿Es más calurosa Nairobi, en Kenia o Basra, en Irak, a día de hoy? En Hot or Not? todo lo que hay que hacer es comparar las temperaturas de ciudades del mundo, más concretamente la temperatura a día de hoy. ¿Está en el hemisferio Norte o el Sur, con las estaciones «invertidas»? ¿Tendrá microclima? ¿En qué latitud se encuentra? Saber algo sobre todo esto puede ayudar bastante a acertar. Las fotografías a veces ayudan… o a veces no tanto, porque pueden estar tomadas en verano y que ahora sea invierno allí o viceversa. Una vez comenzado el juego cada acierto es un punto, pero si fallas se acabó la partida. El reto es contra ti mismo: no hay tablas de récords, ni comparaciones con otros jugadores, ni nada de nada, es así de simple. Tan solo hay un tímido botón de Compartir para picar a los amigos cuando acumules una buena puntuación. El nombre del juego es un homenaje al clásico Hot or Not? del año 2000 (ahora alojado en otro lugar) donde se subía una foto y se podía votar el aspecto físico de otras personas… Una especie de precursor de swipe del Tinder que permite «desplazar a la izquierda» o «desplazar a la derecha» para juzgar los libros por su portada. Suerte y a adivinar muchas temperaturas, aprendices de Braseros y Madrueños. Relacionados: Un ránking ELO para todo Face Off: descubriendo tu mejor «selfie» con ayuda de los amigos Hoodmaps muestra mapas de ciudades de todo el mundo con «etiquetas» descriptivas de los barrios escritas por la gente # Enlace Permanente"
   },
   {
     "titulo": ".st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} Traductor simultáneo: ‘Six seven’ o ‘Seis siete’, una vacilada nacida para irritar",
