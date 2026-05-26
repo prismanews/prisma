@@ -1,10 +1,87 @@
 [
   {
+    "titulo": "Amazon prepara Fire OS con Android 16, pero no te emociones todavía",
+    "medio": "Hipertextual",
+    "fecha": 1779838660.0,
+    "link": "https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/",
+    "resumen": "Amazon acaba de confirmar Fire OS 16, su próxima versión del sistema operativo para televisores inteligentes. A unos meses de anunciar Vega OS en sus Fire TV Stick, la compañía ha revelado una nueva actualización para aquellos que tienen un televisor Fire TV. La nueva versión estará basada en Android 16 y llegará con varias […] Seguir leyendo: Amazon prepara Fire OS con Android 16, pero no te emociones todavía"
+  },
+  {
+    "titulo": "Una gran metáfora para entender qué son y cómo usamos los números imaginarios, como √-1",
+    "medio": "Microsiervos",
+    "fecha": 1779838488.0,
+    "link": "https://www.microsiervos.com/archivo/matematicas/gran-metafora-numeros-imaginarios.html",
+    "resumen": "Estaba hoy viendo Las matemáticas como nunca antes te las han contado en el siempre infravalorado canal de Mensa España, cuando me llamó muchísimo la explicación que hace Rubén Pérez sobre los números imaginarios. Se puede ver a partir de 26:00, tras explicar que con los números naturales, enteros, racionales, irracionales y trascendentes ya se puede llenar la llamada «recta real». Los números imaginarios como √-1: (raíz cuadrada de -1, como solución a la ecuación x² = -1) ya no «caben» en la recta real. Así que para representarlos hace falta lo que los matemáticos llaman plano complejo y a los legos les suena a WTF. Suele usarse un eje horizontal para la parte real y otro vertical para la imaginaria. Esto ya suena rarito al oírlo, pero lo cierto es que en el MundoReal™ usamos los números imaginarios cotidianamente: para calcular datos de la corriente eléctrica, en la ecuación de Schrödinger, en telecomunicaciones, al conectarnos al wifi, al recrear ondas de audio con la transformada de Fourier… Pero ¿cómo podemos usarlos si son tan abstractos y difíciles de concebir? ¿Si no son como los números naturales que podemos asociar con algo del tipo «dos manzanas, tres manzanas, cinco manzanas»…? ¿O como los racionales («media manzana») o negativos («me deben una manzana»)? ¿O incluso como los irracionales y transcendentes como π o e, que podemos también medir? La metáfora clave que se usa en el vídeo es considerarlos como lo que vemos en el plano de un espejo. Lo que vemos al mirar el espejo tampoco es «real»: somos nosotros, hay uno de nosotros, y dos ojos, y quizá tenemos media galleta en la mano… pero en realidad es todo un efecto óptico de reflexión de la luz (de hecho «en 3D» aunque el espejo sea 2D). Pero la imagen del espejo conserva tantas propiedades de la realidad que podemos incluso usarlos para peinarnos, maquillarnos o admirar la belleza y que lo que hagamos en ellos afecte a lo que sucede con nosotros mismos en el plano real. El resultado de »operar» en el espejo es como cuando operamos con números imaginarios. Y si luego «bajamos» al MundoReal™, queda algo tangible. El resto de la charla (cuaterniones incluidos) es también interesante, y tiene un nivel divulgativo aunque con acertados dardos instructivos que van directos a la diana, que puede que ya conozca quien lo vea según lo poco o mucho que le gusten las matemáticas. Merece la pena echar un rato con él; seguro que aprendes más en esos 70 minutos que viendo 280 reels de TikTok, que más bien son como -70 minutos de vida. Relacionado: Los números imaginarios Una introducción visual interactiva a la Transformada rápida de Fourier, una de las mejores ideas matemáticas de la historia Cómo teletransportar al gato de Schrödinger He aquí los números # Enlace Permanente"
+  },
+  {
+    "titulo": "Una explosión en una fábrica de papel en el Estado de Washington deja un número desconocido de muertos y 10 heridos",
+    "medio": "El País",
+    "fecha": 1779838128.0,
+    "link": "https://elpais.com/us/2026-05-26/una-explosion-en-una-fabrica-de-papel-en-el-estado-de-washington-deja-un-numero-desconocido-de-muertos-y-heridos.html",
+    "resumen": "El tanque que estalló contenía una sustancia altamente corrosiva compuesta por hidróxido de sodio y sulfuro de sodio"
+  },
+  {
+    "titulo": "Luis Tosar admite en TVE que rechazó actuar en ‘Juego de Tronos’: «No era fan la serie»",
+    "medio": "OK Diario",
+    "fecha": 1779836257.0,
+    "link": "https://okdiario.com/cool/television/luis-tosar-admite-tve-que-rechazo-actuar-juego-tronos-no-era-fan-serie-17260605",
+    "resumen": "Este martes, Luis Tosar ha sido el primer invitado en Al cielo con ella, el programa de La 1 de TVE presentado por Henar Álvarez. El actor ha acudido al plató de la cadena pública para hablar sobre su trayectoria, su involucración en movimientos y causas sociales y sobre uno de sus últimos proyectos, El … Continuar leyendo \"Luis Tosar admite en TVE que rechazó actuar en ‘Juego de Tronos’: «No era fan la serie»\""
+  },
+  {
     "titulo": "Diales personalizados",
     "medio": "Microsiervos",
     "fecha": 1779835875.0,
     "link": "https://www.microsiervos.com/archivo/arte-y-diseno/diales-personalizados.html",
     "resumen": "Dials es una herramienta absurdamente específica, con un único objetivo y muchas opciones: generar diales y relojes analógicos vectoriales, donde se puede ajustar prácticamente todo. Una vez comienzas a explorarlo puedes ver su potencia, y jugar con los diferentes valores un buen rato. Con los diversos ajustes se pueden crear velocímetros, indicadores, paneles retro o interfaces tipo NASA totalmente personalizados. Igual te sirve hasta para algún proyecto maker. Entre otras cosas se puede cambiar el ángulo del arco (ej. 220°), el rango de valores (digamos, 0-160), las subdivisiones entre marcas o el grosor… Pero eso no es todo, hay detalles casi enfermizos, como los radios de las esquinas redondeadas, si los números van dentro o fuera del dial, si hay puntitos centrales… y me dejo más de la mitad. Una vez listo, se puede exportar en PNG o SVG, a varios tamaños y para mayor simplicidad las configuraciones se guardan en la propia URL. El sueño de cualquier diseñador industrial, maker, amante de las interfaces de coches imposibles o para quien haya dedicado demasiadas horas a mirar cuadros de mando en videojuegos, simuladores y cacharros electrónicos. Relacionados: Fffuel tiene decenas de herramientas para crear paletas de color Haikei: un generador de fondos de pantalla, patrones y diseños SequenceDiagram.org para generar diagramas de secuencias Diagrams.net facilita la creación de diagramas de todo tipo Mapas punteados Un generador de mapas pixelados (y otras virguerías) Un generador de mapas del mundo vectoriales Penrose, una forma matemática y bella de crear diagramas Polygonia: diseño de teselaciones y patrones geométricos # Enlace Permanente"
+  },
+  {
+    "titulo": "Un español cuenta cuál es el problema de los supermercados en Dinamarca: \"Te dura dos días en la nevera\"",
+    "medio": "HuffPost",
+    "fecha": 1779835839.0,
+    "link": "https://www.huffingtonpost.es/virales/un-espanol-cuenta-cual-problema-supermercados-dinamarca-te-dura-dos-dias-nevera-f202605.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Irán y Estados Unidos intercambian amenazas mientras intensifican sus negociaciones",
+    "medio": "El País",
+    "fecha": 1779833946.0,
+    "link": "https://elpais.com/internacional/2026-05-26/iran-acusa-a-ee-uu-de-violar-la-tregua-por-atacar-objetivos-militares-y-amenaza-con-responder.html",
+    "resumen": "Donald Trump ha convocado una reunión de su Gabinete para tratar sobre los próximos pasos este miércoles"
+  },
+  {
+    "titulo": "Rosalía es la perla de la música española: arrasa en los Premios de la Academia de la Música y consuma el pleno con sus ocho galardones",
+    "medio": "El Mundo",
+    "fecha": 1779833915.0,
+    "link": "https://www.elmundo.es/cultura/musica/2026/05/27/6a15e930fc6c8363068b456e.html",
+    "resumen": "La gala, donde también triunfaron Leiva, Lia Kali o Guitarricadelafuente, quedó deslucida por la ausencia de la catalana Leer"
+  },
+  {
+    "titulo": "El calor azota Roland Garros: bolas que vuelan, efectos que se multiplican y tenistas adaptándose",
+    "medio": "El País",
+    "fecha": 1779833642.0,
+    "link": "https://elpais.com/deportes/tenis/2026-05-26/el-calor-azota-roland-garros-bolas-que-vuelan-efectos-que-se-multiplican-y-tenistas-adaptandose.html",
+    "resumen": "Las elevadas temperturas de esta edición, por encima de los 30º, plantean un escenario inusual y condicionan el juego: “Se van más largas”, precisa Swiatek"
+  },
+  {
+    "titulo": "Milei busca atraer inversiones multimillonarias en industrias experimentales con generosos incentivos fiscales",
+    "medio": "El País",
+    "fecha": 1779833580.0,
+    "link": "https://elpais.com/argentina/2026-05-26/milei-busca-atraer-inversiones-multimillonarias-en-industrias-experimentales-con-generosos-incentivos-fiscales.html",
+    "resumen": "El proyecto de ley apunta a nuevos desarrollos de inteligencia artificial e infraestructura digital y blinda por 30 años los beneficios a inversores"
+  },
+  {
+    "titulo": "Prensa como agua potable",
+    "medio": "La Vanguardia",
+    "fecha": 1779833100.0,
+    "link": "https://www.lavanguardia.com/opinion/20260527/11548310/prensa-agua-potable.html",
+    "resumen": "La autoridad moral y el respeto no se regalan; se ganan con el ejemplo diario, como demuestra Gabilondo"
+  },
+  {
+    "titulo": "“Canto para honrar a Dios”",
+    "medio": "La Vanguardia",
+    "fecha": 1779833100.0,
+    "link": "https://www.lavanguardia.com/lacontra/20260527/11548257/canto-honrar-dios.html",
+    "resumen": "Tengo 50 años. Nací en Xalapa (México) y vivo en Málaga. Soy cantante lírico, desde hace 22 años. Estoy casado con Marisol y tenemos dos hijos, Diana (23) y Braulio (16). ¿ Política? Empatía, civismo, moral y educación. ¡Y arte! ¿Creencias? Soy católico practicante. (Foto: Dani Duch)"
   },
   {
     "titulo": "La historia más terrorífica de Lolita Flores junto a Miguel Bosé: «Los tiradores avanzaron»",
@@ -26,6 +103,20 @@
     "fecha": 1779832836.0,
     "link": "https://okdiario.com/deportes/rayo-vallecano-crystal-palace-cuando-horario-canal-television-ver-directo-gratis-final-conference-league-17145968",
     "resumen": "El Rayo Vallecano está a un paso de hacer historia. El combinado madrileño afronta la final de la Conference League contra el Crystal Palace con la mayor ilusión para unirse a ese selecto club de los equipos españoles que han conseguido ganar un título europeo. No será sencillo, pero todos esperan que el Leipzig Stadium … Continuar leyendo \"A qué hora juega el Rayo Vallecano – Crystal Palace y dónde ver en directo gratis y por televisión, la final de la Conference League\""
+  },
+  {
+    "titulo": "EEUU detalla su plan para la primera base lunar: la NASA y Blue Origin comenzarán su construcción este mismo año",
+    "medio": "El Español",
+    "fecha": 1779832808.0,
+    "link": "https://www.elespanol.com/omicrono/defensa-y-espacio/20260527/eeuu-detalla-plan-primera-base-lunar-nasa-blue-origin-comenzaran-construccion-mismo-ano/1003744261172_0.html",
+    "resumen": "La agencia espacial estadounidense confirma que prevé enviar a la Luna, entre septiembre y noviembre, un alunizador no tripulado de Blue Origin.Más información: Si el hombre logra vivir en la Luna será por el malagueño García-Galán: creará la primera colonia humana de la historia"
+  },
+  {
+    "titulo": "Iñaki Gabilondo, el gran seductor",
+    "medio": "La Vanguardia",
+    "fecha": 1779832044.0,
+    "link": "https://www.lavanguardia.com/vida/20260526/11548318/inaki-gabilondo-gran-seductor.html",
+    "resumen": ""
   },
   {
     "titulo": "Israel lanza un ataque contra Mohammed Odeh, nuevo líder terrorista de Hamás tras liquidar a su antecesor",
@@ -189,20 +280,6 @@
     "resumen": "El Pontífice también insiste en la necesidad de una inteligencia artificial “desarmada” y confirma contactos con Anthropic"
   },
   {
-    "titulo": "Una explosión en una fábrica de papel en el Estado de Washington deja un número desconocido de muertos y heridos",
-    "medio": "El País",
-    "fecha": 1779826679.0,
-    "link": "https://elpais.com/us/2026-05-26/una-explosion-en-una-fabrica-de-papel-en-el-estado-de-washington-deja-un-numero-desconocido-de-muertos-y-heridos.html",
-    "resumen": "El tanque que estalló contenía una sustancia altamente corrosiva compuesta por hidróxido de sodio y sulfuro de sodio"
-  },
-  {
-    "titulo": "El Gobierno bloquea Polymarket y Kalshi, las dos mayores plataformas mundiales de apuestas",
-    "medio": "OK Diario",
-    "fecha": 1779826421.0,
-    "link": "https://okdiario.com/economia/gobierno-bloquea-polymarket-kalshi-dos-mayores-plataformas-mundiales-apuestas-17259966",
-    "resumen": "El Ministerio de Derechos Sociales, Consumo y Agenda 2030, dirigido por Pablo Bustinduy, ha ordenado este martes el bloqueo cautelar en España de Polymarket y Kalshi, las dos mayores plataformas mundiales de apuestas o mercados de predicción. La medida, publicada en el Boletín Oficial del Estado (BOE), responde a que ambas operan sin licencia administrativa … Continuar leyendo \"El Gobierno bloquea Polymarket y Kalshi, las dos mayores plataformas mundiales de apuestas\""
-  },
-  {
     "titulo": "El PSOE pacta con el independentismo rebajar los requisitos para formar grupo en el Congreso",
     "medio": "The Objective",
     "fecha": 1779826310.0,
@@ -259,13 +336,6 @@
     "resumen": "El grupo Renault registra pérdidas de 10.900 millones en 2025 por su salida de Nissan El laborioso preacuerdo alcanzado sobre el nuevo convenio colectivo de Renault en España ha desbloqueado el futuro industrial de sus fábricas y acerca la adjudicación de nuevos vehículos eléctricos e híbridos a las plantas de Palencia y Valladolid. La dirección de la compañía y los sindicatos UGT y CCOO han sellado un preacuerdo para el periodo 2026-2028 que evita las huelgas convocadas y permite a la marca francesa mantener a España como una de sus bases estratégicas en plena transformación hacia la electrificación. El acuerdo llega después de semanas de máxima tensión en las negociaciones y tras el órdago lanzado por la compañía, que vinculó explícitamente la llegada de nuevos modelos a la aceptación de un marco laboral de moderación salarial y flexibilidad. La reunión decisiva se celebró en el Ministerio de Industria, con la presencia del ministro Jordi Hereu, en un intento del Gobierno por asegurar inversiones para la automoción española. Además, coincidió con el anuncio de la marcha de Josep Maria Recasens, presidente de Renault España, a la empresa de defensa y tecnológica Indra como consejero delegado. Lo hará dejando un nuevo plan industrial encarrilado. El preacuerdo contempla la adjudicación de tres nuevos vehículos para la planta de Palencia y la continuidad de dos modelos híbridos “long life” en Valladolid, una decisión que refuerza el papel de las fábricas españolas dentro del grupo francés en un momento de fuerte competencia entre plantas europeas por captar producción electrificada. Las claves del nuevo convenio de Renault La compañía había advertido a los sindicatos de que, sin pacto, las factorías españolas dejarían de ser “preferentes” para recibir nuevos modelos. El escenario alternativo que manejaba Renault incluía una caída de producción, ausencia de nuevos productos y sin garantías de mantenimiento del empleo. El convenio mantiene un esquema de revisión salarial similar al anterior, aunque incorpora pagos extraordinarios de 400 euros brutos en 2026 y 2027 y otros 200 euros en 2028, además de un abono anual de 145 euros en septiembre. También contempla un incremento del 15 % en el valor de las horas extra, 300 contratos indefinidos durante la vigencia del acuerdo y una inversión mínima anual de 300.000 euros para mejorar las condiciones en las fábricas. La negociación ha provocado una fuerte división sindical. Mientras UGT y CCOO optaron por cerrar el acuerdo para garantizar carga de trabajo y nuevos proyectos industriales, sindicatos como CSIF y CGT rechazaron el pacto al considerar insuficiente la recuperación salarial tras años de congelación de sueldos y denunciar la elevada presión productiva en las plantas. Alivio para la industria de automoción El conflicto había escalado especialmente desde comienzos de mayo, cuando Renault suspendió temporalmente las adjudicaciones previstas tras el rechazo inicial de los sindicatos a su propuesta. La dirección llegó a retirar mejoras salariales y sociales de la oferta inicial para presionar a la representación laboral y evidenciar que el futuro industrial dependía directamente del convenio. La resolución del conflicto supone un alivio para la industria española del automóvil y para Castilla y León, donde Renault mantiene algunas de las plantas más importantes del país. El acuerdo llega además pocos días después de que el Ministerio de Industria aprobara nuevas ayudas públicas por valor de 10,6 millones de euros para proyectos de la compañía en Palencia, vinculados precisamente a la futura producción electrificada. Con este movimiento, Renault garantiza continuidad industrial en España en plena carrera europea por atraer inversiones para el coche eléctrico. Y lo hace apoyándose en un modelo que combina moderación laboral, ayudas públicas y adjudicación de nuevos vehículos como fórmula para asegurar producción en las fábricas españolas."
   },
   {
-    "titulo": "Euromillones: comprobar sorteo del martes 26 de mayo",
-    "medio": "El País",
-    "fecha": 1779824678.0,
-    "link": "https://elpais.com/sorteos/2026-05-26/euromillones-sorteo-del-martes-26-de-mayo.html",
-    "resumen": "Consulte la combinación ganadora más el numero adicional de “El Millón” de este martes que reparte 115 millones de euros"
-  },
-  {
     "titulo": "Fumata blanca en Renault: el acuerdo entre empresa y sindicatos desbloquea la fabricación en España de cinco nuevos modelos",
     "medio": "El Mundo",
     "fecha": 1779824630.0,
@@ -285,13 +355,6 @@
     "fecha": 1779824531.0,
     "link": "https://www.lavanguardia.com/politica/20260526/11548292/aznar-pide-ciudadanos-defiendan-democracia-populismos-derecha-e-izquierda.html",
     "resumen": "“Es la responsabilidad que tenemos todos”, defiende el expresidente del Gobierno"
-  },
-  {
-    "titulo": "Renault llega a un acuerdo salarial con los sindicatos que asegura cinco coches para España",
-    "medio": "La Vanguardia",
-    "fecha": 1779824391.0,
-    "link": "https://www.lavanguardia.com/dinero/20260526/11548290/renault-llega-acuerdo-salarial-sindicatos-asegura-cinco-coches-espana.html",
-    "resumen": "Este pacto permite mantener 6.000 empleos y la producción por primera vez de vehículos eléctricos en las fábricas del grupo en Valladolid y Palencia"
   },
   {
     "titulo": "Aznar llama a defender la democracia liberal ante «el riesgo de los populismos» en el mundo",
@@ -322,25 +385,11 @@
     "resumen": "Confieso que mi postura no es la mejor del mundo. Así, en general. Tengo tendencia a encorvarme, rotar los hombros y sacar chepita, y aunque desde que hago ejercicio noto que estoy mucho mejor y ha mejorado, sigo sin tener la postura de una bailarina de ballet. Siempre había pensado que el problema de estar encorvada era postural, pero la podóloga María Jesús Lechuga nos invita a mirar un poco más allá. O más abajo, porque sugiere que muchas veces nos encorvamos por culpa de nuestros pies. Estudió fisioterapia y podología (es la tercera generación de su familia que se dedica a la podología, y se especializó en biomecánica y posturología, así que sabe perfectamente de lo que habla. En uno de sus vídeos de redes sociales aseguraba que “la mayoría de la gente piensa que si va encorvado es por una mala postura o porque se sienta mal, pero muchas veces el origen está en los pies”. Explica la experta que “tus pies son la base de todo el cuerpo y si apoyas mal porque tu pisada está desequilibrada, tu centro de gravedad cambia. Y el cuerpo empieza a intentar compensar modificando poco a poco tu postura”. Los pies pueden influir en la cadena cinética y existen ciertos dolores de espalda, como los lumbares por ejemplo, que pueden tener cierta base biomecánica, de ahí que se haya encontrado una asociación en algunos casos entre la postura del pie y el dolor de espalda. Según la experta, para corregir esa mala postura del pie que está generando que nos encorvemos, lo primero es usar unas plantillas posturales personalizadas que corrijan nuestra pisada al andar y luego hacer estiramientos de reeducación postural. “Cuando regulamos la postura, el cuerpo deja de inclinarse y tu espalda se relaja”, explica. @mariajesus.podologa 🧍🏻‍♂️ Si pasas el día encorvado y notas que tu postura cada vez va a peor, este vídeo es para ti. Te enseño cómo mejorar tu postura y sentirte más ligero en tu día a día. 👣 Y si quieres dar un paso más, ven a mi clínica en Madrid a hacerte unas plantillas personalizadas!! 📍 Madrid (Metro Puerta de Toledo)!! Ronda de Segovia, 89, local 4, Centro, 28005 Madrid #postura #espalda #plantillas #podologo #podologomadrid ♬ sonido original - María Jesús Podóloga Evidentemente no será así en el 100% de los casos y para saber dónde está el origen de nuestro problema tanto si hablamos de un dolor de espalda como de una espalda encorvada o cifosis cervical (lo que se conoce como chepa o joroba), tendremos que acudir a un especialista para que nos hagan las pruebas pertinentes y un diagnóstico real. Eso sí, quizá estamos centrados en buscar el problema en nuestra postura al sentarnos en la oficina, y tiene más que ver con la forma en que andamos para ir hasta ella. Fotos | Instagram @mariajesus.podologa, Toa Heftiba en Unsplash En Trendencias | Un ejercicio de Pilates que puedes hacer de pie para olvidarte de la chepa. Ideal si pasas muchas horas frente al ordenador En Xataka | \"Déjenla en paz, es perfecta\": Tom Hanks se niega a participar en el remake de esta película del Hollywood clásico En Motorpasión | La DGT bate récord de multas por drogas: 70.700 conductores van a recibir en el buzón una multa de 1.000 euros con pérdida de puntos - La noticia María Jesús Lechuga, podóloga y fisioterapeuta: “La gente piensa que va encorvada por una mala postura, pero el problema puede estar en los pies” fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
-    "titulo": "Renault alcanza un acuerdo salarial con los sindicatos y asegura la llegada de nuevos modelos a Palencia y Valladolid",
-    "medio": "El País",
-    "fecha": 1779823830.0,
-    "link": "https://cincodias.elpais.com/companias/2026-05-26/renault-alcanza-un-acuerdo-salarial-con-los-sindicatos-y-asegura-la-llegada-de-nuevos-modelos-a-palencia-y-valladolid.html",
-    "resumen": "CC OO y UGT respaldan el pacto con la empresa para evitar la huelga y renovar el convenio, que la compañía cataloga como “histórico”"
-  },
-  {
     "titulo": "Japan Is Rearming and Embracing Nationalism",
     "medio": "Jacobin ES",
     "fecha": 1779823290.0,
     "link": "https://jacobin.com/2026/05/japan-rearmament-nationalism-military",
     "resumen": "Amid rising nationalism, Japan is accelerating its military buildup. Troublingly, as Japan abandons its postwar pacifism, its leadership is also pushing revisionist ideas about the atrocities that made the stance necessary to begin with."
-  },
-  {
-    "titulo": "Más galerías que discotecas",
-    "medio": "La Vanguardia",
-    "fecha": 1779823106.0,
-    "link": "https://www.lavanguardia.com/cultura/20260526/11548234/nit-galerisme-premios-gac-bassat-mayoral-torres.html",
-    "resumen": "La Nit del Galerisme celebra en el Macba las trayectorias de la Fundación Carmen & Lluís Bassat, la Galería Mayoral y el artista Francesc Torres"
   },
   {
     "titulo": "Renault fabricará en España cinco nuevos modelos",
@@ -448,20 +497,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Loewe vestirá a la selección española de fútbol los próximos cuatro años",
-    "medio": "El Mundo",
-    "fecha": 1779821802.0,
-    "link": "https://www.elmundo.es/yodona/2026/05/26/6a15e908fdddffcf748b45b7.html",
-    "resumen": "El precio de la chaqueta, el pantalón, el polo y los zapatos asciende a 4.730 euros Leer"
-  },
-  {
-    "titulo": "Los goles más emblemáticos de Alexia Putellas",
-    "medio": "La Vanguardia",
-    "fecha": 1779821796.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260526/11548271/goles-mas-emblematicos-alexia-putellas.html",
-    "resumen": "La eterna capitana blaugrana nunca a fallado a su cita con el gol en los días más importantes"
-  },
-  {
     "titulo": "Netanyahu anuncia una escalada en el Líbano y la toma de nuevas «zonas estratégicas»",
     "medio": "The Objective",
     "fecha": 1779821274.0,
@@ -516,13 +551,6 @@
     "fecha": 1779819890.0,
     "link": "https://jacobin.com/2026/05/uae-kleptocrats-violence-power-profit",
     "resumen": "From Libya to Yemen and Palestine to Sudan, the United Arab Emirates has built a regional network of militias, autocrats, and oligarchs that perpetuate violence for power and profit."
-  },
-  {
-    "titulo": "Las alarmantes palabras de Haakon de Noruega sobre su mujer, Mette-Marit de Noruega",
-    "medio": "HuffPost",
-    "fecha": 1779819571.0,
-    "link": "https://www.huffingtonpost.es/life/influencers-celebrities/las-alarmantes-palabras-haakon-noruega-sobre-mujer-mettemarit-noruega-f202605.html",
-    "resumen": ""
   },
   {
     "titulo": "Mañana en Prime Video, una serie con un Nicolas Cage soberbio de la que ya se dice es la mejor propuesta de Marvel en años",
@@ -735,25 +763,11 @@
     "resumen": ""
   },
   {
-    "titulo": "EEUU planea un drástico recorte de su contribución militar a la OTAN en Europa en escenarios de crisis",
-    "medio": "El Español",
-    "fecha": 1779809772.0,
-    "link": "https://www.elespanol.com/observatorio-defensa/20260526/eeuu-planea-drastico-recorte-contribucion-militar-otan-europa-escenarios-crisis/1003744260624_0.html",
-    "resumen": "Abarca el recorte de cazas de combate, buques de guerra, submarinos y aviones de reabastecimiento en vuelo.Más información: Trump da marcha atrás y anuncia el despliegue de 5.000 soldados en Polonia tras las críticas a los países europeos"
-  },
-  {
     "titulo": "España, contra los mercados de predicciones: bloquea Polymarket y Kalshi por operar sin licencia",
     "medio": "Hipertextual",
     "fecha": 1779808526.0,
     "link": "https://hipertextual.com/internet/espana-bloquea-polymarket-kalshi/",
     "resumen": "Duro revés para Polymarket y Kalshi en España. El Ministerio de Consumo ha ordenado el bloqueo de ambos mercados de predicciones como medida cautelar tras la apertura de un expediente sancionar en su contra. Las autoridades consideran que estos operan como plataformas de juegos de azar sin contar con la licencia correspondiente. Según reporta The […] Seguir leyendo: España, contra los mercados de predicciones: bloquea Polymarket y Kalshi por operar sin licencia"
-  },
-  {
-    "titulo": "Polémica con Motorola: descubren que sus móviles espían tu app de Amazon para ganar dinero a tu costa",
-    "medio": "Hipertextual",
-    "fecha": 1779808188.0,
-    "link": "https://hipertextual.com/mobile/polemica-con-motorola-descubren-que-sus-moviles-espian-tu-app-de-amazon-para-ganar-dinero-a-tu-costa/",
-    "resumen": "Una de las últimas actualizaciones de los móviles Motorola ha desatado una polémica inaudita en la compañía y el sector. Todo ha comenzado después de una publicación en Reddit que mostraba un comportamiento extraño al abrir una de las aplicaciones preinstaladas en el móvil. Esa aplicación era la de Amazon, y tras varias investigaciones de […] Seguir leyendo: Polémica con Motorola: descubren que sus móviles espían tu app de Amazon para ganar dinero a tu costa"
   },
   {
     "titulo": "The Pro-Israel Lobby Is Trying to Fly Under the Radar",
@@ -1041,13 +1055,6 @@
     "fecha": 1779539340.0,
     "link": "https://www.microsiervos.com/archivo/humor/no-me-digas-lo-que-te-dice-la-ia.html",
     "resumen": "¿Tienes la sensación de que lo que te responden a tus correos ha dejado de ser humano para ser un copiapega de ChatGPT? ¿Te llega por el grupo de trabajo algo como «Según Claude, lo que deberías hacer es…»? ¿Te han enviado tantos datos por WhatsApp que aquello canta a respuesta enlatada que da gusto? Pues no estás solo. Por suerte esta web permite espetarle una respuesta directa al interlocutor: DontQuoteTheAI.com, y que se lo haga mirar. No me vengas con la IA. – Si tu respuesta empieza con «Esto es lo que dijo Claude» o son directamente ochocientas palabras de texto sin editar de ChatGPT, enhorabuena: acabas de demostrar que tu cerebro es un cachivache; Darwin estaría orgulloso. Por favor, no te reproduzcas. DontQuoteTheAI.com es básicamente una hostia de realidad que puedes enviar a quien te contesta de ese modo, con montañas de texto generado por IA (a veces sin tocar ni una coma) a preguntas o comentarios triviales que has lanzado esperando una reacción humana. La web explica la situación a quien se digne leerla: si se pregunta a alguien y esta persona responde copiando y pegando 800 palabras de un chatbot, se acaba de convertir en un «cable USB humano» para conectar a la otra persona con la máquina. El problema en realidad no es usar IA, sino actuar como una fotocopiadora, una sensación bastante desagradable cuando se experimenta. Me recordó al otrora famoso Just Fucking Google It!, de los tiempos en los que la gente hacía preguntas triviales, obvias o absurdas, a lo Yahoo Preguntas, en vez de ir a buscar en Google el resultado. La forma de entenderlo es que la otra persona ya tiene acceso a la misma herramienta, así que no será eso lo que está buscando: lo que quiere es una respuesta humana, la opinión de una persona, de alguien que conozca el contexto. La receta que propone DontQuoteTheAI.com para quienes insistan en recurrir a la IA es sencilla: leer lo generado, quitar la paja, comprobar si algo tiene sentido y añadir una opinión propia aunque sean tres frases. Porque, según el manifiesto, tres líneas humanas valen más que tres párrafos de «relleno inteligente algorítmico». Relacionados: Just Fucking Google It El hombre que susurraba en hexadecimal a los ChatGPTs La curiosa historia sobre cómo un simple plátano acabó siendo la respuesta perfecta a un Test de Turing ¡Abran paso! Llegan los «supermemes» creados mediante IA Generación de memes mediante IA (y tienen su gracia) A estos memes generados mediante «IA» les falta un hervor, pero algunos son graciosos # Enlace Permanente"
-  },
-  {
-    "titulo": "Más imágenes de UAPs/ovnis llenas de detalles desenfocados, píxeles como puños, y misterios dignos de Fríker Jiménez",
-    "medio": "Microsiervos",
-    "fecha": 1779537387.0,
-    "link": "https://www.microsiervos.com/archivo/conspiranoia/imagenes-uaps-ovnis-desenfocados-pixeles-misterios-friker-jimenez.html",
-    "resumen": "El Pentágono ha publicado una segunda entrega de sus fotos, audios y vídeos de UAPs en la web que tiene habilitada para esas cosas. Porque la verdad está ahí fuera. Y pesa varios gigas. En total son unos 5,6 GB de vídeos, fotos y PDFs con los que se pueden alimentar varios meses de capturas borrosas, círculos rojos señalando píxeles y pausas dramáticas en televisión. Hay objetos esféricos, vídeos infrarrojos, audios de la misión Apolo 17 y otros «casos sin resolver». Nada que confirme la existencia de visitantes interestelares, pero sí lo suficiente como para que media internet ajuste el contraste al 800% y empiece a detectar reptilianos en el ruido de algún MPEG random. La parte más divertida es el ritual inevitable de algunas descripciones: una mota de polvo grabada por un sensor militar en infrarrojo se convierte en un «artefacto hiperdimensional», alguien trazará líneas sobre una captura y Fríker Jiménez entrará en modo turbo con voz grave: «Observad este detalle…» Hay fotos que parecen lanchas de narcos o piratas surcando el mar, pero aquí todo es misterioso. Mientras tanto, en el MundoReal™, probablemente haya un analista del Pentágono explicando que «la imagen no es concluyente». Desde luego las de este pack, nada de nada. Relacionados: Las nuevas fotografías desclasificadas de los Fenómenos Aéreos No Identificados (antiguos OVNIs) no son gran cosa, la verdad Explicaciones técnicas de dos expertos en efectos visuales a los «inexplicables» «vídeos de ovnis» del Pentágono Las mejores fotos de OVNIs de todos los tiempos El ovni del lago de Cote, ¿la mejor foto de ovnis de la historia? Los OVNI ya no son lo que eran Los ovnis ¡vaya timo! # Enlace Permanente"
   },
   {
     "titulo": "Chillida: esculpir el vacío",
