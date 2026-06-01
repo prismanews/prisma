@@ -1,17 +1,73 @@
 [
   {
+    "titulo": "Descubren un peligroso malware que roba datos en miles de servidores Linux",
+    "medio": "Hipertextual",
+    "fecha": 1780356648.0,
+    "link": "https://hipertextual.com/seguridad/malware-miasma-paquetes-red-hat-linux/",
+    "resumen": "Un nuevo malware lleva semanas atacando servidores Linux y acaba de dar un golpe muy serio. Los hackers han conseguido infiltrarse en paquetes de software de Red Hat usados por miles de desarrolladores en todo el mundo. La escala del ataque es suficientemente grande como para que cualquier equipo que trabaje con estas herramientas deba […] Seguir leyendo: Descubren un peligroso malware que roba datos en miles de servidores Linux"
+  },
+  {
+    "titulo": "Trump abronca a Netanyahu: \"¡¿Qué coño estás haciendo? Estás jodidamente loco, estarías en prisión si no fuera por mí. Te estoy salvando el culo. Todos odian a Israel por esto\"",
+    "medio": "El Mundo",
+    "fecha": 1780356352.0,
+    "link": "https://www.elmundo.es/internacional/2026/06/02/6a1e1445e85eceb7348b4590.html",
+    "resumen": "Según Axios, el medio estadounidense con más información controvertida sobre la guerra en Irán en las últimas semanas, el presidente estadounidense reprochó a su socio israelí por los ataques en el Líbano que llevaron a Irán a interrumpir las negociaciones de paz el lunes Leer"
+  },
+  {
+    "titulo": "Los espectáculos ‘1936’ y ‘La tercera fuga’ y la compañía de danza La Venidera triunfan en unos premios Max muy repartidos",
+    "medio": "El País",
+    "fecha": 1780356199.0,
+    "link": "https://elpais.com/cultura/2026-06-01/los-espectaculos-1936-y-la-tercera-fuga-y-la-compania-de-danza-la-venidera-triunfan-en-unos-premios-max-muy-repartidos.html",
+    "resumen": "Centro Dramático Nacional y el Teatre Nacional de Cataluña dominan las categorías teatrales en una gala marcada por el escenario del teatro romano de Mérida"
+  },
+  {
+    "titulo": "Trump ve posible un acuerdo con Irán \"la próxima semana\" pese a la ruptura de las negociaciones",
+    "medio": "HuffPost",
+    "fecha": 1780355376.0,
+    "link": "https://www.huffingtonpost.es/global/trump-ve-posible-acuerdoan-la-proxima-semana-pese-ruptura-negociaciones-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Unos Premios Max entre el exilio y la memoria: la familia de Victoria Szpunberg y el relato de Andrés Lima de la Guerra Civil triunfan en el teatro más antiguo de España",
+    "medio": "El Mundo",
+    "fecha": 1780353675.0,
+    "link": "https://www.elmundo.es/cultura/teatro/2026/06/02/6a1e08e4e9cf4a54378b4584.html",
+    "resumen": "Irene Tena y Albert Hernández, de La Venidera, se impusieron en las categorías de danza con tres galardones para su montaje 'No' Leer"
+  },
+  {
+    "titulo": "Enrique Riquelme: \"No hay nadie más apropiado que Raúl González para liderar mi proyecto deportivo\"",
+    "medio": "El Mundo",
+    "fecha": 1780352144.0,
+    "link": "https://www.elmundo.es/deportes/futbol/2026/06/02/6a1dffaffc6c83872b8b4597.html",
+    "resumen": "El candidato a la presidencia anuncia que será su director deportivo si gana las elecciones. \"Esto cada vez se parece más a Maduro y Venezuela\", afirmó sobre lo que considera irregularidades en el voto por correo. Leer"
+  },
+  {
+    "titulo": "Ruslan y Lyudmila: los legendarios cisnes del lago Karpiev que se han convertido en símbolo de San Petersburgo",
+    "medio": "OK Diario",
+    "fecha": 1780351402.0,
+    "link": "https://okdiario.com/curiosidades/ruslan-lyudmila-legendarios-cisnes-del-lago-karpiev-que-han-convertido-simbolo-san-petersburgo-17400946",
+    "resumen": "Son Ruslan y Lyudmila los los legendarios cisnes del lago Karpiev que se han convertido en símbolo de San Petersburgo en Rusia. En el corazón del histórico Jardín de Verano de San Petersburgo se encuentra el lago Karpiev, uno de los rincones más emblemáticos y visitados de la ciudad rusa. Allí, entre avenidas arboladas y … Continuar leyendo \"Ruslan y Lyudmila: los legendarios cisnes del lago Karpiev que se han convertido en símbolo de San Petersburgo\""
+  },
+  {
+    "titulo": "La guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu responde a Trump y anuncia que su ejército actuará en el sur de Líbano “como estaba planeado”",
+    "medio": "El País",
+    "fecha": 1780351125.0,
+    "link": "https://elpais.com/internacional/2026-06-01/la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+    "resumen": "El republicano afirma que ha frenado una operación israelí en Beirut después de que Irán suspendiese las negociaciones | Líbano asegura que Hezbolá y Estados Unidos han acordado detener sus ataques cruzados"
+  },
+  {
+    "titulo": "Albert Rivera critica a Pablo Iglesias en ‘Horizonte’: «El populismo tiene las patas muy cortas»",
+    "medio": "OK Diario",
+    "fecha": 1780350953.0,
+    "link": "https://okdiario.com/cool/television/albert-rivera-estalla-horizonte-contra-pablo-iglesias-populismo-tiene-patas-muy-cortas-17400781",
+    "resumen": "Albert Rivera, ex líder de Ciudadanos, ha entrado en el directo de Horizonte para responder a Pablo Iglesias después de que éste haya hablado sobre la ‘jugada’ con la que se logró expulsar a Mariano Rajoy en 2018 y que hizo a su vez presidente a Pedro Sánchez. El fundador de Unidas Podemos ha asegurado … Continuar leyendo \"Albert Rivera critica a Pablo Iglesias en ‘Horizonte’: «El populismo tiene las patas muy cortas»\""
+  },
+  {
     "titulo": "Frederiksen alcanza un acuerdo de gobierno en Dinamarca para un tercer mandato",
     "medio": "El País",
     "fecha": 1780350625.0,
     "link": "https://elpais.com/internacional/2026-06-01/frederiksen-alcanza-un-acuerdo-de-gobierno-en-dinamarca-para-un-tercer-mandato.html",
     "resumen": "La socialdemócrata, en el poder desde 2019, liderará un Ejecutivo de coalición con un partido centrista y otros dos de izquierdas"
-  },
-  {
-    "titulo": "La guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu responde a Trump y anuncia que su ejército actuará en el sur de Líbano “como estaba planeado”",
-    "medio": "El País",
-    "fecha": 1780350486.0,
-    "link": "https://elpais.com/internacional/2026-06-01/la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "El republicano afirma que ha frenado una operación israelí en Beirut después de que Irán suspendiese las negociaciones | Líbano asegura que Hezbolá y Estados Unidos han acordado detener sus ataques cruzados"
   },
   {
     "titulo": "Si la carne picada te suelta mucha agua al cocinarla, un carnicero recomienda seguir estos pasos",
@@ -77,11 +133,11 @@
     "resumen": "En el universo de los superyates, donde cada detalle está pensado para fardar, pocas cosas adquieren tanto valor simbólico como los materiales. Mármoles traídos de canteras exclusivas, cristales diseñados a medida y maderas exóticas procedentes de los rincones más remotos del planeta forman parte habitual del catálogo de caprichos de los multimillonarios que surcan los mares cada verano. Por eso resulta tan llamativa una de las decisiones menos conocidas de Steve Jobs. Cuando diseñó el Venus, el espectacular yate que nunca llegaría a ver terminado, el fundador de Apple rechazó utilizar una de las maderas más prestigiosas de la industria náutica y apostó por una alternativa mucho más cercana: madera de chopo procedente de León. El material favorito de los yates más exclusivos Durante décadas, la teca se ha considerado el estándar de oro de la navegación de lujo. Su resistencia a la humedad, a la sal y a las inclemencias del mar la convirtió en la opción preferida para las cubiertas de embarcaciones de alta gama. Sin embargo, detrás de su elegante apariencia se esconde una realidad mucho menos glamurosa. La enorme demanda internacional ha contribuido durante años a la deforestación de los bosques tropicales de países como Myanmar, Laos, India o Tailandia. De hecho, la explotación intensiva de esta madera ha provocado restricciones y prohibiciones en numerosos mercados debido a las preocupaciones medioambientales asociadas a su extracción. Ben Stanfield Aun así, la teca continúa utilizándose en algunos de los yates más espectaculares del mundo. Incluso el astillero responsable del Koru, el megayate de Jeff Bezos, fue sancionado por utilizar teca procedente de Myanmar, un país cuya industria forestal lleva años bajo el escrutinio internacional. En este contexto es donde se produce la inesperada conexión entre Apple y los bosques leoneses. Fiel a esa obsesión legendaria por controlar cada aspecto de sus productos, el empresario supervisó personalmente el diseño del Venus junto al diseñador francés Philippe Starck. Y cuando llegó el momento de seleccionar los materiales, descartó la teca y se inclinó por una opción mucho menos común. La elegida fue la madera de chopo cultivada en León, una variedad de álamo especialmente valorada por su combinación de resistencia, ligereza y sostenibilidad. De este modo, tanto las cubiertas como parte de los elementos estructurales del yate incorporaron esta madera española. La elección resulta sorprendente porque va en contra de la lógica habitual del lujo contemporáneo, donde la exclusividad suele medirse en kilómetros recorridos y rareza de origen. Jobs, sin embargo, encontró en una especie cultivada en el noroeste español las cualidades técnicas que buscaba para uno de los proyectos más ambiciosos de su vida. photostephan.eu El último gran diseño de Steve Jobs El Venus ocupa un lugar singular dentro de la biografía del fundador de Apple. Fue uno de los últimos proyectos en los que trabajó personalmente antes de su muerte en 2011. La embarcación, entregada un año después, refleja muchos de los principios estéticos que definieron su marca tecnológica: líneas limpias, minimalismo extremo y una aparente simplicidad que esconde una enorme complejidad técnica. Valorado en torno a los 120 millones de dólares, el yate alcanza los 78 metros de eslora y destaca por una silueta afilada que parece más cercana a un dispositivo futurista que a una embarcación tradicional. En el puente de mando se instalaron siete iMac de 27 pulgadas, mientras que amplias superficies de vidrio conectan el interior con el mar. El resultado es una embarcación de lujo radicalmente distinta a la ostentación clásica en la que invierten otras grandes fortunas. Apostar por los bosques de León fue una decisión discreta que resulta invisible para quienes observan el yate desde el muelle, pero que dice mucho sobre la forma en la que Jobs entendía el diseño. O lo que es lo mismo; la mejor elección no siempre es la más exótica. Foto de portada | Feadship En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En Xataka | En 1972 Italia quiso meter una ciudad entera en un edificio de un kilómetro. Medio siglo después sigue pagando las consecuencias En Directo al paladar | Samantha Vallejo-Nágera, chef, y su mejor receta con calabacín: \"Está delicioso al horno con huevos, cebolla y yogur\" - La noticia Steve Jobs rechazó la madera ilegal de los bosques de Myanmar para su yate de lujo: prefirió usar chopos de León fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "Un tiroteo entre bandas en Torrelodones deja un herido muy grave y tres detenidos",
+    "titulo": "Un muerto en un tiroteo entre bandas en Torrelodones: hay tres detenidos",
     "medio": "OK Diario",
     "fecha": 1780346984.0,
     "link": "https://okdiario.com/espana/tiroteo-bandas-torrelodones-deja-herido-muy-grave-tres-detenidos-17400605",
-    "resumen": "Un tiroteo registrado este lunes en Torrelodones ha dejado una persona herida por arma de fuego y ha provocado un importante despliegue de la Guardia Civil y la Policía Nacional. El tiroteo se ha producido a consecuencia de un enfrentamiento entre una banda de marroquíes de Collado Villalba y otra de españoles de Alcobendas, según fuentes locales. … Continuar leyendo \"Un tiroteo entre bandas en Torrelodones deja un herido muy grave y tres detenidos\""
+    "resumen": "Un tiroteo registrado este lunes en Torrelodones ha dejado un muerto por arma de fuego y ha provocado un importante despliegue de la Guardia Civil y la Policía Nacional. El tiroteo se ha producido a consecuencia de un enfrentamiento entre una banda de marroquíes de Collado Villalba y otra de españoles de Alcobendas, según fuentes locales. El … Continuar leyendo \"Un muerto en un tiroteo entre bandas en Torrelodones: hay tres detenidos\""
   },
   {
     "titulo": "Un tribunal declara ilegal el veto de Trump a las personas trans en las Fuerzas Armadas",
@@ -210,13 +266,6 @@
     "resumen": "La inversión de 200 millones del fabricante de MG y Maxus para tener una planta de ensamblaje en Ferrol se suma a la lista de proyectos chinos para la automoción españolaEl sector del automóvil confía en las inversiones chinas para renovar el 'milagro' español La llegada del grupo chino SAIC Motor a Galicia supone un paso más en la estrategia de globalización del fabricante y la constatación del apetito de China por operar desde España. La decisión de invertir 200 millones de euros se suma a una lista cada vez más larga de proyectos en marcha o en negociación de fabricantes automovilísticos chinos que benefician a la automoción española. La operación anunciada por el grupo propietario de las marcas MG y Maxus (con capital público chino, especialmente del Ayuntamiento de Shanghai) encaja en una estrategia más amplia de los fabricantes chinos para ganar presencia productiva dentro de la Unión Europea en un momento marcado por las tensiones comerciales, la electrificación en vías de aceleración y la necesidad de acercar la producción a los mercados de consumo a medida que logran volúmenes importantes de ventas. Para España, además, representa un nuevo espaldarazo a su aspiración de consolidarse como uno de los grandes polos industriales europeos del vehículo eléctrico. La futura planta gallega, cuya actividad arrancará en 2028, tendrá capacidad para ensamblar hasta 120.000 vehículos al año y generará 1.000 empleos directos y más de 2.000 contando los puestos indirectos. El proyecto se repartirá entre las instalaciones del puerto exterior de Ferrol y el municipio de As Pontes, donde se desarrollarán actividades industriales y logísticas que aspiran a convertir la comarca en un nuevo centro neurálgico de la movilidad eléctrica europea. Del montaje final a la producción completa La compañía ha anunciado su decisión como “un hito histórico”, mientras que la Xunta considera que la inversión puede convertirse en un punto de inflexión para una comarca que aún arrastra las consecuencias de décadas de reconversión industrial. El Gobierno gallego ha declarado la iniciativa como proyecto industrial estratégico para acelerar su tramitación y ha movilizado un equipo específico para acompañar a la multinacional durante todo el proceso administrativo. La planta gallega de SAIC comenzará de forma progresiva su actividad comenzando por el montaje final de vehículos enviados desmontados parcialmente desde China e irá sumando procesos productivos y proveedores locales. Según la consejera de Economía e Industria de la Xunta, María Jesús Lorenzana, la intención del grupo chino es convertir, a medio y largo plazo, la comarca de Ferrolterra “en un hub industrial y logístico” para acabar con la totalidad de los procesos productivos, que será “similar” al de Stellantis en Vigo. El centro de Ferrol se sumará la lista de plantas que ha ido abriendo en los últimos años SAIC en su estrategia de globalización. Combina el montaje final de vehículos enviados desde China a países como Tailandia, Malasia, Pakistán e India. Inversiones chinas en España La apuesta de SAIC se suma a una creciente lista de inversiones chinas que están redibujando el mapa industrial español, aunque con importes superiores. La más relevante es la gigafactoría de baterías que desarrollan CATL y Stellantis en Zaragoza, con una inversión superior a los 4.000 millones de euros. A ella se añaden la planta de baterías de Envision en Extremadura (más de 1.000 millones), la alianza entre Chery y Ebro para reactivar la antigua fábrica de Nissan en Barcelona (400 millones, de los que 200 son ayudas o financiación públicas), o los proyectos impulsados junto a Santana en Linares por grupos vinculados a Dongfeng y BAIC. Además, está en negociación una planta de BYD en Catalunya tras la que está ultimando en Hungría, que hará la producción completa con una inversión de más de 4.000 millones. Bajo el lema “En Europa, para Europa”, MG busca fabricar dentro del continente para ganar flexibilidad, reducir costes logísticos y aumentar el contenido local de sus vehículos. La compañía ya ha adelantado que una parte significativa de su cadena de suministro procederá de proveedores europeos, lo que abre nuevas oportunidades para los cerca de 80 centros productivos que integran el ecosistema automovilístico gallego. Además de la producción, el proyecto contempla actividades de investigación y desarrollo, integración de componentes estratégicos y sistemas avanzados de logística inteligente. El objetivo final es crear una plataforma industrial completa que refuerce la presencia europea del grupo y reduzca su dependencia de las cadenas de suministro asiáticas."
   },
   {
-    "titulo": "La UE acuerda endurecer la política de retorno y aprueba los centros de deportación de migrantes en terceros países",
-    "medio": "OK Diario",
-    "fecha": 1780344036.0,
-    "link": "https://okdiario.com/internacional/ue-acuerda-endurecer-politica-retorno-aprueba-centros-deportacion-migrantes-terceros-paises-17399213",
-    "resumen": "Los negociadores del Parlamento Europeo y del Consejo han logrado un acuerdo sobre la política de retorno y dan luz verde a los centros de deportación de migrantes. Este acuerdo endurecerá las condiciones de quienes ven rechazada una petición de asilo en la Unión Europea (UE) y consolida la posibilidad de que los Estados miembros … Continuar leyendo \"La UE acuerda endurecer la política de retorno y aprueba los centros de deportación de migrantes en terceros países\""
-  },
-  {
     "titulo": "La Unión Europea aprueba los centros de deportación de inmigrantes en terceros países",
     "medio": "The Objective",
     "fecha": 1780344007.0,
@@ -229,20 +278,6 @@
     "fecha": 1780344000.0,
     "link": "https://www.huffingtonpost.es/sociedad/un-matematico-alicante-confirma-calentamiento-39-veces-mas-probable-clima-alimenta-incendios-espana-portugal-f202606.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El feminicidio de una adolescente sacude Argentina días antes de la marcha Ni Una Menos",
-    "medio": "El País",
-    "fecha": 1780343924.0,
-    "link": "https://elpais.com/argentina/2026-06-01/el-feminicidio-de-una-adolescente-sacude-argentina-dias-antes-de-la-marcha-ni-una-menos.html",
-    "resumen": "El hallazgo de los restos diseccionados de Agostina Vega, de 14 años, relanza el reclamo del movimiento feminista, que se manifestará este miércoles"
-  },
-  {
-    "titulo": "Muere un motorista de 18 años en una colisión frontal con un turismo en Parla",
-    "medio": "OK Diario",
-    "fecha": 1780343809.0,
-    "link": "https://okdiario.com/sucesos/muere-motorista-18-anos-colision-frontal-turismo-parla-17400458",
-    "resumen": "Un motorista de 18 años ha fallecido este lunes tras una colisión frontal con un turismo registrada en el kilómetro 2,4 de la carretera M-408, a la altura del municipio madrileño de Parla. El joven motorista presentaba un traumatismo craneoencefálico y torácico y entró en parada cardiorrespiratoria tras la colisión frontal. Los servicios de emergencia … Continuar leyendo \"Muere un motorista de 18 años en una colisión frontal con un turismo en Parla\""
   },
   {
     "titulo": "Paula, 27 años, de ingeniera mecánica en Alemania a podar viñas en Valencia: \"Volver al pueblo fue la mejor decisión de mi vida\"",
@@ -263,13 +298,6 @@
     "medio": "HuffPost",
     "fecha": 1780342827.0,
     "link": "https://www.huffingtonpost.es/politica/el-jefe-udef-pp-imputado-guerra-sucia-claves-perderse-tanto-lio-judicial-f202606.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "\"Como matar una mosca con una ametralladora\": un piloto ucraniano describe la escena de un tanque de la OTAN abriendo fuego contra su dron en un simulacro",
-    "medio": "HuffPost",
-    "fecha": 1780342770.0,
-    "link": "https://www.huffingtonpost.es/global/como-matar-mosca-ametralladora-piloto-ucraniano-describe-escena-tanque-otan-abriendo-fuego-dron-simulacro-f202606.html",
     "resumen": ""
   },
   {
@@ -501,7 +529,7 @@
     "medio": "El Español",
     "fecha": 1780337462.0,
     "link": "https://www.elespanol.com/mundo/oriente-proximo/20260601/trump-presiona-netanyahu-hezbola-detener-ataques-libano-demanda-iran/1003744269243_0.html",
-    "resumen": "El presidente de EEUU asegura que las negociaciones con Irán marchan \"a un ritmo acelerado\" después de que la República Islámica las suspendiera en señal de protesta por la escalada militar de Israel contra Hezbolá en Líbano.Más información: Israel toma un antiguo castillo templario en Líbano para controlar los territorios \"dominados por Hezbolá\""
+    "resumen": "El presidente de EEUU asegura que las negociaciones con Irán marchan \"a un ritmo acelerado\" después de que la República Islámica las suspendiera en señal de protesta por los ataques israelíes contra Hezbolá.Más información: Israel toma un antiguo castillo templario en Líbano para controlar los territorios \"dominados por Hezbolá\""
   },
   {
     "titulo": "Trump intenta rebajar la tensión en Líbano para salvar su pacto con Irán, pero Netanyahu mantiene sus amenazas",
@@ -588,13 +616,6 @@
     "resumen": "La isla sufrió los primeros bombardeos aéreos sistemáticos contra la población civil. La aviación republicana mató a 86 personas: 17 eran niños. El historiador Manuel Aguilera reconstruye el \"terror aéreo\" y saca ahora a la luz en un libro ('Mallorca en llamas') la vida de las víctimas que nadie homenajeó Leer"
   },
   {
-    "titulo": "Raúl Rabadán renuncia a asumir la dirección científica del CNIO",
-    "medio": "El Mundo",
-    "fecha": 1780334377.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/06/01/6a1dbdf1e9cf4a787f8b457f.html",
-    "resumen": "El Patronato del CNIO eligió a Rabadán por unanimidad el pasado 4 de septiembre Leer"
-  },
-  {
     "titulo": "Toca actualizar el iPhone: Apple acaba de lanzar iOS 26.5.1 con una importante corrección para iPhone 17, 17 Pro, 17 Pro Max y Air",
     "medio": "Applesfera",
     "fecha": 1780334187.0,
@@ -616,18 +637,18 @@
     "resumen": "La Comunidad de Madrid y Microsoft lanzan TalentIA, formación online gratuita en IA para 75.000 personas. Inscripciones hasta el 30 de junio con certificado oficial sin coste para quienes superen los cursos. La entrada Madrid: formación gratuita IA con Microsoft para 75.000 personas, inscripción hasta el 30 de junio aparece primero en Moncloa."
   },
   {
-    "titulo": "La Reina Letizia, con el vestido de detalle en tendencia y llamativas joyas, y Charlene de Mónaco, de azul pastel: un encuentro de moda en el Botánico de Madrid",
-    "medio": "El Mundo",
-    "fecha": 1780333768.0,
-    "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2026/06/01/6a1d62e4e85eced0428b45c8.html",
-    "resumen": "La Reina Letizia y Charlene de Mónaco han desplegado sus mejores looks primaverales para acudir al Real Jardín Botánico de Madrid, la española con un vestido blanco y un brazalete muy llamativo, la segunda de azul pastel. Leer"
-  },
-  {
     "titulo": "Anthropic se adelanta a OpenAI y pone en marcha su salida a bolsa",
     "medio": "Hipertextual",
     "fecha": 1780333337.0,
     "link": "https://hipertextual.com/economia-empresas/anthropic-pone-en-marcha-salida-a-bolsa/",
     "resumen": "Anthropic acaba de dar un paso crucial para salir a bolsa. La empresa detrás de Claude anunció este lunes que ha comenzado los papeleos ante la Comisión de Bolsa y Valores de Estados Unidos (SEC), con miras a concretar su oferta pública de venta (IPO, en inglés) en un futuro no muy lejano. En un […] Seguir leyendo: Anthropic se adelanta a OpenAI y pone en marcha su salida a bolsa"
+  },
+  {
+    "titulo": "Raúl Rabadán renuncia a asumir la dirección científica del CNIO",
+    "medio": "Europa Press",
+    "fecha": 1780332912.0,
+    "link": "https://www.infosalus.com/salud-investigacion/noticia-raul-rabadan-renuncia-asumir-direccion-cientifica-cnio-20260601185512.html",
+    "resumen": "El Ministerio de Ciencia, Innovación y Universidades ha comunicado que el doctor Raúl Rabadán ha decidido no asumir su cargo como director científico del Centro Nacional de Investigaciones Oncológicas (CNIO), pese a haber resultado seleccionado en el concurso convocado por el centro el pasado mes de septiembre."
   },
   {
     "titulo": "Raúl Rabadán, nuevo director científico del CNIO, dimite antes de tomar posesión del cargo",
@@ -649,13 +670,6 @@
     "fecha": 1780332242.0,
     "link": "https://www.elespanol.com/deportes/futbol/20260601/nanin-peon-calderon-campana-florentino-agente-jugador-dice-llamo-apoyar-riquelme/1003744268976_0.html",
     "resumen": "El representante recibió este lunes la llamada del artífice del pucherazo en la Asamblea de Socios que propició la dimisión de Calderón en 2009.Mariano Rodríguez de Barutell, 'Nanín', pidió a este agente que el futbolista del Real Madrid saliera públicamente antes del domingo respaldando la candidatura de Enrique Riquelme."
-  },
-  {
-    "titulo": "Anthropic se adelanta a OpenAI y da el primer paso para salir a bolsa este año",
-    "medio": "El Mundo",
-    "fecha": 1780332027.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/06/01/6a1db5f7fdddff9a2e8b4596.html",
-    "resumen": "La compañía acaba de cerrar una ronda de 60.000 millones de dólares Leer"
   },
   {
     "titulo": "Anthropic presenta su solicitud para salir a Bolsa",
@@ -733,13 +747,6 @@
     "fecha": 1780328615.0,
     "link": "https://www.expansion.com/economia/2026/06/01/6a1da71e468aebea2b8b4577.html",
     "resumen": "El Ministerio de Hacienda remite una carta a todas las comunidades autónomas para concertar reuniones \"de manera inmediata\" y aprobar la reforma antes de que termine el año. Leer"
-  },
-  {
-    "titulo": "Viajes en el tiempo, dinosaurios, Anne Hathaway y Ewan McGregor: mira el loquísimo tráiler de ‘El final de Oak Street’",
-    "medio": "Hipertextual",
-    "fecha": 1780327287.0,
-    "link": "https://hipertextual.com/cine-television/trailer-el-final-de-oak-street-viajes-en-el-tiempo-dinosaurios-anne-hathaway-ewan-mcgregor/",
-    "resumen": "Una de las películas más locas e interesantes del año, El final de Oak Street, acaba de estrenar su nuevo tráiler. La película llegará a los cines en verano y promete un cóctel explosivo de acción, ciencia ficción y terror prehistórico. Porque sí, el filme va a traer de regreso aquel espíritu original de Parque […] Seguir leyendo: Viajes en el tiempo, dinosaurios, Anne Hathaway y Ewan McGregor: mira el loquísimo tráiler de ‘El final de Oak Street’"
   },
   {
     "titulo": "Noruega se suma a la disuasión nuclear francesa y Alemania participará en maniobras en septiembre",
@@ -1015,39 +1022,11 @@
     "resumen": "Olvídate de la seda, de la fragilidad extrema y de los cuerpos que fingen no pesar. Lo que propone Alberto Velasco es una insurrección de la carne que desafía la dictadura de la ligereza. Este espectáculo no es una ocurrencia repentina, sino el resultado de años de un empoderamiento personal que se ha convertido en misión colectiva. Como explica el propio creador, este proyecto nace de una necesidad profunda: «Usar la sensibilidad y belleza de los cuerpos gordos para recodificar los signos del ballet clásico y contemporáneo y glorificarlos». Velasco ha decidido dejar de esperar una llamada que nunca llegaba La entrada El ballet de personas gordas que hackea la danza se publicó primero en Yorokobu."
   },
   {
-    "titulo": "Los tiempos en los que enviar un mísero correo electrónico se consideraba algo sólo digno «de la alta sociedad» (1986)",
-    "medio": "Microsiervos",
-    "fecha": 1780094735.0,
-    "link": "https://www.microsiervos.com/archivo/internet/enviar-correo-electronico-digno-alta-sociedad-1986.html",
-    "resumen": "Es difícil no reírse viendo cómo eran se intercambiaban mensajes con ordenadores hace tan solo cuatro décadas, allá por 1986, antes del wifi, los móviles el roaming. Enviar un texto por correo electrónico de un país a otro requería un ordenador portátil (o «portable», que unos cuantos kilos pesaba), un teléfono público y un acoplador acústico para el módem. En este vídeo de genuina arqueología informática de los archivos de la BBC se puede ver la dramatización del asunto, con una protagonista que escribe un documento durante un vuelo a Ámsterdam y luego intenta enviar el texto a Londres por correo electrónico. Y digo «intenta» con toda la intención, porque fácil no resulta. Nada más bajar del avión no consigue encajar el auricular cuadrado del teléfono en su acoplador acústico redondo (!) No se puede tener a la geometría en contra. Las llamadas internacionales directas eran caras y para colmo poco fiables (eran líneas analógicas con ruido), así que decide usar un servicio local de datos en Holanda conectado a la red internacional de conmutación de paquetes para llegar a Telecom Gold, donde tenía sus buzones la BBC. En todo este proceso ni siquiera usa internet: no aparece una @ por ningún sitio. La llamada costaba 1 florín, que sería algo así como 1 euro hoy en día. Lo malo es que registrarse en el sistema pre-internet holandés para usarlo (que imagino sería parecido al Ibertex español) costaba el equivalente a unos 140 euros actuales… Así que quizá por eso lo de «digno de la alta sociedad» del título. Pero, eso sí, poder enviar mensajes, se podía. El ordenador por cierto tiene pinta de ser un Epson PX-8 Geneva, de 64 KB de RAM con una pantalla LCD de 80 columnas × 8 líneas y microcasetes como almacenamiento externo. Como puede verse no era especialmente ágil, y entre que las comunicaciones iban más lentas que los caracoles y la escasa potencia del ordenador en sí, cuando se transmite el mensaje la glacial velocidad del scroll durante la transmisión permitía leerlo más rápido de lo que se mostraba en pantalla. Relacionados: Hace 30 años así era Ibertex, el videotex en España Un recorrido rápido por la historia del correo electrónico El origen del correo electrónico Un módem acústico de 1964 en acción Detalles relativamente desconocidos sobre el correo electrónico ¿El primer spam? # Enlace Permanente"
-  },
-  {
-    "titulo": "Un cohete New Glenn explota en la plataforma de lanzamiento durante una prueba de encendido de sus motores",
-    "medio": "Microsiervos",
-    "fecha": 1780039800.0,
-    "link": "https://www.microsiervos.com/archivo/espacio/new-glenn-explota-plataforma-lanzamiento-prueba-motores.html",
-    "resumen": "[Anotación en actualización] Un cohete New Glenn de Blue Origin ha explotado hace unas horas durante una prueba de motores en la plataforma del Complejo de lanzamiento 39A de Cabo Cañaveral. No sólo ha resultado destruido el cohete sino que la plataforma también ha sufrido grandes daños. Afortunadamente ninguna persona ha resultado herida. Se trataba de la primera etapa bautizada como No, It’s Necessary, la tercera construida por la empresa, que estaba siendo probada para su lanzamiento inaugural. Dentro de lo malo la segunda etapa, cargada con satélites de la constelación LEO de acceso a Internet de Amazon, no había sido todavía integrada con el resto del cohete, así que no ha sufrido daños. Una vez recibido el permiso por parte de la Administración Federal de Aviación (FAA) para retomar los lanzamientos tras el fallo de la segunda etapa de su anterior lanzamiento la empresa contaba con poder llevar a cabo este lanzamiento, que hubiera sido el cuarto de la carrera del New Glenn, la semana que viene. Pero ahora pasarán meses antes de que pueda hacerlo. Puede que incluso no veamos un nuevo lanzamiento del New Glenn hasta 2027. Por un lado porque tendrá que determinar qué ha fallado y, si es necesario, hacer las modificaciones pertinentes en la primera etapa Never Tell Me The Odds,, que ya ha volado en dos ocasiones, y en las otras dos que tiene en construcción. Por otro, y sobre todo, porque los daños a la plataforma de lanzamiento parecen muy serios: la explosión se ha llevado por delante al menos una de las torres pararrayos y ha dejado seriamente perjudicado el brazo que coloca el cohete en posición vertical. Tardarán meses en repararlos. Es incluso posible que la construcción de la nueva plataforma en la que estaban trabajando termine antes de que la 39A esté reparada. Es un golpe muy duro, pero no sólo para la empresa, que parecía estar cogiendo ritmo con los lanzamientos del New Glenn, sino también para la NASA, que apenas hace un par de días anunciaba que le había otorgado a Blue Origin el lanzamiento del rover VIPER hacia la Luna en 2027 en un aterrizador Blue Moon Mark 1 y el de los dos primeros rovers tripulados, construidos por Lunar Outpost y Astrolab, a la superficie lunar en 2028 en un Blue Moon Mark 2. La idea era que el Blue Moon Mark 1 fuera estrenado ya este mismo año Pero es que además Artemisa III, la próxima misión tripulada del programa lunar de la NASA, tiene como uno de sus objetivos probar en órbita terrestre los aterrizadores lunares tripulados que tanto Blue Origin como SpaceX están construyendo para la agencia. Artemisa III en teoría tiene que ser lanzada a finales de 2027. Aunque hoy por hoy parece cada vez menos probable. Por un lado porque SpaceX aún no ha conseguido ni poner en órbita el Starship, el cohete en el que se basa su aterrizador; por otro, por lo que le acaba de pasar a Blue Origin, que en los últimos meses parecía estar adelantando ligeramente a la empresa de Musk. # Enlace Permanente"
-  },
-  {
     "titulo": "Pollo al aceite de motor: el día que Yorokobu te mintió (por tu propio bien)",
     "medio": "Yorokobu",
     "fecha": 1780035144.0,
     "link": "https://yorokobu.es/pollo-castrol-mentira/",
     "resumen": "Hace unos días escribimos sobre Lautaro Verbe, un chef bonaerense que freía pollo con lubricante industrial. Hoy os confesamos que Lautaro no existe y que nunca hubo aceite Castrol en la sartén. Bienvenidos al experimento de HUMANSDID: si no te comerías un menú sin control sanitario, ¿por qué te tragas una tecnología sin control humano? Aceptémoslo, el titular era demasiado jugoso para dejarlo pasar. «Cocinado con aceite de coche». En Yorokobu sabíamos que, al publicarlo, muchos arquearíais una ceja y otros tantos pondríais el grito en el cielo. Pero lo que no sabíais es que, mientras leíais sobre el cierre La entrada Pollo al aceite de motor: el día que Yorokobu te mintió (por tu propio bien) se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "La presa Hoover, una maravilla de la ingeniería vista en 3D detalle a detalle",
-    "medio": "Microsiervos",
-    "fecha": 1780011585.0,
-    "link": "https://www.microsiervos.com/archivo/ingenieria/presa-hoover-maravilla-ingenieria-3d-detalles.html",
-    "resumen": "La presa Hoover y su central eléctrica (CC)-by Ron Reiring @ Flickr. Aunque se publicó el año pasado, saqué un rato para ver los 66 minutos de este documental animado titulado Cómo funciona la presa Hoover y la verdad es que te deja con la boca abierta. Trata sobre la construcción de esta maravilla de la ingeniería y luego cómo funciona. Construida entre 1931 y 1936 (antes de lo previsto), en plena Gran Depresión, fue la más alta del mundo en su día. Pero ha pasado mucho tiempo y ha sido relegada a los puestos 35 o 40, aunque ahí sigue, casi un siglo después, dando servicio. El documental, al que Jake de Animagraffs dedicó dos meses, es toda una obra de arte en sí mismo, con explicaciones meticulosas y muy claras, a partir de los planos originales y datos del terreno precisos. Me recordó a la construcción de las pirámides por lo bestial del proyecto. El documental incluye explicaciones sobre: Los túneles que se usaron para desviar el río Cómo se excavó en el cañón El hormigón por bloques de la presa, enfriado con tuberías Las torres de toma y las tuberías que guían el agua Cómo el agua que circula se convierte en electricidad Aliviaderos, válvulas y sistemas de control de emergencias Una ingeniería de colosos La escala de la presa sigue dando vértigo, sobre todo viendo el «muñeco» que continuamente se usa como referencia: 221 metros de altura desde la base hasta la parte superior, unos 200 metros de grosor en la base, 15 metros en la parte superior y 2,5 millones de metros cúbicos de hormigón solo en la presa; 3,3 millones sumando otras estructuras auxiliares. La presa es de tipo arco-gravedad, una combinación bastante elegante de fuerza bruta y geometría: por un lado usa su propia masa para resistir el empuje del agua, y por otro se transmite la presión que ejerce hacia las paredes de roca del Cañón Negro en que está enclavada (entre Nevada y Arizona). En la parte superior queda el lago Mead, de unos 35 kilómetros cúbicos de agua, suficientes para almacenar agua, regar 8.000 kilómetros cuadrados y abastecer a ciudades Los Ángeles, Phoenix, Tucson y Las Vegas, entre otras. Aunque no se ven desde fuera en las fotos, se excavaron cuatro enormes túneles para desviar el río antes de empezar, de unos 17 metros de diámetro y casi 5 km de longitud entre todos ellos, con un revestimiento de casi un metro de hormigón. Tamaño «túneles del Metro» grandecitos, vamos. Y otro detalle que tampoco se ve es la intrincada red de tuberías de refrigeración y túneles que hay dentro de la propia presa, que se usan para el mantenimiento y comprobaciones de seguridad. Hay hasta dos ascensores desde la cima de la presa hasta casi la base. Mucha agua para generar mucha energía La generación de electricidad es casi el último paso. En total tiene una potencia instalada de unos 2 GW y genera alrededor de 4.000 millones de kWh al año. El mecanismo es práctico pero a la vez elegante: el agua entra por las torres de toma del embalse, baja por enormes tuberías, aumenta la presión en una espiral y llega a las 17 turbinas (16 originalmente, 8 por cada lado) que hacen girar los ejes. Eso mueve los rotores dentro de los generadores; al girar frente a bobinas fijas, convierten la energía hidráulica del agua en electricidad. Luego el agua sale por los tubos de descarga y vuelve al río, ya domeñada. Seguir leyendo: La presa Hoover, una maravilla de la ingeniería vista en 3D detalle a detalle# Enlace Permanente"
-  },
-  {
-    "titulo": "Siege: un juego de estrategia estilo go, pero en 3D, con cubos y gravedad",
-    "medio": "Microsiervos",
-    "fecha": 1779974027.0,
-    "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/territorios-cubos-enemigos-tablero-estrategia.html",
-    "resumen": "David nos presentó por correo Siege, un juego que ha creado y lanzado hace poco. Entra dentro de la clasificación de los juegos de estrategia abstracta en 3D y es algo que comenzó como una idea hace unos diez años. Primero fue un prototipo físico de madera (!) y acabó como versión digital. Es una especie de Go tridimensional, en cierto modo con toques de Tetris. Funciona en el navegador y también como apps de iOS y Android; gratis, sin anuncios, sin cuentas y sin publicidad. Sus reglas recuerdan un poco a las del go: los jugadores colocan cubos de forma alternativa, los apilan y capturan piezas rivales rodeándolas por varios lados, provocando derrumbes y capturas en cascada cuando las estructuras superiores se quedan sin soporte. El objetivo es dominar la mayor cantidad de piezas del exterior del cubo de 4×4×4. Las reglas se aprenden en apenas 30 segundos, pero el juego tiene bastante más enjundia estratégica de la que parece al principio. Cada cara exterior visible de los cubos suma 1 punto, incluidas las inferiores, así que controlar las esquinas y bordes puede marcar diferencias enormes en la puntuación final. Yo no he conseguido ganar todavía. Pero además de jugar contra una implacable IA también permite partidas locales contra otra persona y enfrentamientos online mediante emparejamiento por algo parecido al ELO (puntuación global estadísticamente elaborada). Ambas versiones (web y app) funcionan de forma muy fluida y todo es fácil de controlar. Todo un entretenimiento a medio camino en el campo de los juegos tipo tres-en-raya… pero de una realidad alternativa. Relacionados: Gridopolis: un juego en 3-D que combina construcción y estrategia # Enlace Permanente"
   },
   {
     "titulo": "RESET o el momento exacto en el que dejamos de ser quienes éramos",
@@ -1057,39 +1036,11 @@
     "resumen": "Algunos gestos no parecen nada hasta que alguien decide mirarlos con suficiente paciencia. Sentarse dentro de un coche mientras entra en un túnel de lavado. Esperar en silencio a que el agua golpee el cristal, a que la espuma borre durante unos segundos la idea de exterior. O permanecer inmóvil mientras alguien te corta el pelo, como si en ese pequeño ritual cotidiano se estuviera jugando algo más serio que la higiene o la estética. Acciones mínimas, repetidas millones de veces cada día, que, sin embargo, contienen una especie de umbral invisible: no son todavía transformación, pero ya han dejado La entrada RESET o el momento exacto en el que dejamos de ser quienes éramos se publicó primero en Yorokobu."
   },
   {
-    "titulo": "Narrativas interactivas: Odyc.js sirve para crear juegos con JavaScript y aprender al mismo tiempo",
-    "medio": "Microsiervos",
-    "fecha": 1779882009.0,
-    "link": "https://www.microsiervos.com/archivo/ordenadores/odyc-narrativas-interactivas-javascript-aprender.html",
-    "resumen": "Odyc.js es una pequeña librería en JavaScript con la que aprender a crear juegos interactivos sencillos, estilo Rogue, con mapas, muñecos, monstruos (sprites), diálogos, sonidos y algunas cosas más. Es como un LEGO minimalista pero para crear aventurillas pixeladas. Incluye una documentación bastante amplia pensada en enseñar a los más jóvenes, así que puede ser un gran recurso para hacer que les pique el gusanillo de crear el próximo superventas de Steam. Estos juegos narrativos retro combinan normalmente personajes con píxeles gordos, sonidos, texto y algo de lógica (ej. llave que abre una puerta). La idea es que un juego entero pueda caber en un único archivo no demasiado grande y funcione con una sola llamada a createGame(). Se puede ver cómo funciona pulsando Crear un juego en la portada, eligiendo uno de los Ejemplos en el menú desplegable y pulsando el botón de Play para ejecutar el código fuente que se ve a la izquierda. Todo se define con código bastante sencillo: sprites, posiciones iniciales, mapas y objetos. Los sprites pueden ser bloques de color o dibujos hechos con caracteres, y cada carácter puede representar uno de hasta 62 colores de la paleta. (¡Ah, qué tiempos en los que una @ era el protagonista y corría perseguido por una Z que era un zombie!!) Odyc incluye 9 tipos de eventos para colisiones, entrada/salida en los mapas, turnos, mensajes y controles para la aparición de todo ello en pantalla, además de acciones para abrir diálogos, mostrar mensajes, lanzar menús, hacer preguntas, reproducir sonidos o terminar la partida. También incluye algunos sonidos generados por procedimientos, diálogos con efectos visuales, tres velocidades, una cámara configurable, y controles de teclado tipo flechas/WASD además de Retorno/Espacio. A ver quién se anima a crear un juego en alguna tarde aburrida. Relacionados: QX82: una librería JavaScript de código abierto para crear juegos con «look retro» Script-8: para crear y compartir juegos retro, de código abierto y programados en JavaScript Cómo programar un juego tipo Serpiente en 4 minutos y medio, a pelo y en JavaScript Pyxel: un motor de juegos inspirado en las retroconsolas Piskel: un editor de sprites para videojuegos a la antigua usanza Codingame: una forma divertida de aprender a programar juegos Un juego que combina puzles 3 ‑D, vóxeles y el aprendizaje de la programación # Enlace Permanente"
-  },
-  {
-    "titulo": "Coral Pixels, un nuevo tipo de letra con píxeles como puños… pero suavizados",
-    "medio": "Microsiervos",
-    "fecha": 1779879807.0,
-    "link": "https://www.microsiervos.com/archivo/arte-y-diseno/coral-pixels-tipo-letra-pixeles-suavizados.html",
-    "resumen": "Me ha gustado Coral Pixels, una tipografía de Tanukizamurai/Takuni Font que combina el aspecto de los viejos tipos de letras vistos en pantallas CRT con la elegancia del suavizado (aliasing) que aportaba un poco de legibilidad a esos tipos de letras con píxeles como puños. La gracia del asunto es esa estética de las tipografías de videojuegos y el arte digital pero llevada un paso más allá: de lejos puede parecer casi texto negro, o ligeramente gris oscuro borroso, pero de cerca es como una nube de puntitos de colores más o menos aleatorios que le dan un efecto visual peculiar a lo que de otro modo sería una fuente pixelada normal. Además, incorpora transparencias para evitar bordes «cortantes» o halos, aunque eso tiene una pega, que es que puede tener menos contraste. Su creador recomienda como apaño invertir los colores o ajustar la visualización de algún modo desde la aplicación. He probado a convertirla a escala de grises y eso también parece que funciona. (Vía Unsung, donde también hablan de Analog Mono y Geist Pixel, que tampoco están mal.) Relacionados: Una colección con las fuentes pixeladas originales de los antiguos PC Tipografías retro de 8 bits: Spectrum, Apple II, Commodore, MSX… La tipografía de un Windows «vintage» La tipografía Teletexto con unas cuantas variantes para páginas retro BitFontMaker2: un editor de fuentes pixeladas a la antigua usanza La historia de las tipografías de los antiguos videojuegos de 8 bits NES.css: para retrotraer el estilo de las páginas web # Enlace Permanente"
-  },
-  {
     "titulo": "Desgaste cognitivo y la tentación de externalizar el pensamiento",
     "medio": "Yorokobu",
     "fecha": 1779861982.0,
     "link": "https://yorokobu.es/desgaste-cognitivo-y-la-tentacion-de-externalizar-el-pensamiento/",
     "resumen": "Hace unos días leí en LinkedIn un texto que reconocí antes incluso de llegar al segundo párrafo. Para los que usamos la inteligencia artificial a diario es sencillo detectar su huella, no por el tema o el autor, sino por la forma. El post en sí tenía esa arquitectura —por desgracia, demasiado familiar— de los textos generados con inteligencia artificial y publicados sin una verdadera intervención humana posterior: frases que se cortan de repente, como si cada línea necesitara sobrevivir sola, una progresión impecable de causa y efecto, saltos de línea forzados, alguna emoción señalizada con un emoji y un La entrada Desgaste cognitivo y la tentación de externalizar el pensamiento se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "Una gran metáfora para entender qué son y cómo usamos los números imaginarios, como √-1",
-    "medio": "Microsiervos",
-    "fecha": 1779838488.0,
-    "link": "https://www.microsiervos.com/archivo/matematicas/gran-metafora-numeros-imaginarios.html",
-    "resumen": "Estaba hoy viendo Las matemáticas como nunca antes te las han contado en el siempre infravalorado canal de Mensa España, cuando me llamó muchísimo la explicación que hace Rubén Pérez sobre los números imaginarios. Se puede ver a partir de 26:00, tras explicar que con los números naturales, enteros, racionales, irracionales y trascendentes ya se puede llenar la llamada «recta real». Los números imaginarios como √-1: (raíz cuadrada de -1, como solución a la ecuación x² = -1) ya no «caben» en la recta real. Así que para representarlos hace falta lo que los matemáticos llaman plano complejo y a los legos les suena a WTF. Suele usarse un eje horizontal para la parte real y otro vertical para la imaginaria. Esto ya suena rarito al oírlo, pero lo cierto es que en el MundoReal™ usamos los números imaginarios cotidianamente: para calcular datos de la corriente eléctrica, en la ecuación de Schrödinger, en telecomunicaciones, al conectarnos al wifi, al recrear ondas de audio con la transformada de Fourier… Pero ¿cómo podemos usarlos si son tan abstractos y difíciles de concebir? ¿Si no son como los números naturales que podemos asociar con algo del tipo «dos manzanas, tres manzanas, cinco manzanas»…? ¿O como los racionales («media manzana») o negativos («me deben una manzana»)? ¿O incluso como los irracionales y transcendentes como π o e, que podemos también medir? La metáfora clave que se usa en el vídeo es considerarlos como lo que vemos en el plano de un espejo. Lo que vemos al mirar el espejo tampoco es «real»: somos nosotros, hay uno de nosotros, y dos ojos, y quizá tenemos media galleta en la mano… pero en realidad es todo un efecto óptico de reflexión de la luz (de hecho «en 3D» aunque el espejo sea 2D). Pero la imagen del espejo conserva tantas propiedades de la realidad que podemos incluso usarlos para peinarnos, maquillarnos o admirar la belleza y que lo que hagamos en ellos afecte a lo que sucede con nosotros mismos en el plano real. El resultado de »operar» en el espejo es como cuando operamos con números imaginarios. Y si luego «bajamos» al MundoReal™, queda algo tangible. El resto de la charla (cuaterniones incluidos) es también interesante, y tiene un nivel divulgativo aunque con acertados dardos instructivos que van directos a la diana, que puede que ya conozca quien lo vea según lo poco o mucho que le gusten las matemáticas. Merece la pena echar un rato con él; seguro que aprendes más en esos 70 minutos que viendo 280 reels de TikTok, que más bien son como -70 minutos de vida. Relacionado: Los números imaginarios Una introducción visual interactiva a la Transformada rápida de Fourier, una de las mejores ideas matemáticas de la historia Cómo teletransportar al gato de Schrödinger He aquí los números # Enlace Permanente"
-  },
-  {
-    "titulo": "Diales personalizados",
-    "medio": "Microsiervos",
-    "fecha": 1779835875.0,
-    "link": "https://www.microsiervos.com/archivo/arte-y-diseno/diales-personalizados.html",
-    "resumen": "Dials es una herramienta absurdamente específica, con un único objetivo y muchas opciones: generar diales y relojes analógicos vectoriales, donde se puede ajustar prácticamente todo. Una vez comienzas a explorarlo puedes ver su potencia, y jugar con los diferentes valores un buen rato. Con los diversos ajustes se pueden crear velocímetros, indicadores, paneles retro o interfaces tipo NASA totalmente personalizados. Igual te sirve hasta para algún proyecto maker. Entre otras cosas se puede cambiar el ángulo del arco (ej. 220°), el rango de valores (digamos, 0-160), las subdivisiones entre marcas o el grosor… Pero eso no es todo, hay detalles casi enfermizos, como los radios de las esquinas redondeadas, si los números van dentro o fuera del dial, si hay puntitos centrales… y me dejo más de la mitad. Una vez listo, se puede exportar en PNG o SVG, a varios tamaños y para mayor simplicidad las configuraciones se guardan en la propia URL. El sueño de cualquier diseñador industrial, maker, amante de las interfaces de coches imposibles o para quien haya dedicado demasiadas horas a mirar cuadros de mando en videojuegos, simuladores y cacharros electrónicos. Relacionados: Fffuel tiene decenas de herramientas para crear paletas de color Haikei: un generador de fondos de pantalla, patrones y diseños SequenceDiagram.org para generar diagramas de secuencias Diagrams.net facilita la creación de diagramas de todo tipo Mapas punteados Un generador de mapas pixelados (y otras virguerías) Un generador de mapas del mundo vectoriales Penrose, una forma matemática y bella de crear diagramas Polygonia: diseño de teselaciones y patrones geométricos # Enlace Permanente"
   },
   {
     "titulo": ".st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} ‘Rock the Casbah’, de The Clash: la banda sonora de los bombardeos, muy a su pesar",
