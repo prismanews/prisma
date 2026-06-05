@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 19 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1780635727">
+    <link rel="stylesheet" href="prisma.css?v=1780655712">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>19 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 19 medios · <time datetime="2026-06-05T05:02:07.006704">Actualizado: 05/06/2026 05:02</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-06-05T10:35:12.049378">Actualizado: 05/06/2026 10:35</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -135,12 +135,14 @@
             <select id="filtro-medio">
                 <option value="todos">Todos los medios</option>
                 <option value="ABC">ABC</option>
+                <option value="Applesfera">Applesfera</option>
                 <option value="El Español">El Español</option>
                 <option value="El Independiente">El Independiente</option>
                 <option value="El Mundo">El Mundo</option>
                 <option value="El País">El País</option>
                 <option value="Europa Press">Europa Press</option>
                 <option value="Expansión">Expansión</option>
+                <option value="Genbeta">Genbeta</option>
                 <option value="Hipertextual">Hipertextual</option>
                 <option value="HuffPost">HuffPost</option>
                 <option value="Infolibre">Infolibre</option>
@@ -150,139 +152,20 @@
                 <option value="Moncloa.com">Moncloa.com</option>
                 <option value="OK Diario">OK Diario</option>
                 <option value="The Objective">The Objective</option>
+                <option value="Trendencias">Trendencias</option>
                 <option value="Verne">Verne</option>
+                <option value="Xataka">Xataka</option>
                 <option value="Yorokobu">Yorokobu</option>
                 <option value="eldiario.es">eldiario.es</option>
             </select>
         </div>
 
-        <div class="card" data-medios="Infolibre,Verne,Europa Press">
-            <h2>Portada: León, visita y papa</h2>
+        <div class="card" data-medios="OK Diario,Infolibre,El País,eldiario.es,HuffPost,Europa Press,El Español">
+            <h2>Hoy: Nunca, sánchez y leire</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/ideas-propias/leon-xiv-espana-encuentros-desencuentros_129_2203782.html" target="_blank" rel="noopener">León XIV en España: encuentros y desencuentros</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/sociedad/noticia-papa-leon-xiv-llega-sabado-espana-15-anos-visita-papa-sera-primero-hablar-parlamento-20260604173251.html" target="_blank" rel="noopener">León XIV llega este sábado a España tras 15 años sin visita de un Papa y será el primero en hablar al Parlamento</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/sociedad/noticia-mapa-visita-papa-espana-2026-recorrido-completo-ciudades-buscador-actos-20260604121222.html" target="_blank" rel="noopener">Mapa de la visita del Papa a España en 2026: recorrido completo, ciudades y buscador de actos</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 1 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Verne:</strong> <a href="https://verne.elpais.com/verne/2021/03/01/articulo/1614584363_382946.html" target="_blank" rel="noopener">Así ha cambiado España desde los primeros censos del siglo XVIII</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="Moncloa.com,HuffPost,Europa Press">
-            <h2>En foco: Lección, italia y amplía</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 45%;"></div>
-                    <div class="barra-conservadora" style="width: 55%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 45%</span>
-                    <span>Conservador 55%</span>
-                </div>
-            </div>
-
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/sociedad/espana-le-da-leccion-italia-amplia-liderato-numero-playas-bandera-azul-privatizar-costa-forma-masiva-f202606.html" target="_blank" rel="noopener">España le da una lección a Italia: amplía su liderato en número de playas con Bandera Azul sin privatizar la costa de forma masiva</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/deportes/futbol/mundial-00639/noticia-espana-distinta-mundial-empata-irak-20260604231348.html" target="_blank" rel="noopener">Una España distinta a la del Mundial empata con Irak</a></p>
-
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/06/04/ayuso-cloaca-espinar-asamblea-madrid-3382265/" target="_blank" rel="noopener">Ayuso acusa a Mar Espinar de ser «la representante de la cloaca» en la Asamblea de Madrid</a></p>
-        </div>
-
-        <div class="card" data-medios="El Independiente,OK Diario">
-            <h2>Relevante: Impulsa, ambiental y veolia</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 51%;"></div>
-                    <div class="barra-conservadora" style="width: 49%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 51%</span>
-                    <span>Conservador 49%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/okgreen/veolia-impulsa-seguridad-ambiental-generaciones-futuras-17134953" target="_blank" rel="noopener">Veolia impulsa la seguridad ambiental para las generaciones futuras</a></p>
-
-            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/sociedad/educacion/2026/06/04/la-junta-impulsa-la-educacion-ambiental-en-mas-de-340-centros-andaluces-con-motivo-del-dia-mundial-del-medio-ambiente/" target="_blank" rel="noopener">La Junta impulsa la educación ambiental en más de 340 centros andaluces con motivo del Día Mundial del Medio Ambiente</a></p>
-        </div>
-
-        <div class="card" data-medios="La Vanguardia,Infolibre">
-            <h2>Tema: Contra, medioambiente y pasado</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/plaza-publica/medioambiente_129_2201787.html" target="_blank" rel="noopener">Contra el medioambiente</a></p>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/opinion/20260605/11556126/pasado-pereza.html" target="_blank" rel="noopener">El pasado como pereza</a></p>
-        </div>
-
-        <div class="card" data-medios="eldiario.es">
-            <h2>En foco: Fresco, este y aire</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
-                enfoque directo
+                7 medios · tono equilibrado · 
+                múltiples perspectivas, amplia cobertura mediática
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -299,17 +182,34 @@
                 </div>
             </div>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/sociedad/el-tiempo/aire-fresco-extiende-espana-caidas-diez-grados-peninsular-pm_1_13274820.html" target="_blank" rel="noopener">El aire más fresco se extiende por España con caídas de más de diez grados en el este peninsular</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-sanchez-desvincula-completo-andanzas-leire-diez-nunca-hubiera-tolerado-20260605123351.html" target="_blank" rel="noopener">Sánchez se desvincula por completo de "las andanzas" de Leire Díez: "Nunca las hubiera tolerado"</a></p>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/madrid/somos/viernes-fresco-madrid-nueva-subida-temperaturas-semana-pm_1_13277056.html" target="_blank" rel="noopener">Viernes más ‘fresco’ en Madrid antes de una nueva subida de temperaturas este fin de semana</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/politica/20260605/pedro-sanchez-nunca-conocido-informado-andanzas-leire-tolerado/1003744275079_0.html" target="_blank" rel="noopener">Sánchez: "Nunca he conocido ni fui informado de las andanzas de la señora Leire Díez. Nunca las hubiera tolerado"</a></p>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/sanchez-tira-manual-esquivar-cloaca-nunca-he-conocido-ni-informado-andanzas-leire-diez-17856344" target="_blank" rel="noopener">Sánchez tira de manual para esquivar la cloaca: «Nunca he conocido ni se me ha informado de las andanzas de Leire Díez»</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 4 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El País:</strong> <a href="https://elpais.com/espana/2026-06-05/ultima-hora-de-la-actualidad-politica-en-directo.html" target="_blank" rel="noopener">Última hora de la actualidad política, en directo | Sánchez : “Nunca se me ha informado de las andanzas de la señora Díez porque nunca las hubiese tolerado”</a></p>
+
+                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/sanchez-caso-leire-avale-tuve-informacion-no-hubiera-tolerado_1_2204416.html" target="_blank" rel="noopener">Sánchez, sobre el 'caso Leire': "Nunca avalé ni nunca tuve información de algo que no hubiera tolerado"</a></p>
+
+                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/politica/sanchez-desvincula-maniobras-leire-diez-avale-tuve-informacion-hubiera-tolerado_1_13278228.html" target="_blank" rel="noopener">Sánchez se desvincula de las maniobras de Leire Díez: "Ni lo avalé ni tuve información. Nunca lo hubiera tolerado"</a></p>
+
+                    <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/sanchez-nunca-he-conocido-me-informo-sobre-andanzas-leire-diez-f202606.html" target="_blank" rel="noopener">Sánchez: "Nunca he conocido ni se me informó sobre las andanzas de Leire Díez"</a></p>
+
+                </div>
+            </details>
         </div>
 
-        <div class="card" data-medios="eldiario.es,El País">
-            <h2>En foco: Jóvenes, riesgo y pobreza</h2>
+        <div class="card" data-medios="OK Diario,La Vanguardia,El Mundo,Europa Press,El Español">
+            <h2>En foco: Directora, guardia y civil</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
+                5 medios · tono equilibrado · 
+                múltiples perspectivas
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -317,22 +217,75 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/economia/vivienda/2026-06-05/los-jovenes-que-asumen-todos-los-gastos-del-hogar-corren-el-riesgo-de-caer-en-situacion-de-pobreza.html" target="_blank" rel="noopener">Los jóvenes que asumen todos los gastos del hogar corren el riesgo de caer en situación de pobreza, según un informe del BBVA</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/guardias-civiles-estallan-directora-general-tiene-que-cumplir-valores-eticos-benemerita-17840150" target="_blank" rel="noopener">Los guardias civiles estallan: «La directora general tiene que cumplir con los valores éticos de la Benemérita»</a></p>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/economia/gasto-vivienda-lleva-tres-jovenes-riesgo-pobreza_1_13276605.html" target="_blank" rel="noopener">El gasto en vivienda lleva a uno de cada tres jóvenes a estar en riesgo de pobreza</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/06/05/6a229ffc21efa050068b45a8.html" target="_blank" rel="noopener">Sánchez dice que no sabía nada de las cloacas que impulsó su lugarteniente Cerdán y mantiene la confianza en la directora de la Guardia Civil</a></p>
+
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/politica/20260605/pp-cita-directora-guardia-civil-senado-proxima-semana-no-debe-seguir-segundo/1003744274898_0.html" target="_blank" rel="noopener">El PP cita a la directora de la Guardia Civil en el Senado la próxima semana: "No debe seguir ni un segundo más"</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 3 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/andalucia/noticia-maillo-pide-psoe-responsabilidades-caso-leire-cese-directora-guardia-civil-si-mentido-20260605111407.html" target="_blank" rel="noopener">Maíllo pide al PSOE responsabilidades tras el 'caso Leire' y el cese de la directora de la Guardia Civil "si ha mentido"</a></p>
+
+                    <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/politica/20260605/11556787/pp-citara-directora-guardia-civil-senado-caso-leire.html" target="_blank" rel="noopener">El PP citará a la directora de la Guardia Civil en el Senado por el caso Leire</a></p>
+
+                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-marlaska-respalda-directora-guardia-civil-no-tuvo-ningun-contacto-leire-relativo-trama-repugna-20260605102042.html" target="_blank" rel="noopener">Marlaska respalda a la directora de Guardia Civil: "No tuvo ningún contacto con Leire relativo a una trama que repugna"</a></p>
+
+                </div>
+            </details>
         </div>
 
-        <div class="card" data-medios="El Español,Europa Press">
-            <h2>Tema: Leire, reuniones y directora</h2>
+        <div class="card" data-medios="Europa Press,Infolibre,Verne,HuffPost">
+            <h2>Hoy: León, visita y papa</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/virales/ramon-espinar-aprovecha-visita-papa-leon-xiv-destacar-encrucijada-vive-espana-f202606.html" target="_blank" rel="noopener">Ramón Espinar aprovecha la visita del papa León XIV para destacar la "encrucijada" que se vive en España</a></p>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/ideas-propias/leon-xiv-espana-encuentros-desencuentros_129_2203782.html" target="_blank" rel="noopener">León XIV en España: encuentros y desencuentros</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/sociedad/noticia-papa-leon-xiv-llega-sabado-espana-15-anos-visita-papa-sera-primero-hablar-parlamento-20260604173251.html" target="_blank" rel="noopener">León XIV llega este sábado a España tras 15 años sin visita de un Papa y será el primero en hablar al Parlamento</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Verne:</strong> <a href="https://verne.elpais.com/verne/2021/03/01/articulo/1614584363_382946.html" target="_blank" rel="noopener">Así ha cambiado España desde los primeros censos del siglo XVIII</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="HuffPost,El Mundo">
+            <h2>Tema: Consejero, ayuso y calor</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -353,13 +306,13 @@
                 </div>
             </div>
 
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/politica/20260605/mentiras-leire-juez-dijo-no-cobro-psoe-nego-reuniones-cerdan-directora-guardia-civil/1003744274271_0.html" target="_blank" rel="noopener">Las 12 mentiras de Leire ante el juez: dijo que no cobró del PSOE y negó reuniones con Cerdán y la directora de la Guardia Civil</a></p>
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/lo-estabamos-esperando-llegado-esto-dice-oscar-puente-sobre-consejero-ayuso-frivolizo-sobre-calor-soportannos-madrilenos-aulas-f202606.html" target="_blank" rel="noopener">Lo estábamos esperando y ha llegado: esto dice Óscar Puente sobre el consejero de Ayuso que frivolizó sobre el calor que soportan los niños madrileños en las aulas</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-directora-guardia-civil-reconoce-reuniones-leire-diez-dice-jamas-perjudicar-uco-20260604222913.html" target="_blank" rel="noopener">La directora de la Guardia Civil reconoce reuniones con Leire Díez pero dice que "jamás" para perjudicar a la UCO</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/madrid/2026/06/05/6a229f9321efa0231c8b457e.html" target="_blank" rel="noopener">La izquierda y los sindicatos cargan contra el consejero de Cultura de Ayuso por trivializar sobre el calor en las aulas: "Nuestros niños se abrasan"</a></p>
         </div>
 
-        <div class="card" data-medios="El Español,El Mundo">
-            <h2>En foco: Eeuu, irán y congreso</h2>
+        <div class="card" data-medios="El Español,The Objective">
+            <h2>Hoy: Psoe, caso y leire</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -371,22 +324,22 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 48%;"></div>
-                    <div class="barra-conservadora" style="width: 52%;"></div>
+                    <div class="barra-progresista" style="width: 50%;"></div>
+                    <div class="barra-conservadora" style="width: 50%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 48%</span>
-                    <span>Conservador 52%</span>
+                    <span>Progresista 50%</span>
+                    <span>Conservador 50%</span>
                 </div>
             </div>
 
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/america/eeuu/20260605/congreso-eeuu-empuja-trump-retirarse-iran-netanyahu-erosiona-tregua-ofensiva-total-libano/1003744273965_0.html" target="_blank" rel="noopener">El Congreso de EEUU empuja a Trump a retirarse de Irán pero Netanyahu erosiona la tregua con su ofensiva total en Líbano</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/politica/2026-06-05/maillo-psoe-responsabilidades-caso-leire/" target="_blank" rel="noopener">Maíllo exige al PSOE que asuma responsabilidades tras el ‘caso Leire’</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/06/05/6a21bfb6e4d4d85c018b45a5.html" target="_blank" rel="noopener">Irán juega con el reloj de EEUU: apuesta al desgaste</a></p>
+            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/tribunales/20260605/psoe-pierde-auditor-ultimos-anos-plena-investigacion-uco-caso-leire/1003744274851_0.html" target="_blank" rel="noopener">El PSOE pierde al auditor de sus cuentas de los últimos cinco años en plena investigación de la UCO del 'caso Leire'</a></p>
         </div>
 
-        <div class="card" data-medios="Expansión,Europa Press">
-            <h2>En foco: Eeuu, sanciones y presidente</h2>
+        <div class="card" data-medios="The Objective,eldiario.es">
+            <h2>Relevante: Cerdán, acusa y personas</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -394,22 +347,22 @@
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
+                    <div class="barra-progresista" style="width: 51%;"></div>
+                    <div class="barra-conservadora" style="width: 49%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
+                    <span>Progresista 51%</span>
+                    <span>Conservador 49%</span>
                 </div>
             </div>
 
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/latinoamerica/2026/06/05/6a2212b0468aeb30138b4570.html" target="_blank" rel="noopener">EEUU impone sanciones financieras al presidente de Cuba y a un hijo de Raúl Castro</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/espana/tribunales/2026-06-05/cerdan-uco-personas-estado/" target="_blank" rel="noopener">Cerdán acusa a la UCO de «destruir» personas que parte «del Estado percibe como molestos»</a></p>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-eeuu-emite-sanciones-contra-presidente-cuba-miguel-diaz-canel-20260604224635.html" target="_blank" rel="noopener">EEUU emite sanciones contra el presidente de Cuba, Miguel Díaz-Canel</a></p>
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/politica/santos-cerdan-niega-implicacion-caso-leire-acusa-uco-destrozar-personas_1_13277968.html" target="_blank" rel="noopener">Santos Cerdán niega su implicación en el ‘caso Leire’ y acusa a la UCO de "destrozar personas"</a></p>
         </div>
 
         <div class="cta-section">
