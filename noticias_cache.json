@@ -1,17 +1,171 @@
 [
   {
-    "titulo": "La última hora del viaje del Papa a España, en directo | Comienza la adoración eucarística de León XIV junto al Bernabéu",
+    "titulo": "El Papa irrumpe en el debate político español con un claro alegato contra la polarización y la ultraderecha",
+    "medio": "El País",
+    "fecha": 1780781585.0,
+    "link": "https://elpais.com/espana/2026-06-06/el-papa-irrumpe-en-el-debate-politico-espanol-con-un-claro-alegato-contra-la-polarizacion-y-la-ultraderecha.html",
+    "resumen": "El primer día de León XIV en Madrid comienza con un discurso que refuerza su figura de líder moral contra el populismo, sigue en un centro de inmigrantes y culmina en un acto con 500.000 personas"
+  },
+  {
+    "titulo": "El Real Madrid cae ante La Laguna Tenerife y se queda fuera de las semifinales de la Liga ACB 18 años después",
+    "medio": "El País",
+    "fecha": 1780781182.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-06-06/la-laguna-tenerife-elimina-al-real-madrid-y-se-mete-en-las-semifinales-de-la-liga-acb.html",
+    "resumen": "El Barça de Xavi Pascual se deshace del UCAM Murcia y se medirá ante el equipo canario en la siguiente ronda"
+  },
+  {
+    "titulo": "Un ineficaz Castellón no puede con el Almería y el pase a la final del ‘playoff’ de ascenso se decidirá en la vuelta",
+    "medio": "El País",
+    "fecha": 1780780466.0,
+    "link": "https://elpais.com/deportes/futbol/2026-06-06/un-ineficaz-castellon-no-puede-con-el-almeria-y-el-pase-a-la-final-del-playoff-de-ascenso-se-decidira-en-la-vuelta.html",
+    "resumen": "El equipo de Pablo Hernández supera en juego y ocasiones al de Rubi, pero la efectividad de los rojiblancos deja un empate por resolver en tierras andaluzas"
+  },
+  {
+    "titulo": "Primer día de León XVI en España: Pide acabar con la polarización y alienta a los jóvenes a \"cambiar la historia\"",
+    "medio": "Europa Press",
+    "fecha": 1780779951.0,
+    "link": "https://www.europapress.es/sociedad/noticia-papa-primer-dia-leon-xvi-espana-pide-acabar-polarizacion-alienta-jovenes-cambiar-historia-20260606230551.html",
+    "resumen": "El Rey alude por primera vez a los abusos en la Iglesia y la calle inventa un lema para el Pontífice: \"Papa León, te queremos un montón\""
+  },
+  {
+    "titulo": "La vigilia de jóvenes de León XIV junto al Bernabéu, en imágenes",
     "medio": "The Objective",
-    "fecha": 1780775747.0,
+    "fecha": 1780779839.0,
+    "link": "https://theobjective.com/galerias/sociedad/2026-06-06/vigilia-jovenes-leon-xiv-bernabeu-imagenes/",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Almería sale vivo ante el Castellón y el pase a la final por el ascenso se decidirá en la vuelta",
+    "medio": "OK Diario",
+    "fecha": 1780779300.0,
+    "link": "https://okdiario.com/deportes/almeria-sale-vivo-castellon-pase-final-ascenso-decidira-vuelta-17933390",
+    "resumen": "El Almería salió vivo del Castalia. Los de Rubi tuvieron un partido muy complicado ante el Castellón en la ida de semifinales del play off de ascenso a Primera División, que se saldó con un empate que vale oro para el conjunto almeriense. Los locales se adelantaron al borde del descanso gracias al gol de … Continuar leyendo \"El Almería sale vivo ante el Castellón y el pase a la final por el ascenso se decidirá en la vuelta\""
+  },
+  {
+    "titulo": "El Leyma Coruña y el Estudiantes jugarán la final del ‘playoff’ de ascenso a la Liga Endesa",
+    "medio": "El País",
+    "fecha": 1780779170.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-06-06/el-leyma-coruna-y-el-estudiantes-jugaran-la-final-del-playoff-de-ascenso-a-la-liga-endesa.html",
+    "resumen": "Los anfitriones de la Final Four se imponen al Palencia (92-81) y el cuadro colegial supera en la segunda semifinal al Oviedo (79-71)"
+  },
+  {
+    "titulo": "Debacle del Real Madrid y exhibición del Barça en una jornada histórica para el Tenerife",
+    "medio": "La Vanguardia",
+    "fecha": 1780779167.0,
+    "link": "https://www.lavanguardia.com/deportes/baloncesto/20260606/11558195/real-madrid-barca-playoffs-liga-endesa-tenerife.html",
+    "resumen": "El Tenerife dio una campanada histórica eliminando a los de Scariolo en cuartos de final"
+  },
+  {
+    "titulo": "Medio millón de personas arropa al Papa León XIV durante la Vigilia de oración en la Plaza de Lima",
+    "medio": "OK Diario",
+    "fecha": 1780779094.0,
+    "link": "https://okdiario.com/espana/medio-millon-personas-arropan-papa-leon-xiv-durante-vigilia-oracion-plaza-lima-17933435",
+    "resumen": "Más de medio millón de personas han acudido a arropar al Papa León XIV durante la Vigilia de oración con jóvenes que se celebra la noche de este sábado en la Plaza de Lima de Madrid. La organización informó de que 240.000 personas se habían inscrito al evento, uno de los momentos más destacados de … Continuar leyendo \"Medio millón de personas arropa al Papa León XIV durante la Vigilia de oración en la Plaza de Lima\""
+  },
+  {
+    "titulo": "Feijóo pide a los peruanos en España que voten a Keiko Fujimori en la segunda vuelta de las elecciones de Perú",
+    "medio": "Europa Press",
+    "fecha": 1780778502.0,
+    "link": "https://www.europapress.es/nacional/noticia-feijoo-pide-peruanos-espana-voten-keiko-fujimori-segunda-vuelta-elecciones-peru-20260606224142.html",
+    "resumen": "El presidente del Partido Popular, Alberto Núñez Feijóo, ha pedido este sábado a los peruanos que residen en España que respalden con su voto a la candidata Keiko Fujimori en la segunda vuelta de las elecciones presidenciales de Perú, que se celebran este domingo 7 de junio."
+  },
+  {
+    "titulo": "La última hora del viaje del Papa a España, en directo | Silencio y emoción en la vigilia de León XIV en Madrid: «No tengáis miedo de crear una familia»",
+    "medio": "The Objective",
+    "fecha": 1780778211.0,
     "link": "https://theobjective.com/sociedad/2026-06-06/papa-leon-xiv-espana-directo/directo/",
     "resumen": ""
   },
   {
-    "titulo": "Visita del papa León XIV, en directo | El Papa dice a los jóvenes en la plaza de Lima: “Muchas cosas en las redes nos engañan, buscad siempre la verdad. Dios es verdad”",
+    "titulo": "Román, vibrante Puerta Grande con un victorino de bandera",
     "medio": "El País",
-    "fecha": 1780775607.0,
-    "link": "https://elpais.com/espana/2026-06-06/visita-del-papa-leon-xiv-a-espana-en-directo.html",
-    "resumen": "Llama a la juventud a ser “chispa de una humanidad nueva” frente a “la violencia de la guerra y de la mentira” | El Pontífice advierte contra las “ideologías mundanas” y “las conclusiones engañosas”"
+    "fecha": 1780777302.0,
+    "link": "https://elpais.com/cultura/2026-06-06/roman-vibrante-puerta-grande-con-un-victorino-de-bandera.html",
+    "resumen": "El torero valenciano protagoniza una apasionante e imperfecta faena a un toro muy encastado, codicioso y exigente; Morenito de Aranda y Fernando Adrián, por debajo de toros nobles y sosos"
+  },
+  {
+    "titulo": "Olivia Rodrigo se adueña de la tercera jornada del Primavera Sound",
+    "medio": "El Mundo",
+    "fecha": 1780776960.0,
+    "link": "https://www.elmundo.es/cultura/musica/2026/06/06/6a247de9e9cf4a70668b4578.html",
+    "resumen": "La organización ha contabilizado en esta edición un total de 287.000 asistentes Leer"
+  },
+  {
+    "titulo": "Una campaña entre los trucos de Pedro Sánchez y el 'trumpismo': \"Florentino va a unas elecciones ganadas pero ha puesto en el mapa a un antagonista\"",
+    "medio": "El Mundo",
+    "fecha": 1780776343.0,
+    "link": "https://www.elmundo.es/deportes/futbol/2026/06/06/6a23f9befdddff8b6a8b4573.html",
+    "resumen": "Terminan 14 días de campaña electoral, un proceso que el Real Madrid no había vivido en los últimos 20 años y que ahora es analizado por expertos en Comunicación Política Leer"
+  },
+  {
+    "titulo": "Recorrido del Papa León XIV en Madrid, en directo hoy: Plaza de Lima en vivo, dónde ver, agenda, horarios, recorrido y calles cortadas en tiempo real",
+    "medio": "OK Diario",
+    "fecha": 1780776279.0,
+    "link": "https://okdiario.com/espana/visita-del-papa-leon-xiv-madrid-directo-que-hora-llega-agenda-horarios-recorrido-calles-cortadas-hoy-vivo-17889583",
+    "resumen": "La llegada del Papa León XIV a Madrid hoy sábado 6 de junio marca un acontecimiento excepcional para la Iglesia católica y para España. Es la primera visita de un Pontífice al país en los últimos 15 años, desde el viaje realizado por Benedicto XVI en 2011. La expectación es máxima ante una agenda que … Continuar leyendo \"Recorrido del Papa León XIV en Madrid, en directo hoy: Plaza de Lima en vivo, dónde ver, agenda, horarios, recorrido y calles cortadas en tiempo real\""
+  },
+  {
+    "titulo": "La rotura de una catenaria paraliza la alta velocidad entre Gerona y Barcelona",
+    "medio": "OK Diario",
+    "fecha": 1780776186.0,
+    "link": "https://okdiario.com/espana/averia-ave-rotura-catenaria-paraliza-alta-velocidad-gerona-barcelona-17933294",
+    "resumen": "El caos ferroviario se ha vuelto a desatar la tarde de este sábado a causa de una nueva avería provocada por la gestión del ministro de Transportes, Óscar Puente. La rotura de una catenaria ha provocado la avería de un AVE que cubría la ruta entre Figueras y Madrid la tarde de este sábado. El suceso … Continuar leyendo \"La rotura de una catenaria paraliza la alta velocidad entre Gerona y Barcelona\""
+  },
+  {
+    "titulo": "El Papa advierte a los jóvenes en la Vigilia: “Muchas cosas en las redes nos engañan. Buscad siempre la verdad\"",
+    "medio": "El Español",
+    "fecha": 1780776179.0,
+    "link": "https://www.elespanol.com/madrid/sociedad/20260606/papa-advierte-jovenes-vigilia-muchas-cosas-redes-enganan-buscad-siempre-verdad/1003744276519_0.html",
+    "resumen": "León XIV también les confió la \"misión\" de \"ser humanos\" y misioneros del Evangelio ante las \"pobrezas materiales y espirituales de nuestro tiempo\".Más información: Don Josepe, el profesor que 'dejó' el Opus para dedicarse 100% a liderar Hakuna, el grupo con medio millón de fieles"
+  },
+  {
+    "titulo": "Éste es el momento en que Sánchez y Begoña se suben al Falcon para irse al Primavera Sound",
+    "medio": "OK Diario",
+    "fecha": 1780776173.0,
+    "link": "https://okdiario.com/espana/okdiario-caza-pedro-sanchez-begona-gomez-subiendo-falcon-irse-primavera-sound-17933291",
+    "resumen": "Pedro Sánchez ha viajado en la tarde de este sábado 6 de junio a Barcelona para asistir, junto a su mujer, la tetraprocesada Begoña Gómez, a un concierto de uno de sus grupos de música favoritos, Gorillaz, en el festival Primavera Sound. Pedro Sánchez llegaba al aeródromo de la base aérea de Torrejón de Ardoz … Continuar leyendo \"Éste es el momento en que Sánchez y Begoña se suben al Falcon para irse al Primavera Sound\""
+  },
+  {
+    "titulo": "Sánchez y Begoña llegan al Primavera Sound escoltados por 7 coches, 2 furgonetas, una patrulla de los Mossos y un helicóptero",
+    "medio": "OK Diario",
+    "fecha": 1780776170.0,
+    "link": "https://okdiario.com/espana/sanchez-llega-primavera-sound-escoltado-comitiva-7-coches-2-furgonetas-patrulla-mossos-helicoptero-17933323",
+    "resumen": "Pedro Sánchez y su mujer, Begoña Gómez, fueron recibidos por una enorme comitiva de escoltas para llevarle de concierto al festival Primavera Sound tras aterrizar en Barcelona, donde llegó en Falcon desde Torrejón de Ardoz. El dispositivo movilizado para acompañar al presidente y a su mujer a una noche de conciertos en Barcelona fue el … Continuar leyendo \"Sánchez y Begoña llegan al Primavera Sound escoltados por 7 coches, 2 furgonetas, una patrulla de los Mossos y un helicóptero\""
+  },
+  {
+    "titulo": "Promo de Verano de AliExpress: las súper ofertas que triunfan hoy con precios increíbles",
+    "medio": "La Vanguardia",
+    "fecha": 1780776101.0,
+    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260606/11556777/promo-verano-aliexpress-super-ofertas-triunfan-hoy-precios-mkt-alie.html",
+    "resumen": "Hasta el 10 de junio puedes aprovechar la Promo de Verano de AliExpress, con descuentos colosales en dispositivos de las marcas más buscadas. ¡Echa un vistazo y date un capricho ahora que llega el buen tiempo!"
+  },
+  {
+    "titulo": "Román se encuentra con el Papa y habla con Dios en Las Ventas",
+    "medio": "El Mundo",
+    "fecha": 1780775960.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/06/06/6a242a16fdddffdc1f8b457d.html",
+    "resumen": "Espléndida Puerta Grande para el torero valenciano por una emotiva faena con el toro más destacado de una corrida de Victorino en tierra de nadie Leer"
+  },
+  {
+    "titulo": "Erin, estadounidense de 48 años en Valencia, sobre su nueva vida en España: \"Nunca me he sentido más a gusto. Aquí todo es relajado\"",
+    "medio": "HuffPost",
+    "fecha": 1780775958.0,
+    "link": "https://www.huffingtonpost.es/sociedad/erin-estadounidense-48nos-valencia-sobre-nueva-vida-espana-nunca-me-he-sentido-mas-gusto-aqui-relajado-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El enigma de las nubes noctilucentes: brillan de azul eléctrico al borde del espacio, a 80 kilómetros de altura, y nadie las vio antes de 1885",
+    "medio": "HuffPost",
+    "fecha": 1780775912.0,
+    "link": "https://www.huffingtonpost.es/sociedad/el-enigma-nubesnoctilucentes-brillan-azulectrico-borde-espacio-80-kilometros-altura-nadie-vio-1885-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "James Rodríguez le responde a la hija de Petro tras polémica por supuesto desplante",
+    "medio": "HuffPost",
+    "fecha": 1780775712.0,
+    "link": "https://www.huffingtonpost.es/deporte/james-rodriguez-responde-hija-gustavo-petro-polemica-supuesto-desplantebr-f202606.html",
+    "resumen": ""
   },
   {
     "titulo": "Calaceite, el pueblo de Teruel donde se cruzan historia, literatura y cultura ibérica",
@@ -28,18 +182,18 @@
     "resumen": "El papa León XIV ha afirmado este sábado que la caridad «no admite demoras» en su visita al centro CEDIA 24 horas de Cáritas del madrileño […]"
   },
   {
-    "titulo": "Papa León XIV en Madrid, en directo | León XIV: \"Muchas cosas en las redes nos engañan, nos cuentan mentiras. Buscad siempre la verdad\"",
-    "medio": "El Español",
-    "fecha": 1780775280.0,
-    "link": "https://www.elespanol.com/madrid/20260606/papa-leon-xiv-madrid-directo-ultima-hora-visita-espana-capital-recorridos-horarios-agenda-oficial-vigilia-hoy/1003744275349_10.html",
-    "resumen": "La histórica visita del papa León XIV a España ha arrancado este sábado en Madrid con una recepción oficial en el Palacio Real.El Pontífice ha visitado el centro 'CEDIA 24 Horas' de Cáritas en el barrio de Lucero, donde se ha reunido con personas en exclusión. La jornada de hoy cierra en la Plaza de Lima, donde el Papa, tras recorrer la Castellana en papamóvil, celebra una vigilia juvenil y pronunciará un discurso."
-  },
-  {
-    "titulo": "El Papa ante el medio millón de jóvenes congregados en la Plaza de Lima para vivir la Vigilia de la Oración: \"¡Sed humanos: hombres y mujeres de carne y hueso!\"",
+    "titulo": "Un festival de rezos, rock y vítores hacen vibrar a la Castellana con Siloé como estrella",
     "medio": "El Mundo",
-    "fecha": 1780774741.0,
+    "fecha": 1780775403.0,
     "link": "https://www.elmundo.es/madrid/2026/06/06/6a2463a921efa0b71a8b45a4.html",
     "resumen": "Miles de creyentes llenan los alrededores del Santiago Bernabéu en una vigilia marcada por la música, la oración y los testimonios de fe: \"Ésta es la juventud del Papa\", gritan los asistentes Leer"
+  },
+  {
+    "titulo": "León XIV interpela a los jóvenes en Madrid: \"Ante el vacío de la indiferencia y el conformismo, sed vosotros chispa de una humanidad nueva\"",
+    "medio": "El Mundo",
+    "fecha": 1780775390.0,
+    "link": "https://www.elmundo.es/espana/2026/06/06/6a2479dafdddffd5648b4583.html",
+    "resumen": "El Santo Padre pide a más de medio millón de jóvenes: \"Sed humanos, no apariencias sin rostros fiables\" Leer"
   },
   {
     "titulo": "El primer día del papa León XIV en España, en imágenes: reyes, jóvenes, migrantes y música",
@@ -49,11 +203,25 @@
     "resumen": ""
   },
   {
+    "titulo": "Medio millón de jóvenes arropan al Papa en su primera gran noche madrileña",
+    "medio": "La Vanguardia",
+    "fecha": 1780774223.0,
+    "link": "https://www.lavanguardia.com/politica/20260606/11558141/medio-millon-jovenes-arropan-leon-xiv-primera-gran-noche-madrilena.html",
+    "resumen": "En la vigilia, recordó su experiencia como misionero y animó a los jóvenes a buscar ejemplos de vida creíbles"
+  },
+  {
     "titulo": "La vigilia de León XIV en la Plaza Lima y el auge de la religión entre los jóvenes: \"La fe es lo más importante de mi vida\"",
     "medio": "HuffPost",
     "fecha": 1780774131.0,
     "link": "https://www.huffingtonpost.es/sociedad/la-vigilia-leon-xiv-plaza-lima-auge-religion-jovenes-la-fe-mas-importante-mi-vida-f202606.html",
     "resumen": ""
+  },
+  {
+    "titulo": "Los docentes pactan una única huelga el martes en Barcelona y una manifestación el 14",
+    "medio": "La Vanguardia",
+    "fecha": 1780773333.0,
+    "link": "https://www.lavanguardia.com/vida/20260606/11558139/docentes-pactan-unica-huelga-martes-barcelona-manifestacion-14.html",
+    "resumen": "Cinco sindicatos se reúnen de urgencia hoy para acordar el calendario de movilizaciones, pero descartan más huelgas por ahora"
   },
   {
     "titulo": "El Real Madrid cae en cuartos de la ACB y firma su primer año en blanco desde 2011",
@@ -147,6 +315,13 @@
     "resumen": "En solo unas horas, los eventos a los que ha acudido León XIV han inspirado todo tipo de comentarios y memes en redes ¿Cuánto dinero público costará la visita del Papa? Las administraciones no desvelan el coste real del viaje El papa ha venido a España por primera vez esta semana y ha empezado por Madrid antes de viajar también a Barcelona y las islas de Gran Canaria y Tenerife. En solo unas horas, los eventos a los que ha acudido han inspirado todo tipo de comentarios y memes en redes. Los habitantes de la capital, de por sí algo caótica, llevaban más de una semana sufriendo cortes de tráfico y otras molestias. El lado positivo es que algunas calles se han limpiado con especial atención, por ejemplo, el barrio de Lucero, donde está la sede de Cáritas que León XIV visitará en su primera tarde en la ciudad. Pero en otras zonas la suciedad era la habitual. Los primeros en recibir al pontífice, como jefes del Estado, han sido los reyes. El vestido blanco de manga larga de la reina Letizia ha recibido muchos comentarios por su color, pese a explicarse que el protocolo le permite llevarlo ante el papa. Algún tuitero ha bromeado gráficamente sobre la posibilidad de que ella y León XIV se intercambiaran su vestuario. Tanto el papa como el Felipe VI han pronunciado unas palabras. El rey ha reconocido el “dolor causado” por los abusos en la Iglesia y dice que “no son representativos de la inmensa comunidad eclesial”, mientras que el estadounidense no ha mencionado los abusos. Un 'bluitero' ha presentado esta situación mostrando al tema de los abusos de religiosos a menores como el elefante en la habitación del que no todos querían hablar. El papa ha saludado a multitud de cargos políticos este sábado. Entre ellos estaba la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso. Otro usuario de Bluesky bromeaba sobre el afán de protagonismo de esta presentándola sobre el papamóvil, el vehículo utilizado solo por el papa para desplazarse. Otro encuentro, quizá deseado por muchos y, desde luego, posible, era el de León XIV con Bad Bunny. El cantante se encuentra en Madrid como residente de una serie de conciertos en el Estadio Metropolitano. ¿Invitaría al papa a su famosa Casita de sus actuaciones? Mientras, otros usuarios veían la Casita de otra forma. El papa tiene una agenda muy apretada durante su estancia, pero aún queda tiempo para que se reúna con el puertorriqueño y, sobre todo, para que siga inspirando memes."
   },
   {
+    "titulo": "Misa en Cibeles y encuentro con la cultura y el deporte, actos centrales de la segunda jornada del Papa en Madrid",
+    "medio": "Europa Press",
+    "fecha": 1780772136.0,
+    "link": "https://www.europapress.es/sociedad/noticia-papa-misa-cibeles-encuentro-cultura-deporte-actos-centrales-segunda-jornada-papa-madrid-20260606205536.html",
+    "resumen": "El Papa León XIV afronta 7 de junio la segunda jornada de su viaje apostólico a España que, tras su estancia en Madrid --del 6 al 9 de junio--le llevará a Barcelona, Gran Canaria y Tenerife hasta el 12 de junio. La Misa en la Plaza de Cibeles y el encuentro con representantes de la cultura o el deporte conforman parte de los actos previstos para este domingo."
+  },
+  {
     "titulo": "Interrumpido el servicio de AVE entre Barcelona y Girona por un tren averiado en la Sagrera",
     "medio": "El Mundo",
     "fecha": 1780771883.0,
@@ -154,11 +329,11 @@
     "resumen": "El incidente ha obligado a evacuar a un centenar de pasajeros Leer"
   },
   {
-    "titulo": "Unas 500.000 personas asisten a la vigilia en la plaza de Lima, según Delegación de Gobierno",
+    "titulo": "Miles de jóvenes arropan al Papa en la Vigilia: \"Estoy un poco fría con Dios y quiero reencontrarme con él\"",
     "medio": "Europa Press",
     "fecha": 1780771696.0,
     "link": "https://www.europapress.es/madrid/noticia-500000-personas-asisten-vigilia-plaza-lima-delegacion-gobierno-20260606204816.html",
-    "resumen": "Unas 500.000 personas asisten a la vigilia de oración con jóvenes en la plaza de Lima dentro de la visita apostólica que el Papa León XIV está haciendo a Madrid, según Delegación de Gobierno."
+    "resumen": "Miles de jóvenes, unas 500.000 personas según delegación del Gobierno, han asistido este sábado a la Vigilia de Oración de los jóvenes celebrada en la Plaza de Lima de Marid, una celebración multitudinaria."
   },
   {
     "titulo": "73 de los 118 presos de ETA están ya en semilibertad, según un colectivo de apoyo a estos reclusos",
@@ -179,13 +354,6 @@
     "medio": "HuffPost",
     "fecha": 1780770778.0,
     "link": "https://www.huffingtonpost.es/tecnologia/mas-150-tecnologicas-han-recortado-115000-empleosnonalan-ia-muchas-arrastraban-contrataciones-excesivas-perdida-mercado-f202606.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Un español entra en el aeropuerto más pequeño de China y alucina por lo mucho que quieren optimizar la productividad",
-    "medio": "HuffPost",
-    "fecha": 1780770775.0,
-    "link": "https://www.huffingtonpost.es/virales/un-espanol-entra-aeropuerto-mas-pequeno-china-alucina-quieren-optimizar-productividad-f202606.html",
     "resumen": ""
   },
   {
@@ -217,13 +385,6 @@
     "resumen": "Marcelinho Huertas y Patty Mills lideran una victoria histórica de los canarios en el Palacio y llevan a su equipo a semifinales ante un Madrid errático y desesperado. Leer"
   },
   {
-    "titulo": "Irán ataca Kuwait y Baréin con misiles después de que Estados Unidos golpeara sus radares en el estrecho de Ormuz",
-    "medio": "El País",
-    "fecha": 1780769853.0,
-    "link": "https://elpais.com/internacional/2026-06-06/iran-ataca-kuwait-y-barein-con-misiles-despues-de-que-estados-unidos-golpeara-sus-radares-en-el-ormuz.html",
-    "resumen": "La Guardia Revolucionaria iraní asegura que ha dañado bases de la Quinta Flota de Estados Unidos, pero el mando militar norteamericano lo desmiente"
-  },
-  {
     "titulo": "El grupo chino UNC5221 despliega malware Plenet y AgentPSD en Microsoft 365 y apunta a España",
     "medio": "Moncloa.com",
     "fecha": 1780769787.0,
@@ -231,18 +392,18 @@
     "resumen": "UNC5221, el grupo chino también rastreado como VerdantBamboo, ha desplegado el backdoor Brickstorm y nuevo malware Plenet y AgentPSD en entornos Microsoft 365, afectando a víctimas en España. La entrada El grupo chino UNC5221 despliega malware Plenet y AgentPSD en Microsoft 365 y apunta a España aparece primero en Moncloa."
   },
   {
+    "titulo": "Cortada la circulación de la alta velocidad entre Girona y Barcelona por la avería de un tren",
+    "medio": "La Vanguardia",
+    "fecha": 1780769434.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20260606/11558112/cortada-circulacion-alta-velocidad-girona-barcelona-averia-tren-sagrera.html",
+    "resumen": "La incidencia afecta a un tren de larga distancia que cubría el trayecto entre Figueres y Madrid, cuyos pasajeros pudieron ser evacuados"
+  },
+  {
     "titulo": "EEUU advierte de la «invasión» de inmigrantes que desembarcan en playas de Europa",
     "medio": "The Objective",
     "fecha": 1780769407.0,
     "link": "https://theobjective.com/internacional/2026-06-06/eeuu-advierte-invasion-inmigrantes-europa/",
     "resumen": "El secretario de Defensa de Estados Unidos, Pete Hegseth, instó este sábado a Europa a actuar frente a la «invasión» de inmigrantes portadores de «ideologías peligrosas» […]"
-  },
-  {
-    "titulo": "El Real Madrid cae ante La Laguna Tenerife y se queda fuera de las semifinales de la Liga ACB 18 años después",
-    "medio": "El País",
-    "fecha": 1780769331.0,
-    "link": "https://elpais.com/deportes/baloncesto/2026-06-06/la-laguna-tenerife-elimina-al-real-madrid-y-se-mete-en-las-semifinales-de-la-liga-acb.html",
-    "resumen": "El equipo de Sergio Scariolo cierra una temporada en blanco tras caer en cuartos y haber perdido las finales de Euroliga, Copa y Supercopa"
   },
   {
     "titulo": "El Madrid cae eliminado ante el Tenerife en los cuartos de final de los playoffs de la ACB y termina la temporada en blanco",
@@ -257,13 +418,6 @@
     "fecha": 1780769140.0,
     "link": "https://www.expansion.com/economia/2026/06/06/6a231831468aeb30138b45b2.html",
     "resumen": "El Gobierno aplicó un incremento de la base mínima del 42%, hasta los 1.424 euros mensuales para los autónomos societarios, familiares y aquellos que no declaran ingresos. Lo que supone un incremento de cuota de 135 euros de media al mes, y afecta a algo más de medio millón de trabajadores por cuenta propia. Leer"
-  },
-  {
-    "titulo": "Adolescentes italianos descubren una casa romana de lujo de hace 1.800 años debajo del polideportivo de su instituto",
-    "medio": "HuffPost",
-    "fecha": 1780769020.0,
-    "link": "https://www.huffingtonpost.es/sociedad/adolescentes-italianos-descubren-casa-romana-lujo-1800nos-debajo-polideportivo-instituto-f202606.html",
-    "resumen": ""
   },
   {
     "titulo": "Las mejores teles para ver el Mundial",
@@ -294,11 +448,11 @@
     "resumen": "Certificar un tuit es una buena idea cuando encontramos una publicación en X que puede tener relevancia futura. No hablamos sólo de mensajes ofensivos, amenazas o posibles injurias, sino también de publicaciones con promesas comerciales, declaraciones públicas, ofertas, sorteos, cambios de condiciones o cualquier contenido que alguien pueda borrar después. Una captura de pantalla ayuda, … Continuar leyendo \"Cómo certificar un tuit en X gratis antes de que lo borren\""
   },
   {
-    "titulo": "Jaron Lanier, experto en informática, lanza un aviso a Silicon Valley: \"Si creas a Dios pero te apropias de Dios, te conviertes en el dictador\"",
-    "medio": "HuffPost",
-    "fecha": 1780768386.0,
-    "link": "https://www.huffingtonpost.es/sociedad/jaron-lanier-experto-informatica-lanza-aviso-silicon-valley-si-creasdiospero-te-apropias-dios-te-conviertes-dictador-f202606.html",
-    "resumen": ""
+    "titulo": "Reus dedica un mural a Gaudí con críticas de los arquitectos",
+    "medio": "La Vanguardia",
+    "fecha": 1780768784.0,
+    "link": "https://www.lavanguardia.com/local/catalunya/20260606/11558108/reus-dedica-mural-gaudi-criticas-arquitectos.html",
+    "resumen": "Recelo por el lugar elegido, la fachada de la residencia Sant Joan"
   },
   {
     "titulo": "Pleonasmos",
@@ -329,13 +483,6 @@
     "resumen": "El Fondo de Garantía de Inversiones (Fogain) cumple 25 años y los 100.000 euros que cubre multiplican por cinco el mínimo exigido. Atesora 150 millones, una cifra récord que supera los 90 millones que ha necesitado en su historia. Leer"
   },
   {
-    "titulo": "El Papa León XIV reivindica la dignidad de las personas sin hogar y aplaude la hospitalidad madrileña: \"Si estás en Madrid, eres de Madrid\"",
-    "medio": "El Mundo",
-    "fecha": 1780768035.0,
-    "link": "https://www.elmundo.es/madrid/2026/06/06/6a24313de4d4d8be668b4590.html",
-    "resumen": "El Pontífice ha visitado el recurso de Cáritas en el distrito de Latina, que atiende al año a más de 2.500 personas en exclusión social, y arremete contra quienes \"ridiculizan\" la caridad Leer"
-  },
-  {
     "titulo": "Mapa de cortes de tráfico en Madrid domingo 7 de junio por la visita del Papa León XIV: calles afectadas, cambios en la EMT y autobuses",
     "medio": "OK Diario",
     "fecha": 1780767926.0,
@@ -350,7 +497,7 @@
     "resumen": "Palencia es la capital donde la piscina implica una mayor prima en los precios de la vivienda, seguida de Huelva, Santa Cruz de Tenerife, Murcia, Pontevedra o Zamora. Leer"
   },
   {
-    "titulo": "Bendecir a un bebé, hacer el 'six-seven' y declararse madridista: León XIV deja anécdotas y guiños en su primera jornada",
+    "titulo": "De hacer el 'six-seven' a declararse madridista y madrileño: las anécdotas de León XIV en su primera jornada",
     "medio": "El Español",
     "fecha": 1780767728.0,
     "link": "https://www.elespanol.com/espana/20260606/bendecir-bebe-hacer-six-seven-declararse-madridista-leon-xiv-deja-anecdotas-guinos-primera-jornada/1003744276501_0.html",
@@ -364,20 +511,6 @@
     "resumen": "Mientras Gaza e Israel intentan avanzar en la segunda fase de la tregua vigente; Irán y EEUU pretenden acordar una fórmula para levantar el bloqueo del estrecho de Ormuz, e Israel y Líbano buscan cerrar una tregua, con el visto bueno de HizboláSiguen los ataques entre Israel y Hizbulá en Líbano pese al anuncio de alto el fuego Los tres focos bélicos en Oriente Medio —Gaza, Líbano e Irán— enfrentan estos días, simultáneamente, una etapa de negociaciones para avanzar en acuerdos que resuelvan conflictos entrecruzados, en una región en la que el número de muertos sigue aumentando, las economías nacionales se tambalean y el desplazamiento es generalizado. Gaza e Israel intentan avanzar hacia la segunda fase de la tregua vigente, aunque vulnerada en varias ocasiones por Tel Aviv; Irán y Estados Unidos pretenden acordar una fórmula para levantar el bloqueo del estrecho de Ormuz que, a su vez, necesitará cerrar una tregua entre Israel y Líbano, con el visto bueno de la milicia chií Hizbulá, principal aliada de Teherán. Este sábado Egipto ha acogido una nueva ronda de diálogos entre una delegación del movimiento islamista Hamás —que gobierna la Franja de Gaza—, funcionarios egipcios y representantes de los mediadores qataríes y estadounidenses para iniciar la segunda fase del acuerdo de alto el fuego, estancado desde hace meses. A pesar de que la tregua negociada por Estados Unidos entró en vigor el pasado octubre, más de 900 personas han muerto en Gaza a causa de los continuos bombardeos israelíes desde entonces. Montaña de escombros en Ciudad de Gaza. El alto el fuego en la Franja de Gaza cumple ocho meses en vigor, marcados por la muerte de cerca de 950 gazatíes en ataques israelíes, la expansión del control de Israel en el enclave, el rechazo del grupo islamista Hamás a desarmarse y el estancamiento de las pobres condiciones de vida de la población. EFE/ Ahmad Awad Las conversaciones, que han comenzado este sábado en El Cairo y se extenderán durante varios días, se centran —según informa EFE a través de una fuente anónima egipcia— en “detener los repetidos ataques israelíes” contra la Franja, “las violaciones israelíes” del acuerdo de octubre del año pasado y los “asesinatos perpetrados por Israel” contra miembros y líderes de Hamás. Estados Unidos declaró formalmente en enero la entrada en vigor de la segunda fase del acuerdo de alto el fuego con Israel, que debía incluir la desmilitarización de Hamás, la creación de una fuerza internacional de estabilización y la entrada de un comité tecnocrático palestino para gobernar la Franja. Sin embargo, Hamás mantiene su rechazo al desarme mientras no se cumplan los términos de la primera fase del pacto, que incluyen la retirada israelí del enclave. Israel - Hizbulá Tampoco la milicia chií Hizbulá pretende abandonar las armas en Líbano “mientras la agresión [israelí] persista”. Esta ha sido la respuesta del grupo ante las negociaciones entre Líbano e Israel celebradas en Washington esta semana. El miércoles Tel Aviv y Beirut —el Estado libanés no participa en la guerra entre Hizbulá e Israel— acordaron implementar un alto el fuego “condicionado” a que la milicia detenga las hostilidades en territorio israelí y cese sus operaciones en el sur del Líbano. Sin embargo, el grupo —que no participa en las negociaciones— tildó de “absurdas, humillantes y vergonzosas” las conversaciones y aseguró que seguirán “enfrentando” los ataques israelíes mientras continúen. Antes Israel ya había interpretado el texto a su conveniencia y el ministro de Defensa, Israel Katz, había asegurado que “por el momento” mantendrá las tropas israelíes en el sur de Líbano y las “acciones” contra infraestructuras de Hizbulá. El acuerdo entre Tel Aviv y Beirut dista mucho de lo que ocurre en el terreno. Israel ha roto y ha intensificado su invasión en el Líbano para, según dice, responder al lanzamiento de proyectiles de Hizbulá. Este sábado los ataques aéreos israelíes han matado a nueve personas en Líbano, entre ellas tres soldados del ejército libanés que Tel Aviv dijo haber matado “por error”. Vehículos dañados tras un ataque aéreo israelí contra la ciudad de Tiro, Líbano, el 2 de junio de 2026. El Ejército libanés ha sido objetivo de diversos ataques desde su inicio hace ya tres meses y será clave ante cualquier futura solución negociada al actual conflicto, pues estarían encargadas de implementar un potencial desarme de Hizbulá y de sustituir su presencia armada en las zonas que controla de facto. El viernes otra ofensiva en el sur del país dejó al menos cinco muertos y obligó a miles de personas a huir de sus hogares en el sur del país. Irán - EEUU Los ataques del ejército israelí, en la semana en la que Tel Aviv realizó su incursión más profunda en Líbano en más de 26 años, han complicado los esfuerzos diplomáticos entre Washington y Teherán, y amenazan los esfuerzos de EEUU para poner fin a la guerra con Irán y reabrir el estrecho de Ormuz, por donde circula el 20% del petróleo y el gas natural licuado del mundo. Esta semana, Donald Trump perdió los estribos con el primer ministro israelí, Benjamin Netanyahu, por obstaculizarle el acuerdo con Líbano —e Hizbulá— que el presidente estadounidense necesita concretar para avanzar en sus negociaciones de paz con Irán. Las conversaciones, que buscan extender el alto el fuego por 60 días e iniciar una nueva ronda de negociaciones sobre el programa nuclear iraní, no han prosperado, por ahora. Ambas partes han seguido exigiendo cambios en el acuerdo, y ninguna parece dispuesta a ceder. Sin embargo, el viernes Trump declaró que “la situación con Irán parece ir bastante bien”, una afirmación que hace días que repite, y aseguró que EEUU se retirará de Irán “muy rápidamente y de una forma u otra”, ya sea “mediante un acuerdo o por la vía más dura”. Columna de humo causada por un bombardeo en Teherán, el 7 de abril de 2026. Trump también dijo a la cadena de televisión estadounidense NBC el viernes que el atraso con el acuerdo se debía a que era “algo muy difícil” para Irán porque “hay cosas que nunca pensaron que tendrían que hacer y que tendrán que hacer. No tienen otra opción, y lleva un tiempo”. Con el paso de los días, es más evidente el costo que ha tenido para Trump esta guerra: su impopularidad para los estadounidenses va aumentando ante unas elecciones de mitad de mandato cada vez más cercanas, el aumento de la inflación y la escalada de los precios del petróleo. Pero para Netanyahu, pero, volver a la guerra en Líbano —y Gaza— es una estrategia política y electoral útil en este contexto, afirma The Guardian, porque el caos regional es donde resurge y se hace fuerte como Estado. En la última de las polémicas y reproches entrelazados, el presidente libanés, Joseph Khalil Aoun, criticó el viernes a Irán por oponerse a la tregua con EEUU y acusó al país de librar sus guerras en el Líbano y utilizarlo como “moneda de cambio” en las negociaciones. Este sábado, Irán respondió: “Uno pensaría que es Irán quien ha ocupado una quinta parte del Líbano, ha desplazado a una cuarta parte de los libaneses y bombardea su país a diario”. Los ecos en el Golfo tampoco aflojan. Teherán mantiene sus ataques en la zona, en la última de una serie de escaladas que amenazan con romper el frágil alto el fuego con EEUU, sostenido solo sobre papel. La madrugada de este sábado Irán ha atacado objetivos vinculados a Estados Unidos en Kuwait y Baréin, en una ofensiva que ha presentado como una represalia por un ataque estadounidense contra las islas de Sirik y Qeshm. El secretario general del Consejo de Cooperación del Golfo (CCG), Jasem Mohamed al Budaiwi, ha condenado los ataques, que ha calificado de “amenaza directa a la seguridad y la estabilidad de la región”."
   },
   {
-    "titulo": "Discurso potente del papa León XIV con carga política en su primer día de visita en España",
-    "medio": "El País",
-    "fecha": 1780767574.0,
-    "link": "https://elpais.com/espana/2026-06-06/discurso-potente-del-papa-leon-xiv-con-carga-politica-en-su-primer-dia-de-visita-en-espana.html",
-    "resumen": "El Pontífice ha abordado la polarización con frases dirigidas a la ultraderecha y se ha comprometido a luchar contra los casos abusos de la Iglesia"
-  },
-  {
-    "titulo": "Olivia Rodrigo actuará este sábado por sorpresa en el Primavera Sound",
-    "medio": "El País",
-    "fecha": 1780767485.0,
-    "link": "https://elpais.com/espana/catalunya/2026-06-06/olivia-rodrigo-actuara-este-sabado-por-sorpresa-en-el-primavera-sound.html",
-    "resumen": "La cantante estadounidense ya ofreció un concierto no programado el 8 de mayo en el Festival Grec como parte de la colaboración con Spotify y el FC Barcelona"
-  },
-  {
     "titulo": "Mónica García asegura que Más Madrid ama a Oltra y da la bienvenida al debate con Rufián",
     "medio": "The Objective",
     "fecha": 1780767363.0,
@@ -385,18 +518,11 @@
     "resumen": "La coportavoz de Más Madrid, Mónica García, ha asegurado que en su formación aman a la valenciana Mónica Oltra, para dar la bienvenida al debate que […]"
   },
   {
-    "titulo": "La Policía evita que un agresor caiga al vacío cuando intentaba huir por una ventana tras atacar a su pareja en Alcorcón",
-    "medio": "El Mundo",
-    "fecha": 1780766683.0,
-    "link": "https://www.elmundo.es/madrid/2026/06/06/6a2457d8e9cf4aea448b457b.html",
-    "resumen": "Leer"
-  },
-  {
-    "titulo": "Marcel Granollers o cuando el éxito llega a los 40 años: «Ya no es mi segunda, es mi tercera juventud»",
-    "medio": "OK Diario",
-    "fecha": 1780766664.0,
-    "link": "https://okdiario.com/deportes/marcel-granollers-o-cuando-exito-llega-40-anos-ya-no-segunda-tercera-juventud-17932758",
-    "resumen": "Raquetas al suelo y choque con el pecho de un brinco. Se repite la secuencia en la Philippe Chatrier. Mismo desenlace con idénticos protagonistas. Marcel Granollers y Horacio Zeballos, campeones perennes que llevan la contraria al tiempo y a la lógica. Están redefiniendo los tiempos en el deporte a sus 40 y 41 años, respectivamente. La … Continuar leyendo \"Marcel Granollers o cuando el éxito llega a los 40 años: «Ya no es mi segunda, es mi tercera juventud»\""
+    "titulo": "Joan Bueno pinta un mural con la Sagrada Família en el museo de arte urbano del Besòs",
+    "medio": "La Vanguardia",
+    "fecha": 1780766482.0,
+    "link": "https://www.lavanguardia.com/local/barcelones-nord/20260606/11556633/joan-bueno-pinta-mural-sagrada-familia-museo-arte-urbano-besos.html",
+    "resumen": "El considerado “último pintor callejero” deja huella en el BesArt con un mural que reivindica una vida dibujando Barcelona"
   },
   {
     "titulo": "Raúl Castro reaparece en público por su cumpleaños tras la imputación de EEUU",
@@ -406,28 +532,14 @@
     "resumen": "El expresidente de Cuba, Raúl Castro, ha asistido este sábado en un acto de homenaje por su 95 cumpleaños en lo que se trata de su […]"
   },
   {
-    "titulo": "Comprobar La Primitiva: resultado y número premiado hoy, sábado 6 de junio de 2026",
-    "medio": "OK Diario",
-    "fecha": 1780765257.0,
-    "link": "https://okdiario.com/loteria/comprobar-primitiva-resultado-numero-premiado-hoy-sabado-6-junio-2026-17387986",
-    "resumen": "El sorteo de La Primitiva de hoy, sábado 6 de junio de 2026, ya se está celebrando y en unos instantes podremos comprobar la combinación ganadora y el número premiado. La Primitiva se celebra todos los jueves y sábados a partir de las 21:40 horas, una hora menos si te encuentras en las Islas Canarias. … Continuar leyendo \"Comprobar La Primitiva: resultado y número premiado hoy, sábado 6 de junio de 2026\""
+    "titulo": "Los bibliotecarios denuncian cargas con porras durante la jornada de huelga del viernes",
+    "medio": "La Vanguardia",
+    "fecha": 1780765239.0,
+    "link": "https://www.lavanguardia.com/cultura/20260606/11558095/bibliotecarios-denuncian-cargas-porras-jornada-huelga-viernes.html",
+    "resumen": "El incidente sucedió ayer frente en la plaza San Miquel de Barcelona, durante una concentración frente al edificio Novíssim tras conocerse que se terminaba sin éxito la mesa de negociación"
   },
   {
-    "titulo": "Comprobar ONCE hoy, sábado, 6 de junio de 2026: Sueldazo y Super 11",
-    "medio": "OK Diario",
-    "fecha": 1780765249.0,
-    "link": "https://okdiario.com/loteria/comprobar-once-hoy-sabado-6-junio-2026-sueldazo-super-11-17388203",
-    "resumen": "Los sorteos de la ONCE de hoy, sábado, 6 de junio de 2026, se están celebrando en este momento y en tan solo unos instantes conoceremos el resultado y los números premiados de Sueldazo y Super 11. Sueldazo de la ONCE El Sueldazo de la ONCE se celebra todos los sábados y domingos y tiene … Continuar leyendo \"Comprobar ONCE hoy, sábado, 6 de junio de 2026: Sueldazo y Super 11\""
-  },
-  {
-    "titulo": "España revoluciona la energía fotovoltaica: lanza en Vigo las primeras plataformas solares flotantes en mar abierto, antes de instalarlas en Valencia",
-    "medio": "OK Diario",
-    "fecha": 1780765247.0,
-    "link": "https://okdiario.com/ciencia/espana-revoluciona-energia-fotovoltaica-lanza-vigo-primeras-plataformas-solares-flotantes-mar-abierto-antes-instalarlas-valencia-17768220",
-    "resumen": "BlueNewables es una empresa de ingeniería marina española con sede en Vigo. Sus 25 ingenieros acumulan más de 150 años de experiencia conjunta en proyectos offshore y llevan años desarrollando el sistema «PV-bos», una tecnología para instalar paneles fotovoltaicos en entornos marinos. Y sus plataformas solares flotantes aprovechan mucho más que el espacio marino. También … Continuar leyendo \"España revoluciona la energía fotovoltaica: lanza en Vigo las primeras plataformas solares flotantes en mar abierto, antes de instalarlas en Valencia\""
-  },
-  {
-    "titulo": "El presidente de El Hierro protesta por no ser invitado a la recepción con el Papa en Canarias",
+    "titulo": "El presidente de El Hierro protesta por no haber sido invitado a los actos de la visita del Papa",
     "medio": "eldiario.es",
     "fecha": 1780765215.0,
     "link": "https://www.eldiario.es/canariasahora/politica/presidente-el-hierro-protesta-no-invitado-recepcion-papa-canarias_1_13281500.html",
@@ -439,20 +551,6 @@
     "fecha": 1780765200.0,
     "link": "https://hipertextual.com/mobile/asi-utilizo-limpieza-profunda-en-mi-xiaomi-para-no-quedarme-nunca-sin-espacio/",
     "resumen": "Pocas cosas hay peores que tener poco espacio disponible en la memoria del móvil. Los motivos pueden ser muchos, y aunque la mayoría de las veces son los obvios, en otras ocasiones hay cosas que se escapan a nuestro control y que llenan el dispositivo con contenido que no queremos, no necesitamos o simplemente no […] Seguir leyendo: Así utilizo ‘Limpieza Profunda’ en mi Xiaomi para no quedarme nunca sin espacio"
-  },
-  {
-    "titulo": "Una campaña entre los trucos de Pedro Sánchez y el 'trumpismo': \"Florentino va a unas elecciones ganadas pero ha puesto en el mapa a un antagonista\"",
-    "medio": "El Mundo",
-    "fecha": 1780764065.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/06/06/6a23f9befdddff8b6a8b4573.html",
-    "resumen": "Terminan 14 días de campaña electoral, un proceso que el Real Madrid no había vivido en los últimos 20 años y que ahora es analizado por expertos en Comunicación Política Leer"
-  },
-  {
-    "titulo": "Peter Phillips, hijo de la princesa Ana, pasa lista en su boda: Carlos III, Kate Middleton y las inesperadas Eugenia y Beatriz de York",
-    "medio": "OK Diario",
-    "fecha": 1780764055.0,
-    "link": "https://okdiario.com/cool/casa-real/peter-phillips-hijo-princesa-ana-pasa-lista-boda-carlos-iii-kate-middleton-inesperadas-eugenia-beatriz-york-17933093",
-    "resumen": "Mientras en Madrid la Familia Real ha estado dedicada a la recepción del Papa León XIV, en Inglaterra los Windsor se han ido de boda. Una celebración que no ha estado exenta de polémica y momentos incómodos, ya que, después de todo lo acontecido en los últimos meses en Buckingham, algunos han optado por mantener … Continuar leyendo \"Peter Phillips, hijo de la princesa Ana, pasa lista en su boda: Carlos III, Kate Middleton y las inesperadas Eugenia y Beatriz de York\""
   },
   {
     "titulo": "Granollers y Zeballos logran su segundo Roland Garros consecutivo",
@@ -476,20 +574,6 @@
     "resumen": "Trump’s latest moves against Cuba show that Washington has never accepted the island’s defiance of US power. Now is the time for solidarity with the Cuban people."
   },
   {
-    "titulo": "Marc Márquez manda el primer aviso arrasando en la ‘sprint’ del Gran Premio de Hungría",
-    "medio": "The Objective",
-    "fecha": 1780760716.0,
-    "link": "https://theobjective.com/deportes/2026-06-06/marc-marquez-aviso-arrasando-sprint-hungria/",
-    "resumen": "Marc Márquez se ha llevado la victoria al ‘sprint’ de MotoGP del Gran Premio de Hungría tras un sábado perfecto al lograr también la pole. Pedro […]"
-  },
-  {
-    "titulo": "Hegseth compara el desembarco de Normandía con la \"invasión\" de inmigrantes en costas de España y otros países",
-    "medio": "Europa Press",
-    "fecha": 1780760344.0,
-    "link": "https://www.europapress.es/internacional/noticia-hegseth-compara-desembarco-normandia-invasion-inmigrantes-costas-espana-otros-paises-20260606173904.html",
-    "resumen": "El secretario de Defensa de Estados Unidos, Peter Hegseth, ha participado este sábado en un acto por el 82º aniversario del desembarco de Normandía durante la Segunda Guerra Mundial y ha comparado el mismo con la \"invasión\" de inmigrantes que llegan por mar a las costas de España y otros países europeos."
-  },
-  {
     "titulo": "Cancelado el Festival de Les Arts de València por incumplir los límites de ruido que fijó la sentencia judicial",
     "medio": "eldiario.es",
     "fecha": 1780760088.0,
@@ -502,20 +586,6 @@
     "fecha": 1780759920.0,
     "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/loxik-juegos-palabras-logica-espanol.html",
     "resumen": "Nos escribió Manuel para hablarnos de Loxik, una página que ha creado en la que recopila «juegos diarios» que combinan letras, lógica y movimientos. De momento hay cinco, algunos muy parecidos a los que todos conocemos, como el Wordle, y otros más innovadores. Una de las ventajas es que están todos en español, así que en cierto modo tienen más encanto que cuando hay que jugarlos en otro idioma. Los cinco juegos son: Word Grid, donde hay que formar cinco palabras con las letras disponibles en el tablero. Cripto, en el que hay que adivinar una palabra en seis intentos, al estilo del Wordle. Gyro, donde hay que girar grupos de cuatro letras para formar la palabra del día. Full Gambit, tal vez el más original, que combina póker y ajedrez en un reto diario bastante peculiar. Escalera el clásico consistente en transformar una palabra en otra cambiando una sola letra cada vez. La web también tiene una sección de juegos del día, nuevos desafíos diarios y un Hall of Fame o tabla de récords para comparar resultados. Junto a cada partida se pueden ver las mejores puntuaciones del día, lo cual ya es un rato de por sí. Todo bastante directo, limpio y sin demasiadas florituras: entrar, jugar, darle a las neuronas y hasta el día siguiente. Relacionados: Weaver: el juego de convertir unas palabras a otras Datos y estrategias sobre Wordle, el juego de palabras de moda Qwertle: un Wordle de letras y colores Dos juegos de palabras de cinco letras Wordle, un rompecabezas de palabras para practicar tu inglés El Wordle científico en castellano proporciona Custom Wordle: el creador definitivo de wordles # Enlace Permanente"
-  },
-  {
-    "titulo": "Un Antonelli implacable frustra la sorpresa de Verstappen y los Ferrari en Mónaco",
-    "medio": "La Vanguardia",
-    "fecha": 1780759359.0,
-    "link": "https://www.lavanguardia.com/deportes/20260606/11558049/f1-formula-1-gp-monaco-clasificacion-parrilla-pole-sainz-alonso-antonelli-verstappen-norris.html",
-    "resumen": "El italiano de Mercedes, líder del Mundial, impuso su fortaleza para llevarse la 'pole' en el trazado del Principado"
-  },
-  {
-    "titulo": "Última hora de la visita del papa León XIV a España: agenda y recorrido del Papa en Madrid, en directo",
-    "medio": "La Vanguardia",
-    "fecha": 1780758021.0,
-    "link": "https://www.lavanguardia.com/politica/20260606/11557866/papa-leon-xiv-visita-espana-madrid-ultima-hora-hoy-en-directo.html",
-    "resumen": "El pontífice ha acudido a la Nunciatura Apostólica de Madrid para descansar de cara a la jornada de esta tarde, donde visitará el Centro de Cáritas y oficiará una vigilia con jóvenes en la Plaza de Lima"
   },
   {
     "titulo": "Repasamos lo bueno, lo malo y lo feo de ‘Euphoria’ ahora que ha terminado para siempre.",
@@ -532,27 +602,6 @@
     "resumen": "Former roughneck turned journalist Don Gillmor chronicles how a resource boom became a governing ideology and how Canada became a global greenhouse pariah."
   },
   {
-    "titulo": "Promo de Verano de AliExpress: las súper ofertas que triunfan hoy con precios increíbles",
-    "medio": "La Vanguardia",
-    "fecha": 1780757047.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260606/11556777/promo-verano-aliexpress-super-ofertas-triunfan-hoy-precios-mkt-alie.html",
-    "resumen": "Hasta el 10 de junio puedes aprovechar la Promo de Verano de AliExpress, con descuentos colosales en dispositivos de las marcas más buscadas. ¡Echa un vistazo y date un capricho ahora que llega el buen tiempo!"
-  },
-  {
-    "titulo": "Peter Phillips y Harriet Sperling protagonizan la boda real del año",
-    "medio": "La Vanguardia",
-    "fecha": 1780756632.0,
-    "link": "https://www.lavanguardia.com/gente/20260606/11558035/peter-phillips-harriet-sperling-protagonizan-boda-real-ano.html",
-    "resumen": "El hijo de la princesa Ana contrae matrimonio con la enfermera pediátrica en una ceremonia privada que ha contado con la presencia de gran parte de los Windsor"
-  },
-  {
-    "titulo": "La llegada de España a Chattanooga desata la locura",
-    "medio": "La Vanguardia",
-    "fecha": 1780755075.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260606/11558032/espana-chattanooga-mundial-2026.html",
-    "resumen": "La selección española se instala en su cuartel general se estrena con una doble sesión de entrenamiento"
-  },
-  {
     "titulo": "Marc Márquez no da opciones Pedro Acosta y se impone en la carrera al sprint en Hungría",
     "medio": "El Español",
     "fecha": 1780754868.0,
@@ -567,32 +616,11 @@
     "resumen": "Backrooms de Kane Parsons es una rareza que muestra su extraña naturaleza híbrida desde las primeras escenas. Basada en una icónica creepypasta, buena parte de los primeros minutos combina el found footage con la estética original de la leyenda urbana. Algo que muestra de inmediato que la cinta no solo explora la estética de la […] Seguir leyendo: ‘Backrooms’ (★★★★☆) es el ejemplo perfecto de cómo convertir un meme de internet en cine"
   },
   {
-    "titulo": "Backbone, GameSir, 8BitDo y DualSense con descuentos: los mandos para móvil, PC y consola más vendidos del momento",
-    "medio": "La Vanguardia",
-    "fecha": 1780754100.0,
-    "link": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20260606/11556873/backbone-gamesir-8bitdo-dualsense-descuentos-mandos-movil-pc-consola-mas-vendidos-momento-mkt-alie.html",
-    "resumen": "Para qué seguir con un mando con potenciómetros que se desvían con el tiempo cuando existen mandos con efecto Hall? Esta es la guía de los siete controladores más vendidos del momento"
-  },
-  {
     "titulo": "The CIA Is up to No Good in Mexico",
     "medio": "Jacobin ES",
     "fecha": 1780753873.0,
     "link": "https://jacobin.com/2026/06/mexico-sheinbaum-trump-cartels-imperialism",
     "resumen": "The mysterious deaths of two CIA agents in Mexico has raised questions about the Trump White House’s increasingly belligerent actions against the Latin American left."
-  },
-  {
-    "titulo": "Los móviles con mejor sonido que no esperabas a este precio",
-    "medio": "La Vanguardia",
-    "fecha": 1780753350.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260605/11556797/moviles-mejor-sonido-2026-altavoces-estereo-dolby-atmos-colaboraciones-bose-esperabas-encontrar-precio-mkt-alie.html",
-    "resumen": "¿Cuándo fue la última vez que el sonido de un móvil te sorprendió de verdad? Estos son los siete móviles con mejor sonido de 2026 disponibles en AliExpress"
-  },
-  {
-    "titulo": "Marc Márquez pone en marcha la 'operación remontada' ganando la Sprint de Hungría",
-    "medio": "La Vanguardia",
-    "fecha": 1780752609.0,
-    "link": "https://www.lavanguardia.com/deportes/20260606/11558024/motogp-gp-hungria-carrera-sprint-marc-marquez-acosta-bezzecchi-martin.html",
-    "resumen": "El catalán vence con superioridad a Pedro Acosta en la carrera corta, su tercer triunfo del año, y recorta 5 puntos a Bezzecchi, tercero"
   },
   {
     "titulo": "10 animes de acción imprescindibles que puedes ver en Crunchyroll",
@@ -637,13 +665,6 @@
     "resumen": "León XIV ha hecho referencia a los abusos cometidos en el seno de la Iglesia a preguntas de los periodistas que viajaban con él en el avión que le ha trasladado desde Roma al aeropuerto Adolfo Suárez Madrid-Barajas. \"Sigue siendo una herida abierta\", ha asegurado al respecto."
   },
   {
-    "titulo": "El Rey lamenta el \"dolor\" por los abusos por parte de la Iglesia y agradece al Papa su \"firmeza\"",
-    "medio": "Europa Press",
-    "fecha": 1780743727.0,
-    "link": "https://www.europapress.es/sociedad/noticia-rey-lamenta-dolor-abusos-parte-iglesia-agradece-papa-firmeza-20260606130207.html",
-    "resumen": "Felipe VI defiende que hay que \"saber escuchar\" y ponerse en el lugar del otro y pide poner a la persona en el centro del discurso"
-  },
-  {
     "titulo": "Felipe VI reconoce a las víctimas de abuso de la Iglesia y advierte del peligro de la IA en su discurso frente a León XIV",
     "medio": "El Español",
     "fecha": 1780743629.0,
@@ -684,13 +705,6 @@
     "fecha": 1780735494.0,
     "link": "https://www.europapress.es/nacional/noticia-garzon-denuncia-muerte-civil-zapatero-imputacion-propone-regular-actividades-expresidentes-20260606104454.html",
     "resumen": "El exjuez Baltasar Garzón ha denunciado la \"muerte civil\" a la que, a su juicio, se ha sometido al expresidente del Gobierno, José Luis Rodríguez Zapatero, tras ser imputado por la Audiencia Nacional (AN) por el 'caso Plus Ultra' y ha propuesto regular las actividades de los expresidentes."
-  },
-  {
-    "titulo": "El presidente del Senado, sobre el apoyo del Papa a la regularización: \"Su mensaje está por encima de las leyes\"",
-    "medio": "Europa Press",
-    "fecha": 1780730998.0,
-    "link": "https://www.europapress.es/nacional/noticia-presidente-senado-apoyo-papa-regularizacion-mensaje-encima-leyes-20260606092958.html",
-    "resumen": "El presidente del Senado, Pedro Rollán, ha asegurado que el mensaje del Papa está \"por encima de las leyes y de las fronteras\" al ser preguntado por la defensa que León XIV ha realizado de los migrantes desde el inicio de su pontificado, una posición que contrasta con el rechazo del PP a la iniciativa de regularización impulsada por el Gobierno."
   },
   {
     "titulo": "La desaparición del Barrio de Salamanca de Madrid",
