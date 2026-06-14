@@ -1,31 +1,213 @@
 [
   {
-    "titulo": "Países Bajos - Japón: Mundial 2026, en directo | ¡Japón empata al borde del descuent!",
+    "titulo": "Estados Unidos e Irán anuncian que han alcanzado un acuerdo para poner fin a la guerra",
     "medio": "El País",
-    "fecha": 1781473798.0,
-    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-14/paises-bajos-japon-en-directo-partido-del-grupo-f-del-mundial-2026-en-vivo.html",
-    "resumen": "Los de Ronald Koeman se estrenan en la Copa del Mundo ante una selección nipona que se asoma como una de las grandes tapadas del torneo"
+    "fecha": 1781480520.0,
+    "link": "https://elpais.com/internacional/2026-06-14/trump-anuncia-que-estados-unidos-e-iran-han-alcanzado-un-acuerdo-para-poner-fin-a-la-guerra.html",
+    "resumen": "Tras casi cuatro meses de conflicto los dos países pactan una extensión de la tregua que firmaran el viernes en Suiza. Pakistán asegura que las partes se comprometen al cese inmediato de las hostilidades en todos los frentes, incluido Líbano"
   },
   {
-    "titulo": "Trump anuncia que ha alcanzado un acuerdo con Irán para reabrir el estrecho de Ormuz",
-    "medio": "Expansión",
-    "fecha": 1781473699.0,
-    "link": "https://www.expansion.com/economia/2026/06/14/6a2eaa4ee5fdea19148b459e.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, anunció este sábado que ha alcanzado un acuerdo con Irán para desbloquear el estrecho de Ormuz tras más de tres meses de guerra. Leer"
-  },
-  {
-    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump anuncia el acuerdo de paz con Irán y decreta la apertura de Ormuz",
+    "titulo": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán insiste en recibir la mitad de los fondos congelados antes de la segunda fase negociadora",
     "medio": "El País",
-    "fecha": 1781473338.0,
+    "fecha": 1781480339.0,
     "link": "https://elpais.com/internacional/2026-06-14/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "resumen": "Teherán aún no se ha pronunciado. El primer ministro de Pakistán, Shehbaz Sharif, asegura que la firma se celebrará el próximo viernes, 19, en Ginebra"
+    "resumen": "Trump detalla que el estrecho de Ormuz reabrirá una vez rubricado el día 19 el pacto con Teherán, que pretende poner fin a cuatro meses de guerra"
+  },
+  {
+    "titulo": "La IA redefine el mapa de la reputación y los intangibles",
+    "medio": "Expansión",
+    "fecha": 1781480115.0,
+    "link": "https://www.expansion.com/empresas/2026/06/15/6a2efd58e5fdeae7308b457b.html",
+    "resumen": "La inteligencia artificial lidera el ránking de los asuntos más relevantes para las empresas españolas, superando a la gestión del talento y la comunicación Leer"
+  },
+  {
+    "titulo": "La carrera contra los ciberataques se convierte en un nuevo motor de consolidación bancaria",
+    "medio": "Expansión",
+    "fecha": 1781480114.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/06/15/6a2e88e7468aebe7408b45b4.html",
+    "resumen": "En un momento particularmente dulce para el sector financiero europeo, con beneficios récord o cercanos a ello, varios banqueros han vuelto a abrir el debate sobre las fusiones con un principal argumento: ganar competitividad para competir con Estados Unidos. Leer"
+  },
+  {
+    "titulo": "Radisson busca doblar su cifra de hoteles en España hasta 2030",
+    "medio": "Expansión",
+    "fecha": 1781480108.0,
+    "link": "https://www.expansion.com/empresas/transporte/2026/06/15/6a2decee468aeba8308b457c.html",
+    "resumen": "La cadena quiere pasar de doce a treinta establecimientos durante esta década e insta a los gobiernos a definir el modelo turístico del país a largo plazo. Leer"
+  },
+  {
+    "titulo": "Los suizos rechazan en referéndum poner límite a la población",
+    "medio": "Expansión",
+    "fecha": 1781480107.0,
+    "link": "https://www.expansion.com/economia/2026/06/15/6a2f1636e5fdea08278b456d.html",
+    "resumen": "Los suizos rechazaron ayer en un ajustado referéndum la iniciativa No a una Suiza de diez millones, que planteaba imponer medidas para frenar el crecimiento demográfico, principalmente a través de restricciones a la inmigración y al derecho al asilo, si antes de 2050 el país llegaba a los 9,5 millones de habitantes. Leer"
+  },
+  {
+    "titulo": "La paradoja de España: a más gasto público, menos bienestar ciudadano",
+    "medio": "Expansión",
+    "fecha": 1781479532.0,
+    "link": "https://www.expansion.com/opinion/2026/06/15/6a2f120f468aeb32178b45ad.html",
+    "resumen": "El Índice de Riqueza de las Naciones confirma que a pesar de tener un gasto público récord, el retorno para los ciudadanos en servicios y prosperidad se reduce desde el año 2021. Leer"
+  },
+  {
+    "titulo": "Carlyle: \"Nos gustaría invertir más en salud en España\"",
+    "medio": "Expansión",
+    "fecha": 1781479527.0,
+    "link": "https://www.expansion.com/empresas/2026/06/15/6a2ee69a468aeb5d378b45b5.html",
+    "resumen": "El directivo de Carlyle asegura que la firma quiere realizar una nueva inversión en el país \"cada uno o dos años\". Leer"
+  },
+  {
+    "titulo": "Las 'telecos' cifran en hasta 40.000 millones el coste de sustituir a Huawei",
+    "medio": "Expansión",
+    "fecha": 1781479526.0,
+    "link": "https://www.expansion.com/empresas/tecnologia/2026/06/15/6a2eec32468aebe9438b45b2.html",
+    "resumen": "Telefónica, Orange o Vodafone calculan que el coste real de reemplazar los equipos de los fabricantes chinos duplicará los entre 17.000 y 21.500 millones de euros previstos por Bruselas. Leer"
+  },
+  {
+    "titulo": "CaixaBank, BBVA y Santander dominan el 60% del crédito a grandes empresas",
+    "medio": "Expansión",
+    "fecha": 1781479525.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/06/15/6a1d7caae5fdeada2f8b459c.html",
+    "resumen": "Los tres líderes bancarios españoles suman 20 puntos de peso en un año, a pesar de que JPMorgan, ING y Sabadell ganan posiciones en el ránking de principales prestamistas. Leer"
+  },
+  {
+    "titulo": "Siete blancos españoles que no pueden faltar en tu mesa este verano",
+    "medio": "El Mundo",
+    "fecha": 1781478689.0,
+    "link": "https://www.elmundo.es/metropoli/elmundovino/2026/06/15/6a2bdf73fdddffff398b458d.html",
+    "resumen": "Mientras el consumo de vino cae en España, los blancos no paran de crecer y ya son el estilo más bebido del mundo. Te proponemos algunas botellas perfectas para esta temporada. Leer"
+  },
+  {
+    "titulo": "Japón castiga el conservadurismo neerlandés: 2-2",
+    "medio": "The Objective",
+    "fecha": 1781478042.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-15/japon-castiga-el-conservadurismo-neerlandes-2-2/",
+    "resumen": "Japón logró el empate (2-2) contra Países Bajos con un postrero cabezazo del centrocampista del Crystal Palace, Daichi Kamada, en el minuto 88 en el debut […]"
+  },
+  {
+    "titulo": "Una semana de vértigo: de la amenaza de una vuelta a la guerra en Irán a la firma inminente de un acuerdo",
+    "medio": "El País",
+    "fecha": 1781477254.0,
+    "link": "https://elpais.com/internacional/2026-06-15/una-semana-de-vertigo-de-la-amenaza-de-una-vuelta-a-la-guerra-en-iran-a-la-firma-inminente-de-un-acuerdo.html",
+    "resumen": "El lunes, el derribo de un helicóptero Apache estadounidense precipitó el mayor intercambio de fuego de la tregua. Entre el jueves y el sábado, Trump anunció la proximidad del memorando de entendimiento entre los dos enemigos"
+  },
+  {
+    "titulo": "Países Bajos no sabe ganar a Japón y alimenta su corriente pesimista",
+    "medio": "El País",
+    "fecha": 1781476688.0,
+    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-14/paises-bajos-no-sabe-ganar-a-japon-y-alimenta-su-corriente-pesimista.html",
+    "resumen": "La selección de Koeman, empatada en el minuto 89, deja escapar dos ventajas tras superar el tedio del primer tiempo (2-2)"
+  },
+  {
+    "titulo": "Así es el impresionante mural de la Selección en la Casa de España de Atlanta",
+    "medio": "OK Diario",
+    "fecha": 1781476481.0,
+    "link": "https://okdiario.com/mundial/asi-impresionante-mural-seleccion-casa-espana-atlanta-18499195",
+    "resumen": "Atlanta, una de las sedes del Mundial y en la que España jugará sus dos primeros partidos (ante Cabo Verde y contra Arabia Saudí), ya está lista para la gran cita mundialista y, entre otras cosas, tiene una Casa de España. El Mundial se vive por todos lados y OKDIARIO ha visitado este lugar en … Continuar leyendo \"Así es el impresionante mural de la Selección en la Casa de España de Atlanta\""
+  },
+  {
+    "titulo": "Javier de Haro, psicólogo experto en crianza: \"Gestionar las rabietas es un trabajo más de los padres que de los niños\"",
+    "medio": "El Mundo",
+    "fecha": 1781475758.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/06/15/6a229853fdddff17608b45c9.html",
+    "resumen": "Después de años en consulta, tiene una certeza: los niños no necesitan padres perfectos, \"necesitan padres felices\". Anima a que se cuiden y no pierdan los momentos que, sin avisar, un día dejan de llegar. Leer"
+  },
+  {
+    "titulo": "Naomi Campbell. La fiera que se merendó la pasarela y engordó a los paparazzi",
+    "medio": "El Mundo",
+    "fecha": 1781475757.0,
+    "link": "https://www.elmundo.es/yodona/moda/2026/06/15/6a2933c621efa0ac048b45bd.html",
+    "resumen": "Pertenece Naomi Campbell a la estirpe de las supermodelos de los 90, y de todas ellas es sin duda la más icónica por su belleza, su carácter y su biografía, casi mito a estas alturas Leer"
+  },
+  {
+    "titulo": "La joven que renace tras huir de su ex pareja, en busca y captura: \"Me siento segura con el boxeo, no quiero volver a ser maltratada por un hombre\"",
+    "medio": "El Mundo",
+    "fecha": 1781475669.0,
+    "link": "https://www.elmundo.es/madrid/2026/06/15/6a2c3791fdddff0c748b45e5.html",
+    "resumen": "Para romper con el \"maltratador\", dejó su barrio y su trabajo. Hoy vislumbra un futuro desde un centro para víctimas de violencia. Habla 4 idiomas y quiere ser policía para ayudar a mujeres como ella Leer"
+  },
+  {
+    "titulo": "EEUU e Irán llegan a un acuerdo de paz \"completo\" para poner fin a la guerra en todos sus frentes y reabrir el estrecho de Ormuz",
+    "medio": "El Español",
+    "fecha": 1781475365.0,
+    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260615/eeuu-iran-llegan-acuerdo-paz-completo-poner-fin-guerra-frentes-reabrir-estrecho-ormuz/1003744285717_0.html",
+    "resumen": "El cese al fuego también incluye el Líbano, que fue atacado este domingo por Israel.Más información: Trump recibe las felicitaciones de Putin y Zelenski y vuelve a exigir el fin de las hostilidades por ambas partes"
+  },
+  {
+    "titulo": "Países Bajos deja resucitar a un timorato Japón que castiga a Koeman",
+    "medio": "El Mundo",
+    "fecha": 1781475352.0,
+    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/15/6a2f136c21efa06a548b4576.html",
+    "resumen": "Los nipones remontaron dos goles a balón parado ante una de las defensas más altas del campeonato. Kubo se retiró por lesión y apenas tuvo impacto. Leer"
+  },
+  {
+    "titulo": "Trump dice que Netanyahu “no tiene una puta brizna de juicio” tras un bombardeo israelí en Beirut que a punto estuvo de abortar el pacto con Irán",
+    "medio": "El País",
+    "fecha": 1781475060.0,
+    "link": "https://elpais.com/internacional/2026-06-14/trump-afirma-que-netanyahu-no-tiene-una-puta-brizna-de-juicio-tras-el-bombardeo-israeli-de-beirut-que-amenaza-con-torpedear-el-acuerdo-con-iran.html",
+    "resumen": "El presidente de EE UU afirma que el ataque “no debería haber ocurrido”, horas antes de que Teherán y Washington anunciaran un principio de acuerdo"
+  },
+  {
+    "titulo": "Ya es oficial: Trump e Irán anuncian un acuerdo de paz que pone fin a la guerra y reabre el estrecho de Ormuz",
+    "medio": "HuffPost",
+    "fecha": 1781474828.0,
+    "link": "https://www.huffingtonpost.es/global/ya-oficial-trump-ean-anuncian-acuerdo-paz-pone-guerra-reabre-estrecho-ormuz-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Trump anuncia un acuerdo con Irán y la reapertura inmediata del estrecho de Ormuz",
+    "medio": "OK Diario",
+    "fecha": 1781474500.0,
+    "link": "https://okdiario.com/internacional/trump-anuncia-acuerdo-iran-reapertura-del-estrecho-ormuz-18499148",
+    "resumen": "Donald Trump ha anunciado que ha cerrado el esperado acuerdo con la República Islámica de Irán para poner fin al conflicto y reabrir el estreecho de Ormuz. «El acuerdo ya está cerrado, ¡felicidades a todos! De este modo, autorizo la apertura del estrecho de Ormuz sin peajes y, al mismo tiempo, autorizo el levantamiento inmediato … Continuar leyendo \"Trump anuncia un acuerdo con Irán y la reapertura inmediata del estrecho de Ormuz\""
+  },
+  {
+    "titulo": "Petardazo de Holanda en su estreno Mundial ante Japón",
+    "medio": "OK Diario",
+    "fecha": 1781474360.0,
+    "link": "https://okdiario.com/mundial/petardazo-holanda-estreno-mundial-japon-18498988",
+    "resumen": "La Naranja Mecánica se atascó en su debut en el Mundial. Un gol de Japón en el minuto 89 dejó a Holanda sin el premio de la victoria tras un partido en el que fueron superiores. Pero los nipones fueron más eficaces de cara a puerta y aprovecharon sus dos mejores ocasiones para marcar dos … Continuar leyendo \"Petardazo de Holanda en su estreno Mundial ante Japón\""
+  },
+  {
+    "titulo": "Así han quedado los partidos de hoy en el Mundial 2026: resultados y goles del domingo 14 de junio",
+    "medio": "OK Diario",
+    "fecha": 1781474127.0,
+    "link": "https://okdiario.com/mundial/asi-han-quedado-partidos-hoy-mundial-2026-resultados-goles-del-domingo-14-junio-18498745",
+    "resumen": "El Mundial 2026 vive su cuarto día de competición con cuatro partidos: Alemania – Curazao (grupo E), Holanda – Japón (grupo F), Costa de Marfil – Ecuador (grupo E) y Suecia – Túnez (grupo F). Entre los encuentros más destacados está el debut de la cuatro veces campeona del mundo, Alemania, frente a la debutante … Continuar leyendo \"Así han quedado los partidos de hoy en el Mundial 2026: resultados y goles del domingo 14 de junio\""
+  },
+  {
+    "titulo": "Alemania adelanta a Brasil y ya es la selección más goleadora de la historia de los Mundiales",
+    "medio": "HuffPost",
+    "fecha": 1781473896.0,
+    "link": "https://www.huffingtonpost.es/deporte/alemania-adelanta-brasil-seleccion-mas-goleadora-historia-mundiales-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "De la Fuente: “Lamine está en perfectas condiciones para jugar unos minutos”",
+    "medio": "El País",
+    "fecha": 1781473357.0,
+    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-14/de-la-fuente-lamine-esta-en-perfectas-condiciones-para-jugar-unos-minutos.html",
+    "resumen": "El seleccionador de España asegura que Lamine Yamal debutará ante Cabo Verde tras superar su lesión muscular"
   },
   {
     "titulo": "Trump e Irán anuncian un acuerdo de paz",
     "medio": "eldiario.es",
     "fecha": 1781472598.0,
     "link": "https://www.eldiario.es/internacional/pakistan-anuncia-acuerdo-cese-hostilidades-eeuu-e-iran-firmara-proximo-viernes_1_13301257.html",
-    "resumen": "El anuncio llega después de un día en el que Israel ha reanudado sus bombardeos contra la capital de Líbano, en un nuevo intento por hacer descarrilar el acuerdo de paz y que ha censurado el propio TrumpTrump censura el ataque de Israel sobre Beirut: “No debería haberse producido, estamos muy cerca de un acuerdo de paz” Trump afirma que el acuerdo con Irán “está cerrado”. Así lo ha anunciado en un post en Truth Social este domingo por la tarde: “El acuerdo con la República Islámica de Irán ya está cerrado. ¡Felicidades a todos! Por la presente, autorizo plenamente la apertura del estrecho de Ormuz sin peajes y, simultáneamente, autorizo el levantamiento inmediato del bloqueo naval de los Estados Unidos. Barcos del mundo: ¡arranquen motores! ¡Que fluya el petróleo!” Falta, eso sí, conocer la versión de Teherán y la letra del acuerdo. Truth Social de Trump sobre Irán. El primer ministro de Pakistán, Shehbaz Sharif, por su parte, anunció el acuerdo unos minutos antes que Trump en sus redes sociales. Después de semanas de conversaciones cruzadas, intentos de boicot y declaraciones en redes sociales que han retrasado un posible acuerdo, Estados Unidos e Irán han acordado el cese de hostilidades. Trump ha confirmado este acuerdo con un mensaje en su red social. “Tras intensas conversaciones, nos complace anunciar que el Acuerdo de Paz entre los Estados Unidos de América y la República Islámica de Irán ha sido alcanzado. Ambas partes han declarado la terminación inmediata y permanente de las operaciones militares en todos los frentes, incluida Líbano”, arranca el mensaje. Los anuncios del acuerdo han llegado después de que el presidente de EEUU afeara a Israel su último ataque sobre Beirut, que ha causado al menos tres muertos y seis heridos. “El ataque de esta mañana contra Beirut no debería haberse producido”, ha afirmado Trump en Truth Social, “especialmente en un día tan señalado en el que estamos tan cerca de alcanzar un acuerdo de paz con Irán”. Según Trump, “Israel tiene derecho a defenderse de las amenazas, pero el ataque al que respondía fue muy menor e insignificante, nadie resultó herido ni perdió la vida, y no debería obstaculizar este proceso tan importante”. “Estamos muy cerca de un acuerdo que traerá la paz a la región, incluido el Líbano, por lo que todas las partes deberían contenerse”, ha señalado el presidente de EEUU: “No debe haber más ataques de Israel en ninguna parte del Líbano, pero tampoco debe haber más ataques contra Israel por parte de ninguna otra facción, incluido Hezbolá. Este podría ser el comienzo de una paz duradera y maravillosa: ¡no lo echemos a perder!”"
+    "resumen": "El anuncio llega después de un día en el que Israel ha reanudado sus bombardeos contra la capital de Líbano, en un nuevo intento por hacer descarrilar el acuerdo de paz y que ha censurado el propio TrumpTrump censura el ataque de Israel sobre Beirut: “No debería haberse producido, estamos muy cerca de un acuerdo de paz” Acuerdo de paz entre EEUU e Irán. Eso es lo que han anunciado los respectivos países este domingo por la tarde, después de que Pakistán diera las primeras pistas del compromiso entre ambos países. El presidente de EEUU, Donald Trump, ha anunciado en un post en Truth Social este domingo por la tarde: “El acuerdo con la República Islámica de Irán ya está cerrado. ¡Felicidades a todos! Por la presente, autorizo plenamente la apertura del estrecho de Ormuz sin peajes y, simultáneamente, autorizo el levantamiento inmediato del bloqueo naval de los Estados Unidos. Barcos del mundo: ¡arranquen motores! ¡Que fluya el petróleo!” Falta, eso sí, conocer la letra del acuerdo. Truth Social de Trump sobre Irán. La televisión estatal iraní, por su parte, confirmaba poco después que se había alcanzado un acuerdo para poner fin a la guerra en todos los frentes. El viceministro de Asuntos Exteriores, Kazem Gharibabadi, ha asegurado que este memorando de entendimiento “no significa confianza en el enemigo y ha sido escrito a pesar de la falta de confianza” Teherán sostiene que Estados Unidos se vio “obligado” a terminar el conflicto con Irán y “sus aliados”, lo que significaría el fin de las hostilidades en todos los frentes, incluido el de Líbano. Ahora falta por ver si Israel realmente pone fin a sus ataques contra el país mediterráneo. El primer ministro de Pakistán, Shehbaz Sharif, por su parte, anunciaba el acuerdo unos minutos antes que Trump en sus redes sociales. Después de semanas de conversaciones cruzadas, intentos de boicot y declaraciones en redes sociales que han retrasado un posible acuerdo, Estados Unidos e Irán acordaban el cese de hostilidades y una ceremonia pública de firma del mismo. “Tras intensas conversaciones, nos complace anunciar que el Acuerdo de Paz entre los Estados Unidos de América y la República Islámica de Irán ha sido alcanzado. Ambas partes han declarado la terminación inmediata y permanente de las operaciones militares en todos los frentes, incluido Líbano”, arrancaba su mensaje. Sharif, que ha detallado que la ceremonia oficial de la firma del acuerdo tendrá lugar el próximo viernes 19 de junio en Suiza, ha querido agradecer a ambos países por “su compromiso” para hallar una solución diplomática al conflicto así como a otros estados implicados en la negociación como Qatar, Arabia Saudí o Turquía. Además, ha expuesto que a lo largo de la semana los mediadores “facilitarán una serie de reuniones” previas a la implementación del acuerdo de paz y que servirán de base para las posteriores conversaciones “técnicas” y la ceremonia de firma del acuerdo. Los anuncios han llegado después de que el presidente de EEUU afeara a Israel su último ataque sobre Beirut, que ha causado al menos tres muertos y 16 heridos. “El ataque de esta mañana contra Beirut no debería haberse producido”, ha afirmado Trump en Truth Social, “especialmente en un día tan señalado en el que estamos tan cerca de alcanzar un acuerdo de paz con Irán”. Según Trump, “Israel tiene derecho a defenderse de las amenazas, pero el ataque al que respondía fue muy menor e insignificante, nadie resultó herido ni perdió la vida, y no debería obstaculizar este proceso tan importante”. “Estamos muy cerca de un acuerdo que traerá la paz a la región, incluido el Líbano, por lo que todas las partes deberían contenerse”, ha señalado el presidente de EEUU: “No debe haber más ataques de Israel en ninguna parte del Líbano, pero tampoco debe haber más ataques contra Israel por parte de ninguna otra facción, incluido Hizbulá. Este podría ser el comienzo de una paz duradera y maravillosa: ¡no lo echemos a perder!”"
+  },
+  {
+    "titulo": "Trump e Irán confirman que han alcanzado un acuerdo de paz: «¡Que fluya el petróleo!»",
+    "medio": "The Objective",
+    "fecha": 1781472552.0,
+    "link": "https://theobjective.com/internacional/2026-06-14/pakistan-asegura-que-eeuu-e-iran-ya-han-alcanzado-un-acuerdo-de-paz/",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, ha confirmado la noticia que daba minutos antes el primer ministro de Pakistán, Shehbaz Sharif, que Irán había aceptado […]"
+  },
+  {
+    "titulo": "EEUU e Irán anuncian un acuerdo provisional de paz",
+    "medio": "Europa Press",
+    "fecha": 1781472438.0,
+    "link": "https://www.europapress.es/internacional/noticia-pakistan-anuncia-acuerdo-provisional-paz-eeuu-iran-20260614232718.html",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado un acuerdo con Irán por el medio del cual se levanta de inmediato el bloqueo del estrecho de Ormuz instaurado por las fuerzas militares estadounidenses, al tiempo que Irán ha confirmado el mismo tras \"obligar\" a Washington a aceptar sus condiciones."
   },
   {
     "titulo": "Alemania se divierte en el debut mundialista de la milagrosa Curazao",
@@ -47,6 +229,20 @@
     "fecha": 1781471904.0,
     "link": "https://theobjective.com/espana/2026-06-14/extinguido-incendio-forestal-huelva-infoca/",
     "resumen": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca, ha dado por extinguido a las 21,40 horas de este domingo el incendio forestal […]"
+  },
+  {
+    "titulo": "El Valencia Basket decide en Badalona su pase a la final gracias a un excelso Jean Montero",
+    "medio": "El Mundo",
+    "fecha": 1781471763.0,
+    "link": "https://www.elmundo.es/deportes/baloncesto/liga-endesa/2026/06/14/6a2f172a21efa0b82d8b456e.html",
+    "resumen": "El dominicano (24 puntos y 39 de valoración en 28 minutos) domina en las dos zonas de la pista para certificar el 3-0 (75-87). Leer"
+  },
+  {
+    "titulo": "Tarde de héroes en Las Ventas: Víctor Hernández entierra su pureza y el triunfo en el barro con la espada",
+    "medio": "El Mundo",
+    "fecha": 1781471500.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/06/14/6a2e8d1ffdddff77658b4581.html",
+    "resumen": "Una formidable tormenta convierte la tarde en una hazaña con Talavante, Roca Rey y el torero de Madrid entregándose bajo el diluvio; notable corrida de Victoriano del Río Leer"
   },
   {
     "titulo": "Málaga y Almería dejan el ascenso a Primera para la vuelta tras un descafeinado partido en La Rosaleda",
@@ -98,13 +294,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Muere una joven al ser lanzada desde un puente al vacío sin ninguna de sujeción cuando practicaba ‘bungee jump’ en Brasil",
-    "medio": "El País",
-    "fecha": 1781468942.0,
-    "link": "https://elpais.com/america/2026-06-14/muere-una-joven-al-ser-lanzada-desde-un-puente-al-vacio-sin-ninguna-de-sujecion-cuando-practicaba-bungee-jump-en-brasil.html",
-    "resumen": "Seis personas detenidas en el lugar del suceso, popular para el ‘puenting’ y ubicado en São Paulo"
-  },
-  {
     "titulo": "Putin abre la puerta a recibir a Zelenski en Moscú y pide que sea Ucrania quien dé el paso",
     "medio": "HuffPost",
     "fecha": 1781468715.0,
@@ -126,20 +315,6 @@
     "resumen": "El Torneo de Queen’s 2026 arranca como un gran reto para un Rafa Jódar que espera dar un paso más en su carrera y conquistar por primera vez un ATP 500. Además, empieza la temporada de hierba, por lo que también es un gran momento para que el madrileño se prepare de cara a lo … Continuar leyendo \"Rafa Jódar – Ignacio Buse: cuándo es el partido del Torneo de Queen’s 2026, horario y cómo ver por televisión en directo gratis\""
   },
   {
-    "titulo": "De la Fuente: «Cucurella es un valor seguro»",
-    "medio": "OK Diario",
-    "fecha": 1781468420.0,
-    "link": "https://okdiario.com/mundial/fuente-cucurella-valor-seguro-18498506",
-    "resumen": "Luis de la Fuente atendió a los medios de comunicación en la previa del encuentro que enfrentará este lunes a España y Cabo Verde en Atlanta. El combinado nacional debuta contra la selección africana en un duelo inédito en los mundiales. El seleccionador comenzó hablando de Cucurella y su posible fichaje por el Real Madrid: … Continuar leyendo \"De la Fuente: «Cucurella es un valor seguro»\""
-  },
-  {
-    "titulo": "A qué hora es el combate de Ilia Topuria vs Justin Gaethje: horario y dónde ver en directo gratis desde España la pelea de la UFC en la Casa Blanca",
-    "medio": "OK Diario",
-    "fecha": 1781468241.0,
-    "link": "https://okdiario.com/deportes/ilia-topuria-vs-justin-gaethje-cuando-pelea-ufc-casa-blanca-que-hora-empieza-como-verla-tv-gratis-directo-18462793",
-    "resumen": "Desde hace meses se lleva hablando sobre este combate Ilia Topuria vs Justin Gaethje que se celebrará en la Casa Blanca, Washington. El Matador pone en juego su cinturón de peso ligero en esta UFC Freedom 250 y espera poder imponerse a su contrincante, el estadounidense de Arizona que juega en casa, pero para el … Continuar leyendo \"A qué hora es el combate de Ilia Topuria vs Justin Gaethje: horario y dónde ver en directo gratis desde España la pelea de la UFC en la Casa Blanca\""
-  },
-  {
     "titulo": "Comprobar Bonoloto del domingo, 14 de junio de 2026 : resultado del sorteo de hoy",
     "medio": "The Objective",
     "fecha": 1781468197.0,
@@ -147,39 +322,11 @@
     "resumen": "Consulta en The Objective la combinación ganadora de este domingo"
   },
   {
-    "titulo": "Los bomberos encuentran el cuerpo sin vida de un hombre en el Pantano de San Juan en Madrid",
-    "medio": "OK Diario",
-    "fecha": 1781468125.0,
-    "link": "https://okdiario.com/sucesos/bomberos-encuentran-cuerpo-sin-vida-hombre-pantano-san-juan-madrid-18498864",
-    "resumen": "Los bomberos de la Comunidad de Madrid han localizado este domingo el cadáver de un hombre de 57 años que se había ahogado en el Pantano de San Juan. «En torno a las siete y diez hemos recibido una llamada en el 112 indicando que en el Pantano de San Juan unas personas habían visto, … Continuar leyendo \"Los bomberos encuentran el cuerpo sin vida de un hombre en el Pantano de San Juan en Madrid\""
-  },
-  {
-    "titulo": "De la Fuente: \"¿Cucurella? Si es una buena noticia para él, es una buena noticia para todos\"",
-    "medio": "El Mundo",
-    "fecha": 1781468045.0,
-    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/14/6a2efebafc6c834a2d8b4592.html",
-    "resumen": "El seleccionador, en la previa del debut contra Cabo Verde, cree que el posible fichaje del lateral por el Real Madrid no va a influir en su rendimiento Leer"
-  },
-  {
-    "titulo": "Jean Montero desarma al Joventut y mete al Valencia en la final de la Liga",
-    "medio": "El País",
-    "fecha": 1781467897.0,
-    "link": "https://elpais.com/deportes/baloncesto/2026-06-14/jean-montero-desarma-al-joventut-y-mete-al-valencia-en-la-final-de-la-liga.html",
-    "resumen": "El equipo de Pedro Martínez impone su físico en el tercer partido y luchará por el título contra el Barcelona (75-87)"
-  },
-  {
     "titulo": "El Gordo de La Primitiva: comprueba aquí el número ganador del sorteo de este domingo, 14 de junio de 2026",
     "medio": "The Objective",
     "fecha": 1781467515.0,
     "link": "https://theobjective.com/loterias/2026-06-14/el-gordo-la-primitiva-domingo-14-junio-2026/",
     "resumen": "El primer sorteo de este juego de lotería se celebró el 31 de enero de 1993 con un coste de 500 pesetas"
-  },
-  {
-    "titulo": "Toros y tormenta: la tarde heroica de Talavante, Roca Rey y Víctor Hernández",
-    "medio": "OK Diario",
-    "fecha": 1781467463.0,
-    "link": "https://okdiario.com/toros/toros-tormenta-tarde-heroica-talavante-roca-rey-victor-hernandez-18498863",
-    "resumen": "Llegaba la cita más señalada y esperada de la temporada venteña con la tradicional Corrida de la Beneficencia, una de las fechas marcadas en rojo en el calendario taurino. La plaza registraba el ambiente de las grandes ocasiones para recibir un cartel de máximo atractivo compuesto por Alejandro Talavante, Roca Rey y Victor Hernández. Frente … Continuar leyendo \"Toros y tormenta: la tarde heroica de Talavante, Roca Rey y Víctor Hernández\""
   },
   {
     "titulo": "El incendio de Orense quema 150 hectáreas y pasa a nivel 2 de emergencia",
@@ -231,34 +378,6 @@
     "resumen": "El aparato no logró coger altitud e hizo un giro brusco hacia la izquierda para estrellarse a unos 300 metros de la pista del aeropuerto.Más información: Un avión de Air Canada choca con un camión de bomberos tras aterrizar en Nueva York: mueren el piloto y el copiloto."
   },
   {
-    "titulo": "Localizan sin vida a un hombre de 57 años que desapareció mientras nadaba en el Pantano de San Juan, en Madrid",
-    "medio": "El Mundo",
-    "fecha": 1781466995.0,
-    "link": "https://www.elmundo.es/madrid/2026/06/14/6a2f0524e85ecea85e8b4586.html",
-    "resumen": "Sus compañeros de piso fueron los que denunciaron que se podría haber ahogado Leer"
-  },
-  {
-    "titulo": "La jefa de la lucha antidrogas de EE UU destaca la cooperación con México: “Nunca habíamos visto algo así”",
-    "medio": "El País",
-    "fecha": 1781466759.0,
-    "link": "https://elpais.com/mexico/2026-06-14/la-jefa-de-la-lucha-antidrogas-de-ee-uu-destaca-la-cooperacion-con-mexico-nunca-habiamos-visto-algo-asi.html",
-    "resumen": "Sara Carter sostiene que la Administración de Donald Trump continuará apuntando a funcionarios corruptos que apoyen a los carteles"
-  },
-  {
-    "titulo": "El youtuber Gaspi y el cantante Oliver Tree, entre las víctimas del accidente de helicóptero de Río de Janeiro",
-    "medio": "HuffPost",
-    "fecha": 1781466474.0,
-    "link": "https://www.huffingtonpost.es/sociedad/el-youtuber-gaspi-cantante-oliver-tree-victimas-accidente-helicoptero-rio-janeiro-f202606.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Glovo, Mediapro, Nissan...: así impacta la oleada de ERE en las empresas catalanas",
-    "medio": "Expansión",
-    "fecha": 1781465531.0,
-    "link": "https://www.expansion.com/catalunya/2026/06/14/6a2f0193468aebfd508b45a1.html",
-    "resumen": "De enero a abril, hasta 3.000 personas han sido despedidas en el marco de un ERE Leer"
-  },
-  {
     "titulo": "¿Qué pretende Sánchez? Sus dos planes para que España reviente y no se haga justicia",
     "medio": "El Español",
     "fecha": 1781465521.0,
@@ -280,27 +399,6 @@
     "resumen": "La selección de Alemania entró este domingo con buen pie en Estados Unidos y aparcó cualquier fantasma de sus últimas participaciones con una buena goleada en […]"
   },
   {
-    "titulo": "40 menas marroquíes han entrado a nado en Ceuta desde el viernes",
-    "medio": "The Objective",
-    "fecha": 1781464308.0,
-    "link": "https://theobjective.com/espana/2026-06-14/menas-marroquies-entrado-nado-ceuta/",
-    "resumen": "Unos 40 menores, todos ellos marroquíes, han logrado entrar en Ceuta desde el viernes en unos días de máxima presión en los que la Delegación del […]"
-  },
-  {
-    "titulo": "Alemania no deja soñar demasiado a Curazao",
-    "medio": "Europa Press",
-    "fecha": 1781464158.0,
-    "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-alemania-no-deja-sonar-demasiado-curazao-20260614210918.html",
-    "resumen": "La tetracampeona del mundo comienza esta vez con fuerza su asalto al Mundial y con 7-1 al modesto debutante que llegó a igualar el 1-0"
-  },
-  {
-    "titulo": "Trump afirma que Netanyahu “no tiene una puta brizna de juicio” tras el bombardeo israelí en Beirut, que amenaza el acuerdo con Irán",
-    "medio": "El País",
-    "fecha": 1781463904.0,
-    "link": "https://elpais.com/internacional/2026-06-14/trump-afirma-que-netanyahu-no-tiene-una-puta-brizna-de-juicio-tras-el-bombardeo-israeli-de-beirut-que-amenaza-con-torpedear-el-acuerdo-con-iran.html",
-    "resumen": "El presidente de EE UU afirma que el ataque “no debería haber ocurrido” y confía en que no eche por tierra el pacto, que aún preve firmar inminentemente. Israel se prepara para una represalia de Teherán con misiles"
-  },
-  {
     "titulo": "En plena era de la IA hay quien defiende una idea radical: que el software siga cabiendo en un disquete",
     "medio": "Xataka",
     "fecha": 1781463617.0,
@@ -315,34 +413,6 @@
     "resumen": "Nigeria sufre un sistema de violencias interconectadas. La lucha antiterrorista centrada en Boko Haram fracasa al ignorar motores económicos y sociales. La entrada La crisis seguridad Nigeria revela una fragmentación que la estrategia antiterrorista no aborda aparece primero en Moncloa."
   },
   {
-    "titulo": "Una coral Alemania aplasta a la histórica Curazao, que marcó su primer gol en un Mundial",
-    "medio": "El Mundo",
-    "fecha": 1781463534.0,
-    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/14/6a2edeaae85ece1d268b4572.html",
-    "resumen": "El equipo de Nagelsmann no tiene piedad y le hace siete tantos a una de las debutantes del torneo con la mayoría de goleadores diferentes Leer"
-  },
-  {
-    "titulo": "Son españoles, pero no apoyan a España en el Mundial: \"Siempre digo que prefiero una Champions del Madrid a 10 mundiales\"",
-    "medio": "HuffPost",
-    "fecha": 1781463429.0,
-    "link": "https://www.huffingtonpost.es/deporte/son-espanoles-apoyan-espana-mundial-siempre-digo-prefiero-champions-madrid-10-mundiales-f202606.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Caída histórica ante el dólar en Cuba tras el decepcionante paquete económico del castrismo: \"El régimen ya no puede ocultar la realidad de su fracaso\"",
-    "medio": "El Mundo",
-    "fecha": 1781462761.0,
-    "link": "https://www.elmundo.es/internacional/2026/06/14/6a2ef55ffdddffac218b4593.html",
-    "resumen": "En la hora punta de este domingo sólo existió una disponibilidad de 1.215 megavatios cuando el país necesitaba 3.100. En los últimos días, más del 60% del país ha estado sin energía eléctrica Leer"
-  },
-  {
-    "titulo": "Un raro meteorito indica que existió un protoplaneta, hoy perdido en el sistema solar",
-    "medio": "El Mundo",
-    "fecha": 1781462671.0,
-    "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/06/14/6a26a119fdddff5f668b458f.html",
-    "resumen": "Un equipo científico demuestra que una roca hallada en el desierto de Sahara se formó en un protoplaneta desaparecido y más grande que la Luna Leer"
-  },
-  {
     "titulo": "La Gen Z de Corea no puede pagar el delivery. Ha encontrado la forma de que su cerebro no lo note: apps que no venden nada",
     "medio": "Xataka",
     "fecha": 1781461817.0,
@@ -355,13 +425,6 @@
     "fecha": 1781461256.0,
     "link": "https://www.elespanol.com/treintayseis/actualidad/provincia-de-ourense/20260614/joven-anos-critico-atropellada-celanova-ourense/1003744285710_0.html",
     "resumen": "La víctima fue evacuada en helicóptero medicalizado al CHUO después de ser alcanzada cuando cruzaba la N-540 en Vilanova dos InfantesMás sucesos: Nuevo accidente mortal en Pontevedra: fallece un motorista de 58 años tras colisionar con un coche"
-  },
-  {
-    "titulo": "La Fed y Ormuz centran la atención tras el debut de SpaceX",
-    "medio": "Expansión",
-    "fecha": 1781460850.0,
-    "link": "https://www.expansion.com/mercados/2026/06/14/6a2ed58e468aebe9438b45a9.html",
-    "resumen": "El Ibex arranca la semana desde los máximos de 18.764,4 puntos marcados el viernes y a la expectativa de que esta vez el acuerdo entre Irán y EEUU sea definitivo. El ataque de Israel a Beirut complica el fin del conflicto. Hay dudas entre los expertos, que se muestran moderadamente optimistas con la apertura del estrecho de Ormuz. Leer"
   },
   {
     "titulo": "Los hogares se vacían de niños y se llenan de perros: hay un 14% más de mascotas desde 2021 y sólo un 1% más de bebés",
@@ -383,13 +446,6 @@
     "fecha": 1781460017.0,
     "link": "https://www.trendencias.com/silver/david-cespedes-experto-longevidad-tomar-cucharada-crema-cacahuete-antes-dormir-puede-ayudarte-a-conciliar-sueno",
     "resumen": "Aunque los expertos no se cansan de intentar convencernos de la importancia de dormir bien, lo cierto es que en España cada vez dormimos peor y los problemas para conciliar el sueño forman parte del día a día de miles de personas. Aunque muchas personas recurren a pastillas, lo cierto es que lo más saludable es poner en marcha hábitos diarios que nos ayudan a dormir mejor. Pequeños cambios en la alimentación, en los horarios y en los hábitos nocturnos pueden marcar una diferencia real en la calidad del descanso. El sueño, en definitiva, también se construye durante el día. Ni infusiones ni pastillas: crema de cacahuete El doctor David Céspedes, médico experto en longevidad, ha contado en uno de sus últimos vídeos en Instagram tres alimentos concretos que pueden ayudar a mejorar la calidad del sueño. Según este experto, \"dormir mal no siempre se soluciona con suplementos. Hay alimentos para dormir mejor que pueden ayudarte de forma natural gracias a su contenido en triptófano, magnesio y proteínas de calidad\". El primero es la crema de cacahuete, ya que \"tiene triptófano que ayuda a producir serotonina y melatonina, lo que se traduce en estar más relajado antes de dormir\". Aún así, el experto advierte que hay que tener cuidado con la cantidad. \"Una cucharadita 60 minutos antes de irte a dormir\". Y además, señala que también contiene magnesio, que ayuda a relajar la musculatura. El yogur griego, un aliado que estabiliza durante la noche El segundo alimento que menciona es el yogur griego natural. Aquí el argumento va más allá del triptófano. Céspedes subraya su capacidad para proporcionar estabilidad metabólica mientras se duerme, algo que tiene más importancia de la que parece: \"Contiene triptófano también y además no te genera picos de glucosa como otros alimentos\", explica. Las fluctuaciones de azúcar en sangre durante la noche son una de las causas poco reconocidas de los despertares nocturnos, y optar por alimentos con proteínas y grasas saludables puede contribuir a evitarlas. Los huevos, un alimento que tardó demasiado en ser reivindicado El tercer alimento es el huevo, y su presencia en esta lista tiene también algo de reparación histórica. Durante décadas estuvo señalado por su contenido en colesterol, asociado de forma bastante simplista a un mayor riesgo cardiovascular. La literatura científica ha ido corrigiendo esa visión con el tiempo, y hoy nadie con criterio lo pone en duda. \"Los huevos contienen triptófano, proteína completa y no generan picos de glucosa como otros alimentos\", resume Céspedes. El huevo es uno de los alimentos más densos desde el punto de vista nutricional. Aporta triptófano de alta biodisponibilidad y, además, vitamina B6, un cofactor imprescindible para que este aminoácido se convierta en serotonina. Fotografías | dr.davidcespedes, Freepik, Nensuria, Freepik En Trendencias | A los 60 el sueño cambia: Merijn van de Laar, psicólogo experto en insomnio afirma que “esto no significa que se duerma 'peor' sino de forma 'diferente'\" En Xataka | Jordi Martí, arquitecto: \"Un toldo verde en la terraza es como tener un radiador sobre la ventana\" En 3D Juegos | He vuelto a jugar en PS5 al 'primo de God of War' y tengo un problema: lo recomendaría, pero 128 millones de jugadores han salido perdiendo - La noticia David Céspedes, experto en longevidad: \"Tomar una cucharada de crema de cacahuete antes de dormir puede ayudarte a conciliar el sueño\" fue publicada originalmente en Trendencias por Nacho Viñau ."
-  },
-  {
-    "titulo": "¿Por qué he jurado la Bandera de España?",
-    "medio": "El Mundo",
-    "fecha": 1781459306.0,
-    "link": "https://www.elmundo.es/cataluna/2026/06/14/6a2eb869fc6c8302248b4575.html",
-    "resumen": "Adam Casals, delegado exterior de la Generalitat de Cataluña entre 2015 y 2017, coincidiendo con el 'procés', explica en esta tribuna por qué ha expresado fidelidad y lealtad a la Nación a través de este acto solemne Leer"
   },
   {
     "titulo": "La semana del G7 arranca con una multitudinaria manifestación, piedras y gases lacrimógenos en Ginebra",
@@ -455,32 +511,11 @@
     "resumen": "En el verano de 1955, los habitantes de Nevada comenzaron a informar de extraños objetos volando a alturas imposibles. Décadas después, documentos desclasificados de la CIA revelaron que gran parte de aquellos supuestos ovnis eran en realidad prototipos secretos que se probaban en Groom Lake, la instalación que acabaría siendo conocida mundialmente como Área 51. Una imagen borrosa y una idea olvidada. Todo comenzó hace unos días con una captura térmica tomada cerca de Groom Lake, la instalación más conocida como Área 51. La imagen mostraba una aeronave de forma extraña, aparentemente sin cola, con grandes canards delanteros y unas alas poco convencionales. La calidad del vídeo impide identificar con certeza qué es exactamente, pero bastó para desencadenar una avalancha de teorías. Lo más llamativo es que la silueta ha llevado a varios especialistas a rescatar una idea que parecía enterrada desde hace más de cuarenta años: un concepto experimental de caza furtivo diseñado en 1983 que recibió el apodo informal de “Christmas Tree Fighter” o caza árbol de Navidad. Imagen térmica aparecida cerca de Área 51 El regreso del avión de combate imposible. Ese diseño de 1983 fue creado por Darold Cummings, uno de los ingenieros que más tarde participaría en el desarrollo del YF-23. En aquella época, Northrop buscaba formas radicales de construir un avión de combate con una firma radar extremadamente reducida. Cummings propuso el DP-21, una aeronave con una geometría tan extrema que muchos la consideraron imposible de volar. Su configuración buscaba alcanzar una característica muy codiciada en el diseño furtivo: una estructura de solo cuatro grandes reflejos radar principales, algo parecido a lo conseguido por el bombardero B-2. El problema era que la tecnología de control de vuelo de los años ochenta no podía manejar con seguridad un aparato tan inestable. Por eso el concepto quedó archivado como una curiosidad técnica más que como un proyecto real. Proyecto del caza \"árbol de Navidad\" Por qué ha despertado tanto interés una foto. La aeronave observada cerca de Área 51 presenta algunos rasgos que recuerdan vagamente a aquel DP-21. Destaca especialmente la forma de la sección frontal, que en determinadas imágenes parece dibujar una especie de doble punta de flecha. También coinciden la ausencia de superficies de cola tradicionales, la presencia de grandes canards y una distribución general de alas y fuselaje que se aleja de los diseños convencionales. Nadie afirma que se trate de una evolución directa del proyecto de Cummings, pero la comparación resulta inevitable porque la imagen parece recuperar soluciones aerodinámicas que durante décadas se consideraron demasiado complejas o arriesgadas para convertirse en un avión operativo. Las pistas apuntan al F-47. La teoría dominante es que la aeronave podría estar relacionada con los demostradores tecnológicos del programa NGAD, del que surgirá el futuro F-47 estadounidense. Las formas generales coinciden con varios elementos visibles en los pocos diseños oficiales publicados hasta ahora: grandes canards, alas muy retrasadas, ausencia de estabilizadores verticales y una configuración optimizada para la furtividad. Además, algunos investigadores han señalado que la silueta parece haber estado escondida durante años a plena vista. Un parche oficial de la oficina responsable del F-47 incluía una figura estilizada que, observada con detenimiento, guarda sorprendentes similitudes con el aparato captado en la imagen térmica. No sería la primera vez que un programa ultrasecreto deja pistas visuales aparentemente inocentes en insignias y emblemas internos. Décadas de experimentos ocultos. La posible aeronave también parece reunir influencias de otros programas experimentales desarrollados por Boeing y sus predecesores. Entre ellos destacan el X-36, un demostrador sin cola diseñado para explorar nuevas formas de maniobrabilidad, y el Bird of Prey, uno de los proyectos más secretos de los años noventa. Ambos apostaban por configuraciones extremadamente poco convencionales y por reducir al máximo la firma radar. Recordaban en TWZ que las tecnologías probadas en aquellos programas nunca desaparecieron realmente, sino que siguieron evolucionando dentro de proyectos clasificados. La captura obtenida cerca de Área 51 podría ser la primera evidencia pública de hasta dónde ha llegado esa evolución. En Xataka EEUU apostó por la calidad de los F-35 antes que por la cantidad. China apostó por lo contrario y ya es un problema Un misterio sin resolver. La realidad es que nadie fuera de los círculos más restringidos del Pentágono sabe qué muestra exactamente la grabación. Podría ser un demostrador del F-47, un prototipo relacionado con el futuro caza naval F/A-XX, un proyecto de Northrop Grumman o incluso una plataforma experimental completamente distinta. Lo único evidente es que la imagen ha logrado algo poco habitual: devolver al primer plano una idea nacida en 1983 que muchos consideraban una nota a pie de página en la historia de la aviación. Cuarenta años después, el supuesto “caza árbol de Navidad” vuelve a ser relevante porque una sombra captada en el cielo del desierto de Nevada parece sugerir que algunas de las ideas más extrañas del pasado podrían haber encontrado por fin la tecnología necesaria para hacerse realidad. Imagen | X, DAROLD CUMMINGS En Xataka | En septiembre, un aparato no identificado se estrelló muy cerca del Área 51. El verdadero misterio comenzó justo después En Xataka | EEUU acaba de lograr el “santo grial” del combate aéreo: que un F-35 no solo detecte al enemigo, también se libre de él por su cuenta - La noticia Una extraña imagen térmica en Área 51 ha rescatado una idea olvidada de 1983: el caza imposible \"árbol de Navidad\" fue publicada originalmente en Xataka por Miguel Jorge ."
   },
   {
-    "titulo": "La Policía usa gases lacrimógenos contra manifestantes anti-G7 que han lanzado piedras y petardos cerca de la ONU en Ginebra",
-    "medio": "El Mundo",
-    "fecha": 1781458190.0,
-    "link": "https://www.elmundo.es/internacional/2026/06/14/6a2ee32dfc6c8324798b45bb.html",
-    "resumen": "Varios edificios también fueron atacados, en particular los de PricewaterhouseCoopers, grupo de consultorías multinacional, y la sede de la Unión Internacional de Telecomunicaciones (UIT) Leer"
-  },
-  {
-    "titulo": "Wall Street digiere SpaceX y pone la vista en Anthropic y Alphabet",
-    "medio": "Expansión",
-    "fecha": 1781458012.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/06/14/6a2ee3a8e5fdea82658b457b.html",
-    "resumen": "Los inversores absorben los 75.000 millones emitidos por SpaceX y ponen la vista en la próxima llegada de Anthropic y Alphabet al mercado. Leer"
-  },
-  {
     "titulo": "Un niño de 12 años iba en un grupo de motoristas que hacía caballitos por la A-7 en Valencia: \"Casi provocan un accidente\"",
     "medio": "El Español",
     "fecha": 1781457890.0,
     "link": "https://www.elespanol.com/reportajes/20260614/nino-anos-iba-grupo-motoristas-caballitos-a-7-valencia-provocan-accidente/1003744285656_0.html",
     "resumen": "La Guardia Civil sostiene que los 25 motoristas quedaron por redes sociales. Uno de los detenidos tiene 16 años y otros cinco son adultos. Este lunes pasan a disposición judicial por organización criminal y conducción temeraria.Más información: Rafa Mir eligió ser juzgado por agresión sexual a una oferta del fiscal: evitaba la cárcel y reducía la indemnización en 24.000€"
-  },
-  {
-    "titulo": "Trump recibe las felicitaciones de Putin y Zelenski y vuelve a exigir el fin de las hostilidades por ambas partes",
-    "medio": "El Español",
-    "fecha": 1781457281.0,
-    "link": "https://www.elespanol.com/mundo/europa/20260614/trump-recibe-felicitaciones-putin-zelenski-vuelve-exigir-fin-hostilidades-ambas-partes/1003744285666_0.html",
-    "resumen": "EEUU y Rusia coinciden en que los recientes ataques ucranianos a infraestructuras civiles \"obstaculizan la búsqueda de una solución\".Más información: Europa pierde la paciencia con Kaja Kallas: los países miembros de la UE sopesan desmantelar el servicio diplomático europeo"
   },
   {
     "titulo": "René Descartes, padre de la filosofía moderna: “La verdad no se encuentra en la multitud de opiniones, sino en la evidencia”",
@@ -637,20 +672,6 @@
     "resumen": "Supergirl, la nueva película del universo de DC a punto de estrenarse, es una rareza. Y lo es, porque, al contrario de cualquier otra película de la saga (en cualquiera de sus etapas), la cinta explora directamente el mundo editorial de la franquicia. Lo hace además desde la perspectiva de un personaje completamente distinto al […] Seguir leyendo: 5 cosas que debes saber de ‘Supergirl’ para disfrutar mejor la película"
   },
   {
-    "titulo": "Ferrovial pagará 400 millones de su dividendo flexible este lunes",
-    "medio": "Expansión",
-    "fecha": 1781443980.0,
-    "link": "https://www.expansion.com/mercados/2026/06/14/6a2eaca9e5fdeaf01e8b457c.html",
-    "resumen": "Ferrovial pagará un dividendo flexible de 400 millones de euros este lunes, 15 de junio, que se repartirá entre los accionistas a razón de 0,5578 euros por acción. Leer"
-  },
-  {
-    "titulo": "Cruce de cables: Por qué los ordenadores siguen teniendo carpetas y papeleras",
-    "medio": "Microsiervos",
-    "fecha": 1781442365.0,
-    "link": "https://www.microsiervos.com/archivo/ordenadores/cruce-cables-93-ordenadores-carpetas-papeleras.html",
-    "resumen": "El otro día David Sierra de Cruce de cables (RNE) se preguntaba si alguna vez habían cambiado los viejos iconos de los ordenadores, y estuvimos un rato charlando sobre el tema. ¿Por qué todavía hay teléfonos, lupas o disquetes obsoletos para simbolizar cosas o acciones?. El programa puede escucharse aquí: Por qué los ordenadores siguen teniendo carpetas y papeleras [en 20:20]. Vivimos en una rareza cotidiana de la informática: llevamos medio siglo cambiando radicalmente cómo funcionan los ordenadores, pero seguimos usándolos como si fueran una oficina de los años 80. Hay móviles, nube, inteligencia artificial, pantallas táctiles y almacenamiento casi infinito, pero para organizar cosas seguimos abriendo carpetas, tirando archivos a papeleras y guardando documentos con el icono de un disquete. La idea viene de lejos. El Xerox Alto, en 1973, inventó la interfaz gráfica con el ratón. El Xerox Star, en 1981, trajo la metáfora de la oficina: documentos, carpetas, impresoras, escritorios. Después llegaron el (poco) conocido Apple Lisa en 1983 y luego el Macintosh en 1984, que popularizó de forma definitiva esa forma de trabajar con ventanas, iconos y objetos reconocibles. Windows copió a Apple, que había copiado a Xerox, y el resto es historia. ¿Por qué usamos «objetos» ya casi desaparecidos? La lógica original era muy sencilla: si la gente ya entendía una mesa de trabajo, al usar en el ordenador carpetas y papeleras todo parecería menos marciano y sería más fácil de usar. En vez de escribir comandos raros, arrastrabas cosas. Los iconos no representan solo objetos, sino también acciones. El sobre ya no significa «carta de papel», sino «mensaje»; cuando tiene una flecha es «enviar mensaje». La lupa no significa «cristal de aumento», sino «buscar». El candado no es un candado físico, sino «seguridad». Y el disquete ya no es un disquete: es «guardar». Ahí está lo curioso. La muchachada no ha usado jamás un disquete de 3,5 pulgadas, pero reconoce su silueta como el botón de guardar «como se hacía antiguamente». Podría decirse que es un fósil funcional, una momia útil. El objeto real casi ha desaparecido, pero el símbolo sobrevive. Los mejores quizá sean: Carpetas: seguimos organizando archivos como archivadores de papel. Papelera: borrar algo es tirarlo a una cesta metálica. Disquete: el icono universal de guardar, aunque el objeto esté obsoleto. Sobre de correo postal: el email a imagen de las cartas físicas. Lupa: ya no es de vidrio, y sirve para buscar en millones de datos. Candado: privacidad, cifrado y seguridad en forma de cierre mecánico. Portapapeles: copiar y pegar como una metáfora de oficina. Auricular de teléfono fijo: llamar como en los teléfonos primitivos. Calendario de pared: agendas digitales con hojas y cuadrículas. Engranaje: los «ajustes» se representan con una pieza mecánica. ¿Se quedarán atascadas para siempre las interfaces? Un poco sí, pero por una buena razón. Las interfaces no son solo tecnología: también son costumbres, memoria muscular y «compromisos culturales». Si cambias demasiado los símbolos, la gente se pierde. Un icono viejo puede ser mucho más efectivo que uno moderno si todo el mundo entiende qué significa. Los ordenadores son en cierto modo «máquinas del futuro», pero seguimos hablando con ellos usando objetos del pasado. No porque seamos tontos, sino porque esas metáforas funcionaron tan bien que se quedaron formando parte de la cultura digital. Relacionados: La historia de los iconos de las interfaces de usuario y sistemas operativos más populares, año a año (1981-2015) Los iconos originales de los cuadernos de Susan Kare El Xerox Star, treinta años después Del Apple Lisa a LisaGUI en el navegador La evolución gráfica de los sistemas operativos: Mac OS, Windows Otra versión sobre la visita de Steve Jobs y su equipo al Xerox PARC La evolución de las barras de desplazamiento de las ventanas de interfaz de usuario, desde el Xerox Star a Windows 10 # Enlace Permanente"
-  },
-  {
     "titulo": "Columnas grecorromanas junto al mar y las mejores anchoas de España: el pueblo de pescadores con más encanto del Mediterráneo",
     "medio": "Trendencias",
     "fecha": 1781442017.0,
@@ -679,13 +700,6 @@
     "resumen": "The European Union’s top diplomat Kaja Kallas says Europe needs to take painful steps to overcome the “cancer” of dependency on China. The EU is talking about protectionism, but in reality its firms are addicted to low-wage labor outside the bloc."
   },
   {
-    "titulo": "Más de 2.400 municipios no registraron compraventas de viviendas en el primer trimestre",
-    "medio": "Expansión",
-    "fecha": 1781441189.0,
-    "link": "https://www.expansion.com/inmobiliario/2026/06/14/6a2ea1cd468aeb39098b4598.html",
-    "resumen": "Un total de 2.447 municipios no registraron ninguna compraventa de vivienda en los tres primeros meses de 2026 mientras que en 3.932 se han producido 10 o menos operaciones inmobiliarias. Leer"
-  },
-  {
     "titulo": "Claude para Windows tiene un fallo que se come la RAM sin que te des cuenta",
     "medio": "Hipertextual",
     "fecha": 1781438400.0,
@@ -700,25 +714,11 @@
     "resumen": "La doctora recomienda adaptar el espacio para mantener la autonomía de los mayores el mayor tiempo posibleAda Cosme, psicóloga: “El bienestar emocional durante la maternidad no es negociable, también hay un bebé implicado” No hay nada como nuestra propia casa. Es cómoda, familiar y está llena de recuerdos. Para muchos adultos mayores, envejecer en casa es clave para su independencia y para su buena calidad de vida en la vejez. Pero con la edad, la movilidad disminuye y las cosas que antes se hacían sin dificultad ahora pueden suponer un reto mayor. Quizás las escaleras parezcan más empinadas o ya no se tiene la misma estabilidad al entrar y salir de la ducha. Son pequeños desafíos que van apareciendo de forma gradual y que hacen que el hogar no sea tan seguro ni tan cómodo como antes. Pero eso no significa que se tenga que renunciar a la independencia ni abandonar el lugar donde queremos vivir. Con algunas adaptaciones, nuestro hogar puede ser igual de seguro que siempre. “Para que el deseo de envejecer en su propio hogar no se convierta en un factor de riesgo, la casa debe evolucionar al mismo ritmo que nuestras capacidades físicas y cognitivas; no se trata de cambiar de vida, sino de adaptar el espacio para mantener la autonomía el mayor tiempo posible”, nos explica Paola Ríos Germán, doctora especialista en Geriatría y Medicina Preventiva. Mantener la independencia y lograr la seguridad en el hogar no tienen por qué ser objetivos contrapuestos. Más bien al contrario. “La adaptación del hogar no debe verse como un paso hacia la dependencia, sino todo lo contrario: es una herramienta de prevención y una inversión de calidad: un entorno amigable prolonga la independencia de la persona y retrasa la necesidad de institucionalización”, afirma Ríos. Los puntos más críticos de la casa El hogar debe fomentar la independencia, no obstaculizarla. Las modificaciones estratégicas facilitan y hacen más seguras las actividades diarias a medida que las necesidades evolucionan con el tiempo. Porque una de las mayores amenazas para la independencia en el hogar son las caídas, cuyo riesgo aumenta con la edad debido a cambios en la salud y fisiología. El 30% de las personas mayores de 65 años y el 50% de los mayores de 80 años se caen al menos una vez al año, según datos del Ministerio de Sanidad. Pero no deben considerarse normales ni inevitables. Tropiezos y quemaduras, incluso situaciones de aislamiento, también pueden evitarse con pequeños cambios. El baño es uno de los puntos más críticos de la casa. Se calcula que el 66% de los accidentes domésticos que sufren las personas mayores suceden en el baño. Es un espacio que se usa mucho, por lo que es importante que sea seguro y fácil de usar. Otro de los enemigos de la autonomía a medida que envejecemos son los obstáculos ocultos. “Las alfombras, por muy bonitas o familiares que sean, son la principal causa de tropiezos en el hogar y deberían retirarse por norma general”, advierte Ríos. Cómo crear un entorno seguro en casa, habitación por habitación Ya hemos visto que un hogar seguro es clave para fomentar la independencia en la vejez. Incluso pequeños problemas de seguridad pueden dificultar la vida de las personas mayores, sobre todo cuando las capacidades físicas, como la movilidad, el equilibrio o la visión se ven afectadas. Al pasar de una habitación a otra de la casa, veremos cómo unos pocos cambios en el mobiliario y en las instalaciones pueden marcar una gran diferencia. En el baño: de la bañera al plato de ducha “La transición más urgente siempre es sustituir la bañera por un plato de ducha a ras de suelo con superficie antideslizante”, aconseja Ríos. En esta habitación también es indispensable la instalación de “barras de apoyo estratégicas, como en el inodoro y la ducha, que no son un símbolo de vejez sino de seguro de vida”. También serán de gran ayuda algunas acciones simples como “elevar la altura del inodoro mediante un alzador o incorporar una silla de ducha adecuada, pequeños objetos que transforman por completo la experiencia diaria, reduciendo el esfuerzo físico y el miedo a los resbalones”, matiza Ríos. Dormitorio: una cama cómoda y con la altura adecuada El dormitorio debería ser una de las habitaciones más cómodas de la casa. Sin embargo, muchas veces los muebles a los que uno está acostumbrado pueden volverse menos accesibles a medida que disminuye la movilidad. Sin duda, la gran protagonista es la cama, y la clave para que sea cómoda es “la altura y la firmeza porque, si es demasiado baja, dificulta el levantarse y sobrecarga las articulaciones”, explica Ríos. Una buena opción es una cama regulable en altura, ya que permite ajustar la altura y la posición, generalmente mediante control remoto, lo que facilita entrar y salir sin forzar la espalda ni las piernas. Salón: priorizar la accesibilidad y ergonomía Igual que la cama es importante en el dormitorio, el sofá lo es en el salón. En este caso, la necesidad es la misma: altura y firmeza. “Es fundamental contar con asientos firmes, con reposabrazos que sirvan de palanca”, afirma Ríos. También hay la opción de contar con sillones reclinables elevadores, que ayudan a prevenir lesiones y reducen el esfuerzo físico necesario para sentarse o levantarse. Basta con pulsar un botón en el mando a distancia y el sillón hará su labor con un movimiento suave y sin esfuerzo. El paso de una posición erguida a una sentada facilita el acceso al sillón. Además, incorporan otras particularidades que brindan comodidad, como un reposapiés elevado, respaldo reclinable y soporte lumbar. Es fundamental, tanto en el salón como la habitación y otras zonas, la distribución del espacio, que “debe permitir el paso cómodo, incluso si en el futuro se necesita un bastón o un andador. Forzar a una persona a ‘esquivar muebles’ en su propia casa es una receta para el desastre”, reconoce Ríos. Por tanto, es clave “mantener despejados los pasillos, eliminando cables sueltos o muebles auxiliares inestables”. Aquí hablaríamos también de las alfombras, que ya hemos visto que suponen un riesgo de tropiezo. Reorganización de la cocina La cocina es otro espacio donde algunas personas mayores pueden tener dificultades con el paso de los años: armarios altos que obligan a usar taburetes o sillas para llegar a los trastos de más arriba o armarios esquineros de difícil acceso. Esto, unido al hecho de que, a medida que envejecemos, nos resulta más difícil estirarnos y agacharnos, dificulta muchas veces las tareas más cotidianas. Siempre que sea posible, es preferible colocar los utensilios que se usan con más frecuencia en lugares de fácil acceso. Los cajones y armarios extraíbles pueden ayudar también a acceder a objetos en zonas de difícil acceso. Esto elimina la necesidad de estirarse o trepar innecesariamente. Mejorar la entrada a casa El acceso al hogar es otro punto importante. Adaptaciones como rampas, salvaescaleras, puertas y marcos de entrada más anchos facilitarán la entrada y salida de casa. También se puede considerar instalar una luz exterior que ayude a encontrar el camino cuando esté oscuro. Una iluminación adecuada Uno de los sentidos que suelen verse más comprometidos con el paso de los años es el de la agudeza visual. De ahí que “se necesite más luz para caminar con seguridad: una iluminación potente y homogénea, sobre todo en zonas de paso como pasillos, y la instalación de luces con sensores de movimiento por la noche, previenen un porcentaje altísimo de caídas nocturnas”, afirma la especialista en geriatría. Cambios que no deben pasar por alto la salud emocional Todas estas modificaciones en el hogar pueden marcar una diferencia significativa en la capacidad de las personas mayores para envejecer en su propio hogar de forma segura y cómoda. Sin embargo, esto conlleva uno de los “grandes retos de la geriatría y de la arquitectura adaptada: lograr que una casa sea segura sin que parezca un centro de mayores”, afirma Ríos. La comodidad y seguridad no debe estar reñida con “la calidez, la estética y un ambiente acogedor”, reconoce la especialista, para la que la clave está en “hacer pequeños cambios en un tiempo prudencial para que la persona mayor no se sienta fuera de su hogar. Muchas veces la frase ‘sería importante ver un alzador para el inodoro’ puede ser mejor a ‘vamos a tener que reformar toda tu casa’”."
   },
   {
-    "titulo": "La Feria del Libro de Madrid cierra con datos provisionales inferiores a 2025",
-    "medio": "Expansión",
-    "fecha": 1781437119.0,
-    "link": "https://www.expansion.com/sociedad/2026/06/14/6a2e8fff468aebe0318b457d.html",
-    "resumen": "La Feria del Libro de Madrid (FLM) cierra este domingo su 85 edición con un balance provisional en facturación de 7,26 millones de euros y 600.000 visitantes, unas cifras inferiores a las provisionales del año pasado, y con la vista puesta en 2027 que tendrá las memorias como eje temático. Leer"
-  },
-  {
     "titulo": "Israel vuelve a lanzar ataques contra zonas residenciales de Beirut ante la posibilidad de un alto el fuego entre Irán y EEUU",
     "medio": "eldiario.es",
     "fecha": 1781436166.0,
     "link": "https://www.eldiario.es/internacional/israel-vuelve-lanzar-ataques-zonas-residenciales-beirut-posibilidad-alto-fuego-iran-eeuu_1_13300778.html",
     "resumen": "Irán ha anticipado que, si se seguían produciendo ataques de Israel contra el Líbano, la República Islámica tomaría represalias al considerar que el alto el fuego que alcanzó con EEUU el 8 de abril incluye a la nación árabe Trump anuncia que el acuerdo con Irán se firmará este domingo mientras Teherán da largas El Ejército israelí comunicó este domingo que ha emprendido nuevos ataques militares sobre los suburbios del Dahye del sur de Beirut, según un comunicado difundido por la oficina del primer ministro israelí, Benjamín Netanyahu. El bombardeo ha dejado al menos tres muertos y 16 personas heridas, según informan medios libaneses. “De conformidad con la directiva del primer ministro, Benjamin Netanyahu, y del ministro de Defensa, Israel Katz, las Fuerzas de Defensa de Israel (FDI) atacaron objetivos terroristas de la organización Hizbulá en los suburbios del Dahye, en Beirut, en respuesta a los disparos de Hizbulá contra territorio israelí”, dice la nota. El Ejército israelí ha confirmado este ataque y asegura haber atacado “una instalación de infraestructura de Hizbulá”. Los vídeos hechos públicos por habitantes de la capital libanesa en redes sociales muestran amplios daños en edificios residenciales. “El ataque contra el apartamento en Al Ghobeiry dejó, según un nuevo recuento, tres mártires y 16 heridos”, informó brevemente la Agencia Nacional de Noticias libanesa en su cuarto comunicado sobre el recuento preliminar de víctimas del ataque israelí. El ataque al Dahye, un núcleo de las afueras de la capital libanesa y con fuerte apoyo hacia la milicia chiita Hizbulá, se produce después de que el Ejército israelí informara este domingo de que tres proyectiles lanzados desde el Líbano habían caído en comunidades israelíes cercanas a la frontera con el país vecino. El Ejército, que acompañó la información con un vídeo grabado desde una casa en el que se ver un dron cayendo en un bosque, denunció que dichos ataques constituyen una violación del alto el fuego acordado con el Líbano, a pesar del cual se producen ataques a diario por parte de Israel y lanzamiento de proyectiles en respuesta por parte de Hizbulá. Desde el mes de marzo Israel ha matado a más de 3.750 libanes y ha dejado más de 11.600 personas heridas en el país vecino, del que ocupa militarmente entre un 10% y un 20% de forma ilegal. Estos hechos se producen además en plena recta final de las negociaciones entre Estados Unidos e Irán para impulsar un acuerdo de paz cuya firma se ha anunciado como inminente. Irán ha insistido en la necesidad de incluir el cese de hostilidades en Líbano como parte de este acuerdo, algo a lo que el gobierno israelí siempre se ha opuesto. La primera reacción iraní al ataque ha llegado poco después de las 14.30 (hora peninsular española) por parte del líder del Parlamento iraní, Mohamed Ghalibaf, quien ha asegurado que el ataque israelí ha vuelto a demostrar “que Estados Unidos o no tiene la voluntad de cumplir con sus compromisos o no tiene la capacidad para ello”. Ghalibah defiende en un mensaje en la red social X que al “dar luz verde” al gobierno de Netanyahu, Irán no puede ceder en virtud de un acuerdo y añade que “el juego del policía malo y el policía bueno ya está pasado de moda” y que si EEUU no tiene “la voluntad ni la capacidad de cumplir con sus compromisos, no es posible hablar de continuar por este camino”. La última vez que Israel atacó el Dahye fue hace una semana, lo que provocó la respuesta de Irán lanzando tres oleadas de misiles contra territorio israelí, que a su vez contestó con ataques al país persa. Irán había anticipado que, si se seguían produciendo los ataques de Israel contra el Líbano, la República Islámica tomaría represalias al considerar que el alto el fuego que alcanzó con EEUU el 8 de abril incluye a la nación árabe. Dicho intercambio de fuego, que se produjo el lunes 8 de junio, acabó gracias a la mediación del presidente estadounidense, Donald Trump, que impulsa un acuerdo de paz con Irán aún en el aire. Nuevos ataques en Gaza El Ejército israelí mató este domingo a al menos cuatro gazatíes e hirió a otros siete en un ataque con dron en los aledaños del mercado de Al Madhoun, detrás del hospital Al Yemen Al Saeed, en el campamento de refugiados de Jabalia (norte de la Franja), informaron a EFE fuentes médicas del Hospital Shifa. Las víctimas, que fueron atacadas en una ubicación a apenas decenas de metros de la 'línea amarilla' donde las tropas israelíes debían permanecer según el acuerdo de alto el fuego del pasado octubre, fueron trasladadas a este último centro hospitalario debido a la falta de hospitales operativos en el norte de Gaza por el asedio israelí. El Hospital Shifa recalca que la cifra de fallecidos podría aumentar en las próximas horas debido a la gravedad de algunos de los heridos. Horas antes, el Ejército israelí había matado un hombre de unos 30 años en un ataque en el sur de Gaza, el enclave palestino donde un niño de 13 años también murió en la noche del sábado por las heridas causadas por un ataque israelí de hace una semana, confirmaron a EFE fuentes médicas. Según una fuente del Hospital Naser, el fallecido este domingo ha sido identificado como Zaki Mohamad al Qarra, quien según fuentes de los servicios de ambulancias gazatíes fue disparado por un francotirador cerca de la rotonda de Bani Suheila en la carretera de Salah al Din, en el sureste de Jan Yunis. En el ataque resultó herida de gravedad otra persona que fue trasladada al mismo centro hospitalario. Además, alrededor de la medianoche, un niño de 13 años murió de las heridas que le había causado una semana antes un ataque contra el área de Batan al Samin, también en Jan Yunis, confirmó a EFE una fuente del Nasser."
-  },
-  {
-    "titulo": "Un mapa de las ciudades y pueblos más brillantes y con peor contaminación lumínica de España",
-    "medio": "Microsiervos",
-    "fecha": 1781435862.0,
-    "link": "https://www.microsiervos.com/archivo/mundoreal/mapa-pueblo-noche-luz-contaminacion.html",
-    "resumen": "En ElDiario.es han publicado un detallado Mapa de la huella lumínica de las ciudades y pueblos de España, donde se ven los peores sitios para observar el cielo nocturno en todo el país. Por contraposición, también sirve para buscar los mejores lugares de observación usándolo a la inversa: huyendo de las luces que iluminan y contaminan la oscura noche estrellada. El análisis cubre más de 8.000 municipios españoles de más de mil habitantes, con las grandes ciudades (Madrid, Barcelona, Zaragoza, Sevilla, Murcia…) en lo peor de la lista. Los menos malos son Saldaña en Palencia, Ayllón en Segovia y San Sebastián de la Gomera en Santa Cruz de Tenerife; felicidades a los agraciados. Pese a todo, incluso en estos lugares es mejor buscar algún monte o lugar apartado para disfrutar de noches con más «calma lumínica». En la tabla que acompaña al mapa también una distinción según el tipo de luz que emiten: más amarilla (clásica) o más azul (LED blancos modernos), siendo esta última la más barata y energéticamente eficiente… pero peor para la observación del firmamento, por no hablar para los pobres animalillos a los que confunde. La conclusión es un poco que cada vez hay menos «sitios realmente oscuros» desde los que disfrutar mirando al cielo. Y no es un problema sólo de España: también la NASA lo ha medido en todas partes del globo y en la última década parece que la contaminación lumínica aumentó un 16 por ciento más o menos en todo el globo terráqueo. Así que entre esto y los Starlink estropeando las fotografías astronómicas, se diría que estamos haciendo un pan como unas hostias. Relacionados: Un vídeo que muestra a simple vista el problema de la contaminación lumínica en las ciudades ¡Dios mío, está lleno de luces! La contaminación lumínica en España Perdidos en la luz: un cielo sin estrellas Polémica con el brillo de los «trenes de satélites Starlink» # Enlace Permanente"
   },
   {
     "titulo": "El juez Peinado cita este lunes a Begoña Gómez a una audiencia preliminar a la que tiene \"obligación de comparecer\"",
@@ -761,13 +761,6 @@
     "fecha": 1781434195.0,
     "link": "https://www.europapress.es/nacional/noticia-juez-interroga-zapatero-semana-presunto-papel-rescate-plus-ultra-joyas-incautadas-20260614124955.html",
     "resumen": "El expresidente del Gobierno José Luis Rodríguez Zapatero declarará como investigado este miércoles y jueves ante el juez de la Audiencia Nacional que investiga presuntas irregularidades en el uso dado al dinero del rescate de la aerolínea Plus Ultra y su supuesta influencia para que se concediera, así como sobre las joyas que le fueron incautadas y cuya tasación preliminar se estima en 1,3 millones de euros."
-  },
-  {
-    "titulo": "Recasens tomará posesión como nuevo consejero delegado de Indra el miércoles",
-    "medio": "Expansión",
-    "fecha": 1781434016.0,
-    "link": "https://www.expansion.com/empresas/industria/2026/06/14/6a2e84a5468aebef508b458e.html",
-    "resumen": "Josep María Recasens tomará posesión como nuevo consejero delegado (CEO) de Indra el próximo miércoles, 17 de junio, tras ser nombrado el pasado 26 de mayo en sustitución de José Vicente De Los Mozos, quien llevaba en el cargo cerca de tres años. Leer"
   },
   {
     "titulo": "El PP pide el cese de Mónica García por la huelga sanitaria: \"La solución es imposible mientras esté en el Gobierno\"",
@@ -903,13 +896,6 @@
     "resumen": "The Belgian Workers’ Party is the strongest rising force on Europe’s radical left. Its general secretary, Peter Mertens, writes for Jacobin on his party’s fight against the EU’s rearmament plans."
   },
   {
-    "titulo": "Putt Day: para practicar un poco de miniglof a diario, sin tener que ir al campo",
-    "medio": "Microsiervos",
-    "fecha": 1781352677.0,
-    "link": "https://www.microsiervos.com/archivo/juegos-y-diversion/putt-day-miniglof-diario.html",
-    "resumen": "Putt.day es un juego de habilidad en 3-D de esos que requieren sólo lo esencial. Es un único hoyo de minigolf al día, igual para todo el mundo, con su par y puntuación. El resultado que cuenta es el de la primera vez que se completa. Sin cuentas de usuario, sin ránkings y sin más objetivo que intentar hacerlo mejor que el resto. La propuesta apuesta por la simplicidad radical: hacer arrastrar y la bola soltar con la mejor puntería posible. Antes de ejecutar el golpe se puede mover la imagen en 3-D para ver el recorrido y los obstáculos. Un detalle curioso son las fantasmales imágenes que simbolizan a otros jugadores que están haciendo lo mismo desde quién sabe donde. El aspecto visual utiliza piezas del kit de minigolf Kenney, del que hemos hablado alguna vez por aquí, distribuidas bajo licencia CC0 (dominio público). Al terminar se puede compartir la puntuación y ver cuánto queda para que salga el siguiente «hoy del día», como en Wordle pero con recorridos verdes y obstáculos de todo tipo. # Enlace Permanente"
-  },
-  {
     "titulo": "Belarra liderará Podemos en la Comunidad de Madrid para \"torcerle el brazo\" a la \"mala persona e insufrible Ayuso\"",
     "medio": "El Independiente",
     "fecha": 1781349982.0,
@@ -1001,27 +987,6 @@
     "resumen": "One of Africa’s top teams, Senegal has good reason to look forward to the World Cup. But the US government has put up major barriers to its fans and journalists visiting the country, in a policy of deep discrimination against Senegalese citizens."
   },
   {
-    "titulo": "SpaceX sale hoy a bolsa – que el FSM nos pille confesados",
-    "medio": "Microsiervos",
-    "fecha": 1781271000.0,
-    "link": "https://www.microsiervos.com/archivo/opinion/spacex-sale-bolsa.html",
-    "resumen": "SpaceX sale hoy a bolsa. No tengo ninguna duda de que eso hará a Elon Musk aún más rico y poderoso de lo que ya es, con todo lo eso conlleva. La salida a bolsa está organizada, además, de tal forma que Elon Musk mantendrá el control absoluto de la empresa. Pero si invertir en una empresa es un acto de fe sobre su futuro creo que en no mucho tiempo quien se meta en ella verá como se ha pillado los dedos. En la documentación que la empresa ha tenido que presentar para que autorizaran su salida a bolsa se puede leer esto. Las negritas con mías: Creemos haber identificado el mayor mercado potencial total (TAM por sus siglas en inglés) de la historia de la humanidad. Estimamos que nuestro TAM asciende a 28,5 billones de dólares, de los cuales 370.000 millones corresponden al sector espacial, gracias a soluciones basadas en la tecnología espacial; 1,6 billones de dólares en conectividad, repartidos entre 870.000 millones de dólares a través de conexiones de banda ancha vía Starlink y 740.000 millones de dólares en telefonía móvil vía Starlink Mobile, además de oportunidades adicionales en el ámbito empresarial y gubernamental; 26,5 billones de dólares en inteligencia artificial, repartidos entre 2,4 billones de dólares en infraestructura de IA, 760.000 millones de dólares en suscripciones de consumidores, 600.000 millones de dólares en publicidad digital y 22,7 billones de dólares en aplicaciones empresariales. La parte del mercado que dicen ver en los lanzamientos espaciales y Starlink podría creérmela, aunque hasta la fecha SpaceX no ha hecho más que perder dinero. Pero al menos se puede argumentar que están invirtiendo en el desarrollo del Starship. Sin embargo lo de los 26,5 billones de dólares en IA me parece absolutamente increíble y descabellado. Sólo por ponerlo en contexto el producto interior bruto total de los Estados Unidos es de 32,4 billones de dólares; el de China 20,9; y el de la Unión Europea de unos 19,4. Vamos, que SpaceX va a sacar más con las aplicaciones empresariales de la IA que todo el PIB de China o la Unión Europea. Y va a andar ahí, ahí con el de los EE.UU. Y no sólo eso, sino que SpaceX dice que 22,7 billones de dólares de esos que van a venir de la IA van a venir de lo que paguen las empresas por usar sus servicios de IA. Justo cuando estamos viendo que las empresas que se dedican a la IA cada vez reducen más sus ofertas o les suben los precios porque no hay manera de sacar dinero ahí. Ajá. Y eso por no mencionar lo de convertir a la humanidad en una civilización Kardashov tipo II y otras idas de olla variadas como lo de «llevar la luz de la conciencia hasta las estrellas» que se pueden leer en la documentación. Así que, como decía arriba, yo creo que más bien pronto que tarde esto va a explotar. Pero ya veremos. De ahí las palomitas. Lo malo es que es probable que esa explosión se lleve por delante los ahorros y/o pensiones de personas que verán como los fondos que los gestionan se meten en este fregado sin que puedan hacer nada al respecto. El vídeo Elon Musk está manipulando el mercado... ¿otra vez? de Lord Draugr explica todo esto con bastante más detalle. Y da mucho miedo. Bueno, da miedo entre miedo e indignación. _____Foto de personalgraphic.com en Unsplash # Enlace Permanente"
-  },
-  {
-    "titulo": "El Gobierno de España autoriza la compra del 26,5% de Air Europa por parte Turkish Airlines",
-    "medio": "Microsiervos",
-    "fecha": 1781265600.0,
-    "link": "https://www.microsiervos.com/archivo/aerotrastorno/gobierno-espana-autoriza-compra-acciones-air-europa-turkisk-airlines.html",
-    "resumen": "Air Europa y Turkish airlines cada vez más cerca – Wicho El pasado mes de noviembre Air Europa y Turkish Airlines firmaba un acuerdo mediante el que la aerolínea turca se comprometía a invertir 300 millones de euros en la española, lo que les daría el control de algo más de una cuarta parte del accionariado. Como es preceptivo en este tipo de operaciones es necesario que las autoridades competentes las autoricen. Y esta misma semana el Gobierno de España lo autorizaba por la parte que le toca. Así que ahora es el turno de la Comisión Europea. Con esta operación a familia Hidalgo sigue siendo la accionista mayoritaria de Air Europa, de la que tienen un 53,5 % a través de Globalia; Turkish se hace con el ya citado 26,5 %; e IAG, la empresa matriz de Iberia, que intentó y finalmente desistió de la compra de Air Europa en varias ocasiones, con un 20 % fruto de estos intentos de adquisición. Los 300 millones servirán tanto para la amortización de la deuda de Air Europa con la SEPI (Sociedad Estatal de Participaciones Industriales), contraída durante la pandemia. como para los planes de consolidación y expansión de la aerolínea. Para Turkish supone meter un pie en el mercado latinoamericano, en el que Air Europa es especialmente fuerte. Relacionado, Air Europa se pasa al Airbus A350 para renovar su flota de largo radio y de paso nombra nuevo consejero delegado Air Europa recibe su primer Boeing 737 MAX aunque está pendiente de los correspondientes papeleos para poder estrenarlo # Enlace Permanente"
-  },
-  {
-    "titulo": "Publicado el informe preliminar sobre el vuelo de United Airlines que se llevó por delante una farola y un camión durante un aterrizaje en Newark (o más bien no)",
-    "medio": "Microsiervos",
-    "fecha": 1781262000.0,
-    "link": "https://www.microsiervos.com/archivo/aerotrastorno/informe-preliminar-united-farola-camion-reparto-newark.html",
-    "resumen": "La Junta Nacional de Seguridad en el Transporte (NTSB) de los Estados Unidos ha publicado su informe preliminar [PDF] sobre el accidente en el que el pasado 3 de mayo un Boeing 767 de United Airlines se llevó por delante un camión de reparto mientras aterrizaba en el aeropuerto de Newark. O eso parecía. Porque una de las cosas que queda clara en el informe es que el avión nunca tocó al camión; lo que hizo fue tumbar una farola que fue la que a su vez chocó contra el camión. Otra es que el vuelo se llevó a cabo sin ningún problema y que aunque les cambiaron de pista de la 04 a la 29 cuando el avión estaba a 500 pies de altura, algo más de 150 metros, la aproximación estaba estabilizada. Sólo un poco después el copiloto comentó al comandante que iban un poco lentos y bajos. Pero antes de que les diera tiempo a reacciones sintieron un golpe –que luego resultó ser el que se dieron contra la farola– y el avión siguió bajando hasta tomar tierra sin problemas. Sólo una vez aparcados el comandante salió a inspeccionar el avión y vio los daños en el fuselaje y una de las ruedas. Otro dato a destacar es que el comandante había decidido volar un poco baja la aproximación a la pista 29 porque es algo más corta. Así, al tomar tierra más cerca del principio de la pista podría salir antes de ella. Para ello mantuvo tres luces rojas y una blanca en el PAPI, el sistema de luces que permite a los pilotos mantener la aproximación correcta, en lugar de dos rojas y dos blancas, que son las que indican que vas justo en la senda de planeo. En otros aeropuertos eso no supone un problema pero al aterrizar en la 29 de Newark eso les hizo llevarse por delante la farola en cuestión. De hecho United emitió un par de boletines a sus pilotos para recordarles que esa práctica de intentar tomar corto puede tener problemas en según qué aeropuertos y pistas y que no la usen. # Enlace Permanente"
-  },
-  {
     "titulo": "La democratización del Dry Martini",
     "medio": "Yorokobu",
     "fecha": 1781248346.0,
@@ -1034,20 +999,6 @@
     "fecha": 1781160321.0,
     "link": "https://yorokobu.es/mundo-ciclico/",
     "resumen": "«Cualquier tiempo pasado fue mejor» es una frase que muchos repiten y aún más creen. Y yo me pregunto: si eso fuera así, ¿se sonreiría más? ¿Antes las personas eran más felices y tanta oxitocina hacía que hubiera mejores y más amables palabras? Creo que estamos en un momento de cambios a todos los niveles y eso puede generar una sensación incómoda de caos. Y no es verdad que cualquier tiempo pasado fuera mejor. Es solo que, para ordenar el armario, primero hay que sacarlo todo. Sacarlo, tirarlo por el medio y entender que ese desorden es, por definición, temporal La entrada De cuando sonreír era cosa de muchos se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "Estados Unidos quiere acabar con el anonimato de las tarjetas prepago para los teléfonos móviles (en Europa llevamos dos décadas así)",
-    "medio": "Microsiervos",
-    "fecha": 1781130867.0,
-    "link": "https://www.microsiervos.com/archivo/seguridad/estados-unidos-acabar-anonimato-tarjetas-prepago-telefonos-moviles.html",
-    "resumen": "Va a ser interesante, digno de ir preparando unas palomitas y sentarse en el sofá, ver cómo acaba esto. Según cuentan en 404, la FCC quiere acabar con los teléfonos prepago; más exactamente con las tarjetas SIM anónimas que se usan en esos teléfonos. Es lo que da vida a los famosos burner phones que permiten a los oriundos de «la tierra de la libertad» comprar un móvil y una SIM sin tener que asociarlos a sus datos personales. Dice la información que se ha filtrado la FCC estadounidense, que es el organismo que se encarga de estas cosas, estaría estudiando una normativa que obligaría a las operadoras a recopilar y conservar más datos de todos los clientes nuevos y de quienes renueven sus líneas. Entre otros: nombre, dirección física, un documento oficial de identidad y un número de teléfono alternativo, Sin eso, no hay servicio. Básicamente supondría el fin de las líneas prepago que no están vinculadas explícitamente a la identidad de una persona. Algo así como lo que lleva sucediendo en España y en Europa desde 2007. Y tan normal que nos parece. Naturalmente, hay dos bandos: Según el gobierno, el objetivo sería combatir las estafas telefónicas, el fraude y otros delitos facilitando la identificación de los usuarios por parte de las autoridades. Los defensores de la privacidad y organizaciones de derechos civiles advierten de que la propuesta supondría una importante pérdida de anonimato, acercando a Estados Unidos a los «países con regímenes autoritarios» (sic) donde es imposible contratar una línea móvil sin identificarse. También avisan de otros riesgos conocidos por concentrar más datos personales en manos de las telecos: problemas de seguridad (los ha habido), filtraciones (las ha habido) o vigilancia indebida (la ha habido). El globo sonda está lanzado; sólo queda ver cómo evoluciona la cosa. Seguiremos el tema, más que nada para ver cómo son los razonamientos y evolución y comparar con cómo fue y evolucionó por aquí. (Vía Slashdot.) _____Foto (CC) SIM @ Needpix. # Enlace Permanente"
-  },
-  {
-    "titulo": "Probamos el tocadiscos Vulkkano TD10 junto con unos altavoces activos Vulkkano A5 ARC MKII, un conjunto estupendo para escuchar vinilos (y más cosas)",
-    "medio": "Microsiervos",
-    "fecha": 1781114400.0,
-    "link": "https://www.microsiervos.com/archivo/gadgets/tocadiscos-vulkkano-td10-altavoces-activos-vulkkano-a5-arc-mkii.html",
-    "resumen": "Un Vulkkano TD-10 listo para hacer lo suyo – Wicho/Microsiervos Había oído hablar muy bien del tocadiscos Vulkkano TD10. Y ahora que he podido probar uno que me han prestado ya entiendo por qué y lo comparto. En una palabra, «menamorao». El TD10 es un tocadiscos de gama básica pero aque ún así se puede considerar de alta fidelidad en el que el fabricante, que por cierto, pertenece a Zococity, la tienda especializada en audio y vídeo, ha optado por no incluir florituras para a cambio centrarse en cómo suena. Esto es una diferencia con otras marcas más conocidas que también tienen platos de entrada en este nivel de precio pero a los que además le ponen brazos automáticos y otros lujos que implican dedicarle menos dinero a los componentes que lo hacen sonar. Y que no dejan de ser una posible fuente de problemas. Dicho esto, el TD10 tiene un plato aluminio tamaño completo, con lo que tus LP estarán perfectamente apoyados, tracción por correa, un brazo de aluminio recto con contrapeso ajustable, y un plinto –AKA chasis– fabricado en MDF con un peso de 4,8 kg que se apoya en tres patas de goma, lo que le permite ser razonablemente inmune a las vibraciones. Está disponible en marrón y en negro. La parte inferior trasera del chasis monta una caja, ya de plástico, que alberga la fuente de alimentación, el motor, el amplificador y las conexiones RCA y de toma de tierra, el enchufe para el alimentador, un interruptor de encendido y apagado, y un interruptor que permite utilizar el amplificador incorporado o no. Más sobre esto más adelante. Seguir leyendo: Probamos el tocadiscos Vulkkano TD10 junto con unos altavoces activos Vulkkano A5 ARC MKII, un conjunto estupendo para escuchar vinilos (y más cosas)# Enlace Permanente"
   },
   {
     "titulo": ".st0, .st1 {fill: #F5A623;}.st1 {fill-rule: evenodd;} ‘Dirty fashion’: La moda ya no quiere parecer perfecta",
