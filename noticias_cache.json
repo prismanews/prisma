@@ -1,5 +1,68 @@
 [
   {
+    "titulo": "El memorando entre Trump e Irán lanza un salvavidas económico para el régimen",
+    "medio": "El País",
+    "fecha": 1781738086.0,
+    "link": "https://elpais.com/internacional/2026-06-17/el-memorando-entre-trump-e-iran-lanza-un-salvavidas-economico-para-el-regimen.html",
+    "resumen": "El documento prevé el levantamiento de las sanciones a Teherán, la recuperación de los fondos retenidos y una inyección de 300.000 millones de dólares en el futuro"
+  },
+  {
+    "titulo": "Varias localidades de León registran un pequeño terremoto con epicentro en Sena de Luna",
+    "medio": "OK Diario",
+    "fecha": 1781737111.0,
+    "link": "https://okdiario.com/sucesos/varias-localidades-leon-registran-terremoto-epicentro-sena-luna-18805251",
+    "resumen": "Un terremoto de magnitud 3 en la escala de Richter ha sido registrado a las 00:30:42 de la madrugada de este jueves cerca de León, según los datos del Instituto Geográfico Nacional (IGN). El epicentro se ha situado a tan sólo 7 kilómetros de la localidad de Sena de Luna, en la provincia de León … Continuar leyendo \"Varias localidades de León registran un pequeño terremoto con epicentro en Sena de Luna\""
+  },
+  {
+    "titulo": "Trump y Pezeshkian firman digitalmente y por adelantado el acuerdo de entendimiento para la paz entre Irán y EEUU",
+    "medio": "El Español",
+    "fecha": 1781737036.0,
+    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260618/trump-pezeshkian-firman-digitalmente-acuerdo-entendimiento-paz-iran-unidos/1003744290526_0.html",
+    "resumen": "El Ejecutivo iraní ha descartado la celebración, de momento, de la ceremonia presencial en Suiza prevista para el próximo viernes.Más información: Trump confirma que el acuerdo de paz permite a Irán acceder a un fondo de 300.000M, pero \"sólo si hacen las cosas bien\""
+  },
+  {
+    "titulo": "Irán y Estados Unidos firman digitalmente su primer gran acuerdo en una década: ahora llega la parte más difícil",
+    "medio": "HuffPost",
+    "fecha": 1781736117.0,
+    "link": "https://www.huffingtonpost.es/global/iran-estados-unidos-firman-digitalmente-primer-gran-acuerdo-decada-llega-parte-mas-dificil-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Kane y Bellingham lanzan a Inglaterra ante Croacia",
+    "medio": "El País",
+    "fecha": 1781735945.0,
+    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-17/kane-y-bellingham-lanzan-a-inglaterra-ante-croacia.html",
+    "resumen": "Los ‘Three Lions’ debutan con un buen triunfo, impulsado por el doblete del delantero y la versión más expansiva del centrocampista, frente a la competitiva selección de Modric"
+  },
+  {
+    "titulo": "Inglaterra arranca con cuatro tantos contra los dos de Croacia",
+    "medio": "The Objective",
+    "fecha": 1781735844.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-18/inglaterra-arranca-con-cuatro-tantos-contra-los-dos-de-croacia/",
+    "resumen": "La selección de fútbol de Inglaterra derrotó este miércoles por 4-2, con doblete incluido de su delantero estrella Harry Kane, a la selección de Croacia en […]"
+  },
+  {
+    "titulo": "Feijóo se abre por primera vez a un «gobierno de coalición» con Vox aunque con líneas rojas",
+    "medio": "OK Diario",
+    "fecha": 1781735422.0,
+    "link": "https://okdiario.com/espana/feijoo-abre-primera-vez-gobierno-coalicion-vox-aunque-lineas-rojas-18805199",
+    "resumen": "El presidente del Partido Popular, Alberto Núñez Feijóo, ha reafirmado este miércoles su voluntad de gobernar en solitario tras las próximas elecciones generales, aunque no ha descartado por primera vez un eventual gobierno de coalición con Vox. «Yo quiero gobernar en solitario, lo he dicho por activa y por pasiva. Creo que es bueno gobernar … Continuar leyendo \"Feijóo se abre por primera vez a un «gobierno de coalición» con Vox aunque con líneas rojas\""
+  },
+  {
+    "titulo": "Harry Kane se corona ante Modric: Inglaterra presenta credenciales de favorita",
+    "medio": "El Mundo",
+    "fecha": 1781735403.0,
+    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/18/6a331ecefc6c8374258b45a2.html",
+    "resumen": "A los dos goles del capitán se sumaron los de Bellingham y Rashford, que zanjaron la reacción de los balcánicos provocada por Baturina y Musa en la primera parte Leer"
+  },
+  {
+    "titulo": "El cannabis aumenta el riesgo de brotes psicóticos, pero su legalización no siempre tiene las mismas consecuencias",
+    "medio": "El País",
+    "fecha": 1781735400.0,
+    "link": "https://elpais.com/sociedad/2026-06-17/el-cannabis-aumenta-el-riesgo-de-brotes-psicoticos-pero-su-legalizacion-no-siempre-tiene-las-mismas-consecuencias.html",
+    "resumen": "Dos revisiones publicadas al mismo tiempo refrendan los problemas que la sustancia genera en la salud mental y muestran el complejo debate de la regulación"
+  },
+  {
     "titulo": "Resultado Inglaterra – Croacia: resumen, goles y última hora del partido del Mundial 2026 hoy",
     "medio": "OK Diario",
     "fecha": 1781734718.0,
@@ -25,7 +88,7 @@
     "medio": "Europa Press",
     "fecha": 1781734121.0,
     "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-doblete-harry-kane-guia-solido-triunfo-ingles-croacia-20260618000841.html",
-    "resumen": "Un doblete Harry Kane guía el sólido triunfo inglés ante Croacia Vistoso estreno (4-2) de los 'Three Lions' dentro del Grupo L MADRID, 18 (EUROPA PRESS) La selección de fútbol de Inglaterra derrotó este miércoles por 4-2, con doblete incluido de su delantero estrella Harry Kane, a la selección de Croacia en un partido correspondiente a la primera jornada del Grupo L en la Copa Mundial de la FIFA 2026, que se está disputando en Estados Unidos, México y Canadá."
+    "resumen": "La selección de fútbol de Inglaterra derrotó este miércoles por 4-2, con doblete incluido de su delantero estrella Harry Kane, a la selección de Croacia en un partido correspondiente a la primera jornada del Grupo L en la Copa Mundial de la FIFA 2026, que se está disputando en Estados Unidos, México y Canadá."
   },
   {
     "titulo": "Threads ya presume de 500 millones de usuarios. La cifra que falta sigue siendo la más importante",
@@ -63,11 +126,25 @@
     "resumen": "El grupo chino sitúa en Alcobendas su sede para el mercado europeo, donde aspira a vender 300.000 coches en tres años con lanzamientos como el nuevo híbrido enchufable Deepal S05 PHEV mientras estudia si fabrica en EspañaEl fabricante chino Changan estudia la posibilidad de instalar una planta de vehículos en Aragón Changan quiere hacer de España algo más que una puerta de entrada: quiere convertirla en el eje desde el que articular su conquista del mercado europeo. La estrategia ya tiene dirección, oficina y ambición. El grupo automovilístico chino ha situado su sede europea en Alcobendas (Madrid), desde donde coordinará su expansión en 14 países y una ofensiva comercial que aspira a cambiar su posición en el continente. Contesta el Barómetro de Movilidad y Automoción 2026 en este enlace En un encuentro con periodistas en Barcelona, los responsables de la compañía, entre ellos Ethan Yin, director de Changan Automobile en Europa, y Manuel Pérez Casado, director comercial en España, detallaron una estructura que ya empieza a tomar forma. Las oficinas centrales en Alcobendas —unos 1.000 metros cuadrados— se reparten entre el negocio español y el europeo, concentrando funciones clave como ventas, posventa, marketing y finanzas. Un centro de mando operativo desde el que se pilota el desembarco en Europa. Los planes de Changan no se limitan a vender coches. También estudia fabricar en Europa. Y España aparece en el mapa como una opción real. La compañía, eso sí, evita compromisos: analiza ubicaciones, valora alternativas industriales y no descarta ninguna fórmula, desde una planta propia hasta alianzas con fabricantes locales. Aragón ha sido señalada como posible candidata para acoger producción de Changan. Ofensiva comercial de Changan Ethan Yin lo resume con cautela, pero sin cerrar puertas: “Todos los fabricantes chinos estudian producir en Europa y Changan es uno de ellos”. Sin embargo, asegura que la decisión aún no está tomada. Mientras tanto, Cataluña juega su propio papel estratégico. Barcelona es la puerta marítima del proyecto: el puerto se ha convertido en el punto de entrada de los vehículos hacia el mercado español, con operadores logísticos como Noatum y Kuehne + Nagel como piezas clave de la cadena. Nuevo Changan Deepal S05 PHEV La ofensiva comercial ya está en marcha. En España, Changan prevé alcanzar unas 6.000 unidades vendidas en 2026, dentro de un plan europeo mucho más ambicioso: 40.000 vehículos este año, 100.000 en 2027 y hasta 300.000 en 2028. Un crecimiento acelerado apoyado en una red que ya suma 65 puntos de venta en España y más de 300 en Europa, con la previsión de cerrar el año con hasta 100 concesionarios en el mercado español. Deepal S05, el ultrahíbrido El catálogo actual se apoya en los SUV eléctricos Deepal S05 y Deepal 07, a los que se sumará progresivamente una gama de cuatro o cinco modelos antes de fin de año. El gran lanzamiento reciente es el Changan Deepal S05 PHEV, un híbrido enchufable que marca un punto de inflexión en su estrategia europea. Este modelo introduce la tecnología Ultra-Hybrid, diseñada para adaptarse a los hábitos de conducción europeos: trayectos diarios en modo eléctrico y largas distancias sin ansiedad de autonomía. El S05 PHEV ofrece hasta 100 kilómetros eléctricos y más de 1.000 kilómetros combinados, con un consumo medio homologado muy reducido y un enfoque claramente orientado a la eficiencia en un contexto de costes energéticos elevados. La apuesta de Changan por el viejo continente también se aprecia en una red global de 990 diseñadores, de los cuales más de 320 están en Europa, con centros en Turín y Múnich, además de desarrollo en China y Japón. Esa filosofía de “en Europa para Europa” se refuerza con ingeniería local y colaboración con proveedores como Bosch o Idiada, además de centros de I+D en Birmingham y diseño en Italia."
   },
   {
+    "titulo": "Feijóo no tiene caja fuerte pero sí ‘El Hormiguero’",
+    "medio": "El País",
+    "fecha": 1781733543.0,
+    "link": "https://elpais.com/espana/2026-06-17/feijoo-no-tiene-caja-fuerte-pero-si-el-hormiguero.html",
+    "resumen": "El presidente del PP fue recibido con un conteo de escándalos socialistas pero, aclaró Motos, de eso hablarían después. Lo importante: “Hablemos de usted como presidente”"
+  },
+  {
     "titulo": "El fondo Oak Hill apoya el plan de viabilidad de Urbas",
     "medio": "Expansión",
     "fecha": 1781733445.0,
     "link": "https://www.expansion.com/empresas/inmobiliario/2026/06/17/6a331835468aebd8218b4587.html",
     "resumen": "El fondo de inversión comunica su adhesión a la propuesta de convenio de la constructora en concurso, que asegura tener ya apoyos equivalentes al 61,57% de la masa acreedora, lo que evitaría la fase de liquidación. Leer"
+  },
+  {
+    "titulo": "Corea del Sur se queja ante la FIFA por un dron que sobrevolaba el entrenamiento en Guadalajara",
+    "medio": "El País",
+    "fecha": 1781733196.0,
+    "link": "https://elpais.com/mexico/2026-06-17/corea-del-sur-se-queja-ante-la-fifa-por-un-dron-que-espiaba-al-equipo-en-un-entrenamiento-en-guadalajara.html",
+    "resumen": "La Guardia Nacional derriba el aparato que sobrevolaba el campamento del equipo asiático antes del partido contra México. “Fue lamentable”, dice Hong Myung Bo, entrenador del equipo"
   },
   {
     "titulo": "\"¿Qué hay detrás de la Ley de Nietos?\": Feijóo denuncia la nacionalización exprés de hasta 2,5 millones de extranjeros",
@@ -112,25 +189,11 @@
     "resumen": "Un equipo de investigadores de Reino Unido se ha propuesto comprender los mecanismos subyacentes que explican la influencia positiva que tienen las mascotas sobre el bienestar de sus […]"
   },
   {
-    "titulo": "Escola Catòlica celebra la III Nit de l’Educació y premia al CESAG y a la Fundació Pere Tarrés",
-    "medio": "OK Diario",
-    "fecha": 1781731992.0,
-    "link": "https://okdiario.com/baleares/escola-catolica-celebra-iii-nit-leducacio-premia-cesag-fundacio-pere-tarres-18803514",
-    "resumen": "Escola Catòlica de les Illes Balears (ECIB) ha celebrado este miércoles la III Nit de l’Educació en el patio de armas del Castell de Bellver y ha premiado al CESAG y a la Fundació Pere Tarrés. El evento, que se ha consolidado como una cita de referencia para el sector, ha reunido a los representantes … Continuar leyendo \"Escola Catòlica celebra la III Nit de l’Educació y premia al CESAG y a la Fundació Pere Tarrés\""
-  },
-  {
-    "titulo": "Carlos Alcaraz ya entrena sin prótesis en la muñeca: su regreso, más cerca",
-    "medio": "OK Diario",
-    "fecha": 1781731231.0,
-    "link": "https://okdiario.com/deportes/carlos-alcaraz-ya-entrena-sin-protesis-muneca-regreso-mas-cerca-18804979",
-    "resumen": "Carlos Alcaraz no es la persona más activa del mundo en cuanto a redes sociales se refiere, pero sí que las utiliza cuando quiere enseñar algo a sus seguidores. Y este martes, entre otras cosas, enseñó cómo ya entrena sin la prótesis en su muñeca que le acompaña desde que se lesionó el pasado 14 … Continuar leyendo \"Carlos Alcaraz ya entrena sin prótesis en la muñeca: su regreso, más cerca\""
-  },
-  {
-    "titulo": "Inglaterra - Croacia, el partido del Mundial 2026 en directo | Bellingham adelanta a Inglaterra en el inicio de la segunda parte",
+    "titulo": "Feijóo abre la puerta a un gobierno de coalición con Vox si así lo dicen las urnas",
     "medio": "El País",
-    "fecha": 1781731004.0,
-    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-17/inglaterra-croacia-en-directo-el-partido-del-grupo-l-del-mundial-2026-en-vivo.html",
-    "resumen": "Harry Kane puso por delante en dos ocasiones al equipo dirigido por Tuchel | Baturina fue el encargado de empatar el primer tanto del futbolista del Bayern Múnich y Musa el segundo"
+    "fecha": 1781731261.0,
+    "link": "https://elpais.com/espana/2026-06-17/feijoo-abre-la-puerta-a-un-gobierno-de-coalicion-con-vox-si-asi-lo-dicen-las-urnas.html",
+    "resumen": "El presidente del PP defiende que se sentarían con la formación de ultraderecha “buscando una serie de líneas rojas” y que no van a “demonizar” al partido de Abascal"
   },
   {
     "titulo": "Nonna Maxxing: la Gen Z ha encontrado en la vida de abuela italiana su nuevo ideal contra la cultura del estrés",
@@ -166,13 +229,6 @@
     "fecha": 1781728850.0,
     "link": "https://theobjective.com/espana/politica/2026-06-17/portavoz-zapatero-declaracion-inocente/",
     "resumen": "El presidente del Ateneo de Madrid, Luis Arroyo, persona próxima a José Luis Rodríguez Zapatero que ejerce como portavoz autorizado, ha asegurado que el expresidente del […]"
-  },
-  {
-    "titulo": "El memorando entre Trump e Irán lanza un salvavidas económico para el régimen",
-    "medio": "El País",
-    "fecha": 1781728244.0,
-    "link": "https://elpais.com/internacional/2026-06-17/el-memorando-entre-trump-e-iran-lanza-un-salvavidas-economico-para-el-regimen.html",
-    "resumen": "El documento prevé el levantamiento de las sanciones a Teherán, la recuperación de los fondos retenidos y una inyección de 300.000 millones de dólares en el futuro"
   },
   {
     "titulo": "Portugal se atasca con Cristiano y el Congo celebra su fiesta más grande",
@@ -301,13 +357,6 @@
     "resumen": "Acaba de llegar a Prime Video y ya está entre las películas más vistas de la plataforma. Todo el mundo está hablando de esta cinta de acción y no porque se trate del remake de la icónica película noruega 'El viaje', sino porque es un thriller de suspense con toques de humor negro que cuenta con un elenco de diez, entre los que destacan Jason Segel y Samara Weaving. A esto le suma una historia de lo más adictiva y claro, entendemos al 100% su hype. Estamos hablando de 'Por encima de tu cadáver.' La cámara sigue a Dan y Lisa, que forman un matrimonio profundamente infeliz cuya relación se ha ido deteriorado a lo largo de los años hasta convertirse en una bola de resentimiento silencioso entre ambos. Ninguno se soporta a sí mismo y mucho menos al otro, pero van a hacer todo lo posible por arreglar ese matrimonio, una especie de ultimatum, una última lucha. Para ello se van de retiro a una cabaña aislada en el bosque, pero hay un pequeño detalle, quizás su verdadero fin no sea arreglar las cosas. Resulta que en aquella recóndita cabaña ambos planean en secreto asesinar al otro en secreto y hacer como si todo fuese un accidente. Lo malo es que los dos han tenido la misma idea. Aquí es donde entre en juego todo ese humor negro que resulta de lo más desternillante y que encaja a la perfección en este thriller ligero. Evidentemente estás en tensión porque no sabes cual va a ser el próximo movimiento de nuestros protagonistas y quién puede resultar herido de muerte en cualquier momento, pero también hay hueco para la carcajada y eso se agradece. Además de unas actuaciones impecables, confesamos que el guion nos ha parecido otro de los platos fuertes de esta producción, y es que claramente no hace falta que te hayas visto previamente 'El viaje', esa película noruega en la que está basada, para poder prestar los sentidos a este remake. Eso sí, si tras acabar resulta que te ha gustado tanto como a nosotras, te recomendamos que le eches ahí un vistazo al film de 2021 de Tommy Wirkola. Imágenes | Prime Video En Trendencias | 111 películas que ver una vez en la vida En 3dJuegos | Clint Eastwood, a sus 95 años, sobre Estados Unidos: \"No es como Europa, aquí no hay muchas más formas de arte originales\" En Xataka | En 1999, un agricultor donó sus terrenos para un parque infantil. Ahora el ayuntamiento los ha vendido por millones para un centro de datos - La noticia Este thriller de Prime Video con toques de humor negro acaba de estrenarse y ya es una de las películas más vistas fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "“Un millón de años no sería suficiente”: el asesino de Long Island, que confesó haber matado a ocho mujeres, pasará el resto de su vida en prisión",
-    "medio": "El País",
-    "fecha": 1781724605.0,
-    "link": "https://elpais.com/us/2026-06-17/un-millon-de-anos-no-seria-suficiente-el-asesino-de-long-island-que-confeso-haber-matado-a-ocho-mujeres-pasara-el-resto-de-su-vida-en-prision.html",
-    "resumen": "“Es usted un hombre asqueroso, despreciable y pequeño”, espeta el juez a Rex Heuermann tras anunciar una condena de tres cadenas perpetuas y 100 años de prisión adicionales"
-  },
-  {
     "titulo": "PNV y PSE-EE bloquean las 183 propuestas de la oposición en el pleno monográfico del Parlamento Vasco",
     "medio": "Moncloa.com",
     "fecha": 1781724580.0,
@@ -334,13 +383,6 @@
     "fecha": 1781724403.0,
     "link": "https://www.moncloa.com/2026/06/17/pradales-pide-medidas-economicas-sanchez-3385990/",
     "resumen": "El lehendakari ha solicitado a Pedro Sánchez una rebaja de 30 céntimos en el combustible y la reducción del IVA de la carne y el pescado al 4% dentro de un paquete de 36 medidas anticrisis. La entrada El lehendakari Pradales reclama a Sánchez una rebaja de 30 céntimos en carburantes y el IVA superreducido para carne y pescado aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Un incendio agrícola obliga a confinar a los vecinos de dos pueblos de Lleida",
-    "medio": "El País",
-    "fecha": 1781724381.0,
-    "link": "https://elpais.com/espana/catalunya/2026-06-17/un-incendio-agricola-obliga-a-confinar-a-los-vecinos-de-dos-pueblos-de-lleida.html",
-    "resumen": "Protección Civil envía un mensaje Es Alert pero durante la noche los bomberos han logrado frenar el avance de las llamas"
   },
   {
     "titulo": "La peste porcina africana avanza: qué pide Unión de Uniones para la siega afectada y la coordinación de administraciones",
@@ -371,20 +413,6 @@
     "resumen": "La ONCE reparte grandes premios en su sorteo de las 21:25 horas"
   },
   {
-    "titulo": "Las expectativas de tipos más altos enfrían el ánimo de Wall Street",
-    "medio": "El País",
-    "fecha": 1781723988.0,
-    "link": "https://cincodias.elpais.com/mercados-financieros/2026-06-17/la-bolsa-y-el-ibex-35.html",
-    "resumen": "La Bolsa de EEUU gira a la baja tras la reunión de la Fed, después de que el Ibex encadenara su quinta sesión al alza"
-  },
-  {
-    "titulo": "La Portugal de Cristiano Ronaldo tropieza en su estreno y firma un empate contra RD Congo",
-    "medio": "The Objective",
-    "fecha": 1781723966.0,
-    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-17/portugal-cristiano-empate-rd-congo/",
-    "resumen": "La selección de Portugal y la de República Democrática del Congo empataron 1-1 este miércoles en la primera jornada del Grupo K del Mundial que se […]"
-  },
-  {
     "titulo": "El Supremo ordena a Bolaños que informe \"sin dilación\" a Europa de que la selección de la terna al TEDH está recurrida",
     "medio": "El Español",
     "fecha": 1781723784.0,
@@ -404,13 +432,6 @@
     "fecha": 1781723700.0,
     "link": "https://www.lavanguardia.com/cultura/20260617/11567430/fad-arquitectura-2026-apuestan-remodelacion-mejora-construido.html",
     "resumen": "El principal galardón recae ex aequo en sendos proyectos de Barcelona y Madrid: ‘Recircular l’Eixample’ y ‘Infinito delicias’"
-  },
-  {
-    "titulo": "Los matemáticos coinciden y piden retomar el control sobre la IA: \"Las empresas tienen que darse cuenta de que no somos borregos\"",
-    "medio": "HuffPost",
-    "fecha": 1781723536.0,
-    "link": "https://www.huffingtonpost.es/tecnologia/los-matematicos-coinciden-piden-retomar-control-sobre-ia-las-empresas-darse-cuenta-borregos-f202606.html",
-    "resumen": ""
   },
   {
     "titulo": "La ley para castigar con cárcel las falsas terapias de conversión avanza en el Congreso",
@@ -544,13 +565,6 @@
     "fecha": 1781720296.0,
     "link": "https://www.elmundo.es/deportes/futbol/2026/06/17/6a32e4e021efa01a308b45a0.html",
     "resumen": "La familia ha comunicado que desde hace tres años luchaba contra un cáncer de páncreas Leer"
-  },
-  {
-    "titulo": "Macron alaba la \"unidad\" del G-7 tras meses de desacuerdo y destaca que \"Ucrania avanza, mientras Rusia recula\"",
-    "medio": "El Mundo",
-    "fecha": 1781720135.0,
-    "link": "https://www.elmundo.es/internacional/2026/06/17/6a32b9fc21efa0fb388b4590.html",
-    "resumen": "El presidente francés destaca la presencia de Zelenski como el momento clave de la cumbre, celebrada \"en un contexto extremadamente difícil de fragmentación y conflictos\" Leer"
   },
   {
     "titulo": "La Reserva Federal mantiene los tipos en la primera reunión de Kevin Warsh, aunque anticipa una subida antes de final de año",
@@ -698,13 +712,6 @@
     "fecha": 1781715192.0,
     "link": "https://www.elespanol.com/madrid/sociedad/20260617/taberna-garibaldi-pablo-iglesias-denuncia-cnt-solo-companera-baja-sindicato/1003744290216_0.html",
     "resumen": "El sindicato acusa al bar de \"trato vejatorio\" a sus empleados, \"abusos laborales\" y jornadas de \"14 horas\". Más información: Rubén Sánchez, el \"activista cazafantasmas\" de Facua que cree inocente a Zapatero y alza el puño por Pablo Iglesias"
-  },
-  {
-    "titulo": "Trump confirma que el acuerdo de paz permite a Irán acceder a un fondo de 300.000M, pero \"sólo si hacen las cosas bien\"",
-    "medio": "El Español",
-    "fecha": 1781714869.0,
-    "link": "https://www.elespanol.com/mundo/america/eeuu/20260617/trump-confirma-acuerdo-paz-permite-iran-acceder-fondo-solo-hacen-cosas-bien/1003744289981_0.html",
-    "resumen": "El mandatario republicano niega que Estados Unidos vaya a financiar ese fondo, pero no aclara de dónde procederá el dinero e insinúa que serán aportaciones de países del Golfo y activos iraníes congelados.Más información: EEUU recurre a su propia 'flota fantasma' para extraer petróleo de Ormuz: \"Imitan técnicas de China, Rusia o el propio Irán\""
   },
   {
     "titulo": "Necesito un teclado compacto que me quepa en la mochila, pero no quiero uno 'de juguete'. Este es el que tengo en el carrito",
