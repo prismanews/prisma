@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1782332473">
+    <link rel="stylesheet" href="prisma.css?v=1782338228">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-06-24T20:21:13.622356">Actualizado: 24/06/2026 20:21</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-06-24T21:57:08.753736">Actualizado: 24/06/2026 21:57</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -148,6 +148,7 @@
                 <option value="Infolibre">Infolibre</option>
                 <option value="Jacobin ES">Jacobin ES</option>
                 <option value="La Vanguardia">La Vanguardia</option>
+                <option value="Microsiervos">Microsiervos</option>
                 <option value="Moncloa.com">Moncloa.com</option>
                 <option value="OK Diario">OK Diario</option>
                 <option value="The Objective">The Objective</option>
@@ -159,12 +160,54 @@
             </select>
         </div>
 
-        <div class="card" data-medios="Moncloa.com,eldiario.es,Europa Press,ABC">
-            <h2>Portada: Madrid, huelga y indefinida</h2>
+        <div class="card" data-medios="HuffPost,eldiario.es,The Objective,El País,El Español,Europa Press">
+            <h2>Portada: Trump, contra y desastre</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                4 medios · tono equilibrado · 
-                múltiples perspectivas
+                6 medios · tono equilibrado · 
+                múltiples perspectivas, amplia cobertura mediática
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 44%;"></div>
+                    <div class="barra-conservadora" style="width: 56%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 44%</span>
+                    <span>Conservador 56%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/global/trump-carga-espana-posturaan-califica-un-desastre-f202606.html" target="_blank" rel="noopener">Trump carga contra España por su postura con Irán y la califica como "un desastre"</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/internacional/2026-06-24/rutte-irrita-a-meloni-al-dar-la-razon-a-trump-en-su-disputa-por-el-uso-de-las-bases-militares.html" target="_blank" rel="noopener">Trump vuelve a arremeter contra España: “es un desastre” como socio de la OTAN</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-trump-arremete-contra-espana-autentico-desastre-20260624225754.html" target="_blank" rel="noopener">Trump arremete contra España: "es un auténtico desastre"</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 3 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-06-24/trump-espana-desastre-socio-otan/" target="_blank" rel="noopener">Trump insiste en que España es un «desastre» como socio de la OTAN por no ayudar con Irán</a></p>
+
+                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/mundo/20260624/trump-carga-nuevo-espana-afirma-desastre-socio-otan-silencio-rutte/1003744299107_0.html" target="_blank" rel="noopener">Trump carga de nuevo contra España: afirma que es un "desastre" como socio de la OTAN ante el silencio de Rutte</a></p>
+
+                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/internacional/trump-insulta-espana-tachandola-horror-carga-francia-italia-alemania-silencio-rutte_1_13331089.html" target="_blank" rel="noopener">"Es un horror": Trump insulta a España mientras carga contra Francia, Italia y Alemania con la complicidad de Rutte</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Trendencias">
+            <h2>En foco: Elegantes, frescos y verano</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                1 medios · tono equilibrado · 
+                enfoque directo
             </div>
             <div class="sesgo-simple">
                 <div class="sesgo-header">
@@ -181,7 +224,45 @@
                 </div>
             </div>
 
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/sociedad/huelga-docente-indefinida-madrid-empezara-14-octubre-profesorado-exige-ayuso_1_13330244.html" target="_blank" rel="noopener">La huelga indefinida de profesores de Madrid empezará el 14 de octubre: esto es lo que los docentes exigen a Ayuso</a></p>
+            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/belleza/cinco-perfumes-florales-frescos-olor-a-limpio-para-sentirte-como-recien-salida-ducha-verano" target="_blank" rel="noopener">Los cinco perfumes florales frescos y con olor a limpio para sentirte como recién salida de la ducha en verano</a></p>
+
+            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/belleza/como-cortarte-pelo-verano-para-no-pasar-calor-siete-cortes-cortitos-ultra-elegantes-que-no-necesitan-mucho-mantenimiento-rejuvenecen" target="_blank" rel="noopener">Cómo cortarte el pelo en verano para no pasar calor: siete cortes cortitos ultra elegantes, que no necesitan mucho mantenimiento y rejuvenecen</a></p>
+
+            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/zapatos-mujer/sandalias-elegantes-bonitas-zara-que-a-partir-hoy-cuestan-20-euros" target="_blank" rel="noopener">Las sandalias más elegantes y bonitas de Zara que a partir de hoy cuestan menos de 20 euros</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/shopping/tres-total-looks-para-perezosas-rebajados-zara-que-comodos-elegantes-frescos-para-afrontar-cualquier-ola-calor" target="_blank" rel="noopener">Tres total looks para perezosas rebajados en Zara que son cómodos, elegantes y frescos para afrontar cualquier ola de calor</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="Moncloa.com,HuffPost,ABC,Europa Press">
+            <h2>Relevante: Sánchez, arturo y pérezreverte</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/virales/arturo-perezreverte-ve-pasado-congreso-pedro-sanchez-sentencia-siguen-toreando-oposicion-f202606.html" target="_blank" rel="noopener">Arturo Pérez-Reverte ve lo que ha pasado en el Congreso con Pedro Sánchez y sentencia: "Siguen toreando a la oposición"</a></p>
 
             <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/06/24/almeida-madrid-pacto-vox-prioridad-nacional-3389504/" target="_blank" rel="noopener">El alcalde de Madrid, Almeida, se abre a pactar con Vox y defiende la ‘prioridad nacional’ para revalidar mayoría absoluta</a></p>
 
@@ -197,8 +278,37 @@
             </details>
         </div>
 
-        <div class="card" data-medios="El País,El Mundo,OK Diario">
-            <h2>Relevante: Valencia, segunda y liga</h2>
+        <div class="card" data-medios="The Objective,OK Diario">
+            <h2>Hoy: Mundial, clasificación y 2026</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/deportes/futbol/mundial/2026-06-24/asi-queda-clasificacion-grupo-b-mundial-2026/" target="_blank" rel="noopener">Así queda la clasificación del Grupo B del Mundial</a></p>
+
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/mundial/asi-esta-fase-grupos-del-mundial-2026-consulta-clasificacion-18811741" target="_blank" rel="noopener">Así está la fase de grupos del Mundial 2026: consulta la clasificación</a></p>
+
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/deportes/futbol/mundial/2026-06-24/cuadro-mundial-2026-clasificados-cruces-dieciseisavos/" target="_blank" rel="noopener">Cuadro del Mundial 2026: clasificados, cruces y quién se enfrenta a quién en dieciseisavos de la Copa del Mundo</a></p>
+        </div>
+
+        <div class="card" data-medios="OK Diario,El País,El Mundo">
+            <h2>Claves: Bosnia, qatar y lopetegui</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -210,24 +320,24 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 43%;"></div>
-                    <div class="barra-conservadora" style="width: 57%;"></div>
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 43%</span>
-                    <span>Conservador 57%</span>
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
                 </div>
             </div>
 
-            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/baloncesto/2026-06-24/el-valencia-basket-corona-su-segunda-liga-acb-tras-volver-a-vencer-a-domicilio-ante-el-barca.html" target="_blank" rel="noopener">El Valencia Basket corona su segunda Liga ACB tras volver a vencer a domicilio ante el Barça</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/24/6a3c4640fdddff9b3e8b45db.html" target="_blank" rel="noopener">Manzambi hiela Canadá y alza a Suiza como primera del Grupo B; Qatar y Lopetegui, eliminados por Bosnia</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/baloncesto/liga-endesa/2026/06/24/6a3c179921efa0316e8b4577.html" target="_blank" rel="noopener">El Valencia Basket arrolla al Barça en el Palau, conquista su segunda liga y culmina una temporada para el recuerdo</a></p>
+            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/mundial/bosnia-acaba-sueno-qatari-lopetegui-18853666" target="_blank" rel="noopener">Bosnia acaba con el sueño qatarí de Lopetegui</a></p>
 
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/deportes/liga-taronja-historico-valencia-proclama-campeon-segunda-vez-contra-barcelona-18853381" target="_blank" rel="noopener">¡La Liga es taronja! Un histórico Valencia se proclama campeón por segunda vez contra el Barcelona</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/mundial-futbol/2026-06-24/mundial-de-2026-en-directo-bosnia-y-herzegoviana-qatar-en-vivo.html" target="_blank" rel="noopener">Así le hemos contado la victoria de Bosnia y Herzegovina frente a Qatar que hace soñar a los balcánicos con pasar de ronda</a></p>
         </div>
 
-        <div class="card" data-medios="La Vanguardia,El Español,Europa Press">
-            <h2>Portada: Cepeda, victoria y espriella</h2>
+        <div class="card" data-medios="El Español,La Vanguardia,Europa Press">
+            <h2>Hoy: Cepeda, victoria y espriella</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 3 medios · tono equilibrado · 
@@ -255,11 +365,11 @@
             <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260624/11574292/izquierdista-cepeda-acepta-derrota-reconoce-triunfo-espriella-colombia.html" target="_blank" rel="noopener">El candidato de la izquierda de Colombia, Iván Cepeda, acepta la victoria de De la Espriella</a></p>
         </div>
 
-        <div class="card" data-medios="Trendencias">
-            <h2>Tema: Elegantes, zara y sandalias</h2>
+        <div class="card" data-medios="El País,El Mundo">
+            <h2>Claves: Valencia, basket y barça</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                1 medios · tono equilibrado · 
+                2 medios · tono equilibrado · 
                 enfoque directo
             </div>
             <div class="sesgo-simple">
@@ -268,22 +378,22 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
+                    <div class="barra-progresista" style="width: 43%;"></div>
+                    <div class="barra-conservadora" style="width: 57%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
+                    <span>Progresista 43%</span>
+                    <span>Conservador 57%</span>
                 </div>
             </div>
 
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/zapatos-mujer/sandalias-elegantes-bonitas-zara-que-a-partir-hoy-cuestan-20-euros" target="_blank" rel="noopener">Las sandalias más elegantes y bonitas de Zara que a partir de hoy cuestan menos de 20 euros</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/deportes/baloncesto/liga-endesa/2026/06/24/6a3c179921efa0316e8b4577.html" target="_blank" rel="noopener">El Valencia Basket arrolla al Barça en el Palau, conquista su segunda liga y culmina una temporada para el recuerdo</a></p>
 
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/shopping/tres-total-looks-para-perezosas-rebajados-zara-que-comodos-elegantes-frescos-para-afrontar-cualquier-ola-calor" target="_blank" rel="noopener">Tres total looks para perezosas rebajados en Zara que son cómodos, elegantes y frescos para afrontar cualquier ola de calor</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/deportes/baloncesto/2026-06-24/el-valencia-basket-corona-su-segunda-liga-acb-tras-volver-a-vencer-a-domicilio-ante-el-barca.html" target="_blank" rel="noopener">El Valencia Basket corona su segunda Liga ACB tras volver a vencer a domicilio ante el Barça</a></p>
         </div>
 
-        <div class="card" data-medios="El País,OK Diario">
-            <h2>Hoy: Zapatero, secretaria y gestionaron</h2>
+        <div class="card" data-medios="Expansión,Europa Press">
+            <h2>Portada: Begoña, gómez y entrega</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -303,68 +413,14 @@
                     <span>Conservador 53%</span>
                 </div>
             </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/zapatero-secretaria-gestionaron-cena-casa-javierito-ruiz-sarah-santaolalla-18853340" target="_blank" rel="noopener">Zapatero y su secretaria gestionaron una cena en casa de ‘Javierito’ Ruiz y Sarah Santaolalla</a></p>
-
-            <p><strong>El País:</strong> <a href="https://elpais.com/espana/madrid/2026-06-24/una-corriente-interna-de-mas-madrid-se-presenta-a-las-primarias-contra-monica-garcia-y-rita-maestre.html" target="_blank" rel="noopener">Una corriente interna de Más Madrid se presenta a las primarias contra Mónica García y Rita Maestre</a></p>
-        </div>
-
-        <div class="card" data-medios="El Mundo,Expansión">
-            <h2>Hoy: Begoña, gómez y entrega</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/06/24/6a3c0359e9cf4aa3788b45b1.html" target="_blank" rel="noopener">Begoña Gómez entrega su pasaporte en el juzgado tras acordarlo el juez Peinado</a></p>
 
             <p><strong>Expansión:</strong> <a href="https://www.expansion.com/economia/politica/2026/06/24/6a3b7b5be5fdeabe398b458b.html" target="_blank" rel="noopener">Begoña Gómez entrega su pasaporte en el juzgado de Plaza de Castilla</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-begona-gomez-entrega-pasaporte-juzgado-acordarlo-juez-peinado-20260624181256.html" target="_blank" rel="noopener">Begoña Gómez entrega su pasaporte en el juzgado tras acordarlo el juez Peinado</a></p>
         </div>
 
-        <div class="card" data-medios="El Mundo,La Vanguardia">
-            <h2>Relevante: Rutte, italia y irán</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/06/24/6a3bf9f0e85ece226b8b4596.html" target="_blank" rel="noopener">Rutte asegura que Italia cedió sus bases para la ofensiva de EEUU en Irán y Roma le desmiente</a></p>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/internacional/20260624/11574315/italia-autorizo-vuelos-militares-iran-mark-rutte.html" target="_blank" rel="noopener">Italia autorizó hasta 500 vuelos militares con destino a Irán, según Mark Rutte</a></p>
-        </div>
-
-        <div class="card" data-medios="El Independiente,Applesfera">
-            <h2>Hoy: Menos, hechos y reales</h2>
+        <div class="card" data-medios="Applesfera,El Independiente">
+            <h2>Tema: Menos, hechos y reales</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -388,33 +444,6 @@
             <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-tv/dura-seis-horas-se-basa-hechos-reales-series-intensas-conocidas-apple-tv" target="_blank" rel="noopener">Dura menos de seis horas, se basa en hechos reales y es una de las series más intensas y menos conocidas de Apple TV</a></p>
 
             <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/series-y-television/2026/06/23/miniserie-netflix-hechos-reales-el-testigo/" target="_blank" rel="noopener">La miniserie que arrasa en Netflix basada en hechos reales donde el único testigo fue un niño de dos años</a></p>
-        </div>
-
-        <div class="card" data-medios="Europa Press,Infolibre">
-            <h2>Tema: Zapatero, 200000 y euros</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 46%;"></div>
-                    <div class="barra-conservadora" style="width: 54%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 46%</span>
-                    <span>Conservador 54%</span>
-                </div>
-            </div>
-
-            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/udef-sostiene-zapatero-cobro-200-000-euros-mediar-bolivia-empresa_1_2213938.html" target="_blank" rel="noopener">La UDEF sostiene que Zapatero cobró 200.000 euros por mediar con Bolivia para una empresa</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-policia-apunta-zapatero-recibio-200000-euros-mediar-bolivia-beneficiar-empresa-peruana-20260624135224.html" target="_blank" rel="noopener">La Policía apunta que Zapatero recibió 200.000 euros por mediar con Bolivia para beneficiar a una empresa peruana</a></p>
         </div>
 
         <div class="cta-section">
