@@ -1,10 +1,220 @@
 [
   {
+    "titulo": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la cifra de muertos y suma más de 3.000 heridos",
+    "medio": "El País",
+    "fecha": 1782510423.0,
+    "link": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-en-vivo.html",
+    "resumen": "Exteriores confirma cinco españoles fallecidos, 119 no localizados y 14 personas atrapadas bajo los escombros | 17 países y la ONU envían ayuda humanitaria a la zona cero"
+  },
+  {
     "titulo": "Últimas horas de Prime Day: las mejores ofertas, en directo",
     "medio": "El País",
-    "fecha": 1782505141.0,
+    "fecha": 1782510420.0,
     "link": "https://elpais.com/escaparate/ofertas-y-descuentos/amazon-prime-day-directo-2026.html",
     "resumen": "A medianoche finaliza el evento ‘online’ por antonomasia de descuentos del verano: fichamos lo que realmente merece la pena"
+  },
+  {
+    "titulo": "La tabla de los terceros lugares del Mundial multiplica el encanto de las predicciones y agita las especulaciones",
+    "medio": "El País",
+    "fecha": 1782510309.0,
+    "link": "https://elpais.com/america/2026-06-26/la-tabla-de-los-terceros-lugares-del-mundial-multiplica-el-encanto-de-las-predicciones-y-agita-las-especulaciones.html",
+    "resumen": "Millones se preguntan contra qué selección jugará México o quién será el rival de Argentina en los dieciseisavos. Ambos rivales saldrán de los ocho mejores terceros. Senegal consigue una goleada que puede ser clave"
+  },
+  {
+    "titulo": "Así queda la clasificación del Grupo I del Mundial",
+    "medio": "The Objective",
+    "fecha": 1782508862.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/asi-queda-clasificacion-grupo-i-mundial-2026/",
+    "resumen": "Era el grupo de la muerte. El Grupo I se presentó como uno de los más atractivos de la competición. Francia partía con la vitola de […]"
+  },
+  {
+    "titulo": "A qué hora juega España contra Uruguay y dónde ver en directo el Mundial 2026 y por TV gratis",
+    "medio": "OK Diario",
+    "fecha": 1782508796.0,
+    "link": "https://okdiario.com/mundial/horario-del-partido-espana-hoy-contra-uruguay-donde-ver-mundial-2026-directo-tv-online-gratis-18858173",
+    "resumen": "Llega el momento de la verdad para la selección española. Es cierto que España estará en los dieciseisavos de final del Mundial 2026, pero delante tendrá a una Uruguay que se juega la vida en el Estadio de Guadalajara, ya que el combinado sudamericano sólo puede ganar para tener opciones de estar en la fase … Continuar leyendo \"A qué hora juega España contra Uruguay y dónde ver en directo el Mundial 2026 y por TV gratis\""
+  },
+  {
+    "titulo": "Dembélé destroza a Noruega con un hat-trick para cerrar una fase de grupos perfecta",
+    "medio": "The Objective",
+    "fecha": 1782508779.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/dembele-hat-trick-noruega-francia-mundial/",
+    "resumen": "Primera de grupo. Francia ha asegurado su billete para dieciseisavos de final del Mundial de Estados Unidos, México y Canadá 2026 como primera clasificada del Grupo […]"
+  },
+  {
+    "titulo": "Senegal endosa una ‘manita’ a Irak para soñar con la clasificación a dieciseisavos",
+    "medio": "The Objective",
+    "fecha": 1782508765.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/senegal-irak-mundial-2026/",
+    "resumen": "La selección masculina de fútbol de Senegal ha goleado este viernes por 5-0 a la selección de Irak, con doblete incluido de Pape Gueye, durante la […]"
+  },
+  {
+    "titulo": "Estados Unidos lanza nuevos ataques contra Irán tras el golpe a un carguero",
+    "medio": "El País",
+    "fecha": 1782508534.0,
+    "link": "https://elpais.com/internacional/2026-06-26/iran-trata-de-mantener-el-control-sobre-ormuz-mientras-trump-le-acusa-de-violar-el-alto-el-fuego.html",
+    "resumen": "La Organización Marítima Internacional negocia garantías con Irán, que está amenazando a los buques que utilicen la ruta de Omán, para retomar su plan de evacuación tras el ataque del jueves a un carguero"
+  },
+  {
+    "titulo": "Lolita sufre una tremenda caída en ‘Tu cara me suena’: «Te he visto todo el ‘huha’»",
+    "medio": "OK Diario",
+    "fecha": 1782508522.0,
+    "link": "https://okdiario.com/happyfm/lolita-sufre-tremenda-caida-tu-cara-suena-te-he-visto-todo-huha-18851975",
+    "resumen": "Lolita Flores no ha tenido su mejor noche en la undécima gala de Tu cara me suena, que ha visto cómo Aníbal Gómez conseguía hacer la mejor imitación de Chimo Bayo que se recuerda en el programa —Arturo Valls hizo la más divertida y enérgica en el año 2012, pero no lo hizo tan bien— … Continuar leyendo \"Lolita sufre una tremenda caída en ‘Tu cara me suena’: «Te he visto todo el ‘huha’»\""
+  },
+  {
+    "titulo": "Resultado Noruega – Francia: resumen, goles y cómo ha quedado el partido del Mundial 2026 (1-3)",
+    "medio": "OK Diario",
+    "fecha": 1782508515.0,
+    "link": "https://okdiario.com/mundial/noruega-francia-directo-sigue-partido-del-mundial-2026-vivo-online-hoy-18868711",
+    "resumen": "Bienvenidos a todos al directo de OKDIARIO de uno de los grandes partidos que nos regala la fase de grupos del Mundial 2026 con este apasionante Noruega-Francia con la primera plaza del grupo I en juego. Un duelo que medirá frente a frente a dos goleadores estratosféricos como Kylian Mbappé y Erling Haaland. El grupo … Continuar leyendo \"Resultado Noruega – Francia: resumen, goles y cómo ha quedado el partido del Mundial 2026 (1-3)\""
+  },
+  {
+    "titulo": "Así han quedado los partidos de hoy en el Mundial 2026: resultados y goles del viernes 26 de junio",
+    "medio": "OK Diario",
+    "fecha": 1782507998.0,
+    "link": "https://okdiario.com/mundial/asi-han-quedado-partidos-hoy-mundial-2026-resultados-goles-del-viernes-26-junio-18868356",
+    "resumen": "Sigue en marcha la tercera y última jornada de la fase de grupos del Mundial 2026 y este viernes 26 de junio tendremos otros seis partidos. Los dos primeros se han disputado desde las 21:00 de la noche con ese partidazo entre Francia y Noruega donde la selección gala ha quedado primera de grupo. El … Continuar leyendo \"Así han quedado los partidos de hoy en el Mundial 2026: resultados y goles del viernes 26 de junio\""
+  },
+  {
+    "titulo": "Senegal le da la mano al Mundial goleando a Irak",
+    "medio": "OK Diario",
+    "fecha": 1782507934.0,
+    "link": "https://okdiario.com/mundial/senegal-da-mano-mundial-goleando-irak-18870543",
+    "resumen": "Senegal se ha reenganchado a este Mundial 2026 gracias a una manita ante Irak que les permite optar a los dieciseisavos. Llegaban sin puntos, tras caer en el grupo de la muerte contra Francia y Noruega, pero a la campeona de África le quedaba mucha vida. Lo dejaron claro desde el comienzo, contra una selección … Continuar leyendo \"Senegal le da la mano al Mundial goleando a Irak\""
+  },
+  {
+    "titulo": "EEUU ataca Irán tras denunciar una \"violación\" del acuerdo de alto el fuego",
+    "medio": "Europa Press",
+    "fecha": 1782507820.0,
+    "link": "https://www.europapress.es/internacional/noticia-eeuu-ataca-iran-denunciar-violacion-acuerdo-alto-fuego-20260626230340.html",
+    "resumen": "El Ejército de Estados Unidos ha informado de que su fuerza aérea ha atacado instalaciones en Irán, un día después de que un buque fuese alcanzado por un proyectil frente a las costas de Omán, un extremo que Washignton ha atribuido a Teherán, acusando al país asiático de haber violado el preacuerdo alcanzado la semana pasada."
+  },
+  {
+    "titulo": "Así está la fase de grupos del Mundial 2026: consulta la clasificación",
+    "medio": "OK Diario",
+    "fecha": 1782507805.0,
+    "link": "https://okdiario.com/mundial/asi-esta-fase-grupos-del-mundial-2026-consulta-clasificacion-18811741",
+    "resumen": "El Mundial 2026 ya ha entrado en la tercera jornada y empiezan a definirse algunas de las posiciones que ocupará cada selección. La fase de grupos entra ya en un momento decisivo, en el que 32 de las participantes obtendrán su clasificación para la siguiente fase. Las dos primeras de cada grupo accederán a los … Continuar leyendo \"Así está la fase de grupos del Mundial 2026: consulta la clasificación\""
+  },
+  {
+    "titulo": "La justicia da 20 días al Ayuntamiento de Carboneras para que anule la licencia de obras del Algarrobico",
+    "medio": "El País",
+    "fecha": 1782507757.0,
+    "link": "https://elpais.com/clima-y-medio-ambiente/2026-06-26/la-justicia-da-20-dias-al-ayuntamiento-de-carboneras-para-que-anule-la-licencia-de-obras-del-algarrobico.html",
+    "resumen": "De no hacerlo, el Tribunal Superior de Justicia de Andalucía advierte de que podría ejecutar directamente la medida, tal y como establece la ley"
+  },
+  {
+    "titulo": "Así le hemos contado el triunfo de Francia ante Noruega en el Mundial (1-4)",
+    "medio": "El País",
+    "fecha": 1782507738.0,
+    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-26/noruega-francia-en-directo-partido-del-grupo-i-del-mundial-2026-en-vivo.html",
+    "resumen": "Los de Deschamps, ausente hoy por el fallecimiento de su madre, terminan primeros de grupo | El cuadro nórdico, con el equipo B, firma la segunda posición en Boston"
+  },
+  {
+    "titulo": "Dembélé destroza a Noruega y Francia aprovecha el regalo para ser primera de grupo",
+    "medio": "OK Diario",
+    "fecha": 1782507657.0,
+    "link": "https://okdiario.com/mundial/dembele-destroza-noruega-francia-aprovecha-regalo-ser-primera-grupo-18870235",
+    "resumen": "Dembélé aprovecha los regalos. El último Balón de Oro irrumpió en el Mundial con un hat-trick precioso en media hora con tres goles prácticamente iguales con los que castigó a una Noruega que no quiso ni pelear la primera plaza de grupo. Su seleccionador decidió que era el día para dejar a diez titulares en … Continuar leyendo \"Dembélé destroza a Noruega y Francia aprovecha el regalo para ser primera de grupo\""
+  },
+  {
+    "titulo": "Horario del Panamá – Inglaterra: cuándo se juega el partido del Mundial 2026 y dónde ver por TV en directo y en vivo online",
+    "medio": "OK Diario",
+    "fecha": 1782507610.0,
+    "link": "https://okdiario.com/mundial/horario-del-panama-inglaterra-cuando-juega-partido-del-mundial-2026-donde-ver-tv-directo-vivo-online-18858710",
+    "resumen": "Inglaterra se juega el liderato del grupo frente a Panamá en el Estadio de Nueva York/Nueva Jersey en un choque que intentarán ganar tras el pinchazo que sufrieron ante Ghana, encuentro en el que no pasaron del empate. Ahora tienen delante un rival asequible y Harry Kane, Jude Bellingham y compañía no deberían fallar. Consulta … Continuar leyendo \"Horario del Panamá – Inglaterra: cuándo se juega el partido del Mundial 2026 y dónde ver por TV en directo y en vivo online\""
+  },
+  {
+    "titulo": "Apple pierde al jefe del Vision Pro y sus gafas inteligentes, que ficha por OpenAI",
+    "medio": "Hipertextual",
+    "fecha": 1782507600.0,
+    "link": "https://hipertextual.com/apple/paul-meade-apple-openai-apple-vision-pro/",
+    "resumen": "En una movida que está causando bastante sorpresa, Apple pierde al jefe del Vision Pro y responsable del desarrollo de las primeras gafas inteligentes de la marca. Se trata de Paul Meade, quien deja la firma de Cupertino para pasarse a las filas de OpenAI, donde se reencontrará con Jony Ive y otros exApple. Según […] Seguir leyendo: Apple pierde al jefe del Vision Pro y sus gafas inteligentes, que ficha por OpenAI"
+  },
+  {
+    "titulo": "Solbakken deja al Mundial sin el Mbappé - Haaland y Dembélé saca brillo a su Balón de Oro ante una Noruega 'B'",
+    "medio": "El Mundo",
+    "fecha": 1782507557.0,
+    "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/26/6a3ee7fee4d4d8b57a8b458a.html",
+    "resumen": "El francés anotó un 'hat-trick' en un duelo que esperaba el enfrentamiento entre los dos goleadores. El nórdico no jugó por las rotaciones de su entrenador, que prefirió no pelear el primer puesto. Leer"
+  },
+  {
+    "titulo": "Israel y Líbano firman un acuerdo marco de paz en Washington",
+    "medio": "El País",
+    "fecha": 1782507531.0,
+    "link": "https://elpais.com/internacional/2026-06-26/israel-y-libano-firman-un-acuerdo-marco-de-paz-en-washington.html",
+    "resumen": "Hezbolá ha rechazado de inmediato el documento, por el que Israel empezará la retirada de dos “zonas piloto”. La negativa del grupo chií pone en duda si el pacto llegará a aplicarse"
+  },
+  {
+    "titulo": "Cuadro del Mundial 2026: clasificados, cruces y quién se enfrenta a quién en dieciseisavos de la Copa del Mundo",
+    "medio": "The Objective",
+    "fecha": 1782507470.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/cuadro-mundial-2026-clasificados-cruces-dieciseisavos-2/",
+    "resumen": "A vida o muerte. La fase de grupos del Mundial 2026 empieza a definir su panorama. Algunas selecciones ya celebran su clasificación a los dieciseisavos de […]"
+  },
+  {
+    "titulo": "EEUU ataca a Irán tras la ofensiva de Teherán contra un buque de carga en el estrecho de Ormuz",
+    "medio": "HuffPost",
+    "fecha": 1782507322.0,
+    "link": "https://www.huffingtonpost.es/global/eeuu-bombardea-iran-ataque-teheran-buque-estrecho-ormuzbr-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "EEUU bombardea Irán en respuesta al ataque a un buque comercial en el estrecho de Ormuz",
+    "medio": "The Objective",
+    "fecha": 1782507057.0,
+    "link": "https://theobjective.com/internacional/2026-06-26/eeuu-bombardea-iran-ataque-ormuz/",
+    "resumen": "El Ejército estadounidense ha bombardeado este viernes a Irán como represalia por el ataque de la República Islámica a un buque de carga el jueves en […]"
+  },
+  {
+    "titulo": "EEUU lanza una nueva ofensiva contra Irán como \"contundente respuesta\" al ataque de Teherán a un buque civil en Ormuz",
+    "medio": "El Español",
+    "fecha": 1782507014.0,
+    "link": "https://www.elespanol.com/mundo/20260626/eeuu-lanza-nueva-ofensiva-iran-contundente-respuesta-ataque-teheran-buque-civil-ormuz/1003744302108_0.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Tabla de máximos goleadores del Mundial 2026: así está la Bota de Oro tras el hat-trick de Dembélé",
+    "medio": "The Objective",
+    "fecha": 1782506385.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/tabla-maximos-goleadores-mundial-2026-3/",
+    "resumen": "Desde la primera Copa del Mundo, disputada en Uruguay en 1930, numerosos goleadores han dejado una huella imborrable en la historia del torneo. La ampliación del […]"
+  },
+  {
+    "titulo": "Tabla de máximos asistentes del Mundial 2026",
+    "medio": "The Objective",
+    "fecha": 1782506319.0,
+    "link": "https://theobjective.com/deportes/futbol/mundial/2026-06-26/tabla-de-maximos-asistentes-del-mundial-2026/",
+    "resumen": "Los pases también cuentan. La lucha por convertirse en el mejor pasador del Mundial 2026 está tan emocionante como la carrera por la Bota de Oro. […]"
+  },
+  {
+    "titulo": "Amazon Prime Day 2026, últimas horas de chollos, en directo: estos son los productos que están arrasando en ventas ahora mismo",
+    "medio": "El Mundo",
+    "fecha": 1782506162.0,
+    "link": "https://www.elmundo.es/ofertas-regalos/2026/06/26/6a3d2b39fc6c83ea638b4595.html",
+    "resumen": "Hoy termina el Amazon Prime Day 2026. Aquí te dejamos una selección con las mejores ofertas Leer"
+  },
+  {
+    "titulo": "El Sevilla anuncia que Joaquín Caparrós sufre cáncer de colon",
+    "medio": "El País",
+    "fecha": 1782505446.0,
+    "link": "https://elpais.com/deportes/futbol/2026-06-26/el-sevilla-anuncia-que-joaquin-caparros-sufre-cancer-de-colon.html",
+    "resumen": "El histórico entrenador del conjunto andaluz y de la Liga combate la enfermedad y ya fue diagnosticado de leucemia en 2019"
+  },
+  {
+    "titulo": "Eclipse solar total en 45 días: en esta famosa playa será visible durante 110 segundos de oscuridad total",
+    "medio": "HuffPost",
+    "fecha": 1782505432.0,
+    "link": "https://www.huffingtonpost.es/sociedad/eclipse-solar-total-45-dias-famosa-playaa-visible-110-segundos-oscuridad-total-f202606.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Comprobar Euromillones de hoy viernes, 26 de junio de 2026 : números ganadores",
+    "medio": "The Objective",
+    "fecha": 1782505101.0,
+    "link": "https://theobjective.com/loterias/2026-06-26/resultado-euromillones-viernes-26-junio-2026/",
+    "resumen": "Comprueba si tu número del sorteo de Euromillones ha sido premiado"
   },
   {
     "titulo": "El MacBook con pantalla táctil ya tiene fecha de lanzamiento y una función que nadie esperaba",
@@ -14,74 +224,18 @@
     "resumen": "El MacBook táctil ya tiene fecha, chips confirmados y un diseño nuevo. Tras años de rechazar la idea de lanzar un portátil con pantalla táctil, Apple ha doblado las manos y se prepara para lanzar su primer dispositivo. El nuevo MacBook llegaría a finales de este año o principios del próximo, aunque con un procesador […] Seguir leyendo: El MacBook con pantalla táctil ya tiene fecha de lanzamiento y una función que nadie esperaba"
   },
   {
-    "titulo": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la cifra de muertos y suma más de 3.000 heridos",
-    "medio": "El País",
-    "fecha": 1782505044.0,
-    "link": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-en-vivo.html",
-    "resumen": "Exteriores confirma cinco españoles fallecidos, 119 no localizados y 14 personas atrapadas bajo los escombros | 17 países y la ONU envían ayuda humanitaria a la zona cero"
-  },
-  {
-    "titulo": "Bonoloto: comprobar el resultado del viernes, 26 de junio de 2026",
-    "medio": "The Objective",
-    "fecha": 1782505001.0,
-    "link": "https://theobjective.com/loterias/2026-06-26/bonoloto-viernes-26-junio-2026/",
-    "resumen": "Consulta en The Objective la combinación ganadora de este viernes"
+    "titulo": "Alberto San Juan exhuma los restos inmortales de Lorca",
+    "medio": "eldiario.es",
+    "fecha": 1782504946.0,
+    "link": "https://www.eldiario.es/festival-de-las-ideas-y-la-cultura/alberto-san-juan-exhuma-restos-inmortales-lorca_1_13336127.html",
+    "resumen": "El actor realiza su intervención artística ‘Sobre Lorca’ encima de la reproducción hiperrealista de su cadáver (‘Ruina’) creada por Eugenio Merino, dentro de los actos del FIC en Rivas-VaciamadridConsulta horarios y programa completo del Festival de las Ideas y la Cultura Los desaparecidos no están muertos. Sencillamente, no están. Ni aquí ni allí. No están. Por eso, a la pregunta de si está Lorca muerto, la respuesta más literal, y a la vez la más simbólica, es que no lo sabemos. A Lorca se le presupone en Alfacar (Granada), pero su condición de enterrado sin tumba —asesinato oculto del fascismo, como tantos otros miles— le hace ser un desenterrado constante. Por tanto, a Lorca hoy se le encuentra en el Teatro Español, cuando le interpreta Juan Diego Botto, o en Rivas-Vaciamadrid, cuando habla Alberto San Juan encima de lo que parece su féretro acristalado. Qué gran idea la de Eugenio Merino al hacer transparente la tierra que echamos sobre nuestros muertos, y ver al poeta represaliado, por maricón y por rojo (rojo burgués, pero rojo), existir. La reproducción hiperrealista que hace el artista estremece como solo lo consiguen las apariciones de los muertos. A diferencia de Franco, al que Merino metió en una nevera de Coca-Cola, a Federico se le puede pisar, como se le lleva pisando 90 años. Alberto San Juan recita 'Sobre Lorca' Debajo de los pies de Alberto San Juan, Federico García Lorca no está muerto: se hace el dormido. “El día en que el hambre desaparezca va a producirse la explosión más grande” escucha que dice el actor. Las palabras le suenan pero no dice nada. Claro, lo dijo en una entrevista el propio Lorca. “El concepto del arte por el arte sería cruel sino fuera tan cursi”, dice ese hombre que pisa el cristal con unos folios en la mano. Federico le escucha y asiente. “El artista debe llorar y reír con el pueblo al que pertenece”, prosigue el hombre de negro. Federico no dice nada porque sigue haciéndose el dormido. Una mujer de pelo morado, en primera fila alrededor de la tarima, asiente. “Tengo ansia verdadera por comunicarme con los demás ” dice el actor, o lo dice Federico. Lo dicen los dos. Entonces Lorca decide levantarse —de manera invisible, nótese que esta es una licencia de la crónica— y, enérgicamente se mete dentro del cuerpo de Alberto San Juan, al que le sobra el micrófono, y se le eleva la voz, que retumba en el hall del centro cultural. “¡Yo soy español integral pero odio al que es español por ser español nada más! ¡Yo soy hermano de todos!”. Y añade, en una de esas frases que causarán escozor, hace cien años y ahora también: “El chino bueno está mas cerca de mi que el español malo”. El patriotismo como crimen Y entonces, Lorca se arranca con lo del patriotismo. Ahí la cosa se pone espinosa. “Señoras, señores y todo lo demás, ¿cuántas veces nos han hablado de patriotismo?”, dice. El público se echa alguna mirada de reojo. Algunas cuantas. “El patriotismo es uno de los grandes crímenes de la humanidad”, dice un Federico de 19 años. “Madre patria... nunca puede ser madre por la que haya que derramar hasta la última gota de su sangre. La madre es el amor gigante, la piedad el único amor verdadero. La patria no es segunda madre”, dice con convicción. La instalación 'Ruina' de Eugenio Merino Y añade: “Hay que ser hijos de la verdadera madre, la del amor y la de la igualdad”, y entonces otra mujer ya no aguanta más, no se puede quedar callada por más tiempo y grita “¡bravo!”. Y todos los congregados en al cuadrilátero donde yace vivo Lorca estallan en aplausos. El poeta limpio Tan elegante, con un abrigo limpio y una corbata bien anudada, Federico parece sostenido en el tiempo. No hay violencia en su rostro ni en su cuerpo. Federico es una ficción. La obra artística de Merino y la escénica de San Juan nos advierten también de eso: Federico ha sido y seguirá siendo por siempre utilizado y manipulado, porque es un símbolo en disputa, y porque la llaga creada por un golpe de Estado en 1936 todavía no se ha cerrado, casi cien años después. Bajo la tierra, esta vez sí opaca, hay miles de cuerpos desaparecidos a los que sus familiares recuerdan quizás como a este Federico, vestido de domingo, elegante y ajeno a la tragedia, como en la última foto que les sacaron. Cuando Sobre Lorca llega a su fin, el actor desciende por la escalerilla y el público invade el escenario. Muchos suben a la tarima para ver a ese hombre que hay debajo del cristal. Y le hacen fotos porque, claro, es Lorca. Y como está muerto no hay que pedir permiso para echarle la foto o hacerse el selfi. Como luego explicará el artista Álex Peña, Lorca es, de alguna manera, un souvenir de España. El Centro Cultural Federico García Lorca acoge 'Ruina' y 'Sobre Lorca' No es la primera vez que Merino reentierra a Lorca. Ruina se mostró al público por primera vez en marzo de 2024 en Carabanchel, con la hurna rodeada de 200 metros cuadrados de arena, y de vez en cuando reaparece para sacudir el presente. En septiembre de ese año, lo hizo convertido en Banco público, un cofre, esta vez opaco, donde solo se atisbaba el falso cuerpo por un agujerillo. Lorca estaba ahí, aunque no quisiéramos verlo. Los recre Aunque la performance de Alberto San Juan solo se realiza una vez dentro del FIC, Lorca seguirá vivo y presente-pero-ausente en Rivas también el sábado 27 de junio durante dice horas (de 9 a 21h), en el centro cultural que, hermosamente, lleva el nombre del poeta. La pieza se podrá visitar en el FIC gracias a la cesión en préstamo por el Archivo Arkhé de Madrid, institución donde actualmente reside de forma permanente. Además de estas dos acciones, hay que celebrar que ambas vienen acompañadas de la genial instalación interactiva Recreativos Federico creada por Álex Peña y que recorre España de manera itinerante. Unos minutos después del desaparición de Alberto San Juan de la escena, se monta un barullo y se abren los recre. Jugar al futbolín con el Amor de Don Perlimplín y Belisa, o el gachapón de sorpresas de Bolas de Sangre nos hace caer fácilmente en la banalidad de convertir a Lorca en una atracción de feria más. A pesar del ruido, Peña no se resiste a explicarle a los primeros que entran qué son esas máquinas. Álex Peña explica de dónde surge la idea: “En Granada puedo comprar un llavero de Federico con un verso suyo detrás. Se lo envío a mi primo de Valladolid y lo guarda en un cajón. ¿Y dónde ha quedado Lorca? En nada”. Peña quiere hacer una crítica, con mucho humor, a la “capitalización de la revolución”. “Un salón de juego, como el teatro, no es más que una ficción”, dice a gritos. Una máquina de Yerma con forma de Torre Eiffel expende condones. Otra cambia cinco monedas de cinco euros por un billete, es el homenaje a Así que pasen cinco años, la obra de teatro que Lorca escribió al regresar de Nueva York y atisbar el capitalismo que vendría y que él ser perdería. “Este es el corazón del capitalismo, una caja de caudales”, señala Peña. Ganas a Las Sin Sombrero si consigues muchos puntos invisibilizándolas. El arte no es más que un juego de Arcade dándole fuerte a los botones del Cadaqués Invaders, con un Lorca que lanza bombas de castañuela a Dalí. Luego acaba la partida y, si lo piensas un poco, te sientes rara. Pero hay que pensarlo un poco. Sobre Lorca, Ruina y Recreativos Federico llegan a Rivas y forman parte del FIC gracias al apoyo de la Celebración de los 50 años de España en Libertad."
   },
   {
     "titulo": "Última hora de los terremotos en Venezuela, en directo: el número de muertos se incrementa a 920, cinco de ellos españoles",
     "medio": "HuffPost",
-    "fecha": 1782504932.0,
+    "fecha": 1782504938.0,
     "link": "https://www.huffingtonpost.es/global/ultima-hora-terremotos-venezuela-directo-dos-espanoles-muertos-total-235-4300-heridos-f202606.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Noruega - Francia: Mundial 2026, en directo | Tres goles de Dembélé dan ventaja a los galos",
-    "medio": "El País",
-    "fecha": 1782504878.0,
-    "link": "https://elpais.com/deportes/mundial-futbol/2026-06-26/noruega-francia-en-directo-partido-del-grupo-i-del-mundial-2026-en-vivo.html",
-    "resumen": "Dos de las selecciones más en forma de la primera fase se juegan la primera plaza | Haaland es suplente en el combinado nórdico"
-  },
-  {
-    "titulo": "López Miras acepta la ‘prioridad nacional’ de Vox a cambio de apoyo en vivienda en Murcia",
-    "medio": "The Objective",
-    "fecha": 1782504745.0,
-    "link": "https://theobjective.com/espana/politica/2026-06-26/presidente-murciano-prioridad-nacional-vox-apoyo-vivienda/",
-    "resumen": "El presidente del Gobierno Regional de Murcia, Fernando López Miras, ha aceptado este viernes tres propuestas de resolución presentadas en la cámara autonómica por Vox sobre […]"
-  },
-  {
-    "titulo": "A qué hora juega hoy España contra Uruguay y dónde ver online el Mundial 2026 en directo y por TV gratis",
-    "medio": "OK Diario",
-    "fecha": 1782504656.0,
-    "link": "https://okdiario.com/mundial/horario-del-partido-espana-hoy-contra-uruguay-donde-ver-mundial-2026-directo-tv-online-gratis-18858173",
-    "resumen": "Llega el momento de la verdad para la selección española. Es cierto que España estará en los dieciseisavos de final del Mundial 2026, pero delante tendrá a una Uruguay que se juega la vida en el Estadio de Guadalajara, ya que el combinado sudamericano sólo puede ganar para tener opciones de estar en la fase … Continuar leyendo \"A qué hora juega hoy España contra Uruguay y dónde ver online el Mundial 2026 en directo y por TV gratis\""
-  },
-  {
-    "titulo": "Resultado Noruega – Francia, en directo: cómo va, goles y estadísticas del partido del Mundial 2026 en vivo online hoy (1-3)",
-    "medio": "OK Diario",
-    "fecha": 1782504615.0,
-    "link": "https://okdiario.com/mundial/noruega-francia-directo-sigue-partido-del-mundial-2026-vivo-online-hoy-18868711",
-    "resumen": "Bienvenidos a todos al directo de OKDIARIO de uno de los grandes partidos que nos regala la fase de grupos del Mundial 2026 con este apasionante Noruega-Francia con la primera plaza del grupo I en juego. Un duelo que medirá frente a frente a dos goleadores estratosféricos como Kylian Mbappé y Erling Haaland. El grupo … Continuar leyendo \"Resultado Noruega – Francia, en directo: cómo va, goles y estadísticas del partido del Mundial 2026 en vivo online hoy (1-3)\""
-  },
-  {
-    "titulo": "EEUU logra que Israel y Líbano firmen un acuerdo marco que siente las bases para negociar una «paz duradera»",
-    "medio": "OK Diario",
-    "fecha": 1782504607.0,
-    "link": "https://okdiario.com/internacional/eeuu-logra-que-israel-libano-firmen-acuerdo-marco-que-siente-bases-negociar-paz-duradera-18870160",
-    "resumen": "Las delegaciones de Líbano e Israel firman en Washington un acuerdo marco para establecer «una paz y seguridad duraderas» tras las negociaciones que han mantenido desde el martes en la capital de EEUU. «Hoy es un buen día. Nos complace anunciar un acuerdo marco entre el Gobierno soberano de Líbano y, por supuesto, el Gobierno … Continuar leyendo \"EEUU logra que Israel y Líbano firmen un acuerdo marco que siente las bases para negociar una «paz duradera»\""
-  },
-  {
-    "titulo": "La UME llegó al terremoto de Venezuela más rápido que a la DANA de Valencia",
-    "medio": "OK Diario",
-    "fecha": 1782504462.0,
-    "link": "https://okdiario.com/opinion/ume-llego-terremoto-venezuela-mas-rapido-que-dana-valencia-18869023",
-    "resumen": "Que efectivos de la UME estén trabajando ya sobre el terreno en Venezuela demuestra una reconfortante capacidad de reacción que demuestra la eficacia en la respuesta del Ejército español, algo que debe ser motivo de orgullo. La tragedia que ha asolado a una nación hermana como Venezuela ha provocado un alud de solidaridad: Gobierno y … Continuar leyendo \"La UME llegó al terremoto de Venezuela más rápido que a la DANA de Valencia\""
-  },
-  {
-    "titulo": "El Sevilla anuncia que Joaquín Caparrós sufre cáncer de colón",
-    "medio": "El País",
-    "fecha": 1782504378.0,
-    "link": "https://elpais.com/deportes/futbol/2026-06-26/el-sevilla-anuncia-que-joaquin-caparros-sufre-cancer-de-colon.html",
-    "resumen": "El histórico entrenador del conjunto andaluz y de la Liga combate la enfermedad y ya fue diagnosticado de leucemia en 2019"
   },
   {
     "titulo": "En Portugal, Irlanda o Noruega: siete rutas con nombre propio para descubrir Europa en coche este verano",
@@ -105,41 +259,6 @@
     "resumen": "Encontrar el traje de baño perfecto que sea cómodo, elegante y que potencie nuestras curvas a veces parece una misión imposible. Sin embargo, Cortefiel acaba de cerrar el debate con una de las joyas de su colección de verano. Hablamos de un espectacular bañador reductor con escote en pico y detalle de anillas que no solo respira lujo silencioso, sino que esconde el mejor secreto de diseño: un forro interior con efecto reductor que estiliza la silueta de forma invisible. Lejos quedan aquellos tiempos en que los bañadores shapewear parecían poco menos que fajas, ahora nos podemos encontrar prendas no sólo funcionales sino tan favorecedoras, elegantes y sofisticadas como esta de Cortefiel. Con un profundo escote frontal en pico, tirantes con detalle de aros por delante y tiras en la espalda, es perfecto para pasar de la arena al chiringuito con ayuda de un pareo. Cortefiel Funciona perfectamente como un body de vestir combinado con un pantalón de lino, y su diseño en negro es tan atemporal que resolverá todos nuestros looks veraniegos convirtiéndose en un básico de nuestro armario cápsula. Por 59,99 euros 29,99 euros, es un chollo con todas las letras. Cómo combinar este bañador moldeador de Cortefiel Énfasis Para elevar todavía más nuestro estilismo apostamos por este caftán de Énfasis, con un diseño de rayas verticales en blanco y negro que ayudan aún más a estilizar la silueta además de aportar elegancia. De manga corta y con cuello en uve, resulta vaporoso y transpirable. Ahora en El Corte Inglés por 59,99 euros 53,99 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @jessiekass | Cortefiel, El Corte Inglés En Trendencias | Cómo combinar unas sandalias doradas | Look elegante, casual y de sport En Trendencias | Cuándo empiezan las rebajas de verano 2026 en Zara, Mango, Massimo Dutti, Cortefiel, El Corte Inglés y más En Xataka | Italia plantó millones de abetos para proteger los Alpes. 90 años después han descubierto que la biodiversidad se ha reducido a la mitad En Xataka| Los expertos coinciden en que abrir las ventanas de noche y cerrarlas de día está dejando de ser la mejor estrategia frente al calor - La noticia Cortefiel rebaja el bañador reductor estilo retro favorito de las mujeres de +40: elegante y sofisticado fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
-    "titulo": "Las cuatro estrellas en el escudo de Uruguay: ¿por qué las tiene si solamente ganó dos Mundiales?",
-    "medio": "OK Diario",
-    "fecha": 1782504022.0,
-    "link": "https://okdiario.com/mundial/cuatro-estrellas-escudo-uruguay-que-tiene-si-solamente-gano-dos-mundiales-18866774",
-    "resumen": "España afronta un partido decisivo por el liderato del grupo en el Mundial 2026, será frente a una de las selecciones con mayor tradición del fútbol mundial: Uruguay. El combinado charrúa, que se la juega todo ante la selección española, llama la atención por un detalle que genera debate desde hace años. La camiseta de … Continuar leyendo \"Las cuatro estrellas en el escudo de Uruguay: ¿por qué las tiene si solamente ganó dos Mundiales?\""
-  },
-  {
-    "titulo": "¿Por qué Venezuela tembló dos veces en 40 segundos?",
-    "medio": "El País",
-    "fecha": 1782503846.0,
-    "link": "https://elpais.com/videos/2026-06-26/por-que-venezuela-temblo-dos-veces-en-40-segundos.html",
-    "resumen": "Expertos en sismología clasifican al episodio como un doblete sísmico porque no se trató del patrón habitual de un gran terremoto seguido por una serie de réplicas"
-  },
-  {
-    "titulo": "Terremoto en Venezuela, en directo: última hora sobre el número de muertos, desaparecidos, cómo enviar ayuda, cuántos españoles hay y cómo está la situación",
-    "medio": "OK Diario",
-    "fecha": 1782503797.0,
-    "link": "https://okdiario.com/internacional/ultima-hora-del-terremoto-venezuela-directo-muertos-heridos-desaparecidos-18863740",
-    "resumen": "El terremoto que sacudió ayer Venezuela mantiene al país en alerta tras una de las mayores tragedias sísmicas de los últimos años. Más de 24 horas después de los seísmos de magnitud 7,2 y 7,5, las autoridades cifran en al menos 589 los fallecidos y 2.980 los heridos, mientras continúan las labores de rescate entre … Continuar leyendo \"Terremoto en Venezuela, en directo: última hora sobre el número de muertos, desaparecidos, cómo enviar ayuda, cuántos españoles hay y cómo está la situación\""
-  },
-  {
-    "titulo": "Tres mujeres referentes de la lucha por los derechos LGTBIQ+ reciben la Medalla de la Orden del Mérito Constitucional",
-    "medio": "El País",
-    "fecha": 1782503714.0,
-    "link": "https://elpais.com/espana/2026-06-26/tres-mujeres-referentes-de-la-lucha-por-los-derechos-lgtbiq-reciben-la-medalla-de-la-orden-del-merito-constitucional.html",
-    "resumen": "El acto “Orgullo y Justicia” celebra las trayectorias de María Rosario Alises, Emilia Hernández y Boti García Rodrigo, que lograron convertir su militancia en avances legales y sociales para el colectivo"
-  },
-  {
-    "titulo": "Dónde ver el resultado online gratis de Noruega – Francia y en qué canal de TV el partido del Mundial 2026 en vivo",
-    "medio": "OK Diario",
-    "fecha": 1782503705.0,
-    "link": "https://okdiario.com/mundial/noruega-francia-cuando-que-hora-empieza-partido-del-mundial-canal-tv-verlo-directo-vivo-online-18839265",
-    "resumen": "Noruega y Francia van a protagonizar uno de los mejores partidos de esta fase de grupos, aunque es cierto que ambas selecciones ya están clasificadas para los dieciseisavos de final del Mundial 2026, pero aún así lucharán por la primera plaza de su cuadro. Estos dos combinados se verán las caras en el Estadio de … Continuar leyendo \"Dónde ver el resultado online gratis de Noruega – Francia y en qué canal de TV el partido del Mundial 2026 en vivo\""
-  },
-  {
     "titulo": "Los chistes contra Franco que usan el humor como herramienta de memoria histórica: “Fueron una venganza oculta”",
     "medio": "eldiario.es",
     "fecha": 1782503294.0,
@@ -147,39 +266,11 @@
     "resumen": "La propuesta, que corre a cargo del historietista Darío Adanti, el artista Eugenio Merino y la actriz Eva Redondo, ha llevado al FIC los chascarrillos de la dictadura franquista para convertirlos en un arma de resistencia Ignacio Escolar, en la inauguración del FIC: “El intento de cancelación de este festival es un aperitivo de lo que viene” “Franco visita el Principado de Andorra, el pequeño país vecino, y allí saluda a todos los ministros. Cada uno, antes de estrechar la mano del dictador español, le anuncia su cargo. 'Aquí, el ministro de Economía'. 'Aquí, el ministro de Educación'. 'Aquí, el ministro de Guerra'. Al llegar a este último, Franco no puede disimular una sonrisita. Se vuelve a su ayudante y le comenta: 'Pero ¿un país tan pequeño para qué necesita un Ministerio de Guerra?'. Su ayudante le responde: '¿Y nosotros, general, para qué necesitamos un Ministerio de Justicia?'. Así reza uno de los chistes que han inundado de carcajadas el Auditorio Pilar Bardem de Rivas. La broma forma parte del espectáculo Chistes contra Franco, uno de los más esperados de la nueva edición del Festival de las Ideas y la Cultura, que supone un inteligentísimo homenaje a quienes se jugaron la libertad recurriendo al humor para desafiar la dictadura franquista. La propuesta corre a cargo del historietista Darío Adanti, fundador de Mongolia, el artista Eugenio Merino y la actriz Eva Redondo, que recuperan los chascarrillos populares que se contaban en la clandestinidad durante el régimen en un acto de memoria disidente. Así dice el primero de ellos, seleccionados de entre todos los que se escucharon en España durante la dictadura franquista y la Transición: “Un gobernador civil visita un instituto de enseñanza a los dos años de terminar la guerra. Interroga a los alumnos que en el bachillerato estudian la nueva asignatura Formación del Espíritu Nacional. El gobernador civil pregunta a uno de los alumnos: '¿Quién es su padre?'. '¡Franco!', responde el chaval. '¿Y quién es su madre?'. '¡La Falange!', responde el crío. 'Bien', sonríe el gobernador. 'Y a ver, chaval, ¿qué quieres ser de mayor?'. Y el crío responde: '¡Huérfano!'”. “El humor supuso una venganza oculta frente al poder onmipotente y una crítica radical a la figura del dictador”, se ha señalado al comienzo del evento. Después, Adanti ha ido recitando algunas de las ocurrencias más divertidas de la época, estructurándolas por temas y cronología como la vida matrimonial del dictador, su ascenso al poder o su evolución en la política, y ha aprovechado la crítica con ingenio que hacen de la figura de Franco para convertirlas en una arma de resistencia. Teniendo en cuenta que sus autores tuvieron que mantenerse anónimos y que es posible que hubiera quien fuera castigado por alguno de estos chistes, se torna todavía más relevante traerlos ahora de vuelta. Las bromas sobre los abusos del franquismo han estado acompañadas de la intervención de Eva Redondo, que se ha encargado de contextualizarlas con documentos y textos históricos que recuerdan la violencia del régimen. “¡Justicia!”, ha gritado uno de los asistentes tras una de las explicaciones de la dramaturga. Entre ellas, la intensa propaganda del dictador dentro de su estrategia de control social y represión, ya que Franco “fue consciente del valor instrumental del sello postal como un medio en el que podían configurarse mensajes ideológicos”. El primer sello de Correos con la cara de Franco apareció en 1939 y mandaría a hacer nuevas versiones en 1955. Su imagen contribuyó a la construcción simbólica de la autoridad e intentó legitimar así la violencia al régimen. Y, de ahí, otro de los chistes: “Marchaba Franco por una calle cuando una apisonadora lo atropelló y le pasó por encima. El asustado conductor paró la máquina y le dijo a su ayudante: 'Baja rápido y mira la calzada, que creo que hemos aplastado algo'. El otro se apea, corre hasta detrás de la máquina, mira detrás del último rodillo y regresa a su puesto tranquilo: 'No, no ha sido nada, era solo un sello'”. Eva Redondo contextualiza los chistes contra Franco Todos los chascarrillos aparecen en el libro Los chistes de Franco, editado por P. García en 1977. El volumen se describe como un recopilatorio de aquellos que fueron “populares” y, entre los que se plasman en sus páginas, algunos fueron ocasiados por la larga y dura posguerra marcada por la miseria y el hambre que vivió España. “En cierta ocasión, Franco vuela sobre España acompañado en el avión por sus familiares más directos. Sobrevuelan pueblos y aldeas. Entonces, tiene una idea: '¿Qué te parece, Carmen, si ahora mismo cojo mil pesetas y los tiro por la ventanilla? Pueden caer en un pueblo y encontrarlas alguien. Habríamos hecho felices a un español', dice a su mujer”, cuenta el chascarrillo. El chiste sigue así: “Doña Carmen mueve la cabeza asintiendo, pero sugiere una cosa mejor: 'Oye, Paco, ¿y si en vez de tirar un billete de mil tiras dos de 500? Lo encontrarán dos personas y entonces harás felices a dos españoles'. [...] Entonces el piloto, que ha escuchado y guardado silencio, propone: 'Yo tengo una idea mejor, excelencia. ¿Por qué no se tira usted del aparato y así hace felices a todos los españoles?'”. Hasta los hay con más connotación sexual. “Franco y su mujer están acostados en la cama. El caudillo duerme a pierna suelta, pero su esposa se encuentra desvelada por el picotazo del gusanillo sexual. Doña Carmen se le acerca y le susurra: 'Anda, Paco, ¡vamos a joder!'. Y Franco salta de la cama, corre a su despacho y se pone a firmar sentencias de muerte”, narra otro. Un viaje hasta los últimos días del dictador El espectáculo también ha repasado la historia de la pena de muerte de España, que vivió un proceso extraordinario en la dictadura con las 50.000 ejecuciones desde el 1 de abril de 1939 hasta 1950. “Lo peculiar es que, una vez finalizada la guerra, España prolongó los signos más brutales de lo que se consideraba incivilizado. La represión franquista de posguerra siguió atormentando y destruyendo la vida de millones de ciudadanos. Franco convirtió una institución penal excepcional, la pena de muerte, en un instrumento de guerra, terror, exterminio, castigo y venganza”, lee Eva Redondo. Asimismo, casi medio millón de exiliados abandonaron forzosamente su tierra por el avance de las tropas de Franco y los pocos que regresaron antes de la muerte del dictador se encontraron con una realidad de persecución política y marginación social. También hay chiste para esto: “Un español vuelve a España al cabo del tiempo y charla con un familiar. '¿Y por aquí cómo estáis?', pregunta. 'Bah, no nos podemos quejar', le responden. 'Ah, entonces bien, ¿no?'. 'No, no, que no nos podemos quejar'”. Ya hacia el final del acto, se abordaron los últimos días de vida del dictador. “Franco, a punto de morir en el hospital, se le aparece San Pedro y le dice: 'Francisco, que le dejo aquí las llaves y ya sube usted cuando le venga bien'”, dice una de las bromas que recita Darío Adanti. “En sus últimos días, Franco está internado en la habitación de la residencia de La Paz. Está en coma, entubado con el respirador artificial, con el reanimador cardíaco, bolsas de plasma, tubos de anestesia... Entonces, para sorpresa de todos los presentes, Franco abre los ojos, ve tubos por todas partes y dice: 'Queda inaugurada la decimoprimera feria nacional del plástico'”, reza el siguiente chiste. Y así concluye otro: “¿Cómo llaman a la carretera de El Pardo? La feria, porque al final está el tiovivo”."
   },
   {
-    "titulo": "Amazon Prime Day 2026, últimas horas de chollos, en directo: estos son los productos que están arrasando en ventas ahora mismo",
-    "medio": "El Mundo",
-    "fecha": 1782503268.0,
-    "link": "https://www.elmundo.es/ofertas-regalos/2026/06/26/6a3d2b39fc6c83ea638b4595.html",
-    "resumen": "Hoy termina el Amazon Prime Day 2026. Aquí te dejamos una selección con las mejores ofertas Leer"
-  },
-  {
     "titulo": "Carlo Rovelli, físico teórico cuántico, sobre el rearme de Europa: \"La idea de que el ejército ruso es una amenaza para Europa es ridícula\"",
     "medio": "HuffPost",
     "fecha": 1782503056.0,
     "link": "https://www.huffingtonpost.es/global/carlo-rovelli-fisico-teorico-cuantico-rearme-europa-idea-ejercito-ruso-amenaza-europa-ridicula-f202606.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El entrenador Joaquín Caparrós, diagnosticado de cáncer de colon",
-    "medio": "The Objective",
-    "fecha": 1782502997.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-06-26/joaquin-caparros-diagnosticado-cancer-colon/",
-    "resumen": "El Sevilla FC ha informado mediante un comunicado oficial de que su Presidente de Honor y extécnico, Joaquín Caparrós, ha sido diagnosticado con un cáncer de […]"
-  },
-  {
-    "titulo": "A falta del Mbappé-Haaland, Dembélé: pica a los críticos con un hat-trick en un festival goleador",
-    "medio": "OK Diario",
-    "fecha": 1782502723.0,
-    "link": "https://okdiario.com/mundial/falta-del-mbappe-haaland-dembele-pica-criticos-hat-trick-festival-goleador-18870221",
-    "resumen": "Ousmane Dembélé acudió al rescate de un partido descafeinado entre Francia y Noruega, que perdió lustre con la suplencia de Erling Haaland. Se jugaban la primera posición y los vikingos se dejaban en el banquillo a su gran estrella. Eso sí, tenían pólvora para plantar cara. Sólo que el vigente Balón de Oro se negó … Continuar leyendo \"A falta del Mbappé-Haaland, Dembélé: pica a los críticos con un hat-trick en un festival goleador\""
-  },
-  {
-    "titulo": "Trump amenaza con aranceles del 100% a los países europeos que aprueben el impuesto sobre servicios digitales",
-    "medio": "El País",
-    "fecha": 1782502669.0,
-    "link": "https://elpais.com/internacional/2026-06-26/trump-amenaza-con-aranceles-del-100-a-los-paises-europeos-que-aprueben-el-impuesto-sobre-servicios-digitales.html",
-    "resumen": "El presidente estadounidense asegura que la nueva tasa comercial prevalecerá sobre otros acuerdos comerciales"
   },
   {
     "titulo": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa",
@@ -203,13 +294,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Cuponazo de la ONCE: comprobar sorteo del viernes 26 de junio",
-    "medio": "El País",
-    "fecha": 1782502067.0,
-    "link": "https://elpais.com/sorteos/2026-06-26/cuponazo-de-la-once-comprobar-sorteo-del-viernes-26-de-junio.html",
-    "resumen": "El premio principal es de 6.000.000 euros para aquellos que cuenten con las cinco cifras del número ganador y la serie"
-  },
-  {
     "titulo": "El PP registra la 'Ley CUME' para evitar que los padres de hijos con cáncer pierdan las ayudas del Estado al cumplir 26 años",
     "medio": "El Español",
     "fecha": 1782502040.0,
@@ -224,25 +308,11 @@
     "resumen": "El vecino moroso podrá perder el acceso a diferentes servicios comunes. Leer"
   },
   {
-    "titulo": "ONCE: comprobar resultados del sorteo del Cuponazo del viernes, 26 de junio de 2026",
-    "medio": "The Objective",
-    "fecha": 1782501900.0,
-    "link": "https://theobjective.com/loterias/2026-06-26/cuponazo-viernes-26-junio-2026/",
-    "resumen": "Con este sorteo de la Fundación ONCE, podrías llevarte un premio de hasta seis millones de euros."
-  },
-  {
     "titulo": "Un asteroide grande pasará velozmente cerca de la Tierra este fin de semana",
     "medio": "El Mundo",
     "fecha": 1782501829.0,
     "link": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/06/26/6a3ed0fce9cf4a1b098b456f.html",
     "resumen": "La roca espacial, denominada 1997 NC1, pasará a 2,6 millones de kilómetros de la Tierra, pero no representa ningún peligro Leer"
-  },
-  {
-    "titulo": "Israel y el Líbano firman en EEUU un acuerdo marco para abrir las negociaciones de paz",
-    "medio": "The Objective",
-    "fecha": 1782501667.0,
-    "link": "https://theobjective.com/internacional/2026-06-26/libano-israel-eeuu-acuerdo-negociaciones-paz/",
-    "resumen": "Delegaciones de Líbano, Israel y Estados Unidos han firmado este viernes un acuerdo marco para iniciar conversaciones formales de cooperación, concluyendo así la quinta ronda de […]"
   },
   {
     "titulo": "El PP quita peso a Vox en las CCAA: sus vicepresidentes no sustituirán a Mañueco, Azcón y Guardiola cuando se ausenten",
@@ -266,13 +336,6 @@
     "resumen": "Este Prime Day estamos viendo muy buenas ofertas en todo tipo de dispositivos, como teléfonos móviles o ventiladores y aires acondicionados. Pero, ¿y si necesitas una nueva silla? Si estás buscando una silla de oficina, entonces puede que te cuadre la Sihoo Doro C300 Pro V2, una silla que apenas lleva disponible unas semanas y que tenemos rebajada en Amazon hasta los 449,99 euros. Si prefieres ahorrar un poco más, está disponible en la tienda de Sihoo por 429,99 euros. Ahora bien, usando el código 'SihooXa6', su precio se queda en 404,19 euros. Hay que tener en cuenta que la promo estará disponible únicamente hasta el próximo 1 de julio. El mejor precio para una silla que te 'sigue' para que estés bien apoyado El PVP de esta silla es de 519,99 euros, por lo que tenemos un descuento bastante interesante en esta silla de oficina. Lo que propone es diferente a otras sillas muy populares, como la Markus de Ikea. Comparte con ella algunos puntos en común, pero no es tan estática como esta. Decimos esto porque esta silla (y otras de este tipo), cuando te mueves un poco, dejas de estar apoyado correctamente. La estructura de la misma tiene cuatro zonas coordinadas que siempre están en contacto con tu cuerpo. Estas son: cabeza, espalda, lumbar y brazos. Este sistema, que se llama DynaCore, se mantiene incluso cuando reclinamos el respaldo de la silla si queremos adoptar una posición más cómoda en un momento de descanso, por ejemplo. Se reclina, concretamente, hasta los 135 grados. Otro punto que caracteriza esta silla es que se ajusta a ti, pero de forma automática. Cuenta con una palanca para subir la altura o la inclinación del respaldo, como la mayoría de sillas. Sin embargo, el respaldo se desliza para coincidir con la forma de la espalda y se ajusta a esta. De esta forma, si varias personas utilizan la misma silla en casa, no habrá que estar configurando este aspecto todo el rato. El reposacabezas es bastante grande y flexible, por lo que no es difícil que tengamos bien apoyada esta parte del cuerpo. Su asiento, además, se puede ajustar en profundidad, algo que no solemos ver en sillas de oficina como la Markus de Ikea. Eso es algo clave para personas con las piernas muy largas o cortas. En Xataka Esta es la silla de oficina que me compraría. Consejos y modelos recomendados por expertos en ergonomía para teletrabajar y estudiar La Sihoo Doro C300 Pro V2 cuenta con unos reposabrazos muy configurables que la marca denomina 'reposabrazos 8D'. Estos se mueven hacia detrás, hacia delante, hacia arriba y hacia abajo. Eso ya lo hacen la mayoría de reposabrazos, pero los de la Sihoo también se pueden configurar un poco más en función de la posición que vayamos a tomar. Por ejemplo: si nos reclinamos y tenemos un libro en la mano, podemos ajustar el reposabrazos para apoyar tanto el codo como el antebrazo. Para terminar, mención al tejido de la silla. Con el calor que hace en este momento, es importante que nuestra silla tenga un tejido transpirable y que no se te pegue a la piel. Esta Sihoo cuenta con malla transpirable, por lo que no tendremos ningún tipo de problema en ese sentido. Para terminar, es una silla que cuenta con malla transpirable como tejido principal. No es que sea la única silla del mercado en utilizar esto, pero es lo ideal en ambientes calurosos y ahora que empieza a hacer calor en todas partes. Además, no podemos olvidar que Sihoo ofrece 30 días de prueba gratis y tres años de garantía. Todo esto, sumado a que la silla cuenta con 30 días de prueba y tres años de garantía, hace que sea una silla de oficina muy interesante para el que busca algo diferente a otras opciones más populares. Y más, ahora que tiene descuento. En Xataka POCO X8 Pro, Realme 16 Pro 5G, Nothing Phone (4a) y más: todos estos móviles cuestan hoy menos de 500 euros Otras sillas de Sihoo que te pueden interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Sihoo En Xataka | Guía de compra de cómo hacer que tu puesto de trabajo en casa sea ergonómico En Xataka | Cómo montarte tu oficina en casa: guía de compra de soportes, monitores y otros periféricos, cables, auriculares y más - La noticia Precio mínimo para la nueva Sihoo Doro C300 V2: una silla ergonómica ideal si no te gustan las que son rígidas como la Markus de Ikea fue publicada originalmente en Xataka por Juan Lorente ."
   },
   {
-    "titulo": "Dani Ceballos deja el Real Madrid tras siete temporadas",
-    "medio": "The Objective",
-    "fecha": 1782500738.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-06-26/ceballos-deja-real-madrid/",
-    "resumen": "El futbolista español Dani Ceballos, de 29 años, ha decidido de mutuo acuerdo con el Real Madrid poner fin a su etapa del equipo merengue, para […]"
-  },
-  {
     "titulo": "Los cortes de pelo para el verano 2026: las tendencias más cómodas y fáciles de peinar",
     "medio": "Trendencias",
     "fecha": 1782500499.0,
@@ -287,25 +350,11 @@
     "resumen": "OpenAI ha presentado GPT-5.6, su modelo de IA más potente a la fecha. La compañía ha lanzado una familia completa con tres versiones que se diferencian por rendimiento, velocidad y precio. A diferencia de lanzamientos anteriores, el nuevo GPT-5.6 no estará disponible para todos debido a una restricción que involucra directamente al gobierno de Estados […] Seguir leyendo: GPT‑5.6 ya está aquí y es la IA más poderosa de OpenAI, pero no podrás usarla por culpa de Donald Trump"
   },
   {
-    "titulo": "Comprobar Eurojackpot: los resultados del sorteo del viernes, 26 de junio de 2026 y premios",
-    "medio": "The Objective",
-    "fecha": 1782500425.0,
-    "link": "https://theobjective.com/loterias/2026-06-26/eurojackpot-resultados-sorteo-viernes-26-junio/",
-    "resumen": "El sorteo de hoy del Eurojackpot de la ONCE ha repartido nuevamente miles de recompensas."
-  },
-  {
     "titulo": "Varios navegantes relatan el momento en que las orcas embistieron su catamarán en el estrecho de Gibraltar: \"Doblaron el acero como si fueran espaguetis\"",
     "medio": "HuffPost",
     "fecha": 1782500400.0,
     "link": "https://www.huffingtonpost.es/sociedad/varios-navegantes-relatan-momento-orcas-embistieron-catamaran-estrecho-gibraltar-doblaron-acero-fueran-espaguetis-f202606.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Detenido un hombre a bordo de un barco en Ibiza por una agresión machista",
-    "medio": "The Objective",
-    "fecha": 1782500281.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-06-26/policia-barco-agresion-machista-aguas-ibiza/",
-    "resumen": "Agentes de la Policía Local de Sant Josep tuvieron que abordar el jueves por la tarde un barco que navegaba por aguas de Ibiza porque en […]"
   },
   {
     "titulo": "Mientras Europa apuesta por más aire acondicionado, París enfría museos, hospitales y colegios con el agua fría del Sena por 120 kilómetros de tuberías",
@@ -329,13 +378,6 @@
     "resumen": "Cumplir años a partir de los 50 es sinónimo de perder músculo de forma gradual debido a un proceso natural del cuerpo conocido como sarcopenia. Mantener una buena masa muscular a partir de estas edades es beneficios por muchos motivos: ayuda a proteger las articulaciones, mejora el equilibrio, reduce el riesgo de caídas y facilita las actividades del día a día, y también contribuye a mantener un metabolismo más activo y favorecer un envejecimiento con mayor independencia. Pero no hace falta matarse en el gimnasio para trabajar la fuerza, sino que ejercicios muy sencillos y que no te llevarán mucho tiempo pueden servirte de mucha ayuda. \"Las máquinas aíslan. El cuerpo integra. Las máquinas de ejercicio fijan artificialmente la columna, la pelvis o el rango de movimiento, creando fuerza en un patrón fijo que no siempre se transfiere al movimiento real. Te haces más fuerte en la máquina, pero no necesariamente más fuerte en la vida\", dice la instructora de Pilates de 72 años y Liz Hilliard, creadora de Hilliard Studio Method, en esta entrevista. @lizhilliardhsm Según la experta, los ejercicios en silla son una buenísima alternativa, sobre todo para aquellas personas que no entrenan frecuentemente o hace mucho que no lo hacen. Con estos, dice , \"nada te mantiene en posición, así que los pequeños músculos que protegen las articulaciones tienen que hacer su trabajo. Puedes ejercitar cada pierna de forma independiente, algo que la mayoría de las máquinas no permiten. Además, te mueves siguiendo los arcos que tu cuerpo realmente utiliza, no una trayectoria mecánica predeterminada\". Y recomienda hacer los siguientes: Ejercicio 1: Levantarse y sentarse de una silla de forma controlada Puede parecer un gesto de lo más cotidiano, pero hacerlo despacio convierte este movimiento en un excelente ejercicio para fortalecer las piernas. Según explica Liz Hilliard, \"La fase de descenso lento es donde se desarrolla el músculo. También es la fase que la mayoría de las máquinas omiten por completo\". Cómo se hace: para realizarlo, colócate de pie frente a una silla estable. Flexiona las rodillas y lleva las caderas hacia atrás hasta sentarte muy lentamente, contando cinco segundos durante la bajada. Haz una breve pausa cuando llegues al asiento y, después, empuja con los talones para volver a levantarte. Ejercicio 2: Extensión de piernas con banda elástica Este ejercicio pone el foco en los cuádriceps sin someter las rodillas a una carga excesiva. Además, la resistencia progresiva de la banda hace que el trabajo aumente justo al final del movimiento. Como señala Hilliard, \"Esto aísla los cuádriceps a través de un rango completo de movimiento sin carga compresiva en la articulación. La banda tiene una ventaja sobre la máquina: la resistencia aumenta a medida que se estira, lo que significa que el punto de mayor esfuerzo se produce en la extensión completa, justo donde el cuádriceps es más fuerte y puede soportar la mayor carga\". Cómo se hace: siéntate con la espalda recta y coloca una banda de resistencia alrededor de la parte delantera de un pie. Extiende la pierna hasta dejarla completamente recta, mantén la posición durante dos segundos y vuelve de forma controlada. Completa las repeticiones y cambia de pierna. Ejercicio 3: Sentadilla búlgara con apoyo en una silla Trabajar una pierna cada vez ayuda a detectar desequilibrios de fuerza y mejora la estabilidad. Para Hilliard, \"este ejercicio fortalece considerablemente los músculos porque carga cada pierna de forma independiente, lo que permite detectar y corregir las asimetrías de fuerza que pueden provocar caídas y deterioro de la rodilla después de los 55 años\". Cómo se hace: colócate de espaldas a una silla resistente y apoya el empeine de una pierna sobre el asiento. Flexiona la rodilla de la pierna que queda delante hasta que el muslo esté prácticamente paralelo al suelo. Después, empuja con el talón para volver a la posición inicial y repite con la otra pierna. Ejercicio 4: Compresión isométrica sentado Un movimiento sencillo que ayuda a reforzar la musculatura que estabiliza las rodillas. Según explica la instructora, \"este ejercicio activa los aductores y los músculos y articulaciones que rodean las rodillas. Generalmente, estos músculos no se entrenan lo suficiente y son los principales responsables de la estabilidad de la rodilla\". Cómo se hace: Siéntate con la espalda erguida y ambos pies apoyados en el suelo. Coloca una pelota de Pilates o una toalla enrollada entre las rodillas y apriétala con fuerza para ayudarte a hacer el ejercicio. Mantén la contracción entre 10 y 30 segundos antes de relajar la presión. Ejercicio 5: Pulsos de sentadilla con apoyo en una sillaEste ejercicio mantiene los músculos bajo tensión durante más tiempo, algo especialmente interesante a partir de los 55 años. Como dice Liz, \"después de que los cambios hormonales reducen la respuesta anabólica, el tiempo bajo tensión se convierte en un componente clave del crecimiento muscular, lo que hace que ejercicios como este sean extremadamente valiosos\". Cómo se hace: sitúate detrás de una silla y apoya las manos ligeramente sobre el respaldo para mantener el equilibrio. Separa los pies a la anchura de las caderas, eleva los talones y baja hasta una posición de sentadilla con los muslos casi paralelos al suelo. Desde ahí, realiza pequeños impulsos hacia arriba y hacia abajo sin llegar a estirar completamente las piernas. Fotografías | @hilliardstudiomethod, @lizhilliardhsm En Trendencias | Alba González, fisioterapeuta \"Trabajar la espalda con Pilates es clave para mejorar la postura, reducir dolores y prevenir lesiones\" En Xataka | Italia plantó millones de abetos para proteger los Alpes. 90 años después han descubierto que la biodiversidad se ha reducido a la mitad En Directo al Paladar | Aurelio Rojas, cardiólogo: “Las personas que toman café por la mañana tienen mayor esperanza de vida y menos riesgo de infarto” - La noticia Liz Hilliard, 72 años, entrenadora: \"Con estos 5 ejercicios en silla ganas más músculo que con las máquinas del gimnasio a partir de los 55 años\" fue publicada originalmente en Trendencias por Sara Hormigo ."
   },
   {
-    "titulo": "Mapi Sánchez, ex número uno del pádel y paciente de esclerosis múltiple: \"Hay mucha gente que la confunde con la ELA\"",
-    "medio": "HuffPost",
-    "fecha": 1782498664.0,
-    "link": "https://www.huffingtonpost.es/deporte/mapi-sanchez-ex-numero-padel-paciente-esclerosis-multiple-hay-gente-confunde-ela-f202606.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Movistar avisa: o usas su router, o te quedas sin Internet",
     "medio": "Hipertextual",
     "fecha": 1782498520.0,
@@ -350,18 +392,18 @@
     "resumen": "El Gobierno asegura que ya se habrían validado obras por un coste de 1.100 millones de los 1.745 entregados a los consistorios.Más información: El Gobierno introduce a Diana Morant en la comisión mixta de la dana pese a carecer de competencias en la materia"
   },
   {
+    "titulo": "El Real Madrid anuncia la salida de Dani Ceballos tras rescindir el contrato de mutuo acuerdo",
+    "medio": "El Español",
+    "fecha": 1782497824.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260626/real-madrid-anuncia-salida-dani-ceballos-rescindir-contrato-mutuo-acuerdo/1003744301984_0.html",
+    "resumen": "El mediocentro no cumplirá con el año de contrato que le restaba y será agente libre en el mercado. Podrá fichar libre por quien quiera.Más información: El Real Madrid vende a Nico Paz al Como por 60 millones y se asegura una cláusula de recompra para 2027"
+  },
+  {
     "titulo": "Los correos que reflejan los amaños en favor del empresario al que recomendó Begoña Gómez: \"Piensa en que Barrabés es la buena y las demás han de bajar sí o sí\"",
     "medio": "El Mundo",
     "fecha": 1782497536.0,
     "link": "https://www.elmundo.es/espana/2026/06/26/6a3e35d3fdddff74048b459c.html",
     "resumen": "Un informe de la UCO considera que sus ofertas fueron \"beneficiadas\" por la \"decisiva arbitrariedad\" en las licitaciones de la sociedad pública Red.es Leer"
-  },
-  {
-    "titulo": "La incertidumbre de Aiko de Japón y de la monarquía: las ideas patriarcales del Gobierno, la opinión de los japoneses y el ejemplo de las princesas europeas",
-    "medio": "HuffPost",
-    "fecha": 1782497209.0,
-    "link": "https://www.huffingtonpost.es/life/influencers-celebrities/la-incertidumbre-aiko-japon-monarquia-ideas-patriarcales-gobierno-opinion-japoneses-ejemplo-princesas-europeas-f202606.html",
-    "resumen": ""
   },
   {
     "titulo": "Líbano e Israel firman un principio de acuerdo tras las negociaciones en Washington",
@@ -427,11 +469,18 @@
     "resumen": "El estreno de la precuela en formato serie ha hecho que el elenco original de la comedia se haya reunido 25 años después y esto ha dado lugar a una interesante y divertida anécdota Protagonizó la saga 'Scary Movie', pero la encasilló en comedia: “Hollywood tiene una imaginación muy limitada” En el momento en el que Hollywood abraza el efecto nostalgia, en parte por el éxito que conlleva, con nuevas entregas de sagas como ‘Toy Story', el próximo título al unirse a este fenómeno es una comedia romántica que celebra los 25 años desde su estreno en cines en Estados Unidos. Hablamos de ‘Una rubia muy legal’, que debutó en 2001 y que se convirtió en todo un éxito de taquilla con 95 millones de recaudación con 18 de presupuesto y que llevó a su protagonista, Reese Witherspoon, a ser una de las actrices mejores pagadas de Hollywood. Ahora estrena su serie precuela en Amazon Prime. Se estrena este 1 de julio y lleva por título ‘Elle’, en la que Elle Wood será interpretada por Lexi Minetree, tomando el relevo de Witherspoon, que participa como productora con su empresa, para dar a conocer los orígenes de la abogada antes de su paso por Harvard. El estreno de la precuela en formato serie ha hecho que el elenco original de la comedia se haya reunido 25 años después y esto ha dado lugar a una interesante y divertida anécdota de uno de sus personajes más queridos, al que dio vida Jennifer Coolidge. Jennifer Coolidge: “Tontamente pensé que hacía la audición para Elle” Actualmente Jennifer Coolidge es una de las actrices de comedia más queridas de Hollywood, reinventándose, y venía de saborear el éxito en la saga ‘American Pie’ cuando recayó en el proyecto de ‘Una rubia muy legal’, y ha desvelado una divertida anécdota en la reunión con el reparto en el evento ‘Elle World’. “No, pero sí quiero decir esto, porque me pareció divertidísimo. Tuve muchísima suerte de ser elegida para esta película, y es uno de mis trabajos favoritos de todos los tiempos, pero tontamente pensé que, durante la audición, iba a ser Elle”, bromeó la actriz, que, finalmente, dio lugar a un personaje muy querido. Coolidge da vida en ‘Una rubia muy legal’ a Paulette Bonafonté, manicurista y gran amiga de la protagonista Elle Woods, siendo uno de los personajes más icónicos de la comedia junto a la principal, y demostró su carisma, que ha acabado de conquistar Hollywood con el paso de los años. En el evento por el estreno de ‘Elle’, se reunió Coolidge con Reese Witherspoon, pero también con Ali Larter, Selma Blair, Victor Garber y Matthew Davis, así como también se unió la cantante Vanessa Carlton y el músico Hoku, que interpretaron ‘Perfect Day’ y ‘A Thousand Miles’ que formaron parte de la banda sonora. La trayectoria de Jennifer Coolidge: de ‘American Pie’ a ‘The White Lotus’ En ‘Una rubia muy legal’ dio vida a uno de los personajes más queridos, y llegaba ya con el éxito de ‘American Pie’, donde interpretó a la madre de Stifler. Más tarde también participó en comedias como ‘Una cenicienta muy moderna’ y ‘Dos chicas sin blanca’. Sin embargo, pasó por un período complicado, en el que aseguró incluso haberse rendido como actriz y pasar por una depresión, pero entonces le llegó lo inesperado: el reconocimiento de la crítica por el papel de Tanya McQuoid en ‘The White Lotus’, lo que la ha consagrado con varios Emmy y Globos de Oro."
   },
   {
+    "titulo": "Trump amenaza con aranceles del 100% a los países europeos que apliquen una tasa a los servicios digitales",
+    "medio": "eldiario.es",
+    "fecha": 1782495378.0,
+    "link": "https://www.eldiario.es/internacional/trump-amenaza-aranceles-100-paises-europeos-apliquen-tasa-servicios-digitales_1_13337569.html",
+    "resumen": "\"Cualquier país que imponga dicho impuesto se enfrentará de inmediato a un arancel del 100 % sobre todos y cada uno de los productos enviados a los Estados Unidos de América\", ha afirmado el presidente de EEUU Nueva guerra comercial a la vista. El presidente de EEUU, Donald Trump, ha amenazado a los países europeos que apliquen un impuesto sobre los servicios digitales a las grandes tecnológicas con aranceles del 100%. “Numerosos países europeos han estado debatiendo la inminente aplicación de un impuesto sobre los servicios digitales a las empresas estadounidenses”, ha dicho Trump: “Algunos de estos países están a punto de llevarlo a la práctica. Que la presente declaración sirva para dejar claro que cualquier país que imponga dicho impuesto se enfrentará de inmediato a un arancel del 100 % sobre todos y cada uno de los productos enviados a los Estados Unidos de América”. “Este arancel”, según Trump, “prevalecerá sobre los acuerdos comerciales celebrados con dicho país, independientemente de que estén en vigor, firmados o no. Además, el arancel del 100% se aplicará de inmediato si siguen adelante con su intención”. La normativa europea está pensada para obligar a las grandes tecnológicas a regular los contenidos que ser publican en sus páginas. Es decir, para que Facebook, TikTok y Twitter, por ejemplo, se hagan responsables de los contenidos que difunden. Truth Social de Trump sobre la ley de Servicios Digitales. El Gobierno español es uno de los más ambiciosos en la UE, y pretende, a través de una ley orgánica, que Elon Musk o Mark Zuckerberg se enfrenten a procesos penales si plataformas como X, Instagram o Meta no retiran los contenidos que difunden contenidos ilegales, como pornografía infantil, por ejemplo. La propuesta del Gobierno español también incluye la obligatoriedad para las plataformas de imponer mecanismos de verificación de edad para su acceso, un aspecto que también choca con la Comisión Europea, que ha desarrollado un proyecto para crear una herramienta de verificación de la edad armonizada para toda la UE. Hace unas semanas Bruselas anunció que que ya estaba lista la aplicación de verificación de edad en internet a través de una aplicación elaborada completamente sobre código abierto, por lo que la presidenta de la Comisión Europea, Ursula von der Leyen, ha advertido a las plataformas digitales que “ya no habrá excusas” para su utilización. España integrará la aplicación en su cartera digital. “Europa ofrece una solución gratuita y fácil de usar que puede proteger a nuestros niños de contenidos dañinos e ilegales. Ya hay varios Estados miembros están avanzando rápidamente: Francia, Dinamarca, Grecia, Italia, España, Chipre e Irlanda están a la vanguardia y planean integrar la aplicación en sus carteras digitales nacionales. Espero que más Estados miembros y el sector privado se sumen, para que muy pronto todos los ciudadanos puedan utilizarla”, ha comentado Von der Leyen."
+  },
+  {
     "titulo": "Las historias pequeñas que narran el mundo: \"Para llegar a mucha gente, primero hay que contar lo cercano\"",
     "medio": "eldiario.es",
     "fecha": 1782495297.0,
     "link": "https://www.eldiario.es/madrid/somos/rivas/historias-pequenas-narran-mundo-llegar-gente-hay-contar-cercano_1_13333900.html",
-    "resumen": "La quinta edición del FIC ha contado con la participación de periodistas especializados en la información de proximidad. En el Auditorio Miguel Ríos de Rivas Vaciamadrid han debatido el director editorial de Somos Madrid y otros dos profesionales de distintos proyectos editorialesEl Festival de elDiario.es sigue adelante, a pesar del intento de cancelación del PP El periodismo local se parece mucho a salir a la calle con ojos bien abiertos. Abrir la mirilla, pasear con atención o convertir una conversación con el vecino en una pista para entender cómo funciona una ciudad. En la quinta edición del Festival de las Ideas y la Cultura de elDiario.es, inaugurada este viernes, se ha hablado de la importancia de esas grandes historias que hacen caer gobiernos o magnates e impactan en todo el mundo. Pero también ha habido espacio para reivindicar esa primera pista que dan las historias del día a día. “Nuestro trabajo consiste en mirar a la calle”, resumía Celia González, sentada sobre el escenario del Auditorio Pilar Bardem, en Rivas Vaciamadrid. González pertenence a una comisión de medios de proximidad llamada Club Abierto de Editores, que agrupa a decenas de sellos editoriales, y es ponentes en una de las charlas de la tarde. Contar lo cercano: el valor del periodismo en tu ciudad reunió a miles de personas en una reflexión sobre las historias pequeñas. En la misma línea de González, el director editorial de Somos Madrid, Diego Casado, ha resaltado el valor de las pequeñas historias en el periodismo local para narrar el mundo: “Para llegar a mucha gente, primero hay que contar lo cercano” El debate, presentado por Casado, ha contado también con la participación de Jaime Sicilia, presentador y director del magazine cultural Desafinado (perteneciente a una emisora local de Rivas, Espacio 4FM). Los tres perfiles llevan años íntimamente ligados a la información de proximidad. “Yo soy de Burgos y, cuando llegué a Madrid, una de mis obesiones era que en la capital no existía la información puramente local. Casi todo se leía en clave nacional, y eso no pasa en otras ciudades”, confesó Casado, que fundó después de una cabecera hiperlocal llamada Somos Malasaña. En ese sentido, el periodista ha recordado algunas lecciones aprendidas en el oficio: “En sitios como Madrid, es mucho más importante ver qué hacen los políticos a saber qué es lo que han dicho”, ha argumentado, incidiendo en cómo las historias muchas veces se destapan al repasar la letra pequeña de un plan municipal. “La política no es solo hablar de los partidos políticos: hay muchos proyectos que nacen de ella y no siempre tienen que ver con las peleas de los partidos”, añadió Sicilia, cuyo magazine ahonda en el impacto de iniciativas impulsadas por la administración. La particularidad del periodismo local en Madrid y alrededores siguió dando de qué hablar. Por su parte, Celia González reflexionó sobre este punto: “En cualquier otra comunidad, la prensa local siempre mira hacia su territorio, pero aquí se suele enfocar más a los políticos. ¿Por qué, si ellos ya tienen su altavoz en redes sociales?”, se preguntaba sobre el escenario, con un último deseo: “Si todos seguimos haciendo esto es porque sabemos que hay cosas malas, pero también muy buenas: saber que una noticia mía puede ayudar a mi vecino es siempre una satisfacción”, sentencia. Una amenaza del PP tambaleó el festival La quinta edición del Festival de las Ideas y la Cultura, que elDiario.es organiza entre el 26 y el 27 de junio, ha estado a punto de no ver la luz. A solo dos días del pistoletazo de salida, el PP de Madrid trató de impedir el acto a través del Tribunal Administrativo de Contratación Pública del Gobierno regional. Este órgano administrativo (que no judicial) ordenó la “suspensión cautelarísima” del contrato que el Ayuntamiento de Rivas ya había formalizado con elDiario.es, en respuesta a un recurso que había presentado fuera de plazo la concejala popular en el municipio, Janette Novo Castillo. El movimiento puso el acto en la picota años después del mensaje amenazador que el jefe de Gabinete de la presidenta, Miguel Ángel Rodríguez, envió a la adjunta al director de este periódico, Esther Palomera: “Os vamos a triturar”. Sin embargo, el mismo tribunal administrativo que tomó esta decisión en tiempo récord, inadmitió el recurso al día siguiente, cuando elDiario.es u otros invitados al evento comenzaron a denunciar la censura en redes sociales. Finalmente, y pese a los intentos de que no ocurriera, este viernes se ha inaugurado la edición anual del Festival de las Ideas y la Cultura. En el programa, además del debate de periodismo local, participan otros periodistas de este medio con más charlas y también conciertos: los de Señora! y Ariel Rot el viernes, que cerrará con una DJ set con Inés Hernand; y el sábado seguirán La Bien Querida, Jordi Évole y Los Niños Jesús o una selección de pistas capitaneada por las Hinds. Antes de marcharse, los ponentes de la charla sobre periodismo local lanzan un deseo al aire: “Tenemos que seguir contando lo que sí le importa a la gente: cómo están los parques, cómo es su ciudad y cómo mejorar su movilidad”, cerró González en su despedida. Apoya el trabajo periodístico de Somos Madrid Esta información ha podido salir a la luz gracias a las personas que apoyan la edición local de Madrid en elDiario.es. Si tú también quieres y puedes hacerlo, hazte socia, hazte socio y contribuye a sostener nuestro trabajo diario y a publicar exclusivas que cambien las cosas. Si ya tienes una suscripción, puedes hacer una aportación extra a la sección local de Madrid para apoyar las informaciones de proximidad, sobre lo que importa en el día a día de los habitantes de esta ciudad: para hacerlo, entra en el apartado de 'tu cuota' en tu perfil privado. Tu ayuda al periodismo local es importante."
+    "resumen": "La quinta edición del FIC ha contado con la participación de periodistas especializados en la información de proximidad. En el Auditorio Pilar Bardem de Rivas Vaciamadrid han debatido el director editorial de Somos Madrid y otros dos profesionales de distintos proyectos editorialesEl Festival de elDiario.es sigue adelante, a pesar del intento de cancelación del PP El periodismo local se parece mucho a salir a la calle con ojos bien abiertos. Abrir la mirilla, pasear con atención o convertir la conversación con el vecino en una pista para entender cómo funciona una ciudad. En la quinta edición del Festival de las Ideas y la Cultura de elDiario.es, inaugurada este viernes, se ha hablado de la importancia de esas grandes historias que hacen caer gobiernos o magnates e impactan en todo el mundo. Pero también ha habido espacio para reivindicar esa primera toma de contacto con la realidad: la actualidad de lo que se tiene justo al lado. “Nuestro trabajo consiste en mirar a la calle”, resumía Celia González, sentada sobre el escenario del Auditorio Pilar Bardem, en Rivas Vaciamadrid. González pertenence a una comisión de medios de proximidad llamada Club Abierto de Editores, que agrupa a decenas de sellos editoriales, y es ponentes en una de las charlas de la tarde. Contar lo cercano: el valor del periodismo en tu ciudad ha puesto a una multitud a reflexionar sobre la política de lo cotidiano. En la misma línea de González, el director editorial de Somos Madrid, Diego Casado, ha resaltado el valor de las pequeñas historias en el periodismo local a la hora de narrar el mundo. ¿Por qué importan los planeamientos urbanísticos? ¿Qué importa más, lo que el político dice o lo que aprueba en un pleno municipal? A lo largo de la tarde, se ha tratado de dar respuesta a algunas de esas preguntas. “Para llegar a mucha gente, primero hay que contar lo cercano”, considera el conductor de la charla. Sobre esta premisa debatió, además de con González, junto al presentador y director del magazine cultural Desafinado (perteneciente a una emisora local de Rivas, Espacio 4FM), Jaime Sicilia. Tres perfiles que llevan años ligados a la actualidad más próxima. “Yo soy de Burgos y, cuando llegué a Madrid, una de mis obesiones era que en la capital apenas se hacía información local. Casi todo se leía en clave nacional, y eso no pasa en otras ciudades”, confiesa Casado, que terminó fundando una cabecera hiperlocal llamada Somos Malasaña. Con el tiempo, en el periodismo se asumen algunas lecciones. “En sitios como Madrid, es mucho más importante ver qué hacen los políticos a saber qué es lo que han dicho”, añade, incidiendo en que hay mucha historias destapadas al repasar la letra pequeña de un plan municipal. “La política no es solo hablar de los partidos políticos: hay muchos proyectos que nacen de ella y no siempre tienen que ver con las peleas de los partidos”, añadía Sicilia, cuyo magazine ahonda en el impacto de iniciativas impulsadas por la administración. La particularidad del periodismo local en Madrid y alrededores siguió dando de qué hablar. Por su parte, Celia González reflexionó sobre este punto: “En cualquier otra comunidad, la prensa local siempre mira hacia su territorio, pero aquí se suele enfocar más a los políticos. ¿Por qué, si ellos ya tienen su altavoz en redes sociales?”, se preguntaba sobre el escenario, con un último recordatorio: “Saber que una noticia mía puede ayudar a mi vecino es siempre una satisfacción”. Una amenaza del PP tambaleó el festival La quinta edición del Festival de las Ideas y la Cultura, que elDiario.es organiza entre el 26 y el 27 de junio, ha estado a punto de no ver la luz. A solo dos días del pistoletazo de salida, el PP de Madrid trató de impedir el acto a través del Tribunal Administrativo de Contratación Pública del Gobierno regional. Este órgano administrativo (que no judicial) ordenó la “suspensión cautelarísima” del contrato que el Ayuntamiento de Rivas ya había formalizado con elDiario.es, en respuesta a un recurso que había presentado fuera de plazo la concejala popular en el municipio, Janette Novo Castillo. El movimiento puso el acto en la picota años después del mensaje amenazador que el jefe de Gabinete de la presidenta, Miguel Ángel Rodríguez, envió a la adjunta al director de este periódico, Esther Palomera: “Os vamos a triturar”. Sin embargo, el mismo tribunal administrativo que tomó esta decisión en tiempo récord, inadmitió el recurso al día siguiente, cuando elDiario.es u otros invitados al evento comenzaron a denunciar la censura en redes sociales. Finalmente, y pese a los intentos de que no ocurriera, este viernes se ha inaugurado la edición anual del Festival de las Ideas y la Cultura. En el programa, además del debate de periodismo local, participan otros periodistas de este medio con más charlas y también conciertos: los de Señora! y Ariel Rot el viernes, que cerrará con una DJ set con Inés Hernand; y el sábado seguirán La Bien Querida, Jordi Évole y Los Niños Jesús o una selección de pistas capitaneada por las Hinds. Antes de marcharse, los ponentes de la charla sobre periodismo local lanzan un deseo al aire: “Tenemos que seguir contando lo que sí le importa a la gente: cómo están los parques, cómo es su ciudad y cómo mejorar su movilidad”, cerró González en su despedida. Apoya el trabajo periodístico de Somos Madrid Esta información ha podido salir a la luz gracias a las personas que apoyan la edición local de Madrid en elDiario.es. Si tú también quieres y puedes hacerlo, hazte socia, hazte socio y contribuye a sostener nuestro trabajo diario y a publicar exclusivas que cambien las cosas. Si ya tienes una suscripción, puedes hacer una aportación extra a la sección local de Madrid para apoyar las informaciones de proximidad, sobre lo que importa en el día a día de los habitantes de esta ciudad: para hacerlo, entra en el apartado de 'tu cuota' en tu perfil privado. Tu ayuda al periodismo local es importante."
   },
   {
     "titulo": "Al menos 920 muertos y 3.360 heridos por los terremotos de Venezuela",
@@ -439,13 +488,6 @@
     "fecha": 1782495292.0,
     "link": "https://www.expansion.com/economia/2026/06/25/6a3c7f9ae5fdeac6018b4595.html",
     "resumen": "Dos fuertes terremotos sacudieron el miércoles el centro de Venezuela provocando el derrumbamiento de numerosos edificios con posibles víctimas. Leer"
-  },
-  {
-    "titulo": "Trump amenaza con aranceles del 100% ante la presión del Parlamento Europeo para gravar a los gigantes tecnológicos y recaudar hasta 43.000 millones",
-    "medio": "El Mundo",
-    "fecha": 1782495144.0,
-    "link": "https://www.elmundo.es/economia/macroeconomia/2026/06/26/6a3eb725e4d4d876048b45c5.html",
-    "resumen": "El presidente de Estados Unidos dijo que la penalización se aplicaría a cualquier país que avance con tal impuesto, pero destacó a las naciones europeas en sus redes sociales Leer"
   },
   {
     "titulo": "Los expertos alertan: las instalaciones de lanzamiento de la NASA son demasiado viejas para viajar a la Luna",
@@ -546,13 +588,6 @@
     "resumen": "En un video divulgado por las redes, el veterano de la guerra de Ucrania denuncia torturas y castigos de los mandos en el frente, y asegura hablar en nombre de altos cargos militares.Más información: El cruel castigo de Rusia a sus soldados en Ucrania: encerrados en agujeros en el suelo durante días."
   },
   {
-    "titulo": "Enma López deja su puesto en la Ejecutiva federal del PSOE para centrarse en las primarias a la alcaldía de Madrid",
-    "medio": "eldiario.es",
-    "fecha": 1782492216.0,
-    "link": "https://www.eldiario.es/politica/enma-lopez-deja-puesto-ejecutiva-federal-psoe-centrarse-primarias-alcaldia-madrid_1_13337449.html",
-    "resumen": "La concejala ha puesto a disposición de su partido su cargo como portavoz adjunta para concentrarse en la carrera a la alcaldía: \"Ganar Madrid requiere de mucha ilusión, pero también de trabajo\"Enma López se presentará a las primarias del PSOE para la alcaldía de Madrid La concejala socialista en el Ayuntamiento de Madrid Enma López ha puesto a disposición de su partido su cargo como portavoz adjunta en la Comisión Ejecutiva Federal (CEF) para centrarse en las futuras primarias del PSOE a la Alcaldía de Madrid. “Desde el máximo ejercicio de lealtad al partido y a su secretario general, pongo mi cargo a disposición de la dirección para poder centrarme en este proyecto tan ilusionante”, ha anunciado López. En una carta publicada en sus redes sociales, la edil ha asegurado que formar parte de la Ejecutiva Federal del PSOE ha sido “uno de los mayores honores y privilegios que cualquier militante socialista puede ostentar” para “prestar el mejor servicio a la sociedad”. “En estos dos últimos años he podido ver de primera mano cómo, frente a cualquier reto y desafío, el Gobierno y el Partido Socialista, con el indudable liderazgo de nuestro presidente y secretario general Pedro Sánchez, han trabajado incansablemente para dar esa mejor respuesta a la ciudadanía”, recoge el texto. López, “muy orgullosa de haber podido formar parte de esta etapa”, ahora “empieza otra”, después de que en las últimas horas haya dado a conocer su deseo de postularse como candidata a alcaldesa de Madrid. “Por todo ello, desde el máximo ejercicio de lealtad al partido y a su secretario general, pongo mi cargo a disposición de la dirección para poder centrarme en este proyecto tan ilusionante”, ha anunciado López. Lo hace porque “ganar Madrid requiere de mucha ilusión, pero también de trabajo, dedicación y del mejor equipo posible”. “Y en eso voy a centrarme los próximos meses. Ya llevamos mucho recorrido, la militancia y las madrileñas y madrileños lo saben y así me lo han transmitido en las últimas horas. Queridas compañeras, queridos compañeros; queridas vecinas y vecinos: puede que el camino que empezamos hoy no sea fácil, pero Madrid merece la pena y vamos a ganarlo juntas. Ya toca”, ha concluido."
-  },
-  {
     "titulo": "Pro-Palestine Candidates Are Winning Up and Down the Ballot",
     "medio": "Jacobin ES",
     "fecha": 1782491856.0,
@@ -586,13 +621,6 @@
     "fecha": 1782490523.0,
     "link": "https://www.lavanguardia.com/internacional/20260626/11576410/trump-acusa-iran-haber-violado-alto-fuego-drones-ormuz.html",
     "resumen": "El presidente de EE.UU. reprocha a Teherán haber atacado un buque que atravesaba el Estrecho"
-  },
-  {
-    "titulo": "Murcia pondrá en marcha el Centro de Emprendimiento en Defensa del Mediterráneo con 3 millones de euros de inversión",
-    "medio": "El Español",
-    "fecha": 1782490504.0,
-    "link": "https://www.elespanol.com/espana/murcia/20260626/murcia-pondra-marcha-centro-emprendimiento-defensa-mediterraneo-millones-euros-inversion/1003744299690_0.html",
-    "resumen": "El Gobierno regional ha impulsado más de 50 proyectos y quiere consolidar el programa CAETRA que impulsa tecnologías duales de uso civil y militar.Más información: López Miras quiere \"posicionar a Murcia en el hub de la industria de Defensa\" a través del programa pionero Caetra"
   },
   {
     "titulo": "La salida de Binance de la UE desata una batalla por sus usuarios",
@@ -684,13 +712,6 @@
     "fecha": 1782486099.0,
     "link": "https://www.applesfera.com/apple-1/hachazo-precios-apple-deja-vencedor-nos-va-a-venir-perlas-para-ahorrar-dinero",
     "resumen": "Comprar un producto Apple reacondicionado era (hasta hace no tanto) la opción de quien quería entrar en el ecosistema, pero no llegaba a poder pagar precio de lo nuevo: un iPhone de hace tres o cuatro generaciones, con la carcasa algo rozada y la batería con sus kilómetros. No era malo, pero tampoco era lo que uno elegiría si tuviese otra opción. El reacondicionado era el plan B. Pero ahora, con la subida de precios que acaba de aplicar Apple y con las estimaciones apuntando a que el iPhone 18 difícilmente va a escapar de la misma presión, ese plan B igual empieza a hacernos ojitos. Porque el mercado de reacondicionados ha cambiado bastante más de lo que parece. Y en este momento, con los precios por las nubes y sin perspectivas de que vayan a bajar en los próximos años, puede ser la puerta de entrada para que muchas personas puedan renovar su dispositivo. Los reacondicionados llevan años dejando de ser la opción a evitar El cambio más importante que ha vivido el mercado de reacondicionados en los últimos años no tiene que ver con los precios, sino con el producto en sí. Hoy se pueden encontrar iPhone 17 Pro reacondicionados, terminales de devolución o de personas que los han vendido con apenas unos meses de uso, a precios muy por debajo del nuevo. Eso antes era impensable: el catálogo de reacondicionados vivía siempre dos o tres generaciones por detrás y comprar ahí significaba renunciar a lo último. Ahora el desfase puede ser de meses. Detrás de esto hay varias razones. El volumen de ventas de Apple ha crecido lo suficiente como para que el flujo de devoluciones y reventas sea más alto. Además, las plataformas especializadas han profesionalizado sus procesos, cambiando piezas y haciendo pruebas antes de su venta. Por último, el ciclo de vida de los dispositivos Apple se ha alargado tanto que un iPhone de hace dos generaciones sigue siendo un teléfono perfectamente capaz. Esto hace que mucha gente venda el suyo antes de que envejezca de verdad. El resultado es un mercado de reacondicionados con más surtido, más nuevo y con más garantías, incluso legales. Los reacondicionados de Apple: los más caros, pero los que mejor están Apple tiene su propia sección de productos reacondicionados en su web, y está bastante bien escondida: hay que bajar hasta el pie de página de apple.com para encontrarla, o ir directamente a apple.com/es/shop/refurbished. Lo que diferencia a estos productos reacondicionados de Apple de los del resto de empresas está en el nivel de intervención. Apple sustituye la batería por una completamente nueva y original. Reemplaza todas las piezas necesarias con componentes nuevos y somete cada unidad a un proceso de revisión que deja el dispositivo en un estado indistinguible del nuevo. Particularmente, he comprado tres productos a lo largo de mi vida, dos Mac y un iPad, y los tres llegaron sin un solo rayón, sin polvo y sin ningún signo de uso. La única pista de que no eran nuevos era la caja: blanca, genérica y sin el diseño habitual de Apple. El producto dentro, sin embargo, era otro cantar. Además, incluyen un año de garantía directa con Apple, ampliable con AppleCare+. El precio, eso sí, refleja todo esto. Los reacondicionados de Apple son los más caros y hay momentos en los que la diferencia con un producto nuevo en un distribuidor con promoción es tan pequeña que no compensa. Eso nos lleva directamente a la regla más importante de todo esto, que veremos más adelante. Back Market, Amazon y otros: más baratos, pero con matices Fuera del canal oficial de Apple, el mercado de reacondicionados ha madurado bastante. Back Market es probablemente la empresa más conocida: ofrece hasta 24 meses de garantía en iPhone reacondicionados, tiene un sistema de clasificación del estado y sus precios suelen estar por debajo de los de Apple. Amazon también tiene su programa de reacondicionados, con garantía de un año y una política de devolución que da bastante tranquilidad. En España, distribuidores como K-tuin o El Corte Inglés tienen sus propias categorías de reacondicionados o productos de exposición. La diferencia respecto a los reacondicionados de Apple es que en estas plataformas la batería puede que no la cambien y el estado físico puede variar. No es un problema si uno sabe lo que está comprando y el precio lo justifica, pero es mejor leer bien la descripción antes de comprar. Lo que sí hay que evitar, en cualquier caso, es confundir reacondicionado con segunda mano: apps como Wallapop pueden tener precios interesantes, pero ahí la garantía depende de la buena voluntad del vendedor. Para alguien que quiere seguridad, lo razonable es quedarse en las webs que ofrezcan garantía por escrito y política de devolución. La regla de oro para ahorrar antes de comprar un reacondicionado Hay una trampa en la que es fácil caer con los reacondicionados y es asumir que, por ser reacondicionado, ya es la mejor opción económica. No siempre es así. El iPad base se puede encontrar nuevo en Amazon por alrededor de 349 euros, mientras que en la web de reacondicionados de Apple ronda los 419 euros. En este caso, la compra de un reacondicionado no tiene sentido. En Applesfera | Nuevos iPhone 18 - Todo lo que creemos saber sobre ellos En Applesfera | Nuevo iPhone plegable - Todo lo que creemos saber sobre él - La noticia El hachazo de los precios de Apple deja un vencedor. Y nos va a venir de perlas para ahorrar dinero fue publicada originalmente en Applesfera por Guille Lomener ."
-  },
-  {
-    "titulo": "El Supremo ratifica los casi ocho años de cárcel al 'yonki del dinero' de la primera sentencia del 'caso Taula'",
-    "medio": "El Español",
-    "fecha": 1782484209.0,
-    "link": "https://www.elespanol.com/valencia/20260626/supremo-ratifica-anos-carcel-yonki-dinero-primera-sentencia-caso-taula/1003744301489_0.html",
-    "resumen": "El alto tribunal confirma todas las penas menos una, que rebaja en dos meses, más de tres años después del fallo. Más información: Marcos Benavent y otros cuatro acusados, absueltos de las irregularidades y mordidas en los contratos de Cultura"
   },
   {
     "titulo": "El Corte Inglés da el pistoletazo de salida a sus rebajas de verano con hasta el 50% en moda y electrodomésticos",
@@ -826,13 +847,6 @@
     "resumen": "Francia está investigando anuncios de Vinted tras descubrir que la plataforma de segunda mano se podría estar utilizando como una red de venta de menores. No es una broma de mal gusto ni algo anecdótico: se ha descubierto que algunos perfiles publican anuncios perfectamente diseñados con palabras e imágenes que pasan desapercibidas para la mayoría, […] Seguir leyendo: Este peluche cuesta 32.000 euros en Vinted, y no es un peluche: la app se estaría utilizando para comprar y vender niños"
   },
   {
-    "titulo": "El Gobierno canario confirma el fallecimiento de Isabel Jara, la delegada del Gobierno en Venezuela",
-    "medio": "Europa Press",
-    "fecha": 1782476791.0,
-    "link": "https://www.europapress.es/islas-canarias/noticia-gobierno-canario-confirma-fallecimiento-isabel-jara-delegada-gobierno-venezuela-20260626142631.html",
-    "resumen": "El Gobierno de Canarias ha confirmado este mediodía el fallecimiento de la delegada del Gobierno de Canarias en Venezuela, Isabel Jara, que se encontraba desaparecida en las últimas horas a consecuencia del doble terremoto de magnitud 7,5 y 7,2 en la escala de Richter que ha sacudido a Venezuela recientemente."
-  },
-  {
     "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
     "medio": "Applesfera",
     "fecha": 1782475200.0,
@@ -845,13 +859,6 @@
     "fecha": 1782473499.0,
     "link": "https://www.applesfera.com/seleccion/iphone-barato-ahora-asi-nueva-oferta-mediamarkt-movil-apple",
     "resumen": "En pleno Prime Day de Amazon hay tiendas que lo están dando todo por ofrecer ofertas similares o incluso mejores. MediaMarkt, por ejemplo, ahora mismo tiene rebajado el iPhone 17e con uno de los mejores descuentos que hemos visto hasta la fecha. Si pensabas comprarlo en un futuro próximo, ahora lo tienes por 599 euros. El iPhone más económico baja aún más de precio El iPhone 17e es el móvil más económico de la generación actual de Apple, por lo que resulta atractivo tenerlo en casa incluso más barato. Sin embargo, decir que es barato no significa que sea peor, ya que hay ciertos apartados bastante atractivos. En Applesfera Qué AirPods comprar en 2026: los mejores auriculares de Apple y cuál elegir según tus necesidades En primer lugar, se trata del móvil más pequeño de la generación actual al ser el único que incorpora una pantalla de 6,1 pulgadas. Su pantalla ofrece un buen nivel de brillo para poder verla bien incluso en exteriores y además viene con 256 GB de almacenamiento interno. Por otro lado, a nivel interno viene equipado con el chip A19 de Apple, ofreciendo de esta forma una excelente potencia en todo momento. También es compatible con Apple Intelligence e incluso con MagSafe, algo que no llegamos a ver en su generación anterior. ⚡ EN RESUMEN: oferta del iPhone 17e hoy ✅ LO MEJORSu tamaño: es el iPhone más pequeño de la generación actual.Su potencia: gracias al chip A19 es capaz de ofrecer un excelente rendimiento en todo momento. ❌ LO PEORLa pantalla se ve bien, pero... su tasa de refresco es de 60 Hz.Su apartado fotográfico. 💡 CÓMPRALO SI... Va ser tu primer iPhone o simplemente buscas el modelo más económico de la generación actual. ⛔ NO LO COMPRES SI... No puedes vivir sin una tasa de refresco de 120 Hz o si el apartado fotográfico es muy importante para ti. También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Pedro Aznar, Apple En Applesfera | Qué iPhone comprar. Guía para elegir el smartphone de Apple más adecuado para ti En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia El iPhone más barato ahora lo es más: así es la nueva oferta de MediaMarkt en el móvil de Apple fue publicada originalmente en Applesfera por Alberto García ."
-  },
-  {
-    "titulo": "Es el mejor momento para comprar una PS5",
-    "medio": "Hipertextual",
-    "fecha": 1782472792.0,
-    "link": "https://hipertextual.com/videojuegos/es-el-mejor-momento-para-comprar-una-ps5/",
-    "resumen": "La PS5 ha recibido dos subidas de precio desde su lanzamiento, sobre todo en lo que se refiere a la versión digital. En ninguna otra generación de consolas se han experimentado subidas de precio tras el lanzamiento. Y las cosas se van a poner mucho peor. Microsoft anunció ayer subidas generalizadas de sus dos consolas, […] Seguir leyendo: Es el mejor momento para comprar una PS5"
   },
   {
     "titulo": "ACNUR sitúa en miles los venezolanos en situación de \"necesidad urgente\" tras los devastadores terremotos",
@@ -950,6 +957,13 @@
     "fecha": 1782415482.0,
     "link": "https://www.microsiervos.com/archivo/ordenadores/ibm-chip-tecnologia-sub-nanometro-miniaturizacion-7-angstroms.html",
     "resumen": "IBM ha presentado su nueva tecnología de chips fabricados con tecnología de 1 nanómetro, concretamente en nodos de 0,7 nm o 7 ångströms&ast (7 Å, vete acostumbrando al palabro). Esta tecnología, llamada nanostack, básicamente apila transistores en 3D como si el chip fuera un rascacielos de silicio. De este modo caben todavía más componentes por unidad de superficie que hasta ahora, en los chips habituales de tecnología de 5, 3 o 2 nm. Según IBM, en un chip del tamaño de una uña (unidad de medida campofutbolera donde las haya, que varía entre 1 y 2 cm²) cabrían casi 100.000 millones de transistores. Buena cifra. El salto de capacidad es notable: IBM habla de casi el doble de densidad respecto a los nodos de 2 nm de 2021, con lo que se logra hasta un 50% más de rendimiento y un 70% más de eficiencia energética. Al haber más lógica en menos espacio la SRAM es un 40% más compacta. Esto es importante porque, en el caso de los chips para IA, mover datos consume tanto o más que calcularlos. IBM y sus socios trabajan con la litografía ultravioleta extrema avanzada denominada High NA EUV, de ASML, la empresa que fabrica la famosa e impresionante máquina más importante y avanzada jamás construida para fabricar microchips. Naturalmente, esto no va a estar disponible mañana en el móvil ni el portátil. IBM lo plantea como una tecnología con una hoja de ruta de aquí a 5 años. Pero bueno, poder enseñarlo en fotos e incluso como demo tiene su mérito. ¿Y la Ley de Moore, qué opina de esto? Pues ahí sigue, aguantando. Se decía que ya estaba muerta hace mucho, porque las leyes de la física son crueles en el MundoReal™. Pero se sigue cumpliendo. Para ponerlo en contexto, es recomendable revisar lo que contábamos de cuando la tecnología de 1 micra ya parecía demasiado avanzada. Y de las micras a los ångströms hay un buen trecho: básicamente, desde «se ve al microscopio» hasta «esto empieza a oler a átomos». Así que enhorabuena a los premiados, que todo avance en miniaturización y chips tecnológicamente más avanzados, potentes y más eficientes energéticamente es siempre bienvenido. _____&ast Como ya comentamos al hablar de los chips de 2 nanómetros de IBM, conviene recordar que lo de los nanómetros o ångströms de los nodos modernos no significan que los transistores u otros componentes midan literalmente esos nanómetros: es más bien una denominación de «generación tecnológica». # Enlace Permanente"
+  },
+  {
+    "titulo": "España se examina ante la dubitativa Uruguay",
+    "medio": "Europa Press",
+    "fecha": 1782412292.0,
+    "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-espana-examina-dubitativa-uruguay-20260625203132.html",
+    "resumen": "La selección española masculina de fútbol tendrá este viernes (02.00 hora peninsular en España del sábado/La 1) su primer gran examen en el Mundial de Estados Unidos, México y Canadá cuando se mida en el Estadio Akron de Guadalajara a la histórica Uruguay, de la que quiere aprovechar sus dudas para no sólo certificar el primer puesto del Grupo H sino para hacerlo con las mejores sensaciones."
   },
   {
     "titulo": "Los Talleres Aeronáuticos de Barajas (TABSA) son declarados Bien de Interés Cultural (BIC)",
