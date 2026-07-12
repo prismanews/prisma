@@ -2,23 +2,261 @@
   {
     "titulo": "Incendio de Almería, en directo: última hora del fuego en Los Gallardos, búsqueda de los desaparecidos y la evolución de la situación hoy",
     "medio": "OK Diario",
-    "fecha": 1783877730.0,
+    "fecha": 1783885350.0,
     "link": "https://okdiario.com/andalucia/incendio-gallardos-directo-ultima-hora-del-fuego-almeria-desaparecidos-evolucion-llamas-hoy-18979128",
     "resumen": "El incendio forestal de Los Gallardos (Almería) continúa activo este domingo 12 de julio, aunque su evolución es favorable tras una mejora de las condiciones meteorológicas. El balance provisional se mantiene en 12 fallecidos y 18 heridos, cinco de ellos graves. Es el incendio más grave registrado en España en lo que va de siglo. … Continuar leyendo \"Incendio de Almería, en directo: última hora del fuego en Los Gallardos, búsqueda de los desaparecidos y la evolución de la situación hoy\""
   },
   {
-    "titulo": "España prepara el asalto a la final con los 26 internacionales y un pasillo de collejas a Nico Williams",
-    "medio": "OK Diario",
-    "fecha": 1783877587.0,
-    "link": "https://okdiario.com/mundial/espana-prepara-asalto-final-26-internacionales-pasillo-collejas-nico-williams-18981218",
-    "resumen": "La selección española completó este domingo un nuevo entrenamiento en el Cotton Bowl de Dallas. Luis de la Fuente pudo trabajar con absoluta normalidad junto a los 26 internacionales convocados, en una sesión destinada a seguir preparando uno de los encuentros más importantes del campeonato. La Selección continúa afinando los últimos detalles antes de medirse … Continuar leyendo \"España prepara el asalto a la final con los 26 internacionales y un pasillo de collejas a Nico Williams\""
+    "titulo": "Sinner evoluciona para derrotar al mejor Zverev y levanta su segundo Wimbledon consecutivo",
+    "medio": "El Mundo",
+    "fecha": 1783884992.0,
+    "link": "https://www.elmundo.es/deportes/tenis/wimbledon/2026/07/12/6a53e3ebe9cf4ad3658b457d.html",
+    "resumen": "El italiano superó su gran debilidad, la resistencia, para imponerse en una final de casi cuatro horas y conquistar su quinto Grand Slam Leer"
   },
   {
-    "titulo": "Jannik Sinner - Alexander Zverev, en directo | Sinner iguala la final de Wimbledon también en el tie-break (6-7(7) y 7-6(2)",
+    "titulo": "Los diferentes 'partidos' de Wimbledon: del salario mínimo a de los trabajadores a 13.000 euros por entrada en la reventa",
+    "medio": "El Mundo",
+    "fecha": 1783884715.0,
+    "link": "https://www.elmundo.es/deportes/tenis/wimbledon/2026/07/12/6a53eb42e9cf4ae56c8b457b.html",
+    "resumen": "Entre las caras conocidas que asistieron al torneo británico estaban políticos como David Lammy y actores como Dustin Hoffman o Rami Malek Leer"
+  },
+  {
+    "titulo": "Sinner resurge por todo lo alto: Wimbledon, de nuevo a sus pies",
     "medio": "El País",
-    "fecha": 1783877565.0,
-    "link": "https://elpais.com/deportes/tenis/2026-07-12/jannik-sinner-alexander-zverev-en-directo-la-final-de-wimbledon-en-vivo.html",
-    "resumen": "Zverev se llevó el primer set en un duelo igualadísimo | El tenista italiano busca su primer Grand Slam de 2026 ante el alemán, que llega crecido tras conseguir su primer gran título en Roland Garros"
+    "fecha": 1783884349.0,
+    "link": "https://elpais.com/deportes/tenis/2026-07-12/sinner-resurge-por-todo-lo-alto-wimbledon-de-nuevo-a-sus-pies.html",
+    "resumen": "Tras el colapso de París, el número uno se impone a la mejor versión de Zverev y alza su quinto grande tras una esplendorosa demostración: 6-7(7), 7-6(2), 6-3 y 6-4"
+  },
+  {
+    "titulo": "Sinner se hace más grande ante Zverev con su segundo Wimbledon seguido",
+    "medio": "The Objective",
+    "fecha": 1783884329.0,
+    "link": "https://theobjective.com/deportes/2026-07-12/sinner-grande-zverev-segundo-wimbledon-seguido/",
+    "resumen": "El tenista italiano Jannik Sinner se impuso (6-7(7), 7-6(2), 6-3, 6-4) al alemán Alexander Zverev este domingo en la final de Wimbledon para defender título en […]"
+  },
+  {
+    "titulo": "Aragón activa la alerta por un incendio en Teruel y pide ayuda a la UME",
+    "medio": "El País",
+    "fecha": 1783883491.0,
+    "link": "https://elpais.com/espana/2026-07-12/aragon-activa-la-alerta-por-un-incendio-en-teruel-y-pide-ayuda-a-la-ume.html",
+    "resumen": "Un incendio en Aiguamúrcia (Tarragona) quema 114 hectáreas y obliga a confinar a 2.500 personas"
+  },
+  {
+    "titulo": "Rufián resucitaría a la izquierda, pero a costa de echar a Sánchez de Ferraz",
+    "medio": "El Español",
+    "fecha": 1783883278.0,
+    "link": "https://www.elespanol.com/opinion/20260712/rufian-resucitaria-izquierda-costa-echar-sanchez-ferraz/1003744318920_13.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Creíamos que para construir una GPU hacían falta laboratorios y millones. Un maker está montando una en casa",
+    "medio": "Xataka",
+    "fecha": 1783882917.0,
+    "link": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa",
+    "resumen": "Durante años hemos asumido que construir una GPU era un terreno reservado a empresas con fábricas avanzadas, equipos de ingeniería y presupuestos millonarios. No era una idea absurda: basta mirar la complejidad de cualquier tarjeta gráfica moderna para entender por qué parecía fuera del alcance de una persona. Pero lo que ha hecho Matthias Balwierz, conocido como Bitluni, obliga a matizar esa certeza. No ha replicado una GeForce ni pretende competir con NVIDIA, pero sí está construyendo desde casa una máquina gráfica con miles de microcontroladores RISC-V. La primera fase reúne 8.192 de esos microcontroladores, cada uno vinculado directamente a un LED RGB. Esa decisión convierte el montaje en algo difícil de encajar en las categorías habituales: el diseño reúne en una misma estructura el procesamiento gráfico y la superficie en la que debe aparecer el resultado. En términos técnicos, está concebido para actuar a la vez como tarjeta gráfica y como pantalla, sin depender de un monitor separado. Eso sí, el proyecto sigue siendo un prototipo parcial, todavía lejos de la escala y las capacidades previstas para el sistema completo. Una GPU hecha píxel a píxelEsa arquitectura no estaba definida desde el principio. El maker comenzó pensando en construir algún tipo de pantalla, pero al estudiar el coste y la dificultad del proyecto descartó recurrir a componentes RGB direccionables, que habrían encarecido demasiado el conjunto. La alternativa fue más directa: soldar un LED a cada microcontrolador y convertir cada chip en una unidad gráfica visible por sí misma. La decisión contenía parte del presupuesto, aunque multiplicaba el trabajo de diseño, montaje y programación necesario para coordinar miles de elementos. La escala termina de entenderse cuando miramos el objetivo completo. Una resolución de 1920x1080 habría exigido más de dos millones de microcontroladores, disparando el coste y la complejidad mucho más allá de lo que Bitluni se había marcado. El maker rebajó entonces la ambición hasta 320x200 píxeles, una resolución asociada a los videojuegos de la era DOS, pero que todavía requiere 64.000 chips. Los componentes instalados hasta ahora representan apenas una primera etapa de una máquina que multiplicaría casi por ocho su tamaño si llega a completarse. Para ordenar semejante cantidad de hardware, Bitluni dividió el sistema en placas de 16x32 \"píxeles\", concebidas como módulos independientes dentro del conjunto. Estas se distribuyen en una disposición circular que recuerda al Cray-1, el histórico superordenador de los años setenta, aunque la referencia es principalmente visual. La coordinación interna también está jerarquizada: cada grupo de 32 microcontroladores queda bajo el control de una unidad CH32V más potente, encargada de organizar el funcionamiento de esa sección y de servir como nivel intermedio dentro de la máquina. La elección del QingKe CH570 explica parte de la lógica económica del proyecto. Se trata de un microcontrolador con una CPU RISC-V de 32 bits, un conjunto de instrucciones limitado y una frecuencia de hasta 100 MHz. También integra un controlador USB, un transceptor de 2,4 GHz y compatibilidad con Bluetooth 5.0 LE. Bitluni pudo comprar cada unidad por unos 0,13 dólares, pero la ventaja se diluye al multiplicarla por toda la matriz prevista: solo los chips necesarios para alcanzar los 320x200 píxeles superarían los 8.000 dólares. El problema crece al proyectar la alimentación del sistema completo. Habla de una estimación de 2.161 W, equivalentes a unos 655 amperios a 3,3 V, para la configuración final prevista. El medio señala que cada microcontrolador consume alrededor de 10 mA, aunque no ofrece un desglose que permita separar el gasto de los chips, los LED y la electrónica auxiliar. Para sostener semejante carga, Bitluni ha recurrido a una fuente Corsair WS3000 y a convertidores propios capaces de transformar los 12 V de salida en los 3,3 V requeridos. Buena parte del proyecto consiste también en fabricar la infraestructura que permite que todo lo demás funcione. Bitluni diseñó las PCB, los circuitos de alimentación, las placas de interfaz y las placas de prueba, y se enfrentó por primera vez a una placa de seis capas. Lla complejidad del diseño terminó llevándole hasta los límites del servicio de fabricación que utilizó. En paralelo, estudió una solución de refrigeración por inmersión y llegó a dimensionar el contenedor acrílico que habría necesitado, aunque dejó esa opción en suspenso por razones económicas y medioambientales. La programación planteaba otro problema de escala: no bastaba con fabricar las placas, también había que cargar el código en cada microcontrolador. Para evitar hacerlo a mano, Bitluni imprimió en 3D una pequeña herramienta con tres contactos y la fijó al carro de una impresora 3D. Un script de Python enviaba órdenes G-code para moverla hasta la posición exacta de cada chip y completar el proceso de forma repetible. La impresora dejó así de fabricar piezas para convertirse en una máquina de programación automatizada. En Xataka Todo chip avanzado del planeta pasa por una sola máquina. Y solo la fabrica una empresa Esta máquina no compite en rendimiento, eficiencia ni tamaño con una tarjeta gráfica moderna, y tampoco ha alcanzado todavía la escala que Bitluni proyectó. Su valor está en exponer, mediante componentes separados, tareas que una solución comercial concentra o reparte entre chips y circuitos especializados: cálculo, control, alimentación, coordinación y visualización. Al reconstruirlas con microcontroladores de bajo coste, el maker ha convertido una idea poco habitual en un sistema que puede diseñarse, probarse y ampliar por etapas. No es una GPU doméstica convencional, sino un experimento de ingeniería llevado hasta límites poco frecuentes. Imágenes | Bitluni En Xataka | He Tingbo, de Huawei: \"Es la primera vez que China propone un nuevo principio para la industria de chips\". No todos están convencidos - La noticia Creíamos que para construir una GPU hacían falta laboratorios y millones. Un maker está montando una en casa fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Esta función superútil está desapareciendo de los móviles Samsung y nadie sabe por qué: la marca lo confirma y revela cuándo volverá",
+    "medio": "Hipertextual",
+    "fecha": 1783882800.0,
+    "link": "https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-de-los-moviles-samsung-y-nadie-sabe-por-que-la-marca-lo-confirma-y-revela-cuando-volvera/",
+    "resumen": "Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compañía acaba de confirmar que hay una función muy útil que está desapareciendo de sus móviles. La función tiene que ver […] Seguir leyendo: Esta función superútil está desapareciendo de los móviles Samsung y nadie sabe por qué: la marca lo confirma y revela cuándo volverá"
+  },
+  {
+    "titulo": "Manuel Esteban, autor de 'La ira de los mansos': \"Premiamos al listillo que mete los codos y es capaz de llegar a donde no puede hacerlo otro menos espabilado\"",
+    "medio": "HuffPost",
+    "fecha": 1783882735.0,
+    "link": "https://www.huffingtonpost.es/life/cultura/manuel-esteban-autor-la-ira-mansospremiamos-listillo-mete-codos-capaz-llegar-espabilado-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Así queda el palmarés de Wimbledon tras la victoria de Sinner: iguala los dos de Alcaraz en Londres",
+    "medio": "OK Diario",
+    "fecha": 1783882653.0,
+    "link": "https://okdiario.com/deportes/asi-queda-palmares-wimbledon-victoria-sinner-iguala-dos-alcaraz-londres-18980738",
+    "resumen": "Jannik Sinner se ha proclamado campeón de Wimbledon 2026 este domingo. El tenista italiano conquistó por segundo año consecutivo el Grand Slam de hierba e igualó a Carlos Alcaraz con dos triunfos en Londres, los mismos que consiguió también Rafa Nadal en su momento. Con su victoria frente a Alexander Zverev, el número uno del … Continuar leyendo \"Así queda el palmarés de Wimbledon tras la victoria de Sinner: iguala los dos de Alcaraz en Londres\""
+  },
+  {
+    "titulo": "Jannik Sinner remonta ante Zverev y revalida su corona en la hierba de Wimbledon",
+    "medio": "El Español",
+    "fecha": 1783882645.0,
+    "link": "https://www.elespanol.com/deportes/tenis/20260712/jannik-sinner-remonta-zverev-revalida-corona-hierba-wimbledon/1003744318919_0.html",
+    "resumen": "El primer set fue para el tenista germano, pero el número 1 del mundo volvió a hacer gala de su efectividad para sumar su segundo título en Londres (6-7, 7-6, 6-3 y 6-4)."
+  },
+  {
+    "titulo": "Sinner revalida su corona ante un gran Zverev e iguala a Alcaraz en Wimbledon",
+    "medio": "OK Diario",
+    "fecha": 1783882635.0,
+    "link": "https://okdiario.com/deportes/sinner-revalida-corona-gran-zverev-iguala-alcaraz-wimbledon-18981476",
+    "resumen": "La imagen en la Centre Court es un déjà vu. Se repite la escena del 2025. Ahí está Jannik Sinner, con los brazos en alto y la sonrisa posada en su imperturbable rostro. Vuelve a levantar el trofeo dorado al cielo de Londres tras imponerse (6-7, 7-6, 6-3, 6-4) a un Zverev que ha roto … Continuar leyendo \"Sinner revalida su corona ante un gran Zverev e iguala a Alcaraz en Wimbledon\""
+  },
+  {
+    "titulo": "El príncipe Harry pierde una batalla legal de 20 millones y Elton John podría salir a su rescate",
+    "medio": "OK Diario",
+    "fecha": 1783882536.0,
+    "link": "https://okdiario.com/cool/casa-real/principe-harry-pierde-batalla-legal-20-millones-elton-john-podria-salir-rescate-18981479",
+    "resumen": "El príncipe Harry no atraviesa precisamente su mejor momento. A pesar de haber conseguido viajar al Reino Unido y protagonizar el esperado reencuentro con el rey Carlos III para que este pudiera volver a abrazar a sus nietos, Archie y Lilibet, el duque de Sussex tiene ahora otro problema mucho más serio sobre la mesa. … Continuar leyendo \"El príncipe Harry pierde una batalla legal de 20 millones y Elton John podría salir a su rescate\""
+  },
+  {
+    "titulo": "Las oficinas recuperan el trono de la inversión inmobiliaria",
+    "medio": "Expansión",
+    "fecha": 1783882284.0,
+    "link": "https://www.expansion.com/catalunya/2026/07/12/6a53e226e5fdea4f058b4576.html",
+    "resumen": "Los espacios de trabajo lideran las operaciones de compraventa de edificios en el primer semestre en Cataluña. El volumen total alcanza los 1.500 millones de euros, con un descenso interanual del 9,7%. Leer"
+  },
+  {
+    "titulo": "Estados Unidos afirma que sus fuerzas están “preparadas y posicionadas” para defender el estrecho de Ormuz",
+    "medio": "El País",
+    "fecha": 1783882202.0,
+    "link": "https://elpais.com/internacional/2026-07-12/estados-unidos-afirma-que-sus-fuerzas-estan-preparadas-y-posicionadas-para-defender-el-estrecho-de-ormuz.html",
+    "resumen": "Trump asegura que el paso marítimo está abierto y Teherán insiste en que lo ha bloqueado, mientras se reanudan los ataques contra territorio iraní"
+  },
+  {
+    "titulo": "Devuelven un producto en oferta a un farmacéutico porque la IA dice que el descuento está mal hecho:",
+    "medio": "HuffPost",
+    "fecha": 1783882069.0,
+    "link": "https://www.huffingtonpost.es/virales/devuelve-producto-oferta-farmaceutico-alucina-motivo-la-ia-le-dijo-calculo-esta-mal-hecho-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Las mejores apps con inteligencia artificial que puedes usar gratis en 2026",
+    "medio": "OK Diario",
+    "fecha": 1783881930.0,
+    "link": "https://okdiario.com/tecnologia/mejores-apps-inteligencia-artificial-que-puedes-usar-gratis-2026-18981469",
+    "resumen": "Hay decenas de apps con inteligencia artificial gratis, pero casi todas prometen lo mismo y, a la hora de la verdad, sirven para cosas distintas. La versión de balde ya no es un cebo, con estas cinco puedes redactar un informe, contrastar una noticia con fuentes, transcribir una reunión o resumir un manual de instrucciones … Continuar leyendo \"Las mejores apps con inteligencia artificial que puedes usar gratis en 2026\""
+  },
+  {
+    "titulo": "No fue la paella, sino la sobremesa: cómo un estadounidense que no hacía amigos en Florida encontró la respuesta en España",
+    "medio": "HuffPost",
+    "fecha": 1783881824.0,
+    "link": "https://www.huffingtonpost.es/sociedad/no-paella-sobremesa-como-estadounidense-hacia-amigos-florida-encontro-respuesta-espana-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Jesús Vázquez, médico y nutricionista, revela el error más común en la playa: \"No salgas del agua a los cinco minutos\"",
+    "medio": "HuffPost",
+    "fecha": 1783881810.0,
+    "link": "https://www.huffingtonpost.es/life/salud/jesus-vazquez-medico-nutricionista-revela-error-mas-comun-playa-no-salgas-agua-cinco-minutos-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Sybilla tiene una piscina en su jardín: \"El problema no son solo los 3.511 euros de gastos de funcionamiento\"",
+    "medio": "HuffPost",
+    "fecha": 1783881792.0,
+    "link": "https://www.huffingtonpost.es/economia/sybilla-piscina-jardin-el-problema-son-3511-euros-gastos-funcionamiento-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Luto en el motociclismo: dos pilotos mueren tras un fatal accidente en Brno",
+    "medio": "OK Diario",
+    "fecha": 1783881767.0,
+    "link": "https://okdiario.com/deportes/luto-motociclismo-dos-pilotos-mueren-fatal-accidente-brno-18981429",
+    "resumen": "El mundo del motociclismo se viste de luto tras conocer el fallecimiento de Philipp Steinmayr (33) y Adrian Rus (44). Ambos pilotos han tenido un accidente fatal en el circuito de Brno, en la República Checa. El austriaco se quedó clavado en la salida y llego incluso a levantar la mano, pero el rumano no … Continuar leyendo \"Luto en el motociclismo: dos pilotos mueren tras un fatal accidente en Brno\""
+  },
+  {
+    "titulo": "Xiaomi amplía su ofensiva en el automóvil con un SUV como un salón familiar",
+    "medio": "eldiario.es",
+    "fecha": 1783881240.0,
+    "link": "https://www.eldiario.es/motor/novedades/xiaomi-amplia-ofensiva-automovil-suv-salon-familiar_1_13371146.html",
+    "resumen": "El fabricante chino de electrónica lanza su tercera línea de vehículos eléctricos SkyNomad, centrada en todocaminos familiares reconfigurables que se suman a los modelos SU7 y YU7 en vísperas del salto de la marca a EuropaXiaomi calienta el desembarco de sus coches en Europa con un récord en Nürburgring Xiaomi acelera su expansión en el mercado del automóvil eléctrico con el lanzamiento de una tercera familia de modelos en apenas dos años. El gigante tecnológico chino ha presentado oficialmente la nueva gama SkyNomad, una línea de SUV concebida para priorizar el espacio interior, la versatilidad y la experiencia de los ocupantes, ampliando así una oferta que hasta ahora estaba formada por la berlina SU7 y el SUV coupé YU7. La nueva familia supone un cambio de planteamiento respecto a los modelos anteriores de la marca. Mientras que el SU7 y el YU7 fueron desarrollados con un enfoque claramente orientado al conductor y a la experiencia de conducción deportiva, SkyNomad nace como un vehículo pensado para las necesidades de las familias y de los usuarios que utilizan el coche como una extensión de su hogar o de su espacio de trabajo. Según explicó el fundador y consejero delegado de Xiaomi, Lei Jun, la nueva gama estará formada por “SUV inteligentes, reconfigurables y espaciosos”, diseñados para responder a una demanda creciente de habitáculos más flexibles y adaptables a diferentes usos cotidianos. Los nuevos modelos se lanzarán inicialmente en el mercado chino, a la espera de que Xiaomi inicie el desembarco de sus vehículos en otros mercados que previsiblemente incluirán Europa en 2027. La arquitectura Kunlun, desarrollada específicamente para esta nueva generación de vehículos, permite modificar la configuración interior gracias a un suelo completamente plano y a un sistema de asientos de largo recorrido. El objetivo es que el vehículo pueda transformarse con facilidad entre un modo de conducción convencional y otros orientados al trabajo remoto, el descanso, los viajes familiares o incluso el ocio al aire libre. Tres gamas en apenas dos años La rapidez con la que Xiaomi está ampliando su catálogo refleja el ritmo de desarrollo de la industria china del vehículo eléctrico. La compañía lanzó la berlina SU7 en marzo de 2024 y comenzó las entregas ese mismo año. Poco después, en junio de 2025, llegó el SUV YU7, y ahora presenta SkyNomad como su tercera gran familia de productos. El crecimiento comercial acompaña esta estrategia. Xiaomi asegura haber superado las 600.000 unidades vendidas de sus vehículos eléctricos en febrero de 2026 y haber alcanzado la rentabilidad apenas seis trimestres después del inicio de las entregas. Además, la gama YU7 continúa ampliándose. En mayo de este año la compañía incorporó las versiones YU7 Standard y YU7 GT, esta última con un marcado enfoque deportivo y un récord de 7:22,755 minutos en el circuito de Nürburgring Nordschleife para un SUV. La batalla ya no está en las baterías La presentación de SkyNomad coincide con una nueva etapa de la industria china del vehículo eléctrico, donde la diferenciación se desplaza desde la tecnología de baterías hacia el software, los chips y la conducción inteligente. Cui asegura que la competencia ha entrado en una nueva fase en la que los fabricantes buscan controlar tecnologías clave mediante chips propios, inteligencia artificial y sistemas avanzados de asistencia a la conducción, reduciendo además su dependencia de componentes importados. En ese contexto, BYD acaba de convertirse en el primer fabricante del mundo en producir 17 millones de vehículos eléctricos e híbridos enchufables y ha anunciado inversiones superiores a los 100.000 millones de yuanes (unos 14.700 millones de dólares) en investigación y desarrollo. Huawei, por su parte, continúa reforzando su presencia en el automóvil con la evolución de su plataforma de conducción inteligente ADS. Un mercado que sigue creciendo El lanzamiento de SkyNomad llega en un momento de fuerte expansión del mercado chino del vehículo electrificado. Durante el primer semestre de 2026, China produjo y vendió más de 7,4 millones de vehículos de nueva energía. Solo en junio se comercializaron 1,64 millones de unidades, un 20% más que un año antes, elevando la cuota de mercado de estos modelos hasta el 58,5% de todas las matriculaciones de vehículos nuevos. Con esta nueva familia de SUV, Xiaomi refuerza su ambición de convertirse en uno de los grandes fabricantes mundiales de automóviles eléctricos, apoyándose en la integración de su ecosistema tecnológico “Human × Car × Home”, que conecta smartphones, dispositivos inteligentes para el hogar y vehículos eléctricos bajo una misma plataforma."
+  },
+  {
+    "titulo": "El calor no solo te marea, \"secuestra\" tu sangre: la explicación científica detrás de la lipotimia veraniega",
+    "medio": "Xataka",
+    "fecha": 1783881117.0,
+    "link": "https://www.xataka.com/medicina-y-salud/calor-no-solo-te-marea-secuestra-tu-sangre-explicacion-cientifica-detras-lipotimia-veraniega",
+    "resumen": "Con la llegada de las olas de calor, las calles, playas y transportes públicos se convierten en un caldo de cultivo perfecto para que se desencadene un horrible desmayo o golpe de calor. Algo que no es demasiado aislado, puesto que solo en 2025 las altas temperaturas estuvieron detrás de 3.832 muertes en España, un número que supera trágicamente a los fallecidos en accidentes de tráfico. Una emergencia. Gran parte de estos problemas relacionados con el calor empiezan con algo que puede pasar desapercibido, como es el síncope por calor o lipotimia, que se presenta como un mareo con visión borrosa y, en cuestión de segundos, la desconexión total. Ante esto, la pregunta es obligada: ¿qué es exactamente lo que ocurre en nuestro organismo para que nuestro cerebro decida \"apagarse\"? La razón. Para entender por qué nos desmayamos, hay que acudir a la Sociedad Europea de Cardiología, que en su guía oficial define el síncope como una pérdida transitoria de consciencia debida a que le llega menos flujo sanguíneo al cerebro durante unos instantes. Para entenderlo, cuando nos exponemos a las altas temperaturas, el cuerpo humano activa su mecanismo básico de refrigeración, que es la dilatación de sus vasos sanguíneos. El objetivo aquí es disipar el calor y enfriarnos, y por eso es fácil ver cómo las personas nos ponemos colorados con el calor y también nos sentimos más débiles por la caída de la presión arterial. En Xataka Pensábamos que en Francia ya había pasado lo peor, pero parece que sus problemas no han hecho más que empezar: tras el calor \"infernal\" viene el fuego Y hay más. Si a esta bajada de tensión le sumamos estrés de estar mucho tiempo de pie sin moverse o la deshidratación, la sangre tiende a acumularse en las piernas por efecto de la gravedad. Esto hace que el corazón no pueda bombear suficiente sangre hacia arriba y el cerebro, al verse privado momentáneamente de oxígeno y nutrientes, activa su sistema de emergencia, que es el desmayo. Al caer al suelo, la posición horizontal anula el efecto de la gravedad, permitiendo que el flujo sanguíneo vuelva al cerebro y la persona recupere la consciencia. Términos diferentes. Uno de los errores más comunes es meter en el mismo saco todos los problemas de salud que nos generan y es importante diferenciarlos en las siguientes tres situaciones: Síncope por calor: Es el desmayo breve por el \"secuestro\" de sangre en las extremidades debido a la vasodilatación y la deshidratación, y que no suele dejar secuelas graves si no no hay ninguna contusión grave y la recuperación es rápida.Agotamiento por calor: Este es un cuadro sistémico que se da cuando el cuerpo pierde mucho líquido por el sudor. Se caracteriza por una debilidad extrema, náuseas, dolor de cabeza y piel sudorosa, pero con la diferencia de que no hay una alteración grave a nivel neurológico. Golpe de calor: Esta sí es una urgencia médica vital que atenta contra la vida de una persona, puesto que el termostato del cuerpo colapsa. En esta situación, la temperatura central alcanza o supera los 40 °C y aparece una disfunción grave del sistema nervioso con delirios, convulsiones e incluso coma. En Xataka El cambio climático tiene un efecto secundario letal que apenas estamos descubriendo: nos encierra en casa y nos impide movernos Los factores de riesgo. Hay un gran cóctel de situaciones que nos predisponen a alguna de estas situaciones, como por ejemplo las comidas copiosas. Tras un banquete veraniego, el cuerpo redirige una gran cantidad de flujo sanguíneo al sistema digestivo para procesar la comida. Con los vasos ya dilatados por el calor, el cerebro se queda con un margen de suministro sanguíneo muy estrecho. Esto hace que un poco de actividad física aquí pueda derivar en un mareo o en un desmayo, haciendo que en verano las comidas ligeras sean casi una obligación. La edad también es importante tenerla en cuenta, puesto que las personas más vulnerables a alguna de estas situaciones médicas son los mayores de 65 años. Y no es más porque el envejecimiento atenúa el reflejo de la sed y ralentiza la respuesta vasomotora del cuerpo, lo que provoca que muchas personas se vayan a la deshidratación sin sentir en ningún momento la necesidad de pedir un vaso de agua. Las recomendaciones. Para evitar llegar a una situación de este tipo, es importante mantener una buena hidratación a lo largo de todo el día, haciendo hincapié en las personas vulnerables que deben beber pese a no tener sed. Además, evitar salir a la calle en las horas críticas del día con una mayor temperatura o tener comidas ligeras para evitar forzar mucho más el organismo ante las altas temperaturas. Imágenes | Gerardo Ramírez López En Xataka | Llevamos décadas enfriando las casas con máquinas cada vez más caras. El método persa no consume un solo vatio desde hace 2.500 años - La noticia El calor no solo te marea, \"secuestra\" tu sangre: la explicación científica detrás de la lipotimia veraniega fue publicada originalmente en Xataka por José A. Lizana ."
+  },
+  {
+    "titulo": "Se suspenden las batidas en Los Gallardos sin encontrar más víctimas en las zonas afectadas",
+    "medio": "The Objective",
+    "fecha": 1783881019.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-07-12/se-suspenden-batidas-los-gallardos-victimas/",
+    "resumen": "El dispositivo de rastreo formado por un centenar de efectivos que durante este domingo ha continuado con las batidas en las zonas afectadas por el incendio […]"
+  },
+  {
+    "titulo": "Un conductor atropella y mata a seis personas en un mercado callejero de Viña del Mar (Chile)",
+    "medio": "El Mundo",
+    "fecha": 1783880094.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/12/6a53b7cee4d4d808708b4586.html",
+    "resumen": "El conductor es un miembro de la Armada de Chile que estaba fuera de servicio Leer"
+  },
+  {
+    "titulo": "Aurelio Rojas, cardiólogo, sobre por qué deberías cocinar el tomate: \"Contiene uno de los antioxidantes naturales más potentes\"",
+    "medio": "HuffPost",
+    "fecha": 1783879537.0,
+    "link": "https://www.huffingtonpost.es/life/salud/aurelio-rojas-cardiologo-sobre-que-deberias-cocinar-tomate-contiene-antioxidantes-naturales-mas-potentes-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Carlota Serra, farmacéutica: \"Si quieres que la digestión sea un poco más liviana, con el omeprazol estamos justo haciendo lo contrario\"",
+    "medio": "HuffPost",
+    "fecha": 1783879465.0,
+    "link": "https://www.huffingtonpost.es/life/salud/carlota-serra-farmaceutica-si-quieres-digestion-sea-poco-mas-liviana-omeprazol-justo-haciendo-contrario-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Adam Green, neurocientífico, sobre la IA: \"Mientras que Google ayuda a encontrar lo que uno ya tenía en mente, la IA piensa en cómo encontrarlo\"",
+    "medio": "HuffPost",
+    "fecha": 1783879437.0,
+    "link": "https://www.huffingtonpost.es/tecnologia/adam-green-neurocientifico-sobre-ia-mientras-google-ayuda-encontrar-tenia-mente-ia-piensa-como-encontrarlo-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La batalla que no se ve: España acumula 9.500 kilómetros más que Francia en este Mundial",
+    "medio": "OK Diario",
+    "fecha": 1783879344.0,
+    "link": "https://okdiario.com/mundial/batalla-que-no-ve-espana-acumula-9-500-kilometros-mas-que-francia-este-mundial-18978714",
+    "resumen": "España afronta la semifinal del Mundial frente a Francia con un hándicap que no aparece en las estadísticas de goles, posesión o disparos, pero que puede resultar decisivo cuando el balón empiece a rodar. La selección de Luis de la Fuente ha sido una de las expediciones que más ha viajado durante todo el campeonato, … Continuar leyendo \"La batalla que no se ve: España acumula 9.500 kilómetros más que Francia en este Mundial\""
+  },
+  {
+    "titulo": "La primera \"red social\" de la historia tiene 57.000 años, la formaban cazadores y recolectores y sirvió para evitar la extinción",
+    "medio": "Xataka",
+    "fecha": 1783879317.0,
+    "link": "https://www.xataka.com/magnet/primera-red-social-historia-tiene-57-000-anos-formaban-cazadores-recolectores-sirvio-para-evitar-extincion",
+    "resumen": "La supervivencia de los cazadores-recolectores de la prehistoria se ha explicado históricamente por dos cosas: el clima y los recursos naturales disponibles. Y aunque a grandes rasgos es cierto, un nuevo estudio propone que las relaciones sociales entre grupos humanos de por aquel entonces fueron tan decisivas que el entorno físico. El hallazgo. El equipo de investigación se centra en pequeños grupos de cazadores-recolectores que vivieron en el sur del Cáucaso hace entre 57.000 y 27.000 años. Al parecer, estos pequeños grupúsculos viajaban largas distancias y compartían herramientas y técnicas con otros grupos. Inicialmente pensaban que por su tamaño y distancia vivirían casi aislados entre ellos, pero no. La prueba clave está en objetos de obsidiana, una roca volcánica usada para hacer herramientas cortantes, presente en yacimientos situados entre 40 y 200 km de la cantera de origen. Por qué es importante. Porque obliga a replantearse los modelos clásicos sobre la evolución humana que atribuían el éxito o fracaso de una población casi exclusivamente a su capacidad de adaptación climática. Ahora vislumbramos que la cooperación y la circulación de información fue un factor de supervivencia esencial, lo que tiene implicaciones para entender la resiliencia humana frente al cambio ambiental. Contexto. La zona del estudio es el sur del Cáucaso, el puente natural entre Europa y Asia donde confluyen montañas, valles y climas muy distintos en poco espacio, de modo que es un lugar clave para entender cómo se movían los humanos antiguos. En la época en la que se enmarca el estudio en otras partes del mundo convivieron neandertales y humanos modernos y también cuando las herramientas de piedra cambiaron de estilo. Por eso el Cáucaso es un magnífico lugar para comprobar si esos cambios fueron un reemplazo brusco de una población por otra o hubo convivencia entre ambas culturas. En detalle. Cada cantera de obsidiana tiene una composición química única, lo que permite determinar exactamente cuál es el origen de cada herramienta localizada. Según el equipo de investigación, la distancia a la que están dispersas estas herramientas es demasiado grande como para que la recorriera un único grupo en busca de alimento: la explicación más plausible es que distintos grupos estaban en contacto e intercambiaban materiales. Pero hay otra pista más: la forma de tallar la piedra se repite en yacimientos muy alejados entre sí, lo que sugiere que unos grupos aprendían de otros, no que llegaran a la misma conclusión por azar. Además, al datar las capas de tierra de distintos yacimientos, se ve que las culturas del Paleolítico Medio y el Paleolítico Superior convivieron durante miles de años en la misma zona, es decir, que una no sustituyó a la otra. Tres poderosas razones para sostener que las redes sociales ayudaron a estos grupos a sobrevivir. En Xataka Durante miles de años, neandertales y homo sapiens trataron de aparearse insistentemente. La historia tenía otra idea Sí, pero. La inferencia de \"redes sociales\" o alianzas a partir de piedra tallada no deja de ser una interpretación, no una observación directa: no existen registros escritos, orales ni testimoniales del Paleolítico, así que toda conclusión sobre relaciones sociales se construye indirectamente, a partir de patrones materiales. De hecho, que la obsidiana viaje entre 40 y 200 km no prueba por sí solo intercambio social entre grupos: podría explicarse también por un único grupo con un territorio muy amplio o por reutilización de herramientas durante generaciones. En Xataka | Una cueva remota de África ha revelado algo sobre los humanos de hace 200.000 años: ya cambiaban la ropa de sus camas En Xataka | 77 esqueletos, una sola cabeza: el misterio de la fosa común de Eslovaquia que atormenta a los arqueólogos Portada | Gemini con IA - La noticia La primera \"red social\" de la historia tiene 57.000 años, la formaban cazadores y recolectores y sirvió para evitar la extinción fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Liz Hilliard, entrenadora de 72 años: \"Mi ejercicio favorito para trabajar todos los grupos musculares, desde las piernas hasta el torso, es la sentadilla con curl de bíceps\"",
+    "medio": "Trendencias",
+    "fecha": 1783879317.0,
+    "link": "https://www.trendencias.com/silver/liz-hilliard-entrenadora-72-anos-mi-ejercicio-favorito-para-trabajar-todos-grupos-musculares-piernas-torso-sentadilla-curl-biceps",
+    "resumen": "Cada vez hay más entrenadoras que, pasados los 60, son un referente y se convierten en la mejor prueba de que la edad no tiene por qué frenar la fuerza física. Liz Hilliard es una de ellas. A sus 72 años, y con más de dos décadas dedicadas al Pilates y al entrenamiento de fuerza, la creadora del método Hilliard Studio, sigue defendiendo algo que repite en cada entrevista: no hace falta pasarse horas en el gimnasio para notar resultados. Sus sesiones apenas duran entre 15 y 20 minutos, y buena parte de esa eficacia se explica por el tipo de ejercicios que elige, movimientos combinados que trabajan varias zonas del cuerpo a la vez. Uno de sus favoritos es la sentadilla con curl de bíceps, un clásico del entrenamiento funcional que ella incorpora de forma habitual a sus rutinas. \"Este es uno de mis ejercicios favoritos porque está diseñado para trabajar todos los grupos musculares del cuerpo, desde las piernas hasta el torso, los brazos, los hombros y la espalda\". Por qué combina piernas y brazos en un mismo movimientoLa entrenadora defiende realizar este ejercicio porque al unir el empuje del tren inferior con la tracción del tren superior, el cuerpo entero entra en juego en una sola repetición. Hilliard suele recomendarlo, además, como forma de arrancar una sesión, ya que activa la musculatura y sube la frecuencia cardíaca casi de inmediato, algo especialmente útil cuando el tiempo de entrenamiento es limitado. Se puede hacer solo con el peso corporal, aunque la entrenadora prefiere añadir algo de resistencia: mancuernas ligeras, de alrededor de 2,5 kilos, o una banda elástica. Cómo hacer la sentadilla con curl de bíceps paso a paso wearefitandwell y lizhilliardhsm Posición inicial. Para realizar este movimiento, deberás ponerte de pie, con los pies separados a la altura de las caderas. Sujeta una mancuerna en cada mano con los brazos extendidos, o pisa la banda de resistencia con ambos pies. La sentadilla. El siguiente paso será hacer la típica sentadilla, flexionando las las rodillas y llevando los glúteos hacia atrás, como si buscaras sentarte. La clave de este movimiento está en no bajar más allá del nivel de las rodillas. Ascenso y curl. Al volver a la posición de pie, tendrás que mantener el abdomen contraído y flexionar los brazos llevando las manos hacia los hombros, para trabajar el bíceps en el mismo impulso. Para acabar, deberás bajar las pesas de forma controlada hasta que los brazos queden completamente estirados otra vez. La experta señala que este movimiento es una opción muy recomendable para abrir una sesión de entrenamiento, ya que contribuye a activar el sistema cardiovascular y mejorar el flujo sanguíneo. Al poner en acción varios grupos musculares al mismo tiempo, también exige un mayor nivel de coordinación y un esfuerzo más completo por parte del organismo. Y recomienda hacer tres series de entre 10 y 15 repeticiones. Fotografías | Hilliard Studio Method En Trendencias | Liz Hilliard, instructora de Pilates: \"El core sostiene la columna, el equilibrio y la postura, así que mantenerlo fuerte es una de las mejores maneras de conservar la movilidad con la edad\" En DAP | Si ves una cucaracha merodeando por tu cocina, te contamos el truco del laurel para ahuyentarlas de inmediato este verano En Xataka | Bugatti Veyron era una joya que costaba de 1,7 millones de dólares: Volkswagen perdía 6,24 millones con cada uno que vendía - La noticia Liz Hilliard, entrenadora de 72 años: \"Mi ejercicio favorito para trabajar todos los grupos musculares, desde las piernas hasta el torso, es la sentadilla con curl de bíceps\" fue publicada originalmente en Trendencias por Nacho Viñau ."
+  },
+  {
+    "titulo": "Semana trágica en el Pirineo oscense: cuatro fallecidos y más de 30 rescates en apenas seis días",
+    "medio": "El Español",
+    "fecha": 1783879240.0,
+    "link": "https://www.elespanol.com/aragon/sucesos/20260712/semana-tragica-pirineo-oscense-fallecidos-rescates-apenas-semana/1003744318906_0.html",
+    "resumen": "La suma de estos cuatro fallecimientos en apenas cinco días ha convertido a esta jornada en una de las más duras de la temporada para el Pirineo aragonés.Más información: Alerta en la montaña tras el aluvión de rescates en plena ola de calor: \"Debemos llevar al menos 2,5 o 3 litros de agua\""
+  },
+  {
+    "titulo": "La tercera marcha de Flick arranca en Barcelona con una obsesión",
+    "medio": "OK Diario",
+    "fecha": 1783879203.0,
+    "link": "https://okdiario.com/deportes/tercera-marcha-flick-arranca-barcelona-obsesion-18981229",
+    "resumen": "El Barcelona arranca la temporada 26/27 este lunes, 13 de julio, a las 9:00 horas en la Ciudad Deportiva Joan Gamper sin los internacionales. El tercer curso de Hansi Flick al frente del equipo blaugrana se pone en marcha con la obsesión de poder ganar la Champions League más de diez años después. Vuelve el … Continuar leyendo \"La tercera marcha de Flick arranca en Barcelona con una obsesión\""
+  },
+  {
+    "titulo": "He activado esta función y ahora nadie (ni la IA) puede utilizar mis fotos y vídeos de Instagram",
+    "medio": "Hipertextual",
+    "fecha": 1783879200.0,
+    "link": "https://hipertextual.com/actualidad/he-activado-esta-funcion-y-ahora-nadie-ni-la-ia-puede-utilizar-mis-fotos-y-videos-de-instagram/",
+    "resumen": "La mayoría de las personas no lo saben, pero Instagram hizo un cambio en su política hace unos días que te afecta directamente a ti y a tu contenido. Se trata de Muse Image, una nueva herramienta de Meta para crear contenido IA en base a las publicaciones de otros creadores. Y, si bien es […] Seguir leyendo: He activado esta función y ahora nadie (ni la IA) puede utilizar mis fotos y vídeos de Instagram"
+  },
+  {
+    "titulo": "Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»",
+    "medio": "The Objective",
+    "fecha": 1783877931.0,
+    "link": "https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/",
+    "resumen": "Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que […]"
+  },
+  {
+    "titulo": "El homicidio de Rentería que ha acabado con la vida de 'Cody': \"Se han oído gritos, ha sacado una navaja y ha caído al suelo\"",
+    "medio": "El Español",
+    "fecha": 1783877663.0,
+    "link": "https://www.elespanol.com/reportajes/20260712/homicidio-renteria-acabado-vida-cody-oido-gritos-sacado-navaja-caido-suelo/1003744318876_0.html",
+    "resumen": "Testigos cuentan a EL ESPAÑOL que el joven de 23 años ha reconocido \"en todo momento lo que había hecho\" y repetía: \"Que me detengan, le he pinchado\".Más información: Muere un hombre apuñalado en el pecho en Errenteria"
   },
   {
     "titulo": "El sérum de vitamina C no sustituye a tu protector solar, pero la ciencia advierte: usar ambos es el verdadero \"escudo total\"",
@@ -28,6 +266,20 @@
     "resumen": "En los últimos años hemos visto cómo la cosmética activa ha puesto a la vitamina C en el centro de todas las rutinas matutinas. Su fama está justificada, pero ha traído consigo un mito peligroso al apuntar que puede ser un escudo solar por si misma. Pero la realidad es que, aunque es cierto que aporta una buena protección antioxidante adicional frente al daño solar, bajo ningún concepto sustituye a la protección solar tradicional. La vitamina C. El primer concepto que debemos interiorizar es que la vitamina C no bloquea la radiación UV de la forma en que lo hace un filtro químico o físico. De hecho, no tiene un factor de protección solar medible por sí sola. Su verdadero efecto positivo reside en su mecanismo antioxidante, que se encarga de neutralizar los radicales libres que son generados por las radiaciones UVA, UVB e IRA. Al hacer esto, la vitamina C consigue reducir el estrés oxidativo y logra evitar parte del daño en el ADN, como es el caso de los dímeros de timina, unas lesiones estrechamente asociadas al cáncer de piel. En Xataka El dermatólogo Miguel Sánchez lo tiene claro: “Gran parte del daño solar se produce en actividades diarias que pasan desapercibidas” La investigación. La literatura científica lleva años demostrando que la verdadera protección ocurre en la sinergia de varios factores. Uno de los primeros estudios data de 1996, donde se demostró que la vitamina C aporta una protección aditiva frente al daño UVB cuando se combina con un filtro solar específico. Pero este mismo estudio observó que la combinación de vitaminas C y E era todavía más protectora, y que al sumar un filtro UVA, se obtenía una protección mucho mayor. Pero no se queda aquí, ya que este mismo equipo publicó en 2003 un segundo estudio donde vio que la combinación de 15% de vitamina C y 1% de vitamina E aplicada en piel durante cuatro días lograba multiplicar aproximadamente por cuatro el factor antioxidante. La luz infrarroja. Ante todo esto, una pregunta que puede ser obvia es que, si ya existen protectores solares con un factor de protección SPF 50, ¿por qué hace falta combinarlo con antioxidantes? Y la respuesta está en el espectro que las cremas convencionales no cubren. Un ensayo aquí comprobó que un protector solar con SPF 30 por sí solo no protegía frente a la radiación infrarroja A. Sin embargo, al aplicar ese mismo factor de protección enriquecido con un cóctel antioxidante, se logró reducir significativamente la sobreexpresión de factores relacionados con el fotoenvejecimiento de la piel. En Xataka La próxima revolución en protección solar no es un filtro ni una nueva crema: es dar de \"comer\" a tus bacterias El consenso. A pesar de los abrumadores beneficios de los antioxidantes, las guías médicas apuntan a que no existe evidencia que apunte a que utilizar un sérum de vitamina C en lugar de un protector solar sea positivo. En este caso, la Academia Americana de Dermatología insiste en que el protector solar es imprescindible, y los antioxidantes pueden ser un añadido positivo, pero nunca un sustituto. Pero además, para que toda esta \"protección añadida\" sea real, la evidencia científica exige dos requisitos: debe usarse conjuntamente con un protector de amplio espectro y la formulación de la vitamina C debe ser estable, requiriendo un pH adecuado, protección frente a la oxidación y, a menudo, la combinación con vitamina E o ácido ferúlico. En Xataka | La ciencia alerta del peligroso éxito de los bulos anti-crema solar en TikTok: \"A pesar de ser una minoría, este contenido es influyente\" - La noticia El sérum de vitamina C no sustituye a tu protector solar, pero la ciencia advierte: usar ambos es el verdadero \"escudo total\" fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
+    "titulo": "Un robo de cables en Ciudad Real afecta a la circulación de Alta Velocidad entre Madrid y Andalucía",
+    "medio": "eldiario.es",
+    "fecha": 1783877021.0,
+    "link": "https://www.eldiario.es/andalucia/robo-cables-ciudad-real-afecta-circulacion-alta-velocidad-madrid-andalucia_1_13374961.html",
+    "resumen": "La incidencia se ha producido entre la Venta La Inés y Brazatortas, en Ciudad Real La circulación de trenes de Alta Velocidad entre Madrid y Andalucía se encuentra afectada en la tarde de este domingo, 12 de julio con retrasos debido a una incidencia provocada por robo de cables entre la Venta La Inés y Brazatortas, en Ciudad Real. Así lo ha comunicado Adif a través de su cuenta oficial de 'X', donde ha indicado que en estos momentos el personal está trabajando para solucionar esta incidencia lo antes posible. En contexto, es la segunda vez que la conexión de Alta Velocidad entre Madrid y Andalucía se ve afectada por el mismo motivo, puesto que el miércoles pasado Adif notificó de un robo de cables entre Ciudad Real y Malagón."
+  },
+  {
+    "titulo": "Apagones y 'operación terror' en Cuba para imponer la \"hermosa e indestructible realidad\"",
+    "medio": "El Mundo",
+    "fecha": 1783877010.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/12/6a53cb30e85ece811b8b458f.html",
+    "resumen": "El régimen intensifica la represión y una crisis energética ayuda a evitar un nuevo estallido social en el quinto aniversario del 11-J Leer"
+  },
+  {
     "titulo": "La 'operación Rufián' con Sumar y Podemos tendría 37 escaños: 14 saldrían del PSOE, 10 de la derecha y 3 de ERC y Junts",
     "medio": "El Español",
     "fecha": 1783876853.0,
@@ -35,25 +287,11 @@
     "resumen": "La candidatura encabezada por el portavoz de Esquerra no evitaría que PP y Vox consiguieran una mayoría absoluta amplia con 195 diputados.Más información: Sánchez empuja a la izquierda hacia su peor debacle: PSOE, Sumar y Podemos sólo tendrían 113 escaños con un 34,5%"
   },
   {
-    "titulo": "Ramiro Aurín, ingeniero:\"El beneficio por euro invertido en prevención se multiplica por 10 en lo que deja de quemarse\"",
-    "medio": "HuffPost",
-    "fecha": 1783876610.0,
-    "link": "https://www.huffingtonpost.es/sociedad/ramiro-aurin-ingenieroel-beneficio-euro-invertido-prevencion-multiplica-10-deja-quemarse-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "PSOE y Podemos cargan contra el «racismo» de Rajoy: «avergüenza a España»",
+    "titulo": "PSOE y Podemos cargan contra el «racismo» de Rajoy: «Avergüenza a España»",
     "medio": "The Objective",
     "fecha": 1783876456.0,
     "link": "https://theobjective.com/espana/politica/2026-07-12/psoe-podemos-racismo-rajoy/",
     "resumen": "El comentario del expresidente del Gobierno Mariano Rajoy sobre que la selección de Francia de fútbol tiene «un altísimo nivel, eso sí, sin franceses» ha desatado […]"
-  },
-  {
-    "titulo": "Un hombre apuñala en el cuello a su compañero de piso mientras dormía y se da a la fuga en Mallorca",
-    "medio": "OK Diario",
-    "fecha": 1783876357.0,
-    "link": "https://okdiario.com/baleares/hombre-apunala-cuello-companero-piso-mientras-dormia-da-fuga-mallorca-18981261",
-    "resumen": "Un hombre de unos 30 años de nacionalidad saharaui permanece ingresado en estado grave en el Hospital Universitario Son Espases después de sufrir una agresión con arma blanca en una vivienda de Capdepera durante el mediodía de este domingo. La Guardia Civil mantiene abierta una investigación para esclarecer lo sucedido y localizar al presunto autor … Continuar leyendo \"Un hombre apuñala en el cuello a su compañero de piso mientras dormía y se da a la fuga en Mallorca\""
   },
   {
     "titulo": "50 motocicletas desafían a la Policía Local con conducción temeraria en Sevilla durante la madrugada",
@@ -126,60 +364,11 @@
     "resumen": "La agresión tuvo lugar la madrugada del día 11, en torno a las 4:45 horas, en la Vuelta del Castillo de PamplonaUn detenido por una presunta agresión sexual a una mujer en los Sanfermines La jueza de guardia, la titular de la plaza número 1 de la sección de Instrucción del Tribunal de Instancia de Pamplona, ha decretado prisión provisional, comunicada y sin fianza para el detenido por un supuesto delito de agresión sexual (violación) perpetrado la madrugada del día 11 en la capital navarra. La magistrada se inhibirá de la instrucción de la causa, que será asumida por la plaza número 2 de la sección de Violencia sobre la Mujer del Tribunal de Instancia de Pamplona. La agresión tuvo lugar la madrugada del día 11, en torno a las 4.45 horas, en la Vuelta del Castillo de la capital navarra, que estos días celebra las fiestas de San Fermín. Este domingo está convocada una concentración en la Plaza del Castillo de Pamplona a las 21:00 horas para condenar la agresión sexual."
   },
   {
-    "titulo": "El médico David Callejo alerta tras el ingreso de un niño por un ahogamiento leve: \"Parecía estar bien, pero empeoró horas después\"",
-    "medio": "HuffPost",
-    "fecha": 1783875677.0,
-    "link": "https://www.huffingtonpost.es/life/salud/el-medico-david-callejo-alerta-ingresono-ahogamiento-leve-parecia-empeoro-horas-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Fernando, único habitante de Benamira, lleva 17 años sin pagar alquiler: \"Hemos recibido más de 400 solicitudes de gente que quiere mudarse aquí\"",
-    "medio": "HuffPost",
-    "fecha": 1783875654.0,
-    "link": "https://www.huffingtonpost.es/sociedad/fernando-unico-habitante-benamira-lleva-17nos-pagar-alquiler-hemos-recibido-mas-400-solicitudes-gente-quiere-mudarse-aqui-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El espectacular rincón de Jesús Calleja (61 años) en el norte de España para escapar del calor: «Maravilloso y espectacular»",
-    "medio": "OK Diario",
-    "fecha": 1783875653.0,
-    "link": "https://okdiario.com/cool/famosos/espectacular-rincon-jesus-calleja-61-anos-norte-espana-escapar-del-calor-maravilloso-espectacular-18975706",
-    "resumen": "Después de recorrer algunos de los paisajes más remotos del planeta, Jesús Calleja ha encontrado un refugio perfecto en nuestro país. No se encuentra en el Himalaya ni en ningún rincón exótico, sino en norte de España. Se trata de los Picos de Europa, un espacio natural que el aventurero y presentador ha definido como … Continuar leyendo \"El espectacular rincón de Jesús Calleja (61 años) en el norte de España para escapar del calor: «Maravilloso y espectacular»\""
-  },
-  {
-    "titulo": "La psicología explica por qué algunas personas caminan mirando hacia abajo: no es por comodidad, sino por lo que ocurre en su mente",
-    "medio": "OK Diario",
-    "fecha": 1783875643.0,
-    "link": "https://okdiario.com/curiosidades/psicologia-explica-que-algunas-personas-caminan-mirando-hacia-abajo-no-comodidad-sino-lo-que-ocurre-mente-18980839",
-    "resumen": "Cada día, miles de personas recorren las calles solas, acompañadas, escuchando música o simplemente inmersas en sus pensamientos. Aunque cada una lleva un ritmo distinto, hay un gesto que se repite con frecuencia: caminar con la cabeza agachada. Se trata de un comportamiento muy habitual que, según la psicología, puede revelar mucho más de lo … Continuar leyendo \"La psicología explica por qué algunas personas caminan mirando hacia abajo: no es por comodidad, sino por lo que ocurre en su mente\""
-  },
-  {
-    "titulo": "China desafía las leyes naturales y crea un motor que cambia de forma en el aire en distintas velocidades y es reutilizable",
-    "medio": "OK Diario",
-    "fecha": 1783875608.0,
-    "link": "https://okdiario.com/motor/china-desafia-leyes-naturales-crea-motor-que-cambia-forma-aire-distintas-velocidades-reutilizable-18981248",
-    "resumen": "Crea un motor que cambia de forma en el aire en distintas velocidades y es reutilizable, China desafía por completo las leyes naturales. Es importante estar preparados para afrontar en estos días en los que realmente puede acabar siendo lo que nos acompañará en estos días. Estaremos consiguiendo estos días en los que realmente cada … Continuar leyendo \"China desafía las leyes naturales y crea un motor que cambia de forma en el aire en distintas velocidades y es reutilizable\""
-  },
-  {
-    "titulo": "Guillermo Martín Melgar, farmacéutico: \"Si tomas medicamentos nunca deberías mezclarlos con el café\"",
-    "medio": "HuffPost",
-    "fecha": 1783875606.0,
-    "link": "https://www.huffingtonpost.es/life/salud/guillermo-martin-melgar-farmaceutico-si-tomas-medicamentos-nunca-deberias-mezclarlos-cafe-f202607.html",
-    "resumen": ""
-  },
-  {
     "titulo": "De qué va ‘El manuscrito de Dante’, la película de Netflix con Oscar Isaac y Gal Gadot de la que todo el mundo habla",
     "medio": "Hipertextual",
     "fecha": 1783875600.0,
     "link": "https://hipertextual.com/cine-television/de-que-va-el-manuscrito-de-dante-la-pelicula-de-netflix-con-oscar-isaac-y-gal-gadot-de-la-que-todo-el-mundo-habla/",
     "resumen": "El manuscrito de Dante (2026) es toda una rareza en el catálogo de Netflix. La cinta, protagonizada por Oscar Isaac y Gal Gadot, mezcla el thriller histórico con un drama existencialista. Todo, en el terreno de una exploración cuidadosa acerca de la naturaleza del tiempo, el conocimiento y hasta del amor. Si te parece una […] Seguir leyendo: De qué va ‘El manuscrito de Dante’, la película de Netflix con Oscar Isaac y Gal Gadot de la que todo el mundo habla"
-  },
-  {
-    "titulo": "El publicista José Luis Moro un truco muy usado en la publicidad: \"A veces es muy productivo destruir la alternativa\"",
-    "medio": "HuffPost",
-    "fecha": 1783875505.0,
-    "link": "https://www.huffingtonpost.es/virales/el-publicista-jose-luis-moro-truco-usado-publicidad-a-veces-productivo-destruir-alternativa-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "Los expertos advierten de los problemas de la gestión del monte: \"El territorio forestal es fruto del abandono\"",
@@ -189,18 +378,11 @@
     "resumen": "Avisan de que crece el riesgo de 'megaincendios' y reclaman un pacto de Estado forestal urgente Leer"
   },
   {
-    "titulo": "Así han quedado las casas en Los Gallardos tras el devastador incendio: un manto de ceniza y fachadas tiznadas",
-    "medio": "OK Diario",
-    "fecha": 1783875044.0,
-    "link": "https://okdiario.com/andalucia/asi-han-quedado-casas-gallardos-devastador-incendio-manto-ceniza-fachadas-tiznadas-18980913",
-    "resumen": "El incendio de Los Gallardos (Almería) ya está estabilizado tras quemar 7.000 hectáreas entre Los Gallardos, Bédar, Antas y Lubrín. En total, unas 1.600 personas fueron evacuadas, aunque 600 de ellas ya pudieron volver a sus viviendas este sábado por la noche. El resto volverá a lo largo de este domingo. La Guardia Civil ha … Continuar leyendo \"Así han quedado las casas en Los Gallardos tras el devastador incendio: un manto de ceniza y fachadas tiznadas\""
-  },
-  {
-    "titulo": "Konaté responde al dardo de Lamine Yamal: «No hay que tener miedo de nadie»",
-    "medio": "OK Diario",
-    "fecha": 1783874763.0,
-    "link": "https://okdiario.com/mundial/konate-responde-dardo-lamine-yamal-no-hay-que-tener-miedo-nadie-18981120",
-    "resumen": "Lamine Yamal ha puesto un poco de picante a la previa de la semifinal del Mundial. El jugador señaló que si alguno de los equipos debía estar asustado, debería ser Francia, ya que ya les habían ganado en la Eurocopa. Durante una comparecencia en Boston, Ibrahima Konaté deja clara la postura de los galos: «No … Continuar leyendo \"Konaté responde al dardo de Lamine Yamal: «No hay que tener miedo de nadie»\""
+    "titulo": "El incendio de Peñarroya de Tastavins (Teruel) moviliza a la UME y obliga a alertar a cuatro municipios",
+    "medio": "eldiario.es",
+    "fecha": 1783874434.0,
+    "link": "https://www.eldiario.es/aragon/sociedad/incendio-forestal-penarroya-tastavins-teruel-moviliza-ume-obliga-alertar-cuatro-municipios_1_13374916.html",
+    "resumen": "El fuego se ha declarado en el Barranco de la Virgen, junto a la carretera A-2413, y moviliza tres brigadas helitransportadas, un helicóptero de coordinación y numerosos medios terrestres Aragón ha activado este domingo el nivel 2 de emergencia del Plan Especial de Protección Civil por Incendios Forestales (PROCINFO) por el incendio forestal declarado en el término municipal de Peñarroya de Tastavins (Teruel). El fuego permanece activo y ha obligado a enviar una alerta a los teléfonos móviles de cuatro municipios, movilizar a la Unidad Militar de Emergencias (UME) y cortar una carretera. Protección Civil ha remitido un mensaje ES-Alert a los vecinos de Peñarroya de Tastavins, Monroyo, Fuentespalda y Ráfales, en el que recomienda permanecer en un lugar seguro, protegerse del humo y seguir en todo momento las indicaciones del personal de emergencias, las autoridades locales y Protección Civil. Además, se ha desplazado el Puesto de Mando Avanzado (PMA) para coordinar el operativo y la Unidad Militar de Emergencias (UME), dependiente del Ministerio de Defensa, ha iniciado el despliegue del Cuarto Batallón de Intervención en Emergencias (BIEM IV) para colaborar en las labores de extinción. El incendio se localiza en el Barranco de la Virgen, una zona mayoritariamente de pinar situada junto a la carretera A-2413, donde existen varias masías y naves próximas al frente de las llamas. Como consecuencia del incendio, permanece cortada la carretera A-1414 entre Monroyo y Fuentespalda. En las labores de extinción participan efectivos del operativo INFOAR del Gobierno de Aragón, entre ellos el helicóptero de coordinación H0, las brigadas helitransportadas Lima 3, Lima 5, Lima 6 y Mike 2, con sus respectivos helicópteros, además de 19 brigadas terrestres, 11 autobombas y tres bulldozers. A estos recursos se suman medios del Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO), con la BRIF de Daroca, un helicóptero bombardero con base en Plasencia del Monte y un avión anfibio FOCA, así como efectivos de los Bomberos de la Diputación Provincial de Teruel. El Gobierno de Aragón ha señalado que irá ampliando la información conforme evolucione el incendio y se disponga de nuevos datos confirmados."
   },
   {
     "titulo": "Zelenski reestructura su Gobierno y traspasa la primera ministra a Exteriores para enfrentar una nueva fase de la guerra",
@@ -280,41 +462,6 @@
     "resumen": "El fuego se ha desatado en una importante masa forestal, en una zona donde el viento está soplando con fuerza y puede hacer que avance con velocidad.Más información: Aragón vuelve a activar este domingo la alerta Rojo Plus por riesgo de incendios: máximo peligro en 12 comarcas"
   },
   {
-    "titulo": "El alegato de una maestra ante quienes quieren sustituir a los profesores por tecnología: \"Se están haciendo el harakiri\"",
-    "medio": "HuffPost",
-    "fecha": 1783872566.0,
-    "link": "https://www.huffingtonpost.es/virales/el-alegato-maestra-quienes-quieren-sustituir-profesores-tecnologia-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Cristina, profesora sevillana en Finlandia: \"Si tienes un poco de fiebre te dicen que te vayas a casa; no como en España\"",
-    "medio": "HuffPost",
-    "fecha": 1783872543.0,
-    "link": "https://www.huffingtonpost.es/sociedad/cristina-profesora-sevillana-finlandia-si-tienes-poco-fiebre-te-dicen-te-vayas-casa-espana-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Un hombre vive de forma totalmente independiente, sin conexión eléctrica gracias a 70 paneles solares: \"Nunca tengo que ducharme con agua fría\"",
-    "medio": "HuffPost",
-    "fecha": 1783872516.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-hombre-vive-forma-totalmente-independiente-conexionectrica-gracias-70-paneles-solares-nunca-ducharme-agua-fria-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Nuevo intercambio de ataques entre EEUU e Irán, que anuncia el cierre del Estrecho de Ormuz \"hasta nuevo aviso\" que desmiente Trump",
-    "medio": "El Mundo",
-    "fecha": 1783872426.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/12/6a52c3cefc6c839b0b8b456f.html",
-    "resumen": "Según Araghchi, el \"incumplimiento\" del acuerdo por parte de Washington \"se suma a otras vulneraciones y errores\" del país norteamericano Leer"
-  },
-  {
-    "titulo": "Un conductor atropella y mata a seis personas en una feria de Viña del Mar (Chile)",
-    "medio": "El Mundo",
-    "fecha": 1783872216.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/12/6a53b7cee4d4d808708b4586.html",
-    "resumen": "El conductor es un miembro de la Armada de Chile que estaba fuera de servicio Leer"
-  },
-  {
     "titulo": "Adora, abuela cocinera: “Mis albóndigas llevan carne, jamón picado, huevo y limón”",
     "medio": "Trendencias",
     "fecha": 1783872118.0,
@@ -357,18 +504,11 @@
     "resumen": "El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expresidente Mariano Rajoy, después de que este afirmara en una columna de opinión que la […]"
   },
   {
-    "titulo": "Un nuevo incendio en Aiguamúrcia obliga a confinar a cerca de 2.500 personas",
-    "medio": "El País",
-    "fecha": 1783870914.0,
-    "link": "https://elpais.com/espana/catalunya/2026-07-12/los-bomberos-trabajan-en-un-nuevo-incendio-de-vegetacion-forestal-en-aiguamurcia.html",
-    "resumen": "El fuego avanza con fuerza y ha quemado ya 80 hectáreas, según los bomberos"
-  },
-  {
     "titulo": "Odiar a Messi, odiar a Arguiñano",
     "medio": "El País",
     "fecha": 1783870525.0,
     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-12/odiar-a-messi-odiar-a-arguinano.html",
-    "resumen": "A los aficionados nos cuesta superar algunas de las derrotas infringidas, aunque lo que más molesta del futbolista argentino podría ser esa costumbre suya de resolver los partidos caminando mientras el resto del mundo debemos enfrentarnos a la vida al galope"
+    "resumen": "A los aficionados nos cuesta superar algunas de las derrotas infligidas, aunque lo que más molesta del futbolista argentino podría ser esa costumbre suya de resolver los partidos caminando mientras el resto del mundo debemos enfrentarnos a la vida al galope"
   },
   {
     "titulo": "La juez decreta prisión provisional y sin fianza para el detenido por la supuesta agresión sexual el día 11 en Pamplona",
@@ -376,13 +516,6 @@
     "fecha": 1783870491.0,
     "link": "https://www.europapress.es/navarra/noticia-juez-decreta-prision-provisional-fianza-detenido-supuesta-agresion-sexual-dia-11-pamplona-20260712173451.html",
     "resumen": "La juez de guardia, la titular de la plaza número 1 de la sección de Instrucción del Tribunal de Instancia de Pamplona, ha decretado prisión provisional, comunicada y sin fianza para el detenido por un supuesto delito de agresión sexual (violación) perpetrado la madrugada del día 11 en la capital navarra."
-  },
-  {
-    "titulo": "¿Una Selección francesa sin franceses?",
-    "medio": "El Español",
-    "fecha": 1783870396.0,
-    "link": "https://www.elespanol.com/opinion/tribunas/20260712/seleccion-francesa-sin-franceses/1003744318838_12.html",
-    "resumen": "Lo que cree no ver Mariano Rajoy en el equipo francés no son nacionalidades. Son colores de piel. Es decir, que, para él, un negro no puede ser francés."
   },
   {
     "titulo": "El plan para frenar el deshielo del Ártico es tan simple que suena a locura: congelarlo de nuevo",
@@ -406,13 +539,6 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, aseguró este domingo que el estrecho de Ormuz permanece abierto al tráfico comercial marítimo pese a que Irán anunció que lo ha bloqueado. Leer"
   },
   {
-    "titulo": "El Club de la Patrulla Águila nombra socio de honor al alcalde de San Javier por su apoyo con el escuadrón",
-    "medio": "El Español",
-    "fecha": 1783869478.0,
-    "link": "https://www.elespanol.com/espana/murcia/20260712/club-patrulla-aguila-nombra-socio-honor-alcalde-san-javier-apoyo-escuadron/1003744314111_0.html",
-    "resumen": "Pedro Luis Marín entrega la distinción al regidor José Miguel Luengo para reconocer su labor por esta unidad del Ejército del Aire.Más información: El Ayuntamiento de San Javier prepara la construcción de un Centro de Cultura Aeronáutica dedicado a la Patrulla Águila"
-  },
-  {
     "titulo": "Tres integrantes del equipo de alpinismo español sufren un accidente en el Jirishanca, un seismil de referencia técnica en la Cordillera de Huayhuash, Perú",
     "medio": "El País",
     "fecha": 1783868845.0,
@@ -420,25 +546,11 @@
     "resumen": "Iker Madoz, Ibon Mendia y Joan Domingo se recuperan en el hospital tras sufrir el desprendimiento de un bloque de roca cuando trataban de repetir una vía en el flanco este de la montaña"
   },
   {
-    "titulo": "Francia considera “racista” e “inaceptable” el artículo de Rajoy sobre la selección francesa",
-    "medio": "El País",
-    "fecha": 1783868576.0,
-    "link": "https://elpais.com/espana/2026-07-12/francia-considera-racista-e-inaceptable-el-articulo-de-rajoy-sobre-la-seleccion-francesa.html",
-    "resumen": "El Gobierno de Macron sale en tromba a condenar las palabras del expresidente español, que aseguró que la selección gala juega “sin franceses”. Pedro Sánchez también las censura a las puertas del España-Francia en el Mundial: “Que gane el mejor y que pierda el racismo”"
-  },
-  {
     "titulo": "El refugio de Tita Cervera en la Costa Brava: un pueblo con calas de agua turquesa y mucho arte donde quiere pasar el resto de su vida",
     "medio": "Trendencias",
     "fecha": 1783868518.0,
     "link": "https://www.trendencias.com/viajes/refugio-tita-cervera-costa-brava-pueblo-calas-agua-turquesa-mucho-arte-donde-quiere-pasar-resto-su-vida",
     "resumen": "Carmen \"Tita\" Cervera, también conocida como La baronesa Thyssen, lleva décadas vinculada a una localidad de la Costa Brava, donde tiene una impresionante y exclusiva mansión frente al Mediterráneo. Mas Mañanas ha sido durante décadas su lugar de vacaciones familiar en Sant Feliu de Guíxols pero, además, también ha impulsado allí proyectos culturales y hoteleros que reflejan su estrecha relación con el municipio. La propia coleccionista de arte ha llegado a definir Sant Feliu de Guíxols como \"el lugar más bonito que existe en el mundo\" y el lugar en el que desea pasar el resto de su vida, una declaración que invita a mirar este rincón de Girona con otros ojos. Porque lo cierto es que basta pasear por su paseo marítimo, perderse entre las calles del casco histórico o descubrir las calas escondidas que lo rodean para entender por qué este enclave enamora a quienes lo visitan. Josemanuel Qué ver en Sant Feliu de GuíxolsEl gran símbolo de la localidad es el Monasterio de Sant Feliu de Guíxols, uno de los conjuntos medievales más importantes de Cataluña. Su famosa Porta Ferrada, una construcción prerrománica del siglo X, se ha convertido en el emblema de la ciudad y da nombre a un conocido festival de música que cada verano reúne a artistas nacionales e internacionales. En el propio monasterio se encuentra el Espai Carmen Thyssen, un centro de exposiciones que, durante los meses de verano, acoge muestras temporales con obras de la colección privada de la baronesa. La programación suele prestar especial atención a la pintura catalana y a artistas de los siglos XIX y XX, lo que la convierte en una cita imprescindible para los amantes del arte. Turismo Costa Brava El paseo marítimo es otro de los grandes atractivos del municipio. Flanqueado por palmeras y con vistas al puerto, ofrece un paseo que se hace a la sombra de plátanos centenarios y que se complementa sentándose en alguna terraza o acercándose hasta la playa de Sant Feliu, situada prácticamente en pleno centro urbano. En mitad de este paseo uno se topa con el Casino de la Constància (conocido popularmente como el Casino dels Nois), un singular edificio del siglo XIX de estilo mudéjar, fácilmente reconocible por sus arcos de herradura y llamativas ventanas. Quienes prefieran descubrir el lado más histórico de la localidad encontrarán encanto en el casco antiguo, con sus pequeñas plazas, calles estrechas y edificios modernistas que recuerdan el pasado burgués de este antiguo pueblo marinero. Albertvilarmasso Dónde comer rico y barato en Sant Feliu de Guíxols La gastronomía es otro de los grandes motivos para hacer una parada aquí. Una de los establecimiento mejor valorados es Sa Marinada, muy conocido por sus arroces, pescados frescos y cocina mediterránea con una excelente relación calidad-precio, especialmente teniendo en cuenta su ubicación junto al mar. Otra apuesta segura es Can Kiku, un restaurante de cocina catalana tradicional donde los menús y los platos caseros permiten comer bien sin que se dispare el presupuesto. Por algo es un establecimiento frecuentado tanto por visitantes como por vecinos de la localidad. Si lo que te apetece es una comida más informal, La Locanda di Nonna Flo se ha ganado una excelente reputación gracias a sus pizzas artesanas y su cocina italiana auténtica, perfecta para quienes busquen una opción más económica sin renunciar a la calidad. Genís D Por cierto que, además de sus intereses artísticos, la baronesa también tiene un bonito hotel boutique en Sant Feliu de Guíxols llamado The Pink Elephant. Qué hacer en los alrededores de Sant Feliu de Guíxols Uno de los mayores atractivos de Sant Feliu de Guíxols es que basta salir unos minutos del centro para descubrir algunos de los paisajes más espectaculares de la Costa Brava. El Camí de Ronda conecta la localidad con pequeñas calas escondidas y acantilados desde los que contemplar el Mediterráneo en todo su esplendor. El tramo que conduce hasta S'Agaró es especialmente recomendable por sus vistas y porque puede recorrerse sin contar con una gran preparación física. Aunque para algo de un nivel más avanzado, la vía Ferrata de la Cala del Molí es la única de Europa que transcurre directamente suspendida sobre los acantilados del mar. Turismo de Cataluña Entre las playas cercanas destaca la Cala del Vigatà, un pequeño rincón de aguas transparentes rodeado de roca, ideal para quienes buscan un ambiente más tranquilo que el de la playa urbana. Muy cerca también se encuentra Cala Ametller, otra de esas calas típicas de la Costa Brava donde el agua adquiere intensos tonos turquesa. Para quienes prefieran combinar playa y naturaleza, el macizo de les Gavarres ofrece numerosos senderos entre bosques mediterráneos y miradores naturales desde los que contemplar la costa gerundense. Es una excelente alternativa para dedicar una mañana al senderismo antes de regresar a disfrutar del ambiente marinero de Sant Feliu. Turismo Costa Brava Así que, con todo esto, no sorprende que Tita Cervera eligiera este rincón como su refugio hace décadas. Entre patrimonio, cultura, gastronomía y algunas de las calas más bonitas de Girona, Sant Feliu de Guíxols reúne muchos de los ingredientes que han convertido a la Costa Brava en uno de los destinos más especiales del Mediterráneo. Foto de portada | Generalitat de Catalunya y Gordito1869 En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En Trendencias | Las 22 mejores series de mujeres de la historia de la televisión (y dónde verlas) En Espinof | 50 años de carrera y 2 Óscar. Hoy cumple 70 años uno de los mejores actores de todos los tiempos - La noticia El refugio de Tita Cervera en la Costa Brava: un pueblo con calas de agua turquesa y mucho arte donde quiere pasar el resto de su vida fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
-    "titulo": "Hay miles de personas tirando cosas rarísimas a el WC para controlar su olor: el truco más efectivo no tiene nada que ver con eso",
-    "medio": "Xataka",
-    "fecha": 1783868518.0,
-    "link": "https://www.xataka.com/ecologia-y-naturaleza/hay-miles-personas-tirando-cosas-rarisimas-a-wc-para-controlar-su-olor-truco-efectivo-no-tiene-nada-que-ver-eso",
-    "resumen": "Vuelves de vacaciones, abres la puerta y, de repente, te recibe un intenso olor a alcantarilla que, desde luego, no estaba ahí cuando te fuiste. Internet se ha llenado de consejos para evitar este problema: desde llevar la taza de cáscaras de naranja a tirar medio kilo de posos de café. El único problema es que, como seguro que os habéis dado cuenta, cada uno es más surrealista que el anterior. ¿Qué podemos hacer para que nuestra casa no huela a rayos? Lo primero es entender que esta moda que campa a sus anchas por internet no es una industria del artículo sin sentido. Expertos sin nombre, trucos que \"vienen directamente de Centroeuropa\" e ideas un poco excéntricas: lo que nos solemos encontrar son soluciones creativas y poco efectivas, la verdad. El ejemplo de las cáscaras de naranja es perfecto para entenderlo. \"Tira cascaras de naranja por el váter una vez a la semana\", dicen algunos consejos. Y lo cierto es que las cáscaras perfuman: liberan aceites esenciales (limoneno), pero su concentración es muy baja y, desde luego, no es suficiente como para desengrasa o desatascar las cañerías. De hecho, si nos vamos a la letra pequeña, vemos que el 'truco' ni siquiera recomienda 'tirarlas' por el váter; basta con echarlas veinte o treinta minutos en el agua de la taza. Es decir (y resumiendo) no es nada que sirva en realidad... En Xataka El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro ...pero por lo menos no es el truco del café. Eso es verdad. Los posos del café son mucho peor: sobre todo, porque se apelmazan y sedimentan en codos y sifones. Con el uso repetido, de hecho, acaban reduciendo el caudal de las tuberías como si de colesterol se tratase. No es algo que ocurra de repente (echar una cucharada de café al agua no te va a inundar a la casa), pero no parece la práctica más razonable (coste-beneficio). Y no son los únicos trucos. De hecho, el problema de usar el váter como papelera es enorme en nuestro país. Solo Canal de Isabel II, en la Comunidad de Madrid, retiró de sus depuradoras del orden de 33.000 toneladas de residuos sólidos en 2024. Unos cuatro kilos por persona. Al final, según la patronal de agua urbana (DAQUAS), estos residuos encarecen la depuración de aguas en torno a un 10 y 15%. Y, quizás por eso, todas las empresas gestoras repiten lo mismo: por el váter, solo pis, excrementos y papel. ¿Y entonces cómo solucionamos el problema? Para ellos hay que entender un poco cómo funcionan los baños modernos. A efectos prácticos, debajo de cada lavabo, fregadero y ducha (también dentro del inodoro) hay un sifón. Es esa curva con forma de 'u' que retiene un tapón de agua y bloquea el olor. Lo que suele ocurrir en verano es que esos sifones se secan y dejan de funcionar. De ese modo, los olores suben a las habitaciones. Así que lo que se suele recomendar es dejar correr bien el agua para que los sifones estén llenos y, si acaso, echar un poco de aceite alimentario (que hace una película sobre el agua y dificulta su evaporación). Si esto no funciona puede haber algún atranque o un problema ventilación, pero desde luego no se va a solucionar llenando de limones la taza del váter. Imagen | Amit Lahav En Xataka | Cada vez que vas al baño estás expulsando uno de los pesticidas más usados en el planeta. Y eso es un problema - La noticia Hay miles de personas tirando cosas rarísimas a el WC para controlar su olor: el truco más efectivo no tiene nada que ver con eso fue publicada originalmente en Xataka por Javier Jiménez ."
   },
   {
     "titulo": "He encontrado el reloj físico de Apple: cuesta menos de 30 euros y se viene directo a mi mesilla de noche",
@@ -469,13 +581,6 @@
     "resumen": "El Rey de Inglaterra, Carlos III, ha trasladado sus condolencias al Rey Felipe VI por el trágico incendio en Los Gallardos (Almería), que ha dejado hasta el momento 12 muertos."
   },
   {
-    "titulo": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
-    "medio": "El Mundo",
-    "fecha": 1783868124.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html",
-    "resumen": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer"
-  },
-  {
     "titulo": "La vida tras la ceniza, el rugido del fútbol, la fuerza humana y otras imágenes del día",
     "medio": "La Vanguardia",
     "fecha": 1783867973.0,
@@ -488,13 +593,6 @@
     "fecha": 1783867323.0,
     "link": "https://www.lavanguardia.com/vida/20260712/11590414/world-central-kitchen-oriente-medio-terremotos-venezuela-gallardos.html",
     "resumen": "La ONG del chef José Andrés se ha desplazado hasta la provincia de Almería para atender a los afectados por el fuego y a los efectivos desplegados"
-  },
-  {
-    "titulo": "Zelenski releva a la primera ministra y remodela el Gobierno de Ucrania para potenciar las relaciones con la UE y EEUU",
-    "medio": "El Mundo",
-    "fecha": 1783867118.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/12/6a53932de85ece547c8b4596.html",
-    "resumen": "La reorganización del Ejecutivo responde a la necesidad de reforzar la relación con los aliados y mejorar la coordinación política y económica del país Leer"
   },
   {
     "titulo": "Prisión sin fianza para el presunto violador detenido durante los Sanfermines",
@@ -511,13 +609,6 @@
     "resumen": "Yulia Sviridenko asumirá una nueva responsabilidad en política exterior"
   },
   {
-    "titulo": "\"Es la esencia de Río de Janeiro\": El turismo masivo ha encontrado un nuevo filón en el lugar más insospechado, las favelas",
-    "medio": "Xataka",
-    "fecha": 1783866717.0,
-    "link": "https://www.xataka.com/magnet/esencia-rio-janeiro-turismo-masivo-ha-encontrado-nuevo-filon-lugar-insospechado-favelas",
-    "resumen": "Cuando uno piensa en Río de Janeiro una de las primeras imágenes que se le vienen a la cabeza es el Cristo Redentor, la estatua de 30 metros de altura que se alza en la cima del cerro Corcovado. Desde hace un tiempo sin embargo hay otro icono carioca mucho más visitado por los turistas extranjeros: Vidigal y Rocinha, dos zonas de la ciudad conocidas por sus favelas. Entre ambas suman decenas de miles de visitantes. Nada sorprendente si tenemos en cuenta que las favelas están cada vez más presente en el itinerario con la que los turistas llegan a Brasil. Allí buscan autenticidad… y buenos selfies. ¿De turismo por las favelas? Exacto. La historia de las favelas cariocas es antigua. Suele remontarse a finales del XIX, con la ceración del asentamiento de Providência, y desde entonces la palabra ha quedado ligado a una serie de ideas: infravivienda, pobreza, delincuencia. Nada que a priori uno quiera experimentar durante unas idílicas vacaciones en un destino de playa y paisajes de postal. Con el tiempo sin embargo eso ha cambiado. A medida que el turismo internacional crece en Brasil más gente mira a las favelas cariocas en busca de algo difícil de encontrar en los lugares más 'turistificados': autenticidad. Eso ha hecho que ya no sea extraño encontrarse con tours, guías y grupos de extranjeros en algunos asentamientos. Incluso surjen nuevas tendencias virales, como subir a lo alto de una azotea en Rocinha para grabarse un vídeo con ayuda de un dron. ¿Hay cifras que lo prueben? Sí. El Anuário do Turismo Carioca 2024, un informe que recoge las tendencias del sector en la metrópoli brasileña, muestra que ese año hubo zonas conocidas por sus favelas que se colaron en el TOP 20 de los iconos más visitados de Río de Janeiro. No solo eso. Incluso superaron a otros símbolos, como el Cristo Redentor o la Escalera de Selarón, dos de los lugares que se han pasado décadas protagonizando las postales turísticas de Río. Para ser más precisos, en 2024 la Secretaría Municipal de Turismo registró 81.600 visitantes extranjeros en Vidigal y 45.600 en Rocinha. Queda lejos de los 925.400 de la playa de Copacabana o 554.400 de Ipanema, pero aún así destacan entre lo más concurrido de la región. Si se suma el flujo de turistas llegados de otras partes del propio Brasil. ese balance se dispara de forma considerable. ¿Y en los últimos años? El interés por las favelas no parece haber decaído. A modo de referencia, el pasado enero (temporada alta en Río de Janeiro) Rocinha recibió 41.852 visitantes, un 37% más que el año pasado. Por esas mismas fechas O Globo, uno de los diarios más influyentes de Brasil, publicó una crónica en la que constataba el auge del turismo de favelas y los retos que eso acarrea. El creciente 'tirón' de las favelas puede seguirse también a través de la prensa internacional. En los últimos meses medios del alcance de Associated Press (AP), DW, The Guardian o la cadena BBC han dedicado artículos al fenómeno, ahondando en los retos, oportunidades y dilemas morales que genera. Como telón de fondo, un dato del que sacan pecho las autoridades cariocas: en 2025 Río recibió unos 12,5 millones de visitantes, sensiblemente por encima de los 11,4 de 2024. De ellos 2,1 millones llegaron de otros países. Quizás supongan una pequeña proporción, pero en solo un año su afluencia disparó casi un 45%. @frenzportugal Drone video from Rocinha Favela 🇧🇷 #rocinha #brazil #riodejaneiro ♬ original sound - XII NOVRITCH - XII NOVRITCH ¿Cómo se explica su éxito? Que cada vez haya más turistas que incluyen las favelas en sus tours cariocas en no es casual. Hay varios factores que lo explican. El primero es que las autoridades han hecho un esfuerzo para 'pacificarlas', algo que se remonta ya al Mundial de Fútbol de 2014 y los Juegos Olímpicos de 2016. Con el paso de los años se ha creado además una red de servicios, negocios locales y guías que hacen que la experiencia resulte mucho más accesible para los extranjeros. El ejemplo más claro es la Na Favela, una app creada precisamente para facilitar la organización y gestión de actividades con guías. Sus responsables ofrecen \"experiencias auténticas\" que, aseguran, impulsan la economía local. ¿Genera riqueza? Hay testimonios que así lo sugieren. Hace unos meses AP entrevistó a Vitor, un guía local que trabaja con visitantes que sienten curiosidad por conocer los asentamientos. Antes trabajaba como taxista en Rocinha, pero al notar que aumentaban los visitantes extranjeros empezó a ofrecer tours y ahora vive básicamente de los turistas. En otra entrevista reconocía que, tras una vida marcada por las drogas y la violencia, el turismo le brindó una oportunidad. \"Nunca me lo imaginé. No terminé la escuela ni logré aprender otro idioma\". \"Si vienes a Río y solo visitas la playa de Copacabana, la estatua de Cristo Redentor y el Pan de Azúcar, no estás visitando Río de verdad. Estás visitando una parte lujosa y cara de Río\", reivindica. \"La esencia proviene de las favelas\". No es el único que desliza ese mensaje. En mayo la BBC charló con una experta en turismo que asegura que la violencia en las favelas de la Zona Sur ha remitido, algo que achaca en parte al sector. También asegura que, si bien la zona puede suponer un riesgo para los residentes, los cárteles no se dirigen a los turistas. @thefavelaunitedtour When global icons choose authenticity 🇧🇷✨ An unforgettable day showing the real Rio to Rosalía. Culture, stories, people and soul — this is not just a tour, it’s a life experience. Book your tour and discover the real Brazil with us. #RealRio #FavelaExperience #CulturalTour ♬ Cycle Syncing Frequency - Still Haven ¿Son todo buenas noticias? No. Aunque ya no sea extraño encontrarse con turistas extranjeros en ciertas zonas de algunas favelas, la realidad es que siguen sin ser los destinos más seguros de Brasil. Quedó claro hace solo unas semanas, cuando decenas de visitantes se quedaron atrapados en un mirador durante una operación policial contra narcos. Meses antes, en abril, más de 200 turistas se habían quedaron varados también varias horas en Morro Dois Irmãos en un episodio similar. Un operativo contra el narcotráfico los pilló en pleno tour. La turistificación de las favelas no solo genera controversia por la seguridad de los visitantes. También lo hace por su trasfondo moral y las dudas que genera: ¿Qué impacto tiene el turismo en esos barrios y su población? ¿Les ofrece una nueva fuente de ingresos y un modo de ganarse la vida o supone una explotación cuestionable desde un punto de vista ético de sus condiciones de vida? Y si el fenómeno sigue creciendo, ¿cuáles serán sus consecuencias a largo plazo? Imágenes | Desert Morocco Adventure (Unsplash) y Diego Baravelli (Wikipedia) En Xataka | Japón ha soltado la bomba: aumento repentino del 500% en las tasas de visado para los extranjeros que ingresan al país - La noticia \"Es la esencia de Río de Janeiro\": El turismo masivo ha encontrado un nuevo filón en el lugar más insospechado, las favelas fue publicada originalmente en Xataka por Carlos Prego ."
-  },
-  {
     "titulo": "Hallan dos cadáveres con signos de violencia tras la llegada de una patera a Almería",
     "medio": "The Objective",
     "fecha": 1783866431.0,
@@ -525,25 +616,11 @@
     "resumen": "Los servicios de emergencia han recuperado los cuerpos sin vida de dos personas con aparentes signos de violencia tras el desembarco de una patera durante la […]"
   },
   {
-    "titulo": "\"Prefiero comer mierda\": Marta G. Montero sale llorando del plató cuando Cintora le impidió hablar en plena cacería a Feijóo",
-    "medio": "El Español",
-    "fecha": 1783866309.0,
-    "link": "https://www.elespanol.com/corazon/bluper/20260712/prefiero-comer-mierda-marta-montero-sale-llorando-plato-cintora-impidio-hablar-plena-caceria-feijoo/1003744318817_0.html",
-    "resumen": "El presidente de RTVE rompe su silencio tras el tenso directo en La 2: \"Quiero abrazarte y ponerme a tu entera disposición\"Más información: El Consejo de Informativos de RTVE denuncia que 'Malas lenguas' y 'Mañaneros' \"no se rigen por criterios periodísticos\""
-  },
-  {
     "titulo": "El Congreso vota este martes la senda de déficit de los Presupuestos de 2027",
     "medio": "Expansión",
     "fecha": 1783865850.0,
     "link": "https://www.expansion.com/economia/2026/07/12/6a53a1f6e5fdea4b0d8b456f.html",
     "resumen": "El Congreso afronta este martes la primera votación de la senda de déficit de los Presupuestos de 2027. Si decae, está prevista una segunda votación en Pleno el próximo 23 de julio. Leer"
-  },
-  {
-    "titulo": "Marc Márquez es el rey de Sachsenring: décima victoria y ya es tercero en el Mundial",
-    "medio": "El Español",
-    "fecha": 1783865694.0,
-    "link": "https://www.elespanol.com/deportes/motor/motogp/20260712/marc-marquez-rey-sachsenring-decima-victoria-tercero-mundial/1003744318812_0.html",
-    "resumen": "Su triunfo le permite situarse a 18 puntos del liderato de Jorge Martín. Ai Ogura y Raúl Fernández completan el podio tras la caída de Álex Márquez.Más información: Marc Márquez no perdona en Sachsenring: gana al sprint y aprieta el Mundial de MotoGP."
   },
   {
     "titulo": "El PP pide a Collboni que acabe con la exhibición de souvenirs ofensivos en Barcelona",
@@ -558,13 +635,6 @@
     "fecha": 1783864918.0,
     "link": "https://www.trendencias.com/diseno/interiorista-laura-martinez-advierte-quitar-banera-poner-ducha-reforma-impacto-bano",
     "resumen": "Las que tenemos una bañera en nuestro baño, soñamos con tener una ducha. Las que tienen una ducha, fantasean con tener una bañera exenta. Parece que una nuca está del todo conforme con lo que tiene y a la hora de hace reforma en un baño cambiar a una de estas opciones es lo primero que se nos viene a la cabeza. Lo cierto es que podemos conseguir un cambio de 180 grados en este espacio de la casa sin tener poner en marcha una intervención de gran calibre. La interiorista Laura Martínez ha compartido algunos tips con la revista Interiores que ella siempre tiene en mente antes de transformar un baño cuando no quiere tener que enfrentarse a presupuestos desorbitados ni grandes remodelaciones. Ella insiste en que renovar los revestimientos y sustituir los sanitarios son dos de las intervenciones que cambian más la apariencia de un baño antiguo. Aunque también puedemos empezar por detalles menores como cambiar los azulejos por otros en tonos claros o, incluso, por piedra natural. Eso sí, nada de microcemento porque es mucho más sensible la humedad. La iluminación también es algo a tener en cuenta. Si tu baño tiene luz natural, la experta insiste en potenciarla al máximo. Si no tiene ventanas es clave instalar iluminación LED, pero en una tonalidad cálida, nada de luces frías que nos recuerdan a las de un hospital. También apuesta por espejos sin marcos siempre que busquemos conseguir un ambiente más chic y elegante. Adiós bañera, hola duchaYo soy del team de las que fantasea con tener un ducha. Aunque en mi piso alquilado eso no es una opción, estoy 100% segura que simplemente con ese cambio el baño parecería un espacio nuevo. La experta también está de acuerdo con esta opción e insiste en que para tener esa sensación de baño nuevo poner una ducha es esencial: \"Quitar la bañera y poner una ducha es la reforma con más impacto en el baño\", explica. Al elegir una ducha es esencial optar por una con mampara transparente y platos continuos porque crea un ambiente mucho más moderno. No pasamos por alto que una ducha siempre es la opción más práctica para el día a día, además de que es mucho más fácil de limpiar. Prestar atención a los detallesLos elementos decorativos también influyen y aquí un cambio de toallas, una alfombra con un tono acogedor o incluso una vela que de un extra de calidez, puede conseguir que nuestro baño sea mucho más estético. Y es que si no tienes casi presupuesto para hacer una reforma, estos detalles son esenciales para mejorar el ambiente de tu baño. Fotos | Joana Costa en Pexels, Wellington Silva en Pexels En Trendencias | Cómo oler bien en verano con las tres mejores colonias cítricas con olor a limpio En DAP | Si ves una cucaracha merodeando por tu cocina, te contamos el truco del laurel para ahuyentarlas de inmediato este verano En Xataka | Carlos Llull, técnico de climatización: \"Dejar el aire acondicionado toda la noche puede costar alrededor de un euro en electricidad\" - La noticia La interiorista Laura Martínez advierte: \"Quitar la bañera y poner una ducha es la reforma con más impacto en el baño\" fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "El Quijote que Orson Welles nunca terminó por fin tomará forma. Cuatro filmotecas se han tenido que poner de acuerdo para lograrlo",
-    "medio": "Xataka",
-    "fecha": 1783864918.0,
-    "link": "https://www.xataka.com/cine-y-tv/quijote-que-orson-welles-nunca-termino-fin-tomara-forma-cuatro-filmotecas-se-han-tenido-que-poner-acuerdo-para-lograrlo",
-    "resumen": "Welles tardó casi treinta años en no acabar su Quijote. Terry Gilliam tardó otros treinta y lo consiguió, pero el proceso fue una pesadilla que mereció su propio documental. Adaptar el Quijote nos ha dado varios clásico menores y algún que otro hito (la histórica serie de animación española, sin ir más lejos) y ahora, cuatro filmotecas europeas están a punto de demostrar que existe una tercera vía, a golpe de recuperación y restauración de una de las no-películas más famosas de la historia. Colaboración internacional. Cuatro instituciones cinematográficas han decidido terminar, en la medida en que algo así pueda terminarse, la obra que Orson Welles dejó inconclusa tras su muerte. Durante el festival Cinema Ritrovato de Bolonia, la Filmoteca Española, la Cinémathèque Française, la Cineteca Nazionale italiana y el Filmmuseum de Múnich confirmaron el inicio de la reconstrucción de su 'Don Quijote'. Coordina el proyecto Esteve Riambau, historiador, cineasta y antiguo director de la Filmoteca de Catalunya. El objetivo, según ha explicado el propio Riambau, es tener la reconstrucción lista en 2028. Un rodaje infinito. En 1957 el amigo de Welles Frank Sinatra invirtió 25.000 dólares en el proyecto. La idea original era que funcionara como un complemento dentro del propio show televisivo del cantante, con forma de especial breve para la CBS. Por entonces estaba previsto que lo protagonizara Charlton Heston, pero no pudo ser por cosas de agenda. El rodaje se desarrolló en México, España e Italia y se prolongó, con interrupciones y regresos, a lo largo de casi tres décadas. En Xataka Es ampliamente conocido que 'La guerra de los mundos' de Orson Wells causó un pánico social. Es menos conocido que es mentira El acuerdo con CBS acabó cayéndose y Welles decidió convertir el especial televisivo en el largometraje que nunca terminaría y que evolucionaría bañado en caos puro: en México, por ejemplo, Welles trabajaba sin guion terminado, rodando secuencias improvisadas en la calle, y él mismo se encargaba de llevar las cuentas del rodaje con detallismo obsesivo. Ni la muerte en 1969 del actor que interpretaba al Quijote, Francisco Reiguera, ni la del que daba vida a Sancho Panza, Akim Tamiroff, en 1972, frenaron a Welles, que siguió rodando también en color. En 1982, tres años antes de morir, todavía introducía cambios en una película a la que llamaba cariñosamente Il mio bambino. Una maldición que se extiende. El Quijote tiene fama de devorar carreras. Terry Gilliam necesitó ocho intentos de rodaje fallidos y una demanda de su propio productor para sacar adelante 'El hombre que mató a Don Quijote', un proyecto que arrancó en 1998 y estrenó finalmente en 2018. El desastre del primer intento, en el año 2000, con Jean Rochefort y Johnny Depp, quedó retratado en el documental 'Lost in La Mancha'. Antes que ellos, Peter O'Toole, John Lithgow y Rafael Rivelles ya habían dado vida al hidalgo en versiones bastante más convencionales. En Xataka \"Déjenla en paz, es perfecta\": Tom Hanks se niega a participar en el remake de esta película del Hollywood clásico Qué material tenemos. Una cantidad enorme y dispersa. La Cinémathèque Française conserva unos 80 minutos en positivos de 35 mm que se exhibieron en el Festival de Cannes de 1986. La Filmoteca Española compró en 1991 rollos de 16 y 35 mm que suman 50.000 metros de película, además de los derechos de explotación cultural, y es la investigadora de todo el legado. El bloque parcialmente inédito está en Roma: entre 40.000 y 50.000 metros de negativos que el montador Mauro Bonanni custodiaba en Cinecittà y que Oja Kodar, última colaboradora de Welles, recuperó en 2017 tras resolver un litigio con el montador. Lo que viene. Riambau afirma que todos estos materiales \"aún no los ha visto nadie\". A eso se suman más de 2.000 páginas de guion que Welles fue escribiendo durante décadas, aunque parte del material se ha perdido. Riambau ordenará un guion que aún no tiene una estructura clara y en 2027 se cotejará con las imágenes para censar todo el material disponible. Puede haber sorpresas en los miles de metros procedentes de Cinecittà: este Quijote aún puede dar más quebraderos de cabeza. En Xataka | 124 años después, escalan a 4K 60fps el clásico de los hermanos Lumière de 1896 utilizando inteligencia artificial - La noticia El Quijote que Orson Welles nunca terminó por fin tomará forma. Cuatro filmotecas se han tenido que poner de acuerdo para lograrlo fue publicada originalmente en Xataka por John Tones ."
   },
   {
     "titulo": "Casi 300 piezas prehispánicas, muchas de oro, han viajado de Bogotá hasta Alicante para ser exhibidas en una exposición",
@@ -588,20 +658,6 @@
     "resumen": "El delantero, con permiso del club alemán, no participa en las pruebas médicas de inicio de temporada"
   },
   {
-    "titulo": "Moreno y Robles valoran la coordinación del fuego y acuerdan mantener a la UME en Almería",
-    "medio": "The Objective",
-    "fecha": 1783864358.0,
-    "link": "https://theobjective.com/espana/politica/2026-07-12/moreno-robles-coordinacion-fuego-ume-almeria/",
-    "resumen": "El presidente de la Junta de Andalucía, Juanma Moreno, y la ministra de Defensa, Margarita Robles, han coincidido este domingo en valorar el trabajo conjunto de […]"
-  },
-  {
-    "titulo": "Varios ministros de Francia cargan contra las palabras racistas de Rajoy sobre su selección y piden acciones legales",
-    "medio": "eldiario.es",
-    "fecha": 1783864116.0,
-    "link": "https://www.eldiario.es/rastreador/ministros-francia-cargan-palabras-racistas-rajoy-seleccion-piden-acciones-legales_132_13374788.html",
-    "resumen": "\"Absolutamente inaceptables\", \"insoportables\" u \"odio metódico y banalizado\" son solo algunos de los calificativos que ministros del gobierno francés han destinado a las palabras de la última \"crónica\" del expresidente conservadorRajoy, sobre la selección de Francia: “Tiene un altísimo nivel, eso sí, sin franceses”Se escuchó fuera del campo - Sin españoles La pasada de frenada del expresidente del Gobierno, Mariano Rajoy, en su última “crónica” sobre el paso a semifinales de la selección española ya ha llegado a oídos de los franceses. Si alguien pensaba que, tras la polémica y el amago de crisis diplomática con Paraguay por las palabras de una senadora liberal del país americano, los comentarios racistas de un expresidente español no iban a llegar hasta el país vecino, se equivocaba. Ahora, al menos tres ministros del gobierno francés han salido a hacer frente a las palabras de Rajoy a poco más de 48 horas del encuentro que medirá a las selecciones de ambos países en semifinales por un lugar en la final del Mundial de 2026. Para el ministro francés del Interior, Lauren Núñez —descendiente de almerienses que antes de llegar a Francia pasaron por Argelia—, las declaraciones del expresidente del Gobierno son “absolutamente inaceptables”. “Si esa declaración es exacta, es absolutamente inaceptable. No refleja en absoluto lo que es Francia”, afirmó el ministro francés en una entrevista en la televisión BMF TV en la que fue preguntado por las palabras de Rajoy, que afirmaba en su columna que la selección francesa de fútbol tiene “un altísimo nivel, eso sí, sin franceses”. Sobre sus palabras, el ministro francés dijo que “Francia es un país diverso donde todo el mundo puede desarrollarse” y que considera que “hay una Francia, simplemente, que es una República en la que todo el mundo debe poder encontrar su lugar”. “Creo que nos alejamos de eso cuando se trata de cosas como estas. No damos una imagen de esperanza a muchos jóvenes que viven en los barrios y que son ciudadanos de la República”, añadió el ministro francés. La Embajada de Francia en España también ha publicado un breve mensaje en su cuenta oficial en la red social X en el que recuerda que “de los 26 jugadores, 23 nacieron en Francia”, como ha informado este periódico en varias ocasiones. Otros miembros del gobierno francés, como la ministra delegada para la Igualdad de Género y la Lucha Contra la Discriminación de Francia, Aurore Bergé, también han salido al paso de las palabras de Rajoy. En su caso ha afirmado que “los resbalones racistas repetidos son insoportables” y ha mostrado su orgullo por la selección francesa. “El equipo de Francia muestra lo mejor de nosotros mismos: una Francia que gana, que se atreve, que juega en equipo, que resiste en la adversidad. Un equipo que amamos y que nos enorgullece”, ha subrayado después, antes de señalar que “es hora de que cesen —estos resbalones racistas— y de que el deporte vuelva a ser deporte: un lugar donde se juzga por el talento y por ningún otro criterio”. Por su parte, la ministra para los territorios de Ultramar, Naïma Moutchou, ha pedido a la Federación Francesa de Fútbol que inicie “todas las acciones legales posibles” contra el expresidente Rajoy, algo sobre lo que por el momento no se ha pronunciado la Federación de Francia. “A cada victoria de los Bleus, resurgen las mismas obsesiones e insultos racistas. No son 'deslizamientos'. Es un odio metódico y banalizado de Francia y de lo que representa”, declara en un mensaje publicado en la red social X. Sánchez carga contra las “declaraciones xenófobas” de Rajoy En un mensaje en la red social X, el presidente del Gobierno Pedro Sánchez ha cuestionado que haya todavía hoy quienes miden “la pertenencia por el apellido, el lugar de nacimiento o el color de piel”, y lo ha contrapuesto con quienes la miden “por el arraigo a un país y la voluntad de contribuir a él. Jugando al fútbol. Cuidando a nuestros mayores. O abriendo negocios”. Sánchez ha asegurado que España es “de quien la ama y la trabaja” y no “de quien la avergüenza con declaraciones xenófobas”. Tras ello, se ha citado con Francia “en semifinales” y ha añadido: “Que gane el mejor y que pierda el racismo”."
-  },
-  {
     "titulo": "Muere un triatleta en el Ironman de Vitoria",
     "medio": "La Vanguardia",
     "fecha": 1783863470.0,
@@ -609,39 +665,11 @@
     "resumen": "Durante la prueba de nado en el embalse de Ullibarri-Gamboa"
   },
   {
-    "titulo": "Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»",
-    "medio": "The Objective",
-    "fecha": 1783863199.0,
-    "link": "https://theobjective.com/internacional/2026-07-12/francia-rajoy-seleccion-nivel-sin-franceses/",
-    "resumen": "El ministro francés del Interior, Laurent Nuñez, ha calificado este domingo de «absolutamente inaceptables» las declaraciones del expresidente del Gobierno español Mariano Rajoy, quien aseguró en […]"
-  },
-  {
-    "titulo": "Marc Márquez brilla en Alemania y se mete de lleno en la pelea por el Mundial de MotoGP",
-    "medio": "The Objective",
-    "fecha": 1783861990.0,
-    "link": "https://theobjective.com/deportes/2026-07-12/marc-marquez-alemania-motogp/",
-    "resumen": "Marc Márquez volvió a hacer del circuito de Sachsenring su territorio. El piloto de Ducati conquistó el Gran Premio de Alemania de MotoGP tras dominar la […]"
-  },
-  {
-    "titulo": "De 11 y 14 metros de altura, estos dos faros \"hermanos\" están separados por 300 metros y en medio vivía el farero",
-    "medio": "eldiario.es",
-    "fecha": 1783861224.0,
-    "link": "https://www.eldiario.es/spin/11-14-metros-altura-faros-hermanos-separados-300-metros-medio-vivia-farero-pm_1_13374207.html",
-    "resumen": "Situados en la gallega costa de Oleiros, el Faro Pequeño emite una luz roja constante, mientras que el Faro Grande proyecta una señal blanca visible a varias millasDe 50 metros de altura, era conocido como la Torre Eiffel de los faros pero en 1961 un temporal lo tumbó y desde entonces permanece hundido¿Cuántos faros hay en España? En la costa de Oleiros, concretamente en Mera, uno puede descubrir una peculiaridad del mundo de los faros españoles. Y es que en esta tranquila localidad situada en el Golfo Ártabro perviven dos estructuras emblemáticas que han servido de guía durante más de un siglo, centinelas que conocidos popularmente como los faros de Mera, presiden un entorno privilegiado frente a la ría coruñesa. Su presencia es mucho más que un adorno paisajístico, pues constituyen un sistema vital para la navegación en estas aguas bravas del Atlántico. Desde su ubicación, se domina una panorámica que abarca desde la Torre de Hércules hasta el puerto de la ciudad de cristal. Es en este rincón gallego donde el Monumento Natural de la Costa de Dexo-Serantes despliega toda su fuerza y esplendor geológico. Los protagonistas de este escenario son dos torres de enfilación, a menudo llamadas faros “hermanos” por su diseño y su cercanía geográfica. El primero de ellos, conocido como el Faro Pequeño, se encuentra a unos escasos 56 metros sobre el nivel del mar. Esta estructura de hormigón posee una altura de 11 metros y destaca por su remate superior en un elegante enrejado de piedra. Su pareja, el Faro Grande, se sitúa en una zona algo más elevada, alcanzando los 81 metros de altitud. Con 14 metros de altura, esta segunda torre presenta una silueta algo más estilizada que su compañera cercana al borde del acantilado. Juntas forman una alineación perfecta que permite a los marinos orientarse con precisión absoluta antes de entrar al puerto. La separación entre estos dos vigías blancos es de aproximadamente 300 metros, un espacio cargado de memorias de la vida junto al mar. Además, justo en el punto medio de ambas construcciones se halla lo que antiguamente fue la vivienda residencial del farero de la zona. Hoy en día, este edificio ha sido rehabilitado y transformado en el Aula do Mar, funcionando como un centro de visitantes especializado. Este espacio museístico permite a los curiosos descubrir los secretos de los ecosistemas costeros y el funcionamiento de las señales lumínicas. Los paneles explicativos en su interior narran la historia de los primeros pobladores y su estrecha relación con la pesca y la agricultura. Ambos faros forman una alineación perfecta que permite a los marinos orientarse con precisión antes de entrar al puerto La casa es una parada obligatoria para quienes desean comprender la importancia ecológica y cultural de este tramo litoral tan protegido, de ahí que siga atrayendo a miles de senderistas. Aunque se les llame faros, su función técnica es la de torres de enfilación destinadas a marcar el canal seguro de entrada a la ría. El Faro Pequeño emite una luz roja constante, mientras que el Faro Grande proyecta una señal blanca visible a varias millas náuticas. Cuando los barcos llegan a la zona de Punta Herminia, deben buscar la verticalidad perfecta entre ambas luces para navegar de forma segura. Este sistema visual ayuda a evitar los peligrosos bajos y escollos que se esconden bajo la superficie de las aguas del Ártabro. Con un alcance de unas ocho millas, estas señales garantizan que el acceso al puerto coruñés sea una maniobra exenta de riesgos. El trabajo coordinado de estas dos luces ha evitado innumerables naufragios en una zona conocida por su gran peligrosidad. La historia de estas estructuras se remonta a principios del siglo XX, concretamente al año 1917, cuando brillaron por primera vez. En sus inicios, utilizaban lámparas de incandescencia para vapor de gasolina antes de la llegada de las tecnologías modernas de iluminación. No fue hasta 1932 cuando ambas torres fueron finalmente dotadas de suministro eléctrico para mejorar su operatividad. Ambas poseen una planta octogonal y están pintadas de un blanco inmaculado que las hace fácilmente reconocibles desde la distancia marina. Cuentan con terrazas superiores adornadas con balaustradas de celosía que les confieren una estética inconfundible y muy fotografiada por turistas. Su longevidad las convierte en piezas clave del patrimonio industrial y arquitectónico de la provincia de A Coruña. El entorno que rodea a estos dos centinelas es tan impresionante como las estructuras mismas, formando parte de una reserva de gran valor. Nos encontramos en el Monumento Natural Costa de Dexo-Serantes, un espacio que destaca por sus abruptos acantilados de roca oscura y vetas claras. Estas vetas de cuarzo blanco, conocidas localmente como Seixo Branco, sirven como una referencia visual natural de gran utilidad para los marineros. La zona cuenta con una rica biodiversidad de flora y fauna propias de los climas atlánticos, protegida bajo la Red Natura 2000. Pasear por sus senderos permite descubrir furnas o cuevas marinas formadas por la erosión constante de las olas contra el litoral. Es un paisaje donde la geología cuenta historias de millones de años ante la mirada atenta de los dos faros hermanos. La protección de este paraje asegura que las generaciones futuras puedan disfrutar de este contacto directo con la naturaleza virgen. Baterías y búnkeres Desde la atalaya natural donde se ubican las torres, las vistas son simplemente espectaculares, abarcando varias de las rías más famosas de Galicia. Se pueden divisar con claridad las rías de Ares, Betanzos y Ferrol, ofreciendo una perspectiva única del golfo en los días más despejados. Este emplazamiento estratégico no pasó desapercibido en el pasado, como demuestran los restos de antiguas baterías militares que aún se conservan. Estas fortificaciones servían para defender la ciudad de A Coruña de posibles ataques navales extranjeros, especialmente durante siglos de conflictos. Cerca de los acantilados todavía se pueden encontrar búnkeres y edificios abovedados que atestiguan el uso defensivo de esta costa privilegiada. Hoy, estas ruinas militares se integran en el paisaje, añadiendo un matiz histórico a las rutas de senderismo que recorren la zona. La combinación de historia bélica y belleza natural crea una atmósfera melancólica única en toda la comunidad autónoma. Visitar este rincón de Oleiros es sumergirse en una experiencia que combina naturaleza, historia y una gastronomía local de primerísima calidad. Tras contemplar los faros, el viajero puede acercarse a lugares como el Portiño de Dexo o degustar los famosos mejillones en Lorbé. La silueta de la pequeña isla de A Marola completa el horizonte, recordándonos los refranes populares sobre la bravura del mar circundante. Es, sin duda, uno de los mejores puntos de la provincia coruñesa para disfrutar de atardeceres mientras el sol se oculta tras la ciudad."
-  },
-  {
     "titulo": "Esta serie de ciencia ficción es ideal para ti si amaste ‘Interstellar’ y ‘For all mankind’",
     "medio": "Hipertextual",
     "fecha": 1783861200.0,
     "link": "https://hipertextual.com/cine-television/esta-serie-de-ciencia-ficcion-es-ideal-para-ti-si-amaste-interstellar-y-for-all-mankind/",
     "resumen": "Interstellar y For All Mankind son, en sus respectivos estilos y formatos, dos de las mejores historias de la ciencia ficción reciente. Y lo son por una razón: su capacidad de mezclar lo humano con la tecnología de punta en un mismo escenario. Un concepto que las seis temporadas de The Expanse llevan a un […] Seguir leyendo: Esta serie de ciencia ficción es ideal para ti si amaste ‘Interstellar’ y ‘For all mankind’"
-  },
-  {
-    "titulo": "La Primera Flota, el inicio de la colonización británica en Oceanía, pudo desatar una tragedia histórica: la viruela habría dejado millones de víctimas en Australia",
-    "medio": "eldiario.es",
-    "fecha": 1783861149.0,
-    "link": "https://www.eldiario.es/spin/primera-flota-inicio-colonizacion-britanica-oceania-pudo-desatar-tragedia-historica-viruela-habria-dejado-millones-victimas-australia-pm_1_13374720.html",
-    "resumen": "Transmisión - La investigación reconstruye el avance de la enfermedad desde la región de Sídney durante dos décadas y calcula una cifra muy elevada de víctimas en comunidades indígenas Los caminos aborígenes enlazaban zonas de agua, ceremonia, alimento y comercio mucho antes de que una flota británica alterara la vida del continente. Australia estaba habitada por numerosos pueblos con lenguas, leyes, conocimientos y maneras propias de cuidar el territorio. Los británicos llegaron para levantar una colonia penal, ampliar su presencia imperial y trasladar allí a condenados enviados desde Gran Bretaña. Aquel desembarco abrió una ocupación que arrebató tierras, extendió enfermedades y dañó comunidades que llevaban miles de años viviendo en ellas. Una epidemia nacida junto al asentamiento alcanzó gran parte del continente Una de las primeras consecuencias apareció en abril de 1789, 16 meses después de la llegada europea, cuando la viruela comenzó a matar a población aborigen en la región de Sídney. Una investigación publicada en Nature Human Behaviour empleó modelos de transmisión y rutas de desplazamiento para reconstruir el origen de la epidemia. Sus resultados apuntan al asentamiento británico y calculan que la enfermedad pudo avanzar durante 21 años, alcanzar zonas situadas a miles de kilómetros y causar hasta 220.000 muertes. La duración del viaje de la Primera Flota había alimentado las dudas sobre esa procedencia. Henry Reynolds, historiador de la Universidad de Tasmania ajeno al trabajo, explicó a Science que los meses de navegación actuaron como “la situación de cuarentena más eficaz que se pueda imaginar”. Una infección activa habría causado enfermos y muertes a bordo antes de alcanzar Australia, pero los registros navales no describen ningún brote de viruela durante la travesía. Las simulaciones descartan la llegada del virus desde el norte Los investigadores plantean que el virus viajó conservado en materia variólica, preparada con costras secas o líquido extraído de las pústulas. Los médicos usaban ese material para inocular a pacientes antes de que apareciera la primera vacuna en 1796. La Primera Flota llevaba cirujanos, y alguno pudo transportar las muestras desde Gran Bretaña o conseguirlas durante las escalas en Río de Janeiro o Ciudad del Cabo. El virus habría permanecido viable hasta que una liberación accidental o intencionada expuso a población aborigen. La investigación no puede determinar qué persona inició el contagio ni si existió una decisión deliberada. Ann McGrath, historiadora de la Universidad Nacional Australiana que no participó en el estudio, separa esa duda del daño causado por la ocupación británica: “Todo el proyecto colonial fue intencionado y suficientemente dañino sin demostrar que la viruela se propagó de manera deliberada”. Los autores tampoco hallaron órdenes formales para extender la enfermedad, aunque recuerdan que la viruela ya se había planteado como arma contra pueblos indígenas en Norteamérica. La enfermedad avanzó por ríos y costas con una mortalidad muy elevada Tras comenzar alrededor de Sídney, la infección habría seguido las costas, las comunidades portuarias y grandes ríos como el Murray y el Lachlan. Los modelos calculan entre 40.000 y 240.000 fallecidos durante la primera epidemia si se aplica una mortalidad del 60%, habitual entre poblaciones que carecían de inmunidad. Lynette Russell, historiadora de la Universidad de Monash, describió a Science la dimensión de la pérdida registrada en 1789: “Se produjo una despoblación espantosa”. El cálculo resulta aún mayor al revisar cuántas personas vivían en Australia antes de la invasión. Las estimaciones antiguas situaban la población aborigen entre 200.000 y 800.000 habitantes, pero se apoyaban a menudo en observaciones realizadas después de epidemias, desplazamientos y violencia. Alan Williams, arqueólogo y coautor de los dos trabajos, cuestiona esa lectura: “Ha existido la suposición de que las poblaciones aborígenes eran bastante reducidas y sus actividades eran efímeras y transitorias”. El segundo estudio cruza dataciones arqueológicas por radiocarbono, reconstrucciones genéticas y cálculos sobre la cantidad de población que podían alimentar distintos paisajes. El resultado sitúa la media en 2,51 millones de habitantes antes de 1788. Para llegar a las cifras registradas durante el siglo XIX, los autores calculan unos 2,39 millones de muertes adicionales hasta 1861 por enfermedades, hambre, pérdida de tierras, desplazamientos y violencia fronteriza. Los estudios revisan el alcance real de la epidemia colonial La hipótesis alternativa situaba la entrada del virus en el norte, a través de pescadores makassan procedentes de la actual Indonesia. Corey Bradshaw, ecólogo de la Universidad de Flinders y coautor de los trabajos, afirma que las simulaciones descartaron ese recorrido: “Por grave que supongamos que era la enfermedad, no pudo llegar desde el norte hasta Sídney en el momento adecuado”. Los desplazamientos por comercio, ceremonias y relaciones familiares no permitían cubrir esa ruta antes del brote de 1789. David Collins, funcionario de la colonia, dejó un relato de un hombre aborigen llevado al puerto para buscar a sus compañeros. El National Museum of Australia conserva su reacción al encontrar la zona vacía y los cuerpos abandonados: “¡Todos muertos!”. La Organización Mundial de la Salud declaró erradicada la viruela en 1980, aunque sus consecuencias en Australia continuaron durante generaciones. El Australian Bureau of Statistics calculó en 984.000 la población aborigen y de las islas del estrecho de Torres en 2021, una cifra todavía inferior a la estimación previa a la invasión. Ese descenso histórico tampoco supuso la desaparición de los pueblos indígenas, como recuerda Shane Ingrey, biólogo molecular dharawal y coautor: “Queremos desmontar el mito de un continente vacío”. Las comunidades regresaron a Sídney tras la epidemia, conservaron prácticas culturales y mantuvieron sus lenguas durante décadas, hasta que nuevos desplazamientos forzosos volvieron a expulsarlas de sus tierras."
   },
   {
     "titulo": "We Can’t Rely on Green Capital for Decarbonization",
@@ -663,6 +691,13 @@
     "fecha": 1783860539.0,
     "link": "https://www.expansion.com/directivos/estilo-vida/salud/2026/07/12/6a537e34468aebdd088b458c.html",
     "resumen": "El incendio forestal declarado en Los Gallardos (Almería) que ha ocasionado 12 víctimas mortales ha afectado a varias casas de campo localizadas en diseminados situados en terreno forestal o rústico, lo que recuerda la necesidad de prevenir los daños en este tipo de viviendas. Leer"
+  },
+  {
+    "titulo": "Francia considera \"absolutamente inaceptables\" las palabras de Rajoy sobre la selección francesa",
+    "medio": "Europa Press",
+    "fecha": 1783860476.0,
+    "link": "https://www.europapress.es/nacional/noticia-francia-considera-absolutamente-inaceptables-palabras-rajoy-seleccion-francesa-20260712144756.html",
+    "resumen": "El expresidente de Gobierno escribió en una columna que la selección francesa dispone de \"un altísimo nivel, eso sí, sin franceses\""
   },
   {
     "titulo": "AI Is a Product of Humanity. Humanity Should Own AI.",
@@ -721,13 +756,6 @@
     "resumen": "Una powerbank con mucha capacidad es muy útil para viajar, pero es implica tener que llevar un armatoste encima. Hay usuarios que prefieren algo más ligero y sencillo simplemente para que su batería llegue con soltura al final de esos días donde usamos el móvil sin parar. Si eso es justo lo que buscas, entonces quizás te cuadre la Baseus Picogo Air AM71: está disponible por 69,99 euros y viene a ser una rival directa de la batería ultradelgada de Xiaomi. Una batería externa con MagSafe que apenas se nota Como decimos, esta powerbank de Baseus es ideal para todo aquel al que no le gusten los armatostes. Su peso es de 104 gramos, que no es demasiado si tenemos en cuenta sus dimensiones. Está diseñada para encajar bien con todo tipo de teléfonos de Apple, incluso con el iPhone 17 Pro, puesto que deja un hueco de separación con su módulo de cámaras. Como es compatible con MagSafe, la vamos a poder pegar al móvil y llevarla unida mientras extendemos la autonomía del dispositivo. Su grosor es de solo 6,9 milímetros, así que apenas la notaremos. Aquí gana la de Xiaomi, puesto que el grosor de esta es de 6 milímetros. Sin embargo, tienen la misma capacidad de 5.000 mAh. Cuenta con un sistema NFC que nos permite consultar desde el iPhone todo tipo de información en tiempo real y cuenta con una velocidad de carga inalámbrica de hasta 7,5 W (por cable esta sube hasta los 22,5 W). No es una batería para cargar el teléfono al completo, sino que su objetivo es extender la autonomía del mismo en los días que le exigimos más. Ahí, si buscas algo ligero y delgado, esta powerbank de Baseus te puede ir muy bien. ⚡ EN RESUMEN: Baseus Picogo Air AM71 ✅ LO MEJORMuy delgada y ligera: No llega a siete milímetros de grosor y pesa poco más de 100 gramos, así que es muy cómodo de transportar con nosotros a todas partes.Compatible con MagSafe: Se pega al iPhone si es compatible y, como es muy fina, la podremos llevar en el bolsillo todo junto como si fuera una sola pieza. ❌ LO PEORSu velocidad de carga es justita: Aunque por cable llega a los 22,5 W de carga, se queda en una velocidad más corta de forma inalámbrica. 💡 CÓMPRALO SI... Buscas una powerbank ultradelgada, con MagSafe y que te ayude a no quedarte sin batería en los días en los que le exiges más al móvil fuera de casa. ⛔ NO LO COMPRES SI... Prefieres una powerbank con más capacidad que te permita cargar el dispositivo al completo, incluso varias veces. En Xataka MediaMarkt celebra su 27 aniversario con todas estas ofertas en teles LG, Samsung, Xiaomi y más También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Baseus En Applesfera | Qué iPhone comprar en 2026 - Guía para elegir el smartphone de Apple más adecuado para ti En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia Baseus estrena powerbank ultradelgada con MagSafe: no llega a siete milímetros de grosor y tiene la misma capacidad que la de Xiaomi fue publicada originalmente en Applesfera por Juan Lorente ."
   },
   {
-    "titulo": "Un dispositivo mantendrá batidas aunque con la \"confianza\" de no hallar más fallecidos del incendio de Los Gallardos",
-    "medio": "Europa Press",
-    "fecha": 1783852044.0,
-    "link": "https://www.europapress.es/andalucia/almeria-00350/noticia-dispositivo-mantendra-batidas-confianza-no-hallar-mas-fallecidos-incendio-gallardos-20260712122724.html",
-    "resumen": "El presidente de la Junta de Andalucía, Juanma Moreno, ha señalado que un \"imponente dispositivo de rastreo\" formado por un centenar de efectivos va a continuar este domingo con las batidas en las zonas afectadas por el incendio forestal iniciado en Los Gallardos (Almería), que ya se ha dado por estabilizado, para \"finalizar completamente la búsqueda\" de posibles víctimas, si bien la mayor esperanza es que \"no aparezcan ya más\" fallecidos."
-  },
-  {
     "titulo": "El Tribunal Supremo da la razón a Sacyr por una autopista rescatada y urge al Gobierno a pagar indemnizaciones",
     "medio": "Expansión",
     "fecha": 1783851807.0,
@@ -740,20 +768,6 @@
     "fecha": 1783850517.0,
     "link": "https://www.trendencias.com/shopping/banador-estampado-geometrico-women-secret-para-llevar-como-body-terraceo-13-euros",
     "resumen": "La frontera entre la ropa de baño y el streetwear se desdibuja cada vez más. Si buscamos una pieza clave que nos resuelva los estilismos playeros y a la vez se transforme en un top ideal para una cena informal de noche, este bañador de Women'secret es todo lo que necesitamos. Un diseño tan versátil y elegante que promete saltar directamente de la arena de la playa a tus noches de terrazas y chiringuitos combinado con unos shorts vaqueros. Cuenta con un corte estratégico cut-out en la parte delantera, y con un patrón geométrico que aportan un toque sofisticado que parece de boutique de lujo, pero ahora gracias a las segundas rebajas de Women'secret, se queda a precio de mercadillo. Además, incluye copas extraíbles y tirantes regulables, para que podamos llevarlo siempre como más cómodo nos resulte. Women'secret Su tejido se adapta a la silueta con suavidad, y va completamente forrado para evitar transparencias al salir del agua. No es un bañador reductor, aunque incluye refuerzo interior bajo el pecho, para que nos podamos quitar del todo los tirantes para conseguir un bronceado uniforme sin miedo a que el bañador se mueva de su sitio. Si ya su bonito diseño era motivo para que este bañador volara de las perchas, ahora que es nuestro por sólo 44,99 euros 12,99 euros mucho más. Es la compra maestra del verano para construir un estilismo de impacto con ayuda de un pantalón de lino, o con una falda midi, unos pendientes dorados y unas sandalias de pala, que lo transformarán en un body perfecto con el que exprimir las tardes de terraceo. Cómo combinar este bañador cut-out de Women'secret H&M Una prenda básica con la que combinar este bañador usándolo como body es con unos pantalones holgados como estos de H&M. En tejido vaporoso mezcla de viscosa y lino, incluyen cinturilla elástica y cordón de ajuste. Los podemos encontrar en varios colores por 19,99 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @jessiekass | Women'secret | H&M En Trendencias | Cómo combinar unas sandalias planas | Look elegante, casual y de sport En DAP| Carlos Llull, técnico de climatización: \"Dejar el aire acondicionado durante ocho horas por la noche puede costar alrededor de un euro en electricidad\" En Trendencias | María Cristina Clemente, notaria: \"Hay una escritura, y no es el testamento, que cuando hay alzhéimer, puede evitar conflictos familiares, decisiones dolorosas y un camino judicial innecesario - La noticia El bañador con estampado geométrico de Women'secret para llevar como 'body' de terraceo por menos de 13 euros fue publicada originalmente en Trendencias por Patricia García Varela ."
-  },
-  {
-    "titulo": "Formatear tu PC no sirve de nada: si quieres borrar el disco de verdad, esta es la solución",
-    "medio": "Hipertextual",
-    "fecha": 1783850400.0,
-    "link": "https://hipertextual.com/software/shredos-y-nwipe-borra-tus-discos-de-forma-segura-e-irreversible/",
-    "resumen": "Al hablar de borrar de forma permanente (y segura) los datos almacenados en un ordenador, muchos creen que es suficiente con formatear el disco o SSD. Pero esto no es así. El formateo de la unidad de almacenamiento no sirve para eliminar por completo y de forma irreversible la información almacenada allí. Esto deja la […] Seguir leyendo: Formatear tu PC no sirve de nada: si quieres borrar el disco de verdad, esta es la solución"
-  },
-  {
-    "titulo": "10 cosas a tener en cuenta antes de ver ‘La Odisea’ (por si no has leído la obra ni quieres hacerlo)",
-    "medio": "Hipertextual",
-    "fecha": 1783848600.0,
-    "link": "https://hipertextual.com/cine-television/10-cosas-a-tener-en-cuenta-antes-de-ver-la-odisea-por-si-no-has-leido-la-obra-ni-quieres-hacerlo/",
-    "resumen": "La Odisea de Christopher Nolan es una de las películas más esperadas del año. También, todo un reto en la carrera del director, al adaptar un poema épico conocido por su complejidad. La obra sigue el tortuoso viaje de diez años de Odiseo (Matt Damon) para regresar a su reino de Ítaca tras la caída […] Seguir leyendo: 10 cosas a tener en cuenta antes de ver ‘La Odisea’ (por si no has leído la obra ni quieres hacerlo)"
   },
   {
     "titulo": "El incendio forestal de Los Gallardos (Almería) queda estabilizado y se autoriza el regreso de 1.000 desalojados",
@@ -861,13 +875,6 @@
     "resumen": "La Guardia Revolucionaria de Irán ha confirmado este domingo que el estrecho de Ormuz queda cerrado a la navegación \"hasta nuevo aviso\" tras realizar disparos de advertencia contra un buque que presuntamente habría ignorado sus instrucciones en la zona."
   },
   {
-    "titulo": "Cómo masturbar a tu pareja y conseguir que alcance un orgasmo con mayúsculas",
-    "medio": "Trendencias",
-    "fecha": 1783800152.0,
-    "link": "https://www.trendencias.com/sexo-y-relaciones/como-masturbar-a-tu-pareja-conseguir-que-alcance-orgasmo-mayusculas",
-    "resumen": "En el sexo hay algo que se repite y es la sensación de que todos sabemos hacerlo. Todos sabemos hacer una paja y todos sabemos tocar un coño... ¿o no? La falta de comunicación puede hacer que pensemos que estamos llevando a la locura a nuestra pareja y que lo que en realidad esté pasando por su cabeza sea la lista de la compra. Pero no hay que preocuparse porque en esta vida todo puede aprenderse, y si hay personas sacándose el carnet a diario y aprobando asignaturas, tú podrás mejorar tus artes amatorias y conseguir masturbar a tu pareja como nunca antes. En Trendencias Todo para que el sexo en la piscina o el mar (contra la ola de calor) sea una experiencia increíble Y si ya lo consigues y crees que no puedes aprender nada sobre sexo (aquí te explico cómo masturbarte, porque la masturbación también es sexo) de estas líneas, te digo una cosa: deja de leer y ponlo en práctica, que dar placer a otra persona es algo maravilloso. Índice de Contenidos (9) Qué hacer antes de tocar a tu pareja Cómo masturbar un pene Cómo tocar un pene paso a paso Más placer tocando el ano al masturbar un pene Observa a tu pareja Cómo masturbar una vulva Cómo masturbar una vulva paso a paso Usa lubricante para mejorar la experiencia Cómo tocar el clítoris y el punto G al masturbar una vulva Qué hacer antes de tocar a tu pareja Antes de entrar en materia, un consejo: si quieres que se corra, no corras tú. Las prisas en el sexo no son buenas consejeras y podemos conseguir mucho más si aplicamos la filosofía del slow sex, también si hablamos de tocar a nuestra pareja. Un masaje erótico, un poquito de petting o el magreo de toda la vida servirán para comenzar a encender ese calorcito. Tocaos, que esto no es Ghost y podéis hacerlo sin problemas. Podemos ambientar el plan con velas, música sexy y aromas sensuales, y comenzar \"poquito a poquito, suave, suavecito\", como Luis Fonsi. Escucha el cuerpo de tu pareja, sus reacciones y sus palabras. En Trendencias Cómo practicar el beso negro y qué precauciones tomar antes de ponerte manos a la obra La comunicación verbal y no verbal te ayudará a dar en la tecla (no subestimes el poder de decir lo que te gusta abiertamente) porque, aunque hay movimientos que estimulan a casi todos los penes y vulvas, cada persona es un mundo y puede que lo que me guste a mí no te guste a ti. La libido puede aumentar de millones de formas distintas y no vamos a juzgar a nadie porque el placer es libre. Tal vez tu pareja se vuelva loca si la acaricias el tobillo mientras tocas sus genitales, por ejemplo, o si le recitas la alineación del Betis de la temporada 87-88 mientras le vas mordiendo la oreja. Seas como seas y sea como sea tu pareja, pregunta, observa y nota qué es lo que sí mola y lo que no más allá de lo que te digamos en este artículo, porque nadie conoce mejor su propio placer que uno mismo. Y si algo no le gusta, pasa. Se trata de dar placer y solo haremos cosas que resulten placenteras a nuestra pareja. Aprovechando esto añadimos un tip más: todo lo que haremos en la cama debe ser siempre algo consentido por ambas partes. Vamos a darle al positivismo sexual y a practicar solo aquello con lo que todos podamos sentirnos cómodos. Cómo masturbar un pene Vamos a lo importante que es saber cómo dar placer a un pene y cómo mejorar la experiencia para hacerla aún más hot. No estamos diciendo que lo hagas mal (no tenemos una mirilla para observarte en plan voyeur) pero quizá hay alguna cosa que puedes incorporar al temario y conseguir un 10 en lugar de un 9,5. En Trendencias Por qué el tamaño del pene no nos importa, aunque un estudio diga ahora que la media ya no es de 15 centímetros Cómo tocar un pene paso a pasoLo primero: olvídate de meter la mano en el paquete y comenzar a mover eso como si fuese una zambomba. No vamos a pedir el aguinaldo ni a bailar en una fiesta jerezana, así que nada de tocar el pene como si fuese un instrumento musical. Dale tiempo y comienza por algo tan suave como puede ser rozar por encima del pantalón o acariciar en el interior de los muslos para que se vaya encendiendo la mecha y aumentando el deseo. Una vez hayas traspasado la barrera de la tela y ya estés con el pene en la mano, empieza suave. Acaricia lentamente todo, desde el glande a la base y los testículos, con calma y dulzura para ir “despertando”. Puedes ir aumentando ligeramente la presión, pero sin prisas. En Trendencias 11 posturas sexuales de la serie ‘Sexo/Vida’ en Netflix que pueden inspirarnos para salir de la rutina Un truco extra hot es mirar a tu pareja y decirle cosas al oído susurrando (me encanta tu polla/ ¿te gusta así?/ hoy voy a hacer que toques el cielo/ y cualquier derivado que se te ocurra, feel free), así que colócate en una posición que te permita el contacto visual. Puede ser frente a frente o incluso delante de un espejo para que tu pareja y tú no perdáis detalle. Verás cómo se enciende y sentirás que tienes en tus manos todo el poder. No te olvides de seguir besando el cuello, la boca, el lóbulo de la oreja.... Vamos a masturbar un pene pero eso no quiere decir que nos centremos solo en eso. Y recuerda, aún sin el pene en erección toda la zona está recibiendo placer así que no os agobies si no se empalma. Tomáoslo con calma. No hay prisa, podemos cambiar la manera de acariciar, probar otros movimientos e incluso olvidarnos del miembro que ahora está tímido, para centrarnos en otras zonas. Cuando el pene se endurece llega el momento del ritmo. Sexconsejo: una vez llegados a este punto usa un lubricante. El pene apenas lubrica y podemos mejorar mucho la experiencia al utilizarlo y evitar que la fricción sea desagradable para ambos. Puedes usar uno de efecto calor como este de Lubets, uno 100% natural como el de Durex o incluso uno de sabores como estos de Control. También puedes usar tu propia saliva o un aceite, siempre que te asegures de que puede usarse en los genitales, porque si no es así puede introducirse en la uretra y provocar un infección. Una vez tengas el pene en tus manos rodéalo con tus dedos y comienza a subir y bajar la mano, con una ligera presión que vaya aumentando a medida que aumenta el placer de tu pareja. Si quieres usar ambas manos puedes entrelazar los dedos y colocar el pene entre las palmas. Las manos suben y bajan juntas aumentando así la sensación de presión. También puedes colocar una encima de otra, cubriendo la base del pene con una y el glande con la otra, y si el pene es más pequeño, con varios dedos en lugar de toda la mano. En Trendencias Autoestima sexual: qué es y cómo mejorarla para ganar confianza no solo en la cama En esta última postura (las manos una encima de otra cubriendo todo el pene) prueba a hacer un movimiento de rotación en el que cada mano gire hacia un lado diferente. Todo el cuerpo del pene se estimulará y será un OMG. No te centres en un único movimiento y ve combinándolos. Puedes por ejemplo tocar el escroto (que esconde los testículos) e ir haciendo movimientos sobre el glande, como tocar el frenillo con el pulgar o envolverlo con tus dedos y apretar y soltar como si estuvieras imitando el latido del corazón. También puedes colocar tu mano sobre el glande como si estuvieras cogiendo una mandarina con la punta de los dedos y comenzar a mover estos en círculos y de forma suave. Luego sube y baja los dedos hasta que tu palma de la mano toque la punta de la polla, con lo que conseguirás un efecto similar al de \"garganta profunda\" de una felación. Más placer tocando el ano al masturbar un pene Podéis experimentar con la zona perianal, altamente sensible y muy placentera, que nos puede dar paso a estimular el punto P. Para la zona perianal usa los dedos e incluso ese pequeño vibrador que tienes en la mesilla. Con una bala vibradora como la Neo Plus de Platanomelón aumentarás por 10 el placer. Si vas estimular el ano, avisa siempre y que no pille a nadie por sorpresa. Y no hagas como en un examen de próstata y metas el dedo sin más, aquí podemos perder todo el tiempo que queramos preparando el acceso. Es una zona muy delicada, así que cuidado con las uñas largas y los gestos bruscos. Observa a tu pareja Es muy importante mirar a tu pareja y ver sus reacciones. Pide a la persona que te diga si le gusta o no, pero mira si se estremece, gime o tiene la piel de gallina, porque las reacciones del cuerpo serán los mejores emisores del mensaje si de lo que hablamos es de placer. Durante toda la masturbación del pene trata de alargar el placer y no comiences a aumentar enseguida la velocidad y presión para que se corra cuanto antes. Practica el ending y dilata el momento final del clímax. Podéis tocaros el uno al otro, o que tu pareja te vea tocarte mientras haces la paja. Hablad y pregunta si le gusta o no, cómo lo estás haciendo o qué le gustaría que hicieras. Estamos para dar placer (y disfrutar viéndolo), así que no os cortéis. En Trendencias La erótica Kinky, qué es y por qué se ha puesto de moda Cómo masturbar una vulva Si has llegado hasta aquí pensando que voy a explicarte cómo hacer un dedo te diré algo: no sabes tocar un coño. Pensar que el placer de una vulva reside en introducir algo (un pene, un dedo, un dildo) en su vagina, es no entender nada de lo que está pasando. Para masturbar una vulva lo primero es conocer a fondo todas las posibilidades que ofrece y todas las partes erógenas que la conforman. Este mapa completo de la vulva te dejará claro que hay mucho más que vagina y mucho más que clítoris, así que empóllatelo bien. Cómo masturbar una vulva paso a paso Como ocurre con el pene, la vulva necesita un tiempo para encenderse así que si quieres hacer un buen trabajo tómatelo con calma. Piensa que es un guiso que se cuece a fuego lento y usa cada una de las partes como le explicaba Mónica a Chadler en Friends. Toma nota de lo que dice la señorita Geller y ve combinándolas sin prisa y sin olvidar ninguna: Puedes comenzar con caricias en el cuello y los pechos, besos y cualquier zona erógena que se te ocurra (aquí te contamos 13 pero hay muchas más). Muerde pezones (siempre con cuidado y poco a poco), acaricia pechos, toca, toca y no dejes de tocar. Besa, lame, chupa y cuida todas las zonas, sin dejar desatendida ninguna para ir encendiendo el fuegote. Después pasa a los genitales acariciando los muslos, el monte de Venus y los labios exteriores, con calma y cadencia, despacio. No tenemos prisa por llegar al gran protagonista, el clítoris. Queremos que todos los actores secundarios de esta obra tengan su momento protagonista, así que explora con calma primero por encima de la ropa y luego poco a poco sobre la piel. En Trendencias Siete posturas sexuales ideales para no pasar calor en verano (aunque no tengas ni aire acondicionado) Usa lubricante para mejorar la experiencia En este punto es posible que haya lubricación gracias al flujo, o puede que necesites un lubricante que acompañe los movimientos. Te ayudará a acariciar zonas de una forma más suave y placentera en las partes más delicadas y sensibles de los genitales como el clítoris. Puedes probar con uno con base acuosa como este que es natural y vegano, y que es muy respetuoso con la piel y toda la zona genital ¿Has probado alguna vez los que tienen efecto vibración? Un lubricante como este produce un cosquilleo que aumenta el placer en zonas como el clítoris, y es una divertida forma de ayudarte. Cómo tocar el clítoris y el punto G al masturbar una vulva Llegamos a este punto el deseo pide más y vamos a comenzar a tocar el clítoris. Lección primera: no es un timbre, así que no lo acaricies como si lo fuera y lo pulses de forma rabiosa. Haz movimientos circulares sobre él, despacio y con un par de dedos, y combínalo con movimientos arriba y abajo y de izquierda a derecha, no solo sobre el clítoris (como usando un Satisfyer), también sobre los labios (interiores y exteriores). Puedes colocar el clítoris entre los dedos índice y corazón y subir y bajar como si se tratase de un pene, o tratar de encontrar el punto U entre la uretra y la vagina (este mapa te indica dónde está) y en la zona exterior de los genitales. También puedes explorar el punto G dentro de la vagina con el movimiento “ven aquí” del que ya te hemos hablado más de una vez (palma hacia arriba y con el dedo corazón flexionándose). No te centres en el uso de una mano, tienes diez dedos y dos manos con sus palmas y dorsos y todo sirve para estimular. Piensa que la vulva (recuerda que no estamos hablando de la vagina) es sensible a rabiar, solo tienes que escucharla a ella y a tu pareja, que irá mostrándote lo que sí le gusta y lo que no. En Trendencias Guía completa del placer femenino para conseguir orgasmos más potentes (sola y acompañada) Puedes por ejemplo subir desde la zona de la vulva más cercana al ano por el exterior con los pulgares (uno a cada lado) y bajar por el clítoris, el punto U y la vagina en una línea recta (dibujarás un semicírculo con cada uno de los pulgares, para que te orientes mejor). La zona perianal es común para todos los sexos y es una zona erógena por excelencia. Cuando la estimules que sea con cuidado, igual que pasaría con el sexo anal. Puedes apoyarte con juguetes de cualquier tipo, ya sabes que todos son aptos para usar en pareja. Un vibrador, un succionador o un dildo si a la persona le gusta la penetración, pueden hacer maravillas y conseguir un punto extra de placer. Y ahora que has tomado buena nota de todo... ¿qué tal ponerlo en práctica? Este año eso de masturbar a tu pareja será tu asignatura estrella, garantizado. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. ​​Fotos | Euphoria, Sex Education, Con derecho a roce, Giphy; Deon Black, Taras Chernus y Charles Deluvio en Unsplash En Trendencias | Cómo masturbarse sin usar un Satisfyer ni ningún juguete sexual (y disfrutando como si lo hicieras) En Trendencias | Las mejores formas de tener sexo sin penetración y disfrutar igual o más - La noticia Cómo masturbar a tu pareja y conseguir que alcance un orgasmo con mayúsculas fue publicada originalmente en Trendencias por Anabel Palomares ."
-  },
-  {
     "titulo": "¿Locura o genialidad?",
     "medio": "Expansión",
     "fecha": 1783787692.0,
@@ -880,13 +887,6 @@
     "fecha": 1783787193.0,
     "link": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2026/07/11/6a526b05e5fdea860d8b4576.html",
     "resumen": "El cocinero arranca las vacaciones en la costa este de EEUU, antes de escaparse a explorar España. Leer"
-  },
-  {
-    "titulo": "El precio de la vivienda nueva bate récord tras subir un 9,7% en junio: así está por capitales",
-    "medio": "Expansión",
-    "fecha": 1783786076.0,
-    "link": "https://www.expansion.com/inmobiliario/mercado/2026/07/11/6a50c751468aebdc128b459b.html",
-    "resumen": "Málaga, Madrid, Barcelona, Palma de Mallorca y Valencia se posicionan como los mercados más dinámicos en el segmento de nueva construcción, con subidas que superan el 10% en el segundo trimestre. Leer"
   },
   {
     "titulo": "Who Is Ukraine’s Recovery Really For?",
