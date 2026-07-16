@@ -1,10 +1,87 @@
 [
   {
-    "titulo": "Detenido el presunto autor del incendio de Lozoyuela que mantiene confinadas 2.000 personas al norte de Madrid",
+    "titulo": "Los datos del Mundial 2026 convierten 102 partidos y 153.000 eventos en una forma artístico-matemática de ver el fútbol",
+    "medio": "Microsiervos",
+    "fecha": 1784246599.0,
+    "link": "http://www.microsiervos.com/archivo/arte-y-diseno/datos-mundial-2026-futbol-partidos-eventos-artistico-matematicas.html",
+    "resumen": "Retratos de los datos del fútbol es otra forma de ver los partidos de la Copa del Mundo 2026 desde la perspectiva de los datos generados en ellos, captados por cámaras durante la retransmisión. Es un poco como «ver el fútbol a lo Matrix»: un pase por aquí, un contraataque por allá, un penalti o un gol. Todo son colores y superficies onduladas en movimiento. Están todos los partidos hasta el momento, 100 en total, a los que se añadirán la final y el partido por el tercer y cuarto puesto de este próximo fin de semana. ¿Cómo se dibuja un Mundial entero a partir de datos? Cada encuentro se representa como una composición abstracta generada a partir de unos 1.500 eventos por partido, desde pases y controles hasta disparos a puerta, faltas y tarjetas, todo sin recurrir a imágenes de vídeo. Además hay sonido de acompañamiento según la intensidad del juego. Las superficies de colores indican en cierto modo la posesión del balón, un poco como la gráfica de «dominio por equipos» que muestra la realización de televisión en cada partido. El resultado es una colección de retratos de datos en la que cada partido tiene una «huella visual» propia. Del balón a los gráficos Los datos contemplados son básicamente: Pases: reflejan el ritmo y la circulación del balón. Disparos: muestran la intensidad ofensiva de cada equipo. Toques de balón: ayudan a reconstruir el desarrollo del encuentro. Tarjetas y faltas: aportan información sobre el nivel de interrupciones y dureza del partido. Eventos combinados: todos los datos se integran para generar una representación única de cada encuentro. El proyecto, creado por Alexander Bogachev, utiliza datos procedentes de FotMob y WhoScored. Es una manera curiosa de contemplar el torneo desde una perspectiva completamente distinta, donde patrones geométricos sustituyen a las imágenes televisivas y donde cada partido deja un retrato tan único como su desarrollo sobre el césped. Relacionados: Tecnología de seguimiento visual para analizar a los jugadores Tecnología para analizar a los jugadores en cada instante en la NBA Las matemáticas probabilísticas del mundial de fútbol Rusia 2018 El Telstar 18, el balón de fútbol del Mundial y su historia matemática Una galería de gráficas en React+D3.js para aprender sobre visualización de datos, con plantillas incluidas # Enlace permanente"
+  },
+  {
+    "titulo": "ACS y Ferrovial pujan por las obras millonarias del aeropuerto de Varsovia",
+    "medio": "Expansión",
+    "fecha": 1784243605.0,
+    "link": "https://www.expansion.com/empresas/inmobiliario/2026/07/17/6a594f79e5fdea013b8b458c.html",
+    "resumen": "Los dos grupos españoles participan en sendos consorcios que pujan por la primera sección de la alta velocidad y la construcción de una nueva terminal de pasajeros. Leer"
+  },
+  {
+    "titulo": "Las 'low cost' y petroleras revientan precios a Iberdrola, Endesa y Naturgy",
+    "medio": "Expansión",
+    "fecha": 1784243521.0,
+    "link": "https://www.expansion.com/empresas/energia/2026/07/17/6a594d07468aeb751b8b45a7.html",
+    "resumen": "Visalia, El Corte Inglés, Repsol, Total, ENI, Energya VM, Octopus y otra riada de pequeñas comercializadoras rompen el 'statu quo' de las grandes eléctricas con una lluvia de ofertas. Leer"
+  },
+  {
+    "titulo": "ING duplicará antes de fin de año su equipo de banqueros privados",
+    "medio": "Expansión",
+    "fecha": 1784243437.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html",
+    "resumen": "El banco, que acaba de acordar la compra del 40% de Singular Bank, busca alcanzar un equipo de 40 banqueros privados al comenzar 2027. Leer"
+  },
+  {
+    "titulo": "La banca gana un récord de 18.000 millones por el dinamismo comercial",
+    "medio": "Expansión",
+    "fecha": 1784243233.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/07/17/6a593fe6468aeba6138b457a.html",
+    "resumen": "Las ganancias conjuntas de los seis bancos cotizados habrían aumentado alrededor de un 5,5%. El sector tiene a tiro cerrar su quinto año récord consecutivo. Leer"
+  },
+  {
+    "titulo": "El Gobierno de Milei protesta ante el Reino Unido por la presencia de un buque militar británico en el mar argentino",
     "medio": "El País",
-    "fecha": 1784237532.0,
+    "fecha": 1784242891.0,
+    "link": "https://elpais.com/argentina/2026-07-16/el-gobierno-de-milei-protesta-ante-el-reino-unido-por-la-presencia-de-un-buque-militar-britanico-en-el-mar-argentino.html",
+    "resumen": "Después del triunfo del seleccionado albiceleste ante Inglaterra en el Mundial de Fútbol, la Casa Rosada difundió una queja formal presentada con anterioridad"
+  },
+  {
+    "titulo": "El incendio de Lozoyuela evoluciona favorablemente, pero sigue sin estar controlado: ya ha arrasado cerca de 70 hectáreas",
+    "medio": "HuffPost",
+    "fecha": 1784242572.0,
+    "link": "https://www.huffingtonpost.es/sociedad/el-incendio-lozoyuela-evoluciona-favorablemente-sigue-controlado-arrasado-cerca-70-hectareas-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Feijóo tras la exigencia de la JEC: «Teníamos razón al denunciar que la Ley de Nietos se estaba haciendo sin control»",
+    "medio": "OK Diario",
+    "fecha": 1784242492.0,
+    "link": "https://okdiario.com/espana/feijoo-exigencia-jec-teniamos-razon-denunciar-que-ley-nietos-estaba-haciendo-sin-control-19013009",
+    "resumen": "Alberto Núñez Feijóo, presidente del Partido Popular, ha defendido esta noche en Canarias que su partido acertó al exigir mayores controles y garantías en la aplicación de la Ley de Memoria Democrática, especialmente en el procedimiento para conceder la nacionalidad a descendientes de exiliados. «Teníamos razón al denunciar que la Ley de Nietos se estaba … Continuar leyendo \"Feijóo tras la exigencia de la JEC: «Teníamos razón al denunciar que la Ley de Nietos se estaba haciendo sin control»\""
+  },
+  {
+    "titulo": "El incendio de Lozoyuela evoluciona “favorablemente” después de calcinar cerca de 70 hectáreas al norte de Madrid",
+    "medio": "El País",
+    "fecha": 1784241145.0,
     "link": "https://elpais.com/espana/madrid/2026-07-16/un-incendio-forestal-obliga-a-activar-el-primer-nivel-de-emergencia-de-la-comunidad-de-madrid-en-el-municipio-de-lozoyuela.html",
     "resumen": "Evacuados 80 menores y 14 adultos de un campamento de Gandullas mientras el fuego mantiene cortada la salida 69 de la A-1 y diferentes tramos de las carreteras M-126, M-127 y M-135"
+  },
+  {
+    "titulo": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
+    "medio": "El País",
+    "fecha": 1784240977.0,
+    "link": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html",
+    "resumen": "El técnico, que trabajaba en la Casa Blanca, se embolsó casi 100.000 dólares por sus apuestas sobre las palabras que pronunciaba el presidente"
+  },
+  {
+    "titulo": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
+    "medio": "Xataka",
+    "fecha": 1784238527.0,
+    "link": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
+    "resumen": "Pensemos por un momento en cómo se movía el mercado tecnológico antes de noviembre de 2022. La inteligencia artificial ya estaba presente en buscadores, cámaras, recomendaciones y servicios digitales, pero todavía no era la etiqueta que las marcas trataban de colocar en cada producto ni el argumento alrededor del que giraban buena parte de sus presentaciones. La industria tenía otras prioridades visibles y repartía su atención entre múltiples frentes. Menos de cuatro años después, cuesta encontrar un gran fabricante o una plataforma que no haya reorganizado parte de su estrategia alrededor de la IA. Basta con observar hacia dónde está fluyendo el dinero para entender la magnitud de esta carrera. Las grandes tecnológicas destinan inversiones enormes a chips, servidores y centros de datos que se extienden por distintas partes del mundo, al tiempo que buscan asegurar la energía necesaria para mantenerlos en funcionamiento. Los gobiernos tampoco se limitan a observar: Estados Unidos y China apoyan el desarrollo de infraestructura y capacidad de computación como parte de una competencia económica y estratégica. En medio de esa aceleración, uno de sus principales protagonistas ha advertido que avanzamos más rápido de lo que comprendemos. La advertencia de quien está en primera línea de la carreraEl mensaje no llega desde fuera del sector. Demis Hassabis es cofundador y consejero delegado de Google DeepMind, uno de los laboratorios que impulsan el desarrollo de los sistemas de inteligencia artificial más avanzados. Bajo su dirección surgieron proyectos como AlphaGo, que derrotó a un campeón mundial de Go, y AlphaFold, capaz de predecir estructuras de proteínas. En 2024, Hassabis y John Jumper recibieron conjuntamente la mitad del Premio Nobel de Química por sus trabajos sobre predicción de estructuras proteicas. Sus palabras tienen peso precisamente por esa doble condición: ayuda a construir esta tecnología y, al mismo tiempo, pide mecanismos para contener sus riesgos. Parte del texto publicado por Demis Hassabis en X | Pulsa para ver el mensaje completo Hassabis parte de una convicción que ayuda a entender la urgencia de su propuesta: cree que la inteligencia artificial general (AGI, por sus siglas en inglés), definida en su texto como un sistema capaz de exhibir todas las capacidades cognitivas del cerebro humano, podría llegar en apenas unos años. No lo presenta como una certeza, sino como una posibilidad cercana que obligaría a prepararnos antes de que la tecnología alcance ese punto. Su preocupación abarca la ciberseguridad, posibles riesgos biológicos y nucleares y, más adelante, sistemas cada vez más autónomos, capaces de actuar con menor supervisión y de mejorar sus propias capacidades. En un extenso artículo publicado en X, el directivo intenta sostener dos ideas al mismo tiempo. La inteligencia artificial puede convertirse en una herramienta extraordinaria para la ciencia, la medicina y la economía, pero ese potencial no elimina la necesidad de establecer controles y mecanismos de supervisión. Tampoco propone esperar a que aparezca una amenaza concreta para reaccionar, porque entonces las medidas podrían llegar demasiado tarde. Antes de detallar qué organismo y qué evaluaciones considera necesarios, expone el diagnóstico que sirve de base a toda su propuesta: \"En estos momentos estamos atrapados en una carrera comercial y geopolítica extremadamente intensa que se desarrolla en varios niveles. Aunque estas dinámicas competitivas impulsan rápidos avances y aceleran sus extraordinarios beneficios, los progresos en la frontera de la IA están superando nuestra comprensión de la tecnología. Nadie en el mundo sabe con certeza qué va a ocurrir a partir de ahora, y ni siquiera los expertos están de acuerdo. Cuando existe un grado tan elevado de incertidumbre y hay tanto en juego, avanzar con un optimismo prudente es la estrategia sensata y correcta\".La respuesta que plantea pasa por crear en Estados Unidos un organismo especializado en evaluar los modelos de inteligencia artificial más avanzados. Su propuesta toma como referencia una asociación público-privada o una entidad autorregulada con supervisión federal, dirigida por una junta en la que también participarían especialistas independientes y representantes del ecosistema de código abierto. Esta institución definiría qué umbrales convierten a un sistema en un modelo de frontera y diseñaría evaluaciones sobre ciberseguridad, amenazas biológicas y otros ámbitos de alto riesgo, además de pruebas para detectar intentos de eludir salvaguardas o señales de engaño. En una primera etapa, los laboratorios compartirían voluntariamente sus modelos hasta 30 días antes de lanzarlos. La cooperación inicial podría transformarse después en un requisito obligatorio. Una vez validado el protocolo, cualquier modelo considerado de frontera tendría que aprobar la evaluación antes de llegar al mercado de Estados Unidos. Las pruebas se revisarían periódicamente para sustituir aquellas que quedaran desfasadas y para medir nuevas capacidades, mientras auditores independientes ayudarían a ampliar el sistema de control. El planteamiento llega incluso más lejos: si la gravedad de los riesgos lo justificara, el marco podría utilizarse para coordinar una ralentización del desarrollo entre los principales laboratorios. En Xataka La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse La inquietud no es exclusiva de Hassabis. Geoffrey Hinton ha reconocido que no sabemos si podremos conservar el control de sistemas más inteligentes que nosotros, mientras Yoshua Bengio reclama más investigación y mecanismos específicos para supervisarlos. En 2023, Elon Musk firmó además una carta abierta que pedía pausar durante al menos seis meses el entrenamiento de sistemas de IA más potentes que GPT-4, aunque unos meses después anunció xAI y pasó a competir directamente en este mercado. Muchas de estas voces coinciden en pedir cautela, pero no existe consenso sobre la probabilidad de que lleguemos a perder el control. La historia de la inteligencia artificial todavía no tiene un desenlace escrito, aunque sus primeros efectos ya hayan cambiado nuestra relación con la tecnología y las decisiones de quienes la desarrollan. Queda por ver si el organismo que propone Hassabis tendría cabida, si sus evaluaciones serían realmente eficaces y si los laboratorios y los gobiernos aceptarían someterse a ellas cuando entraran en conflicto con sus propios intereses. También puede ocurrir que algunos de los riesgos que plantea estén sobredimensionados o no lleguen a materializarse. Por ahora, su propuesta añade una hoja de ruta concreta a una discusión en la que todavía abundan más las incógnitas que las certezas. Imágenes | Google En Xataka | Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic - La noticia “Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Cerezo se lía al sentenciar el futuro de Julián Álvarez: “Julián López es jugador del Atlético”",
+    "medio": "OK Diario",
+    "fecha": 1784237833.0,
+    "link": "https://okdiario.com/deportes/cerezo-lia-sentenciar-futuro-julian-alvarez-julian-lopez-jugador-del-atletico-19012811",
+    "resumen": "Enrique Cerezo ha tenido un pequeño despiste al hablar del futuro de Julián Álvarez, al que ha llamado Julián López. Más allá de la confusión, el mensaje del presidente ha sido muy claro: «Es jugador del Atlético de Madrid y será jugador del Atlético de Madrid». El delantero fue muy contundente durante el Mundial y … Continuar leyendo \"Cerezo se lía al sentenciar el futuro de Julián Álvarez: “Julián López es jugador del Atlético”\""
   },
   {
     "titulo": "Evacuados 80 niños en un campamento de Gandullas debido al incendio en Lozoyuela",
@@ -245,20 +322,6 @@
     "resumen": "La Administración Federal de Aviación señala que helicópteros son especialmente vulnerables a estos impactos al volar a baja altitud Leer"
   },
   {
-    "titulo": "El turismo nacional gana fuerza este verano: Granada, Sevilla y Córdoba a la cabeza en reservas",
-    "medio": "OK Diario",
-    "fecha": 1784230505.0,
-    "link": "https://okdiario.com/cultura/turismo-nacional-gana-fuerza-este-verano-granada-sevilla-cordoba-cabeza-reservas-19012531",
-    "resumen": "El turismo nacional vuelve a posicionarse como uno de los grandes protagonistas del verano. Aunque la intención de viajar de los españoles desciende ligeramente respecto al año pasado, el 89% mantiene sus planes de realizar al menos un viaje durante las vacaciones estivales, según el último informe de ObservaTUR. En este escenario, los datos de … Continuar leyendo \"El turismo nacional gana fuerza este verano: Granada, Sevilla y Córdoba a la cabeza en reservas\""
-  },
-  {
-    "titulo": "Trump recibe a Bukele en la Casa Blanca para estrechar la cooperación migratoria y de seguridad",
-    "medio": "El País",
-    "fecha": 1784230485.0,
-    "link": "https://elpais.com/internacional/2026-07-16/trump-recibe-a-bukele-en-la-casa-blanca-para-estrechar-la-cooperacion-migratoria-y-de-seguridad.html",
-    "resumen": "La segunda visita del presidente de El Salvador al Despacho Oval se produce días después de que obtuviera el aval para un tercer mandato"
-  },
-  {
     "titulo": "Starlink tiene un problema: su antena residencial es grande y gastona. La nueva generación llega para corregirlo",
     "medio": "Xataka",
     "fecha": 1784230315.0,
@@ -271,13 +334,6 @@
     "fecha": 1784230260.0,
     "link": "https://www.elespanol.com/loterias/20260716/loteria-nacional-hoy-comprobar-resultados-sorteo-jueves-16-julio-directo/1003744324201_10.html",
     "resumen": "Comprueba todos los resultados y números premiados con 30.000 euros de la Lotería Nacional de este jueves, 16 de julio de 2026 en EL ESPAÑOL.👉 Comprobar resultado del sorteo del Gordo de la Primitiva del domingo 12 de julio."
-  },
-  {
-    "titulo": "Provoca a los clientes de un local de tacos en la calle Aragón de Palma y acaba apaleado tras una pelea",
-    "medio": "OK Diario",
-    "fecha": 1784230251.0,
-    "link": "https://okdiario.com/baleares/provoca-clientes-local-tacos-calle-aragon-palma-acaba-apaleado-pelea-19012381",
-    "resumen": "Fue de valiente y acabó con el rabo entre las piernas y el rostro ensangrentado. Un altercado registrado a última hora de la tarde de este jueves frente a un establecimiento de tacos situado en la calle Aragón de Palma, justo enfrente de El Corte Inglés de Avenidas, se saldó con un hombre ensangrentado tras … Continuar leyendo \"Provoca a los clientes de un local de tacos en la calle Aragón de Palma y acaba apaleado tras una pelea\""
   },
   {
     "titulo": "Marine, fundadora de una empresa de asistentes privados: \"Es más que un trabajo de supervivencia. Es tiempo devuelto a alguien. Tiempo para trabajar, para vivir, para respirar\"",
@@ -378,13 +434,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
-    "medio": "Expansión",
-    "fecha": 1784227407.0,
-    "link": "https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html",
-    "resumen": "Estados Unidos impone una tasa sobre el grueso de las importaciones procedentes de Brasil, cuyo gobierno denuncia motivación \"política\" y anuncia la activación de la ley de reciprocidad. Leer"
-  },
-  {
     "titulo": "Una bandada de aves habría causado el mortal accidente de helicóptero de la familia catalana",
     "medio": "La Vanguardia",
     "fecha": 1784227221.0,
@@ -438,7 +487,7 @@
     "medio": "eldiario.es",
     "fecha": 1784225364.0,
     "link": "https://www.eldiario.es/mundial-2026/casa-blanca-no-apoya-trump-final-mundial_1_13386577.html",
-    "resumen": "La secretaria de Prensa de la Casa Blanca, Karoline Leavitt, ha dicho no saber si el presidente de EEUU apoya a la Argetina de su aliado Javier Milei o a España, con cuyo gobierno tiene un enfrentamiento abierto por el gasto militar y la guerra en Irán ¿Trump va con Argentina o España? La Casa Blanca contesta, pero no sabe. “El presidente Trump ha tenido palabras duras para España la semana pasada en la cumbre de la OTAN respecto al gasti militar. ¿Significa eso que apoyará a Argentina?”, ha preguntado un periodista este jueves en la rueda de prensa de la secretaria de Prensa de la Casa Blanca, Karoline Leavitt, ha respondido: “Es una pregunta muy buena, y me arrepiendo de no habérselo preguntado al presidente antes de venir aquí; sabiendo que probablemente lo preguntarías... No he hablado sobre el tema, pero conseguiremos una respuesta. Puedes preguntárselo tú mismo en algún momento antes del partido. Estoy seguro de que lo verás y de que tendrá una respuesta divertida para ti al respecto”. En efecto, mientras que con Javier Milei el presidente de EEUU mantiene una alianza política estrecha como integrantes de una Internacional reaccionaria que busca el avance de la agenda ultra en el mundo. Prueba de ello fue el rescate económico de Trump a Argentina condicionado a la victoria de Milei en las elecciones legislativas, y también que Argentina se alinea siempre en todos los foros internacionales, ya sea Davos o Naciones Unidas, del lado de la Administración Trump. Por el contrario, Trump lleva insultando al Gobierno español desde la cumbre de la OTAN de La Haya, de 2025, a cuenta del porcentaje del PIB destinado a gasto en defensa, a lo que se suman diferencias políticas fundamentales en asuntos clave para la Casa Blanca, como la relación con Israel, la guerra en Irán, la represión migratoria y el negacionaismo climático."
+    "resumen": "La secretaria de Prensa de la Casa Blanca, Karoline Leavitt, ha dicho no saber si el presidente de EEUU apoya a la Argentina de su aliado Javier Milei o a España, con cuyo gobierno tiene un enfrentamiento abierto por el gasto militar y la guerra en Irán ¿Trump va con Argentina o España? La Casa Blanca contesta, pero no sabe. “El presidente Trump ha tenido palabras duras para España la semana pasada en la cumbre de la OTAN respecto al gasto militar. ¿Significa eso que apoyará a Argentina?”, ha preguntado un periodista este jueves en la rueda de prensa de la secretaria de Prensa de la Casa Blanca, Karoline Leavitt, ha respondido: “Es una pregunta muy buena, y me arrepiendo de no habérselo preguntado al presidente antes de venir aquí; sabiendo que probablemente lo preguntarías... No he hablado sobre el tema, pero conseguiremos una respuesta. Puedes preguntárselo tú mismo en algún momento antes del partido. Estoy seguro de que lo verás y de que tendrá una respuesta divertida para ti al respecto”. En efecto, mientras que con Javier Milei el presidente de EEUU mantiene una alianza política estrecha como integrantes de una Internacional reaccionaria que busca el avance de la agenda ultra en el mundo. Prueba de ello fue el rescate económico de Trump a Argentina condicionado a la victoria de Milei en las elecciones legislativas, y también que Argentina se alinea siempre en todos los foros internacionales, ya sea Davos o Naciones Unidas, del lado de la Administración Trump. Por el contrario, Trump lleva insultando al Gobierno español desde la cumbre de la OTAN de La Haya, de 2025, a cuenta del porcentaje del PIB destinado a gasto en defensa, a lo que se suman diferencias políticas fundamentales en asuntos clave para la Casa Blanca, como la relación con Israel, la guerra en Irán, la represión migratoria y el negacionaismo climático. Leavitt también ha confirmado que Trump viajará a Nueva York “para asistir a una recepción de la FIFA en la Torre Trump, seguida de su asistencia el domingo a la final del Mundial entre España y Argentina”, y ha añadido: “Su asistencia pondrá el broche de oro a la Copa Mundial más vista, más segura y más exitosa en la historia de Estados Unidos. Esta es una conclusión apropiada para un torneo que demostró la capacidad de Estados Unidos para ser sede del mundo en el escenario más grandioso”."
   },
   {
     "titulo": "Jazz San Javier unirá el piano de Luca Filastro, la voz de Lara Ferrari y el groove retro de Young Gun Silver Fox",
@@ -452,7 +501,7 @@
     "medio": "La Vanguardia",
     "fecha": 1784224985.0,
     "link": "https://www.lavanguardia.com/local/madrid/20260716/11594081/confinamiento-2-municipios-urbanizacion-desalojada-fuego-lozoyuela-madrid.html",
-    "resumen": "Se activa la Situación Operativa 2 del Plan INFOMA por el incendio que afecta a la localidad de Buitrago de Lozoya y las pedanías de Cinco Villas y Manjirón"
+    "resumen": "Una persona ha sido detenida como presunto responsable de haber iniciado el incendio"
   },
   {
     "titulo": "Pensamos que el ventilador nos salva del calor, pero a partir de los 35 grados logra exactamente el efecto contrario",
@@ -467,13 +516,6 @@
     "fecha": 1784224915.0,
     "link": "https://www.trendencias.com/belleza/alba-gomez-dermatologa-no-lavamos-correctamente-cuero-cabelludo-se-puede-generar-capa-residuo-que-va-aumentando-grosor-puede-producir-picor",
     "resumen": "Los buenos hábitos de higiene personal son esenciales para cuidarnos tanto por dentro como por fuera. A la hora de establecer ciertas rutinas, no hay dudas sobre la importancia de una ducha diaria, así como de la necesidad de lavarnos los dientes tras cada comida, pero cuando se trata de la frecuencia con la que debemos lavar nuestro pelo para mantener a raya la grasa, no está tan claro el límite recomendado. Ante la duda sobre cada cuánto tiempo debemos larnos el pelo, hemos decidido recurrir a la ayuda de especialistas. La doctora Alba Gómez Zubiaur, directora de la Unidad Capilar del Instituto Médico Ricart, dermatóloga especialista en trícología y trasplante capilar, ha especificado que es necesario adecuar los lavados a cada persona y a su momento vital: \"la frecuencia de lavado vendrá determinada por factores como la producción de grasa, de sudor o la exposición a agentes que ensucien el cuero cabelludo o la fibra capilar, como la contaminación o determinados productos cosméticos capilares.\" Seguidamente Alba Gómez ha querido recalcar los factores que pueden alterar la frecuencia de este hábito: \"la producción de grasa se modifica según la etapa vital, siendo menor a partir de la menopausia, por lo que en este momento, requeriremos un menor lavado. También puede modificarse según el momento del ciclo menstrual.\" La dermatóloga también ha señalado la importancia de la época del año, así como la frecuencia de nuestra actividad deportiva, puesto que la producción de sudor va a depender de la temperatura y del ejercicio: \"quizás en los meses de verano o si hacemos deporte de forma diaria, será necesaria una mayor frecuencia de lavados\", explica Alba. Establecer un número exacto de días para lavarnos el pelo resulta un tanto arriesgado: \"si detectamos nuestro cabello o cuero cabelludo con residuo, descamación, sudor o excesiva grasa, lo correcto será lavarlo, y esto marcará nuestra frecuencia.\", indica la dermatóloga. \"Por supuesto, una fibra con seborrea (grasa) requerirá más lavados que una fibra seca\", admite Alba Gómez, pero a su vez explica que el hecho de que nuestra fibra requiera muy poco lavado por la baja producción de grasa, no debe ser una razón para dejar el cuero cabelludo sin la limpieza adecuada que le ayude a retirar los restos de polución, descamación procedente de la renovación cutánea o residuos de los productos cosméticos capilares. Es importante tener una rutina de lavado de pelo ya que como advierte la dermatóloga: \"si no lavamos la piel del cuero cabelludo, se puede generar una descamación y residuo acumulado sobre la misma, con una capa de suciedad que va aumentando en grosor y puede acabar generando problemas como enrojecimiento o picor del cuero cabelludo.\" A su vez Alba Gómez insiste en que: \"no hay que tener miedo al lavado y asociarlo a una mayor caída capilar, debemos realizarlo las veces que consideremos necesarias.\" Fotos | Instituto Médico Ricart, Karolina Grabowska en Pexels En Trendencias | Héctor Núñez, farmacéutico: \"El agua fría no sella la fibra capilar ni mejora el brillo, solo deja residuos en el pelo y por eso se ve brillante\" - La noticia Alba Gómez, dermatóloga: \"Si no lavamos correctamente el cuero cabelludo, se puede generar una capa de residuo que va aumentando en grosor y puede producir picor\" fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "La sintonía del Mundial 2026 que suena antes de cada partido lo compuso un desconocido de Brooklyn: ya escribió el de Qatar 2022 sin que nadie supiera su nombre",
-    "medio": "HuffPost",
-    "fecha": 1784224800.0,
-    "link": "https://www.huffingtonpost.es/sociedad/la-sintonia-mundial-2026-suena-partido-compuso-desconocido-brooklyn-escribio-qatar-2022-nadie-supiera-nombre-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "Adiós NotebookLM: Google cambia el nombre de una sus herramientas de IA más populares",
@@ -502,20 +544,6 @@
     "fecha": 1784223115.0,
     "link": "https://www.trendencias.com/otros/esta-cancion-rock-1987-unico-exito-numero-uno-iconica-banda-sigue-siendo-clasico-39-anos-despues",
     "resumen": "Pocas canciones de hard rock han logrado mantenerse tan vigentes después de conquistar el número uno del Billboard Hot 100 hace 39 años: sin embargo, el mayor éxito de Whitesnake continúa sonando en la radio, el cine, las plataformas de streaming y las listas de reproducción de varias generaciones. Lo que comenzó como una canción nacida de un momento difícil para David Coverdale terminó convirtiéndose en el himno que cambió la historia de la banda y en una de las composiciones más reconocibles de los años ochenta. Una canción que necesitó una segunda oportunidad Aunque la mayoría del público la asocia con 1987, \"Here I Go Again\" había visto la luz cinco años antes en el álbum 'Saints & Sinners'. Escrita por David Coverdale junto al guitarrista Bernie Marsden a finales de 1981, la canción reflejaba el difícil proceso de separación del primer matrimonio del cantante. El propio Coverdale ha explicado en varias ocasiones que tanto este tema como 'Crying in the Rain' nacieron de esa misma etapa personal, algo que marcó el tono introspectivo de la letra. La primera versión solo alcanzó el puesto 34 en Reino Unido y nunca llegó a publicarse como sencillo en Estados Unidos, por lo que pocos imaginaban el recorrido que tendría después. Todo cambió cuando Geffen Records pidió a Coverdale que recuperara algunas canciones antiguas para el álbum homónimo de Whitesnake de 1987. Aunque el cantante no estaba convencido de volver a grabarla, aceptó hacerlo con la condición de revisar también 'Crying in the Rain'. La nueva producción apostó por un sonido mucho más grande y orientado al rock de estadios que dominaba MTV y la radio estadounidense en aquella época. También introdujo pequeños cambios que terminaron siendo decisivos, como sustituir la palabra \"hobo\" por \"drifter\" en el estribillo y lanzar posteriormente una edición para radio con un arreglo diferente que acabaría siendo la versión más conocida. El resultado fue inmediato: en octubre de 1987, \"Here I Go Again\" alcanzó el número uno del Billboard Hot 100, convirtiéndose en el único sencillo de Whitesnake que ha logrado liderar esa clasificación. También llegó al primer puesto en Canadá, entró en el Top 10 de varios países y ayudó a impulsar las ventas del álbum 'Whitesnake', que superó los ocho millones de copias vendidas solo en Estados Unidos y transformó al grupo británico en una auténtica referencia mundial del hard rock. Un himno que sigue encontrando nuevas generacionesLa popularidad de la canción no terminó con los años ochenta. En 2018 recibió el BMI 5 Million Performances Award y, en 2024, el BMI 9 Million Air Award, un reconocimiento reservado para las obras que han superado los nueve millones de emisiones en radio y televisión, además, su presencia constante en películas, anuncios y plataformas digitales ha permitido que el tema siga descubriéndose décadas después de su lanzamiento. Una parte importante de ese legado también está ligada a su inolvidable videoclip protagonizado por Tawny Kitaen, cuyas escenas sobre dos Jaguar deportivos se convirtieron en una de las imágenes más representativas de MTV. Tras el fallecimiento de la actriz en 2021, el interés por la canción volvió a crecer y The New York Times incluyó el vídeo entre los quince esenciales del hair metal. Mientras tanto, Adrian Vandenberg ha recordado recientemente que grabó el famoso solo prácticamente en un solo día y ahora prepara una gira dedicada a su etapa con Whitesnake, mientras David Coverdale, retirado desde 2025, observa cómo la canción más importante de su carrera sigue escribiendo nuevos capítulos décadas después de haber sido compuesta. Fotos de iHeart | Whitesnake TV En Trendencias | Fue elegida la mejor canción de los setenta: una verdadera obra maestra atemporal En Xataka | Los expertos coinciden: \"Ni nadar ni caminar, a partir de los 50 años es absolutamente necesario hacer musculación\" En Trendencias | Héctor Núñez, farmacéutico: \"El agua fría no sella la fibra capilar ni mejora el brillo, solo deja residuos en el pelo y por eso se ve brillante\" - La noticia Esta canción de rock de 1987, el único éxito número uno de la icónica banda, sigue siendo un clásico 39 años después fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "Sandra Ortega invierte 300 millones en oficinas y un hotel",
-    "medio": "Expansión",
-    "fecha": 1784222226.0,
-    "link": "https://www.expansion.com/inmobiliario/mercado/2026/07/16/6a591181468aeb751b8b4599.html",
-    "resumen": "La segunda accionista de Inditex (5,05%) aumenta sus activos Múnich y Londres, donde compró el Radisson Blu Hotel. Leer"
-  },
-  {
-    "titulo": "Las renovadas tensiones en el estrecho de Ormuz aumentan las probabilidades de un invierno caro",
-    "medio": "Expansión",
-    "fecha": 1784222201.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/07/16/6a5911ba468aeb13038b45bb.html",
-    "resumen": "Asia y Europa terminarían compitiendo por los cargamentos de GNL durante su estación fría si el mercado se queda sin suministro, lo que haría subir los precios. Leer"
   },
   {
     "titulo": "Ya es oficial: así es el nuevo Motorola Edge 70 Max, un móvil con 7.100 mAh que promete hasta 73 horas de autonomía por carga",
@@ -600,20 +628,6 @@
     "fecha": 1784220768.0,
     "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260716/11594056/lola-garcia-hay-motivos-pensar-constitucional-frene-amnistia-puigdemont.html",
     "resumen": "La directora adjunta de La Vanguardia considera que la sentencia del TJUE refuerza plenamente la ley de amnistía, aunque el regreso del expresident aún dependerá de los tiempos y decisiones de la justicia española"
-  },
-  {
-    "titulo": "Ganar más de 600.000 euros al año parecía una rareza en España. Hacienda ha contado ya casi 19.000 casos",
-    "medio": "Xataka",
-    "fecha": 1784220355.0,
-    "link": "https://www.xataka.com/empresas-y-economia/ganar-600-000-euros-al-ano-parecia-rareza-espana-hacienda-ha-contado-casi-19-000-casos",
-    "resumen": "Hace veinte años, cruzarte con alguien que ganara más de 600.000 euros al año era como las meigas de Galicia: haberlas haylas, pero es difícil encontrarlas. Ese exclusivo club existía, pero sus miembros cabían en un autobús urbano. Hoy ya se necesitan unos cuantos. Según datos facilitados por la Agencia Tributaria sobre los rangos salariales de los contribuyentes en España, las rentas más altas crecen mucho más rápido que el resto de sueldos. El salto que rompe la serie histórica. Según los datos consolidados de 2024, 18.829 contribuyentes declararon ingresos del trabajo por encima de los 601.000 euros anuales. Esta cifra supone un salto del 27,8% en un solo año, y es la cifra más alta desde que existe el histórico de esta serie. Aunque casi 19.000 personas cobrando ese salario anual puede parecer una buena cifra, basta ponerlo en contexto para determinar que apenas representan el 0,08% de los casi 25 millones de declaraciones presentadas ese ejercicio. Desde 2007, cuando estalló la crisis financiera, este grupo ha pasado de 10.580 personas a las casi 19.000 actuales. Es un aumento cercano al 78% en menos de dos décadas. En Xataka Si la pregunta es cuánto tarda un trabajador en cobrar lo mismo que su jefe en un año, Oxfam tiene la respuesta: casi 100 años Madrid, el imán de las grandes rentas. Si algo confirma esta estadística de Hacienda es que la riqueza no se reparte igual entre territorios. 8.278 de esos 18.829 contribuyentes, vive en la Comunidad de Madrid. Le sigue Cataluña, y en concreto Barcelona, con 4.040 contribuyentes con un salario de más de 601.000 euros al año. Estas cifras superan por mucho a las que ofrecen Andalucía, la Comunidad Valenciana o Galicia que son las siguientes en número de asalariados en el percentil más alto. Esa concentración tiene explicación más allá de la ubicación de la sede de las grandes empresas. Tal y como destacaban en la consultoría fiscal TaxDown, Madrid mantiene, con diferencia, los tipos más bajos de IRPF autonómico de España. Su tipo máximo agregado llega al 43,5%, frente al 54% que puede pagarse en Cataluña o Valencia. A eso se suma un Impuesto de Patrimonio prácticamente anulado desde hace años. Esa combinación de rebajas fiscales ha sido señalada como un caso claro de competencia fiscal entre comunidades (dumping), que ayuda a atraer grandes patrimonios de otras regiones. El resto de la pirámide fiscal. Conviene no perder de vista en qué rangos salariales se ubican realmente la mayoría de los trabajadores en España. El tramo más numeroso sigue siendo el de quienes ganan entre 30.000 y 60.000 euros al año, concentrando 5,8 millones de personas, el 23,5% del total de declarantes. Justo detrás están los rangos inmediatamente inferiores, los que cobran entre 21.000 y 30.000 euros (4,6 millones) y entre 12.000 y 21.000 euros (4 millones). Son los tramos salariales que, en la práctica, sostienen el grueso de la recaudación por rendimientos salariales del país. Aunque no represente una subida tan espectacular como la de los asalariados del rango por encima de los 601.000 euros anuales, también destaca el crecimiento en el número de contribuyentes del rango comprendido entre los 150.000 euros anuales y los 600.000 euros. Este grupo está formado por 194.681 contribuyentes que representa el 0,79% del total, pero que ha experimentado una subida del 20,9% en tan solo un año. Soplan vientos de cambio entre los grandes millonarios españoles, pero hay algo que no cambia: Amancio Ortega está solo Acción, reacción. Este repunte de las rentas altas explica algunos datos que hasta ahora parecían inconexos. Según datos del \"Informe mundial de la riqueza 2026\" elaborado por Capgemini, el número de grandes patrimonios en el país también se ha incrementado un 5,3% en el último año. Es decir, que según los datos de ese informe, los 13.100 nuevos millonarios que sumaba España, podrían ser los mismos que durante los últimos años se han ido sumando al rango salarial más alto registrado por Hacienda. En Xataka | \"Soy millonario y no sé qué hacer con mi vida\": un millonario está buscando ideas porque el dinero no le ha dado la felicidad Imagen | Unsplash (Ru Dur, Mads Eneqvist) - La noticia Ganar más de 600.000 euros al año parecía una rareza en España. Hacienda ha contado ya casi 19.000 casos fue publicada originalmente en Xataka por Rubén Andrés ."
-  },
-  {
-    "titulo": "La 'start up' de IA china Moonshot lanzará un modelo capaz de desafiar el liderazgo de Anthropic",
-    "medio": "Expansión",
-    "fecha": 1784220021.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/07/16/6a590958468aeb00258b4572.html",
-    "resumen": "Se espera que Kimi K3 supere el rendimiento de Claude Opus 4.8, en una señal de que la brecha entre Estados Unidos y China en la IA de frontera se está reduciendo. Leer"
   },
   {
     "titulo": "Junts, ERC, Comuns, PSC y la CUP celebran el fallo del TJUE y exigen aplicar la Ley de Amnistía",
@@ -1076,13 +1090,6 @@
     "fecha": 1783927766.0,
     "link": "https://yorokobu.es/sabek-y-luce/",
     "resumen": "Una calavera sostiene una veintena de joyas dentales. Pero solo durante unos minutos. Después, cada una de ellas acaba en la boca de una persona distinta. La Zowi, Jedet, Dei V o Piro son algunos de los veinte participantes que portan los grillz creados por LUCE e intervenidos por el artista Sabek. La exposición deja entonces de concentrarse en un único espacio para repartirse entre veinte sonrisas. «Me interesaba salir de la idea de la obra como algo estático o encerrado en una pared», explica Sabek. «Cada grillz funciona como una célula de un mismo organismo. La obra cambia según La entrada La boca como lienzo: De cómo Sabek convirtió una sonrisa en una exposición itinerante se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "Las anti-tipografías, un concepto interesante acerca de la lucha por la privacidad y contra la IA",
-    "medio": "Microsiervos",
-    "fecha": 1783863388.0,
-    "link": "http://www.microsiervos.com/archivo/arte-y-diseno/anti-tipografias-zxx-ghost.html",
-    "resumen": "Encontré algunas referencias a un par de tipografías, o más bien anti-tipografías, realmente curiosas más que nada por los conceptos, porque por la practicidad no sé yo. Una se utiliza para concienciarse sobre la privacidad, la otra para luchar contra las IA que son capaces de «leerlo todo». Digamos que son sólo para humanos. ZXX. Objetivo: dificultar la tarea a los OCR ZXX es una idea del diseñador Sang Mun, que la publicó en 2012. Está concebida para dificultar el trabajo del software de reconocimiento óptico de caracteres (OCR). El texto es legible para los humanos aunque para los algoritmos es difícil de interpretar. Al menos para los de hace una década; ahora quizá ya no tanto. La familia ZXX incluye cuatro estilos distintos (ZXX Camo, ZXX Noise, ZXX X’ed y ZXX False) que aprovechan diferentes diferentes debilidades de los OCR. Lo que hacen es añadir al texto manchas, ruido visual, cruces o directamente caracteres falsos. Los modelos de lenguaje de la IA actual pueden reconocer algunas de estas limitaciones y evitarlas, dependiendo del tiempo que se dedique y la versión que se use: tal vez ChatGPT gratuito no lea bien el texto, pero la versión Pro más avanzada, Claude o Gemini puede que no tengan tanto problema. Ghost Font: letras en movimiento Tu navegador no puede reproducir este vídeo. La idea otra idea es más de los tiempos actuales. Se trata de una tipografía que abandona las ideas preconcebidas y codifica el mensaje en movimiento de los píxeles en forma de «puntos grandes» dentro de un vídeo. Además de eso, añade un mensaje señuelo para engañar a los modelos de IA. Este experimento de Mixfont produce un vídeo MPEG4 en vez de un archivo tipográfico, así que tampoco es que sirva para maquetar un documento, pero sí para un rótulo, un CAPTCHA o una portada. Si se hace una captura estática no se aprecia ningún texto, y son el «ojo humano» y nuestro imperfecto sistema de visión los que descifran el mensaje. Es prácticamente una ilusión óptica de esas que nos gustan tanto por aquí. Los autores dicen que con acceso al código fuente una IA potente puede descifrarlo, pero seguramente ni merezca la pena planteárselo. En fin, me han parecido un par de curiosidades la mar de llamativas sobre el maravilloso mundo de las tipografías raras, raras, raras. Relacionados: Cómo se pueden usar los rasgos de las tipografías para ocultar mensajes Millitext, la tipografía inconcebible de un píxel de ancho Más tipografías para escribir código y que resulte legible y elegante Fuentes tipográficas gratuitas adecuadas para programar y trabajar Una ilusión visual especialmente potente y alucinógena Una ilusión óptica que causa «alucinación visual» # Enlace permanente"
   },
   {
     "titulo": "Manual para estirar un verano",
