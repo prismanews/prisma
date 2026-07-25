@@ -1,31 +1,395 @@
 [
   {
-    "titulo": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
+    "titulo": "Aquarium: un sudoku sin números donde mandan la gravedad y el nivel del agua",
     "medio": "Microsiervos",
-    "fecha": 1784995200.0,
-    "link": "http://www.microsiervos.com/archivo/espacio/incendios-forestales-evacuar-estrack-esa-cebreros-dsn-nasa-robledo-chavela.html",
-    "resumen": "Llamas en las proximidades de la estación de la DSN de Robledo de Chavela – vía Ignacio Villaverde [Anotación en actualización] Los incendios forestales que están arrasando las provincias de Ávila y de Madrid obligaron a la Agencia Espacial Europea (ESA) y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela. Esto ocurrió el viernes 24 de julio. Para el sábado 25 de julio la ESA emitía un comunicado en el que dice que aunque sigue sin poder acceder a Cebreros todo indica que la estación no ha sufrido daños. Pero el mismo comunicado dice que, por el contrario, la estación de la NASA sí parece haberlos sufrido aunque afotrunadamente sin que haya afectado a las antenas. La estación de Cebreros de la ESA alberga parte de las antenas de ESTRACK, la red de seguimiento de misiones de la agencia; la de Robledo de Chavela, por su parte, es una de las tres que forman la Red de espacio profundo (DSN) de la NASA, que cumple una función similar. Al ser las dos redes repartidas por todo el mundo el que Cebreros y Robledo de Chavela estén fuera de servicio se puede compensar utilizando las otras estaciones. Sólo que hay unas horas cada día en las que algunas misiones pueden no estar en contacto con el control de la misión al quedar fuera de la zona de cobertura de las otras estaciones. Claro que lo ideal sería que pudieran volver a entrar en servicio lo antes posible. # Enlace permanente"
+    "fecha": 1785003786.0,
+    "link": "http://www.microsiervos.com/archivo/puzzles-y-rubik/aquarium-sudoku-gravedad-nivel-agua.html",
+    "resumen": "Me ha parecido bastante ingenioso Aquarium, un puzle de la gran colección de Puzzle Lair que combina la lógica de los sudokus con un toque de gravedad y el comportamiento del agua. Es sencillo y tiene varios niveles de dificultad. El funcionamiento es sencillo: cada fila y columna tiene un número, que indica cuántas casillas deben contener «agua». Pero el agua va en «recipientes» (regiones) de los que no puede salir. Y, además de eso, dentro de cada región debe comportarse según la ley de la gravedad: el agua pesa y cae hacia abajo. Eso sí, el agua siempre ha de formar un nivel «recto», de modo que un recipiente que tenga en su parte de abajo dos o tres casillas debe tenerlas todas rellenas (o ninguna) pero no puede contener una o dos. En cierto modo es como los nonogramas de los que salen dibujos, solo que las casillas que hay que rellenar deben estar en las regiones marcadas donde la gravedad hace su papel. El juego ofrece tres niveles de dificultad: un tablero de 6×6 con 7 acuarios, otro de 10×10 con 16 acuarios y un tercero de 15×15 con 32 acuarios. Con unas pocas reglas, como en todos los buenos juegos, Aquarium consigue un equilibrio curioso entre un sudoku y un puzle de deducción a partir de un «simulador de la gravedad» que sólo está en la cabeza de quien lo resuelve. Además de un puzle nuevo cada día, Puzzle Lair incluye clasificaciones, logros, perfiles de usuario y una guía de resolución para quienes quieran perfeccionar su técnica. Relacionados: Nonogramas: lógica y números con dibujos como resultado ¡Dios mío, está lleno de sudokus y todas sus variantes! Rascacielos como sudokus: un juego de pura lógica Variantes del Sudoku: 18 formas de entretenerse Sandwich Sudoku Un sudoku muy especial con tal sólo cuatro números iniciales Sudoku Samurai Killer: La Bestia # Enlace permanente"
   },
   {
-    "titulo": "El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.000 evacuados y confinados",
+    "titulo": "Última hora de los incendios forestales, en directo | El Gobierno amplía la emergencia nacional por los incendios a Toledo",
+    "medio": "El País",
+    "fecha": 1785000764.0,
+    "link": "https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html",
+    "resumen": "Más de 88.500 evacuados o confinados por los incendios en Ávila y Madrid | Sánchez alerta de que la situación del fuego de Madrid sigue siendo compleja: “No sabemos cuál va a ser la evolución del viento” | Ayuso alerta de que las próximas horas pueden ser “mucho peores” por el avance de las llamas"
+  },
+  {
+    "titulo": "Georgina, Antonio Banderas o Richard Gere alzan la voz por los incendios: «No pueden ser todos los veranos iguales»",
+    "medio": "OK Diario",
+    "fecha": 1785000652.0,
+    "link": "https://okdiario.com/cool/famosos/georgina-antonio-banderas-o-richard-gere-alzan-voz-incendios-no-pueden-ser-todos-veranos-iguales-19068550",
+    "resumen": "El verano vuelve a mostrar su cara más devastadora. Los incendios forestales que afectan a distintos puntos de España mantienen en vilo a miles de vecinos, con evacuaciones, carreteras cortadas y un amplio dispositivo de emergencias desplegado para tratar de frenar el avance de las llamas. Mientras las altas temperaturas y las condiciones meteorológicas complican … Continuar leyendo \"Georgina, Antonio Banderas o Richard Gere alzan la voz por los incendios: «No pueden ser todos los veranos iguales»\""
+  },
+  {
+    "titulo": "Incendios en Madrid y Ávila, en directo: desalojos, evolución de los focos activos y última hora del mapa en tiempo real hoy",
+    "medio": "OK Diario",
+    "fecha": 1785000616.0,
+    "link": "https://okdiario.com/espana/incendios-madrid-avila-directo-desalojos-evolucion-focos-activos-ultima-hora-del-mapa-tiempo-real-hoy-19066130",
+    "resumen": "Los incendios activos en Ávila y el suroeste de la Comunidad de Madrid continúan descontrolados y ya son más de 60.000 desalojados en los municipios afectados. Según las autoridades, las próximas horas del sábado serán decisivas para tratar de controlar el fuego, ya que su evolución dependerá de las condiciones meteorológicas como el comportamiento del … Continuar leyendo \"Incendios en Madrid y Ávila, en directo: desalojos, evolución de los focos activos y última hora del mapa en tiempo real hoy\""
+  },
+  {
+    "titulo": "El avance de los incendios que asolan España, en directo | El fuego en Madrid y Ávila deja ya casi 88.500 evacuados y confinados",
     "medio": "The Objective",
-    "fecha": 1784994134.0,
+    "fecha": 1785000504.0,
     "link": "https://theobjective.com/sociedad/suceso/2026-07-25/directo-avance-incendio-madrid/directo/",
     "resumen": ""
   },
   {
-    "titulo": "Última hora de los incendios forestales, en directo | Casi 88.000 evacuados o confinados por los incendios en Ávila y Madrid",
-    "medio": "El País",
-    "fecha": 1784994122.0,
-    "link": "https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html",
-    "resumen": "Sánchez alerta de que la situación del fuego de Madrid sigue siendo compleja: “No sabemos cuál va a ser la evolución del viento” | Ayuso alerta de que las próximas horas pueden ser “mucho peores” por el avance de las llamas"
+    "titulo": "El partido de Bolsonaro proclama a su hijo Flávio como candidato presidencial",
+    "medio": "Expansión",
+    "fecha": 1785000414.0,
+    "link": "https://www.expansion.com/latinoamerica/2026/07/25/6a64f05b468aeb42558b45a1.html",
+    "resumen": "El Partido Liberal de Brasil (PL), que lidera el expresidente encarcelado Jair Bolsonaro, oficializó este sábado la candidatura de su hijo mayor, el senador Flávio Bolsonaro, para las elecciones presidenciales de octubre. Leer"
   },
   {
-    "titulo": "El INE no tiene una estadística oficial de ahogamientos pese a ser la primera causa de muerte accidental en España",
+    "titulo": "Jordi Roca se sincera sobre la enfermedad que sufre desde hace años: \"De repente pierdes el control de tu cuerpo\"",
+    "medio": "HuffPost",
+    "fecha": 1785000193.0,
+    "link": "https://www.huffingtonpost.es/virales/jordi-roca-sincera-sobre-enfermedad-sufrenos-de-repente-pierdes-control-cuerpo-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Miguel, madrileño, dejó su trabajo en España y vive desde hace 8 años en un barco en Miami: \"Es la forma más cara de vivir gratis\"",
+    "medio": "HuffPost",
+    "fecha": 1785000170.0,
+    "link": "https://www.huffingtonpost.es/sociedad/miguel-madrileno-dejo-trabajo-espana-vive-8nos-barco-miami-es-forma-mas-cara-vivir-gratis-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Los incendios de Madrid y Ávila afectan ya a 45.000 hectáreas y obligan a evacuar o confinar a más de 88.500 personas",
+    "medio": "El País",
+    "fecha": 1785000162.0,
+    "link": "https://elpais.com/espana/2026-07-25/los-incendios-de-madrid-y-avila-ya-han-calcinado-mas-de-15000-hectareas-y-han-obligado-a-evacuar-o-confinar-a-63000-personas.html",
+    "resumen": "Las condiciones de temperatura y humedad mejoran, pero no las de viento, que puede complicar la evolución de las llamas. La UME unifica el mando de la emergencia para coordinar la respuesta a los fuegos"
+  },
+  {
+    "titulo": "Daniel Pino, camarero que dejó Marbella por Galicia: \"Un alquiler de una habitación no te baja de 600, 700 euros, y una habitación cochambrosa\"",
+    "medio": "HuffPost",
+    "fecha": 1785000149.0,
+    "link": "https://www.huffingtonpost.es/sociedad/daniel-pino-camarero-dejo-marbella-galicia-un-alquiler-habitacion-te-baja-600-700-euros-habitacion-cochambrosa-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El primer parque de olas del mundo se construirá a 50 kilómetros de Galicia: 10 megavatios en Viana do Castelo a partir de 2029",
+    "medio": "HuffPost",
+    "fecha": 1785000135.0,
+    "link": "https://www.huffingtonpost.es/sociedad/el-primer-parque-olas-mundo-construira-50-kilometros-galicia-10-megavatios-viana-do-castelo-partir-2029-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Gobierno sabe desde hace 4 años que sus aviones antiincendios están «obsoletos y averiados por su envejecimiento»",
     "medio": "OK Diario",
-    "fecha": 1784993678.0,
-    "link": "https://okdiario.com/espana/ine-no-tiene-estadistica-oficial-ahogamientos-pese-ser-primera-causa-muerte-accidental-espana-18971176",
-    "resumen": "Pese a ser la primera causa de muerte en España, el Instituto Nacional de Estadística (INE) no tiene una estadística oficial de ahogamientos. En 2025, en nuestro país se ahogaron 2.465 personas en España, más del doble que en accidentes de tráfico. Se trata de una cifra récord, y este 2026 no tiene visos de … Continuar leyendo \"El INE no tiene una estadística oficial de ahogamientos pese a ser la primera causa de muerte accidental en España\""
+    "fecha": 1784999642.0,
+    "link": "https://okdiario.com/espana/gobierno-sabe-desde-hace-4-anos-que-sus-aviones-antiincendios-estan-obsoletos-averiados-envejecimiento-19064409",
+    "resumen": "Hace apenas una semana, el Gobierno declaró extinguido un contrato de 24 millones de fondos europeos para la modernización de sus aviones anfibios, encargados de la lucha contra los incendios forestales. Un ambicioso expediente que llevaba abierto desde 2022 -con declaración de urgencia- y que ha atravesado todo un embrollo burocrático hasta su cancelación. El … Continuar leyendo \"El Gobierno sabe desde hace 4 años que sus aviones antiincendios están «obsoletos y averiados por su envejecimiento»\""
+  },
+  {
+    "titulo": "Fallece un montañero de 63 años al precipitarse en el pico Estatas, en Benasque (Huesca)",
+    "medio": "La Vanguardia",
+    "fecha": 1784999495.0,
+    "link": "https://www.lavanguardia.com/sucesos/20260725/11601072/fallece-montanero-63-anos-precipitarse-pico-estatas-benasque-huesca.html",
+    "resumen": "Es la duodécima víctima mortal en actividades deportivas en el Pirineo aragonés en este 2026, sexta desde que comenzó la temporada de verano"
+  },
+  {
+    "titulo": "El camping de Pelayos de la Presa, dos caras divididas por una calle tras el paso del fuego: un lado salvado y otro, \"devastado\"",
+    "medio": "El Mundo",
+    "fecha": 1784999137.0,
+    "link": "https://www.elmundo.es/espana/2026/07/25/6a64dd6ae4d4d86d7f8b458e.html",
+    "resumen": "El campamento de La Ardilla Roja, gestionado por el mismo administrador, ha quedado arrasado por el fuego que afecta al suroeste madrileño Leer"
+  },
+  {
+    "titulo": "Una persona muere y otras cinco resultan heridas en un incendio forestal de Manises (Valencia)",
+    "medio": "El Mundo",
+    "fecha": 1784998886.0,
+    "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/25/6a64de75fc6c83f1498b4574.html",
+    "resumen": "El fuego ya en el barranco del Salt de l'Aigua está estabilizado. Leer"
+  },
+  {
+    "titulo": "Kuss roza la tragedia en el Tour: unas vallas protectoras evitan que se despeñe llegando a Alpe d’Huez",
+    "medio": "OK Diario",
+    "fecha": 1784998858.0,
+    "link": "https://okdiario.com/deportes/kuss-roza-tragedia-tour-unas-vallas-protectoras-evitan-que-despene-llegando-alpe-dhuez-19068513",
+    "resumen": "Sepp Kuss ha rozado la tragedia en la etapa 20 del Tour de Francia 2026. Llegando a Alpe d’Huez, el ciclista norteamericano iba en cabeza de carrera y apuntaba a ganar, pero entonces sufrió un accidente. Se fue largo en una curva del descenso antes de encarar la llegada a la legendaria estación de esquí … Continuar leyendo \"Kuss roza la tragedia en el Tour: unas vallas protectoras evitan que se despeñe llegando a Alpe d’Huez\""
+  },
+  {
+    "titulo": "¿Por qué la profundidad del agua se mide en pies, y a cuántos metros equivalen realmente?",
+    "medio": "OK Diario",
+    "fecha": 1784998846.0,
+    "link": "https://okdiario.com/curiosidades/que-profundidad-del-agua-mide-pies-cuantos-metros-equivalen-realmente-18969424",
+    "resumen": "Aunque la tecnología ha transformado por completo la navegación, algunas costumbres marítimas se mantienen prácticamente intactas desde hace siglos. Una de ellas es el uso del pie como unidad para medir la profundidad del agua, una práctica que todavía está presente en buena parte de la instrumentación náutica y que suele generar dudas entre quienes … Continuar leyendo \"¿Por qué la profundidad del agua se mide en pies, y a cuántos metros equivalen realmente?\""
+  },
+  {
+    "titulo": "Cómo cargar el móvil usando otro teléfono: el truco que poca gente conoce y que te puede salvar si no tienes batería",
+    "medio": "OK Diario",
+    "fecha": 1784998828.0,
+    "link": "https://okdiario.com/tecnologia/como-cargar-movil-usando-otro-telefono-truco-que-poca-gente-conoce-que-te-puede-salvar-si-no-tienes-bateria-19068101",
+    "resumen": "Cuando pensamos en cargar la batería del móvil, lo habitual es que nos vengan a la cabeza tecnologías como la carga rápida, la carga inalámbrica o el uso de una batería externa. Sin embargo, existe otra función muy práctica que cada vez está ganando más protagonismo: la carga inversa, una función que permite utilizar la … Continuar leyendo \"Cómo cargar el móvil usando otro teléfono: el truco que poca gente conoce y que te puede salvar si no tienes batería\""
+  },
+  {
+    "titulo": "Llevamos años echándonos DEET para repeler a los mosquitos. El único problema es que, mal hecho, es su comida favorita",
+    "medio": "Xataka",
+    "fecha": 1784998827.0,
+    "link": "https://www.xataka.com/medicina-y-salud/llevamos-anos-echandonos-deet-para-repeler-a-mosquitos-unico-problema-que-mal-hecho-su-comida-favorita",
+    "resumen": "El DEET es uno de los ingredientes más usados en los repelentes para mosquitos. Eso nos hace pensar que, como su propio nombre indica, repele a estos insectos. No le gusta. Sin embargo, según un nuevo estudio publicado por científicos de Virginia Tech, bajo determinadas circunstancias, esa misma sustancia podría convertirse en un atrayente para mosquitos. Esas circunstancias, básicamente, son las que dan cuando nos aplicamos los repelentes sin leer el etiquetado. Hoy es un buen día para empezar a leerlo. De repelente a atrayente. Estos científicos vieron que, por lo general, el DEET repele a los mosquitos. Sin embargo, cuando lo huelen a la vez que se alimentan, puede asociarse con una recompensa. Algo así como lo que ocurría con el perro de Pavlov. Cuando escuchaba la campana que normalmente iba asociada con la hora de comer, empezaba a salivar. Si los mosquitos huelen el DEET mientras se alimentan de sangre, la próxima vez que lo huelan lo relacionarán con comida. Y claro, eso les encanta. Un experimento doloroso. Los experimentos que se realizaron para la publicación de este estudio constaban de dos fases. En primer lugar, se introdujo a mosquitos de la especie Aedes aegipty en una jaula conectada a dos frascos, uno con aire limpio y otro con DEET. Dentro de la jaula había un comedero con sangre, de la que se pudieron alimentar en dos circunstancias. Primero, con acceso solo al frasco de aire limpio y después con el de DEET abierto, ya que se abrió el segundo vial mientras se estaban alimentando. En Xataka Un ingeniero chino odia tanto a los mosquitos que ha construido el repelente definitivo: un arma láser para freírlos En Xataka Un ingeniero chino odia tanto a los mosquitos que ha construido el repelente definitivo: un arma láser para freírlos En la segunda fase del experimento, uno de los investigadores introdujo sus dos brazos en la jaula, uno con DEET y otro sin él, y esperó a ver el comportamiento de los mosquitos. Aquellos que se habían alimentado de sangre solo con aire limpio acudieron únicamente al brazo sin DEET. Sin embargo, los que se alimentaron bajo el influjo del DEET preferían el brazo con el repelente. Solo un poco. En realidad, el efecto repelente del DEET es una realidad. A dosis adecuadas, este sigue ahuyentando a los mosquitos. Lo que se ha visto en este estudio es que se convierte en un atrayente cuando lo huelen de fondo mientras se alimentan. Por eso, el problema está en dar lugar a que se alimenten mientras lo huelen. Una persona que tiene poca cantidad, ya sea porque no se ha puesto suficiente repelente o porque hace mucho que se lo aplicó, puede no repeler adecuadamente al insecto. Este llega a su piel y se alimenta de su sangre, mientras huele un remanente. Ese remanente genera el mencionado efecto recompensa y, entonces, puede que poco a poco deje de desagradarle. Si cada vez que oliésemos la basura nos diesen 10.000 euros, ¿nos seguiría pareciendo desagradable? La importancia de leer la etiqueta. No todos los repelentes para mosquitos tienen la misma concentración de DEET. Por eso, no siempre hay que ponerse la misma cantidad ni reaplicar en el mismo tiempo. Es importante leer la etiqueta, porque si nos ponemos insuficiente repelente o no lo reaplicamos cuando toca podemos generar el efecto que se vio en el estudio. No está del todo claro. Cabe destacar que todo esto no es seguro. Esto se vio en experimentos de laboratorio. Por ahora, no se puede saber si en la realidad, con el DEET incluido en repelentes comerciales y los mosquitos volando libremente, ocurrirá lo mismo. Además, en el experimento los mosquitos empezaron a oler el DEET mientras ya se estaban alimentando mientras que en condiciones reales el olor estaría ahí desde el principio. Habrá que hacer más estudios, quizás de nuevo con consecuencias dolorosas para investigadores y voluntarios. Mientras tanto, ante la duda, recuerda leer bien las etiquetas. En serio. Imágenes | NIAID En Xataka | Los mosquitos me acribillan en verano y he probado estos trucos de TikTok para deshacerme de ellos - La noticia Llevamos años echándonos DEET para repeler a los mosquitos. El único problema es que, mal hecho, es su comida favorita fue publicada originalmente en Xataka por Azucena Martín ."
+  },
+  {
+    "titulo": "Así es el «siestódromo»: el lugar gratuito en pleno centro de Madrid con hamacas, wifi y aire acondicionado",
+    "medio": "OK Diario",
+    "fecha": 1784998814.0,
+    "link": "https://okdiario.com/madrid/asi-siestodromo-lugar-gratuito-pleno-centro-madrid-hamacas-wifi-aire-acondicionado-19056333",
+    "resumen": "Madrid se ha convertido en un horno en pleno verano y, con olas de calor que son cada vez más frecuentes, encontrar un lugar donde refugiarse del sol no es solo una cuestión de comodidad, sino casi de supervivencia. En este contexto, hay espacios que empiezan a ganar protagonismo entre quienes buscan un respiro en … Continuar leyendo \"Así es el «siestódromo»: el lugar gratuito en pleno centro de Madrid con hamacas, wifi y aire acondicionado\""
+  },
+  {
+    "titulo": "Nuria Soleda: “No todas las mascarillas están formuladas para usarse antes del champú”",
+    "medio": "La Vanguardia",
+    "fecha": 1784998800.0,
+    "link": "https://www.lavanguardia.com/comprar/moda-belleza/20260725/11596642/nuria-soleda-codirectora-salon-toro-sobre-lavado-inverso-todas-mascarillas-formuladas-usarse-champu.html",
+    "resumen": "El lavado inverso se ha convertido en una de las tendencias capilares más virales de TikTok, pero los expertos recuerdan que cambiar el orden de la rutina no siempre mejora la salud del cabello, puede empeorarla"
+  },
+  {
+    "titulo": "Con esta app puedes usar Android con una sola mano sin renunciar a una pantalla grande",
+    "medio": "Hipertextual",
+    "fecha": 1784998800.0,
+    "link": "https://hipertextual.com/guias/usar-android-con-una-sola-mano-quick-cursor/",
+    "resumen": "Los teléfonos móviles se pueden utilizar de muchas maneras. Pero el tamaño de sus pantallas complica cada vez más su manejo con una sola mano. En modelos antiguos, aún era posible alcanzar las cuatro esquinas con el dedo pulgar. Pero esto se vuelve prácticamente imposible con las pantallas actuales. Y eso incluye las tabletas. Así […] Seguir leyendo: Con esta app puedes usar Android con una sola mano sin renunciar a una pantalla grande"
+  },
+  {
+    "titulo": "Microsiervos cumple 23 años",
+    "medio": "Microsiervos",
+    "fecha": 1784998800.0,
+    "link": "http://www.microsiervos.com/archivo/general/microsiervos-cumple-23-anos.html",
+    "resumen": "Pues otro año más tenemos al blog de cumpleaños. Y con este ya van 23. Que sí, ya sabemos que lo decimos todos los años, pero es que jamás imaginamos cuando allá por marzo de 2003 empezamos a darle vueltas a esto de montar un blog de grupo casi un cuarto de siglo después seguiríamos manteniéndolo. Y eso a pesar de que Google parezca empeñado en terminar con aquella Internet de los enlaces que tanto defendía cuando sus fundadores aún creían en aquello de don't be evil. O por lo menos cuando simulaban creerlo. Como también decimos siempre no sabemos hasta cuándo seguiremos con él. Pero seguimos pensando que, con lo que nos gustan las cifras redondas, como poco estaría bien llegar al cuarto de siglo. Y a eso ayuda, y mucho, saber que al otro lado de la pantalla hay quien nos lee desde hace años. Así que, ¡muchísimas gracias! # Enlace permanente"
+  },
+  {
+    "titulo": "Vozinha ya tiene nuevo equipo: jugará en un grande del fútbol sudamericano",
+    "medio": "OK Diario",
+    "fecha": 1784998650.0,
+    "link": "https://okdiario.com/deportes/vozinha-ya-tiene-nuevo-equipo-jugara-grande-del-futbol-sudamericano-19068454",
+    "resumen": "El presidente del club chileno Colo Colo, Aníbal Mosa, afirmó el pasado viernes que han alcanzado un acuerdo con Vozinha, el portero titular de la selección de Cabo Verde. Fue una de las sensaciones del Mundial y los aficionados en la web de la FIFA le votaron como el mejor guardameta del torneo. Vozinha fue … Continuar leyendo \"Vozinha ya tiene nuevo equipo: jugará en un grande del fútbol sudamericano\""
+  },
+  {
+    "titulo": "Sánchez visitará este domingo la zona afectada por los incendios de Ávila",
+    "medio": "Europa Press",
+    "fecha": 1784998050.0,
+    "link": "https://www.europapress.es/sociedad/noticia-sanchez-visitara-domingo-zona-afectada-incendios-avila-20260725184730.html",
+    "resumen": "El presidente del Gobierno, Pedro Sánchez, se desplazará este domingo a la zona afectada por los incendios forestales de Ávila, según ha indicado Moncloa en un comunicado este sábado."
+  },
+  {
+    "titulo": "Así se originó el gran incendio de San Martín de Valdeiglesias",
+    "medio": "La Vanguardia",
+    "fecha": 1784997606.0,
+    "link": "https://www.lavanguardia.com/natural/20260725/11601065/asi-origino-gran-incendio-san-martin-valdeiglesias.html",
+    "resumen": "Un vehículo en llamas embistió por atrás el coche de la periodista Josefina Maestre antes de quedar en la ladera de las montaña, donde las explosiones provocaron el fuego que se extendió por el bosque"
+  },
+  {
+    "titulo": "Los jóvenes del movimiento de ‘las cucarachas’ anuncian el fin de sus protestas tras lograr la dimisión del ministro de Educación de la India",
+    "medio": "El País",
+    "fecha": 1784997528.0,
+    "link": "https://elpais.com/internacional/2026-07-25/las-protestas-de-los-jovenes-del-movimiento-de-las-cucarachas-fuerzan-la-dimision-del-ministro-de-educacion-de-la-india.html",
+    "resumen": "El Gobierno de Narendra Modi ha prometido satisfacer también las otras demandas de los manifestantes, cuya principal exigencia era la renuncia de Dharmendra Pradhan"
+  },
+  {
+    "titulo": "Dos palabras latinas mal traducidas escondieron durante siglos el verdadero trabajo de las mujeres romanas: dirigían la producción de vino y aceite",
+    "medio": "HuffPost",
+    "fecha": 1784997376.0,
+    "link": "https://www.huffingtonpost.es/feminismo/dos-palabras-latinas-mal-traducidas-escondieron-siglos-verdadero-trabajo-mujeres-romanas-dirigian-produccion-vino-aceite-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Kang-in Lee, nuevo jugador del Atlético de Madrid hasta 2030",
+    "medio": "The Objective",
+    "fecha": 1784997373.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-07-25/kang-in-lee-jugador-atletico-madrid-2030/",
+    "resumen": "El internacional surcoreano Kang-in Lee jugará las próximas cinco temporadas en el Atlético de Madrid, hasta el 30 de junio de 2031, después de que el […]"
+  },
+  {
+    "titulo": "Adelgazar con Ozempic está vaciando los cuerpos. La industria de la belleza ya sabe cómo llenarlos: con grasa de cadáver",
+    "medio": "Xataka",
+    "fecha": 1784997027.0,
+    "link": "https://www.xataka.com/medicina-y-salud/adelgazar-ozempic-esta-vaciando-cuerpos-industria-belleza-sabe-como-llenarlos-grasa-cadaver",
+    "resumen": "Si alguna vez has perdido peso, seguro que te has encontrado en esta situación: la báscula marca menos kilos y el pantalón te queda más suelto, pero has perdido volumen en zonas inesperadas (e indeseadas) mientras que otras siguen más o menos igual. Spoiler: la pérdida de grasa no es uniforme. Ya vengas de hacer dieta o no, siempre está la opción de someterse a una cirugía estética para remediarlo, pero claro: estamos hablando de una intervención quirúrgica con todo lo que supone. Algo ha llegado para cubrir ambos huecos: el de esquivar la cirugía y los que deja adelgazar: un inyectable hecho de grasa de cadáveres. Una inyección \"milagrosa\" con un ingrediente peculiar. CNN cuenta precisamente el caso de una abogada de 43 años de Los Ángeles que llevaba 20 años dándole vueltas a un aumento de pecho, pero le frenaba el dolor, la recuperación y la idea de llevar \"una bolsa extraña\" en el cuerpo. El año pasado encontró la solución en AlloClae, que así se llama este inyectable fabricado por Tiger Aesthetics. Diseñado para el contorno corporal y la corrección de tejidos blandos, la materia prima es grasa de cadáveres donados que, tras seguir un tratamiento aprobado por la agencia estadounidense del medicamento y que según el fabricante elimina el ADN del fallecido, está lista para aplicarse con una inyección. A diferencia de los clásicos injertos de grasa, en el que el personal sanitario extrae grasa al paciente con luposucción y la devuelve en otra zona, AlloClae llega ya listo para usarse. ¿Grasa de muerto? Desde mayo de 2025, su fabricante ha reportado más de 2.000 pacientes tratados y en Reddit hay varios hilos con dudas. Y ojo que la idea no es nueva: Renuva, de la organización sin ánimo de lucro MTF Biologics, lleva más de una década inyectando grasa de cadáver. Pero hay una diferencia sustancial: el tamaño. Mientras que Renuva como máximo inyecta tres centímetros cúbicos, Alloclae llega hasta los 25 centímetros cúbicos. Por qué ahora. Tener una alternativa menos invasiva a la cirugía para los retoques estéticos siempre es un aliciente para llevarlos a cabo, pero el motor de esta tendencia son los fármacos GLP-1. En una sociedad como la estadounidense, donde un 11% usa medicamentos tipo Ozempic para perder peso, muchas personas se enfrentan a la pérdida de volumen indeseada en partes de su cuerpo Según el Gallup National Health and Well-Being Index, alrededor del 11% de los estadounidenses usa actualmente medicamentos como Ozempic o Wegovy para perder peso, y muchos pacientes pierden volumen facial o corporal de forma no deseada. Así que tras adelgazar, estas personas buscan recuperar el volumen lugares como la cara, el pecho o los glúteos, cuenta el cirujano plástico Luis Macias. En Xataka El gran desafío de Ozempic es el efecto rebote. La ciencia ya tiene dos prometedoras soluciones para evitarlo Cómo funciona. El procedimiento se aplica en consulta, por lo que no hace falta acudir a un hospital ni anestesia general. En apenas una hora ya ha concluido y como cuenta Sandra, las instrucciones para el \"postoperatorio\" son \"sorprendentemente sencillas\". Todo parece tan simple que desde enero desde año ni siquiera hace falta ser cirujano plástico: también pueden aplicarlo profesionales de la enfermería y asistentes, aunque con ciertas restricciones. Sobre legalidad y ética. Antes de morir, puedes dar tu consentimiento para la donación de órganos o para ceder tu cuerpo a la ciencia. En Estados Unidos, los primeros se rigen por la ley federal, pero el cuerpo y los tejidos son un caso aparte cuya legislación varía según el estado. Esa diferencia ya le ha costado caro a Tiger Aesthetics: Nueva York bloqueó la distribución del producto, y la empresa ha demandado al estado reclamando al menos 500.000 dólares por las ventas perdidas, mientras busca nuevos bancos de tejido en otros estados para seguir creciendo. El problema no es tanto legal como de consentimiento: en ese formulario que te entregan no aparece explícitamente si quieres donar tus tejidos para hacer Alloclae. Solo permite marcar si el donante autoriza que su tejido se use para investigación, para fines comerciales, o sin restricciones. Es decir: hay empresas ganando dinero con un gesto pensado como altruista, sin que el donante sepa realmente en qué se convertirá su cuerpo. En Xataka | Ozempic ha redefinido radicalmente lo que comemos y cuánto comemos. Y los ultraprocesados lo están aprovechando En Xataka | Creíamos que con el Ozempic la gente que adelgazaba hacía más ejercicio. Creíamos mal Portada | Lobacheva Ina y Haberdoedas - La noticia Adelgazar con Ozempic está vaciando los cuerpos. La industria de la belleza ya sabe cómo llenarlos: con grasa de cadáver fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Juan Ayuso: “Siento frustración, pero no decepción porque lo dí todo”",
+    "medio": "La Vanguardia",
+    "fecha": 1784996885.0,
+    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260725/11601063/ayuso-tour-de-francia-frustracion-pogacar-del-toro.html",
+    "resumen": "El español fue protagonista en la etapa reina del Tour de Francia"
+  },
+  {
+    "titulo": "Incendios España 2026: 70.000 evacuados obligan al Gobierno a pedir ayuda urgente a la UE",
+    "medio": "Moncloa.com",
+    "fecha": 1784996790.0,
+    "link": "https://www.moncloa.com/2026/07/25/incendios-espana-2026-evacuaciones-3405619/",
+    "resumen": "Los incendios en España en 2026 obligan a evacuar a 70.000 personas. El Gobierno solicita ayuda urgente a la UE y moviliza al Ejército. La entrada Incendios España 2026: 70.000 evacuados obligan al Gobierno a pedir ayuda urgente a la UE aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Guerra en el Mar Rojo: Trump aviva la ofensiva contra los hutíes y el petróleo se dispara en España",
+    "medio": "Moncloa.com",
+    "fecha": 1784996760.0,
+    "link": "https://www.moncloa.com/2026/07/25/guerra-mar-rojo-huties-petroleo-espana-3405624/",
+    "resumen": "El ataque de los hutíes a dos petroleros saudíes en el mar Rojo desata la amenaza de Donald Trump y encarece el crudo. España siente el golpe en los carburantes y en la logística de refino. La entrada Guerra en el Mar Rojo: Trump aviva la ofensiva contra los hutíes y el petróleo se dispara en España aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El incendio de Ejulve (Teruel) queda perimetrado tras arrasar 3.000 hectáreas y mantener evacuadas a 175 personas",
+    "medio": "Moncloa.com",
+    "fecha": 1784996740.0,
+    "link": "https://www.moncloa.com/2026/07/25/incendio-ejulve-teruel-perimetrado-3000-hectareas-3405633/",
+    "resumen": "El incendio forestal de Ejulve, en Teruel, ha sido perimetrado tras arrasar 3.000 hectáreas y forzar la evacuación de 175 personas en cinco núcleos. La entrada El incendio de Ejulve (Teruel) queda perimetrado tras arrasar 3.000 hectáreas y mantener evacuadas a 175 personas aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Alemania retira el cazaminas Fulda y el Mosel del estrecho de Ormuz ante la ausencia de paz con Irán",
+    "medio": "Moncloa.com",
+    "fecha": 1784996719.0,
+    "link": "https://www.moncloa.com/2026/07/25/alemania-retira-buques-fulda-mosel-ormuz-3405635/",
+    "resumen": "Alemania retira dos buques del golfo de Adén ante la falta de perspectivas de paz en Irán, evidenciando las dudas europeas sobre la misión de escolta en el estrecho de Ormuz. La entrada Alemania retira el cazaminas Fulda y el Mosel del estrecho de Ormuz ante la ausencia de paz con Irán aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Aitana Bonmatí: “Acabé la temporada infiltrándome por el dolor”",
+    "medio": "La Vanguardia",
+    "fecha": 1784996714.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260725/11601061/aitana-bonmati-acabe-temporada-infiltrandome-dolor.html",
+    "resumen": "La centrocampista blaugrana no arrancará la pretemporada al ritmo de sus compañeras por los problemas en su tobillo"
+  },
+  {
+    "titulo": "La Velada del Año 6: cómo el evento de Ibai Llanos proyecta la cultura digital española al mundo",
+    "medio": "Moncloa.com",
+    "fecha": 1784996700.0,
+    "link": "https://www.moncloa.com/2026/07/25/la-velada-del-ano-6-sevilla-ibai-3405636/",
+    "resumen": "La Velada del Año 6, organizada por Ibai Llanos, reúne a 80.000 personas en Sevilla y a millones online, mostrando la fortaleza de la cultura digital española en el mundo. La entrada La Velada del Año 6: cómo el evento de Ibai Llanos proyecta la cultura digital española al mundo aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ayuso lanza la Ley LIDER de vivienda en Madrid frente al control de alquileres de Sánchez",
+    "medio": "Moncloa.com",
+    "fecha": 1784996654.0,
+    "link": "https://www.moncloa.com/2026/07/25/ayuso-ley-lider-madrid-vivienda-3405639/",
+    "resumen": "La Ley LIDER de Madrid busca acelerar la construcción de viviendas. Sánchez prepara un decreto de prórroga de alquileres. Dos modelos chocan a un año de las urnas. La entrada Ayuso lanza la Ley LIDER de vivienda en Madrid frente al control de alquileres de Sánchez aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ro Khanna pide a Trump que arreste a Netanyahu en EE.UU. por orden de la CPI",
+    "medio": "Moncloa.com",
+    "fecha": 1784996548.0,
+    "link": "https://www.moncloa.com/2026/07/25/ro-khanna-arresto-netanyahu-cpi-3405640/",
+    "resumen": "Ro Khanna insta a Trump a detener a Netanyahu por orden de la CPI; Washington responde con inmunidad diplomática. La entrada Ro Khanna pide a Trump que arreste a Netanyahu en EE.UU. por orden de la CPI aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez propone un Pacto de Estado contra incendios tras la oleada de fuegos en Madrid y Ávila: Galicia lidera el envío de efectivos",
+    "medio": "Moncloa.com",
+    "fecha": 1784996533.0,
+    "link": "https://www.moncloa.com/2026/07/25/sanchez-pacto-estado-incendios-galicia-3405645/",
+    "resumen": "Sánchez propone un pacto de Estado contra incendios tras superar las 130.000 hectáreas quemadas, con Galicia liderando la respuesta coordinada entre autonomías. La entrada Sánchez propone un Pacto de Estado contra incendios tras la oleada de fuegos en Madrid y Ávila: Galicia lidera el envío de efectivos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Mamdani Is Right. Netanyahu Belongs Behind Bars.",
+    "medio": "Jacobin ES",
+    "fecha": 1784996500.0,
+    "link": "https://jacobin.com/2026/07/mamdani-netanyahu-arrest-israel-nyc",
+    "resumen": "Mayor Zohran Mamdani charged Benjamin Nentayahu with genocide, said he is unwelcome in New York City, and called for his arrest. Two years ago, that would have been unimaginable. Going forward, it should be a litmus test."
+  },
+  {
+    "titulo": "Adif da por tapado y estabilizado el socavón de Vallbona",
+    "medio": "La Vanguardia",
+    "fecha": 1784995969.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20260725/11601039/adif-tapado-estabilizado-socavon-vallbona-soterramiento-montcada.html",
+    "resumen": "Rodalies inicia las pruebas para recuperar la circulación ferroviaria en la R2 y la R11 a partir del lunes en el tramo afectado por las obras del soterramiento de Montcada"
+  },
+  {
+    "titulo": "Norris acaba con la hegemonía de Mercedes en los primeros brotes verdes de Alonso",
+    "medio": "The Objective",
+    "fecha": 1784995593.0,
+    "link": "https://theobjective.com/deportes/formula-1/2026-07-25/norris-hegemonia-mercedes-brotes-verdes-alonso/",
+    "resumen": "Lando Norris (McLaren) partirá desde la primera posición en el Gran Premio de Hungría tras firmar este sábado la vuelta más rápida en la sesión de […]"
+  },
+  {
+    "titulo": "El alquiler se comía su sueldo, así que ahora cuidan una isla de 4 habitantes y 500 ovejas y ahorran la mitad de lo que ganan: \"Queríamos estar cerca de la naturaleza y vivir de forma sostenible\"",
+    "medio": "HuffPost",
+    "fecha": 1784995546.0,
+    "link": "https://www.huffingtonpost.es/sociedad/el-alquiler-comia-sueldo-asi-cuidan-isla-4-habitantes-500-ovejas-ahorran-mitad-ganan-queriamos-cerca-naturaleza-vivir-forma-sostenible-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "María Villalonga, médica: \"Hay que beber aunque no se tenga sed. Los ancianos pierden la sensación de sed y, en un golpe de calor, muchos ni siquiera sudan\"",
+    "medio": "HuffPost",
+    "fecha": 1784995524.0,
+    "link": "https://www.huffingtonpost.es/life/salud/maria-villalonga-medica-hay-beber-tenga-sed-ancianos-pierden-sensacion-sed-golpe-calor-siquiera-sudan-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Las imágenes aéreas del incendio de Madrid muestran el avance de las llamas",
+    "medio": "El País",
+    "fecha": 1784995342.0,
+    "link": "https://elpais.com/espana/2026-07-25/las-imagenes-aereas-del-incendio-de-madrid.html",
+    "resumen": "La Guardia Civil distribuye vídeo grabados el viernes y el sábado con drones y desde helicópteros"
+  },
+  {
+    "titulo": "Una persona fallece en el incendio de Manises (València), ya estabilizado por los bomberos",
+    "medio": "La Vanguardia",
+    "fecha": 1784995256.0,
+    "link": "https://www.lavanguardia.com/local/valencia/20260725/11601036/persona-fallece-incendio-manises-valencia-estabilizado-bomberos.html",
+    "resumen": "Cinco personas han resultado heridas por inhalación de humo y quemaduras y han sido trasladadas al hospital"
+  },
+  {
+    "titulo": "El váter de Adriano revela un nuevo secreto sobre la durabilidad del hormigón romano",
+    "medio": "Xataka",
+    "fecha": 1784995227.0,
+    "link": "https://www.xataka.com/magnet/vater-adriano-revela-nuevo-secreto-durabilidad-hormigon-romano",
+    "resumen": "Una de los secretos mejor guardados del Imperio Romano es qué tenía de especial su hormigón para que el Panteón de Agripa lleve 2.000 años ahí (y lo que le queda). De vez en cuando la ciencia y la arqueología cree descubrir el secreto y para muestra, un botón: esta obra a medias en Pompeya dejó pistas. El enésimo intento para explicar por qué ya no se hacen hormigones como los de antes lo hemos encontrado en el inodoro de un emperador. El hallazgo. Hasta la fecha la explicación a la resistencia del hormigón romano está en la reacción entre cal y cenizas volcánicas (una reacción puzolánica), pero un nuevo estudio añade un ingrediente más a la receta: la carbonatación natural y la formación progresiva de calcita también fueron importantes para que ese material de construcción soporte tan bien el paso del tiempo. Además del ingrediente, lo curioso es de dónde tomaron la muestra: del colector de hormigón situado bajo uno de los asientos de una de las letrinas comunes del complejo occidental del Canopo, en la Villa Adriana de Tívoli. De un váter. Por qué es importante. Porque más allá de la reacción puzolánica, lo que realmente mantiene unido el hormigón con el paso de los siglos es la calcita. Así que la formación de calcita a lo largo de siglos también ayuda a que las estructuras de esas letrinas aguanten en pie dos milenios después. Conocer este mecanismo abre las puertas al diseño de cementos modernos que sean más duraderos. En Xataka Hemos descubierto (otra vez) el secreto del hormigón romano. Es menos impresionante de lo que parece Contexto. Antes pensábamos que todo el mérito recaía en la reacción entre la cal y la ceniza y ojo, esa explicación sigue siendo válida, pero no es la única. Además, investigaciones previas como este estudio del MIT de 2023 apuntaba que los fragmentos blancos de cal presentes en el hormigón eran la prueba de que los romanos usaban una técnica de \"mezcla en caliente\", que aportaba a este material de construcción la capacidad de autorreparación ante la aparición de grietas. En detalle. A partir de imágenes 3D, el equipo reconstruyó con detalle la composición interna del material y qué procesos químicos sufrió a lo largo de los siglos. Así, comprobaron que la calcita se formó mediante una reacción lenta entre la cal, la humedad y el dióxido de carbono del aire (carbonatación) y ese mineral fue rellenando grietas y poros progresivamente, haciendo el hormigón más denso y bloqueando el paso de sustancias potencialmente dañinas o hasta el agua. Los fragmentos de roca volcánica también reaccionaron con la cal en la zona de los bordes, lo que reforzó la unión. Sí, pero. La principal limitación de este estudio es que se basa en una única muestra procedente de un entorno interior, por lo que las conclusiones obtenidas no son directamente extrapolables a otros hormigones romanos estudiados en el exterior o en entornos marinos, donde se han descrito mecanismos distintos de autorreparación con agua salada. Habrá que esperar a que los resultados se repliquen en otras muestras y yacimientos antes de llegar a una conclusión general. En Xataka | Hace casi 2.000 años un militar celtíbero visitó la frontera más remota del Imperio romano. Luego volvió a Soria con un souvenir En Xataka | La última víctima del turismo masivo (y quizá de Juego de Tronos): el Muro de Adriano Portada | Jl FilpoC y Mineralized carbonates contribute to the millennial durability of Roman concrete. Science Advanced - La noticia El váter de Adriano revela un nuevo secreto sobre la durabilidad del hormigón romano fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Parecen unas Adidas Samba, pero son las nuevas Converse 'tarta de yogur' con el diseño retro más elegante del verano",
+    "medio": "Trendencias",
+    "fecha": 1784995227.0,
+    "link": "https://www.trendencias.com/sneakers/parecen-unas-adidas-samba-nuevas-converse-tarta-yogur-diseno-retro-elegante-verano",
+    "resumen": "Que unas deportivas compensen su aspecto todoterreno con colores dulces y pastelosos es una de las cosas que más nos gustan del mundo. Especialmente en verano, cuando nuestros looks piden tonos vitamina y alegres que levanten el conjunto. Converse se ha encargado: sus nuevas zapas retro parecen una tarta de yogur de fresa con cobertura de frambuesa. Sus nuevas zapatillas de tendencia no tiene nada que ver con las Chuck All Star a las que Converse nos tiene acostumbrados. Más bien, juegan con la estética retro bicolor de las Adidas Samba y aprovechan para beber de su éxito, cambiando de firma y con una combi cromática muy exitosa este verano: rosa fresa y rosa bebé, por 100 euros. Con estas zapas tan delicadas y femeninas, ir a medias tintas no tiene sentido. Lo ideal es acompañarlas de looks coquette y cursis, donde el pañuelo en la cabeza, las prendas pastel y rosadas y los accesorios acompañen su dulzura. Este estilismo es perfecto, porque el corte oversize de la ropa compensa para evitar caer en la ñoñería. Fotos | @holliemercedes, Converse. En Trendencias | Cómo quitar el mal olor de las zapatillas y que no vuelva a aparecer: seis trucos que sí funcionan. En Xataka | Harto de la falta de mantenimiento, un vecino de Mataró se puso a plantar árboles por su cuenta. Resultado: más de 1.700 euros de multa. En Motorpasión | Sin pedir permiso, EEUU lleva 40 años usando como aparcamiento el solar que Uruguay compró para construir su embajada en Arabia Saudita. - La noticia Parecen unas Adidas Samba, pero son las nuevas Converse 'tarta de yogur' con el diseño retro más elegante del verano fue publicada originalmente en Trendencias por Pepa López ."
+  },
+  {
+    "titulo": "La Velada del Año VI, en directo | Sigue el evento de Ibai Llanos en Sevilla: combates, entrevistas, invitados y actuaciones",
+    "medio": "La Vanguardia",
+    "fecha": 1784995214.0,
+    "link": "https://www.lavanguardia.com/television/20260725/11601030/velada-del-ano-vi-boxeo-combates-sevilla-ibai-llanos-hoy-en-directo.html",
+    "resumen": "Sigue el combate de boxeo entre creadores de contenido que se celebra este año en el estadio de la Cartuja en Sevilla"
+  },
+  {
+    "titulo": "Xiaomi pone a la venta su nueva maquinilla de afeitar: inteligente, para cualquier tipo de barba y más barata que las de Braun y Gillette",
+    "medio": "Hipertextual",
+    "fecha": 1784995200.0,
+    "link": "https://hipertextual.com/tecnologia/xiaomi-pone-a-la-venta-su-nueva-maquinilla-de-afeitar-inteligente-para-cualquier-tipo-de-barba-y-mas-barata-que-las-de-braun-y-gillette/",
+    "resumen": "Xiaomi no para de anunciar nuevos productos, y su última incorporación en su catálogo de dispositivos para el cuidado personal se ha convertido directamente en la mejor opción para el afeitado de la barba. Se trata de la nueva Mijia Electric Shaver, una maquinilla de afeitar inteligente que es mucho más barata que modelos similares […] Seguir leyendo: Xiaomi pone a la venta su nueva maquinilla de afeitar: inteligente, para cualquier tipo de barba y más barata que las de Braun y Gillette"
+  },
+  {
+    "titulo": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
+    "medio": "Microsiervos",
+    "fecha": 1784995200.0,
+    "link": "http://www.microsiervos.com/archivo/espacio/incendios-forestales-evacuar-estrack-esa-cebreros-dsn-nasa-robledo-chavela.html",
+    "resumen": "Llamas en las proximidades de la estación de la DSN de Robledo de Chavela – vía Ignacio Villaverde [Anotación en actualización] Los incendios forestales que están arrasando las provincias de Ávila y de Madrid obligaron a la Agencia Espacial Europea (ESA) y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela. La estación de Cebreros de la ESA alberga parte de las antenas de ESTRACK, la red de seguimiento de misiones de la agencia; la de Robledo de Chavela, por su parte, es una de las tres que forman la Red de espacio profundo (DSN) de la NASA, que cumple una función similar. Esto ocurrió el viernes 24 de julio. Para el sábado 25 de julio la ESA emitía un comunicado en el que dice que aunque sigue sin poder acceder a Cebreros todo indica que la estación no ha sufrido daños. Pero el mismo comunicado dice que, por el contrario, la estación de la NASA sí parece haberlos sufrido aunque afortunadamente sin que haya afectado a las antenas. Al ser las dos redes repartidas por todo el mundo el que Cebreros y Robledo de Chavela estén fuera de servicio se puede compensar utilizando las otras estaciones. Sólo que hay unas horas cada día en las que algunas misiones pueden no estar en contacto con el control de la misión al quedar fuera de la zona de cobertura de las otras estaciones. En cualquier caso, a pesar de la evacuación, y según se puede ver en ESTRACK Now, la estación de Cebreros está activa. No así la de Robledo de Chavela, que aunque aparece en línea en DSN Now no está en comunicación con ninguna misión. # Enlace permanente"
+  },
+  {
+    "titulo": "Hallado un hombre muerto en el incendio de un barranco de Manises (Valencia)",
+    "medio": "El País",
+    "fecha": 1784994752.0,
+    "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-25/hallado-un-hombre-muerto-en-el-incendio-de-un-barranco-de-manises-valencia.html",
+    "resumen": "Cinco personas han sido trasladadas al hospital por inhalación de humo y quemaduras como consecuencia del fuego, ya estabilizado"
+  },
+  {
+    "titulo": "Norris, 'pole' en Hungaroring, arrebata el monopolio a Mercedes y Alonso pasa por vez primera a Q2",
+    "medio": "El Mundo",
+    "fecha": 1784994722.0,
+    "link": "https://www.elmundo.es/deportes/formula-1/2026/07/25/6a64c5f621efa0436c8b45ad.html",
+    "resumen": "El vigente campeón aventaja en 12 milésimas a Hamilton, mientras el asturiano se cuela en la decimosexta plaza. Leer"
+  },
+  {
+    "titulo": "Norris se lleva la ‘pole’ en Hungría por un parpadeo",
+    "medio": "El País",
+    "fecha": 1784994425.0,
+    "link": "https://elpais.com/deportes/formula-1/2026-07-25/norris-se-lleva-la-pole-en-hungria-por-un-parpadeo.html",
+    "resumen": "El actual campeón le birla el cabecero de la parrilla a Hamilton, en una cronometrada que constata la mejora de Aston Martin"
+  },
+  {
+    "titulo": "El Gobierno ya ha desplegado 3.501 efectivos para luchar contra los incendios de Ávila, Madrid y Toledo",
+    "medio": "El Español",
+    "fecha": 1784994073.0,
+    "link": "https://www.elespanol.com/madrid/comunidad/20260725/gobierno-desplegado-efectivos-luchar-incendios-avila-madrid-toledo/1003744334152_0.html",
+    "resumen": "Hay además diez carreteras cortadas en Ávila y otras siete en Madrid. Talavera de la Reina ha puesto pabellones a disposición de los afectados.Más información: El vídeo de un vecino en Chapinería, uno de los pueblos evacuados en Madrid: calles vacías y una casa quemada"
   },
   {
     "titulo": "Es uno de los libros más enigmáticos del mundo y lo hizo un esquizofrénico que nunca salió del manicomio",
@@ -35,25 +399,11 @@
     "resumen": "En 1921 un psiquiatra suizo publicó un libro con un título que sonaba a contradicción: uno de sus internos, un enfermo mental, era un artista. Y a partir de ese oxímoron se fundó una disciplina entera. El aludido, Adolf Wölfli, nunca lo supo: llevaba más de dos décadas encerrado en el manicomio de Waldau cuando se le etiquetó, y moriría allí sin enterarse de que André Breton situaría su obra entre las tres o cuatro más importantes del siglo XX. Quién era. Wölfli nació el 29 de febrero de 1864 cerca de Berna y murió el 6 de noviembre de 1930 en la mencionada clínica psiquiátrica de Waldau, donde ingresó en 1895 tras ser condenado por agresiones sexuales a menores. Allí le diagnosticaron esquizofrenia paranoide y también allí permaneció treinta y cinco años, sin volver a salir a la calle. Trabajó casi siempre en una celda de apenas siete metros cuadrados: el resultado fueron 1.460 dibujos, 1.560 collages y unas 25.000 páginas de escritos con todo tipo de creaciones, desde textos a música inventada, y todo a menudo encuadernado por él mismo. El obrón. La fantasía autobiográfica que arrancó su leyenda, 'Von der Wiege bis zum Graab' ('De la cuna a la tumba'), ocupa poco más de 3.000 de esas páginas y fue creada entre 1908 y 1912. Después llegaron los cuadernos geográficos y algebraicos (1912-1916), los cuadernos de canciones y danzas (1917-1922, unas 7.000 páginas) y los cuadernos-álbum de danzas y marchas (1924-1928). Creó hasta una marcha fúnebre que dejó sin terminar al morir. En Xataka Un Halcón Milenario junto a un báculo del siglo XVII: una casa ocupada destapa el tesoro robado en La Rioja A los cielos. En esa narración se ascendía a sí mismo por etapas: primero era el niño Doufi, luego el Caballero Adolf, después el Emperador Adolf y por último, San Adolfo II. Cada dibujo incorporaba además notación musical propia, con un pentagrama de seis líneas en vez de cinco, que Wölfli interpretaba enrollando una hoja de papel. No improvisaba sin más: fabricaba también piezas pequeñas que llamaba \"arte del pan\", pensadas expresamente para venderlas a médicos y visitantes. El buen doctor. Nada de esto habría salido de Waldau sin Walter Morgenthaler. El médico llegó al hospital en 1907 y, a diferencia de sus colegas, no trató el impulso gráfico de Wölfli como un síntoma que había que contener, sino como una producción que daría rienda suelta a muchos aspectos de su dolencia. En 1921 publicó 'Ein Geisteskranker als Künstler' ('Un enfermo mental como artista'), monografía que sacó a Wölfli del anonimato clínico y convirtió su obra en objeto de interés para dos círculos de pensadores muy distintos: la psiquiatría y las vanguardias artísticas. Arte bruto. Jean Dubuffet descubrió la obra de Wölfli en 1945 y lo llamó \"el gran Wölfli\", según la propia fundación que administra su legado. Tres años después, Dubuffet y Breton fundaron la Compagnie de l'Art Brut, creando así la etiqueta que agruparía a artistas sin formación académica ni intención de exponer. En 1965, en el catálogo de una exposición surrealista en París, Breton describió el conjunto de la obra de Wölfli como una de las tres o cuatro más importantes del siglo. El espaldarazo definitivo llegó en 1972: el comisario suizo Harald Szeemann llevó sus dibujos y sus escritos a la influyente exposición de arte Documenta 5 de Kassel, junto con una reconstrucción de su celda. Hay quien compara hoy el conjunto de su obra con 'In the Realms of the Unreal', el manuscrito igual de desmesurado del estadounidense Henry Darger. Tanto Wölfli como Darger se ganaron sin querer un espacio en la historia: alguien ajeno a ellos decidió, después de su muerte o de su reclusión, que aquello merecía ser contemplado como una obra artística. Desde entonces se han sucedido las exposiciones sobre Wölfli, algunas ingentes como la de Japón de 2017, que sumó el esfuerzo colectivo de tres museos. En Xataka \"Ya era conocido en el XVII\": cómo un pintor barroco se adelantó 400 años a los científicos modernos que estudian a los murciélagos Dónde está. Buena parte de las 25.000 páginas de Wölfli siguen repartidas entre archivos y colecciones privadas, además de en los catálogos parciales publicados desde los años setenta. La fundación mantiene un inventario abierto y sigue incorporando piezas que reaparecen en subastas o donaciones. También sigue recibiendo consultas de coleccionistas privados que localizan hojas sueltas y quieren confirmar su procedencia dentro de los cuadernos originales. Sin fecha de cierre prevista para este trabajo de documentación, cada pieza que aparece obliga a reescribir, aunque sea un poco, el mapa de lo que Wölfli llegó a producir en esos siete metros cuadrados. Todo un mundo. En Xataka | Alguien ha descubierto el mayor misterio de la obra de Rembrandt: por qué un musulmán acabó convertido en un anciano holandés - La noticia Es uno de los libros más enigmáticos del mundo y lo hizo un esquizofrénico que nunca salió del manicomio fue publicada originalmente en Xataka por John Tones ."
   },
   {
-    "titulo": "Incendios en Madrid y Ávila, en directo: evolución de los focos activos, calidad del aire y última hora del mapa en tiempo real",
-    "medio": "OK Diario",
-    "fecha": 1784993416.0,
-    "link": "https://okdiario.com/espana/incendios-madrid-avila-directo-evolucion-fuegos-activos-calidad-del-aire-ultima-hora-del-mapa-espana-tiempo-real-19066130",
-    "resumen": "Los incendios activos en Ávila y el suroeste de la Comunidad de Madrid continúan descontrolados y ya son más de 60.000 desalojados en los municipios afectados. Según las autoridades, las próximas horas del sábado serán decisivas para tratar de controlar el fuego, ya que su evolución dependerá de las condiciones meteorológicas como el comportamiento del … Continuar leyendo \"Incendios en Madrid y Ávila, en directo: evolución de los focos activos, calidad del aire y última hora del mapa en tiempo real\""
-  },
-  {
     "titulo": "De la dana a proteger del fuego a los vecinos: las 'voluntarias de la guarda' que evacúan la sierra en Villamanta",
     "medio": "eldiario.es",
     "fecha": 1784993391.0,
     "link": "https://www.eldiario.es/sociedad/dana-proteger-fuego-vecinos-voluntarias-guarda-evacuan-sierra-villamanta_1_13406958.html",
     "resumen": "Un grupo de mujeres que se formó hace tres años en mitad de una dana que asoló al pueblo ha servido durante los incendios para atender a los desplazados por el fuego de Madrid y ÁvilaDe casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: “No he dormido un minuto” Son las voluntarias de Protección Civil de Villamanta. Son una veintena y, sobre todo, son importantes. Así lo revela, por ejemplo, el hecho de que figuren en el plan de emergencias del pueblo y que sean consideradas un valioso recurso por parte de Protección Civil. El motivo es que conocen la localidad y a los vecinos y están preparadas para desplegarse en cuestión de horas, cuando no minutos. En los últimos dos días, se han dedicado, entre otras tareas, a repartir comida, estar pendientes de los vecinos y tratar de levantar el ánimo del personal. Todo, por compromiso con la gente. Puro afán de ayudar. Para entender quiénes son hay que irse a una fecha que todos los vecinos del pueblo de Villamanta, en el suroeste de la Comunidad de Madrid, tienen grabada a fuego en la mente. En la madrugada del 3 al 4 de septiembre de 2023, una gran masa de nubes negras descargó con furia 190 litros por metro cuadrado. En cuestión de minutos, los ríos Alberche, Perales y Arroyo Grande se desbordan. En Aldea del Fresno, caen los tres puentes que dan acceso al municipio; y en El Álamo, la lluvia torrencial obliga a cancelar las fiestas. La peor parte, sin embargo, se la lleva Villamanta: coches arrastrados, árboles arrancados por la fuerza del agua y buena parte del pueblo enfangado. Finalmente, como un preludio de la que habría de asolar la Comunitat Valenciana tan solo un año después, aquella dana del suroeste de Madrid deja un balance desolador: casi 60 millones de euros en daños y dos víctimas mortales. “El Ayuntamiento pidió ayuda y la gente ayudó”, resume Ignacia Serrano, de 69 años. “El río crujía”, describe Alejandra Fuenlabrada, una estudiante de Filología Hispánica de 20 años que apenas era una adolescente cuando todo ocurrió. Sin embargo, en su memoria permanece nítido el recuerdo de aquellas horas: “Nos repartimos por zonas y nos pusimos a limpiar. Veíamos ambulancias, luces linternas…”. Tras la tragedia, cuentan, llegó una respuesta en forma de ola de solidaridad que no solo unió a las generaciones de Villamanta, sino que dejó para las catástrofes venideras un grupo que está siempre listo para ayudar en caso de necesidad acuciante. “Son mi mano derecha”, dice, orgulloso, a elDiario.es Fernando Madrid, trabajador de Protección Civil de 55 años que no dudó en acudir a ellas en la tarde del jueves, cuando se supo que los incendios que tienen en vilo el centro peninsular, los mismos que han obligado ya a evacuar a 60.000 personas en Madrid y Ávila, estaban afectando a los pueblos cercanos. Tras acudir solícitas al polideportivo de Villamanta en cuanto fueron convocadas, se han encargado durante todo el viernes, entre otras tareas, de repartir desayunos, comidas y cenas. Y lo seguirán haciendo mientras haga falta. Además, han mantenido durante todas estas horas un contagioso buen ánimo que proviene del recuerdo de las duras experiencias compartidas. “En 2023, erais más barro que niñas”, recuerdan, como forma de poner en valor su trabajo en aquel episodio, las veteranas a las más jóvenes. Los villamanteños, que tienen muy presente el modo en que niños y adolescentes arrimaron el hombro en la dana, no quieren ni oír hablar de guerra generacional: “A nuestros jóvenes que no nos los toquen”, resumen las voluntarias, que subrayan que durante estos días de fuego y angustia los vecinos de menor edad también están sabiendo estar a la altura. Forman parte de esta comprometida juventud y del grupo de voluntarias Marina González-Mohíno, estudiante de Trabajo Social de 20 años. También Daniela Núñez, estudiante de Artes Escénicas de la misma edad. Durante estos días, tratan de aplicar algo de lo aprendido en 2023: “En una situación así es importante mantener la calma”, explican. “También aprendimos que, por muchas ganas que tengas de ayudar, lo primero que hay que hacer es preguntar, porque puede pasar que en realidad termines estorbando”. Buena parte de este aprendizaje lo tuvieron que poner en práctica especialmente en la noche del jueves al viernes, con la gente recién salida de sus hogares y recién llegada a La Chopera, el polideportivo de Villamanta que está dando cobijo a las personas desplazadas de pueblos aledaños como Aldea del Fresno. Entre aquellos a quienes hubo que atender más urgentemente figuran los usuarios de tres residencias y las personas dependientes del centro ocupacional Amam. “En momentos así sientes mucha impotencia, porque quieres ayudar más y no puedes”, explica Paloma León, de 63 años. Este viernes, aunque las noticias que llegan de los incendios no dan respiro, el panorama en el polideportivo de Villamanta pinta algo mejor: muchos de quienes salieron de sus casas con lo puesto han podido ir a descansar a domicilios de familiares o amigos, y quienes lo necesitaban con más urgencia han sido reubicados por la Comunidad de Madrid. Pero las voluntarias de Protección Civil de Villamanta no aflojan: a eso de las 21.00, empiezan a repartir las cenas, y no pasará mucho tiempo antes de que empiecen a ayudar con los preparativos para que todos duerman lo mejor posible. Tras la catástrofe, llegan siempre ellas."
-  },
-  {
-    "titulo": "Así queda la parrilla de salida para el GP de Hungría de F1 2026 tras la clasificación en Budapest",
-    "medio": "OK Diario",
-    "fecha": 1784993317.0,
-    "link": "https://okdiario.com/deportes/asi-queda-parrilla-salida-gp-hungria-f1-2026-clasificacion-budapest-19068235",
-    "resumen": "La parrilla de salida del Gran Premio de Hungría 2026 ya está configurada y cuenta con la vuelta de Lando Norris a la pole por primera vez desde el año pasado en Las Vegas. El vigente campeón del mundo partirá como favorito a la victoria en la carrera de este domingo en el Hungaroring (15:00 … Continuar leyendo \"Así queda la parrilla de salida para el GP de Hungría de F1 2026 tras la clasificación en Budapest\""
   },
   {
     "titulo": "Los incendios en Francia dejan ya más de 200.000 evacuados",
@@ -70,32 +420,11 @@
     "resumen": "I know I’m in the minority here. I really did try to like it. But Christopher Nolan has taken the wiliest, most delightful hero in Western literature and turned him into one more Nolan sad sack, trudging guilt-stricken through a gray and godless world."
   },
   {
-    "titulo": "Clasificación F1 GP Hungría hoy: resultado, parrilla de salida y cómo han quedado Alonso y Sainz online en vivo",
-    "medio": "OK Diario",
-    "fecha": 1784992598.0,
-    "link": "https://okdiario.com/deportes/clasificacion-f1-gp-hungria-directo-donde-ver-ultima-hora-alonso-sainz-carrera-formula-1-online-vivo-hoy-19067384",
-    "resumen": "¡Buenas tardes! Bienvenidos a la retransmisión en directo de la clasificación del GP de Hungría de F1. La batalla por la pole apunta a ser muy igualada tras lo visto en los últimos entrenamientos. Lando Norris dominó la práctica 3 por delante de Hamilton y Antonelli, ambos a poco más de una décima. No hay … Continuar leyendo \"Clasificación F1 GP Hungría hoy: resultado, parrilla de salida y cómo han quedado Alonso y Sainz online en vivo\""
-  },
-  {
-    "titulo": "Señala las quejas \"absurdas\" de turistas y no dan crédito: genera más de 1.500 comentarios",
-    "medio": "HuffPost",
-    "fecha": 1784992579.0,
-    "link": "https://www.huffingtonpost.es/virales/senala-quejas-absurdas-turistas-dan-credito-genera-mas-1500-comentarios-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Incendios en Madrid y resto de España, hoy en directo | Última hora de los fuegos activos, municipios afectados y carreteras cortadas",
+    "titulo": "Incendios en Madrid y resto de España, hoy en directo | Fuegos activos, mapa, carreteras cortadas y municipios afectados",
     "medio": "El Español",
     "fecha": 1784992380.0,
     "link": "https://www.elespanol.com/madrid/comunidad/20260724/incendios-forestales-madrid-directo-hoy-ultima-hora-fuegos-espana-cortes-municipios-afectados-carreteras/1003744332481_10.html",
-    "resumen": "Los incendios que arrasan Madrid, Toledo y Ávila han calcinado ya cerca de 15.000 hectáreas, en La Vall d'Uixò se ha confinado a la población.El humo de los fuegos llena de humo y cenizas el cielo de la capital: \"Han saltado las alarmas antiincendios del edificio\""
-  },
-  {
-    "titulo": "PSOE y Podemos cargan contra Ayuso y el PP por los incendios: vinculan su gestión a los recortes y al rechazo de más recursos",
-    "medio": "HuffPost",
-    "fecha": 1784992218.0,
-    "link": "https://www.huffingtonpost.es/politica/psoe-cargan-ayuso-pp-incendios-vinculan-gestion-recortes-rechazo-mas-recursos-f202607.html",
-    "resumen": ""
+    "resumen": "Un hombre ha sido encontrado muerto en un coche mientras se trabajaba en un incendio declarado este sábado en el término municipal de Manises (Valencia).Sanidad recomienda a los madrileños quedarse en casa para evitar la exposición al humo: \"Es una mezcla tóxica\""
   },
   {
     "titulo": "Francia vive su peor ola de incendios: casi 98.000 hectáreas quemadas y 200.000 personas evacuadas",
@@ -105,46 +434,11 @@
     "resumen": "El Ejército incorporará un Airbus A400M de gran capacidad, adaptado para la lucha contra el fuego y en fase de ensayos, a las labores de extinción.Más información: Francia, Portugal, Grecia e Italia también luchan contra el fuego: más de 254.000 hectáreas han ardido en Europa este año"
   },
   {
-    "titulo": "María Pérez sigue haciendo historia tras batir el récord de España de 10.000 metros marcha",
-    "medio": "OK Diario",
-    "fecha": 1784992030.0,
-    "link": "https://okdiario.com/deportes/maria-perez-sigue-haciendo-historia-batir-record-espana-10-000-metros-marcha-19068146",
-    "resumen": "María Pérez ha vuelto a escribir una página histórica del atletismo español al batir este sábado el récord de España de los 10.000 metros marcha en los Campeonatos de España que se disputan en Málaga. La campeona olímpica, mundial y europea se impuso con una extraordinaria marca de 42:12.93, rebajando en más de un segundo … Continuar leyendo \"María Pérez sigue haciendo historia tras batir el récord de España de 10.000 metros marcha\""
-  },
-  {
-    "titulo": "Norris le quita la pole de Hungría a Hamilton por milésimas en la resurrección de Alonso (16º)",
-    "medio": "OK Diario",
-    "fecha": 1784991933.0,
-    "link": "https://okdiario.com/deportes/norris-quita-pole-hungria-hamilton-milesimas-resurreccion-alonso-16o-19067754",
-    "resumen": "El campeón del mundo reapareció por fin en la Fórmula 1. Lando Norris se llevó este sábado la primera pole que no pertenece a Mercedes en todo el Mundial 2026 y el piloto británico saldrá primero en la carrera del Gran Premio de Hungría este domingo (15:00 horas). Con un tiempo de 1:17.207, 12 milésimas … Continuar leyendo \"Norris le quita la pole de Hungría a Hamilton por milésimas en la resurrección de Alonso (16º)\""
-  },
-  {
-    "titulo": "Álvaro Pascual-Leone, neurólogo: \"Lo preocupante no es que no te acuerdes de la palabra atril, es que no seas capaz de recordar para qué sirve\"",
-    "medio": "HuffPost",
-    "fecha": 1784991751.0,
-    "link": "https://www.huffingtonpost.es/life/salud/alvaro-pascual-leone-neurologo-lo-preocupante-te-acuerdes-palabra-atril-seas-capaz-recordar-que-sirve-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Carlos Martínez, 28 años, técnico de laboratorio: \"No voy a heredar la empresa. Igual que para la empresa nosotros somos un número, para mí ella también\"",
-    "medio": "HuffPost",
-    "fecha": 1784991726.0,
-    "link": "https://www.huffingtonpost.es/sociedad/carlos-martinez-28nos-tecnico-laboratorio-no-heredar-empresa-igual-empresa-numero-mi-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Ana Lorente, astróloga, sobre cómo salir del piloto automático durante las vacaciones: «No es magia, es fisiología»",
-    "medio": "OK Diario",
-    "fecha": 1784991645.0,
-    "link": "https://okdiario.com/cool/ana-lorente-astrologa-sobre-como-salir-del-piloto-automatico-durante-vacaciones-no-magia-fisiologia-19068070",
-    "resumen": "Durante las vacaciones necesitamos salir del modo piloto automático para disfrutar de nuestro tiempo libre, Ana Lorente nos explica cómo conseguirlo. Estamos viviendo unos días en los que quizás tenemos que empezar a pensar en una parada obligatoria, estamos viviendo unos días en los que las vacaciones parece que se convierten en una auténtica pesadilla … Continuar leyendo \"Ana Lorente, astróloga, sobre cómo salir del piloto automático durante las vacaciones: «No es magia, es fisiología»\""
-  },
-  {
-    "titulo": "Construyen la primera ciudad aeropuerto de América Latina: recibirá a 40 millones de pasajeros al año y será la nueva joya arquitectónica del continente",
-    "medio": "OK Diario",
-    "fecha": 1784991642.0,
-    "link": "https://okdiario.com/tecnologia/construyen-primera-ciudad-aeropuerto-america-latina-recibira-40-millones-pasajeros-ano-sera-nueva-joya-arquitectonica-del-continente-19068116",
-    "resumen": "Más de 40 millones de pasajeros al año recibirá la primera ciudad aeropuerto de América Latina, un proyecto que se convierte en la joya arquitectónica del continente. Los viajes en avión son cada vez más frecuentes, en especial en un continente que ha iniciado un éxodo, los trabajadores americanos o los descendientes del viejo continente … Continuar leyendo \"Construyen la primera ciudad aeropuerto de América Latina: recibirá a 40 millones de pasajeros al año y será la nueva joya arquitectónica del continente\""
+    "titulo": "Fernando Alonso recupera la dignidad de Aston Martin y saldrá 16º en la pole de Norris en el GP de Hungría",
+    "medio": "El Español",
+    "fecha": 1784992034.0,
+    "link": "https://www.elespanol.com/deportes/motor/f1/20260725/fernando-alonso-recupera-dignidad-aston-martin-saldra-pole-norris-gp-hungria/1003744334136_0.html",
+    "resumen": "El asturiano, por primera vez esta temporada pasó de la Q3, aunque no pudo hacer nada en la Q2. El vigente campeón se llevó una pole milagrosa."
   },
   {
     "titulo": "Un grupo de astronautas sin formación médica se ha hecho la primera radiografía en órbita del mundo: es un avance brutal",
@@ -182,13 +476,6 @@
     "resumen": "El ecuatoriano, pletórico, vence en solitario en la segunda meta consecutiva en el Alpe d'Huez. El líder brinda el podio a su compañero Del Toro. Ayuso lo intentó en la escapada Leer"
   },
   {
-    "titulo": "Once muertos, incluidos 4 niños, por un ataque ucraniano en la región ocupada de Zaporiyia",
-    "medio": "La Vanguardia",
-    "fecha": 1784991405.0,
-    "link": "https://www.lavanguardia.com/internacional/20260725/11601019/once-muertos-incluidos-4-ninos-ataque-ucraniano-region-ocupada-zaporiyia.html",
-    "resumen": "Zelenski asegura que los ataques rusos a Ucrania en las últimas han causado seis muertos en bombardeos en Sloviansk y Sumi"
-  },
-  {
     "titulo": "Ayuso se desplaza a su pueblo, Sotillo de la Adrada (Ávila), para recoger pertenencias personales ante el desalojo por el incendio",
     "medio": "El Mundo",
     "fecha": 1784991342.0,
@@ -203,14 +490,7 @@
     "resumen": "Las autoridades de Ucrania han informado este sábado de que al menos tres personas han muerto por un ataque «masivo» perpetrado por las fuerzas de Rusia […]"
   },
   {
-    "titulo": "Richard Carapaz vence en Alpe d’Huez en la penúltima etapa del Tour de Francia",
-    "medio": "El País",
-    "fecha": 1784990645.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-07-25/richard-carapaz-vence-en-alpe-dhuez-en-la-penultima-etapa-del-tour-de-francia.html",
-    "resumen": "Pogacar llegará de amarillo mañana a París y se convertirá en el quinto ciclista de la historia en conquistar cinco veces la ‘Grande Boucle’, el más joven de todos ellos en conseguirlo"
-  },
-  {
-    "titulo": "Los incendios en Francia dejan ya más de 200.000 evacuados tras calcinar un récord de casi 98.000 hectáreas",
+    "titulo": "Los incendios en Francia dejan ya más de 200.000 evacuados tras calcinar un récord de 98.000 hectáreas",
     "medio": "Europa Press",
     "fecha": 1784990534.0,
     "link": "https://www.europapress.es/internacional/noticia-incendios-francia-dejan-ya-mas-200000-evacuados-calcinar-record-casi-98000-hectareas-20260725164214.html",
@@ -224,39 +504,11 @@
     "resumen": "Sepp Kuss rozó la tragedia a falta de siete kilómetros para el final con una caída que le dio la victoria al ecuatoriano en una jornada histórica."
   },
   {
-    "titulo": "Recortan la última etapa del Tour por los efectivos implicados en los incendios",
-    "medio": "La Vanguardia",
-    "fecha": 1784990327.0,
-    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260725/11601016/recortan-ultima-etapa-tour-efectivos-implicados-incendios.html",
-    "resumen": "La jornada de cierre se limitará al circuito urbano por París y tendrá 89 kilómetros en vez de los 133 previstos"
-  },
-  {
-    "titulo": "Pogacar sentencia su quinto Tour de Francia ejerciendo de gregario para Del Toro",
-    "medio": "La Vanguardia",
-    "fecha": 1784990289.0,
-    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260725/11601002/pogacar-gana-virtualmente-tour-de-francia-carapaz-etapa-20.html",
-    "resumen": "Carapaz se lleva la victoria en la jornada más dura que se recuerda en la Grand Boucle, mientras que Ayuso recupera la sexta posición"
-  },
-  {
-    "titulo": "Jefe de dotación de bomberos voluntario: “Lo que he visto aquí no lo había visto nunca”",
+    "titulo": "Richard Carapaz vence en Alpe d’Huez en la penúltima etapa del Tour de Francia",
     "medio": "El País",
-    "fecha": 1784990100.0,
-    "link": "https://elpais.com/espana/madrid/2026-07-25/jefe-de-dotacion-de-bomberos-voluntario-he-estado-en-portugal-varias-veces-lo-que-he-visto-aqui-no-lo-habia-visto-nunca.html",
-    "resumen": "Fernando Echave cuenta un día de lucha contra las llamas y confiesa que “la devastación es muy grande” porque es masa forestal y viviendas"
-  },
-  {
-    "titulo": "Los jóvenes del movimiento de ‘las cucarachas’ anuncian el fin de sus protestas tras lograr la dimisión del ministro de Educación de la India",
-    "medio": "El País",
-    "fecha": 1784990054.0,
-    "link": "https://elpais.com/internacional/2026-07-25/las-protestas-de-los-jovenes-del-movimiento-de-las-cucarachas-fuerzan-la-dimision-del-ministro-de-educacion-de-la-india.html",
-    "resumen": "El Gobierno de Narendra Modi ha prometido satisfacer también las otras demandas de los manifestantes, cuya principal exigencia era la renuncia de Dharmendra Pradhan"
-  },
-  {
-    "titulo": "Durante más de cien años se pensó que no existía; ahora se ha encontrado un \"sistema de eliminación de residuos\" en la parte posterior del ojo",
-    "medio": "HuffPost",
-    "fecha": 1784989943.0,
-    "link": "https://www.huffingtonpost.es/life/salud/durante-mas-ciennos-penso-existia-encontrado-sistema-eliminacion-residuos-parte-posterior-ojo-f202607.html",
-    "resumen": ""
+    "fecha": 1784990084.0,
+    "link": "https://elpais.com/deportes/ciclismo/2026-07-25/richard-carapaz-vence-en-alpe-dhuez-en-la-penultima-etapa-del-tour-de-francia.html",
+    "resumen": "Pogacar llegará de amarillo mañana a París y se convertirá en el quinto ciclista de la historia en conquistar cinco veces la ‘Grande Boucle’, el más joven de todos ellos en conseguirlo"
   },
   {
     "titulo": "Tu cuerpo llevaba miles de años regulando la temperatura solo. Hasta que llegó el aire acondicionado y le dijo \"tú tranqui, ya me encargo yo\" (no sale bien)",
@@ -264,20 +516,6 @@
     "fecha": 1784989827.0,
     "link": "https://www.xataka.com/medicina-y-salud/tu-cuerpo-llevaba-miles-anos-regulando-temperatura-solo-que-llego-aire-acondicionado-le-dijo-tu-tranqui-me-encargo-yo-no-sale-bien",
     "resumen": "El aire acondicionado es nuestro mejor amigo en verano. Sin embargo, igual que no estamos pegados 24/7 a nuestros mejores amigos, tampoco deberíamos hacerlo con el aire acondicionado. Con tu amigo no es bueno porque te quedarías sin cotilleos para contarle, pero con el aire acondicionado el problema es que puede ser peligroso para tu salud. Y para tu bolsillo, lógicamente. Termorregulador, ¿para qué? Según explican en un artículo de Meteored, uno de los mayores problemas de abusar del aire acondicionado es que nuestro sistema natural de termorregulación se vuelve un poco vago. Los seres humanos somos animales homeotermos. Eso quiere decir que nos mantenemos a una temperatura estable, de unos 36,5ºC, independientemente de que fuera haya 0ºC o 42ºC. Para ello, contamos con mecanismos como la sudoración con el calor o los temblores con el frío. Sin embargo, esas adaptaciones las solemos hacer con fluctuaciones de temperatura naturales. Si nos pasamos el día a los 19ºC del aire acondicionado, cuando salgamos a la calle, a nuestro cuerpo le va a costar más trabajo adaptarse como haría normalmente. En Xataka Dormir a más de 30 grados ya es algo \"normal\" en casi toda España. Y Vigo es el canario en la mina Es algo que también se ve durante el sueño. Gracias a los ritmos circadianos, la temperatura de nuestro cuerpo desciende poco a poco durante la noche para ayudarnos a conciliar el sueño. Sin embargo, si la bajamos nosotros artificialmente y de golpe, nos costará mucho más descansar. Mucosas secas. El aire acondicionado no solo baja la temperatura. También reseca el aire. Y si el aire se seca, nuestras mucosas también. Todos hemos notado alguna vez esa sensación de nariz y garganta secas cuando pasamos mucho tiempo con el aire acondicionado. De hecho, se nota sobre todo de noche. El gran problema de esto es que una de nuestras barreras de protección frente a la entrada de patógenos respiratorios es precisamente la humedad de las mucosas, que permite el movimiento de unas estructuras, llamadas cilios, que mantienen a raya a virus y bacterias. El frío no resfría, es un mito muy extendido. Los que resfrían son los virus, por lo que si no hay ninguno en el ambiente no enfermaremos. Sin embargo, si el frío del aire acondicionado nos ha resecado las mucosas y hay algún virus pululando, será mucho más difícil que nos defendamos. Dolores musculares. Cuando pasamos mucho tiempo bajo el aire acondicionado, nuestros músculos se enfrían y tienden a encogerse para generar y retener mejor el calor, por lo que es habitual que nos duelan. En Xataka Mejores aires acondicionados calidad precio 2026. Cuál comprar y siete modelos recomendados por menos de 800 euros No más de 12 ºC de diferencia. Lógicamente, el aire acondicionado es necesario. Sin embargo, ni debemos abusar ni tampoco ponerlo demasiado frío. Según explicó a EFE Salud la doctora Sandra Dorado, coordinadora del área de Enfermedades Respiratorias de Origen Ocupacional y Medioambiental (EROM) de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), más de 12 ºC de diferencia al pasar de una estancia a otra ya se consideran poco saludables. Debemos intentar no sobrepasar esa diferencia y, si es posible, aclimatarnos antes de salir de golpe a la calle. Además, es importante limpiar los filtros del aire acondicionado regularmente. Así se evitarán problemas de asma e infecciones respiratorias por respirar un aire de mala calidad. Dicho esto, sigue usando el aire acondicionado, igual que quedas con tu mejor amigo. Pero deja tiempo sin veros para que surjan cotilleos entre vosotros y, cuando estéis juntos, trátalo bien. Imagen | Magnific En Xataka | Estos días me esta costando conciliar el sueño por el calor que hace. Pero es poner este dispositivo y dormir a pierna suelta - La noticia Tu cuerpo llevaba miles de años regulando la temperatura solo. Hasta que llegó el aire acondicionado y le dijo \"tú tranqui, ya me encargo yo\" (no sale bien) fue publicada originalmente en Xataka por Azucena Martín ."
-  },
-  {
-    "titulo": "Máxima de los Países Bajos inaugura por primera vez el Orgullo Mundial en Ámsterdam",
-    "medio": "El País",
-    "fecha": 1784989787.0,
-    "link": "https://elpais.com/gente/2026-07-25/maxima-de-los-paises-bajos-inaugura-por-primera-vez-el-orgullo-mundial-en-amsterdam.html",
-    "resumen": "WorldPride se celebra cada año en una ciudad distinta y este 2026 es el debut de la capital neerlandesa. La reina consorte, que es la primera en la historia de la realeza en encabezar una apertura de esta clase, ha interrumpido sus vacaciones para asistir a la cita y apoyar a la comunidad LGTBIQ+"
-  },
-  {
-    "titulo": "La pareja que recorrió 30 países viviendo en 3 metros cuadrados y ahora construye su casa en un terreno de 6.000 entre olivos: \"Queríamos una base que nos permitiera llegar más lejos\"",
-    "medio": "HuffPost",
-    "fecha": 1784988874.0,
-    "link": "https://www.huffingtonpost.es/sociedad/la-pareja-recorrio-30-paises-viviendo-3-metros-cuadrados-construye-casa-terreno-6000-olivos-queriamos-base-permitiera-llegar-mas-lejos-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "El inesperado y amargo momento de Messi: en su casa, en silencio y en medio de una tormenta mundial",
@@ -292,48 +530,6 @@
     "fecha": 1784988731.0,
     "link": "https://www.elespanol.com/ciencia/20260725/sanidad-recomienda-quedarse-casa-evitar-exposicion-humo-mezcla-toxica-particulas-pequenas/1003744334109_0.html",
     "resumen": "La ministra de Sanidad ha recomendado a los madrileños evitar permanecer al aire libre mucho tiempo o hacerlo con mascarilla.Más información: El humo de los fuegos llena de humo y cenizas el cielo de la capital: \"Han saltado las alarmas antiincendios del edificio\""
-  },
-  {
-    "titulo": "El traslado de Cenicientos a Navalcarnero: “Se está evacuando toda la zona”",
-    "medio": "El País",
-    "fecha": 1784988711.0,
-    "link": "https://elpais.com/videos/2026-07-25/el-traslado-de-cenicientos-a-navalcarnero-se-esta-evacuando-toda-la-zona.html",
-    "resumen": "Un equipo de EL PAÍS entrevista a la portavoz de la Guardia Civil que informa de la evacuación de todas las localidades limítrofes a Ávila"
-  },
-  {
-    "titulo": "El retorno del fuego",
-    "medio": "El País",
-    "fecha": 1784988433.0,
-    "link": "https://elpais.com/opinion/2026-07-25/el-retorno-del-fuego.html",
-    "resumen": "El fuego vuelve: lo que fue herramienta es amenaza. Ahora es un olor y un color extraños: el olor de algo que se quema, el color de lo que se ha iluminado demasiado"
-  },
-  {
-    "titulo": "Un fallecido en el incendio en un barranco de Manises (Valencia)",
-    "medio": "eldiario.es",
-    "fecha": 1784988433.0,
-    "link": "https://www.eldiario.es/comunitat-valenciana/medios-aereos-incendio-declarado-barranco-manises-valencia_1_13406908.html",
-    "resumen": "El ayuntamniento da por controlado el fuego, que se ha iniciado sobre las 12.45 en un área de vegetación del barranco del Salt de l'AiguaConfinan el municipio de Vilavella, en Castellón, debido al incendio de La Vall d'Uixò El incendio en Manises se ha cobrado la vida de un hom bre de 78 años, según ha informado el ayuntamiento, que ha decretado dos días de duelo oficial. El consistorio ha dado por controlado el incendio y los efectivos de bomberos siguen refrescando la zona. Dos medios aéreos y nueve dotaciones de bomberos trabajan para sofocar un incendio declarado a primera hora de esta tarde en una zona de barranco del municipio valenciano de Manises. Según ha informado el Consorcio Provincial de Bomberos de Valencia, las llamas han comenzado sobre las 12.45 en un área de vegetación del barranco del Salt de l'Aigua de Manises (Valencia). Al lugar del fuego se han desplazado seis dotaciones de bomberos, dos BRIFO, un sargento, un coordinador forestal y un oficial del Consorcio. Además, ha acudido también una unidad de bomberos forestales y dos medios aéreos de la Generalitat."
-  },
-  {
-    "titulo": "La Junta desaconseja el baño en la playa de Atlanterra, Zahara de los Atunes, por bacterias fecales",
-    "medio": "Moncloa.com",
-    "fecha": 1784988248.0,
-    "link": "https://www.moncloa.com/2026/07/25/junta-andalucia-atlanterra-playa-bacterias-3405614/",
-    "resumen": "La Junta desaconseja el baño en la playa de Atlanterra (Zahara de los Atunes, Cádiz) tras detectar bacterias fecales. Se investiga un posible vertido ilegal. La entrada La Junta desaconseja el baño en la playa de Atlanterra, Zahara de los Atunes, por bacterias fecales aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Extinguido el peor incendio de la historia de Andalucía en Los Gallardos (Almería)",
-    "medio": "Moncloa.com",
-    "fecha": 1784988215.0,
-    "link": "https://www.moncloa.com/2026/07/25/incendio-los-gallardos-almeria-extinguido-3405615/",
-    "resumen": "El incendio de Los Gallardos (Almería), el peor de la historia andaluza, ha sido extinguido. El consejero Antonio Sanz agradeció la labor del Infoca y la EMA. La entrada Extinguido el peor incendio de la historia de Andalucía en Los Gallardos (Almería) aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Miquel Travé, campeón del mundo de C1",
-    "medio": "La Vanguardia",
-    "fecha": 1784988092.0,
-    "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260725/11601010/catalan-miquel-trave-campeon-mundo-c1.html",
-    "resumen": "El palista ilerdense se impone en el escenario que será sede de los Juegos de Los Ángeles'28"
   },
   {
     "titulo": "Restaurados durante cinco años, estos tres cuadros de Murillo volverán a mostrarse al público en este museo gaditano",
@@ -357,13 +553,6 @@
     "resumen": "Nieves Álvarez es una de nuestras modelos más internacionales que comenzó su carrera siendo muy joven y pronto desfiló para algunas de las casas de moda más prestigiosas del mundo. Su elegancia y presencia la convirtieron en una habitual de las pasarelas de París, Milán o Nueva York y en musa de diseñadores como Stéphane Rolland, o imagen de Yves Saint Laurent durante más de doce años. Hoy, a lo 52 años y una carrera consolidada dentro y fuera de las pasarelas, se ha convertido precisamente en una de las voces que más reivindican que cumplir años no es un problema, sino un privilegio. Su discurso sobre la longevidad habla de bienestar, de curiosidad, de salud mental y de seguir encontrando motivos para seguir adelante cada día. \"Para mí es levantarme cada mañana con un propósito; ya no es cuántos años voy a vivir, sino cómo quiero vivirlos, de forma intensa y fructífera\", resumía recientemente durante su intervención en el 'Longevity Experience Forum', tal y como recoge este artículo de Magas. A lo largo de su trayectoria Nieves desarrolló otras nuevas facetas como empresaria, comunicadora y presentadora de 'Flash Moda', el programa de TVE dedicado al universo del lujo, la belleza y las tendencias. También lanzó su propia firma cosmética, una extensión natural de todo lo aprendido durante más de tres décadas trabajando con algunos de los mejores profesionales de la industria. @officialnievesa Precisamente esa capacidad para seguir evolucionando explica buena parte de su filosofía actual. Lejos de pensar que la experiencia significa haber llegado a una meta, asegura que continúa sintiéndose una aprendiz. \"La longevidad es una forma de vida. No es solo vivir más años, sino saber vivirlos bien\". Y añade: \"Me he dado cuenta de que el camino del aprendizaje es infinito. No, no sé nada. Y eso me alimenta muchísimo\", reconocía durante el mismo encuentro. @officialnievesa De esconder la edad a convertirla en una fortaleza Nieves también confesaba cómo el mundo de la moda era muy distinto al actual, y antes trataba la edad de las mujeres como un hándicap. \"Yo me he pasado toda la vida mintiendo. Recuerdo ir a castings con 21 años y que me dijeran: 'Cuando llegues di que tienes 18'\". Sin embargo, con el paso del tiempo fue testigo de un cambio de paradigma y recuerda incluso el momento en que una firma buscaba expresamente modelos de más de 40 años: \"Y pensé, ¿ya no tengo que mentir?\". Hoy considera que la sociedad empieza a valorar la experiencia de otra manera, \"la edad ya no se ve como algo que ocultar, sino como una bandera de bienestar y experiencia\", afirmaba, convencida de que referentes internacionales como Meryl Streep también han contribuido a normalizar una imagen mucho más positiva de la madurez. @mujerhoy Dice que ahora, al fin, ya sabe quién es. A sus 52, la modelo, presentadora y empresaria suma a su vida dos regalos: un pequeño papel en la última película de Almodóvar y una boda en segundas nupcias que confirma su espléndida madurez. Nieves Álvarez nos cuenta qué consejo le daría a su yo de hace 20 (o 30) años. nievesalvarez ♬ sonido original - Mujerhoy - Mujerhoy Y, en otra de las entrevistas que la modelo ha concedido, a la pregunta de, ¿qué consejo le darías a la Nieves de hace 20 años?, contestaba: \"La autoexigencia me ha hecho no disfrutar de ciertas cosas como hubiera debido. Entonces a veces hay que dejarse ir, vivir la vida, relajarme un poco más\", aunque también comenta que \"quizás esa Nieves de hace 30 años hizo esas cosas para ser la Nieves que soy ahora\". La longevidad va mucho más allá de vivir muchos añosPara Nieves Álvarez, la longevidad no consiste únicamente en alargar la esperanza de vida, lo importante es cómo se viven esos años. \"Ya no es cuantos años voy a vivir, sino cómo quiero vivirlos\", explicaba durante el mismo foro, defendiendo un concepto que pone el foco en la calidad de vida, la autonomía, la energía y la ilusión por seguir creciendo. Esa filosofía también pasa por cultivar la paz interior. \"El mejor hábito es vivir de dentro hacia afuera. Cuidarte por dentro para luego estar bien por fuera\". Según la modelo, las personas que transmiten una energía especial suelen compartir este rasgo común. \"Saber quién eres, que no te importen tanto las críticas y estar en paz contigo misma\", resumía como una de las claves para afrontar el paso del tiempo. @officialnievesa Pero, su visión de la madurez no se limita a los hábitos saludables o al cuidado físico, también incluye una transformación emocional que, según reconoce, solo ha llegado con los años. \"Estoy aprendiendo a decir que no y a alejarme de las personas que no me suman\", confesaba, una reflexión que conecta con una idea cada vez más presente entre quienes hablan de envejecimiento saludable: proteger el bienestar emocional es tan importante como cuidar el cuerpo. y, dentro de ese equilibrio también ocupa un lugar destacado el ejercicio físico, pero apunta que lo hace ya \"no es por estar mejor físicamente o no, es salud mental\". En definitiva, su forma de entender la edad resume, en realidad, la evolución de toda una generación de mujeres. Si durante años cumplir años era algo que había que esconder, hoy ella reivindica justamente lo contrario, ya que la verdadera longevidad no consiste en sumar años a la vida, sino en llenar de vida cada uno de esos años. Fotos | @officialnievesa, Gtres En Trendencias | Elle MacPherson, 62 años: \"Hoy encuentro mi vida mucho más plena y enriquecedora al centrarme en mi bienestar y equilibrio interior\" En DAP | Expertos jardineros coinciden: “Regar tus plantas a las tres de la tarde es como echarles un cubo de agua hirviendo por encima”. En Motorpasión | Michelin crea unas llantas indestructibles y que no llevan aire, pero hay un problema: no se las puedes poner a tu carro. - La noticia Nieves Álvarez, a los 52 años: \"Para mí es levantarme cada mañana con un propósito; ya no es cuántos años voy a vivir, sino cómo quiero vivirlos, de forma intensa y fructífera. Eso para mí es longevidad\" fue publicada originalmente en Trendencias por Sara Hormigo ."
   },
   {
-    "titulo": "El boom de las bicis eléctricas: por qué las eligen cada vez más",
-    "medio": "La Vanguardia",
-    "fecha": 1784988000.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260725/11599215/boom-bicicletas-electricas-descubre-vez-mas-personas-eligen-cuales-son-mejores-modelos-momento-mkt-alie.html",
-    "resumen": "Autonomía, potencia, comodidad y precios para todos los bolsillos: seleccionamos ocho bicicletas eléctricas que destacan por su calidad y prestaciones para ayudarte a encontrar la ideal"
-  },
-  {
     "titulo": "LG está instalando un polémico spyware en los PC de sus usuarios sin avisar: así puedes eliminarlo",
     "medio": "Hipertextual",
     "fecha": 1784988000.0,
@@ -378,25 +567,11 @@
     "resumen": "La esposa del rey Guillermo Alejandro inaugura el WorldPride 2026 y reivindica los derechos LGTBI Leer"
   },
   {
-    "titulo": "La archiduquesa Isabel de Habsburgo-Lorena se casa con Carlos de Palacio Gaytán de Ayala en Viena",
-    "medio": "La Vanguardia",
-    "fecha": 1784986800.0,
-    "link": "https://www.lavanguardia.com/gente/20260725/11601007/archiduquesa-isabel-habsburgo-lorena-casa-carlos-palacio-gaytan-ayala-viena.html",
-    "resumen": "La pareja, afincada en Londres, ha tenido entre sus invitados a los reyes Felipe y Matilde de los belgas"
-  },
-  {
     "titulo": "India’s “Cockroach” Protest Movement Faces State Repression",
     "medio": "Jacobin ES",
     "fecha": 1784986747.0,
     "link": "https://jacobin.com/2026/07/india-student-protest-state-violence",
     "resumen": "After weeks of ignored demonstrations, thousands of students, alongside parents, teachers, and supporters from across India marched on Parliament to press their demands. They were met with tear gas, police violence, and detentions."
-  },
-  {
-    "titulo": "El español Javier Rodríguez conquista la Comic-Con de San Diego con tres galardones",
-    "medio": "La Vanguardia",
-    "fecha": 1784986371.0,
-    "link": "https://www.lavanguardia.com/cultura/arte/20260725/11601006/dibujante-espanol-javier-rodriguez-conquista-comic-san-diego-tres-galardones.html",
-    "resumen": "El autor de 'Absolute Martian Manhunter' fue uno de los grandes vencedores de los Premios Eisner, considerados los Óscar del cómic, en el marco de la conferencia que se desarrolla en la ciudad californiana"
   },
   {
     "titulo": "LG xboom Rock, análisis: pequeño, matón y sorprendentemente resistente a las inclemencias del verano",
@@ -413,53 +588,11 @@
     "resumen": "Al menos ocho personas han muerto, entre ellas dos niños, y otras 14 han resultado heridas en un ataque perpetrado este sábado por las Fuerzas Armadas […]"
   },
   {
-    "titulo": "Confinan el municipio de Vilavella, en Castellón, debido al incendio de Vall d'Uixò",
+    "titulo": "Desalojan los municipios de La Vilavella y Artana, en Castellón, debido al incendio de la Vall d'Uixó",
     "medio": "eldiario.es",
     "fecha": 1784985871.0,
     "link": "https://www.eldiario.es/comunitat-valenciana/confinan-municipio-vilavella-castellon-debido-incendio-vall-d-uixo_1_13406865.html",
-    "resumen": "El Centro de Coordinación de Emergencias de la Generalitat envía un Es-Alert a la población para comunicar el confinamiento del municipio y se activa a la UMESiete medios aéreos y numerosos terrestres trabajan en un incendio en La Vall d'Uxiò El Centro de Coordinación de Emergencias (CCE) de la Generalitat ha enviado un Es-Alert a la población para comunicar el confinamiento del municipio de Vilavella, en la provincia de Castellón, a causa del incendio declarado en la Vall d'Uixò. Por otro lado, se ha activado la Unidad Militar de Emergencias (UME). Efectivos del Tercer Batallón de Intervención se han incorporado esta tarde a la lucha contra el fuego en la Vall d'Uixó. Según ha informado el CCE, el texto señala que “con motivo del incendio de vegetación de la Vall D'Uixó, se ordena el confinamiento del municipio de la Vilavella”, una localidad de 3.000 habitantes de la comarca de la Plana Baixa, en el sureste de la provincia de Castellón. El fuego, cuya evolución es negativa, según el Consorcio Provincial de Bomberos de Castellón, ha obligado a activar la situación 2 del Plan Especial de Incendios Forestales (PEIF) y a desalojar una urbanización de manera preventiva. En las labores de extinción del incendio trabajan un total de siete medios aéreos (tres helicópteros y dos aviones) y numerosos medios terrestres. Imagen del incendio declarado en La Vall d'Uixò (Castellón), cuya evolución es negativa. El president de la Generalitat, Juanfran Pérez Llorca, se ha desplazado al Puesto de Mando Avanzado (PMA) para seguir de primera mano la evolución de los trabajos de extinción. Fuentes municipales han explicado que el fuego se desplaza en dirección norte, hacia las localidades de la Vilavella y Artana."
-  },
-  {
-    "titulo": "La Junta confina a los vecinos de Pinos del Valle (Granada) por un incendio forestal y activa el nivel 1",
-    "medio": "Moncloa.com",
-    "fecha": 1784985563.0,
-    "link": "https://www.moncloa.com/2026/07/25/incendio-forestal-pinos-del-valle-granada-3405610/",
-    "resumen": "El fuego, declarado a mediodía en el pantano del Beznar, obliga a la Junta a enviar un aviso Es-Alert a Pinos del Valle (Granada) y a elevar el nivel de emergencia. La entrada La Junta confina a los vecinos de Pinos del Valle (Granada) por un incendio forestal y activa el nivel 1 aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Trump usa la Smoot-Hawley de 1930 y la Sección 301 en su guerra arancelaria contra España y 80 países",
-    "medio": "Moncloa.com",
-    "fecha": 1784985531.0,
-    "link": "https://www.moncloa.com/2026/07/25/guerra-arancelaria-trump-leyes-1930-3405607/",
-    "resumen": "Trump desempolva la Smoot-Hawley de 1930 y la Sección 301 para imponer aranceles a más de 80 países, incluida España. La UE prepara una respuesta mientras el barril de Brent roza los 100 dólares. La entrada Trump usa la Smoot-Hawley de 1930 y la Sección 301 en su guerra arancelaria contra España y 80 países aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Whoop y Google tienen nuevo rival: así es la nueva Garmin CIRQA, una pulsera de actividad sin pantalla que no necesita suscripción",
-    "medio": "Xataka",
-    "fecha": 1784985387.0,
-    "link": "https://www.xataka.com/seleccion/whoop-google-tienen-nuevo-rival-asi-nueva-garmin-cirqa-pulsera-actividad-pantalla-que-no-necesita-suscripcion",
-    "resumen": "Sin pantalla: Garmin ya ha hecho oficial su nueva CIRQA. Esta pulsera de actividad llega para competir directamente con Whoop y con la FitBit Air de Google en un sector que cada vez tiene más tirón. Su propuesta juega con una baza muy interesante con respecto a sus rivales y ya se puede comprar en España: cuesta 199,99 euros. Una pulsera sin pantalla que no tiene suscripción Estos dispositivos tienen el objetivo claro de ayudarnos a medir nuestra salud o nuestros entrenamientos, pero sin la necesidad de tener una pantalla que nos pueda distraer con notificaciones. De esta forma, al igual que ocurre con las propuestas de Google o Whoop, la información la tendremos que consultar siempre en el teléfono móvil. Con más o menos diferencias frente a sus rivales, vuelve a ser la suscripción la forma de encajar esta CIRQA entre sus rivales. En ese sentido, esta nueva pulsera está más cerca de la Fitbit Air de Google: la puedes comprar sin suscripción obligatoria y usar un montón de funciones, pero si quieres todo lo que ofrece, entonces hay que pasar por caja con la suscripción Garmin Connect+. Al otro lado, sin ninguna suscripción, tenemos otras pulseras como la Polar Loop. En Xataka Fitbit Air vs Whoop vs Polar Loop: la batalla por la pulsera sin pantalla más barata la gana Google, pero todo depende de si quieres o no una suscripción más ¿Y para qué sirve Garmin CIRQA? Como decimos, es una pulsera de actividad que nos puede ayudar a medir muchos parámetros. Ahí podemos meter la frecuencia cardíaca, algo que mide constantemente (de hecho, nos avisa si mide una frecuencia irregular). Además, también la frecuencia respiratoria, el estrés, el sueño, la hidratación, salud femenina e incluso la temperatura de la piel, entre otras muchas cosas. A todo lo anterior hay que sumar que también nos puede ayudar a controlar por GPS nuestros entrenamientos (depende de la conexión al móvil para ello). Tiene hasta 10 días de autonomía y está disponible en dos tallas diferentes y cuatro colores. ⚡ EN RESUMEN: garmin cirqa ✅ LO MEJORIdeal si quieres evitar distracciones: Es un dispositivo ideal si quieres algo que te ayude a medir tu salud o tus entrenamientos que sea discreto y que no tenga pantalla.Mide un montón de parámetros: Desde la salud femenina a la frecuencia cardíaca o el sueño. Esta pulsera puede ser un aliado si quieres controlar tu día a día.Hasta 10 días de autonomía: La marca promete que su batería es capaz de aguantar hasta 10 días sin carga. ❌ LO PEORSuscripción si quieres todas sus funciones: Es cierto que la suscripción no es obligatoria como si ocurre con la pulsera de Whoop, pero es necesaria si quieres todas sus funciones. 💡 CÓMPRALO SI... Buscas una pulsera de actividad sin pantalla y tienes ya en casa otros dispositivos Garmin. ⛔ NO LO COMPRES SI... Prefieres una opción más económica o que no tenga ningún tipo de suscripción, ni siquiera opcional. En Xataka Hoy en Lidl (y a mitad de precio) este robot aspirador con base de autovaciado que apenas necesita mantenimiento También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Garmin En Xataka | Mejores pulseras de actividad. Cuál comprar y modelos más recomendados desde 25 euros En Xataka | Mejores smartwatch en calidad precio. Cuál comprar en función del uso y siete modelos recomendados - La noticia Whoop y Google tienen nuevo rival: así es la nueva Garmin CIRQA, una pulsera de actividad sin pantalla que no necesita suscripción fue publicada originalmente en Xataka por Juan Lorente ."
-  },
-  {
-    "titulo": "Adif da por reparado el socavón de Montcada y pone la infraestructura ferroviaria a disposición de Rodalies",
-    "medio": "eldiario.es",
-    "fecha": 1784984878.0,
-    "link": "https://www.eldiario.es/catalunya/adif-da-reparado-socavon-moncada-pone-infraestructura-ferroviaria-disposicion-rodalies_1_13406854.html",
-    "resumen": "El gestor ferroviario del Ministerio asegura que no se han detectado movimientos del terreno ni afectaciones en los edificios del entornoEl socavón en la obra de Montcada mantendrá cortadas la R2 y R11 de Rodalies hasta la semana que viene Adif ha completado la reparación del boquete provocado el miércoles durante las obras del soterramiento de las vías en Montcada y este sábado ha puesto la infraestructura ferroviaria a disposición de Renfe, que opera Rodalies, para que pueda iniciar las marchas blancas previas al restablecimiento del servicio. En un comunicado, la empresa pública asegura que las auscultaciones realizadas desde el incidente no han detectado movimientos del terreno ni afectaciones en la plataforma ferroviaria o en los edificios del entorno. Por su parte, la consellera de Territorio, Silvia Paneque, afirmó este sábado que, si las comprobaciones de seguridad siguen siendo favorables, la circulación de las líneas R2, R2Nord y R11 se podría reanudar “con toda probabilidad” la próxima semana, aunque no ha fijado el día exacto. Según ha informado, Adif mantiene activo el sistema de monitorización y continúa la investigación técnica para determinar las causas del boquete, que achaca a una zona de especial complejidad geológica e hidrogeológica. Para estabilizar el terreno, ha utilizado 365 metros cúbicos de hormigón y 1.930 metros cúbicos de mortero, en unos trabajos que han movilizado a más de un centenar de operarios desde el miércoles y que se han desarrollado de forma ininterrumpida. Paralelamente, la empresa asegura que este sábado por la mañana también ha restituido el paso del agua por el Rec Comtal en la zona afectada por el socavón. La empresa explica que, durante las labores de estabilización del terreno, desvió el curso del agua para evitar que afectara al relleno con mortero y afirma que el caudal ya vuelve a circular “para restituir, poco a poco, la completa normalidad”."
-  },
-  {
-    "titulo": "Los hutíes lanzan nuevos ataques contra Riad en plena escalada regional",
-    "medio": "El Mundo",
-    "fecha": 1784984607.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/25/6a64b258e9cf4a923a8b4598.html",
-    "resumen": "Sistemas de defensa aéreos operados por Grecia en Arabia Saudí repelieron un ataque de los hutíes contra una refinería de petróleo Leer"
-  },
-  {
-    "titulo": "Llevamos miles de años usando protector solar, aunque al principio no sabíamos que lo necesitábamos",
-    "medio": "Xataka",
-    "fecha": 1784984428.0,
-    "link": "https://www.xataka.com/medicina-y-salud/llevamos-miles-anos-usando-protector-solar-al-principio-no-sabiamos-que-necesitabamos",
-    "resumen": "Hoy en día somos bastante conscientes de la importancia del protector solar. En el pasado no lo tenían tan claro, pero igualmente lo usaban. Normalmente, se empleaban sustancias para aclarar la piel o evitar que se oscureciera, ya que la piel oscura se asociaba a las clases bajas de la sociedad. Las clases altas no querían parecer de clases bajas y algunas personas de las clases bajas no querían que se les notara, así que se idearon todo tipo de mejunjes dirigidos a mantener la tez blanquecina. Con el tiempo, y todos los conocimientos que tenemos hoy en día, algunos científicos se han dedicado a analizar aquellas fórmulas y lo cierto es que, si bien algunas eran de todo menos saludables, otras eran seguras e incluso eficaces. ¿Significa eso que hoy en día deberíamos usarlas? Lógicamente no. Tenemos opciones mucho mejor estudiadas. Pero para los tiempos en los que se desarrollaron, algunas no estaban nada mal. Cuando valía con la propia melanina. Los primeros humanos vivían en África, por lo que su piel estaba preparada para exponerse intensamente a las radiaciones solares, gracias a niveles muy elevados de melanina. Con el tiempo, a medida que el Homo sapiens se fue distribuyendo por otros lugares del mundo, ya no era necesaria tanta melanina, por lo que la piel se fue aclarando. El problema es que menos radiaciones solares no quiere decir ninguna, por lo que poco a poco las personas se vieron en la necesidad de buscar una sustitución a la melanina que habían perdido. No sabían para qué la necesitaban, pero la buscaban. En Xataka El dermatólogo Miguel Sánchez lo tiene claro: “Gran parte del daño solar se produce en actividades diarias que pasan desapercibidas” Los egipcios y sus habilidades para fabricar cosméticos. En el antiguo Egipto la cosmética cobró un papel muy relevante. El maquillaje y las cremas y aceites se usaban para hidratar la piel, mejorar el aspecto físico o como símbolo de estatus. Incluso algunos productos cosméticos tenían fines religiosos y rituales. Por todo esto, no es raro que entre los egipcios hubiese grandes formuladores. Muchas de sus mezclas no servían para nada, pero algunas sí que tenían aplicaciones interesantes y comprensibles con la ciencia que conocemos hoy en día. En este último cajón se encuentra el protector solar a base de jazmín, arroz y lupino (la planta de la que se obtienen los altramuces). El objetivo de esta mezcla era mantener la piel lo más blanca posible. Ellos no sabían que las radiaciones solares pueden ser dañinas. Sin embargo, se estaban protegiendo de ellas, ya que hoy en día sabemos que el salvado de arroz absorbe la luz ultravioleta, el jazmín ayuda a reparar el ADN y el lupino aclara la piel. No solo se estaban protegiendo. También reparaban los daños que ya se hubiesen podido producir y mantenían la piel más clara. De los griegos a los romanos. Los griegos usaban aceite de oliva para protegerse del sol y, sobre todo, para cuidar la piel después de la exposición. Si bien no tenían constancia de la magnitud del problema, sí que veían que la piel sufría por la exposición solar, así que se hicieron su propio aftersun. Hoy en día sabemos que el aceite de oliva tiene un FPS de 8. Demasiado bajo, pero mejor que otras opciones posteriores y, desde luego, mejor que no ponerse nada. En cuanto a los romanos, estuvieron entre los primeros en usar óxido de zinc para evitar que se les oscureciera la piel. Esta sustancia sigue usándose en la actualidad como filtro físico en multitud de cremas solares, así que apuntaron muy bien el tiro. También los usaban en la India y China. En Xataka Hay gente decidiendo no echarse crema solar para ponerse más morena. Su piel tiene malas noticias para ellos Cuidado con el plomo. En Japón, la piel blanca era un claro símbolo de estatus y belleza femenina. Por eso, las mujeres se untaban con polvos de plomo. También lo usaban las mujeres europeas en los siglos XVI y XVII, normalmente mezclado con agua y vinagre, en una mezcla conocida como Venetian ceruse. En ambos casos, se usaba porque, al ser un polvo espeso y blanco, les daba un efecto máscara que imitaba la apariencia de una tez muy blanca. Por lo tanto, no había nada de protección. Al contrario, ya que el plomo es altamente tóxico. Los primeros protectores solares. En 1801, el químico Johan Wilhem Ritter descubrió la radiación UV, aunque sus efectos nocivos sobre la piel no se conocieron hasta 1820, cuando un médico llamado Sir Everard Home determinó que estas radiaciones, procedentes del Sol, son dañinas y que la propia piel se defiende mediante la pigmentación. A raíz de este último hallazgo, se intentó fabricar protector solar con taninos, como los de la uva tinta. Sin embargo, el efecto oscuro que dejaba en la piel no fue muy bien recibido. Con el tiempo se fueron probando distintas opciones, incluido el óxido de zinc de los romanos. Hoy en día conocemos mucho mejor los efectos del sol y el protector solar Al final, muchas de estas fórmulas de antiguas civilizaciones no estaban tan mal encaminadas. Hoy en día conocemos los efectos de este y otros filtros físicos, así como los de los químicos, que no crean una barrera en la piel, sino que absorben las radiaciones. Todos ellos, en el fondo, son el resultado de miles de años de curiosidad e investigación. Porque es cierto que los primeros humanos que fabricaron protector solar ni siquiera lo hacían por la razón adecuada. Pero el caso es que, sea por lo que sea, lo hacían. Instintivamente nos hemos protegido desde siempre. Que un futbolista bronceado no nos haga retroceder al pasado. Imágenes | Magnific En Xataka | La ciencia alerta del peligroso éxito de los bulos anti-crema solar en TikTok: \"A pesar de ser una minoría, este contenido es influyente\" - La noticia Llevamos miles de años usando protector solar, aunque al principio no sabíamos que lo necesitábamos fue publicada originalmente en Xataka por Azucena Martín ."
+    "resumen": "La Unidad Militar de Emergencias se une a los siete medios aéreos (tres helicópteros y dos aviones) y numerosos medios terrestres desplegadosSiete medios aéreos y numerosos terrestres trabajan en un incendio en La Vall d'Uxiò Los municipios de La Vilavella y Artana, en la provincia de Castellón, están siendo desalojados a causa del incendio declarado en la Vall d'Uixó. En esta última localidad, también se está procediendo al desalojo preventivo de algunas viviendas rústicas. Sin embargo, a consecuencia de la evolución de las llamas, Emergencia ha decretado el desalojo de ambos municipios, La Vilavella, de unos 3.000 habitantes, y Artana, de unos 2.000 vecinos. El Centro de Coordinación de Emergencias (CCE) de la Generalitat había enviado previamente un Es-Alert a la población para comunicar el confinamiento de ambos municipios, situados en la provincia de Castellón. El texto remitido a ambas poblaciones señalaba, tanto en castellano como en valenciano, que, “con motivo del incendio de vegetación de la Vall d'Uixó, se ordena el confinamiento preventivo de los municipios de La Vall d'Uixó y Artana, evitando la movilidad fuera del casco urbano de estos municipios”. Anteriormente, Emergencias había remitido el mismo texto a la población cercana de La Vilavella, localidad de la comarca de la Plana Baixa, en el sureste de la provincia de Castellón. Por su parte, la Policía Local de la Vall d'Uixó ha informado que, debido al incendio, se han desalojado “de manera preventiva” las zonas norte y este “próximas al fuego”. Se trata, según la Policía, de casas aisladas, establos y ganaderías situadas en las partidas del Castell, La Rabosa y La Murta, y la urbanización Santa Bárbara. Activación de la UME Por otro lado, se ha activado la Unidad Militar de Emergencias (UME). Efectivos del Tercer Batallón de Intervención se han incorporado esta tarde a la lucha contra el fuego en la Vall d'Uixó. Según ha informado el CCE, el texto señala que “con motivo del incendio de vegetación de la Vall d'Uixó, se ordena el confinamiento del municipio de la Vilavella”, una localidad de 3.000 habitantes de la comarca de la Plana Baixa, en el sureste de la provincia de Castellón. El fuego, cuya evolución es negativa, según el Consorcio Provincial de Bomberos de Castellón, ha obligado a activar la situación 2 del Plan Especial de Incendios Forestales (PEIF) y a desalojar una urbanización de manera preventiva. En las labores de extinción del incendio trabajan un total de siete medios aéreos (tres helicópteros y dos aviones) y numerosos medios terrestres. Imagen del incendio declarado en La Vall d'Uixò (Castellón), cuya evolución es negativa. El president de la Generalitat, Juanfran Pérez Llorca, se ha desplazado al Puesto de Mando Avanzado (PMA) para seguir de primera mano la evolución de los trabajos de extinción. Fuentes municipales han explicado que el fuego se desplaza en dirección norte, hacia las localidades de la Vilavella y Artana."
   },
   {
     "titulo": "Si adoras las comedias románticas de los 90, Prime Video tiene la película perfecta con Diane Keaton, Richard Gere, Susan Sarandon y más",
@@ -483,53 +616,11 @@
     "resumen": "Stuart no consigue salvar el universo es probablemente la serie que no sabías que necesitabas, pero que amarás. Eso, debido a que este spin-off de la ya clásica The Big Bang Theory no solo es un homenaje para fanáticos del llamado último sitcom. También es una divertidísima revisión del género de ciencia ficción, que explora […] Seguir leyendo: Tres razones para ver ‘Stuart no consigue salvar el universo’"
   },
   {
-    "titulo": "Trump insinúa que las negociaciones con Irán se vuelven ‘más serias’ y no teme precipitar un acuerdo antes de las midterms",
-    "medio": "Moncloa.com",
-    "fecha": 1784984281.0,
-    "link": "https://www.moncloa.com/2026/07/25/negociaciones-iran-trump-midterms-3405531/",
-    "resumen": "Trump afirma que las conversaciones con Irán se vuelven más serias pero no teme precipitar un acuerdo antes de las midterms. La presión militar y diplomática marca la agenda. La entrada Trump insinúa que las negociaciones con Irán se vuelven ‘más serias’ y no teme precipitar un acuerdo antes de las midterms aparece primero en Moncloa."
-  },
-  {
     "titulo": "Pushed Face to the Ground, Abderrahim Fakir Couldn’t Breathe",
     "medio": "Jacobin ES",
     "fecha": 1784984261.0,
     "link": "https://jacobin.com/2026/07/italy-fakir-police-violence-protest",
     "resumen": "Abderrahim Fakir died of suspected lung compression after several minutes pressed to the ground by Italian police. The killing has shone a light over police impunity, just months after a new law helped shield officers from prosecution."
-  },
-  {
-    "titulo": "Trump publica un informe que acusa a los visados para científicos extranjeros de marginar a los investigadores estadounidenses",
-    "medio": "Moncloa.com",
-    "fecha": 1784984259.0,
-    "link": "https://www.moncloa.com/2026/07/25/trump-informe-visados-cientificos-marginacion-3405533/",
-    "resumen": "La Oficina de Política Científica de la Casa Blanca acusa a los visados para extranjeros de marginar a los científicos estadounidenses y pide reformar el sistema de I+D para que el dinero público vuelva antes al talento nacional. La entrada Trump publica un informe que acusa a los visados para científicos extranjeros de marginar a los investigadores estadounidenses aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El GPS le engaña, sigue por un camino de tierra y acaba en un refugio a 2.000 metros sobre el nivel del mar con su furgoneta de reparto",
-    "medio": "HuffPost",
-    "fecha": 1784984237.0,
-    "link": "https://www.huffingtonpost.es/sociedad/el-gps-le-engana-sigue-camino-tierra-acaba-refugio-2000-metros-sobre-nivel-mar-furgoneta-reparto-f202607-1.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La decisión de la Comisión Europea que blinda la ganadería en España",
-    "medio": "Moncloa.com",
-    "fecha": 1784984232.0,
-    "link": "https://www.moncloa.com/2026/07/25/comision-europea-ganaderia-espana-3405536/",
-    "resumen": "La Comisión Europea da un giro a su política ganadera y apuesta por impulsar el sector con biotecnología, blindando los intereses de la ganadería española y sus exportaciones. La entrada La decisión de la Comisión Europea que blinda la ganadería en España aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El incendio de La Vall d'Uixò obliga a desalojar una urbanización y confinar tres municipios",
-    "medio": "La Vanguardia",
-    "fecha": 1784984182.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260725/11601003/siete-medios-aereos-numerosos-terrestres-trabajan-incendio-vall-d-uixo.html",
-    "resumen": "Siete medios aéreos y numerosos terrestres trabajan para sofocar el fuego y se ha activado la situación 1 del Plan Especial de Incendios Forestales"
-  },
-  {
-    "titulo": "PP y Vox pactan limitar a 40 años la edad para la Policía Local en la Comunitat Valenciana",
-    "medio": "Moncloa.com",
-    "fecha": 1784984134.0,
-    "link": "https://www.moncloa.com/2026/07/25/pp-vox-limite-edad-policia-local-3405541/",
-    "resumen": "PP y Vox pactan limitar a 40 años la edad de acceso a la Policía Local en la Comunitat Valenciana y reservan un 20% de plazas para militares, en enmiendas que reducen el rol de la Agencia de Emergencias. La entrada PP y Vox pactan limitar a 40 años la edad para la Policía Local en la Comunitat Valenciana aparece primero en Moncloa."
   },
   {
     "titulo": "Desplegados más de 2.700 efectivos y 426 medios terrestres del Gobierno en el incendio de Madrid y Ávila",
@@ -539,13 +630,6 @@
     "resumen": "Un total de 2.737 efectivos, además de 426 medios terrestres y 21 medios aéreos forman parte de los dispositivo desplegado por el Gobierno central para hacer frente al gran incendio que afecta a la Comunidad de Madrid y la provincia de Ávila."
   },
   {
-    "titulo": "El Rey mantiene contacto con diez de los alcaldes de los municipios madrileños afectados por el incendio",
-    "medio": "Europa Press",
-    "fecha": 1784983909.0,
-    "link": "https://www.europapress.es/sociedad/noticia-rey-mantiene-contacto-diez-alcaldes-municipios-madrilenos-afectados-incendio-20260725145149.html",
-    "resumen": "El Rey Felipe VI ha mantenido conversaciones con diez de los alcaldes de los municipios madrileños afectados por el incendio que tiene lugar en la sierra oeste madrileña y Ávila, según ha informado Casa Real."
-  },
-  {
     "titulo": "La Junta evacúa y reubica a 601 mayores de doce residencias a causa del incendio en Ávila",
     "medio": "The Objective",
     "fecha": 1784983714.0,
@@ -553,18 +637,18 @@
     "resumen": "La Gerencia de Servicios Sociales de la Junta ha evacuado desde el jueves a un total de 601 mayores de doce residencias de la tercera edad […]"
   },
   {
+    "titulo": "Fallece una personas en el incendio forestal declarado en Manises",
+    "medio": "Europa Press",
+    "fecha": 1784983330.0,
+    "link": "https://www.europapress.es/comunitat-valenciana/noticia-medios-aereos-terrestres-trabajan-extincion-incendio-manises-20260725144210.html",
+    "resumen": "Una persona ha fallecido en el incendio forestal declarado sobre las 12.50 horas de este sábado en la zona del barranco del Salt de l'Aigua de la localidad valenciana de Manises, según ha confirmado el Ayuntamiento."
+  },
+  {
     "titulo": "Irán asegura que seguirá atacando intereses de EEUU hasta su \"rendición total\"",
     "medio": "Expansión",
     "fecha": 1784982888.0,
     "link": "https://www.expansion.com/economia/2026/07/25/6a64ab42468aeb42558b4598.html",
     "resumen": "Irán afirmó este sábado que sus ataques contra intereses estadounidenses continuarán \"hasta la rendición total del enemigo\", en medio de una nueva escalada del conflicto entre ambos países, después de que el presidente estadounidense, Donald Trump, asegurara que las conversaciones con Teherán continúan pese a los ataques cruzados. Leer"
-  },
-  {
-    "titulo": "Hace 1.500 años falleció una niña en Mérida. Su lápida es toda una rareza para los arqueólogos: saben el día exacto de su muerte",
-    "medio": "Xataka",
-    "fecha": 1784982627.0,
-    "link": "https://www.xataka.com/magnet/hace-1-500-anos-fallecio-nina-merida-su-lapida-toda-rareza-para-arqueologos-saben-dia-exacto-su-muerte",
-    "resumen": "La imagen que ves sobre estas líneas es la Basílica de Santa Eulalia de Mérida y, a su lado, la cripta paleocristiana que alberga en su interior. Junto a ella acaban de encontrar una lápida funeraria. No es raro: el entorno de las iglesias ha sido siempre lugar de camposanto. Lo raro es otra cosa: sabemos que se trata de una niña cristiana de 10 años, que se llamaba Pascentia, y que murió un 18 de mayo. Conocer el día exacto de una muerte hoy, o incluso hace un siglo, es normal. Que haya constancia de ello hace más de 1.500 años, no. El hallazgo. En una excavación arqueológica de urgencia previa a unas obras de reforma que se van a ejecutar en una vivienda particular de la Rambla de Santa Eulalia, aproximadamente a 30 - 40 metros de la basílica, el equipo de investigación ha encontrado esa lápida de la niña y entre siete y ocho enterramientos de personas adultas. La lápida en cuestión es de mármol y está prácticamente completa, lo que permite conocer el día exacto del fallecimiento de la niña, llamada Pascentia: \"día 15 entre las calendas de junio\", el equivalente al 18 de mayo en el calendario romano. El año aún no se ha podido determinar con precisión, pero apunta a 509 o 519 d. C. Por qué es importante. Gilberto Sánchez, arqueólogo del Consorcio de la Ciudad Monumental de Mérida, explica que la lápida es una auténtica rareza porque aúna varias peculiaridades: la primera, ese magnífico estado de conservación de la lápida. Después, que sea de una niña, ya que en la zona ya habían aparecido lápidas similares, pero pertenecientes a obispos y personajes ilustres, no a una menor. Finalmente, porque demuestra que en el siglo VI aún había enterramientos cristianos en esa zona de Mérida. Contexto. La excavación arqueológica también ha permitido reconstruir cómo ha cambiado el lugar con el paso del tiempo. Así, bajo ese área funeraria han aparecido restos de una calzada romana con su cloaca, que luego se abandonó para construir sobre ella una necrópolis cristiana. Después, ese enclave se convirtió en un barrio humilde de la Mérida islámica de los siglos VIII-IX, con una población mixta de musulmanes y cristianos mozárabes. En Xataka Cuando abrieron una remota tumba en Polonia, los arqueólogos descubrieron algo extraño: dos mujeres abrazadas En detalle. La lápida tiene motivos ornamentales como una corona de laurel, dos palomas enfrentadas y lo que parece ser un crismón, símbolos del cristianismo. También incluye expresiones como \"famula Dei\" (\"sierva de Dios\") y \"requiescat in pace\" (\"descanse en paz\"). Según el equipo de arqueología, Pascentia probablemente pertenecía a una familia noble, como denota el mero hecho de su entierro allí, el diseño y materiales de la lápida y que estuviera hecha por un taller especializado. Sí, pero. A falta de conocer el año exacto de su muerte y más detalles sobre su identidad, tras el descubrimiento de esta niña enterrada en los alrededores de la Basílica de Santa Eulalia de Mérida es inevitable relacionarlo con otra niña célebre emeritense de la antigüedad: Santa Eulalia, la que da nombre a la Basílica. Sin embargo y como han explicado los arqueólogos de la investigación, no hay relación entre ambas: la mártir vivió dos siglos antes, en la época romana, mientras que Pascentia es del periodo visigodo. En Xataka | Creyeron pescar chatarra romana, pero unos pescadores de Benicarló hallaron el mayor lote de cascos medievales de España En Xataka | Hemos desentrañado uno de los mayores misterios de la arqueología en España: el \"escalón\" romano de Elda Portada | Ángel M. Felicísimo y Juanje 2712 - La noticia Hace 1.500 años falleció una niña en Mérida. Su lápida es toda una rareza para los arqueólogos: saben el día exacto de su muerte fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
     "titulo": "Comprobar Lotería Nacional: resultado con los números premiados de este sábado, 25 de julio de 2026",
@@ -579,34 +663,6 @@
     "fecha": 1784982214.0,
     "link": "https://www.expansion.com/economia/funcion-publica/2026/07/25/6a64a739468aeb13778b457b.html",
     "resumen": "Distintos ministerios han convocado un total de 5.547 plazas de personal laboral fijo adscritas al IV Convenio Colectivo durante el mes de julio, según ha informado este sábado el Ministerio para la Transformación Digital y de la Función Pública. Leer"
-  },
-  {
-    "titulo": "La Escuela de Policía de Ávila se convierte en el mayor refugio contra el fuego: hoy cerrará el día con 1.500 desalojados",
-    "medio": "El Mundo",
-    "fecha": 1784981392.0,
-    "link": "https://www.elmundo.es/espana/2026/07/25/6a64a68de9cf4a395d8b45a3.html",
-    "resumen": "Ofrece un trato personalizado por el confort de sus instalaciones. Hay familias, personas con movilidad reducida y más de 50 mascotas Leer"
-  },
-  {
-    "titulo": "Se despide de su perro, dona su caseta al refugio y recibe un regalo que le llena el corazón",
-    "medio": "HuffPost",
-    "fecha": 1784981318.0,
-    "link": "https://www.huffingtonpost.es/sociedad/se-despide-perro-dona-caseta-refugio-recibe-regalo-le-llena-corazon-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Estas son las multas por provocar un incendio, aunque no sea intencionado",
-    "medio": "The Objective",
-    "fecha": 1784981123.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-07-25/multas-provocar-incendio-sea-intencionado/",
-    "resumen": "La chispa de una cosechadora, una quema de rastrojos sin el control suficiente o una barbacoa pueden ser consideradas imprudencias graves si desencadenan un incendio forestal […]"
-  },
-  {
-    "titulo": "El dibujante español Javier Rodríguez arrasa en la Comic-Con",
-    "medio": "El Mundo",
-    "fecha": 1784980938.0,
-    "link": "https://www.elmundo.es/cultura/comic/2026/07/25/6a64a1a9fdddffac2c8b45bb.html",
-    "resumen": "Tres han sido los conocidos como Oscar de los comics los que se ha llevado el dibujante y autor de Absolute Martian Manhunter, entre otros Leer"
   },
   {
     "titulo": "Este deporte sigue creciendo y en esta ciudad gallega se ha jugado un torneo en la única pista flotante del mundo",
@@ -637,25 +693,18 @@
     "resumen": "Hay 13 municipios y 50.000 personas evacuadas sólo en la Comunidad.Más información: Sánchez prevé 'horas complejas' en el incendio de Madrid pero anuncia la llegada de medios de 10 CCAA, Italia y Grecia"
   },
   {
-    "titulo": "Móstoles acoge a los desalojados del fuego entre películas y paellas: \"Nos dieron una hora para salir; el fuego pasó bordeando el pueblo\"",
-    "medio": "El Mundo",
-    "fecha": 1784980278.0,
-    "link": "https://www.elmundo.es/madrid/2026/07/25/6a649a7f21efa0984f8b45b1.html",
-    "resumen": "En el pabellón Paco Sedano se han habilitado 200 camas y atención urgente para acoger a algunas de las 1800 personas de municipios como Fresnedilla de la Oliva Leer"
-  },
-  {
-    "titulo": "Feijóo afirma que ante incendios «todos somos uno» y toca «refrescar el ambiente político»",
-    "medio": "The Objective",
-    "fecha": 1784979898.0,
-    "link": "https://theobjective.com/espana/politica/2026-07-25/feijoo-incendios-todos-somos-uno/",
-    "resumen": "El presidente del PP, Alberto Núñez Feijóo, ha dicho este sábado que en la gestión de los incendios forestales «todos somos uno» y lo que se […]"
-  },
-  {
     "titulo": "China abre una investigación anticorrupción contra el ex número dos del regulador bursátil",
     "medio": "Expansión",
     "fecha": 1784979088.0,
     "link": "https://www.expansion.com/mercados/2026/07/25/6a6499c2e5fdea46578b457f.html",
     "resumen": "Las principales agencias anticorrupción de China anunciaron pesquisas contra el exvicepresidente del regulador bursátil Fang Xinghai, quien se une así a una larga lista de investigados precisamente en un momento en el que Pekín busca recuperar la confianza de los inversores. Leer"
+  },
+  {
+    "titulo": "El humo de los incendios que arrasan España cubre Toledo y siembra inquietud: \"No hay fuego, pero sí contaminación",
+    "medio": "El Español",
+    "fecha": 1784977782.0,
+    "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20260725/humo-grandes-incendios-forestales-cubre-toledo-crea-inquietud-no-fuego-contaminacion/1003744334029_0.html",
+    "resumen": "El Parque de Bomberos de la ciudad atribuye el intenso olor a los incendios de Ávila y Madrid, avivados por el viento y la calima.Más información: El incendio de Brazatortas queda controlado, pero el fuego de Retuerta mantiene confinado a Marjaliza (Toledo)"
   },
   {
     "titulo": "La NASA evaluará los daños por los incendios en su complejo de Robledo de Chavela (Madrid) \"cuando sea seguro hacerlo\"",
@@ -690,7 +739,7 @@
     "medio": "Infolibre",
     "fecha": 1784976006.0,
     "link": "https://www.infolibre.es/politica/temor-cambio-viento-mantiene-vilo-equipos-extincion-sierra-norte-madrid_1_2231127.html",
-    "resumen": "El incendio forestal que afecta a la sierra oeste de la Comunidad de Madrid y a la provincia de Ávila continúa activo. La tregua meteorológica nocturna, con un descenso de las temperaturas, menor viento y mayor humedad, ha permitido a los retenes trabajar a gran intensidad y frenar la propagación de las llamas.Las autoridades prevén, sin embargo, una jornada compleja. Se espera un nuevo incremento de la intensidad del viento, que podría alcanzar valores similares a los registrados el viernes, con velocidades sostenidas en torno a los 30 km/h y rachas de hasta 60 km/h. Persiste además el riesgo de que los incendios de Madrid y Ávila se unifiquen en un solo frente. La cercanía del fuego ha obligado, pasado el mediodía, a evacuar la localidad madrileña de Cenicientos, donde se ubicaba el puesto de mando avanzado que gestiona los servicios de extinción, según ha avanzado el delegado del Gobierno en Madrid, Francisco Martín. Martín ha pedido que se salga de forma ordenada del municipio. El puesto de mando se trasladará a Navalcarnero.La ministra de Sanidad, Mónica García, ha pedido no permanecer al aire libre por la mala calidad del aire de la zona cercana a los incendios, que “no es buena»” con valores de PM2’5, es decir, con partículas contaminantes suspendidas en el aire con un diámetro menor a 2,5 micras, como consecuencia de los incendios.García ha asegurado en una publicación en su cuenta de la red social X que estos valores se encuentran «muy por encima de los que recomienda la Organización Mundial de la Salud (OMS)» y por ello pide utilizar mascarillas FFP2/95 y gafas para proteger los ojos en caso de salir de casa en zonas cercanas a los incendios, entre ellos la práctica totalidad de la Comunidad de Madrid.La emergencia acumula hasta la fecha 88.000 personas evacuadas o confinadas, unas 50.620 en los municipios madrileños y 38.000 en la provincia abulense. El último cómputo es de 59.488 personas evacuadas y 28.262 ciudadanos confinados. El número de afectados en la Comunidad de Madrid asciende a 50.620 afectados, entre los 21.132 confinados y los 29.488 evacuados, mientras que en Ávila los evacuados suman unos 30.000 habitantes y los confinados se sitúan en los 8.000. La cadena de desalojos preventivos se ha extendido progresivamente por una docena de localidades, entre ellas San Martín de Valdeiglesias, Robledo de Chavela o El Escorial, donde anoche se evacuó a 5.000 personas de un camping por la proximidad de las llamas.Emergencias 112 ha desplegado un operativo especial de asistencia vecinal que incluye 17 ambulancias, unidades de vigilancia intensiva y soporte psicológico. Tanto la Comunidad de Madrid como la Delegación del Gobierno han pedido a los ciudadanos evitar los desplazamientos a la zona, no acudir a embalses ni áreas de recreo próximas y facilitar el paso de los equipos de rescate.Pedro Sánchez, desplazado al centro de mando desde primera hora de la mañana del sábado, ha anunciado que los incendios de la Comunidad de Madrid y Ávila empezarán a tratarse como uno solo y que se unificará el mando de la emergencia de aquí en adelante. El presidente del Gobierno se ha expresado así tras visitar la zona afectada por el incendio de la sierra oeste de Madrid y tras asistir a la reunión del Comité Estatal de Coordinación y Dirección del Plan Estatal de Emergencias, donde se ha saludado con la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso.“Nuestra prioridad, nuestro pensamiento, nuestro objetivo está en salvaguardar las vidas de los ciudadanos, defender los núcleos poblacionales y finalmente en luchar contra los incendios”, ha dicho Sánchez, quien ha subrayado que la situación “sigue siendo compleja” por la incertidumbre de la dirección e intensidad de los vientos.El general jefe de la Unidad Militar de Emergencias (UME), Francisco Javier Marcos, ha explicado que la decisión de unificar el mando ha sido suya y que la ha tomado para tratar la gestión de estos fuegos de manera conjunta y “ganar tiempo”.Según los datos facilitados por el Ministerio del Interior, el frente de Ávila no ha cruzado a la Comunidad de Madrid y su avance se produce principalmente en Cebreros y en El Tiemblo. En territorio madrileño, la cabeza del avance de las llamas se establece en Robledo de Chavela y Fresnedillas de la Oliva.Interior mantiene el desalojo completo de Chapinería, Navas del Rey, Colmenar del Arroyo, Fresnedillas de la Oliva, Robledo de Chavela, Navalagamella, Valdemaqueda, Aldea del Fresno, Zarzalejo y Peralejo. Otras 20.000 personas siguen confinadas en San Martín de Valdeiglesias, Pelayos de la Presa y Villa del Prado.El humo y la intrusión de masas de aire de origen africano han hecho que el cielo de la ciudad de Madrid haya amanecido con un color marrón y que la atmósfera desprenda un olor a quemado. Muchos vecinos y turistas han vuelto a ponerse la mascarilla y a cerrar las ventanas de sus casas, pese a que no hay riesgo para la salud.Con una temperatura que hoy no subirá de los 30 grados, y a más de 70 kilómetros de los incendios que asolan la sierra oeste madrileña, la ciudad vive también las consecuencias de este fuego. Fuentes de Emergencias 112 de la Comunidad de Madrid han confirmado a Efe que no hay riesgo para la salud y que tampoco han recibido muchas llamadas de teléfono preguntando cómo actuar.Pese al deterioro de la calidad del aire, se recomienda extremar las precauciones y reducir la actividad al aire libre, sobre todo entre ancianos, niños, embarazadas y enfermos. Desde Emergencias Madrid y Emergencias 112 recomiendan cerrar puertas, ventanas y toda la ventilación de la casa, y no permanecer al aire libre si no hay obligación.También se aconseja proteger los ojos y la piel, para lo que se recomienda usar manga larga. La mascarilla ha de ser FPP2. Fuentes de Aena han confirmado que, pese al humo, el aeropuerto de Madrid está operando con normalidad. El fuego ha dejado en la localidad de Navaluenga coches y casas calcinados a su paso. El municipio, situado en la sierra de Gredos y que permanece confinado desde el viernes, está a unos 85 kilómetros de Madrid, y junto a las localidades de Cebreros y El Tiemblo suma ya más de 8.600 personas confinadas.Los vecinos se han sumado a las tareas de extinción del fuego, regando las tierras ya quemadas cerca de sus viviendas para evitar posibles rebrotes.El alcalde del municipio madrileño de Navalagamella, Andrés Samperio, ha explicado a Efe que la situación en el municipio está más tranquila después de una “noche dantesca”.En el caso de la de la urbanización de El Encinar del Alberche, en Madrid, una llamada con un escueto mensaje, “hay un incendio”, bastó para anticipàr que en tan solo 15 minutos el fuego comenzara a arrasar las casas de los 1.400 vecinos. Sus residentes se enfrentan ahora a un panorama desolador.Emilia López es la presidenta de la comunidad de vecinos de esta urbanización de 1.700 parcelas y 1.400 residentes. Ella misma envió un mensaje a través de los canales de comunicación interna después de que los servicios de mantenimiento le avisaran de que había un incendio.“La urbanización estaba normal y corriente, yo estaba trabajando en Madrid y me llamó mantenimiento porque había un incendio en el pinar, y me dijeron que venía hacía ahí. Llamé a la alcaldesa, y no lo sabía, y tuve que poner por las redes que los vecinos desalojaran. Si no llegamos a desalojar... esto fue 15 minutos”, ha relatado con angustia.A partir de ahí, un panorama desolador. Los vecinos tuvieron que desalojar sus viviendas, muchas de ellas calcinadas y otras con grandes daños. Ahora que han podido acceder a la urbanización han tenido que alquilar un generador para devolver el agua a las tuberías, que también están arreglando.Los vecinos, la mayoría alojados en casas de amigos y familiares, hacen rondas por la noche para controlar que los rescoldos no se reaviven. “Salimos por la noche para ver si hay rescoldos y apagarlos. Nos sentimos abandonados”, ha explicado López, que ha contado que también han creado un grupo para dar de comer y beber a las mascotas que se han quedado en las casas.La solidaridad vecinal se une a la que están prestando Protección Civil, Guardia Civil y Bomberos de la Comunidad de Madrid. Aun así, López la considera insuficiente y pide más ayuda al Gobierno regional.Esta urbanización se encuentra en el municipio madrileño de Villa del Prado, afectado por el incendio que comenzó el miércoles en Almorox, Toledo, y está a unos cinco kilómetros del casco urbano. El desalojo preventivo comenzó tras acceder el fuego a la primera línea de chalés, cuyos vecinos fueron evacuados rápidamente hacia el pabellón municipal habilitado por los equipos de emergencia.El operativo que lucha contra el incendio forestal de Ejulve, en Teruel, que afecta a 2.900 hectáreas, ha conseguido esta noche parar el avance de las llamas y contener la amenaza sobre el casco urbano de Cuevas de Cañart, una de las cinco poblaciones que siguen evacuadas de manera preventiva.Tras la reunión del Centro de Coordinación Operativa Integrada, el consejero de Hacienda, Interior y Administración Pública de Aragón, Roberto Bermúdez de Castro, ha destacado que los trabajos nocturnos han permitido al menos parar el crecimiento del incendio, también en la zona de Cuevas de Cañart, la población que más preocupaba.La reactivación de las llamas durante la madrugada del viernes obligó a evacuar de manera preventiva a unas 175 personas de Cuevas de Cañart, de las pedanías de Castellote de Ladruñán y Dos Torres de Mercader y de los barrios de El Higueral y La Algecira, que siguen desalojados. De todos los evacuados, 35 han precisado alojamiento y han pasado la noche en el albergue de Alcorisa.Bermúdez de Castro ha señalado que ha habido personas que se han quedado en algún municipio, poniendo en riesgo sus vidas y la de agentes de la Guardia Civil, cuando las evacuaciones decididas desde el 112 son de obligado cumplimiento. En concreto, 16 personas han decidido no acatar la orden del 112 enviada a través del sistema ES-Alert.El consejero ha destacado la mejoría de las condiciones para atacar el fuego este sábado, con una bajada de temperaturas de más de 10 grados de media en Aragón y la entrada de viento del norte, aunque ha advertido de la posibilidad de otra ola de calor a partir del martes. Por este incendio siguen cortadas las carreteras A-1702, la TE-38 y la TE-8101, y este sábado trabajarán en el operativo 9 helicópteros, 7 cuadrillas helitransportadas de Infoar, 3 aviones del Ministerio para la Transición Ecológica y el Reto Demográfico, 10 cuadrillas terrestres, 6 autobombas, una brigada de refuerzo, una dotación de la UME, 3 bulldozer y bomberos de las diputaciones de Teruel y Zaragoza.El incendio de La Cerollera, también en Teruel, evoluciona “muy bien”, según el consejero, que espera poder darlo por estabilizado este sábado. En el de Plan, en el Pirineo oscense, la situación se mantiene dentro de la complejidad del terreno, y se espera que ayude en la extinción la bajada significativa de temperaturas y las previsibles tormentas.En León, el incendio declarado en Murias de Ponjos evoluciona favorablemente y mantiene evacuados este sábado a 174 vecinos de Ponjos, Rosales, Folloso, Andarraso, Trascastro e Inicio. El delegado territorial de la Junta, Eduardo Diego, ha explicado tras la reunión del Cecopi que el incendio ha evolucionado bien gracias a la entrada de vientos del norte con humedad.Los trabajos nocturnos han permitido llevar a cabo la estrategia de fuegos técnicos para impedir el avance del incendio, que se ha perimetrado en 6,5 kilómetros sobre los 8 kilómetros de la cabeza del incendio. El fuego se encuentra con índice de gravedad potencial 2, por comportar un grave riesgo a poblaciones y bienes no forestales.La zona que más preocupaba, con las llamas amenazando la localidad de Rosales, está bien al no haber superado el arroyo ubicado en sus proximidades, mientras que los puntos más activos se encuentran en el área de Inicio y Valdesamario. A los vecinos evacuados se les ha ofrecido dormir en el albergue de las Escuelas de Riello, aunque solo seis lo han utilizado, ya que el resto ha preferido quedarse con familiares.Durante la mañana se sigue trabajando con un amplio operativo integrado por técnicos y agentes medioambientales, seis bulldozer, seis cuadrillas de tierra, siete autobombas y cuatro cuadrillas helitransportadas, a los que se han sumado con las primeras luces del día seis helicópteros. Diego ha considerado positiva la evolución de los otros dos incendios de la provincia, en Quintela y Castropodame, lo que ha permitido reducir su índice de gravedad potencial de 1 a 0, ya que, aunque siguen activos, no tienen llama.En Castilla-La Mancha ha levantado la evacuación en Semillas, uno de los municipios desalojados por el incendio de La Mierla (Guadalajara), aunque mantiene esta medida en Aldeanueva de Atienza, Prádena de Atienza, Gascueña de Bornova y El Ordial, según ha informado el servicio en redes sociales este sábado. Siguen cortadas las carreteras GU-151, GU-147, GU-213 y GU-137. El incendio, declarado el 16 de julio, ha afectado a unas 32.000 hectáreas, en su mayoría en la Sierra Norte de Guadalajara, y continúa en nivel 1. Trabajan en su extinción cuatro medios aéreos, 27 terrestres y 149 personas, según el sistema Fidias de la Consejería de Desarrollo Sostenible de Castilla-La Mancha.La superficie quemada por incendios sobrepasa ya las 125.937,66 hectáreas en lo que va de 2026, según ha informado el Ministerio para la Transición Ecológica este sábado. La cifra contrasta con las 24.133,26 hectáreas arrasadas en el mismo periodo del pasado año.El ministerio ha informado también de que en 2026 ya se han registrado 32 grandes incendios forestales, frente a una media de 9 en el mismo periodo de la última década. Los datos son provisionales y corresponden al periodo comprendido entre el 1 de enero y el 25 de julio de 2026."
+    "resumen": "El incendio forestal que afecta a la sierra oeste de la Comunidad de Madrid y a la provincia de Ávila continúa activo. La tregua meteorológica nocturna, con un descenso de las temperaturas, menor viento y mayor humedad, ha permitido a los retenes trabajar a gran intensidad y frenar la propagación de las llamas, pero no ha permitido controlarlas.Entretanto, una persona ha fallecido en el incendio declarado este sábado en una zona de barranco del término municipal de Manises (València), según ha informado el ayuntamiento a través de la red social X. Hay cinco más hospitalizadas por inhalación de humo y quemaduras. El fuego, que ya está controlado, se declaró sobre las 12:45 horas en un área de vegetación del barranco del Salt de l'Aigua de Manises.En el centro de la península, las autoridades hacen frente a una jornada compleja. Se esperaba un nuevo incremento de la intensidad del viento, que podría alcanzar valores similares a los registrados el viernes, con velocidades sostenidas en torno a los 30 km/h y rachas de hasta 60 km/h. Persiste además el riesgo de que los incendios de Madrid y Ávila se unifiquen en un solo frente. La cercanía del fuego ha obligado, pasado el mediodía, a evacuar la localidad madrileña de Cenicientos, donde se ubicaba el puesto de mando avanzado que gestiona los servicios de extinción, según ha avanzado el delegado del Gobierno en Madrid, Francisco Martín. Martín ha pedido que se salga de forma ordenada del municipio. El puesto de mando se trasladará a Navalcarnero.La ministra de Sanidad, Mónica García, ha pedido no permanecer al aire libre por la mala calidad del aire de la zona cercana a los incendios, que “no es buena»” con valores de PM2’5, es decir, con partículas contaminantes suspendidas en el aire con un diámetro menor a 2,5 micras, como consecuencia de los incendios.García ha asegurado en una publicación en su cuenta de la red social X que estos valores se encuentran «muy por encima de los que recomienda la Organización Mundial de la Salud (OMS)» y por ello pide utilizar mascarillas FFP2/95 y gafas para proteger los ojos en caso de salir de casa en zonas cercanas a los incendios, entre ellos la práctica totalidad de la Comunidad de Madrid.La emergencia acumula hasta la fecha 88.000 personas evacuadas o confinadas, unas 50.620 en los municipios madrileños y 38.000 en la provincia abulense. El último cómputo es de 59.488 personas evacuadas y 28.262 ciudadanos confinados. El número de afectados en la Comunidad de Madrid asciende a 50.620 afectados, entre los 21.132 confinados y los 29.488 evacuados, mientras que en Ávila los evacuados suman unos 30.000 habitantes y los confinados se sitúan en los 8.000. La cadena de desalojos preventivos se ha extendido progresivamente por una docena de localidades, entre ellas San Martín de Valdeiglesias, Robledo de Chavela o El Escorial, donde anoche se evacuó a 5.000 personas de un camping por la proximidad de las llamas.Emergencias 112 ha desplegado un operativo especial de asistencia vecinal que incluye 17 ambulancias, unidades de vigilancia intensiva y soporte psicológico. Tanto la Comunidad de Madrid como la Delegación del Gobierno han pedido a los ciudadanos evitar los desplazamientos a la zona, no acudir a embalses ni áreas de recreo próximas y facilitar el paso de los equipos de rescate.Pedro Sánchez, desplazado al centro de mando desde primera hora de la mañana del sábado, ha anunciado que los incendios de la Comunidad de Madrid y Ávila empezarán a tratarse como uno solo y que se unificará el mando de la emergencia de aquí en adelante. El presidente del Gobierno se ha expresado así tras visitar la zona afectada por el incendio de la sierra oeste de Madrid y tras asistir a la reunión del Comité Estatal de Coordinación y Dirección del Plan Estatal de Emergencias, donde se ha saludado con la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso.“Nuestra prioridad, nuestro pensamiento, nuestro objetivo está en salvaguardar las vidas de los ciudadanos, defender los núcleos poblacionales y finalmente en luchar contra los incendios”, ha dicho Sánchez, quien ha subrayado que la situación “sigue siendo compleja” por la incertidumbre de la dirección e intensidad de los vientos.El general jefe de la Unidad Militar de Emergencias (UME), Francisco Javier Marcos, ha explicado que la decisión de unificar el mando ha sido suya y que la ha tomado para tratar la gestión de estos fuegos de manera conjunta y “ganar tiempo”.Según los datos facilitados por el Ministerio del Interior, el frente de Ávila no ha cruzado a la Comunidad de Madrid y su avance se produce principalmente en Cebreros y en El Tiemblo. En territorio madrileño, la cabeza del avance de las llamas se establece en Robledo de Chavela y Fresnedillas de la Oliva.Interior mantiene el desalojo completo de Chapinería, Navas del Rey, Colmenar del Arroyo, Fresnedillas de la Oliva, Robledo de Chavela, Navalagamella, Valdemaqueda, Aldea del Fresno, Zarzalejo y Peralejo. Otras 20.000 personas siguen confinadas en San Martín de Valdeiglesias, Pelayos de la Presa y Villa del Prado.El humo y la intrusión de masas de aire de origen africano han hecho que el cielo de la ciudad de Madrid haya amanecido con un color marrón y que la atmósfera desprenda un olor a quemado. Muchos vecinos y turistas han vuelto a ponerse la mascarilla y a cerrar las ventanas de sus casas, pese a que no hay riesgo para la salud.Con una temperatura que hoy no subirá de los 30 grados, y a más de 70 kilómetros de los incendios que asolan la sierra oeste madrileña, la ciudad vive también las consecuencias de este fuego. Fuentes de Emergencias 112 de la Comunidad de Madrid han confirmado a Efe que no hay riesgo para la salud y que tampoco han recibido muchas llamadas de teléfono preguntando cómo actuar.Pese al deterioro de la calidad del aire, se recomienda extremar las precauciones y reducir la actividad al aire libre, sobre todo entre ancianos, niños, embarazadas y enfermos. Desde Emergencias Madrid y Emergencias 112 recomiendan cerrar puertas, ventanas y toda la ventilación de la casa, y no permanecer al aire libre si no hay obligación.También se aconseja proteger los ojos y la piel, para lo que se recomienda usar manga larga. La mascarilla ha de ser FPP2. Fuentes de Aena han confirmado que, pese al humo, el aeropuerto de Madrid está operando con normalidad. El fuego ha dejado en la localidad de Navaluenga coches y casas calcinados a su paso. El municipio, situado en la sierra de Gredos y que permanece confinado desde el viernes, está a unos 85 kilómetros de Madrid, y junto a las localidades de Cebreros y El Tiemblo suma ya más de 8.600 personas confinadas.Los vecinos se han sumado a las tareas de extinción del fuego, regando las tierras ya quemadas cerca de sus viviendas para evitar posibles rebrotes.El alcalde del municipio madrileño de Navalagamella, Andrés Samperio, ha explicado a Efe que la situación en el municipio está más tranquila después de una “noche dantesca”.En el caso de la de la urbanización de El Encinar del Alberche, en Madrid, una llamada con un escueto mensaje, “hay un incendio”, bastó para anticipàr que en tan solo 15 minutos el fuego comenzara a arrasar las casas de los 1.400 vecinos. Sus residentes se enfrentan ahora a un panorama desolador.Emilia López es la presidenta de la comunidad de vecinos de esta urbanización de 1.700 parcelas y 1.400 residentes. Ella misma envió un mensaje a través de los canales de comunicación interna después de que los servicios de mantenimiento le avisaran de que había un incendio.“La urbanización estaba normal y corriente, yo estaba trabajando en Madrid y me llamó mantenimiento porque había un incendio en el pinar, y me dijeron que venía hacía ahí. Llamé a la alcaldesa, y no lo sabía, y tuve que poner por las redes que los vecinos desalojaran. Si no llegamos a desalojar... esto fue 15 minutos”, ha relatado con angustia.A partir de ahí, un panorama desolador. Los vecinos tuvieron que desalojar sus viviendas, muchas de ellas calcinadas y otras con grandes daños. Ahora que han podido acceder a la urbanización han tenido que alquilar un generador para devolver el agua a las tuberías, que también están arreglando.Los vecinos, la mayoría alojados en casas de amigos y familiares, hacen rondas por la noche para controlar que los rescoldos no se reaviven. “Salimos por la noche para ver si hay rescoldos y apagarlos. Nos sentimos abandonados”, ha explicado López, que ha contado que también han creado un grupo para dar de comer y beber a las mascotas que se han quedado en las casas.La solidaridad vecinal se une a la que están prestando Protección Civil, Guardia Civil y Bomberos de la Comunidad de Madrid. Aun así, López la considera insuficiente y pide más ayuda al Gobierno regional.Esta urbanización se encuentra en el municipio madrileño de Villa del Prado, afectado por el incendio que comenzó el miércoles en Almorox, Toledo, y está a unos cinco kilómetros del casco urbano. El desalojo preventivo comenzó tras acceder el fuego a la primera línea de chalés, cuyos vecinos fueron evacuados rápidamente hacia el pabellón municipal habilitado por los equipos de emergencia.El operativo que lucha contra el incendio forestal de Ejulve, en Teruel, que afecta a 2.900 hectáreas, ha conseguido esta noche parar el avance de las llamas y contener la amenaza sobre el casco urbano de Cuevas de Cañart, una de las cinco poblaciones que siguen evacuadas de manera preventiva.Tras la reunión del Centro de Coordinación Operativa Integrada, el consejero de Hacienda, Interior y Administración Pública de Aragón, Roberto Bermúdez de Castro, ha destacado que los trabajos nocturnos han permitido al menos parar el crecimiento del incendio, también en la zona de Cuevas de Cañart, la población que más preocupaba.La reactivación de las llamas durante la madrugada del viernes obligó a evacuar de manera preventiva a unas 175 personas de Cuevas de Cañart, de las pedanías de Castellote de Ladruñán y Dos Torres de Mercader y de los barrios de El Higueral y La Algecira, que siguen desalojados. De todos los evacuados, 35 han precisado alojamiento y han pasado la noche en el albergue de Alcorisa.Bermúdez de Castro ha señalado que ha habido personas que se han quedado en algún municipio, poniendo en riesgo sus vidas y la de agentes de la Guardia Civil, cuando las evacuaciones decididas desde el 112 son de obligado cumplimiento. En concreto, 16 personas han decidido no acatar la orden del 112 enviada a través del sistema ES-Alert.El consejero ha destacado la mejoría de las condiciones para atacar el fuego este sábado, con una bajada de temperaturas de más de 10 grados de media en Aragón y la entrada de viento del norte, aunque ha advertido de la posibilidad de otra ola de calor a partir del martes. Por este incendio siguen cortadas las carreteras A-1702, la TE-38 y la TE-8101, y este sábado trabajarán en el operativo 9 helicópteros, 7 cuadrillas helitransportadas de Infoar, 3 aviones del Ministerio para la Transición Ecológica y el Reto Demográfico, 10 cuadrillas terrestres, 6 autobombas, una brigada de refuerzo, una dotación de la UME, 3 bulldozer y bomberos de las diputaciones de Teruel y Zaragoza.El incendio de La Cerollera, también en Teruel, evoluciona “muy bien”, según el consejero, que espera poder darlo por estabilizado este sábado. En el de Plan, en el Pirineo oscense, la situación se mantiene dentro de la complejidad del terreno, y se espera que ayude en la extinción la bajada significativa de temperaturas y las previsibles tormentas.En León, el incendio declarado en Murias de Ponjos evoluciona favorablemente y mantiene evacuados este sábado a 174 vecinos de Ponjos, Rosales, Folloso, Andarraso, Trascastro e Inicio. El delegado territorial de la Junta, Eduardo Diego, ha explicado tras la reunión del Cecopi que el incendio ha evolucionado bien gracias a la entrada de vientos del norte con humedad.Los trabajos nocturnos han permitido llevar a cabo la estrategia de fuegos técnicos para impedir el avance del incendio, que se ha perimetrado en 6,5 kilómetros sobre los 8 kilómetros de la cabeza del incendio. El fuego se encuentra con índice de gravedad potencial 2, por comportar un grave riesgo a poblaciones y bienes no forestales.La zona que más preocupaba, con las llamas amenazando la localidad de Rosales, está bien al no haber superado el arroyo ubicado en sus proximidades, mientras que los puntos más activos se encuentran en el área de Inicio y Valdesamario. A los vecinos evacuados se les ha ofrecido dormir en el albergue de las Escuelas de Riello, aunque solo seis lo han utilizado, ya que el resto ha preferido quedarse con familiares.Durante la mañana se sigue trabajando con un amplio operativo integrado por técnicos y agentes medioambientales, seis bulldozer, seis cuadrillas de tierra, siete autobombas y cuatro cuadrillas helitransportadas, a los que se han sumado con las primeras luces del día seis helicópteros. Diego ha considerado positiva la evolución de los otros dos incendios de la provincia, en Quintela y Castropodame, lo que ha permitido reducir su índice de gravedad potencial de 1 a 0, ya que, aunque siguen activos, no tienen llama.En Castilla-La Mancha ha levantado la evacuación en Semillas, uno de los municipios desalojados por el incendio de La Mierla (Guadalajara), aunque mantiene esta medida en Aldeanueva de Atienza, Prádena de Atienza, Gascueña de Bornova y El Ordial, según ha informado el servicio en redes sociales este sábado. Siguen cortadas las carreteras GU-151, GU-147, GU-213 y GU-137. El incendio, declarado el 16 de julio, ha afectado a unas 32.000 hectáreas, en su mayoría en la Sierra Norte de Guadalajara, y continúa en nivel 1. Trabajan en su extinción cuatro medios aéreos, 27 terrestres y 149 personas, según el sistema Fidias de la Consejería de Desarrollo Sostenible de Castilla-La Mancha.La superficie quemada por incendios sobrepasa ya las 125.937,66 hectáreas en lo que va de 2026, según ha informado el Ministerio para la Transición Ecológica este sábado. La cifra contrasta con las 24.133,26 hectáreas arrasadas en el mismo periodo del pasado año.El ministerio ha informado también de que en 2026 ya se han registrado 32 grandes incendios forestales, frente a una media de 9 en el mismo periodo de la última década. Los datos son provisionales y corresponden al periodo comprendido entre el 1 de enero y el 25 de julio de 2026."
   },
   {
     "titulo": "Un iPad Air con 5G para no depender de WiFi estas vacaciones: está en el outlet de MediaMarkt y tiene precio de liquidación",
@@ -698,13 +747,6 @@
     "fecha": 1784975427.0,
     "link": "https://www.applesfera.com/seleccion/ipad-air-5g-para-no-depender-wifi-estas-vacaciones-esta-outlet-mediamarkt-tiene-precio-liquidacion",
     "resumen": "La subida de precios general de Apple ha atacado a un montón de dispositivos de la marca, pero todavía hay formas de encontrarlos a buen precio. El outlet de MediaMarkt que tiene a través de eBay es un lugar muy interesante para ello y la mejor prueba de ello la tenemos con este iPad Air con chip M3: cuesta 529,46 euros. Un iPad versátil a un gran precio Este dispositivo del outlet de MediaMarkt es un artículo de exposición en alguna de sus tiendas. Ahora bien, pese a esto, no muestra signos de desgaste, tiene su correspondiente garantía y, para redondear la jugada, envío gratis con un período de 30 días para devolverlo si no estamos conformes. Si unimos todo eso a su precio, se trata de una muy buena oportunidad de renovar iPad. En Applesfera Qué iPad comprar (2026). Todas las tabletas del catálogo de Apple, sus prestaciones y consejos El iPad Air M3 sigue siendo una gran compra este 2026. Es cierto que ya tenemos disponible el nuevo modelo con chip M4, pero este ofrece una muy buena potencia que va a hacer que el iPad sea perfecto tanto para trabajar como para estudiar, para ver pelis en el sofá o incluso para echar alguna partida. Además, al ser el modelo de 11 pulgadas, es muy manejable. Este modelo, además, cuenta con 5G. Gracias a esto, no vamos a tener que depender de redes WiFi o de compartir datos con el móvil para conectarnos a Internet. Lo único a tener en cuenta, eso sí, es que se trata del modelo con 128 GB de almacenamiento. ⚡ EN RESUMEN: oferta del ipad air m3 ✅ LO MEJORMuy buen precio: Si tenemos en cuenta el modelo que es y la subida de precios, es una muy buena oportunidad para renovar iPad.Con 5G: Tener 5G te permite no depender de redes WiFi, ideal en vacaciones o si sueles moverte mucho con el iPad. ❌ LO PEORSolo 128 GB: Es la versión con menos almacenamiento, por lo que se te puede quedar corto si eres de almacenar muchos vídeos o aplicaciones.60 Hz: Su pantalla solo tiene 60 Hz de tasa de refresco, una cifra que a estas alturas se queda un poco corta si tenemos en cuenta lo que utilizan otros fabricantes. 💡 CÓMPRALO SI... Buscas un iPad ligero, manejable y potente que te permita no depender de redes WiFi ni te obligue a compartir datos con el móvil. ⛔ NO LO COMPRES SI... Prefieres un modelo con más almacenamiento o te encaja más otro tipo de iPad. En Xataka Carrefour tiene este aire acondicionado portátil sin obras para que puedas sobrellevar mejor las olas de calor este verano También te puede interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Xataka, Apple, MediaMarkt En Applesfera | Qué Mac comprar. Guía para elegir el ordenador de Apple que más se ajusta a tus necesidades En Applesfera | Qué iPad comprar (2026). Todas las tabletas del catálogo de Apple, sus prestaciones y consejos - La noticia Un iPad Air con 5G para no depender de WiFi estas vacaciones: está en el outlet de MediaMarkt y tiene precio de liquidación fue publicada originalmente en Applesfera por Juan Lorente ."
-  },
-  {
-    "titulo": "Tensión entre Ayuso y Sánchez: comparecen por separado tras un frío saludo en el Puesto de Mando de los incendios",
-    "medio": "El Español",
-    "fecha": 1784975058.0,
-    "link": "https://www.elespanol.com/madrid/sociedad/20260725/tension-ayuso-sanchez-comparecen-separado-frio-saludo-puesto-mando-incendios/1003744333885_0.html",
-    "resumen": "Sánchez y Ayuso han visitado durante la mañana de este sábado el Puesto de Mando de Cenicientos para conocer la evolución de los incendios.Más información: El humo de los fuegos llena de humo y cenizas el cielo de la capital: \"Han saltado las alarmas antiincendios del edificio\""
   },
   {
     "titulo": "El petróleo sube casi un 34% desde que empezó la guerra en Irán",
@@ -770,20 +812,6 @@
     "resumen": "Apple dedicó un buen rato en la WWDC26 a hablar de rendimiento, y aquella lista de mejoras que repasamos con la beta 1 no se ha quedado en promesa de keynote. Con la beta pública de iOS 27 ya en la calle, esos números que sonaban bien el 8 de junio siguen igual de bien más de un mes después. Y eso en un sistema que todavía no ha terminado de pulirse dice bastante de lo que llega este otoño. A todo esto se suma un detalle que en junio no teníamos tan claro: la cifra del 30% de mejora al abrir aplicaciones (una de las más llamativas de toda la lista) la ha medido Apple en un iPhone 11 Pro Max. Un modelo de 2019, con siete años a sus espaldas, comparando cómo se comporta con iOS 26.4.2 frente a cómo se comporta con iOS 27. Lo que Apple presumió y se confirma con la beta pública Los números que Apple puso sobre la mesa siguen siendo los más fáciles de entender, y por qué no decirlo, los más llamativos. Las apps se abren un 30% más rápido gracias a un sistema que precarga los datos antes de que el usuario siquiera toque el icono, algo que según Apple aplica también a apps de terceros. Las fotos nuevas aparecen en la biblioteca un 70% más rápido después de hacer una capturaAirDrop transfiere archivos un 80% más rápido, algo que se nota muchísimo en el uso diario. Junto a todo esto sigue ahí el planificador de CPU, ese componente que gestiona cómo se reparten los recursos del procesador entre todo lo que está funcionando en el iPhone en cada momento. Apple lo ha optimizado para que sea más eficiente con cargas de trabajo intensas, priorizando en tiempo real lo que el usuario está usando y quitando recursos a lo que va en segundo plano. Y como ya sabíamos desde junio, lo han llevado hasta el iPhone 11. Así que los modelos con varios años encima siguen siendo los grandes beneficiados de este trabajo de fondo. También se mantienen las mejoras en las transiciones entre redes, esos momentos en los que el iPhone se queda aferrado a una Wi-Fi débil cuando ya estás en la calle. El dato que faltaba: el modelo donde Apple ha hecho las pruebas Con la beta pública ya disponible, Apple ha añadido un detalle que en junio quedaba en el aire. La cifra del 30% en apertura de aplicaciones es el resultado de una prueba en un modelo concreto. Apple comparó un iPhone 11 Pro Max con iOS 26.4.2 contra otro con iOS 27. De ahí salió ese salto. Algo que confirma que este trabajo de rendimiento está pensado para lucirse en los iPhone que ya llevan varios años en el bolsillo de alguien. La lista de mejoras que no dio tiempo a leer en la keynote Junto a los datos estrella, Apple mostró en pantalla durante unos segundos una lista mucho más larga que pasó sin que casi nadie pudiera leerla entera, y con la beta pública puedes comprobar tú mismo que sigue firme. Ahí entran cosas como la página de inicio de Safari, un 70% más rápida, o el descubrimiento de destinatarios en AirDrop, además de las conexiones AirPlay a Apple TV y HomePod, la lectura NFC más fiable, o la apertura de la cámara en Modo de bajo consumo. En Applesfera Solo si tu iPhone y iPad están en esta lista podrán actualizarse a iOS 27 y iPadOS 27 También hay mejoras en Fotos, con una carga más rápida de las capturas nuevas y de la vista de colecciones, en Apple Music con un inicio de reproducción más ágil, y en Mail con una carga de mensajes más veloz. La app Salud actualiza sus datos más rápido, los entrenamientos en la app Ejercicio arrancan antes, y el Control por Voz responde con menos retraso. Se suman guardado de PDF más rápido, reconocimiento de texto en fotos y documentos, procesamiento de escritura a mano en varios idiomas, emparejamiento de accesorios HomeKit y hasta la creación de cuentas de usuario en macOS. Y hay mejoras que van más allá de la velocidad pura pero forman parte del mismo trabajo de fondo: scroll más fluido en la biblioteca de apps, en el centro de control y en la galería de widgets, un desbloqueo del iPhone más fluido y mejor eficiencia energética de Safari en iOS. Lo que viene con la versión final de iOS 27 iOS 27 llegará a todo el mundo este otoño, y con la beta pública ya en manos de cualquiera que quiera probarla, este trabajo de rendimiento tiene un par de meses por delante para seguir puliéndose antes del lanzamiento definitivo. Habrá tiempo para hablar de Siri AI, de Apple Intelligence y de todo lo demás. Pero en lo que respecta al rendimiento, Apple ya ha demostrado dos veces (primero en la keynote y ahora con la beta pública en la calle) que ha cumplido. En Applesfera | Cómo instalar una beta de iOS 27 en el iPhone: paso a paso para hacerlo de una manera segura y oficial En Applesfera | Las 15 primeras cosas que me animaría a probar si instalas la beta pública de iOS 27 - La noticia Apple promete que iOS 27 hará tu iPhone mucho más rápido. La sorpresa es que han usado un modelo de hace siete años para demostrarlo fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Keysight capitaliza la revolución tecnológica",
-    "medio": "Expansión",
-    "fecha": 1784969931.0,
-    "link": "https://www.expansion.com/mercados/2026/07/25/6a6474e1e5fdea84328b457e.html",
-    "resumen": "Keysight Technologies es uno de los líderes mundiales en instrumentación electrónica, equipos de medida y soluciones de software para el diseño, validación y prueba de sistemas de comunicaciones, semiconductores, centros de datos, automoción, aeroespacial y Defensa. Leer"
-  },
-  {
-    "titulo": "Grecia anuncia la destrucción de dos misiles lanzados desde Yemen contra una refinería de Arabia Saudí",
-    "medio": "Europa Press",
-    "fecha": 1784968669.0,
-    "link": "https://www.europapress.es/internacional/noticia-grecia-anuncia-destruccion-dos-misiles-lanzados-yemen-contra-refineria-arabia-saudi-20260725103749.html",
-    "resumen": "Las autoridades griegas han anunciado este sábado que han logrado interceptar y destruir con éxito dos misiles balísticos lanzados desde Yemen contra una refinería de Arabia Saudí gracias al uso de los sistemas Patriot operados por Grecia y desplegados en el territorio saudí desde el año 2021 en respuesta al recrudecimiento del conflicto yemení."
-  },
-  {
     "titulo": "Los incendios forestales han quemado más de 131.000 hectáreas en lo que va de año",
     "medio": "Europa Press",
     "fecha": 1784967528.0,
@@ -812,32 +840,11 @@
     "resumen": "Age of Empires II es uno de los juegos más emblemáticos de todos los tiempos. Pese a su popularidad, el juego de Microsoft y Ensemble Studios nunca tuvo una sola vulnerabilidad reportada en más de 25 años. Eso cambió este año, cuando investigadores de seguridad encontraron un fallo que permitía a un atacante tomar el […] Seguir leyendo: Jugar una partida de ‘Age of Empires II’ podía darle a un hacker el control de tu PC"
   },
   {
-    "titulo": "Trump vuelve a la cena de corresponsales tras el atentado y bromea con presentarse a las elecciones de 2028",
-    "medio": "El Español",
-    "fecha": 1784965261.0,
-    "link": "https://www.elespanol.com/mundo/america/eeuu/20260725/trump-vuelve-cena-corresponsales-atentado-bromea-presentarse-elecciones/1003744333851_0.html",
-    "resumen": "Asimismo, ironizó con sobre las medidas de protección adoptadas para esta edición y aseguró que \"no fue fácil encontrar zapatos que combinaran con el chaleco antibalas\".Más información: Trump, ileso tras un nuevo intento de asesinato durante la cena de corresponsales: el atacante ha sido detenido"
-  },
-  {
     "titulo": "Las pilas de las balizas V16 se agotan y no suelen avisar cuando eso pasa, pero tu iPhone sí puede hacerlo",
     "medio": "Applesfera",
     "fecha": 1784964627.0,
     "link": "https://www.applesfera.com/general/pilas-balizas-v16-se-agotan-no-suelen-avisar-cuando-eso-pasa-tu-iphone-puede-hacerlo",
     "resumen": "Ojalá nunca tengas que usar la baliza V16, pero si surge una emergencia en carretera y vas a ponerla y de repente no luce, es un problema. Tanto a efectos legales como, sobre todo, para tu visibilidad. Así que sí, hay que asegurarse de que la pila no esté gastada y es algo que no siempre tenemos en cuenta. Sabemos que las balizas V16 deben tener una vida útil de doce años, pero no se dice nada de su pila y puede variar. Así que te contamos cómo puedes aprovechar tu iPhone para que no se te olvide e incluso, si es compatible, que sea una app la que te avise. Opción 1: comprar una baliza compatible con apps myIncidence es una de las apps compatibles con algunas balizas V16 homologadas Balizas V16 que sean homologadas, hay muchas. Sin embargo, no todas son compatibles con aplicaciones, ya que no es ni siquiera obligatorio que lo sean, ya que de serie van conectadas a la plataforma digital de la DGT. El caso es que comprar una que sí sea compatible con apps es interesante, entre otras cosas, por el asunto de las pilas. Hay algunas que funcionan con apps como myIncidence, conectándose a sus sistemas y permitiéndonos conocer detalles sobre el desgaste de las pilas. Tal vez no diga con exactitud qué porcentaje de vida útil le quedan a estas, pero sí pueden enviar notificaciones cuando estén próximas a agotarse. En Applesfera Esto no es \"Buscar mi iPhone\": la baliza V16 no te espía. Su geolocalización es un simple aviso de obstáculo, no un historial de tus movimientos Lógicamente, no vamos a recomendarte comprar una baliza compatible con apps si ya tienes una que no lo es. Pero si aún no la compraste, sí, ya que sus precios no suelen ser más altos. Y si ya tienes una y no estás seguro, comprueba sus instrucciones o contacta con el fabricante para saber si es compatible. El clásico: poner un recordatorio Simple, rápido y, sobre todo, muy efectivo. Hay muchas razones para adorar a la app de Recordatorios del iPhone, pero la más básica es suficiente para esta cuestión: ayudarte a controlar la caducidad de tus balizas V16 y garantizar que siempre estén en condiciones óptimas. La normativa española que regula el uso de las balizas V16 no especifica un plazo fijo de caducidad en años para las pilas. Sin embargo, la mayoría de fabricantes homologados recomiendan una vida útil aproximada de cinco años. Aunque no siempre tienen esta duración. En Applesfera Buscaba la mejor baliza V16 y he encontrado la de \"pata negra\". Se fabrica en Zaragoza y brilla hasta cuatro veces más que los modelos baratos Por tanto, conviene que compruebes en el manual de la baliza y/o pila de cuánto es la caducidad, abre la app Recordatorios de Apple y añádelo en la fecha estimada de caducidad (preferiblemente, unos meses antes). Si lo prefieres, puedes añadirlo también a la app Calendario, para así asegurarte del todo. Bonus track: no pongas las pilas a la baliza Imagen: DGT Si la baliza lleva pilas alcalinas, estas tienden a descagarse lentamente incluso si no se usan, tal como sucede con las balizas V16, las cuales podrían no usarse nunca si no tenemos una emergencia en carratera. Además, el calor y la humedad podrían acelerar esa pérdida de energía, así que es mejor retirarlas. Obviamente, importa que estén a nuestro alcance si se necesitan. De ahí que nuestro consejo adicional a este respecto sea tener la baliza y las pilas en un mismo estuche, ya sea en la guantera o en el portaobjetos de la puerta. En Applesfera | Cuánta batería tiene el iPhone: modelos y cantidad de mAh en cada uno En Applesfera | Los 47 mejores juegos para iPhone: gratis, de pago e incluidos en Apple Arcade - La noticia Las pilas de las balizas V16 se agotan y no suelen avisar cuando eso pasa, pero tu iPhone sí puede hacerlo fue publicada originalmente en Applesfera por Álvaro García M. ."
-  },
-  {
-    "titulo": "Trucos para crear mejores imágenes con ChatGPT y Gemini",
-    "medio": "Hipertextual",
-    "fecha": 1784962800.0,
-    "link": "https://hipertextual.com/guias/crear-imagenes-profesionales-con-chatgpt-gemini/",
-    "resumen": "Quién nos iba a decir hace años que un día una tecnología nos permitiría generar imágenes a partir de unas pocas palabras. O arreglar tus fotografías en un santiamén como un profesional. Algo que antaño solo estaba al alcance de quienes sabían manejar Adobe Photoshop. Pero, hoy, la inteligencia artificial permite convertir texto en imagen […] Seguir leyendo: Trucos para crear mejores imágenes con ChatGPT y Gemini"
-  },
-  {
-    "titulo": "La Escuela de Policía de Ávila, convertida en refugio para los evacuados de los incendios",
-    "medio": "El Español",
-    "fecha": 1784962280.0,
-    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20260725/escuela-policia-avila-convertida-refugio-evacuados-incendios/1003744333845_0.html",
-    "resumen": "Las autoridades habilitan también el pabellón de San Antonio ante la llegada de vecinos desalojados de Burgohondo, El Hoyo de Pinares y Villanueva de Ávila.Más información: DIRECTO | Última hora del incendio de Burgohondo"
   },
   {
     "titulo": "Como a sus ángeles",
@@ -887,20 +894,6 @@
     "fecha": 1784952048.0,
     "link": "https://www.infolibre.es/narcotrafico/union-tigre-pablo-escobar-sueco-paralitico-moncho-vilaboa_1_2230560.html",
     "resumen": "En febrero de 2021, una potente narcolancha de color blanco dotada de dos potentes motores fueraborda salía de un aserradero de Outes, en A Coruña. Su destino era un punto concreto en aguas del Atlántico, enfrente de A Costa da Morte. Su objetivo, recoger unos 2.000 kilos de cocaína del buque Nehir, que llegaba a aguas próximas a Galicia desde Sudamérica. En aquel momento, los Greco Galicia de la Policía Nacional tenían el convencimiento de que dicha embarcación había sido fletada por la organización de Ramón Canto Nine, alias Moncho Vilaboa, uno de los grandes capos del siglo XXI, ligado históricamente a los clanes colombianos y con relación estrecha con Los Charlines. Entonces no pudieron acreditarlo. Ahora parece que sí podrán hacerlo.La singladura del Nehir, que acabó abruptamente al norte de Ribadeo con una intervención policial plagada de riesgos –los narcos intentaron hundir el buque, que quedó boca abajo con parte del alijo en su interior– le conducía a las costas gallegas, si bien no fue hasta la desencriptación de las comunicaciones de los narcos y, en concreto, hasta el rastreo de los datos de la plataforma Sky-ECC, cuando la Policía pudo conocer los detalles.Ese cargamento, compuesto por dos alijos de cerca de dos toneladas cada uno de ellos, tenía varios dueños, si bien las cabezas visibles eran Urfi Cetinaya, alias El Paralítico, otrora rey de la heroína y ya fallecido, Jonas Falk, alias el Pablo Escobar sueco, pendiente de condena por esta causa en un tribunal de su país, y Alejandro Salgado Vega, alias El Tigre, probablemente el mayor capo de la droga español del momento y que ya ostentaba tal condición en 2021, cuando sucedieron los hechos. Todo ello, según la hipótesis policial a través del análisis de los mensajes de Sky.Junto a nombres de tamaño postín, algunos de los mayores capos de la droga a nivel mundial, trabajaba, sostiene la Policía, Moncho Vilaboa, en su especialidad: la recogida de la cocaína en altamar. Por ese alijo y, también, por el blanqueo de ingentes cantidades de dinero, fue detenido este miércoles en Cambados, una información que contaba en primicia este periódico. La lancha que salió de Outes y que apareció encallada en una zona rocosa de Corcubión le delata, piensan los investigadores. La lancha y los datos de la plataforma encriptada.El juez Ismael Moreno, de la Audiencia Nacional, a instancias de la Fiscalía Antidroga, interrogó este viernes en Madrid a Canto Nine (que contra el criterio de la Fiscalía fue puesto en libertad provisional con comparecencias quincenales). En próximas fechas irán pasando ante el juez otros investigados que han sido detenidos en diferentes puntos. Entre ellos destacan los miembros de la organización afincados en la capital de España y también una rama procedente de Laredo, en Cantabria, que hizo un último intento de salir al encuentro del Nehir antes de que fuese interceptado por la Policía.Este último intento tuvo lugar después de que la organización de Moncho Vilaboa conociese a través de un chivatazo –que, según se investiga, tuvo que llegar desde dentro de las filas de las fuerzas del orden o de los juzgados investigadores– de que la Policía le seguía la pista. Fue eso lo que le llevó a renunciar a la descarga en A Costa da Morte en aquel febrero de 2021.En cuanto al resto del operativo, coordinado a nivel internacional, tiene un alcance muy relevante, con hasta 30 objetivos policiales, incluidos los cinco de Cambados adelantados en estas líneas en exclusiva. Uno de los países a los que se le ha solicitado colaboración ha sido Dubái. Ya hemos contado que El Tigre, con un papel presuntamente clave en tramas como la del inspector jefe de los 20 millones de euros emparedados en su vivienda, también estaba –supuestamente– detrás de este barco. Y El Tigre, por esa época –ahora no se sabe con precisión– se ubicaba en Dubái, en la mesa de la que Gustavo Petro, presidente de Colombia, llama la Junta del Narcotráfico. Esa a la que pertenecen Jorge Vélez Garzón o Germán Sánchez Rey, aliados históricos de Moncho Vilaboa y a los que se sitúa en activo y en España.Volviendo al Nehir, será recordado por varias cuestiones sombrías, una de ellas la más que posible pérdida de la droga en el puerto de Gijón. La Policía siempre sospechó que el segundo alijo –se intervinieron unos 1.800 kilos– seguía en sus bodegas con el buque boca abajo, pero la maniobra de reflote se retrasó varios meses, tiempo suficiente para que el poder de los narcos llegase al interior de la dársena asturiana para llevarse la cocaína. Una vez más, la lentitud de la justicia española operando a favor de la obra criminal."
-  },
-  {
-    "titulo": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
-    "medio": "Hipertextual",
-    "fecha": 1784929080.0,
-    "link": "https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/",
-    "resumen": "Donald Trump ha amenazado a la Unión Europea con imponer aranceles \"sustanciales\" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy alto por esa conducta \"ilegal\" […] Seguir leyendo: Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas"
-  },
-  {
-    "titulo": "El refugio de Shakira entre dos de los pueblos más bonitos del norte: playas salvajes, acantilados y un parque natural frente al mar",
-    "medio": "Trendencias",
-    "fecha": 1784926826.0,
-    "link": "https://www.trendencias.com/viajes/refugio-shakira-dos-pueblos-bonitos-norte-playas-salvajes-acantilados-parque-natural-frente-al-mar",
-    "resumen": "Mientras continúa inmersa en su gira mundial y encadena conciertos multitudinarios por todo el planeta, hay un lugar en España que espera a Shakira para cuando necesite desaparecer y descansar durante unos días. La artista colombiana hace años que encontró su refugio personal en la costa cántabra. La Gaviota es una espectacular villa situada en pleno Parque Natural de Oyambre, entre San Vicente de la Barquera y Comillas. Allí ha disfrutado de varias escapadas junto a sus hijos, Milan y Sasha, atraída por su paisaje de playas salvajes, naturaleza casi intacta y algunas de las mejores olas del Cantábrico para practicar surf. Más que en la vivienda, con acceso privado a la playa y vistas que alcanzan los Picos de Europa, el verdadero lujo está fuera. El Parque Natural de Oyambre es uno de los espacios protegidos más valiosos del litoral cántabro, un mosaico de playas, dunas, rías, acantilados y bosques que conserva intacta buena parte del carácter salvaje de esta costa. Casaelmazo Qué ver en Oyambre Hablar de Oyambre es hacerlo de uno de los paisajes costeros mejor conservados del norte de España. Declarado Parque Natural en 1988, este espacio protegido se extiende entre los municipios de San Vicente de la Barquera, Valdáliga, Comillas y Udías, y reúne en pocos kilómetros algunos de los ecosistemas más valiosos de la costa cántabra: playas, sistemas dunares, acantilados, marismas, rías y bosques autóctonos. La playa de Oyambre es la protagonista. Con cerca de dos kilómetros de arena dorada, está considerada una de las playas más espectaculares de Cantabria por su entorno prácticamente virgen. El cordón dunar que la acompaña forma parte de un ecosistema protegido donde crecen especies vegetales adaptadas a las duras condiciones del litoral, mientras que el fuerte oleaje la ha convertido en un destino muy apreciado por los aficionados al surf. Óscar San Juan Bueno Muy cerca se encuentran la Ría de la Rabia y la Ría del Capitán, dos humedales que son dos de los enclaves más importantes del parque. Dependiendo de la época del año, es posible observar numerosas aves migratorias descansando durante sus desplazamientos entre el norte de Europa y África. Esto convierte a Oyambre en un lugar especialmente atractivo para los amantes de la naturaleza y la fotografía. Otro de los grandes tesoros del parque son sus acantilados y praderas costeras, que ofrecen algunas de las panorámicas más bonitas del litoral occidental cántabro. En los días despejados, el contraste entre el azul del Cantábrico y el perfil de los Picos de Europa crea una postal difícil de olvidar. No obstante, el interior del parque sorprende con un paisaje completamente diferente. En el Monte Corona, uno de los mayores encinares litorales de Cantabria, hay senderos que atraviesan bosques en los que predominan encinas, robles y otras especies autóctonas. Es una de las mejores zonas para recorrer el parque a pie. Turismo Cabezón de la sal Su ubicación añade un atractivo extra a la visita porque, en apenas diez minutos, se puede llegar a San Vicente de la Barquera, con su castillo medieval, la iglesia de Santa María de los Ángeles y uno de los puertos pesqueros más pintorescos de la región. En dirección contraria aparece Comillas, considerada una de las joyas monumentales de Cantabria gracias a edificios tan emblemáticos como El Capricho de Gaudí, el Palacio de Sobrellano o la antigua Universidad Pontificia. Dos visitas casi imprescindibles que completan una escapada a uno de los rincones más especiales del norte de España. Dónde comer rico y barato en Oyambre La gastronomía es otro de los grandes argumentos para escaparse hasta esta zona, donde abundan los restaurantes familiares especializados en pescado fresco, marisco y cocina tradicional cántabra. Una apuesta segura es Restaurante El Pájaro Amarillo, en San Vicente de la Barquera, conocido por sus arroces, pescados y una excelente relación calidad-precio. Nacho Castejón Martínez Muy cerca también destaca el Restaurante Las Redes, uno de esos clásicos donde probar el sorropotún (el guiso marinero más típico de la localidad) junto a pescados del día y raciones generosas. En Comillas, La Aldea Comillas se ha ganado muy buenas valoraciones gracias a una cocina de producto con precios razonables, mientras que El Carel resulta una excelente opción para quienes prefieren compartir raciones de marisco, anchoas, rabas o quesos cántabros sin que se dispare el presupuesto. Qué hacer en los alrededores de Oyambre El gran atractivo de esta zona es que combina playa, naturaleza y montaña en apenas unos kilómetros. La cercana playa de Gerra suele estar menos concurrida que la de Oyambre y es una magnífica alternativa para quienes buscan tranquilidad o practicar surf en un ambiente más relajado. También merece la pena acercarse a la playa de Merón, otra de las grandes playas abiertas del municipio de San Vicente de la Barquera, muy apreciada tanto por bañistas como por deportistas. Cantabria Turismo Los amantes del senderismo pueden recorrer diferentes itinerarios dentro del Parque Natural de Oyambre, especialmente los caminos que atraviesan las marismas, las dunas y el Monte Corona, uno de los espacios forestales más valiosos del litoral cántabro. La observación de aves es otra de las actividades más recomendables, ya que las rías y humedales del parque constituyen un importante refugio para numerosas especies migratorias. Y si la escapada permite una excursión algo más larga, los Picos de Europa, la cueva de El Soplao o Santillana del Mar quedan a menos de una hora de carretera, lo que convierte Oyambre en una base perfecta para descubrir algunos de los grandes iconos turísticos de Cantabria. Foto de portada | @Shakira y Spinor69 En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En Descosfera | Carla, la joven que ha comprado una casita en una aldea de Galicia por 12.000 euros: \"Los techos no están perfectos y los muebles son muy antiguos, pero le voy a poner mucho cariño\" En Xataka | Volkswagen llevó a pastar a un ejército de ovejas bajo 31.000 placas solares. Resulta que empezó a cambiar la forma de producir energía - La noticia El refugio de Shakira entre dos de los pueblos más bonitos del norte: playas salvajes, acantilados y un parque natural frente al mar fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
     "titulo": "Ontario Is Gutting a Pillar of the Labor-Capital Settlement",
@@ -987,13 +980,6 @@
     "resumen": "San Román de Candamo es uno de esos preciosos pueblos asturianos donde el verde lo inunda todo. La naturaleza que lo rodea bastaría por sí sola para definirlo como un lugar que merece la pena visitar, pero, cada dos años, San Román se transforma en galería de arte y epicentro artístico y cultural abierto a quien quiera recorrer sus callejuelas. Porque allí tiene lugar Néxodos Candamo, una bienal artística que quiere servir de puente entre la creación contemporánea y el mundo rural. La de este año, que tendrá lugar entre el 25 de julio y el 2 de agosto, es La entrada Abuelo, te ha salido una canoa en la fachada se publicó primero en Yorokobu."
   },
   {
-    "titulo": "Así funciona la máquina de vapor de Watt, explicado con diagramas interactivos",
-    "medio": "Microsiervos",
-    "fecha": 1784851385.0,
-    "link": "http://www.microsiervos.com/archivo/ciencia/como-funciona-maquina-vapor-watt-diagramas-interactivos.html",
-    "resumen": "La máquina de vapor fue uno de los inventos que hicieron posible la Revolución Industrial, algo soberbio y quizá poco valorado. Fue un avance que supuso un antes y un después, como sucedió con la imprenta de tipos móviles, los microchips o la chorrimanguera. Pero tanto los mecanismos como los principios en los que se basan estas máquinas no son precisamente intuitivos de entender. En este precioso artículo interactivo de Gary Linscott titulado La máquina de balancín se explica precisamente cómo una de estas máquinas de vapor convierte el calor generado con carbón en movimiento mecánico. Desde la caldera al pistón y el volante de inercia, cada pieza tiene una función esencial y se basa en unos principios distintos. Del vapor a las fábricas como «producto final» El resumen rápido cómo funciona la máquina de vapor que se acabó usando en todo tipo de fábricas son todos estos principios: La fuerza producida por el vapor y cómo la expansión del agua permite obtener energía mecánica. El vacío y la presión atmosférica, empleados como «truco» en las primeras máquinas de vapor. Las innovaciones decisivas de James Watt: el condensador independiente y la reducción del consumo de carbón. La conversión de un movimiento de vaivén en rotación mediante bielas, cigüeñales y volantes de inercia (benditos principios mecánicos). El regulador centrífugo, uno sistema automático de control. La importancia de la mejoras, en concreto de las calderas y la fabricación de precisión, para aumentar la potencia y la seguridad. La evolución de la eficiencia energética, desde menos del 1% en los primeros motores hasta más del 40% en las modernas turbinas de vapor. El punto de partida es una propiedad sorprendente del vapor de agua: al hervir ocupa unas 1.700 veces más volumen que el agua líquida, generando presión. Al principio no se podían trabajar con tanta presión porque las calderas eran demasiado débiles, así que se recurrió a un ingenioso truco: condensar el vapor para crear un vacío y dejar que fuera la presión atmosférica la que empujara el pistón. De aquí surgió en 1712 la máquina de Newcomen para bombear agua de las minas de carbón. James Watt revolucionó aquel diseño en 1765 al separar el condensador del cilindro principal. Evitó tener que enfriar y recalentar continuamente el cilindro, reduciendo el consumo de carbón en un 65-70%. Más tarde logró una distribución del vapor más eficiente y aplicó diversos mecanismos que permitían convertir el movimiento alternativo del pistón en un giro continuo capaz de mover telares, sierras y otras máquinas industriales, que era justo lo que se necesitaba en las fábricas. La evolución continuó con el volante de inercia, el regulador centrífugo, mejores calderas y cilindros de precisión. Todo ello permitió aumentar progresivamente la eficiencia. Si las primeras máquinas de Newcomen apenas aprovechaban alrededor del 0,5% de la energía del combustible, las de Watt alcanzaban el 3%. A finales del siglo XIX había motores que superaban el 10%. Hoy en día, una central térmica moderna tiene turbinas de vapor en las que convierten en electricidad más del 40% de la energía térmica disponible. Las piezas clave de una máquina de vapor En los diagramas animados e interactivos del artículo se pueden ver todos los mecanismos pieza a pieza y, para comprender cómo funcionan, hacerlos avanzar paso a paso. Es tan interesante como instructivo. Una herramienta ideal para enseñar el clase o, simplemente, admirarse del ingenio humano. Hay explicaciones detalladas para todos estos componentes: Caldera: genera vapor calentando agua mediante carbón. Pistón y cilindro: transforman la presión del vapor en movimiento lineal. Condensador: crea el vacío que aumenta el rendimiento del motor. Válvula distribuidora: dirige alternativamente el vapor a ambos lados del pistón. Biela y cigüeñal: convierten el movimiento de vaivén en rotación. Volante de inercia: suaviza las variaciones de velocidad y supera los puntos muertos. Regulador centrífugo: mantiene constante la velocidad del motor ajustando automáticamente la admisión de vapor. Bomba de alimentación: devuelve agua a la caldera para mantener el ciclo en funcionamiento. El artículo recuerda poderosamente a los de Bartosz Ciechanowski que hemos reseñado por aquí más de una vez: GPS: el Sistema de Posicionamiento Global explicado La arquitectura naval explicada paso a paso en didácticos gráficos Así funcionan los relojes mecánicos de pulsera Cómo funcionan los números en coma flotante Así funcionan las cámaras y lentes: ciencia y funcionamiento La danza gravitatoria de la Luna: mareas, órbitas y su lento alejamiento Tanto estos como el de Linscott son una maravilla por su capacidad de divulgación visual para entender cosas complicadas de una forma sencilla. Relacionados: Cómo funciona un motor de vapor Una máquina de vapor de vidrio… ¡Que funciona! # Enlace permanente"
-  },
-  {
     "titulo": "El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts",
     "medio": "El Independiente",
     "fecha": 1784834570.0,
@@ -1006,20 +992,6 @@
     "fecha": 1784830602.0,
     "link": "https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/",
     "resumen": "Vox y PP han pedido al Tribunal de Cuentas que investigue por responsabilidad contable a la Diputación de Badajoz tras […]"
-  },
-  {
-    "titulo": "Probamos el tocadiscos Vulkkano TD20, una mejora más que recomendable del TD10, que tampoco es nada malo",
-    "medio": "Microsiervos",
-    "fecha": 1784829600.0,
-    "link": "http://www.microsiervos.com/archivo/gadgets/probamos-tocadiscos-vulkkano-td20.html",
-    "resumen": "El Vulkkano TD20 listo para funcionar – Wicho/Microsiervos Si todo ha ido según lo previsto quienes hayan comprado un tocadiscos Vulkkano TD20 desde que fue anunciado a principios de mes habrán empezado a recibirlo hoy. Yo hace unas semanas que tengo uno en casa que me han dejado para probar y puedo decir que estoy seguro de que quienes hayan optado por él no se arrepentirán. Como sugiere el nombre el TD20 es una versión mejorada del TD10, con el que de hecho comparte chasis, fabricado en MDF y disponible en negro y marrón, motor y electrónica. Las diferencias están en el plato, la alfombrilla, el brazo, que ahora incorpora un sistema anti-skating, la cápsula y la aguja. Todas ellas son mejoras obvias respecto al TD10 que de hecho ya comenté en su momento en mi reseña. Las iré explicando y lo que suponen según desarrolle esta. Seguir leyendo: Probamos el tocadiscos Vulkkano TD20, una mejora más que recomendable del TD10, que tampoco es nada malo# Enlace permanente"
-  },
-  {
-    "titulo": "DSA’s Haters Hate Democracy",
-    "medio": "Jacobin ES",
-    "fecha": 1784829281.0,
-    "link": "https://jacobin.com/2026/07/dsa-kirchick-atlantic-mccarthyism-democracy",
-    "resumen": "What is the dastardly conspiracy that the Democratic Socialists of America stands accused of by defenders of the status quo? That sinister, underhanded, authoritarian tactic of running on popular policies and winning elections."
   },
   {
     "titulo": "Plus Ultra desoyó sus controles internos y aceptó 1,8 millones de una sociedad que la UDEF vincula a una trama de blanqueo",
