@@ -1,5 +1,362 @@
 [
   {
+    "titulo": "La Policía alemana mata a tiros al sospechoso del atropello del desfile del Orgullo en Berlín",
+    "medio": "The Objective",
+    "fecha": 1785095170.0,
+    "link": "https://theobjective.com/internacional/2026-07-26/policia-alemana-mata-sospechoso-atropello-orgullo-berlin/",
+    "resumen": "La Policía de Berlín ha anunciado este domingo que ha encontrado al sospechoso del atropello de esta pasada noche durante las fiestas del Orgullo en la […]"
+  },
+  {
+    "titulo": "Incendios en Ávila, Toledo y la Comunidad de Madrid, en directo: mapa en tiempo real, pueblos desalojados y evacuados y última hora de los fuegos hoy",
+    "medio": "OK Diario",
+    "fecha": 1785094832.0,
+    "link": "https://okdiario.com/espana/incendios-madrid-avila-toledo-directo-mapa-fuegos-activos-desalojos-ultima-hora-emergencia-nacional-hoy-19069465",
+    "resumen": "El incendio que arrasa la provincia de Ávila y la Comunidad de Madrid sigue extendiéndose por el territorio nacional y el Gobierno ha ampliado la emergencia nacional a la provincia de Toledo esta noche del sábado, con el fin de reforzar la coordinación de los medios de extinción. Cerca de 90.000 vecinos de las zonas … Continuar leyendo \"Incendios en Ávila, Toledo y la Comunidad de Madrid, en directo: mapa en tiempo real, pueblos desalojados y evacuados y última hora de los fuegos hoy\""
+  },
+  {
+    "titulo": "Ana Mena, lejos de Ferran Torres… ¿Y cada vez más cerca de Óscar Casas?",
+    "medio": "OK Diario",
+    "fecha": 1785094586.0,
+    "link": "https://okdiario.com/cool/famosos/ana-mena-lejos-ferran-torres-cada-vez-mas-cerca-oscar-casas-19071808",
+    "resumen": "Ana Mena ha decidido poner fin a las especulaciones. Después de semanas protagonizando titulares por los rumores que la relacionaban con Ferran Torres, la cantante malagueña ha roto su silencio y ha respondido con claridad a las preguntas sobre su supuesta relación con el delantero de la Selección Española. Lo ha hecho a su llegada … Continuar leyendo \"Ana Mena, lejos de Ferran Torres… ¿Y cada vez más cerca de Óscar Casas?\""
+  },
+  {
+    "titulo": "Me cambié a un móvil plegable y esta es mi experiencia: ¿Realmente merece la pena?",
+    "medio": "Hipertextual",
+    "fecha": 1785094200.0,
+    "link": "https://hipertextual.com/mobile/mi-experiencia-con-un-movil-plegable-merece-la-pena/",
+    "resumen": "Hace poco di el paso que muchos todavía temen y me compré un móvil plegable. Más precisamente, un Motorola Razr 70, la versión de entrada de gama de la línea que se presentó a finales de abril. Si bien ya había tenido algún foldable en la mano, nunca antes había probado uno, y mucho menos […] Seguir leyendo: Me cambié a un móvil plegable y esta es mi experiencia: ¿Realmente merece la pena?"
+  },
+  {
+    "titulo": "Los incendios de Madrid, Ávila y Toledo obligan a evacuar o confinar a 90.000 personas",
+    "medio": "El País",
+    "fecha": 1785094030.0,
+    "link": "https://elpais.com/espana/2026-07-26/los-incendios-de-madrid-y-avila-obligan-a-evacuar-o-confinar-a-mas-de-100000-personas.html",
+    "resumen": "El incendio de Ávila es ya el mayor de la historia de España con 50.000 hectáreas afectadas. El Gobierno declarará este martes las zonas afectadas como gravemente dañadas por la emergencia"
+  },
+  {
+    "titulo": "El incendio de la Vall d'Uixó calcina ya 6.500 hectáreas y obliga a desalojar a 16.000 vecinos y a confinar a 64.000",
+    "medio": "El Mundo",
+    "fecha": 1785094002.0,
+    "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/26/6a65e4dae4d4d8ee268b4571.html",
+    "resumen": "La Generalitat descarta que los evacuados puedan regresar este domingo a sus casas por el avance del fuego: \"La situación es difícil\" Leer"
+  },
+  {
+    "titulo": "Multitudinaria protesta en Palma contra la masificación turística: “Está todo sobreexplotado”",
+    "medio": "El País",
+    "fecha": 1785093836.0,
+    "link": "https://elpais.com/espana/2026-07-26/multitudinaria-protesta-en-palma-contra-la-masificacion-turistica-esta-todo-sobreexplotado.html",
+    "resumen": "25.000 personas marchan por tercer año consecutivo para denunciar la gentrificación, la saturación de los servicios y los daños ambientales"
+  },
+  {
+    "titulo": "El avance de los incendios que asolan España, en directo | El fuego de Ávila ya es el mayor de la historia del país con 50.000 hectáreas quemadas",
+    "medio": "The Objective",
+    "fecha": 1785093670.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-07-26/directo-incendio-madrid-avila-toledo/directo/",
+    "resumen": ""
+  },
+  {
+    "titulo": "Alquilan un \"pasillo\" en Madrid por más de 1.000 euros al mes: \"Tienes que ir doblado para entrar\"",
+    "medio": "HuffPost",
+    "fecha": 1785093449.0,
+    "link": "https://www.huffingtonpost.es/virales/alquilan-pasillo-madrid-mas-1000-euros-mes-tienes-doblado-entrar-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Ni el sol ni los precios: una finlandesa apunta que lo que de verdad engancha de España es que los españoles no \"cotolean\" y la calle sustituye al salón",
+    "medio": "HuffPost",
+    "fecha": 1785093413.0,
+    "link": "https://www.huffingtonpost.es/sociedad/ni-sol-precios-finlandesa-apunta-verdad-engancha-espana-espanoles-cotolean-calle-sustituye-salon-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Adiós a los pececillos de plata en el baño: todo lo que necesitas es un trozo de papel",
+    "medio": "HuffPost",
+    "fecha": 1785093378.0,
+    "link": "https://www.huffingtonpost.es/sociedad/adios-pececillos-plata-bano-necesitas-trozo-papel-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Los desalojados con mascota en Villamanta: “Lo primero que hice fue coger a mi perro”",
+    "medio": "El País",
+    "fecha": 1785093273.0,
+    "link": "https://elpais.com/videos/2026-07-26/los-desalojados-con-mascota-en-villamanta-lo-primero-que-hice-fue-coger-a-mi-perro.html",
+    "resumen": "Los voluntarios se han reunido para recaudar los suministros necesarios para que los vecinos puedan mantener la rutina de sus animales"
+  },
+  {
+    "titulo": "El incendio de la Vall d’Uixó supera un perímetro de 48 kilómetros y arrasa ya unas 6.500 hectáreas",
+    "medio": "eldiario.es",
+    "fecha": 1785093087.0,
+    "link": "https://www.eldiario.es/comunitat-valenciana/incendio-vall-d-uixo-supera-perimetro-48-kilometros-arrasa-6-500-hectareas_1_13408277.html",
+    "resumen": "El director técnico del operativo afirma que el incendio pasa de estar fuera de la capacidad de extinción a activo, aunque no garantiza que esté estabilizado en las próximas horasMAPA - El incendio de la Vall d'Uixó amenaza al parque natural de la Serra d'Espadà, en el interior de Castelló El conseller de Emergencias, Juan Carlos Valderrama, ha informado este domingo de que el incendio de la Vall d’Uixó, que afecta al parque natural de la Serra d’Espadà, ha quemado ya unas 6.500 hectáreas y su perímetro supera los 48 kilómetros. Valderrama ha dicho que hasta 25 medios aéreos trabajan para tratar de extinguir el fuego. El titular de Emergencias ha afirmado que “actualmente el incendio está activo”. “Ha sido un trabajo excelente de todos los operativos, el viento no ha soplado como ayer y la temperatura ha sido más suave”, ha apostillado el conseller. Por su parte, Antonio Rodrigo, subinspector del Consorcio Provincial de Bomberos de Castelló y director técnico del operativo del Puesto de Mando Avanzado (PMA), ha sostenido que el incendio ya no está fuera de la capacidad de extinción (la situación hasta entre el sábado y la mañana de este domingo). “El incendio está activo. Trataremos de estabilizarlo lo antes posible”, ha dicho el subinspector de los bomberos en una comparecencia ante los medios. A pesar de las mejores condiciones térmicas, “no se puede garantizar que mañana esté estabilizado, aunque hay una buena predisposición para poder estabilizarlo en breve”, ha agregado. Los confinamientos, incluyendo al municipio de Onda, se mantienen hasta este lunes a las 23.59. La ministra Diana Morant ha destacado el amplio dispositivo de efectivos tanto de la Administración central como de la autonómica, incluyendo a soldados de la Unidad Militar de Emergencias (UME). Morant ha pedido a la población que continúen “siguiendo todas las recomendaciones”. La siguiente reunión del Centro de Coordinación Operativa Integrado (Cecopi) se ha convocado este lunes a las 10.00."
+  },
+  {
+    "titulo": "Van der Poel revienta a Pogacar con una agónica exhibición en los Campos Elíseos",
+    "medio": "El Mundo",
+    "fecha": 1785092649.0,
+    "link": "https://www.elmundo.es/deportes/ciclismo/tour-de-francia/2026/07/26/6a665852e85ece16638b4581.html",
+    "resumen": "El holandés impone su potencia ante el gran campeón, que debió capitular a falta de 300 metros. Leer"
+  },
+  {
+    "titulo": "La casualidad (y la larga espera) que ha llevado a un hombre de 84 años de Sevilla a ser reconocido como hijo de su padre",
+    "medio": "eldiario.es",
+    "fecha": 1785092445.0,
+    "link": "https://www.eldiario.es/sevilla/casualidad-larga-espera-llevado-hombre-84-anos-sevilla-reconocido-hijo-padre_1_13403067.html",
+    "resumen": "Una sentencia da la razón a José Luis Malagón, un vecino de Morón de la Frontera hijo de un empresario fallecido en 1963 que no le había reconocido ni le dejó nada en su testamentoEn busca del ADN de su padre desde 1963: la paciencia “a prueba de bombas” de un vecino de Sevilla Ha sido una pesadilla de más de 60 años, con un peregrinaje entre juzgados insólito en este país, pero José Luis Malagón, un vecino de Morón de la Frontera de 84 años, ya puede decir oficialmente que es hijo de un empresario fallecido en 1963, lo que ha conseguido finalmente mediante una prueba de ADN y la consiguiente sentencia a su favor de un tribunal sevillano. La lucha de este catedrático de Antropología casi da para un relato de suspense y comenzó precisamente en 1963 con la muerte de su padre. Entonces, él tenía 19 años, e intentó, sin recurrir a la justicia, ser reconocido como hijo biológico de su padre, pero no fue posible. Tras no conseguir nada por la negociación directa, fue olvidando el caso poco a poco hasta que llegó el año 2013, y conoció al abogado sevillano Fernando Osuna, experto en casos de reclamación de paternidad. Entonces, hace 13 años, puso una demanda de paternidad, y comenzó un largo, pero seguro, camino hacia lo que ha conseguido, y todo gracias a una casualidad. Retrasos y escritos sin respuesta “Tuve una conversación casual con un hombre en la Universidad de Sevilla, donde era profesor, que me dijo que había sido el administrador de mi padre, y que estaba dispuesto a certificar ante notario que sabía de mi relación con él”. Cuando Malagón se sentó en la calle Virgen de Regla de Sevilla ante el abogado Fernando Osuna y le contó la historia, la maquinaria se puso en marcha. Tras muchos retrasos y escritos sin respuesta, el 19 de julio de 2022 el letrado elevó un nuevo escrito ante el mismo juzgado ante los pocos avances conseguidos en el proceso, y el 20 de diciembre de 2023 llegó el momento clave del asunto, con las exhumaciones que se realizaron en el cementerio municipal de Morón. Pero incluso en eso tuvo que tener paciencia. Se tuvo que recurrir a exhumaciones de varios cadáveres, al no tener claro los archivos del cementerio dónde estaban enterrados los restos del padre. De hecho, el juzgado ordenó inicialmente la exhumación de hasta cinco cadáveres, aunque finalmente solo fue necesario, una vez en el cementerio, tomar muestras de dos de ellos. El cadáver en cuestión había sido inhumado en la calle San Fernando (Zona 1 del cementerio). El auto del juez decía explícitamente que se autorizaba la doble exhumación “para que el médico forense adscrito al mismo o designado, tras dicha exhumación proceda a la extracción de muestras que considere precisa de todos los restos presentes en la mencionada calle y su remisión al Instituto de Toxicología y Ciencias Forenses para la realización de la prueba pericial”. Una vez desenterrados los restos y tomadas las muestras de ADN, solo quedaba esperar. Curiosamente, a diferencia de muchos niños repudiados por sus padres biológicos, José Luis Malagón asegura que, con su padre, no tuvo una mala infancia. “Se hizo cargo de todos sus gastos siempre para que nada me faltase”, afirma. Doce herederos que debieron ser solo dos Pero cuando murió, en su testamento no había rastro de él. Toda la herencia pasó a su hermana, que sí fue reconocida oficialmente por su progenitor en vida. Toda la herencia fue a su hermana, y cuando ella murió fue a parar a sus 12 hijos. Algunos de esos sobrinos han sido clave en este juicio. “Cuando murió, yo tenía 19 años y estaba estudiando en Granada, con unos estudios pagados por él. Un abogado me dijo entonces que esto lo tenía que mover, porque todos esperaban que apareciese en el testamento, pero no fue así”. Toda la herencia fue a su hermana, y cuando ella murió fue a parar a sus 12 hijos. Desde entonces, se ha hecho un experto en reclamaciones judiciales, algunas sin mayor recorrido. Y eso que en su caso no se trataba del hijo producto de un “descuido”, sino que su madre tuvo una relación de varios años con su padre. Su madre era la sastra del pueblo, una mujer muy modesta, a la que su pareja le ofreció vivir con él y su familia cuando se quedó embarazada en 1943, pero ella se negó. Denuncia en 2013 sin respuesta La denuncia presentada en 2013 especificaba que “se le está ocasionando un importante daño moral, ya que ha visto dilatado indebidamente, y por causas no imputables a él, un procedimiento judicial que, de media, suele durar un año”, y en 2022 se reiteró que el caso “sufre dilaciones indebidas en su tramitación, por sencillas procesalmente que resultasen las actuaciones. Transcurridos nueve años desde la interposición de la demanda, la situación actual del procedimiento vulnera el derecho a la tutela judicial efectiva del demandante, habiéndose producido un anormal funcionamiento tanto del órgano de la Administración de Justicia, como de la Administración Municipal de Morón de la Frontera“. Ha sido “desesperante”, admite, pero ya ha terminado. O no. Ahora, reconocido hijo oficialmente, tiene derecho a recibir parte de la herencia de su padre, pero al ser una herencia ya repartida tendrá que negociar con quienes la recibieron como herederos en su día. Si no hay acuerdo tendrá que empezar otro proceso judicial, porque la Justicia española no concede en el mismo acto la paternidad y la herencia, pero al menos ha conseguido lo más importante: demostrar legalmente que es hijo de un empresario que murió sin dejarle nada."
+  },
+  {
+    "titulo": "Tadej Pogacar entra en el olimpo del Tour de Francia al ganarlo por quinta vez",
+    "medio": "El País",
+    "fecha": 1785092441.0,
+    "link": "https://elpais.com/deportes/ciclismo/2026-07-26/tadej-pogacar-entra-en-el-olimpo-del-tour-de-francia-al-ganarlo-por-quinta-vez.html",
+    "resumen": "Van der Poel se impone en la última etapa de la edición de este año en la que el esloveno empata a Anquetil, Merckx, Hinault e Indurain con cinco ‘Grande Boucles’"
+  },
+  {
+    "titulo": "La PSP tiene más de 20 años y ninguna razón para mover ‘Counter-Strike’. Un desarrollador ha decidido intentarlo",
+    "medio": "Xataka",
+    "fecha": 1785092427.0,
+    "link": "https://www.xataka.com/videojuegos/psp-tiene-20-anos-ninguna-razon-para-mover-counter-strike-desarrollador-ha-decidido-intentarlo",
+    "resumen": "Aquellas tardes empezaban con un gesto sencillo: encender el ordenador y abrir ‘Counter-Strike’. A veces ocurría en casa y otras en un cibercafé, todavía decisivo en lugares donde la conexión doméstica apenas comenzaba a extenderse. Después llegaban los servidores, las partidas en red y escenarios como de_dust2, repetidos hasta que cada pasillo resultaba familiar. Para quienes vivimos aquella etapa, “echar un Counter” no describía solo un videojuego, sino una forma concreta de pasar el rato. En 2005, la PSP empezaba a hacerse un sitio entre los jugadores cuando ‘Counter-Strike’ llevaba años asentado en el PC y su versión 1.6 ya se había convertido en una referencia. La portátil de Sony pertenecía a aquella misma cultura tecnológica, pero nunca recibió una entrega oficial del título de Valve. Compartieron época, público y muchas horas de juego, aunque sus caminos no llegaron a cruzarse. Más de dos décadas después, un desarrollador ha decidido acercarlos mediante un proyecto que no pasa desapercibido. Un ‘Counter-Strike’ construido para hablar el idioma de la PSP La forma elegida para acercar Counter-Strike a la PSP se llama OpenStrike, un proyecto que resulta familiar en pantalla, aunque bajo esa apariencia funcione algo completamente distinto. No estamos ante el juego comercial de Valve ejecutándose en la portátil ni ante un port directo de su motor, sino ante una implementación nueva que recupera mapas, rondas, disparos y combates contra bots. Cada usuario debe aportar desde su propia copia los mapas y las texturas, mientras que el movimiento, las reglas y el renderizado dependen de una base creada expresamente para el proyecto. Detrás de esa base está Yifeng Wang, conocido como doodlewind en GitHub, un desarrollador vinculado al software abierto, las interfaces y las tecnologías web. Su objetivo era poner a prueba PocketJS y Pocket3D y demostrar que aquella arquitectura podía ir más allá de las interfaces para sostener un juego 3D en tiempo real. Según explicó al presentar OpenStrike, eligió la PSP porque su hardware no permite disimular una arquitectura ineficiente con más memoria o potencia. Si aquello funcionaba allí, la demostración resultaría mucho más convincente. El primer obstáculo era elemental: la PSP no puede ejecutar directamente un programa creado para PC. Su procesador utiliza una arquitectura MIPS, distinta de aquella para la que fue compilado ‘Counter-Strike’, y también cambian el sistema, las bibliotecas y la forma de comunicarse con el hardware gráfico. Copiar el ejecutable a una tarjeta de memoria sería como entregar instrucciones escritas para otra máquina. Había que recompilar y adaptar el código original, emular su entorno o, como hizo Wang, construir una implementación nueva que hablara desde el principio el idioma de la consola. Superada la barrera de la arquitectura, quedaba una pelea todavía más estrecha: hacer que todo cupiera y respondiera a tiempo. La PSP-1000 disponía de 32 MB de memoria, de los cuales los programas podían utilizar 24 MB, y su procesador alcanzaba los 333 MHz. Dentro de ese margen debía convivir todo lo necesario para que el juego funcionase. Mantener 60 imágenes por segundo significaba resolver todo ese trabajo en unos 16,7 milisegundos por fotograma, sin margen para cálculos innecesarios. La solución consistió en evitar que la PSP calculase durante la partida todo aquello que podía dejarse preparado de antemano. OpenStrike incorpora la iluminación de los mapas a la propia geometría, adapta los recursos al formato de la consola y aprovecha la información de visibilidad precalculada de los mapas BSP para limitar el renderizado a las zonas potencialmente visibles. Según las mediciones de Wang sobre una PSP física, el recorrido de prueba en dust2 se mantiene a 60 FPS, también durante el combate. Sigue siendo, eso sí, una prueba de concepto sin multijugador, fase de compra ni todos los sistemas del juego original. En Xataka 'Minecraft' ha conseguido algo revolucionario en la dinámica del juego: permitir que sus usuarios se sienten Como muestra la demostración publicada por el proyecto, el cruce entre ‘Counter-Strike’ y la PSP ya no pertenece únicamente al terreno de lo imaginable. OpenStrike sigue lejos de reproducir el juego completo, pero cumple la promesa esencial: recuperar una parte reconocible de aquella experiencia. Ese es el verdadero alcance del trabajo de Wang. No demostrar que la portátil escondía una potencia desconocida, sino que sus límites todavía podían convertirse en el punto de partida para construir algo nuevo. Imágenes | Yifeng Wang En Xataka | Microsoft quiere preservar juegos de Xbox y ha elegido una vía inesperada: emularlos oficialmente en Windows - La noticia La PSP tiene más de 20 años y ninguna razón para mover ‘Counter-Strike’. Un desarrollador ha decidido intentarlo fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Feijóo pide «sumar, estar juntos y arrimar el hombro sin excepciones» en la lucha contra los incendios",
+    "medio": "OK Diario",
+    "fecha": 1785092001.0,
+    "link": "https://okdiario.com/espana/19071719-19071719",
+    "resumen": "El líder del PP, Alberto Núñez Feijóo, ha estado este domingo en el Puesto de Mando Avanzado para los incendios, situado en Navalcarnero. Allí ha pedido este domingo a todos los actores involucrados en la gestión de los fuegos «sumar y arrimar el hombro» y ha advertido de que estamos al principio del verano y aún … Continuar leyendo \"Feijóo pide «sumar, estar juntos y arrimar el hombro sin excepciones» en la lucha contra los incendios\""
+  },
+  {
+    "titulo": "María Pombo da la bienvenida a la pequeña Lola con la banda sonora perfecta: «Se llama Lola y tiene historia…»",
+    "medio": "OK Diario",
+    "fecha": 1785091838.0,
+    "link": "https://okdiario.com/cool/famosos/maria-pombo-da-bienvenida-pequena-lola-banda-sonora-perfecta-llama-lola-tiene-historia-19071715",
+    "resumen": "La familia Pombo vuelve a estar de celebración. El clan de influencers más mediático de España ha dado la bienvenida a un nuevo miembro con el nacimiento de Lola, la primera hija de Lucía Pombo y Álvaro López Huerta. La pequeña ha revolucionado las redes sociales y ha llenado de emoción a toda la familia, … Continuar leyendo \"María Pombo da la bienvenida a la pequeña Lola con la banda sonora perfecta: «Se llama Lola y tiene historia…»\""
+  },
+  {
+    "titulo": "Miles de mallorquines toman las calles de Palma en una protesta masiva contra la turistificación",
+    "medio": "La Vanguardia",
+    "fecha": 1785091375.0,
+    "link": "https://www.lavanguardia.com/vida/20260726/11601499/miles-mallorquines-toman-calles-palma-protesta-masiva-turistificacion.html",
+    "resumen": "La imposibilidad de acceder a la vivienda y las detenciones de dos jóvenes impulsan la protesta"
+  },
+  {
+    "titulo": "Fallece un octogenario cuando hacía esnórquel en una playa de Benidorm",
+    "medio": "La Vanguardia",
+    "fecha": 1785091341.0,
+    "link": "https://www.lavanguardia.com/sucesos/20260726/11601556/fallece-octogenario-hacia-esnorquel-playa-benidorm-alicante.html",
+    "resumen": "La víctima se había comprado este sábado las gafas de buceo y nadaba cerca de la orilla"
+  },
+  {
+    "titulo": "Marruecos dedica a Trump la nueva autopista de un millar de kilómetros que enlaza con el Sáhara",
+    "medio": "El País",
+    "fecha": 1785091307.0,
+    "link": "https://elpais.com/internacional/2026-07-26/marruecos-dedica-a-trump-la-nueva-autopista-de-un-millar-de-kilometros-que-enlaza-con-el-sahara.html",
+    "resumen": "El presidente de EE UU se anticipa a la difusión de la noticia en Rabat al agradecer a Mohamed VI en su red social que haya rebautizado con su nombre la carretera"
+  },
+  {
+    "titulo": "Miles de personas convierten Palma en un clamor contra la turistificación: \"Mallorca ha llegado al límite\"",
+    "medio": "eldiario.es",
+    "fecha": 1785091005.0,
+    "link": "https://www.eldiario.es/illes-balears/sociedad/miles-personas-convierten-palma-clamor-turistificacion-mallorca-llegado-limite_1_13407939.html",
+    "resumen": "Durante toda la movilización se han exhibido numerosas pancartas con lemas como \"No tenim por\", \"Qui estima Mallorca no la ven\" o \"Mallorca no està en venda\", mientras más de 25.000 manifestantes denunciaban que vivir en las islas se ha convertido en una carrera de obstáculos para una parte creciente de la población De las villas de 18.000 euros por semana a los agroturismos sin licencia: la cara judicial de la turistificación en Balears Miles de personas han desbordado este domingo el centro de Palma en una de las mayores movilizaciones sociales de los últimos años en Balears para exigir un cambio profundo del modelo económico, territorial y turístico del archipiélago. La manifestación ha reunido a familias, jóvenes, trabajadores, jubilados, colectivos ecologistas, organizaciones por el derecho a la vivienda, sindicatos y asociaciones vecinales en una protesta que fue mucho más allá del rechazo a la masificación turística para denunciar el creciente deterioro de las condiciones de vida de la población residente. Convocada por la plataforma Menys Turisme, Més Vida y respaldada por hasta 134 entidades —entre ellas GOB, SOS Residents, Sindicat de Llogateres, CCOO, UGT, STEI, CGT, CNT, Arran, Alerta Solidària y decenas de asociaciones sociales, culturales y vecinales—, la marcha, que ha sido apoyada por al menos 25.000 personas, según los datos ofrecidos por la Policía Nacional, ha recorrido las principales calles de Palma con un mensaje claro: el modelo de crecimiento de las últimas décadas ha llevado a Mallorca a una situación límite en materia de vivienda, territorio, movilidad, recursos naturales y calidad de vida. Durante toda la movilización se han exhibido numerosas pancartas con lemas como “No tenim por”, “Qui estima Mallorca no la ven” o “Mallorca no està en venda”, mientras miles de manifestantes denunciaban que vivir en las islas se ha convertido en una carrera de obstáculos para una parte creciente de la población. La protesta llega en uno de los momentos de mayor tensión social que recuerda el archipiélago, a la que se suma la detención, hace dos semanas, de dos activistas investigadas por los ataques a cinco inmobiliarias de Santa Maria del Camí y a quienes la Guardia Civil ha llegado a atribuir un delito de grupo criminal. Un clima que ha situado en el centro del debate el creciente malestar por el acceso a la vivienda, la turistificación y el modelo económico de Balears. La vivienda, epicentro del conflicto El acceso a la vivienda ha sido el gran eje de la movilización. Los convocantes sostienen que la crisis residencial ya no responde únicamente a un desequilibrio entre oferta y demanda, sino a la transformación de la vivienda en un activo financiero sometido a la especulación internacional. Pese a que el Govern de Marga Prohens (PP) sostiene que por primera vez está priorizando el acceso de los residentes a la vivienda mediante la construcción de vivienda protegida y la agilización de nuevos desarrollos urbanísticos, las entidades critican que estas medidas no atacan las causas estructurales del problema. Recuerdan que Balears continúa registrando algunos de los precios más elevados de España tanto en compra como en alquiler y que el acceso a una vivienda sigue siendo inalcanzable para una parte creciente de la población. Las organizaciones convocantes sostienen que la política del Ejecutivo autonómico sigue centrada en aumentar la oferta sin intervenir sobre la demanda que, a su juicio, está alimentando la escalada de precios. Entre otras medidas, critican que la ley ómnibus aprobada por PP y Vox permita que personas jurídicas puedan adquirir viviendas de precio tasado para destinarlas al alquiler, una reforma que el Govern justifica como un mecanismo para incrementar el parque residencial, pero que la oposición y los movimientos sociales interpretan como una nueva vía para facilitar la entrada de grandes operadores inmobiliarios en un mercado ya fuertemente tensionado, Para miles de trabajadores, encontrar un piso asequible se ha convertido en una tarea prácticamente imposible, mientras aumentan los casos de jóvenes que retrasan su emancipación, familias obligadas a abandonar los municipios donde siempre habían vivido y trabajadores que renuncian a empleos por no poder acceder a una vivienda."
+  },
+  {
+    "titulo": "Mohamed VI pone el nombre de Trump a una autopista que conecta Marruecos con el Sáhara Occidental",
+    "medio": "eldiario.es",
+    "fecha": 1785091002.0,
+    "link": "https://www.eldiario.es/internacional/mohamed-vi-pone-nombre-trump-autopista-conecta-marruecos-sahara-occidental_1_13408253.html",
+    "resumen": "El gesto de Marruecos responde a la decisión que tomó el presidente de EEUU en diciembre de 2020, cuando reconoció el Sáhara Occidental como territorio marroquí. \"Es un gran honor\", ha asegurado Trump Hemeroteca - Trump firma una proclamación reconociendo la soberanía marroquí sobre el Sáhara Occidental El rey de Marruecos, Mohamed VI, ha bautizado una autopista como Donald Trump. Se trata de una carretera de 1.055 kilómetros que une Tiznit, en el sur del país, con Dajla, en el extremo meridional del Sáhara Occidental. El presidente de Estados Unidos ha calificado el homenaje de “gran honor”. En un mensaje publicado en su red social Truth Social, Trump ha expresado su deseo de recorrer en algún momento la totalidad de esta “gran autopista”. “Espero que sea pronto”, ha precisado. El gesto de Marruecos de bautizar la autopista, que ha requerido una inversión de 1.000 millones de dólares, con el nombre de Trump responde a la decisión que tomó el presidente de EEUU en diciembre de 2020, durante su primer mandato (2017-2021), de reconocer el Sáhara Occidental —reivindicado por el Frente Polisario— como territorio marroquí. La nueva autopista, que parte de la ciudad marroquí de Tiznit, situada a unos 600 kilómetros al sur de Rabat, recorre casi todo el Sáhara Occidental de norte a sur y atraviesa su capital, El Aaiún. Junto a su mensaje en Truth Social, Trump ha difundido un vídeo en el que ha subrayado que en 1777 Marruecos se convirtió en la primera nación en reconocer a los Estados Unidos y que, nueve años después, ambos países rubricaron el Tratado de Paz y Amistad, que sentó las bases de lo que sigue siendo la relación diplomática “ininterrumpida más antigua” en la historia de su país. La Autopista Presidente Donald J. Trump, una de las más largas de África, crea, según el vídeo, una “nueva continuidad a lo largo de las provincias meridionales de Marruecos, enlazando el Marruecos atlántico con su extensión natural africana”. En el documento se añade que en el marco de la Iniciativa Real de Marruecos para que los estados del Sahel tengan acceso al Atlántico, la nueva autopista marroquí refuerza el vínculo entre este océano y esos países y consolida las provincias del Sáhara como puerta estratégica entre África y el mundo. La construcción de la autopista Tiznit–Dajla se inició en 2015 en el marco del programa real destinado al desarrollo de las provincias del sur y del Sáhara. La obra se completó y la vía entró en pleno funcionamiento a mediados de 2025."
+  },
+  {
+    "titulo": "Guterres alaba la transición en Siria y llama a Israel a respetar su integridad territorial",
+    "medio": "El País",
+    "fecha": 1785090937.0,
+    "link": "https://elpais.com/internacional/2026-07-26/guterres-alaba-la-transicion-en-siria-y-llama-a-israel-a-respetar-su-integridad-territorial.html",
+    "resumen": "El secretario general de la ONU visita el país árabe por primera vez y se reúne con el presidente Al Shara"
+  },
+  {
+    "titulo": "Dos mujeres de 23 y 54 años mueren en un trágico accidente de tráfico ocurrido en la provincia de Toledo",
+    "medio": "El Español",
+    "fecha": 1785090909.0,
+    "link": "https://www.elespanol.com/eldigitalcastillalamancha/sociedad/sucesos/20260726/mujeres-anos-mueren-tragico-accidente-trafico-ocurrido-provincia-toledo/1003744334654_0.html",
+    "resumen": "El siniestro se ha producido en la carretera TO-3927, a la altura de Novés.Más información: Muere un motorista a la altura de Ajofrín (Toledo) tras verse implicado en un accidente de tráfico en la N-401"
+  },
+  {
+    "titulo": "De qué va ‘Una tóxica historia de amor’, el true crime de Netflix que no te dejará indiferente",
+    "medio": "Hipertextual",
+    "fecha": 1785090600.0,
+    "link": "https://hipertextual.com/cine-television/de-que-va-una-toxica-historia-de-amor-el-true-crime-de-netflix-que-no-te-dejara-indiferente/",
+    "resumen": "Una tóxica historia de amor, el nuevo true crime de Netflix, combina en un mismo escenario terrorífico varios temas. De la fragilidad de la información digital actual a la violencia brutal. Todo, mientras desentraña uno de los casos de suplantación de identidad, manipulación digital y negligencia judicial más retorcidos de Norteamérica. Para eso, la producción […] Seguir leyendo: De qué va ‘Una tóxica historia de amor’, el true crime de Netflix que no te dejará indiferente"
+  },
+  {
+    "titulo": "Colonos de Israel incendian dos mezquitas, coches y campos en Cisjordania",
+    "medio": "El País",
+    "fecha": 1785090280.0,
+    "link": "https://elpais.com/internacional/2026-07-26/colonos-de-israel-incendian-dos-mezquitas-coches-y-campos-en-cisjordania.html",
+    "resumen": "El Gobierno de Netanyahu asegura que ampliará “las actuaciones contra el terrorismo” en la zona ocupada tras el choque mortal del viernes entre israelíes y palestinos"
+  },
+  {
+    "titulo": "Le acorralan unos perros pastores y tiene que ser rescatado por la Guardia Civil en vehículo oficial",
+    "medio": "El Español",
+    "fecha": 1785089898.0,
+    "link": "https://www.elespanol.com/aragon/sucesos/20260726/acorralan-perros-pastores-rescatado-guardia-civil-vehiculo-oficial/1003744334651_0.html",
+    "resumen": "El hombre de 39 años era procedente de Lérida y se encontraba en las inmediaciones del pico Portalet (Huesca).Más información: Muere un montañero tras ser golpeado por una piedra y caer por una ladera de gran pendiente en Ordesa (Huesca)"
+  },
+  {
+    "titulo": "Muere el menor que resultó herido crítico en el accidente múltiple de Mataró",
+    "medio": "La Vanguardia",
+    "fecha": 1785089784.0,
+    "link": "https://www.lavanguardia.com/local/maresme/20260726/11601545/muere-menor-resulto-herido-critico-accidente-multiple-mataro.html",
+    "resumen": "El siniestro dejó otras nueve personas heridas, entre ellas otro menor que permanece ingresado en estado grave"
+  },
+  {
+    "titulo": "Abdul Ballout, el joven alemán de origen libanés que trató de unirse a Estado Islámico",
+    "medio": "La Vanguardia",
+    "fecha": 1785089705.0,
+    "link": "https://www.lavanguardia.com/internacional/20260726/11601547/abdul-ballout-joven-aleman-origen-libanes-trato-unirse-islamico.html",
+    "resumen": "El presunto autor del ataque del Día del Orgullo que acabó con un muerto y 29 heridos debía entrar el lunes en un centro de 'desradicalización'"
+  },
+  {
+    "titulo": "Zelenski alerta de que Rusia prepara la llegada de otros 30.000 soldados norcoreanos",
+    "medio": "El Mundo",
+    "fecha": 1785089625.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/26/6a65ddb3e4d4d8c7438b4582.html",
+    "resumen": "Kiev vincula el posible refuerzo de Pyongyang a los planes de Putin para ampliar la movilización en otoño, mientras el frente registra 258 combates en un solo día Leer"
+  },
+  {
+    "titulo": "Lucta lanza un plan de inversiones a cinco años por 200 millones de euros",
+    "medio": "Expansión",
+    "fecha": 1785089591.0,
+    "link": "https://www.expansion.com/catalunya/2026/07/26/6a664981468aeb16428b459a.html",
+    "resumen": "La compañía de aromas, fragancias y aditivos se marca como objetivo de su nueva hoja de ruta alcanzar unas ventas de 1.000 millones de euros. El año pasado facturó 415 millones, un 12% más. Leer"
+  },
+  {
+    "titulo": "Pogacar asciende al olimpo del ciclismo: iguala a Anquetil, Merckx, Hinault e Indurain con su quinto Tour de Francia",
+    "medio": "OK Diario",
+    "fecha": 1785089543.0,
+    "link": "https://okdiario.com/deportes/pogacar-asciende-olimpo-del-ciclismo-iguala-anquetil-merckx-hinault-indurain-quinto-tour-francia-19069158",
+    "resumen": "No ha dado ningún tipo de opción. Tadej Pogacar asciende al olimpo del ciclismo al ganar su quinto Tour de Francia. Dominador desde el inicio de su carrera, ha sido en estos tres últimos años cuando no ha tenido rival. Ni siquiera Vingegaard, que le arrebató de forma solvente los dos siguientes a su bicampenato, … Continuar leyendo \"Pogacar asciende al olimpo del ciclismo: iguala a Anquetil, Merckx, Hinault e Indurain con su quinto Tour de Francia\""
+  },
+  {
+    "titulo": "Brasil llama a consultas a su embajador en Argentina por los insultos de Milei a Lula",
+    "medio": "The Objective",
+    "fecha": 1785089454.0,
+    "link": "https://theobjective.com/internacional/2026-07-26/brasil-embajador-argentina-insultos-milei-lula/",
+    "resumen": "El embajador de Brasil en Argentina, Julio Bitelli, ha sido llamado a consultas por su Gobierno tras los insultos que dedicó este pasado sábado el presidente […]"
+  },
+  {
+    "titulo": "Así queda la clasificación final del Tour de Francia 2026 tras la etapa 21",
+    "medio": "OK Diario",
+    "fecha": 1785089320.0,
+    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-del-tour-francia-2026-18963766",
+    "resumen": "Sorpresón en París, con Mathieu van der Poel llevándose la victoria de etapa en la última tarde de este Tour de Francia 2026. Se marchó en Montmartre con Pogacar y le terminó rompiendo a 400 metros del final. A punto estuvo de cazarlo al sprint el pelotón, pero consiguió apuntarse la victoria de etapa, que … Continuar leyendo \"Así queda la clasificación final del Tour de Francia 2026 tras la etapa 21\""
+  },
+  {
+    "titulo": "Van der Poel firma un homenaje al ciclismo en los Campos Eliseos",
+    "medio": "OK Diario",
+    "fecha": 1785089283.0,
+    "link": "https://okdiario.com/deportes/van-der-poel-firma-homenaje-ciclismo-campos-eliseos-19071618",
+    "resumen": "Mathieu van der Poel inscribió por primera vez su nombre en los Campos Eliseos de París y lo hizo por la puerta grande. Los adjetivos se agotan con el holandés en una llegada que tuvo absolutamente de todo y en donde reventó a Tadej Pogacar en un uno contra uno impresionante para finalmente imponerse por … Continuar leyendo \"Van der Poel firma un homenaje al ciclismo en los Campos Eliseos\""
+  },
+  {
+    "titulo": "De Barcelona a París, ningún genio como Pogacar",
+    "medio": "La Vanguardia",
+    "fecha": 1785089190.0,
+    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260726/11601543/barcelona-paris-ningun-genio-pogacar.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Pogacar, el quinto mosquetero de Francia",
+    "medio": "La Vanguardia",
+    "fecha": 1785088966.0,
+    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260726/11601539/pogacar-campeon-mosquetero-quinto-tour-de-francia.html",
+    "resumen": "El esloveno iguala a Anquetil, Merckx, Hinault e Indurain en el olimpo del Tour"
+  },
+  {
+    "titulo": "Conventos, cuarteles y molinos: el plan de Navarra para lograr más vivienda sin construir",
+    "medio": "Xataka",
+    "fecha": 1785088827.0,
+    "link": "https://www.xataka.com/magnet/conventos-cuarteles-molinos-plan-navarra-para-lograr-vivienda-construir-comprar-alquilar-navarra-planea-modelo-vivienda-que-rescata-cuarteles-conventos",
+    "resumen": "Los precios de la vivienda en el estado están desbocados, se estima que hay un déficit residencial de unas 700.000 viviendas y aunque hay quien cree que el problema se solucionaría construyendo más, otros no lo tienen tan claro. Así que la Comunidad Foral de Navarra ha buscado una alternativa \"solidaria, sostenible y alejada de la especulación frente al mercado tradicional\", como explicaba Begoña Alfaro, vicepresidenta tercera y consejera de Vivienda, Juventud y Políticas Migratorias del Gobierno foral: un modelo residencial de cooperación abierto a rehabilitar edificios singulares. Hacia la vivienda colaborativa. El Gobierno de Navarra ha autorizado el envío al Consejo de Navarra el nuevo anteproyecto de Ley Foral de Vivienda Colaborativa, es decir, conjuntos residenciales cuya titularidad recae en una cooperativa integrada por personas socias con derecho de uso y disfrute individual y a largo plazo de la vivienda y sus espacios comunes. Es decir, un régimen intermedio entre la propiedad privada permantente clásica y el alquiler. Este anteproyecto contempla tres modalidades de vivienda colaborativa: la asequible, sin ánimo de lucro ni baremo o necesidad de inscripción previa en el Censo. la destinada a mayores de entre 50 y 70 años, con espacios asistenciales y sociosanitarios.En patrimonio arquitectónico, rehabilitando edificaciones singulares como caseríos, antiguos molinos, conventos, estaciones de ferrocarril, antiguos cuarteles.Por qué es importante. Porque su objetivo es ofrecer un modelo residencial estable, solidario y no especulativo frente a la propiedad plena y el alquiler tradicional y los mecanismos que han promovido la especulación y el impedimento o dificultado el acceso a la vivienda a la ciudadanía. Como ha declarado para eldiario.es el economista Ignacio Ezquiaga, el modelo navarro de políticas públicas de vivienda debería considerarse \"un modelo a seguir\" por otras comunidades, lo que aporta un valor añadido a esta ley como parte de una estrategia integral y no como una medida aislada. Esta ley se dirige a los estamentos de la población que más lo necesita: personas con pocos recursos y/o en edad avanzada. En este último caso, constituye una suerte de alternativa al modelo de negocio de las residencias. Además, es una forma de aprovechar y dar una segunda vida útil a edificaciones singulares. Contexto. En 2025 Navarra declaró zona de mercado residencial tensionado 21 municipios donde ya han caído los precios del alquiler. Además, es la única comunidad autónoma en el que la vivienda se abarató el pasado mes de abril con un 3,9%. Eso sí, en el trimestre anterior subió un 10,5%, si bien fue la segunda comunidad que menos aumentó. Además, el año pasado lideró la construcción de vivienda protegida: construye el doble por habitante que la Comunidad de Madrid. Así, más del 20% de las viviendas son protegidas: de las 870 viviendas finalizadas en 2025, 449 contaban con algún tipo de protección. Según los expertos, entre los motivos que explican que Navarra sea uno de los pocos lugares con brotes verdes en el estado español está que la comunidad foral lleva tiempo apostando por impulsar políticas públicas de vivienda. Esta Ley Foral de Vivienda Colaborativa no nace de la nada: lleva meses con procesos de participación pública. Mientras tanto, la comunidad foral ha ido construyendo un ecosistema legal de vivienda, con un Registro de Grandes Tenedores de Vivienda o la primera ley estatal que regula el alquiler de habitaciones. En Xataka Las viviendas de lujo en EEUU se están vendiendo como churros y los expertos creen saber por qué: la IA En detalle. Se entiende como vivienda colaborativa en patrimonio arquitectónico \"aquella que se promociona en edificaciones singulares, cuenten o no con algún nivel de protección\" y que no sean susceptibles de susceptibles de segregación en diferentes viviendas con las condiciones mínimas exigidas por la normativa en materia de habitabilidad. Esta rehabilitación dará lugar a viviendas colaborativas que garanticen que dispongan de espacios interiores de al menos 30 metros cuadrados útiles por unidad de convivencia, que cada de esas unidades cuenten con una habitación, cocina y baño (salvo que haya cocina colectiva) y espacios e instalaciones comunes. Sí, pero. De momento este es un anteproyecto de ley y el proceso para que se convierta en ley es largo: falta que el Consejo de Navarra dé su opinión, que el Gobierno apruebe el proyecto definitivo y que pase por el Parlamento, donde se debatirá, votará y se introducirán cambios. Por otro lado, el modelo de vivienda colaborativa es aún minoritario y de lento despliegue, por lo que su impacto sobre la crisis de acceso a la vivienda a corto plazo será previsiblemente limitado frente a otras potenciales medidas como el control de alquileres en zonas tensionadas. En Xataka | Si la pregunta es cuánto cuesta comprar una isla en Escocia, la respuesta es: como un piso en Madrid En Xataka | España arrastra un déficit de vivienda y un enorme problema para resolverlo: un atasco de suelo que bloquea millones de pisos Portada | José Luis Filpo Cabana y Tomas - La noticia Conventos, cuarteles y molinos: el plan de Navarra para lograr más vivienda sin construir fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Dan Buettner: \"Es posible que el mejor deporte para la longevidad no sea el que quema más calorías, sino aquel que te mantiene en movimiento y conectado con los demás durante décadas\"",
+    "medio": "Trendencias",
+    "fecha": 1785088827.0,
+    "link": "https://www.trendencias.com/silver/dan-buettner-posible-que-mejor-deporte-para-longevidad-no-sea-que-quema-calorias-sino-aquel-que-te-mantiene-movimiento-conectado-demas-durante-decadas",
+    "resumen": "Dan Buettner es uno de los expertos más famosos del campo de la longevidad, al menos, mediáticamente hablando, y es que ha dedicado gran parte de su carrera a investigar las conocidas Zonas Azules, junto a la Universidad de Harvard, o lo que es lo mismo, descubrir cuáles son las regiones del planeta donde viven algunas de las poblaciones más longevas. Cuenta con varios libros y un documental en Netflix, en los que explica cuáles son los hábitos que tienen estas personas en común para llegar a los 100 años con energía y calidad de vida. Entre ellos, habla del ejercicio pero sostiene que estas personas no pasan horas al día entrenando crossfit o haciendo maratones, sino que incorporan el movimiento de forma natural a su rutina diaria. Aunque lo que sí es cierto es que dentro de ese estilo de vida, existen algunos deportes que, según la evidencia, parecen ofrecer ventajas adicionales por los beneficios físicos, mentales y sociales que aportan. Los deportes que Dan Buettner recomienda para vivir más años Muchas personas creen que para aumentar la esperanza de vida es necesario realizar entrenamientos de fuerza o sesiones de cardio de alta intensidad. Pero, la realidad es muy distinta ya que Buettner defiende que el verdadero secreto podría estar en practicar un ejercicio que resulte sostenible con el paso de los años y que, además, permita relacionarse con otras personas. Según señala el experto, \"es posible que el mejor deporte para la longevidad no sea el que quema más calorías, sino aquel que te mantiene en movimiento y conectado con los demás durante décadas\", asegura. Buettner hace referencia basándose en la evidencia a que caminar, correr o nadar, puede añadirte tres años de esperanza de vida. Pero, también menciona otro tipo de deportes que pueden tener muchos beneficios e incluso sumarnos más años de esperanza de vida. En concreto, en uno de sus reels habla de los deportes de raqueta “como el tenis, el bádminton y, especialmente, el pickleball, figuran sistemáticamente entre los mejores para la longevidad\". @danbuettner El investigador recuerda que el bádminton se ha relacionado con un aumento aproximado de seis años en la esperanza de vida, mientras que el tenis se ha asociado con más de nueve años adicionales. Son cifras superiores a las observadas en otros deportes de contacto como el boxeo o el fútbol, donde el riesgo de sufrir traumatismos craneales repetidos puede afectar a la salud a largo plazo. Pero en concreto, Buettner recomienda uno: el pickleball. Y el motivo que aporta es que: \"Es el que más te va a beneficiar ya que es fácil de aprender, y es muy social, ayuda a conocer a gente, es regular, se puede practicar a diario y está al alcance de todos los bolsillos\". En resumen, todo lo que rodea a estas disciplinas es beneficioso \"porque combinan movimiento, coordinación, competición y conexión social en una sola actividad. Las personas con mayores probabilidades de vivir más tiempo no se limitan a hacer más ejercicio; también cultivan amistades, crean comunidad y disfrutan gracias a una actividad física que realmente les entusiasma practicar\". En otras palabras, el beneficio no depende únicamente del ejercicio, sino también de los vínculos sociales que se generan y de que sea una actividad agradable que invite a practicarla durante muchos años. El movimiento diario, el gran aliado de la longevidad @danbuettner Más allá de un deporte concreto, Buettner insiste en que mantenerse activo a diario es uno de los pilares de una vida larga. En otras publicaciones de Instagram recuerda que dos de las actividades más beneficiosas para la salud son también de las más sencillas: \"Caminar, cuidar el jardín, hacer cosas a mano. La longevidad comienza con cómo vives, no con cómo te entrena”, asegura el experto. Dar un paseo cada día permite obtener buena parte de los beneficios asociados a la actividad física regular y, por otro lado, la jardinería, mantiene el cuerpo en constante movimiento gracias a acciones como agacharse, levantar peso, estirarse o caminar, al mismo tiempo que ayuda a reducir el estrés y favorece el contacto con alimentos frescos. El experto recuerda que las personas que viven en las Zonas Azules no hacen del ejercicio una obligación puntual, sino que desarrollan su vida en entornos que favorecen el movimiento de manera natural. Y, por supuesto, a esto suman una alimentación basada principalmente en alimentos vegetales, un consumo habitual de legumbres, cantidades moderadas de proteína, pocos ultraprocesados, el hábito de cocinar en casa, una buena gestión del estrés y una intensa vida social. La combinación de todos estos factores es lo que contribuye a aumentar la esperanza de vida y llegar a edades avanzadas con mejor salud. Fotos | @danbuettner, Magnific En Trendencias | Elle MacPherson, 62 años: \"Si algo está desequilibrado, afecta a los demás, así que el secreto para una vida feliz y saludable reside en mantener el equilibrio\" En Xataka | Volkswagen puso a pastar ovejas bajo 31,000 placas solares. Resulta que empezaron a cambiar la forma de producir energía. En Motorpasión | Michelin crea unas llantas indestructibles y que no llevan aire, pero hay un problema: no se las puedes poner a tu carro. - La noticia Dan Buettner: \"Es posible que el mejor deporte para la longevidad no sea el que quema más calorías, sino aquel que te mantiene en movimiento y conectado con los demás durante décadas\" fue publicada originalmente en Trendencias por Sara Hormigo ."
+  },
+  {
+    "titulo": "Tadej Pogačar entra en el olimpo de los 5 tours: una victoria de contraste entre Eddy Mercks e Indurain",
+    "medio": "HuffPost",
+    "fecha": 1785088718.0,
+    "link": "https://www.huffingtonpost.es/deporte/tadej-pogacar-entra-olimpo-5-tours-victoria-contraste-eddy-mercks-e-indurain-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "España arde: las imágenes de la destrucción del fuego",
+    "medio": "La Vanguardia",
+    "fecha": 1785088658.0,
+    "link": "https://www.lavanguardia.com/vida/20260726/11601536/espana-arde-imagenes-destruccion-fuego.html",
+    "resumen": "Las fotografías que retratan la devastación y el trabajo de los equipos de emergencia"
+  },
+  {
+    "titulo": "Pogacar entra de lleno en la historia del Tour de Francia: el pentacampeón más joven entra en el selecto 'club de los cinco'",
+    "medio": "El Español",
+    "fecha": 1785088568.0,
+    "link": "https://www.elespanol.com/deportes/ciclismo/20260726/pogacar-entra-lleno-historia-tour-francia-pentacampeon-joven-selecto-club/1003744334618_0.html",
+    "resumen": "El esloveno, considerado el mejor ciclista de los últimos tiempos, ha instaurado un dominio al que nadie puede hacerle frente."
+  },
+  {
+    "titulo": "El 'Atlas Global de Riesgo': una herramienta de inteligencia artificial al servicio de la salud del viajero",
+    "medio": "El Mundo",
+    "fecha": 1785088274.0,
+    "link": "https://www.elmundo.es/salud/2026/07/26/6a634bf3fc6c83dc138b4577.html",
+    "resumen": "Este mapa actualizado en tiempo real combina salud, clima y seguridad en una sola plataforma. Desarrollado por Manuel Linares, ayuda a prevenir riesgos antes de emprender un viaje Leer"
+  },
+  {
+    "titulo": "Miguel Adrover, el diseñador que cobró 40.000 euros al mes: \"Estoy en una situación muy precaria, ahora vivo con 800 euros al mes, pero soy el dueño absoluto de mi tiempo\"",
+    "medio": "HuffPost",
+    "fecha": 1785088052.0,
+    "link": "https://www.huffingtonpost.es/sociedad/miguel-adrover-disenador-cobro-40000-euros-mes-estoy-situacion-precaria-vivo-800-euros-mes-dueno-absoluto-mi-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La Policía alemana abate al principal sospechoso del atentado terrorista perpetrado durante el Orgullo de Berlín",
+    "medio": "El Mundo",
+    "fecha": 1785088036.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/26/6a6604bcfdddff744f8b4582.html",
+    "resumen": "La Policía detuvo durante la noche del sábado a un ciudadano iraní al que los investigadores consideran el presunto acompañante del principal sospechoso, Abdul B. Leer"
+  },
+  {
+    "titulo": "Sergio Nasarre, catedrático de Derecho Civil: \"Construir más casas en una urbe saturada solo atrae a más ciudadanos, creando una espiral de demanda que nunca se llega a cubrir\"",
+    "medio": "HuffPost",
+    "fecha": 1785088034.0,
+    "link": "https://www.huffingtonpost.es/sociedad/sergio-nasarre-catedratico-derecho-civil-construir-mas-casas-urbe-saturada-atrae-mas-ciudadanos-creando-espiral-demanda-nunca-llega-cubrir-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La plaza más grande del mundo mide 1,1 millones de metros cuadrados: cabrían 91 plazas de San Marcos",
+    "medio": "HuffPost",
+    "fecha": 1785087697.0,
+    "link": "https://www.huffingtonpost.es/sociedad/la-plaza-mas-grande-mundo-mide-11-millones-metros-cuadrados-cabrian-91-plazas-san-marcos-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La policía abate en un tiroteo a un joven islamista sospechoso del atropello de Berlín",
+    "medio": "La Vanguardia",
+    "fecha": 1785087357.0,
+    "link": "https://www.lavanguardia.com/internacional/20260726/11601533/sospechoso-atropello-berlin-islamista-habria-abatido-policia.html",
+    "resumen": "Identificado como Abdul Ballout, de 21 años de edad, ya era conocido por las autoridades alemanas como simpatizante del grupo yihadista Estado Islámico"
+  },
+  {
+    "titulo": "Dos toxicómanos roban a sanitarios de la base de la UME de Cartagena y Salud no repara la puerta por donde entraron",
+    "medio": "El Español",
+    "fecha": 1785087145.0,
+    "link": "https://www.elespanol.com/reportajes/20260726/toxicomanos-roban-sanitarios-base-ume-cartagena-salud-no-arregla-puerta-entraron/1003744334607_0.html",
+    "resumen": "La Policía Nacional busca a una pareja que pudo cambiar la mochila robada por dosis de droga en un punto de venta llamado 'El Garito'.Más información: En la zona cero del incendio forestal que arrasa Madrid y Ávila: \"No nos vamos. Que pase lo que tenga que pasar\""
+  },
+  {
     "titulo": "El régimen cubano celebra el Día de la Rebeldía sin Raúl Castro y con protestas ciudadanas",
     "medio": "El Mundo",
     "fecha": 1785087098.0,
@@ -28,18 +385,11 @@
     "resumen": "Las autoridades iraníes han anunciado que una mina ha explotado al paso de un petrolero en el estrecho de Ormuz, según han informado fuentes de la […]"
   },
   {
-    "titulo": "Última hora de los incendios forestales, en directo | El incendio de Ávila es ya el mayor de la historia de España con 50.000 hectáreas quemadas",
-    "medio": "El País",
-    "fecha": 1785086698.0,
-    "link": "https://elpais.com/espana/2026-07-26/ultima-hora-de-los-incendios-forestales-en-directo.html",
-    "resumen": "Se han calcinado 153.000 hectáreas en lo que va de año, una superficie seis veces mayor a la registrada en el mismo periodo de 2025"
-  },
-  {
-    "titulo": "La Policía abate a tiros al sospechoso del atentado contra el Orgullo en Berlín, según medios alemanes",
-    "medio": "El País",
-    "fecha": 1785086335.0,
-    "link": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html",
-    "resumen": "Una furgoneta embistió a los asistentes a la marcha del Día del Orgullo LGTBI+ y causó un muerto y 29 heridos"
+    "titulo": "Muere un montañero tras ser golpeado por una piedra y caer por una ladera de gran pendiente en Ordesa (Huesca)",
+    "medio": "El Español",
+    "fecha": 1785086481.0,
+    "link": "https://www.elespanol.com/aragon/sucesos/20260726/muere-montanero-golpeado-piedra-caer-ladera-gran-pendiente-ordesa-huesca/1003744334635_0.html",
+    "resumen": "El hombre tenía 63 años e iba acompañado por otros dos excursionistas.Más información: La Guardia Civil de Huesca rescata el cuerpo sin vida de un hombre de 63 años en el pico Estatas (Pirineo)"
   },
   {
     "titulo": "Dos montañeros fallecidos en el Pirineo aragonés en un fin de semana trágico",
@@ -49,25 +399,11 @@
     "resumen": "Un senderista guipuzcoano murió tras ser alcanzado por una piedra en Ordesa y otro montañero burgalés fue localizado sin vida en el pico Estatas“Hay gente subiendo sin crampones”: un montañero aragonés alerta en un vídeo de la mala preparación en alta montaña El Pirineo aragonés se ha cobrado dos nuevas víctimas mortales en un fin de semana marcado por la intensa actividad de los equipos de rescate de la Guardia Civil. Un senderista de 63 años, vecino de Gipuzkoa, falleció este domingo en el Parque Nacional de Ordesa y Monte Perdido tras ser alcanzado por una piedra y precipitarse por una ladera, mientras que el sábado fue localizado sin vida otro montañero, también de 63 años y vecino de Burgos, desaparecido desde hacía varios días en la zona del pico Estatas, en el término municipal de Benasque. El primer accidente más reciente se produjo el sábado a las 11.15 horas la conocida senda de Los Cazadores, en el Parque Nacional de Ordesa y Monte Perdido. Según ha informado la Guardia Civil, tres senderistas recorrían el itinerario cuando desde una cota superior se desprendió una serie de piedras. Una de ellas impactó sobre uno de los excursionistas, provocando que se precipitara por una ladera de fuerte pendiente. Hasta el lugar se desplazaron especialistas del GREIM de Boltaña, la Unidad Aérea de Benasque y un médico del 061. Tras localizar al montañero, los efectivos solo pudieron certificar que presentaba lesiones incompatibles con la vida. El cuerpo fue evacuado en helicóptero hasta la helisuperficie de Boltaña, desde donde fue trasladado por los servicios funerarios al Hospital Provincial de Huesca. La víctima era un hombre de 63 años residente en la provincia de Guipúzcoa. La otra víctima mortal fue localizada el sábado en el pico Estatas, en el valle de Benasque. La Guardia Civil recibió el aviso después de que el montañero no regresara a su domicilio el día previsto. Había iniciado el pasado 21 de julio una travesía por las crestas de alta montaña entre el pico Estatas y el pico Cregüeña y debía haber vuelto el día 24. El GREIM de Benasque, junto con la Unidad Aérea y un médico del 061, inició el dispositivo de búsqueda y localizó al excursionista precipitado en la montaña. También en este caso presentaba signos incompatibles con la vida. El fallecido era un vecino de Burgos de 63 años. Más allá de estos dos accidentes mortales, los especialistas de montaña de la Guardia Civil realizaron entre el 23 y el 26 de julio otros 18 rescates en el Pirineo oscense. La mayoría estuvieron relacionados con lesiones sufridas durante actividades de senderismo y montañismo, como esguinces, fracturas o caídas, además de varios casos de deshidratación y golpes de calor. También tuvieron que auxiliar a trece jóvenes enriscados en el pico Collarada, rescatar a un barranquista con una fractura vertebral, atender a un ciclista accidentado tras chocar contra un árbol y localizar a tres senderistas que acumulaban ocho horas de retraso en una ruta entre los valles de Literola y Remuñé. Entre las intervenciones más llamativas figura también el rescate de un excursionista que quedó acorralado por perros pastores en las inmediaciones del pico Portalet."
   },
   {
-    "titulo": "Toscana Viar, la nutricionista de la Selección: \"Comer una pizza junto a sus familias no les perjudica, es necesario desconectar a nivel mental\"",
-    "medio": "HuffPost",
-    "fecha": 1785085416.0,
-    "link": "https://www.huffingtonpost.es/deporte/toscana-viar-nutricionista-seleccion-comer-pizza-familias-les-perjudica-necesario-desconectar-nivel-mental-f202607.html",
-    "resumen": ""
-  },
-  {
     "titulo": "El colapso del CETI deja a decenas de migrantes durmiendo en la calle mientras Ceuta recupera tres cadáveres del mar",
     "medio": "El Mundo",
     "fecha": 1785085280.0,
     "link": "https://www.elmundo.es/espana/2026/07/26/6a663d56e85eceba208b4584.html",
     "resumen": "Muchos todavía muestran el cansancio y las heridas provocadas por las rocas del espigón del Tarajal Leer"
-  },
-  {
-    "titulo": "Cómo evitar las cucarachas en el aire acondicionado: por qué aparecen",
-    "medio": "OK Diario",
-    "fecha": 1785085232.0,
-    "link": "https://okdiario.com/curiosidades/como-evitar-cucarachas-aire-acondicionado-que-aparecen-19071280",
-    "resumen": "Durante el verano, el aire acondicionado se convierte en nuestro mejor aliado para combatir las altas temperaturas. Sin embargo, hay un detalle al que no solemos prestar atención y puede convertirse en un quebradero de cabeza: la proliferación de cucarachas, que encuentran en estos equipos un lugar ideal para reproducirse. Estos insectos buscan lugares donde … Continuar leyendo \"Cómo evitar las cucarachas en el aire acondicionado: por qué aparecen\""
   },
   {
     "titulo": "Una nube a cientos de kilómetros te puede arruinar el eclipse de este verano y ya empezamos a saber qué tiempo hará en cada sitio",
@@ -88,49 +424,7 @@
     "medio": "Microsiervos",
     "fecha": 1785085200.0,
     "link": "http://www.microsiervos.com/archivo/aerotrastorno/francia-primera-descarga-retardante-incendio-airbus-a400m.html",
-    "resumen": "Francia estaba haciendo pruebas del kit apagafuegos para el A400M desde hace un par de semanas. Pero ayer lo utilizó por primera vez para hacer una descarga sobre un incendio, en concreto en el incendio que arrasa el departamento de Gironda. Aunque cuando escribo que hizo una descarga es que literalmente hizo una descarga. Soltó los 20.000 litros de agua con retardante a unos centenares de metros del frente del incendio antes de volver a la base del Ejército del Aire y el Espacio francés en Istres, en las proximidades de Marsella, a unos 500 kilómetros de incendio. Y es que allí es dónde están las instalaciones de ensayos en vuelo de la Dirección General de Armamento (DGA) desde las que se estaban haciendo las pruebas. Quizás si las pruebas se hubieran estado haciendo desde la base de Cazaux, desde la que también opera la DGA, situada precisamente en el departamento de Gironda, el A400M podría haber hecho más descargas. De lo que no hay noticias por ahora es de la eficacia –o no– de esa descarga que tenía toda la pinta de intentar crear un cortafuegos. El otro problema es que cuando digo que Francia está haciendo pruebas del kit apagafuegos es que de los dos que fabricó la empresa española Cobo sólo uno parece haber dado los resultados esperados. El kit en la bodega de carga de un A400M. Se trata de un depósito que se coloca en la bodega de carga del avión sin necesidad de ninguna modificación, por lo que una vez terminadas las labores de extinción se retira y el avión vuelve a sus tareas habituales – Airbus/Cobo La empresa está trabajando en convertirse en un proveedor certificado de Airbus para poder empezar a suministrarlos. Pero hoy por hoy, no hay kits con los que equipar esos aviones. Así que da igual que el Ejército del Aire y el Espacio de España o su homónimo francés tengan los A400M que tengan o los que tengan pedidos: simplemente no hay kits apagafuegos con los que equiparlos. Y está también el asunto de que habrá que ver cómo integrar los A400M con otros medios aéreos ya que por su tamaño y a estela turbulenta que dejan detrás no pueden operar en la misma zona, o al menos no sin la necesaria separación en espacio y tiempo para que se disipen esas turbulencias. Tampoco está claro que por la velocidad a la que tienen que operar y la altura a la que harán las descargas vayan a ser especialmente eficaces. Además, si descargan muy alto, se evapora, mientras que si lo hacen muy bajo, causan daños. En ese sentido hay un estudio australiano y otro estadounidense que no los dejan muy bien. Pero hay otro del Ministerio del Interior de Francia que los avala. Y también hay quien está al pie de los incendios que cree que las descargas de aviones como los Canadair –los populares botijos– no son suficientes. Así que yo creo que, en cualquier caso, será cuestión de tener unos cuantos de esos kits en servicio y probarlos en incendios de verdad para ver cómo combinarlos con otros medios para poder atacar estos tremendos incendios con los que todo indica que tendremos que convivir en el futuro. Es una herramienta nueva que tendremos que aprender a utilizar. En cualquier caso tienes más detalles acerca de este tipo de sistemas en Donde pongo el ojo ¡mojo!, el libro sobre la historia de la aviación apagafuegos que ha publicado recientemente José Manuel «Gizmo» Gil. # Enlace permanente"
-  },
-  {
-    "titulo": "Incendios en Madrid, Ávila y Toledo, en directo: mapa de fuegos activos, desalojos y última hora de la emergencia nacional hoy",
-    "medio": "OK Diario",
-    "fecha": 1785085112.0,
-    "link": "https://okdiario.com/espana/incendios-madrid-avila-toledo-directo-mapa-fuegos-activos-desalojos-ultima-hora-emergencia-nacional-hoy-19069465",
-    "resumen": "El incendio que arrasa la provincia de Ávila y la Comunidad de Madrid sigue extendiéndose por el territorio nacional y el Gobierno ha ampliado la emergencia nacional a la provincia de Toledo esta noche del sábado, con el fin de reforzar la coordinación de los medios de extinción. Cerca de 90.000 vecinos de las zonas … Continuar leyendo \"Incendios en Madrid, Ávila y Toledo, en directo: mapa de fuegos activos, desalojos y última hora de la emergencia nacional hoy\""
-  },
-  {
-    "titulo": "Adrián Ben apunta al título europeo después de ganar el Campeonato de España",
-    "medio": "El País",
-    "fecha": 1785084843.0,
-    "link": "https://elpais.com/deportes/2026-07-26/adrian-ben-apunta-al-titulo-europeo-despues-de-ganar-el-campeonato-de-espana.html",
-    "resumen": "Málaga vive el triunfo del gallego ante Carlos Sáez, Mariano García y el sorprendente Martín Segurola en un fin de semana en el que Blanca Hervás derrota a Paula Sevilla y María Vicente triunfa en su recuperación"
-  },
-  {
-    "titulo": "Juan Orlando Hernández regresa a Honduras tras ser indultado por Trump de su condena por narcotráfico",
-    "medio": "El País",
-    "fecha": 1785084544.0,
-    "link": "https://elpais.com/america/2026-07-26/juan-orlando-hernandez-regresa-a-honduras-tras-ser-indultado-por-trump-de-su-condena-por-narcotrafico.html",
-    "resumen": "El político deberá comparecer el próximo 3 de agosto en audiencia inicial por acusaciones locales de lavado de activos y fraude"
-  },
-  {
-    "titulo": "Carlos Sainz deja en el aire su futuro: «Miraré con calma mi renovación con Williams»",
-    "medio": "OK Diario",
-    "fecha": 1785084424.0,
-    "link": "https://okdiario.com/deportes/carlos-sainz-deja-aire-futuro-mirare-calma-renovacion-williams-19071475",
-    "resumen": "No le han salido las cosas a Carlos Sainz este domingo en el Gran Premio de Hungría. El piloto español de Williams ha atendido a los medios de comunicación tras la carrera y ha lamentado el «‘pit-stop’ innecesario» que le ha lastrado en el día de hoy, donde ha terminado decimoctavo, y ha asegurado que … Continuar leyendo \"Carlos Sainz deja en el aire su futuro: «Miraré con calma mi renovación con Williams»\""
-  },
-  {
-    "titulo": "David Valero, segundo en Alemania, acaricia la general final de la Copa del Mundo",
-    "medio": "El País",
-    "fecha": 1785084365.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-07-26/david-valero-segundo-en-alemania-acaricia-la-general-final-de-la-copa-del-mundo.html",
-    "resumen": "El biker andaluz y el belga Wout Alleman anuncian una gran pelea en la cita final de Girona, el próximo 20 de septiembre"
-  },
-  {
-    "titulo": "Prueba una ración militar del ejército español pensando que era una de las mejores y acaba cambiando de opinión",
-    "medio": "HuffPost",
-    "fecha": 1785083949.0,
-    "link": "https://www.huffingtonpost.es/virales/prueba-racion-militar-ejercito-espanol-pensando-mejores-acaba-cambiando-opinion-f202607.html",
-    "resumen": ""
+    "resumen": "Francia estaba haciendo pruebas del kit apagafuegos para el A400M desde hace un par de semanas. Pero ayer lo utilizó por primera vez para hacer una descarga sobre un incendio, en concreto en el incendio que arrasa el departamento de Gironda. Aunque cuando escribo que hizo una descarga es que literalmente hizo una descarga. Soltó los 20.000 litros de agua con retardante a unos centenares de metros del frente del incendio antes de volver a la base del Ejército del Aire y el Espacio francés en Istres, en las proximidades de Marsella, a unos 500 kilómetros de incendio. Y es que allí es dónde están las instalaciones de ensayos en vuelo de la Dirección General de Armamento (DGA) desde las que se estaban haciendo las pruebas. Quizás si las pruebas se hubieran estado haciendo desde la base de Cazaux, desde la que también opera la DGA, situada precisamente en el departamento de Gironda, el A400M podría haber hecho más descargas. De lo que no hay noticias por ahora es de la eficacia –o no– de esa descarga que tenía toda la pinta de intentar crear un cortafuegos. El otro problema es que cuando digo que Francia está haciendo pruebas del kit apagafuegos es que de los dos que fabricó la empresa española Cobo sólo uno parece haber dado los resultados esperados. El kit apagafuegos. Se trata de un depósito con unas tuberías que sobresalen por la parte de atrás del compartimento de carga que se instala sin necesidad de ninguna modificación, por lo que una vez terminadas las labores de extinción se retira y el avión vuelve a sus tareas habituales – Airbus/Cobo La empresa está trabajando en convertirse en un proveedor certificado de Airbus para poder empezar a suministrarlos. Pero hoy por hoy, no hay kits con los que equipar esos aviones. Así que da igual que el Ejército del Aire y el Espacio de España o su homónimo francés tengan los A400M que tengan o los que tengan pedidos: simplemente no hay kits apagafuegos con los que equiparlos. Y está también el asunto de que habrá que ver cómo integrar los A400M con otros medios aéreos ya que por su tamaño y a estela turbulenta que dejan detrás no pueden operar en la misma zona, o al menos no sin la necesaria separación en espacio y tiempo para que se disipen esas turbulencias. Tampoco está claro que por la velocidad a la que tienen que operar y la altura a la que harán las descargas vayan a ser especialmente eficaces. Además, si descargan muy alto, se evapora, mientras que si lo hacen muy bajo, causan daños. En ese sentido hay un estudio australiano y otro estadounidense que no los dejan muy bien. Pero hay otro del Ministerio del Interior de Francia que los avala. Y también hay quien está al pie de los incendios que cree que las descargas de aviones como los Canadair –los populares botijos– no son suficientes. Así que yo creo que, en cualquier caso, será cuestión de tener unos cuantos de esos kits en servicio y probarlos en incendios de verdad para ver cómo combinarlos con otros medios para poder atacar estos tremendos incendios con los que todo indica que tendremos que convivir en el futuro. Es una herramienta nueva que tendremos que aprender a utilizar. En cualquier caso tienes más detalles acerca de este tipo de sistemas en Donde pongo el ojo ¡mojo!, el libro sobre la historia de la aviación apagafuegos que ha publicado recientemente José Manuel «Gizmo» Gil. # Enlace permanente"
   },
   {
     "titulo": "Trump anuncia que la autopista que conectará Marruecos con el Sáhara llevará su nombre",
@@ -140,13 +434,6 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado este domingo el proyecto de la gran autopista que llevará su nombre y que conectará las localidades […]"
   },
   {
-    "titulo": "La ciudad francesa que pide a sus influencers que dejen de enseñar su lago: \"Debemos desaturar ciertos lugares\"",
-    "medio": "HuffPost",
-    "fecha": 1785083499.0,
-    "link": "https://www.huffingtonpost.es/sociedad/la-ciudad-francesa-pideinfluencersque-dejen-ensenar-lago-debemos-desaturar-lugares-f202607.html",
-    "resumen": ""
-  },
-  {
     "titulo": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
     "medio": "Xataka",
     "fecha": 1785083427.0,
@@ -154,88 +441,11 @@
     "resumen": "Cuando hablamos de drones pensamos automáticamente en vehículos voladores, pero también existen drones submarinos. Lo que no es tan habitual es que un mismo dron sea capaz de hacer las dos cosas. Es justo lo que acaba de conseguir el MIT: un pequeño robot con alas capaz de volar y sumergirse en el agua, como si fuera una ave marina cuando caza. El robot, el cual han bautizado con el nada sugerente nombre de \"vehículo aéreo-acuático de alas batientes\" (FAAV, por sus siglas en inglés), ha sido desarrollado por un equipo de ingenieros del MIT y la EPFL y sienta las bases para la creación de un nuevo tipo de drones capaces de moverse en varios medios. En Xataka Hacer una mano robótica es \"100 veces más difícil\" que construir el robot entero. Estas empresas chinas están decididas a resolverlo Inspirado en la naturaleza El diseño no se parece nada al de un dron volador al uso ya que no tiene hélices, sino que para volar usa dos alas como las de un pájaro. Las alas están unidas a un pequeño fuselaje central donde se encuentra la batería y el motor que las mueven. Las alas están hechas de una membrana fina con un recubrimiento hidrófugo que repele el agua, de forma que no añada peso ni ralentice sus movimientos al salir del agua. También tiene una cola orientable que le permite hacer giros y ajustar la inclinación tanto para entrar como para salir del agua. En total pesa tan sólo 300 gramos. Para su creación, los ingenieros analizaron las características de más de 100 especies de aves buceadoras, como los frailecillos, los petreles o los martines pescadores. Lo que han observado es que las aves más pequeñas son capaces de aletear unas diez veces en el aire y cuatro en el agua, mientras que la frecuencia baja en el caso de aves más grandes como las gaviotas. Para simular distintos tipos de vuelo, crearon varios tipos de alas de distintos tamaños que se pueden intercambiar. Hay un matiz curioso y es que la mayoría de aves buceadoras se ayudan de sus patas para tomar impulso y despegar del agua. El robot no las tiene y aun así consigue el mismo efecto, el truco está en el ángulo de despegue. Tras varias pruebas vieron que necesita salir del agua a 70 grados, si se pasa, en lugar de despegar, se cae hacia atrás. Una empresa china cree tener en sus manos el nuevo filón de la robótica: robots humanoides de compañía desde 15.000 euros Investigación y exploración remotaLa pregunta lógica es para qué sirve esto, y hay dos respuestas. La primera es que han querido estudiar más a fondo la mecánica de vuelo de estas aves y cómo la modifican al pasar del aire al agua y viceversa. La segunda es usar este robot como vehículo de exploración para zonas remotas. La idea de Raphael Zufferey, autor principal del estudio, es que estos robots puedan lanzarse desde un barco o la costa para volar hasta zonas de interés (como un iceberg, un puerto, un grupo de ballenas), sumergirse a tomar una muestra o medición, y volver a volar para entregar los datos. Todo mucho más barato que con los medios oceanográficos tradicionales, y con la posibilidad de repetir el proceso cada hora en lugar de cada semana. Los próximos pasos del equipo pasan por dar a las alas capacidad de giro (además de aletear) y probar el robot en condiciones más adversas, como aguas agitadas o viento. Imágenes | MIT En Xataka | China lleva años perfeccionando robots que se pegan a las paredes con un objetivo: que nadie más muera colgado de un andamio - La noticia El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue fue publicada originalmente en Xataka por Amparo Babiloni ."
   },
   {
-    "titulo": "Los Mossos investigan un incendio en un aparcamiento de Corbera que quemó dos autocares",
-    "medio": "La Vanguardia",
-    "fecha": 1785083359.0,
-    "link": "https://www.lavanguardia.com/local/baix-llobregat/20260726/11601515/mossos-investigan-incendio-aparcamiento-corbera-quemo-dos-autocares.html",
-    "resumen": ""
-  },
-  {
     "titulo": "El incendio de Ávila es el peor de la Historia y ha quemado ya 50.000 hectáreas: han ardido más de 100.000 en 5 días",
     "medio": "El Español",
     "fecha": 1785083083.0,
     "link": "https://www.elespanol.com/madrid/20260726/incendio-avila-peor-historia-quemado-hectareas-ardido-dias/1003744334611_0.html",
     "resumen": "En total, son 153.000 las hectáreas afectadas por el fuego en todo el país, una cifra seis veces mayor que en 2025.Más información: En la zona cero del incendio forestal que arrasa Madrid y Ávila: \"No nos vamos. Que pase lo que tenga que pasar\""
-  },
-  {
-    "titulo": "Incendios incontrolables y más imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1785082809.0,
-    "link": "https://www.lavanguardia.com/fotos/20260726/11601485/incendios-incontrolables-mas-imagenes-dia.html",
-    "resumen": "La devastación provocada por los incendios del suroeste de Francia y de la Península Ibérica queda al descubierto después del paso de las llamas que arrasan con todo. Mientras que las condiciones meteorológicas mejoran en el centro de España el incendio de Burdeos continúa descontrolado tras calcinar de momento 42.000 hectáreas."
-  },
-  {
-    "titulo": "Los expertos coinciden, circular con las ventanillas bajadas en autopista parece una buena idea, pero a la larga sale muy caro",
-    "medio": "OK Diario",
-    "fecha": 1785082546.0,
-    "link": "https://okdiario.com/motor/expertos-coinciden-circular-ventanillas-bajadas-autopista-parece-buena-idea-pero-larga-sale-muy-caro-19071400",
-    "resumen": "Circular con las ventanillas bajadas en la autopista parece una buena idea, pero a la larga sale caro, los expertos coinciden. Será mejor que nos empecemos a preparar para un giro radical en la forma de conducir y de intentar mantener una temperatura del vehículo que no siempre es fácil. La manera en la que … Continuar leyendo \"Los expertos coinciden, circular con las ventanillas bajadas en autopista parece una buena idea, pero a la larga sale muy caro\""
-  },
-  {
-    "titulo": "La Seguridad Social prevé recortar hasta un 21% la pensión a los trabajadores que hayan cotizado menos de 38 años",
-    "medio": "OK Diario",
-    "fecha": 1785082543.0,
-    "link": "https://okdiario.com/economia/seguridad-social-preve-recortar-hasta-21-pension-trabajadores-que-hayan-cotizado-menos-38-anos-19071371",
-    "resumen": "Hasta un 31% prevé recordar la Seguridad Social la pensión a los trabajadores que hayan cotizado menos de 38 años. Un giro radical que quizás hasta la fecha nadie hubiera ni imaginado que podría producirse en nuestro país con unos trabajadores que han pagado con creces esa pensión de la que disfrutaban. Lo que parecía … Continuar leyendo \"La Seguridad Social prevé recortar hasta un 21% la pensión a los trabajadores que hayan cotizado menos de 38 años\""
-  },
-  {
-    "titulo": "Cómo instalar el certificado digital en el ordenador de forma rápida y sencilla",
-    "medio": "OK Diario",
-    "fecha": 1785082540.0,
-    "link": "https://okdiario.com/tecnologia/como-instalar-certificado-digital-ordenador-forma-rapida-sencilla-19071390",
-    "resumen": "Instalar el certificado digital en el ordenador de forma rápida y sencilla es una realidad si sigues estos pasos. Este detalle que se ha convertido en algo esencial en estos días en los que realmente puede acabar siendo una necesidad, para poder trabajar o realizar cada vez más trámites deberemos tener en cuenta este elemento. … Continuar leyendo \"Cómo instalar el certificado digital en el ordenador de forma rápida y sencilla\""
-  },
-  {
-    "titulo": "Fernando Alonso dispara la ilusión: «Empieza un nuevo campeonato para nosotros»",
-    "medio": "OK Diario",
-    "fecha": 1785082452.0,
-    "link": "https://okdiario.com/deportes/fernando-alonso-dispara-ilusion-empieza-nuevo-campeonato-nosotros-19071368",
-    "resumen": "Fernando Alonso vio cómo las mejoras prometidas por Aston Martin funcionaron en el Gran Premio de Hungría. Pese a estar lejos de los puestos cabeceros, el equipo demostró que de una carrera a otra le ha dado para adelantar a Cadillac, Haas y Williams y pelear de tú a tú con Alpine disparando la confianza … Continuar leyendo \"Fernando Alonso dispara la ilusión: «Empieza un nuevo campeonato para nosotros»\""
-  },
-  {
-    "titulo": "Fallece Joana Maria Socias Camacho, una de las grandes expertas en Derecho Administrativo de Baleares",
-    "medio": "OK Diario",
-    "fecha": 1785082289.0,
-    "link": "https://okdiario.com/baleares/fallece-joana-maria-socias-camacho-grandes-expertas-derecho-administrativo-baleares-19071373",
-    "resumen": "La comunidad universitaria de las Illes Balears está de luto tras el fallecimiento de Joana Maria Socias Camacho, catedrática de Derecho Administrativo, vicedecana de la Facultad de Derecho de la Universitat de les Illes Balears (UIB) y exdirectora general del Govern balear. Su muerte, conocida este jueves, ha provocado una profunda conmoción entre compañeros, alumnos … Continuar leyendo \"Fallece Joana Maria Socias Camacho, una de las grandes expertas en Derecho Administrativo de Baleares\""
-  },
-  {
-    "titulo": "Un estudio con 120 millones de trayectos calcula cuánto tiempo realmente corriendo por encima del límite con el coche: 54 segundos al día",
-    "medio": "HuffPost",
-    "fecha": 1785081898.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-estudio-120-millones-trayectos-calcula-realmente-corriendo-encima-limite-coche-54-segundos-dia-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Sara, 22 años, dependienta: \"Las trabajadoras mayores tragan más, son el sustento de sus familias y no cogen una baja independientemente de cómo se encuentren\"",
-    "medio": "HuffPost",
-    "fecha": 1785081874.0,
-    "link": "https://www.huffingtonpost.es/sociedad/sara-22nos-dependienta-las-trabajadoras-mayores-tragan-mas-son-sustento-familias-cogen-baja-independientemente-como-encuentren-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El fuego del suroeste de Francia gana terreno y obliga a nuevas evacuaciones masivas",
-    "medio": "El País",
-    "fecha": 1785081803.0,
-    "link": "https://elpais.com/internacional/2026-07-26/el-fuego-del-suroeste-de-francia-gana-terreno-y-obliga-a-nuevas-evacuaciones-masivas.html",
-    "resumen": "Los fuertes vientos dirigen las llamas hacia Burdeos y las autoridades decretan nuevos desalojos, que ya ascienden a 220.000 personas en la zona"
-  },
-  {
-    "titulo": "Los incendios de Madrid, Ávila y Toledo obligan a evacuar o confinar a 90.000 personas",
-    "medio": "El País",
-    "fecha": 1785081747.0,
-    "link": "https://elpais.com/espana/2026-07-26/los-incendios-de-madrid-y-avila-obligan-a-evacuar-o-confinar-a-mas-de-100000-personas.html",
-    "resumen": "El incendio de Ávila es ya el mayor de la historia de España con 50.000 hectáreas afectadas. El Gobierno declarará este martes las zonas afectadas como gravemente dañadas por la emergencia"
   },
   {
     "titulo": "Hace 2.600 años, unos nobles desmontaron a propósito sus 21 campanas fúnebres: su peor enemigo se había convertido en familia",
@@ -270,7 +480,7 @@
     "medio": "eldiario.es",
     "fecha": 1785081429.0,
     "link": "https://www.eldiario.es/comunitat-valenciana/mapa-incendio-vall-d-uixo-amenaza-parque-natural-serra-d-espada-interior-castello_1_13408105.html",
-    "resumen": "El fuego ha afectado a unas 4.300 hectáreas y el perímetro del incendio supera los 40 kilómetros, lo que ha obligado a desalojar a más de 16.000 personas de 18 municipiosLa delegada del Gobierno en València: “No parece que el fuego se haya producido por causas naturales”Directo | Última hora de los incendios El incendio en la Vall d'Uixó iniciado este sábado, probablemente provocado, sigue avanzando sin control hacia el interior del parque natural de la Serra d'Espadà, en Castelló. El fuego ha quemado ya unas 4.300 hectáreas y el perímetro del incendio supera los 40 kilómetros. Un total de 19 personas han tenido que ser atendidas por inhalación de humo. En este mapa se ve la ubicación del incendio. Se trata de la estimación extraída del satélite Copernicus tras su último cruce sobre la zona arrasada. El mapa de los incendios activos en España en 2026 Superficie quemada detectada por satélite y focos activos captados por los satélites de la NASA en las últimas 24 y 48 horas. Áreas quemadas Últ. 30 días Anteriores Incendios activos Focos 24 h Focos 48 h ← Desliza para ver más incendios → Fuente: EFFIS (Copernicus) y NASA FIRMS Más de 16.000 personas de 18 municipios han sido desalojadas preventivamente tras una noche en condiciones adversas. El dispositivo espera contar este domingo con una veintena de aeronaves para tratar de evitar el avance de las llamas, en dirección noroeste. Sobre el terreno, más de 450 efectivos, incluyendo a la Unidad Militar de Emergencias, trabajan para tratar de controlar el incendio. Imagen del incendio en la Vall d'Uixó captada por los Bomberos. La delegada del Gobierno, Pilar Bernabé, ha afirmado este domingo que “no parece que -el fuego- se haya producido por causas naturales”."
+    "resumen": "El fuego ha afectado a unas 6.500 hectáreas y el perímetro del incendio supera los 48 kilómetros, lo que ha obligado a desalojar a más de 16.000 personas de 18 municipiosLa delegada del Gobierno en València: “No parece que el fuego se haya producido por causas naturales”Directo | Última hora de los incendios El incendio en la Vall d'Uixó iniciado este sábado, probablemente provocado, sigue avanzando sin control hacia el interior del parque natural de la Serra d'Espadà, en Castelló. El fuego ha quemado ya unas 6.500 hectáreas y el perímetro del incendio supera los 48 kilómetros, egún la última actualización del conseller de Emergencias, Juan Carlos Valderrama. Hasta 25 medios aéreos se han deplegado en la zona. En este mapa se ve la ubicación del incendio. Se trata de la estimación extraída del satélite Copernicus tras su último cruce sobre la zona arrasada. El mapa de los incendios activos en España en 2026 Superficie quemada detectada por satélite y focos activos captados por los satélites de la NASA en las últimas 24 y 48 horas. Áreas quemadas Últ. 30 días Anteriores Incendios activos Focos 24 h Focos 48 h ← Desliza para ver más incendios → Fuente: EFFIS (Copernicus) y NASA FIRMS Más de 16.000 personas de 18 municipios han sido desalojadas preventivamente tras una noche en condiciones adversas. El dispositivo espera contar este domingo con una veintena de aeronaves para tratar de evitar el avance de las llamas, en dirección noroeste. Sobre el terreno, más de 450 efectivos, incluyendo a la Unidad Militar de Emergencias, trabajan para tratar de controlar el incendio. Imagen del incendio en la Vall d'Uixó captada por los Bomberos. La delegada del Gobierno, Pilar Bernabé, ha afirmado este domingo que “no parece que -el fuego- se haya producido por causas naturales”."
   },
   {
     "titulo": "El Gobierno prevé más evacuaciones por los incendios de Madrid, Ávila y Toledo",
@@ -280,20 +490,6 @@
     "resumen": "La vicepresidenta tercera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, ha anunciado que habrá próximamente nuevas evacuaciones de vecinos por los incendios que afectan a la sierra oeste de la Comunidad de Madrid y las provincias de Ávila y Toledo, cuyas llamas calcinan ya más de 77.000 hectáreas."
   },
   {
-    "titulo": "Estètica i Massacre (★★★★✩): ¿qué más?",
-    "medio": "La Vanguardia",
-    "fecha": 1785080746.0,
-    "link": "https://www.lavanguardia.com/cultura/20260726/11601498/estetica-i-massacre-que-mas.html",
-    "resumen": "La ópera de cámara de Carles Prat y Carlota Gurt fue presentada en el Festival Perelada, protagonizada por la soprano Maria Patak y el barítono Carlos Varela"
-  },
-  {
-    "titulo": "Dos muertos, uno de ellos un niño de diez años, y trece heridos en un supermercado de Chernígov en un ataque ruso",
-    "medio": "La Vanguardia",
-    "fecha": 1785080433.0,
-    "link": "https://www.lavanguardia.com/internacional/20260726/11601497/dos-muertos-nino-diez-anos-trece-heridos-supermercado-chernigov-ataque-ruso.html",
-    "resumen": "Rusia atacó a Ucrania con ocho misiles y 136 drones en las últimas horas, según Kyiv"
-  },
-  {
     "titulo": "Díaz-Canel acusa a EEUU de prácticas nazis y de aplicar una \"política genocida\": \"Antes fueron Gaza, Líbano e Irán, hoy es Cuba\"",
     "medio": "eldiario.es",
     "fecha": 1785080123.0,
@@ -301,25 +497,11 @@
     "resumen": "El presidente de Cuba considera que \"los funcionarios del Departamento de Estado son una versión moderna de los redactores de edictos y bandos militares que tanto se hicieron temer y odiar en los oscuros tiempos medievales o en las ocupaciones nazis en la II Guerra Mundial\" Trump pone en la diana a los socialistas democráticos de Mamdani y organizaciones sociales en su cruzada contra Cuba El presidente de Cuba, Miguel Díaz-Canel, ha comparado este domingo al Gobierno de Estados Unidos con los nazis y lo ha acusado de aplicar una “política genocida” contra la isla que busca “apropiarse de todo el país”. “Los funcionarios del Departamento de Estado, expertos en redactar sanciones, hacer listas e inventar pretextos, son una versión moderna de los redactores de edictos y bandos militares que tanto se hicieron temer y odiar en los oscuros tiempos medievales o en las ocupaciones nazis en la II Guerra Mundial”, ha afirmado el dirigente cubano. Díaz-Canel ha emitido estas declaraciones en Pinar del Río (oeste), en el acto político del 73 aniversario del frustrado asalto al Cuartel Moncada, la primera acción de los revolucionarios que acabaron tomando el poder en 1959, una fecha marcada en esta ocasión por la presión máxima de Washington sobre la isla. “Antes fueron Gaza, Líbano e Irán. Hoy es Cuba. Mañana puede ser cualquier otra nación”, ha asegrado Díaz-Canel, quien ha advertido que su país “no es la primera ni será la última víctima” de las políticas de EEUU. Cuba afirma que la presión de EEUU es “un genocidio fríamente calculado” La presión contra Cuba, ha agregado, es “un genocidio fríamente calculado por el Gobierno de EEUU” dentro de una campaña de “máxima asfixia” contra la isla en la que se combinan el bloqueo petrolero vigente desde enero y varias oleadas de sanciones, incluidas las secundarias. Las últimas sanciones “rompen el récord de la infamia”, según el presidente, porque se dirigen contra las misiones médicas cubanas en el exterior, que La Habana tilda de solidaridad internacional pero Washington califica de esclavitud moderna. “Es ilegal y es criminal martirizar a un pueblo sólo para provocar que se rebele contra su Gobierno”, ha añadido. Al acto, bajo el lema “Mi Moncada es la patria”, han acudido altos cargos del Gobierno y del Partido Comunista de Cuba (PCC, único legal), pero no el expresidente Raúl Castro, referente político del país, ni su nieto Raúl Guillermo Rodríguez Castro, persona de contacto oficiosa con Washington. Su discurso ha mantenido un tono crítico y combativo con EEUU y en ningún momento Díaz-Canel mostró su disposición a un diálogo entre iguales —como repitió en meses previos— ni se refirió a posibles contactos entre ambos países. Cambios “profundos y necesarios” Díaz-Canel ha reconocido que la isla se encuentra “en uno de los momentos más difíciles de su historia”, “una batalla histórica” con jornadas de “desafiante crudeza”, por los apagones “de más de un día” y el deterioro general de la calidad de vida. Por eso, ha argumenado, es una “prioridad estratégica” para Cuba implementar los “cambios profundos y necesarios” que conlleva el paquete de 176 reformas recientemente aprobado, que busca liberalizar, abrir al exterior y descentralizar la economía de planificación central de la isla. Se trata, a juicio de los expertos, del mayor plan de transformación de la economía cubana desde el triunfo revolucionario de 1959, que acabó estableciendo un sistema político-económico de corte socialista y estatista. Estas reformas, ha añadido Díaz-Canel, buscan un “saneamiento macroeconómico” del país, atraer la “inversión responsable” y estimular a los trabajadores, teniendo siempre como objetivo “el mayor grado de justicia social” y el apoyo a los grupos vulnerables. El presidente ha llamado a los cubanos a “no tener miedo a los cambios” y reiteró que Cuba, como “país soberano”, tomará de forma independiente sus “decisiones políticas, económicas y sociales”."
   },
   {
-    "titulo": "Norris saca el orgullo del campeón en Budapest",
-    "medio": "El País",
-    "fecha": 1785080059.0,
-    "link": "https://elpais.com/deportes/formula-1/2026-07-26/norris-saca-el-orgullo-del-campeon-en-budapest.html",
-    "resumen": "El británico firma el primer triunfo del curso para McLaren en el fin de semana más abierto en lo que va de calendario"
-  },
-  {
     "titulo": "Susanna Griso y Luis Enríquez sellan su historia de amor con una emotiva boda en la Costa Brava: los detalles del vestido, las fotos del primer beso y los secretos de la celebración",
     "medio": "The Objective",
     "fecha": 1785079980.0,
     "link": "https://theobjective.com/gente/2026-07-26/susanna-griso-y-luis-enriquez-sellan-su-historia-de-amor-con-una-emotiva-boda-en-la-costa-brava-los-detalles-del-vestido-las-fotos-del-primer-beso-y-los-secretos-de-la-celebracion/",
     "resumen": "Susanna Griso y Luis Enríquez ya son marido y mujer. La periodista y presentadora de Espejo Público ha contraído matrimonio con el exconsejero delegado del Grupo […]"
-  },
-  {
-    "titulo": "Hoteles pet-friendly en Catalunya: viaja con tu mascota y disfruta de unas vacaciones en familia en una ciudad o pueblo catalán",
-    "medio": "La Vanguardia",
-    "fecha": 1785079800.0,
-    "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260726/11598207/hoteles-pet-friendly-catalunya-mkt-nrt.html",
-    "resumen": "Viajar con animales sigue siendo complicado por las limitaciones que imponen comercios y hoteles, pero cada vez hay más establecimientos pet-friendly disponibles para viajar con tus mejores amigos"
   },
   {
     "titulo": "La Audiencia Provincial de A Coruña impone costas por temeridad al recurrir pensión compensatoria de 1.200 euros",
@@ -392,32 +574,11 @@
     "resumen": "Victoria del vigente campeón por delante de Verstappen y Antonelli, que refuerza su liderato Leer"
   },
   {
-    "titulo": "Los incendios dejan ya más de 45.000 hectáreas calcinadas mientras Marlaska admite un día \"no positivo\" y confía en una mejoría del tiempo",
-    "medio": "HuffPost",
-    "fecha": 1785078642.0,
-    "link": "https://www.huffingtonpost.es/sociedad/los-incendios-dejan-mas-45000-hectareas-calcinadas-marlaska-admite-dia-no-positivo-confia-mejoria-f202607.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Registrado un terremoto de magnitud 3,7 con epicentro en Ogíjares (Granada)",
     "medio": "The Objective",
     "fecha": 1785078545.0,
     "link": "https://theobjective.com/sociedad/suceso/2026-07-26/registrado-terremoto-ogijares-granada/",
     "resumen": "Un terremoto de magnitud 3,7 y epicentro en Ogíjares (Granada) se ha sentido este domingo en Granada capital y otros municipios de la provincia. Según el […]"
-  },
-  {
-    "titulo": "Poca gente lo sabe, pero existe una bebida que solo se puede vender por su nombre si se produce en España o Portugal: una norma europea obliga al resto a buscar otras fórmulas",
-    "medio": "HuffPost",
-    "fecha": 1785078347.0,
-    "link": "https://www.huffingtonpost.es/life/consumo/poca-gente-existe-bebida-vender-nombre-produce-espana-portugal-norma-europea-obliga-resto-buscar-formulas-f202607.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Adelia, 95 años: \"Adoro la gimnasia, por la noche como poco, no bebo alcohol y de vez en cuando me permito un dulce con el café de cebada\"",
-    "medio": "HuffPost",
-    "fecha": 1785078209.0,
-    "link": "https://www.huffingtonpost.es/sociedad/adelia-95nos-adoro-gimnasia-noche-poco-bebo-alcohol-vez-me-permito-dulce-cafe-cebada-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "Vivo trae por fin sus plegables a España. Y llega con el mejor que he probado: el X Fold6 hasta marca un récord en batería",
@@ -448,32 +609,11 @@
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado este domingo el proyecto de la gran autopista que llevará su nombre y que conectará las localidades de Tiznit y Dajla, esta última en la zona ocupada del Sáhara Occidental."
   },
   {
-    "titulo": "Norris devuelve a McLaren a lo más alto en Hungría en el gran paso de Aston Martin",
-    "medio": "The Objective",
-    "fecha": 1785077304.0,
-    "link": "https://theobjective.com/deportes/formula-1/2026-07-26/norris-mclaren-hungria-gran-paso-aston-martin/",
-    "resumen": "De vuelta a lo más alto. Lando Norris se lleva la victoria en el Gran Premio de Hungría por delante de Max Verstappen y Kimi Antonelli, […]"
-  },
-  {
-    "titulo": "Norris vence en Hungaroring y Antonelli amplía el liderato; Alonso mejora, 14.º",
-    "medio": "La Vanguardia",
-    "fecha": 1785077023.0,
-    "link": "https://www.lavanguardia.com/deportes/20260726/11601463/f1-formula-1-gp-hungria-hungaroring-carrera-resumen-hamilton-norris-leclerc-alonso-sainz.html",
-    "resumen": "Oscar Piastri fue el gran perjudicado en Hungría tras ponerse líder en la salida: le arruinó un toque con Sainz y la rotura de la caja de cambios"
-  },
-  {
     "titulo": "El angustioso vídeo de unos bomberos atrapados entre las llamas: \"Si se para el camión aquí, lo flipamos\"",
     "medio": "El Español",
     "fecha": 1785076503.0,
     "link": "https://www.elespanol.com/madrid/comunidad/20260726/angustioso-video-bomberos-atrapados-llamas-camion-flipamos/1003744334541_0.html",
     "resumen": "El fuego, que ya ha arrasado más de 22.000 hectáreas, continúa sin estabilizarse mientras cerca de 300 efectivos trabajan para frenar su avance.Más información: La UME trabaja para que no se unan los incendios de Madrid y Ávila: “Hemos parado el avance, pero hay puntos discontinuos”"
-  },
-  {
-    "titulo": "Dos detenidos y cuatro heridos por una reyerta con disparos en Málaga",
-    "medio": "The Objective",
-    "fecha": 1785076235.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-07-26/detenidos-heridos-reyerta-disparos-malaga/",
-    "resumen": "Dos personas han sido detenidas por la Policía Nacional por su participación en una reyerta con disparos que se ha producido esta madrugada en la barriada […]"
   },
   {
     "titulo": "En el siglo XIX se plantaba en los parques por su belleza: hoy este árbol es uno de los que más tuberías y aceras rompe en España",
@@ -483,46 +623,11 @@
     "resumen": "El árbol que aparece sobre estas líneas seguro que te suena porque te lo has encontrado muchas veces, ya sea porque está en tu ciudad o porque paseando de vacaciones por cualquier municipio de la costa mediterránea estaba allí, en sus jardines más señoriales. Una pista por si no lo reconoces a la primera: sus semillas tienen una especie de alas, lo que les ayuda a diseminarse más y mejor. No es casual: el ailanto (Ailanthus altissima) llegó procedente del sudeste asiático hace dos siglos por su porte y presencia, pero también porque crecía rápido prácticamente en cualquier suelo. Hoy está prohibido por ley: es una especie invasora que lo mismo mata a otras plantas que se carga el alcantarillado. Ailanto el colonizador. Puede llegar a medir hasta 30 metros, tiene la corteza gris y las hojas están formadas por muchas hojitas alargadas colocadas en fila. Sus frutos son como semillas con alas, que cuelgan en racimos. Una forma de reconocerlo es el (mal) olor: si arrancas una hoja y la frotas, apesta. Desde su llegada, el ailanto se ha extendido por buena parte de la península, con especial intensidad en Catalunya y la Comunidad Valenciana. Este árbol coloniza cunetas, taludes, riberas degradadas y jardines abandonados, allí donde haya un trozo de tierra libre, allí está el ailanto: un solo ejemplar adulto es capaz de producir hasta 350.000 semillas aladas al año y gracias a sus alas y el viento, el ailanto sigue expandiéndose. El impacto ambiental del ailanto. Según la ficha oficial del MITECO, el ailanto altera el funcionamiento del ecosistema forestal y modifica la química del suelo donde se asienta, lo que dificulta la vida de otras especies. Gracias a su rápido crecimiento y forma dispersa, compite por el espacio y la luz en las zonas próximas a los ríos (ricas en vegetación), liberando sustancias tóxicas que impiden crecer a otras plantas a su alrededor. Este estudio ambiental de la Junta de Andalucía constata que donde hay ailanto, hay hasta un 35-40% de vegetación menos que en las zonas sin él. El impacto no se ciñe únicamente a la vegetación: el Ministerio para la Transición Ecológica y el Reto Demográfico señala que también puede producir daños en infraestructuras urbanas por una razón: sus largas y reticuladas raíces, capaces de extenderse hasta 15 metros del pie. Estas raíces buscan grietas y huecos para propagarse, de modo que agrietan tuberías, alcantarillado, cimientos, edicios y otras estructuras. Contexto. El ailanto procede de China, y aunque hay constancia de que se cultivaba como árbol ornamental desde el siglo XVIII, el Ministerio de Agricultura de España lo da como naturalizado a principios del siglo XIX. A mediados de ese siglo, Marcelino Sáez de Sautuola, descubridor de las cuevas de Altamira, escribía una carta a la Sociedad de Aclimatación de Francia en la que comentaba el éxito de plantación de ailantos, por aquel entones muy apreciados por sus cualidades ornamentales y también medicinales. El ailanto no solo es \"un fugitivo\" en España, allá donde va, tiene problemas. está presente y es catalogado como especie invasora en casi todo el mundo. En la UE aparece en la lista de especies exóticas invasoras, que obliga a los estados miembros a tomar medidas de control coordinadas y es habitual encontrarlo en en Alemania, Austria, Suiza, República Checa, la cuenca del Danubio y la práctica totalidad de los países mediterráneos. En Xataka El Ebro se está llenando de langostinos café, una especie invasora que cada vez nos vamos a encontrar más en el plato La prohibición y las multas. Que esté incluido dentro del el Catálogo Español de Especies Exóticas Invasoras regulado por el Real Decreto 630/2013 se traduce en que posesión, transporte, tráfico y comercio están prohibidos por ley en todo el territorio español. Las multas son bastante cuantiosas: de 100 a 3.000 euros por infracciones leves, de 3.001 a 200.000 euros por graves y hasta 2 millones de euros en los casos más graves. Eso es normativa estatal, porque cada comunidad puede tener normativa propia adicional. ¿Qué pasa entonces con los ailantos que hay? Ese Real Decreto contempla una excepción: esos ejemplares que ya estaban plantados en jardines particulares, parques urbanos o jardines botánicos antes de la entrada en vigor de la norma. En cuanto a los que hay plantados en jardines públicos, las administraciones deben eliminarlos progresivamente. Cómo mantenerlos a raya. Erradicarlos es difícil y caro. El informe del MITECO explica que cortar el árbol no sirve, ya que estimula la aparición de nuevos brotes: lo más efectivo combina la retirada mecánica de las plántulas jóvenes con tratamientos químicos específicos aplicados sobre las hojas o los tocones. Es lo que se está haciendo en los Montes de Málaga y la Sierra de Cazorla. De cara al futuro, la investigación apunta al control biológico como alternativa más sostenible: el ácaro Aculus taihangensis ha demostrado ser un agente específico efectivo. En Estados Unidos, el USDA investiga un hongo del suelo (Verticillium nonalfalfae) que está ofreciendo resultados prometedores. En Xataka | España plantó millones de eucaliptos para tener madera barata. 90 años después, hemos confirmado que son un desierto verde En Xataka | La Península Ibérica está siendo invadida: más de 1.200 especies exóticas han llegado para quedarse Portada | Marina Torres - La noticia En el siglo XIX se plantaba en los parques por su belleza: hoy este árbol es uno de los que más tuberías y aceras rompe en España fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
-    "titulo": "Un hallazgo atribuye a Velázquez un retrato inédito y refuerza el valor histórico de una figura política de Felipe IV",
-    "medio": "eldiario.es",
-    "fecha": 1785076193.0,
-    "link": "https://www.eldiario.es/spin/hallazgo-atribuye-velazquez-retrato-inedito-refuerza-historico-figura-politica-felipe-iv-pm_1_13407586.html",
-    "resumen": "Historia del arte - La actuación del conde-duque impulsó reformas para fortalecer la Monarquía Hispánica, aunque numerosas decisiones también quedaron asociadas a conflictos territoriales, derrotas militares y desgaste político La corte de Felipe IV concentró el poder político en un valido capaz de decidir guerras, reformas y nombramientos desde muy cerca del rey. Gaspar de Guzmán, conde-duque de Olivares, fue el principal hombre de confianza del monarca durante su reinado y trató de fortalecer la Monarquía Hispánica mediante reformas fiscales, militares y administrativas. Su figura ha quedado dividida porque algunos historiadores ven en él a un gobernante ambicioso que quiso modernizar una estructura agotada, mientras otros subrayan que sus medidas agravaron tensiones territoriales, aumentaron la presión sobre los reinos y terminaron asociadas a derrotas, rebeliones y desgaste político. Esa reputación partida ayuda a entender por qué sus retratos también servían para fijar la imagen pública que pretendía proyectar. Un encargo diplomático llevó el cuadro hasta la colección Barberini Uno de esos retratos ha reaparecido casi cuatro siglos después. Salvador Salort-Pons, director del Detroit Institute of Arts, ha identificado en una colección privada española El conde-duque de Olivares con armadura, una obra atribuida a Diego Velázquez y fechada en 1626. El hallazgo, publicado en Ars Magazine, culmina una búsqueda iniciada hace 25 años, cuando el historiador encontró en Italia documentos que mencionaban una pintura desaparecida. A finales de 2025, los propietarios del cuadro le invitaron a examinarlo en Madrid y los análisis posteriores reforzaron la atribución. Fotografía cedida por el director del Instituto de Artes de Detroit, Salvador Salort-Pons, de un inédito retrato del Conde-duque de Olivares pintado por Diego Velázquez, en 1626, conocido hasta ahora solo por documentos históricos y que fue localizado en una colección privada de España, lo que permitirá conocer mejor la técnica y la evolución del artista durante sus primeros años en Madrid.EFE/ Salvador Salort-Pons La pintura pertenecía a un encargo diplomático ligado a la visita de Francesco Barberini, cardenal y sobrino del papa Urbano VIII, a Madrid. Velázquez debía retratar a Olivares y al propio Barberini para un intercambio de regalos entre ambas cortes. El retrato del cardenal sigue perdido, mientras la efigie del valido habría permanecido en la colección Barberini hasta finales del siglo XVII. Su recorrido posterior todavía se desconoce. La armadura presentó a Olivares como responsable militar La armadura cambia la forma en que Velázquez presenta al ministro. En los retratos anteriores, Olivares aparecía como hombre de Estado dentro de su despacho; aquí adopta una imagen militar relacionada con la Unión de Armas, el proyecto que buscaba repartir el esfuerzo defensivo entre los territorios de la Corona. La banda roja y el peto metálico lo muestran como jefe del ejército y responsable de una política de reforma que pretendía reforzar el poder de Felipe IV. Las radiografías revelan que Velázquez modificó el cuadro. En una primera versión, Olivares vestía ropa oscura y una posible orla de piel. Después aparecieron la armadura, una golilla más ancha y rígida y una espada que terminó eliminada. Esos cambios indican que el pintor dudó sobre cuánto debía protagonizar la imagen del estadista y cuánto la del dirigente militar. Los materiales y la manera de aplicar la pintura también coinciden con obras de Velázquez de aquellos años. La paleta de negros, rojos y ocres, la preparación del lienzo y el tratamiento del ojo recuerdan al Retrato de Felipe IV conservado en el Museo del Prado. Además, un grabado de Paulus Pontius realizado en 1626 reproduce la cabeza de Olivares y conserva detalles que apuntan a esta pintura como modelo original. La obra viajará a Estados Unidos en enero de 2027 para una exposición en el Detroit Institute of Arts junto a otros retratos tempranos de Olivares y al Retrato de Felipe IV con armadura y banda. Su regreso al debate histórico no corrige por sí solo la reputación del conde-duque, pero sí muestra cómo quiso presentarse ante Europa en el momento de mayor ambición política de su carrera."
-  },
-  {
-    "titulo": "Un petrolero explota en Ormuz tras chocar con una mina, según medios iraníes",
-    "medio": "La Vanguardia",
-    "fecha": 1785075400.0,
-    "link": "https://www.lavanguardia.com/internacional/20260726/11601468/petrolero-explota-ormuz-chocar-mina-medios-iranies.html",
-    "resumen": "La Guardia Revolucionaria ha realizado disparos de advertencia contra seis buques durante las últimas 24 horas cuando intentaban atravesar el Estrecho"
-  },
-  {
     "titulo": "Un terremoto de magnitud 3.6 sacude la provincia de Granada: epicentro en Armilla",
     "medio": "El Español",
     "fecha": 1785074582.0,
     "link": "https://www.elespanol.com/espana/andalucia/20260726/terremoto-magnitud-sacude-provincia-granada-epicentro-ogijares/1003744334538_0.html",
     "resumen": "Se ha registrado a las 15:39 horas, según el Instituto Geográfico Nacional (IGN).Más información: Los terremotos de Venezuela golpean a su comunidad en Málaga: \"Te sientes de manos atadas; no puedes hacer nada\""
-  },
-  {
-    "titulo": "El incendio de la Vall d'Uixó sigue \"fuera de control\" tras calcinar 4.300 hectáreas y se sospecha que fue intencionado",
-    "medio": "El Mundo",
-    "fecha": 1785074555.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/26/6a65e4dae4d4d8ee268b4571.html",
-    "resumen": "La Generalitat descarta que los 16.000 desalojados puedan regresar este domingo a sus casas: \"La situación es difícil\" Leer"
-  },
-  {
-    "titulo": "Por muy cerca que esté del mar, a esta playa asturiana el agua llega a través de galerías subterráneas desde la costa",
-    "medio": "eldiario.es",
-    "fecha": 1785074430.0,
-    "link": "https://www.eldiario.es/spin/cerca-mar-playa-asturiana-agua-llega-traves-galerias-subterraneas-costa-pm_1_13407966.html",
-    "resumen": "La playa de Cobijeru forma parte de un laberinto rocoso lleno de dolinas, lapiaces y simas que cautivan a cualquier amante de la geologíaParcialmente quemada en la Guerra de la Independencia, esta casona asturiana del XIV y grandes vistas fue realizada en sillarejoLa mina asturiana de 140 kilómetros de galerías y cuya visita incluye poder picar carbón o subirte al tren de los mineros Son muchas las playas asturianas que destacan por mil y un alicientes. En el caso de la de Cobijeru, se trata de un enclave que se oculta tierra adentro, protegida por praderas verdes y que, de hecho, es una de las pocas playas interiores de Asturias, compartiendo este singular honor con la conocida Gulpiyuri. Lo que la hace especial es su conexión invisible con el mar Cantábrico cercano. Mientras otras costas muestran sus olas abiertamente, aquí el océano juega al escondite con los turistas. Es un capricho inusual de la geografía que invita a descubrir un paraíso terrestre muy especial, ya que el Cantábrico fluye por túneles subterráneos para bañar esta pequeña joya escondida de arena blanca. Ubicada en la localidad de Buelna, dentro del concejo de Llanes, es considerada como Monumento Natural. Forma parte del Paisaje Protegido de la Costa Oriental, garantizando la preservación de su ecosistema único. Las rocas que la rodean pertenecen al carbonífero superior, mostrando un modelado kárstico muy singular. Es un laberinto rocoso lleno de dolinas, lapiaces y simas que cautivan a cualquier geólogo aficionado. Los visitantes suelen quedar boquiabiertos al encontrar este remanso de paz en mitad del campo verde. Su belleza es el resultado de milenios de erosión paciente por parte de los elementos naturales. El secreto de su existencia reside bajo los acantilados porosos que separan la tierra del océano. El agua salada no llega por la superficie, sino a través de galerías y grietas subterráneas. Estos túneles permiten que el Cantábrico se cuele tierra adentro, recorriendo unos cien metros bajo roca. Es un proceso fascinante donde el mar actúa como un reo que intenta escapar de su prisión. Al acercarse a la grieta, se puede escuchar el rugido del oleaje batiendo contra las paredes internas. Este fenómeno crea una piscina natural de agua salada que aparece de pronto entre los árboles. La ingeniería de la naturaleza ha diseñado un sistema de filtración perfecto para este refugio secreto. De las pocas playas interiores de Asturias, se trata de un enclave que se oculta tierra adentro protegido por praderas verdes La fisonomía de Cobijeru es coqueta y reducida, con una longitud de apenas unos 30 metros. Su forma semicircular abraza una arena blanca y fina que contrasta con el verdor de los prados. Sin embargo, su atractivo depende totalmente de las mareas, que dictan el ritmo de este lugar. Con la marea baja, el paraje pierde gran parte de su encanto al mostrar solo arena seca. Es cuando el nivel del mar sube cuando el complejo cobra vida y se llena de agua. Las profundidades son escasas, variando según el día, pero raramente superan el metro de altura total. Es el lugar ideal para un baño relajante en aguas cristalinas y sin apenas oleaje. El complejo no solo ofrece una playa, sino también una cueva homónima situada en su parte derecha. Esta cavidad comunica el litoral con la zona interior a través de una galería de gran belleza. En su interior, el visitante encontrará una amplia sala repleta de estalactitas y estalagmitas milenarias. Para explorarla es imprescindible llevar una linterna, pues la oscuridad es absoluta en sus tramos profundos. El recorrido de 150 metros recompensa al aventurero con un balcón natural hacia el mar. Desde allí se observa un lago interior con matices rojizos y verdes provocados por las algas locales. Es una ventana privilegiada para contemplar la fuerza del Cantábrico desde la montaña. El acceso a este Monumento Natural solo es posible a pie, lo que añade un aura de aventura. Los visitantes deben dejar sus vehículos en el pequeño pueblo de Buelna antes de iniciar la ruta. El sendero, perfectamente señalizado, atraviesa campos de labor y praderías típicas del paisaje rural del norte. Es un paseo tranquilo de apenas un kilómetro que no presenta dificultades técnicas para los senderistas. Durante el trayecto, se puede disfrutar de vistas abiertas a la costa y de una foresta tupida. En los alrededores de Cobijeru, la naturaleza sigue desplegando un catálogo de maravillas dignas de mención especial. A escasos metros se sitúa la playa del Molín, de suelo fangoso y ricas comunidades vegetales. Allí descansan las ruinas de un antiguo molino de mareas, testigo del aprovechamiento humano de la energía. Los “bufones” Siguiendo el litoral hacia el norte, se encuentra el Puente Caballu, un arco natural sobre acantilados encrespados. Cerca de Buelna también se pueden observar los famosos “bufones”, cavidades que lanzan agua en forma de géiser. Cuando el mar está agitado, la tierra “bufa” y lanza chorros que alcanzan decenas de metros. Es un espectáculo visual que demuestra la potencia indomable del mar Cantábrico. La visita a Cobijeru exige respeto absoluto por el entorno, pues se trata de un espacio protegido. Es vital seguir las recomendaciones de seguridad, especialmente ante temporales que hacen peligrosos los acantilados cercanos. La vegetación local incluye especies rarísimas como la Zostera noltii, protegida por su alto valor botánico. No existen servicios comerciales ni papeleras en la zona, por lo que cada residuo debe ser retirado. Llegar hasta esta playa interior es descubrir uno de esos lugares del lado más salvaje y oculto de Asturias."
-  },
-  {
-    "titulo": "La industria de los microdramas con IA va tan a tope que las propias plataformas te dejan crear (y monetizar) tus propias series",
-    "medio": "Xataka",
-    "fecha": 1785074427.0,
-    "link": "https://www.xataka.com/cine-y-tv/industria-microdramas-ia-va-a-tope-que-propias-plataformas-te-dejan-crear-monetizar-tus-propias-series",
-    "resumen": "La industria de los microdramas crece sin parar. Y por supuesto, los generados por IA crecen mucho más rápido. Tanto, que la demanda ya lleva a la creación de herramientas que permiten que el espectador genere sus propios programas. La plataforma StoReel ha construido una herramienta pensada exactamente para eso, y ya paga a quien la usa. Los resultados aún no son perfectos, pero es inevitable plantearse qué pasará cuando cualquiera (en teoría) pueda ser showrunner. Elige tu propio microdrama. A finales de junio, StoReel presentó Canvas, una herramienta que convierte un guion de microdrama en una serie completa: personajes, escenarios, voces y montaje generados por inteligencia artificial de principio a fin. La web TheWrap la probó en primera persona con una parodia de la serie de Prime Video 'Off Campus': cuatro episodios, cuatro días de trabajo y 288 créditos (150 dólares) solo para generar los personajes, con pagos adicionales cada vez que alguno no encajaba con el aspecto deseado. Cómo quedó la cosa. El resultado conveció a medias, al parecer. Hay planos muy competentes y otros con ese punto artificial que delata al actor sintético: pausas raras entre frases, miradas que se sostienen de más, algún salto de raccord donde un personaje cambia de posición sin que la cámara lo justifique... Y aun con esos fallos, StoReel no lo vende como un mero experimento: acaba de cerrar una ronda de financiación de 34 millones de dólares y construye su modelo de negocio alrededor de lo que llama PUGC, es decir, contenido profesional generado por el usuario. Cualquiera puede producir una serie y cobrar por ella si StoReel decide distribuirla. En Xataka Móvil Un minuto fue suficiente para enganchar a China. Las micro series para móvil ahora están conquistando el resto del mundo Los primeros éxitos. Los números que maneja la propia compañía ayudan a entender la apuesta. Su 'OMG! My Snowwhite Is a Man', producido íntegramente con IA, alcanzó un coste por instalación (lo que la compañía paga en publicidad, cruzado con cada descarga nueva) de 4,63 dólares frente a los 8-10 dólares habituales en sus series de imagen real. Y su catálogo de más de 80 series generadas con IA retiene un 22% más de audiencia al cabo de una semana que sus producciones tradicionales. Son cifras de la propia StoReel, así que hay que cogerlas con pinzas, pero explican a la perfección por qué la compañía prefiere pagar a su público antes que ampliar su plantilla de guionistas. Orígenes de lo micro. El microdrama, episodios de uno a dos minutos pensados para verse de un tirón en el móvil, es un tipo de contenido digital que nació en China con el nombre de duanju y ya lleva más de un año conquistando mercados fuera de Asia. Las cifras del sector varían mucho según quién las calcule. Phylicia Koh, socia de Play Ventures e inversora en StoReel, cifra el mercado global en 14.000 millones de dólares y lo compara con la disrupción que 'Roblox' provocó en los videojuegos. Axios, por otro lado, calculó que el negocio fuera de China facturó 3.000 millones de dólares en 2025, casi el triple que el año anterior. En Xataka En China se producen 470 series hechas con IA al día. El 99,9% de ellas no llega a nadie Ese apetito explica también movimientos de plataformas mucho más grandes: Disney+ va a empezar a experimentar con vídeos verticales propios para retener a una audiencia que ya no quiere sentarse dos horas delante de una pantalla. StoReel, sin embargo, va más allá: quiere convertir a su propia audiencia en una plantilla de guionistas. No es la primera. StoReel no es la única compañía que ha metido la inteligencia artificial en la sala de guionistas. Holywater, la empresa ucraniana detrás de My Drama, lanzó su propia herramienta hace más de un año: My Muse convierte historias de su catálogo de libros en series con ayuda de modelos como Midjourney o Runway, pero el proceso queda en manos de cineastas especializados en IA seleccionados por la propia empresa. La herramienta de StoReel presume de una apertura aún mayor, aunque con matices: la herramienta se negó a generar personajes con el rostro exacto de los actores de 'Off Campus' cuando TheWrap se lo pidió, un límite que StoReel presenta como salvaguarda frente a demandas por derechos de imagen. El sistema, sin embargo, no puso ninguna objeción cuando el guion generado para el experimento reproducía casi escena por escena la novela de Elle Kennedy 'Inmune a ti' (tercera de la saga en la que se basa Prime Video)'. En algún punto del proceso cambió el apellido del autor citado en pantalla, de Steinbeck a Steinberg, sin que en TheWrap supieran explicar si fue un error del modelo o un intento de esquivar problemas de derechos. En Xataka | Episodios de un minuto, tramas locas y millones de visionados: bienvenido a la era de los microdramas - La noticia La industria de los microdramas con IA va tan a tope que las propias plataformas te dejan crear (y monetizar) tus propias series fue publicada originalmente en Xataka por John Tones ."
   },
   {
     "titulo": "\"La diferencia entre la vivienda inversa y la hipoteca inversa es que los hijos de los jubilados sí heredan la propiedad en la última, pero el dinero que se recibe es menor\"",
@@ -546,53 +651,11 @@
     "resumen": "Los incendios forestales que están azotando la sierra oeste de la Comunidad de Madrid y las provincias de Ávila y Toledo han calcinado 77.000 hectáreas y un perímetro de 280 kilómetros, según los datos ofrecidos por la secretaria general de Protección Civil y Emergencias del Ministerio del Interior, Virginia Barcones."
   },
   {
-    "titulo": "Las autoridades alemanas creen que dos terroristas perpetraron el atentado del Orgullo de Berlín",
-    "medio": "El Mundo",
-    "fecha": 1785072359.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/26/6a6604bcfdddff744f8b4582.html",
-    "resumen": "La Policía detuvo durante la noche del sábado a un ciudadano iraní al que los investigadores consideran el presunto acompañante del principal sospechoso, Abdul B. Leer"
-  },
-  {
-    "titulo": "Ya es oficial: Samsung presenta un nuevo SSD con interfaz PCIe 4.0 que llega en plena crisis de precios para la memoria",
-    "medio": "Xataka",
-    "fecha": 1785071786.0,
-    "link": "https://www.xataka.com/seleccion/oficial-samsung-presenta-nuevo-ssd-interfaz-pcie-4-0-que-llega-plena-crisis-precios-para-memoria",
-    "resumen": "No es el mejor momento para comprar un SSD por sus precios altísimos, pero eso no ha evitado que Samsung estrene un nuevo modelo. Se trata del SSD 990, una propuesta que está orientada a usuarios que buscan un rendimiento alto (especialmente en videojuegos), pero sin apuntar a los modelos de más alta gama. Te contamos más sobre él. Un SSD rápido que llega con mejor eficiencia energética Este nuevo SSD es un modelo que, como decimos, queda un peldaño por debajo del SSD 990 Pro, uno de los mejores que hay en el mercado. Pese a ello, como veremos justo a continuación, no le falta rendimiento. Es un modelo NVMe 2.0 que utiliza interfaz PCIe 4.0, lo que lo hace adecuado para la mayoría de ordenadores, aunque también para PlayStation 5 (aunque tendríamos que adquirir un disipador por separado). Además, tiene una eficiencia energética mejorada. En Xataka Más rápido (y caro) no siempre es mejor: la gran diferencia entre comprar un SSD y un HDD para copias de seguridad ¿Y cómo es su rendimiento? Samsung promete que el mismo es capaz de llegar hasta los 7.250 MB/s de velocidad de lectura para la versión de 2 TB del mismo, quedándose esta cifra en los 7.150 MB/s para el de 1 TB de capacidad. Para ambas versiones, la velocidad de escritura es de 6.450 MB/s. Estas, en la práctica, nos ayudarán a tener tiempos de carga reducidos en los videojuegos o a que las aplicaciones carguen más rápido, por ejemplo. Dos cosas a tener en cuenta del mismo. Como ya hemos adelantado más arriba, no es un buen momento para este tipo de componentes, algo que podemos ver en su precio. No sabemos todavía qué costará en España, pero nos podemos hacer una idea con su precio en Australia: 385 dólares (236,34 euros al cambio) y 759 dólares (465,89 euros) para los modelos de 1 y 2 TB, respectivamente. Además, este modelo tiene solo tres años de garantía, menos que otros modelos de la propia Samsung (que tienen cinco años). ⚡ EN RESUMEN: SSD 990 de Samsung ✅ LO MEJORRendimiento sobresaliente: Es un SSD con unas velocidades de escritura y lectura muy altas, ideales para aumentar el rendimiento de un PC.Compatible con la mayoría de dispositivos: El hecho de que sea PCIe 4.0 hace que podamos usarlo en muchos equipos. Incluso en una PS5. ❌ LO PEORTres años de garantía: Es un componente pensado para durar, pero es cierto que tiene menos garantía que otros modelos de Samsung.Precio elevado: Aunque no es algo exclusivo de este SSD, tiene un precio elevado en ambas versiones. 💡 CÓMPRALO SI... Buscas un SSD PCIe 4.0 con un muy buen rendimiento, ya sea para videojuegos o porque simplemente quieres que tus apps vayan más rápido. ⛔ NO LO COMPRES SI... Prefieres apuntar hacia un modelo más barato o directamente quieres que venga con disipador de serie para usarlo en una PlayStation 5. En Xataka Smart Home Lidl lanza el viernes 24 de julio el accesorio de menos de 10 euros para dejar el sofá y el coche como nuevos También te puede interesarNo tenemos precio oficial en España ni fecha de lanzamiento todavía, por lo que tendremos que esperar. Mientras tanto, te dejamos a continuación dos alternativas similares que podemos comprar en Amazon. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Samsung En Xataka | Pagar de más por un SSD NVMe rapidísimo es tirar el dinero si sólo guardas PDFs, pero es la única opción si también vas a trabajar desde él En Xataka | La mega-guía de discos duros SSD: tipos, tecnología y cómo elegir el mejor para nuestro PC - La noticia Ya es oficial: Samsung presenta un nuevo SSD con interfaz PCIe 4.0 que llega en plena crisis de precios para la memoria fue publicada originalmente en Xataka por Juan Lorente ."
-  },
-  {
-    "titulo": "El pequeño pueblo de Pontevedra para darse un refrescante chapuzón de agua dulce rodedado de robles y alisos",
-    "medio": "eldiario.es",
-    "fecha": 1785071620.0,
-    "link": "https://www.eldiario.es/viajes/pequeno-pueblo-pontevedra-darse-refrescante-chapuzon-agua-dulce-rodedado-robles-alisos-pm_1_13407879.html",
-    "resumen": "Cerdedo-Cotobade es una localidad ideal para los amantes de la tranquilidad, interrumpida solo por el rumor constante del aguaEl pequeño pueblo gallego con playas fluviales, ríos y alguna cascada en el que no echarás de menos el marEste parque natural alberga hasta 15 lagunas unidas por arroyos, torrentes o cascadas de aguas turquesas En la provincia de Pontevedra, a tan solo 22 kilómetros de la capital, la pequeña Cerdedo-Cotobade es una localidad ideal para los amantes del agua dulce. Este municipio, nacido de la fusión de dos tierras históricas, se extiende sobre más de 200 kilómetros cuadrados de pura naturaleza y un vasto patrimonio arquitectónico. Se ha consolidado como uno de los lugares con mayor oferta de playas fluviales de toda Galicia, convirtiéndose en el refugio estival ideal para quienes buscan calma. Su ubicación estratégica lo sitúa como un nexo fundamental entre las ciudades monumentales de Santiago u Ourense y las costas de las Rías Baixas. Aquí, el rumor constante del agua invita a los visitantes a sumergirse en un paraíso de tranquilidad absoluta rodeado de bosques centenarios. Cada una de sus parroquias guarda un secreto natural esperando ser descubierto por el viajero que huye de las grandes aglomeraciones costeras. Es, sin duda, un escenario donde la frescura de los cauces fluviales se entrelaza con una historia milenaria de tradición popular y trabajo. El ecosistema de la zona está dominado por la imponente presencia del río Lérez, un cauce incluido en la Red Natura 2000 que garantiza la conservación de su biodiversidad. Sus orillas están protegidas por un frondoso bosque de ribera donde los alisos, sauces y el helecho real despliegan sus ramas sobre aguas oxigenadas. En las laderas y zonas de relieve más accidentado, los bosques de roble común persisten como los grandes guardianes del paisaje interior tradicional. Este entorno silvestre es el hogar de especies fascinantes como el martín pescador, el mirlo acuático y la trucha, que habitan en tramos de gran valor. También es posible encontrar endemismos locales como la salamandra rabilarga o el lagarto de agua, que dependen de la extrema pureza de estas corrientes. La vegetación autóctona, que incluye laureles e hiedras, crea una atmósfera mágica de sombra y frescor incluso en los días más calurosos del verano. El aire que se respira en estos senderos ribereños está impregnado del aroma de la tierra húmeda, el musgo y la madera de árboles centenarios. La simbiosis perfecta entre el agua cristalina y la flora autóctona define la identidad visual de este paraíso escondido de la provincia. Se trata de un escenario donde la frescura de los cauces fluviales se entrelaza con una historia milenaria de tradición popular y trabajo El río Almofrei es el protagonista de varios de los enclaves más populares para el baño, destacando por su configuración natural y la gran calidad del agua. En la parroquia de Carballedo se encuentra la playa fluvial de A Chan, donde se aprovechó una antigua presa para crear una piscina de corrientes muy calmas. Este espacio cuenta además con una piscina infantil y un albergue que atiende a los numerosos peregrinos que recorren las rutas jacobeas cercanas. Siguiendo el curso del mismo río, la playa de A Xesteira ofrece un entorno pintoresco donde el cauce forma un meandro aprovechado para el ocio estival. Otro punto emblemático es Pozo Negro, en Rebordelo, un área recreativa que dispone de playa, piscina para los más pequeños, barbacoas y un parque infantil. Estos arenales fluviales permiten un contacto directo con la naturaleza sin renunciar a las infraestructuras necesarias para el descanso y la diversión. Las aguas del río Lérez y del río Castro también ofrecen rincones inolvidables para disfrutar de un chapuzón rodeado de infraestructuras recreativas de primer nivel. En Tenorio se sitúa la playa fluvial de Calvelo, un espacio de baño integrado en un entorno arbolado dotado de mesas y bancos para comer al aire libre. Este lugar destaca por su proximidad a un puente colgante, lo que añade un toque de aventura a la jornada de descanso bajo los robles. Por su parte, la playa fluvial de Cerdedo se ubica en las proximidades del Monte Seixo, bañada por las frescas aguas de montaña del río O Castro. Este complejo dispone de una zona de baño natural y una piscina lateral, además de áreas diseñadas para realizar actividades deportivas de diversos tipos. La calidad excelente certificada de estas aguas continentales convierte al ayuntamiento en un referente de salud y ocio ecológico en toda Galicia. Todas estas zonas están rodeadas de robledales y vegetación de ribera que proporcionan sombras naturales muy apreciadas durante las largas tardes. Es el destino ideal para familias que buscan seguridad, aguas cristalinas y un entorno paisajístico de gran valor estético para sus vacaciones. Más allá del alivio térmico, Cerdedo-Cotobade es una tierra que se debe comprender a través de la maestría de sus antiguos y talentosos canteros. Conocidos popularmente como “barrocos”, estos artesanos de la piedra recorrieron toda España dejando una huella imborrable de su ingenio y técnica constructiva. El legado arquitectónico es omnipresente, con iglesias románicas y barrocas que se alzan con orgullo entre la maleza y los claros del bosque. Destacan figuras legendarias como el maestro Cerviño, natural de Aguasantas, autor de algunos de los cruceros más famosos de toda la tierra gallega. La piedra de granito local ha sido moldeada durante siglos para levantar no solo templos, sino también puentes y viviendas de una belleza rústica única. Este vínculo con el material noble de la tierra se percibe en cada muro de mampostería y en cada sillar labrado que adorna sus aldeas típicas. El patrimonio etnográfico es una prueba del arraigo histórico y del protagonismo del trabajo manual de la piedra en esta rica comarca. Caminar por estas parroquias es realizar un viaje visual por el arte de la talla que define la identidad histórica de este rincón pontevedrés. Hórreos y puentes históricos Uno de los tesoros más característicos de este paisaje cultural son los hórreos o canastros, elementos esenciales para el secado y almacenaje del maíz. En el municipio se conservan algunas de las agrupaciones más espectaculares de Galicia, conocidas como eirados, que son auténticos monumentos al aire libre. La Eira da Hermida, con sus 21 hórreos en excelente estado de conservación, es un ejemplo magnífico de la arquitectura popular bien preservada. Otros conjuntos notables se encuentran en Pedre, con la Eira Grande, y en Cerdedo, con la Eira da Pena, donde los canastros rodean prados verdes. Estas aldeas típicas, como Filgueira o Serrapio, parecen haber detenido el tiempo, manteniendo sus techos de teja o pizarra y sus fachadas de piedra. Los puentes medievales y romanos que cruzan los ríos del municipio son hitos cargados de historia, leyenda y una funcionalidad que perdura a través de los siglos. El puente de San Antón, de origen románico, servía como paso obligado para los peregrinos que se dirigían con fe hacia la ciudad de Santiago de Compostela. Alrededor de estas estructuras de piedra han nacido mitos curiosos, como ritos de fertilidad vinculados a las aguas que fluyen bajo sus antiguos arcos. Otro ejemplo notable es el puente medieval de Pedre, cuyas piedras aún conservan las marcas de identidad de los canteros de la Terra de Montes. Estas construcciones unían monasterios y villas importantes, facilitando el comercio de productos tan preciados en la época como el vino del Ribeiro. Hoy en día, muchas de estas joyas arquitectónicas forman parte de rutas de senderismo como la de los Puentes del Lérez o la de los Tres Valles. Es, en conjunto, una invitación a sumergirse en lo más profundo de Galicia, allí donde los ríos Almofrei y Lérez dictan el ritmo pausado de los días."
-  },
-  {
-    "titulo": "Rescatan a un niño de ocho años tras encontrarlo sentado sobre un aire acondicionado en un piso 21 de Benidorm",
-    "medio": "El Mundo",
-    "fecha": 1785071366.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/alicante/2026/07/26/6a6605ece85ecea70f8b4594.html",
-    "resumen": "El menor, con trastorno del espectro autista, estaba solo en un apartamento turístico y su padre fue detenido al regresar al edificio Leer"
-  },
-  {
-    "titulo": "El 90% de los nutrientes que afectan al Mar Menor proceden de la recirculación subterránea de sedimentos",
-    "medio": "El Español",
-    "fecha": 1785071185.0,
-    "link": "https://www.elespanol.com/espana/murcia/20260726/nutrientes-afectan-mar-menor-proceden-recirculacion-subterranea-sedimentos/1003744320438_0.html",
-    "resumen": "Un estudio de la Universidad Autónoma de Barcelona cuestiona las actuales estrategias de restauración del ecosistema de la laguna.Más información: La recuperación del Mar Menor: un proceso \"largo y muy complejo\" que tardará décadas"
-  },
-  {
     "titulo": "La frase de Chimamanda Ngozi Adichie que explica por qué todos interpretamos un papel: \"El problema del género es que prescribe cómo debemos ser...\"",
     "medio": "Trendencias",
     "fecha": 1785070827.0,
     "link": "https://www.trendencias.com/feminismo/frase-chimamanda-ngozi-adichie-que-explica-que-todos-interpretamos-papel-problema-genero-que-prescribe-como-debemos-ser",
     "resumen": "Una de las reflexiones más conocidas de la escritora nigeriana Chimamanda Ngozi Adichie la pronunció durante célebre conferencia TEDxEuston en 2012. Aunque dos años más tarde también quedó recogida en 'Todos deberíamos ser feministas', un ensayo breve que rápido se convirtió en una de las puertas de entrada al feminismo para millones de personas. \"El problema del género es que prescribe cómo debemos ser, en vez de reconocer cómo somos\". Desde entonces, esta frase ha sido compartida hasta la saciedad en redes sociales y artículos de opinión. Sin embargo, no siempre se conoce elcontexto en el que fue pronunciada cuando es precisamente ahí donde adquiere toda su fuerza. No habla de hombres contra mujeres, sino de las expectativas que nos limitan a ambos. Cuando Adichie habla del \"problema del género\" no se refiere al hecho de que existan hombres y mujeres. Su crítica va dirigida a los roles de género: ese conjunto de normas, muchas veces invisibles, que la sociedad asigna a cada persona simplemente por el sexo que se le haya asignado al nacer. Desde la infancia aprendemos, casi sin darnos cuenta, qué emociones podemos expresar, qué aficiones parecen apropiadas, cómo debemos vestirnos o incluso cuál debería ser nuestra forma de amar, trabajar o formar una familia. No son leyes escritas en ninguna parte, pero funcionan como si lo fueran y se transmite como un gas inodoro que se respira. La escritora plantea una idea sencilla y profundamente incómoda: en lugar de observar cómo es realmente cada persona y permitir que se desarrolle su personalidad sin condicionamientos, el género intenta encajarla en un molde previamente diseñado. La historia de una mujer que fingía ser quien no era Uno de los momentos más reveladores de 'Todos deberíamos ser feministas' llega cuando Adichie cuenta la historia de una amiga que detestaba las tareas domésticas. Sin embargo, había aprendido que una mujer debía mostrarse como una excelente ama de casa si quería encontrar pareja y casarse. Así que fingía. Fingía disfrutar cocinando, limpiando y ocupándose del hogar porque entendía que aquello aumentaba sus posibilidades de ser considerada una \"buena mujer\". El problema apareció después de la boda. Cuando dejó de interpretar ese papel, la familia de su marido no tardó en acusarla de haber cambiado. Pero, como señala Adichie, no había cambiado en absoluto. Simplemente había dejado de representar un personaje que nunca había sido ella. La anécdota puede parecer anecdótica, pero resume un fenómeno mucho más amplio como es la presión de adaptarnos a aquello que los demás esperan de nosotros, aunque para conseguirlo tengamos que ocultar las partes más importantes de nuestra personalidad. El coste invisible de interpretar un papel durante toda la vida La reflexión de Adichie también arroja luz sobre algo de lo que se habla menos: el enorme desgaste que supone vivir intentando cumplir las expectativas ajenas. Durante siglos, muchas mujeres aprendieron que debían ser discretas antes que brillantes, agradables antes que sinceras, comprensivas antes que ambiciosas... Mostrar enfado podía resultar inaceptable; expresar deseo, una falta de decoro; decir que no, un acto de egoísmo. Pero la autora amplía el análisis y recuerda que estas normas también condicionan a los hombres. A muchos se les enseña desde pequeños que no deben llorar, pedir ayuda o mostrar vulnerabilidad porque esas actitudes no encajan con la idea tradicional de masculinidad. El resultado es una sociedad en la que todos, en mayor o menor medida, terminan interpretando un papel. Ser quienes somos en lugar de quienes se espera que seamos La frase concluye con una invitación que sigue resultando igual de vigente más de una década después. Si el problema no son las diferencias entre las personas, sino las expectativas rígidas que imponemos sobre ellas, la solución pasa por permitir que cada uno pueda construir su propia identidad sin sentirse penalizado por ello. Adichie imagina un mundo donde nadie tenga que fingir para ser aceptado; donde una mujer no deba aparentar ser más dócil para resultar deseable, ni un hombre esconder su sensibilidad para parecer fuerte. Un lugar donde las personas puedan descubrir quiénes son antes de preocuparse por si encajan o no en aquello que la sociedad esperaba de ellas. Así que nos encanta que esta frase sigw compartiéndose tantos años después. Porque incluso más allá del debate sobre feminismo, habla de una experiencia universal, la de el deseo de vivir sin tener que pedir permiso para ser uno mismo. Foto de portada | Fronteirasweb En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos En Xataka | Ciudades llenas de casas vacías y vecinos incapaces de encontrar vivienda: llegan las ciudades de \"las persianas bajadas\" En Xataka | \"Sinceramente, una obra maestra\": con puntuación de 4.1 sobre 5, es la mejor película de fantasía de 2025 y también la mejor de Gerard Butler - La noticia La frase de Chimamanda Ngozi Adichie que explica por qué todos interpretamos un papel: \"El problema del género es que prescribe cómo debemos ser...\" fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
-    "titulo": "Irán afirma que un petrolero explotó al chocar con una mina en Ormuz tras desviarse de la ruta autorizada por Teherán",
-    "medio": "El Español",
-    "fecha": 1785070813.0,
-    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260726/iran-afirma-petrolero-exploto-chocar-mina-ormuz-desviarse-ruta-autorizada-teheran/1003744334525_0.html",
-    "resumen": "El Gobierno iraní no ha emitido ningún comunicado oficial sobre el alcance de los daños, la identidad del buque o la existencia de posibles víctimas.Más información: Irán ya no quiere negociar con Trump: rechaza la última propuesta de EEUU y reclama el control de Ormuz"
   },
   {
     "titulo": "Esta brutal película de terror ya está en HBO Max y apenas se estrenó este año",
@@ -609,20 +672,6 @@
     "resumen": "Adelanta un Plan de Recuperación de Carreteras afectadas y 300.000 kilos de forraje para abastecer a las explotaciones ganaderas afectadas por los incendios"
   },
   {
-    "titulo": "Ayuso rompe a llorar y pide “no enfrentar a los pueblos”: “No empiecen con guerras, la gente no se lo merece”",
-    "medio": "El Español",
-    "fecha": 1785069760.0,
-    "link": "https://www.elespanol.com/madrid/comunidad/20260726/ayuso-rompe-llorar-pide-no-enfrentar-pueblos-empiecen-guerras-gente-merece/1003744334521_0.html",
-    "resumen": "La presidenta regional ha mandado un mensaje de ánimo y acompañamiento a los alcaldes: “Son víctimas de esta situación y todos están haciendo lo mejor que pueden su trabajo”.Más información: Francisco Marcos, el jefe de la UME y compañero del Rey curtido en Bosnia y la dana que combate el fuego en Madrid"
-  },
-  {
-    "titulo": "Irán y Omán \"avanzan\" en los diálogos sobre el tránsito por Ormuz mientras EEUU pone en pausa a los ataques",
-    "medio": "eldiario.es",
-    "fecha": 1785069716.0,
-    "link": "https://www.eldiario.es/internacional/iran-oman-avanzan-dialogos-transito-ormuz-eeuu-pone-pausa-ataques_1_13407891.html",
-    "resumen": "El Ministerio de Exteriores iraní ha asegurado que las conversaciones entre ambos países \"fueron útiles\", mientras que Washington mantiene el bloqueo naval pese a haber parado los bombardeos para dar margen a los esfuerzos diplomáticosTrump intensifica la ofensiva en Irán y redobla su guerra comercial con el mundo a costa del bienestar de sus ciudadanos Irán ha asegurado este domingo que ha habido avances en las conversaciones con Omán sobre la gestión del estrecho de Ormuz, en medio de la tensión con Estados Unidos tras la ruptura de la tregua y mientras el Parlamento iraní estudia una ley para reforzar el control sobre ese estratégico paso marítimo. El portavoz del Ministerio de Exteriores iraní, Esmail Baghaei, ha informado de que viceministros de Exteriores de Irán y Omán mantuvieron varias rondas de conversaciones el viernes y el sábado en Teherán para abordar “los principios comunes y los mecanismos operativos para gestionar el tránsito seguro de la navegación en el estrecho de Ormuz, respetando los derechos soberanos de los dos Estados ribereños”. “Las conversaciones fueron útiles y se lograron avances”, ha asegurado Baghaei, quien ha añadido que la delegación omaní abandonó Teherán el sábado por la tarde, aunque las consultas técnicas y políticas entre ambos países continúan. El portavoz ha dicho, además, que no se ha producido ningún cambio en la situación del tránsito marítimo por el estrecho. Los dos países comparten el control de las aguas del estrecho de Ormuz, el paso marítimo estratégico que conecta el golfo Pérsico con el golfo de Omán y por el que transitaba aproximadamente una quinta parte del petróleo comercializado en el mundo antes del inicio de la guerra. El Gobierno de Estados Unidos, por su parte, aseguró el sábado que mantiene el bloqueo naval contra Irán, pese a la pausa temporal en los bombardeos ordenada por el presidente Donald Trump para dar margen a los esfuerzos diplomáticos. El anuncio coincide con informaciones publicadas este sábado por medios estadounidenses e israelíes que señalan que Trump ordenó el viernes suspender nuevos bombardeos contra Irán, al interrumpir casi dos semanas consecutivas de ataques para facilitar una posible salida diplomática al conflicto. Como otra señal de distensión en la región, Catar anunció este sábado que reanudará desde el domingo toda la navegación marítima para embarcaciones civiles, suspendida durante más de diez días por la escalada del conflicto. Regular la navegación Las conversaciones entre Irán y Omán se producen mientras ambos países buscan mecanismos para regular la navegación tras las restricciones impuestas por la Guardia Revolucionaria iraní al tráfico marítimo en la zona. A finales de junio, Omán, con el respaldo de Estados Unidos, puso en marcha un corredor marítimo temporal exento de tasas para facilitar el tránsito por el estrecho. Pero Irán respondió atacando a las embarcaciones que utilizaban esa ruta, lo que llevó a Washington a intensificar sus bombardeos sobre territorio iraní. En medio de la escalada, Teherán volvió a declarar cerrado el estrecho de Ormuz el 5 de julio y Estados Unidos restableció el bloqueo naval sobre puertos y buques iraníes en la zona, una medida que había sido suspendida tras el memorando de entendimiento alcanzado por ambas partes a mediados de junio."
-  },
-  {
     "titulo": "El Rey destaca la \"coordinación ejemplar\" frente a los incendios: \"Unidos se puede afrontar cualquier riesgo\"",
     "medio": "Expansión",
     "fecha": 1785069594.0,
@@ -630,32 +679,11 @@
     "resumen": "Los incendios en Ávila, Madrid y Toledo calcinan ya 77.000 hectáreas, con un perímetro total de 280 kilómetros, según ha informado la secretaria general de Protección Civil, Virginia Barcones. Leer"
   },
   {
-    "titulo": "Netanyahu busca el apoyo de Trump para frenar y desmantelar la CPI antes de su inminente viaje a EEUU",
-    "medio": "El Español",
-    "fecha": 1785069333.0,
-    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260726/netanyahu-busca-apoyo-trump-frenar-desmantelar-cpi-inminente-viaje-eeuu/1003744334510_0.html",
-    "resumen": "Zohran Mamdani ha tenido que admitir que la administración municipal de Nueva York carece de la autoridad para aplicar mandatos de la CPI.Más información: El alcalde de Nueva York desata el caos: pide a Trump que arreste a Netanyahu cuando entre en Estados Unidos"
-  },
-  {
-    "titulo": "El fuego a 15 kilómetros de Burdeos: 98.000 hectáreas quemadas, 220.000 evacuados y una \"situación desfavorable\"",
-    "medio": "El Español",
-    "fecha": 1785069096.0,
-    "link": "https://www.elespanol.com/mundo/europa/20260726/fuego-kilometros-burdeos-hectareas-quemadas-evacuados-situacion-desfavorable/1003744334505_0.html",
-    "resumen": "El incendio de Gironda amenaza esta ciudad francesa, pero su evacuación no se contempla —aunque sí la de algunos municipios de sus afueras—.Más información: Francia vive su peor ola de incendios: casi 98.000 hectáreas quemadas y 200.000 personas evacuadas"
-  },
-  {
     "titulo": "Ottawa Has Stuck By the Charity Behind the Nazi Gaffe",
     "medio": "Jacobin ES",
     "fecha": 1785069000.0,
     "link": "https://jacobin.com/2026/07/canada-victims-communism-memorial-nazis",
     "resumen": "Canada’s Victims of Communism monument included proposed honorees from the Waffen-SS, the Ustaša, and the Ukrainian Insurgent Army. The charity that supplied the names is still helping shape the memorial’s next phase."
-  },
-  {
-    "titulo": "Luis de la Fuente, en el polideportivo de Marazuela para acompañar a los desalojados: \"Es mi obligación estar aquí para animar a la gente, sintiéndonos partícipes de su dolor\"",
-    "medio": "El Mundo",
-    "fecha": 1785068558.0,
-    "link": "https://www.elmundo.es/espana/2026/07/26/6a65ecdae4d4d8fe3e8b4575.html",
-    "resumen": "El seleccionador ha querido mandar un mensaje de ánimo a todos los afectados por los incendios. \"Tienen el apoyo de todo un país\" Leer"
   },
   {
     "titulo": "The Spirits Club desembarca en España",
@@ -714,11 +742,11 @@
     "resumen": "\"Simplemente me sonaba bien\". Así de simple y sencillo y resumía Jim Reekes el sonido de arranque de los Mac que él ideó. Para crearlo usó un Korg Wavestation A/D, un sintetizador polifónico inventado por Joe Bryan y convertido en un instrumento icónico durante los 90. Con los años hicieron distintas pruebas, con otro sonido de arranque —o \"chime\"— compuesto por el prestigioso Stanley Jordan, guitarrista de jazz. Sin embargo, el canónico chime de Reekes se quedaría tal cual: sonó por primera vez en el sistema Quadra 700 que Apple presentó en 1991, se convertiría en icono a partir de los Power Macintosh 5200 LC y perdura en los actuales MacBook, Mac Studio y Mac Pro de todo el mundo. Es todo un símbolo clavado en nuestra memoria. Una patente en Si bemol Mayor Tal y como recuerda Jim Reekes, ingeniero de sonido de Apple durante abril de 1988 hasta febrero de 1999, creador también de parte del código de Quicktime, este sonido era el resultado de varios cientos de iteraciones: “El sonido de arranque fue creado en el estudio de mi casa con un Korg Wavestation. Simplemente me sonaba bien. Quería algo realmente amplio, con un fuerte bajo, notas altas y un ataque duro. Una parte del sonido era de flautas andinas y algo como un golpe con un palo (estoy poniendo a prueba mi memoria). Quería montones de timbres evolucionando, en estéreo y reverberación para aumentar la riqueza. Los maqueros están muy familiarizados con el sonido a causa de reiniciar sus máquinas a menudo. De hecho, ese era uno de los problemas que tenía en mente cuando diseñé el sonido. Encender el Mac es una cosa, pero verse obligado a reiniciar después de un cuelgue es una experiencia totalmente diferente. Quería evitar un sonido que pudiese asociarse con el cuelgue\" Como puede verse en la imagen de patente, el \"chime\" de Apple está debidamente registrado y no puede usarse en otro equipo u ordenador como alarma de arranque. Aunque Jim Reekes ha dicho en varias entrevistas que este era un acorde de Do Mayor, estamos ante un acorde de Sol bemol Mayor, sol, re, sol, si, re. Este es el oficialmente patentado. También llama la atención de la imagen algo extraño: la patente está registrada en afinación antigua, no en la actual, que suele estar a 440 o 442 Hertzios, lo que transmite una sensación de que todas las notas suenan aproximadamente un cuarto de tono más bajas. Un acorde, finalmente, entre lo heroico y lo alegre, transmitiendo cierta calma, cierta anticipación de algo importante que vendrá. Para qué sirve el sonido de arranque del Mac Pero como sabrá cualquier usuario de Mac, el sonido que escupen al iniciarse es un aviso importantísimo, ya que es el check de verificación auditivo que confirma buenas noticias. Literalmente, ese sonido significa que la bios ha verificado todos los componentes de hardware del sistema y dice que funcionan de forma correcta. En Applesfera El origen de los nombres en macOS y por qué Apple abandonó los nombres de felinos por parajes de California Si no suena tal cual significa que se está produciendo algún tipo de fallo. Puede ser un fallo de estado, dando a entender que algún componente de la placa base, RAM. procesador están fallando. Sonará igualmente si falla el disco duro, los periféricos conectados, el monitor o incluso el ventilador, ya que la verificación solo presta atención a lo más esencial. Sin embargo, si el disco duro no recibe corriente o si está dañado, un mensaje nos alertará de este problema. En Applesfera | Nuevo macOS 27 Golden Gate: fecha de lanzamiento, novedades, Mac compatibles y más información En Applesfera | Nuevo MacBook Pro táctil con pantalla OLED - Todo lo que creemos saber sobre el próximo portátil profesional de Apple - La noticia De dónde procede el sonido de arranque de los Mac. Es el \"chime\" más útil que existe fue publicada originalmente en Applesfera por Isra Fdez Álvaro García M. ."
   },
   {
-    "titulo": "Cinco errores que comete ‘La Odisea’ en su adaptación",
-    "medio": "Hipertextual",
-    "fecha": 1785063600.0,
-    "link": "https://hipertextual.com/cine-television/cinco-errores-que-comete-la-odisea-en-su-adaptacion/",
-    "resumen": "A menos que vivas bajo una piedra, lo sabes. La Odisea de Christopher Nolan se convirtió en un inmediato y rotundo éxito. No solo de crítica, en la que logró más de 90 % de reseñas positivas en el agregador Rotten Tomatoes. También de audiencia, que le brindó una A en CinemaScore y más de un […] Seguir leyendo: Cinco errores que comete ‘La Odisea’ en su adaptación"
+    "titulo": "El incendio de Vall d'Uixó sigue \"fuera de control\" y afecta ya a 4.300 hectáreas",
+    "medio": "Europa Press",
+    "fecha": 1785063348.0,
+    "link": "https://www.europapress.es/comunitat-valenciana/noticia-incendio-vall-duixo-sigue-fuera-control-afecta-ya-4300-hectareas-20260726125548.html",
+    "resumen": "El incendio declarado este sábado en la localidad castellonense de la Vall d'Uixó sigue \"fuera de control\" y afecta ya, de acuerdo a la estimación inicial, a más 4.300 hectáreas tras duplicar durante la noche su perímetro, que llega a unos 40 kilómetros."
   },
   {
     "titulo": "El Gobierno declarará zonas gravemente afectadas las áreas dañadas por los incendios",
@@ -756,20 +784,6 @@
     "resumen": "Si hay un tipo de vestido de los que hacen armario cápsula veraniego (con permiso de los vestidos con estampado floral y los vestidos blancos), son sin duda los vestidos de punto calados. Da igual que sean de crochet, pointelle o de cualquier otro punto, lo que importa es que inspiren ese toque artesanal que tan bien queda con unas alpargatas o un bolso capazo. Justo así es este vestido pointelle de Cortefiel: un diseño bicolor que grita verano por sus cuatro costados. Semientallado, con cuello halter y un versátil largo midi que quedará fenomenal tanto si lo combinamos con sandalias planas como si lo hacemos con mules de tacón o con unas alpargatas de cuña. Springfield El cuello halter consigue alargar la figura de modo que la estiliza, y el diseño bicolor en blanco y negro lo vuelve diferente a los tan vistos monocolor. El bajo va rematado con una cenefa en ondas, que acaba de poner la guinda al aire artesanal, y que lo hace perfecto para ser combinado con un bolso trenzado marrón chocolate y unas sandalias de tiras. Cómo combinar este vestido de punto calado de Cortefiel Parfois Para elevar aún más nuestro outfit nos quedamos con este bolso estilo tote troquelado de Parfois al que no le falta ni un toque dorado para mayor glow up. Ideal para usar en el día a día tanto por estilo como por capacidad, ahora es nuestro en El Corte Inglés por 25,99 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @mariellehaon | Cortefiel, El Corte Inglés En Trendencias | Cómo combinar unas sandalias doradas | Look elegante, casual y de sport En DAP| Expertos jardineros coinciden: “Regar tus plantas a las tres de la tarde es como echarles un cubo de agua hirviendo por encima” En 3DJuegos| Solo ha logrado 6,4 millones de reproducciones en 4 días, pero aún así tendremos otra temporada del nuevo wéstern de Netflix - La noticia Springfield liquida el vestido efecto tipazo que además sublima el bronceado para lucir como nunca este verano fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
-    "titulo": "El colapso de la Steam Deck: por qué la consola portátil más deseada se desploma en ventas",
-    "medio": "Hipertextual",
-    "fecha": 1785060000.0,
-    "link": "https://hipertextual.com/videojuegos/steam-deck-hunde-ventas-que-esta-pasando/",
-    "resumen": "Desde su llegada al mercado, la Steam Deck se convirtió en el modelo de referencia dentro del mercado de las consolas portátiles. Pese a no ser el inventor del factor de forma, Valve madrugó a varios fabricantes con un dispositivo de fácil traslado capaz de ejecutar un vasto catálogo de juegos de PC. Todo esto, […] Seguir leyendo: El colapso de la Steam Deck: por qué la consola portátil más deseada se desploma en ventas"
-  },
-  {
-    "titulo": "Las autoridades alemanas buscan a un sospechoso de \"espectro islamista\" por el atropello múltiple en Berlín",
-    "medio": "Expansión",
-    "fecha": 1785056866.0,
-    "link": "https://www.expansion.com/sociedad/2026/07/26/6a65cd7ee5fdea84328b4592.html",
-    "resumen": "El autor del atropello múltiple en el Día del Orgullo LGBTI en Berlín este sábado, que dejó un muerto y 16 personas heridas, tres de ellas en estado crítico, es simpatizante del grupo yihadista Estado Islámico (EI), informaron este domingo varios medios locales, entre ellos 'Der Spiegel' y 'Bild'. Leer"
-  },
-  {
     "titulo": "Las nuevas New Balance noventeras que adoran las nórdicas porque son minimalistas y atemporales",
     "medio": "Trendencias",
     "fecha": 1785056427.0,
@@ -782,13 +796,6 @@
     "fecha": 1785056427.0,
     "link": "https://www.applesfera.com/iphone/ios-27-promete-mejorar-consumo-adaptativo-bateria-iphone-asi-funciona",
     "resumen": "Con iOS 26 se nos prometió un nuevo modo de ahorro de batería que no terminó por erradicar los problemas de rendimiento que tenía esta versión. Se llamó \"modo de consumo adaptativo\" y con iOS 27 se ha mejorado el algoritmo que lo impulsa. Y ahora sí, tenemos un modo con el que llegar al final del día con más autonomía. Lo he estado probado desde que salió la primera beta de iOS 27 y debo hacer una advertencia: al ser una beta, la autonomía suele ser menor que en una versión estable. Es por ello por lo que no es una prueba que pueda ser aplicable a cuando se lance esta versión en septiembre. No obstante, dada mi experiencia puedo decir que tiene muy buena pinta. Sigue habiendo limitación por modelos de iPhone Aunque no se anuncia el modo de consumo adaptativo como una función de Apple Intelligence, esta funcionalidad tiene idénticos requisitos en cuanto a hardware, razón por la cual solamente los dispositivos recientes pueden ejecutarla. iPhone 15 Pro y 15 Pro Max.iPhone 16e.iPhone 16 y 16 Plus.iPhone 16 Pro y 16 Pro Max.iPhone 17e.iPhone 17.iPhone Air.iPhone 17 Pro y 17 Pro Max. La teoría del nuevo modo adaptativo Este modo se encuentra donde ya estaba con iOS 26, en la ruta de Ajustes > Batería > Modo de consumo > Consumo adaptativo. En ese panel verás que también aparece una opción llamada Avisos de consumo adaptativo, la cual sirve para que lleguen notificaciones cada vez que este modo actúe, aunque se puede desactivar y seguirá funcionando igual. La esencia de este modo es la misma que la de iOS 26, solo que se han mejorado los algoritmos que detectan el elevado consumo y actúan en consecuencia. A modo recordatorio, decir que con este ajuste el iPhone es capaz de detectar cuándo el consumo energético es superior al habitual y aplicar automáticamente pequeños ajustes para reducirlo. En Applesfera Cómo calibrar la batería del iPhone: un hábito de gran importancia para asegurarte un mejor rendimiento Por ejemplo, si detecta que la pantalla está consumiendo demasiada batería y el brillo está alto, se reducirá automáticamente. También tiene capacidad para desactivar la conexión a redes 5G y pasar a una 4G. Otro ejemplo es el de limitar la actividad de las apps en segundo plano retrasando sincronizaciones o actualizaciones no urgentes. La diferencia respecto al clásico modo de bajo consumo es precisamente esa. No se trata de una función que limite de forma agresiva y permanente el rendimiento o desactive características del iPhone, sino de un sistema que interviene únicamente cuando detecta que el consumo se está disparando. Si la situación vuelve a la normalidad, deja de aplicar esas medidas, buscando siempre el equilibrio entre autonomía y experiencia de uso. La realidad de tener activado este ajuste Notificación de consumo adaptativo Como decía, no puedo valorar la autonomía de iOS 27 estando en una beta, aunque ya hay evidencias de la mejora de rendimiento general. No obstante, comparando la beta con este ajuste activo y sin él, puedo dar fe de que actúa mucho más que cuando estaba iOS 26 y lo hace mejor. Con iOS 26 reconozco que terminé por desactivar este modo porque no hacía gran cosa. En las betas de iOS 27 he podido comprobar que cuando el consumo se eleva, actúa (me llega la notificación). Y además lo hace de forma correcta, ya que ayuda a llegar al final del día con más batería. No voy a exagerar diciendo que me dura horas y horas de más, pero alrededor de 30-40 minutos más de media sí he llegado a experimentar. Puede que no parezca mucho, pero es un tiempo vital cuando estamos fuera de casa y no tenemos el enchufe a mano. Por tanto, en conjunto con el mejor rendimiento general de iOS 27, anticipo que esta versión será la definitiva para el iPhone en cuanto a tener un sistema estable. Es lo que ya debería ser siempre, pero que por desgracia no tuvimos con la actualización anterior. En Applesfera | Cómo instalar una beta de iOS 27 en el iPhone: paso a paso para hacerlo de una manera segura y oficial En Applesfera | Cuánta batería tiene el iPhone: modelos y cantidad de mAh en cada uno - La noticia iOS 27 mejora el consumo adaptativo de batería del iPhone. Lo he probado y así es cómo funciona fue publicada originalmente en Applesfera por Álvaro García M. ."
-  },
-  {
-    "titulo": "Esta es la calle más bonita de toda España, pero los turistas no lo saben y se van a Madrid o Barcelona",
-    "medio": "Trendencias",
-    "fecha": 1785052827.0,
-    "link": "https://www.trendencias.com/viajes/esta-calle-bonita-toda-espana-turistas-no-saben-se-van-a-madrid-barcelona-1",
-    "resumen": "Sabemos que Madrid tiene unas avenidas monumentales, de esas que no tienen nada que envidiar a las parisinas. Por no hablar de Barcelona y sus paseos idílicos, como la del Consell de Cent. Pero ninguna de ellas hace la competencia a esta calle albaceteña, la más bonita de toda España. Del imponente Paseo del Prado a los pasadizos adoquinados y laberínticos de los pueblos medievales, en España hay calles increíbles. Pero la más fascinante está en Albacete y coge su inspiración de las antiguas galerías comerciales italianas como la Galleria Vittorio Emanuele II de Milán. Se llama Pasaje de Lodares y es uno de los ejemplos más bonitos de arquitectura modernista y neorrenacentista del siglo XX de nuestro país. Este callejón fue construido por el arquitecto Buenaventura Ferrando Castells en 1925 y declarado Bien de Interés Cultural en 1996. Está ubicado en el centro de la ciudad, entre las calles Tinte y Mayor. El Pasaje de Lodares es uno de los rincones más elegantes de Castilla-La Mancha, con ese techado de hierro forjado y cristal que permite escapar de la lluvia sin perder la luz natural. Recubre sus 90 metros de largo y sus cuatro pisos de alto, todo ello sujeto sobre columnas y arcos decorados con esculturas de figuras femeninas, relieves florales y capiteles refinados de estilo modernista y neobarroco. En su interior alberga viviendas para unos pocos afortunados, que pueden presumir de vivir en la calle más bella de España. También tiene comercios de todo tipo, desde moda hasta souvenirs para los turistas curiosos que se acercan a descubrir este distinguido callejón. Pero su tesoro escondido más sorprendente apenas mide unos centímetros y es toda una leyenda entre los locales. La leyenda del Pasaje de Lodares Escondido en la fachada, junto a una de las columnas de entrada al pasaje desde la Calle Mayor, hay un clavo dorado y grueso que relaciona el callejón con la masonería y las fuerzas telúricas. Se le conoce como el Clavo Mágico y su origen y utilidad son absolutamente desconocidos, ya que es el único de toda la calle. Algunos expertos lo encuadran dentro de la masonería, afirmando que un maestro masón lo clavó ahí para conectar las obras con las fuerzas telúricas de la naturaleza, con las fuerzas del subsuelo, para que emanara la energía y que irrigara a todo el edificio de buena suerte y todo saliera bien. No hay confirmación de que esta leyenda sea cierta. Pero no cabe duda de que los albaceteños lo consideran un símbolo de buena fortuna, ya que se ha convertido en un lugar emblemático al que acudir para frotar boletos de lotería, apuntes y otros enseres personales para impregnarlas de buena suerte. Fotos | Wikipedia Commons, Turismo Castilla-La Mancha, Cultura Castilla-La Mancha. X de @TomasSmar. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En DAP | Los expertos en aire acondicionado están de acuerdo: “El agua del aire acondicionado es agua destilada que puede servir para el jardín o el hogar”En DAP | José Andrés, chef: “En España usamos tomates pera, pero merece la pena experimentar, prueba en el gazpacho un amarillo o un Green Zebra” - La noticia Esta es la calle más bonita de toda España, pero los turistas no lo saben y se van a Madrid o Barcelona fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
     "titulo": "La UME da por contenidos todos los frentes de la sierra oeste de Madrid, con el fuego en Castellón aún sin control",
