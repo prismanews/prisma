@@ -1,10 +1,157 @@
 [
   {
+    "titulo": "El ejército de Estados Unidos afirma haber interceptado misiles lanzados por Irán",
+    "medio": "El Mundo",
+    "fecha": 1785280819.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/29/6a693905fc6c8359568b456e.html",
+    "resumen": "El Centcom ha confirmado que \"todos los misiles iraníes han sido interceptados con éxito\" Leer"
+  },
+  {
+    "titulo": "Los hombres fuertes de Keiko, más allá del fujimorismo",
+    "medio": "El Mundo",
+    "fecha": 1785280427.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/29/6a68e990fdddfffa3e8b4592.html",
+    "resumen": "Elige con especial cuidado a sus tres principales ministros, en un intento de dotar a su primer gabinete de un peso político lo suficientemente fuerte como para evitar los constantes cambios de la pasada legislatura Leer"
+  },
+  {
+    "titulo": "Los jóvenes inmigrantes impulsan la tasa de actividad entre extranjeros 13 puntos por encima de la española: el 70% están en disposición de trabajar",
+    "medio": "El Mundo",
+    "fecha": 1785280426.0,
+    "link": "https://www.elmundo.es/economia/2026/07/29/6a6866c8e85ecead088b4576.html",
+    "resumen": "De los más de 510.000 empleos creados en el último año, 388.000 los ocuparon personas de otros países Leer"
+  },
+  {
+    "titulo": "El riesgo de cáncer que esconde la carne procesada por cada aumento de 30 gramos: hasta un 13% más de tumores digestivos",
+    "medio": "El Mundo",
+    "fecha": 1785280425.0,
+    "link": "https://www.elmundo.es/salud/2026/07/29/6a68af69e4d4d8f71f8b4593.html",
+    "resumen": "Un estudio español pone el foco en los embutidos y las salchichas y vincula el aumento en el consumo diario de carne procesada con un mayor riesgo de desarrollar alteraciones en el sistema digestivo Leer"
+  },
+  {
+    "titulo": "Un turista holandés muere al volcar una barca en las cataratas de Iguazú",
+    "medio": "El País",
+    "fecha": 1785279031.0,
+    "link": "https://elpais.com/america/2026-07-28/un-turista-holandes-muere-al-volcar-una-barca-en-las-cataratas-de-iguazu.html",
+    "resumen": "El joven de 26 años realizaba una popular excursión en la zona donde rompen las cataratas cuando la barcaza volcó con sus ocho ocupantes a bordo"
+  },
+  {
+    "titulo": "Volver a empezar: entre el dolor y la esperanza en el regreso a casa tras la amenaza del fuego",
+    "medio": "La Vanguardia",
+    "fecha": 1785278006.0,
+    "link": "https://www.lavanguardia.com/vida/20260729/11603365/dolor-regreso-casa-volver-empezar.html",
+    "resumen": "Interior deja entrar en 13 pueblos de Madrid y Ávila y desconfina seis municipios"
+  },
+  {
+    "titulo": "El progresismo no es lo que era",
+    "medio": "La Vanguardia",
+    "fecha": 1785277800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11602683/progresismo.html",
+    "resumen": "Los barceloneses más jóvenes pierden interés por la libertad, la igualdad o el feminismo"
+  },
+  {
+    "titulo": "Gritar no es convencer",
+    "medio": "La Vanguardia",
+    "fecha": 1785277800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11602692/gritar-convencer.html",
+    "resumen": "La ironía inteligente es más eficaz que el insulto asilvestrado que observamos en el Congreso"
+  },
+  {
+    "titulo": "Disparar palabras con la honda",
+    "medio": "La Vanguardia",
+    "fecha": 1785277800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11602780/disparar-palabras-honda.html",
+    "resumen": "Porrazos contra palabras, violencia contra familias que reclaman derechos básicos"
+  },
+  {
+    "titulo": "Campamentos en la ola de calor",
+    "medio": "La Vanguardia",
+    "fecha": 1785277800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11602391/campamentos-ola-calor.html",
+    "resumen": "En un municipio de menos de 300 habitantes había 600 chavales acampados"
+  },
+  {
+    "titulo": "Sobran conejos y faltan manos",
+    "medio": "La Vanguardia",
+    "fecha": 1785277800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11602974/sobran-conejos-faltan-manos.html",
+    "resumen": "La Generalitat declara otra guerra, esta vez contra los conejos, ‘vermutaires’ y rijosos"
+  },
+  {
+    "titulo": "Los 10 vestidos de Zara y Mango que mejor sientan a las de 40 y 50",
+    "medio": "El Mundo",
+    "fecha": 1785277077.0,
+    "link": "https://www.elmundo.es/yodona/moda/2026/07/29/6a633b75e9cf4aea358b4585.html",
+    "resumen": "En la colección de Zara y Mango encontrarás los vestidos que mejor sientan no sólo a los 40, sino que también son favorecedores a partir de los 50. Te encantarán. Leer"
+  },
+  {
+    "titulo": "Chicles en las cortinas, robos y metros malgastados. Por qué hay marcas que han cerrado los probadores de sus tiendas",
+    "medio": "El Mundo",
+    "fecha": 1785277065.0,
+    "link": "https://www.elmundo.es/yodona/moda/2026/07/29/6a686f0f21efa030368b4598.html",
+    "resumen": "Conocidas firmas como Sainsbury's o Brandy Melville cierran los probadores con evidentes fines económicos y provocando un descontento generalizado entre su clientela. ¿Estamos ante el fin de algo tan social y necesario como el probador tradicional? Leer"
+  },
+  {
+    "titulo": "50 años del libro que inventó la autoayuda moderna: todo en lo que Wayne W. Dyer acertó (y aquello en lo que se equivocó) en 'Tus zonas erróneas'",
+    "medio": "El Mundo",
+    "fecha": 1785277064.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/07/29/6a68733a21efa07c6b8b4575.html",
+    "resumen": "Más de 35 millones de ejemplares vendidos avalan 'Tus zonas erróneas' como uno de los grandes hitos de la literatura de autoayuda de todos los tiempos. Alabada y criticada a partes iguales, examinamos la obra al hilo de su reedición 50 años después. ¿En qué acertó y en qué se equivocó su polémico autor, Wayne W. Dyer? Leer"
+  },
+  {
+    "titulo": "Kilgore, el tuitero que le gusta a tu padre: \"No hay estrategia, se trata de no hacer los mismos chistes de Carrero Blanco y Rajoy de hace 10 años\"",
+    "medio": "El Mundo",
+    "fecha": 1785276813.0,
+    "link": "https://www.elmundo.es/papel/lideres/2026/07/29/6a63b4f621efa01f108b45bc.html",
+    "resumen": "Se llama Gonzalo, tiene 29 años y es el Cervantes del meme. Ajusta cuentas en Twitter. Dirige Línea de cal. Dignifica lo cuñao. Es el autor de la canción del Mundial: ‘¿Dónde cojones está Curaçao?’ Seguro que le reenviaron el vídeo del Rey, Rubiales, Laporta, Zapatero, Ábalos y Koldo apareciendo en la final del Mundial. Lo hizo él Leer"
+  },
+  {
+    "titulo": "La censura india vuelve a atacar: habrá una escena en ‘Spider-Man: Brand New Day’ que no se podrá ver",
+    "medio": "OK Diario",
+    "fecha": 1785276720.0,
+    "link": "https://okdiario.com/cool/television/censura-india-vuelve-atacar-habra-escena-spider-man-brand-new-day-que-no-podra-verse-19086335",
+    "resumen": "Aunque las películas de Spider-Man suelen considerarse muy familiares y aptas para todos los públicos, hay países en los que no se permite emitir ciertos tipos de escenas. Como ya pasó en la última aventura de Superman, la censura india ha hecho modificaciones dentro de la película protagonizada por Tom Holland y Zendaya para que … Continuar leyendo \"La censura india vuelve a atacar: habrá una escena en ‘Spider-Man: Brand New Day’ que no se podrá ver\""
+  },
+  {
+    "titulo": "¿Cabezada o desmayo?",
+    "medio": "La Vanguardia",
+    "fecha": 1785276600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260729/11603192/cabezada-desmayo.html",
+    "resumen": "“¿Qué pasa? ¿Alguien se encuentra mal?”. “Nada, nada, un malentendido”"
+  },
+  {
+    "titulo": "El bar que ofrecía cerveza gratis cuando muriera Trump recibe un duro golpe inesperado",
+    "medio": "HuffPost",
+    "fecha": 1785276423.0,
+    "link": "https://www.huffingtonpost.es/virales/el-bar-ofrecia-cerveza-gratis-muriera-trump-recibe-duro-golpe-inesperado-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "“En Nicaragua, si un joven lee mis poemas, la policía le arresta”",
+    "medio": "La Vanguardia",
+    "fecha": 1785276300.0,
+    "link": "https://www.lavanguardia.com/lacontra/20260729/11603082/william-gonzalez-guevara-nicaragua-joven-lee-mis-poemas-policia-le-arresta.html",
+    "resumen": "Tengo 25 años. Nací en Managua (Nicaragua) y vivo en Madrid desde los 11 años. Soy poeta, y periodista y filólogo. Estoy soltero y sin hijos. ¿Política? Democracia y c ultura para todos, sin olvidar a los marginados. ¿Creencias? Católico. Escribo y leo poesía. La sangre de Ortega correrá. (Foto: Jesús Hellín / STUDIOMEDIA19)"
+  },
+  {
+    "titulo": "La futura torre más alta del mundo ha vuelto a crecer. Su mayor obstáculo no estaba en el hormigón",
+    "medio": "Xataka",
+    "fecha": 1785275915.0,
+    "link": "https://www.xataka.com/ingenieria-y-megaconstrucciones/futura-torre-alta-mundo-ha-vuelto-a-crecer-su-mayor-obstaculo-no-estaba-hormigon",
+    "resumen": "Arabia Saudí y Emiratos Árabes Unidos compartieron durante años una agenda regional y una relación especialmente estrecha entre sus dirigentes. Con el tiempo, esa cooperación empezó a convivir con una rivalidad cada vez más visible: ambos compiten por atraer inversión, ganar influencia regional y desarrollar economías menos dependientes del crudo. Si queremos observar esa carrera sin acudir a cifras macroeconómicas, basta con mirar sus horizontes urbanos. El Burj Khalifa convirtió a Dubái en la referencia mundial; en la costa saudí comenzó a levantarse un proyecto llamado a superar esa marca. Ese proyecto es Jeddah Tower y, después de años detenida, ha vuelto a ganar altura. El nuevo contrato para completar la construcción se firmó el 2 de octubre de 2024, pero el regreso de las obras empezó a verse también sobre el terreno cuando la estructura superó oficialmente las 100 plantas y los 400 metros el 20 de abril de 2026. La actualización más reciente de Thornton Tomasetti, publicada el 18 de junio, la situaba ya cerca de la planta 104. La obra avanza de nuevo; lo que toca entender ahora es por qué dejó de hacerlo durante tanto tiempo. El hormigón no era el único problema de la obraLa escala ayuda a entender por qué el proyecto parecía capaz de atascarse por razones puramente técnicas. Jeddah Tower fue diseñada para superar el kilómetro de altura y alcanzar 157 plantas, dejando atrás los 828 metros del Burj Khalifa. Para sostenerla, los ingenieros plantearon una losa de cimentación de cinco metros de espesor apoyada sobre 270 pilotes, algunos hundidos hasta 105 metros. Por encima, una red de muros de hormigón interconectados debe repartir las cargas del edificio y limitar los efectos del viento sin recurrir a una estructura convencional de columnas y grandes vigas. Estado de las obras de la Jeddah Tower en mayo de 2026 El proyecto había comenzado mucho antes de que Arabia Saudí presentara Vision 2030. La torre fue anunciada en 2011 y las obras arrancaron en 2013 con una ambición clara: levantar en Yeda el edificio más alto del mundo y convertirlo en el centro de un nuevo desarrollo urbano. Durante su primera etapa, la estructura alcanzó 63 de las 157 plantas previstas antes de quedar detenida. Su reactivación puede leerse ahora en el contexto de la diversificación saudí, pero el proyecto fue concebido cinco años antes de que el reino presentara su gran programa de transformación económica. Estado de las obras de la Jeddah Tower en mayo de 2026 El parón llegó en medio de una crisis empresarial y financiera que afectó a dos actores fundamentales del proyecto. En 2017, la campaña anticorrupción saudí llevó a la detención de Alwaleed bin Talal, vinculado al promotor a través de Kingdom Holding, y de Bakr bin Laden, entonces presidente de Saudi Binladin Group. El contratista atravesaba además dificultades económicas y la construcción terminó detenida en 2018. Estado de las obras de la Jeddah Tower en mayo de 2026 El regreso necesitó algo más que nuevos anuncios y calendarios sobre el papel. La finalización del rascacielos volvió a quedar en manos de Saudi Binladin Group, el mismo contratista que había participado en su primera etapa, con un plazo previsto de 42 meses. Si se cumple sin nuevos retrasos, las obras deberían terminar alrededor de abril de 2028, aunque todavía no existe una fecha firme de apertura. La prueba decisiva llegó después: el ritmo de construcción se mantuvo durante todo el 2025 y lo que va 2026. Tras años de incertidumbre, el proyecto ha vuelto a ponerse en marcha. En Xataka Durante siglos, los marineros de todo el mundo morían de escorbuto. Todos menos los vascos Volver a crecer no significa estar cerca de terminar. Aunque el revestimiento de la fachada y las primeras instalaciones mecánicas, eléctricas y de fontanería ya están en marcha, todavía queda completar buena parte de esos trabajos, además de los ascensores, los sistemas de seguridad, los acabados y todas las pruebas necesarias antes de abrir el edificio. Hasta entonces, el Burj Khalifa seguirá conservando oficialmente el récord mundial. Arabia Saudí ya ha demostrado que puede devolver la torre a la actividad; el siguiente desafío será mantener la financiación y terminar la obra. Imágenes | Thornton Tomasetti | Saudi Binladin Group En Xataka | En Italia se las prometían felices con un nuevo anfiteatro romano del siglo IV. Hasta que se descubrió que era un \"fake\" de hormigón - La noticia La futura torre más alta del mundo ha vuelto a crecer. Su mayor obstáculo no estaba en el hormigón fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
     "titulo": "Google Maps resuelve un fallo que podía meterte en un embotellamiento",
     "medio": "Hipertextual",
     "fecha": 1785274980.0,
     "link": "https://hipertextual.com/internet/bug-google-maps-colores-demoras-embotellamientos-trafico/",
     "resumen": "Google ha resuelto un molesto fallo de Maps que podía meterte de lleno en un embotellamiento. A comienzos de semana, usuarios de la aplicación detectaron que había dejado de mostrar los habituales colores con los que informa de demoras, obras en construcción, calles cortadas o desvíos. El problema no parecía estar en la obtención de […] Seguir leyendo: Google Maps resuelve un fallo que podía meterte en un embotellamiento"
+  },
+  {
+    "titulo": "Ferrovial gana 258 millones hasta junio, un 52,2% menos por extraordinarios",
+    "medio": "Expansión",
+    "fecha": 1785274536.0,
+    "link": "https://www.expansion.com/empresas/2026/07/28/6a6920a6e5fdea4d728b45b8.html",
+    "resumen": "Elevó un 5,2% los ingresos y su ebitda ajustado creció un 13,9% en términos interanuales. Leer"
   },
   {
     "titulo": "El Gobierno nombra nuevos embajadores en Letonia, Ucrania, Panamá y Serbia",
@@ -84,39 +231,11 @@
     "resumen": "Consulta si has sido premiado en el sorteo del Euromillones de hoy"
   },
   {
-    "titulo": "Última hora de los incendios forestales, en directo | Marlaska anuncia que en las últimas 24 horas “no ha habido ningún avance del fuego” en el incendio de Ávila y Madrid",
-    "medio": "El País",
-    "fecha": 1785270623.0,
-    "link": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html",
-    "resumen": "Los incendios dan una tregua: los vecinos de 15 municipios de Madrid y Ávila vuelven a sus casas | Unos 10.000 habitantes de Castellón y 6.000 de Toledo también regresan a sus hogares"
-  },
-  {
-    "titulo": "Holaluz presenta alegaciones contra el expediente de inhabilitación del Gobierno",
-    "medio": "La Vanguardia",
-    "fecha": 1785270484.0,
-    "link": "https://www.lavanguardia.com/dinero/20260728/11603193/holaluz-presenta-alegaciones-expediente-inhabilitacion-gobierno.html",
-    "resumen": "La compañía considera que no concurre ninguna causa para paralizar su actividad como comercializadora"
-  },
-  {
-    "titulo": "Jódar salda cuentas con Fils en Washington tras la derrota en el Godó",
-    "medio": "La Vanguardia",
-    "fecha": 1785270109.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20260728/11603188/jodar-salda-cuentas-fils-washington-derrota-godo.html",
-    "resumen": "El talento español se impone al francés por 7-6(5) y 6-3 en 1 hora y 52 minutos"
-  },
-  {
     "titulo": "Bonoloto: comprobar el resultado del martes, 28 de julio de 2026",
     "medio": "The Objective",
     "fecha": 1785270071.0,
     "link": "https://theobjective.com/loterias/2026-07-28/bonoloto-martes-28-julio-2026/",
     "resumen": "En THE OBJECTIVE desvelamos la combinación ganadora de este martes"
-  },
-  {
-    "titulo": "Emoción en la vuelta a casa tras el incendio",
-    "medio": "La Vanguardia",
-    "fecha": 1785269883.0,
-    "link": "https://www.lavanguardia.com/vida/20260728/11603179/emocion-vuelta-casa-incendio.html",
-    "resumen": "Los vecinos de los dieciocho municipios descubren con dolor los destrozos causados por las llamas en viviendas, vehículos y en el entorno natural"
   },
   {
     "titulo": "Un hombre mata a su pareja a puñaladas en una vivienda de Barcelona y se da a la fuga",
@@ -133,25 +252,11 @@
     "resumen": ""
   },
   {
-    "titulo": "El Madrid golea al Leganés con Valverde en el campo y Dumfries en la grada",
-    "medio": "La Vanguardia",
-    "fecha": 1785269701.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260728/11603185/madrid-golea-leganes-valverde-campo-dumfries-grada.html",
-    "resumen": "El uruguayo, Gonzalo, Mastantuono y Pulido marcaron para el conjunto local, mientras que Naim anotó el único tanto visitante"
-  },
-  {
     "titulo": "Trump desdeña el TMEC: “Es importante para México y para Canadá. No para nosotros”",
     "medio": "El País",
     "fecha": 1785269663.0,
     "link": "https://elpais.com/internacional/2026-07-28/trump-desdena-el-tmec-es-importante-para-mexico-y-para-canada-no-para-nosotros.html",
     "resumen": "El presidente estadounidense menosprecia el tratado comercial en plenas negociaciones para su revisión"
-  },
-  {
-    "titulo": "La ansiada vuelta a casa de los desalojados: \"Estaba llegando y me temblaban las piernas. La finca la daba por quemada, pero la casa... pensaba que no\"",
-    "medio": "El Mundo",
-    "fecha": 1785269581.0,
-    "link": "https://www.elmundo.es/espana/2026/07/28/6a69074e21efa05b648b45ac.html",
-    "resumen": "La mayor evacuación de población de nuestra historia deja relatos de desolación y de esperanza. \"Ahora estamos en un pozo, pero veremos la luz\", dice Conchi Leer"
   },
   {
     "titulo": "Un velista intenta rodear el Ártico solo y sin escalas: \"No puedes dormir cuando vas solo, porque si golpeas el hielo, morirás\"",
@@ -166,13 +271,6 @@
     "fecha": 1785269325.0,
     "link": "https://okdiario.com/sucesos/asesinada-cuchilladas-mujer-34-anos-manos-pareja-sus-dos-hijos-menores-barcelona-19086034",
     "resumen": "Una mujer de 34 años ha sido asesinada a puñaladas por su pareja en su domicilio de Barcelona, han informado los Mossos d’Esquadra este martes. El presunto autor de la agresión se ha dado a la fuga tras apuñalar a la mujer en presencia de sus dos hijos en una vivienda de la calle Andrade, … Continuar leyendo \"Asesinada a cuchilladas una mujer de 34 años a manos de su pareja ante sus dos hijos menores en Barcelona\""
-  },
-  {
-    "titulo": "El Rey anima, en Perú, la asistencia a la Cumbre Iberoamericana de Madrid",
-    "medio": "La Vanguardia",
-    "fecha": 1785269096.0,
-    "link": "https://www.lavanguardia.com/politica/20260728/11603182/rey-anima-peru-asistencia-cumbre-iberoamericana-madrid.html",
-    "resumen": "Felipe VI viaja a Lima donde participa en la toma de posesión de Keiko Fujimori"
   },
   {
     "titulo": "Euromillones: comprobar sorteo del martes 28 de julio",
@@ -196,13 +294,6 @@
     "resumen": "En internet ya no basta con ver para creer. Entre vídeos generados por inteligencia artificial, recreaciones digitales y grabaciones recortadas, distinguir una máquina real de una fantasía se ha vuelto especialmente difícil cuando lo que aparece en pantalla parece un platillo volante. Eso es exactamente lo que ha ocurrido con un extraño vehículo chino que se ha viralizado en los últimos días. Su silueta invita a desconfiar, pero esta vez contamos con algo más sólido que una sucesión de imágenes compartidas sin contexto. El aparato es el EFC1200, un eVTOL desarrollado por la empresa china E-Hawk Technology. Completó su primer vuelo en julio de 2025 y, según la información publicada por el Gobierno de Wuhan el 2 de marzo de 2026, ya había acumulado más de 130 vuelos de prueba. Su existencia tampoco depende de grabaciones de origen incierto:contamos con una fotografía difundida por el Gobierno municipal y con un vídeo de vuelo publicado por la propia compañía. Eso confirma que la aeronave existe y vuela. Ocho ventiladores ocultos explican su aspecto de OVNI Su peculiar silueta empieza a entenderse cuando miramos dónde están los rotores. En lugar de dejarlos expuestos alrededor de la cabina, como ocurre en muchos eVTOL, la compañía ha encerrado ocho ventiladores de conducto dentro de una estructura continua y los ha distribuido entre los cuatro extremos del vehículo. Ese planteamiento elimina los brazos y las hélices visibles y convierte prácticamente todo el fuselaje en una gran plataforma de propulsión. Su aspecto futurista no es, por tanto, un simple reclamo visual, sino una consecuencia directa de esa arquitectura. '' El problema que E-Hawk pretende resolver aparece cuando trasladamos estas aeronaves al entorno urbano. La empresa sostiene que las hélices expuestas pueden golpear fachadas, balcones o esquinas y que las corrientes generadas por un helicóptero dificultan el vuelo estacionario junto a los edificios. Su propuesta consiste en proteger la propulsión dentro del fuselaje para reducir esos riesgos y ganar margen en espacios estrechos. Según el fabricante, el EFC1200 puede despegar y aterrizar en unos 30 m², aproximarse a muros y maniobrar entre construcciones. Para moverse, el vehículo regula por separado la potencia de sus ocho ventiladores. E-Hawk explica que, al volar junto a una fachada, reduce el empuje del lado más próximo y lo aumenta en el opuesto para conservar una distancia estable respecto al edificio. La compañía atribuye a cada unidad unos 150 kgf de empuje y sitúa en 1,2 toneladas el peso máximo al despegue. También anuncia una carga útil de hasta 450 kg, más de 20 minutos de vuelo y una configuración proyectada para cuatro ocupantes. Capturas de la red social Weibo donde se aprecia el eVTOL de E-HAWK en diversos eventos Las imágenes publicadas en Weibo, la gran red social china de microblogging que suele compararse con X, añaden otra pieza, pero no cierran todas las dudas. En ellas aparece una unidad expuesta con una cabina de cuatro asientos y un amplio acristalamiento. Hubei Daily explicó que el modelo mostrado el 24 de febrero de 2026 incorporaba cambios en el fuselaje y una actualización del interior respecto a una prueba anterior. Las fuentes, sin embargo, no aclaran si esa configuración concreta fue la que voló ni qué equipamiento llevaba la aeronave utilizada en los ensayos. Que el EFC1200 exista y pueda volar no significa que ya sea un taxi aéreo comercial. La propia empresa reconoce que todavía debe obtener las autorizaciones necesarias antes de emplearlo en servicios de turismo o transporte de pasajeros. El modelo chino que sí ha completado la cadena de certificaciones de aeronavegabilidad y operación es otro: el EH216-S de EHang. Dos operadores recibieron sus certificados de operador aéreo el 28 de marzo de 2025, aunque de momento siguen realizando operaciones internas de prueba y preparando la venta de billetes. En Xataka Una startup ha creado una máquina que fabrica gasolina con aire, agua y electricidad. Es su apuesta para salvar al motor de combustión El EFC1200 forma parte de una apuesta industrial mucho más amplia. China incluyó en 2024 la economía de baja altitud entre sus nuevos motores de crecimiento, y E-Hawk imagina este vehículo trabajando junto a edificios, transportando mercancías, apoyando rescates o desplazando pasajeros. Por ahora, todos esos usos pertenecen a una fase futura. El prototipo ya ha resuelto la pregunta más llamativa, porque existe y vuela, pero aún tiene por delante la más difícil: demostrar que puede hacerlo con seguridad y en una operación comercial viable. Imágenes | E-HAWK | 长江云官方微博 (Weibo) En Xataka | China ya vive una fiebre por las caravanas eléctricas ultratecnológicas y el motivo es sencillo: son mejores que las de combustión - La noticia Esta aeronave china parece un OVNI, pero no es CGI: ya vuela y su diseño tiene una explicación muy concreta fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
-    "titulo": "Christian Gálvez volverá a ponerse al frente de 'El Rosco' para impulsar su salto a Estados Unidos",
-    "medio": "La Vanguardia",
-    "fecha": 1785268646.0,
-    "link": "https://www.lavanguardia.com/gente/20260728/11603168/christian-galvez-volvera-ponerse-frente-rosco-impulsar-salto-estados-unidos.html",
-    "resumen": "El presentador grabará en Los Ángeles dos programas piloto, uno en inglés y otro en español, con el objetivo de presentar el formato a cadenas estadounidenses"
-  },
-  {
     "titulo": "Eurojackpot: Comprobar resultados del sorteo del martes, 28 de julio de 2026",
     "medio": "The Objective",
     "fecha": 1785268645.0,
@@ -222,13 +313,6 @@
     "fecha": 1785268215.0,
     "link": "https://www.huffingtonpost.es/sociedad/los-incendios-dan-respiro-dias-criticos-comienzan-regresos-casa-mas-20000-personas-siguen-evacuadas-calor-mantiene-amenaza-f202607.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Keiko Fujimori toma posesión rodeada de presidentes latinoamericanos y llama a la reconciliación: \"No hay dos Perú distintos\"",
-    "medio": "El Mundo",
-    "fecha": 1785268109.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/28/6a68ffeefc6c83b90e8b4599.html",
-    "resumen": "El Rey de España y ocho mandatarios acuden a la investidura de la nueva líder peruana, que promete \"sanar las heridas de nuestro pueblo\" Leer"
   },
   {
     "titulo": "Israel ordena a su Ejército tomar el control de un cuarto campo de refugiados en Cisjordania",
@@ -259,11 +343,11 @@
     "resumen": "La polémica arbitral en torno a la selección argentina durante el Mundial sigue generando debate más de una semana después de la conclusión del torneo. La IFAB, organismo encargado de regir las reglas de juego del fútbol, emitió un comunicado este martes en el que señalaba que el colegiado del Argentina-Suiza de cuartos de final … Continuar leyendo \"El árbitro del Argentina-Suiza rompe su silencio y defiende la polémica expulsión de Embolo\""
   },
   {
-    "titulo": "Asesinada una mujer a manos de su pareja delante de al menos uno de sus hijos en su domicilio de Barcelona",
-    "medio": "El Mundo",
-    "fecha": 1785267443.0,
-    "link": "https://www.elmundo.es/cataluna/2026/07/28/6a6904f0fdddff57408b4590.html",
-    "resumen": "Los Mossos d'Esquadra han puesto en marcha un dispositivo para localizar al hombre, que ha huido en un coche que ha aparecido después quemado Leer"
+    "titulo": "Carrera contra el fuego en Ávila y Madrid: los vecinos de 15 municipios vuelven a sus casas",
+    "medio": "El País",
+    "fecha": 1785267598.0,
+    "link": "https://elpais.com/espana/2026-07-28/carrera-contra-el-fuego-en-avila-y-madrid-24-horas-criticas-antes-de-la-ola-de-calor.html",
+    "resumen": "En las últimas 24 horas, el incendio no ha avanzado y 6.000 habitantes de Toledo y 9.000 de Castellón, donde las llamas se han reavivado, también regresan a sus hogares"
   },
   {
     "titulo": "Adiós a Josep Vilarasau, el artífice del despegue de La Caixa",
@@ -273,18 +357,11 @@
     "resumen": "Leer"
   },
   {
-    "titulo": "El Gobierno indulta al ex alcalde socialista de Linares que llamó «babosas de dos patas» a los jueces que lo condenaron por corrupto",
+    "titulo": "El Gobierno también indulta al ex alcalde socialista de Linares que llamó «babosas de dos patas» a los jueces que lo condenaron por corrupto",
     "medio": "OK Diario",
     "fecha": 1785267087.0,
     "link": "https://okdiario.com/andalucia/gobierno-indulta-ex-alcalde-socialista-linares-que-llamo-babosas-dos-patas-jueces-que-lo-condenaron-corrupto-19085761",
-    "resumen": "El Consejo de Ministros del Gobierno de Pedro Sánchez ha concedido un indulto parcial al ex alcalde de Linares (Jaén), Juan Fernández Gutiérrez, histórico dirigente socialista que gobernó la ciudad entre 1999 y 2018 y que fue condenado a tres años de cárcel por cobrar más de 125.000 euros en sobresueldos ilegales. El ex regidor, … Continuar leyendo \"El Gobierno indulta al ex alcalde socialista de Linares que llamó «babosas de dos patas» a los jueces que lo condenaron por corrupto\""
-  },
-  {
-    "titulo": "Trump despide junto a Zelenski y Netanyahu al senador Graham, el “amigo” de Ucrania e Israel",
-    "medio": "La Vanguardia",
-    "fecha": 1785266457.0,
-    "link": "https://www.lavanguardia.com/internacional/20260728/11603177/trump-despide-zelenski-netanyahu-senador-graham-amigo-ucrania-e-israel.html",
-    "resumen": "El presidente recuerda en el funeral del republicano su espíritu belicista: “Os lo aseguro, nunca vio una guerra que no le gustara”"
+    "resumen": "El Consejo de Ministros del Gobierno de Pedro Sánchez ha concedido un indulto parcial al ex alcalde de Linares (Jaén), Juan Fernández Gutiérrez, histórico dirigente socialista que gobernó la ciudad entre 1999 y 2018 y que fue condenado a tres años de cárcel por cobrar más de 125.000 euros en sobresueldos ilegales. El ex regidor, … Continuar leyendo \"El Gobierno también indulta al ex alcalde socialista de Linares que llamó «babosas de dos patas» a los jueces que lo condenaron por corrupto\""
   },
   {
     "titulo": "El fuego de la Vall d'Uixó (Castellón) quema 10.000 ha y se alza el confinamiento La Vilavella, Betxí y casi toda Onda",
@@ -299,13 +376,6 @@
     "fecha": 1785266404.0,
     "link": "https://www.huffingtonpost.es/videos/el-cuento-prevencion-incendios-marta-flich-f202607.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Mata a su mujer ante sus dos hijos de cuatro y ocho años en Barcelona",
-    "medio": "La Vanguardia",
-    "fecha": 1785266176.0,
-    "link": "https://www.lavanguardia.com/vida/20260728/11603175/asesinada-mujer-manos-pareja-dos-hijos-barcelona.html",
-    "resumen": "De confirmarse este caso como un asesinato machista, serían 32 mujeres las víctimas mortales de la violencia de género en lo que va de año"
   },
   {
     "titulo": "El vocal de Sumar en el Poder Judicial defiende denunciar a Peinado por los delitos de revelación de datos reservados y prevaricación",
@@ -341,13 +411,6 @@
     "fecha": 1785265636.0,
     "link": "https://elpais.com/espana/catalunya/2026-07-28/muere-el-expresidente-de-la-caixa-josep-vilarasau.html",
     "resumen": "El actual presidente de honor de Fundación La Caixa estaba vinculado a la entidad desde 1976 y se le atribuye su primera gran expansión territorial"
-  },
-  {
-    "titulo": "Tira sus bolsas de basura junto a un contenedor, el alcalde rebusca en ellas, encuentra su dirección y se las devuelve a la puerta de casa: ahora se enfrenta a una multa de hasta 15.000 euros",
-    "medio": "HuffPost",
-    "fecha": 1785265530.0,
-    "link": "https://www.huffingtonpost.es/sociedad/tira-bolsas-basura-contenedor-alcalde-rebusca-encuentra-direccion-devuelve-puerta-casa-enfrenta-multa-15000-euros-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "Anthropic revela que Claude es capaz de romper el cifrado que protege a medio internet",
@@ -390,20 +453,6 @@
     "fecha": 1785265223.0,
     "link": "https://okdiario.com/tecnologia/whatsapp-no-deja-enviar-documentos-causas-solucion-19084778",
     "resumen": "Seguro que alguna vez te ha pasado, así que antes de asumir que algo va mal en WhatsApp conviene descartar lo obvio. La app no tiene un botón de «enviar documento» independiente del resto de funciones, así que si el envío falla, casi siempre es un problema de conexión, de peso del archivo, de espacio … Continuar leyendo \"WhatsApp no me deja enviar documentos: causas y solución\""
-  },
-  {
-    "titulo": "Sánchez viajará a La Mareta este sábado y dedicará sus vacaciones a bucear en Puerto Calero",
-    "medio": "OK Diario",
-    "fecha": 1785265198.0,
-    "link": "https://okdiario.com/espana/sanchez-viajara-mareta-este-sabado-dedicara-sus-vacaciones-bucear-puerto-calero-19084960",
-    "resumen": "Pedro Sánchez viajará al Palacio La Mareta este sábado 1 de agosto y dedicará sus vacaciones a bucear en Puerto Calero, un exclusivo puerto deportivo ubicado a 25 kilómetros de la residencia presidencial en el que hay atracados barcos de lujo. El presidente del Gobierno está a punto de iniciar sus vacaciones de verano. Este … Continuar leyendo \"Sánchez viajará a La Mareta este sábado y dedicará sus vacaciones a bucear en Puerto Calero\""
-  },
-  {
-    "titulo": "Laporta se recupera de una arritmia",
-    "medio": "El País",
-    "fecha": 1785264940.0,
-    "link": "https://elpais.com/deportes/futbol/2026-07-28/laporta-se-recupera-de-una-arritmia.html",
-    "resumen": "El presidente del Barça no viajará a Inglaterra para acompañar al equipo en la estadía de pretemporada"
   },
   {
     "titulo": "La Complutense pide que Begoña Gómez y su asesora devuelvan más de 100.000 euros por un presunto delito de malversación",
@@ -455,13 +504,6 @@
     "resumen": "La hija y heredera política del fallecido expresidente Alberto Fujimori asume el poder, casi 26 años después de que su padre dimitiese por un gran escándalo de corrupción y fuese condenado posteriormente por crímenes de lesa humanidadEl fujimorismo vuelve a gobernar Perú y reaviva el fantasma del autoritarismo: “Es una coalición mafiosa” La nueva presidenta de Perú, la derechista Keiko Fujimori, ha tomado posesión este martes, después de haberse impuesto al izquierdista Roberto Sánchez en las elecciones del pasado junio por menos de 50.000 votos, retomando así el camino iniciado por su polémico padre, el difunto Alberto Fujimori, que gobernó entre 1990 y el 2000. Fujimori, administradora de empresas de ascendencia japonesa, es la primera mujer en ser elegida jefa de Estado en Perú y todo indica que cuenta con el suficiente respaldo en el Parlamento para poder completar su mandato de cinco años (2026-2031). La nueva mandataria busca acabar con la inestabilidad que ha marcado la vida política del país en la última década, con una serie de destituciones presidenciales promovidas desde el Legislativo –la mayoría, con los votos del fujimorismo–. Este martes, Fujimori se ha convertido en la novena presidenta que asume el mando de Perú en diez años, después de unas elecciones que no estuvieron exentas de polémica. Tras varias semanas de recuento, Keiko Fujimori (Fuerza Popular) se impuso a Roberto Sánchez (Juntos por el Perú) por menos de 50.000 papeletas, según los datos oficiales de la Oficina Nacional de Procesos Electorales (ONPE). Si bien el izquierdista ganó dentro de Perú, Fujimori se hizo con la presidencia gracias al apoyo de los peruanos residentes en otros países. La mujer ha perseverado hasta este momento, con la esperanza de llegar al poder, tras heber perdido de forma consecutiva tres elecciones presidenciales en la segunda vuelta (las de 2011, 2016 y 2021), y haber pasado cerca de año y medio en prisión preventiva entre 2018 y 2020 (imputada por presunto lavado de dinero en la financiación irregular de sus campañas electorales). El rey Felipe VI ha viajado a Perú para asistir a la toma de posesión de Fujimori, así como otros jefes de Estado y de Gobierno, entre los que se encuentran los presidentes de Argentina, Javier Milei; Chile, José Antonio Kast; Ecuador, Daniel Noboa; Honduras, Nasry Asfura, y Paraguay, Santiago Peña. Desde España, también ha viajado el presidente del PP, Alberto Núñez Feijóo, para la toma de posesión de la nueva presidenta, con la que se reunió bilateralmente el lunes, a su llegada a Lima, según Europa Press. La sombra de su padre Desde principios de siglo, la hija mayor y heredera política del exmandatario asumió las riendas del fujimorismo con el propósito de recuperar el poder y limpiar el nombre de su padre, que fue condenado a 25 años de cárcel por delitos de lesa humanidad, además de otros cargos por diversos casos de corrupción. Alberto Fujimori (1938-2024) abandonó el poder en el año 2000, pocos meses tras su victoria en las elecciones que le otorgó un tercer mandato consecutivo. Después de que una serie de grabaciones revelaran sobornos de su asesor Vladimiro Montesinos a figuras políticas, empresariales y mediáticas peruanas, el escándalo hizo que huyera del país a Japón. Sin embargo, su caída no supuso el fin del fujimorismo. La politóloga y analista Eliana Carlín explicó a elDiario.es que la corriente política abierta por Fujimori solo se debilitó durante unos años tras la fuga del mandatario. “Las figuras emblemáticas del fujimorismo siguieron siendo parte del ecosistema político del país, especialmente Keiko Fujimori desde el año 2011”, señaló tras la victoria de la hija mayor del expresidente. “En las cuatro campañas electorales en las que ha pasado a segunda vuelta ha habido un despliegue enorme de recursos económicos que vienen de los empresarios y de los poderes fácticos, aliados tradicionales de su padre”. Fujimori no tiene una trayectoria política intachable y carga con el legado de su padre, que llegó a la presidencia por la vía electoral, pero se ganó con los años, dentro y fuera de Perú, el calificativo de “dictador” por la acumulación de poder y los delitos de lesa humanidad, cometidos en el marco de la lucha que emprendió contra los grupos guerrilleros Sendero Luminoso y MRTA. Tras ser detenido y extraditado a Perú desde Chile en 2005, la justicia peruana le condenó a una pena de 25 años de prisión que, sin embargo, no cumplió porque en 2017 recibió un indulto humanitario. Con información de EFE"
   },
   {
-    "titulo": "El Gobierno indulta la pena de prisión a la dirigente independentista Laura Borràs, ex presidenta del parlamento catalán",
-    "medio": "El Mundo",
-    "fecha": 1785262976.0,
-    "link": "https://www.elmundo.es/espana/2026/07/28/6a68f310fdddffd0678b4590.html",
-    "resumen": "Acuerdo del Consejo de Ministros antes de las vacaciones de verano. Se le mantiene la inhabilitación para cuatro años Leer"
-  },
-  {
     "titulo": "Mahmood Mamdani Examines Ugandan Authoritarianism",
     "medio": "Jacobin ES",
     "fecha": 1785262524.0,
@@ -511,13 +553,6 @@
     "resumen": "Cuando el calor aprieta mantener las ventanas abiertas es arriesgarse a que se cuelen moscas y mosquitos. Muchas evitamos recurrir continuamente a insecticidas, que no solo dejan un olor bastante desagradable, también sobrecargan el ambiente, por eso, agradecemos a Lidl que nos proporcione una solución tan sencilla y económica, como práctica. Se trata de una mosquitera de fácil instalación para las ventanas de casa tan barata que está a punto de agotarse, por 3,99 euros. Una aliada que se puede abrir y cerrar siempre que queramos con un sencillo sistema de velcros y nos permite disfrutar de la ventilación cuando queramos, sin dejar la ventana completamente desprotegida. Lidl Instalarla no es nada complicado ya que es adhesiva y viene con las herramientas necesarias para hacerlo, sin tener que recurrir al taladro, cosa que las que vivimos de alquiler agradecemos porque podemos proteger nuestras ventanas de mosquitos, pero sin ver peligrar nuestra fianza. Además, está diseñada para resistir a los rayos UV y al aire, disponible en dos colores: blanco y negro. Este último también nos proporciona un extra de protección contra la luz para las que buscan bajar la intensidad y de paso, contribuir a mantener más fresca la habitación. Un hallazgo tan barato que no parece real. Si te quedas sin la mosquitera de Lidl, tres alternativas similaresNota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @paulaordovas, Lidl En Trendencias | Los mejores aires acondicionados portátiles para un verano más fresco | ¿Cuál comprar? Consejos y recomendaciones En Xataka | La psicología dice que las personas que dan las gracias a los conductores al cruzar la calle no lo hacen solo por gratitud En Xataka | Durante siglos, los marineros de todo el mundo morían de escorbuto. Todos menos los vascos - La noticia Adiós a los insecticidas: Lidl tiene una mosquitera flexible, discreta y fácil de instalar por menos de 4 euros fue publicada originalmente en Trendencias por María Barba ."
   },
   {
-    "titulo": "Una goleada al Leganés y el saludo de Mourinho a la prensa: el Madrid cambia las grandes giras por los mini-derbis en Valdebebas",
-    "medio": "El Mundo",
-    "fecha": 1785261544.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/07/28/6a68e53be85ece12238b45b3.html",
-    "resumen": "Los grandes estadios de EEUU han sido sustituidos por partidos de entrenamiento en la ciudad deportiva del club blanco. Este martes se impuso (4-1) al conjunto del sur de la capital Leer"
-  },
-  {
     "titulo": "Alemania y los fantasmas de una ultraderecha que ya no asustan: el canciller Merz no quiere pactos con ella, pero sus socios sí",
     "medio": "El Español",
     "fecha": 1785261516.0,
@@ -544,13 +579,6 @@
     "fecha": 1785260700.0,
     "link": "https://www.elespanol.com/madrid/comunidad/20260728/incendios-espana-hoy-en-directo-ultima-hora-carreteras-cortadas-fuegos-activos-madrid-toledo-vall-duixo/1003744335990_10.html",
     "resumen": "Los incendios forestales registrados en Madrid, Ávila y Toledo han provocado ya la destrucción de cerca de 80.000 hectáreas y han afectado a más de 90.000 personas."
-  },
-  {
-    "titulo": "Trump recibe a Zelenski con sonrisas y a Netanyahu con advertencias",
-    "medio": "El Mundo",
-    "fecha": 1785260434.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/28/6a68e0e3fdddff2c208b458f.html",
-    "resumen": "El presidente ucraniano pasa de apestado a \"héroe\" en la Casa Blanca mientras la paciencia de Trump con el primer ministro israelí se agota tras las tensiones en Gaza e Irán en una jornada marcada por el adiós a Lindsey Graham Leer"
   },
   {
     "titulo": "Ni para recalificar terrenos ni para poner placas solares: los grandes bulos sobre los incendios que vuelven cada verano",
@@ -595,11 +623,11 @@
     "resumen": "No es lo mismo recibir una actualización con novedades que uno puede probar en el teléfono que otra donde los cambios van por dentro. Estas últimas son las aburridas, esas que dejas para al final y que solo instalas cuando te cansas de ver la notificación. Paradójicamente, las importantes suelen ser estas últimas, porque son las que arreglan los problemas del teléfono. Es el caso de la reciente actualización liberada por Apple. Un parche para corregir serias amenazas. El reciente iOS 26.6 (y versiones de otros dispositivos) está ya en plena distribución para los iPhone compatibles. En el aviso de actualización, Apple subraya que el software prepara el sistema de cara a iOS 27, aunque lo importante son los problemas que corrige. Entre ellos, 14 entradas dirigidas a una de las áreas más críticas del sistema: el kernel. Según consta en el listado de cambios liberado por Apple, la última actualización de seguridad corrige serias ventanas a la ejecución de código malicioso en los dispositivos. En total, son 78 entradas individuales de vulnerabilidad vinculadas a 87 registros CVE únicos. Hay más registros CVE que entradas porque algunas de ellas agrupan varias vulnerabilidades. iPhone 17 pro Max Una de las actualizaciones más importantes. Podría parecer que la 26.6, liberada para todas las familias de dispositivos de Apple, es una actualización menor, pero resulta todo lo contrario: no instalarla pone en riesgo el uso de nuestro dispositivo. Pese a que a Apple no le consta que ninguna de las vulnerabilidades se haya utilizado, de ser explotadas estas permitirían: Una imagen que ejecuta código sola. Los dispositivos permitían el procesado de imágenes manipuladas para ejecutar código arbitrario, sin que el usuario tocase nada. Algo similar a lo que NSO explotó en 2023 con BLASTPASS. CVE-2026-43818De aplicación corriente a control total. Un fallo daba privilegios de root a una app, otro, ejecución de código con privilegios de kernel. Una aplicación maliciosa podría hacerse con el control del dispositivo. CVE-2026-43723, CVE-2026-64747Saltarse el aislamiento entre apps. Game Center y libc permitían a una aplicación escapar de su entorno aislado de ejecución. Otro fallo burlaba la comprobación de firma de código, el mecanismo que impide ejecutar binarios no autorizados en iOS. CVE-2026-64740, CVE-2026-28973, CVE-2026-43813Contactos falsos para estafas telefónicas. Una app podía añadir contactos sin autorización. Por ejemplo, haría posible añadir el número falso de un banco a la agenda para que el usuario se confiase al recibir la llamada. CVE-2026-64746, CVE-2026-64734Burlar cortafuegos, VPN y control parental. Un atacante remoto podría saltarse los filtros de red del sistema. CVE-2026-64735Acceso a un iPhone bloqueado. Las vulnerabilidades permitirían acceder a información sensible del usuario, incluso cerca suyo: se podría corromper la memoria vía WiFi. CVE-2026-43753, CVE-2026-64726Rastreo publicitario sin conocimiento del usuario. Varios componentes permitían identificar de forma persistente al dueño del dispositivo para rastrearle sin que lo sepa. CVE-2026-64741, CVE-2026-64733, CVE-2026-64713Phishing con la interfaz del navegador falsificada. Los atacantes podrían aprovechar las vulnerabilidades descubiertas en WebKit para suplantar la interfaz de Safari. Esto permitiría imitar la web del banco para engañar al usuario y que deje sus claves en un formulario falso. CVE-2026-64730 En Xataka iOS 27 tiene una función que no apareció en la WWDC y es el mayor indicio de que el iPhone plegable es real Pese a los graves riesgos de todas las vulnerabilidades descubiertas, y parcheadas en la reciente actualización, hemos de subrayar que Apple no encontró pruebas de que se hayan aprovechado para acceder a los dispositivos. Pese a ello, el consejo está claro: actualizar no cuesta nada y puede evitar mucho. Aburrida, pero imprescindible. Viene sin la nueva Siri, sin cambios en la interfaz y, como mejora más allá de las correcciones de seguridad, iOS 26.6 y compañía preparan el indexado de Spotlight de cara a iOS 27. Aun así, esta actualización “aburrida” es la única que asegura el buen funcionamiento de los dispositivos. Que es justo el principal valor a proteger. Imagen de portada | Montaje con foto de Alejandro Alcolea y captura de Álvaro García En Xataka | La nueva Siri AI ya está aquí: dos años después y con la ayuda de Google, esto es lo que hace el asistente con IA de Apple - La noticia La actualización aburrida de Apple es precisamente la que conviene instalar: iOS 26.6 arregla 78 agujeros de seguridad fue publicada originalmente en Xataka por Iván Linares ."
   },
   {
-    "titulo": "Unitree tiene un perro-robot que se mueve a toda velocidad por terrenos que parecen imposibles. Su truco: patas con ruedas",
-    "medio": "Xataka",
+    "titulo": "La cuarta y última temporada de Silo ya tiene fecha para cerrar la historia sin (demasiada) espera",
+    "medio": "Applesfera",
     "fecha": 1785258096.0,
-    "link": "https://www.xataka.com/robotica-e-ia/unitree-tiene-perro-robot-que-se-mueve-a-toda-velocidad-terrenos-que-parecen-imposibles-su-truco-patas-ruedas",
-    "resumen": "Con el boom de los humanoides, parece que los robots cuadrúpedos han pasado a un segundo plano, pero Unitree acaba de demostrar que aún pueden dejarnos boquiabiertos. Durante este fin de semana se ha viralizado un vídeo de su último invento: un perro robot con ruedas atravesando terrenos por los que ningún otro robot podría moverse, y todo a una velocidad brutal. Se llama Unitree As2-W y lo que lo distingue de otros robots cuadrúpedos es que sus patas tienen ruedas. Esto le permite superar obstáculos con más facilidad y moverse muy rápido. Tanto, que la propia Unitree avisa de que el vídeo no está acelerado, sino que es la velocidad real. Hasta 6 metros por segundo y 30km de autonomíaMuchos de los comentarios en redes hacen referencia a la velocidad a la que se mueve. Un usuario en X dice \"Imagínate intentar escapar de esa cosa\", otro en YouTube comenta \"¡Ahora no podéis escapar de ellos, chicos!\". En concreto, el robot puede alcanzar una velocidad de 3,7 metros por segundo, aunque es capaz de llegar a picos de 6 metros por segundo. Esto equivale a 13,3 km/h con sprints de 21,6km/h, pero si tenemos en cuenta que en el vídeo se ve como desciende pendientes muy pronunciadas, la velocidad que alcanza es mucho mayor. Monta una batería de 15.000 mAh que le permite caminar sin parar durante 3 horas, lo que se traduce en una autonomía total de 30 km. En el caso de que el robot vaya cargado la autonomía se reduce a 2 horas continuas y unos 25 km. Hablando de peso, el robot pesa sólo 25 kg y es capaz de mover 16 kg de carga mientras camina, pero soporta hasta 150kg en estático. El secreto está en las ruedas (y su flexibilidad)A nivel diseño, el Unitree As2-W es igual que muchos de los perros robot que hemos visto, con la principal diferencia de que no tiene almohadillas en sus patas, sino ruedas. Estas ruedas tienen 7 pulgadas de diámetro lo que, combinado con el amplio rango de movimiento de sus articulaciones, le permite adaptarse a todo tipo de terrenos, llegando a superar obstáculos de 80 cm de altura y pendientes de 45º de inclinación. Sobre la flexibilidad de sus patas, su cuerpo puede girar entre -45º y 45º, el muslo entre -115° a 200° y el gemelo entre -159° y -47°. Son rangos amplios que le permiten plegar y extender la pata para absorber impactos tras caer de grandes alturas, adoptar posturas abiertas para escalar y recolocarse muy rápido tras un salto. Además de poder bajar montañas y atravesar ríos (tiene resistencia al agua IP54), en el vídeo también muestran cómo hace acrobacias porque claro, si no no sería Unitree. Unitree está haciendo con los robots lo mismo que DJI hizo con los drones: convertirse en algo inevitable Tu compañero de senderismo o tu peor pesadillaEn el vídeo, Unitree muestra que su nuevo robot es el compañero de senderismo perfecto que te lleva la mochila y se mantiene siempre a tu lado gracias a su sistema inteligente de seguimiento. Sin embargo, mientras Unitree nos lo vende como una especie de \"sherpa\", buena parte de los comentarios en redes apuntan hacia un uso muy distinto: su potencial en entornos militares. Uno de los comentarios con más 'me gusta' en YouTube dice \"Imagina a este perro persiguiéndote por la jungla con armas\", otro señala que \"Millones de soldados están replanteándose su vida después de ver esto\", junto a otros como el que bromea con una cacería humana o las menciones al episodio 'Metalhead' de Black Mirror. Son los comentarios típicos que suelen aparecer en vídeos de robots, pero no deja de ser llamativo cómo choca el marketing de la empresa con la interpretación que hacen las redes Imagen | Unitree En Xataka | Si tienes 500.000 euros sueltos, Unitree tiene un regalo para ti: un robot mecha tripulado de 500 kilos de peso - La noticia Unitree tiene un perro-robot que se mueve a toda velocidad por terrenos que parecen imposibles. Su truco: patas con ruedas fue publicada originalmente en Xataka por Amparo Babiloni ."
+    "link": "https://www.applesfera.com/apple-tv/cuarta-ultima-temporada-silo-tiene-fecha-para-cerrar-historia-demasiada-espera",
+    "resumen": "Estamos ahora mismo viviendo la tercera temporada de Silo y lleva un ritmo espectacular que no parece que vaya a bajar. Y para que no nos quedemos con ganas de más cuando esto termine, Apple ha hecho oficial la fecha del estreno de la cuarta y última temporada. La cuarta temporada de Silo llega en verano de 2027Así es, tal y como ha anunciado Apple en redes sociales la cuarta temporada de Silo llegará en verano de 2027. Eso sí, el verano da para bastante. Todavía se desconoce si será en junio, julio o agosto. Aunque ya sabemos que Apple no le tiene ningún miedo a estrenar en plena temporada veraniega. Ahí está Ted Lasso, que también se estrena este próximo cinco de agosto. Mientras tanto, la tercera temporada sigue soltando episodios cada semana hasta principios de septiembre, cuando llegue su capítulo final. Después, unos meses de espera hasta llegar al próximo verano. ¿Cómo han conseguido sacar dos temporadas tan rápido? Pues el equipo rodó la tercera y la cuarta prácticamente a la vez, con solo tres meses de diferencia entre ambos rodajes. Por lo que gran parte del trabajo ya esta hecho. Así preparan el cierre de todos los misterios Tanto Rebecca Ferguson como el creador de la serie coinciden en que esta última temporada llega para resolver todo lo que Silo lleva sembrando desde el principio. Y deja claro que no habrá cabos sueltos para una quinta temporada. Por que no va a llegar. Todo se acaba en la temporada cuatro. Rebecca admite que después de rodar las dos temporadas casi seguidas ya ni ella tiene del todo claro qué pasó en la tercera y qué en la cuarta. Parte de ese ritmo tan vivo que se nota viendo la tercera temporada. Algo muy diferente a lo que sucedió con la segunda. Mucho más pausada. Esto es porque la serie Silo adapta los libros de Hugh Howey, y estas dos últimas temporadas condensan dos libros a la vez. Mientras que la primera y segunda temporada solo se basaron en el primer tomo. Con la tercera temporada todavía deleitándonos cada viernes, y con la cuarta ya rodada de arriba abajo esperando su turno para el verano de 2027, a Silo le queda cuerda de sobra antes de cerrar del todo la historia. Toca disfrutar de lo que queda de esta tercera temporada, y esta vez con la tranquilidad de saber exactamente cuándo llega el final. En Applesfera | 'Silo', tercera temporada - capítulos, información y lo que se sabe de su renovación en Apple TV En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo - La noticia La cuarta y última temporada de Silo ya tiene fecha para cerrar la historia sin (demasiada) espera fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
     "titulo": "Stradivarius rebaja a menos de 10 euros el top con abalorios que mejor sienta con pantalones de lino",
@@ -607,13 +635,6 @@
     "fecha": 1785258096.0,
     "link": "https://www.trendencias.com/shopping/stradivarius-rebaja-a-10-euros-top-abalorios-que-mejor-sienta-pantalones-lino",
     "resumen": "Estamos en julio y ya vamos por la cuarta ola de calor, esto parece interminable y necesitamos encontrar la forma de vestir bien sin derretirnos. Para conseguirlo lo ideal es apostar por tejidos frescos como el lino y prendas ligeras, que nos permitan ir cómodas y estilosas. Una de las prendas que más incómodas resultan siempre, pero especialmente cuando las temperaturas se disparan, es el sujetador. No se vosotras pero yo cada vez lo llevo peor, por eso busco siempre tops que me permitan dejarlo atrás, como este divino de las rebajas de Stradivarius. Stradivarius El corte bajo el pecho y la estética de triángulos (como los bikinis) vienen de perlas para prescindir del sostén. Además, la espalda es tan favorecedora que apetece llevarla sin ningún tipo de opresión. Esto sumado al detalle de abalorios y los sutiles volantes lo convierten en el top fresquito y boho más buscado del verano por 25,99 9,99 euros. Cómo combinar el top de Stradivarius H&M Y para sacarle partido a esta joya oculta de las rebajas de Stradivarius, nada como un pantalón holgado en color blanco de lino. Un diseño con cintura ajustable cómodo y fluido como este de Stradivarius por 24,99 euros. Ya solo necesitamos unas sandalias planas con un detalle joya o unas alpargatas para completar el look más cool del verano. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @lauraescanes, Stradivarius, H&M En Trendencias | Cómo combinar un pantalón ancho | Look elegante, casual y de sport En Xataka | La psicología dice que las personas que dan las gracias a los conductores al cruzar la calle no lo hacen solo por gratitud En Xataka | Durante siglos, los marineros de todo el mundo morían de escorbuto. Todos menos los vascos - La noticia Stradivarius rebaja a menos de 10 euros el top con abalorios que mejor sienta con pantalones de lino fue publicada originalmente en Trendencias por María Barba ."
-  },
-  {
-    "titulo": "La cuarta y última temporada de Silo ya tiene fecha para cerrar la historia sin (demasiada) espera",
-    "medio": "Applesfera",
-    "fecha": 1785258096.0,
-    "link": "https://www.applesfera.com/apple-tv/cuarta-ultima-temporada-silo-tiene-fecha-para-cerrar-historia-demasiada-espera",
-    "resumen": "Estamos ahora mismo viviendo la tercera temporada de Silo y lleva un ritmo espectacular que no parece que vaya a bajar. Y para que no nos quedemos con ganas de más cuando esto termine, Apple ha hecho oficial la fecha del estreno de la cuarta y última temporada. La cuarta temporada de Silo llega en verano de 2027Así es, tal y como ha anunciado Apple en redes sociales la cuarta temporada de Silo llegará en verano de 2027. Eso sí, el verano da para bastante. Todavía se desconoce si será en junio, julio o agosto. Aunque ya sabemos que Apple no le tiene ningún miedo a estrenar en plena temporada veraniega. Ahí está Ted Lasso, que también se estrena este próximo cinco de agosto. Mientras tanto, la tercera temporada sigue soltando episodios cada semana hasta principios de septiembre, cuando llegue su capítulo final. Después, unos meses de espera hasta llegar al próximo verano. ¿Cómo han conseguido sacar dos temporadas tan rápido? Pues el equipo rodó la tercera y la cuarta prácticamente a la vez, con solo tres meses de diferencia entre ambos rodajes. Por lo que gran parte del trabajo ya esta hecho. Así preparan el cierre de todos los misterios Tanto Rebecca Ferguson como el creador de la serie coinciden en que esta última temporada llega para resolver todo lo que Silo lleva sembrando desde el principio. Y deja claro que no habrá cabos sueltos para una quinta temporada. Por que no va a llegar. Todo se acaba en la temporada cuatro. Rebecca admite que después de rodar las dos temporadas casi seguidas ya ni ella tiene del todo claro qué pasó en la tercera y qué en la cuarta. Parte de ese ritmo tan vivo que se nota viendo la tercera temporada. Algo muy diferente a lo que sucedió con la segunda. Mucho más pausada. Esto es porque la serie Silo adapta los libros de Hugh Howey, y estas dos últimas temporadas condensan dos libros a la vez. Mientras que la primera y segunda temporada solo se basaron en el primer tomo. Con la tercera temporada todavía deleitándonos cada viernes, y con la cuarta ya rodada de arriba abajo esperando su turno para el verano de 2027, a Silo le queda cuerda de sobra antes de cerrar del todo la historia. Toca disfrutar de lo que queda de esta tercera temporada, y esta vez con la tranquilidad de saber exactamente cuándo llega el final. En Applesfera | 'Silo', tercera temporada - capítulos, información y lo que se sabe de su renovación en Apple TV En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo - La noticia La cuarta y última temporada de Silo ya tiene fecha para cerrar la historia sin (demasiada) espera fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
     "titulo": "Santander ficha al responsable global de Contratación de Personal de Revolut",
@@ -628,13 +649,6 @@
     "fecha": 1785257323.0,
     "link": "https://www.elespanol.com/mascotario/20260728/grito-silencioso-incendios-madrid-lucha-salvar-animales-ayudar-refugios/1003744336872_0.html",
     "resumen": "Perros, gatos, caballos, y ganado necesitan comida, transporte, casas de acogida y cuidado. Todos podemos ayudar. Más información: Una clínica veterinaria de Tres Cantos desbordada tras los incendios: \"Solo se les pudo brindar la eutanasia\""
-  },
-  {
-    "titulo": "Iberpapel entra en números rojos y pierde casi 4 millones hasta junio",
-    "medio": "Expansión",
-    "fecha": 1785256783.0,
-    "link": "https://www.expansion.com/empresas/2026/07/28/6a68db4b468aebb05e8b4593.html",
-    "resumen": "Las cuentas reflejan el impacto económico de la denegación por parte del Gobierno de la inscripción de los certificados de ahorro energético solicitados para una de sus filiales. Leer"
   },
   {
     "titulo": "Igualdad pide primar protección a víctimas de violencia machista que soliciten retirar denuncia al no actuar en libertad",
@@ -658,13 +672,6 @@
     "resumen": "Nunca sabremos en qué posición estaría hoy Apple en la carrera de la inteligencia artificial generativa, pero sí que su cofundador avanzó su importancia hace cuatro décadas. Steve Jobs predijo cómo estos modelos marcarían un futuro que hoy es presente, demostrando así una visión intachable más allá de grandes \"inventos\" como el iPod en 2001 o el iPhone en 2007. The Steve Jobs Archive, que es como se llama el proyecto sin ánimo de lucro fundado por la viuda de Jobs, Laurene Powell, lanza a menudo piezas inéditas del mítico CEO de Apple o que sencillamente no estaban disponibles ya. En una de ellas nos encontramos un discurso de Jobs en el que, sorprendentemente, definía la IA a la perfección. \"La gente pasará horas interactuando con los ordenadores\" La inteligencia artificial no es algo nuevo. Al menos si definimos este término como un conjunto de algoritmos que toman decisiones o resuelven problemas de forma automatizada y que llevan décadas presentes en multitud de sistemas. Lo realmente nuevo es la explosión de la conocida como inteligencia artificial generativa, fenómeno que empezó su auge hace casi cuatro años con modelos como los de ChatGPT. Y mientras Apple continúa tratando de mejorar Apple Intelligence con iOS 27 y la ansiada Siri AI, Steve Jobs ya predijo estos modelos modernos en junio de 1983. Fue en el marco de la International Design Conference de Aspen, un evento anual que se estuvo celebrando durante casi 60 años y en el que se discutía sobre diseño. En Applesfera Ni los procesadores más potentes de Apple pueden con la nueva Siri y la solución pasa por comprar empresas Steve Jobs, que apenas tenía 28 años de aquella, fue ponente en aquel foro con la excusa de hablar del a la postre malogrado Apple Lisa. Jobs quiso centrar parte de su discurso hacia la importancia de la informática en el futuro con frases que, conociendo hoy los modelos de IA generativa, eran toda una profecía: \"La gente pasará dos o tres horas al día interactuando con estas máquinas. Nuestro objetivo es que dentro de tres o cuatro años la gente esté usando estas cosas y piense '¿esto no fue siempre así?'.\" \"Tal vez no obtengamos la respuesta correcta. O tal vez sí\" Aquella puede ser la definición perfecta de los modelos de lenguaje avanzados como ChatGPT, Gemini o Claude. Modelos que utilizamos ya a modo de consultorio para responder nuestras dudas y que, pese a estar muy bien entrenados y dar buenas respuestas por norma general, también pueden fallar. Sin embargo, no es una definición que alguien le haya dado a estas IAs. Lo dijo Steve Jobs en aquel 1983. \"Si ponemos la mirada en los próximos 50 y 100 años, si realmente podemos crear estas máquinas que puedan capturar un espíritu, un conjunto de principios o una forma de ver el mundo, será cuando llegue el próximo Aristóteles. Tal vez si lleva consigo una de estas máquinas toda su vida, y escribe todas estas cosas, entonces tal vez algún día, después de que la persona haya muerto, podamos preguntarle a esta máquina: 'Oye. , ¿qué habría dicho Aristóteles? ¿Qué pasa con esto?' Y tal vez no obtengamos la respuesta correcta. Pero tal vez sí. Y eso es realmente emocionante para mí, y esa es una de las razones por las que hago lo que hago.\" \"Queremos comprender qué es la autoconciencia\" Carteles promocionales del Apple Lisa Jobs también tuvo palabras para referirse estrictamente a la inteligencia artificial, porque insistimos en que ya existía por aquella época. Sin embargo, dejó frases aún más llamativas para aquellos tiempos, hablando de elementos como la autoconciencia aplicada a las máquinas. \"Se está realizando una enorme cantidad de trabajo en el área de inteligencia artificial para tratar de comprender qué es la autoconciencia y para tratar de comprender si un ordenador puede alguna vez ser consciente de sí mismo […] Mucha gente está dedicando los mejores momentos de sus vidas a intentar comprender la arquitectura del cerebro y cómo podemos fabricar máquinas cada vez mejores para emularla. Y de hecho creo que, al final de nuestras vidas, sabremos la respuesta a esta pregunta. Y eso es lo que nos motiva a muchos de nosotros.\"Por tanto, estas palabras dejan claro que, aunque los resultados nunca fueron tan satisfactorios como ahora, grandes tecnológicas como Apple llevan décadas trabajando en este área. Lógicamente queda aún mucho camino por recorrer, aunque sigue siendo igual de emocionante con sólo pensar que lo visto hasta ahora es la punta del iceberg. Imágenes | The Steve Jobs Archive En Applesfera | ¿Cuántos años de actualizaciones le quedan a mi iPhone? Así podemos saberlo En Applesfera | Nuevo iPhone 18 - Todo lo que creemos saber sobre él - La noticia Sabíamos que Steve Jobs fue un visionario, pero no tanto. Se adelantó 40 años prediciendo cómo sería la inteligencia artificial fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "El cantante Boy George lanza una canción proisraelí: \"Tú dices genocidio, yo digo guerra\"",
-    "medio": "El Mundo",
-    "fecha": 1785253925.0,
-    "link": "https://www.elmundo.es/cultura/2026/07/28/6a68cd4fe9cf4a80768b4599.html",
-    "resumen": "El tema hace referencia al ataque perpetrado por Hamas el 7 de octubre de 2023 contra el festival de música Nova, donde murieron 344 civiles y 34 miembros del personal de seguridad y otras 44 personas fueron tomadas como rehenes Leer"
-  },
-  {
     "titulo": "Zelenski y Trump hablan de \"revitalizar la diplomacia\" en medio de las conversaciones suspensas con Rusia",
     "medio": "Europa Press",
     "fecha": 1785253819.0,
@@ -684,13 +691,6 @@
     "fecha": 1785253348.0,
     "link": "https://www.infolibre.es/politica/gobierno-envia-congreso-ley-corrupcion-contratacion-publica_1_2232766.html",
     "resumen": "El Consejo de Ministros ha aprobado este martes para remitirlo al Congreso el proyecto de ley orgánica de integridad pública, una norma que busca prevenir la corrupción en la contratación pública, detectar esas posibles prácticas y castigarlas con mayor dureza.En la rueda de prensa de balance del curso político, el presidente del Gobierno, Pedro Sánchez, ha recordado que la ley crea una agencia independiente de integridad pública y ha confiado en que los grupos parlamentarios tengan la \"altura de miras que exige el momento\" y voluntad de diálogo para aprobarla.La iniciativa forma parte del plan estatal de lucha contra la corrupción anunciado por Sánchez en julio del año pasado, cuando compareció en el pleno de la Cámara Baja para abordar el caso Koldo y tras la entrada en prisión provisional de quien fuera secretario de Organización del PSOE Santos Cerdán.Según ha explicado Sánchez, que ha destacado el asesoramiento de la OCDE para diseñar el texto, tras aprobarse el anteproyecto en febrero se han incorporado a la ley aportaciones de organismos estatales y autonómicos y también de la sociedad civil.El proyecto de ley modifica seis leyes orgánicas y endurece las penas aplicables, amplía de cinco a siete años la prescripción de determinados delitos, refuerza la valoración de la reparación económica para acceder al tercer grado y mejora los instrumentos de localización, preservación y decomiso de activos.Entre las leyes modificadas para impulsar las buenas prácticas, destacan las que afectan al régimen electoral, a la financiación de los partidos políticos, al régimen penitenciario, al Poder Judicial y a la protección de datos, junto a varios artículos del Código Penal, con el objeto de desarrollar \"una cultura de la integridad\" en el conjunto de las Administraciones.Sobre la financiación de los partidos, establece que las formaciones políticas no podrán financiarse a través de criptoactivos y se refuerzan las restricciones y controles sobre la financiación procedente de Gobiernos, organismos, entidades o empresas públicas extranjeras o vinculadas a ellos.Otra novedad será la de no poder aceptar publicidad gratuita en redes sociales, además de reformularse el régimen sancionador sobre publicidad de donaciones o aportaciones.Se dotará de un mayor peso a las unidades de auditoría interna obligatorias, de tal forma que será la Intervención General de la Administración del Estado (IGAE) la que las controle.Las sociedades mercantiles, la contratación pública y la financiación de los partidos políticos son las tres áreas destacadas en las que se han centrado para reforzar el control y la prevención de la corrupción con el establecimiento de nuevos sistemas de publicidad para conocer al detalle su actividad.En el ámbito de las empresas, se buscará conocer quiénes están al frente de las mismas o cómo se han realizado transmisiones de las participaciones, ya que en ocasiones adolecen de publicidad registral suficiente.En lo que se refiere a la contratación pública, se fomentarán medidas como la contratación centralizada, pliegos tipo, procedimientos estandarizados o las mesas de contratación más profesionalizadas. Otra novedad destacada es la puesta en marcha de auditorías ciudadanas sobre la gestión pública.La Agencia Independiente de Integridad Pública constituirá el eje de este nuevo sistema que integrará servicios antes dispersos en el Servicio Nacional de Coordinación Antifraude de IGAE, la Autoridad Independiente de Protección del Informante y la Oficina de Conflictos de Intereses. Para subrayar su independencia, su responsable será elegido a través de una convocatoria pública abierta, y se exigirá una mayoría reforzada en el Congreso para confirmarlo.La protección al informante será un área determinante de tal forma que a quienes adviertan de prácticas posiblemente fraudulentas en el ámbito público se les respaldará con medidas cautelares frente a posibles represalias, aparte de darle apoyo psicológico y financiero o indemnizaciones por posibles daños o lucro cesante.A través de una reforma en el Código Penal, se endurecen hasta un máximo de 20 años la pena de inhabilitación para obtener subvenciones o ayudas del Estado, el acceso a contratos del sector público o beneficios en determinados tributos o en la Seguridad Social a los que realicen actuaciones corruptas."
-  },
-  {
-    "titulo": "Qantas Airways hace historia con el vuelo más largo jamás realizado: 24 horas y 24 minutos en el aire entre Australia y Francia",
-    "medio": "El Mundo",
-    "fecha": 1785253253.0,
-    "link": "https://www.elmundo.es/economia/2026/07/28/6a68cd2921efa0c1118b458d.html",
-    "resumen": "Los primeros vuelos de ultra larga distancia del Proyecto Sunrise entre Sídney y Londres saldrán a la venta en febrero de 2027 Leer"
   },
   {
     "titulo": "La mejora de la situación de los grandes incendios activos en España permite el fin de las restricciones en varias zonas",
