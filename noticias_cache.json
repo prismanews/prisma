@@ -1,10 +1,129 @@
 [
   {
+    "titulo": "El hijo mayor de Lula, residente en España, investigado por corrupción y tráfico de influencias en la venta de cannabis medicinal",
+    "medio": "El Mundo",
+    "fecha": 1785453788.0,
+    "link": "https://www.elmundo.es/internacional/2026/07/31/6a6bcf11e4d4d863208b45ca.html",
+    "resumen": "El magistrado acató una petición de la Policía para esclarecer la actuación de Lulinha en las gestiones para obtener un permiso de comercialización de cannabis medicinal Leer"
+  },
+  {
+    "titulo": "Marruecos rompe el silencio sobre la crisis en Ceuta: asegura que no la quería y pide el regreso de los migrantes",
+    "medio": "HuffPost",
+    "fecha": 1785452404.0,
+    "link": "https://www.huffingtonpost.es/politica/marruecos-rompe-silencio-sobre-crisis-ceuta-asegura-queria-pide-regreso-migrantes-f202607.html",
+    "resumen": ""
+  },
+  {
     "titulo": "Morante de la Puebla, cogido en la nocturna de Palma de Mallorca",
     "medio": "El Mundo",
-    "fecha": 1785447203.0,
+    "fecha": 1785452387.0,
     "link": "https://www.elmundo.es/cultura/toros/2026/07/30/6a6bc108e9cf4a60788b457a.html",
     "resumen": "Sufrió una voltereta al entrar a matar al quinto toro y pasó a la enfermería, donde le dieron cinco puntos en la mano Leer"
+  },
+  {
+    "titulo": "Kanye West: esto podía haber sido un ‘reel’",
+    "medio": "El País",
+    "fecha": 1785450905.0,
+    "link": "https://elpais.com/cultura/2026-07-30/kanye-west-esto-podia-haber-sido-un-reel.html",
+    "resumen": "El concierto del rapero en Madrid deja imágenes fascinantes para las redes sociales, pero difíciles de sostener durante dos horas en directo"
+  },
+  {
+    "titulo": "El golpe de nuestras vidas",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604560/golpe-vidas.html",
+    "resumen": "La extrema derecha es una manera violenta de acceder al poder: lo hace porque puede"
+  },
+  {
+    "titulo": "Mirar el ayer por el retrovisor",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604325/mirar-ayer-retrovisor.html",
+    "resumen": "Scurati invita a prepararse a luchar por la democracia en su última obra sobre Mussolini"
+  },
+  {
+    "titulo": "¿Tierra quemada?",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604308/tierra-quemada.html",
+    "resumen": "Los dos partidos de la oposición han sido los pirómanos de nuestra tierra calcinada"
+  },
+  {
+    "titulo": "Una tradición necesaria",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604459/tradicion-necesaria.html",
+    "resumen": "Rompiendo todos los moldes, ‘La nit del músic alt’ acaba con un grandioso homenaje a Carles Santos"
+  },
+  {
+    "titulo": "Taylor Swift se casa a oscuras",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604306/taylor-swift-casa-oscuras.html",
+    "resumen": "Las cámaras de videovigilancia del Madison Square Garden fueron desactivadas para la boda"
+  },
+  {
+    "titulo": "El peor presidente de la democracia",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604332/peor-presidente-democracia.html",
+    "resumen": "Este título no se gana con juicios de parte, sino con el análisis y comparación de los aciertos y errores"
+  },
+  {
+    "titulo": "Avergonzarse de la normalidad",
+    "medio": "La Vanguardia",
+    "fecha": 1785450600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260731/11604329/avergonzarse-normalidad.html",
+    "resumen": "La transformación profunda de una sociedad se produce cuando un hábito desaparece y deja de parecernos razonable"
+  },
+  {
+    "titulo": "¿Cuánto sabes de Roberto Leal? Descúbrelo con este test sobre el presentador de ‘Pasapalabra’",
+    "medio": "OK Diario",
+    "fecha": 1785449945.0,
+    "link": "https://okdiario.com/cool/television/cuanto-sabes-roberto-leal-descubrelo-este-test-sobre-presentador-pasapalabra-19102379",
+    "resumen": "Roberto Leal es, actualmente, uno de los presentadores más queridos e icónicos de la televisión en España. Pero más allá de Pasapalabra, el programa que le ha consolidado como uno de los rostros de referencia de Atresmedia, el comunicador ha tenido una extensa carrera e incluso se ha estrenado recientemente en otra profesión. Descubre todo … Continuar leyendo \"¿Cuánto sabes de Roberto Leal? Descúbrelo con este test sobre el presentador de ‘Pasapalabra’\""
+  },
+  {
+    "titulo": "Una sentencia del Supremo provoca un alud de migrantes en Ceuta y obliga a activar al Ejército",
+    "medio": "La Vanguardia",
+    "fecha": 1785449100.0,
+    "link": "https://www.lavanguardia.com/politica/20260731/11604743/sentencia-supremo-provoca-alud-migrantes-ceuta-obliga-activar-ejercito.html",
+    "resumen": "El alto tribunal consideró el 8 de julio que la ley no permite las “devoluciones en caliente” de las personas que cruzan la frontera a nado"
+  },
+  {
+    "titulo": "El Gobierno moviliza al Ejército de Tierra desplegado en Ceuta y cierra la frontera con Melilla",
+    "medio": "El País",
+    "fecha": 1785448957.0,
+    "link": "https://elpais.com/espana/2026-07-30/el-presidente-de-ceuta-pide-al-gobierno-la-emergencia-nacional-y-mando-unico-por-la-presion-migratoria.html",
+    "resumen": "España y Marruecos acuerdan “reforzar la coordinación”. Pedro Sánchez viaja este viernes a la ciudad autónoma"
+  },
+  {
+    "titulo": "Máxima alerta en Ceuta tras el cruce descontrolado de miles de personas desde Marruecos que deja al menos 18 muertos",
+    "medio": "El País",
+    "fecha": 1785448913.0,
+    "link": "https://elpais.com/espana/2026-07-30/otra-manana-de-centenares-de-entradas-de-inmigrantes-a-ceuta-pone-en-jaque-a-la-ciudad-autonoma.html",
+    "resumen": "La Guardia Civil y los medios de emergencia, superados, solo se ocupan de los heridos"
+  },
+  {
+    "titulo": "Cerrada la frontera entre España y Marruecos en Melilla",
+    "medio": "El Mundo",
+    "fecha": 1785448872.0,
+    "link": "https://www.elmundo.es/espana/2026/07/30/6a6b07c921efa0b1248b4578.html",
+    "resumen": "La Guardia Civil española ha recuperado seis nuevos cadáveres que habrían intentado entrar a nado en Ceuta, lo que eleva a 15 el número de víctimas mortales registradas durante la entrada masiva de personas procedentes de Marruecos Leer"
+  },
+  {
+    "titulo": "Tesh Sidi lanza una seria advertencia tras la entrada masiva de migrantes en Ceuta: \"Hace apenas cuatro años entraron 10.000 personas...\"",
+    "medio": "HuffPost",
+    "fecha": 1785448803.0,
+    "link": "https://www.huffingtonpost.es/politica/tesh-sidi-lanza-seria-advertencia-entrada-masiva-migrantes-ceuta-hace-apenas-cuatronos-entraron-10000-personas-f202607.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La avalancha de inmigrantes en Ceuta provoca una crisis diplomática entre España e Italia",
+    "medio": "El País",
+    "fecha": 1785447745.0,
+    "link": "https://elpais.com/espana/2026-07-30/la-avalancha-de-inmigrantes-en-ceuta-provoca-una-crisis-diplomatica-entre-espana-e-italia.html",
+    "resumen": "Albares convoca al embajador italiano después de que Tajani amenace con cerrar el espacio Schengen con España"
   },
   {
     "titulo": "Las ventas de iPhone y Mac impulsan un 20% los beneficios de Apple en nueve meses hasta los 101.464 millones de dólares",
@@ -14,25 +133,11 @@
     "resumen": "La compañía registra un récord de ventas de su teléfono móvil en un tercer trimestre"
   },
   {
-    "titulo": "Cerrada la frontera entre España y Marruecos en Melilla",
-    "medio": "El Mundo",
-    "fecha": 1785446502.0,
-    "link": "https://www.elmundo.es/espana/2026/07/30/6a6b07c921efa0b1248b4578.html",
-    "resumen": "El Gobierno en la ciudad autónoma que ha pedido a la ciudadanía que no se desplace al perímetro fronterizo para no dificultar el trabajo de las Fuerzas y Cuerpos de Seguridad. Leer"
-  },
-  {
     "titulo": "Apple gana un 27% más en un trimestre récord y bate previsiones",
     "medio": "Expansión",
     "fecha": 1785446502.0,
     "link": "https://www.expansion.com/economia-digital/2026/07/30/6a6bbfdae5fdea05748b458d.html",
     "resumen": "Apple incrementó sus ingresos un 16% en su tercer trimestre fiscal y ganó un 27% más en este periodo, situándose por encima de las previsiones del mercado en un trimestre histórico para la empresa. Leer"
-  },
-  {
-    "titulo": "Máxima alerta en Ceuta tras el cruce descontrolado de miles de personas desde Marruecos que deja al menos diez muertos",
-    "medio": "El País",
-    "fecha": 1785446445.0,
-    "link": "https://elpais.com/espana/2026-07-30/otra-manana-de-centenares-de-entradas-de-inmigrantes-a-ceuta-pone-en-jaque-a-la-ciudad-autonoma.html",
-    "resumen": "La Guardia Civil y los medios de emergencia, superados, solo se ocupan de los heridos"
   },
   {
     "titulo": "Portugal lidera la lista de Forbes de los grandes refugios climáticos de Europa",
@@ -42,32 +147,11 @@
     "resumen": "Portugal es el país con mayor representación en la lista de los diez grandes refugios climáticos naturales de Europa elaborada por Forbes España, al situar Azores, […]"
   },
   {
-    "titulo": "Carlos Espí deja el Levante y ficha por el Real Madrid para las cinco próximas temporadas",
-    "medio": "La Vanguardia",
-    "fecha": 1785445533.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260730/11604783/carlos-espi-deja-levante-ficha-real-madrid-cinco-proximas-temporadas.html",
-    "resumen": "Internacional sub-19 y sub-20, ha jugado tres temporadas en el conjunto granota, en las que ha disputado 66 partidos y ha marcado 20 goles"
-  },
-  {
     "titulo": "Perros y gatos ya pueden ser testigos (simbólicos) de boda: la tendencia más emotiva entre quienes los consideran parte de la familia",
     "medio": "Trendencias",
     "fecha": 1785445302.0,
     "link": "https://www.trendencias.com/familia-maternidad-y-ninos/perros-gatos-pueden-ser-testigos-simbolicos-boda-tendencia-emotiva-quienes-consideran-parte-familia",
     "resumen": "Las bodas hace tiempo que dejaron de ser prácticamente todas iguales. Empezando porque hay parejas que buscan la forma de que sus mascotas tengan un papel protagonista en uno de los días más importantes de sus vidas. Ya sea llegando al altar acompañadas de sus perros o incluyendo a sus gatos en la sesión de fotos. No es una extravagancia aislada, en Ecuador ya es posible que las mascotas actúen como testigos simbólicos durante las bodas civiles, una iniciativa pensada para quienes consideran que su perro o su gato forma parte de la familia y quieren que también participe en la ceremonia. En estas bodas, el animal deja la huella de una de sus patas sobre un certificado especial que acompaña a las firmas de la pareja. Se trata de un gesto puramente simbólico, ya que el documento no tiene validez legal y los testigos oficiales continúan siendo personas, pero añade un componente emocional con sus mascotas que cada vez buscan más parejas. @tamaragavilanes Un recuerdo que guardaremos para siempre 🤍🥹 Dalí dejó su huellita como testigo de nuestro amor 🐾 Dalisito, el primer perrito testigo de Santo Domingo 🐶💍 @Registro Civil Ecuador #NuestroDía #BodaCivil #DaliTestigo ♬ Iris - Goo Goo Dolls La idea no surgió de la nada. En 2024, una boda celebrada en el estado mexicano de Sonora llamó la atención por convertir a un chihuahua llamado Rogelio en el testigo de honor del enlace. Durante la ceremonia dejó impresa la huella de su patita como parte del recuerdo de aquel día, una imagen que rápidamente se hizo viral. La propuesta ecuatoriana sigue esa misma filosofía y, desde su puesta en marcha, decenas de parejas han decidido incluir a sus mascotas en ese momento tan especial, como un participante más de la celebración. Aunque pueda parecer anecdótico, refleja un cambio en la forma en la que muchas personas entienden hoy a los animales de compañía. Para numerosos hogares, perros y gatos ya no son solo mascotas, sino miembros de la familia que acompañan a sus dueños en los momentos más importantes de su vida. Si están presentes en las mudanzas, las vacaciones o el día a día, no resulta extraño que también quieran reservarles un lugar en su boda. Foto de portada | Vasylyna Kucherepa En Trendencias | Las 30 mejores películas románticas para emocionarse y volver a creer en el amor En DAP | Con un tubo y botellas de plástico, un estudiante chino de 14 años crea la solución perfecta para «fabricar» agua en el desierto En Xataka | Los expertos coinciden: \"El modo 'dry' del aire acondicionado consume menos porque el compresor trabaja a menos revoluciones\" - La noticia Perros y gatos ya pueden ser testigos (simbólicos) de boda: la tendencia más emotiva entre quienes los consideran parte de la familia fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
-    "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Al menos 10 migrantes han muerto al intentar entrar a nado en Ceuta",
-    "medio": "El País",
-    "fecha": 1785445289.0,
-    "link": "https://elpais.com/espana/2026-07-30/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "resumen": "España cierra la frontera de Melilla con Marruecos tras el intento de entrada de cientos de migrantes |Sánchez viaja mañana a Ceuta con Marlaska | Albares convoca al embajador de Italia en España tras afirmar Meloni que estudia suspender el acuerdo Schengen"
-  },
-  {
-    "titulo": "El Gobierno moviliza al Ejército de Tierra desplegado en Ceuta y cierra la frontera con Melilla",
-    "medio": "El País",
-    "fecha": 1785445244.0,
-    "link": "https://elpais.com/espana/2026-07-30/el-presidente-de-ceuta-pide-al-gobierno-la-emergencia-nacional-y-mando-unico-por-la-presion-migratoria.html",
-    "resumen": "España y Marruecos acuerdan “reforzar la coordinación”. Pedro Sánchez viaja este viernes a la ciudad autónoma"
   },
   {
     "titulo": "Ye es puro Kanye West en Madrid: extraño, desigual y preso de la nostalgia, pero con algunas canciones realmente formidables",
@@ -235,7 +319,7 @@
     "medio": "Europa Press",
     "fecha": 1785441092.0,
     "link": "https://www.europapress.es/nacional/noticia-flujo-personas-entrando-control-ceuta-marruecos-continuaba-caer-noche-20260730215132.html",
-    "resumen": "Numerosas personas seguían entrando en Ceuta desde Marruecos de forma incontrolada al caer la noche de este jueves, según ha podido comprobar Europa Press."
+    "resumen": "Numerosas personas seguían entrando en Ceuta desde Marruecos de forma incontrolada al caer la noche de este jueves, según ha podido comprobar Europa Press. Desde primera hora del día miles de inmigrantes han accedido a la ciudad autónoma a nado y también a pie bordeando el espigón que separa de Marruecos la ciudad autónoma."
   },
   {
     "titulo": "Meloni avisa de que no se quedará «de brazos cruzados»: considera suspender Schengen con España ante el descontrol en Ceuta",
@@ -266,32 +350,11 @@
     "resumen": "Leer"
   },
   {
-    "titulo": "Infantino aparece en Marruecos en la celebración del 27 aniversario de la coronación de Mohammed VI",
-    "medio": "OK Diario",
-    "fecha": 1785440131.0,
-    "link": "https://okdiario.com/deportes/infantino-aparece-marruecos-celebracion-del-27-aniversario-coronacion-mohammed-vi-19101681",
-    "resumen": "El presidente de la FIFA, Gianni Infantino, se ha presentado este jueves a la celebración del 27º aniversario de la coronación de Mohammed VI de Marruecos. Su visita ha generado una gran polémica, ya que el evento se ha desarrollado a muy cerca de Castillejos, donde la Guardia Civil ha estimado que más de 5.000 … Continuar leyendo \"Infantino aparece en Marruecos en la celebración del 27 aniversario de la coronación de Mohammed VI\""
-  },
-  {
     "titulo": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
     "medio": "Hipertextual",
     "fecha": 1785439920.0,
     "link": "https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/",
     "resumen": "Spotify ha anunciado una nueva función que te ayudará a entrenar mejor todos los días. Si sueles salir a correr con los auriculares nuevos, la plataforma de streaming ha integrado un modo Running personalizable para tus rutinas. La función estará disponible a partir de hoy para los usuarios que tengan un iPhone y paguen una […] Seguir leyendo: Spotify lanza un modo para corredores que adapta la música a tu entrenamiento"
-  },
-  {
-    "titulo": "Ascienden a 16 los cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
-    "medio": "La Vanguardia",
-    "fecha": 1785439866.0,
-    "link": "https://www.lavanguardia.com/politica/20260730/11604769/ascienden-12-cuerpos-recuperados-mar-ceuta-ultimas-24-horas.html",
-    "resumen": "Si se mantiene el ritmo, pronto se alcanzará la cifra de muertos con la que finalizó el pasado año, de 46 en total"
-  },
-  {
-    "titulo": "Recuperan los cadáveres de 15 inmigrantes que trataban de entrar por mar en la avalancha sobre Ceuta",
-    "medio": "OK Diario",
-    "fecha": 1785439755.0,
-    "link": "https://okdiario.com/espana/recuperan-cadaveres-nueve-inmigrantes-que-trataban-entrar-mar-avalancha-sobre-ceuta-19101713",
-    "resumen": "La grave crisis migratoria que vive la ciudad autónoma se ha cobrado este jueves un triste balance humano. La Guardia Civil y Salvamento Marítimo han recuperado 15 cadáveres de personas que intentaban alcanzar las costas de Ceuta a nado desde Marruecos. Según fuentes policiales, los primeros cuerpos fueron localizados a primera hora de la mañana … Continuar leyendo \"Recuperan los cadáveres de 15 inmigrantes que trataban de entrar por mar en la avalancha sobre Ceuta\""
   },
   {
     "titulo": "La Antártida sorprende a los científicos: una parte \"muerta\" de la Tierra se reactiva tras 3 millones de años",
@@ -322,13 +385,6 @@
     "resumen": "Loterías y Apuestas del Estado reparte este jueves un primer premio de 30.000 euros por décimo con el sorteo de Lotería Nacional"
   },
   {
-    "titulo": "Los Mossos investigan un atraco en una joyería del centro comercial Mataró Parc",
-    "medio": "La Vanguardia",
-    "fecha": 1785438401.0,
-    "link": "https://www.lavanguardia.com/local/maresme/20260730/11604759/mossos-investigan-presunto-atraco-joyeria-centro-comercial-mataro-parc.html",
-    "resumen": "En las redes sociales han circulado vídeos que mostrarían el suceso protagonizado por un grupo de cuatro o cinco personas encapuchadas"
-  },
-  {
     "titulo": "Un apartotel de lujo, un piso, dos áticos o un chalé en la sierra de Madrid: Ayuso y los \"obstáculos\" para acceder a una vivienda",
     "medio": "HuffPost",
     "fecha": 1785438176.0,
@@ -357,39 +413,11 @@
     "resumen": ""
   },
   {
-    "titulo": "El asalto a la valla de Ceuta visto desde las cámaras de los móviles",
-    "medio": "La Vanguardia",
-    "fecha": 1785437187.0,
-    "link": "https://www.lavanguardia.com/politica/20260730/11604732/asalto-valla-ceuta-visto-camaras-moviles.html",
-    "resumen": "Decenas de móviles han podido capturar el momento en el que miles de personas han cruzado la frontera de Ceuta y han transitado por las calles de la ciudad"
-  },
-  {
     "titulo": "Egipto sufre el primer ataque de la guerra en Oriente Próximo al impactar un dron contra buques gasísticos",
     "medio": "El País",
     "fecha": 1785437161.0,
     "link": "https://elpais.com/internacional/2026-07-30/egipto-confirma-que-un-dron-provoco-el-incendio-de-dos-buques-de-gas-en-su-costa-cerca-del-canal-de-suez.html",
     "resumen": "El lanzamiento del aparato, que no ha sido reivindicado, aumenta la preocupación por la posible extensión del conflicto a una ruta clave para el transporte de petróleo saudí"
-  },
-  {
-    "titulo": "El mercado de la Boqueria no frena la pérdida de visitantes por las obras de la Rambla",
-    "medio": "La Vanguardia",
-    "fecha": 1785436914.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260730/11604748/mercado-boqueria-frena-perdida-visitantes-obras-rambla.html",
-    "resumen": "El equipamiento incorporó hace ocho meses un nuevo sistema digital para conocer su número usuarios"
-  },
-  {
-    "titulo": "Meloni propone suspender Schengen con España y desata una crisis diplomática",
-    "medio": "La Vanguardia",
-    "fecha": 1785436831.0,
-    "link": "https://www.lavanguardia.com/politica/20260730/11604749/italia-considera-suspender-acuerdo-schengen-espana-crisis-migratoria.html",
-    "resumen": "Madrid convoca al embajador italiano después de que Roma relacionara la crisis de Ceuta con la regularización extraordinaria de inmigrantes"
-  },
-  {
-    "titulo": "Ximo Puig ficha al sobrino de su pareja, la exconsejera Gabriela Bravo, como conductor de su coche de expresidente",
-    "medio": "El País",
-    "fecha": 1785436767.0,
-    "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-30/ximo-puig-ficha-al-sobrino-de-su-de-su-pareja-y-exconsejera-gabriela-bravo-como-conductor-de-su-coche-de-expresidente.html",
-    "resumen": "El ‘DOGV’ publica el nombramiento del nuevo asesor del exlíder de los socialistas valencianos"
   },
   {
     "titulo": "Caprabo factura 822 millones, un 3% más, tras abrir 16 tiendas en 2025",
@@ -448,13 +476,6 @@
     "resumen": "Sus calles medievales, sus puentes, canales y edificios históricos invitan a recorrerla y perderse, aunque con visitas que no se pueden dejar de ladoLa ciudad alemana donde Trajano se enteró de que era emperador y que guarda la mayor colección de vidrio romano del mundo Esta ciudad recibe entre 7 y 8 millones de visitantes anuales, aunque tiene menos de 120.000 habitantes permanentes, pero el hecho de ser una de las localidades con arquitectura medieval mejor conservadas del mundo y tener varios Patrimonio de la Humanidad de la UNESCO la hace muy atractiva para el turismo. Se trata de Brujas, en el norte de Bélgica, que, si bien su nombre original ‘Brugges’ nada tiene que ver con el significado que podríamos pensar con su denominación en español, pues hace referencia a la palabra ‘brug’ que significa muelle o puente en neerlandés, y que en español sencillamente se optó por adaptarla de forma fonética entre los siglos XVI y XVII. Sus calles medievales, sus puentes, canales y edificios históricos invitan a recorrerla y perderse, aunque con visitas que no se pueden dejar de lado. Plaza Brug y Torre Belfort: en el corazón de Brujas La visita más imprescindible en la ciudad de Brujas es la plaza Brug, que es el corazón de la localidad, su centro de poder y autoridades, con el ayuntamiento como uno de los edificios más destacados, de estilo gótico del siglo XIV y que se puede visitar de forma gratuita en su interior, con algunos de sus salones más históricos y grandes. En esta plaza de gran ambiente, sin embargo, la joya de la corona es el campanario, la Torre Belfort, un edificio que es Patrimonio de la Humanidad de la UNESCO, que se construyó entre el siglo XIII y XV y que es el símbolo del poder, de la prosperidad de la localidad durante siglos y de su libertad. Se pueden subir sus 366 escalones para llegar a lo más alto, a sus 83 metros para ver las mejores vistas de la ciudad, una curiosidad es que al llegar aquí se pide cuidado a los visitantes asegurando que es una torre “más vieja que la Torre Eiffel o la Torre de Pisa”, otros lugares turísticos icónicos. La Iglesia de Nuestra Señora: con obra de arte de Miguel Ángel Uno de los monumentos más históricos de Brujas es la que es considerada la segunda torre de ladrillo más alta del mundo, la de la Iglesia de Nuestra Señora (O.L.V-kerk Museum), que se puede visitar de forma general con entrada gratuita, pero con sus lugares más emblemáticos necesitando pagar para verlos. Vista de la 'virgen con el niño' de Miguel Ángel en la iglesia de Nuestra Señora de Brujas. Y es que alberga en su interior varias joyas, aunque tuvo un origen modesto en la segunda mitad del siglo IX con un templo de madera, que tras un incendio se convirtió en el edificio actual entre 1210 y 1230. Pasando por diferentes etapas, incluso vendida durante la Revolución Francesa, cuando también se saqueó su gran obra: la ‘Virgen con Niño’ de Miguel Ángel, que es una de las pocas que salieron de Italia en vida del artista, pedida y adquirida por una familia de comerciantes. En su interior están también las tumbas de Carlos el Temerario y la reina María de Borgoña, madre de Felipe el Hermoso, marido de Juana I de Castilla. Uno de los hospitales más antiguos, su catedral y el ‘lago del amor’ Además de estas visitas, hay más que son también imprescindibles en la ciudad de Brujas, siendo una de ellas la de un museo dentro lo que fue el Hospital de San Juan, que es uno de los edificios hospitalarios más antiguos y mejor conservados de Europa. En el museo se puede pasar por la historia de este lugar, de la medicina y sus avances, de forma interactiva, además de que tiene obras de Hans Memling y una farmacia antigua. Interior del antiguo Hospital de San Juan en el museo actual con parte de su historia y obras de Memling. Otro de los lugares más antiguos de Brujas es también la Catedral de San Salvador, que también alberga huellas históricas de la ciudad, originaria del siglo XII, con un órgano destacado, tumbas medievales, tapices procedentes de Bruselas y también una rica colección de arte flamenco de los siglos XIV y XVIII. Si se llega a Brujas en tren, uno de los primeros lugares que se encuentran en la ciudad es ‘Minnewater’, un parque junto a un canal que es uno de sus paisajes más románticos, también llamado como el ‘Lago del Amor’, del que se decía que era donde vivían los espíritus del agua, pero también tiene sus trágicas leyendas de amor. Junto a él se encuentra el Beguinaje (Beginhof), fundado en 1245 y que es un lugar de edificios blancos donde vivían las beguinas, mujeres emancipadas y laicas que vivían aquí una vida tranquila y de celibato y donde siguen viviendo mujeres solteras y monjas de la orden de San Benito. Debido a su singularidad, la UNESCO lo declaró Patrimonio de la Humanidad."
   },
   {
-    "titulo": "La ONU arranca el proceso de sucesión de Guterres con la incógnita de si Trump tratará de impulsar un candidato inesperado",
-    "medio": "El Mundo",
-    "fecha": 1785434765.0,
-    "link": "https://www.elmundo.es/internacional/2026/07/30/6a6b8de7fdddff180e8b4592.html",
-    "resumen": "Rebeca Grynspan se postula como favorita, pero los aspirantes necesitan el apoyo de al menos nueve miembros del Consejo de Seguridad y esquivar los vetos de los permanentes Leer"
-  },
-  {
     "titulo": "La pareja de Ayuso pone a la venta el piso en el que vive con la presidenta tras la compra del ático por la Comunidad",
     "medio": "Infolibre",
     "fecha": 1785434748.0,
@@ -490,11 +511,11 @@
     "resumen": "El Gobierno va a movilizar a las Fuerzas Armadas con el objetivo de apoyar y reforzar a la Guardia Civil para mantener la seguridad en la ciudad de Ceuta."
   },
   {
-    "titulo": "Puig gana 263 millones de euros en el primer semestre",
-    "medio": "La Vanguardia",
-    "fecha": 1785434274.0,
-    "link": "https://www.lavanguardia.com/economia/20260730/11604729/puig-gana-263-millones-euros-primer-semestre.html",
-    "resumen": "La compañía de fragancias, cosmética y moda ingresa 2.354 millones, un 4,4% más"
+    "titulo": "Ascienden a 14 los cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
+    "medio": "Europa Press",
+    "fecha": 1785433998.0,
+    "link": "https://www.europapress.es/nacional/noticia-ascienden-diez-cuerpos-recuperados-mar-ceuta-ultimas-24-horas-20260730195318.html",
+    "resumen": "Las unidades a cargo del control fronterizo en Ceuta han recuperado del agua los cuerpos sin vida de 14 personas en las últimas 24 horas. Ya son 44 los extranjeros localizados muertos en aguas ceutíes en el intento de cruzar a nado desde Marruecos en lo que va de año."
   },
   {
     "titulo": "El Gobierno despliega al Ejército ante la crisis migratoria en Ceuta: este es todo el dispositivo movilizado",
@@ -558,13 +579,6 @@
     "fecha": 1785431800.0,
     "link": "https://www.europapress.es/nacional/noticia-ceuta-sufre-peor-crisis-migratoria-2021-cruce-masivo-frontera-horas-20260730191640.html",
     "resumen": "La crisis migratoria que se ha desatado en la ciudad autónoma de Ceuta este jueves 30 de julio con la entrada de miles de personas por la frontera es la más grave en cinco años, desde que en mayo de 2021 Marruecos relajó las medidas de control y alrededor de 8.000 personas cruzaron a territorio español."
-  },
-  {
-    "titulo": "Katie, 24 años, se sube a un avión para irse a Ibiza de vacaciones durante 6 horas: \"Solo quería escaparme un rato\"",
-    "medio": "HuffPost",
-    "fecha": 1785431738.0,
-    "link": "https://www.huffingtonpost.es/sociedad/katie-24nos-sube-avion-irse-ibiza-vacaciones-6-horas-solo-queria-escaparme-rato-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "Hace 80 años Portugal plantó un árbol australiano para estabilizar sus suelos. Cambió radicalmente la forma en que se propagan los incendios",
@@ -670,13 +684,6 @@
     "fecha": 1785427046.0,
     "link": "https://www.eldiario.es/sociedad/boicot-uefa-plan-infantino-privatizar-mundial-55-federaciones-no-participaran-competicion-si-sigue-adelante_1_13418826.html",
     "resumen": "En un escrito, aseguran que la competición \"no puede considerarse un producto de inversión\" y que \"no está a la venta\": \"Rechazamos de forma unánime e inequívoca la propuesta de la FIFA\"Gianni Infantino, tres mundiales como 'capo' de la FIFA al servicio del poder para hacer dinero La UEFA se planta ante la propuesta del presidente de la FIFA, Gianni Infantino, de privatizar el Mundial de fútbol. En un comunicado que ha hecho público este jueves, el máximo organismo europeo de fútbol ha asegurado que tanto él como sus 55 federaciones miembro “permanecen unidas” y rechazan “de forma unánime e inequívoca la propuesta de la FIFA de transferir la propiedad de la Copa Mundial y otras competiciones de la FIFA a inversores privados”. En el escrito, ha explicado que la Copa del Mundo “no puede considerarse un producto de inversión”: “Es uno de los mayores legados deportivos del fútbol. Se ha construido a lo largo de generaciones gracias al trabajo de jugadores, selecciones nacionales y aficionados de todos los continentes”. La UEFA ha justificado que ninguna parte de la competición “debería entregarse jamás a inversores privados” y ha defendido que “la Copa del Mundo no está en venta”: “Resulta irresponsable e indefendible que una propuesta de tal trascendencia para el fútbol se haya concebido en secreto y se haya llevado al borde de su aprobación sin una consulta significativa con los responsables de la gestión del deporte”. La propuesta lanzada por Infantino ha puesto en pie de guerra a las federaciones nacionales de todo el mundo y han aceptado lanzar este ultimátum. “Aceptar la toma irreversible de las competiciones más importantes del fútbol o atenerse a las consecuencias. No se trata de una 'decisión democrática', sino de un gobierno basado en la intimidación: un acto de coerción indigno de una institución encargada de la gestión del fútbol mundial”, han indicado. La UEFA y sus federaciones nacionales tachan de “irresponsable” e “indefendible” que “una propuesta de tal trascendencia para el fútbol se haya concebido en secreto y se haya llevado al borde de su aprobación sin una consulta significativa con los responsables de la gestión del deporte”. Consideran que este plan “no solo representa una profunda falta de liderazgo, sino también una abdicación del deber de la FIFA como garante del fútbol mundial”: “Las federaciones nacionales de todo el mundo se enfrentan ahora a un ultimátum: aceptar la toma irreversible de las competiciones más importantes del fútbol o atenerse a las consecuencias. No se trata de una 'decisión democrática', sino de un gobierno basado en la intimidación: un acto de coerción indigno de una institución encargada de la gestión del fútbol mundial”. “El fútbol cambia para siempre” El organismo europeo de fútbol ha denunciado que si los inversores externos entran en las competiciones de la FIFA, “el fútbol cambia para siempre”: “La rentabilidad comercial se convierte en una obligación permanente. Las expectativas de los inversores se transforman en una presión diaria”. El órdago es total. Critica que si el plan de Infantino sale adelante, nada será igual. “A partir de ese momento, cada decisión sobre el calendario internacional, cada decisión sobre los formatos de competición y cada decisión que moldea el futuro del fútbol ya no se rige por lo que más beneficia al deporte, sino por lo que más beneficia a los accionistas”, señalan. Para la UEFA es un modelo que “no tiene cabida en el fútbol mundial” y creen que este deporte “no puede estar condicionado por las expectativas de quienes priorizan maximizar sus beneficios económicos”. “Tampoco pueden los intereses de las federaciones nacionales, las ligas, los clubes, los jugadores y los aficionados quedar subordinados a las ganancias de los inversores. El fútbol no puede hipotecar su futuro por dinero”. Según informó The Times este martes, el presidente de la FIFA estaba barajando vender participaciones de la Copa del Mundo y del Mundial de Clubes a inversores privados. El citado medio también recogió que este planteamiento lo elaboró Infantino junto a gente muy cercana al presidente de Estados Unidos, Donald Trump."
-  },
-  {
-    "titulo": "El fútbol europeo se rebela contra el 'Mundial a la venta' de Infantino y anuncia boicot: qué implicaría el veto de la UEFA",
-    "medio": "HuffPost",
-    "fecha": 1785426961.0,
-    "link": "https://www.huffingtonpost.es/deporte/el-futbol-europeo-rebela-mundial-venta-infantino-anuncia-boicot-que-implicaria-veto-uefa-f202607.html",
-    "resumen": ""
   },
   {
     "titulo": "La UEFA y sus federaciones no participarán en las competiciones organizadas por la FIFA en boicot a Infantino",
