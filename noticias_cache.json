@@ -1,5 +1,222 @@
 [
   {
+    "titulo": "Angustia y lucha por un socavón de 9 metros en Barcelona: el 'fantasma' del Carmel vuelve en Sant Gervasi",
+    "medio": "El Mundo",
+    "fecha": 1785713106.0,
+    "link": "https://www.elmundo.es/cataluna/2026/08/03/6a6f6f55e85ece07168b45a3.html",
+    "resumen": "Los vecinos afectados se unen y plantean una reclamación conjunta a la Generalitat, mientras nuevas grietas aplazan los retornos que quedan hasta septiembre Leer"
+  },
+  {
+    "titulo": "Del excedente al chollo: así se cuela el 'low cost' en la cesta de la compra",
+    "medio": "El Mundo",
+    "fecha": 1785712565.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/08/03/6a6b715efdddff5a2e8b457b.html",
+    "resumen": "Sqrups, Primaprix, Action o Normal multiplican sus tiendas en España vendiendo primeras marcas por debajo de su precio habitual, y ya suman más de 5 millones de hogares clientes Leer"
+  },
+  {
+    "titulo": "Sexo durante el eclipse: lo que los inuit groenlandeses y los aborígenes australianos recomiendan al mundo",
+    "medio": "El Mundo",
+    "fecha": 1785712189.0,
+    "link": "https://www.elmundo.es/ciencia/2026/08/03/6a6b4e97fdddfff9528b457f.html",
+    "resumen": "Millones de personas creyeron a lo largo de la Historia que cuando el cielo enviaba una advertencia, debían obedecer. Por eso decidieron desde evitar concebir en esos momentos hasta no tomar decisiones importantes Leer"
+  },
+  {
+    "titulo": "Del albariño a la manzanilla: 7 vinos para llevar a la playa y acertar",
+    "medio": "El Mundo",
+    "fecha": 1785711661.0,
+    "link": "https://www.elmundo.es/metropoli/elmundovino/2026/08/03/6a50bf4de4d4d8c8018b458a.html",
+    "resumen": "El espíritu playero está en esta selección de botellas fáciles de beber y de transportar, con mucha frescura y poca complicación, perfectas para acompañar conversaciones bajo la sombrilla Leer"
+  },
+  {
+    "titulo": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
+    "medio": "OK Diario",
+    "fecha": 1785711225.0,
+    "link": "https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844",
+    "resumen": "La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia, la concentración se ha producido ante el consulado de Marruecos, al grito … Continuar leyendo \"Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»\""
+  },
+  {
+    "titulo": "El Ejército llena camiones con inmigrantes ilegales para llevarlos a la frontera de Ceuta y devolverlos a Marruecos",
+    "medio": "OK Diario",
+    "fecha": 1785710902.0,
+    "link": "https://okdiario.com/espana/ejercito-llena-camiones-inmigrantes-ilegales-llevarlos-frontera-ceuta-devolverlos-marruecos-19114460",
+    "resumen": "El Ejército español ha empleado camiones durante esta jornada de domingo para recolectar inmigrantes ilegales y llevárselos a la frontera para su devolución a Marruecos. Durante y la tarde y la noche, militares y Policía han estado interceptando a varios de los inmigrantes que en los últimos días se han colado en la invasión procedente … Continuar leyendo \"El Ejército llena camiones con inmigrantes ilegales para llevarlos a la frontera de Ceuta y devolverlos a Marruecos\""
+  },
+  {
+    "titulo": "Un grupo de migrantes se amotina en la estación migratoria de Tapachula",
+    "medio": "El País",
+    "fecha": 1785709842.0,
+    "link": "https://elpais.com/mexico/2026-08-02/un-grupo-de-migrantes-se-amotina-en-la-estacion-migratoria-de-tapachula.html",
+    "resumen": "Dos ciudadanos venezolanos han sido arrestados por los disturbios que resultaron sin heridos"
+  },
+  {
+    "titulo": "‘Boys, boys, boys’",
+    "medio": "La Vanguardia",
+    "fecha": 1785709800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606321/boys-boys-boys.html",
+    "resumen": "Dos mitos eróticos de los ochenta en el escenario: Sabrina y Samantha Fox"
+  },
+  {
+    "titulo": "La trampa de la probabilidad",
+    "medio": "La Vanguardia",
+    "fecha": 1785709800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606219/trampa-probabilidad.html",
+    "resumen": "Corremos el riesgo de quedar atrapados en la convicción de que el futuro se puede calcular"
+  },
+  {
+    "titulo": "Un periódico en sus manos",
+    "medio": "La Vanguardia",
+    "fecha": 1785709800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606220/periodico-manos.html",
+    "resumen": "El primer periodista debió de ser un hombre de las cavernas; del mismo modo, el primer filósofo fue una mujer"
+  },
+  {
+    "titulo": "El enigma de Bougainville",
+    "medio": "La Vanguardia",
+    "fecha": 1785709800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606230/enigma-bougainville.html",
+    "resumen": "En realidad el descubrimiento de las buganvillas no lo hizo Bougainville"
+  },
+  {
+    "titulo": "No borréis su nombre",
+    "medio": "La Vanguardia",
+    "fecha": 1785709800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606233/borreis-nombre.html",
+    "resumen": "Me deja sin palabras la iniciativa de retirar el nombre de Isabel-Clara Simó de un instituto"
+  },
+  {
+    "titulo": "Ariana Grande se alejará de los focos tras su gira ante el “constante escrutinio público”",
+    "medio": "La Vanguardia",
+    "fecha": 1785708607.0,
+    "link": "https://www.lavanguardia.com/gente/20260803/11606528/ariana-grande-alejara-focos-gira-constante-escrutinio-publico.html",
+    "resumen": "No participará en el musical 'Sunday in the Park with George', en el West End de Londres"
+  },
+  {
+    "titulo": "La estación de Los Espartales de Metro de Madrid añade al Getafe a su nuevo bautismo",
+    "medio": "El Mundo",
+    "fecha": 1785708415.0,
+    "link": "https://www.elmundo.es/madrid/2026/08/03/6a6f979e21efa0a8788b45a4.html",
+    "resumen": "El nombre Coliseum se incorporará a la Línea 12 con el inicio de LaLiga Leer"
+  },
+  {
+    "titulo": "La eterna indecisión de Trump en Irán",
+    "medio": "La Vanguardia",
+    "fecha": 1785708300.0,
+    "link": "https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html",
+    "resumen": "Trump aplaza un nuevo ataque contra Irán en previsión de un acuerdo, mientras Teherán niega haber pedido la tregua"
+  },
+  {
+    "titulo": "El difícil pacto climático",
+    "medio": "La Vanguardia",
+    "fecha": 1785708300.0,
+    "link": "https://www.lavanguardia.com/opinion/20260803/11606320/dificil-pacto-climatico.html",
+    "resumen": "Hay que lamentar la desconexión entre el Gobierno central y las autonomías del PP para afrontar un gran acuerdo climático"
+  },
+  {
+    "titulo": "Arval suma 400.000 vehículos con la compra de Athlon",
+    "medio": "Expansión",
+    "fecha": 1785708211.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/08/03/6a6f8a26e5fdea884c8b4581.html",
+    "resumen": "Arval, empresa especializada en arrendamiento de vehículos a largo plazo y especialista en soluciones de movilidad, ha cerrado la adquisición de Athlon, antigua filial del grupo Mercedes-Benz, tras la obtención de todas las autorizaciones regulatorias necesarias. Leer"
+  },
+  {
+    "titulo": "Del Moves al Auto+: seis años buscando la fórmula para impulsar la moto eléctrica",
+    "medio": "Expansión",
+    "fecha": 1785708210.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/08/03/6a67d163468aeb2e1e8b45a8.html",
+    "resumen": "El nuevo programa ofrece hasta 1.100 euros de ayuda, pero llega después de años de cambios, retrasos administrativos e incluso marcas que decidieron adelantar las subvenciones a sus clientes para sortear la burocracia. Leer"
+  },
+  {
+    "titulo": "Cómo eliminar la mosca del sustrato de tus plantas: 7 trucos y consejos para acabar con ella",
+    "medio": "El Mundo",
+    "fecha": 1785708173.0,
+    "link": "https://www.elmundo.es/yodona/lifestyle/2026/08/03/6a69e68ce4d4d8881c8b4572.html",
+    "resumen": "La mosca del sustrato puede convertirse en un problema para la salud y el crecimiento de tus plantas. Descubre cómo identificarla y los mejores trucos y consejos para eliminarla de forma eficaz. Leer"
+  },
+  {
+    "titulo": "Pla, la firma mallorquina antitendencias creada por una ex Camper: \"Las piezas hechas a mano tienen alma, paz...\"",
+    "medio": "El Mundo",
+    "fecha": 1785708170.0,
+    "link": "https://www.elmundo.es/yodona/moda/2026/08/03/6a6b38b1e9cf4aed158b45a4.html",
+    "resumen": "Irene Peukes trabajó varios años en Camper participando en la creación de uno de sus zapatos más célebres antes de apostar por Pla, un proyecto personal muy vinculado al Mediterráneo que pone en valor la artesanía, la durabilidad de las piezas hechas con mimo y el diseño audaz frente a la moda en serie. Leer"
+  },
+  {
+    "titulo": "Pedro Sánchez ante el espejo",
+    "medio": "Expansión",
+    "fecha": 1785708102.0,
+    "link": "https://www.expansion.com/directivos/2026/08/03/6a6caa57468aebd6088b4594.html",
+    "resumen": "El actual presidente del Gobierno de España se ve a sí mismo como un héroe y conquistador de derechos, mientras oculta una deficiente gestión y acusaciones de corrupción. Leer"
+  },
+  {
+    "titulo": "Por qué no debería ver su trabajo como una obligación",
+    "medio": "Expansión",
+    "fecha": 1785708101.0,
+    "link": "https://www.expansion.com/directivos/2026/08/03/6a6fa091468aeb34658b4591.html",
+    "resumen": "Cuando su puesto se reduce a función pierde su dimensión más humana: la vocación. Leer"
+  },
+  {
+    "titulo": "Ana García (Bankinter): \"Hay una correlación clara entre bienestar y productividad\"",
+    "medio": "Expansión",
+    "fecha": 1785708100.0,
+    "link": "https://www.expansion.com/directivos/2026/08/03/6a69f1d7468aeb22778b4579.html",
+    "resumen": "Directora de comunicación interna y responsable de bienestar de Bankinter es una entusiasta de la actividad física y, quizá esa es una de las razones por las que sigue ligada a la entidad, a la que llegó en 1997. Leer"
+  },
+  {
+    "titulo": "La Torre de Londres: palacio, fábrica y cárcel",
+    "medio": "Expansión",
+    "fecha": 1785708068.0,
+    "link": "https://www.expansion.com/directivos/2026/08/03/6a6f696d468aebb94f8b4590.html",
+    "resumen": "Palacio real, cárcel para ricos y pobres e incluso sede para acuñar moneda. La Torre de Londres es uno de los monumentos más antiguos que conserva la ciudad. Un milenio y varias guerras después, se ha convertido en una de las atracciones más visitadas de la capital británica, gracias a la rica historia y las anécdotas que guardan sus muros. Leer"
+  },
+  {
+    "titulo": "La casa de los Paniego en Ezcaray",
+    "medio": "Expansión",
+    "fecha": 1785708067.0,
+    "link": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2026/08/03/6a6fa2ff468aeb2b4f8b4586.html",
+    "resumen": "Con dos estrellas Michelin en El Portal, Echaurren completa su oferta culinaria con diecisiete habitaciones. Leer"
+  },
+  {
+    "titulo": "Estos son los 30 nuevos socios de PwC en España",
+    "medio": "Expansión",
+    "fecha": 1785708066.0,
+    "link": "https://www.expansion.com/empresas/2026/08/03/6a6cdf5b468aeb405c8b45a0.html",
+    "resumen": "Siete de los nuevos socios de la firma participan en el capital de la misma. Además, PwC ha promocionado a 943 profesionales de todas sus líneas de negocio. Leer"
+  },
+  {
+    "titulo": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
+    "medio": "The Objective",
+    "fecha": 1785707417.0,
+    "link": "https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/",
+    "resumen": "El ministro de Exteriores de Irán, Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz […]"
+  },
+  {
+    "titulo": "Ariana Grande toma una decisión inesperada tras meses de rumores sobre su salud: se alejará de los focos",
+    "medio": "HuffPost",
+    "fecha": 1785707356.0,
+    "link": "https://www.huffingtonpost.es/life/influencers-celebrities/ariana-grande-toma-decision-inesperada-meses-rumores-sobre-salud-alejara-focos-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La nueva fórmula de Trump para rentabilizar la presidencia: Truth Social ofrecerá antes sus mensajes por 100.000 dólares al mes",
+    "medio": "El País",
+    "fecha": 1785707092.0,
+    "link": "https://elpais.com/us/2026-08-02/la-nueva-formula-de-trump-para-rentabilizar-la-presidencia-truth-social-ofrecera-antes-sus-mensajes-por-100000-dolares-al-mes.html",
+    "resumen": "La red social pone en marcha un servicio de acceso premium a los ‘posts’ del presidente de EE UU, una iniciativa criticada por la oposición y expertos por suponer un uso de información privilegiada"
+  },
+  {
+    "titulo": "Desvelan cinco posibles candidatos a sustituir a Infantino como presidente de la FIFA",
+    "medio": "OK Diario",
+    "fecha": 1785706942.0,
+    "link": "https://okdiario.com/deportes/desvelan-cinco-posibles-candidatos-sustituir-infantino-como-presidente-fifa-19114158",
+    "resumen": "Gianni Infantino está viviendo sus días más complicados como presidente de la FIFA. El dirigente suizo se ha visto obligado a dar marcha atrás en su proyecto de privatización del Mundial y el Mundial de Clubes ante la negativa rotunda liderada por la UEFA y secundada por otros organismos del fútbol. Infantino ha quedado en … Continuar leyendo \"Desvelan cinco posibles candidatos a sustituir a Infantino como presidente de la FIFA\""
+  },
+  {
+    "titulo": "Investigan a un hombre como presunto autor de ocho incendios en Villaviciosa de Córdoba",
+    "medio": "The Objective",
+    "fecha": 1785706211.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-08-02/investigan-a-un-hombre-como-presunto-autor-de-ocho-incendios-en-villaviciosa-de-cordoba/",
+    "resumen": "La Guardia Civil ha investigado a un vecino de Villaviciosa de Córdoba como presunto autor de varios delitos de incendio y de un delito de daños, […]"
+  },
+  {
     "titulo": "Más de medio millar de personas se concentra ante el Consulado de Marruecos en Palma para protestar por la «invasión a Ceuta»",
     "medio": "OK Diario",
     "fecha": 1785705633.0,
@@ -18,21 +235,7 @@
     "medio": "El Mundo",
     "fecha": 1785704397.0,
     "link": "https://www.elmundo.es/cultura/toros/2026/08/02/6a6faf4bfdddfff9598b458d.html",
-    "resumen": "El sevillano firma una memorable actuación con un cuvillo de vuelta al ruedo para salir a hombros con Roca Rey; Morante sale a pie con una sola oreja y la faena de más sincero valor Leer"
-  },
-  {
-    "titulo": "Investigan a un hombre como presunto autor de ocho incendios en Villaviciosa de Córdoba",
-    "medio": "El Mundo",
-    "fecha": 1785703652.0,
-    "link": "https://www.elmundo.es/andalucia/2026/08/02/6a6faae5fdddfff0508b4597.html",
-    "resumen": "El último incendio de la zona afectó a un olivar próximo y ocasionó daños valorados en 13.000 euros Leer"
-  },
-  {
-    "titulo": "Francia controlará toda participación extraeuropea superior al 10% en empresas de sectores sensibles",
-    "medio": "Expansión",
-    "fecha": 1785703436.0,
-    "link": "https://www.expansion.com/empresas/2026/08/02/6a6fab13e5fdead5028b4587.html",
-    "resumen": "El Gobierno francés va a controlar cualquier compra de una participación superior al 10% en empresas francesas que coticen en cualquier mercado bursátil de sectores sensibles, en lugar del 25% que había imperado hasta ahora, para proteger las compañías y las tecnologías que se consideran clave para la seguridad del país. Leer"
+    "resumen": "El sevillano firma una memorable actuación con un cuvillo de vuelta al ruedo para salir a hombros con Roca Rey; Morante se marcha a pie con una sola oreja y la faena de más sincero valor Leer"
   },
   {
     "titulo": "Los cien mil hijos de Mohamed VI",
@@ -74,14 +277,7 @@
     "medio": "El País",
     "fecha": 1785701724.0,
     "link": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html",
-    "resumen": "El Ejecutivo del reino alauí achaca la tragedia en la ciudad autónoma a las “malas interpretaciones” de la sentencia del Supremo"
-  },
-  {
-    "titulo": "Efectivos de Bomberos y el Infoca intentan controlar un incendio en las inmediaciones de la carretera A-7 en Algeciras",
-    "medio": "El Mundo",
-    "fecha": 1785701634.0,
-    "link": "https://www.elmundo.es/andalucia/2026/08/02/6a6fa4fce4d4d861278b4586.html",
-    "resumen": "Las llamas se pueden apreciar incluso desde Gibraltar, se han movilizado los servicios de emergencias y se ha cortado la vía de acceso al parque de bomberos Leer"
+    "resumen": "El Ejecutivo marroquí achaca la tragedia en la ciudad autónoma a las “malas interpretaciones” de la sentencia del Supremo"
   },
   {
     "titulo": "La industria de automoción se despide de Jaime Revilla, el impulsor de Iveco y Pegaso en España",
@@ -91,25 +287,11 @@
     "resumen": "Directivos del sector del automóvil destacan el impulso que dio a la industria española Jaime Revilla, fallecido en Madrid tras una carrera dedicada al vehículo industrialLa industria de automoción española “se pone las pilas”: más inversión con menos beneficio La automoción española ha perdido a uno de sus grandes referentes de las últimas décadas. El fallecimiento en Madrid de Jaime Revilla Arroyo (Barcelona, 1951), expresidente y consejero delegado de Iveco España, ha provocado una oleada de mensajes de condolencia y reconocimiento por parte de directivos, empresarios y profesionales del sector, que han coincidido en destacar tanto su legado industrial como su calidad humana tras más de cuatro décadas dedicadas al vehículo industrial. El homenaje comenzó con el emotivo mensaje publicado por su hija, Silvia Revilla León, en LinkedIn, donde recordó a su padre como “un luchador incansable”, un hombre que le enseñó “el valor del esfuerzo, la tenacidad, el perdón y la generosidad” y agradeció las numerosas muestras de cariño recibidas tras su fallecimiento el pasado 31 de julio. A ese homenaje se han sumado algunos de los principales nombres de la industria del automóvil y del vehículo industrial en España y Europa, que han dibujado, a través de comentarios en Linkedin, el perfil de un dirigente considerado uno de los artífices de la consolidación de Iveco en España. José Manuel Jaquotot, director de la planta de Iveco en Madrid, aseguró que la compañía “le debe mucho” y atribuyó a Revilla un papel decisivo para garantizar el futuro de las fábricas de Madrid y Valladolid en momentos especialmente delicados. “Ayudó y mucho a mantener muchos empleos en ambas plantas y dio un futuro a muchas familias”, destacó, calificándolo como “uno de los imprescindibles”. El sector arropa a Jaime Revilla Desde la dirección mundial de Iveco también llegaron palabras de reconocimiento. El consejero delegado de la división de camiones de Iveco, Luca Sra, lo definió como “uno de los padres de Iveco”, además de “un maestro, un referente y un mentor”, mientras que el director de Tecnología y Digitalización del grupo, Marco Liccardo, lo calificó como “uno de los pilares de nuestra empresa y un ejemplo de profesionalidad, humanidad y dedicación”. Las muestras de afecto trascendieron el ámbito de Iveco. El presidente de IFEMA Madrid y exdirectivo de Renault, Nissan e Indra, José Vicente de los Mozos, lamentó “una gran pérdida para la industria del automóvil de nuestro país”, definiéndolo como un profesional “totalmente comprometido con la industria del automóvil española y con visión internacional”. También el presidente de Volkswagen Group España Distribución, Paco Pérez Botello, recordó la etapa compartida con Revilla en la junta directiva de Anfac, donde presidió la comisión de vehículo industrial, y subrayó “su enorme generosidad y pasión por la industria de la automoción española”, además de destacar que “era una persona que se hacía querer”. El director general de Anfac, José López-Tafall, definió a Jaime Revilla como “todo un señor”, mientras que otros dirigentes del sector también incidieron en su dimensión humana. El consejero delegado de BYD Iberia, Alberto de Aza, lo describió como un “grandísimo profesional y persona excepcional”; Leopoldo Satrústegui, presidente y consejero delegado de Hyundai Motor España, destacó que fue una “gran persona y excelente profesional”. La importancia de Revilla para la industria del vehículo industrial quedó reconocida oficialmente en 2019, cuando la Asociación Española de Profesionales de Automoción (ASEPA) lo distinguió como “Personaje Ilustre de la Automoción Española”, un reconocimiento reservado a quienes han realizado aportaciones decisivas al desarrollo del sector. “45 años intensos” ASEPA destacó entonces sus 45 años de carrera profesional, primero en Pegaso y posteriormente en Iveco, donde participó en el desarrollo del emblemático vehículo comercial Daily, impulsó la creación del Centro de Ingeniería de la fábrica madrileña y contribuyó a consolidar la fabricación de vehículos industriales en España. Aquella distinción lo incorporó a una galería integrada por algunas de las figuras más relevantes de la historia de la automoción española. Ingeniero industrial por la Escuela Técnica Superior de Ingenieros Industriales de Barcelona y diplomado en Alta Dirección de Empresas, Revilla inició su trayectoria en 1968 en SAVA, posteriormente integrada en ENASA-Pegaso. A lo largo de su carrera ocupó responsabilidades en ingeniería, desarrollo de producto, producción, posventa, dirección comercial y gestión internacional, hasta convertirse en 2011 en presidente y consejero delegado de Iveco España y vicepresidente del grupo a cargo de vehículos comerciales ligeros. Durante el acto de reconocimiento de ASEPA, uno de sus últimas apariciones públicas, Revilla defendió el potencial de la industria española para afrontar la transformación tecnológica del automóvil y expresó su confianza en el futuro del vehículo industrial, convencido de que la digitalización y el auge del comercio electrónico reforzarían aún más su importancia. “Han sido 45 años que he dedicado al vehículo industrial, 45 años intensos, en los que he podido disfrutar siempre trabajando en una misma empresa y en muchas al mismo tiempo”, indicó Revilla tras recibir el premio en 2019. “La década 2020-2030 no solo viene con la digitalización, la industria 4.0, inteligencia artificial, infinidad de modificaciones tecnológicas, sino que además, hay que pensar cuál va a ser el papel del vehículo industrial. Las compras por internet tienen cada vez más fuerza y así los envíos, lo que significa que el vehículo industrial cada vez va a tener más importancia”, pronosticó Jaime Revilla."
   },
   {
-    "titulo": "La Generalitat amplía a través de Avançsa su inversión en Open Cosmos",
-    "medio": "Expansión",
-    "fecha": 1785701379.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/02/6a6f868de5fdea5f4d8b4590.html",
-    "resumen": "El hólding empresarial del Govern financia con cuatro millones de euros a la compañía de satélites, donde dos fondos de capital riesgo del ICF inyectaron 31 millones el año pasado. Leer"
-  },
-  {
     "titulo": "El coche que sufrió un accidente mortal en Cáceres huía tras saltarse un control policial",
     "medio": "The Objective",
     "fecha": 1785701364.0,
     "link": "https://theobjective.com/actualidad/2026-08-02/coche-accidente-mortal-caceres-huia-control-policial/",
     "resumen": "La Guardia Civil ha abierto una investigación para esclarecer las circunstancias del accidente ocurrido en la noche de este pasado viernes en Hervás, en el que […]"
-  },
-  {
-    "titulo": "La Reina Letizia, una estrella más en su gran noche de cine en Mallorca: vestido rojo entallado de gran abertura y sandalias destalonadas inéditas",
-    "medio": "El Mundo",
-    "fecha": 1785701356.0,
-    "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2026/08/02/6a6f08cbe9cf4ab47d8b459c.html",
-    "resumen": "La Reina Letizia acude un año más a la clausura del Atlàntida Mallorca Film Fest. En su edición 16, su look ha vuelto brillar entre las estrellas del celuloide. Leer"
   },
   {
     "titulo": "Guarda 26.000 euros, los ahorros de toda su vida, en una caja fuerte; cuando la abre descubre que las termitas se han comido su dinero",
@@ -133,32 +315,11 @@
     "resumen": "Estos modelos 3D del sistema solar me han llegado al corazón porque los icosaedros regulares son mis sólidos platónicos favoritos: tan redondeaditos, simples y elegantes a la vez. Están en la página Free Paper Globes: icosahedrons y son en total 26 recortables gratuitos para montar y explorar la Tierra, los planetas, las lunas y algunos de sus datos. Y si tu poliedro favorito es otro, Folding Globes tiene otros como dodecaedros, cubos, octaedros o icosaedros truncados (balón de fútbol tradicional), entre otros. El proyecto de MapScaping ofrece una colección de 26 plantillas gratuitas listas para imprimir, recortar, pegar y montar. Además de la versión clásica de la Tierra, incluye algunas versiones temáticas (sin agua, vida oceánica, hielo y nieve, lluvia, temperatura…) y otros cuerpos del Sistema Solar, incluyendo el Sol, la Luna y todos los planetas y muchas de sus lunas. Además se pueden incluso personalizar mediante un editor. Las plantillas están organizadas en 4 categorías. La primera reúne 10 cuerpos del Sistema Solar: el Sol, la Luna, y Marte, Venus, Mercurio, Júpiter así como satélites bien conocidos como Io, Europa y Titán, además de Plutón (¡hurra!) y Ceres. La segunda ofrece 11 representaciones de la Tierra con distintas capas de información: la Tierra nocturna, biomas, densidad de población y las anteriormente mencionadas. La tercera categoría está formada por 6 globos de datos, que visualizan información geográfica y científica, así como un siglo de grandes terremotos, volcanes e impactos de meteoritos. También hay lugares Patrimonio de la Humanidad, placas tectónicas y husos horarios. Todos emplean datos abiertos y cada uno indica las fuentes empleadas; es un un recurso tanto educativo como por su naturaleza curioso para los aficionados a la cartografía y la geografía… o para la muchachada que asiste a clases de geografía o ciencias. Se pueden descargar en cómodos PDF tamaño A4 o A3. Como es obvio al estar todos al mismo tamaño este Sistema Solar no está a escala, pero hay muchos otros por ahí que sí que lo están… aunque no en papel. Relacionados: Atlas del espacio: una visualización interesante de nuestro vecindario en el Sistema Solar Las lunas mayores del sistema solar en una ilustración Un detallado atlas geológico de la Luna, escala 1:2,5 millones Escalas del Sistema Solar Bloques de madera con los planetas del Sistema Solar como temática Nuestro Sistema Solar, según las atmósferas de sus ocho planetas # Enlace permanente"
   },
   {
-    "titulo": "El incendio de Senet sigue activo con dos focos y una superficie afectada de 71 hectáreas",
-    "medio": "La Vanguardia",
-    "fecha": 1785701178.0,
-    "link": "https://www.lavanguardia.com/local/pirineos/20260802/11606376/incendio-senet-sigue-activo-dos-focos-superficie-afectada-71-hectareas.html",
-    "resumen": "Los bomberos avisan de que el potencial del fuego es de unas 2.700 hectáreas y alertan de que podría seguir activo todavía unos días"
-  },
-  {
     "titulo": "Ceuta vive una protesta multitudinaria tras la entrada masiva de migrantes mientras Marruecos reconoce 11 fallecidos",
     "medio": "HuffPost",
     "fecha": 1785701022.0,
     "link": "https://www.huffingtonpost.es/sociedad/ceuta-vive-protesta-multitudinaria-entrada-masiva-migrantes-marruecos-reconoce-11-fallecidos-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "La Reina Letizia, Bardem, Vicky Luengo y Sorogoyen, Mallorca se llena de estrellas en la clausura de su festival de cine",
-    "medio": "El Mundo",
-    "fecha": 1785700800.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/08/02/6a6f0e6cfc6c833f718b457b.html",
-    "resumen": "El Atlántida Film Festival cierra una semana de películas con la proyección de 'El ser querido' Leer"
-  },
-  {
-    "titulo": "Marruecos reconoce 40.000 entradas de migrantes a Ceuta y 11 muertos en su territorio",
-    "medio": "La Vanguardia",
-    "fecha": 1785700550.0,
-    "link": "https://www.lavanguardia.com/politica/20260802/11606378/marruecos-reconoce-40-000-entradas-migrantes-ceuta-11-muertos-territorio.html",
-    "resumen": "Otras 1.135 personas llegaron a Melilla, según el Ministerio del Interior marroquí"
   },
   {
     "titulo": "Resultado Gordo de la Primitiva hoy | Comprobar número ganador del sorteo del domingo 2 de agosto, en directo",
@@ -175,13 +336,6 @@
     "resumen": "Rafa Jódar disputa este domingo la final del Abierto de Washington contra el americano Taylor Fritz. El tenista español busca levantar el segundo título profesional de su carrera en un torneo que ya le ha asegurado ser el número 15 del mundo, pase lo que pase en la gran final. La última víctima de Rafa … Continuar leyendo \"A qué hora juegan Rafa Jódar – Fritz hoy: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026\""
   },
   {
-    "titulo": "El Tesoro de EEUU lleva a cabo una intervención histórica",
-    "medio": "Expansión",
-    "fecha": 1785700158.0,
-    "link": "https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html",
-    "resumen": "Alerta ante la posibilidad de una nueva intervención conjunta de Japón y Estados Unidos cuando hoy se reanude la negociación en Asia, después de que las actuaciones coordinadas en Tokio y Nueva York la semana pasada provocaran un fuerte rebote del yen. Leer"
-  },
-  {
     "titulo": "Morante y Roca Rey se vuelven a ver las caras en El Puerto",
     "medio": "The Objective",
     "fecha": 1785699089.0,
@@ -194,13 +348,6 @@
     "fecha": 1785699004.0,
     "link": "https://okdiario.com/espana/gavira-vox-culpa-sanchez-marruecos-trasladar-crisis-migratoria-ceuta-litoral-andaluz-dejado-indefensa-espana-19113911",
     "resumen": "Las llegadas de inmigrantes a playas del Campo de Gibraltar en motos de agua y lanchas rápidas durante las últimas horas han llevado al vicepresidente segundo de la Junta de Andalucía y consejero de Turismo, Justicia, Desregulación y Administración Local, Manuel Gavira, a responsabilizar al Gobierno de Pedro Sánchez y a Marruecos del aumento de … Continuar leyendo \"Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»\""
-  },
-  {
-    "titulo": "Estabilizado el incendio forestal de Casas de Millán tras quemar 1.352 hectáreas",
-    "medio": "La Vanguardia",
-    "fecha": 1785698637.0,
-    "link": "https://www.lavanguardia.com/natural/20260802/11606373/estabilizado-incendio-forestal-casas-millan-quemar-1-352-hectareas.html",
-    "resumen": "Se ha levantado el confinamiento domiciliario de las localidades de Casas de Millán y Grimaldo"
   },
   {
     "titulo": "Consejos y recomendaciones para ver y disfrutar del eclipse solar en España con seguridad",
@@ -224,53 +371,11 @@
     "resumen": ""
   },
   {
-    "titulo": "España, arrinconada ante la reunión de la UE por la crisis migratoria en Ceuta",
-    "medio": "Expansión",
-    "fecha": 1785697671.0,
-    "link": "https://www.expansion.com/economia/2026/08/02/6a6f9342468aeb6a5a8b459a.html",
-    "resumen": "Los ministros de Interior europeos se reúnen este martes. Sánchez denuncia la falta de solidaridad, mientras que 22 países avisan del efecto llamada del proceso de regularización. Leer"
-  },
-  {
-    "titulo": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
-    "medio": "The Objective",
-    "fecha": 1785697581.0,
-    "link": "https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/",
-    "resumen": "El presidente del PP, Alberto Núñez Feijóo, ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con […]"
-  },
-  {
-    "titulo": "Seis muertos y 30 heridos en una colisión entre un autobús y una autocaravana en Italia",
-    "medio": "La Vanguardia",
-    "fecha": 1785697466.0,
-    "link": "https://www.lavanguardia.com/internacional/20260802/11606366/seis-muertos-30-heridos-colision-autobus-autocaravana-italia.html",
-    "resumen": "Han fallecido los dos conductores del autobús, dos pasajeros y dos ocupantes de la autocaravana"
-  },
-  {
     "titulo": "La NASA soñó con llevarnos al espacio como en un avión: 15 años después, el transbordador sigue siendo irrepetible",
     "medio": "Xataka",
     "fecha": 1785697303.0,
     "link": "https://www.xataka.com/espacio/nasa-sono-llevarnos-al-espacio-como-avion-15-anos-despues-transbordador-sigue-siendo-irrepetible",
     "resumen": "Hubo una época en la que viajar al espacio pareció acercarse, al menos en apariencia, a algo que ya conocíamos: despegar, cumplir una misión y volver a una pista. El Space Shuttle nunca fue un avión, aunque durante tres décadas nos acostumbramos a verlo como si lo fuera: una nave acoplada a un enorme tanque externo y a dos aceleradores sólidos, capaz de trabajar en órbita y obligada a regresar planeando, sin una segunda oportunidad al final. Ahí empieza su rareza. La NASA no construyó solo una nave espacial, sino una promesa técnica difícil de sostener: hacer que la órbita pareciera un destino menos excepcional. Cuando Atlantis se detuvo en Florida el 21 de julio de 2011, el programa del transbordador espacial no terminó con un estallido, sino con una maniobra precisa sobre una pista. La imagen tenía algo de final inevitable: la agencia estadounidense despedía un sistema que había lanzado satélites, llevado astronautas, servido como laboratorio y ayudado a construir la Estación Espacial Internacional. Desde entonces hemos aprendido a reutilizar cohetes y a enviar tripulaciones en cápsulas comerciales, pero no hemos vuelto a reunir tantas funciones en un solo vehículo. Ahí empieza la diferencia entre reemplazar una capacidad y repetir una idea. El sueño de hacer del espacio un destino al que pudiéramos volver una y otra vez Para entender esa ambición hay que volver a 1972, cuando Estados Unidos decidió que el siguiente gran paso después de Apolo no sería otra carrera lunar, sino un vehículo reutilizable para operar en la órbita terrestre. El objetivo oficial era claro: si una misma nave podía utilizarse una y otra vez, el acceso al espacio sería más frecuente, menos caro y menos lento de preparar. Visto desde hoy, sabemos que esa ecuación no salió como se esperaba, pero en aquel momento ofrecía una salida lógica a una pregunta enorme: qué hacer con el programa espacial una vez terminada la edad heroica de la Luna. Para que aquella idea funcionara, la NASA tuvo que aceptar una arquitectura menos limpia de lo que sugería la palabra reutilizable. El transbordador combinaba un orbitador alado, dos aceleradores sólidos y un tanque externo que alimentaba los motores principales durante el ascenso. Solo una parte del sistema volvía intacta y otra podía recuperarse después del lanzamiento; el depósito central, en cambio, se perdía en cada vuelo. Era una solución brillante y llena de concesiones, porque acercaba el sueño de volver a usar una nave sin llegar nunca a cerrar del todo el círculo. La reutilización tuvo que pasar por un filtro mucho más terrenal: el de la política, el presupuesto y los requisitos de quienes iban a financiar o utilizar el sistema. La NASA no diseñaba solo para sus misiones científicas, sino también para un país que quería justificar el gasto espacial en plena transición posterior a Apolo y para un Departamento de Defensa interesado en ciertas capacidades orbitales. Así, el transbordador empezó a cargar con una tensión que lo acompañaría durante toda su vida: debía parecer una solución práctica y, a la vez, responder a expectativas muy distintas. Por eso su forma acabó siendo tan reconocible. Las alas no estaban ahí para que el transbordador pareciera más cercano a un avión, sino para permitirle maniobrar durante el regreso y aterrizar en una pista con cierta capacidad de desplazamiento lateral. La gran bodega de carga, de unos 18 metros de largo, respondía a otra necesidad: transportar satélites, laboratorios y piezas voluminosas que no cabían en una cápsula. Lo que hemos recordado como una silueta de ciencia ficción era, en realidad, una acumulación de requisitos convertidos en fuselaje, alas y puertas enormes. Lo que hemos visto hasta aquí explica una parte de su rareza, pero no toda. El Shuttle no fue irrepetible solo por su silueta, sino porque la NASA intentó convertirlo en una herramienta para casi todo: llevar astronautas, subir satélites, alojar experimentos, llevar laboratorios, reparar equipos en órbita, montar la Estación Espacial Internacional y devolver cargas a casa. Esa ambición produjo algunas de las misiones más extraordinarias de la historia espacial, aunque también encerraba una contradicción difícil de sostener: cuanto más hacía la nave, más lejos quedaba la idea de una operación simple. Esa complejidad se volvía especialmente visible al final de cada misión. Después de sobrevivir a la reentrada, el orbitador ya no tenía motores para corregir el resultado como haría un avión en una aproximación frustrada: tenía que administrar la energía que le quedaba y convertirla en una llegada limpia a la pista. La NASA describe esa fase como un planeo sin potencia, pero las cifras explican mejor la dificultad: a unos tres kilómetros del aterrizaje, la nave podía avanzar a casi 580 km/h con una pendiente de unos 22 grados. La metáfora del “ladrillo con alas” ayuda a entender por qué aquella maniobra imponía tanto respeto. Si has visto fotos antiguas del Shuttle, puede que alguna te haya llamado la atención por un detalle raro: el tanque externo aparece blanco, no naranja. La imagen es real. Los dos primeros vuelos de Columbia usaron esa pintura, pero la NASA la eliminó desde STS-3 para ahorrar unas 600 libras, unos 272 kilos, y dejar a la vista la espuma aislante del depósito. El color que hoy asociamos al transbordador no nació como una gran decisión estética, sino como una forma muy concreta de quitar peso allí donde podía quitarse. Esa misma lógica aparecía en la piel del orbitador. Para regresar atravesando la atmósfera, el Shuttle necesitaba un sistema de protección térmica capaz de soportar temperaturas extremas sin trasladar ese calor a la estructura de aluminio que había debajo. La solución combinaba losetas cerámicas reutilizables, mantas aislantes y materiales más resistentes en las zonas más castigadas, como el borde de ataque de las alas. Sobre el papel era una maravilla: una nave enorme protegida por una superficie diseñada pieza a pieza. En la práctica, convertía cada misión en una inspección minuciosa antes y después del vuelo. La factura terminó mostrando el mismo patrón que la ingeniería. El transbordador podía reutilizar partes clave, pero cada misión arrastraba una cadena de preparación, mantenimiento, inspecciones, repuestos, personal e infraestructura que hacía muy difícil convertirlo en un transporte barato y frecuente. La NASA había hablado al inicio del programa de menos de 10 millones de dólares por vuelo, en dólares de la época; décadas después, Roger Pielke Jr. y Radford Byerly estimaron un coste medio de unos 1.200 millones de dólares de 2010 por lanzamiento en los años operativos, y de unos 1.500 millones si se incluía toda la vida del programa. En Xataka La nave que iba a salvar un telescopio de la NASA ahora necesita que la salven a ella Por eso el final del Shuttle no fue solo la retirada de una flota. Fue también el cierre de una forma de pensar el acceso humano a la órbita, puesta en duda por Challenger, golpeada de nuevo por Columbia y demasiado cara para sostener el objetivo con el que había nacido. Buran fue el único reflejo comparable, pero quedó en un vuelo orbital automático. X-37B y Dream Chaser conservan parte de la intuición del avión espacial; Starship, la apuesta por la reutilización a gran escala. Ninguno recupera el paquete completo. Lo que permanece del transbordador no es un modelo a repetir, sino una advertencia fascinante sobre lo que ocurre cuando una nave intenta resolverlo todo. Imágenes | NASA (1, 2, 3, 4, 5, 6) En Xataka | Un estudio decía que los árboles \"sienten\" los eclipses con 14 horas de antelación. La explicación real es mucho más aburrida - La noticia La NASA soñó con llevarnos al espacio como en un avión: 15 años después, el transbordador sigue siendo irrepetible fue publicada originalmente en Xataka por Javier Marquez ."
-  },
-  {
-    "titulo": "El radar de Madrid que más multa está en la M-40 muy cerca de Mercamadrid",
-    "medio": "OK Diario",
-    "fecha": 1785697255.0,
-    "link": "https://okdiario.com/motor/radar-madrid-que-mas-multa-esta-m-40-muy-cerca-mercamadrid-19113986",
-    "resumen": "Madrid tiene el radar que más multa en España, en la M-40 y muy cerca de Mercamadrid. La realidad es que este tipo de elementos que tienen como misión salvaguardar la seguridad de las personas, puede convertirse en un auténtico dolor de cabeza para los que se encuentran con una multa que quizás no esperaba. … Continuar leyendo \"El radar de Madrid que más multa está en la M-40 muy cerca de Mercamadrid\""
-  },
-  {
-    "titulo": "El elegante vestido de hace siete años que ha vuelto a poner de moda la Reina Letizia",
-    "medio": "OK Diario",
-    "fecha": 1785697251.0,
-    "link": "https://okdiario.com/cool/moda/elegante-vestido-hace-siete-anos-que-vuelto-poner-moda-reina-letizia-19113925",
-    "resumen": "Ha vuelto a poner de moda la Reina Letizia este elegante vestido que hace siete años causó sensación, un modelo en negro y dorado que nos demuestra que el negro también se lleva en verano. Lo que parecía imposible, se ha convertido en una realidad, en especial, con una reina de España que no duda … Continuar leyendo \"El elegante vestido de hace siete años que ha vuelto a poner de moda la Reina Letizia\""
-  },
-  {
-    "titulo": "Indemnizan a un trabajador con 42.671 euros por despedirle por no fichar durante una semana",
-    "medio": "OK Diario",
-    "fecha": 1785697247.0,
-    "link": "https://okdiario.com/economia/indemnizan-trabajador-42-671-euros-despedirle-no-fichar-durante-semana-19113961",
-    "resumen": "Un despido por no fichar durante una semana ha acabado costando a la empresa 42.671 euros. Un precio que puede acabar siendo lo que nos dará como ejemplo lo que pueden hacer o no los trabajadores. En estos últimos tiempos el hecho de fichar para controlar la jornada laboral se ha convertido en una realidad. … Continuar leyendo \"Indemnizan a un trabajador con 42.671 euros por despedirle por no fichar durante una semana\""
   },
   {
     "titulo": "Del pienso a la 'leche': la malagueña que convierte el bagazo de la cerveza en una bebida con el triple de proteína que la avena",
@@ -294,27 +399,6 @@
     "resumen": "Marvel lo ha hecho de nuevo y vuelve a marcar historia. Spider-Man: Brand New Day está a punto de convertirse en uno de los grandes estrenos del año y quizás de la década. Lo que deja claro que, a pesar de los sinsabores y algún que otro traspiés, el estudio sigue demostrando que todavía hay […] Seguir leyendo: Cinco personajes de Marvel que marcaron historia"
   },
   {
-    "titulo": "Nicolás Maduro celebra desde prisión \"todo camino de diálogo\" en Venezuela",
-    "medio": "El Mundo",
-    "fecha": 1785697049.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/02/6a6f930fe85ece54078b4575.html",
-    "resumen": "\"Saludamos todo camino de diálogo que ayude a consolidar la paz, la convivencia y el encuentro entre venezolanos\", asegura el ex mandatario Leer"
-  },
-  {
-    "titulo": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
-    "medio": "The Objective",
-    "fecha": 1785696859.0,
-    "link": "https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/",
-    "resumen": "El secretario general del PP, Miguel Tellado, ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada […]"
-  },
-  {
-    "titulo": "Monte dei Paschi analiza la compra de Banco BPM",
-    "medio": "Expansión",
-    "fecha": 1785696831.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/08/02/6a6f8e8ae5fdea63458b457c.html",
-    "resumen": "Monte dei Paschi di Siena (MPS) explora alternativas para hacer frente a la opa hostil lanzada por Intesa Sanpaolo, entre ellas una posible adquisición de Banco BPM, después de que el viernes fracasaran las conversaciones para una \"fusión entre iguales\" entre ambas entidades. Leer"
-  },
-  {
     "titulo": "Espionaje marroquí: así operan la DGST y la DGED contra políticos, periodistas y activistas",
     "medio": "Moncloa.com",
     "fecha": 1785695530.0,
@@ -329,60 +413,11 @@
     "resumen": "La activación de la opción para visualizar la ubicación de los fuegos activos y los efectos en el tráfico en el navegador del coche se convierte en una herramienta fundamental en los desplazamientos en vacaciones Operación salida en coche eléctrico: mapas y apps para recargar con facilidad Los incendios forestales que afectan a distintos puntos de España no solo obligan a desalojos, confinamientos y movilizan a los servicios de emergencia. También provocan cortes de carreteras y alteraciones del tráfico que pueden sorprender a miles de conductores en plena operación salida o durante sus desplazamientos de vacaciones. Para minimizar estos riesgos, aplicaciones como Google Maps incorporan herramientas que permiten conocer en tiempo real si una ruta atraviesa una zona afectada por un incendio forestal o por otra emergencia, mientras que la Dirección General de Tráfico (DGT) y otros servicios especializados ofrecen información adicional sobre incidencias y restricciones a la circulación. Cómo activar las alertas de Google Maps Google Maps integra un sistema de alertas de crisis que informa de emergencias activas como incendios forestales, inundaciones, terremotos o tormentas tropicales. Estas advertencias aparecen automáticamente cuando el usuario busca una zona afectada o cuando el itinerario seleccionado atraviesa un área en la que existe una emergencia. Al pulsar sobre la alerta o el icono correspondiente, la aplicación abre una ficha con información adicional, noticias relacionadas, recomendaciones de seguridad y, cuando está disponible, datos proporcionados por las autoridades competentes. Además, los usuarios pueden consultar específicamente los incendios activos en cualquier lugar fuera de su ubicación activando la capa de incendios forestales desde el menú de capas de la aplicación. También es posible localizarlos realizando búsquedas como “incendios forestales” o el nombre concreto de un incendio. Cómo interpreta Google los incendios En el mapa, Google representa los incendios mediante diferentes elementos visuales. Los focos activos aparecen con iconos o pequeños círculos rojos, mientras que las áreas afectadas pueden mostrarse mediante contornos rojos que delimitan de forma aproximada la superficie del incendio. Las zonas coloreadas en amarillo indican áreas donde existe menor probabilidad de actividad activa. La compañía recuerda que esta representación es orientativa y puede diferir varios kilómetros de la realidad debido a las limitaciones de los sistemas de observación por satélite. Por ello recomienda seguir siempre las instrucciones de Protección Civil y de las autoridades responsables de la gestión de la emergencia. Para elaborar estos mapas, Google combina imágenes obtenidas por satélites meteorológicos internacionales con modelos de inteligencia artificial capaces de identificar cambios térmicos y de vegetación prácticamente en tiempo real. La información también se nutre de Alertas SOS de Google, Alertas Públicas y organismos especializados en la monitorización de incendios. Indicencia por un incendio en el mapa de la DGT La DGT también informa de carreteras afectadas Otra herramienta útil para planificar un desplazamiento es el mapa interactivo de incidencias de la Dirección General de Tráfico. Desde su visor es posible activar la capa específica de incendios forestales, que muestra las carreteras afectadas y las restricciones vigentes, junto al resto de incidencias de circulación, obras, accidentes o retenciones. Esta información resulta especialmente útil para comprobar si existen cortes totales o desvíos antes de iniciar un viaje, especialmente en zonas rurales o de montaña donde la evolución del fuego puede obligar a cerrar vías con poca antelación. Otras alternativas para seguir la evolución del fuego Además de Google Maps y la información oficial de la DGT, existen plataformas especializadas que recopilan la evolución de los incendios forestales sobre cartografía interactiva y permiten consultar los focos activos prácticamente en tiempo real. Una de las más completas es el portal incendiosespaña.es. Estas herramientas complementan la información oficial, aunque los expertos recuerdan que cualquier decisión sobre desplazamientos debe basarse siempre en las indicaciones de las autoridades a través de canales oficiales y de sus redes sociales y no únicamente en aplicaciones de navegación, ya que la evolución de un incendio puede cambiar en cuestión de minutos."
   },
   {
-    "titulo": "Cinco muertos en un atentado dirigido contra un general vinculado a la matanza de Bucha",
-    "medio": "El Mundo",
-    "fecha": 1785695381.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/02/6a6f3715fdddff83028b458e.html",
-    "resumen": "La hija del mando militar ruso Alexander Chayko, a quien iba dirigido el paquete, está entre los heridos graves. En la lista de víctimas figura el marido de ésta Leer"
-  },
-  {
-    "titulo": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
-    "medio": "El Mundo",
-    "fecha": 1785695350.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html",
-    "resumen": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer"
-  },
-  {
-    "titulo": "Facsa y Calaf arrebatan a Veolia el agua de La Garriga",
-    "medio": "Expansión",
-    "fecha": 1785695346.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/02/6a6f870ee5fdea4e228b4578.html",
-    "resumen": "La UTE de la empresa castellonense y la constructora catalana se impone a otros siete candidatos en el concurso convocado por el municipio barcelonés. Leer"
-  },
-  {
     "titulo": "‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la historia",
     "medio": "Hipertextual",
     "fecha": 1785695221.0,
     "link": "https://hipertextual.com/cine-television/spider-man-brand-new-day-arrasa-en-taquilla-segundo-mejor-estreno-de-la-historia/",
     "resumen": "El estreno en cines de Spider-Man: Brand New Day no ha defraudado en absoluto. La nueva película protagonizada por Tom Holland llegaba a las salas cinco años después del éxito colosal que fue No Way Home. La misión era muy difícil: igualar semejante gesta. Pero no es solo que la nueva película haya gustado tanto […] Seguir leyendo: ‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la historia"
-  },
-  {
-    "titulo": "El CETI de Ceuta, un polvorín a punto de estallar",
-    "medio": "La Vanguardia",
-    "fecha": 1785695121.0,
-    "link": "https://www.lavanguardia.com/politica/20260802/11606354/ceti-ceuta-polvorin-punto-estallar.html",
-    "resumen": "Un millar de inmigrantes, que se niegan a volver a Marruecos de forma voluntaria, esperan cada vez más nerviosos su turno para acceder a las instalaciones en las que encontrar el agua y la comida, que no encuentran en la calle"
-  },
-  {
-    "titulo": "Hannun firma un crédito con Andbank, que podrá entrar en su capital",
-    "medio": "Expansión",
-    "fecha": 1785694893.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/02/6a6f8aa6468aeb0f4c8b4583.html",
-    "resumen": "El banco presta un millón de euros a la compañía cotizada de muebles artesanales, de la que podrá tomar el 2,47% por un euro. Leer"
-  },
-  {
-    "titulo": "Drones que cargan 100 kilos de plátanos: la isla rival de Canarias prueba cómo salvar las fincas a las que ya no se puede llegar",
-    "medio": "HuffPost",
-    "fecha": 1785693875.0,
-    "link": "https://www.huffingtonpost.es/sociedad/drones-cargan-100-kilos-platanos-isla-rival-canarias-prueba-como-salvar-fincas-llegar-f202608.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Creíamos que eran de adorno, pero no: estas princesas del Antiguo Egipto sí usaban sus armas. Lo dicen sus huesos",
-    "medio": "Xataka",
-    "fecha": 1785693703.0,
-    "link": "https://www.xataka.com/magnet/creiamos-que-eran-adorno-no-estas-princesas-antiguo-egipto-usaban-sus-armas-dicen-sus-huesos",
-    "resumen": "Los ajuares fúnebres son un auténtico filón: la arqueología los encuentra y la antropología trata de encontrarles una explicación. Cuando hace más de un siglo se hallaron armas en las tumbas de varias princesas del antiguo Egipto, se interpretó que estaban ahí por prestigio o como símbolo ritual, no porque sus dueñas fueran una especie de Xena, la princesa guerrera. Sin embargo, un vistazo más a fondo a los esqueletos de la necrópolis real de Dahshur ha encontrado marcas de desgaste que apuntan a otra cosa: sí las usaban. Los huesos no mienten. Lo que los huesos dicen. El equipo, liderado por Zeinab Hashesh de la Universidad de Beni-Suef y otros investigadores de Egipto y el Reino Unido, ha vuelto a analizar los restos óseos del rey Hor y de cinco princesas, a saber: Ita, Khenmet, Itaweret, Noub-Hotep y un cuerpo femenino no identificado, pero probablemente la princesa Sathathormeryt. De su investigación ha descubierto algo: tenían callo con las armas, literal. Por qué es importante. Porque existe una idea muy extendida en la egiptología clásica según la cual la presencia de armamento en tumbas femeninas de la realeza tenía una función exclusivamente simbólica o religiosa, ligada al título mesu-nisut (\"Hijas del Rey\"). Pero, según este nuevo estudio, estas princesas usaban de verdad arcos, flechas, mazas y dagas. Esta realidad obliga a reconsiderar el papel de algunas mujeres de la élite del Antiguo Egipto, ya que tradicionalmente se asumía que existía una división de tareas según el género para este tipo de actividades físicas exigentes. Contexto. Los restos del rey Hor y de las cinco mujeres de la realeza fueron descubiertos en 1894-1895 en la necrópolis de Dahshur por el arqueólogo francés Jacques de Morgan. En su momento, el médico Daniel Marie Fouquet examinó de forma somera al rey y a Noub-Hotep, pero durante los más de 100 años siguientes nunca hubo un estudio osteológico completo del resto del grupo. No fue hasta 2020, en el marco del Bioarchaeological Remains Curation Project del Museo Egipcio de El Cairo, cuando estos huesos volvieron a la palestra. En Xataka Hace más de 3.000 años Europa ya acogía batallas que implicaban a varias regiones. Lo sabemos gracia a unas flechas En detalle. Aplicando análisis osteológico sistemático, radiografías y espectroscopia infrarroja sobre materiales de momificación, documentaron que las princesas tenían un desarrollo muy marcado de las inserciones musculares del hombro, brazo y mano, algo propio de ejecutar muchas veces el gesto de tensar un arco. En el caso de Ita, había adaptaciones óseas que apuntaban al manejo continuado de dagas o mazas. Y Noub-Hotep tenía un arqueamiento en un metacarpiano, una deformación que probablemente corresponde con el uso de flechas. En análisis reveló además que los cuerpos fueron embalsamados con una mezcla de incienso y resina de enebro, materiales de importación, lo que confirma el estatus elevado de estos cuerpos. Sí, pero. Como los propios autores advierten, cinco princesas es una muestra muy reducida como para extraer la conclusión de que todas las mujeres de la familia real egipcia participaran en combates o desempeñaran funciones militares. El registro óseo muestra patrones compatibles con el uso de armas, pero no es posible precisar el contexto exacto: puede ser entrenamiento, caza o guerra. En resumen: los huesos hablan, pero no cuentan toda la historia. Por otro lado, faltan los cráneos de casi todos los individuos y la conservación ósea es parcial, lo que unido a la no certeza de la identificación del quinto cuerpo femenino hace que algunas conclusiones se apoyen más en la lógica del contexto que en pruebas definitivas. De hecho, la posible identificación de la princesa Sathathormeryt se basa solo en los objetos hallados junto a ella. En Xataka | Hace 2.000 años alguien metió la pata en una fundición. Gracias a ella hemos descubierto un taller romano escondido en Alemania En Xataka | Canadá envió un submarino a 400 metros frente a Groenlandia. Ha encontrado el naufragio del legendario barco de Shackleton Portada | Frontiers in Environmental Archaeology (Hashesh, Gabr y Walker, 2026, DOI: 10.3389/fearc.2026.1844402 - La noticia Creíamos que eran de adorno, pero no: estas princesas del Antiguo Egipto sí usaban sus armas. Lo dicen sus huesos fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
     "titulo": "Las sandalias de cuña más bonitas del verano están en las rebajas de El Corte Inglés: color muy ponible y diseño joya elegantísimo",
@@ -392,6 +427,13 @@
     "resumen": "Las sandalias con cuña plana que recuerda a las plataformas tienen un encanto más rompedor y streetwear, que hace que nuestros looks siempre parezcan más cool. Es el caso de las sandalias rebajadas de Gioseppo, en un color negro versátil y sofisticado bien aderezado con detalles de strass. Estas sandalias con empeine de brillantes y sujetas al tobillo tienen una suela amortiguada y blanda, ideal para pies anchos y para caminar muchas horas sin dolor. Comodidad y elegancia no están reñidas y Gioseppo nos ha dejado la prueba: se sienten como sandalias Skechers y lucen como sandalias de lujo, por 69,95 euros 49,95 euros. Como su diseño joya merece todas las atenciones, lo ideal es lucirlas con prendas cortas que no tapen los pies. Esta combi nos ha conquistado: pantalones capri súper franceses, una blusa bonita y unas gafas de sol de tendencia acompañan a las sandalias para conseguir el look insider definitivo. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | @alenavbas, El Corte Inglés. En Trendencias | Unos vaqueros para vestir una revolución: así pasaron los Levi's de los mineros americanos a la cultura hippie y al rock & roll. En Xataka | En 1759 unos piratas compraron una isla de EEUU. Desde entonces hablan una versión tan inglesa del inglés que nadie los entiende. En DAP | Los cocineros gallegos coinciden: “Los mejillones al vapor mejoran si no los amontonas y echas la cantidad justa de albariño”. - La noticia Las sandalias de cuña más bonitas del verano están en las rebajas de El Corte Inglés: color muy ponible y diseño joya elegantísimo fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
+    "titulo": "Creíamos que eran de adorno, pero no: estas princesas del Antiguo Egipto sí usaban sus armas. Lo dicen sus huesos",
+    "medio": "Xataka",
+    "fecha": 1785693703.0,
+    "link": "https://www.xataka.com/magnet/creiamos-que-eran-adorno-no-estas-princesas-antiguo-egipto-usaban-sus-armas-dicen-sus-huesos",
+    "resumen": "Los ajuares fúnebres son un auténtico filón: la arqueología los encuentra y la antropología trata de encontrarles una explicación. Cuando hace más de un siglo se hallaron armas en las tumbas de varias princesas del antiguo Egipto, se interpretó que estaban ahí por prestigio o como símbolo ritual, no porque sus dueñas fueran una especie de Xena, la princesa guerrera. Sin embargo, un vistazo más a fondo a los esqueletos de la necrópolis real de Dahshur ha encontrado marcas de desgaste que apuntan a otra cosa: sí las usaban. Los huesos no mienten. Lo que los huesos dicen. El equipo, liderado por Zeinab Hashesh de la Universidad de Beni-Suef y otros investigadores de Egipto y el Reino Unido, ha vuelto a analizar los restos óseos del rey Hor y de cinco princesas, a saber: Ita, Khenmet, Itaweret, Noub-Hotep y un cuerpo femenino no identificado, pero probablemente la princesa Sathathormeryt. De su investigación ha descubierto algo: tenían callo con las armas, literal. Por qué es importante. Porque existe una idea muy extendida en la egiptología clásica según la cual la presencia de armamento en tumbas femeninas de la realeza tenía una función exclusivamente simbólica o religiosa, ligada al título mesu-nisut (\"Hijas del Rey\"). Pero, según este nuevo estudio, estas princesas usaban de verdad arcos, flechas, mazas y dagas. Esta realidad obliga a reconsiderar el papel de algunas mujeres de la élite del Antiguo Egipto, ya que tradicionalmente se asumía que existía una división de tareas según el género para este tipo de actividades físicas exigentes. Contexto. Los restos del rey Hor y de las cinco mujeres de la realeza fueron descubiertos en 1894-1895 en la necrópolis de Dahshur por el arqueólogo francés Jacques de Morgan. En su momento, el médico Daniel Marie Fouquet examinó de forma somera al rey y a Noub-Hotep, pero durante los más de 100 años siguientes nunca hubo un estudio osteológico completo del resto del grupo. No fue hasta 2020, en el marco del Bioarchaeological Remains Curation Project del Museo Egipcio de El Cairo, cuando estos huesos volvieron a la palestra. En Xataka Hace más de 3.000 años Europa ya acogía batallas que implicaban a varias regiones. Lo sabemos gracia a unas flechas En detalle. Aplicando análisis osteológico sistemático, radiografías y espectroscopia infrarroja sobre materiales de momificación, documentaron que las princesas tenían un desarrollo muy marcado de las inserciones musculares del hombro, brazo y mano, algo propio de ejecutar muchas veces el gesto de tensar un arco. En el caso de Ita, había adaptaciones óseas que apuntaban al manejo continuado de dagas o mazas. Y Noub-Hotep tenía un arqueamiento en un metacarpiano, una deformación que probablemente corresponde con el uso de flechas. En análisis reveló además que los cuerpos fueron embalsamados con una mezcla de incienso y resina de enebro, materiales de importación, lo que confirma el estatus elevado de estos cuerpos. Sí, pero. Como los propios autores advierten, cinco princesas es una muestra muy reducida como para extraer la conclusión de que todas las mujeres de la familia real egipcia participaran en combates o desempeñaran funciones militares. El registro óseo muestra patrones compatibles con el uso de armas, pero no es posible precisar el contexto exacto: puede ser entrenamiento, caza o guerra. En resumen: los huesos hablan, pero no cuentan toda la historia. Por otro lado, faltan los cráneos de casi todos los individuos y la conservación ósea es parcial, lo que unido a la no certeza de la identificación del quinto cuerpo femenino hace que algunas conclusiones se apoyen más en la lógica del contexto que en pruebas definitivas. De hecho, la posible identificación de la princesa Sathathormeryt se basa solo en los objetos hallados junto a ella. En Xataka | Hace 2.000 años alguien metió la pata en una fundición. Gracias a ella hemos descubierto un taller romano escondido en Alemania En Xataka | Canadá envió un submarino a 400 metros frente a Groenlandia. Ha encontrado el naufragio del legendario barco de Shackleton Portada | Frontiers in Environmental Archaeology (Hashesh, Gabr y Walker, 2026, DOI: 10.3389/fearc.2026.1844402 - La noticia Creíamos que eran de adorno, pero no: estas princesas del Antiguo Egipto sí usaban sus armas. Lo dicen sus huesos fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
     "titulo": "5 películas de terror que seguro no conoces y que puedes ver ahora mismo en streaming",
     "medio": "Hipertextual",
     "fecha": 1785693600.0,
@@ -399,25 +441,11 @@
     "resumen": "El género de terror atraviesa una de sus épocas más lucrativas y creativas. Lo que le ha convertido en un pilar fundamental del cine en la actualidad. Con experimentos como Weapons, dirigida por Zach Cregger, y Los pecadores de Ryan Coogler, las historias espeluznantes han logrado una nueva importancia. Eso, mientras éxitos de sagas queridas […] Seguir leyendo: 5 películas de terror que seguro no conoces y que puedes ver ahora mismo en streaming"
   },
   {
-    "titulo": "La ronda de Dalt pierde un carril en agosto por las obras de cobertura en Vall d’Hebron",
-    "medio": "La Vanguardia",
-    "fecha": 1785692962.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260802/11606335/ronda-dalt-pierde-carril-agosto-obras-cobertura-vall-hebron.html",
-    "resumen": "La supresión del carril de la derecha en ambos sentidos permitirá avanzar en las instalaciones de seguridad, iluminación y ventilación del futuro túnel entre las salidas 5 y 6"
-  },
-  {
     "titulo": "La invencible sprinter Lorena Wiebes logra en Ginebra su segunda victoria en el Tour femenino",
     "medio": "El País",
     "fecha": 1785692619.0,
     "link": "https://elpais.com/deportes/ciclismo/2026-08-02/la-invencible-sprinter-lorena-wiebes-logra-en-ginebra-su-segunda-victoria-en-el-tour-femenino.html",
     "resumen": "La velocista neerlandesa, de 27 años, se ha impuesto en 54 de los últimos 55 sprints que ha disputado"
-  },
-  {
-    "titulo": "Ucrania vuelve a atacar con drones un almacén ruso de Wildberries y mata a cinco personas",
-    "medio": "La Vanguardia",
-    "fecha": 1785692032.0,
-    "link": "https://www.lavanguardia.com/internacional/20260802/11606325/ucrania-ataca-drones-almacen-ruso-wildberries-mata-cinco-personas.html",
-    "resumen": "Kyiv ha lanzado más de una docena de campañas contra los almacenes de esta empresa como parte de una campaña aérea destinada a socavar el esfuerzo bélico de Moscú y perjudicar su economía"
   },
   {
     "titulo": "Qué es la EBAU y cómo funciona la selectividad: guía completa para acceder a la universidad",
@@ -469,13 +497,6 @@
     "resumen": "Protecció Civil llama a extremar la vigilancia tras 35 ahogamientos mortales en lo que va de año. Playas, piscinas y aguas interiores concentran el riesgo en plena ola de calor. La entrada Protecció Civil alerta de 35 ahogamientos en Cataluña en 2026 y pide prudencia en playas y piscinas aparece primero en Moncloa."
   },
   {
-    "titulo": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
-    "medio": "Xataka",
-    "fecha": 1785690103.0,
-    "link": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
-    "resumen": "Los libros infantiles son uno de los regalos más habituales para los pequeños de la casa, pero últimamente hay un tipo de libro que se está volviendo más popular: los libros personalizados. Haciendo una búsqueda nos encontramos con infinidad de webs que permiten crear un libro totalmente personalizado a partir de las fotos del niño o niña en cuestión. Todo usando IA, claro. A muchos padres no les está haciendo ninguna gracia. Slop de IA con la cara de tu hijo. Hay todo un boom de herramientas que generan cuentos infantiles a partir de fotos de niños reales. En estos libros se presenta al niño como protagonista, con su nombre, su cara y hasta detalles de su vida. Estas herramientas permiten crear uno de estos libros en cuestión de minutos seleccionando la temática, el estilo y más detalles. Una vez creado, lo imprimen y te lo envían a casa. Los resultados, a juzgar por las imágenes que hay en muchas de estas webs, son bastante cutres y se nota a kilómetros que están hechos con IA. He subido una foto de Manolito Gafotas y me ha creado esta fantasIA Padres contra abuelos. En Wired recogen el caso de un usuario de Reddit cuya madre seguía intentando crear uno de estos libros pese a que él le había pedido explícitamente que no usara fotos ni datos de su hijo. Es el patrón que se repite: no son los padres quienes compran estos libros, sino abuelos y familiares de otra generación convencidos de que es un regalo entrañable. Esto choca de frente con el rechazo hacia la IA generativa que está mucho más extendido entre padres jóvenes. Por qué es importante. No es simplemente una cuestión estética, están en juego cuestiones mucho más importantes como la privacidad de los menores. Al final estás subiendo imágenes de sus caras y la preocupación de que sean vendidas a terceros o se usen para entrenar modelos está ahí. En una de las herramientas que he probado dicen que las imágenes se borran en 24 horas si no creas el libro, pero si haces un pedido las guardan durante un año, aunque no las comparten con terceros. También está la cuestión del consentimiento. Muchos padres no han dado permiso para subir las fotos a estas plataformas y se enteran cuando sus hijos reciben el libro de regalo. En Xataka Podríamos suponer que el mundo de las plantas era uno de los últimos rincones libres de IA. Estaríamos equivocados Libros mediocres. Para sorpresa de nadie, no sólo es que las imágenes sean cutres, los libros también lo son. Daozhi Xu, investigadora de la Universidad Macquarie, publicó un análisis sobre este tipo de libros y apunta la clave: un niño no adora un cuento porque salga su nombre, lo adora si la historia es buena. Estos libros, dice, están llenos de errores ortográficos y alucinaciones, como dibujos que no coinciden con el texto o historias que simplemente no tienen sentido. Algunos ni siquiera cumplen con el criterio más básico que es ser adecuados para la edad del menor. Esto es clave ya que no ayudan a que mejore su comprensión lectora ni su vocabulario. Y bastante caros. He estado buceando por distintas plataformas de creación de este tipo de libros y no son precisamente baratos. Uno de estos libros hecho con IA puede costar 35 euros, como es el caso de Librio e Imagitime, aunque si lo quieres con tapa dura son 45 euros. En la plataforma Libro Infantil Mágico son un poco más económicos: 27,99 euros impreso y 6,99 euros en ebook. Si echamos un vistazo a cualquier tienda de libros online podemos encontrar bastantes libros infantiles entre 10 y 15 euros, y hablo de libros originales, creados por humanos. Al final acabas pagando más por un libro peor escrito, peor ilustrado y que probablemente tu hijo abandone a la segunda página, todo porque tiene su nombre y su cara (o una parecida). Imagen | Xataka con Magnific En Xataka | Etsy quería ser el refugio de lo auténtico. Se ha convertido en un mercadillo de IA que se vende como artesanal - La noticia Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA fue publicada originalmente en Xataka por Amparo Babiloni ."
-  },
-  {
     "titulo": "Dani García, chef: \"Las berenjenas más ricas se hacen al microondas con un poco de agua, aceite de oliva, un poco de queso fresco, salmón ahumado y frutos secos\"",
     "medio": "Trendencias",
     "fecha": 1785690103.0,
@@ -483,18 +504,18 @@
     "resumen": "Lo he comprobado con mis propios ojos y sigo sin creerme que sea posible tener una cena tan completa y elaborada sin apenas esfuerzo y en tiempo récord. Solo se necesita un cuarto de hora y un microondas así que me atrevo a decir que esta del Chef Dani García es la receta más fácil que existe. Además, también es de lo más saludable. Ingredientes Para 1 persona 1 ud. Berenjena Aceite de oliva virgen extra Queso fresco Salmón ahumado Hierbabuena Frutos secos Cómo hacer berenjenas al microondas Dificultad: Fácil Tiempo total 15 min Elaboración 5 min Cocción 10 min Empezamos lavando bien la berenjena y haciendo un corte superficial a lo ancho de todo el diámetro de la hortaliza y a la altura del pedúnculo. Después, hacemos unos pequeños cortes, distribuidos por distintas partes del fruto, clavándole la punta de un cuchillo. Ponemos la berenjena sobre un plato o recipiente apto para microondas y rociamos con un poco de aceite de oliva virgen extra. Cubrimos bien el plato con papel film a modo de tapa e introducimos, después, al microondas. Cinco minutos por cada lado a 1000 vatios será suficiente para que salga perfectamente cocinada. Retiramos el film transparente y procedemos a pelar la berenjena, cuya piel saldrá ahora muy fácilmente. Una vez peleada, la pasamos a un plato limpio y hacemos unos pequeños cortes en la piel para que penetren bien los condimentos. Empezamos con sal y pimienta negra molida al gusto. A continuación, cogemos un bol y preparamos el acompañamiento de la berenjena cortando un trozo de queso fresco en cubos. Hacemos lo mismo con el salmón ahumado y echamos por encima un puñado de frutos secos al gusto y un chorrito de aceite de oliva. Removemos bien y, ayudándonos de una cuchara, lo extendemos sobre la berenjena. Como toque final, añadimos unas hojas de hierbabuena aquí y allí. Y ya tendríamos lista la cena. Foto de portada | Dani García En Trendencias | La receta ligera, facilísima y rica con calabacín para cenar en tu casa pero sentirte en Italia - La noticia Dani García, chef: \"Las berenjenas más ricas se hacen al microondas con un poco de agua, aceite de oliva, un poco de queso fresco, salmón ahumado y frutos secos\" fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
+    "titulo": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
+    "medio": "Xataka",
+    "fecha": 1785690103.0,
+    "link": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
+    "resumen": "Los libros infantiles son uno de los regalos más habituales para los pequeños de la casa, pero últimamente hay un tipo de libro que se está volviendo más popular: los libros personalizados. Haciendo una búsqueda nos encontramos con infinidad de webs que permiten crear un libro totalmente personalizado a partir de las fotos del niño o niña en cuestión. Todo usando IA, claro. A muchos padres no les está haciendo ninguna gracia. Slop de IA con la cara de tu hijo. Hay todo un boom de herramientas que generan cuentos infantiles a partir de fotos de niños reales. En estos libros se presenta al niño como protagonista, con su nombre, su cara y hasta detalles de su vida. Estas herramientas permiten crear uno de estos libros en cuestión de minutos seleccionando la temática, el estilo y más detalles. Una vez creado, lo imprimen y te lo envían a casa. Los resultados, a juzgar por las imágenes que hay en muchas de estas webs, son bastante cutres y se nota a kilómetros que están hechos con IA. He subido una foto de Manolito Gafotas y me ha creado esta fantasIA Padres contra abuelos. En Wired recogen el caso de un usuario de Reddit cuya madre seguía intentando crear uno de estos libros pese a que él le había pedido explícitamente que no usara fotos ni datos de su hijo. Es el patrón que se repite: no son los padres quienes compran estos libros, sino abuelos y familiares de otra generación convencidos de que es un regalo entrañable. Esto choca de frente con el rechazo hacia la IA generativa que está mucho más extendido entre padres jóvenes. Por qué es importante. No es simplemente una cuestión estética, están en juego cuestiones mucho más importantes como la privacidad de los menores. Al final estás subiendo imágenes de sus caras y la preocupación de que sean vendidas a terceros o se usen para entrenar modelos está ahí. En una de las herramientas que he probado dicen que las imágenes se borran en 24 horas si no creas el libro, pero si haces un pedido las guardan durante un año, aunque no las comparten con terceros. También está la cuestión del consentimiento. Muchos padres no han dado permiso para subir las fotos a estas plataformas y se enteran cuando sus hijos reciben el libro de regalo. En Xataka Podríamos suponer que el mundo de las plantas era uno de los últimos rincones libres de IA. Estaríamos equivocados Libros mediocres. Para sorpresa de nadie, no sólo es que las imágenes sean cutres, los libros también lo son. Daozhi Xu, investigadora de la Universidad Macquarie, publicó un análisis sobre este tipo de libros y apunta la clave: un niño no adora un cuento porque salga su nombre, lo adora si la historia es buena. Estos libros, dice, están llenos de errores ortográficos y alucinaciones, como dibujos que no coinciden con el texto o historias que simplemente no tienen sentido. Algunos ni siquiera cumplen con el criterio más básico que es ser adecuados para la edad del menor. Esto es clave ya que no ayudan a que mejore su comprensión lectora ni su vocabulario. Y bastante caros. He estado buceando por distintas plataformas de creación de este tipo de libros y no son precisamente baratos. Uno de estos libros hecho con IA puede costar 35 euros, como es el caso de Librio e Imagitime, aunque si lo quieres con tapa dura son 45 euros. En la plataforma Libro Infantil Mágico son un poco más económicos: 27,99 euros impreso y 6,99 euros en ebook. Si echamos un vistazo a cualquier tienda de libros online podemos encontrar bastantes libros infantiles entre 10 y 15 euros, y hablo de libros originales, creados por humanos. Al final acabas pagando más por un libro peor escrito, peor ilustrado y que probablemente tu hijo abandone a la segunda página, todo porque tiene su nombre y su cara (o una parecida). Imagen | Xataka con Magnific En Xataka | Etsy quería ser el refugio de lo auténtico. Se ha convertido en un mercadillo de IA que se vende como artesanal - La noticia Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA fue publicada originalmente en Xataka por Amparo Babiloni ."
+  },
+  {
     "titulo": "Las mejores películas del año 2026 hasta ahora (Y una de ellas, no te la esperas)",
     "medio": "Hipertextual",
     "fecha": 1785690000.0,
     "link": "https://hipertextual.com/cine-television/las-mejores-peliculas-del-ano-2026-hasta-ahora-y-una-de-ellas-no-te-la-esperas/",
     "resumen": "2026 es uno de los años más exitosos para el cine en la última década y nadie lo duda. Algo que quedó demostrado después del éxito simultáneo de La Odisea, seguido del taquillazo y la aclamación crítica de Spider-Man: Brand New Day. Lo cierto es que los últimos meses han sorprendido por el hecho de […] Seguir leyendo: Las mejores películas del año 2026 hasta ahora (Y una de ellas, no te la esperas)"
-  },
-  {
-    "titulo": "Lorena Wiebes se vuelve a exhibir en Ginebra",
-    "medio": "La Vanguardia",
-    "fecha": 1785689712.0,
-    "link": "https://www.lavanguardia.com/deportes/20260802/11606323/wiebes-vuelve-exhibir-ginebra-tour-francia-segunda-etapa.html",
-    "resumen": "La maillot amarillo gana la segunda etapa del Tour de Francia con otro sprint brutal"
   },
   {
     "titulo": "Cuando el fuego crea sus propias tormentas: el aterrador auge de los pirocumulonimbos y su impacto \"volcánico\"",
@@ -511,13 +532,6 @@
     "resumen": "Inicialmente, el capitán del buque se negó a cooperar con la misión de la UE, lo que llevó a un equipo de militares italianos a abordar el buque desde un helicóptero.Más información: La UE autoriza el abordaje de buques de la flota fantasma rusa en el Índico como parte de la operación Atalanta"
   },
   {
-    "titulo": "Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-    "medio": "Expansión",
-    "fecha": 1785688001.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html",
-    "resumen": "El presidente estadounidense asegura que se han acordado \"los perímetros de un acuerdo\" para poner fin al conflicto, días después de haber amenazado con un ataque Leer"
-  },
-  {
     "titulo": "Los \"motivos ocultos\" del \"caos\" de Ceuta: del \"deseo\" alauita a las vacaciones de Sánchez en plena crisis, así lo ve la prensa global",
     "medio": "El Español",
     "fecha": 1785687768.0,
@@ -532,18 +546,18 @@
     "resumen": "Los dos fallecidos son el piloto rumano de uno de los helicópteros y el copiloto griego, del otro aparato han resultado heridos otros dos ocupantesLos expertos lo tienen claro: el cambio climático agrava y multiplica los grandes incendios Los dos ocupantes de un helicóptero que participaba en la extinción de un incendio en Grecia han muerto al chocar en el aire con otro aparato, cuyos dos pilotos han resultado heridos, según informan varios medios locales. Los dos fallecidos son el piloto rumano del helicóptero y el copiloto griego, según la emisora Skai, que indica que los tripulantes del otro aparato -igualmente un rumano y un griego- han sido trasladados a un hospital con heridas leves. Varios canales han ofrecido imágenes de cómo los dos aparatos vuelan muy cerca hasta que colisionan y uno de ellos se incendia y pierde la hélice principal, desplomándose sobre el suelo. Los aparatos, identificados como modelos Bell 124 por algunos medios, participaban en las labores de extinción de un fuego en Psatha, una localidad costera a unos 60 kilómetros al oeste de Atenas. Los dos aparatos habían sido alquilados por el Cuerpo de Bomberos y habían despegado del aeropuerto militar de Elefsina, pero no se ha informado aún de si los tripulantes griegos eran miembros de las Fuerzas Aéreas, que suelen pilotar aeronaves de extinción. Unas 10.0000 hectáreas han ardido ya y miles de personas han tenido que ser evacuadas debido al incendio declarado hace cuatro días y cuyo frente más oriental se encuentra este domingo se encuentra a unos 35 kilómetros de Atenas, la capital de Grecia. El pasado miércoles tres bomberos murieron durante las tareas de extinción de dos incendios en la isla de Creta y en el sur del Peloponeso, ya bajo control."
   },
   {
-    "titulo": "\"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta casi 5.000 metros en los Andes",
-    "medio": "Xataka",
-    "fecha": 1785686503.0,
-    "link": "https://www.xataka.com/movilidad/colocare-railes-alli-donde-andan-llamas-tren-que-atraviesa-68-tuneles-55-puentes-casi-5-000-metros-andes",
-    "resumen": "Para llegar del punto A al B el camino más corto es la línea recta, pero cuando tienes un terreno salpicado de montañas, la cosa cambia y las comunicaciones se convierten en un auténtico desafío. Un buen ejemplo lo tenemos en la larguísima carretera Panamericana que recorre el continente americano de arriba abajo... menos por un sitio, una selva inexpugnable. No hace falta salir del continente para encontrar otro medio de transporte que es todo un quebradero de cabeza: el Ferrocarril Central del Perú. Un ferrocarril en el corazón de los Andes. El Ferrocarril Central del Perú tiene un trazado de 490 kilómetros con 34 estaciones. Inicia su ruta en el puerto del Pacífico del Callao, pasa por Lima y, gracias a dos bifurcaciones que tienen lugar en La Oroya, conecta la capital con ciudades situadas en los Andes como Cerro de Pasco o Huancayo. Atraviesa desiertos y paisajes nivales desplazándose por 68 túneles, 55 puentes y 9 zigzags, según el concesionario oficial del ferrocarril. De los ferrocarriles con ancho de vía estándar de 1.435 mm, es el único en Sudamérica que se mueve a altitud de aproximadamente 4.782 metros sobre el nivel del mar, concretamente en el túnel de Galera. Alcanza su punto más alto en \"La Cima\", a 4.835 metros, apenas 27 metros más que el ferrocarril minero de de Antofagasta, en Chile. Durante décadas ha sido el ferrocarril con más altura del mundo, pero 2006 le arrebató el título el ferrocarril Qinghai-Tíbet en China, que alcanza los 5.072 metros. Mapa del trazado del Ferrocarril Central Andino. Las líneas en negro están abandonadas. Aldebarán vía Wikimedia Esencial para la minería. Esta infraestructura solucionó uno de los grandes problemas del Perú del siglo XIX (y antes): estaba partido en dos por su geografía y sin una vía de comunicación eficiente, los recursos mineros del interior andino eran inaccesibles para la industria y la economía del país. A día de hoy y dejando a un lado las carreteras de montaña, el Ferrocarril Central del Perú es la única ruta posible para acceder al interior andino, lo que permite el traslado de personas y mercancías, este último punto esencial para explotar los recursos de la zona. En la práctica, se emplea para el transporte de minerales, cemento y combustible para la industria minera y además opera la ruta turística Lima-Huancayo, bajo concesión de Ferrocarril Central Andino S.A. desde 1999 y de uso testimonial: según el diario peruano La República, la travesía dura 14 horas y tiene un calendario limitado. Una obra verdaderamente faraónica. En 1851 el ingeniero civil polaco Ernest Malinowski, formado en la École Polytechnique y la École des Ponts ParisTech y exiliado en Perú, propuso extender el ferrocarril Lima - Callao hasta el valle de Jauja: el reto que tenía por delante era subir 4.800 metros en 500 kilómetros. Malinowski elaboró el trazado y de su ejecución se encargó el estadounidense Henry Meiggs, que debía concluir la obra en seis años. Spoiler: no. A Meiggs se le atribuye esta cita grandilocuente: \"Colocaré rieles allí donde caminan las llamas\" En 1870 comenzaron las obras, donde 10.000 hombres, la mayoría procedentes de la costa o chinos procedentes de Macao. Las infraestructuras y medios de por aquel entonces no eran las de ahora y la orografía no ayudaba, así que trasladar material, hierro, carbón, maquinarias, madera y puentes construidos e importados de Inglaterra, Francia y Estados Unidos fue una auténtica odisea. Por si fuera poco, hubo una epidemia de verruga (benigna) y una epidemia de fiebre que se cobró 700 vidas. En 1878, la obra se paralizó por problemas administrativos y después llegaría la guerra del Pacífico, que trajo consigo retrasos y el cambio de manos en la gestión del proyecto. En 1893 el ferrocarril llegó a La Oroya y la última estación, la de Huancayo, terminó de construirse en 1908. En Xataka China levanta el puente más largo de Sudamérica: una mole de 12 kilómetros sobre el mar La experiencia de viajar a 4.800 metros. Cuando cojo un vuelo largo acostumbro a llevar ropa cómoda, un cojín para dormir y una chaqueta por si el aire acondicionado causa estragos, pero en un avión la cabina está presurizada, algo que no hay en los trenes. Lo que sí que puede haber es mal de altura. Según el Manual Merck, el mal de altura afecta al 25% de las personas que ascienden a 2.500 metros, pero ese porcentaje sube hasta el 70% por encima de los 4.500 metros. Este trastorno se produce por falta de oxígeno y puede manifestarse con síntomas que van desde dolor de cabeza, náuseas, cansancio, dificultad respiratoria y puede llegar a edemas pulmonares. No obstante, el ascenso lento y la medicación puede mitigarlo. Según La República, la compañía explotadora del servicio garantiza \"oxígeno a bordo\" y soporte médico especializado si los síntomas del mal de altura empeoran. Un futuro incierto. El valor estratégico e histórico del Ferrocarril Central Andino es indudable, pero su concesionaria actual (RDC) se encuentra ante una situación complicada: es demasiado valioso para abandonarlo y modernizarlo resulta demasiado costoso. Sobre el papel hay proyectos para construir un túnel de 23,2 kilómetros y 2.000 millones de dólares de presupuesto en los Andes para reducir el viaje de Lima a Huancayo de 12 horas a menos de cinco, aunque lleva años sin materializarse. En Xataka | El mayor sueño ferroviario japonés es un tren que uniría Madrid y Barcelona en 75 minutos a 600 km/h. También es su mayor pesadilla En Xataka | Texas tiene una autovía de 26 carriles de 37 kilómetros de longitud: ni siquiera así ha conseguido acabar con los atascos Portada | Kabelleger / David Gubler - La noticia \"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta casi 5.000 metros en los Andes fue publicada originalmente en Xataka por Eva R. de Luis ."
-  },
-  {
     "titulo": "La alternativa sin masificar a Peñíscola: un pueblo pesquero para ver el eclipse solar entre naranjos y comer paella en la playa",
     "medio": "Trendencias",
     "fecha": 1785686503.0,
     "link": "https://www.trendencias.com/viajes/alternativa-masificar-a-peniscola-pueblo-pesquero-para-ver-eclipse-solar-naranjos-comer-paella-playa",
     "resumen": "Mientras todos los turistas se van a Peñíscola, Castellón guarda otro pueblito pesquero lleno de monumentos, buena gastronomía y vistas espectaculares al eclipse. Nules es una joya medieval con una población amurallada desde el siglo XIII, bañada por el Mediterráneo y sin tanta masificación como sus vecinos. Qué ver en Nules, Castellón Nules es un precioso pueblo agrícola de interior, rodeado de naranjales que tiñen todo el entorno de naranja y lo convierten en un destino fresco, veraniego y precioso, con caminos rurales para disfrutar de estos árboles frutales en directo. Su casco urbano está cargadito de patrimonio arquitectónico único, con muchos retablos del siglo XIX decorando callejones y fachadas. Parroquia de San Bartolomé y San Jaime Nules es un pueblo repleto de templos religiosos impresionantes. Prueba de ello es la parroquia de San Bartolomé y San Jaime, levantada en el siglo XIII y reformada posteriormente, que mantiene su estilo neoclásico con su cúpula azul y su enorme campanario. También es una joya la Ermita de San Miguel del siglo XVIII, conocida como El Fort por haber sido cuartel y albergar ahora el Museo de Medallística Enrique Giner. Pegado a Nules está Mascarell, una antigua población del siglo XIII amurallada en 1533 para protegerse de los corsarios, que aún mantiene su entramado y casas como antaño. Además, entre el pueblo y la playa está la villa romana de Benicató, donde aún pueden verse yacimientos de edificios y habitáculos. Playa del Bolavar En 10 minutos en coche te pones en la costa, para descubrir las preciosas playas de Nules. La playa de Rajadell es de arena gruesa y grava, ideal para pescar, disfrutar del sol y de los naranjos. La playa del Bolavar tiene el famoso faro de Nules y la de L'Alcudia tiene varios espigones de arena que se meten hacia el mar. Dónde comer barato y rico en Nules, Castellón A Castellón se viene a comer paella y en Nules eso lo hacen a las mil maravillas. L'Arrosset Nules es clave, un restaurante que prepara unos arroces espectaculares para llevar y comer en la propia playa. El planazo completo más veraniego y mediterráneo. Dónde ver el eclipse solar 2026 en Nules, Castellón El mejor lugar para poder ver el eclipse es entre los caminos rurales de Nules, que tienen una vista abierta al horizonte sin edificios ni obstáculos. Será un evento mágico, ver el sol ponerse negro rodeado de árboles frutales que esparcen su aroma cítrico al atardecer. Fotos | Comunitat Valenciana, @arrossetplayanules. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. En Xataka | Durante siglos, los marineros de todo el mundo morían de escorbuto. Todos menos los vascos. En DAP | La receta de calabacín que pienso hacer todo el verano: fácil, saludable y deliciosa. - La noticia La alternativa sin masificar a Peñíscola: un pueblo pesquero para ver el eclipse solar entre naranjos y comer paella en la playa fue publicada originalmente en Trendencias por Pepa López ."
+  },
+  {
+    "titulo": "\"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta casi 5.000 metros en los Andes",
+    "medio": "Xataka",
+    "fecha": 1785686503.0,
+    "link": "https://www.xataka.com/movilidad/colocare-railes-alli-donde-andan-llamas-tren-que-atraviesa-68-tuneles-55-puentes-casi-5-000-metros-andes",
+    "resumen": "Para llegar del punto A al B el camino más corto es la línea recta, pero cuando tienes un terreno salpicado de montañas, la cosa cambia y las comunicaciones se convierten en un auténtico desafío. Un buen ejemplo lo tenemos en la larguísima carretera Panamericana que recorre el continente americano de arriba abajo... menos por un sitio, una selva inexpugnable. No hace falta salir del continente para encontrar otro medio de transporte que es todo un quebradero de cabeza: el Ferrocarril Central del Perú. Un ferrocarril en el corazón de los Andes. El Ferrocarril Central del Perú tiene un trazado de 490 kilómetros con 34 estaciones. Inicia su ruta en el puerto del Pacífico del Callao, pasa por Lima y, gracias a dos bifurcaciones que tienen lugar en La Oroya, conecta la capital con ciudades situadas en los Andes como Cerro de Pasco o Huancayo. Atraviesa desiertos y paisajes nivales desplazándose por 68 túneles, 55 puentes y 9 zigzags, según el concesionario oficial del ferrocarril. De los ferrocarriles con ancho de vía estándar de 1.435 mm, es el único en Sudamérica que se mueve a altitud de aproximadamente 4.782 metros sobre el nivel del mar, concretamente en el túnel de Galera. Alcanza su punto más alto en \"La Cima\", a 4.835 metros, apenas 27 metros más que el ferrocarril minero de de Antofagasta, en Chile. Durante décadas ha sido el ferrocarril con más altura del mundo, pero 2006 le arrebató el título el ferrocarril Qinghai-Tíbet en China, que alcanza los 5.072 metros. Mapa del trazado del Ferrocarril Central Andino. Las líneas en negro están abandonadas. Aldebarán vía Wikimedia Esencial para la minería. Esta infraestructura solucionó uno de los grandes problemas del Perú del siglo XIX (y antes): estaba partido en dos por su geografía y sin una vía de comunicación eficiente, los recursos mineros del interior andino eran inaccesibles para la industria y la economía del país. A día de hoy y dejando a un lado las carreteras de montaña, el Ferrocarril Central del Perú es la única ruta posible para acceder al interior andino, lo que permite el traslado de personas y mercancías, este último punto esencial para explotar los recursos de la zona. En la práctica, se emplea para el transporte de minerales, cemento y combustible para la industria minera y además opera la ruta turística Lima-Huancayo, bajo concesión de Ferrocarril Central Andino S.A. desde 1999 y de uso testimonial: según el diario peruano La República, la travesía dura 14 horas y tiene un calendario limitado. Una obra verdaderamente faraónica. En 1851 el ingeniero civil polaco Ernest Malinowski, formado en la École Polytechnique y la École des Ponts ParisTech y exiliado en Perú, propuso extender el ferrocarril Lima - Callao hasta el valle de Jauja: el reto que tenía por delante era subir 4.800 metros en 500 kilómetros. Malinowski elaboró el trazado y de su ejecución se encargó el estadounidense Henry Meiggs, que debía concluir la obra en seis años. Spoiler: no. A Meiggs se le atribuye esta cita grandilocuente: \"Colocaré rieles allí donde caminan las llamas\" En 1870 comenzaron las obras, donde 10.000 hombres, la mayoría procedentes de la costa o chinos procedentes de Macao. Las infraestructuras y medios de por aquel entonces no eran las de ahora y la orografía no ayudaba, así que trasladar material, hierro, carbón, maquinarias, madera y puentes construidos e importados de Inglaterra, Francia y Estados Unidos fue una auténtica odisea. Por si fuera poco, hubo una epidemia de verruga (benigna) y una epidemia de fiebre que se cobró 700 vidas. En 1878, la obra se paralizó por problemas administrativos y después llegaría la guerra del Pacífico, que trajo consigo retrasos y el cambio de manos en la gestión del proyecto. En 1893 el ferrocarril llegó a La Oroya y la última estación, la de Huancayo, terminó de construirse en 1908. En Xataka China levanta el puente más largo de Sudamérica: una mole de 12 kilómetros sobre el mar La experiencia de viajar a 4.800 metros. Cuando cojo un vuelo largo acostumbro a llevar ropa cómoda, un cojín para dormir y una chaqueta por si el aire acondicionado causa estragos, pero en un avión la cabina está presurizada, algo que no hay en los trenes. Lo que sí que puede haber es mal de altura. Según el Manual Merck, el mal de altura afecta al 25% de las personas que ascienden a 2.500 metros, pero ese porcentaje sube hasta el 70% por encima de los 4.500 metros. Este trastorno se produce por falta de oxígeno y puede manifestarse con síntomas que van desde dolor de cabeza, náuseas, cansancio, dificultad respiratoria y puede llegar a edemas pulmonares. No obstante, el ascenso lento y la medicación puede mitigarlo. Según La República, la compañía explotadora del servicio garantiza \"oxígeno a bordo\" y soporte médico especializado si los síntomas del mal de altura empeoran. Un futuro incierto. El valor estratégico e histórico del Ferrocarril Central Andino es indudable, pero su concesionaria actual (RDC) se encuentra ante una situación complicada: es demasiado valioso para abandonarlo y modernizarlo resulta demasiado costoso. Sobre el papel hay proyectos para construir un túnel de 23,2 kilómetros y 2.000 millones de dólares de presupuesto en los Andes para reducir el viaje de Lima a Huancayo de 12 horas a menos de cinco, aunque lleva años sin materializarse. En Xataka | El mayor sueño ferroviario japonés es un tren que uniría Madrid y Barcelona en 75 minutos a 600 km/h. También es su mayor pesadilla En Xataka | Texas tiene una autovía de 26 carriles de 37 kilómetros de longitud: ni siquiera así ha conseguido acabar con los atascos Portada | Kabelleger / David Gubler - La noticia \"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta casi 5.000 metros en los Andes fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
     "titulo": "Lo nuevo de Gemini en Google Docs acaba con lo más aburrido de los documentos colaborativos",
@@ -602,18 +616,18 @@
     "resumen": "Huelga indefinida en Airbus. Los sindicatos CGT, UGT y UTIL iniciaron este viernes los trámites necesarios para la convocatoria de […]"
   },
   {
-    "titulo": "Llevamos décadas alargando los días en la Tierra sin darnos cuenta y eso no es algo bueno",
-    "medio": "Xataka",
-    "fecha": 1785679303.0,
-    "link": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-decadas-alargando-dias-tierra-darnos-cuenta-eso-no-algo-bueno",
-    "resumen": "Hace tiempo que sabemos que el cambio climático está alargando nuestros días. Cuando los casquetes polares se derriten, hay más agua líquida en los océanos, por lo que el peso total de la misma se redistribuye, complicando y ralentizando el giro de la Tierra sobre su propio eje. Como consecuencia, tenemos días más largos. Es un fenómeno natural, ya que, al fin y al cabo, en las épocas de más calor es normal que el hielo se derrita. Esto, además, se complementa con la influencia gravitatoria de la Luna, que contribuye también a reducir la velocidad de rotación terrestre. Hasta ahora, el efecto de la Luna era mayor que el del deshielo. No obstante, según un estudio publicado recientemente, las tornas pueden cambiarse pronto. Como resultado, nuestros días están siendo más largos que nunca. A efectos de seguridad no supone nada. No nos va a afectar, pues es una diferencia minimísima. Sin embargo, es un efecto medible que nos demuestra que el cambio climático está llegando demasiado lejos. De hecho, las noches sin dormir que nos está provocando sí que nos hacen sentir que los días son demasiado largos. 1,33 milisegundos por siglo. El estudio que se acaba de publicar ha sido realizado por científicos de la Universidad de Viena y la ETH Zúrich. En él, no solo han calculado la velocidad de rotación terrestre actual, sino que han llevado a cabo modelos computacionales que les han permitido compararla con dicha velocidad a lo largo de la historia. Así, han visto que actualmente los días se están alargando 1,33 milisegundos por siglo. Puede parecer poquísimo y realmente lo es, pero es un dato que significa mucho. En Xataka En 2011, algo extraño sucedió en el interior de la Tierra. Llevamos años investigándolo y aún no sabemos qué fue Un patinador con los brazos abiertos. Cuando los polos están congelados, hay una gran cantidad de masa concentrada en ellos. Sin embargo, cuando estos se derriten, parte del agua que los forman se extiende por el océano y llega mucho más lejos. Esto afecta a la rotación terrestre como el baile de un patinador sobre hielo. Cuando estos juntan los brazos al cuerpo, concentran toda su masa sobre el centro y giran más deprisa. En cambio, cuando abren los brazos, giran poco a poco más despacio. Todo esto se debe a un fenómeno de la física conocido como conservación del momento angular. Hemos visto que la ralentización de la velocidad de rotación no es nueva. Sin embargo, nunca ha ocurrido a las tasas actuales, según lo que han observado estos científicos. Los fósiles que tenían la clave de los días más largos. Para reconstruir la velocidad de rotación terrestre a lo largo de la historia, estos científicos se fijaron en los fósiles de foraminíferos bentónicos. Estos son organismos microscópicos que viven en el fondo océanico y construyen una concha de carbonato cálcico. En este proceso, incorporan oxígeno procedente del agua del mar, que puede venir en dos formatos: el isótopo O-16 y el O-18. La proporción entre uno y otro depende de factores como la temperatura del agua o la cantidad de la misma que estaba anteriormente en estado sólido, en forma de hielo. Por ejemplo, cuando hay más hielo en los polos el agua es más rica en O-18. Teniendo todo esto en cuenta, se pueden establecer los niveles de hielo y agua líquida que había en distintos periodos, simplemente estudiando la composición de estas conchas fosilizadas. Después, gracias a modelos informáticos, se puede calcular cuánto duraba el día en todos esos periodos. Datos sin precedentes. En total, estos científicos han analizado la velocidad de rotación terrestre y los consiguientes cambios de duración del día de los últimos 3,6 millones de años. En ningún momento ha habido un efecto tan marcado como el que se ha medido entre los años 2000 y 2020. A veces también se acelera. Cabe destacar que los propios procesos internos del planeta, como el flujo de fluidos en el núcleo terrestre, pueden contribuir a que el giro de nuestro planeta se acelere de vez en cuando. La velocidad de rotación terrestre no es tan fija como podríamos llegar a creer. Aun así, hay una tendencia que nos sirve como clara señal de que el cambio climático inducido por los seres humanos está sometiendo al planeta a una presión a la que no se ha sometido nunca. Aunque los días más largos no sean peligrosos, todo lo demás que conlleva esa presión sí lo es. Por eso es esencial actuar contra el cambio climático. Imagen | Magnific En Xataka | La teoría que dice que el núcleo de la Tierra se está oxidando (y sus impredecibles consecuencias) - La noticia Llevamos décadas alargando los días en la Tierra sin darnos cuenta y eso no es algo bueno fue publicada originalmente en Xataka por Azucena Martín ."
-  },
-  {
     "titulo": "Teresa Barea, notaria: \"La donación de dinero de padres a hijos es completamente neutra en el IRPF\"",
     "medio": "Trendencias",
     "fecha": 1785679303.0,
     "link": "https://www.trendencias.com/silver/teresa-barea-notaria-donacion-dinero-padres-a-hijos-completamente-neutra-irpf",
     "resumen": "En España es bastante habitual que los padres echen una mano a sus hijos con dinero para comprar una vivienda, emprender un negocio o afrontar un gasto importante. Y, junto a esa ayuda, siempre surge la misma duda: ¿hay que pagar IRPF por recibir una donación? La normativa fiscal establece que los hijos no tienen que incluir ese dinero en la declaración de la renta, aunque eso no significa que la operación quede libre de impuestos. Lo que ocurre es que este tipo de transmisiones no tributan en el Impuesto sobre la Renta de las Personas Físicas (IRPF), sino que están sujetas a otro tributo distinto: el Impuesto sobre Sucesiones y Donaciones (ISD), cuya cuantía depende, en gran medida, de la comunidad autónoma en la que se tribute. Teresa Barea, portavoz del consejo general del Notariado, lo explica en este vídeo: \"La donación de dinero de padres a hijos o de abuelos a nietos es un mecanismo hoy muy utilizado por muchas familias para ayudar a las nuevas generaciones a poner en marcha un proyecto vital\". @notarios_es Recibir una donación de tus padres no obliga a pagar IRPF La legislación española diferencia claramente los ingresos que obtiene una persona de las transmisiones gratuitas de bienes o dinero entre familiares. Por eso, cuando unos padres donan una cantidad de dinero o un inmueble a un hijo, esa operación no se considera un rendimiento ni una renta a efectos del IRPF. En otras palabras, el hijo que recibe la donación no tiene que reflejar ese importe en su declaración de la renta. Pero la operación sí debe declararse y, en la mayoría de los casos, liquidar el correspondiente Impuesto sobre Sucesiones y Donaciones, regulado por la Ley 29/1987. Aunque existe una normativa estatal, son las comunidades autónomas las que gestionan buena parte del impuesto y aplican sus propias reducciones y bonificaciones. \"Esas donaciones en muchas comunidades autónomas cuentan con importantes bonificaciones fiscales en el Impuesto sobre donaciones. Para poder contar con esa bonificación, las comunidades autónomas exigen, salvo en casos de escasa cuantía, que la donación que formalice en escritura pública ante notario”, explica la experta. Esto hace que el coste fiscal pueda variar mucho de un territorio a otro. En comunidades como Madrid, Andalucía o Canarias existen bonificaciones de hasta el 99% para las donaciones entre familiares directos, lo que reduce considerablemente la cantidad a pagar. En otras autonomías, sin embargo, las ventajas fiscales son menores y el importe del impuesto puede ser bastante más elevado. En cualquier caso, esta operación debe quedar siempre resuelta de forma oficial a través de una escritura de donación, para ello, \"basta que los interesados acudan a su notaría más cercana y faciliten allí sus datos personales, los documentos de identidad y los documentos que acrediten la transferencia del dinero a la parte donataria\", apunta Barea. Es importante, antes de realizar una donación, conocer la normativa autonómica aplicable ya que el tratamiento fiscal puede ser muy diferente dependiendo del lugar de residencia. “Una vez hecha la escritura de donación queda por tributar el impuesto sobre donaciones en la comunidad autónoma en la que esté la residencia del donatario. Y se hace a través del modelo 651. Esta donación no está sujeta a ningún otro impuesto y es completamente neutra en el IRPF, tanto de la parte donante como de la donataria”, añade. Los expertos recomiendan planificar este tipo de operaciones con antelación y analizar tanto el Impuesto sobre Sucesiones y Donaciones como las posibles implicaciones en el IRPF del donante antes de formalizar la transmisión para después no llevarnos sustos. Fotos | @notarios_es, Magnific En Trendencias | Dan Buettner, experto en longevidad: \"Desayuno copos de cocción lenta con unas pocas almendras, dátiles, bebida de soja y un poco de sirope de arce. Es el desayuno perfecto de las zonas azules\" En DAP | Los cocineros gallegos coinciden: “Los mejillones al vapor mejoran si no los amontonas y echas la cantidad justa de albariño” En Xataka | En 1759 unos piratas compraron una isla de EEUU. Desde entonces hablan una versión tan inglesa del inglés que nadie los entiende - La noticia Teresa Barea, notaria: \"La donación de dinero de padres a hijos es completamente neutra en el IRPF\" fue publicada originalmente en Trendencias por Sara Hormigo ."
+  },
+  {
+    "titulo": "Llevamos décadas alargando los días en la Tierra sin darnos cuenta y eso no es algo bueno",
+    "medio": "Xataka",
+    "fecha": 1785679303.0,
+    "link": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-decadas-alargando-dias-tierra-darnos-cuenta-eso-no-algo-bueno",
+    "resumen": "Hace tiempo que sabemos que el cambio climático está alargando nuestros días. Cuando los casquetes polares se derriten, hay más agua líquida en los océanos, por lo que el peso total de la misma se redistribuye, complicando y ralentizando el giro de la Tierra sobre su propio eje. Como consecuencia, tenemos días más largos. Es un fenómeno natural, ya que, al fin y al cabo, en las épocas de más calor es normal que el hielo se derrita. Esto, además, se complementa con la influencia gravitatoria de la Luna, que contribuye también a reducir la velocidad de rotación terrestre. Hasta ahora, el efecto de la Luna era mayor que el del deshielo. No obstante, según un estudio publicado recientemente, las tornas pueden cambiarse pronto. Como resultado, nuestros días están siendo más largos que nunca. A efectos de seguridad no supone nada. No nos va a afectar, pues es una diferencia minimísima. Sin embargo, es un efecto medible que nos demuestra que el cambio climático está llegando demasiado lejos. De hecho, las noches sin dormir que nos está provocando sí que nos hacen sentir que los días son demasiado largos. 1,33 milisegundos por siglo. El estudio que se acaba de publicar ha sido realizado por científicos de la Universidad de Viena y la ETH Zúrich. En él, no solo han calculado la velocidad de rotación terrestre actual, sino que han llevado a cabo modelos computacionales que les han permitido compararla con dicha velocidad a lo largo de la historia. Así, han visto que actualmente los días se están alargando 1,33 milisegundos por siglo. Puede parecer poquísimo y realmente lo es, pero es un dato que significa mucho. En Xataka En 2011, algo extraño sucedió en el interior de la Tierra. Llevamos años investigándolo y aún no sabemos qué fue Un patinador con los brazos abiertos. Cuando los polos están congelados, hay una gran cantidad de masa concentrada en ellos. Sin embargo, cuando estos se derriten, parte del agua que los forman se extiende por el océano y llega mucho más lejos. Esto afecta a la rotación terrestre como el baile de un patinador sobre hielo. Cuando estos juntan los brazos al cuerpo, concentran toda su masa sobre el centro y giran más deprisa. En cambio, cuando abren los brazos, giran poco a poco más despacio. Todo esto se debe a un fenómeno de la física conocido como conservación del momento angular. Hemos visto que la ralentización de la velocidad de rotación no es nueva. Sin embargo, nunca ha ocurrido a las tasas actuales, según lo que han observado estos científicos. Los fósiles que tenían la clave de los días más largos. Para reconstruir la velocidad de rotación terrestre a lo largo de la historia, estos científicos se fijaron en los fósiles de foraminíferos bentónicos. Estos son organismos microscópicos que viven en el fondo océanico y construyen una concha de carbonato cálcico. En este proceso, incorporan oxígeno procedente del agua del mar, que puede venir en dos formatos: el isótopo O-16 y el O-18. La proporción entre uno y otro depende de factores como la temperatura del agua o la cantidad de la misma que estaba anteriormente en estado sólido, en forma de hielo. Por ejemplo, cuando hay más hielo en los polos el agua es más rica en O-18. Teniendo todo esto en cuenta, se pueden establecer los niveles de hielo y agua líquida que había en distintos periodos, simplemente estudiando la composición de estas conchas fosilizadas. Después, gracias a modelos informáticos, se puede calcular cuánto duraba el día en todos esos periodos. Datos sin precedentes. En total, estos científicos han analizado la velocidad de rotación terrestre y los consiguientes cambios de duración del día de los últimos 3,6 millones de años. En ningún momento ha habido un efecto tan marcado como el que se ha medido entre los años 2000 y 2020. A veces también se acelera. Cabe destacar que los propios procesos internos del planeta, como el flujo de fluidos en el núcleo terrestre, pueden contribuir a que el giro de nuestro planeta se acelere de vez en cuando. La velocidad de rotación terrestre no es tan fija como podríamos llegar a creer. Aun así, hay una tendencia que nos sirve como clara señal de que el cambio climático inducido por los seres humanos está sometiendo al planeta a una presión a la que no se ha sometido nunca. Aunque los días más largos no sean peligrosos, todo lo demás que conlleva esa presión sí lo es. Por eso es esencial actuar contra el cambio climático. Imagen | Magnific En Xataka | La teoría que dice que el núcleo de la Tierra se está oxidando (y sus impredecibles consecuencias) - La noticia Llevamos décadas alargando los días en la Tierra sin darnos cuenta y eso no es algo bueno fue publicada originalmente en Xataka por Azucena Martín ."
   },
   {
     "titulo": "Este castillo del siglo XVII, uno de los monumentos más visitados de Barcelona, abrirá a la hora del eclipse para que puedas seguirlo desde allí",
@@ -749,13 +763,6 @@
     "resumen": "El agresor fue detenido en la zona y se investiga si la motivación es el enfrentamiento entre bandas juveniles"
   },
   {
-    "titulo": "Mueren cinco personas en Indonesia en el incendio de un ferry con más de 200 pasajeros",
-    "medio": "El País",
-    "fecha": 1785670967.0,
-    "link": "https://elpais.com/internacional/2026-08-02/mueren-cinco-personas-en-indonesia-en-el-incendio-de-un-ferry-con-mas-de-200-pasajeros.html",
-    "resumen": "Los equipos de rescate buscan a 41 tripulantes desaparecidos en medio del mar, en la provincia de Java Oriental"
-  },
-  {
     "titulo": "Cuáles son los acuerdos que firmó Sánchez en Argelia antes de la crisis de Ceuta",
     "medio": "El Independiente",
     "fecha": 1785670084.0,
@@ -833,13 +840,6 @@
     "resumen": "\"Si el hostigamiento marroquí continúa, España debe tener la determinación de responder\", sostiene el diputado nacional del PP Javier Celaya."
   },
   {
-    "titulo": "Detenido un menor del grupo ultraviolento 764 acusado de amenazar de muerte a Irene Montero",
-    "medio": "El País",
-    "fecha": 1785665711.0,
-    "link": "https://elpais.com/espana/2026-08-02/detenido-un-menor-del-grupo-ultraviolento-764-acusado-de-amenazar-de-muerte-a-irene-montero.html",
-    "resumen": "El arrestado, presunto autor también de mensajes contra la tertuliana Sarah Santaolalla, es considerado el líder en España de esta red terrorista de tintes nazis, satánicos y pedófilos"
-  },
-  {
     "titulo": "La Policía detiene al sospechoso de causar el fuego que forzó la evacuación de La Vaguada, en Madrid",
     "medio": "El Independiente",
     "fecha": 1785665239.0,
@@ -880,13 +880,6 @@
     "fecha": 1785660608.0,
     "link": "https://www.elindependiente.com/series-y-television/2026/08/02/valle-salvaje-avance-semanal-del-lunes-3-de-agosto-al-viernes-7-de-agosto-luisa-huye-con-el-hijo-de-rafael-y-adriana/",
     "resumen": "Valle Salvaje, en su cuarta temporada a través de La 1, RTVE Play y Netflix, se encamina a los quinientos […]"
-  },
-  {
-    "titulo": "Detenido un menor de 17 años en Gipuzkoa como referente en España de la red 764 de captación y explotación de menores",
-    "medio": "Europa Press",
-    "fecha": 1785660213.0,
-    "link": "https://www.europapress.es/euskadi/noticia-detenido-menor-17-anos-gipuzkoa-referente-espana-red-764-captacion-explotacion-menores-20260802104333.html",
-    "resumen": "Se le atribuyen numerosas amenazas contra centros educativos, ayuntamientos, bibliotecas y personas, aunque nunca se materializaron"
   },
   {
     "titulo": "Kelsey Mora, terapeuta infantil: \"La confianza no surge simplemente de decir ‘puedes hablar conmigo’. En lugar de eso, empieza tú primero\"",
