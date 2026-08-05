@@ -1,5 +1,75 @@
 [
   {
+    "titulo": "La policía recupera el cadáver de una mujer en la ría de Bilbao",
+    "medio": "El País",
+    "fecha": 1785966019.0,
+    "link": "https://elpais.com/espana/2026-08-05/la-policia-recupera-el-cadaver-de-una-mujer-en-la-ria-de-bilbao.html",
+    "resumen": "La Ertzaintza ha abierto una investigación para intentar esclarecer las circunstancias del suceso y determinar la identidad de la fallecida"
+  },
+  {
+    "titulo": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
+    "medio": "Hipertextual",
+    "fecha": 1785965700.0,
+    "link": "https://hipertextual.com/inteligencia-artificial/microsoft-hackeos-ia-autonoma-guia-contencion/",
+    "resumen": "Si algo ha quedado claro en las últimas semanas es que la IA puede salirse de control en el momento menos indicado. La prueba más evidente es el hackeo de Hugging Face provocado por dos agentes que escaparon de su entorno de pruebas sin ayuda humana. Microsoft quiere que esto no vuelva a ocurrir y […] Seguir leyendo: Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control"
+  },
+  {
+    "titulo": "Milagros Tolón: \"La FIFA ha sido muy clara y muy tajante desmintiendo el ofrecimiento de la final a Marruecos\"",
+    "medio": "Europa Press",
+    "fecha": 1785965551.0,
+    "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-milagros-tolon-fifa-sido-muy-clara-muy-tajante-desmintiendo-ofrecimiento-final-marruecos-20260805233231.html",
+    "resumen": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, ha descrito a la Federación Internacional de Fútbol (FIFA) como \"muy clara y muy tajante desmintiendo\" el ofrecimiento a Marruecos para acoger la final de la Copa Mundial 2030, a raíz de una noticia publicada este miércoles por el diario británico 'The Times'."
+  },
+  {
+    "titulo": "Una ceutí atiende a unos 400 inmigrantes al día en su vivienda con comida, ropa y duchas",
+    "medio": "The Objective",
+    "fecha": 1785965131.0,
+    "link": "https://theobjective.com/sociedad/2026-08-05/ceuti-400-inmigrantes-dia-vivienda-comida-ropa-duchas/",
+    "resumen": "La vivienda de la ceutí Sabah Hamed, situada en la barriada de Los Rosales, se ha convertido desde el pasado sábado en un punto de atención […]"
+  },
+  {
+    "titulo": "El misterioso movimiento de Vinícius en Instagram que ha disparado todas las especulaciones en pleno culebrón con el Real Madrid",
+    "medio": "HuffPost",
+    "fecha": 1785964971.0,
+    "link": "https://www.huffingtonpost.es/deporte/el-misterioso-movimiento-vinicius-instagram-disparado-todas-especulaciones-pleno-culebron-real-madrid-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Meta lanza su primera IA de programación para competir con Anthropic y OpenAI",
+    "medio": "The Objective",
+    "fecha": 1785962861.0,
+    "link": "https://theobjective.com/tecnologia/2026-08-05/meta-ia-programacion-anthropic-openai/",
+    "resumen": "La tecnológica Meta ha anunciado este miércoles el lanzamiento de Muse Code, su primer agente de programación, en un intento por competir con rivales del sector […]"
+  },
+  {
+    "titulo": "‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026",
+    "medio": "Hipertextual",
+    "fecha": 1785962361.0,
+    "link": "https://hipertextual.com/cine-television/spider-man-brand-new-day-pelicula-mas-taquillera-2026/",
+    "resumen": "Apenas 7 días ha necesitado Spider-Man: Brand New Day para convertirse en la película más taquillera de 2026. Lo nuevo de Marvel Studios lleva solo una semana en la cartelera, pero ya ha recaudado unos impactantes 1.155 millones de dólares a nivel global. Esto la ubica en lo más alto del ranking de recaudación del […] Seguir leyendo: ‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026"
+  },
+  {
+    "titulo": "What to Do When Your Union Contract Is Voted Down",
+    "medio": "Jacobin ES",
+    "fecha": 1785961544.0,
+    "link": "https://jacobin.com/2026/08/unions-negotiation-collective-bargaining-uaw",
+    "resumen": "The answer to union contracts being voted down is not for organizers to lower workers’ expectations. It’s to seize that vote as an opportunity to organize those expectations into collective power."
+  },
+  {
+    "titulo": "Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA",
+    "medio": "Expansión",
+    "fecha": 1785961227.0,
+    "link": "https://www.expansion.com/economia-digital/companias/2026/08/05/6a7376c9468aeb90028b45b4.html",
+    "resumen": "Hassabis, cofundador y consejero delegado de Google DeepMind, dejará sus responsabilidades operativas diarias al frente de esa unidad. Leer"
+  },
+  {
+    "titulo": "Nuevo estudio con grandes simios: ¿es la risa el origen del lenguaje humano?",
+    "medio": "The Objective",
+    "fecha": 1785960981.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-08-05/nuevo-estudio-grandes-simios-risa-origen-lenguaje/",
+    "resumen": "Todos reconocemos ese sonido. El «ja, ja, ja» que se nos escapa con un chiste, con las cosquillas o cuando un bebé juega a esconderse tras […]"
+  },
+  {
     "titulo": "Un triatleta de 25 años corre una maratón entera dentro de un supermercado: 153 vueltas, 1.377 curvas y un plátano de la frutería para reponer fuerzas",
     "medio": "HuffPost",
     "fecha": 1785960238.0,
@@ -95,7 +165,7 @@
     "medio": "Europa Press",
     "fecha": 1785958375.0,
     "link": "https://www.europapress.es/murcia/noticia-investigada-violencia-genero-muerte-mujer-44-anos-centro-comercial-murcia-20260805213255.html",
-    "resumen": "La Policía Nacional investiga como un presunto caso de violencia de género el hallazgo del cuerpo sin vida de una mujer de 44 años, que presentaba signos de violencia, en la trastienda de un negocio situado en el Centro Comercial Carrefour Infante de Murcia."
+    "resumen": "La jueza ordena la búsqueda y detención de la expareja de la víctima como presunto autor de un delito de homicidio"
   },
   {
     "titulo": "En la era de la IA, las grandes empresas están nadando en dinero de los inversores. Y las pequeñas están quedándose sin él",
@@ -123,7 +193,7 @@
     "medio": "Microsiervos",
     "fecha": 1785958055.0,
     "link": "http://www.microsiervos.com/archivo/ciencia/sitio-elipse-sol-agosto-2026-gafas-homologadas.html",
-    "resumen": "Foto de Jason Howell en Unsplash Dentro de una semana, poco antes de las 20:30 dependiendo de dónde te encuentres, se producirá el máximo del eclipse de Sol del 12 de agosto de 2026. Es el único momento en el que puedes mirarlo sin unas gafas homologadas. Suponiendo que hayas escogido un buen sitio para verlo, claro. Y que sea un lugar donde el eclipse es total. Lo del sitio es fácil. Pero por si acaso: en Trío de eclipses tienes un mapa que puedes explorar haciendo zoom sobre él o bien tecleando una dirección, un topónimo, o un código postal. Ahí podrás averiguar a qué hora empieza y termina y a qué hora es el máximo, así como la altura a la que estará el Sol y en qué dirección tendrás que mirar para verlo por si no es obvio. Pero en cualquier caso lo más sencillo, con diferencia, es que, unos días antes, te vayas con el móvil al sitio desde el que tengas pensado observarlo y compruebes con esta página que usa la cámara y los sensores de orientación del teléfono que no hay ningún obstáculo que te lo vaya a impedir. Más fácil imposible. Y si no vives en un lugar en el que se vaya a poder ver y te vas a desplazar, intenta llegar al menos el día antes para hacer esta comprobación. Además, es previsible que el día del eclipse se monte un follón del quince. La noche del eclipse, por cierto, coincide con el máximo de las Perseidas de este año. Y como ha habido eclipse hay Luna nueva, así que un plan extra puede ser quedarte a verlas si estás en una zona sin contaminación lumínica. Lo de las nubes, pues ya se verá. Y ahí poco podemos hacer. Pero la AEMET va a emitir una predicción diaria al respecto a partir del viernes 7. La otra cosa imprescindible es que te hagas con unas gafas homologadas. No vale una radiografía. No valen unos negativos fotográficos. No valen las gafas de soldador con factor menor a 14 y las de factor 14 o superior no las encontrarás a la venta por ahí… ¡¡¡Y por el FSM no utilices unos prismáticos o telescopio si no tienen el filtro adecuado!!! Las gafas tienen que cumplir la normativa ISO 12312-2 y no tener ninguna raya y mucho menos ningún hueco. Además, si llevan tiempo en casa, deberías hacerte con unas nuevas porque el material del que están hechas tiene caducidad. Yo las he visto en el supermercado y en ópticas. La ONCE las estaba regalando estos días aunque no sé si les quedarán. Y llegado el caso, si las pides en línea urgentemente deberían llegarte a tiempo. Mi amigo Dosi, por ejemplo, aún tiene unas 300 en stock. Aunque dice que mañana será el último día que haga envíos. Pero aún con ellas no es cosa de estar mirando al Sol todo el rato; hazlo a poquitos. Porque resulta que las retinas no tienen receptores del dolor, así que te las puedes estar jodiendo –con perdón– sin darte cuenta. Y cuando vayas a mirar al Sol, póntelas antes de levantar la cabeza. Si llevas gafas de ver puedes colocarlas por delante o por detrás de ellas, eso como te sea más cómodo. Y presta especial atención a niños y mayores para que no se despisten. Si por lo que sea no consigues unas gafas otra opción es hacerte una caja de eclipse, con la que evitas mirar al Sol en absoluto. Todo esto, por cierto se aplica siempre para mirar al Sol, no sólo en los días de eclipse. Y para terminar mi consejo es que a menos que tengas experiencia con esto y sepas lo que estás haciendo dejes la cámara de fotos en casa y el móvil el el bolsillo. Un eclipse total es una ocasión única y hay que disfrutarlo sin distracciones. Luego ya tendrás tiempo de buscar fotos y vídeos, que los habrá a patadas. Relacionado, El Instituto Geográfico Nacional publica un magnífico libro sobre los eclipses de Sol que serán visibles desde España en 2026, 2027 y 2028 Eclipsemanía, una preciosa miniguía sobre el eclipse de Sol del 12 de agosto de 2026 Un simulador de eclipses solares para ver cómo serán los próximos tres eclipses desde España Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto # Enlace permanente"
+    "resumen": "Foto de Jason Howell en Unsplash Dentro de una semana, poco antes de las 20:30 dependiendo de dónde te encuentres, se producirá el máximo del eclipse de Sol del 12 de agosto de 2026. Es el único momento en el que puedes mirarlo sin unas gafas homologadas. Suponiendo que hayas escogido un buen sitio para verlo, claro. Y que sea un lugar donde el eclipse es total. Lo del sitio es fácil. Pero por si acaso: en Trío de eclipses tienes un mapa que puedes explorar haciendo zoom sobre él o bien tecleando una dirección, un topónimo, o un código postal. Ahí podrás averiguar a qué hora empieza y termina y a qué hora es el máximo, así como la altura a la que estará el Sol y en qué dirección tendrás que mirar para verlo por si no es obvio. Pero en cualquier caso lo más sencillo, con diferencia, es que, unos días antes, te vayas con el móvil al sitio desde el que tengas pensado observarlo y compruebes con esta página que usa la cámara y los sensores de orientación del teléfono que no hay ningún obstáculo que te lo vaya a impedir. Más fácil imposible. Y si no vives en un lugar en el que se vaya a poder ver y te vas a desplazar, intenta llegar al menos el día antes para hacer esta comprobación. Además, es previsible que el día del eclipse se monte un follón del quince. La noche del eclipse, por cierto, coincide con el máximo de las Perseidas de este año. Y como ha habido eclipse hay Luna nueva, así que un plan extra puede ser quedarte a verlas si estás en una zona sin contaminación lumínica. Lo de las nubes, pues ya se verá. Y ahí poco podemos hacer. Pero la AEMET va a emitir una predicción diaria al respecto a partir del viernes 7. La otra cosa imprescindible es que te hagas con unas gafas homologadas. No vale una radiografía. No valen unos negativos fotográficos. No valen las gafas de soldador con factor menor a 14 y las de factor 14 o superior no las encontrarás a la venta por ahí… ¡¡¡Y por el FSM no utilices unos prismáticos o telescopio si no tienen el filtro adecuado!!! Ten muchísimo cuidado con esto, porque resulta que las retinas no tienen receptores del dolor, así que te las puedes estar jodiendo –con perdón– sin darte cuenta. Y quizás sin remedio. Las gafas tienen que cumplir la normativa ISO 12312-2 y no tener ninguna raya y mucho menos ningún hueco. Además, si llevan tiempo en casa, deberías hacerte con unas nuevas porque el material del que están hechas tiene caducidad. Yo las he visto en el supermercado y en ópticas. La ONCE las estaba regalando estos días aunque no sé si les quedarán. Y llegado el caso, si las pides en línea urgentemente deberían llegarte a tiempo. Mi amigo Dosi, por ejemplo, aún tiene unas cuantas en stock. Aunque dice que mañana será el último día que haga envíos. Pero aún con ellas no es cosa de estar mirando al Sol todo el rato, mejor hazlo a poquitos. Y cuando vayas a mirar al Sol, póntelas antes de levantar la cabeza. Si llevas gafas de ver puedes colocarlas por delante o por detrás de ellas, eso como te sea más cómodo. Y presta especial atención a niños y mayores para que no se despisten. Si por lo que sea no consigues unas gafas otra opción es hacerte una caja de eclipse, con la que evitas mirar al Sol en absoluto. Todo esto, por cierto se aplica siempre para mirar al Sol, no sólo en los días de eclipse. Y para terminar mi consejo es que a menos que tengas experiencia con esto y sepas lo que estás haciendo dejes la cámara de fotos en casa y el móvil el el bolsillo. Un eclipse total es una ocasión única y hay que disfrutarlo sin distracciones. Luego ya tendrás tiempo de buscar fotos y vídeos, que los habrá a patadas. (Gracias por la consulta ocular, Conchi). Relacionado, El Instituto Geográfico Nacional publica un magnífico libro sobre los eclipses de Sol que serán visibles desde España en 2026, 2027 y 2028 Eclipsemanía, una preciosa miniguía sobre el eclipse de Sol del 12 de agosto de 2026 Un simulador de eclipses solares para ver cómo serán los próximos tres eclipses desde España Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto # Enlace permanente"
   },
   {
     "titulo": "Los coches chinos suman el 14,27% del mercado español: hay más de 30 marcas, pero algunas van a la baja",
@@ -147,6 +217,13 @@
     "resumen": "Una mujer de 44 años ha sido presuntamente asesinada este miércoles por la tarde en un centro comercial de Murcia, tras ser acuchillada por su pareja, […]"
   },
   {
+    "titulo": "Desmantelada en Lleida una ‘cocina’ de metanfetamina del Cartel Jalisco",
+    "medio": "El País",
+    "fecha": 1785957714.0,
+    "link": "https://elpais.com/espana/catalunya/2026-08-05/desmantelada-en-lleida-una-cocina-de-metanfetamina-del-cartel-de-jalisco.html",
+    "resumen": "La Policía Nacional detiene a 13 sospechosos acusados de mover 2,5 toneladas de droga entre México, Francia y España"
+  },
+  {
     "titulo": "Un hombre mata a su pareja en un centro comercial de Murcia",
     "medio": "El País",
     "fecha": 1785957676.0,
@@ -154,11 +231,11 @@
     "resumen": "La policía busca al agresor, que se ha dado a la fuga"
   },
   {
-    "titulo": "Niñas marroquíes de 14 años denuncian a la Policía haber sido violadas por compañeros suyos tras la invasión a Ceuta",
+    "titulo": "Niñas marroquíes de 14 años en Ceuta afirman haber sido violadas por sus compañeros de asalto a la frontera",
     "medio": "OK Diario",
     "fecha": 1785957633.0,
     "link": "https://okdiario.com/espana/ninas-marroquies-14-anos-denuncian-policia-haber-sido-violadas-companeros-suyos-invasion-ceuta-19132329",
-    "resumen": "Al menos 10 niñas marroquíes, participantes en el asalto a Ceuta del jueves pasado, han afirmado ante las autoridades haber sido violadas por compañeros suyos. Diversas fuentes confirman a OKDIARIO que «en al menos 10 casos» se activó el protocolo correspondiente por violación y más tratándose de menores. Funcionarios de Ceuta confirman a OKDIARIO que … Continuar leyendo \"Niñas marroquíes de 14 años denuncian a la Policía haber sido violadas por compañeros suyos tras la invasión a Ceuta\""
+    "resumen": "Al menos 10 niñas marroquíes, participantes en el asalto a Ceuta del jueves pasado, han afirmado ante las autoridades haber sido violadas por compañeros suyos. Diversas fuentes confirman a OKDIARIO que «en al menos 10 casos» se activó el protocolo correspondiente por violación y más tratándose de menores. Funcionarios de Ceuta confirman a OKDIARIO que … Continuar leyendo \"Niñas marroquíes de 14 años en Ceuta afirman haber sido violadas por sus compañeros de asalto a la frontera\""
   },
   {
     "titulo": "\"Todo estará en la nube: si nos matan, tendréis vuestro trabajo\": Los programadores de Gaza cierran contratos con una garantía especial a sus clientes",
@@ -173,6 +250,13 @@
     "fecha": 1785956878.0,
     "link": "https://theobjective.com/sociedad/ciencia/2026-08-05/lectores-textos-ia-creen-escrito-humano/",
     "resumen": "Una nueva investigación, publicada en Judgement and Decision Making, revela que las personas prefieren las historias escritas por la IA debido a su sencillez y claridad. De hecho, […]"
+  },
+  {
+    "titulo": "El hombre investigado por asesinar a su mujer en Murcia tenía una orden de alejamiento vigente tras una condena por malos tratos",
+    "medio": "eldiario.es",
+    "fecha": 1785956858.0,
+    "link": "https://www.eldiario.es/murcia/hombre-mata-mujer-centro-comercial-murcia_1_13430845.html",
+    "resumen": "Después de acuchillar a su pareja en una de las tiendas, el sospechoso se ha dado a la fuga. Delegación del Gobierno confirma que se investiga como presunto caso de violencia de géneroUn guardia civil asesina a su expareja, también agente y registrada en VioGén, en el cuartel de Llanes (Asturias) Un hombre ha asesinado este miércoles a su mujer en el centro comercial Carrefour Infante, en Murcia, en un suceso que las autoridades investigan como un posible caso de violencia de género. Según fuentes vinculadas a la investigación, el presunto agresor habría atacado a la mujer con un arma blanca dentro de uno de los establecimientos del recinto y posteriormente habría abandonado el lugar. El servicio de emergencias 112 recibió una alerta alrededor de las 17.25 horas en la que se comunicaba el hallazgo del cuerpo sin vida de una mujer de 44 años en la zona de almacén de uno de los comercios del centro comercial. De acuerdo con la información publicada por La Verdad de Murcia, el crimen habría ocurrido en Súper Rápido, una zapatería donde trabajaba el supuesto autor de los hechos, un hombre de alrededor de 40 años. Un compañero del establecimiento habría sido quien encontró a la víctima después de que el presunto responsable cerrara el negocio y se marchara del centro comercial tras el ataque. Hasta el lugar se desplazaron agentes de la Policía Nacional y los servicios sanitarios de emergencia, que confirmaron el fallecimiento de la mujer. Según fuentes de su entorno, la pareja se encontraba en proceso de separación y tenía una hija en común. La investigación permanece abierta y está siendo llevada a cabo conjuntamente por el Grupo de Homicidios y la Unidad de Atención a la Familia y Mujer (UFAM), con la colaboración de la Brigada Provincial de Policía Científica, han confirmado fuentes de Delegación del Gobierno. Los agentes continúan trabajando para localizar al presunto autor del crimen. El delegado del Gobierno en la Región de Murcia, Francisco Lucas Ayala, ha expresado su “más sentido pésame a los familiares y seres queridos de la víctima en estos duros momentos”. “Condenamos este crimen con toda la firmeza”, ha escrito Rebeca Pérez, alcaldesa de Murcia, en una publicación en X. “Nos unimos al dolor de la familia y de las personas que hoy lloran una vida arrebatada de la forma más brutal. No, no y siempre no a la violencia. Ni una más”. Horas antes, un guardia civil asesinaba a su expareja, también agente del cuerpo y registrada en el sistema VioGén, en el cuartel de Llanes (Asturias)."
   },
   {
     "titulo": "El mensaje que dejan unas clientas del hotel a la camarera de pisos del que tomar ejemplo: \"Sabemos que es un trabajo no siempre agradable\"",
@@ -371,39 +455,11 @@
     "resumen": "Felipe VI escenifica con la audiencia un gesto de acercamiento tras los sucesos del pasado 30 de julio en los que más de 70.000 personas, procedentes de Marruecos, entraron ilegalmente en territorio español"
   },
   {
-    "titulo": "Un economista avisa en 'Le Monde' tras Ceuta: Marruecos no necesita otro plan de desarrollo, sino un nuevo contrato social",
-    "medio": "HuffPost",
-    "fecha": 1785952800.0,
-    "link": "https://www.huffingtonpost.es/global/un-economista-avisa-le-monde-ceuta-marruecos-necesita-plan-desarrollo-nuevo-contrato-social-f202608.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Alemania investiga como terrorismo el hallazgo de un dron cargado de explosivos en el aeropuerto de Leipzig/Halle",
     "medio": "El Español",
     "fecha": 1785952768.0,
     "link": "https://www.elespanol.com/mundo/europa/20260805/alemania-investiga-terrorismo-hallazgo-dron-cargado-explosivos-aeropuerto-leipzighalle/1003744345091_0.html",
     "resumen": "Un trabajador descubrió el dron cerca un avión de transporte ucraniano. El embajador de Kiev señala a Moscú: \"¿Quién más podría ser?\".Más información: Zelenski condena los \"safaris\" humanos con drones de Rusia tras el ataque contra un vendedor ambulante en Jersón"
-  },
-  {
-    "titulo": "El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta",
-    "medio": "The Objective",
-    "fecha": 1785952555.0,
-    "link": "https://theobjective.com/espana/2026-08-05/pnv-pp-junts-reparto-menores-ceuta/",
-    "resumen": "La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa (PNV), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con […]"
-  },
-  {
-    "titulo": "En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional",
-    "medio": "The Objective",
-    "fecha": 1785952320.0,
-    "link": "https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/",
-    "resumen": "Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número […]"
-  },
-  {
-    "titulo": "Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA",
-    "medio": "Expansión",
-    "fecha": 1785952137.0,
-    "link": "https://www.expansion.com/economia-digital/companias/2026/08/05/6a7376c9468aeb90028b45b4.html",
-    "resumen": "Hassabis, cofundador y consejero delegado de Google DeepMind, dejará sus responsabilidades operativas diarias al frente de esa unidad. Leer"
   },
   {
     "titulo": "Detenido por esconder a su padre muerto durante dos años en un congelador para cobrar la pensión",
@@ -413,11 +469,11 @@
     "resumen": "La investigación comenzó después de que los vecinos avisaran a la policía de que hacía tiempo que no veían en público al nonagenario padre del arrestado, del que se sabía que padecía demencia"
   },
   {
-    "titulo": "Ayuso, sobre los 623 euros de su polémico viaje a México: “Uno solo puede publicar los gastos imputables a la Administración”",
-    "medio": "El País",
-    "fecha": 1785951912.0,
-    "link": "https://elpais.com/espana/madrid/2026-08-05/ayuso-declara-623-euros-de-su-polemico-viaje-a-mexico.html",
-    "resumen": "La oposición pide a la presidenta que aclare quién financió su viaje y “a cambio de qué”"
+    "titulo": "El sector del cava mantiene los precios y adquiere uva por 100 millones de euros",
+    "medio": "Expansión",
+    "fecha": 1785951929.0,
+    "link": "https://www.expansion.com/catalunya/2026/08/05/6a73743f468aebcd6a8b4572.html",
+    "resumen": "La inversión anunciada coincide con el inicio de la vendimia de 2026 y esl ligeramente superior a la del año pasado. Leer"
   },
   {
     "titulo": "Ana Carvajal se desquita con un bronce junto a Jorge Rodríguez en saltos sincronizados",
@@ -425,13 +481,6 @@
     "fecha": 1785951769.0,
     "link": "https://www.lavanguardia.com/deportes/natacion/20260805/11608602/ana-carvajal-desquita-bronce-jorge-rodriguez-saltos-sincronizados.html",
     "resumen": "La pareja española, con una dificultad muy elevada, finaliza en tercera posición la final de los 10m plataforma tras no haber podido sumar en individual"
-  },
-  {
-    "titulo": "Google nombra científico jefe al premio Nobel Demis Hassabis",
-    "medio": "El País",
-    "fecha": 1785951759.0,
-    "link": "https://elpais.com/tecnologia/2026-08-05/google-nombra-cientifico-jefe-al-premio-nobel-demis-hassabis.html",
-    "resumen": "El científico británico, cofundador de DeepMind, asume un rol más ejecutivo en la tecnológica con el objetivo de impulsar la investigación en IA"
   },
   {
     "titulo": "EEUU ha devuelto ya 100.000 millones de dólares de los aranceles tumbados por el Supremo",
@@ -466,7 +515,7 @@
     "medio": "eldiario.es",
     "fecha": 1785950929.0,
     "link": "https://www.eldiario.es/sociedad/infantino-ofrece-marruecos-final-mundial-2030-the-times_1_13430662.html",
-    "resumen": "El medio británico apunta a que el presidente de la FIFA buscaría ganarse el apoyo de la Federación marroquí para un cuarto mandato, en plena crisis tras su intento de privatizar la competición y en medio de acusaciones de \"chantaje\"Jordania acusa a la FIFA de “chantaje” para forzar el apoyo a la reelección de Infantino como presidente El presidente de la FIFA, Gianni Infantino, ha ofrecido a Marruecos celebrar la final del próximo Mundial 2030, que organiza junto a España y Portugal. La propuesta, según publica el periódico The Times, busca que el país africano, uno de los aliados de Infantino, le apoyo en su reelección como máximo mandatario del fútbol internacional, en un momento de plena crisis, tras la retirada de apoyo de varios países que le habían dado previamente su respaldo. La noticia llega en un momento de tensión y justo cuando Sumar ha registrado una proposición no de ley para instar al Ejecutivo —del que forma parte— a solicitar a la FIFA “una revisión y evaluación específica del actual modelo de organización conjunta” del próximo Mundial para que esta no se comparta con Marruecos, tras la crisis de Ceuta en la que han muerto, al menos, 141 personas tratando de cruzar la frontera. El movimiento de Infantino de ofrecer la final del Mundial a Marruecos se enmarca en una estrategia de recabar apoyos para su reelección, cuando está perdiendo progresivamente el respaldo de países que habían enviado cartas para apoyar su continuidad en el cargo para un cuarto mandato. Las elecciones se celebrarán el próximo mes de marzo. El periódico The Guardian avanzaba a principios de esta semana que las federaciones europeas irían retirando su apoyo al presidente de la FIFA escalonadamente. Una información que, por el momento, han ido confirmando los movimientos de Gales, Inglaterra, Finlandia y Serbia. Se espera que más federaciones europeas sigan sus pasos en los próximos días, mientras que varias naciones de la CONCACAF —la confederación de Norteamérica, Centroamérica y el Caribe— también están considerando seriamente retirar su apoyo. Este mismo miércoles, el presidente de la federación jordana, el príncipe Ali, publicó un comunicado en su cuenta de X en el que acusaba al equipo de Infantino de “chantaje”: “Durante el Mundial, se me comunicó verbalmente que, si apoyaba a Infantino, eso contribuiría en gran medida a ayudar a nuestra Federación de Fútbol”, señala, lo que “equivale a un chantaje”. Infantino ha ido perdiendo apoyos tras su plan para privatizar el Mundial, del que tuvo que retractarse y del que reniega su número dos, el secretario general de la FIFA, Mattias Grafström, quien en un email dirijo a sus empleados y conocido recientemente calificó la iniciativa como “una serie de acontecimientos tristes y censurables. Por su parte, el exentrenador del Arsenal, Arsène Wenger, que ahora ocupa el cargo de director de desarrollo global de la FIFA, afirmó que la retirada del proyecto era “absolutamente necesaria e incuestionable”."
+    "resumen": "El medio británico apunta a que el presidente de la FIFA buscaría ganarse el apoyo de la Federación marroquí para un cuarto mandato, en plena crisis tras su intento de privatizar la competición y en medio de acusaciones de \"chantaje\"Jordania acusa a la FIFA de “chantaje” para forzar el apoyo a la reelección de Infantino como presidente El presidente de la FIFA, Gianni Infantino, ha ofrecido a Marruecos celebrar la final del próximo Mundial 2030, que organiza junto a España y Portugal. La propuesta, según publica el periódico The Times, busca que el país africano, uno de los aliados de Infantino, le apoyo en su reelección como máximo mandatario del fútbol internacional, en un momento de plena crisis, tras la retirada de apoyo de varios países que le habían dado previamente su respaldo. La noticia llega en un momento de tensión y justo cuando Sumar ha registrado una proposición no de ley para instar al Ejecutivo —del que forma parte— a solicitar a la FIFA “una revisión y evaluación específica del actual modelo de organización conjunta” del próximo Mundial para que esta no se comparta con Marruecos, tras la crisis de Ceuta en la que han muerto, al menos, 141 personas tratando de cruzar la frontera. El movimiento de Infantino de ofrecer la final del Mundial a Marruecos se enmarca en una estrategia de recabar apoyos para su reelección, cuando está perdiendo progresivamente el respaldo de países que habían enviado cartas para apoyar su continuidad en el cargo para un cuarto mandato. Las elecciones se celebrarán el próximo mes de marzo. El periódico The Guardian avanzaba a principios de esta semana que las federaciones europeas irían retirando su apoyo al presidente de la FIFA escalonadamente. Una información que, por el momento, han ido confirmando los movimientos de Gales, Inglaterra, Finlandia y Serbia. Se espera que más federaciones europeas sigan sus pasos en los próximos días, mientras que varias naciones de la CONCACAF —la confederación de Norteamérica, Centroamérica y el Caribe— también están considerando seriamente retirar su apoyo. Este mismo miércoles, el presidente de la federación jordana, el príncipe Ali, publicó un comunicado en su cuenta de X en el que acusaba al equipo de Infantino de “chantaje”: “Durante el Mundial, se me comunicó verbalmente que, si apoyaba a Infantino, eso contribuiría en gran medida a ayudar a nuestra Federación de Fútbol”, señala, lo que “equivale a un chantaje”. Infantino ha ido perdiendo apoyos tras su plan para privatizar el Mundial, del que tuvo que retractarse y del que reniega su número dos, el secretario general de la FIFA, Mattias Grafström, quien en un email dirijo a sus empleados y conocido recientemente calificó la iniciativa como “una serie de acontecimientos tristes y censurables. Por su parte, el exentrenador del Arsenal, Arsène Wenger, que ahora ocupa el cargo de director de desarrollo global de la FIFA, afirmó que la retirada del proyecto era “absolutamente necesaria e incuestionable”. El Gobierno, convencido de que la final será en España La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, se ha mostrado “convencida” de que la final se celebrará en España y ha garantizado que el Gobierno “seguirá trabajando como lo ha hecho hasta ahora” para ello. Tolón se ha mostrado “muy sorprendida” por las informaciones de esta tarde y ha celebrado que “la FIFA ya lo ha desmentido”. “Tenemos reunión con la FIFA en el mes de septiembre. Ha sido muy clara y muy tajante. Nosotros queremos, y además así tiene que ser, que la final sea en España”, ha dicho en una entrevista en el programa Hora 25 de la Cadena Ser. La ministra ha recordado que “quien decide es la FIFA y no los gobiernos de Marruecos, Portugal y España”, y ha señalado que España tiene muchas “ventajas” para albergar la final: “Tenemos una experiencia en grandes eventos deportivos, contamos con una gran red de comunicación, infraestructura. Y, sobre todo, la seguridad de nuestro país”, ha insistido, recordando que España ya acogió el Mundial de 1982, los Juegos Olímpicos de 1992 o la visita del Papa. También ha recordado que la candidatura mundialista fue impulsada por España y Portugal y que fue Marruecos quien se adhirió después. aunque no ha entrado a valorar si se arrepienten de haber incluido finalmente a Rabat. “Nosotros vamos a seguir trabajando porque la marca España en fútbol ahora es muchísimo mayor que hace unos meses. Yo confío para que la final sea aquí en España”, ha zanjado la ministra."
   },
   {
     "titulo": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
@@ -602,13 +651,6 @@
     "resumen": "En 2011, Apple estuvo a punto de tomar una decisión que podría haber cambiado para siempre los iPhone, iPad y Mac que tenemos hoy. Elegir entre Intel y TSMC como socio para fabricar sus chips fue algo que se barajó intensamente cuando Tim Cook llegó al cargo de CEO. Hoy en día lo vemos muy claro con los chips M5, el A19 de los iPhone 17 o el A19 Pro de los iPhone 17 Pro... Pero lo que pocos saben es que esa decisión estuvo peligrosamente cerca de inclinarse hacia Intel, hasta que el fundador de TSMC intervino para evitarlo. Su misión: garantizar que Apple no cometiera un gran error. Intel hizo tambalearse a Apple, pero TSMC tenía algo másA principios de la década de 2010, Apple ya estaba diseñando sus propios procesadores para el iPhone y otros productos. El iPhone 4 estrenó el chip A4. Luego llegaron los primeros iPad... Sin embargo, Apple necesitaba un socio tecnológico capaz de convertir esos innovadores diseños en realidad. En ese momento, el gigante surcoreano Samsung tenía el control como el principal proveedor de chips de Apple. Pero, debido a la creciente rivalidad entre ambas compañías en el mercado de los smartphones, Tim Cook decidió buscar alternativas. Dos nombres surgieron como candidatos principales: Intel, el titán estadounidense que ya proveía procesadores para los Mac, y TSMC, una empresa taiwanesa conocida por ser una foundry que fabricaba chips diseñados por terceros. Aunque TSMC parecía la mejor opción sobre el papel, Intel desplegó todo su arsenal para intentar conquistar a Apple. Tanto que logró que Tim Cook detuviera las negociaciones con TSMC durante dos meses para considerar su propuesta. Morris Chang y Tim Cook Un viaje para cambiar la historiaCuando Morris Chang (CEO de TSMC) supo que Tim Cook se estaba planteando seriamente apostar por Intel, no se quedó de brazos cruzados. A sus 80 años, decidió tomar un avión y recorrer 10.000 kilómetros hasta California para reunirse con Tim Cook en persona. Aquella reunión en las oficinas de Apple no solo fue un encuentro de negocios, fue un momento decisivo que sellaría el futuro de ambas compañías. En una entrevista con el canal de YouTube Acquired, Morris Chang relató lo que ocurrió durante esa conversación . Sabía que Intel estaba intentando convencerlos, pero también sabía que Intel no entendía cómo ser una foundry. Esa fue la clave del argumento de Chang: mientras que Intel fabricaba sus propios procesadores y competía directamente con muchas empresas, TSMC era neutral y se dedicaba exclusivamente a producir chips diseñados por sus clientes. El compromiso de TSMC con Apple no fue solo una promesa. En los años siguientes, demostraron estar dispuestos a todo para satisfacer las demandas de la compañía de Cupertino. Un ejemplo perfecto de esto ocurrió en 2014, cuando Apple pidió a TSMC un cambio drástico en su hoja de ruta tecnológica: en lugar de adoptar el proceso de 16 nanómetros FinFET, querían un nodo especial de 20 nanómetros para los chips A8. Aunque esta decisión implicaba enormes desafíos técnicos y económicos, TSMC aceptó y redirigió todos sus recursos para cumplir con las exigencias de Apple. El resultado fue una relación de confianza absoluta. En 2016, Apple dejó de depender de Samsung como proveedor secundario de procesadores y confió exclusivamente en TSMC. Desde entonces, esa colaboración ha dado lugar a algunos de los chips más innovadores de la industria, como los procesadores Apple Silicon que ahora impulsan los Mac. En 2016, Apple dejó de depender de Samsung y confió exclusivamente en TSMC. En 2020, anunció su transición a los chips Apple Silicon para los Mac, cerrando definitivamente la puerta a Intel. El giro de guion que nadie esperabaParecía que la historia entre Apple e Intel había quedado cerrada bajo llave. La arquitectura x86 era un capítulo del pasado. Sin embargo, en este tipo de industria las alianzas son tan frágiles como el silicio. Según destapó Donald Trump, Apple e Intel han firmado un acuerdo preliminar para que el gigante estadounidense vuelva a fabricar chips para Cupertino. ¿Qué ha pasado para que Apple vuelva a llamar a la puerta de quien descartó hace más de una década? La respuesta tiene dos nombres propios: la inteligencia artificial y la geopolítica. Durante todos estos años, la relación con TSMC ha sido un reloj suizo. Pero la fiebre por la IA ha coronado a Nvidia como el cliente prioritario de los taiwaneses, desplazando a Apple de su posición privilegiada. Las consecuencias ya son palpables. El propio Tim Cook reconoció que los iPhone 17 sufrieron restricciones de suministro por la falta de chips A19 y A19 Pro. Hemos visto problemas similares con los A18 Pro del MacBook Neo. Depender de un único proveedor cuando este no da abasto es un lujo que Apple no puede permitirse. El espíritu Apple Silicon sigue intacto Hay un matiz crucial en este nuevo acuerdo: Intel no va a diseñar nada. No volveremos a ver un Intel Core i5 en un Mac. Será Apple quien diseñe los chips y le diga a Intel cómo fabricarlos, exactamente igual que hace con TSMC. Los planes apuntan a que Intel empezaría por los chips de mayor volumen y menor riesgo técnico, como la gama base de los MacBook Air, iPad Air o Mac mini (quizás un futuro M7 o M8, o un A21 estándar para el iPhone de 2028). Los modelos más complejos, como los Pro, Max o Ultra, seguirían siendo territorio exclusivo de TSMC. Incluso se baraja que Intel no fabrique el chip completo, sino solo el tile de CPU dentro de una arquitectura chiplet para reducir riesgos. Con el nuevo CEO John Ternus asumiendo el mando el 1 de septiembre, Apple está reorganizando sus piezas. Aquel histórico vuelo de 10.000 kilómetros de Morris Chang le dio a TSMC quince años de reinado absoluto. Hoy, la empresa que no supo ser foundry en 2011 es la gran apuesta de Apple para asegurar su futuro. En Applesfera | Nuevo macOS 27 Golden Gate: fecha de lanzamiento, novedades, Mac compatibles y más información En Applesfera | Nuevo MacBook Pro táctil con pantalla OLED - Todo lo que creemos saber sobre el próximo portátil profesional de Apple - La noticia Recorrió 10.000 kilómetros hasta las oficinas de Apple con una misión: convencer a Tim Cook de no cometer un gran error fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Un guardia civil asesina en el cuartel de Llanes a su ex pareja, también agente, y muere en el tiroteo con otros compañeros que trataron de impedir la agresión",
-    "medio": "El Mundo",
-    "fecha": 1785944808.0,
-    "link": "https://www.elmundo.es/espana/2026/08/05/6a73329de85ece26338b4596.html",
-    "resumen": "La víctima se encontraba en el sistema VioGén por denuncias de malos tratos por parte de su ex marido Leer"
-  },
-  {
     "titulo": "El Ibex consolida los 20.000 puntos con su quinta subida consecutiva",
     "medio": "Expansión",
     "fecha": 1785944528.0,
@@ -700,6 +742,13 @@
     "resumen": "El próximo gran proyecto de Anthropic es crear sus propios chips de inteligencia artificial optimizados para entrenar y ejecutar Claude. Según reporta Business Insider, la empresa ha confirmado que se encuentra conformando un equipo cuya tarea será diseñar el hardware en cuestión. Esta es la primera vez que los responsables de Claude confirman públicamente que […] Seguir leyendo: Anthropic confirma que planea crear sus propios chips de IA para Claude"
   },
   {
+    "titulo": "Un guardia civil asesina a su expareja en el cuartel de Llanes y muere abatido a tiros",
+    "medio": "Infolibre",
+    "fecha": 1785938917.0,
+    "link": "https://www.infolibre.es/igualdad/guardia-civil-asesina-expareja-cuartel-llanes-muere-abatido-tiros_1_2234768.html",
+    "resumen": "Un guardia civil ha asesinado este miércoles a su expareja, otra agente del instituto armado destinada en el cuartel de Llanes (Asturias), en el que ha disparado contra la mujer antes ser abatido por los disparos efectuados por sus compañeros para repeler la agresión.Fuentes próximas a la investigación han indicado a EFE que el agresor, de 49 años y que tenía expedientes abiertos por violencia machista, ha accedido al cuartel poco antes de las 13:30 horas para disparar mortalmente contra su expareja, de 50 años.En el cruce de disparos un teniente ha resultado herido grave de bala en una pierna, así como el presunto autor de los hechos que, tras ser atendido por los servicios sanitarios, ha fallecido en la UVI móvil en la que estaba siendo evacuado.Las mismas fuentes han precisado que el autor de los hechos recibió hace unos días la resolución de separación del servicio y que por ello no disponía ya de su arma reglamentaria, por lo que habría consumado su agresión con una que habría robado o bien en las taquillas o bien arrebatado a algún compañero.El agresor, cuyo último destino fue la Comandancia de Zamora, no entró al cuartel por la puerta principal, sino por algún otro lugar que él conocía al haber estado destinado allí previamente y, tras acercarse a la mujer, le ha disparado antes de intentar huir perseguido por un teniente del cuerpo, que ha resultado herido grave al recibir un balazo en una pierna.También un brigada del cuartel ha intentado repeler la agresión y evitar la huida disparando contra el supuesto asesino, al que las heridas recibidas le han causado la muerte posteriormente.La agente asesinada, que tenía un hijo de 18 años y dos gemelas de 14 con su agresor, se encontraba en el sistema VioGén por denuncias de malos tratos.La Delegación del Gobierno contra la Violencia de Género ya ha anunciado que investiga este caso violencia machista y, de confirmarse como tal, serían 34 mujeres las víctimas mortales de la violencia de género en lo que va de año, 1.375 desde 2003."
+  },
+  {
     "titulo": "Muchos dejamos el cargador del Mac o del iPhone enchufado por pura pereza. Hay dos buenas razones para dejar de hacerlo",
     "medio": "Applesfera",
     "fecha": 1785938452.0,
@@ -735,27 +784,6 @@
     "resumen": "No es un secreto que Gemini va a reemplazar al viejo Asistente de Google en dispositivos Android. Se habla de este cambio desde principios del año pasado, pero ahora los de Mountain View le han puesto fecha puntual a su concreción. Y será muy pronto. Google ha comenzado a notificar a los usuarios que su […] Seguir leyendo: Adiós al Asistente de Google en Android: desde cuándo lo reemplazará Gemini en tu móvil"
   },
   {
-    "titulo": "La Policía Nacional ha identificado a 528 menores no acompañados en Ceuta",
-    "medio": "Europa Press",
-    "fecha": 1785936570.0,
-    "link": "https://www.europapress.es/nacional/noticia-policia-nacional-identificado-528-menores-no-acompanados-ceuta-20260805152930.html",
-    "resumen": "La construcción del nuevo Centro de Atención Temporal de Extranjeros (CATE) comenzará \"de forma inminente\" para albergar temporalmente a los migrantes mientras se completan los trámites de identificación"
-  },
-  {
-    "titulo": "Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»",
-    "medio": "Hipertextual",
-    "fecha": 1785935818.0,
-    "link": "https://hipertextual.com/cine-television/jason-sudeikis-ted-lasso-rueda-de-prensa-confiesa-dudas-por-resucitar-la-serie/",
-    "resumen": "Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos […] Seguir leyendo: Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»"
-  },
-  {
-    "titulo": "Las redes sociales de Marruecos anuncian una nueva entrada masiva a Ceuta",
-    "medio": "Expansión",
-    "fecha": 1785935697.0,
-    "link": "https://www.expansion.com/economia/politica/2026/08/05/6a733587468aebcc248b45a1.html",
-    "resumen": "Los mensajes se repiten fundamentalmente en Facebook, Instagram o Tik Tok y llaman a una nueva movilización hacia la ciudad fronteriza el próximo 15 de agosto, festivo en España. Leer"
-  },
-  {
     "titulo": "No, Americans Aren’t Better Off Than Western Europeans",
     "medio": "Jacobin ES",
     "fecha": 1785933901.0,
@@ -789,13 +817,6 @@
     "fecha": 1785931200.0,
     "link": "http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html",
     "resumen": "El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473, en honor a Nicolás Copérnico, nacido ese año. Lo que no sabemos todavía es la matrícula del avión que lo llevará a cabo. Despegará y aterrizará en Madrid, aunque su ruta está calculada para optimizar la observación del fenómeno sobre la provincia de Palencia. Irá a bordo un grupo de investigadores del proyecto Shelios que podrá observar el eclipse en mejores condiciones que quienes lo hagamos desde el suelo, ya que se libran seguro de las nubes y de 10.000 metros de atmósfera. Además, aprovechando que el avión ya tiene instalada la conexión a Internet a través de Starlink, se retransmitirán las imágenes en directo. Pero si vives en algún sitio desde el que se pueda ver el eclipse, deja eso para después. Esas imágenes quedarán guardadas para que las veas una y otra vez. Pero vivir el eclipse en directo no tiene nada que ver. Recuerda que hay una web que te permite usar la cámara de tu teléfono para comprobar si el sitio que has escogido para verlo es adecuado o no. Eso sí, por mucho que corra el avión la sombra del eclipse lo adelantará rápidamente: la velocidad máxima de un A321XLR es de Mach 0,82, lo que equivale a 871 km/h a la altitud a la que va a volar el IB1473, mientras que el eclipse va a recorrer España a unos 1.700 km/h. Pero aún así es una oportunidad increíble. Y más si tenemos en cuenta que la última vez que en España se pudo ver un eclipse similar al de la próxima semana fue en 1905, cuando los aviones aún estaban hechos de tela y madera y su velocidad máxima era de unas decenas de kilómetros por hora. Para poder mantenerse dentro de la sombra del eclipse haría falta un avión supersónico, como el Concorde que un grupo de científicos británicos y franceses utilizaron el 30 de junio de 1973 para perseguir un eclipse. Gracias a la velocidad del avión pudieron disfrutar aquel día de la totalidad del eclipse durante algo más de 74 minutos frente a los siete minutos y cuatro segundos de duración máxima en tierra. Relacionado, Airbus presenta el A321XLR, que será el avión de un pasillo con más alcance del mundo Primer vuelo del Airbus A321XLR, el que será el avión de un pasillo con más alcance del mundo Así es volar a bordo del Airbus A321XLR de Iberia, su nuevo avión de un pasillo para larga distancia Iberia está más que encantada con el resultado que le está dando el Airbus A321XLR # Enlace permanente"
-  },
-  {
-    "titulo": "Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos",
-    "medio": "Hipertextual",
-    "fecha": 1785928900.0,
-    "link": "https://hipertextual.com/tecnologia/cloudflare-tiene-un-nuevo-sistema-de-pagos-online-para-bots-de-ia-si-los-que-acaparan-las-compras-de-tus-productos-favoritos/",
-    "resumen": "Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes […] Seguir leyendo: Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos"
   },
   {
     "titulo": "«Bomba en el Pan Am 103», una miniserie que describe muy dignamente la cronología del atentado terrorista de Lockerbie",
@@ -999,13 +1020,6 @@
     "fecha": 1785824110.0,
     "link": "https://yorokobu.es/la-gran-decadencia-de-occidente/",
     "resumen": "Una rata de gran tamaño, de esas que asustan hasta a los gatos, mordisquea algo con indiferencia sobre la recién instalada moqueta de la sala de prensa del Madison Square Garden. Todo flamante y azul resplandeciente… si las alfombras pudieran resplandecer. Cientos de miles de dólares recién gastados para tapizarlo todo con ese pulcro tejido que ahora es el destinatario de los excrementos y demás inmundicias provenientes del roedor. Todo está preparado para la gran final, pero nada, ni siquiera un saneamiento completo de las instalaciones, ha podido evitar que el animal campe a sus anchas por el que siempre La entrada La gran decadencia de Occidente se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "The Class Divide Haunting Climate Politics",
-    "medio": "Jacobin ES",
-    "fecha": 1785788264.0,
-    "link": "https://jacobin.com/2026/08/climate-policy-working-class-liberals",
-    "resumen": "New research confirms that policy messages on climate favored by college-educated liberals often fall flat with working-class Americans. The good news? Workers are favorable to pro-climate policies that speak directly to their everyday material concerns."
   },
   {
     "titulo": "Cómo un fabricante de neumáticos acabó retratando el alma de la India (sin hablar de ruedas)",
