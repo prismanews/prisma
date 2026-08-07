@@ -1,17 +1,192 @@
 [
   {
-    "titulo": "Manu Campa: \"Los sueños son una carrera y lo ideal es no ver nunca la meta\"",
-    "medio": "Expansión",
-    "fecha": 1786136949.0,
-    "link": "https://www.expansion.com/directivos/estilo-vida/cultura/2026/08/07/6a75c646468aebe3768b456f.html",
-    "resumen": "La obra del artista español destaca por su vínculo a la automoción, el uso de fondos sólidos y coloristas, reflejos milimétricos y una técnica precisa. Leer"
+    "titulo": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | “Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad”: el primer discurso del jefe de Estado",
+    "medio": "El País",
+    "fecha": 1786144022.0,
+    "link": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html",
+    "resumen": "El abogado penalista de 48 años toma posesión ante una decena de jefes de Estado y en ausencia del mandatario saliente"
   },
   {
-    "titulo": "Los siete hábitos de un entrenador altamente efectivo",
+    "titulo": "Un hombre resulta herido grave al tratar de cruzar la M-30 por el distrito de Arganzuela",
+    "medio": "El Mundo",
+    "fecha": 1786143787.0,
+    "link": "https://www.elmundo.es/madrid/2026/08/08/6a766365fdddff590a8b4577.html",
+    "resumen": "La víctima ha sufrido múltiples traumatismos, torácico y abdominal Leer"
+  },
+  {
+    "titulo": "Inmigrantes marroquíes escondidos en el monte presumen de llevar dinero encima: «Nos lo dieron nuestros padres»",
+    "medio": "OK Diario",
+    "fecha": 1786142826.0,
+    "link": "https://okdiario.com/espana/inmigrantes-marroquies-escondidos-monte-presumen-llevar-dinero-encima-nos-lo-dieron-nuestros-padres-19142548",
+    "resumen": "El relato oficial del Gobierno de que los inmigrantes que cruzaron masivamente a Ceuta huían de la miseria y la desesperación se desmorona ante las propias declaraciones de los protagonistas. OKDIARIO ha podido comprobar en primera persona cómo varios de los marroquíes que cruzaron ilegalmente la frontera presumen abiertamente del dinero que llevan encima. La … Continuar leyendo \"Inmigrantes marroquíes escondidos en el monte presumen de llevar dinero encima: «Nos lo dieron nuestros padres»\""
+  },
+  {
+    "titulo": "Pensamientos rata",
+    "medio": "La Vanguardia",
+    "fecha": 1786142100.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609688/pensamientos-rata.html",
+    "resumen": "Hay gente que se ha quedado en nada, consumida por un pensamiento infectado"
+  },
+  {
+    "titulo": "Cambio de rumbo en Colombia",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11610040/cambio-rumbo-colombia.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Pirómanos o esperanzados",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609856/piromanos-esperanzados.html",
+    "resumen": "Cuando el progreso ha presentado su carísima factura, nos hemos deprimido"
+  },
+  {
+    "titulo": "¿Lo quiero, lo tengo?",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609691/quiero.html",
+    "resumen": "En la práctica del vientre de alquiler, la libertad de la gestante es una ficción cuando no hay igualdad"
+  },
+  {
+    "titulo": "Superpoder inmobiliario",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609692/superpoder-inmobiliario.html",
+    "resumen": "El ático de Ayuso alimenta recelos políticos no demasiado sofisticados"
+  },
+  {
+    "titulo": "De victoria en victoria hasta la capitulación",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609697/victoria-victoria-capitulacion.html",
+    "resumen": "Washington bascula en Irán entre la escalada y el desistimiento sin hallar una salida razonable"
+  },
+  {
+    "titulo": "Ante ‘otro 98’: el ‘desastre’ final",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609696/98-desastre-final.html",
+    "resumen": "La reivindicación por Marruecos de Ceuta y Melilla puede originar una crisis muy grave"
+  },
+  {
+    "titulo": "Mandela",
+    "medio": "La Vanguardia",
+    "fecha": 1786141800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260808/11609690/mandela.html",
+    "resumen": "Comprendió que una nación dividida entre vencedores y vencidos estaba condenada a prolongar el conflicto"
+  },
+  {
+    "titulo": "Otorgan libertad plena a la ex jueza venezolana María Lourdes Afiuni tras años en prisión domiciliaria por razones políticas",
+    "medio": "El Mundo",
+    "fecha": 1786141758.0,
+    "link": "https://www.elmundo.es/internacional/2026/08/08/6a765c3ce85ece59338b459f.html",
+    "resumen": "Su familia había pedido el cierre del caso por la grave enfermedad que padece Leer"
+  },
+  {
+    "titulo": "Elevan a nivel 2 la emergencia por el incendio de Niebla (Huelva) y piden ayuda a la UME",
+    "medio": "El Mundo",
+    "fecha": 1786141618.0,
+    "link": "https://www.elmundo.es/andalucia/2026/08/08/6a7659cafdddff97278b4577.html",
+    "resumen": "La situación es de \"extrema complejidad\" tras haberse registrado cuatro cambios radicales de viento Leer"
+  },
+  {
+    "titulo": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
+    "medio": "The Objective",
+    "fecha": 1786141575.0,
+    "link": "https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/",
+    "resumen": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la residencia de […]"
+  },
+  {
+    "titulo": "Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad",
+    "medio": "OK Diario",
+    "fecha": 1786141127.0,
+    "link": "https://okdiario.com/internacional/colombia-deja-atras-era-petro-espriella-toma-posesion-como-presidente-seguridad-como-prioridad-19146653",
+    "resumen": "El abogado Abelardo de la Espriella ha jurado este viernes como presidente de Colombia para 2026-2030 en una ceremonia de investidura celebrada en la Arena USC de la Universidad Santiago de Cali, en la capital del Valle del Cauca, rompiendo con la tradición de celebrar el acto en Bogotá. «Juro a Dios y prometo al … Continuar leyendo \"Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad\""
+  },
+  {
+    "titulo": "Idealista sube un 15% sus ingresos y duplica su ebitda",
     "medio": "Expansión",
-    "fecha": 1786136882.0,
-    "link": "https://www.expansion.com/directivos/2026/08/07/6a75db01468aeb0e698b457e.html",
-    "resumen": "El método de gestión del entrenador alemán al frente del Barça demuestra la importancia de la resiliencia, la autodisciplina y la cooperación en entornos de alta competición. Leer"
+    "fecha": 1786141125.0,
+    "link": "https://www.expansion.com/inmobiliario/mercado/2026/08/08/6a761d82468aebc03a8b457b.html",
+    "resumen": "El portal ingresó 346 millones en 2025 y obtuvo un ebitda de 160 millones, pero contabiliza pérdidas de 191 millones por la amortización del fondo de comercio. Leer"
+  },
+  {
+    "titulo": "Renault roza los 8.000 millones de ingresos en España",
+    "medio": "Expansión",
+    "fecha": 1786141105.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/08/08/6a762c4a468aeb3d028b4583.html",
+    "resumen": "La filial española elevó un 10% su facturación en 2025, pero recortó un 23% su resultado neto. Leer"
+  },
+  {
+    "titulo": "El aumento de los beneficios apunta a máximos más altos",
+    "medio": "Expansión",
+    "fecha": 1786140483.0,
+    "link": "https://www.expansion.com/empresas/2026/08/08/6a7622fbe5fdea6f3e8b457c.html",
+    "resumen": "Invertir en máximos bursátiles ha dado históricamente mejores resultados que hacerlo durante las caídas, más aún cuando la tendencia alcista viene respaldada por el crecimiento de los beneficios y no por una expansión de los múltiplos. Leer"
+  },
+  {
+    "titulo": "Ránking de las grandes cotizadas: los grupos del Ibex logran beneficios récord hasta junio",
+    "medio": "Expansión",
+    "fecha": 1786140144.0,
+    "link": "https://www.expansion.com/empresas/2026/08/08/6a75ef2a468aeb89668b4578.html",
+    "resumen": "Las grandes cotizadas españolas sostienen sus beneficios históricos en el primer semestre del año por el tirón de la banca y los buenos resultados de Repsol, Endesa, Iberdrola y ACS, entre otras. Los ingresos y el ebitda de los grupos del Ibex, que también partían de niveles récord, suben un 5,5% y un 10,7%, respectivamente. Leer"
+  },
+  {
+    "titulo": "Quince valores para invertir con la Bolsa en máximos",
+    "medio": "Expansión",
+    "fecha": 1786139864.0,
+    "link": "https://www.expansion.com/inversion/2026/08/07/6a760fabe5fdeab2088b4590.html",
+    "resumen": "La Bolsa española pisa el acelerador en su cuarto año consecutivo al alza. El Ibex ha coronado la cota de los 20.000 puntos por primera vez en su historia. El índice más representativo del mercado español ha alcanzado un máximo en 20.180 puntos y aún tiene gasolina alcista. Leer"
+  },
+  {
+    "titulo": "Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables",
+    "medio": "Expansión",
+    "fecha": 1786139722.0,
+    "link": "https://www.expansion.com/opinion/2026/08/07/6a76207a468aebb51b8b4598.html",
+    "resumen": "Los datos del mercado residencial no tienen compasión con el Gobierno y muestran claramente el fracaso de su política de vivienda. Leer"
+  },
+  {
+    "titulo": "Así han creado su fortuna los abogados más ricos del mundo",
+    "medio": "Expansión",
+    "fecha": 1786139606.0,
+    "link": "https://www.expansion.com/economia/2026/08/07/6a7629a2468aeb24308b4583.html",
+    "resumen": "Los asesores de 'M&A' ocupan el Olimpo de la profesión, pero quienes más dinero ganan son quienes lideran los grandes litigios, los divorcios de los famosos y los abogados de las grandes tecnológicas. Leer"
+  },
+  {
+    "titulo": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+    "medio": "Expansión",
+    "fecha": 1786139140.0,
+    "link": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html",
+    "resumen": "España, Europa y Wall Street han marcado máximos históricos esta semana. Una selección de fondos supera la subida de estos índices de doble dígito en 2026. Leer"
+  },
+  {
+    "titulo": "La Generalitat Valenciana envía un Es-Alert para confinar Sierra Engarcerán (Castellón) por el humo de un incendio",
+    "medio": "El Mundo",
+    "fecha": 1786139057.0,
+    "link": "https://www.elmundo.es/comunidad-valenciana/2026/08/07/6a764ca4fdddff49358b4599.html",
+    "resumen": "Emergencias ha ordenado el desalojo preventivo de algunas masías de la zona Leer"
+  },
+  {
+    "titulo": "Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»",
+    "medio": "The Objective",
+    "fecha": 1786139019.0,
+    "link": "https://theobjective.com/sociedad/2026-08-07/nivel-2-incendio-niebla-huelva-inestabilidad/",
+    "resumen": "El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha activado la fase […]"
+  },
+  {
+    "titulo": "Abelardo de la Espriella asume la presidencia de Colombia y Petro se despide sin reconocer la legitimidad de su sucesor",
+    "medio": "El Español",
+    "fecha": 1786138659.0,
+    "link": "https://www.elespanol.com/mundo/america/20260807/abelardo-espriella-asume-presidencia-colombia-petro-despide-sin-reconocer-legitimidad-sucesor/1003744347325_0.html",
+    "resumen": "\"Dijeron que me quedaría en este edificio. Y no\", declaró a su salida de la Casa de Nariño el primer presidente de izquierdas de la historia del país andino.Más información: Petro alimenta las denuncias de fraude electoral y dice temer \"una guerra civil\" en Colombia ante la llegada de De la Espriella"
+  },
+  {
+    "titulo": "Emergencias activa la situación 2 del PEIF y confina Sierra Engarcerán por un incendio forestal",
+    "medio": "Europa Press",
+    "fecha": 1786136876.0,
+    "link": "https://www.europapress.es/comunitat-valenciana/noticia-emergencias-envia-alert-incendio-sierra-engarceran-20260807230756.html",
+    "resumen": "El Centro de Coordinación de Emergencias de la Generalitat Valenciana ha enviado este viernes por la noche un mensaje Es-Alert para ordenar el confinamiento de los vecinos de Sierra Engarcerán (Castellón) a consecuencia del humo de un incendio declarado en Vall d'Alba."
   },
   {
     "titulo": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digital",
@@ -21,39 +196,11 @@
     "resumen": "La idea de que no somos dueños de los archivos digitales ha quedado demostrada una vez más. A unas semanas de que Sony anunciara que eliminaría cientos de películas de su catálogo digital, incluyendo las que compraron los usuarios, un nuevo caso vuelve a avivar el debate. En esta ocasión tiene que ver con Google, […] Seguir leyendo: Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digital"
   },
   {
-    "titulo": "Carolina Marín: \"El éxito no es ganar, es recorrer el camino hasta conseguirlo\"",
-    "medio": "Expansión",
-    "fecha": 1786136643.0,
-    "link": "https://www.expansion.com/directivos/2026/08/07/6a75b014e5fdea5c268b457e.html",
-    "resumen": "La exdeportista eligió con ocho años el bádminton como camino profesional y su esfuerzo le hizo alcanzar la gloria. El pasado marzo comunicó su retirada definitiva para dar prioridad a su salud. Hoy persigue el sueño de ser empresaria. Leer"
-  },
-  {
-    "titulo": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | El mandatario electo llega al lugar de la ceremonia",
-    "medio": "El País",
-    "fecha": 1786136625.0,
-    "link": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html",
-    "resumen": "El abogado penalista de 48 años toma posesión ante una decena de jefes de Estado y en ausencia del mandatario saliente"
-  },
-  {
     "titulo": "Infoca eleva a situación operativa 2 el incendio de Niebla por su \"inestabilidad\" y solicita la intervención de la UME",
     "medio": "Europa Press",
     "fecha": 1786136360.0,
     "link": "https://www.europapress.es/andalucia/huelva-00354/noticia-infoca-eleva-situacion-operativa-incendio-niebla-inestabilidad-solicita-intervencion-ume-20260807225920.html",
     "resumen": "El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha activado la fase de emergencia, situación operativa 2, debido a la \"inestabilidad\" del incendio declarado el jueves por la tarde en el paraje Raboconejo de Niebla (Huelva). Las previsiones meteorológicas, especialmente el cambio en la dirección del viento, el ensanche de la cabeza del incendio y su avance, han aconsejado reforzar el dispositivo con medios adicionales y solicitar la incorporación de la Unidad Militar de Emergencias (UME)."
-  },
-  {
-    "titulo": "Los colores del poder: de Calígula a Cleopatra",
-    "medio": "Expansión",
-    "fecha": 1786135846.0,
-    "link": "https://www.expansion.com/directivos/estilo-vida/tendencias/2026/08/07/6a75bc33468aebe3548b4571.html",
-    "resumen": "El uso de los colores púrpura de Tiro y azul de lapislázuli era un símbolo de estatus y poder desde la Antigüedad debido a su escasez y elevado valor en el mercado. Leer"
-  },
-  {
-    "titulo": "Illa: dos años de oasis con algunos nubarrones",
-    "medio": "Expansión",
-    "fecha": 1786135716.0,
-    "link": "https://www.expansion.com/economia/2026/08/07/6a763908e5fdea20538b4583.html",
-    "resumen": "La Generalitat recupera la estabilidad institucional y consigue aprobar presupuestos. Tiende puentes con el empresariado, que lamenta la mayor intervención en vivienda y las alzas fiscales a cruceristas. Leer"
   },
   {
     "titulo": "\"No conduzca con gafas de eclipse\": la DGT estrena media docena de mensajes de paneles inéditos en las carreteras españolas para el 12 de agosto",
@@ -91,20 +238,6 @@
     "resumen": "No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En … Continuar leyendo \"Vuelve el fútbol a Ceuta tras la invasión: «Esto nos sirve para desinhibirnos»\""
   },
   {
-    "titulo": "El Ibex sube un 2% en la semana de los 20.000 puntos",
-    "medio": "Expansión",
-    "fecha": 1786133743.0,
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/07/6a75706de5fdea9d2d8b458d.html",
-    "resumen": "El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos históricos. Leer"
-  },
-  {
-    "titulo": "Las claves bursátiles de la próxima semana",
-    "medio": "Expansión",
-    "fecha": 1786133675.0,
-    "link": "https://videos.expansion.com/v/xavrhvm-las-claves-bursatiles-de-la-proxima-semana-07-08-2026?uetv_pl=0",
-    "resumen": "Leer"
-  },
-  {
     "titulo": "¿Pueden Seat y VW aliarse con una marca china como ha hecho Ford? La alternativa que se extiende en Europa",
     "medio": "eldiario.es",
     "fecha": 1786133626.0,
@@ -133,13 +266,6 @@
     "resumen": "El senador y excandidato presidencial Iván Cepeda repite su llamado a la desobediencia civil desde Barranquilla, en un acto alterno a la posesión oficial"
   },
   {
-    "titulo": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
-    "medio": "El Mundo",
-    "fecha": 1786133151.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html",
-    "resumen": "El nuevo presidente decide pronunciar su primer discurso como jefe de Estado en el Batallón Pichincha de Cali en lugar de en Bogotá Leer"
-  },
-  {
     "titulo": "Una mujer de 67 años, segundo caso confirmado de virus del Nilo en Extremadura",
     "medio": "The Objective",
     "fecha": 1786133105.0,
@@ -154,32 +280,11 @@
     "resumen": "Mikel Oyarzabal, el jugador de la Real Sociedad que ha ganado fama internacional tras ganar con España el Mundial 2026, no apuesta solo por el fútbol como forma de ganarse la vida. El delantero ha tomado decisiones con cabeza, sabiendo que el deporte como trabajo tiene una edad de caducidad y que cualquier lesión puede terminar por su carrera. Por eso, él fue a la universidad y es un firme defensor de los estudios. El delantero apostó por la carrera de Administración y Dirección de Empresas (ADE) en la Universidad de Deusto, compaginando sus estudios universitarios con el fútbol profesional. \"Sé que es importante en la vida tener una segunda opción de futuro al margen del fútbol\" explica en una entrevista de 2018. Comenzó la carrera en 2015, cuando ya jugaba en la Real Sociedad; y terminó en 2019, siendo ya delantero de España. Para conseguir llegar a todo, tuvo que organizarse: \"Entrenamos por las mañanas y por la tarde meto horas con los libros. Muchas veces no apetece pero sé que es importante. Nunca sabes qué puede pasar.\" En la misma entrevista, Oyarzabal cuenta que su familia le insistió y apoyó mucho, porque sus padres eran muy partidarios de que continuara educándose a pesar de su carrera futbolística. Incluso compartió piso de estudiantes, viviendo de una forma que le ayudó a mantenerse humilde y con los pies en el suelo. Esta decisión, tan poco habitual en su mundillo, le da un buen plan B en caso de imprevistos o de que quiera alejarse del deporte. Fotos | @mikel10oyar. En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos. En DAP | Alicia Martínez, experta en limpieza: \"Para que la casa siempre huela bien, pulverizo este ambientador casero sobre las cortinas\". En Motorpasión | Juan José Ebenezer, mecánico: “no hay que dejar el coche aparcado con las ruedas giradas porque puedes hacer que termine en el taller”. - La noticia Mikel Oyarzabal, jugador de España, sobre la importancia de la universidad: “Sé que es importante tener una segunda opción de futuro al margen del fútbol\" fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "Gran Bretaña es ahora marrón tras meses de sequía",
-    "medio": "La Vanguardia",
-    "fecha": 1786132577.0,
-    "link": "https://www.lavanguardia.com/internacional/20260807/11610025/gran-bretana-marron-meses-sequia.html",
-    "resumen": "Los parques y la campiña, antaño verdes y agradables, están agostados en un país donde nunca fue necesario prever sistemas de riego"
-  },
-  {
     "titulo": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
     "medio": "OK Diario",
     "fecha": 1786132567.0,
     "link": "https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381",
     "resumen": "Este viernes ha sido el gran día de Ferran Torres, el héroe de la selección española de fútbol en la final del Mundial, con el gol del triunfo ante Argentina. Ferran Torres ha recibido el caluroso homenaje de su pueblo, Foyos, horas después de rubricar con el presidente de la Generalitat Valenciana, Juanfran Pérez Llorca, … Continuar leyendo \"Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana\""
-  },
-  {
-    "titulo": "Cuponazo ONCE hoy | Comprobar resultados del sorteo del viernes 7 de agosto de 2026",
-    "medio": "El Español",
-    "fecha": 1786132440.0,
-    "link": "https://www.elespanol.com/loterias/20260807/cuponazo-once-hoy-comprobar-resultados-sorteo-viernes-7-agosto/1003744347239_10.html",
-    "resumen": "Comprueba los resultados del sorteo del Cuponazo de la ONCE de hoy, viernes 7 de agosto.👉🏻Lotería Nacional hoy | Comprobar resultados del sorteo del jueves 6 de agosto"
-  },
-  {
-    "titulo": "Muere Lluís Bonet, uno de los padres de la Sagrada Família moderna",
-    "medio": "La Vanguardia",
-    "fecha": 1786132385.0,
-    "link": "https://www.lavanguardia.com/cultura/20260807/11610042/muere-lluis-bonet-padres-sagrada-familia-moderna.html",
-    "resumen": "Fue durante 25 años párroco de la parroquia del templo de Gaudí"
   },
   {
     "titulo": "Un catedrático de Derecho europeo, sobre la reacción de Bruselas a Ceuta: \"La extrema derecha ya no necesita gobernar para dictar la respuesta de la UE\"",
@@ -210,11 +315,11 @@
     "resumen": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital"
   },
   {
-    "titulo": "Euromillones: comprobar el resultado del sorteo de hoy, viernes 7 de agosto de 2026",
+    "titulo": "Bonoloto: comprobar el resultado del sorteo de hoy, viernes 7 de agosto de 2026",
     "medio": "OK Diario",
-    "fecha": 1786131549.0,
-    "link": "https://okdiario.com/loteria/euromillones-comprobar-resultado-del-sorteo-hoy-viernes-7-agosto-2026-19146213",
-    "resumen": "El resultado del sorteo de Euromillones de hoy, viernes 7 de agosto de 2026, es: 26, 29, 35, 38 y 47, y las estrellas son 01 y 02. En cuanto al sorteo de El Millón, premio al que aspiran todos los participantes que hayan jugado desde España, es para el boleto que tenga el código FDB34577. … Continuar leyendo \"Euromillones: comprobar el resultado del sorteo de hoy, viernes 7 de agosto de 2026\""
+    "fecha": 1786131624.0,
+    "link": "https://okdiario.com/loteria/bonoloto-comprobar-resultado-del-sorteo-hoy-viernes-7-agosto-2026-19146194",
+    "resumen": "Los resultados del sorteo de la Bonoloto celebrado hoy, viernes 7 de agosto de 2026, ya se conocen, por lo que a continuación podrás comprobar el número premiado, que está formado por los siguientes números: 03, 22, 25, 42, 43 y 49. El número complementario es el 08 y el reintegro, el 7. Los sorteos … Continuar leyendo \"Bonoloto: comprobar el resultado del sorteo de hoy, viernes 7 de agosto de 2026\""
   },
   {
     "titulo": "Disney Plus está probando una IA que entiende lo que quieres ver",
@@ -222,20 +327,6 @@
     "fecha": 1786131381.0,
     "link": "https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/",
     "resumen": "Si eres usuario de Netflix, Prime Video o cualquier servicio de streaming, sabrás lo complicado que es encontrar una película que te guste. Las compañías han modificado hasta el hartazgo su algoritmo, que las personas se cansan de buscar y terminan eligiendo cualquier cosa. Disney Plus no quiere que le pase esto y ya está […] Seguir leyendo: Disney Plus está probando una IA que entiende lo que quieres ver"
-  },
-  {
-    "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia rechaza el ultimátum de España y mantendrá los controles a los viajeros hasta el 15 de agosto",
-    "medio": "El País",
-    "fecha": 1786131240.0,
-    "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "resumen": "España también establece controles en las fronteras a los viajeros procedentes de Italia | El Ejecutivo ha registrado ya a 1.342 menores en la ciudad: “Van a ser atendidos todos”"
-  },
-  {
-    "titulo": "El Gobierno establece controles a los viajeros procedentes de Italia",
-    "medio": "Expansión",
-    "fecha": 1786131075.0,
-    "link": "https://www.expansion.com/economia/politica/2026/08/07/6a763277468aeb5f088b4597.html",
-    "resumen": "El Gobierno ha decidido restablecer desde la 00:00 horas de este sábado los controles fronterizos con Italia después de que el Ejecutivo de este país haya rechazado levantar sus controles que impone a las personas procedentes de España tras la entrada masiva de personas en Ceuta desde Marruecos. Leer"
   },
   {
     "titulo": "24 zonas de trabajo, grúas de 400 toneladas y casi 116 metros de altura: SpaceX está levantando otra megaestructura en EEUU",
@@ -252,25 +343,11 @@
     "resumen": "El premio principal es de 6.000.000 euros para aquellos que cuenten con las cinco cifras del número ganador y la serie"
   },
   {
-    "titulo": "ONCE hoy, viernes 7 de agosto de 2026: comprobar los resultados de Cupón Diario y Super11",
-    "medio": "OK Diario",
-    "fecha": 1786130534.0,
-    "link": "https://okdiario.com/loteria/once-hoy-viernes-7-agosto-2026-comprobar-resultados-cupon-diario-super11-19146243",
-    "resumen": "La ONCE ya ha realizado los sorteos de hoy, viernes 7 de agosto de 2026: Eurojackpot y Super11. Comprueba aquí los números premiados hoy. Comprobar el resultado del Eurojackpot hoy El resultado del Eurojackpot 11 de hoy viernes 7 de agosto de 2026 es para las siguientes combinaciones: 01, 03, 06, 13 y 23 y … Continuar leyendo \"ONCE hoy, viernes 7 de agosto de 2026: comprobar los resultados de Cupón Diario y Super11\""
-  },
-  {
-    "titulo": "Un varón se atrinchera con su madre octogenaria en una vivienda de Valencia durante varias horas",
-    "medio": "OK Diario",
-    "fecha": 1786130522.0,
-    "link": "https://okdiario.com/comunidad-valenciana/varon-atrinchera-madre-octogenaria-vivienda-valencia-durante-varias-horas-19146334",
-    "resumen": "Un varón, de 58 años, ha permanecido varias horas atrincherado este viernes en una vivienda de Valencia junto a su madre, una mujer de 81 años con movilidad reducida. Finalmente, agentes de la Policía Nacional han conseguido acceder a la citada vivienda y reducirlo, a fin de evitar que se causara a sí mismo algún … Continuar leyendo \"Un varón se atrinchera con su madre octogenaria en una vivienda de Valencia durante varias horas\""
-  },
-  {
-    "titulo": "El Gobierno responde a Meloni y establece controles fronterizos para los viajeros de Italia",
-    "medio": "The Objective",
-    "fecha": 1786130273.0,
-    "link": "https://theobjective.com/espana/2026-08-07/gobierno-controles-fronterizos-italia-schengen/",
-    "resumen": "Se agudiza la crisis diplomática. El Gobierno de España ha anunciado que va a establecer controles fronterizos en puertos y aeropuertos para los desplazamientos procedentes de […]"
+    "titulo": "El Gobierno establece controles fronterizos a los viajeros procedentes de Italia como respuesta al 'no' de Meloni",
+    "medio": "HuffPost",
+    "fecha": 1786130347.0,
+    "link": "https://www.huffingtonpost.es/politica/el-gobierno-establece-controles-fronterizos-viajeros-procedentes-italia-respuesta-no-meloni-f202608.html",
+    "resumen": ""
   },
   {
     "titulo": "España establece controles a los viajeros procedentes de Italia tras la negativa de Meloni a retirar los suyos a los españoles",
@@ -287,11 +364,11 @@
     "resumen": "Tras sufrir otro varapalo a sus planes de transformar lugares icónicos de Washington, Trump asegura que apelará al Supremo por un fallo que amenaza la “seguridad nacional”"
   },
   {
-    "titulo": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
-    "medio": "La Vanguardia",
-    "fecha": 1786130063.0,
-    "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
-    "resumen": "El Ministerio del Interior establecerá desde la medianoche de este sábado controles en puertos y aeropuertos para los desplazamientos desde Italia por su “persistente presión migratoria”"
+    "titulo": "El Gobierno de España restablece los controles fronterizos a los viajeros procedentes de Italia",
+    "medio": "Europa Press",
+    "fecha": 1786130071.0,
+    "link": "https://www.europapress.es/nacional/noticia-gobierno-restablece-controles-fronterizos-viajeros-procedentes-italia-20260807211431.html",
+    "resumen": "El Gobierno ha acordado restablecer de manera temporal los controles en las fronteras interiores de puertos y aeropuertos para los viajeros procedentes de Italia tras la negativa del Gobierno de Giorgia Meloni de retirar la suspensión a España del acuerdo Schengen."
   },
   {
     "titulo": "Antonio Maestre va con todo al analizar la figura de Ayuso y su futuro tras lo del ático: \"Cuando Feijóo pise la Moncloa se firmará la condena\"",
@@ -329,13 +406,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Europol incluye en su lista de delincuentes más buscados a una mujer que se hizo pasar por médica en Lugo y A Coruña",
-    "medio": "El Mundo",
-    "fecha": 1786129211.0,
-    "link": "https://www.elmundo.es/galicia/2026/08/07/6a762a2be9cf4ada778b456e.html",
-    "resumen": "Se trata de Andrea Sánchez Antelo, de 32 años y 155 centímetros Leer"
-  },
-  {
     "titulo": "Detienen a dos catalanes, padre e hijo, acusados de un doble asesinato en el sur de Paraguay",
     "medio": "El Mundo",
     "fecha": 1786128880.0,
@@ -355,6 +425,13 @@
     "fecha": 1786128316.0,
     "link": "https://www.xataka.com/cine-y-tv/solo-tiene-8-episodios-esta-top-10-prime-video-nueva-serie-veraniega-90-rotten-tomatoes",
     "resumen": "El verano está en su apogeo y las plataformas no aflojan el ritmo a la hora de estrenar historias veraniegas, fresquitas, fáciles de ver y maratonear, enfocadas al público joven. Hay quien espera con impaciencia el regreso de 'Outer Banks' a Netflix, así que, mientras llega y para tapar el hueco, Amazon ha movido ficha con su última novedad: 'Sterling Point'. De qué va. La protagonista de este drama de apenas ocho episodios es Annie Jacobson (Ella Rubin), de 17 años. La adolescente se cría en Nueva York junto a su hermano gemelo y un padre cariñoso. El giro viene cuando su ordenada vida se pone patas arriba al heredar una isla remota de Canadá de un abuelo misterioso al que nunca llegó a conocer. Intentar reconstruir la historia del lugar la acaba arrastrando a un mundo de relaciones nuevas y de secretos familiares un poco turbios guardados durante años. Quién la firma. A los mandos está la directora y guionista Megan Park ('My Old Ass'). En la serie participan Ella Rubin, Keen Ruffalo, Jay Duplass, Amélie Hoeferle y Bo Bragason, una actriz de la que pronto se hablará mucho por la inminente adaptación en imagen real de 'The Legend of Zelda'. De momento, la serie ha conseguido colocarse en el top diez de Amazon Prime Video, que no ha estrenado la serie ahora por casualidad, y acumula un 92% de críticas positivas en Rotten Tomatoes. ¿Por qué ahora? Prime Video no parece haber elegido el 5 de agosto para su estreno por casualidad. El 20, quince días después, Netflix se despedirá de 'Outer Banks' con una quinta temporada que cierra la serie, quedándose así sin una de las franquicias juveniles que más alegrías le ha dado estos últimos años. En su propia casa, el hueco viene de más atrás: 'El verano en que me enamoré' se despidió el 17 de septiembre de 2025 y la película que remata la historia de Belly empezó a rodarse el 27 de abril, todavía sin fecha de estreno. Este tipo de dramas juveniles están traccionando muy bien últimamente. 'Off Campus' se estrenó el 13 de mayo y sumó 36 millones de espectadores en doce días, el tercer mejor lanzamiento de la historia de Prime Video junto a 'Los anillos de poder' y 'Fallout'. Con ese precedente, que una serie de una isla, en verano y con secretos familiares funcione tiene poco de sorpresa. Netflix tampoco piensa ceder el hueco: soltó la tercera temporada de 'Mi vida con los chicos Walter' el 6 de agosto, un día después de 'Sterling Point', y ya tiene renovada la cuarta. Vía | GRYOnline.pl Imagen de portada | Prime Video En Xataka | En tiempo record desde su estreno en cines, uno de los fracasos de taquilla más estrepitosos del año llega a Prime Video - La noticia Ocho episodios y ya está en el top ten de Prime Video: la nueva serie veraniega con más de un 90% en Rotten Tomatoes fue publicada originalmente en Xataka por Jose García ."
+  },
+  {
+    "titulo": "El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático",
+    "medio": "El País",
+    "fecha": 1786128072.0,
+    "link": "https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html",
+    "resumen": "La Comunidad calcula que las obras de la Real Casa de Correos costarán alrededor de 1,65 millones y el contrato tramitado ahora es para el diseño del proyecto por casi 60.000 euros"
   },
   {
     "titulo": "The Case for Carceral Minimalism",
@@ -406,13 +483,6 @@
     "resumen": "Sony está preparando un movimiento que pocos esperaban en su catálogo de auriculares. El gigante japonés está siguiendo la moda de otros fabricantes y planea relanzar una variante de los WH-1000XM4, sus auriculares más populares de esta década. La nueva versión llegaría con características muy parecidas a las del modelo de 2020, aunque con un […] Seguir leyendo: Sony prepara el regreso de sus auriculares más vendidos, ahora más baratos"
   },
   {
-    "titulo": "El Metropolitano, único estadio español entre los mejores del mundo para disfrutar conciertos",
-    "medio": "The Objective",
-    "fecha": 1786126080.0,
-    "link": "https://theobjective.com/cultura/2026-08-07/metropolitano-estadio-espanol-mejores-mundo-disfrutar-conciertos/",
-    "resumen": "El Riyadh Air Metropolitano ha sido incluido en el ‘Stadium Stars 2026’, una lista que reconoce a los 20 espacios más destacados del mundo para acoger […]"
-  },
-  {
     "titulo": "Nos han dicho que comer mucha proteína acorta la vida. La ciencia tiene un mensaje muy diferente para tus músculos",
     "medio": "Xataka",
     "fecha": 1786125676.0,
@@ -434,20 +504,6 @@
     "resumen": ""
   },
   {
-    "titulo": "El balón de la 'Mano de Dios' de Maradona se subastará en EEUU y se espera que su venta supere los 10 millones de dólares",
-    "medio": "El Mundo",
-    "fecha": 1786125488.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/08/07/6a761caee85ece21198b4585.html",
-    "resumen": "La camiseta que el astro argentino usó aquel día contra Inglaterra ostenta el récord de la más cara, con un valor de 9,3 millones de dólares Leer"
-  },
-  {
-    "titulo": "Telefónica lidera la reputación algorítmica con una puntuación un 21% superior a la media",
-    "medio": "The Objective",
-    "fecha": 1786124740.0,
-    "link": "https://theobjective.com/economia/2026-08-07/telefonica-reputacion-algoritmica/",
-    "resumen": "Telefónica se ha consolidado como la compañía con mayor reputación algorítmica del sector de las telecomunicaciones, al alcanzar una puntuación de 70 puntos en el índice […]"
-  },
-  {
     "titulo": "La Comunidad de Madrid pone a la venta el ático de lujo que Ayuso iba a utilizar como oficina provisional por más de 6 millones de euros",
     "medio": "HuffPost",
     "fecha": 1786124625.0,
@@ -460,13 +516,6 @@
     "fecha": 1786124501.0,
     "link": "https://www.eldiario.es/madrid/fichas-imagenes-planos-atico-chamberi-piso-gran-via-puestos-venta-comunidad-madrid_1_13435230.html",
     "resumen": "Planifica Madrid pone a la venta el ático de lujo por 6,7 millones de euros y el inmueble de Gran Vía, para el que ya intentó encontrar comprador sin éxito en el pasado, por 11,8 millones La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones La Comunidad de Madrid ha puesto a la venta el polémico ático de lujo de Chamberí que adquirió a través de la empresa pública Planifica Madrid en abril a 6,7 millones de euros. El inmueble de Gran Vía, para el que ya intentó encontrar comprador sin éxito en el pasado, sale ahora con un precio de partida de 11,8 millones. Aquí puedes consultar las fichas de ambas propiedades:"
-  },
-  {
-    "titulo": "Primera visita oficial de Zelenski a Serbia, un país cercano a Rusia",
-    "medio": "El Mundo",
-    "fecha": 1786124493.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/07/6a76153f21efa0001b8b4570.html",
-    "resumen": "Se produce en un momento en que Vucic intenta equilibrar los lazos tradicionales del país balcánico con Moscú frente a la presión para alinear su política exterior con la Unión Europea Leer"
   },
   {
     "titulo": "Felipe VI y De la Espriella escenifican la relación de \"fraternidad\" de España y Colombia",
@@ -490,32 +539,11 @@
     "resumen": "Vamos a explicarte varios métodos con los que puedes intentar recuperar mensajes borrados de WhatsApp. Ya te aviso desde el principio que esta no es una opción que aparece de forma nativa en la aplicación, aunque hay algunas cosas que puedes intentar para solucionar esos mensajes o chats que puedes haber borrado por error o de forma compulsiva. Vamos a empezar diciéndote por qué casi nunca vas a poder recuperar los mensajes borrados de WhatsApp. Luego iremos con un primer método que vas a poder hacer tanto en Android como en el iPhone, y seguiremos con otras dos alternativas para Android. Es algo que casi nunca podrás hacer Antes de empezar, debes tener claro que si buscas una solución fácil y universal para recuperar mensajes, hay malas noticias para ti. Lo siento, no se puede, como mucho vas a poder recuperar algunos mensajes borrados en unas circunstancias muy concretas, y pero en la mayoría de casos sólo podrás recuperar fragmentos. Si eres usuario de Android, puedes tener algunas posibilidades extra, puesto que hay métodos para recuperar el contenido de las notificaciones que te llegan cuando no tienes la app abierta, aunque con límites. Si estás dentro de la aplicación no se generará una notificación, y por lo tanto no podrás recuperar su contenido. El método también tiene limitaciones como que sólo verás los mensajes con los que has interactuado, que tiene un tope de unos 100 caracteres, que y la copia sólo se mantendrá durante unas horas hasta que Android guarde otras notificaciones por encima. Aun así, puede ayudarte en el caso de haber alguna emergencia. Pero por lo demás, lo único que puedes hacer sin complicarte tanto es recuperar mensajes a través de la copia de seguridad. Esto ya te lo hemos explicado, y tiene que darse la casualidad de que una copia de seguridad haya guardado la conversación, pero que cuando los mensajes se hayan borrado no se haya creado una nueva copia que sobrescriba la situación actual de la conversación. Las copias de seguridad guardan el estado actual de una conversación. Si hacemos una copia de lo que tenemos escrito ahora, y a los cinco minutos borro los mensajes, al restaurar la copia los mensajes estarán en ella. Pero si se hace otra copia dentro de diez minutos los mensajes ya no estarán. Por lo tanto, para que esto sea efectivo tienes que hacer copias de seguridad manuales cuando creas que una conversación puede ser borrada, y asegurarte de que no se haga otra copia cuando ya se hayan borrado. El contenido multimedia de los mensajes no siempre se va a guardar, y en la mayoría de casos acabará perdiéndose para siempre. En el método para recuperar mensajes en Android incluiremos una app que registra el contenido multimedia de las notificaciones, pero por lo general serán datos que debes tener en mente que vas a perder. En Xataka Nombres de usuario de WhatsApp: qué son, para qué sirven y cómo reservar el tuyo Recupera mensajes usando copias de seguridad El método que puedes usar tanto en Android como en el iPhone es el de restaurar los mensajes a través de las copias de seguridad. Con él, podrás recuperar los mensajes que estén guardados en la última copia de seguridad que tengas guardada, pero esto significa que no serán los mensajes más recientes. WhatsApp hace copias de seguridad de todos tus chats de una forma periódica que tú puedes configurar, como una vez a la semana, por ejemplo. Entonces, imagínate que borras un chat conmigo sin querer, entonces lo que puedes hacer es restaurar la copia de seguridad. Cuando lo hagas, recuperarás sólo los mensajes que había en la copia, los que tuviéramos cuando se hizo la copia de seguridad, pero se perderán todos los que hubiera entre esa copia y el borrado. Para restaurar una copia de seguridad, lo primero es desinstalar WhatsApp de tu móvil. Una vez lo desinstales por completo, vuelve a instalarlo e inicia sesión con tu número de teléfono. Tienes que hacerlo en el móvil principal. Cuando inicies sesión, WhatsApp te permitirá restaurar tu copia de seguridad en la nube. El problema aquí es que la cantidad de mensajes que recuperas depende de la frecuencia de las copias de seguridad. Pero claro, si son muy frecuentes, como una al día, entonces tienes que actuar rápido y hacer el proceso antes de que se haga una nueva copia que sobrescriba todo y los mensajes se pierdan para siempre. Registro de notificaciones de Android Otro método que puedes usar en Android es registrar el contenido de las notificaciones que te llegan. Para eso, mantén pulsado el fondo de tu pantalla y elige la opción Widgets. En la pantalla para elegir añadir un widget, explora todos los disponibles y elige la aplicación Ajustes para elegir el widget de Acceso a ajustes. El widget de los ajustes es sólo un acceso directo, por lo que cuando elijas dónde ponerlo tendrás que decidir también a qué opción apunta. Te aparecerá una lista, donde tienes que elegir la opción de Registro de notificaciones. Recuerda, no pulses en Notificaciones porque irás a la configuración de estas, sino a Registro de notificaciones. Una vez lo hayas hecho, el widget que hace las veces de acceso directo se quedará en el escritorio con un icono que hará que parezca una aplicación más. Cuando hayas recibido notificaciones de mensajes de WhatsApp, pulsa sobre el nuevo icono de Registro de notificaciones que has creado para acceder a ellas. Irás a una pantalla donde aparece una lista con todas las notificaciones que has recibido. En esta lista, pulsa sobre la notificación de WhatsApp que quieras leer, ya que se mostrará su contenido aunque haya sido eliminado de la aplicación. Cuando abras el contenido de una notificación verás que aparecen muchísimos datos y texto. Aquí, el contenido de la notificación aparecerá en el campo android.text:. O sea que tendrás que buscarlo en cada notificación. Recuerda que con este sistema sólo puedes guardar 100 caracteres del mensaje, y sólo verás esos que te han llegado por una notificación. En Xataka Estafa de robar tu WhatsApp por videollamada y pedir Bizums a tus contactos: qué es y cómo evitarla Cuidado con las apps de terceros Otra opción que tienes disponible en Android es descargar apps que guarden tus notificaciones para así poder recuperar luego mensajes borrados. Las hay especialistas en WhatsApp, como WAMR o WhatsRemoved+. Sin embargo, también sacarán los datos del registro de notificaciones y tendrás el límite de 100 caracteres. Sin embargo, no te recomiendo utilizar nunca estas aplicaciones. Lo que hacen es coger el registro de tus notificaciones y guardarlo, lo que quiere decir que le estarás dando a una empresa el acceso a todas las notificaciones de tu móvil, así como el nombre de tus contactos y sus números, o sea que siempre existe el riesgo de que se queden estos datos. En estas aplicaciones podrás elegir de qué app de mensajería guardar el contenido, y te pedirá que le des acceso a los archivos multimedia y las notificaciones de tu dispositivo. Una vez configurada, la aplicación irá guardando las conversaciones de las notificaciones que te llegan de WhatsApp. Se irán organizando dentro de grupos con el nombre de la persona que te las ha mandado, para que sea una experiencia casi nativa a igual que si estuvieras leyendo el texto desde la app. Sólo que claro, con caracteres limitados y viendo sólo el texto que te llega por las notificaciones. En Xataka Basics | Enviarte mensajes de WhatsApp a ti mismo: Cómo hacerlo y 11 utilidades para la función - La noticia Cómo recuperar mensajes borrados de WhatsApp en Android y iPhone fue publicada originalmente en Xataka por Yúbal Fernández ."
   },
   {
-    "titulo": "Barça y City negocian en buena sintonía el fichaje de Rodri",
-    "medio": "La Vanguardia",
-    "fecha": 1786123774.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260807/11610010/rodri-barca-mancheter-city-negocian-buena-sintonia-fichaje.html",
-    "resumen": "El equipo inglés rechazó una primera oferta de 45 millones, mientras el jugador descansa en Ibiza"
-  },
-  {
-    "titulo": "Paula Badosa confirma que ha pasado “por una pequeña intervención” y ha vuelto a entrenar",
-    "medio": "La Vanguardia",
-    "fecha": 1786123600.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20260807/11610007/paula-badosa-confirma-pasado-pequena-intervencion-vuelto-entrenar.html",
-    "resumen": "La española hizo saltar las alarmas a sus seguidores tras publicar unas imágenes este jueves en las que aparecía en un quirófano"
-  },
-  {
     "titulo": "Unos pescadores de Benidorm a los 11 tripulantes argelinos de una patera: \"Hola España, ale, paguita, es increíble\"",
     "medio": "El Español",
     "fecha": 1786123264.0,
     "link": "https://www.elespanol.com/reportajes/20260807/pescadores-benidorm-tripulantes-argelinos-patera-hola-espana-ale-paguita/1003744347066_0.html",
     "resumen": "Diez eran adultos, uno de ellos menor de edad y han sido interceptados en la calle Sierra Dorada tras tomar tierra, según fuentes policiales.Más información: El 89%, incluido el 85% de votantes del PSOE, cree que Marruecos \"permitió o estimuló\" la invasión de Ceuta"
-  },
-  {
-    "titulo": "La crisis de Adamuz castiga la alta velocidad, que pierde viajeros siete meses después del accidente",
-    "medio": "El Mundo",
-    "fecha": 1786123160.0,
-    "link": "https://www.elmundo.es/economia/2026/08/07/6a75f427e9cf4a3b228b45a2.html",
-    "resumen": "Siete meses después del accidente, la joya de la corona del transporte nacional sigue lidiando con sus secuelas y pierde usuarios mientras todos los modos de transporte baten récords Leer"
   },
   {
     "titulo": "Un tribunal de EEUU frena las obras del Salón de Baile de Trump hasta que obtenga el permiso del Congreso",
@@ -537,13 +565,6 @@
     "fecha": 1786123030.0,
     "link": "https://www.eldiario.es/madrid/somos/comunidad-madrid-adjudica-60-000-euros-diseno-reforma-sede-puerta-sol_1_13435088.html",
     "resumen": "El portal de contrataciones del Gobierno autonómico ha publicado este viernes el expediente del contrato para el diseño y redacción del proyecto previo a las obras por las que justificaron la compra del ático de 6,3 millones de euros para \"reuniones\"La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones La Comunidad de Madrid ha publicado este viernes el contrato para el diseño de las futuras obras de su sede en la Real Casa de Correos de la Puerta del Sol. Concretamente, el expediente recoge un contrato adjudicado y negociado sin publicidad a la empresa Pombo Estudio S.L. por 59.000 euros para el “diseño, redacción de proyecto y dirección facultativa, obras de adecuación de espacios en Real Casa de Correos”. El Gobierno de Isabel Díaz Ayuso aseguró que compró el ático de 6,3 millones de euros en Chamberí que ha desatado la polémica estos días por unas obras en Sol de las cuales no existía rastro en el portal de contratación de la Comunidad de Madrid. Ahora, más de una semana después del escándalo, en la web han aparecido los datos del contrato adjudicado a una empresa propiedad de Alejandra Pombo, prima de la influencer y empresaria María Pombo. Este viernes también se ha conocido la puesta en venta del ático por 6,7 millones. En cuanto a los plazos previstos, la presidenta de la Comunidad aseguró durante una rueda de prensa el pasado miércoles que las obras comenzarían “en otoño”. Según el contrato colgado en la web, a partir de la fecha de la firma se cuenta con un plazo de tres meses para tener listo el proyecto, el paso previo a la licitación de las obras. Luego habrá cuatro meses para la tramitación de la licitación y adjudicación del contrato de obras, así como la obtención de licencias, y otros doce para la ejecución de las obras. En total, 19 meses. En la memoria de justificación del proyecto, que es el paso previo para las obras, aparece la firma con fecha del 2 de junio de este año y se establece como objetivo “modernizar y adecuar a la arquitectura singular del edificio la imagen institucional”, para lo que “se requiere una adaptación y rehabilitación de las diferentes estancias dentro del edificio, debiendo encontrarse a la altura de la estética exigida por la Consejería de Presidencia”. En total, el presupuesto base de la licitación es de 59.377,73 euros. El jueves de la semana pasada, un día después de que saliese a la luz la compra del lujoso ático, desde el área de Presidencia de la Comunidad aseguraban que la Real Casa de Correos seguiría “este verano con las obras planificadas, que comenzaron en 2025, y que en este periodo iban a afectar a los patios y segunda planta, para mantener en las mejores condiciones un edificio de más de 250 años declarado BIC”. Las zonas a intervenir, según detallan en el portal de contratación, son “los patios interiores de la planta baja, la escalera principal de acceso a la segunda planta y el ala norte de esta planta donde se encuentran la zona Presidencial, el Salón Institucional, el Salón Canalejas y la Sala de Consejo de Gobierno”. El contrato que se ha adjudicado por el momento incluye el desarrollo del proyecto de decoración interior, la asistencia técnica durante la tramitación de licencias, autorizaciones y permisos y la dirección facultativa del proceso."
-  },
-  {
-    "titulo": "Shakira lanza la versión en español de 'Dai Dai', la canción oficial del Mundial FIFA 2026",
-    "medio": "La Vanguardia",
-    "fecha": 1786122993.0,
-    "link": "https://www.lavanguardia.com/gente/20260807/11609999/shakira-lanza-version-espanol-dai-dai-cancion-oficial-mundial-fifa-2026.html",
-    "resumen": "La pieza está grabada en cinco idiomas: inglés, español, italiano, francés y japonés"
   },
   {
     "titulo": "La Justicia paraliza las obras del salón de baile de Trump en la Casa Blanca: deberá obtener permiso del Congreso",
@@ -810,13 +831,6 @@
     "fecha": 1786100742.0,
     "link": "https://hipertextual.com/cine-television/pesimas-noticias-para-jurassic-world-5-que-se-queda-sin-director/",
     "resumen": "Universal Pictures anunció hace unos meses que el desarrollo de Jurassic World 5 estaba en marcha. La compañía estrenó en 2025 Jurassic World: El Renacer, una nueva entrega de la mítica saga de dinosaurios que, esta vez, se presentaba como la apertura a una nueva era. Nuevos protagonistas y una historia nunca antes vista dejaban […] Seguir leyendo: Pésimas noticias para ‘Jurassic World 5’, que se queda sin director"
-  },
-  {
-    "titulo": "Rego eleva a 1.340 la cifra de menores migrantes en Ceuta tras la entrada masiva del 30 de julio",
-    "medio": "Europa Press",
-    "fecha": 1786100623.0,
-    "link": "https://www.europapress.es/epsocial/infancia/noticia-rego-eleva-1340-cifra-menores-migrantes-ceuta-entrada-masiva-30-julio-20260807130343.html",
-    "resumen": "La ministra de Juventud e Infancia, Sira Rego, ha elevado este viernes a 1.342 el número de menores extranjeros no acompañados registrados e incorporados al sistema de acogida en Ceuta."
   },
   {
     "titulo": "La lista de los más listos de la clase: el análisis de la «inteligencia» de las IA (y sus precios) en una sola página",
