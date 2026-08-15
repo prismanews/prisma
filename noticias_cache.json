@@ -1,45 +1,325 @@
 [
   {
-    "titulo": "Metro reabre la línea 9B entre Arganda del Rey y Rivas Vaciamadrid",
-    "medio": "Moncloa.com",
-    "fecha": 1786777756.0,
-    "link": "https://www.moncloa.com/2026/08/15/linea-9b-metro-reapertura-arganda-rivas-3415700/",
-    "resumen": "La línea 9B reabre entre Arganda y Rivas tras las obras. La Comunidad mantiene cortes en las líneas 6 y 7 y refuerza los autobuses gratuitos. La entrada Metro reabre la línea 9B entre Arganda del Rey y Rivas Vaciamadrid aparece primero en Moncloa."
+    "titulo": "Paul McGrath y María Pérez, histórico doblete de oro de la marcha en el Europeo de Birmingham",
+    "medio": "El Mundo",
+    "fecha": 1786783646.0,
+    "link": "https://www.elmundo.es/deportes/mas-deporte/2026/08/15/6a7f8955e9cf4a8d198b4589.html",
+    "resumen": "El catalán y la granadina (récord del mundo) arrasan en el estreno de la media maratón. Leer"
   },
   {
-    "titulo": "Apagón en la torre de control de El Prat: los controladores exigen responsabilidades",
-    "medio": "Moncloa.com",
-    "fecha": 1786777719.0,
-    "link": "https://www.moncloa.com/2026/08/15/apagon-torre-control-el-prat-3415702/",
-    "resumen": "El apagón en la torre de control de El Prat paralizó despegues y aterrizajes el 12 de agosto. USCA pide responsabilidades y Enaire defiende la seguridad. La entrada Apagón en la torre de control de El Prat: los controladores exigen responsabilidades aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Madrid instala marquesinas inteligentes con mapas táctiles en los autobuses interurbanos de diez municipios",
-    "medio": "Moncloa.com",
-    "fecha": 1786777584.0,
-    "link": "https://www.moncloa.com/2026/08/15/marquesinas-inteligentes-madrid-3415705/",
-    "resumen": "El Consorcio Regional de Transportes extiende las marquesinas con pantallas táctiles, wifi y mapas interactivos a diez municipios de la región. La entrada Madrid instala marquesinas inteligentes con mapas táctiles en los autobuses interurbanos de diez municipios aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Generalitat alquila un edificio de 6.000 m² en el 22@ para desplegar la Agència Tributària de Catalunya",
-    "medio": "Moncloa.com",
-    "fecha": 1786777552.0,
-    "link": "https://www.moncloa.com/2026/08/15/generalitat-alquila-22-agencia-tributaria-catalunya-3415706/",
-    "resumen": "La Generalitat alquila 6.000 m² en el 22@ para desplegar la Agència Tributària de Catalunya: nueve años y 120.000 euros al mes. La entrada Generalitat alquila un edificio de 6.000 m² en el 22@ para desplegar la Agència Tributària de Catalunya aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Foment pide revisar el cierre de nucleares en Cataluña tras la prórroga de Almaraz",
-    "medio": "Moncloa.com",
-    "fecha": 1786777472.0,
-    "link": "https://www.moncloa.com/2026/08/15/revision-cierre-nucleares-cataluna-almaraz-3415707/",
-    "resumen": "La prórroga de Almaraz reactiva el debate sobre Ascó y Vandellòs. Foment del Treball urge a revisar el calendario de cierre nuclear en Cataluña. La entrada Foment pide revisar el cierre de nucleares en Cataluña tras la prórroga de Almaraz aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Vacaciones de lujo sin pagar hotel: el intercambio de mansiones que cada vez eligen más viajeros",
+    "titulo": "No estamos preparados: la AEMET confirma la llegada de una DANA a estas zonas de España y un giro térmico sin precedentes en agosto",
     "medio": "OK Diario",
-    "fecha": 1786777429.0,
-    "link": "https://okdiario.com/cool/lifestyle/vacaciones-lujo-sin-pagar-hotel-intercambio-mansiones-que-cada-vez-eligen-mas-viajeros-19175871",
-    "resumen": "¿Y si tus próximas vacaciones fueran en una mansión a cambio de la tuya? Esta pregunta hace unos años había sido considerada un auténtico disparate; una idea alcanzable para el imaginario de Hollywood. De hecho, muchos llegamos a este modelo de viajar a través de la película The Holiday, allá por el 2006. El argumento … Continuar leyendo \"Vacaciones de lujo sin pagar hotel: el intercambio de mansiones que cada vez eligen más viajeros\""
+    "fecha": 1786783530.0,
+    "link": "https://okdiario.com/sociedad/no-estamos-preparados-aemet-confirma-llegada-dana-estas-zonas-espana-giro-termico-sin-precedentes-agosto-19185780",
+    "resumen": "La llegada de una DANA a estas zonas de España de un giro térmico sin precedentes en agosto, puede cambiarlo todo, no estamos del todo preparados. Los expertos de la AEMET no dudan en lanzar una importante advertencia que debemos tener en consideración y que pueden cambiarlo todo por completo. Después de un cambio de … Continuar leyendo \"No estamos preparados: la AEMET confirma la llegada de una DANA a estas zonas de España y un giro térmico sin precedentes en agosto\""
+  },
+  {
+    "titulo": "Lo que ha confirmado Jorge Rey para este fin de semana no es normal y avisa: «Apoteósico»",
+    "medio": "OK Diario",
+    "fecha": 1786783505.0,
+    "link": "https://okdiario.com/sociedad/lo-que-confirmado-jorge-rey-este-fin-semana-no-normal-avisa-apoteosico-19185743",
+    "resumen": "Este fin de semana no es normal lo que llega, Jorge Rey no duda en avisar de lo que puede pasar en un fin de semana Apoteósico. Es momento de tener en consideración lo que nos estará esperando en unos días en los que quizás tendremos que visualizar un importante cambio que será el que … Continuar leyendo \"Lo que ha confirmado Jorge Rey para este fin de semana no es normal y avisa: «Apoteósico»\""
+  },
+  {
+    "titulo": "Trump dice que declarará el estrecho de Ormuz \"territorio de EEUU\" tras \"derrotar a Irán\"",
+    "medio": "eldiario.es",
+    "fecha": 1786783344.0,
+    "link": "https://www.eldiario.es/internacional/trump-dice-declarara-estrecho-ormuz-territorio-eeuu-derrotar-iran_1_13448895.html",
+    "resumen": "El presidente estadounidense habló de la reciente crisis humanitaria en Ceuta para criticar la política de \"frontera abierta\" de España y señalar a Joe Biden asegurando que bajo su mandato Estados Unidos vivió a diario episodios como esteTucker Carlson: ¿Hay vida después de Trump? El presidente estadounidense, Donald Trump, dijo este viernes que planea declarar el estrecho de Ormuz un “territorio de Estados Unidos” tras “derrotar a Irán”, elevando el tono contra Teherán mientras sus negociaciones siguen estancadas y se acerca el vencimiento del alto el fuego pactado en junio. “Después de que terminemos de derrotar a Irán, que está siendo derrotado muy gravemente, muy pronto declararé el estrecho de Ormuz territorio de Estados Unidos, en esencia. Tenemos un bloqueo. Ningún barco pasa a menos que nosotros queramos que pase”, declaró en un mítin en Long Island (Nueva York). El próximo lunes 17 de agosto vence el plazo de 60 días que se dieron EEUU e Irán con la firma de un memorando de entendimiento el pasado 17 de junio, que declaraba el “cese inmediato y permanente de las operaciones militares en todos los frentes” como parte de un proceso para negociar el fin de la guerra en Oriente Medio. “Estados Unidos tiene el control total del estrecho de Ormuz. ¡Creo que nos lo quedaremos!”, escribió el miércoles Trump en su red Truth Social, asegurando que “no hay nada que Irán pueda hacer al respecto”. Esta semana, el mandatario republicano ya hizo referencia a la posibilidad de que Estados Unidos se “quede” el estrecho de Ormuz argumentando que ya controla la ruta marítima porque los ataques estadounidenses realizados desde febrero diezmaron las capacidades militares iraníes, algo que Teherán ha rechazado. Trump critica la política migratoria de “frontera abierta” en España En este mítin en Nueva York, Trump arremetió contra la política migratoria de “frontera abierta” en España que atribuyó a la entrada de “muchos criminales”, en referencia a la entrada de miles de personas migrantes en Ceuta a finales del pasado julio. Además, aprovechó la crisis humanitaria para señalar a su antecesor, el demócrata Joe Biden, asegurando que bajo su mandato Estados Unidos vivió a diario episodios como el de Ceuta. “Lo vieron el otro día en España, ¿verdad? Ahora imaginen: dejaron entrar a 65.000 personas. Recuerden: 25 millones de personas, nosotros estábamos peor. Fue así cada día en nuestro país, durante meses y meses”, declaró Trump. Además, enfatizó que el Gobierno que ahora dirige tiene “la facultad de sacar del país a las personas que están aquí ilegalmente”. El mandatario visitó la Academia de Policía del condado de Nassau, y posteriormente ofreció un discurso centrado en la reducción del crimen en el país bajo su liderazgo y, en concreto, en esta zona de Long Island (al este del estado de Nueva York) que durante años estuvo azotada por la violencia de pandillas como la MS-13. Precisamente ofreció allí su respaldo al ejecutivo del condado de Nassau, el republicano Bruce Blakeman, que se presenta candidato por el partido a gobernador del estado de Nueva York frente a la actual responsable, la demócrata Kathy Hochul, señalándolo como un defensor de la ley y el orden y un representante del “sentido común”. Trump, que recordó que gracias a unas “fronteras abiertas” entraron “25 millones de personas en cuatro años” en EEUU, denunció a la gobernadora su apoyo a la polémica medida de “no cash bail” (sin fianza en efectivo), que permite a detenidos por delitos menores salir en libertad antes del juicio para evitar congestionar el sistema."
+  },
+  {
+    "titulo": "Marruecos anuncia que ha frustrado un intento de alcanzar Ceuta de cientos de migrantes subsaharianos",
+    "medio": "El Mundo",
+    "fecha": 1786783126.0,
+    "link": "https://www.elmundo.es/espana/2026/08/15/6a802564e85ece610b8b457f.html",
+    "resumen": "Fuentes de Seguridad marroquíes indicaronque el incidente se registró en una zona montañosa, en las afueras de Castillejos y al suroeste de Ceuta Leer"
+  },
+  {
+    "titulo": "De ‘beach clubs’ exclusivos al casco antiguo: los restaurantes de Marbella que triunfan este agosto",
+    "medio": "OK Diario",
+    "fecha": 1786783113.0,
+    "link": "https://okdiario.com/cool/lifestyle/restaurantes-marbella-recomendaciones-costa-sol-16753841",
+    "resumen": "Agosto en Marbella es sinónimo de días largos que se estiran entre el mar, las sobremesas infinitas y las noches que empiezan tarde y acaban aún más tarde. Reservar mesa deja de ser un gesto improvisado para convertirse en una pequeña estrategia veraniega: terrazas frente al mar, restaurantes escondidos en calles blancas del casco antiguo … Continuar leyendo \"De ‘beach clubs’ exclusivos al casco antiguo: los restaurantes de Marbella que triunfan este agosto\""
+  },
+  {
+    "titulo": "María Pérez reivindica la marcha tras su doble corona europea: «Otra vez salva al atletismo español»",
+    "medio": "OK Diario",
+    "fecha": 1786783003.0,
+    "link": "https://okdiario.com/deportes/maria-perez-reivindica-marcha-doble-corona-europea-otra-vez-salva-atletismo-espanol-19185724",
+    "resumen": "María Pérez consiguió en la mañana de este sábado su segunda medalla de oro en el Europeo de Atletismo en la media maratón de Birmingham. La atleta granadina obtuvo la doble corona y aprovechó la entrevista después de la prueba para reivindicar su disciplina: «Otra vez, la marcha salva al atletismo español. Merecemos ese respeto … Continuar leyendo \"María Pérez reivindica la marcha tras su doble corona europea: «Otra vez salva al atletismo español»\""
+  },
+  {
+    "titulo": "El Estado portugués compra cerca del 13,7% de REN a Pontegadea Inversiones",
+    "medio": "Expansión",
+    "fecha": 1786782982.0,
+    "link": "https://www.expansion.com/empresas/energia/2026/08/15/6a8022f5468aebdb398b457b.html",
+    "resumen": "El Estado portugués va a volver al capital de la lusa Redes Energéticas Nacionales (REN) tras haber acordado la compra de cerca del 13,7% del accionariado a Pontegadea Inversiones S.L., el vehículo inversor del empresario español Amancio Ortega. Leer"
+  },
+  {
+    "titulo": "Un terremoto de magnitud 5 sacude Granada: “Sentimos miedo, mucho miedo”",
+    "medio": "El País",
+    "fecha": 1786782776.0,
+    "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
+    "resumen": "El temblor, que solo ha dejado daños materiales y no ha causado víctimas, ocurrió a la una de la madrugada y ha estado seguido de casi medio centenar de réplicas"
+  },
+  {
+    "titulo": "‘Una nueva vida’: sale a la luz toda la verdad sobre la sonada ausencia de Halis en la serie",
+    "medio": "OK Diario",
+    "fecha": 1786782728.0,
+    "link": "https://okdiario.com/happyfm/nueva-vida-sale-luz-toda-verdad-sobre-sonada-ausencia-halis-serie-19136676",
+    "resumen": "Una nueva vida se ha convertido en uno de los estrenos más vistos y valorados por los espectadores de Antena 3. La popular ficción turca ha logrado conquistar a la audiencia, capítulo tras capítulo. Pues, su entretenida historia no ha dejado indiferente a nadie. Una trama de drama y romance que arrasa en más de … Continuar leyendo \"‘Una nueva vida’: sale a la luz toda la verdad sobre la sonada ausencia de Halis en la serie\""
+  },
+  {
+    "titulo": "Con solo 18 años, este desarrollador sería millonario gracias a su juego en Steam. El \"problema\" es un número: 99,9%",
+    "medio": "Xataka",
+    "fecha": 1786782675.0,
+    "link": "https://www.xataka.com/videojuegos/solo-18-anos-este-desarrollador-seria-millonario-gracias-a-su-juego-steam-problema-numero-99-9",
+    "resumen": "En Steam hay de todo. Hay cientos de miles de juegos de todos los géneros, colores, formas y precios, tantas como historias curiosas relacionadas con ellos. Si hace unos días os contamos lo que le pasó a 'Iron Rebellion' con las comas, hoy es el momento de hablar de 'This game costs 200 dollars\", un juego que vale 200 dólares que habría hecho millonario a su creador, de no ser porque en Steam, cuando tú vas, ellos vuelven. De qué va. El propio desarrollador reconoce que es \"la estafa definitiva\" e intenta jugar con la curiosidad de la gente para vender su producto. Citando textualmente la ficha técnica de Steam: \"¿Alguna vez te han estafado? ¿De verdad, a lo grande? Porque este juego es la estafa definitiva. Cuesta 200 dólares estadounidenses, o lo que sea que eso equivalga en tu moneda. Es mucho dinero para un videojuego. Y, sin embargo, sé que algunas personas lo comprarán por pura curiosidad, y te recomiendo encarecidamente que tú también lo hagas\".Sobre la temática del juego, lo cierto es que es... complejo de explicar. Hay cigarrillos, cerveza, interacciones un poco absurdas, un mapa llamado Schizopia, NPCs, un mapa básico sin ningún tipo de pretensión artística y, según el desarrollador, hasta diez finales. \"Cualquiera de ellas podría ser canon; cuál lo es depende de ti\", asegura Michael Major, su creador, de apenas 18 años. Imagen | Steam Los datos. Este juego se lanzó el 30 de enero de 2026 y, según explican en Jeuxvideo, se hizo viral en redes y entre los streamers. Eso provocó que el juego se vendiese 6.717 veces (la mayoría desde China, como apunte) a un precio de 200 dólares (o 200 euros, no hay precio regional), lo que, haciendo las cuentas, se traduce en más de 1,3 millones de dólares en ingresos para su creador. Pero una cosa es cobrar y otra quedarse con el dinero. En Xataka Me debato entre una Nintendo Switch 2 y una consola tipo Steam Deck: esta es la que yo elegiría tras probar ambas Las dinámicas en Steam. Para que el desarrollador se quede con el dinero del cliente, el cliente debe, sorpresa, quedarse con el juego. Sin embargo, las políticas de Steam permiten a los compradores devolver el juego en un plazo de 14 días, siempre y cuando no hayan jugado más de dos horas. Y ahí es donde está la miga: el juego ha vendido unidades por valor de 1,3 millones de dólares, pero según Mein MMO, tiene un 99,9% de devoluciones. Por lo que sea. Es probable que el desarrollador no llegase a ver el dinero en su cuenta. De las 6.717 ventas, se devolvieron 6.707 unidades, por lo que le quedaron 2.045 dólares que ni tan mal. Diez personas se quedaron con el juego. Imagen | Steam No es el más caro. Este tipo de dinámicas, más enfocadas a convertirse en un meme que a generar impacto real, no son nuevas. Hace apenas unos meses se publicó 'Congratulations On Your Purchase', un juego cuyo precio ascendía a 999,99 dólares. Ha habido otros coasos como 'The Leverage Game', que también valía 1.000 dólares; 'True Love, que costaba 500 y 'Beach Volleyball Competition', que costaba 290. Vía | Jeuxvideo En Xataka | Las tarjetas gráficas con 16 GB de VRAM ya son las más populares entre los jugadores de Steam. Justo cuando los precios aprietan - La noticia Con solo 18 años, este desarrollador sería millonario gracias a su juego en Steam. El \"problema\" es un número: 99,9% fue publicada originalmente en Xataka por Jose García ."
+  },
+  {
+    "titulo": "El IMSERSO lo confirma: se permite permite a los jubilados viajar con sus mascotas y éstas son todas las condiciones y requisitos que deben cumplir",
+    "medio": "OK Diario",
+    "fecha": 1786782647.0,
+    "link": "https://okdiario.com/mascotas/imserso-lo-confirma-permite-permite-jubilados-viajar-sus-mascotas-estas-son-todas-condiciones-requisitos-que-deben-cumplir-19185589",
+    "resumen": "Desde octubre de 2025, el Instituto de Mayores y Servicios Sociales (Imserso) permite que los jubilados puedan viajar acompañados de sus mascotas, una medida que responde a una de las peticiones más repetidas entre los mayores. Hasta entonces, muchos pensionistas tenían que renunciar a sus vacaciones o buscar alternativas para no separarse de sus animales … Continuar leyendo \"El IMSERSO lo confirma: se permite permite a los jubilados viajar con sus mascotas y éstas son todas las condiciones y requisitos que deben cumplir\""
+  },
+  {
+    "titulo": "Miguel de la Quadra-Salcedo, reportero y aventurero español: «A veces no hace falta explicarlo todo, es más importante lo que contagias que lo que cuentas»",
+    "medio": "OK Diario",
+    "fecha": 1786782627.0,
+    "link": "https://okdiario.com/curiosidades/miguel-quadra-salcedo-reportero-aventurero-espanol-veces-no-hace-falta-explicarlo-todo-mas-importante-lo-que-contagias-que-lo-que-cuentas-19099934",
+    "resumen": "Miguel de la Quadra-Salcedo fue muchas cosas antes de convertirse en una leyenda para varias generaciones de jóvenes españoles: atleta olímpico, reportero de guerra, explorador y, sobre todo, un hombre que entendía la aventura como una forma de educación. Su nombre quedó asociado para siempre a un proyecto que cambió la vida de miles de … Continuar leyendo \"Miguel de la Quadra-Salcedo, reportero y aventurero español: «A veces no hace falta explicarlo todo, es más importante lo que contagias que lo que cuentas»\""
+  },
+  {
+    "titulo": "El incendio de Riglos sigue fuera de control y arrasa más de 15.000 hectáreas, pero San Juan de la Peña ya está a salvo",
+    "medio": "HuffPost",
+    "fecha": 1786782577.0,
+    "link": "https://www.huffingtonpost.es/planeta/el-incendio-riglos-sigue-fuera-control-arrasa-mas-15000-hectareas-san-juan-pena-esta-salvo-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Los vecinos de Granada se echan a la calle por temor a las réplicas: \"Después del eclipse, esto se empieza a parecer mucho al fin del mundo\"",
+    "medio": "El Mundo",
+    "fecha": 1786781871.0,
+    "link": "https://www.elmundo.es/andalucia/2026/08/15/6a801ef521efa064318b4571.html",
+    "resumen": "En Granada los pequeños temblores son relativamente frecuentes Leer"
+  },
+  {
+    "titulo": "Cinco ofertas de MediaMarkt para aprovechar su campaña de la vuelta al cole, hoy sábado 15 de agosto",
+    "medio": "Xataka",
+    "fecha": 1786781715.0,
+    "link": "https://www.xataka.com/seleccion/cinco-ofertas-mediamarkt-para-aprovechar-su-campana-vuelta-al-cole-hoy-sabado-15-agosto",
+    "resumen": "MediaMarkt ha dado comienzo a su campaña para la Vuelta al cole, aunque aquí vamos a ver ofertas tanto orientadas a esta época como aquellas que son más generales. Finalizará el próximo 23 de agosto, por lo que tenemos unos pocos días para aprovechar los descuentos en ordenadores, discos duros y más. Hp Omen Slim 16 por 999 euros, un portátil gaming con pantalla 2K y gráfica RTX 5060.Fire TV Stick 4K Select por 29,99 euros, el dongle de Amazon para ver contenido en streaming.Western Digital WD Easystore por 179 euros, un disco duro de formato portátil y con mucha capacidad de almacenamiento.HP OmniStudio 24 por 499 euros, un ordenador todo en uno con monitor, ratón, teclado y webcam.Clover Fitness S100 Senior Plus por 249 euros, una cinta de correr para empezar el curso con \"buen pie\".Hp Omen Slim 16 En la campaña de MediaMarkt hay muchas ofertas en ordenadores portátiles, pero si tenemos que quedarnos con una es con la del HP Omen Slim 16, que se encuentra por 999 euros en lugar de 1.949 euros. Viene con una pantalla 2K de 16 pulgadas, su procesador es el Intel Core Ultra 7 255H, tiene 16 GB de RAM y 1 TB de SSD, su gráfica es una RTX 5060 y además su panel tiene tratamiento antirreflejos. Nada mal por menos de 1.000 euros. Fire TV Stick 4K Select MediaMarkt ha decidido lanzar una oferta en el Fire TV Stick 4K Select, un dispositivo muy atractivo por precio y características para ver contenido en streaming. Por 29,99 euros (antes 54,99 euros) tenemos un dongle con resolución 4K, es compatible con Alexa+ y se puede utilizar en cualquier televisor que tenga un puerto HDMI, sea o no smart TV. Western Digital WD Easystore Nunca viene mal tener a mano un disco duro con mucha capacidad, y MediaMarkt hoy nos lo pone un poquito más fácil con la oferta en el Western Digital WD Easystore. Su precio es de 179 euros (antes 189 euros) y viene con capacidad de 5 TB, cuenta con un software para realizar copias de seguridad y es compatible con Windows y Mac. Además, tiene un formato portátil. HP OmniStudio 24 Si para la vuelta al cole necesitas un ordenador, pero no lo quieres portátil, MediaMarkt tiene el HP OmniStudio 24 por 499 euros en lugar de 729 euros. Se trata de un ordenador todo en uno que incluye un monitor de 23,8 pulgadas, un teclado, un ratón y una webcam. Eso sí, no incluye sistema operativo. Clover Fitness S100 Senior Plus Si aprovechando el inicio del próximo curso escolar quieres hacer un poco más de deporte, MediaMarkt tiene rebajada la Clover Fitness S100 Senior Plus, una cinta de correr que ahora cuesta 249 euros en lugar de 349 euros. Se trata de una cinta para andar o correr que tiene una velocidad máxima de hasta 12 km/h y que permite reproducir música a través de su conectividad Bluetooth. En Xataka Mejores Amazon Fire TV. Cuál comprar y modelos recomendados para convertir tu TV en un smart TV en función del uso Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | MediaMarkt y Compradicción (cabecera), HP, Amazon, Western Digital, Clover Fitness En Xataka | Los móviles con mejor cámara 2026: fotografía de otro nivel en tu bolsillo En Xataka | Mejores auriculares verdaderamente inalámbricos (TWS) con cancelación de ruido. Cuál comprar y siete modelos recomendados - La noticia Cinco ofertas de MediaMarkt para aprovechar su campaña de la vuelta al cole, hoy sábado 15 de agosto fue publicada originalmente en Xataka por Alberto García ."
+  },
+  {
+    "titulo": "Doblete de España: María Pérez agranda su leyenda y se proclama campeona de Europa con una exhibición",
+    "medio": "OK Diario",
+    "fecha": 1786781669.0,
+    "link": "https://okdiario.com/deportes/doblete-espana-maria-perez-agranda-leyenda-proclama-campeona-europa-exhibicion-19185595",
+    "resumen": "«¡Vamos!». Un grito al cielo de Birmingham. Lo brama María Pérez, con peinado novedoso y triunfo perenne. La reina de la marcha española volvió a conquistar Europa tras firmar un ejercicio de superioridad inapelable en la media maratón marcha. Agranda su leyenda. Ya es tetracampeona mundial, doble medallista olímpica y ahora también con doble campeona … Continuar leyendo \"Doblete de España: María Pérez agranda su leyenda y se proclama campeona de Europa con una exhibición\""
+  },
+  {
+    "titulo": "Morant defiende que el PSPV está \"fuerte, unido y preparado\" para las autonómicas: \"Habrá sitio para todo el mundo\"",
+    "medio": "Europa Press",
+    "fecha": 1786781508.0,
+    "link": "https://www.europapress.es/comunitat-valenciana/noticia-morant-defiende-pspv-fuerte-unido-preparado-autonomicas-habra-sitio-todo-mundo-20260815101148.html",
+    "resumen": "La secretaria general del PSPV, Diana Morant, hace un llamamiento a la militancia socialista a movilizar en los próximos meses a \"toda la gente de izquierdas y progresista de la Comunitat Valenciana\" para poder recuperar el Consell en las elecciones autonómicas de 2027."
+  },
+  {
+    "titulo": "Un terremoto de magnitud 5 con epicentro en Alhendín sacude Granada durante la madrugada",
+    "medio": "Expansión",
+    "fecha": 1786781075.0,
+    "link": "https://www.expansion.com/sociedad/2026/08/15/6a801bdee5fdea015b8b456d.html",
+    "resumen": "El terremoto de magnitud 5 con epicentro en Alhendín (Granada) registrado la madrugada de este sábado ha sacudido gran parte de Andalucía, especialmente Málaga, Jaén y Córdoba, y se ha dejado sentir en Murcia, Castilla-La Mancha, la Comunidad de Madrid y Extremadura. Leer"
+  },
+  {
+    "titulo": "El incendio de Peñas de Riglos afecta ya a 15.000 hectáreas: se ha logrado contener su avance hacia los núcleos urbanos",
+    "medio": "El Español",
+    "fecha": 1786781069.0,
+    "link": "https://www.elespanol.com/aragon/actualidad/20260815/incendio-penas-riglos-afecta-hectareas-logrado-contener-avance-nucleos-urbanos/1003744353900_0.html",
+    "resumen": "El número de personas desalojadas se mantiene en 1.021.Más información: Un operativo histórico lucha contra el incendio de Peñas de Riglos: \"Muchos llevan horas y han seguido sin dudar\""
+  },
+  {
+    "titulo": "Un fuerte terremoto de magnitud 5 sacude Granada de madrugada y causa daños materiales",
+    "medio": "El Mundo",
+    "fecha": 1786780956.0,
+    "link": "https://www.elmundo.es/espana/2026/08/15/6a7fa8d9fc6c835a148b4599.html",
+    "resumen": "El Instituto Geográfico Nacional (IGN) ha registrado cuarenta temblores después del principal de Alhendín Leer"
+  },
+  {
+    "titulo": "Escándalo en Reino Unido tras descubrirse que una pieza en drones de la fuerza aérea británica enviaba información a una dirección IP en China",
+    "medio": "HuffPost",
+    "fecha": 1786780946.0,
+    "link": "https://www.huffingtonpost.es/global/escandalo-reino-unido-descubrirse-pieza-drones-fuerza-aerea-britanica-enviaba-informacion-direccion-ip-china-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El mapa de los 24 fabricantes de móviles que sobreviven en Europa",
+    "medio": "Xataka",
+    "fecha": 1786780875.0,
+    "link": "https://www.xataka.com/moviles/mapa-24-fabricantes-moviles-que-sobreviven-europa",
+    "resumen": "Aunque las cifras de unidades vendidas digan otra cosa, hay vida más allá de marcas como Apple, Samsung o Xiaomi. No es novedad que la industria del teléfono móvil habla chino, pero en el viejo continente todavía hay marcas que han encontrado su sitio diferenciándose o buscando un nicho concreto. Los tiempos de Nokia hace mucho que llegaron a su fin, pero en Europa se siguen haciendo móviles y para muestra, este mapa. El mapa es obra de Runar Bjorhovde, analista de la consultora Omdia especializado en el mercado europeo de móviles, y se basa en datos de ventas y cuotas de mercado que la consultora elabora trimestral y anualmente. Así, registró que en 2025 se vendieron 134,2 millones de unidades en Europa, con Samsung como líder (46,6 millones de unidades) y Apple en máximos históricos de cuota (27%). En el viejo continente el mercado del smartphone lleva años estancado e incluso en declive, pero los cinco mayores vendedores de Europa siguen ganando terreno conjuntamente. Y sin embargo, hay nada menos que 24 empresas que \"fabrican\" y venden sus propios smartphones, en un ecosistema fragmentado y a veces invisible para el gran público, pero, insistimos, con un papel relevante en nichos concretos. Spoiler: los móviles para mayores son un buen ejemplo. Puede que la cifra de 24 empresas pille por sorpresa y ya advertimos que, salvo alguna excepción, están alejadas de lo mainstream, pero al menos cambia la percepción sobre algo: Europa no es solo un mercado de consumo. Eso sí, sus modelos de negocio suelen ser alternativos al volumen de ventas y los precios: ahí estarían muertas. En Xataka El \"móvil para mayores\" ha sido siempre una deuda de la industra tech. Una startup aragonesa cree tener la solución Los fabricantes de móviles en Europa, en un mapaAsí, hay marcas que apuestan por la sostenibilidad, como la holandesa Fairphone, u otras que despuntan en diseño, como Nothing. En un momento en el que la soberanía tecnológica ha pasado de ser un mero eslogan a algo que Europa quiere materializar, tener alternativas en hardware resulta esencial. Motivos hay muchos: ecodiseño, regulación, reparabilidad, etc. El mapa de los fabricantes europeos de móviles. Omdia y Runar Bjorhovde El mapa está bastante diseminado, si bien Polonia, Alemania, Finlancia y Francia lideran el ranking de forma cuantitativa. Cualitativamente, hay diferentes perfiles pero todas apuestan por algo: tener un propósito que se sale de la guerra de precios y un segmento claro. Por un lado están las marcas que compiten cara a cara con un Samsung, un Oppo o un iPhone, como Nothing y HMD. Eso sí, su mercado prioritario está muy lejos de aquí (la India). Sin embargo, mantienen su sede y ADN europeos.La estrategia de Fairphone pasa por posicionarse como la marca más sostenible, reparable y éticamente fabricada del mundo. En ese segmento es difícil encontrarle rival, incluso frente a marcas globales con más recursos y escala.Luego están los teléfonos para mayores, con ejemplos concretos como la alavesa SPC, la austriaca Emporia, la alemana Gigaset o la francesa Doro. A un smartphone Android cualquiera puedes ponerle una capa, pero estos fabricantes añaden funciones extra y dan una vuelta al diseño para hacerlos más manejables en un viejo continente cada vez más envejecido. En Xataka | La industria automovilística de turismos de Europa, en un revelador mapa que deja claro quién es el verdadero \"motor\" de la UE En Xataka | La \"revolución\" de la IA va por barrios: el mapa que muestra quién manda y quién se ha quedado fuera Portada | Runar Bjorhovde & Omdia - La noticia El mapa de los 24 fabricantes de móviles que sobreviven en Europa fue publicada originalmente en Xataka por Eva R. de Luis ."
+  },
+  {
+    "titulo": "Primero fue el mullet y luego los rizos, ahora los chicos con más estilo apuestan todo al desenfado y la rebeldía luciendo un mechón sobre la frente",
+    "medio": "Trendencias",
+    "fecha": 1786780875.0,
+    "link": "https://www.trendencias.com/hombres/primero-fue-mullet-luego-rizos-ahora-chicos-estilo-apuestan-todo-al-desenfado-rebeldia-luciendo-mechon-frente",
+    "resumen": "Si hay algo más rápido que el cambiante mundo de las tendencias en el armario de los conocedores de la moda, es el hecho de que, de un día para otro, tu cabello ya no está de moda. Eso pasó cuando hace apenas un mes vimos cómo los futbolistas en la Copa del Mundo apostaron por el pelo largo y, antes de eso, el mullet se convertía en el máximo estándar de lo cool, pero ahora, es un simple gesto capilar estilizado con el dedo lo que se ha puesto de moda entre los hombres que marcan la pauta del estilo. Uno de los máximos referentes de este estilo de cabello es el actor Austin Butler, y no es para menos, ya que a principios de este año el actor apareció con un mullet abundante y desaliñado que parecía sacado directamente de una película de adolescentes de los ochenta. Sin embargo, como en todo dentro del mundo del entretenimiento, ese estilo capilar evolucionó hasta convertirse en un nuevo referente adoptado directamente de las grandes estrellas de rock: a principios del siglo XX, ese mechón desenfadado se conocía como 'el rizo del beso'. Se trataba de un mechón cuidadosamente esculpido reposado con gracia sobre la frente y que lucían desde las más enigmáticas estrellas del cine de Hollywood y los más estruendosos rostros de la escena de la música, rápidamente, se convirtió en sinónimo del nuevo 'cool' y llegó al mundo de los superhéroes al formar parte de la icónica imagen de Superman. Sin embargo, la gran diferencia es que ahora se lleva en una versión muchos menos pulida, más suelta y relajada que da un aspecto de desenfado fríamente calculado Y eso es justamente lo que hace que este peinado no se convierta solamente en un gesto de rebeldía que se puede ver al frente y al centro: si bien luce despreocupado, lo cierto es que hay reglas que se tienen que cumplir. El truco de este mechón de pelo radica en que solo funciona cuando el resto del cabello tiene algo de movimiento. Si todo lo demás está impecable, relamido hacia atrás y pulcramente peinado, un rizo suelto sobre la frente puede verse anticuado. En lugar de eso, el peinado ligeramente desenfadado con su textura natural en su máxima expresión es la mejor idea: si tienes algo de largo en la parte delantera y tu cabello tiene ondas o rizos naturales, deja que uno o dos mechones caigan hacia adelante usando una crema o producto de peinado ligero para definir la forma sin fijarla por completo, porque cuanto menos producido se vea, mejor resultará. Fotos de @mirachai | Clavicular | Ferrán Torres | Wayne Parker | Charles Melton En Trendencias | El error que muchos hombres cometen al dejarse el pelo largo, según el experto Elliott Pritchard: \"Lo mejor es pensar en la dirección que quieres que tome tu cabello\" En Xataka | Hace tanto calor en Corea del Norte que el régimen ha recomendado un plato nacional para afrontar la ola: sopa de carne de perro En Xataka | Tras 27 años en el \"taller\", el barco de guerra más grande y armado del planeta está listo: solo falta saber qué planes tiene Rusia - La noticia Primero fue el mullet y luego los rizos, ahora los chicos con más estilo apuestan todo al desenfado y la rebeldía luciendo un mechón sobre la frente fue publicada originalmente en Trendencias por Joel Calata ."
+  },
+  {
+    "titulo": "Doblete de oro para España en marcha: María Pérez y Paul McGrath se coronan en el medio maratón del Europeo",
+    "medio": "El Español",
+    "fecha": 1786780860.0,
+    "link": "https://www.elespanol.com/deportes/otros-deportes/20260815/doblete-oro-marcha-maria-perez-paul-mcgrath-coronan-medio-maraton-europeo/1003744353896_0.html",
+    "resumen": "Los dos atletas españoles se proclamaron campeones europeos en las calles de Birmingham en el estreno de la nueva distancia.Más información: Mohamed Attaoui se cuelga el bronce en los 800 metros y le da la segunda medalla a España en los Europeos de atletismo"
+  },
+  {
+    "titulo": "Las películas más censuradas del cine español",
+    "medio": "eldiario.es",
+    "fecha": 1786780810.0,
+    "link": "https://www.eldiario.es/spin/peliculas-censuradas-cine-espanol-pm_1_13417076.html",
+    "resumen": "Durante el Franquismo, pero también en democracia, existió una censura que recortó escenas, cambió finales e incluso modificó los títulos'El crimen de Cuenca', el filme de Pilar Miró secuestrado no por su brutalidad, sino por su mensaje La historia del cine español cuenta con grandes cineastas que han sido reconocidos dentro y fuera de nuestras fronteras: Buñuel, Berlanga o Saura son solo algunos de los autores cuyas películas forman parte de las mejores de la cinematografía española. Sin embargo, ésta estuvo también fuertemente condicionada por los mecanismos de control y censura que, muy especialmente durante la dictadura franquista, obligó a modificar guiones, cortar escenas o inclusos cambiar títulos. No solo se censuraron o prohibieron algunas películas que venían de Hollywood También el cine español sufrió, y mucho, el impacto de las tijeras. Por eso, la historia de los grandes clásicos de nuestro cine incluye también las batallas de los directores y productores contra la censura cinematográfica. Estos son algunos de los casos más sonados. Viridiana (Luis Buñuel, 1961) El cine de Luis Buñuel, surrealista y transgresor, no despertó grandes simpatías entre los censores. El caso más famoso es el de su película Viridiana, que da la casualidad de que fue la primera que el director aragonés filmaba en España tras años de exilio en México. La película relata la historia de una novicia que sale del convento para ir a cuidar a su tío en su finca. Allí conoce también a su primo, que flirtea con ella. En la última escena, la protagonista Viridiana se presentaba en la casa de su primo y cerraba la puerta tras de sí, dando a entender que se entregaba a él. El censor jefe de aquella época, José Arturo Méndez Palacio, no creyó que fuese apropiado por considerarlo demasiado explícito y obligó a cambiar el final. Así fue como Buñuel, para burlarse del censor, incorporó un perverso detalle: el primo estaba jugando a las cartas con una criada y, con la llegada de Viridiana, se sugería que todo acababa con un trio. Muerte de un ciclista (Juan Antonio Bardem, 1955) En su momento, la censura consideró esta película como “gravemente peligrosa”, ya que los dos protagonistas mantenían una relación adúltera cuando se comete el accidente que da título al film. Los censores hicieron hincapié en que la pareja mostrara su arrepentimiento y por eso obligaron a insertar y doblar una escena en postproducción en la que el protagonista, Alberto Closas se despide de su amante, Lucía Bosé, y le dice que no volverá a verla nunca más. La película sufrió otros cortes, por ejemplo, en la secuencia de la protesta estudiantil, donde se mostraba la actuación represiva de la policía. También se se eliminó la imagen de un niño pobre comprando pipas que contrastaba con una boda burguesa y que acusaba las diferencias de clase durante el franquismo. Los jueves, milagro (Luis García Berlanga, 1957) Se dice que esta es una de las películas con más cortes del cine español. La película relata como los habitantes de un pueblo termal que ya no atrae turismo, se inventa las apariciones de San Dimas para atraer nuevos visitantes. Lo que pasó en este caso es que, a medio redactar el guion, el productor inicial vendió su compañía a una empresa vinculada al Opus Dei, que vio con malos ojos una historia que se burlaba de las creencias religiosas. Por esta razón, Berlanga tuvo que modificar su historia y recortar escenas. Incluso se llegó a contratar a un segundo director para filmar nuevas escenas que se ajustaran más a las ideas de los nuevos productores. Finalmente, hace unos años se pudo rescatar la versión original de Berlanga y que no se llegó a estrenar durante el Franquismo. La caza (Carlos Saura, 1966) En los años sesenta, el régimen franquista se abrió ligeramente y dio pie a la aparición de una nueva generación de cineastas que trataron de renovar el cine autóctono con propuestas más atrevidas. Este es el caso de Carlos Saura, que, sin embargo, no se libró de la censura en una de sus primeras y más celebradas películas, La caza. En apariencia, la película solo habla de cuatro amigos que van de caza. Pero entre metáforas e insinuaciones, Saura estaba realizando una gran crítica a la sociedad española de la época, al nepotismo y a las heridas de la Guerra Civil todavía no cerradas. La caza (Carlos Saura, 1966). Saura tuvo la suerte de topar con el censor falangista Marcelo Arroita Jáuregui, gran amante del cine, y que le vio los valores artísticos a su película. Sin embargo, eso no evitó que le obligaran a modificar el título original de la película, La caza del conejo, por tener demasiadas connotaciones sexuales. Es por eso que la película se tituló simplemente La caza. El crimen de Cuenca (Pilar Miró, 1979) Con la llegada de la democracia, la censura quedó casi como una cosa del pasado. Pero existe una película rodada durante el periodo de la Transición que sufrió todavía las iras censoras. Se trata de El crimen de Cuenca, la polémica película de Pilar Miró, rodada en 1979. La capitanía general de la VI Región Militar consideró que la película injuriaba a la Guardia Civil, a pesar de que se basaba en los informes reales de las torturas infringidas a dos inocentes en 1913. Pilar Miró fue procesada y la película secuestrada hasta 1981, cuando pudo finalmente estrenarse tras un largo proceso de revisión y el levantamiento de la orden de prohibición. El crimen de Cuenca fue un auténtico éxito de taquilla."
+  },
+  {
+    "titulo": "Suben a 14 los muertos por el terremoto de 7,7 en la isla indonesia de Flores",
+    "medio": "The Objective",
+    "fecha": 1786780534.0,
+    "link": "https://theobjective.com/internacional/2026-08-15/muertos-terremoto-indonesia-flores/",
+    "resumen": "Las autoridades de Indonesia elevaron a 14 el número de muertos tras el terremoto de magnitud 7,7 que sacudió este sábado la costa de la isla […]"
+  },
+  {
+    "titulo": "Noche complicada en el incendio de Riglos, que supera las 15.000 hectáreas y obliga a mantener el máximo despliegue",
+    "medio": "eldiario.es",
+    "fecha": 1786780250.0,
+    "link": "https://www.eldiario.es/aragon/sociedad/noche-complicada-incendio-riglos-supera-15-000-hectareas-obliga-mantener-maximo-despliegue_1_13448839.html",
+    "resumen": "El operativo ha contenido el avance hacia los núcleos de población y ha protegido los dos monasterios de San Juan de la Peña; 18 poblaciones siguen desalojadas El incendio forestal de Las Peñas de Riglos continúa activo este sábado y afecta ya a más de 15.000 hectáreas, según la última actualización del Gobierno de Aragón. La noche ha sido especialmente activa en el frente, aunque el operativo ha conseguido contener el avance del fuego hacia los núcleos urbanos y salvaguardar las poblaciones y los dos monasterios de San Juan de la Peña. El objetivo para las próximas horas es contener las reproducciones, consolidar los perímetros y garantizar la seguridad de la población, especialmente en los núcleos más próximos al frente activo y en el entorno del Monasterio de San Juan de la Peña. El dispositivo se mantiene este sábado en su máximo nivel, con más de 600 efectivos y entre 30 y 35 medios aéreos trabajando de forma simultánea. Durante la noche, el fuego ha llegado hasta las inmediaciones de Santa María de la Peña, Triste y Yeste, pero la línea de control establecida por los equipos de extinción ha permitido frenar su avance antes de alcanzar los núcleos urbanos. También ha alcanzado las proximidades de Centenero, que ha podido ser defendido por el operativo. El incendio ha avanzado asimismo hacia Botaya y Atarés, donde se intensificarán los trabajos de extinción manual y con maquinaria pesada. También ha llegado hasta las proximidades de Binacua y Santa Cruz de la Serós, aunque ambas localidades han podido ser protegidas gracias al dispositivo desplegado. La superficie afectada supone un incremento considerable respecto a la última cifra facilitada este viernes, cuando el incendio superaba las 11.200 hectáreas y presentaba un perímetro aproximado de 58 kilómetros. Más de 600 efectivos y hasta 35 medios aéreos El operativo desplegado este sábado cuenta con 16 cuadrillas terrestres, cinco cuadrillas helitransportadas, tres helicópteros ligeros, dos helicópteros medios y uno de coordinación, además de 12 autobombas y ocho bulldozer. Por parte del Ministerio para la Transición Ecológica (MITECO) trabajan tres aviones FOCA, tres anfibios ligeros, un avión de coordinación, un helicóptero bombardero con base en Plasencia del Monte, helicópteros bombarderos ligeros y cuatro BRIF con ocho helicópteros. La Unidad Militar de Emergencias (UME) mantiene desplegadas tres secciones, con 160 efectivos, además de dos bulldozer. Equipos de extinción en el incendio de Riglos El dispositivo se completa con medios de Cataluña, Navarra, La Rioja, Comunidad Valenciana y Castilla y León, junto a bomberos de Huesca y Zaragoza, tractoristas de las comarcas afectadas y efectivos de Guardia Civil, 061, Cruz Roja y Protección Civil. Las condiciones meteorológicas pueden favorecer este sábado las labores de extinción. Según la predicción especial de la Agencia Estatal de Meteorología (Aemet), son probables chubascos y lluvias en la zona de Las Peñas de Riglos, mientras que las temperaturas podrían descender alrededor de cinco grados. 18 poblaciones siguen desalojadas La situación de evacuados se mantiene sin cambios respecto a la jornada anterior. 18 poblaciones continúan desalojadas, con un total de 1.021 personas afectadas. De ellas, 78 permanecen alojadas en los recursos habilitados por las administraciones. También siguen cortadas varias carreteras de la zona, entre ellas la A-132, la A-1205, la N-240, la A-1603 y la HUV-3001, además de una pista asfaltada entre la N-240 y Alastuey. La circulación ferroviaria convencional entre Sabiñánigo y Ayerbe continúa suspendida."
+  },
+  {
+    "titulo": "Varios terremotos consecutivos elevan la preocupación en Granada: \"La gente está sacando los coches de los garajes\"",
+    "medio": "eldiario.es",
+    "fecha": 1786780130.0,
+    "link": "https://www.eldiario.es/andalucia/granada/terremotos-consecutivos-elevan-preocupacion-granada-gente-sacando-coches-garajes_1_13448829.html",
+    "resumen": "Con más de cuarenta seísmos en apenas unas horas, la provincia granadina está viviendo un nuevo enjambre sísmico que recuerda al ocurrido hace ahora cinco años y que dejó daños materiales leves, como en esta ocasiónUn terremoto de magnitud 5 sacude Granada y provoca daños materiales Los vecinos de Granada están conteniendo la respiración ante cada sonido o movimiento, con la sensación de que puede tratarse de otro terremoto. No es para menos, pues en las últimas horas, el suelo ha temblado con razonable intensidad en más de cuarenta ocasiones, después de que se produjera un terremoto de magnitud 5 pasada la una de la mañana de este 15 de agosto, y que es ya el más importante en cuatro décadas de los percibidos por la población local. Un seísmo, que se ha notado incluso en provincias como Almería y Málaga, y que ha hecho que muchos ciudadanos saliesen a la calle en plena madrugada con el susto en el cuerpo. “La gente está sacando los coches de los garajes por si pasa algo más”, explica Ángel, un vecino de La Zubia que reconoce su nerviosismo tras los últimos terremotos ocurridos. Al tratarse de varios de intensidad reseñable en un corto periodo de tiempo, este fenómeno se conoce como enjambre sísmico y no es algo nuevo en Granada. De hecho, hace tan solo cinco años, otro de similares proporciones tuvo en tensión a los granadinos durante el mes de enero, cuando aún las restricciones por la Covid-19 impedían salir a la calle, pero el miedo fue mayor que las posibles consecuencias legales, haciendo que decenas de ciudadanos copasen las calles y avenidas de Granada capital y los pueblos más cercanos. En esta ocasión, lo cierto es que el enjambre de terremotos ya ha dejado un seísmo de mayor intensidad que el de 4,4 mbLg que ocurrió entonces. El que ha alcanzado los 5 mbLg, y que ha tenido epicentro en Alhendín sobre la una de la mañana de este sábado, ha provocado incluso que la Junta de Andalucía haya activado el nivel 1 de emergencias por riesgo sísmico. No en vano, muchas personas han salido de sus domicilios por el miedo ante los temblores. De hecho, en algunos hoteles se ha podido ver a turistas en plena calle. “Lo de anoche fue tremendo. Todo el centro estaba lleno de gente que no podía subir a sus casas por la angustia”, explica Esther, una de las granadinas que también decidió salir de su vivienda. Muestra de los destrozos que ha provocado el seísmo durante la madrugada Casas que se mueven “como un barco” Aunque las recomendaciones de seguridad pasan por no correr y no abandonar los edificios en pleno seísmo, lo cierto es que la sensación de supervivencia ha podido a lo recomendable en muchos casos. Antonio, que vive en un sexto piso en Granada capital, cuenta que, durante uno de los terremotos de mayor intensidad (de 3,7 mbLg con epicentro en La Zubia y a media tarde del viernes), sentía cómo su casa se movía “como si fuese un barco”. Una descripción que coincide con la de muchas otras personas que cuentan que sus domicilios, también situados en otros pueblos, parecían moverse a “merced del viento”. Por si fuera poco, al enjambre sísmico granadino le ha acompañado también un reventón térmico que ha dado pie a tormentas y lluvias de gran intensidad, lo que ha hecho que algunos se sientan más preocupados. “Esto es tremendo: hay terremotos, ahora hay truenos y ya no vamos a poder salir porque todo el rato pasa algo”, explica José, un lugareño de Ogíjares. Porque más allá de la tensión acumulada entre los ciudadanos, la realidad es que los seísmos sí han dejado daños materiales de pequeña magnitud, pero suficientemente notables en algunas casas: grietas en paredes, mobiliario que se ha caído o incluso partes de cornisas y fachadas que han colapsado. “En el barrio de mis tíos ha habido daños dentro de las casas y se han caído trozos de pared”, dice José Ignacio, un joven que vive en plena área metropolitana, como sus tíos, lo que hace que los terremotos se perciban aún más. No en vano, dado que el suelo del área metropolitana es sobre todo el de la Vega de Granada, al ser más inestable por ser agrícola, transmite más las vibraciones. Por otro lado, como la mayoría de movimientos sísmicos se han producido en suelo que no es rocoso y a escasa profundidad, la magnitud ha hecho que la intensidad a la que lo perciben los ciudadanos sea mayor aún. En general, todos los granadinos repiten dos ideas: que tienen el “susto en el cuerpo” y que, sobre todo por el terremoto de magnitud 5, no han podido dormir en toda la noche. Una situación que ya se vivió hace un lustro, pero para la que nadie acaba de acostumbrarse. Más si cabe cuando muchos no pueden evitar pensar en los recientes terremotos que han sacudido recientemente con mayor intensidad y gravedad los países de Colombia y Venezuela. “Estamos preocupados, pero tenemos que tener paciencia”, concluye Ana, una granadina que ya ha vivido varias veces episodios de esta índole y que no quiere que el temor le gobierne."
+  },
+  {
+    "titulo": "El Atlético de Madrid ficha a Cuti Romero",
+    "medio": "El País",
+    "fecha": 1786780023.0,
+    "link": "https://elpais.com/deportes/futbol/2026-08-15/el-atletico-de-madrid-ficha-a-cuti-romero.html",
+    "resumen": "El conjunto rojiblanco paga unos 40 millones de euros al Tottenham por el central argentino"
+  },
+  {
+    "titulo": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
+    "medio": "El País",
+    "fecha": 1786779935.0,
+    "link": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
+    "resumen": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
+  },
+  {
+    "titulo": "El Nokia 9000 Communicator, el primer smartphone de la historia, cumple 30 años",
+    "medio": "El Mundo",
+    "fecha": 1786779538.0,
+    "link": "https://www.elmundo.es/tecnologia/2026/08/15/6a8014c6e4d4d85a078b458d.html",
+    "resumen": "Era un híbrido entre teléfono y miniordenador personal que se comercializó como una \"oficina de bolsillo\" a partir de 1996 Leer"
+  },
+  {
+    "titulo": "La historia del escultor navarro que llenó su finca de calaveras de piedra",
+    "medio": "eldiario.es",
+    "fecha": 1786779050.0,
+    "link": "https://www.eldiario.es/spin/historia-escultor-navarro-lleno-finca-calaveras-piedra-pm_1_13417209.html",
+    "resumen": "En el municipio de Estella puede visitarse el singular Paque de los Desvelados, donde el arte nos invita a reflexionar sobre la muerteNavarra dedica en su museo un espacio a sus dos últimos grandes hallazgos: 'la mano de Irulegi' y el 'hombre de Loizu' En el Camino de Santiago a su paso por Navarra, existe una parada obligatoria que es el municipio de Estella-Lizarra. Considerada la “Toledo del norte”, esta ciudad destaca por su gran patrimonio monumental medieval y por su vinculación histórica con el Reino de Navarra. La iglesia de San Pedro de la Rúa con su espectacular claustro románico, el Palacio de los Reyes de Navarra o el puente románico sobre el río Ega son solo algunos de estos puntos de interés de visita obligada si pasamos por esta zona. Pero más allá del pasado monumental, en Estella se puede disfrutar también de un lugar a las afueras que alberga una curiosa colección de arte, el Parque de los Desvelados. Este museo al aire libre impulsado por el escultor Luís García Vidal está ubicado a unos 1,8 kilómetros del centro de Estella-Lizarra, en la falda del monte y se conoce popularmente como el Parque de las Calaveras por el tipo de esculturas que se pueden ver allí. Un parque dedicado a la muerte El Parque de los Desvelados es el resultado de un trabajo de 30 años que el escultor Luis García tiró adelante él solo. Su idea era construir un museo al aire libre para concienciar de que la muerte es algo natural. Por eso, llenó una parcela que poseía en el término de San Lorenzo con una serie de esculturas gigantes con forma de cráneo construidas por el mismo con restos de poda de zumaque, un arbusto muy característico de la zona, y que destaca por el color rojizo que sus hojas adoptan en otoño. Nacido en Melilla en 1927, Luis García fue un escultor y pintor expresionista que vivió en múltiples lugares, desde Málaga a Madrid o Barcelona, pasando por Tetuán, Tenerife o Brasil, donde ganó algunos premios de escultura. Finalmente hizo realidad su sueño de viajar a París, donde conoció a su esposa, Carmen Eguaras, natural de Estella. De esta unión surgió el vínculo del artista con la ciudad navarra, a la que llegó en 1971 y en la que solía pasar los meses de invierno, mientras que en verano seguía viviendo en París. Ese mismo año de 1971 fue cuando el escultor construyó la primera de las calaveras que acabarían por dar nombre al parque. Acabaría por dedicar 37 años ininterrumpidos de su vida a levantar, moldear y reparar estas esculturas hasta su muerte en misteriosas circunstancias en 2008, cuando su cuerpo apareció flotando en el río. Coches accidentados Durante todo este tiempo, García pasaba horas en este parque, que llenó de calaveras, pero también de otros elementos igualmente siniestros. Así, más adelante incorporó a su museo de la muerte una serie de coches que habían sufrido accidentes de circulación, e incluso sillas de bebé rotas. En una de estas obras se puede leer la inscripción “A la muerte le gustan los coches”. La obsesión por la muerte parece que se debe a lo mucho que le marcó la muerte a los 59 años de su hermano Alberto, también artista y con el que viajó a Brasil. De hecho, hay una obra en el parque en la que se puede ver una dedicatoria escrita de su puño y letra. Tras la muerte de Luis García, el Parque de los Desvelados quedó abandonado. La finca está rodeada de una valla pero con la puerta siempre abierta, según dicen por deseo de su autor, que quería que todo el mundo pudiera visitar su extraño museo dedicado a la muerte. La falta de mantenimiento ha hecho que algunas de las calaveras hayan caído, pero aún así, el lugar sigue en pie. Incluso se ha llegado a rodar allí una película de zombies."
+  },
+  {
+    "titulo": "Trump eleva la tensión con Irán: amaga con declarar el estratégico estrecho de Ormuz como \"territorio de EEUU\"",
+    "medio": "HuffPost",
+    "fecha": 1786779000.0,
+    "link": "https://www.huffingtonpost.es/global/trump-eleva-tensionan-amaga-declarar-estrategico-estrecho-ormuz-territorio-eeuu-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La historia de la Corona española se forjó en agosto: Constitución, pactos y reformas de Estado",
+    "medio": "Moncloa.com",
+    "fecha": 1786778808.0,
+    "link": "https://www.moncloa.com/2026/08/15/historia-corona-espanola-agosto-pactos-3415614/",
+    "resumen": "La historia de la Corona española se forjó en agosto: de la ponencia constitucional de 1977 a la reforma del artículo 135, el verano concentró decisiones de Estado. La entrada La historia de la Corona española se forjó en agosto: Constitución, pactos y reformas de Estado aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Incendios forestales España 2026 arrasan 240.785 hectáreas: 42 grandes fuegos según el MITECO",
+    "medio": "Moncloa.com",
+    "fecha": 1786778780.0,
+    "link": "https://www.moncloa.com/2026/08/15/incendios-forestales-espana-2026-hectareas-3415628/",
+    "resumen": "El MITECO cifra en 240.785 las hectáreas quemadas en España entre enero y agosto y contabiliza 42 grandes incendios, un balance provisional crítico. La entrada Incendios forestales España 2026 arrasan 240.785 hectáreas: 42 grandes fuegos según el MITECO aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Felipe VI actúa con cautela en la crisis de Ceuta tras el pulso Aznar-Juan Carlos I",
+    "medio": "Moncloa.com",
+    "fecha": 1786778754.0,
+    "link": "https://www.moncloa.com/2026/08/15/felipe-vi-ceuta-cautela-aznar-3415629/",
+    "resumen": "La visita de Felipe VI a Ceuta sigue sin fecha y el Gobierno la condiciona a la oportunidad diplomática. El precedente de Aznar y Juan Carlos I en Cuba enmarca la lectura institucional. La entrada Felipe VI actúa con cautela en la crisis de Ceuta tras el pulso Aznar-Juan Carlos I aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La princesa Iman de Jordania da la bienvenida a gemelas y Rania y Abdalá II repiten como abuelos",
+    "medio": "Moncloa.com",
+    "fecha": 1786778644.0,
+    "link": "https://www.moncloa.com/2026/08/15/princesa-iman-de-jordania-gemelas-3415632/",
+    "resumen": "La princesa Iman de Jordania ha dado a luz a dos niñas gemelas. Rania y Abdalá II suman cuatro nietos y la dinastía hachemita refuerza su continuidad. La entrada La princesa Iman de Jordania da la bienvenida a gemelas y Rania y Abdalá II repiten como abuelos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Rusia condena a 23 años al espía que pasó información a Polonia: así cayó el complot en Varsovia",
+    "medio": "Moncloa.com",
+    "fecha": 1786778640.0,
+    "link": "https://www.moncloa.com/2026/08/15/espia-rusia-polonia-condena-complot-3415544/",
+    "resumen": "Rusia condena a 23 años a un espía que pasó información a Polonia. La sentencia llega un día después de un complot frustrado en Varsovia. La entrada Rusia condena a 23 años al espía que pasó información a Polonia: así cayó el complot en Varsovia aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La Audiencia Provincial de Alicante dicta condena por pornografía infantil: 72 años y medio de prisión",
+    "medio": "Moncloa.com",
+    "fecha": 1786778569.0,
+    "link": "https://www.moncloa.com/2026/08/15/audiencia-provincial-alicante-pornografia-infantil-condena-3415658/",
+    "resumen": "La Audiencia Provincial de Alicante impone 72 años y medio de prisión por nueve delitos de pornografía infantil y abusos sexuales sobre menores. La entrada La Audiencia Provincial de Alicante dicta condena por pornografía infantil: 72 años y medio de prisión aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El TSJ de Murcia confirma 6.000 euros por denegar el teletrabajo a una madre y vulnerar su conciliación familiar",
+    "medio": "Moncloa.com",
+    "fecha": 1786778535.0,
+    "link": "https://www.moncloa.com/2026/08/15/tsj-murcia-teletrabajo-conciliacion-familiar-3415659/",
+    "resumen": "La Sala de lo Social del TSJ de Murcia confirma 6.000 euros por denegar teletrabajo por conciliación familiar y exige motivación objetiva del art. 34.8 ET. La entrada El TSJ de Murcia confirma 6.000 euros por denegar el teletrabajo a una madre y vulnerar su conciliación familiar aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El Tesoro de EE.UU. elimina el registro de propietarios finales y dificulta la persecución del dinero sucio",
+    "medio": "Moncloa.com",
+    "fecha": 1786778467.0,
+    "link": "https://www.moncloa.com/2026/08/15/tesoro-eeuu-elimina-registro-dinero-sucio-3415665/",
+    "resumen": "El Tesoro de EE.UU. elimina el registro de propietarios finales de empresas, la herramienta clave contra el dinero sucio. La entrada El Tesoro de EE.UU. elimina el registro de propietarios finales y dificulta la persecución del dinero sucio aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El Atlético de Madrid ficha a Cristian ‘Cuti’ Romero, que firma hasta 2031",
+    "medio": "The Objective",
+    "fecha": 1786777880.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-08-15/atletico-madrid-cuti-romero/",
+    "resumen": "El cuarto refuerzo. El Atlético de Madrid ha hecho oficial a primera hora de este sábado el fichaje del central argentino Cuti Romero, que firma hasta […]"
+  },
+  {
+    "titulo": "Una semana del incendio de Niebla: más de 1.000 efectivos en once localidades de Huelva y Sevilla afectadas",
+    "medio": "Europa Press",
+    "fecha": 1786777706.0,
+    "link": "https://www.europapress.es/andalucia/noticia-semana-incendio-niebla-mas-1000-efectivos-once-localidades-huelva-sevilla-afectadas-20260815090826.html",
+    "resumen": "El Gobierno de España ha aportado más de 1.000 efectivos civiles y militares y 320 equipos al operativo de lucha contra el incendio forestal que se inició en la localidad onubense de Niebla hace ahora una semana. El fuego ha afectado a once localidades en las provincias de Huelva y Sevilla."
+  },
+  {
+    "titulo": "Casi toda España en aviso por lluvias y tormentas, con parte de Catalunya en nivel naranja",
+    "medio": "La Vanguardia",
+    "fecha": 1786777523.0,
+    "link": "https://www.lavanguardia.com/vida/20260815/11614307/lluvia-tormentas-clima-prevision-tiempo-espana-catalunya.html",
+    "resumen": "Otras cuatro autonomías repiten el nivel naranja, sin olvidar los avisos por calor, olas y nieblas"
+  },
+  {
+    "titulo": "El motivo que dan los expertos para que no guardes los tomates en la nevera: hay una excepción",
+    "medio": "HuffPost",
+    "fecha": 1786777496.0,
+    "link": "https://www.huffingtonpost.es/virales/el-motivo-dan-expertos-guardes-tomates-nevera-hay-excepcion-f202608.html",
+    "resumen": ""
   },
   {
     "titulo": "Las mejores series españolas de intriga en Netflix (Agosto 2026)",
@@ -49,25 +329,11 @@
     "resumen": "El misterio se ha convertido en la especialidad de la casa dentro de las mejores series españolas en Netflix. Esta selección de series españolas de intriga en Netflix reúne once títulos con desapariciones, crímenes sin resolver y protagonistas que tiran de hilos que nadie quiere que toquen, desde adaptaciones literarias de autores como Javier Castillo […] Seguir leyendo: Las mejores series españolas de intriga en Netflix (Agosto 2026)"
   },
   {
-    "titulo": "Adiós a los bocadillos: triunfa con este menú semanal de verano para playa, piscina y barbacoa",
-    "medio": "Moncloa.com",
-    "fecha": 1786777380.0,
-    "link": "https://www.moncloa.com/2026/08/15/menu-semanal-verano-playa-piscina-barbacoa-3415555/",
-    "resumen": "Menú semanal de verano para playa, piscina y barbacoa: recetas que se preparan con antelación y aguantan bien en nevera portátil. La entrada Adiós a los bocadillos: triunfa con este menú semanal de verano para playa, piscina y barbacoa aparece primero en Moncloa."
-  },
-  {
     "titulo": "¿Cuál es tú final perfecto y fallido?: Especial '¿y tú qué miras?'",
     "medio": "HuffPost",
     "fecha": 1786777378.0,
     "link": "https://www.huffingtonpost.es/videos/cual-tu-final-perfecto-fallido-especial-y-tu-que-miras-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Cristina de Hoyos, dermatóloga, desmonta el mito de la Nivea de lata azul: «Hidrata muy bien, pero no sirve para todo»",
-    "medio": "OK Diario",
-    "fecha": 1786777359.0,
-    "link": "https://okdiario.com/cool/belleza/cristina-hoyos-dermatologa-desmonta-mito-nivea-lata-azul-hidrata-muy-bien-pero-no-sirve-todo-19131796",
-    "resumen": "Todos conocemos los beneficios que ofrece a Nivea de lata azul. Es la crema que ha pasado de generación en generación hidratando la piel de tantas mujeres y todavía funciona. Ahora bien, cada vez hay más expertos que aseguran que aunque ofrece toda clase de aspectos positivos no sirve para todo. Es decir, aunque se … Continuar leyendo \"Cristina de Hoyos, dermatóloga, desmonta el mito de la Nivea de lata azul: «Hidrata muy bien, pero no sirve para todo»\""
   },
   {
     "titulo": "¿Un NAS económico para montar tu propio Google Fotos o Drive? - Esto es lo que recomendamos",
@@ -91,46 +357,11 @@
     "resumen": "Así como las mujeres cierran ciclos haciendo cambios en su cabello, parece ser que los hombres comienzan nuevas etapas en su vida haciendo también algunos cambios que, aunque no suelen ser tan drásticos, si que saben llamar la atención, y uno de ellos es el de Cristiano Ronaldo, que se incorporó a sus entrenamientos con el Al-Nassr en la liga saudí, llamando la atención por su nuevo color de cabello. El recién casado, que recientemente contrajo nupcias con Georgina Rodríguez después de un año de haberse comprometido, se presentó con sus compañeros para un entrenamiento que marca el regreso del astro de fútbol a la liga saudí, y en donde llamó la atención el tono castaño cobrizo de su cabello. Aunque anteriormente lo habíamos visto con otro estilo de cabello casi tan radical como una corta melena platinada o incluso diseños asimétricos más arriesgados, ahora a su clásico corte corto le suma un detalle de color que, aunque no pasa desapercibido, tampoco es algo que nos haga levantar la ceja. Sobre este color, el estilista y maquillista Juan Carlos de la Torre comenta que \"es un buen color de pelo que encaja a la perfección con su tono de piel. Su colorimetría tira a tonos cálidos, lo que hace que la tonalidad cobriza de su pelo se equilibre con el bronceado natural que siempre luce y su atención se dirija a su rostro, porque aporta luminosidad y suaviza sus facciones, como su mirada\". Si estás pensando en darle un toque de color a tu cabello este verano, el tono cobrizo que luce Cristiano Ronaldo es una buena idea para apostar para darle protagonismo al pelo sin caer en la estridencia de un color muy llamativo y que, de paso, no necesita demasiado mantenimiento. Fotos de @Cristiano En Trendencias | Helena Rodero, farmacéutica: \"Los tintes sin amoníaco dañan muchísimo más el cabello porque contienen una sustancia que no se evapora y fríe la cutícula\" En Trendencias | Confucio, filósofo chino: \"Tenemos dos vidas y la segunda empieza cuando nos damos cuenta de que solo tenemos una\" En Trendencias | José Ruiz, entrenador: \"Si una persona de más de 60 años camina 30 minutos 5 días a la semana, ya se obtienen beneficios y una reducción del estrés” - La noticia Después de su boda, Cristiano Ronaldo debuta un nuevo look perfecto para los que quieren pintarse el pelo en verano fue publicada originalmente en Trendencias por Joel Calata ."
   },
   {
-    "titulo": "Ingenieros investigan la mejor ruta para construir el túnel de 42 kilómetros que conectará España y Marruecos",
-    "medio": "OK Diario",
-    "fecha": 1786777256.0,
-    "link": "https://okdiario.com/curiosidades/ingenieros-investigan-mejor-ruta-construir-tunel-42-kilometros-que-conectara-espana-marruecos-19181244",
-    "resumen": "Unir Europa con África a través del Estrecho de Gibraltar es un proyecto que lleva décadas sobre la mesa. Sin embargo, en los últimos años, España y Marruecos han intensificado los trabajos para impulsar la construcción de un túnel ferroviario que discurriría bajo el Estrecho y conectaría Punta Paloma, en Tarifa, con el cabo Malabata, … Continuar leyendo \"Ingenieros investigan la mejor ruta para construir el túnel de 42 kilómetros que conectará España y Marruecos\""
-  },
-  {
-    "titulo": "Cristales rotos, trasteros reventados y miles de euros: detenido por 14 robos el ‘rey del parking’ de Manacor",
-    "medio": "OK Diario",
-    "fecha": 1786777240.0,
-    "link": "https://okdiario.com/baleares/cristales-rotos-trasteros-reventados-miles-euros-detenido-14-robos-rey-del-parking-manacor-19185233",
-    "resumen": "La Policía Nacional ha detenido en Manacor a un hombre como presunto autor de 14 robos con fuerza cometidos en el interior de un mismo parking comunitario. El sospechoso habría forzado seis trasteros y ocho vehículos, provocando importantes daños materiales y sustrayendo 3.258 euros en efectivo, documentación, tarjetas y numerosos efectos personales. Los hechos investigados … Continuar leyendo \"Cristales rotos, trasteros reventados y miles de euros: detenido por 14 robos el ‘rey del parking’ de Manacor\""
-  },
-  {
-    "titulo": "Cumple 25 años la mejor serie sobre la Segunda Guerra Mundial de la historia de la televisión",
-    "medio": "OK Diario",
-    "fecha": 1786777235.0,
-    "link": "https://okdiario.com/cool/television/cumple-25-anos-mejor-serie-sobre-segunda-guerra-mundial-historia-television-19182855",
-    "resumen": "Si lo vuestro son las películas o las series bélicas, no os podéis perder una de las joyas que se encuentra escondida en el catálogo de HBO Max: Hermanos de sangre. Una miniserie ambientada en la Segunda Guerra Mundial que está basada en el libro homónimo de Stephen Ambrose. Hermanos de sangre fue coproducida en … Continuar leyendo \"Cumple 25 años la mejor serie sobre la Segunda Guerra Mundial de la historia de la televisión\""
-  },
-  {
     "titulo": "Mario Bros, Zelda y Tetris: así es el curioso barrio de Zaragoza que tiene calles con nombres de videojuegos",
     "medio": "eldiario.es",
     "fecha": 1786777231.0,
     "link": "https://www.eldiario.es/spin/mario-bros-zelda-tetris-curioso-barrio-zaragoza-calles-nombres-videojuegos-pm_1_13362010.html",
     "resumen": "Los vecinos del barrio de Arcosur, al suroeste de la capital aragonesa, votaron el nombre de las calles en 2009Zelda Fitzgerald, la novelista de los años 20 que inspiró el nombre de uno de los videojuegos más famosos El callejero puede ser mucho más que una guía con la que orientarse para llegar al lugar que queremos. En Zaragoza, las calles de algunos de sus barrios también son un grito a la nostalgia, una forma de recordar algunos de los videojuegos que marcaron la infancia de millones de personas en todo el mundo. Muestra de ello lo encontramos en Arcosur. Ubicado al suroeste de la capital aragonesa, este barrio lleva años dando que hablar en redes sociales. ¿La razón? Los nombres tan peculiares que tienen sus calles. Estos no tienen que ver con personajes emblemáticos, acontecimientos históricos, vírgenes ni tradiciones locales, como suele ser habitual en muchas localidades a lo largo y ancho de España. En esta parte de Zaragoza, las calles tienen nombres de videojuegos. Avenida Super Mario Bros, calle la Leyenda de Zelda, calle Sonic el Erizo, calle Tetris, calle Invasores del Espacio, calle Príncipe de Persia, calle Fantasía Final (en referencia a Final Fantasy), calle Los Sims, calle de Gran Turismo… La lista es completísima y hace un recorrido por alguno de los títulos más populares de las últimas décadas, una elección cuanto menos curiosa que llegó de la mano de los propios zaragozanos. Captura de Google Maps del barrio de Arcosur. “Fue en el año 2009 cuando los que iban a ser los futuros vecinos de Arcosur participaron en una votación promovida por la Asociación de Vecinos Arqueros para decidir cómo querían que se llamaran sus calles”, recordó el medio Aragón Digital en un artículo publicado el año pasado. No es el único barrio viral Aunque Arcosur es el barrio que más se ha viralizado en redes sociales en los últimos años, lo cierto es que Zaragoza tiene otro barrio que también apostó por innovar a la hora de organizar su callejero. Hablamos de Valdespartera, también ubicado en la zona sur de la capital, un lugar que rinde su propio homenaje, esta vez, a la industria del cine de Hollywood. Captura de Google Maps del barrio de Valdespartera. En esta zona de la ciudad, uno puede recorrer calles como la de Casablanca, la de La Lista de Schindler o la de Cantando bajo la lluvia. La calle Titanic y la calle Al este del Edén quedan muy cerca de la plaza de Mary Poppins o la de Robin de los bosques. También hay referencias a largometrajes como La isla del tesoro, El paciente inglés, Los siete samuráis y King Kong, entre muchos otros. Este callejero es una oportunidad para recordar que en Zaragoza se rodó una de las primeras películas hechas en España por un español. Hablamos de Salida de la misa de doce de la Iglesia del Pilar de Zaragoza, una cinta dirigida por Eduardo Jimeno Correas, natural de la ciudad, que se rodó en 1897 y que fue clave en la inauguración de la historia del cine español."
-  },
-  {
-    "titulo": "Ni árboles ni sombrillas: el mejor colchón térmico para refrescar tu jardín en verano es un suelo que ya existía en la España de los años 70",
-    "medio": "OK Diario",
-    "fecha": 1786777219.0,
-    "link": "https://okdiario.com/curiosidades/ni-arboles-ni-sombrillas-mejor-colchon-termico-refrescar-tu-jardin-verano-suelo-que-ya-existia-espana-anos-70-19152728",
-    "resumen": "Durante años, cubrir el patio de cemento u hormigón parecía la opción más práctica. Una superficie uniforme, resistente y sencilla de mantener permitía colocar una mesa, unas tumbonas o crear una zona de paso sin demasiadas complicaciones. Pero ese modelo de jardín completamente pavimentado empieza a perder protagonismo. Hay una alternativa que recupera una estética … Continuar leyendo \"Ni árboles ni sombrillas: el mejor colchón térmico para refrescar tu jardín en verano es un suelo que ya existía en la España de los años 70\""
-  },
-  {
-    "titulo": "Las mejores piscinas naturales de Madrid para combatir el calor de agosto",
-    "medio": "OK Diario",
-    "fecha": 1786777216.0,
-    "link": "https://okdiario.com/okplanes/mejores-piscinas-naturales-madrid-combatir-calor-agosto-19181730",
-    "resumen": "Cuando aprieta el calor en la capital, salir al campo a darse un baño es una de las opciones más buscadas. La Comunidad de Madrid cuenta con varios ríos, embalses y pozas en plena sierra donde está permitido el baño. Lugares rodeados de naturaleza que sirven para pasar el día en agua fresca sin salir … Continuar leyendo \"Las mejores piscinas naturales de Madrid para combatir el calor de agosto\""
   },
   {
     "titulo": "La ciudad fronteriza con Francia perfecta para recorrer a pie y que conserva unas termas romanas de hace 2.000 años",
@@ -140,11 +371,11 @@
     "resumen": "Oiasso permite conocer el pasado romano de Irún mediante vestigios arqueológicos integrados en el casco urbano, donde la antigua actividad portuaria todavía forma parte del patrimonio localUna muralla, termas públicas y un teatro: el paseo por Zaragoza para descubrir los restos arqueológicos de su pasado romano En el extremo oriental de Gipuzkoa, junto al Bidasoa y frente a Francia, Irún concentra buena parte de la historia de la región. Su ubicación en la frontera ha condicionado durante siglos la evolución del municipio, aunque una parte importante de su pasado se remonta a mucho antes de que existieran los límites actuales entre ambos países. Bajo la ciudad se conservan los restos de Oiasso, el asentamiento romano que se desarrolló en esta zona durante los primeros siglos de nuestra era. Esta población ocupaba la desembocadura del río, en un territorio situado entonces entre Hispania y Aquitania. Oiasso fue una ciudad portuaria de los vascones y, durante el Imperio Romano, quedó integrada en la provincia Tarraconense. Su puerto, conectado con la ruta atlántica, junto con las explotaciones mineras cercanas, impulsaron el comercio y las comunicaciones. Las excavaciones llevadas a cabo en las últimas décadas han permitido localizar almacenes, una necrópolis, zonas relacionadas con la minería y unas termas públicas. La cercanía con Francia continúa siendo una de las características de Irún. En las proximidades se encuentra la Isla de los Faisanes, un pequeño islote del Bidasoa situado entre la localidad guipuzcoana y Hendaya. España y Francia comparten su soberanía y alternan su administración cada seis meses. Aunque no está habitada ni se puede visitar, también tiene importancia histórica: allí se firmó en 1659 la Paz de los Pirineos, que puso fin a un largo periodo de enfrentamientos entre las dos monarquías. Las Termas de Oiasso Entre los restos de la antigua ciudad se encuentran las Termas de Oiasso, situadas en el jardín que queda detrás del museo romano. Este tipo de instalaciones era habitual en las ciudades romanas y contaba con diferentes salas destinadas al baño a distintas temperaturas. Además de utilizarse para la higiene, estos espacios también estaban relacionados con el ejercicio físico y el ocio, por lo que funcionaban como lugares de encuentro social. Termas de Oiasso. Las excavaciones permitieron localizar tres dependencias con hipocausto, un sistema de calefacción que hacía circular aire caliente por una cámara situada bajo el suelo. Una de las estancias mayores corresponde al frigidarium, destinado a los baños de agua fría. En esta sala todavía se conserva un pavimento de opus spicatum, realizado con ladrillos colocados en forma de espiga y permite observar una de las técnicas constructivas utilizadas en el complejo. Parte de los elementos originales no se ha conservado, por lo que la interpretación de los restos arqueológicos es necesaria para entender cómo estaban distribuidos los baños. Una reconstrucción virtual con realidad aumentada permite ver cómo se organizaban las distintas salas y cómo encajaban dentro del edificio. Las estructuras que han llegado hasta la actualidad forman parte de un yacimiento más amplio que permite conocer mejor la vida cotidiana en Oiasso. El Museo Romano Oiasso, inaugurado en 2006, reúne buena parte de los materiales recuperados en las excavaciones realizadas en la zona. Entre ellos se encuentran piezas fabricadas en madera y cuero, además de otros objetos relacionados con el comercio y la actividad del puerto. La colección ayuda a conocer cómo se desarrolló este núcleo urbano a partir de su conexión marítima y de los recursos mineros de los alrededores. Qué más ver en Irún El museo también funciona como punto de partida para conocer el pasado romano de la ciudad. Su exposición permanente está organizada en tres espacios llamados Impacto, Puerto y Oiasso. El primero explica la relación entre la población vascona y Roma; el segundo está dedicado a la pesca, el comercio y las actividades vinculadas al puerto; mientras que el último recoge aspectos de la vida diaria, como la escritura, la religión o la vestimenta. Cerca del casco antiguo se encuentra la ermita de Santa Elena, situada junto al río Estebenea. El edificio actual, de planta rectangular, fue construido probablemente durante el siglo XIV, aunque este lugar ya había tenido funciones religiosas mucho antes. Bajo la construcción se localizó la necrópolis romana de Oiasso, de manera que en un mismo punto se pueden conocer restos correspondientes a diferentes etapas históricas. Otro de los edificios de interés es la iglesia de Santa María del Juncal. Declarada Monumento Histórico-Artístico Nacional, conserva en su interior una imagen gótica de la Virgen del Juncal, considerada la representación mariana de este estilo más antigua conocida en Gipuzkoa. Al encontrarse en el centro urbano, se puede incluir con facilidad en un recorrido a pie por otros espacios relacionados con la historia y la evolución de Irún. A estos puntos se añaden los restos del antiguo puerto y sus almacenes, las explotaciones mineras de los alrededores y otros lugares relacionados con el carácter fronterizo del municipio. En una misma visita se pueden conocer vestigios de época romana, edificios religiosos construidos siglos después y espacios vinculados a la relación entre España y Francia. Buena parte de este patrimonio se concentra alrededor del núcleo urbano de Irún, lo que permite recorrer a pie diferentes etapas de una historia que se extiende a lo largo de más de dos mil años."
   },
   {
-    "titulo": "“Te voy a robar quieras o no”: detenido en Palma tras sembrar el miedo en varias tiendas del centro de Palma",
-    "medio": "OK Diario",
-    "fecha": 1786777043.0,
-    "link": "https://okdiario.com/baleares/te-voy-robar-quieras-o-no-detenido-palma-sembrar-miedo-varias-tiendas-del-centro-palma-19185288",
-    "resumen": "La Policía Nacional ha detenido en Palma a un hombre como presunto autor de varios hurtos en comercios del centro de la ciudad, después de que supuestamente sustrajera tres camisetas de una tienda de la calle Jaime II y fuera localizado posteriormente con cuatro pares de gafas de sol presuntamente robadas de una óptica. El … Continuar leyendo \"“Te voy a robar quieras o no”: detenido en Palma tras sembrar el miedo en varias tiendas del centro de Palma\""
+    "titulo": "Los relojes Casio que nunca pasan de moda: clásicos, resistentes y con hasta el 49% menos",
+    "medio": "La Vanguardia",
+    "fecha": 1786776900.0,
+    "link": "https://www.lavanguardia.com/comprar/moda-belleza/20260815/11613698/relojes-casio-nunca-pasan-moda-clasicos-resistentes-rebajas-49-mkt-alie.html",
+    "resumen": "Casio ofrece sus relojes más clásicos con unos descuentos muy asequibles. Dispone de ejemplares tanto de hombre como de mujer"
   },
   {
     "titulo": "\"Lo vieron el otro día en España, ¿verdad?\": Trump agita de nuevo la crisis de Ceuta en su pelea doméstica",
@@ -152,27 +383,6 @@
     "fecha": 1786776693.0,
     "link": "https://www.huffingtonpost.es/global/lo-vieron-dia-espana-verdad-trump-agita-nuevo-crisis-ceuta-pelea-domestica-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El incendio forestal activo en Collserola, Barcelona: los Bomberos trabajan con medios aéreos en su extinción",
-    "medio": "Moncloa.com",
-    "fecha": 1786776540.0,
-    "link": "https://www.moncloa.com/2026/08/15/incendio-forestal-collserola-barcelona-3415498/",
-    "resumen": "Los Bombers de Barcelona han estabilizado el incendio forestal de Collserola, originado en Sant Pere Màrtir, con una treintena de dotaciones y medios aéreos. La entrada El incendio forestal activo en Collserola, Barcelona: los Bomberos trabajan con medios aéreos en su extinción aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Nunca vuelvas a quemar tus brochetas a la barbacoa: el truco de la chef Gisela Ortiz que lo soluciona",
-    "medio": "Moncloa.com",
-    "fecha": 1786776360.0,
-    "link": "https://www.moncloa.com/2026/08/15/brochetas-barbacoa-truco-chef-3415548/",
-    "resumen": "Remojar los palitos de madera antes de asar es el truco de la chef Gisela Ortiz para que tus brochetas a la barbacoa nunca se quemen ni se partan. La entrada Nunca vuelvas a quemar tus brochetas a la barbacoa: el truco de la chef Gisela Ortiz que lo soluciona aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Un terremoto de magnitud 5 sacude Granada sin causar víctimas",
-    "medio": "El País",
-    "fecha": 1786776011.0,
-    "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
-    "resumen": "La Junta de Andalucía ha activado la fase de emergencia tras el seísmo, que ha tenido epicentro en Alhendín y ha provocado daños materiales y decenas de llamadas al 112"
   },
   {
     "titulo": "‘Frozen 3’ adelanta su primer tráiler y más detalles: nueva villana, una novia para Olaf…",
@@ -196,11 +406,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Un fuerte terremoto de intensidad 5 sacude Granada de madrugada y causa daños materiales",
-    "medio": "El Mundo",
-    "fecha": 1786775773.0,
-    "link": "https://www.elmundo.es/espana/2026/08/15/6a7fa8d9fc6c835a148b4599.html",
-    "resumen": "La Junta activa el nivel 1 de emergencia, tras un temblor cuyo epicentro se ha situado en la localidad de Alhendín a 2 kilómetros de profundidad Leer"
+    "titulo": "Afganistán, un agujero negro de los DDHH, cumple cinco años del regreso de los talibán",
+    "medio": "Europa Press",
+    "fecha": 1786775451.0,
+    "link": "https://www.europapress.es/internacional/noticia-afganistan-agujero-negro-ddhh-cumple-cinco-anos-regreso-taliban-20260815083051.html",
+    "resumen": "Los integristas hacen del apartheid de género la \"bandera\" de sus políticas de supresión mientras la ONU pide a la comunidad internacional que no normalice relaciones"
   },
   {
     "titulo": "Asciende a 20 la cifra de muertos tras un terremoto de 7,7 de magnitud en Indonesia",
@@ -208,13 +418,6 @@
     "fecha": 1786774717.0,
     "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
     "resumen": "La agencia geofísica del archipiélago había emitido una alerta temprana de tsunami para algunas regiones del país"
-  },
-  {
-    "titulo": "En vilo: despliegue policial sin precedentes en Ceuta por miedo a una nueva entrada masiva",
-    "medio": "HuffPost",
-    "fecha": 1786774601.0,
-    "link": "https://www.huffingtonpost.es/politica/en-vilo-despliegue-policial-precedentes-ceuta-miedo-nueva-entrada-masiva-f202608.html",
-    "resumen": ""
   },
   {
     "titulo": "El live-action de ‘Enredados’ muestra las primeras imágenes del remake y su fecha de estreno",
@@ -252,13 +455,6 @@
     "resumen": "La D23 de Disney ha contado con un montón de sorpresas, anuncios y novedades sobre los próximos estrenos de la compañía. Y quizá uno de los más esperados es Star Wars: Starfighter, que no se ha perdido la cita y ha dejado su primer teaser tráiler. La próxima película de la saga galáctica estará protagonizada […] Seguir leyendo: ‘Star Wars: Starfighter’ se luce en la D23 con su primer teaser tráiler"
   },
   {
-    "titulo": "Un terremoto de magnitud 5 sacude Granada y provoca daños materiales",
-    "medio": "eldiario.es",
-    "fecha": 1786772984.0,
-    "link": "https://www.eldiario.es/andalucia/terremoto-magnitud-5-epicentro-alhendin-sacude-granada_1_13448797.html",
-    "resumen": "El temblor se ha registrado a la 1:04 horas de este sábado con epicentro en Alhendín. La Junta de Andalucía ha activado la fase de emergencia, situación operativa 1El terremoto en Granada se deja sentir en 45 puntos de la provincia de Córdoba La Junta de Andalucía ha activado la fase de emergencia, situación operativa 1, del Plan ante el Riesgo Sísmico por el terremoto de 5 grados de magnitud y con epicentro en Alhendín (Granada) registrado en la madrugada de este sábado, un temblor que ha provocado diferentes daños materiales aunque, por el momento, no se han reportado heridos. El servicio de emergencias 112 de Andalucía ha recibido más de 80 llamadas. De momento, el temblor ha provocado desprendimientos, caída de elementos de fachadas y tejados y daños en diferentes puntos del área metropolitana de Granada como Armilla, donde se han registrado daños materiales. Según el Instituto Geográfico Nacional (IGN), el terremoto se ha registrado a la 1:04 horas de este sábado, ha alcanzado una intensidad de 5 grados y ha tenido su epicentro a 2 kilómetros de profundidad. Terremoto en Granada. El consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz, ha anunciado que se activa esta fase por la magnitud del seísmo. “Estamos coordinando los posibles recursos y actuaciones necesarias, así como coordinando con la Diputación y los ayuntamientos afectados las posibles situaciones y afecciones, especialmente en viviendas, en edificios que hayan podido producirse”, ha confirmado. La Junta ha aconsejado a la población que mantenga la calma y evite entrar y salir de edificios, además de otras medidas preventivas como alejarse de fachadas, cornisas, balcones o muros por la posibilidad de que se produzcan desprendimientos. “Y lo que pedimos a la ciudadanía es que respete estas señalizaciones y no se acerque en ningún caso a las zonas afectadas (...) Es muy importante que se mantenga en todo caso la calma y seguir siempre unas sencillas medidas de autoprotección”, ha detallado Sanz. Por el momento, según ha podido informar Sanz junto a autoridades locales y sanitarias, no se han registrado víctimas mortales o heridos. De momento, “los bomberos y la policía están inspeccionando y balizando los puntos en los que se han registrado daños”. El terremoto de Alhendín se ha sentido en todas las provincias de Andalucía salvo Huelva y Cádiz, especialmente en la provincia de Granada, la costa de Almería y de Málaga y diferentes puntos de Jaén y Córdoba. El seísmo se ha producido una profundidad primero de dos y después de diez kilómetros y con una latitud de 37.1147 grados y -3.6618 grados de longitud. Al terremoto con epicentro en Alhendín se ha sumado, seis minutos después, un seísmo de 2,6 grados y epicentro a un kilómetro de profundidad en Gójar. Durante el viernes se han registrado otros tres terremotos registrados en la misma zona del área metropolitana de Granada de menor magnitud pero que también han alertado a la población. El más fuerte se ha registrado siete horas antes con epicentro en la localidad de La Zubia con magnitud 3,7 e intensidad IV."
-  },
-  {
     "titulo": "Así es la barra de los hermanos Torres en un mercado de Barcelona",
     "medio": "El Mundo",
     "fecha": 1786772691.0,
@@ -266,7 +462,7 @@
     "resumen": "Sergio y Javier Torres llevan su 'know how' con triple estrella Michelin a un puesto en el Mercado de Santa Caterina. Leer"
   },
   {
-    "titulo": "Al menos 20 muertos y evacuaciones masivas tras el terremoto de magnitud 7,7 en Indonesia",
+    "titulo": "Al menos 38 muertos y evacuaciones masivas tras el terremoto de magnitud 7,7 en Indonesia",
     "medio": "El Mundo",
     "fecha": 1786772464.0,
     "link": "https://www.elmundo.es/internacional/2026/08/15/6a7fac2921efa0e9468b4573.html",
@@ -278,13 +474,6 @@
     "fecha": 1786772125.0,
     "link": "https://hipertextual.com/cine-television/disney-anuncia-zootropolis-3-durante-la-d23-estos-son-los-primeros-detalles/",
     "resumen": "Para sorpresa de nadie, Disney anunció que Zootrópolis 3 está en producción. Lo cual era de esperar tras el enorme éxito de Zootrópolis 2 el año pasado. La cinta se convirtió en la película de animación más taquillera de la compañía de todos los tiempos al recaudar 1.800 millones de dólares en la taquilla mundial. […] Seguir leyendo: Disney anuncia ‘Zootrópolis 3’ durante la D23: estos son los primeros detalles"
-  },
-  {
-    "titulo": "El Palacio ideal: la locura del cartero francés que construyó un castillo con sus manos",
-    "medio": "eldiario.es",
-    "fecha": 1786771824.0,
-    "link": "https://www.eldiario.es/spin/palacio-ideal-locura-cartero-frances-construyo-castillo-manos-pm_1_13410040.html",
-    "resumen": "Ferdinand Cheval dedicó más de 30 años una construcción que fascinó a Breton y Picasso y que se considera la obra maestra del llamado Art Naïf El palacio que Gaudí construyó fuera de Cataluña y que parece sacado de Harry Potter Ferdinand Cheval trabajaba como cartero en la ciudad francesa de Hauterives, en la región de Drôme-Auvernia-Ródano-Alpes, cerca de Lyon. Su vida era de lo más común y nada parecía que fuera a romper la rutina, hasta que un buen día, Ferdinand tropezó con una extraña piedra. Era el año 1879, Cheval tenía 43 años y empezaba así la historia de una de las construcciones más extrañas y fascinantes que se pueden ver en Europa: el Palais Ideal (Palacio Ideal). Esta construcción de difícil clasificación está realizada en piedra esculpida, siguiendo un estilo libre y ecléctico que hoy, casi un siglo y medio más tarde, nos sigue fascinando y sorprendiendo. No en vano, se calcula que cada año pasan por el Palacio Ideal unos 150.000 visitantes. Un proyecto de lo más loco Quien le iba a decir a Ferdinand Cheval que 33 años después de encontrarse con una piedra, la idea que le vino a la cabeza se habría convertido en una realidad. Solo y con sus propias manos, Cheval se obsesionó por recoger piedras y más piedras a lo largo de sus paseos diarios. Tomando como inspiración imágenes de postales y de revistas que distribuía gracias a su oficio de cartero, Cheval fue dando forma a un singular palacio en su propio jardín. El resultado es un inclasificable edificio que mezcla los estilos arquitectónicos de los cinco continentes, y que está realizado con materiales encontrados y reciclados. El edificio, completamente transitable, destaca por su decoración esculpida, en la que se pueden ver desde caimanes, elefantes o pelícanos hasta personajes mitológicos, hadas o gigantes y elementos naturales. Fuente de inspiración artística Realizado sin normas y al margen de escuelas o movimientos artísticos, el Palacio Ideal del Cartero Cheval pronto despertó el interés de grandes artistas de su época. De hecho, hoy se considera la gran obra representativa del arte Naíf porque así lo definió en 1969 el escritor André Malraux, que en aquel momento ocupaba el ministerio de cultura francés. Antes ya había llamado la atención de figuras como André Breton, que en 1920 consideró a Ferdinand Cheval precursor de la arquitectura surrealista e incluso le dedicó un poema titulado “Le Revolver à cheveux blancs” (“El Revólver de cabellos blancos”). Detalle de la decoración del Palacio Ideal También Picasso, así como Tinguely y Niki de Saint Phalle mostraron en su momento una gran admiración por esta obra que el también artista Jean Dubuffet comparó con el “art brut” en el que se emmarca su propia obra. Una tumba hecha con sus manos El Palacio Ideal no es la única obra arquitectónica que nos dejó Ferdinand Cheval tras su mierte. Cuando tenía ya 78 años, este imaginativo cartero emprendió un segundo proyecto, el de construir su propia tumba, siguiendo el estilo indescriptible de su palacio. Así, trabajando sin pausa y con sus propias manos, Cheval dedicó ocho años más a construir un mausoleo para él y su familia, conocida con el nombre de “tumba del silencio y del descanso final”. Se ubica en el cementerio de Hauterives, no muy lejos del palacio. Cheval murió cuatro años después de finalizarla. La tumba, recubierta de piedras, fósiles, conchas y otros elementos variopintos, presenta el mismo aspecto orgánico del Palacio. Hoy, el Palais Ideal está considerado como un Monumento Histórico y atrae a miles de visitantes cada año. En el año 2018, el director francés Niels Tavernier dirigió la película L'extraordinaire histoire du facteur Cheval, en la que Jacques Gamblin y la actriz Laetitia Casta dan vida al imaginativo cartero y su esposa."
   },
   {
     "titulo": "El pintoresco pueblo que marcó la infancia de Eva Arguiñano está a 40 minutos de Zarauz: «En mi casa nunca se tiró nada; mi madre me regaló un oficio maravilloso»",
@@ -315,13 +504,6 @@
     "resumen": "El precio del crudo Brent del Mar del Norte, aumentó hasta los 88,52 dólares por barril Leer"
   },
   {
-    "titulo": "La amenaza real de la fiebre hemorrágica de Crimea-Congo: \"Ya no debe considerarse algo lejano ni exótico\"",
-    "medio": "El Mundo",
-    "fecha": 1786771056.0,
-    "link": "https://www.elmundo.es/salud/2026/08/15/6a7f4f52e9cf4ac8658b45a4.html",
-    "resumen": "En 2026, esta patología hemorrágica suma ya cuatro contagios, uno de los cuales ha fallecido, alcanzando el récord anual de casos de la década Leer"
-  },
-  {
     "titulo": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
     "medio": "El País",
     "fecha": 1786770960.0,
@@ -336,25 +518,11 @@
     "resumen": "Comparamos cuatro equipos de sonido portátiles e inalámbricos para encontrar el más adecuado para las reuniones al aire libre"
   },
   {
-    "titulo": "La rocambolesca historia del robo de una pala de pádel y cientos de carteles por el barrio: \"Devolvedla, por favor\"",
-    "medio": "HuffPost",
-    "fecha": 1786770582.0,
-    "link": "https://www.huffingtonpost.es/virales/la-rocambolesca-historia-robo-pala-padel-cientos-carteles-barrio-devolvedla-favor-f202608.html",
-    "resumen": ""
-  },
-  {
     "titulo": "‘VisionQuest’ estrena su espectacular tráiler en la D23 con el regreso de Ultrón al Universo Marvel",
     "medio": "Hipertextual",
     "fecha": 1786770536.0,
     "link": "https://hipertextual.com/cine-television/visionquest-estrena-espectacular-trailer-regreso-ultron-universo-marvel/",
     "resumen": "VisionQuest estrena tráiler en el evento para fanáticos D23 y deja claro que la trilogía que comenzó con La Bruja Escarlata y Visión, tendrá un final digno. La producción, que marca el final del ciclo de las series de Marvel para Disney, mostró músculo en su primer avance. Y además mostró el interesante giro que […] Seguir leyendo: ‘VisionQuest’ estrena su espectacular tráiler en la D23 con el regreso de Ultrón al Universo Marvel"
-  },
-  {
-    "titulo": "Un cierre en diferido, motivado por el precio del gas y ajeno al apagón: las claves de la prórroga de Almaraz",
-    "medio": "El Mundo",
-    "fecha": 1786770267.0,
-    "link": "https://www.elmundo.es/economia/2026/08/15/6a7f351bfdddff8e4c8b456f.html",
-    "resumen": "L El Ejecutivo aplaza el cierre de los dos reactores de la central nuclear, previstos para 2027 y 2028, hasta junio de 2030 Leer"
   },
   {
     "titulo": "20 habilidades profesionales sin las que no podrá encontrar o mantener un trabajo",
@@ -364,11 +532,11 @@
     "resumen": "EXPANSIÓN inicia una investigación actualizada -el 'Barómetro E&E de las habilidades profesionales más demandadas'- que analizará y renovará semanalmente las capacidades profesionales que exigen las empresas, identificando las compañías concretas que las necesitan y los sectores en los que es necesario dominarlas. El Barómetro actualizara semanalmente las posiciones, indicando las habilidades que suben y bajan (y por qué) y aquellas capacidades que entran en la clasificación. También relacionará las profesiones de éxito con estas habilidades exigidas y analizará su influencia en los sueldos y retribución, y las necesidades reales de formación que exigen estas capacidades. Leer"
   },
   {
-    "titulo": "Arqueología sobre ruedas: el increíble santuario del motor que puedes visitar en un pueblo de Girona",
-    "medio": "eldiario.es",
-    "fecha": 1786770060.0,
-    "link": "https://www.eldiario.es/spin/arqueologia-ruedas-increible-santuario-motor-puedes-visitar-pueblo-girona-pm_1_13409604.html",
-    "resumen": "La Colección de Automóviles Salvador Claret de Sils nació como una obsesión privada y se convirtió en el primer museo de este tipo abierto al público en EspañaLas marcas de coches se apuntan a la nostalgia: el R5 sigue la estela del Fiat 500, el escarabajo o el Mini A finales de los años 50, el empresario catalán Salvador Claret i Naspleda se compró un Ford T de 1923, un modelo de coche histórico que despertaría en él una pasión que se convertiría en algo mucho más grande. Claret restauró el Ford T totalmente, lo pintó de negro y empezó a usarlo como su vehículo propio. Hasta que, en 1959, se animó a participar con él en el primer Rally Barcelona–Sitges en 1959. El éxito de aquella experiencia lo animó a comprar nuevos vehículos históricos. El resultado de esa obsesión puede visitarse hoy en día en Sils, donde se expone la Colección de Automóviles Salvador Claret (CASC), un singular museo dedicado a la arqueología del motor que ningún aficionado a los coches debería ignorar. Una vida dedicada al motor Nacido en 1909, Salvador Claret abrió en 1934 el Garage Central, y dos años más tarde instaló allí la primera autoescuela de Girona. Auténtico visionario del turismo, Claret tuvo la idea de abrir pequeños complejos de carretera como el Hostal de la Selva o el Hostal del Rolls, iniciativas que le valieron la Medalla al Mérito Turístico. Sin embargo, sería gracias a su colección de coches históricos, en los que hay vehículos de las marcas Packard, Bugatti o Alfa Romeo, con la que obtendría una mayor notoriedad. A lo largo de los años 60 y 70 desarrolló esta afición que lo llevó a exponer en el Palacio de la Virreina (1961) y a competir en rallies internacionales de prestigio. Así fue como Claret se ganó su reconocimiento como uno de los pioneros en la conservación del patrimonio técnico en España. Los tesoros de la colección Entre coches y motos, además de material de aviación, la Colección de Automóviles Salvador Claret dispone de cerca de 300 vehículos, tanto nacionales como europeos y americanos. La visita a la colección permite, además de ver coches históricos, hacerse una idea del gran arraigo y popularidad que tuvieron las motocicletas durante la posguerra española. La colección destaca especialmente por la presencia de vehículos españoles, entre los que vale la pena señalar el Bonet (1889), considerado el primer automóvil construido en España, así como vehículos de otras marcas emblemáticas como Hispano Suiza, Pegaso, Bultaco o Montesa. Hay, también, piezas de firmas cas olvidadas como Orix, Ricart o David. Vehículos de la colección de Salvador Claret Otro coche interesante es el Merry Weather de 1883 con motor de vapor o un Ford Sierra Cosworth de 300 caballos con el que Carlos Sainz se proclamó Campeón de España de Rally en 1987, así como los seis modelos de Ford T. Además, se pueden ver vehículos que pertenecieron a personalidades históricas, como el Mercedes Benz 190 SL de 1959 del futbolista Paco Gento, el Ford A de 1931 que la actriz Madeleine Carroll conducía en Sant Antoni de Calonge, Un Hispano Suiza que perteneció a Picasso, el Topolino que Mussolini regaló a Queipo de Llano y el Cadillac El Dorado de 1954 blindado de Francisco Franco. El fondo del museo se completa con más de 4.000 libros, un archivo fotográfico, hemeroteca y más de 15.000 catálogos. Actualmente, la Colección de Automóviles Salvador Claret forma parte del sistema de museos colaboradores del mNACTEC (Museu Nacional de la Ciència i de la Tècnica de Catalunya)."
+    "titulo": "La espectacular caravana para sentirse como en una mansión rodante: su gran cocina al aire libre es su gran tesoro",
+    "medio": "La Vanguardia",
+    "fecha": 1786770000.0,
+    "link": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260815/11594650/caravana-alliance-paradigm-388sp-mansion-rodante-tsc.html",
+    "resumen": "La nueva Alliance Paradigm 388SP apuesta por el confort de una vivienda pensada para largas estancias"
   },
   {
     "titulo": "Carles Porta, fenómeno multiplataforma: de 'Crims' a '33 días' y 'Abandonados'",
@@ -376,13 +544,6 @@
     "fecha": 1786770000.0,
     "link": "https://www.lavanguardia.com/television/20260815/11600056/sello-carles-porta-fenomeno-multiplataforma-crims-33-dias-abandonados.html",
     "resumen": "Su particular manera de entender y narrar el 'true crime' le ha convertido en uno de los nombres más cotizados de la industria audiovisual"
-  },
-  {
-    "titulo": "El quebradero de cabeza de la serie de 'God of War', que está sin protagonista",
-    "medio": "La Vanguardia",
-    "fecha": 1786770000.0,
-    "link": "https://www.lavanguardia.com/series/20260815/11614012/god-of-war-serie-en-apuros-actor-ryan-hurst-lesionado-dave-bautista.html",
-    "resumen": "Una lesión durante el rodaje de Ryan Hurst, el actor protagonista, tiene a Prime Video buscando a un sustituto de urgencia para retomar el rodaje en otoño"
   },
   {
     "titulo": "Trias Barcelona, la agencia que pone al propietario en el centro de la operación",
@@ -399,11 +560,11 @@
     "resumen": "Cuando el viaje no es lo que uno esperaba encontrarse en una ciudad con mucha historia"
   },
   {
-    "titulo": "Una ONG ofrece alojamiento gratis en una isla griega de 25.000 habitantes a cambio de dedicar cinco horas al día a cuidar sus gatos callejeros",
-    "medio": "HuffPost",
-    "fecha": 1786769887.0,
-    "link": "https://www.huffingtonpost.es/sociedad/una-ong-ofrece-alojamiento-gratis-isla-griega-25000-habitantes-cambio-dedicar-cinco-horas-dia-cuidar-gatos-callejeros-f202608.html",
-    "resumen": ""
+    "titulo": "El quebradero de cabeza de la serie de 'God of War', que está sin protagonista",
+    "medio": "La Vanguardia",
+    "fecha": 1786770000.0,
+    "link": "https://www.lavanguardia.com/series/20260815/11614012/god-of-war-serie-en-apuros-actor-ryan-hurst-lesionado-dave-bautista.html",
+    "resumen": "Una lesión durante el rodaje de Ryan Hurst, el actor protagonista, tiene a Prime Video buscando a un sustituto de urgencia para retomar el rodaje en otoño"
   },
   {
     "titulo": "Mira el emocionante primer tráiler de ‘Ahsoka’ temporada 2, que anuncia por fin su fecha de estreno",
@@ -418,41 +579,6 @@
     "fecha": 1786769100.0,
     "link": "https://elpais.com/escaparate/belleza/espuma-pelo-rizado-cantu.html",
     "resumen": "Rizos definidos, flexibles y sin encrespamiento así es la espuma que se ha convertido en un básico para las melenas rizadas"
-  },
-  {
-    "titulo": "Un terremoto de 5 grados con epicentro en Alhendín deja daños materiales y activa la fase de emergencia",
-    "medio": "La Vanguardia",
-    "fecha": 1786768933.0,
-    "link": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
-    "resumen": "Se han registrado 15 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias"
-  },
-  {
-    "titulo": "El spa subterráneo de la Toscana donde bañarse en aguas termales a 36 ºC",
-    "medio": "La Vanguardia",
-    "fecha": 1786768800.0,
-    "link": "https://www.lavanguardia.com/magazine/lifestyle/20260815/11613101/spa-subterraneo-toscana-banarse-aguas-termales-36-c.html",
-    "resumen": "Bajo las colinas de Monsummano Terme se esconde una cueva milenaria con un laberinto de vapores sanadores, estalactitas y aguas cristalinas"
-  },
-  {
-    "titulo": "La startup que nos decía cuánto valía una prenda... y ahora debe explicar cuánto valía su negocio",
-    "medio": "La Vanguardia",
-    "fecha": 1786768200.0,
-    "link": "https://www.lavanguardia.com/magazine/moda/20260815/11613738/phia-startup-prometia-decirnos-valia-prenda-explicar-valia-propio-negocio.html",
-    "resumen": "La aplicación de compras cofundada por la hija de Bill Gates acumuló millones, celebridades y elogios antes de que varias investigaciones obligaran a mirar qué ocurría detrás de los titulares"
-  },
-  {
-    "titulo": "¿Racismo o incompetencia? La hambruna de Bengala de 1943 que ha reabierto el debate sobre Winston Churchill",
-    "medio": "La Vanguardia",
-    "fecha": 1786768200.0,
-    "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260815/11603841/racismo-incompetencia-hambruna-bengala-1943-reabierto-debate-sobre-winston-churchill.html",
-    "resumen": "La muerte por hambre de tres millones de bengalíes en 1943 es una de las mayores sombras que se ciernen sobre el premier británico. ¿Fue consecuencia de su negligencia, de sus prejuicios raciales o simplemente del caos de la guerra mundial?"
-  },
-  {
-    "titulo": "¿Sin espacio en la encimera? Este soporte para microondas de doble altura es una magnífica solución",
-    "medio": "El País",
-    "fecha": 1786768200.0,
-    "link": "https://elpais.com/escaparate/estilo-de-vida/soporte-para-microondas.html",
-    "resumen": "Que la falta de huecos y el desorden no te generen más incertidumbre cada vez que visitas la cocina: invierte en este accesorio versátil a la venta por menos de 20 euros"
   },
   {
     "titulo": "Ceuta pone como ejemplo los precedentes de Polonia y Grecia para no dar asilo a quienes invadieron la ciudad",
@@ -490,39 +616,11 @@
     "resumen": "Javier y Esther se desvivían por ella a pesar de todos los problemas, que comenzaron con un trastorno de bulimia en el colegio.Más información: El anuncio de Carlota a sus padres de que estaba embarazada desencadenó el doble crimen de Tauste."
   },
   {
-    "titulo": "Los judíos de Ceuta rechazan la \"descabellada\" tesis que implica a Israel en la invasión: \"No hay nada de lo que no nos culpen\"",
-    "medio": "El Español",
-    "fecha": 1786768200.0,
-    "link": "https://www.elespanol.com/mundo/oriente-proximo/20260815/judios-ceuta-rechazan-descabellada-tesis-implica-israel-invasion-no-no-culpen/1003744352357_0.html",
-    "resumen": "La comunidad hebrea de la ciudad autónoma asegura que la crisis migratoria ha reforzado sus vínculos con cristianos, musulmanes e hindúes.Más información: El vídeo de tres segundos que azuzó el asalto masivo a Ceuta: dos asaltantes recién llegadas y 32 millones de visualizaciones"
-  },
-  {
-    "titulo": "Delcy Rodríguez entierra el legado de Chávez al retomar las relaciones diplomáticas con Israel bajo la tutela de EEUU",
-    "medio": "El Español",
-    "fecha": 1786768200.0,
-    "link": "https://www.elespanol.com/mundo/america/20260815/delcy-rodriguez-entierra-legado-chavez-retomar-relaciones-diplomaticas-israel-tutela-eeuu/1003744351235_0.html",
-    "resumen": "La Administración Trump dicta los cambios de alianzas de Caracas y ahonda la brecha entre la cúpula del chavismo y sus bases.Más información: Chavismo y oposición inician el diálogo bajo la tutela de EEUU mientras Trump alardea de \"tomar\" el petróleo de Venezuela"
-  },
-  {
-    "titulo": "Ferran Torres, de héroe a diana política: bulo de Sumar, mural vandalizado y ataque del PSOE por ser 'embajador' de Valencia",
-    "medio": "El Español",
-    "fecha": 1786768200.0,
-    "link": "https://www.elespanol.com/reportajes/20260815/ferran-torres-heroe-diana-politica-bulo-sumar-mural-vandalizado-ataque-psoe-embajador-valencia/1003744353474_0.html",
-    "resumen": "El autor del gol del Mundial deja el FC Barcelona rumbo al PSG mientras el PSOE investiga su nombramiento como embajador valencianoOtras historias: El héroe humilde de Foios: aprendió a jugar en la alquería de su abuelo y no abandonó a Valencia en la dana"
-  },
-  {
     "titulo": "Lo que echaría hoy al carrito de Mercadona: el rímel de menos de cinco euros, el perfume que huele a verano y otros productos que están arrasando",
     "medio": "The Objective",
     "fecha": 1786768200.0,
     "link": "https://theobjective.com/lifestyle/2026-08-15/lo-que-echaria-hoy-al-carrito-de-mercadona-el-rimel-de-menos-de-cinco-euros-el-perfume-que-huele-a-verano-y-otros-productos-que-estan-arrasando/",
     "resumen": "Entrar en Mercadona para comprar dos cosas y salir con una bolsa llena de productos que no estaban en la lista es casi una tradición. Y […]"
-  },
-  {
-    "titulo": "“La deja como nueva”: este gel elimina la suciedad acumulada en la goma de la lavadora",
-    "medio": "El País",
-    "fecha": 1786767300.0,
-    "link": "https://elpais.com/escaparate/estilo-de-vida/limpiador-goma-de-lavadora.html",
-    "resumen": "La fórmula del producto está pensada para eliminar las manchas más difíciles de quitar y se puede utilizar en diferentes zonas de la casa"
   },
   {
     "titulo": "¿Quién recuerda a los muertos? ¿Quién los llora?",
@@ -581,74 +679,11 @@
     "resumen": "La Plaza de la Merced de Rota (Cádiz) volverá a convertirse el próximo 20 de agosto, a las 21:00 horas, en escenario de la XVII Noche de Literatura en la Calle, una cita ya consolidada en el calendario cultural del verano gaditano que este año se celebra bajo el título ‘Poesía contra las guerras’.El encuentro reunirá sobre el escenario a una docena de voces destacadas de la poesía, la narrativa y la música en español. Entre los participantes figuran colaboradores habituales de infoLibre como Benjamín Prado o Luis García Montero, director del Instituto Cervantes. Junto a ellos aparecen nombres de la talla de Juan José Téllez, Thais Gamaza, Marwan, Gudrun Palomino, Susana Ginesta, Abraham Guerrero, Dani Llamas, Alexis Díaz Pimienta y María La Mónica, en una noche que vuelve a poner la palabra al servicio de la denuncia contra los conflictos bélicos.El cartel del acto, obra del cantautor Joaquín Sabina, representa una embarcación que navega entre olas cargadas de simbolismo, con una vela confeccionada a partir de recortes de prensa. La composición remite tanto a la tradición marinera de Rota como al propio espíritu reivindicativo del encuentro.La actividad está organizada por Izquierda Unida Rota y cuenta con la colaboración del Ayuntamiento de Rota, a través de su Delegación de Cultura y Patrimonio Histórico, además de un amplio tejido de comercios y entidades locales que dan soporte al evento.La Noche de Literatura en la Calle de Rota llega este año a su decimoséptima edición, consolidándose como una de las propuestas culturales de referencia del verano en la provincia de Cádiz. El formato, que reúne poesía, música y narrativa en un espacio abierto y gratuito, ha ido sumando a lo largo de los años a algunas de las voces más reconocidas de las letras y la canción en español, manteniendo siempre un fuerte compromiso social en la elección de sus temáticas anuales."
   },
   {
-    "titulo": "Fin de semana pasado por agua en Madrid: aviso amarillo por tormentas este sábado, con descenso notable de temperaturas",
-    "medio": "eldiario.es",
-    "fecha": 1786766476.0,
-    "link": "https://www.eldiario.es/madrid/somos/semana-pasado-agua-madrid-aviso-amarillo-tormentas-sabado-descenso-notable-temperaturas-pm_1_13448387.html",
-    "resumen": "Lo más relevante del tiempo será el descenso localmente notable de las temperaturas máximas, especialmente este sábado, llegando a oscilar entre los 34 y 35 gradosCambio radical del tiempo este fin de semana en el norte, centro y este del país: llegan tormentas y bajada de temperaturas Tras jornadas de calor intenso en la Comunidad de Madrid, llega cierto alivio con las máximas este fin de semana y con chubascos y tormentas que se esperan en gran parte de la región, siendo fuertes e incluso acompañadas de granizo y viento fuerte, según la previsión de la Agencia Estatal de Meteorología (AEMET). Así, Aemet ha activado aviso amarillo durante las horas centrales en toda la Comunidad de Madrid por chubascos y tormentas que podrían llegar a ser localmente fuertes e ir acompañadas de granizo y rachas muy fuertes, especialmente en la Sierra. Aunque lo más relevante del tiempo de este fin de semana en Madrid será el descenso localmente notable de las temperaturas máximas, especialmente este sábado, llegando a oscilar entre los 34 y 35 grados, pero con un ligero ascenso el domingo para llegar hasta los 36. En el caso de las temperaturas mínimas, el descenso se notará menos, sin grandes cambios, oscilando entre los 20 y 24 grados el sábado, y bajando hasta los 18 grados el domingo en un ligero descenso. Fin de semana con chubascos y tormentas fuertes Así, la jornada del sábado estará marcada por intervalos de nubes medias y altas con lluvias, chubascos y tormentas que, desde el mediodía, podrían ser localmente fuertes e ir junto con granizo, principalmente en la Sierra. En cuanto al viento, soplará flojo variable con predominio de componente este y noreste de madrugada, mientras al final del día y posibles rachas muy fuertes asociadas a la actividad tormentosa. Mientras el domingo, el cielo se espera poco nuboso con intervalos de nubes altas, que por la tarde derivará en alguna nubosidad de evolución diurna. A su vez, no se descarta algún chubasco tormentoso, principalmente en la Sierra. En cuanto al viento se espera sople flojo de componente este tendiendo a variable por la tarde."
-  },
-  {
-    "titulo": "Cambio radical del tiempo este fin de semana en el norte, centro y este del país: llegan tormentas y bajada de temperaturas",
-    "medio": "eldiario.es",
-    "fecha": 1786766475.0,
-    "link": "https://www.eldiario.es/sociedad/el-tiempo/cambio-radical-tiempo-semana-norte-centro-pais-llegan-tormentas-bajada-temperaturas-pm_1_13448228.html",
-    "resumen": "Tal y como confirma el portavoz de Aemet, Rubén del Campo, la dana provocará chubascos fuertes e incluso muy fuertes que podrían dar lugar a inundaciones locales Este fin de semana se espera un cambio radical del tiempo en gran parte de la península debido al paso de una dana que provocará un descenso de las temperaturas que irá acompañado de tormenta, especialmente en el norte, pero también en zonas del centro y este, según la previsión de la Agencia Estatal de Meteorología (AEMET). Tal y como confirma el portavoz de Aemet, Rubén del Campo, la dana provocará chubascos fuertes e incluso muy fuertes que podrían dar lugar a inundaciones locales, que irían acompañadas de granizo y viento muy intenso, siendo la jornada del sábado la que tendrá una mayor inestabilidad. Así, ha activado aviso naranja durante las horas centrales del sábado en Aragón, La Rioja, Catalunya, Comunitat Valenciana debido a tormentas y lluvias fuertes, siendo amarillo en Andalucía, Baleares, Cantabria, Castilla-La Mancha, Extremadura, Galicia, Comunidad de Madrid, Murcia, Navarra y País Vasco. En el caso de Andalucía, Catalunya, Baleares y Galicia estará activo también por altas temperaturas. El domingo, por su parte, desaparecerán gran parte de las alertas, manteniéndose solo en amarillo y en horas centrales por tormentas en zonas de Aragón, Catalunya y Comunitat Valenciana, y por altas temperaturas en Andalucía, Baleares, Extremadura, Galicia y Catalunya. El paso más intenso de la dana será el sábado El fin de semana arrancará con su jornada más inestable, especialmente en el Cantábrico, donde se esperan precipitaciones desde las primeras horas, mientras que en el resto la nubosidad irá en crecimiento a lo largo del día. De esta forma, los chubascos y tormentas se extenderán a buena parte del interior peninsular e islas Baleares, con granizo, rachas de viento muy fuertes y posibles inundaciones locales. En cuanto a las temperaturas, se espera un descenso, con máximas que en muchos casos se quedarán en torno a los 30 y 32 grados, pero que en el sur de Galicia, Extremadura, Andalucía e interior del mediterráneo podrían todavía superar los 34 grados. Domingo menos intenso, pero todavía con tormentas Para la jornada del domingo, el tiempo será similar, aunque la intensidad será menor y se espera que las lluvias persistan en el norte, con las tormentas formándose en el resto del territorio, con excepción del suroeste. Aunque las precipitaciones serán menos frecuentes, podrían todavía ser fuertes y acompañadas de granizo y rachas de viento intensas. En lo que respecta a las temperaturas, estas volverán a subir, con máximas que podrían llegar a los 34 y 36 grados en amplias zonas del centro y norte, mientras en el sur y oeste podrían incluso alcanzar o superar los 38 grados. En cuanto al tiempo del fin de semana en las islas Canarias, se esperan cielos que serán mayormente nubosos, especialmente en el norte de las islas montañosas. El viento soplará alisio con rachas fuertes y las temperaturas sufrirán un descenso generalizado a partir del sábado, aunque seguirán siendo todavía valores moderadamente altos."
-  },
-  {
-    "titulo": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
-    "medio": "El País",
-    "fecha": 1786766460.0,
-    "link": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
-    "resumen": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
-  },
-  {
     "titulo": "Podcast | Entrevista a Ignacio Dancausa",
     "medio": "The Objective",
     "fecha": 1786764301.0,
     "link": "https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-ignacio-dancausa/",
     "resumen": "Paloma Cervilla entrevista a Ignacio Dancausa, presidente de Nuevas Generaciones del PP."
-  },
-  {
-    "titulo": "Eclípsate más, y más, y más…",
-    "medio": "The Objective",
-    "fecha": 1786764300.0,
-    "link": "https://theobjective.com/elsubjetivo/opinion/2026-08-15/eclipsate-mas-mas-articulo-azua/",
-    "resumen": "¡Pero mucho más! Fue un gozo ver el miércoles pasado cómo acudían al eclipse los astrofísicos, las veterinarias, los camareros, las madres subrogadas, los parados, la […]"
-  },
-  {
-    "titulo": "Eclipsados: lo solar es político",
-    "medio": "The Objective",
-    "fecha": 1786764300.0,
-    "link": "https://theobjective.com/elsubjetivo/opinion/2026-08-15/eclipsados-solar-politico-articulo-de-lora/",
-    "resumen": "No ha faltado en estos días previos al eclipse un resabio humeano, estrictamente empirista, en la actitud de muchos de los que esperaban ansiosos el gran […]"
-  },
-  {
-    "titulo": "El desastre marroquí del sanchismo",
-    "medio": "The Objective",
-    "fecha": 1786764300.0,
-    "link": "https://theobjective.com/elsubjetivo/opinion/2026-08-15/desastre-marroqui-sanchismo-articulo-vilches/",
-    "resumen": "Albares es uno de esos ministros que definen a un Gobierno. Su presencia y sus palabras, las decisiones que toma o incluso la forma de vestir, […]"
-  },
-  {
-    "titulo": "Un terremoto de magnitud 5 con epicentro en Alhendín sacude Granada durante la madrugada",
-    "medio": "Europa Press",
-    "fecha": 1786752279.0,
-    "link": "https://www.europapress.es/andalucia/noticia-terremoto-magnitud-epicentro-alhendin-sacude-granada-madrugada-20260815020439.html",
-    "resumen": "Un terremoto de magnitud 5 y con epicentro en la localidad de Alhendín se ha dejado sentir ampliamente entre la población durante la madrugada de este sábado en la ciudad de Granada y en el área metropolitana."
-  },
-  {
-    "titulo": "Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto",
-    "medio": "El Mundo",
-    "fecha": 1786748670.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dfe0be85eced76c8b4573.html",
-    "resumen": "El Real Madrid sigue liderando la inversión en fichajes y tira de una competición en la que vuelve a aparecer el Barça y se mantiene el Atlético Leer"
-  },
-  {
-    "titulo": "La Liga de los campeones del mundo frente a la misión de Mourinho",
-    "medio": "El Mundo",
-    "fecha": 1786748669.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html",
-    "resumen": "Como tras Sudáfrica, en 2010, el portugués llega al Madrid para derrocar a un Barça dominante, con el estilo y la mayoría de integrantes de la España que logró la segunda estrella Leer"
   },
   {
     "titulo": "JPMorgan retiró su servicio bancario a Polymarket",
@@ -684,27 +719,6 @@
     "fecha": 1786746327.0,
     "link": "https://www.expansion.com/sociedad/2026/08/14/6a7f4690e5fdea8b7c8b458d.html",
     "resumen": "La magistrada fijó la fecha de la sentencia para el próximo 18 de diciembre. Los delitos conllevan una pena máxima de cadena perpetua. Leer"
-  },
-  {
-    "titulo": "La batalla por el control del Grupo Tata, valorado en 280.000 millones de dólares",
-    "medio": "Expansión",
-    "fecha": 1786746291.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7f0d3de5fdeace618b4579.html",
-    "resumen": "Una turbulenta transición espera al sucesor de N Chandrasekaran en el conglomerado propietario de Air India y Jaguar Land Rover Leer"
-  },
-  {
-    "titulo": "Líbano propone una \"visa dorada\" de 1 millón de dólares para residencia con beneficios fiscales",
-    "medio": "Expansión",
-    "fecha": 1786746229.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7ef756e5fdea34498b4570.html",
-    "resumen": "La iniciativa genera escepticismo mientras el país afronta el conflicto y está inmerso en una crisis económica. Leer"
-  },
-  {
-    "titulo": "Al menos cuatro muertos por un ataque de los hutíes contra la ciudad portuaria de Moca, en el sur de Yemen",
-    "medio": "Europa Press",
-    "fecha": 1786744168.0,
-    "link": "https://www.europapress.es/internacional/noticia-menos-cuatro-muertos-ataque-huties-contra-ciudad-portuaria-moca-sur-yemen-20260814234928.html",
-    "resumen": "Al menos cuatro personas han muerto a causa de un ataque perpetrado este viernes por los rebeldes hutíes contra la ciudad costera de Moca, en el suroeste de Yemen, en el marco del incremento de las hostilidades entre la insurgencia y el Gobierno yemení reconocido internacionalmente."
   },
   {
     "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
@@ -777,25 +791,11 @@
     "resumen": "El presidente de Melilla, Juan José Imbroda (PP), tras el llamamiento en redes sociales de Marruecos para entrar \"masivamente\" en Ceuta y Melilla este sábado 15 de agosto, ha trasladado \"un mensaje de tranquilidad\" sobre su ciudad y subraya que \"la situación no es comparable con la vivida en Ceuta\"."
   },
   {
-    "titulo": "En 1902 un geógrafo se propuso explicar el origen del nombre de cada ciudad de EEUU. La respuesta la tenían dos países de Europa",
-    "medio": "Xataka",
-    "fecha": 1786730475.0,
-    "link": "https://www.xataka.com/magnet/1902-geografo-se-propuso-explicar-origen-nombre-cada-ciudad-eeuu-respuesta-tenian-dos-paises-europa",
-    "resumen": "En 1902, cuando Estados Unidos todavía estaba terminando de llenar su propio mapa, el geógrafo Henry Gannett se embarcó en una tarea monumental: averiguar por qué miles de ciudades, pueblos, ríos y accidentes geográficos del país se llamaban así. El resultado fue un informe federal de 334 páginas que acabaría reuniendo el origen de unos 10.000 topónimos. Y lo que apareció al ordenarlos sobre el mapa fue algo parecido a una arqueología lingüística de Estados Unidos: bajo sus nombres actuales seguían estando los indígenas que habitaban aquellas tierras, los colonos que avanzaron hacia el oeste. Y, de manera especialmente visible, dos viejos imperios europeos que habían llegado mucho antes. Explicando el mapa entero de Estados Unidos. Contaba hace unos días el Wall Street Journal que Henry Gannett no era un geógrafo cualquiera: trabajaba para el U.S. Geological Survey y fue una de las figuras fundamentales de la cartografía estadounidense de su época. Su gigantesco catálogo apareció por primera vez en 1902 y fue actualizado en 1905, después de recopilar información mediante cartas enviadas a organizaciones y funcionarios de todo el país. La ambición era extraordinaria para una época sin bases de datos ni búsquedas digitales: documentar manualmente el origen de unos 10.000 nombres y convertirlos en una especie de registro de cómo colonización, independencia y expansión territorial habían terminado escribiéndose sobre el mapa. En Xataka 23 maravillosos mapas históricos de 23 ciudades europeas Una historia que las fronteras habían borrado. La distribución de aquellos topónimos no era aleatoria. En el noreste aparecían numerosos nombres ingleses y holandeses, consecuencia de las primeras colonias europeas, hacia el interior surgían referencias bíblicas y grecorromanas adoptadas por estadounidenses que, después de la independencia, preferían no bautizar sus nuevas comunidades con nombres británicos. Ithaca, Troy o Lebanon pertenecen a esa segunda oleada. Pero cuanto más se ampliaba la mirada hacia el sur, los grandes ríos del interior y el oeste, más evidente resultaba que una parte enorme del país conservaba nombres heredados de pueblos y potencias que habían controlado aquellas tierras antes de que Estados Unidos llegara hasta ellas. Primero Francia dejó su firma siguiendo el curso de los ríos. Luisiana ofrece la pista más evidente: el propio territorio recibió su nombre en honor a Luis XIV y ciudades como Baton Rouge, New Orleans o Lafayette conservan directamente su herencia francesa. Pero aquella huella no se detiene en el golfo de México. Comerciantes, exploradores y colonos francófonos avanzaron siguiendo los grandes sistemas fluviales hacia el norte y dejaron nombres como St. Louis, Detroit, Dubuque, Duluth o Pierre, dibujando sobre el mapa moderno las antiguas rutas comerciales que conectaban el interior del continente con Canadá. Siglos después de desaparecer el dominio francés, sus nombres continuaron indicando por dónde había pasado. Luego España hizo algo parecido al otro lado del país. En California, el sur de Texas y el corredor del río Grande a través de Nuevo México ocurre prácticamente lo contrario: allí el mapa empieza a hablar español. Son territorios que pertenecieron al Imperio español y posteriormente a México, y sus ciudades conservaron la costumbre de exploradores, misioneros y colonos de utilizar nombres religiosos. Los Angeles remite a los ángeles, Santa Fe a la Santa Fe y San Antonio a san Antonio de Padua. La herencia llegó incluso más lejos: Toledo, Ohio, recibió el nombre de la ciudad española y Buena Vista, Virginia, recuerda la batalla de Buena Vista de la guerra entre Estados Unidos y México. Antes de españoles y franceses, el mapa ya tenía nombres. Ocurre que por debajo de esas capas europeas permanece otra mucho más antigua. Los topónimos de origen indígena atraviesan Estados Unidos y son especialmente frecuentes en zonas del Medio Oeste y la costa de Nueva Inglaterra, donde el contacto comercial entre indígenas y europeos se prolongó durante más tiempo. Muchos fueron modificándose al pasar de unas lenguas a otras: Poughkeepsie procede aproximadamente de “Apokeepsingk”, en una lengua indígena de la región, mientras Schenectady deriva de una palabra nativa cuyo significado se aproxima a “más allá de las llanuras”. Los europeos no siempre sustituyeron los nombres que encontraron, muchas veces los pronunciaron, escribieron y deformaron hasta incorporarlos a su propio mapa. Henry Gannett La independencia añadió otra capa. Después de la Revolución estadounidense apareció además una necesidad política de bautizar el territorio de una forma diferente. Recordaban en el Journal que los colonos que avanzaban hacia el interior dejaron de recurrir a ciudades británicas y buscaron referencias en mundos que consideraban más adecuados para la nueva república: la Biblia y la Antigüedad clásica. De ahí que Estados Unidos terminara poblándose también de Troy, Ithaca o Lebanon, mientras otras comunidades adoptaban nombres de personajes, acontecimientos históricos y batallas. Cada generación iba escribiendo encima de la anterior sin conseguir borrar completamente lo que ya estaba allí. En Xataka Esta web convierte cualquier ciudad en un mapa perfecto para enmarcar Un mapa que funciona como una excavación arqueológica. Si se quiere también, el trabajo de Gannett estaba lejos de ser perfecto: faltaban ciudades importantes como Jacksonville e Indianápolis, apenas aparecía Alaska y Hawái ni siquiera estaba incluido. No solo eso. Algunas explicaciones resultaron ser leyendas populares, como la historia que afirmaba que Yreka, California, procedía de alterar las letras de “bakery”, cuando probablemente tiene un origen indígena. Sea como fuere, más de un siglo después, el patrón general que descubrió sigue siendo extraordinariamente visible. Basta recorrer los nombres de las ciudades estadounidenses para reconstruir buena parte de la historia del país: primero los pueblos indígenas, después holandeses y británicos, luego colonos estadounidenses avanzando hacia el oeste y, atravesándolo todo, dos huellas europeas difíciles de borrar. Francia quedó escrita siguiendo los ríos del interior, España, sobre buena parte del oeste y el sur. Así, el mapa de Estados Unidos terminó conservando la memoria de quienes estuvieron allí antes de que muchas de sus fronteras siquiera existieran. Imagen | Lencer En Xataka | En 2008 una ciudad de EEUU denunció a Google Maps. Desde entonces hay un agujero gigante en Street View En Xataka | 19 mapas que explican la geografía de Internet - La noticia En 1902 un geógrafo se propuso explicar el origen del nombre de cada ciudad de EEUU. La respuesta la tenían dos países de Europa fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
     "titulo": "¿Desodorante? No, gracias: lo de hoy en TikTok es dejar de ducharse para oler a animal y ser más atractivo",
     "medio": "Trendencias",
     "fecha": 1786730475.0,
     "link": "https://www.trendencias.com/hombres/desodorante-no-gracias-hoy-tiktok-dejar-ducharse-para-oler-a-animal-ser-atractivo",
     "resumen": "En TikTok hemos visto un montón de tendencias que buscan aprovechar al máximo cualquier tipo de beneficio que les represente en la vida cotidiana: desde la apariencia del rostro hasta el físico, sin embargo, en la rede social ha tenido últimamente gran auge una estrategia de optimización personal que promete mejorar algo tan complicado de medir como el atractivo: el 'pheromone maxxing'. La idea es sencilla, aunque bastante discutible: abandonar el desodorante, reducir las duchas y dejar que el olor corporal haga su trabajo. Entre sus seguidores más comprometidos incluso aparece la idea de beber la propia orina para \"eliminar toxinas\", todo por conseguir un supuesto aroma natural capaz de convertir el sudor en una especie de perfume de seducción. ¿Qué es el 'pheromone maxxing'?El 'pheromone maxxing' forma parte del universo del 'looksmaxxing', una colección de tendencias de internet que prometen mejorar la apariencia y aumentar las posibilidades de resultar atractivo. En este caso, el método consiste en dejar de intentar oler bien para, paradójicamente, resultar más atractivo, una tendencia que nace de la teoría que sostiene que el sudor contiene feromonas capaces de provocar una respuesta biológica en otras personas. Dicho de otra manera: menos desodorante, más axila y confiar en la evolución. @dr_comp #pheromonemaxing #stench #hight #primal ♬ original sound - edmondx El problema es que la ciencia todavía no ha encontrado la prueba definitiva que TikTok parece haber dado por resuelta. Una revisión publicada en 2025 analizó la androstadienona, uno de los compuestos del sudor masculino que más tiempo lleva estudiándose y concluyó que su clasificación como feromona sigue siendo inconclusa. Después de décadas de investigación, la respuesta científica continúa siendo bastante menos emocionante que \"deja de ducharte y tendrás más éxito en las citas\". El olor corporal sí puede influir en la atracciónEso no significa que el olor corporal sea completamente irrelevante. Una línea de investigación relacionada con el complejo mayor de histocompatibilidad, conocido como MHC, ha estudiado cómo las diferencias genéticas vinculadas al sistema inmunitario pueden influir inconscientemente en la elección de pareja. Los conocidos experimentos de las camisetas sudadas encontraron que algunas mujeres mostraban preferencia por el olor de hombres con perfiles de MHC diferentes a los suyos. @nikodemkosowski pheromones>fake fragrances #naturalhairtiktok #haircaretips #longhairmen ♬ Originalton - 𝟠𝕋ℍ𝕆 Pero la historia se complica todavía más: investigaciones posteriores han señalado que los anticonceptivos hormonales podrían modificar esa preferencia, haciendo que las mujeres que toman la píldora se sientan más atraídas por perfiles inmunitarios similares. En otras palabras, el olor corporal puede transportar información biológica, pero convertir todo esto en una excusa científica para oler como una mochila del gimnasio es ir bastante más lejos de lo que permiten las evidencias. La conclusión para cualquier hombre tentado por el 'pheromone maxxing' es bastante menos revolucionaria: sí, el olor corporal puede formar parte de la atracción y la investigación sobre cómo funciona es interesante, pero no existe una feromona humana que convierta el sudor en un arma de seducción. Así que el desodorante puede quedarse donde está y la ducha tampoco necesita convertirse en una actividad ocasional. Si el objetivo es resultar atractivo, probablemente sea mejor apostar por una buena fragancia que esperar que la axila haga todo el trabajo. Fotos de @themiddle En Trendencias | Los hombres han descubierto lo que en verdad es la fase lútea y creen haber encontrado el secreto para \"aprovecharla\", pero en realidad no han entendido nada En Trendencias | Eva Longoria, a los 51 años: \"Cuando tengo plátanos demasiado maduros, los utilizo para preparar mi café helado favorito, caramelizándolos con mantequilla y azúcar\" En DAP | Un agricultor regala 500 toneladas de patatas para que no se pudran y convierte su campo en un peregrinaje de necesitados y oportunistas - La noticia ¿Desodorante? No, gracias: lo de hoy en TikTok es dejar de ducharse para oler a animal y ser más atractivo fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "Los expertos coinciden: caminar media hora al día por encima de los 60 años es suficiente para reducir alargar la vida",
-    "medio": "Xataka",
-    "fecha": 1786729515.0,
-    "link": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-caminar-media-hora-al-dia-encima-60-anos-suficiente-para-reducir-alargar-vida",
-    "resumen": "Durante mucho tiempo, las pulseras de actividad y los relojes inteligentes nos han bombardeado con la necesidad de hacer 'sí o sí' 10.000 pasos al día. Sin embargo, poco a poco vamos conociendo que esto no es tan así, y que en realidad nuestra estrategia para mantener un corazón sano pasa por la constancia y el tiempo y no por un número de pasos totalmente arbitrario que a veces no es asumible para muchas personas. Lo recomendable. Con lo que debemos quedarnos ahora mismo es que caminar treinta minutos al día, cinco días a la semana, es el umbral exacto para desencadenar beneficios metabólicos, cardiovasculares y neurológicos profundamente transformadores. Una recomendación que viene avalada por los expertos y la propia OMS, que establecen que un adulto necesita acumular un mínimo de 150 minutos semanales de actividad aeróbica para mantener una salud óptima. Está probado. La ciencia ha demostrado que obsesionarse con el contador de pasos puede ser contraproducente. Diferentes estudios epidemiológicos recientes revelan que los beneficios reales sobre la mortalidad comienzan a notarse muy por debajo de la barrera de los 10.000. De hecho, en poblaciones de adultos mayores, registrar entre 6.000 y 8.000 pasos diarios ya se asocia con un aumento en la longevidad, y de forma aún más sorprendente, se ha comprobado que volúmenes tan bajos como 3.600 pasos al día logran reducir drásticamente, hasta en un 26%, el riesgo de sufrir insuficiencia cardíaca. En Xataka Andar 10.000 pasos todos los días está bien. Subir un par de escalones cargando un peso está mucho mejor ¿Por qué? El impacto de esta rutina de caminar trasciende la mera quema de calorías para tonificar los músculos, sino que tiene un efecto en el cerebro y sobre todo en el estrés metabólico. No se trata simplemente de la sensación psicológica de desconectar tras salir de la oficina, sino de una alteración real en la química de nuestro organismo. Un ensayo clínico de este mismo año demostró que cumplir rigurosamente con esa cuota de 150 minutos semanales de ejercicio aeróbico reduce de forma sostenida y notable los niveles de cortisol salival. El cortisol es la hormona principal del estrés, y su acumulación crónica resulta devastadora tanto a nivel celular como neuronal. Al caminar media hora casi todos los días, se protege activamente la función cerebral en adultos de mediana edad, mejorando la calidad del sueño y mitigando de forma medible los síntomas asociados a la ansiedad y la depresión. Más allá del tiempo. Caminar 30 minutos al día es fantástico, pero la técnica también importa. Y aquí no se pide llegar a la fatiga extrema o acabar empapado en sudor, pero sí que es recomendable hacerlo a una intensidad media para que el efecto sobre nuestra salud cardiovascular sea real. Para saber si estamos en la intensidad correcta, las guías no se centran en la frecuencia cardíaca, sino en la prueba del habla. Esto quiere decir que para asegurarnos de que estamos caminando a una intensidad moderada que beneficie al corazón, debemos llevar un ritmo que nos permita mantener una conversación fluida con un acompañante, pero que nos deje sin el aliento suficiente como para ponernos a cantar. Esa es la zona de esfuerzo óptimo. En Xataka Ni 10.000 pasos diarios ni matarse en el gimnasio: el \"punto dulce\" del ejercicio según la ciencia son los 30 minutos La constancia. Uno de los mayores errores que podemos cometer es precisamente intentar compensar una semana de sedentarismo absoluto con sesiones maratonianas y extenuantes los sábados por la mañana. Y aquí la ciencia apunta a que la adherencia a largo plazo es el predictor más fuerte de éxito para nuestra salud, puesto que acostumbrar al cuerpo a una dosis diaria de treinta minutos genera una adaptación fisiológica que nos beneficia. De hecho, los expertos aconsejan que quienes partan de un estado sedentario comiencen con bloques más pequeños de diez o quince minutos, progresando gradualmente. Imagen | Pexels LATAM En Xataka | Olvídate de los 10.000 pasos: la ciencia tiene un nuevo número mágico (y una regla de oro sobre cómo darlos) - La noticia Los expertos coinciden: caminar media hora al día por encima de los 60 años es suficiente para reducir alargar la vida fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
     "titulo": "La Promesa, avance del capítulo 885, que La 1 emite el lunes 17 de agosto",
@@ -805,32 +805,11 @@
     "resumen": "Lorenzo (Guillermo Serrano) amenaza con agredir a Julieta (Vera Asunción), delante de Ciro (Juan Perales), en el último capítulo del serial 'La Promesa'"
   },
   {
-    "titulo": "Australia protegió sus cables submarinos. Dos han fallado casi a la vez justo cuando un barco rondaba por la zona",
-    "medio": "Xataka",
-    "fecha": 1786728675.0,
-    "link": "https://www.xataka.com/servicios/australia-protegio-sus-cables-submarinos-dos-han-fallado-casi-a-vez-justo-cuando-barco-rondaba-zona",
-    "resumen": "Enviar un WhatsApp o pedir una pizza por internet son dos acciones tan asumidas que no solemos tener en cuenta la infraestructura gigantesca que las permite. En la base están los cables submarinos, unos enlaces de alta capacidad que unen los continentes como un fino hilo invisible. Son uno de los puntos más débiles, ya que cualquier acción sobre ellos puede acarrear cortes en la red y una reparación costosísima. En Australia están investigando qué pasó con dos de sus cables. El suceso. Sídney y Singapur están unidas por el sistema Indigo, dividido en dos grandes tramos submarinos: Indigo Central une Sídney con Perth, una ciudad australiana situada en la costa contraria; Indigo West es el cable que conecta Singapur con el citado Perth. Ambos resultaron dañados el fin de semana del pasado 9 de agosto. Cable submarino Indigo West. Imagen de Subco Según explicó Bevan Slattery, fundador de Subco, una de las empresas que participó en el Indigo Consortium: Se produjeron “fallos por derivación en dos sistemas (Indigo West e Indigo Central), uno inmediatamente después del otro y muy próximos entre sí”. Los fallos por derivación o “shunt faults” ocurren cuando algo afecta al aislamiento del cable submarino y el conductor metálico, una de las capas que rodean los canales de fibra óptica, queda expuesto al agua de mar. Esto produce un cortocircuito que afecta a los repetidores de la infraestructura. La coincidencia. Por un lado, tenemos dos cables submarinos que confluyen en Perth; por el otro lado, se descubrió que un misterioso barco estuvo, sospechosamente, navegando por la “Perth Cable Protection Zone”, una zona de protección que rodea la ciudad de Perth. No es el primer incidente de este estilo: en 2021 la Policía Australiana Federal investigó otro daño en los cables de Perth provocado presuntamente por un barco. Volvamos al pasado fin de semana. Windward, una compañía especializada en inteligencia marítima, trazó el calendario del suceso: Un barco entró en la zona económica exclusiva australiana el pasado 28 de julio de 2026.El barco fondeó frente a Perth y estuvo allí por espacio de casi dos semanas.El 31 de julio cambió en el AIS (el sistema de identificación automática con el que reportan su estado los barcos) su fecha estimada de llegada al 1 de enero de 2027. A Windward le parece extraño este cambio, ya que es “un valor de relleno típico de los buques que no tienen una intención real de hacer escala en puerto”.Durante el fin de semana del 8 y 9 de agosto, justo cuando se detectó el incidente, el barco realizó múltiples cruces erráticos sobre los cables submarinos que terminaron dañados. Trayectoria del misterioso barco que cruzó la zona protegida. imagen de Bevan Slattery Las autoridades no han concluido que sea un sabotaje, aunque, según Bevan Slattery, “puede que sea una coincidencia, pero es importante que la Policía Federal Australiana investigue el asunto con urgencia”. En Xataka El primer gran cable submarino atlántico que nos conectó a internet nos dice adiós por una sencilla razón: era demasiado caro repararlo La otra coincidencia. Por si no fuera suficiente con los cruces erráticos del misterioso barco, se da la casualidad de que Indigo West e Indigo Central no cuentan con la tecnología FiberSense, un sistema de monitorización que vigila en tiempo real la infraestructura y permite cruzar los datos con el AIS para identificar y localizar acciones en el cable y relacionarlas con los barcos. La única forma que tiene Indigo Consortium de conocer las causas del fallo es sacar a la superficie los cables e investigar qué ocurrió con ellos. El fantasma del sabotaje. Las sospechas no solo nacen de los datos obtenidos hasta la fecha, también de los antecedentes. Los cables submarinos se han convertido en una infraestructura vital a merced de las tensiones geopolíticas. El mar Báltico europeo acumula varios incidentes. Y las tensiones entre China y Taiwán se avivaron en 2025 por un corte de cables. Que lo de Australia también sea sabotaje solo podrá confirmarse cuando logren analizar los cables dañados. Imagen de portada | Despliegue de Indigo frente a Perth (Google) En Xataka | El primer paso hacia la \"soberanía tecnológica\" de Europa no es la IA ni los semiconductores: son los cables submarinos - La noticia Australia protegió sus cables submarinos. Dos han fallado casi a la vez justo cuando un barco rondaba por la zona fue publicada originalmente en Xataka por Iván Linares ."
-  },
-  {
-    "titulo": "Jordi Cruz, chef catalán: \"Cuando aliñamos una ensalada, la lógica es echar primero el vinagre. Luego la sal para que se disuelva y lo último el aceite\"",
-    "medio": "Trendencias",
-    "fecha": 1786728675.0,
-    "link": "https://www.trendencias.com/gourmet/jordi-cruz-chef-catalan-cuando-alinamos-ensalada-logica-echar-primero-vinagre-luego-sal-se-disuelva-ultimo-aceite",
-    "resumen": "Hay debates gastronómicos que parecen no resolverse nunca: ¿la tortilla de patatas lleva o no cebolla?, ¿la pasta se enjuaga?, ¿el café se toma antes o después del postre? Y, en una categoría que pasa más desapercibida, hay otro que probablemente ha protagonizado más de una discusión frente a una ensaladera: ¿qué se echa primero? ¿El aceite, el vinagre o la sal? Jordi Cruz tiene clara la respuesta. El chef catalán ha compartido en TikTok su particular forma de aliñar una ensalada y, aunque reconoce que cada persona puede hacerlo \"en el orden y la cantidad que desea\", existe una secuencia que, en su opinión, tiene más sentido desde el punto de vista de la lógica culinaria: primero el vinagre, después la sal y, por último, el aceite. El motivo es la forma en la que se comportan estos ingredientes al mezclarse. Según explica Cruz, la sal necesita un medio acuoso para disolverse y el vinagre permite generar una disolución en la que la sal puede integrarse. El aceite, en cambio, puede actuar como una barrera y dificultar que los cristales de sal se disuelvan correctamente. El resultado de añadir primero el aceite puede ser, por tanto, encontrarse después con pequeños granos de sal que no se han integrado bien en el aliño. Una cuestión aparentemente menor, pero que puede cambiar por completo la experiencia de comer una ensalada. Asi que, en la secuencia que propone el cocinero, primero se añade el vinagre, después la sal y se bate la mezcla para favorecer su disolución. Solo entonces llega la grasa (el aceite) y se vuelve a mezclar todo hasta conseguir un aliño homogéneo. No significa que una ensalada vaya a quedar incomible por alterar el orden pero es su recomendación técnica si queremos que la sal se reparta correctamente por todo el aliño. @jordicruzof Hoy voy a resolver la eterna discusión de cómo se aliña una ensalada. Sí, el orden importa, y entenderlo cambia por completo el sabor y la textura. Este es uno de esos trucos de cocina que parecen pequeños, pero marcan la diferencia en cualquier ensalada bien aliñada. Primero va el vinagre, porque es el único líquido capaz de diluir la sal de forma uniforme. Si lo pones después, ya no hará su trabajo igual. Luego añadimos la sal, que se integra perfectamente gracias al vinagre y se reparte por toda la ensalada. Y por último, el aceite de oliva virgen extra, que actúa como una barrera natural. Si lo pones antes, puede impedir que la sal se mezcle bien y el aliño quedará irregular. Así que ya lo sabes: vinagre → sal → aceite. El orden correcto para un aliño equilibrado, una vinagreta estable y una ensalada con sabor de verdad. Y si quieres una vinagreta casera que siempre funcione, aquí va mi fórmula base: • 150 ml de aceite de oliva virgen extra • 50 ml del vinagre que más te guste • 3 g de sal • 15 ml de agua Opcionales para personalizarla según tu estilo: • 2 g de pimienta • 10 g de miel • 15 g de mostaza • o cualquier toque que te inspire ese día Perfecta para ensaladas, verduras, legumbres frías o lo que quieras. Un básico de cocina que nunca falla. #tips #salud #cocina #gastronomia ♬ sonido original - Jordi Cruz La receta de vinagreta de Jordi Cruz que se prepara en segundosY si el objetivo es dejar de improvisar con las cantidades, el cocinero también comparte una fórmula sencilla para preparar una vinagreta en casa. Su proporción parte de 150 mililitros de aceite de oliva y 50 mililitros del vinagre que más nos guste. A esta mezcla añade 3-4 gramos de sal y 15 mililitros de agua, un ingrediente que si lo añadimos, según explica, ayuda a conseguir una emulsión más estable. Además de agua, para convertir esa mezcla básica en una vinagreta más elaborada, solo hay que añadir mostaza y miel y emulsionar durante unos segundos. Cruz propone incorporar 10 gramos de mostaza y 10 gramos de miel, aunque deja abierta la posibilidad de adaptarla al gusto. Una vez reunidos todos los ingredientes, basta con introducirlos en un robot de cocina o trabajarlos con unas varillas durante unos segundos. El objetivo es integrar bien todos los componentes hasta obtener una vinagreta homogénea. La fórmula, además, permite jugar con el equilibrio entre acidez, grasa, sal y dulzor. Para ello, se puede utilizar el vinagre que más nos guste y añadir o prescindir de la mostaza y la miel según el tipo de ensalada que vayamos a preparar. Foto de portada | eeyush Kale y univgirona En Trendencias | 25 recetas de tartas y postres saludables para incluir en tu dieta sin miedo En Motorpasión | Juan José, mecánico: \"para pasar topes y que no se descomponga el coche hay que reducir y acelerar de forma progresiva\" En El Blog Salmón | Mario, agricultor español en Australia: \"Gano 1.808 euros cada semana, la dificultad es aguantar hacer tantas horas durante varios meses\" - La noticia Jordi Cruz, chef catalán: \"Cuando aliñamos una ensalada, la lógica es echar primero el vinagre. Luego la sal para que se disuelva y lo último el aceite\" fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
     "titulo": "España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo",
     "medio": "El Independiente",
     "fecha": 1786724947.0,
     "link": "https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/",
     "resumen": "España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo, con 7.945 […]"
-  },
-  {
-    "titulo": "Un eclipse parcial lunar será visible en toda España el día 28 de agosto y se podrá observar a simple vista",
-    "medio": "Europa Press",
-    "fecha": 1786723915.0,
-    "link": "https://www.europapress.es/ciencia/laboratorio/noticia-eclipse-parcial-lunar-sera-visible-toda-espana-dia-28-agosto-podra-observar-simple-vista-20260814181155.html",
-    "resumen": "Un eclipse parcial de la Luna será visible en toda España durante la noche del próximo 28 de agosto, según el Instituto Geográfico Nacional (IGN). Su observación se podrá realizar a simple vista: ni entraña ningún riesgo ni requiere de ningún tipo de instrumentación especial."
   },
   {
     "titulo": "La Junta de Castilla y León amplía a nuevas comarcas la flexibilización de las zonas de no cosechado del ecorrégimen de biodiversidad",
@@ -929,13 +908,6 @@
     "fecha": 1786708875.0,
     "link": "https://www.applesfera.com/seguridad/apple-alerta-a-usuarios-110-paises-ataque-espionaje",
     "resumen": "Apple ha enviado esta semana una nueva tanda de notificaciones de spyware a usuarios de 110 países, según ha podido confirmar TechCrunch. No es la primera vez que ocurre. Desde que empezó a hacerlo, Apple ya ha avisado a clientes en más de 150 países distintos como posibles víctimas de hackers. Cuando Apple detecta que un dispositivo puede haber sido objetivo de spyware mercenario, avisa directamente en la pantalla de bloqueo del iPhone con una notificación push. El texto dice: Apple ha detectado un ataque de spyware mercenario dirigido a tu iPhone. Hay acciones que puedes tomar ahora para proteger tus datos y tu dispositivo. La compañía también envía la alerta por correo electrónico y la muestra de nuevo cuando el usuario inicia sesión en su cuenta, para asegurarse de que el aviso no pasa desapercibido. Apple ha confirmado a TechCrunch que ha mejorado la información de estas notificaciones para que quien las recibe encuentre rápido la información sobre qué hacer. La propia Apple ha publicado un artículo de soporte con todos los pasos a seguir. A quién suele apuntar este tipo de ataques Este spyware mercenario suele ser software usado por gobiernos, agencias de inteligencia y otros grupos de ciberdelincuentes. Sus objetivos habituales no suelen ser ciudadanos de a pie. Más bien periodistas, activistas políticos... gente cuyo trabajo incomoda a quien está en el poder. John Scott-Railton, investigador de Citizen Lab, fue quien destapó esta última tanda de notificaciones y es una de las voces con más autoridad para hablar de este tema. Un ejemplo de todos estos ataques recientes es un escándalo político en Polonia, donde el anterior Gobierno usó Pegasus contra sus propios rivales políticos. Sin las notificaciones de Apple ese escándalo nunca habría salido a la luz. Alerta de seguridad de Apple Qué hacer si te llega una notificación así Si alguna vez recibes un aviso de este tipo, es para tomárselo muy en serio. Recibir la notificación no significa necesariamente que el ataque haya tenido éxito, pero sí que estás en el objetivo. La propia alerta incluye una guía sobre a quién acudir en busca de ayuda y recomienda activar el Modo Aislamiento. Esa función de seguridad de Apple que dificulta que este tipo de ataques lleguen hasta el fondo del iPhone. En Applesfera Apple investiga una supuesta brecha en iCloud que acaba con el anonimato del Relay Privado al entrar en algunas webs De hecho, Apple asegura que no ha detectado ni un solo caso de dispositivo infectado por spyware mientras el Modo Aislamiento estaba activado. Puede que nosotros nunca lleguemos a ser el objetivo de un ataque así, pero está bien saber que iOS aguanta y que Apple sigue encima de esto, notificación tras notificación. En Applesfera | Nuevos iPhone 18 Pro y 18 Pro Max - Todo lo que creemos saber sobre ellos En Applesfera | Nuevo iOS 27 - Todas sus novedades, iPhone compatibles y cómo probarlo antes que nadie - La noticia Apple alerta a usuarios de 110 países de un ataque de espionaje fue publicada originalmente en Applesfera por Guille Lomener ."
-  },
-  {
-    "titulo": "El presidente del Senado reclama un marco normativo que permita la devolución inmediata en \"invasiones\" como Ceuta",
-    "medio": "Europa Press",
-    "fecha": 1786707559.0,
-    "link": "https://www.europapress.es/nacional/noticia-presidente-senado-exige-herramientas-legales-devolucion-inmediata-migrantes-ceuta-20260814133919.html",
-    "resumen": "El presidente del Senado, el 'popular' Pedro Rollán, ha urgido al Gobierno a aprobar un marco normativo que permita una \"actuación expeditiva e inmediata\" para la devolución de las personas que entraron de \"manera ilegal e irregular\" hace unas semanas en Ceuta, que lo ha calificado como \"invasión\"."
   },
   {
     "titulo": "Probamos el Geekom IT13 Max, un mini PC con puertos de todo tipo y muchas opciones de conectividad para casi cualquier uso que le quieras dar",
