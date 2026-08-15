@@ -1,5 +1,75 @@
 [
   {
+    "titulo": "La Junta de Andalucía activa la fase de emergencia por un seísmo de magnitud cinco en Granada",
+    "medio": "El País",
+    "fecha": 1786758419.0,
+    "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
+    "resumen": "El fenómeno tuvo epicentro en Alhendín, a dos kilómetros de profundidad"
+  },
+  {
+    "titulo": "Un terremoto de 7,7 de magnitud sacude la costa de Indonesia",
+    "medio": "El País",
+    "fecha": 1786757381.0,
+    "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
+    "resumen": "La agencia geofísica del archipiélago emite una alerta temprana de tsunami para algunas regiones del país"
+  },
+  {
+    "titulo": "Un fuerte terremoto de 5 sacude Granada de madrugada y causa daños materiales",
+    "medio": "El Mundo",
+    "fecha": 1786753107.0,
+    "link": "https://www.elmundo.es/espana/2026/08/15/6a7fa8d9fc6c835a148b4599.html",
+    "resumen": "El epicentro del temblor se ha situado en la localidad de Alhendín a 2 kilómetros de profundidad Leer"
+  },
+  {
+    "titulo": "La amenaza real de la fiebre hemorrágica de Crimea-Congo: \"Ya no debe considerarse algo lejano ni exótico\"",
+    "medio": "El Mundo",
+    "fecha": 1786750441.0,
+    "link": "https://www.elmundo.es/salud/2026/08/15/6a7f4f52e9cf4ac8658b45a4.html",
+    "resumen": "En 2026, esta patología hemorrágica suma ya cuatro contagios, uno de los cuales ha fallecido, alcanzando el récord anual de casos de la década Leer"
+  },
+  {
+    "titulo": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
+    "medio": "El País",
+    "fecha": 1786750424.0,
+    "link": "https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html",
+    "resumen": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado"
+  },
+  {
+    "titulo": "Venezuela anuncia 131 excarcelaciones tras comenzar el diálogo con la oposición: 40 presos políticos ya están libres",
+    "medio": "El Español",
+    "fecha": 1786750278.0,
+    "link": "https://www.elespanol.com/mundo/america/20260815/venezuela-anuncia-excarcelaciones-comenzar-dialogo-oposicion-presos-politicos-libres/1003744353830_0.html",
+    "resumen": "Hasta el pasado lunes, la ONG Foro Penal computaba 391 presos políticos en el país, entre ellos 228 civiles y 163 militares.Más información: Leopoldo López Gil: \"Zapatero fue a visitar a mi hijo a la cárcel acompañado de Delcy. Querían que frenara las movilizaciones\""
+  },
+  {
+    "titulo": "Un cierre en diferido, motivado por el precio del gas y ajeno al apagón: las claves de la prórroga de Almaraz",
+    "medio": "El Mundo",
+    "fecha": 1786750145.0,
+    "link": "https://www.elmundo.es/economia/2026/08/15/6a7f351bfdddff8e4c8b456f.html",
+    "resumen": "L El Ejecutivo aplaza el cierre de los dos reactores de la central nuclear, previstos para 2027 y 2028, hasta junio de 2030 Leer"
+  },
+  {
+    "titulo": "Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto",
+    "medio": "El Mundo",
+    "fecha": 1786748670.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dfe0be85eced76c8b4573.html",
+    "resumen": "El Real Madrid sigue liderando la inversión en fichajes y tira de una competición en la que vuelve a aparecer el Barça y se mantiene el Atlético Leer"
+  },
+  {
+    "titulo": "La Liga de los campeones del mundo frente a la misión de Mourinho",
+    "medio": "El Mundo",
+    "fecha": 1786748669.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html",
+    "resumen": "Como tras Sudáfrica, en 2010, el portugués llega al Madrid para derrocar a un Barça dominante, con el estilo y la mayoría de integrantes de la España que logró la segunda estrella Leer"
+  },
+  {
+    "titulo": "JPMorgan retiró su servicio bancario a Polymarket",
+    "medio": "Expansión",
+    "fecha": 1786747910.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/08/15/6a7f802ce5fdea22638b45a5.html",
+    "resumen": "Leer"
+  },
+  {
     "titulo": "La ginebra gallega Vánagandr consigue una nueva medalla de oro en el International Spirits Challenge 2026",
     "medio": "OK Diario",
     "fecha": 1786747785.0,
@@ -70,53 +140,60 @@
     "resumen": "Sergio y Javier Torres llevan su 'know how' con triple estrella Michelin a un puesto en el Mercado de Santa Caterina. Leer"
   },
   {
-    "titulo": "Rutina de brazos con mancuernas en casa: 5 ejercicios para fortalecerlos en 10 minutos",
-    "medio": "El Mundo",
-    "fecha": 1786745290.0,
-    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/08/15/6a7c3f5ae85ece1d518b459c.html",
-    "resumen": "No hace falta ir al gimnasio para conseguir unos brazos fuertes y definidos. Practica en casa esta rutina de entrenamiento con mancuernas. Consta solo de 5 ejercicios y apenas te llevará 10 minutos. Leer"
+    "titulo": "T-Systems, NTT Data y Telefónica pugnan por la nube catalana de 481 millones",
+    "medio": "Expansión",
+    "fecha": 1786746419.0,
+    "link": "https://www.expansion.com/catalunya/2026/08/14/6a7f45eb468aeb3d5e8b45ab.html",
+    "resumen": "El proyecto tendrá una inversión de 481 millones en ocho años y busca reducir dependencias tecnológicas. Leer"
   },
   {
-    "titulo": "Odio viajar. Cuatro mujeres cuentan sus razones para ser antiturismo: \"En vez de ser lúdico, es estresante\"",
-    "medio": "El Mundo",
-    "fecha": 1786745288.0,
-    "link": "https://www.elmundo.es/yodona/lifestyle/2026/08/15/6a71ace5fdddff281c8b4598.html",
-    "resumen": "Al 97% de los españoles les gusta viajar, pero hay quien se resiste a esa forma de ocio masivo y a sus mandatos sociales. El turismo estereotipado empieza a generar rechazo, aunque casi en voz baja, so pena de parecer alguien sin curiosidad ni inquietudes. Cuatro atrevidas salen del armario. Leer"
+    "titulo": "El aeropuerto de Catania seguirá cerrado hasta el sábado por la erupción del Etna",
+    "medio": "Expansión",
+    "fecha": 1786746401.0,
+    "link": "https://www.expansion.com/empresas/transporte/2026/08/14/6a7f5022e5fdeace618b458b.html",
+    "resumen": "Se calculan pérdidas para el sector turístico de entre 12 y 24 millones de euros. Leer"
   },
   {
-    "titulo": "De la mascarilla de labios al protector solar en bruma que se puede aplicar sobre el maquillaje, los cosméticos salvavidas de las vacaciones de una editora de belleza",
-    "medio": "El Mundo",
-    "fecha": 1786745285.0,
-    "link": "https://www.elmundo.es/yodona/belleza/2026/08/15/6a74390afc6c83bb678b456f.html",
-    "resumen": "El neceser de vacaciones se llena con cosméticos SOS, salvavidas frente a excesivas horas de sol, piel o pelo seco, calor abrasador... y planes de última hora. Leer"
+    "titulo": "EEUU mantiene un crecimiento sólido pese a la inflación y la deuda",
+    "medio": "Expansión",
+    "fecha": 1786746363.0,
+    "link": "https://www.expansion.com/opinion/2026/08/14/6a7f58e5468aebb9398b4584.html",
+    "resumen": "El PIB crece a un ritmo del 2,1% interanual en el segundo trimestre de 2026. Leer"
   },
   {
-    "titulo": "Alice Kellen, escritora superventas: \"Lo de ser una persona muy feliz, dulce y romántica no va conmigo\"",
-    "medio": "El Mundo",
-    "fecha": 1786745272.0,
-    "link": "https://www.elmundo.es/papel/el-mundo-que-viene/2026/08/15/6a63674bfc6c83113f8b457b.html",
-    "resumen": "Silvia Hervás, la mujer detrás del fenómeno editorial Alice Kellen, ha vendido más de tres millones de ejemplares. Acaba de publicar 'El club del Olvido y dos de sus novelas han llegado a la pantalla: 'Todo lo que nunca fuimos' y 'El mapa de los anhelos' Leer"
+    "titulo": "Luigi Mangione se declara culpable de asesinar al CEO de UnitedHealthcare",
+    "medio": "Expansión",
+    "fecha": 1786746327.0,
+    "link": "https://www.expansion.com/sociedad/2026/08/14/6a7f4690e5fdea8b7c8b458d.html",
+    "resumen": "La magistrada fijó la fecha de la sentencia para el próximo 18 de diciembre. Los delitos conllevan una pena máxima de cadena perpetua. Leer"
   },
   {
-    "titulo": "El chavismo anuncia 131 excarcelaciones en medio del diálogo con la oposición venezolana",
-    "medio": "El País",
-    "fecha": 1786745193.0,
-    "link": "https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html",
-    "resumen": "La organización Foro Penal informa que entre los liberados hay al menos 45 presos políticos"
+    "titulo": "La batalla por el control del Grupo Tata, valorado en 280.000 millones de dólares",
+    "medio": "Expansión",
+    "fecha": 1786746291.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7f0d3de5fdeace618b4579.html",
+    "resumen": "Una turbulenta transición espera al sucesor de N Chandrasekaran en el conglomerado propietario de Air India y Jaguar Land Rover Leer"
   },
   {
-    "titulo": "Así nació la Liga hace cien años: Unión de Clubs, rebelión de modestos y bronca en la Federación",
+    "titulo": "Líbano propone una \"visa dorada\" de 1 millón de dólares para residencia con beneficios fiscales",
+    "medio": "Expansión",
+    "fecha": 1786746229.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7ef756e5fdea34498b4570.html",
+    "resumen": "La iniciativa genera escepticismo mientras el país afronta el conflicto y está inmerso en una crisis económica. Leer"
+  },
+  {
+    "titulo": "Calzados Picón, las alpargatas de Murcia que calza la Reina Letizia",
+    "medio": "Expansión",
+    "fecha": 1786746203.0,
+    "link": "https://www.expansion.com/empresas/distribucion/2026/08/14/6a7dad51468aebb2318b458b.html",
+    "resumen": "La competencia no cesa, pero Calzados Picón trata de consolidar su marca propia con el impuso que le llega de la Casa Real. Leer"
+  },
+  {
+    "titulo": "Así se gestó la Liga hace cien años: Unión de Clubs, rebelión de modestos y bronca en la Federación",
     "medio": "La Vanguardia",
     "fecha": 1786745100.0,
     "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260815/11614108/asi-nacio-liga-cien-anos-union-clubs-rebelion-modestos-bronca-federacion.html",
     "resumen": "El choque entre las principales entidades deportivas y las federaciones territoriales marcó la creación de la principal competición futbolística"
-  },
-  {
-    "titulo": "Trump evalúa la lealtad ideológica de los aliados de la OTAN para analizar si recorta las tropas",
-    "medio": "El Mundo",
-    "fecha": 1786744952.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/15/6a7f8d26e85eced76c8b4599.html",
-    "resumen": "«¿Ha apoyado públicamente el país la política exterior estadounidense?» es una de las preguntas que recoge el documento enviado por EEUU Leer"
   },
   {
     "titulo": "Jesucristo, según el Evangelio de Mateo: «Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia»",
@@ -189,20 +266,6 @@
     "resumen": "En cabeza desde la salida, la suiza supera a Hodgkinson y Bol con una gran marca"
   },
   {
-    "titulo": "Venezuela anuncia la excarcelación de más de 130 presos políticos",
-    "medio": "The Objective",
-    "fecha": 1786743278.0,
-    "link": "https://theobjective.com/internacional/2026-08-14/venezuela-excarcelacion-130-presos-politicos/",
-    "resumen": "Las autoridades de Venezuela han anunciado este viernes que serán puestas en libertad más de 130 personas detenidas por motivos políticos, en el marco de su […]"
-  },
-  {
-    "titulo": "La presa española María Auxiliadora Delgado, entre las decenas de excarcelados por el proceso negociador forzado por EEUU",
-    "medio": "El Mundo",
-    "fecha": 1786743205.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/14/6a7f87c4fc6c8328488b4593.html",
-    "resumen": "El gobierno de Delcy Rodríguez comunicó que serían 131 personas las beneficiadas por el supuesto programa de paz Leer"
-  },
-  {
     "titulo": "Marvel dice adiós a sus series de Disney Plus: VisionQuest será la última",
     "medio": "Hipertextual",
     "fecha": 1786742527.0,
@@ -238,11 +301,11 @@
     "resumen": "Si algo se repite en prácticamente cualquier clase de pilates es la importancia de colocar correctamente la pelvis para poder trabajar correctamente el abdomen y proteger las lumbares. No obstante, conseguir esa posición de espalda derretida contra el mat o el reformer no es tan fácil si acabamos de empezar o tenemos una basculación pélvica postural. Porque sí, un vientre plano no pasa solo por una buena alimentación. Por eso Cat (@pilates.by.cat), instructora de pilates con 20 años de experiencia, ha compartido en sus redes sociales una solución tan sencilla como ejercitarse en casa con un rodillo de espuma. Su planteamiento parte de una idea muy concreta que ha aprendido a lo largo de su trayectoria personal y es que \"un vientre más plano comienza con una pelvis neutra\". Según explica la instructora, el rodillo ayuda a la pelvis a encontrar esa posición neutra en la que \"el core profundo se activa de forma más eficiente\". Estp es importante porque, según explica, \"Cuando la pelvis está correctamente alineada y las costillas también, los músculos profundos del core sujetan la columna desde dentro hacia fuera, afinan la cintura y dibujan un vientre plano\". Cuatro ejercicios de pilates con rodillo para trabajar el abdomen planoPara realizar la rutina que propone, la experta utiliza un rodillo de espuma de 90 centímetros y lastres de 1 kilo en cada tobillo. En total, hay que completar cuatro rondas de los siguientes cuatro ejercicios: EstrellaEl primer movimiento parte de una posición tumbada sobre el rodillo, con la parte alta de la espalda elevada, el mentón ligeramente hacia el pecho y las rodillas flexionadas formando un ángulo de 90 grados. Las manos permanecen apoyadas en el suelo a ambos lados para ayudar a mantener el equilibrio. Desde ahí, hay que extender una pierna hacia el techo y la otra hacia delante, paralela al suelo, para regresar después a la posición inicial y cambiar de lado. La secuencia se realiza de forma alterna hasta completar 12 repeticiones. La respiración también forma parte del ejercicio. La recomendación de Cat es exhalar durante la extensión de las piernas y mantener el abdomen activo para controlar el movimiento. Toques de puntasEl segundo ejercicio parte prácticamente de la misma posición, pero introduce un movimiento muy habitual en pilates: los toques de puntas. Con las piernas colocadas en posición de mesa, se lleva un pie hacia el suelo hasta rozarlo con la punta antes de regresar a la posición inicial. Después se alterna con la otra pierna hasta completar 12 repeticiones. El rodillo añade inestabilidad al ejercicio, por lo que obliga a prestar especial atención al control corporal mientras se mantiene la posición. MinitijerasPara este ejercicio, las piernas se extienden formando un ángulo de 45 grados, mientras los brazos permanecen abiertos con las manos apoyadas en el suelo para facilitar el equilibrio. A partir de ahí, se alternan las piernas en un movimiento de subida y bajada, sin separarlas demasiado entre sí. Cat propone realizar 12 repeticiones con cada pierna. BicicletaEl último movimiento es una variante sobre rodillo de uno de los clásicos del pilates en suelo: la bicicleta. Con las piernas flexionadas sobre el pecho, hay que pedalear hacia delante de forma continua, implicando ambas piernas en el movimiento. El ejercicio se completa después de 12 repeticiones con cada pierna. La clave está en cómo se hacen los ejerciciosMás allá del número de repeticiones, la instructora insiste en que la técnica es fundamental para sacarle partido a esta secuencia. El primer punto al que prestar atención es la pelvis, que debe mantenerse en una posición neutra para proporcionar una base estable durante los movimientos. También recomienda tener bajo control las costillas, evitando proyectarlas hacia fuera, y acompañar el ejercicio con exhalaciones largas y controladas. Otro de sus consejos es concentrarse en la activación de la musculatura abdominal profunda, especialmente en la zona inferior del abdomen, procurando que sean estos músculos los que participen más, en lugar de cargar los flexores. Y, como sucede con muchos ejercicios de pilates, la velocidad queda por completo en un segundo plano. Lo importante es realizar cada movimiento con control y precisión, priorizando la calidad de la ejecución frente al numero repeticiones o un movimiento más rápido. Foto de portada | @pilates.by.cat y Anna Shvets En Trendencias | Los ejercicios de abdominales más efectivos para tener un abdomen fuerte En Motorpasión | Juan José, mecánico: \"para pasar topes y que no se descomponga el coche hay que reducir y acelerar de forma progresiva\" En El Blog Salmón | Mario, agricultor español en Australia: \"Gano 1.808 euros cada semana, la dificultad es aguantar hacer tantas horas durante varios meses\" - La noticia Cat, instructora de pilates con 20 años de experiencia: \"Un abdomen plano empieza con una pelvis neutra. Una forma fácil de conseguirlo es con un rodillo de espuma\" fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "Hallan muerto a Jason Arday, el exprofesor de Cambridge implicado en un escándalo de plagio",
+    "titulo": "Hallan muerto a Jason Arday, el exprofesor de Cambridge que plagió y falseó su currículo",
     "medio": "The Objective",
     "fecha": 1786740556.0,
     "link": "https://theobjective.com/internacional/2026-08-14/hallan-muerto-jason-arday-exprofesor-cambridge-implicado-escandalo-plagio/",
-    "resumen": "El sociólogo británico Jason Arday, de 41 años, ha sido encontrado muerto este viernes en una vivienda del sur de Londres, según cuentan los medios británicos […]"
+    "resumen": "El sociólogo británico Jason Arday, de 41 años, ha sido encontrado muerto este viernes en una vivienda del sur de Londres, según la Policía Metropolitana. Su […]"
   },
   {
     "titulo": "Castillejos amanece en calma tensa y sin inmigrantes en la víspera del posible cruce",
@@ -266,11 +329,18 @@
     "resumen": "Era el profesor negro más joven de la historia del centro, pero su carrera dio un vuelco cuando emergieron las primeras sospechas sobre su historial.Scotland Yard informa de que \"su muerte está siendo tratada como inesperada, pero no se considera sospechosa\".Más información: Reino Unido, Portugal, Canadá y Australia reconocen el Estado de Palestina"
   },
   {
-    "titulo": "Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres",
+    "titulo": "La alcaldía de Nueva York pide desestimar una demanda contra la congelación de alquileres",
     "medio": "The Objective",
     "fecha": 1786738764.0,
     "link": "https://theobjective.com/internacional/2026-08-14/alcaldia-nueva-york-desestimar-demanda-congelacion-alquileres/",
     "resumen": "La Administración del alcalde de Nueva York, Zohran Mamdani, y la ONG Legal Aid Society pidieron este viernes a un tribunal desestimar la demanda de un […]"
+  },
+  {
+    "titulo": "Venezuela anuncia la excarcelación de más de 130 personas detenidas por motivos políticos",
+    "medio": "Europa Press",
+    "fecha": 1786738487.0,
+    "link": "https://www.europapress.es/internacional/noticia-excarcelados-otros-17-presos-motivos-politicos-venezuela-20260814221447.html",
+    "resumen": "Las autoridades de Venezuela han anunciado este viernes que serán puestas en libertad más de 130 personas detenidas por motivos políticos, en el marco de su ley de amnistía, aprobada en febrero y que abre la puerta a excarcelar a quienes hayan cometido delitos desde 1999."
   },
   {
     "titulo": "Un juez envía a prisión provisional al detenido por el incendio en Las Peñas de Riglos (Huesca)",
@@ -315,13 +385,6 @@
     "resumen": "Google ha retirado las marcas de agua de Gemini. A partir de hoy podrás decidir si las imágenes, vídeos y canciones que generas con la IA lleven una marca visible en la esquina. Aunque esto podría parecer contraproducente para las iniciativas que buscan combatir los deepfakes, la compañía aseguró que las marcas de agua invisibles […] Seguir leyendo: Gemini ya te deja borrar la marca de agua de tus fotos con IA"
   },
   {
-    "titulo": "Estados Unidos evalúa el apoyo de los aliados de la OTAN para reasignar sus recursos en Europa",
-    "medio": "El País",
-    "fecha": 1786737285.0,
-    "link": "https://elpais.com/internacional/2026-08-14/estados-unidos-evalua-el-apoyo-de-los-aliados-de-la-otan-para-reasignar-sus-recursos-en-europa.html",
-    "resumen": "El Gobierno envía un cuestionario a los países de la Alianza preguntando por el respaldo a las políticas de la Administración Trump"
-  },
-  {
     "titulo": "Nadia Battocletti, reina del fondo de nuevo",
     "medio": "El País",
     "fecha": 1786737117.0,
@@ -341,13 +404,6 @@
     "fecha": 1786736096.0,
     "link": "https://www.huffingtonpost.es/sociedad/julia-erard-cabrera-afincada-asturias-embarazada-siete-meses-no-paro-pensar-como-hacian-abuelas-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Cuponazo de la ONCE: comprobar sorteo del viernes 14 de agosto",
-    "medio": "El País",
-    "fecha": 1786735711.0,
-    "link": "https://elpais.com/sorteos/2026-08-14/cuponazo-de-la-once-comprobar-sorteo-del-viernes-14-de-agosto.html",
-    "resumen": "El premio principal es de 6.000.000 euros para aquellos que cuenten con las cinco cifras del número ganador y la serie"
   },
   {
     "titulo": "¿Existe un mapa de las cosquillas? Un estudio recorre esta sensación tan familiar",
@@ -383,13 +439,6 @@
     "fecha": 1786734075.0,
     "link": "https://www.trendencias.com/lujo/louis-vuitton-queria-hacer-reloj-para-porsche-todo-termino-dos-coches-unicos-dignos-exclusiva-coleccion",
     "resumen": "Al parecer, en el mundo de las marcas de lujo nadie quiere quedarse fuera de la fiebre deportiva de los coches: desde el patrocinio de Tommy Hilfiger para Cadillac y hasta la incursión de Gucci en la Fórmula 1, sin embargo, para Louis Vuitton el asunto es completamente diferentes, ya que con Singer han llevado su obsesión por el diseño y la artesanía al mundo del automóvil con una colaboración que transforma dos Porsche 911 clásicos en piezas únicas. El proyecto da como resultado un coupé y un cabriolet creados alrededor de la idea del Art of Travel de la maison francesa, donde el coche deja de ser un simple medio de transporte para convertirse en una extensión del estilo de vida. Un Porsche 911 con ADN de Louis VuittonEl punto de partida fue mucho más pequeño de lo que terminó siendo el proyecto: un reloj mecánico desmontable para el salpicadero, inspirado en el Tambour de Louis Vuitton. La pieza podía convertirse también en un reloj de sobremesa, pero su diseño acabó llevando a ambas compañías a replantear prácticamente todo el interior del automóvil, por lo que, durante un año, los equipos rediseñaron desde el velocímetro y el cuentarrevoluciones hasta los mandos, combinando códigos de relojería con la precisión de la ingeniería automovilística. El Porsche 911 Reimagined by Singer apuesta por una carrocería en amarillo azafrán y azul cobalto, acompañada de un portaequipajes diseñado para transportar equipaje, una tabla de surf o unos esquís. En el interior, el cuero natural domina la escena, mientras que las costuras amarillas, el patrón de diamantes inspirado en el malletage de los baúles Louis Vuitton y los pequeños motivos Monogram Flower llevan el lenguaje de la firma hasta lugares que normalmente quedarían fuera del radar. La segunda creación cambia por completo de registro de la colaboración: el Porsche 911 Classic Turbo es un cabriolet diseñado bajo la dirección creativa de Nicolas Ghesquière, diseñador en jefe de la maison que combina carrocería en blanco Calcaire Lutétien con madera, cuero natural y detalles dorados, inspirado en los clásicos barcos de recreo, una referencia que aparece en el suelo de madera, el maletero trasero y distintos elementos del interior El lujo también está en lo que se lleva dentroLouis Vuitton no se limitó a diseñar los coches, para cada uno de ellos, creó una colección de accesorios, ropa y equipaje hecha específicamente para acompañarlos. El Classic cuenta con una chaqueta de conducción de piel, vaqueros, guantes, casco y calzado diseñado para conducir, además de baúles y bolsas adaptados a las dimensiones del vehículo. En el Classic Turbo, Ghesquière llevó todavía más lejos esa conexión entre automóvil y moda con una cápsula en tonos blancos, dorados, madera y cuero. El conjunto incluye un reloj Tambour Automatic de 40 milímetros en cerámica y oro amarillo, un traje de seda, guantes de conducción, gafas, casco y una selección de bolsos y equipaje creados para encajar en el coche. La colaboración también recupera una relación que Louis Vuitton mantiene con el automóvil desde finales del siglo XIX, cuando la firma francesa comenzó a crear baúles específicos para coches. El resultado de esta colaboración con Singer son dos automóviles que conservan la esencia técnica del 911, pero incorporan el universo de Louis Vuitton hasta el último detalle, convirtiendo una colaboración de moda y motor en una declaración de lo que puede significar el lujo contemporáneo. Fotos de Singer En Trendencias | El inesperado coche favorito de Ferrán Torres: un Cupra eléctrico con etiqueta CERO con prestaciones de deportivo En Trendencias | Eva Longoria, a los 51 años: \"Cuando tengo plátanos demasiado maduros, los utilizo para preparar mi café helado favorito, caramelizándolos con mantequilla y azúcar\" En DAP | Un agricultor regala 500 toneladas de patatas para que no se pudran y convierte su campo en un peregrinaje de necesitados y oportunistas - La noticia Louis Vuitton quería hacer un reloj para un Porsche, pero todo terminó con dos coches únicos dignos de una exclusiva colección fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "El acceso a la vivienda empeora en L'Eixample, Sant Martí, Gràcia y Sants",
-    "medio": "Expansión",
-    "fecha": 1786734055.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/14/6a7f6479e5fdea807e8b4597.html",
-    "resumen": "El 65% de los barceloneses vive en zonas de la capital catalana donde un hogar de renta media no puede acceder al mercado residencial de compra mediante una hipoteca estándar. Leer"
   },
   {
     "titulo": "Sandra Botas y el 'milagro' de llevar a España a la élite del esquí náutico desde su propia casa",
@@ -546,13 +595,6 @@
     "resumen": "Según las primeras informaciones y tal y como señala la televisión portuguesa RTP Noticias, un coche invadió la carrera en sentido contrario y atropelló al ciclista, de tal manera que acabó con su vida España puede ampliar su medallero en los europeos de atletismo: llega la marcha atlética este sábado a Birmingham 2026 con María Pérez como favorita El joven ciclista británico Finlay Tarling ha fallecido este viernes a los 19 años después de haber sido atropellado por un coche mientras competía en la Vuelta a Portugal, en una etapa 8 que ha sido neutralizada y luego cancelada como señal de respeto por la pérdida, según confirmó la organización de la prueba. Según las primeras informaciones y tal y como señala la televisión portuguesa RTP Noticias, un coche invadió la carrera en sentido contrario y atropelló al ciclista Finlay Tarling, de tal manera que acabó con su vida. El ciclista se encontraba compitiendo en la etapa 8 de la Vuelta a Portugal, a la que le quedaban poco más de 20 kilómetros para meta, y que finalmente ha sido neutralizada, con el podio previsto posteriormente también siendo cancelado en señal de duelo. Un hecho que confirmó la propia organización, que también se hacía eco del fallecimiento de Finlay Tarling al ser atropellado por un vehículo, sin dar más detalles al respecto. Un coche que, según la información de medios portugueses, habría ignorado la señalización de los agentes de seguridad en la zona y se habría adentrado en la prueba, atropellando al joven y causando su fallecimiento. Según el medio portugués Record, el accidente habría tenido lugar en la carretera N306 que une Paredes de Coura con Ponte de Lima, en la parroquia de Arcozelo, cerca del río Lima. Por este “trágico acontecimiento, la carrera será neutralizada y, en señal de respeto y luto, no se realizará la ceremonia de podio prevista para hoy”, según informó la Federación Portuguesa de Ciclismo. A su vez, el comunicado oficial lamentó también el incidente: “La organización de la 87ª Vuelta a Portugal en Bicicleta lamenta profundamente informar del fallecimiento del corredor británico Finlay Tarling, de la NSN Development Team, a consecuencia de un grave accidente ocurrido durante la 8ª etapa de la prueba”. Una de las promesas del ciclismo británico El fallecimiento de Finlay Tarling con tan solo 19 años después del trágico atropello durante la Vuelta a Portugal acaba con la vida de la que era una de las jóvenes promesas del ciclismo británico, siendo parte del equipo de desarrollo del NSN, del que es propietario el exfutbolista español Andrés Iniesta. La participación en la Vuelta a Portugal era su segunda carrera de gran nivel con el primer equipo, después de haber finalizado sexto en el Tour de Ruanda o haber formado parte también de la escuadra para el O Gran Camiño en Galicia. Donde más destacaba el joven es en contrarreloj, donde ya había demostrado sus dotes siendo undécimo en esta Vuelta a Portugal, y tras haber sido tercero en el campeonato nacional de Reino Unido en categoría sub-23. Era hermano del también ciclista Joshua Tarling, del Ineos."
   },
   {
-    "titulo": "El aeropuerto de Catania seguirá cerrado hasta el sábado por la erupción del Etna",
-    "medio": "Expansión",
-    "fecha": 1786728502.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/08/14/6a7f5022e5fdeace618b458b.html",
-    "resumen": "Se calculan pérdidas para el sector turístico de entre 12 y 24 millones de euros. Leer"
-  },
-  {
     "titulo": "Las fechas clave de LaLiga EA Sports 26-27",
     "medio": "Europa Press",
     "fecha": 1786728133.0,
@@ -572,13 +614,6 @@
     "fecha": 1786727715.0,
     "link": "https://www.xataka.com/movilidad/cliente-se-ha-gastado-millonada-tener-ferrari-sf90-stradale-hibrido-que-no-se-le-parece-nada-solo-hay-uno-mundo",
     "resumen": "Ferrari ha desvelado su última creación única (one-off) en la Monterey Car Week, y se trata, sin duda, de uno de sus proyectos especiales más interesantes en años. Y es que el Ferrari CZ26 toma la base híbrida enchufable del SF90 Stradale y la envuelve en una carrocería completamente nueva diseñada bajo la dirección de Flavio Manzoni, jefe de diseño de la compañía. Solo hay una unidad en el mundo, y ha sido para un cliente estadounidense que, como no podía ser de otra manera, ha desembolsado un puñado obsceno de billetes. Diseño único. Stradale supuso un hito técnico para Ferrari al ser su primer híbrido enchufable de producción en serie, pero su diseño nunca llegó a entusiasmar demasiado, y las reacciones a su reciente sucesor, el 849 Testarossa, tampoco han terminado de cuajar. No es para menos, pues siempre que un constructor de superdeportivos tan icónico como Ferrari presenta un coche sin motor de combustión puro, genera un terremoto de críticas inevitable. El CZ26, al menos, tiene ese toque que demuestra de lo que son capaces los diseñadores de Ferrari cuando se liberan de las restricciones de tener que lanzar un coche de producción, y podría hasta insinuar hacia dónde va dirigido el lenguaje de diseño de la marca ahora mismo. Grandes cambios. Creado a través del programa Special Projects de Ferrari, el CZ26 es oficialmente el vigesimosexto ‘one-off’ encargado bajo esta iniciativa, tal y como señalan desde CarScoops. Visualmente, abandona la silueta redondeada del SF90 en favor de un porte más bajo y anguloso de “dos volúmenes”, con un volumen central de habitáculo claramente diferenciado y enmarcado por unos pasos de rueda muy pronunciados. El frontal es donde más cambia, pues los faros en forma de C del SF90 han desaparecido, sustituyéndose por grupos ópticos ultrafinos integrados en un panel de parrilla a todo lo ancho. En la parte posterior cuenta con unos pilotos traseros estilizados y un difusor horizontal que reemplazan al empaque trasero más voluminoso del SF90, aunque se mantienen las salidas de escape dobles centrales. En Xataka Ferrari ya está notando \"La Gran Transferencia de Riqueza\": millennials y generación Z ya son sus principales clientes Entre líneas. Ferrari afirma que el diseño se inspira en el diseño industrial italiano de la década de 1970. Sin embargo, cabe decir que recuerda mucho también al reciente Ferrari Luce, diseñado por Jony Ive y Marc Newson, y que también se llevó una ristra de críticas de parte de toda la comunidad entusiasta (pese a que se han vendido todos). Así que cabe preguntarnos si la influencia de esta unidad puede acabar trasladándose a los futuros Ferrari de producción. Y es que la marca del Cavallino Rampante ha rediseñado hasta los bajos, los generadores de vórtices, los conductos de refrigeración, las cortinas de aire frontales, el alerón trasero y el difusor con tal de mejorar la carga aerodinámica. Las cifras. Tras su piel de fibra de carbono, el CZ26 conserva el corazón híbrido del SF90 Stradale, es decir, un motor V8 biturbo de 4.0 litros combinado con motores eléctricos para ofrecer una potencia conjunta de 986 CV a nivel de todo el sistema. Ferrari promete una aceleración de 0 a 100 km/h en 2,5 segundos y una velocidad máxima de 328 km/h, exactamente las mismas cifras de referencia que el SF90 de serie. La autonomía en modo exclusivamente eléctrico se sitúa en unos 25 km (para ir a comprar el pan en el pueblo de al lado y volver), transmitiéndose la potencia a través de una caja de cambios de doble embrague y ocho velocidades. En el interior, los cambios son más comedidos, contando con un nuevo tejido técnico, inserciones en los asientos impresas en 3D y una combinación de fibra de carbono con acabados brillante y satinado, mientras que el exterior está revestido con una pintura plateada exclusiva llamada ‘Argento Veloce’, con acentos en rojo Rosso Lampante. Lo que viene. Como ocurre con cada encargo de Special Projects, Ferrari no ha revelado cuánto le ha costado el CZ26 a su propietario, pero desde CarScoops estiman que este tipo de creaciones superan holgadamente las siete cifras. El CZ26 se suma a otros one-offs recientes como el SC40 y el HC25 dentro de una gama cada vez mayor de Ferrari ultraexclusivos que se sitúan por encima incluso de los modelos de producción en serie más raros. Ahora queda por ver si ese tratamiento “tecnológico” de su frontal y diseño se acaba trasladando a los coches de producción de Ferrari del futuro. Imágenes | Ferrari En Xataka | Alemania tenía a China como su mayor mercado de coches. Ahora, BMW, Audi, Mercedes y Volkswagen se hunden a un ritmo preocupante - La noticia Un cliente se ha gastado una millonada en tener un Ferrari SF90 Stradale híbrido que no se le parece en nada. Solo hay uno en el mundo fue publicada originalmente en Xataka por Antonio Vallejo ."
-  },
-  {
-    "titulo": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
-    "medio": "Expansión",
-    "fecha": 1786727665.0,
-    "link": "https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html",
-    "resumen": "El hólding empresarial de Amancio Ortega ganó 10.055 millones el pasado año e incrementó en 7.000 millones sus activos. Leer"
   },
   {
     "titulo": "El incendio de Huesca obliga a trasladar de San Juan de La Peña los restos de los Reyes de Aragón del siglo X y XI",
@@ -616,20 +651,6 @@
     "resumen": "Huelva concentra los otros dos fuegos que más hectáreas han calcinado en la región este siglo: Riotinto en 2004 y Almonaster en 2020.Juanma Moreno prevé \"el principio del fin\" para este fin de semana si la meteorología \"cambiante\" acompaña.Más información: El incendio de Niebla supera las 30.000 hectáreas afectadas pero los primeros desalojados vuelven a sus casas."
   },
   {
-    "titulo": "T-Systems, NTT Data y Telefónica pugnan por la nube catalana de 481 millones",
-    "medio": "Expansión",
-    "fecha": 1786726082.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/14/6a7f45eb468aeb3d5e8b45ab.html",
-    "resumen": "El proyecto tendrá una inversión de 481 millones en ocho años y busca reducir dependencias tecnológicas. Leer"
-  },
-  {
-    "titulo": "Luigi Mangione se declara culpable de asesinar al CEO de UnitedHealthcare",
-    "medio": "Expansión",
-    "fecha": 1786726036.0,
-    "link": "https://www.expansion.com/sociedad/2026/08/14/6a7f4690e5fdea8b7c8b458d.html",
-    "resumen": "La magistrada fijó la fecha de la sentencia para el próximo 18 de diciembre. Los delitos conllevan una pena máxima de cadena perpetua. Leer"
-  },
-  {
     "titulo": "Los servicios de salud atienden a más de mil personas en las primeras 48 horas tras el eclipse",
     "medio": "eldiario.es",
     "fecha": 1786725770.0,
@@ -642,20 +663,6 @@
     "fecha": 1786724947.0,
     "link": "https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/",
     "resumen": "España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo, con 7.945 […]"
-  },
-  {
-    "titulo": "Golpe fiscal a los matrimonios en su inversión en vivienda habitual",
-    "medio": "Expansión",
-    "fecha": 1786724924.0,
-    "link": "https://www.expansion.com/economia/2026/08/14/6a7f420a468aeb84408b458d.html",
-    "resumen": "Hacienda limita al 50% la exención en el IRPF cuando uno de los cónyuges vende una vivienda suya privativa para comprar la nueva residencia habitual con carácter ganancial. Leer"
-  },
-  {
-    "titulo": "Los rumores de opa en el sector disparan la remontada de los valores de software",
-    "medio": "Expansión",
-    "fecha": 1786724528.0,
-    "link": "https://www.expansion.com/mercados/2026/08/14/6a7ed23c468aeb9e768b4583.html",
-    "resumen": "Los inversores reciben un estímulo extra para tomar posiciones en uno de los sectores más castigados en Bolsa en 2025 y 2026. El interés de grandes fondos en la compra de empresas de software dispara las subidas en el conjunto del sector, con Amadeus entre los beneficiados. Leer"
   },
   {
     "titulo": "Un eclipse parcial lunar será visible en toda España el día 28 de agosto y se podrá observar a simple vista",
