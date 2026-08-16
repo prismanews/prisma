@@ -1,31 +1,206 @@
 [
   {
+    "titulo": "Conchita Montenegro, la Greta Garbo española que libró a España de la Segunda Guerra Mundial",
+    "medio": "El Mundo",
+    "fecha": 1786919773.0,
+    "link": "https://www.elmundo.es/cultura/cine/2026/08/17/6a71fd4efc6c833a418b45a5.html",
+    "resumen": "La primera actriz española en triunfar en Hollywood fue también amante del actor y espía Leslie Howard, enviado por Churchill a convencer a Franco de que rechazara la exigencia de Hitler a sumarse a las potencias del Eje Leer"
+  },
+  {
+    "titulo": "7 blancos con carácter para animar las comidas de verano",
+    "medio": "El Mundo",
+    "fecha": 1786919490.0,
+    "link": "https://www.elmundo.es/metropoli/elmundovino/2026/08/17/6a565076e4d4d8e83f8b4592.html",
+    "resumen": "De la malvar madrileña al viognier manchego, esta selección de vinos está pensada para acompañar desde la ensaladilla hasta el pescado al horno sin perder frescura ni personalidad Leer"
+  },
+  {
+    "titulo": "Tres muertos en un tiroteo en Isla Cristina, uno de ellos un menor, en un ajuste de cuentas entre narcos",
+    "medio": "El Mundo",
+    "fecha": 1786919343.0,
+    "link": "https://www.elmundo.es/espana/2026/08/16/6a822c5bfdddffe4198b4575.html",
+    "resumen": "La Guardia Civil ha iniciado una investigación, pero todo apunta a un ajuste de cuentas relacionado con otro ocurrido en el barrio de El Torrejón de Huelva Leer"
+  },
+  {
+    "titulo": "Mueren tres personas, una de ellas menor, en un tiroteo en Isla Cristina (Huelva)",
+    "medio": "El País",
+    "fecha": 1786919335.0,
+    "link": "https://elpais.com/espana/2026-08-16/mueren-tres-personas-una-de-ellas-menor-en-un-tiroteo-en-isla-cristina-huelva.html",
+    "resumen": "Dos encapuchados en una motocicleta han abierto fuego y se han dado a la fuga en la barriada de El Rocío. Un hombre resultó herido muy grave"
+  },
+  {
+    "titulo": "Un remate de bronce, de equipo y de 'casis' para España en el Europeo: \"No hemos estado a la altura\"",
+    "medio": "El Mundo",
+    "fecha": 1786917919.0,
+    "link": "https://www.elmundo.es/deportes/mas-deporte/2026/08/17/6a822f77fdddff4c018b4572.html",
+    "resumen": "La selección iguala las ocho medallas del pasado campeonato continental de Roma, con la marcha como impulso y los terceros puestos en el maratón femenino y el relevo mixto para cerrar Leer"
+  },
+  {
+    "titulo": "El Plan de Recuperación entra en su recta final con 25.800 millones en juego para España",
+    "medio": "Expansión",
+    "fecha": 1786917651.0,
+    "link": "https://www.expansion.com/economia/2026/08/17/6a820293468aeb79548b459d.html",
+    "resumen": "El 31 de agosto es la fecha límite para cumplir con los hitos y objetivos pendientes vinculados al macro plan europeo. Leer"
+  },
+  {
+    "titulo": "Hoy expira la tregua de 60 días entre EEUU e Irán en plena tensión y con Ormuz en el foco",
+    "medio": "Expansión",
+    "fecha": 1786917614.0,
+    "link": "https://www.expansion.com/economia/2026/08/17/6a821d4d468aeb386f8b45c5.html",
+    "resumen": "Este lunes, 17 de agosto, está marcado a fuego en el calendario de la geopolítica mundial porque oficialmente expira la tregua de 60 días que Estados Unidos e Irán pactaron en el memorando de entendimiento sellado en junio pasado para negociar un acuerdo definitivo de paz. Leer"
+  },
+  {
+    "titulo": "Coca-Cola Europacific Partners se dispara en hostelería gracias al turismo",
+    "medio": "Expansión",
+    "fecha": 1786917612.0,
+    "link": "https://www.expansion.com/empresas/distribucion/2026/08/17/6a8206a3e5fdea657f8b458e.html",
+    "resumen": "La embotelladora registra en España y Portugal el 51% de su volumen de ventas fuera del hogar, ocho puntos porcentuales por encima de la cifra registrada en 2016. Leer"
+  },
+  {
+    "titulo": "El Supremo refuerza los poderes de Hacienda en los registros a empresas",
+    "medio": "Expansión",
+    "fecha": 1786917611.0,
+    "link": "https://www.expansion.com/fiscal/2026/08/17/6a821891468aeb75678b458a.html",
+    "resumen": "El Alto Tribunal valida el uso de pruebas de otros ejercicios fiscales descubiertas de forma casual durante un registro, eximiendo a los inspectores de la Agencia Tributaria de pedir una nueva autorización complementaria al juez. Leer"
+  },
+  {
+    "titulo": "Dónde y cómo invierten los jóvenes españoles",
+    "medio": "Expansión",
+    "fecha": 1786917606.0,
+    "link": "https://www.expansion.com/ahorro/2026/08/17/6a820baee5fdeafe278b458e.html",
+    "resumen": "Casi la mitad de los jóvenes españoles ya ha invertido alguna vez en su vida y, cada vez más, lo hacen desde el móvil, con pocos euros y sin pasar por la sucursal de su entidad bancaria. Son relativamente conservadores. Leer"
+  },
+  {
+    "titulo": "Los gigantes de Defensa disparan un 25% su beneficio",
+    "medio": "Expansión",
+    "fecha": 1786917604.0,
+    "link": "https://www.expansion.com/empresas/industria/2026/08/17/6a8212ae468aebda398b4589.html",
+    "resumen": "El 'boom' de la Defensa impulsa la cartera de pedidos de los grupos de Defensa de Europa como Rheinmetall, Leonardo, Airbus, BAE Systems, Thales o la española Indra. Leer"
+  },
+  {
+    "titulo": "Santander, CaixaBank y BBVA compiten por la liquidez de las grandes fortunas",
+    "medio": "Expansión",
+    "fecha": 1786917603.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/08/17/6a5a59e6e5fdead16f8b456e.html",
+    "resumen": "Los grandes bancos descartan pagar por el ahorro de manera generalizada, pero reservan las mejoras en la rentabilidad de su oferta depósitos para clientes seleccionados y con altos patrimonios. Leer"
+  },
+  {
+    "titulo": "España se desquita con un bronce en el relevo mixto para terminar el Europeo",
+    "medio": "The Objective",
+    "fecha": 1786917258.0,
+    "link": "https://theobjective.com/deportes/2026-08-16/espana-desquita-bronce-relevo-mixto-terminar-europeo/",
+    "resumen": "El relevo 4×100 mixto dio a España la octava y última medalla en el Campeonato de Europa de atletismo celebrado hasta este domingo en Birmingham (Reino […]"
+  },
+  {
+    "titulo": "Seguros: una brecha de protección de 424.000 millones",
+    "medio": "Expansión",
+    "fecha": 1786916817.0,
+    "link": "https://www.expansion.com/empresas/seguros/2026/08/16/6a8203f1e5fdea52048b4581.html",
+    "resumen": "La proporción de pérdidas aseguradas se sitúa en el 27,3% y la acumulación de activos de riesgo eleva el déficit de cobertura, según Swiss Re. Leer"
+  },
+  {
+    "titulo": "Trump anuncia la «reducción sustancial» de ejercicios militares conjuntos con Corea del Sur",
+    "medio": "The Objective",
+    "fecha": 1786916613.0,
+    "link": "https://theobjective.com/internacional/2026-08-16/trump-reduccion-sustancial-ejercicios-militares-conjuntos-corea-del-sur/",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado este domingo una «reducción sustancial» de los tradicionales ejercicios militares conjuntos con Corea del Sur basada en […]"
+  },
+  {
+    "titulo": "La rabia del Caimán Dani Arce, el atleta al que se le resiste el podio: \"He luchado por el oro que me merezco\"",
+    "medio": "El Mundo",
+    "fecha": 1786916606.0,
+    "link": "https://www.elmundo.es/deportes/mas-deporte/2026/08/16/6a822d9afc6c8329668b458e.html",
+    "resumen": "El burgalés, cuarto en el 3.000 obstáculos después de una carrera que quiso dominar. Su único bronce, en el Europeo de 2022, llegó por la sación de un rival. Quijada, sexto Leer"
+  },
+  {
+    "titulo": "Expertos en adiestramiento canino coinciden: «Saludar a tu perro cuando entras en casa es la semilla de la mala educación»",
+    "medio": "OK Diario",
+    "fecha": 1786916470.0,
+    "link": "https://okdiario.com/mascotas/advierten-expertos-adiestradores-canino-confirman-saludar-tu-perro-cuando-entras-casa-semilla-mala-educacion-19151508",
+    "resumen": "Tras un largo día fuera de casa, encontrar a tu mascota esperándote al otro lado de la puerta es uno de esos pequeños momentos que alegran a numerosos dueños. Saltos, lametones, ladridos son su forma de celebrar el reencuentro. Aunque la manera de interactuar con el animal al llegar a casa puede influir notablemente en … Continuar leyendo \"Expertos en adiestramiento canino coinciden: «Saludar a tu perro cuando entras en casa es la semilla de la mala educación»\""
+  },
+  {
+    "titulo": "Batacazo del PSG de Luis Enrique: pierden la Supercopa de Francia ante el Lens",
+    "medio": "OK Diario",
+    "fecha": 1786916373.0,
+    "link": "https://okdiario.com/deportes/batacazo-del-psg-luis-enrique-pierden-supercopa-francia-lens-19190145",
+    "resumen": "El PSG de Luis Enrique se ha llevado una gran decepción en la final de la Supercopa de Francia. El Lens consiguió ponerse por delante con un tanto de Florian Thauvin en el minuto 32. Sin embargo, el partido se le puso muy cuesta arriba tras la expulsión de Kyllian Antonio en el 39′, como … Continuar leyendo \"Batacazo del PSG de Luis Enrique: pierden la Supercopa de Francia ante el Lens\""
+  },
+  {
+    "titulo": "Con Mondo Duplantis todo es ‘show’",
+    "medio": "El País",
+    "fecha": 1786916350.0,
+    "link": "https://elpais.com/deportes/2026-08-16/con-mondo-duplantis-todo-es-show.html",
+    "resumen": "El sueco, que gana su cuarto título continental en los Europeos, ha hecho de la pértiga la especialidad reina"
+  },
+  {
+    "titulo": "Expertos en climatización instan a guardar el agua del aire acondicionado: «Es agua destilada que sirve para el jardín o el hogar»",
+    "medio": "OK Diario",
+    "fecha": 1786916130.0,
+    "link": "https://okdiario.com/curiosidades/profesionales-climatizacion-instan-guardar-agua-del-aire-acondicionado-agua-destilada-que-sirve-jardin-o-hogar-19169010",
+    "resumen": "Durante los días de más calor, el tubo de desagüe del aire acondicionado puede gotear durante horas o incluso todo el día, y lo habitual es dejar que esa agua termine en la calle, en una bajante o directamente en el desagüe. Sin embargo, puede recogerse en un recipiente y aprovecharse para algunas tareas cotidianas tal … Continuar leyendo \"Expertos en climatización instan a guardar el agua del aire acondicionado: «Es agua destilada que sirve para el jardín o el hogar»\""
+  },
+  {
+    "titulo": "Pablo Neruda, poeta y premio Nobel: «El niño que no juega no es niño, pero el hombre que no juega perdió para siempre al niño que vivía en él»",
+    "medio": "OK Diario",
+    "fecha": 1786915991.0,
+    "link": "https://okdiario.com/curiosidades/profundas-palabras-pablo-neruda-poeta-premio-nobel-nino-que-no-juega-no-nino-pero-hombre-que-no-juega-perdio-siempre-nino-vivia-18883453",
+    "resumen": "Además de ser el autor de los poemas de amor más leídos del siglo XX, Pablo Neruda fue también el hombre que construía sus casas como juguetes, coleccionaba objetos extraños y escribía odas a las cebollas y a los calcetines. Y desde luego, hay que destacar que esa curiosa actitud lúdica no era un mero … Continuar leyendo \"Pablo Neruda, poeta y premio Nobel: «El niño que no juega no es niño, pero el hombre que no juega perdió para siempre al niño que vivía en él»\""
+  },
+  {
+    "titulo": "La ley laboral lo confirma: se permite el despido si el trabajador se va de vacaciones mientras está de baja y sin indemnización",
+    "medio": "OK Diario",
+    "fecha": 1786915960.0,
+    "link": "https://okdiario.com/economia/ley-laboral-oficial-permiten-despidos-si-trabajador-vacaciones-mientras-esta-baja-sin-indemnizacion-18952065",
+    "resumen": "Cuando se está de baja, y dependiendo del motivo, ¿se pueden hacer cosas que resulten del todo compatibles con el hecho de estar enfermo como salir a caminar, quedar con alguien e incluso viajar unos días? Es una duda que surge mucho estos días de verano, ya que si bien muchos casos no generan ningún … Continuar leyendo \"La ley laboral lo confirma: se permite el despido si el trabajador se va de vacaciones mientras está de baja y sin indemnización\""
+  },
+  {
+    "titulo": "Electricistas y expertos en climatización coinciden: «Es el error más común que vemos todos los veranos»",
+    "medio": "OK Diario",
+    "fecha": 1786915928.0,
+    "link": "https://okdiario.com/curiosidades/consejo-electricistas-expertos-climatizacion-avisan-error-mas-comun-que-vemos-todos-veranos-19165244",
+    "resumen": "Durante los meses de verano, todos buscamos la forma de mantener la casa sin fresca sin pagar una fortuna en la factura de la luz. En este contexto, los ventiladores de techo se han convertido en los mejores aliados, ya que proporcionan una sensación de frescor agradable de hasta 8º menos que la temperatura ambiente. … Continuar leyendo \"Electricistas y expertos en climatización coinciden: «Es el error más común que vemos todos los veranos»\""
+  },
+  {
+    "titulo": "Qué significa el proverbio japonés: «Antes de la iluminación, corta leña y lleva agua a casa. Después de la iluminación, sigue cortando leña y llevando agua a casa»",
+    "medio": "OK Diario",
+    "fecha": 1786915925.0,
+    "link": "https://okdiario.com/curiosidades/verdadero-significado-real-proverbio-japones-antes-iluminacion-corta-lena-lleva-agua-casa-despues-iluminacion-sigue-cortando-lena-llevando-agua-casa-19139568",
+    "resumen": "«Antes de la iluminación, corta leña y lleva agua a casa. Después de la iluminación, sigue cortando leña y llevando agua a casa». Este proverbio japonés, estrechamente vinculado a la tradición del budismo zen, es una de las reflexiones más profundas sobre la vida cotidiana. Su mensaje parece sencillo, pero encierra una enseñanza que ha … Continuar leyendo \"Qué significa el proverbio japonés: «Antes de la iluminación, corta leña y lleva agua a casa. Después de la iluminación, sigue cortando leña y llevando agua a casa»\""
+  },
+  {
+    "titulo": "La frase Confucio, filósofo chino: «Tenemos dos vidas y la segunda empieza cuando nos damos cuenta de que sólo tenemos una»",
+    "medio": "OK Diario",
+    "fecha": 1786915906.0,
+    "link": "https://okdiario.com/curiosidades/reflexion-vital-confucio-filosofo-chino-debes-aplicar-tenemos-dos-vidas-segunda-empieza-cuando-nos-damos-cuenta-que-solo-tenemos-19165738",
+    "resumen": "«Tenemos dos vidas y la segunda empieza cuando nos damos cuenta de que solo tenemos una». Esta reflexión de Confucio resume una idea tan sencilla como profunda, ya que la vida puede cambiar cuando una persona toma verdadera conciencia de que su tiempo es limitado. El mensaje invita a mirar de otra manera las decisiones cotidianas, … Continuar leyendo \"La frase Confucio, filósofo chino: «Tenemos dos vidas y la segunda empieza cuando nos damos cuenta de que sólo tenemos una»\""
+  },
+  {
+    "titulo": "El Lens le arrebata la Supercopa de Francia a un PSG aún sin Ferran",
+    "medio": "La Vanguardia",
+    "fecha": 1786915278.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614885/lens-le-arrebata-supercopa-francia-psg-aun-ferran.html",
+    "resumen": "Los de Luis Enrique no pudieron superar la férrea defensa de un Lens que se quedó con diez jugadores en la segunda parte"
+  },
+  {
+    "titulo": "Barcelona y Manchester City acuerdan el traspaso de Rodri",
+    "medio": "The Objective",
+    "fecha": 1786915060.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-08-16/rodri-ficha-barcelona-cuatro-temporadas/",
+    "resumen": "Un capitán para el centro del campo. El FC Barcelona está a pocas horas de hacer oficial el fichaje de Rodrigo Hernández ‘Rodri’, por el que […]"
+  },
+  {
+    "titulo": "La raza de Roca Rey arrolla en Gijón",
+    "medio": "El Mundo",
+    "fecha": 1786914088.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/08/16/6a816d1621efa03b168b45c2.html",
+    "resumen": "La figura peruana sale a hombros con tres orejas en una actuación de entrega absoluta; Talavante y Ortega, a oreja por cabeza, se pierden la fotografía Leer"
+  },
+  {
     "titulo": "Hugo González y Laura Cabanes, plata y bronce para España en el Europeo de natación",
     "medio": "The Objective",
     "fecha": 1786913494.0,
     "link": "https://theobjective.com/deportes/2026-08-16/hugo-gonzalez-y-laura-cabanes-plata-y-bronce-para-espana-en-el-europeo-de-natacion/",
     "resumen": "Los nadadores Hugo González y Laura Cabanes dieron a España este domingo dos medallas en el Europeo de natación que se está disputando en París, al […]"
-  },
-  {
-    "titulo": "Parece Islandia, pero está en Galicia y es una de las mejores piscinas naturales de España en mitad del bosque, con cascadas y restos arqueológicos",
-    "medio": "OK Diario",
-    "fecha": 1786913346.0,
-    "link": "https://okdiario.com/viajes/parece-islandia-pero-esta-galicia-mejores-piscinas-naturales-mitad-del-bosque-cascadas-restos-arqueologicos-19130111",
-    "resumen": "Las Pozas de Mougás son un enclave natural situado en el municipio pontevedrés de Oia que, por su paisaje de granito, cascadas y remansos de agua, recuerda inevitablemente a algunos paisajes de Islandia. Además de sus piscinas naturales, el entorno conserva importantes restos arqueológicos y cuenta con una gran riqueza paisajística que lo convierte en … Continuar leyendo \"Parece Islandia, pero está en Galicia y es una de las mejores piscinas naturales de España en mitad del bosque, con cascadas y restos arqueológicos\""
-  },
-  {
-    "titulo": "De obtener 400 millones de dólares en la taquilla a traspasar la pared del streaming: ‘Backrooms’ ya tiene fecha de estreno en las plataformas",
-    "medio": "OK Diario",
-    "fecha": 1786913161.0,
-    "link": "https://okdiario.com/cool/television/obtener-400-millones-dolares-taquilla-traspasar-pared-del-streaming-backrooms-ya-tiene-fecha-estreno-plataformas-19162426",
-    "resumen": "La Odisea y Spider-Man: Brand New Day son, por derecho propio, los dos blockbusters de la cartelera anual. Sin embargo, ambas cuentan con presupuestos que superan con creces los 200 millones de dólares. Por eso, la adaptación del relato homérico o la cuarta entrega de Tom Holland como el Hombre Araña no entran en las … Continuar leyendo \"De obtener 400 millones de dólares en la taquilla a traspasar la pared del streaming: ‘Backrooms’ ya tiene fecha de estreno en las plataformas\""
-  },
-  {
-    "titulo": "La psicología confirma que las personas que hablan alto y a veces gritan no son agresivas, en realidad sienten las emociones con más fuerza que el resto",
-    "medio": "OK Diario",
-    "fecha": 1786912702.0,
-    "link": "https://okdiario.com/curiosidades/confirma-psicologia-personas-que-hablan-alto-veces-gritan-no-son-agresivas-realidad-sienten-emociones-mas-fuerza-que-resto-19159838",
-    "resumen": "Hay personas que hablan alto, gesticulan mucho y elevan la voz cuando cuentan algo que les emociona. Para quienes las escuchan, ese comportamiento puede confundirse rápidamente con enfado, agresividad o una personalidad conflictiva. Sin embargo, la psicología y la investigación sobre la comunicación y el bienestar emocional muestran que el volumen de la voz no … Continuar leyendo \"La psicología confirma que las personas que hablan alto y a veces gritan no son agresivas, en realidad sienten las emociones con más fuerza que el resto\""
   },
   {
     "titulo": "El Barcelona ata a Rodri hasta 2030",
@@ -35,18 +210,18 @@
     "resumen": "El centrocampista, campeón del mundo este verano y Balón de Oro en 2024, regresará a España siete años después de su marcha"
   },
   {
-    "titulo": "Mónica García se burla de los sanitarios de Ceuta al negar el colapso",
-    "medio": "OK Diario",
-    "fecha": 1786912504.0,
-    "link": "https://okdiario.com/opinion/monica-garcia-burla-sanitarios-ceuta-negar-colapso-19189931",
-    "resumen": "Mientras los sanitarios de Ceuta confesaban a los reporteros de OKDIARIO estar al borde del agotamiento con su hospital desbordado, con medicación racionada para los ceutíes y ambulancias que ya no llegan ni a la mitad de sus servicios habituales, la ministra de Sanidad, Mónica García, ha salido muy chula este domingo a defender su … Continuar leyendo \"Mónica García se burla de los sanitarios de Ceuta al negar el colapso\""
+    "titulo": "El Barcelona cierra el fichaje de Rodri por cuatro temporadas tras pagar 75 millones al City",
+    "medio": "El Mundo",
+    "fecha": 1786912474.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/16/6a789b5efc6c83ca618b456f.html",
+    "resumen": "Tras fracasar las dos primeras ofertas, el club catalán se aproximó a las pretensiones iniciales de los británicos Leer"
   },
   {
-    "titulo": "Rociar vinagre en la entrada de una autocaravana: por qué los expertos lo recomiendan y para qué sirve",
-    "medio": "OK Diario",
-    "fecha": 1786912196.0,
-    "link": "https://okdiario.com/motor/truco-rociar-vinagre-entrada-autocaravana-que-expertos-lo-recomiendan-que-sirve-19139454",
-    "resumen": "Una de las cosas que no suelen mencionarse cuando se viaja en autocaravana, es la facilidad que tienen los insectos para entrar, especialmente cuando estamos aparcados o acampados en un entorno natural. Las hormigas, son las que siempre nos dan más problemas, ya que no necesitan que nos dejemos la puerta abierta para colarse. Basta … Continuar leyendo \"Rociar vinagre en la entrada de una autocaravana: por qué los expertos lo recomiendan y para qué sirve\""
+    "titulo": "Tres muertos y nuevos estragos por inundaciones a causa de las intensas lluvias en Venezuela",
+    "medio": "El País",
+    "fecha": 1786911958.0,
+    "link": "https://elpais.com/america/2026-08-16/tres-muertos-y-nuevos-estragos-por-inundaciones-a-causa-de-las-intensas-lluvias-en-venezuela.html",
+    "resumen": "El desborde de varias quebradas afecta a varias vías céntricas de la Caracas, donde hay damnificados por el terremoto, y otros cuatro Estados del país"
   },
   {
     "titulo": "Kate Douglass pega un hachazo insólito al récord de 50m libre",
@@ -56,20 +231,6 @@
     "resumen": "La estadounidense recorta 36 centésimas la marca de su compañera Walsh, de 23,55s a 23,19s, un margen nunca visto en 50 años de plusmarcas"
   },
   {
-    "titulo": "Es el pescado azul del verano pero poca gente en España le saca partido: 5 recetas con sardinas fáciles e ideales para principiantes",
-    "medio": "OK Diario",
-    "fecha": 1786911586.0,
-    "link": "https://okdiario.com/recetas/mejor-pescado-azul-verano-pero-poca-gente-espana-saca-partido-5-recetas-sardinas-faciles-ideales-principiantes-19079275",
-    "resumen": "La sardina es uno de los pescados azules más completos del verano: barata, fácil de encontrar y cargada de omega-3 justo en los meses en los que más grasa saludable acumula, entre julio y agosto. Aun así, en muchas cocinas españolas apenas se anima nadie a comprarla más allá de la brasa de turno. Aunque … Continuar leyendo \"Es el pescado azul del verano pero poca gente en España le saca partido: 5 recetas con sardinas fáciles e ideales para principiantes\""
-  },
-  {
-    "titulo": "Arqueólogos recuperan del fondo del mar 22 bloques de una de las 7 maravillas del mundo antiguo",
-    "medio": "OK Diario",
-    "fecha": 1786911526.0,
-    "link": "https://okdiario.com/curiosidades/hallazgo-arqueologos-recuperan-del-fondo-del-mar-22-bloques-7-maravillas-del-mundo-antiguo-19144511",
-    "resumen": "El Mediterráneo acaba de devolver una parte extraordinaria de uno de los monumentos más famosos de la Antigüedad. Un equipo internacional de arqueólogos ha recuperado 22 enormes bloques de piedra pertenecientes al Faro de Alejandría, una de las siete maravillas del mundo antiguo. Las piezas, localizadas en el fondo del puerto oriental de Alejandría, incluyen … Continuar leyendo \"Arqueólogos recuperan del fondo del mar 22 bloques de una de las 7 maravillas del mundo antiguo\""
-  },
-  {
     "titulo": "Resulta que la 'mano de aguacate' se ha convertido en un problema médico: son pocos casos, pero han llamado la atención",
     "medio": "HuffPost",
     "fecha": 1786911508.0,
@@ -77,18 +238,18 @@
     "resumen": ""
   },
   {
+    "titulo": "El Gobierno de Kast pretende retirar las prestaciones de salud a los condenados por crimen organizado y terrorismo",
+    "medio": "El País",
+    "fecha": 1786911457.0,
+    "link": "https://elpais.com/chile/2026-08-16/el-gobierno-de-kast-pretende-retirar-las-prestaciones-de-salud-a-los-condenados-por-crimen-organizado-y-terrorismo.html",
+    "resumen": "Las derechas de Chile están enfrentadas por algunos aspectos que se han conocido de la reforma de seguridad del Ejecutivo. La Moneda dará a conocer el texto definitivo en las próximas horas"
+  },
+  {
     "titulo": "Hamás ratifica su voluntad de comenzar la segunda fase del plan de paz para Gaza",
     "medio": "The Objective",
     "fecha": 1786911455.0,
     "link": "https://theobjective.com/internacional/2026-08-16/hamas-ratifica-voluntad-comenzar-segunda-fase-plan-paz-gaza/",
     "resumen": "La delegación mediadora del movimiento islamista palestino Hamás ha confirmado este domingo al enviado de EEUU para Oriente Próximo, Jared Kushner, su compromiso con el comienzo […]"
-  },
-  {
-    "titulo": "La pintura blanca hecha con nopales, cal y sal ayuda a proteger los muros, reflejar el calor y renovar paredes gastando mucho menos que con pinturas comerciales",
-    "medio": "OK Diario",
-    "fecha": 1786911143.0,
-    "link": "https://okdiario.com/curiosidades/truco-pintura-blanca-hecha-nopales-cal-sal-ayuda-proteger-muros-reflejar-calor-renovar-paredes-gastando-mucho-menos-que-pinturas-comerciales-19163231",
-    "resumen": "Reflejar el calor y renovar paredes gastando mucho menos que con pinturas comerciales, la pintura blanca hecha con nopales, cal y sal puede ser la mejor opción este verano. Es hora de conocer en primera persona qué es lo que podemos hacer en casa para evitar un calor que en estos últimos años no nos … Continuar leyendo \"La pintura blanca hecha con nopales, cal y sal ayuda a proteger los muros, reflejar el calor y renovar paredes gastando mucho menos que con pinturas comerciales\""
   },
   {
     "titulo": "Las marcas de agua de la IA: huellas invisibles que no demuestran quién escribió algo pero puede parecer que lo dicen todo",
@@ -103,13 +264,6 @@
     "fecha": 1786910921.0,
     "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
     "resumen": "El presidente y el hijo de Bolsonaro arrancan la campaña para los comicios de octubre con un empate técnico en los sondeos"
-  },
-  {
-    "titulo": "La raza de Roca Rey arrolla en Gijón",
-    "medio": "El Mundo",
-    "fecha": 1786910867.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/08/16/6a816d1621efa03b168b45c2.html",
-    "resumen": "La figura peruana sale a hombros con tres orejas en una actuación de entrega absoluta; Talavante y Ortega, a oreja por cabeza, se pierden la fotografía por la espada Leer"
   },
   {
     "titulo": "La técnica del sándwich para terminar con los amores de verano y que la ruptura no sea un drama",
@@ -158,35 +312,14 @@
     "medio": "La Vanguardia",
     "fecha": 1786909606.0,
     "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260816/11614877/espana-bronce-4x100-mixto-atletismo-record.html",
-    "resumen": "Guillem Crespí, Maribel Pérez, Andoni Crespí y Jaël Bestué batieron el récord de España en Birmingham"
+    "resumen": "Guillem Crespí, Maribel Pérez, Andoni Calbano y Jaël Bestué batieron el récord de España en Birmingham"
   },
   {
-    "titulo": "Bronce del relevo mixto 4x100 y Arce se queda al borde de la medalla tras liderar el 3.000 obstáculos",
+    "titulo": "Bronce del relevo mixto 4x100 y Arce en el 3.000 y las chicas del 4x400 se quedan al borde de la medalla",
     "medio": "El Mundo",
     "fecha": 1786909400.0,
     "link": "https://www.elmundo.es/deportes/mas-deporte/2026/08/16/6a81f3eefc6c83c9708b457f.html",
     "resumen": "El cuarteto formado por Guillem Crespí, Isabel Pérez, Andoni Calbano y Jael Betsué acabó tercero, con un tiempo de 40,42, sólo por detrás de Alemania (40,11) y Gran Bretaña Leer"
-  },
-  {
-    "titulo": "La bienvenida de Roberto, jaula para el Espanyol y tormento del Levante",
-    "medio": "El País",
-    "fecha": 1786908346.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-16/la-bienvenida-de-roberto-jaula-para-el-espanyol-y-tormento-del-levante.html",
-    "resumen": "El delantero blanquiazul marca dos goles y retuerce a un rival sin fútbol ni argumentos"
-  },
-  {
-    "titulo": "Ucrania le devuelve a Rusia su propia guerra económica",
-    "medio": "El Mundo",
-    "fecha": 1786908341.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/16/6a81cea8fdddff3b6b8b45ab.html",
-    "resumen": "Kiev destruye refinerías y almacenes con enjambres de drones baratos mientras Moscú dispara sus misiles balísticos contra ciudades ucranianas: dos estrategias asimétricas para ganar la batalla del desgaste Leer"
-  },
-  {
-    "titulo": "Un militar muerto y 3 heridos al volcar una autobomba de la UME en el incendio de Las Peñas de Riglos",
-    "medio": "El Mundo",
-    "fecha": 1786908246.0,
-    "link": "https://www.elmundo.es/espana/2026/08/16/6a81fb0a21efa0b91d8b4584.html",
-    "resumen": "El accidente ha ocurrido en el entorno de una pista que une Atares con Bernués Leer"
   },
   {
     "titulo": "Roberto lidera un estreno soñado del Espanyol ante el Levante",
@@ -194,13 +327,6 @@
     "fecha": 1786907743.0,
     "link": "https://www.lavanguardia.com/deportes/20260816/11614869/roberto-lidera-estreno-sonado-liga-espanyol-levante-primera-jornada-rcde-stadium.html",
     "resumen": "Un doblete del andaluz y otro gol de Dolan dan un gran triunfo a los pericos en el debut en la Liga"
-  },
-  {
-    "titulo": "El Barcelona cierra el fichaje de Rodri por cuatro temporadas tras pagar 75 millones al City",
-    "medio": "El Mundo",
-    "fecha": 1786907318.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/16/6a789b5efc6c83ca618b456f.html",
-    "resumen": "Tras fracasar las dos primeras ofertas, el club catalán se aproximó a las pretensiones iniciales de los británicos Leer"
   },
   {
     "titulo": "Coches con plástico de botellas y redes recicladas: nuevas obligaciones legales para vehículos",
@@ -224,11 +350,11 @@
     "resumen": "Hay gestos que repetimos cuando subimos a un avión sin pensar demasiado en su origen: localizar una salida de emergencia, atender las indicaciones sobre los equipos de seguridad o, cuando el vuelo lo requiere, ver cómo se utiliza un chaleco salvavidas. Parte de esa cultura se construyó a partir de accidentes que obligaron a la aviación a revisar qué sabía un pasajero cuando algo salía mal. Uno de ellos ocurrió frente a Puerto Rico en 1952. Sus restos permanecieron bajo unos 600 metros de agua durante 74 años, pero las lecciones de aquella tragedia llegaron mucho más lejos. Ese avión tenía nombre: Clipper Endeavor, un Douglas DC-4 de Pan American World Airways que cubría la ruta entre San Juan y Nueva York. Sus restos fueron localizados el 2 de junio de 2026 durante una búsqueda en la que participaron la Air/Sea Heritage Foundation, Deep Sea Vision y el programa ‘Expedition Unknown’. Un vehículo submarino autónomo detectó con sonar dos grandes secciones del aparato y una inspección fotográfica posterior permitió identificarlo por elementos todavía visibles del fuselaje, incluido el característico emblema alado de Pan Am. El hallazgo cerraba una búsqueda; la historia que explicaba aquel pecio era bastante más larga. El vuelo que ayudó a cambiar lo que hacemos antes de despegar Para entender por qué aquel vuelo terminó en el mar hay que volver al 11 de abril de 1952. El DC-4 despegó desde la capital puertorriqueña a las 12:11 con 64 pasajeros, seis de ellos bebés, y cinco tripulantes a bordo. Poco después, el motor número 3 dejó de funcionar y la tripulación inició el regreso al aeropuerto. Durante esa maniobra, el número 4 comenzó también a funcionar de forma irregular y perdió parte de su potencia. La emergencia se deterioró con rapidez: unos nueve minutos después del despegue, el Clipper Endeavor acabó amerizando frente a la costa de la isla. El contacto con el agua no fue, por sí solo, lo que causó la mayoría de las muertes. Según los testimonios recogidos por los investigadores, las 69 personas que viajaban en el DC-4 sobrevivieron inicialmente al impacto. El problema empezó inmediatamente después: el aparato comenzó a hundirse y desapareció bajo el agua en menos de tres minutos, mientras el mar presentaba olas de entre tres y 4,6 metros. A partir de ese momento, la emergencia dejó de ser un problema de pilotaje y se convirtió en una evacuación contrarreloj. Todo dependía de que pasajeros y tripulación consiguieran abandonar el avión a tiempo. Restos sumergidos del Clipper Endeavor en el fondo marino El análisis posterior mostró que aquella evacuación estuvo marcada por la falta de preparación previa. Los pasajeros no habían recibido antes del amerizaje una explicación sobre dónde estaban los chalecos ni sobre cómo utilizarlos. Después del impacto, los auxiliares tuvieron que gritar que se encontraban en los respaldos de los asientos mientras el avión comenzaba a hundirse. El Civil Aeronautics Board también señaló problemas con las balsas, concentradas en un compartimento de difícil acceso durante la emergencia. Al final sobrevivieron los cinco tripulantes y 12 pasajeros. Los otros 52 pasajeros murieron. La comunicación de la tripulación con los pasajeros: clave para la seguridad a bordo Los problemas, sin embargo, habían empezado antes incluso del despegue. El Civil Aeronautics Board determinó que el motor número 3 ya había presentado problemas el día anterior y que durante su revisión se habían encontrado partículas metálicas. El organismo concluyó que debía haberse sustituido y atribuyó la causa probable tanto a ese mantenimiento inadecuado como a las decisiones tomadas durante la emergencia, cuando se intentó recuperar el ascenso sin emplear toda la potencia disponible. Esa parte explica por qué el DC-4 terminó en el agua; las deficiencias de evacuación ayudan a entender por qué el balance fue después tan grave. La comunicación de la tripulación con los pasajeros: clave para la seguridad a bordo Como decimos, las consecuencias de aquella tragedia terminaron llegando a la normativa. El Civil Aeronautics Board citó este accidente junto con otros similares al proponer cambios en los procedimientos para emergencias sobre el agua: informar oralmente a los pasajeros, demostrar cómo colocarse el chaleco salvavidas, facilitar el acceso a las balsas y definir mejor las funciones de la tripulación. Las reglas fueron evolucionando durante los años siguientes, pero la dirección estaba clara: no bastaba con disponer del equipo, había que enseñar a utilizarlo. Esa lógica sigue formando parte de los procedimientos de seguridad que conocemos hoy. En Xataka Resulta que Japón tiene a entrenadores para que superes las máquinas de gancho y te lleves cuantos más premios, mejor Encontrarlo exigió volver sobre aquella historia con herramientas que en 1952 ni siquiera existían. Años de investigación documental permitieron reconstruir el caso, y un mapa elaborado por pilotos de la Fuerza Aérea estadounidense que habían presenciado el accidente ayudó a reducir la zona de búsqueda hasta que un vehículo submarino autónomo recorrió el fondo con sonar y localizó finalmente los restos. Así terminó una espera de 74 años para el Clipper Endeavor, aunque no para las consecuencias de su último vuelo. El avión permaneció fuera de la vista durante décadas; algunas de las lecciones que dejó, en cambio, acabaron integradas en la forma en que hoy nos preparamos para una emergencia. Imágenes | Wikimedia Commons | Alejandro Quiñonez (1, 2) | Go Journal | Air/Sea Heritage Foundation and Deep Sea Vision En Xataka | En 1938, la construcción de una presa sumergió y condenó un pueblo de EEUU. 90 años después, ha emergido por las sequías - La noticia Un avión de Pan Am hundido en 1952 fue localizado 74 años después. Su accidente acabó marcando la historia de la aviación fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
-    "titulo": "Huelga de hambre masiva en la playa de Ceuta: «Los inmigrantes queremos asilo»",
+    "titulo": "Huelga de hambre en la playa de Ceuta: «Los inmigrantes queremos asilo»",
     "medio": "The Objective",
     "fecha": 1786906282.0,
     "link": "https://theobjective.com/espana/2026-08-16/huelga-hambre-masiva-playa-ceuta-inmigrantes-asilo/",
-    "resumen": "Un concentración convocada de forma espontánea por parte de los inmigrantes que aún quedan en Ceuta (más de 9.000, según la ciudad autónoma) ha desembocado en […]"
+    "resumen": "Centenares de inmigrantes, en su mayoría marroquíes, se han congregado a última hora del domingo en la playa del Trampolín, en Ceuta y se han declarado […]"
   },
   {
     "titulo": "Josep Pedrerol: \"A los tertulianos les pido que sean ellos, actores no, se les quita la careta rápido\"",
@@ -243,13 +369,6 @@
     "fecha": 1786906174.0,
     "link": "https://www.elespanol.com/deportes/futbol/20260816/barca-llega-principio-acuerdo-manchester-city-fichar-rodri-millones-fijos-variables/1003744354349_0.html",
     "resumen": "El MVP del Mundial y Balón de Oro en 2024 podría presentarse ante su nueva afición el miércoles ante Al-Ahly en el Trofeo Joan Gamper.Más información: Ferran Torres ficha por el PSG hasta 2031 y el FC Barcelona ingresa 50 millones de euros"
-  },
-  {
-    "titulo": "El Racing lo pasa en grande en su regreso a Primera: “Hemos vuelto”",
-    "medio": "El País",
-    "fecha": 1786905940.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-16/el-racing-lo-pasa-en-grande-en-su-regreso-a-primera-hemos-vuelto.html",
-    "resumen": "Los de Santander cierran un “vía crucis de 14 años” y regresan a la máxima categoría con un empate ante un Villarreal que puso el vértigo en la fiesta cántabra"
   },
   {
     "titulo": "Un pueblo cierra sus baños públicos porque solo se usaron 52 veces en cinco meses y acaba gastando más de 58.000 euros en la guerra por reabrirlos",
@@ -270,7 +389,7 @@
     "medio": "La Vanguardia",
     "fecha": 1786905538.0,
     "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614859/principio-acuerdo-barca-manchester-city-rodri.html",
-    "resumen": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas"
+    "resumen": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas por 60 millones fijos"
   },
   {
     "titulo": "En 1919, Alemania contrajo una deuda de 132 mil millones de marcos de oro. Nadie imaginó que iba a tardar 91 años en saldarla",
@@ -294,39 +413,11 @@
     "resumen": "Un miembro de la Unidad Militar de Emergencias (UME) ha fallecido este domingo mientras participaba en el operativo de extinción […]"
   },
   {
-    "titulo": "Avançsa gana un 90% más pese a realizar provisiones por 2,25 millones",
-    "medio": "Expansión",
-    "fecha": 1786903674.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/16/6a81faff468aebc03d8b4585.html",
-    "resumen": "El hólding empresarial del Govern obtuvo el año pasado un beneficio neto individual de 8,49 millones y dejó de contabilizar una provisión por su inversión en la firma de software Talent Clue. Leer"
-  },
-  {
     "titulo": "Muere un militar de la UME durante las tareas de extinción del incendio de Riglos",
     "medio": "La Vanguardia",
     "fecha": 1786903611.0,
     "link": "https://www.lavanguardia.com/local/aragon/20260816/11614855/muere-militar-ume-tareas-extincion-incendio-riglos.html",
     "resumen": "El presidente del Gobierno de Aragón, Jorge Azcón, ha trasladado su pésame al teniente general de la Unidad Militar de Emergencias y a la familia del bombero fallecido"
-  },
-  {
-    "titulo": "Niebla (Huelva) despide con aplausos a la UME tras la estabilización del incendio",
-    "medio": "The Objective",
-    "fecha": 1786903609.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-08-16/niebla-huelva-despide-aplausos-ume-estabilizacion-incendio/",
-    "resumen": "La ciudadanía de Niebla (Huelva) ha respondido al llamamiento realizado por su Ayuntamiento y ha despedido entre aplausos a los efectivos de la Unidad Militar de […]"
-  },
-  {
-    "titulo": "Adeyemi y los juveniles del Barcelona disfrutan en Basilea",
-    "medio": "El País",
-    "fecha": 1786903408.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-16/adeyemi-y-los-juveniles-del-barcelona-disfrutan-en-basilea.html",
-    "resumen": "Claro triunfo del conjunto de Flick (2-5) con tantos de Adeyemi, Abdelkarim, Lamine y dos de Bisiwu"
-  },
-  {
-    "titulo": "Hugo González se cuelga la plata en los 200 estilos y Laura Cabanes el bronce en los 200 mariposa de los Europeos de París",
-    "medio": "El Mundo",
-    "fecha": 1786903391.0,
-    "link": "https://www.elmundo.es/deportes/2026/08/16/6a81f2c9fc6c835a2f8b45b5.html",
-    "resumen": "La natación española sube, cinco años después, a un podio continental Leer"
   },
   {
     "titulo": "Que Ceuta no sea apuñalada ni de frente ni por la espalda",
@@ -378,13 +469,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Herido inconsciente un niño tras ser atropellado por un tractor en la provincia de Burgos",
-    "medio": "The Objective",
-    "fecha": 1786902224.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-08-16/nino-muere-atropellado-tractor-espinosa-burgos/",
-    "resumen": "Un niño de unos diez años ha resultado herido tras ser atropellado en la noche del sábado por un tractor en la plaza Sancho García de […]"
-  },
-  {
     "titulo": "Unos 200 migrantes reclaman asilo en una protesta en el asentamiento del Trampolín en Ceuta",
     "medio": "eldiario.es",
     "fecha": 1786902070.0,
@@ -399,32 +483,11 @@
     "resumen": "El A/B testing es una práctica habitual en cualquier producto digital. Consiste en dividir a los usuarios en dos grupos para comparar una versión nueva frente a la anterior y medir su impacto. Es lo que hizo en TikTok cuando modificó su algoritmo con el objetivo de reducir el contenido dañino que se mostraba. Uno de los usuarios a los que no activaron esta salvaguarda se acabó suicidando. Se llamaba Chase Nasca y tenía 16 años. El test. Lo cuentan en Bloomberg. TikTok mejoró su algoritmo a principios de 2022 y desplegó esta versión para la gran mayoría de sus usuarios. Este cambio tenía como objetivo principal reducir los bucles de contenido dañino, detectando patrones repetitivos y diversificaba un poco más el feed. El algoritmo anterior que no tenía este cambio siguió activo para el grupo de control, que era aproximadamente el 10% de todos los usuarios estadounidenses, unos 15 millones de personas en total. El caso de Chase Nasca. Su cuenta había sido una de las elegidas de forma aleatoria para formar parte de ese grupo de control, por lo que las nuevas medidas de seguridad no estaban activadas. El resultado fue que Chase Nasca fue bombardeado con vídeos sobre suicidio, autolesiones y depresión. Según un documento confidencial, el cual se ha conocido en el contexto de una demanda judicial, en las dos semanas previas a su muerte, TikTok recomendó a Chase 7.563 vídeos, de los cuales al menos el 73% trataba sobre sufrimiento emocional, soledad o depresión. Por otro lado, casi el 10% de esos vídeos incumplía las normas sobre autolesiones y suicidio de la plataforma. En las horas previas a su muerte marcó como favoritos varios vídeos sobre suicidio. Por diseño. \"Las estrategias de TikTok para prevenir las burbujas de filtros no tuvieron efecto en este usuario por diseño\". Es una de las afirmaciones que recoge el documento filtrado, el cual ofrece un análisis exhaustivo sobre la cuenta de Chase y todo el contenido que se le recomendó. Tal y como señalan en Bloomberg, que haya sido \"por diseño\" (es decir, intencionado) está dando la razón a quienes acusan a las plataformas de haber diseñado sus productos deliberadamente para generar adicción en los jóvenes. TikTok ya ha sido juzgada en EEUU y está en el punto de mira de la UE por este tema. En Xataka Los adolescentes ya no fuman, beben, se drogan o tienen mucho sexo entre ellos: ahora simplemente miran el móvil El documento. TikTok analizó de forma exhaustiva el caso de Chase Nasca, pero no fue de motu propio, sino después de que Bloomberg Businessweek contactara con ellos en marzo de 2023 porque iban a escribir un artículo sobre el suicidio de este adolescente. El documento concluye que Chase buscaba contenido sobre deportes y comedia, pero también había buscado canciones sobre sentirse solo. El documento admite que esas búsquedas activaron el algoritmo e hicieron que su cuenta quedara \"atrapada en una burbuja de filtros donde se le recomendaba repetidamente contenido relacionado con el suicidio, la autolesión y temas depresivos, especialmente en los días previos a su suicidio\". La respuesta de TikTok antes y ahora. En marzo de 2023 se produjo la comparecencia del CEO de la compañía ante el Congreso de EEUU. Una de las preguntas que se enviaron para que TikTok respondiera por escrito era, precisamente, si TikTok era conocedora de casos de suicidio tras ver \"vídeos tristes, deprimentes o que incitan al suicidio\". La respuesta de la empresa fue: \"TikTok no cree que el uso de la plataforma haya provocado que los usuarios se suiciden\". En este momento, TikTok ya había realizado su investigación sobre el caso de Chase Nasca. Hemos contactado con TikTok para conocer su postura actual acerca de este caso y nos han hecho llegar el siguiente comunicado: “Lamentamos profundamente cualquier pérdida trágica que haya afectado a una familia. La seguridad y el bienestar de nuestros usuarios, especialmente de los adolescentes, sigue siendo nuestra prioridad. Para ayudar a proteger a nuestra comunidad, continuamos reforzando nuestras inversiones en seguridad a través de sistemas de detección robustos y equipos especializados, que actúan de forma proactiva para retirar los contenidos que infringen nuestras Normas de la Comunidad”.Imagen | Tech Insider en Unsplash En Xataka | Hay personas culpando a ChatGPT de provocar delirios y suicidios: qué está pasando realmente con la IA y la salud mental - La noticia TikTok eliminó una función de seguridad a millones de usuarios para hacer una prueba. Uno de ellos acabó suicidándose fue publicada originalmente en Xataka por Amparo Babiloni ."
   },
   {
-    "titulo": "Mbappé vuelve y enciende al Madrid en el triunfo ante el Schalke",
-    "medio": "El País",
-    "fecha": 1786901265.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-16/mbappe-vuelve-y-enciende-al-madrid-en-el-triunfo-ante-el-schalke.html",
-    "resumen": "Los blancos se imponen al equipo de Gelsenkirchen, recién ascendido a la Bundesliga, en el último y mejor partido de la pretemporada antes de empezar la Liga contra el Espanyol"
-  },
-  {
-    "titulo": "Al menos diez muertos en Japón por las lluvias torrenciales de la prefectura de Chiba",
-    "medio": "The Objective",
-    "fecha": 1786901064.0,
-    "link": "https://theobjective.com/internacional/2026-08-16/muertos-japon-lluvias-torrenciales-prefectura-chiba/",
-    "resumen": "Las lluvias torrenciales registradas en la prefectura japonesa de Chiba, al este de Tokio, han dejado al menos diez personas fallecidas y numerosas viviendas afectadas después […]"
-  },
-  {
     "titulo": "Niebla despide entre aplausos a los efectivos de la UME que han ayudado a estabilizar el incendio",
     "medio": "eldiario.es",
     "fecha": 1786901060.0,
     "link": "https://www.eldiario.es/andalucia/niebla-despide-aplausos-efectivos-ume-han-ayudado-estabilizar-incendio_1_13450528.html",
     "resumen": "Tras más de una semana fuera de control, el fuego ha quedado estabilizado este domingo, por lo que el Plan Especial de Protección Civil de Emergencias por Incendios Forestales ha bajado al Nivel 1El incendio de Niebla, el mayor de la historia de Andalucía, queda estabilizado tras más de una semana fuera de control Los vecinos de Niebla (Huelva) han despedido entre aplausos a los efectivos de la Unidad Militar de Emergencias (UME) que han comenzado su repliegue este domingo tras colaborar en el dispositivo para las labores de estabilización del incendio declarado el pasado 6 de agosto en el paraje Raboconejo del municipio, que ha calcinado más de 38.000 hectáreas. En una publicación en las redes sociales del Ayuntamiento de Niebla, el Consistorio ha señalado que la UME abandona Niebla “después de días intensos de trabajo, esfuerzo y entrega en la lucha contra el incendio forestal”. Tras más de una semana fuera de control, el incendio ha pasado este domingo del nivel 2 del Plan Especial de Protección Civil de Emergencias por Incendios Forestales a Nivel 1, lo que se ha traducido en que los efectivos de la UME se han retirado al quedar estabilizado el fuego. El pueblo ha querido así agradecer “a quienes han estado a nuestro lado cuando más falta hacía”. “Han estado ahí, entre humo, llamas y cansancio, poniendo todo su empeño para proteger nuestro entorno y, sobre todo, a nuestros vecinos”, han remarcado desde el Ayuntamiento antes de añadir que “desde Niebla solo podemos decir una cosa: gracias por vuestra profesionalidad, por vuestra valentía y por estar siempre cuando se os necesita”. El Consistorio ha subrayado que los militares de la UME se marchan “pero dejan atrás algo mucho más importante que vuestro trabajo” que es “el cariño, el respeto y el agradecimiento de todo un pueblo”. “Niebla nunca olvidará que, cuando el fuego apretó, vosotros estuvisteis aquí. Hasta siempre, UME. Y gracias por tanto”, ha concluido el Ayuntamiento en su publicación. Este incendio es ya el mayor de la historia de Andalucía y “no tiene precedentes” por su complejidad para combatirlo. El propio presidente de la Junta de Andalucía, Juanma Moreno, se ha referido a este fuego como “probablemente uno de los más complicados de la última década” y el más complejo afrontado desde que asumió la presidencia de la Junta en 2018."
-  },
-  {
-    "titulo": "Cristiano Ronaldo: \"Probablemente este será mi último año en el fútbol; ya tengo todo mi futuro planeado\"",
-    "medio": "El Mundo",
-    "fecha": 1786900367.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/08/16/6a81ef3bfc6c83f3418b457c.html",
-    "resumen": "\"Como el fútbol puede dejar un gran vacío, hay que ocupar el tiempo de diversas formas, no solo de una\", ha dicho el futbolista portugués en una entrevista Leer"
   },
   {
     "titulo": "El mayor fuego de la historia en Bélgica se dirige hacia Alemania",
@@ -434,25 +497,11 @@
     "resumen": "Casi 600 residentes evacuados el sábado no pueden volver todavía a sus casas por un fuego que ha arrasado 3.000 hectáreas de terreno"
   },
   {
-    "titulo": "El Real Madrid se gusta ante el Schalke con un Mbappé comprometido",
-    "medio": "La Vanguardia",
-    "fecha": 1786900344.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260816/11614815/real-madrid-gusta-schalke-mbappe-comprometido.html",
-    "resumen": "El francés se estrenó con Mourinho con un gol y con una actuación determinante, Huijsen hizo el segundo de córner en la primera mitad y Espí sigue en racha"
-  },
-  {
     "titulo": "Unas grabaciones sitúan al acusado del incendio de Las Peñas de Riglos agachado en la zona donde se originó el fuego",
     "medio": "El Español",
     "fecha": 1786899922.0,
     "link": "https://www.elespanol.com/aragon/actualidad/20260816/grabaciones-situan-acusado-incendio-penas-riglos-agachado-zona-origino-fuego/1003744354659_0.html",
     "resumen": "Además, el presunto autor no llamó a su superior hasta tres minutos después de que se iniciara el incendio, pese a haber usado el móvil entre medias.Más información: Ingresa en prisión el presunto autor del incendio de Peñas de Riglos: un joven de 28 años que trabajaba en una obra cercana"
-  },
-  {
-    "titulo": "La vuelta del Racing a Primera: un Delorean en la Gradona, una cátedra de Canales y un empate ante el Villarreal",
-    "medio": "El Mundo",
-    "fecha": 1786899839.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/16/6a81d2a021efa05e578b456f.html",
-    "resumen": "Andrés Martín, de penalti, fue el primer goleador del club cántabro en su retorno a la máxima categoría, pero Pepe y Gueye empataron su tanto y el de Sergio Martínez Leer"
   },
   {
     "titulo": "Hugo González, subcampeón de Europa en la final del 200 estilos y Laura Cabanes se hace con el bronce en mariposa",
@@ -474,13 +523,6 @@
     "fecha": 1786899600.0,
     "link": "https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-2027/",
     "resumen": "El plan de Virgin Galactic para llevar turistas al borde del espacio se ha vuelto a complicar. Esta semana, la empresa fundada por el magnate Richard Branson anunció que los primeros vuelos comerciales con su nueva nave SpaceShip se han postergado hasta febrero de 2027. El plan original era concretar durante el último trimestre de […] Seguir leyendo: La pesadilla de Virgin Galactic no tiene fin: otra vez retrasa sus vuelos comerciales al borde del espacio"
-  },
-  {
-    "titulo": "Peter Thiel invierte en la petrolera argentina Vista",
-    "medio": "Expansión",
-    "fecha": 1786899460.0,
-    "link": "https://www.expansion.com/latinoamerica/2026/08/16/6a81ead7468aebdf3d8b456e.html",
-    "resumen": "El magnate tecnológico Peter Thiel, fundador de compañías como PayPal y Palantir, compró acciones de la petrolera argentina Vista, la mayor exportadora de crudo de Vaca Muerta, la enorme y estratégica formación de hidrocarburos no convencionales del suroeste argentino. Leer"
   },
   {
     "titulo": "León, el diputado ceutí del PSOE que carga contra Sánchez: \"Mi hija no puede salir de casa, pero él está aconsejando libros\"",
@@ -644,20 +686,6 @@
     "resumen": "El año 2026 será recordado por varias cosas a la vez. Por un lado, por lograr el asombroso hito de llegar a cinco estrenos consecutivos (hasta ahora), que rebasan los 1000 millones de dólares. De Super Mario Galaxy: La película, pasando por La Odisea, hasta el taquillazo rompe récord de Spider-Man: Brand New Day. Lo […] Seguir leyendo: 10 adaptaciones que nos han sorprendido este año"
   },
   {
-    "titulo": "Las fronteras con Ceuta y Melilla recuperan la normalidad tras el blindaje de Marruecos",
-    "medio": "Expansión",
-    "fecha": 1786887905.0,
-    "link": "https://www.expansion.com/economia/2026/08/16/6a81bb00e5fdea894e8b4574.html",
-    "resumen": "Las fronteras de las ciudades españolas de Ceuta y Melilla con Marruecos recuperan este domingo progresivamente la normalidad después de que Rabat desplegara un impresionante dispositivo de seguridad el sábado ante posibles intentos de cruces masivos que concluyeron con la detención de cerca de 300 migrantes, en su mayoría subsaharianos. Leer"
-  },
-  {
-    "titulo": "Irán ofrece 30.000 dólares por matar o capturar a soldados de EEUU",
-    "medio": "Expansión",
-    "fecha": 1786886802.0,
-    "link": "https://www.expansion.com/economia/2026/08/16/6a81a52e468aeba5708b458e.html",
-    "resumen": "Las Fuerzas Armadas iraníes afirmaron este domingo que no cederán ante Estados Unidos hasta lograr su \"derrota completa\", a 24 horas de que expire el plazo de 60 días establecido en el memorando de entendimiento firmado entre Teherán y Washington en junio para negociar un acuerdo definitivo de paz. Leer"
-  },
-  {
     "titulo": "Las películas más raras del 2026 hasta ahora",
     "medio": "Hipertextual",
     "fecha": 1786885200.0,
@@ -670,20 +698,6 @@
     "fecha": 1786884979.0,
     "link": "https://www.europapress.es/nacional/noticia-feijoo-reclama-gobierno-sensibilidad-ceuta-nadie-capaz-entender-indolencia-caos-20260816145619.html",
     "resumen": "El presidente del PP, Alberto Núñez Feijóo, ha reclamado este domingo al Gobierno sensibilidad con Ceuta después de la crisis migratoria de finales de julio, a la vez que ha reprochado la actitud del Ejecutivo en su respuesta con la ciudad autónoma. \"Nadie es capaz de entender la indolencia ante este caos\", ha expresado."
-  },
-  {
-    "titulo": "Digi cierra su primer mes en la Bolsa española en tablas",
-    "medio": "Expansión",
-    "fecha": 1786884542.0,
-    "link": "https://www.expansion.com/empresas/tecnologia/2026/08/16/6a81ace6468aebea7e8b4587.html",
-    "resumen": "Digi Spain Telecom ha cerrado su primer mes de cotización en la Bolsa española sin cambios, al mantenerse en los 5,6 euros con los que debutó en el parqué madrileño el pasado 16 de julio. Leer"
-  },
-  {
-    "titulo": "20 habilidades profesionales sin las que no podrá encontrar o mantener un trabajo",
-    "medio": "Expansión",
-    "fecha": 1786883703.0,
-    "link": "https://www.expansion.com/expansion-empleo/profesiones/2026/08/14/6a7f1474468aeb4b408b458b.html",
-    "resumen": "Hay algo que empieza a distinguir con claridad el mercado de trabajo de 2026: la experiencia vuelve a cotizar al alza, pero ya no basta con acumular años de carrera. Leer"
   },
   {
     "titulo": "El rey Felipe VI contacta con Azcón para expresarle su preocupación por el incendio de Huesca",
@@ -733,20 +747,6 @@
     "fecha": 1786881600.0,
     "link": "https://hipertextual.com/cine-television/las-cinco-mejores-sitcom-de-los-2000/",
     "resumen": "Las sitcom fueron el formato rey de la televisión por más de cuarenta años y razones no faltan para que lo hayan sido. No solo porque eran formas de producción baratas que no requerían una gran inversión para ser exitosas. También, porque tenían la capacidad de contar historias populares que se convertían en parte de […] Seguir leyendo: Las cinco mejores sitcom de los 2000"
-  },
-  {
-    "titulo": "Bayas frescas, cítricos y huevos disparan sus precios en el último año",
-    "medio": "Expansión",
-    "fecha": 1786881208.0,
-    "link": "https://www.expansion.com/economia/2026/08/16/6a81a14b468aeb4d638b4589.html",
-    "resumen": "Las bayas frescas (fresas, fresones, frambuesas, arándanos, moras y grosellas), los cítricos frescos (naranjas, limones, limas, mandarinas, pomelos y derivados), los huevos y el pescado fresco, ya sea refrigerado o congelado, se encuentran entre los productos alimenticios que más han disparado sus precios en España en el último año (desde julio de 2025 a julio de 2026), con alzas que, en algunos casos, superan los dos dígitos. Leer"
-  },
-  {
-    "titulo": "La música en vivo, un sector maduro que factura 807 millones en España",
-    "medio": "Expansión",
-    "fecha": 1786880126.0,
-    "link": "https://www.expansion.com/sociedad/2026/08/16/6a819e99e5fdea59278b4571.html",
-    "resumen": "Pulseras en la muñeca, luces, escenarios al aire libre y miles de voces entonando el mismo estribillo componen la postal de la música en vivo, un negocio que, en España, movió 807,2 millones de euros en 2025, confirmando que puede seguir triunfando también en su fase de madurez. Leer"
   },
   {
     "titulo": "Los vestidos japoneses que arrasan en Zara, ideales para cerrar el verano 2026 y llevar en fiestas y eventos de otoño",
@@ -803,13 +803,6 @@
     "fecha": 1786869969.0,
     "link": "https://www.elindependiente.com/series-y-television/2026/08/16/valle-salvaje-avance-semanal-del-lunes-17-de-agosto-al-viernes-21-de-agosto-rosalia-le-cuenta-a-rafael-la-verdad/",
     "resumen": "La buena sintonía entre Rosalía y Rafael va 'in crescendo' en los nuevos capítulos de la serie diaria de La 1 y Netflix 'Valle Salvaje'"
-  },
-  {
-    "titulo": "Cerca de una veintena de réplicas esta madrugada tras el terremoto de Alhendín (Granada), una de magnitud 3,1",
-    "medio": "Europa Press",
-    "fecha": 1786869693.0,
-    "link": "https://www.europapress.es/andalucia/noticia-cerca-veintena-replicas-madrugada-terremoto-alhendin-granada-magnitud-31-20260816104133.html",
-    "resumen": "La provincia de Granada ha registrado durante esta madrugada más de una decena de réplicas tras el terremoto de magnitud 3,1 con epicentro en Armilla (Granada) que se ha sentido también durante la noche, sin constar daños personales. Teniendo como antesala el seísmo de magnitud 5 que se produjo en la pasada madrugada del sábado con epicentro en el municipio granadino de Alhendín y que se dejó sentir ampliamente entre la población."
   },
   {
     "titulo": "La Promesa, avance semanal del lunes 17 de agosto al viernes 21 de agosto: Manuel y Julieta se escapan",
