@@ -1,10 +1,108 @@
 [
   {
+    "titulo": "El golpeo de Riquelme y un gran Valles impulsan al Betis ante la Real Sociedad",
+    "medio": "El País",
+    "fecha": 1787358608.0,
+    "link": "https://elpais.com/deportes/futbol/2026-08-21/el-golpeo-de-riquelme-y-un-gran-valles-impulsan-al-betis-ante-la-real-sociedad.html",
+    "resumen": "Los andaluces fueron mejores, aunque sufrieron en el tramo final y se salvaron gracias a las intervenciones de su portero"
+  },
+  {
+    "titulo": "Los ultras del Marsella celebran el Mundial de España con un gran tifo",
+    "medio": "El Mundo",
+    "fecha": 1787354342.0,
+    "link": "https://www.elmundo.es/deportes/futbol/2026/08/22/6a88dabee85ece712f8b456e.html",
+    "resumen": "Los 'South Winner' desplegaron una pancarta antes del encuentro contra el Estrasburgo en la que se leía 'Viva Roja' Leer"
+  },
+  {
+    "titulo": "El Ministerio de Sanidad convoca de urgencia a las comunidades para suministrar vacunas en Ceuta: varicela, polio, difteria...",
+    "medio": "El Mundo",
+    "fecha": 1787353153.0,
+    "link": "https://www.elmundo.es/andalucia/2026/08/22/6a8891e3fdddffaf398b4598.html",
+    "resumen": "Los técnicos están citados este lunes con un único punto del orden del día: \"Mecanismo de solidaridad para vacunas en relación con la situación en Ceuta\" Leer"
+  },
+  {
+    "titulo": "Ciudadanos de Lanzarote frente a La Mareta en la protesta de Hazte Oír contra Sánchez: «¡Hay que echarlos!»",
+    "medio": "OK Diario",
+    "fecha": 1787353097.0,
+    "link": "https://okdiario.com/espana/ciudadanos-lanzarote-frente-mareta-protesta-hazte-oir-contra-sanchez-hay-que-echarlos-20155379",
+    "resumen": "Hazte Oír organizó este viernes 21 de agosto una protesta frente a las puertas de la residencia real de La Mareta, en Lanzarote, donde Pedro Sánchez lleva veraneando durante todo el mes de agosto. Allí ha estado presente OKDIARIO, pulsando el sentir de unos ciudadanos cansados ya de la corrupción que acorrala al entorno del … Continuar leyendo \"Ciudadanos de Lanzarote frente a La Mareta en la protesta de Hazte Oír contra Sánchez: «¡Hay que echarlos!»\""
+  },
+  {
+    "titulo": "Tensión y polémica en Barcelona por la concentración del grupo ultra Save Europe Act contra la inmigración en plena crisis de Ceuta",
+    "medio": "El Mundo",
+    "fecha": 1787352944.0,
+    "link": "https://www.elmundo.es/cataluna/2026/08/22/6a8894d0e9cf4a01338b4596.html",
+    "resumen": "La Generalitat denunciará a la Fiscalía las proclamas de odio y los Mossos incrementarán el dispositivo policial en la plaza de Sant Jaume Leer"
+  },
+  {
+    "titulo": "China encuentra en Marruecos una puerta trasera hacia Europa: \"Se está convirtiendo en un problema muy grave\"",
+    "medio": "El Mundo",
+    "fecha": 1787352943.0,
+    "link": "https://www.elmundo.es/economia/2026/08/22/6a886d1cfc6c83d45e8b4588.html",
+    "resumen": "Pekín amplía su cadena industrial al otro lado del Estrecho mientras Bruselas teme que Pekín utilice a Marruecos para esquivar sus aranceles Leer"
+  },
+  {
     "titulo": "Las marcas se suman a las modas del «maxxing» y el «mogging» al apropiarse de una tendencia controvertida",
     "medio": "El Mundo",
     "fecha": 1787352448.0,
     "link": "https://www.elmundo.es/economia/2026/08/22/6a886d23fc6c83324c8b45a3.html",
     "resumen": "Los profesionales del marketing ven una oportunidad en la jerga derivada del término «looksmaxxing», pese a su asociación con comportamientos extremos Leer"
+  },
+  {
+    "titulo": "España responde a las pretensiones de Marruecos sobre Ceuta y Melilla",
+    "medio": "La Vanguardia",
+    "fecha": 1787352438.0,
+    "link": "https://www.lavanguardia.com/politica/20260822/11618086/espana-responde-pretensiones-marruecos-sobre-ceuta-melilla.html",
+    "resumen": "Moncloa recuerda que ambas ciudades autónomas son parte de la integridad territorial y parte integrante del territorio de la UE"
+  },
+  {
+    "titulo": "El arte de la conversación",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617774/arte-conversacion.html",
+    "resumen": "Hoy, la grosería, el simplismo y la fuerza están operando una contrarrevolución"
+  },
+  {
+    "titulo": "Feminismo ‘clásico’",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617776/feminismo-clasico.html",
+    "resumen": "La teoría ‘queer’ entra en contradicción con la agenda del feminismo de siempre y por ello este no acepta la Q"
+  },
+  {
+    "titulo": "Un chip denominado BER10",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617784/chip-denominado-ber10.html",
+    "resumen": "La barcelonesa Openchip, entre las empresas punteras de la autonomía digital europea"
+  },
+  {
+    "titulo": "Redacción de agosto",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617777/redaccion-agosto.html",
+    "resumen": "No sé si los tertulianos que salen por la tele son extraterrestres"
+  },
+  {
+    "titulo": "Cenas de verano",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617783/cenas-verano.html",
+    "resumen": "Calor; la charla deriva hacia la crisis de Ceuta, con más silencios que disenso"
+  },
+  {
+    "titulo": "Obscenidad",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617778/obscenidad.html",
+    "resumen": "Catalunya representa una quinta parte de la riqueza de este país; al repartir la inversión pública, ese peso desaparece"
+  },
+  {
+    "titulo": "Strauss en el acantilado",
+    "medio": "La Vanguardia",
+    "fecha": 1787351400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260822/11617786/strauss-acantilado.html",
+    "resumen": "Mi amigo lleva dentro un violinista, un director de orquesta, una soprano lírica, no sé"
   },
   {
     "titulo": "Introducir un rollo de papel higiénico en el frigorífico: para qué sirve y por qué cada vez más españoles lo hacen en verano",
@@ -63,13 +161,6 @@
     "resumen": "Una acumulación de más de 60.000 toneladas de ropa abandonada continúa creciendo cada año en pleno desierto de Atacama, en el norte de Chile. La dimensión de éste enorme vertedero textil es tal que, según la aplicación SkyFi, la mancha de residuos puede llegar a apreciarse desde imágenes tomadas por satélite. Situado en las cercanías … Continuar leyendo \"Encuentran en mitad del desierto de Atacama una montaña de 60.000 toneladas de ropa procedente de Europa que se puede ver desde el espacio\""
   },
   {
-    "titulo": "La psicología sugiere que las personas que se adaptan a todo no son conformistas, sólo desarrollaron resiliencia y saben responder a desafíos y cambios",
-    "medio": "OK Diario",
-    "fecha": 1787350701.0,
-    "link": "https://okdiario.com/curiosidades/psicologia-confirma-personas-que-adaptan-todo-no-son-conformistas-solo-desarrollaron-resiliencia-saben-responder-desafios-cambios-19162700",
-    "resumen": "Hay personas que, ante un cambio inesperado, un problema laboral, una ruptura de planes o una situación complicada, parecen mantener la calma y encontrar rápidamente una alternativa. Desde fuera, esta actitud puede confundirse con conformismo o incluso con falta de ambición. Sin embargo, la psicología ofrece una explicación diferente, ya que la capacidad de adaptarse … Continuar leyendo \"La psicología sugiere que las personas que se adaptan a todo no son conformistas, sólo desarrollaron resiliencia y saben responder a desafíos y cambios\""
-  },
-  {
     "titulo": "Ya no quedan galanes. Por qué el seductor de Hollywood ha quedado reducido a cenizas, pese a Pedro Pascal o Timothée Chalamet",
     "medio": "El Mundo",
     "fecha": 1787350520.0,
@@ -98,27 +189,6 @@
     "resumen": "El dueño del biestrellado Mugaritz y su equipo proponen en Sua.Muka, un apetecible bar en torno a la parrilla en la desembocadura del río Urumea, en San Sebastián, platos a la carta o menús con productos de temporada sometidos al fuego. Leer"
   },
   {
-    "titulo": "La cantera de magos que creció hace 45 años bajo la ilusión de Juan Tamariz: \"Todos quieren actuar aquí\"",
-    "medio": "El Mundo",
-    "fecha": 1787350363.0,
-    "link": "https://www.elmundo.es/madrid/2026/08/22/6a888b3721efa01c7f8b4570.html",
-    "resumen": "Un día antes de inaugurar el Croché, apareció un \"desconocido\" y preguntó si podía actuar: \"Soy mago. Soy Juan Tamariz\". Aquella visita improvisada acabó convirtiendo el local en una de las grandes cunas de la magia Leer"
-  },
-  {
-    "titulo": "Actitud de frontera",
-    "medio": "El Mundo",
-    "fecha": 1787350347.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/22/6a85a4d6fdddffad4c8b4576.html",
-    "resumen": "La actitud de frontera ya no explora continentes: explora la inteligencia; la nueva frontera tecnológica conduce, paradójicamente, a los interrogantes más antiguos de Occidente Leer"
-  },
-  {
-    "titulo": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
-    "medio": "La Vanguardia",
-    "fecha": 1787349900.0,
-    "link": "https://www.lavanguardia.com/lacontra/20260822/11617838/ignasi-stigman-importante-magia-pasa-mis-manos-cerebro.html",
-    "resumen": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)"
-  },
-  {
     "titulo": "El Arsenal abre la Premier con un claro triunfo ante el Conventry City (3-0)",
     "medio": "El País",
     "fecha": 1787349291.0,
@@ -138,13 +208,6 @@
     "fecha": 1787347800.0,
     "link": "https://hipertextual.com/apple/apple-despidos-siri-vision-pro/",
     "resumen": "Apple se ha sumado al resto de empresas tecnológicas que recortan su plantilla para adaptarse a la era de la IA. El gigante de Cupertino despidió a más de 200 empleados de múltiples divisiones. El recorte afecta directamente a los equipos detrás de Siri y del Vision Pro. De acuerdo con Bloomberg, Apple despidió a […] Seguir leyendo: Apple despide a cientos de empleados de los equipos de Siri y Vision Pro"
-  },
-  {
-    "titulo": "El golpeo de Riquelme y un gran Valles impulsan al Betis ante la Real Sociedad",
-    "medio": "El País",
-    "fecha": 1787347593.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-21/el-golpeo-de-riquelme-y-un-gran-valles-impulsan-al-betis-ante-la-real-sociedad.html",
-    "resumen": "Los andaluces fueron mejores, aunque sufrieron en el tramo final y se salvaron gracias a las intervenciones de su portero"
   },
   {
     "titulo": "Del azul Klein a la distinción de Tiffany",
@@ -189,13 +252,6 @@
     "resumen": "Los dos grupos, que forman un alianza que quedó en segundo puesto en el proceso, presentan alegaciones por las bajas temerarias de la virtual ganadora, Veolia, y otras dos licitadoras. En juego, mil millones de euros. Leer"
   },
   {
-    "titulo": "Un sólido Betis arranca la liga con victoria ante una competitiva Real Sociedad",
-    "medio": "El Mundo",
-    "fecha": 1787347183.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/21/6a88c066e4d4d85d498b459b.html",
-    "resumen": "Rodrigo Riquelme fue el autor del gol que dio el triunfo a los verdiblancos Leer"
-  },
-  {
     "titulo": "Ibiza y Formentera, las islas de verano de Ramón Freixa",
     "medio": "Expansión",
     "fecha": 1787347051.0,
@@ -229,13 +285,6 @@
     "fecha": 1787345596.0,
     "link": "https://www.europapress.es/nacional/noticia-gobierno-traslada-marruecos-rechazo-reivindicaciones-soberania-ceuta-melilla-son-espanolas-20260821225316.html",
     "resumen": "El Gobierno ha hecho llegar a Marruecos su rechazo a las reivindicaciones de Marruecos sobre Ceuta y Melilla y ha defendido que \"son dos ciudades españolas\" que conforman \"la integridad territorial\" y la \"soberanía\" de España."
-  },
-  {
-    "titulo": "Apoteósico y emocionante regreso de Victorino a Málaga",
-    "medio": "El Mundo",
-    "fecha": 1787345047.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/08/21/6a8863cefc6c8356438b45ba.html",
-    "resumen": "Fortes cuaja una memorable faena a un toro extraordinario y sale a hombros con un importante Emilio de Justo; gesto de Escribano herido Leer"
   },
   {
     "titulo": "España replica a Marruecos que no negociará la soberanía de Ceuta y Melilla",
@@ -385,13 +434,6 @@
     "resumen": "En el mundo de las zapatillas deportivas hay pares de edición limitada que se han convertido en el santo grial de aquellos que siguen muy de cerca la escena del streetwear, y uno de los tesoros más codiciados del calzado deportivo son, justamente, un par que, fabricado una sola vez, ahora regresa para ser el tesoro de cualquier colección. En su momento, Nike obsequió por su cumpleaños número 40 a Michael Jordan unas zapatillas más que únicas, se trataba de un modelo con grabado láser que no sólo muestra cualquier estampado, sino que se trata de un reflejo de la historia personal y profesional de 'His Airness', donde destacan los elementos alusivos a la cultura del deporte, específicamente el básquetbol. Las Air Jordan 1 Low OG \"Laser\" son justamente un homenaje a un ícono, se trata de un modelo que, 23 años después de convertirse en un regalo muy significativo, ahora se convierten en el lienzo que captura la historia de una leyenda, grabada en piel premium con detalles en tono varsity red (quizá por el uniforme de los Bulls de Chicago) y la suela blanca que aterriza estas zapatillas como un básico para las calles. Tomando como referencia los colores del grabado, la combinación de una tonalidad olivo con un detalle deportivo de una prenda en rojo será una gran opción, y como muestra, un pantalón baggy con bolsillos cargo (disponible por 35,99 euros) a juego con una camiseta de doble manga en tono rojo (disponible por 22,99 euros) crearán un gran estilismo de inspiración Y2K. Si quieres sumar a tu colección un par de las que son las zapatillas imposibles de conseguir, tendrás que recordar que mañana, 22 de agosto, salen a la venta a un precio de 159,99 euros. Fotos de Nike | Bershka En Trendencias | Vans ha convertido las zapatillas más cómodas para la ciudad en los mocasines más elegantes para llevar hasta con traje En Xataka | Pensábamos que los 28 °C del Mediterráneo eran una maravilla para bañarse. Pero el calor acumulado en agosto se paga en septiembre En Decoesfera | Ángeles Martínez, interiorista: \"Si tienes los cubos de basura debajo del fregadero, hay una mejor opción\" - La noticia Michael Jordan recibió estas zapatillas por su 40 cumpleaños. 23 años después regresan para seguir haciendo historia fue publicada originalmente en Trendencias por Joel Calata ."
   },
   {
-    "titulo": "Indignación contra el 'streamer' Aruberuto Makoto por acosar sexualmente a una joven",
-    "medio": "La Vanguardia",
-    "fecha": 1787338747.0,
-    "link": "https://www.lavanguardia.com/vida/20260821/11617891/indignacion-redes-streamer-espanol-aruberuto-makoto-acosar-sexualmente-directo-joven.html",
-    "resumen": "La chica, en claro estado de embriaguez, tuvo que pedir ayuda a un transeúnte para que pararan de grabarla"
-  },
-  {
     "titulo": "¿Por qué juzgan a un hombre por el asesinato del rapero Tupac Shakur 30 años después de su asesinato?",
     "medio": "El País",
     "fecha": 1787338454.0,
@@ -455,13 +497,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Meghan Markle negocia su regreso a la televisión con un papel en ‘The Gentlemen’ de Netflix",
-    "medio": "La Vanguardia",
-    "fecha": 1787336492.0,
-    "link": "https://www.lavanguardia.com/gente/20260821/11617888/meghan-markle-negocia-regreso-television-papel-the-gentlemen-netflix.html",
-    "resumen": "La duquesa de Sussex estaría negociando su primer papel de relevancia desde que dejó la interpretación tras su boda con el príncipe Harry"
-  },
-  {
     "titulo": "Detenido por una agresión sexual a una joven de 22 años cerca del Trampolín de Ceuta: ambos son marroquíes",
     "medio": "El Español",
     "fecha": 1787336261.0,
@@ -483,25 +518,11 @@
     "resumen": "OPPO es uno de los fabricantes de smartphones más importantes del mercado. Con el lanzamiento de la familia Find X9, la marca china ha aumentado enormemente su cuota de mercado, y lo mejor de todo es que ahora podemos hacernos con ella a un precio fantástico. Esto es posible gracias a las ofertas de \"La Vuelta al Cole\" de OPPO, en las que podemos encontrar los diferentes modelos de la gama Find X9 con descuentos. Tanto el modelo Find X9 Pro como el Find X9 cuentan con un descuento directo de 100 euros. Además, a eso hay que sumar el cupón DES-2026-50%stuOff, compatible con los móviles y productos IoP de la marca, o el cupón IEX9ULTRA para estudiantes, así como los descuentos del sistema \"Trade-in\" entregando nuestro viejo teléfono. Y por si fuera poco, con estos teléfonos OPPO también nos hace un regalo totalmente gratis. Sin embargo, si nos tenemos que quedar con nuestras ofertas favoritas, sin duda alguna serían estas cuatro: OPPO Find X9 Ultra desde 1.194,15 euros, el teléfono más premium de la marca. OPPO Find X9 Pro desde 769,15 euros, una opción mucho más equilibrada en precio sin sacrificar potencia. OPPO Find X9 desde 514,15 euros, uno de los mejores teléfonos de la gama media. OPPO Reno 16 F desde 274,15 euros, un gran teléfono para presupuestos más ajustados. OPPO Find X9 Ultra El OPPO Find X9 Ultra es el mejor teléfono que la marca ha lanzado hasta la fecha. Destaca especialmente por tener una de las mejores cámaras del mercado, hasta el punto de que es casi como llevar una cámara en el bolsillo. Su rendimiento también es excelente y tiene un diseño con mucha personalidad. Lo mejor es que, aplicando el cupón DES-2026-50%stuOff y haciendo uso del sistema Trade-In, podemos conseguirlo desde 1.194,15 euros, con los auriculares OPPO Enco Clip 2 Open Earbuds o los OPPO Enco X3s de regalo. OPPO Find X9 Pro El OPPO Find X9 Pro se encuentra un pequeño escalón por debajo de su hermano mayor, pero sigue siendo un teléfono espectacular para cualquier usuario. Su sistema fotográfico es increíble, y su rendimiento no se queda por demasiado por detrás del modelo Ultra. Solo hace pequeñas concesiones, como la ausencia de carga magnética o una menor carga rápida. En este caso, aplicando el cupón DES-2026-50%stuOff y haciendo uso del sistema Trade-In, podemos conseguirlo desde 769,15 euros, con los auriculares OPPO Enco Clip 2 Open Earbuds o los OPPO Enco X3s de regalo. OPPO Find X9 El OPPO Find X9, por su parte, se posiciona como la opción perfecta para los que busquen un teléfono con unas especificaciones fantástica y un precio mucho más atractivo. Su autonomía es fantástica, ofreciendo hasta casi 3 días sin pasar por el cargador. Además, el Dimensity 9500 es un SoC muy potente, y su pantalla es digna de teléfonos mucho más caros. Al igual que los anteriores casos, aplicando el cupón DES-2026-50%stuOff y haciendo uso del sistema Trade-In, podemos conseguirlo desde 514,15 euros, con los auriculares OPPO Enco Clip 2 Open Earbuds o los OPPO Enco X3s de regalo. OPPO Reno 16 F Dejando de lado la familia Find X9, el OPPO Reno 16 F se posiciona como un teléfono ideal para el que busque algo más económico. A nivel de rendimiento, el MediaTek 7300 será más que suficiente para casi cualquier tarea. Además, incorpora un sistema de 3 cámaras con teleobjetivo y gran angular, algo más típico de teléfonos más caros. En este caso, aplicando el cupón DES-2026-50%stuOff y haciendo uso del sistema Trade-In, podemos conseguirlo desde 274,15 euros. En este caso, el regalo que nos ofrece la marca es la funda magnética OPPO Reno16F/FS Magnetic Protective o la edición limitada de la OPPO Reno16 Series x BABYMONSTER Limited Edition Charm. Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | OPPO En Xataka | Mejores móviles en calidad precio. Cuál comprar en función del uso y diez modelos recomendados En Xataka | Mejores tablets en calidad precio. Cuál comprar en función del uso y siete modelos recomendados - La noticia Toda la familia OPPO Find X9 cae de precio con las ofertas de \"La Vuelta al Cole\" de OPPO fue publicada originalmente en Xataka por Fran San Nicolás ."
   },
   {
-    "titulo": "Al menos 19 muertos en un ataque ruso a un centro comercial de Kriví Rih, la ciudad natal de Zelenski",
-    "medio": "La Vanguardia",
-    "fecha": 1787335969.0,
-    "link": "https://www.lavanguardia.com/internacional/20260821/11617882/14-muertos-121-heridos-ataque-ruso-centro-comercial-krivi-rig-ciudad-natal-zelenski.html",
-    "resumen": "El presidente ucraniano tacha la ofensiva de “golpe cobarde” y “acto terrorista”"
-  },
-  {
     "titulo": "Marruecos reivindica su \"derecho histórico y geográfico\" sobre Ceuta y Melilla y reclama su \"retorno al seno de la patria\"",
     "medio": "El Español",
     "fecha": 1787335962.0,
     "link": "https://www.elespanol.com/espana/20260821/marruecos-ceuta-melilla-reclama-derecho-historico-geografico-retorno-seno-patria/1003744359954_0.html",
     "resumen": "Exteriores \"rechaza tajantemente cualquier planteamiento distinto\" a la realidad de que Ceuta y Melilla son ciudades españolas.El ministro de Justicia marroquí insiste en el diálogo con el gobierno español al respecto.Más información. Rabat cuestiona la soberanía española en Ceuta y Melilla: \"Seguimos reivindicando nuestros territorios\""
-  },
-  {
-    "titulo": "Gil Marín no vende a Julián, pide que lo cuiden y dispara contra su agente y el Barça: “Nos faltan al respeto... quieren dividirnos”",
-    "medio": "La Vanguardia",
-    "fecha": 1787335674.0,
-    "link": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260821/11617881/gil-marin-vende-julian-pide-cuiden-dispara-agente-barca-faltan-respeto-quieren-dividirnos.html",
-    "resumen": "El CEO del Atlético de Madrid, en unas declaraciones recogidas por EFE, cierra el caso del delantero argentino insistiendo en que no lo venden y acusa al club culé de “faltar el respeto”"
   },
   {
     "titulo": "Se acabó la espera: Dave Bautista será Kratos en la serie de 'God of War' de Prime Video tras la lesión del anterior actor",
@@ -530,13 +551,6 @@
     "fecha": 1787335029.0,
     "link": "https://theobjective.com/internacional/2026-08-21/ministro-marroqui-derecho-historico-ceuta-melilla/",
     "resumen": "Marruecos no se detiene. Su ministro de Justicia, Abdellatif Ouahbi, ha reafirmado este viernes que las ciudades españolas de Ceuta y Melilla constituyen un «derecho histórico […]"
-  },
-  {
-    "titulo": "El nuevo Barça se presenta en el Gamper: “Bienvenidas al mejor equipo del mundo”",
-    "medio": "La Vanguardia",
-    "fecha": 1787334359.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260821/11617874/nuevo-barca-presenta-gamper-bienvenidas-mejor-equipo-mundo.html",
-    "resumen": "Patri Guijarro se estrenó como nueva líder: “Asumo la responsabilidad de ser la capitana del mejor equipo del mundo con ilusión y mucho orgullo”"
   },
   {
     "titulo": "Al menos 14 muertos y 121 heridos en un centro comercial ucraniano tras un ataque de Rusia",
@@ -574,13 +588,6 @@
     "resumen": "Much of the Left has been debating “Woke 1” recently. Less discussed has been the Right’s own version of wokeness, characterized by censorship, attacks on free speech, and even jailing and deporting critics."
   },
   {
-    "titulo": "Margaret Qualley se atreve con las controvertidas sandalias sin suela de Chanel en el estreno de 'La constelación del perro'",
-    "medio": "La Vanguardia",
-    "fecha": 1787331743.0,
-    "link": "https://www.lavanguardia.com/gente/20260821/11617851/margaret-qualley-atreve-controvertidas-sandalias-suela-chanel-estreno-constelacion-perro.html",
-    "resumen": "La intérprete ha vuelto a confiar en la casa francesa para una de sus grandes apariciones públicas"
-  },
-  {
     "titulo": "En 2007, una pareja de Florida compró un pantano inmenso para evitar la urbanización. La naturaleza les ha devuelto el favor con creces",
     "medio": "Xataka",
     "fecha": 1787331693.0,
@@ -593,13 +600,6 @@
     "fecha": 1787331693.0,
     "link": "https://www.trendencias.com/shopping/corte-ingles-rebaja-zapatillas-skechers-para-caminatas-largas-dolor-pies-ligeras-bonitas",
     "resumen": "Ahora que llega el momento de ir diciéndole hasta luego a las sandalias planas, o al menos aparcarlas los días más fríos o en que amenace lluvia, toca contar en el zapatero con unas zapatillas ligeras y cómodas para afrontar el día a día. No tenemos dudas acerca de nuestra marca favorita para hacerlo: Skechers. Y es que esta marca estadounidense se ha ganado un hueco en el corazón de todas aquellas mujeres que tenemos los pies anchos, delicados, queremos caminar mucho o tenemos que pasar todo el día de pie. ¿Por qué? porque su calzado ofrece todo el confort que necesitamos. Como estas Skech-Lite Pro 2.0 Brilliant Shimmer rebajadas hoy en El Corte Inglés por 69,95 euros 41,95 euros. Skechers Estas zapatillas están disponibles en color nube de algodón con detalles dorados en el talón, unas sneakers urbanas fáciles de combinar en todo tipo de outfits diarios. Podremos llevarlas con pantalones vaqueros anchos y claritos, faldas midi o cualquier otro estilismo recién salido del trabajo y quedar con alguna amiga para caminar un buen rato mientras nos ponemos al día. Con amortiguación extra y una plantilla que es toda suavidad, su parte superior permite transpirar al pie sin problemas. Para empezar el otoño con buen pie yo no pienso quedarme sin ellas. Los pantalones perfectos para llevar con estas Skechers Uniqlo Los vaqueros culotte fueron una de las estrellas de este verano 2026, y nos negamos a dejarlos durante el otoño por cómodos y estilosos. Estos de Uniqlo en color azul con largo midi y permera ancha son perfectos para llevar con nuestras brillantes zapatillas Skechers, así como con una chaqueta corta de corte cuadrado. Ahora por 39,90 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @annabelrosendahl |El Corte Inglés, Uniqlo En Trendencias | Zapatillas 2026: los modelos tendencia que más se llevan y que todo amante de la moda quiere tener En Motorpasión Moto| Fonsi Nieto, 47 años: \"Mi día a día es sencillo. Madrugo, voy al gimnasio y me acerco a la playa. Si hace bueno, pillo el barco y navego hasta Formentera\" En Xataka| Pensábamos que los 28 °C del Mediterráneo eran una maravilla para bañarse. Pero el calor acumulado en agosto se paga en septiembre - La noticia El Corte Inglés rebaja las zapatillas Skechers para las caminatas más largas sin dolor de pies: ligeras y bonitas fue publicada originalmente en Trendencias por Patricia García Varela ."
-  },
-  {
-    "titulo": "La vuelta a la rutina pide nueva tablet: modelos de Teclast para estudiar, trabajar y desconectar",
-    "medio": "La Vanguardia",
-    "fecha": 1787331600.0,
-    "link": "https://www.lavanguardia.com/comprar/tecnologia/20260821/11617336/vuelta-rutina-pide-estrenar-tablet-modelos-teclast-estudiar-trabajar-desconectar-gastar-mas-mkt-alie.html",
-    "resumen": "Pantallas amplias, buena autonomía y precios ajustados convierten a estas tablets en grandes aliadas para todo lo que trae septiembre"
   },
   {
     "titulo": "Brutal ataque con drones de Rusia contra un centro comercial de Ucrania: al menos 14 muertos y 121 heridos",
