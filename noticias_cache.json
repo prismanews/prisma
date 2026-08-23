@@ -1,17 +1,220 @@
 [
   {
-    "titulo": "Elche - Barcelona en directo | Comienza la segunda mitad en el Martínez Valero",
-    "medio": "El País",
-    "fecha": 1787518069.0,
-    "link": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "resumen": "Raphinha adelantó a los de Flick con un tanto de penalti que él mismo provocó y Adeyemi marcó el segundo | Gavi se marchó lesionado y entró Pedri"
+    "titulo": "Borregos",
+    "medio": "La Vanguardia",
+    "fecha": 1787524200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618596/borregos.html",
+    "resumen": "Las compañías aéreas erigen un muro tecnológico para acabar con la paciencia del cliente"
   },
   {
-    "titulo": "Directo Elche – Barcelona, en tiempo real: estadísticas en vivo, cronología, dónde ver, y goles online del partido de la Liga online hoy (0-2)",
+    "titulo": "Ser críticos",
+    "medio": "La Vanguardia",
+    "fecha": 1787524200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618602/criticos.html",
+    "resumen": "Enséñese a leer, memorizar, razonar, y a ser imaginativos sin usar ChatGPT"
+  },
+  {
+    "titulo": "Habitación con vistas al mar",
+    "medio": "La Vanguardia",
+    "fecha": 1787524200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618605/habitacion-vistas-mar.html",
+    "resumen": "En Mallorca, la playa es un hotel sin recepción, ni licencia, ni tasa turística y sin factura"
+  },
+  {
+    "titulo": "Verano tóxico (y 2)",
+    "medio": "La Vanguardia",
+    "fecha": 1787524200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618600/verano-toxico-2.html",
+    "resumen": "No basta con decir que el debate está polarizado; lo que respiramos es un aire cargado de humo negro y denso"
+  },
+  {
+    "titulo": "‘My name is Luca’",
+    "medio": "La Vanguardia",
+    "fecha": 1787524200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618603/my-name-is-luca.html",
+    "resumen": "Luca nos recuerda que no sabemos de dónde venimos, pero sí dónde acabaremos"
+  },
+  {
+    "titulo": "Erola Jons y Pogachitar",
+    "medio": "El País",
+    "fecha": 1787523794.0,
+    "link": "https://elpais.com/deportes/ciclismo/2026-08-23/erola-jons-y-pogachitar.html",
+    "resumen": "Por qué deben tolerar los hombres ser tratados como un objeto, qué reacción hubiese provocado que la misma situación se diese a la inversa en el Tour de Francia femenino"
+  },
+  {
+    "titulo": "Raphinha: “Me siento cómodo jugando de nueve”",
+    "medio": "La Vanguardia",
+    "fecha": 1787523283.0,
+    "link": "https://www.lavanguardia.com/deportes/20260824/11618677/raphinha-me-siento-comodo-jugando-nueve.html",
+    "resumen": "El brasileño, autor de dos goles, firma un gran partido ante el Elche actuando de delantero centro"
+  },
+  {
+    "titulo": "La marca Flick se impone en el Barça, que tritura al Elche en su estreno en Liga",
+    "medio": "El País",
+    "fecha": 1787522760.0,
+    "link": "https://elpais.com/deportes/futbol/2026-08-23/la-marca-flick-se-impone-en-el-barca-que-tritura-al-elche-en-su-estreno-en-liga.html",
+    "resumen": "Los azulgrana golean después de un excelente ejercicio de puntería liderado por la versatilidad de Raphinha y la generosidad de Gordon con Lamine Yamal de espectador"
+  },
+  {
+    "titulo": "“El caminante elige fijarse en los pájaros o en las cacas del camino”",
+    "medio": "La Vanguardia",
+    "fecha": 1787522700.0,
+    "link": "https://www.lavanguardia.com/lacontra/20260824/11618642/adanowsky-adan-jodorowsky-caminante-elige-fijarse-pajaros-cacas-camino.html",
+    "resumen": "Tengo 45 años. Nací en París y vivo en México. Soy músico, compositor y cantante (tres Grammy), cineasta y psicoterapeuta chamánico. Tengo un hijo, Alión (8). ¿ Política? Misterioso. ¿ Creencias? Creo en el vacío, conciencia indefinida. Cada milisegundo hay una muerte . El arte es la humanidad. (Foto: Mané Espinosa)"
+  },
+  {
+    "titulo": "La emergencia climática de Europa",
+    "medio": "La Vanguardia",
+    "fecha": 1787522700.0,
+    "link": "https://www.lavanguardia.com/opinion/20260824/11618650/emergencia-climatica-europa.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Raphinha lidera la goleada del Barcelona en su debut en Liga contra el Elche",
+    "medio": "The Objective",
+    "fecha": 1787522649.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-08-24/raphinha-lidera-goleada-barcelona-elche/",
+    "resumen": "El FC Barcelona goleó (0-5) al Elche este domingo como estreno en LaLiga EA Sports, dentro de una segunda jornada celebrada en el Martínez Valero donde […]"
+  },
+  {
+    "titulo": "Por qué Prada ha decidido desafiar el lujo francés",
+    "medio": "Expansión",
+    "fecha": 1787522592.0,
+    "link": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8866eee5fdea07158b4572.html",
+    "resumen": "La compra de Versace por Prada por un valor de empresa de 1.250 millones de euros trasciende la oportunidad financiera. La operación devuelve una de las grandes casas italianas a un grupo nacional y plantea una cuestión estratégica para una industria dominada por gigantes franceses como LVMH y Kering: quién controlará el futuro del lujo europeo. Leer"
+  },
+  {
+    "titulo": "Verónica García (Schneider Electric): \"Ninguna política funciona si el liderazgo no la practica\"",
+    "medio": "Expansión",
+    "fecha": 1787522544.0,
+    "link": "https://www.expansion.com/directivos/2026/08/24/6a7f2eeee5fdea33548b4592.html",
+    "resumen": "Responsable de seguridad, salud y bienestar para Schneider Electric en Iberia desde el pasado noviembre, se incorporó a la multinacional hace más de una década. Leer"
+  },
+  {
+    "titulo": "El palacio convertido en Parlamento",
+    "medio": "Expansión",
+    "fecha": 1787522543.0,
+    "link": "https://www.expansion.com/directivos/2026/08/24/6a883d8c468aeb777d8b4570.html",
+    "resumen": "El edificio de las cámaras de los Comunes y los Lores se reconoce como un símbolo de la democracia parlamentaria moderna y alberga siglos de historia del Reino Unido. Leer"
+  },
+  {
+    "titulo": "Colombia y Perú se alinean con la política de seguridad de Trump",
+    "medio": "Expansión",
+    "fecha": 1787522537.0,
+    "link": "https://www.expansion.com/latinoamerica/2026/08/24/6a8b57ece5fdeabf618b456f.html",
+    "resumen": "De la Espriella y Fujimori anuncian la integración de sus países al Escudo de las Américas, la cumbre de seguridad creada por Donald Trump que promete combatir el narcotráfico. Leer"
+  },
+  {
+    "titulo": "Rodríguez Zapatero o la vieja impostura",
+    "medio": "Expansión",
+    "fecha": 1787522536.0,
+    "link": "https://www.expansion.com/directivos/2026/08/24/6a884f7e468aeb26788b4574.html",
+    "resumen": "Tras el reciente escándalo de las joyas, ha quedado claro que el expresidente del Gobierno de España, quien se presentaba como liberal, era un impostor. Leer"
+  },
+  {
+    "titulo": "La inteligencia artificial, una máquina de emitir deuda",
+    "medio": "Expansión",
+    "fecha": 1787522511.0,
+    "link": "https://www.expansion.com/mercados/2026/08/24/6a8b3c75e5fdea53398b45a8.html",
+    "resumen": "Los mercados de crédito y de tipos de interés se tambalean ante el auge de las emisiones de deuda de los hiperescaladores y están cambiando parte del sistema financiero. Leer"
+  },
+  {
+    "titulo": "La última 'rentrée' de Sánchez",
+    "medio": "Expansión",
+    "fecha": 1787522510.0,
+    "link": "https://www.expansion.com/opinion/2026/08/24/6a8b603a468aeb7a788b458f.html",
+    "resumen": "A comienzos de curso de un año electoral, jamás ha estado el poder ejecutivo tan alejado de su zona de confort. Leer"
+  },
+  {
+    "titulo": "Las aseguradoras abrirán el nuevo curso pendientes de las catástrofes",
+    "medio": "Expansión",
+    "fecha": 1787522509.0,
+    "link": "https://www.expansion.com/empresas/seguros/2026/08/24/6a88a1d9468aebd76d8b4577.html",
+    "resumen": "Los desastres naturales no dan tregua: se suceden grandes incendios, terremotos, amenazas de dana y huracanes en América Latina. Leer"
+  },
+  {
+    "titulo": "El Barça empieza sobrado en Elche",
+    "medio": "Europa Press",
+    "fecha": 1787522242.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-empieza-sobrado-elche-20260823235722.html",
+    "resumen": "El FC Barcelona goleó (0-5) al Elche este domingo como estreno en LaLiga EA Sports, dentro de una segunda jornada celebrada en el Martínez Valero donde el campeón sacó el rodillo sin dificultad y los dobletes de Raphinha y Fermín López."
+  },
+  {
+    "titulo": "La UE redobla las críticas por los asentamientos israelíes en Cisjordania: “Son ilegales según el derecho internacional”",
+    "medio": "El País",
+    "fecha": 1787522152.0,
+    "link": "https://elpais.com/internacional/2026-08-23/la-ue-redobla-las-criticas-por-los-asentamientos-israelies-en-cisjordania-son-ilegales-segun-el-derecho-internacional.html",
+    "resumen": "La jefa de la diplomacia europea, Kaja Kallas, exige al Gobierno de Netanyahu que detenga los planes para construir la estratégica colonia E1, que imposibilitaría la creación de un Estado palestino"
+  },
+  {
+    "titulo": "El oficialista Adilet arrasa en unas elecciones sin suspense con las que Tokáyev blinda la estabilidad de Kazajistán",
+    "medio": "El Español",
+    "fecha": 1787521814.0,
+    "link": "https://www.elespanol.com/mundo/asia/20260823/oficialista-adilet-arrasa-elecciones-sin-suspense-tokayev-blinda-estabilidad-kazajistan/1003744360835_0.html",
+    "resumen": "El nuevo Kurultái se estrenará con una mayoría afín a la Presidencia y abrirá una etapa de reformas destinadas a impulsar el desarrollo del país.Más información: Kazajistán vota para afianzar en el poder a Tokáyev, el aliado de Putin que le pidió en público detener la guerra en Ucrania"
+  },
+  {
+    "titulo": "Muere Bunny Levine, actriz de La La Land, Thelma y Gilmore Girls a los 97 años",
+    "medio": "El Mundo",
+    "fecha": 1787521185.0,
+    "link": "https://www.elmundo.es/papel/cultura/2026/08/23/6a8b689fe9cf4a57078b457d.html",
+    "resumen": "La emblemática actriz falleció mientras dormía en su casa en Tarzana, en el estado de California Leer"
+  },
+  {
+    "titulo": "Así queda la clasificación de Liga tras la victoria del Barcelona sobre el Elche",
     "medio": "OK Diario",
-    "fecha": 1787518052.0,
+    "fecha": 1787520800.0,
+    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-sobre-elche-20161434",
+    "resumen": "Aquí llegó, aquí está el campeón. El Barcelona pasó por Elche como una máquina que lleva engrasada toda la temporada, quién diría que es el primer partido de la temporada. Todo fluyó en el equipo de Flick. El día que el debate se cernía sobre si necesitaba un ‘9’, entró todo. Raphinha y Fermín firmaron … Continuar leyendo \"Así queda la clasificación de Liga tras la victoria del Barcelona sobre el Elche\""
+  },
+  {
+    "titulo": "El Barça estrena la Liga sin 9 pero con una cómoda goleada al Elche gracias a Raphinha y Fermín",
+    "medio": "El Mundo",
+    "fecha": 1787520769.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/23/6a8b66d2fdddffaa2d8b4582.html",
+    "resumen": "El brasileño, que abrió el marcador, y el español anotaron dos goles y Adeyemi completó la fiesta azulgrana. Leer"
+  },
+  {
+    "titulo": "Puente no descarta ser el relevo de Sánchez, al que califica como «el ‘Jordan’ del PSOE»",
+    "medio": "The Objective",
+    "fecha": 1787520710.0,
+    "link": "https://theobjective.com/espana/politica/2026-08-23/puente-descarta-relevo-sanchez-califica-jordan-psoe/",
+    "resumen": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, deja abierta la puerta a presentarse para relevar al secretario general del PSOE, Pedro Sánchez, cuando llegue […]"
+  },
+  {
+    "titulo": "Resultado Elche – Barcelona: resumen, goles, estadísticas, cronología y cómo ha quedado el partido de la Liga (0-5)",
+    "medio": "OK Diario",
+    "fecha": 1787520632.0,
     "link": "https://okdiario.com/deportes/elche-barcelona-directo-alineaciones-ultima-hora-minuto-minuto-del-partido-liga-vivo-online-gratis-20159470",
-    "resumen": "El Barcelona comienza su participación en la Liga debutando frente al Elche en el partido que corresponde a la jornada 2 del campeonato y que se juega en el Martínez Valero. Los de Hansi Flick esperan poder arrancar con buen pie y sumando tres puntos a domicilio, tal y como hizo el Real Madrid el … Continuar leyendo \"Directo Elche – Barcelona, en tiempo real: estadísticas en vivo, cronología, dónde ver, y goles online del partido de la Liga online hoy (0-2)\""
+    "resumen": "El Barcelona comienza su participación en la Liga debutando frente al Elche en el partido que corresponde a la jornada 2 del campeonato y que se juega en el Martínez Valero. Los de Hansi Flick esperan poder arrancar con buen pie y sumando tres puntos a domicilio, tal y como hizo el Real Madrid el … Continuar leyendo \"Resultado Elche – Barcelona: resumen, goles, estadísticas, cronología y cómo ha quedado el partido de la Liga (0-5)\""
+  },
+  {
+    "titulo": "Raphinha, Fermín y los fichajes pegan el primer manotazo a la Liga",
+    "medio": "OK Diario",
+    "fecha": 1787520619.0,
+    "link": "https://okdiario.com/deportes/raphinha-fermin-fichajes-pegan-primer-manotazo-liga-20161086",
+    "resumen": "Raphinha y Fermín López han pegado el primer manotazo a la Liga con sus dobletes en el debut del campeón. Un Barcelona al que ir a medio gas le valió para golear a un nulo Elche en el Martínez Valero. El brasileño, utilizado de ‘9’ por la ausencia de una referencia ofensiva, abrió la lata de … Continuar leyendo \"Raphinha, Fermín y los fichajes pegan el primer manotazo a la Liga\""
+  },
+  {
+    "titulo": "Raphinha, Fermín y Gordon aplastan al Elche y firman la primera 'manita' del Barcelona en la temporada",
+    "medio": "El Español",
+    "fecha": 1787520409.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260823/raphinha-fermin-gordon-aplastan-elche-firman-primera-manita-barcelona-temporada/1003744360828_0.html",
+    "resumen": "Los dobletes del brasileño y el español y las dos asistencias del fichaje inglés fueron definitivas para el claro triunfo del equipo culé."
+  },
+  {
+    "titulo": "Dónde ver el resultado del Elche – Barcelona gratis por televisión en directo online el partido de la Liga",
+    "medio": "OK Diario",
+    "fecha": 1787518811.0,
+    "link": "https://okdiario.com/deportes/que-hora-juega-elche-barcelona-liga-horario-donde-ver-television-directo-partido-liga-20151369",
+    "resumen": "El Elche y el Barcelona se ven las caras en la jornada 2 de la Liga y se tienen que enfrentar en el Martínez Valero en lo que será un partido al que llegan los culés como claros favoritos, pero no podrán dar nada por sentado. Los de Hansi Flick esperan debutar en el campeonato … Continuar leyendo \"Dónde ver el resultado del Elche – Barcelona gratis por televisión en directo online el partido de la Liga\""
+  },
+  {
+    "titulo": "Ferran Torres rescata al PSG de Luis Enrique con un doblete el día de su debut",
+    "medio": "OK Diario",
+    "fecha": 1787518624.0,
+    "link": "https://okdiario.com/deportes/ferran-torres-rescata-psg-luis-enrique-doblete-dia-debut-20161310",
+    "resumen": "Ici, c’est Ferran Torres. Es su verano. Tocó el cielo en la final del Mundial y ha caído con buen pie en el PSG. El fútbol son estados de ánimo y el de Ferran anda con la flechita hacia arriba. Solo así se explica su irrupción para rescatar al equipo de Luis Enrique del descalabro. … Continuar leyendo \"Ferran Torres rescata al PSG de Luis Enrique con un doblete el día de su debut\""
   },
   {
     "titulo": "Alarmante debut de Iraola en el Liverpool",
@@ -42,13 +245,6 @@
     "resumen": "Juan Roig resume en una reflexión el equilibrio entre propósito y rentabilidad en el mundo empresarial. El presidente de Mercadona compara las necesidades básicas de las personas con las de las empresas para defender una idea sencilla: los beneficios no tienen por qué ser el único objetivo de una compañía, pero sí son necesarios para … Continuar leyendo \"Juan Roig (78 años): «Las personas no vivimos solo para comer, tampoco las empresas existimos solo para lograr beneficios, pero las personas no podemos vivir sin comer y las empresas no podemos vivir sin beneficios»\""
   },
   {
-    "titulo": "Alarma con Gavi: se lleva la mano a la rodilla y se va al vestuario entre lágrimas",
-    "medio": "OK Diario",
-    "fecha": 1787516634.0,
-    "link": "https://okdiario.com/deportes/alarma-gavi-lleva-mano-rodilla-va-vestuario-lagrimas-20161251",
-    "resumen": "Gavi hizo saltar las alarmas… otra vez. El centrocampista del Barcelona pidió el cambio en el minuto 44 del partido contra el Elche y abandonó el campo entre lágrimas. Aunque al principio parecía que el suyo no era un problema grave, el hecho de que se llevase la mano a la rodilla que se rompió … Continuar leyendo \"Alarma con Gavi: se lleva la mano a la rodilla y se va al vestuario entre lágrimas\""
-  },
-  {
     "titulo": "Los trabajadores del centro de menores La Purísima de Melilla convocan cuatro días de huelga en plena crisis migratoria",
     "medio": "HuffPost",
     "fecha": 1787516390.0,
@@ -63,7 +259,7 @@
     "resumen": "El Plan Infoex, dependiente de la Junta de Extremadura, ha dado por controlado el incendio forestal de Pinofranqueado (Cáceres) y ha reducido de 1 a 0 […]"
   },
   {
-    "titulo": "Trump clausura el 250 aniversario de EE. UU. con una carrera de Indycar en las calles de Washington",
+    "titulo": "Trump clausura el 250 aniversario de EE UU con una carrera de Indycar en las calles de Washington",
     "medio": "El País",
     "fecha": 1787515971.0,
     "link": "https://elpais.com/us/2026-08-23/trump-clausura-el-250-aniversario-de-ee-uu-con-una-carrera-de-indycar-en-las-calles-de-washington.html",
@@ -75,20 +271,6 @@
     "fecha": 1787515594.0,
     "link": "https://elpais.com/internacional/2026-08-23/al-menos-30-muertos-tras-el-derrumbe-de-un-vertedero-en-guinea-conakry.html",
     "resumen": "Las autoridades intensifican las tareas de rescate después de que fuertes tormentas provocaran el colapso de una montaña de basura en la capital del país africano"
-  },
-  {
-    "titulo": "Indukern mantiene las ventas en 456 millones e invierte un 2% más",
-    "medio": "Expansión",
-    "fecha": 1787515537.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/23/6a8b51c6e5fdea09478b45a1.html",
-    "resumen": "El conglomerado ralentiza su progresión y aumenta un 0,4% los ingresos. Leer"
-  },
-  {
-    "titulo": "Dónde ver el resultado del Elche – Barcelona gratis por televisión en directo gratis el partido de la Liga",
-    "medio": "OK Diario",
-    "fecha": 1787515511.0,
-    "link": "https://okdiario.com/deportes/que-hora-juega-elche-barcelona-liga-horario-donde-ver-television-directo-partido-liga-20151369",
-    "resumen": "El Elche y el Barcelona se ven las caras en la jornada 2 de la Liga y se tienen que enfrentar en el Martínez Valero en lo que será un partido al que llegan los culés como claros favoritos, pero no podrán dar nada por sentado. Los de Hansi Flick esperan debutar en el campeonato … Continuar leyendo \"Dónde ver el resultado del Elche – Barcelona gratis por televisión en directo gratis el partido de la Liga\""
   },
   {
     "titulo": "Mark, británico que ha vivido más de un año en España, revela cómo han variado sus hábitos desde que llegó: \"No son cambios de la noche a la mañana\"",
@@ -103,13 +285,6 @@
     "fecha": 1787515300.0,
     "link": "https://www.huffingtonpost.es/sociedad/nacho-barrueco-tiktoker-espana-e-irlanda-mas-conexion-pensamos-7-espanoles-nacidos-1990-2005-vivido-irlanda-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Home Capital vende dos edificios en Barcelona por 13 millones",
-    "medio": "Expansión",
-    "fecha": 1787514808.0,
-    "link": "https://www.expansion.com/catalunya/2026/08/23/6a8b4f73e5fdeaf9538b4598.html",
-    "resumen": "Un 'family office' ha adquirido los edificios, ubicados en el 22@ y en L'Eixample Leer"
   },
   {
     "titulo": "David Soria sostiene al Getafe y Enes Unal acaba con el Racing",
@@ -140,20 +315,6 @@
     "resumen": "El autodenominado \"jardinero\" madrileño ha fallecido a los 68 años sin que todavía haya trascendido la causa de la muerte. El jardín de Mas de les Voltes es uno de sus trabajos más conocidos. Más información: 'España Brutal': los gigantes de hormigón que dividen, fascinan y resisten el paso del tiempo"
   },
   {
-    "titulo": "Jornada 2 de la Liga: resumen de todos los partidos",
-    "medio": "OK Diario",
-    "fecha": 1787513491.0,
-    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
-    "resumen": "Con la primera jornada aún sin terminar, ya ha comenzado la jornada 2 de esta Liga del caos. Cuatro partidos aún no se han jugado o, lo que es lo mismo, ocho equipos no han debutado. Sin embargo, hay otros que ya han disputado su segundo duelo. Este fin de semana se disputa la segunda … Continuar leyendo \"Jornada 2 de la Liga: resumen de todos los partidos\""
-  },
-  {
-    "titulo": "Detenido un ultra del Barcelona a las puertas del Martínez Valero por agredir a un policía",
-    "medio": "OK Diario",
-    "fecha": 1787513436.0,
-    "link": "https://okdiario.com/deportes/detenido-ultra-del-barcelona-puertas-del-martinez-valero-agredir-policia-20160979",
-    "resumen": "Dos agentes de la Policía Nacional han detenido a un ultra del Barcelona que propinó varios puñetazos a uno de ellos en los aledaños del estadio Martínez Valero, según informó la cadena Cope. El individuo era un joven que vestía una camiseta del conjunto azulgrana y éste fue arrestado por agredir al cuerpo policial delante … Continuar leyendo \"Detenido un ultra del Barcelona a las puertas del Martínez Valero por agredir a un policía\""
-  },
-  {
     "titulo": "Ante la 'caída de los influencers', te recomendamos 26 creadores de contenido para resetear tu algoritmo",
     "medio": "HuffPost",
     "fecha": 1787513297.0,
@@ -182,25 +343,11 @@
     "resumen": "El consejero de Cultura, Turismo y Deporte de la Comunidad de Madrid, Mariano de Paco, ha destacado «el éxito» del Gran Premio de España de Fórmula […]"
   },
   {
-    "titulo": "Alonso se ilusiona tras puntuar en Zandvoort: “Me encanta este coche... más por llegar”",
-    "medio": "La Vanguardia",
-    "fecha": 1787511820.0,
-    "link": "https://www.lavanguardia.com/deportes/20260823/11618649/ilusionante-mensaje-alonso-puntuar-zandvoort-me-encanta-coche-mas-llegar-lol.html",
-    "resumen": ""
-  },
-  {
     "titulo": "El Zinemaldia rescata ‘Rocío’, la película censurada que denunció crímenes del franquismo",
     "medio": "Moncloa.com",
     "fecha": 1787511747.0,
     "link": "https://www.moncloa.com/2026/08/23/zinemaldia-pelicula-censurada-rocio-3419937/",
     "resumen": "El Zinemaldia recupera 'Rocío', el documental censurado en 1980 que denunció la represión franquista. Su proyección íntegra incluye un podcast en vivo. La entrada El Zinemaldia rescata ‘Rocío’, la película censurada que denunció crímenes del franquismo aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Flick, muy duro con Balde: “No está aquí al 100%”",
-    "medio": "La Vanguardia",
-    "fecha": 1787511714.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618658/flick-duro-balde-esta-100.html",
-    "resumen": "El técnico del Barça explica la ausencia del defensa de la convocatoria: “Le he dicho que lo mejor es que se aclare las ideas”"
   },
   {
     "titulo": "‘Cyberpunk 2077’ lleva casi seis años encerrando a los jugadores en Night City. Uno ha encontrado una forma de escapar",
@@ -224,13 +371,6 @@
     "resumen": "El eurodiputado representa una línea socialdemócrata moderada y atlantista, en contraste con las posturas euroescépticas y las posiciones internacionales de Mélenchon Leer"
   },
   {
-    "titulo": "Elche - FC Barcelona, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga",
-    "medio": "El Español",
-    "fecha": 1787511600.0,
-    "link": "https://www.elespanol.com/deportes/20260823/elche-fc-barcelona-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744360681_22.html",
-    "resumen": "El Barcelona de Hansi Flick, campeón de las dos últimas ediciones de La Liga, inicia la defensa del título con una plantilla reforzada, a la que le falta concretar el fichaje de un delantero centro, ante un Elche que se agarra al apoyo del Estadio Martínez Valero."
-  },
-  {
     "titulo": "Adiós a las apps que se comen la memoria de tu móvil: Android 17 trae una solución",
     "medio": "Hipertextual",
     "fecha": 1787511600.0,
@@ -238,25 +378,11 @@
     "resumen": "Con el correr de los años, el consumo de RAM de las apps para móviles se ha incrementado de forma dramática. Redes sociales y plataformas de mensajería suelen estar entre las principales que se comen la memoria del teléfono, generando un problema bastante grave en aquellos dispositivos que no son tope de gama. Por fortuna, […] Seguir leyendo: Adiós a las apps que se comen la memoria de tu móvil: Android 17 trae una solución"
   },
   {
-    "titulo": "Raphaël Glucksmann se declara candidato al Elíseo y disputará las primarias socialistas",
-    "medio": "La Vanguardia",
-    "fecha": 1787511594.0,
-    "link": "https://www.lavanguardia.com/internacional/20260823/11618640/raphael-glucksmann-declara-candidato-eliseo-disputara-primarias-socialistas.html",
-    "resumen": "El eurodiputado promete no aliarse nunca con la izquierda radical de Jean-Luc Mélenchon"
-  },
-  {
     "titulo": "Jep Llavador, joven catalán que vive en un piso de 3 metros cuadrados en Corea del Sur: \"Más de 100.000 personas viven en casas como esta\"",
     "medio": "HuffPost",
     "fecha": 1787511583.0,
     "link": "https://www.huffingtonpost.es/sociedad/jep-llavador-joven-catalan-vive-piso-3-metros-cuadrados-corea-sur-mas-100000-personas-viven-casas-f202608.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Australia pausa los visados para jóvenes de 23 países, incluida España",
-    "medio": "La Vanguardia",
-    "fecha": 1787511336.0,
-    "link": "https://www.lavanguardia.com/vida/20260823/11618648/australia-pausa-visados-jovenes-23-paises-incluido-espana.html",
-    "resumen": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior"
   },
   {
     "titulo": "Yihad Islámica Palestina Gaza condiciona el alto el fuego",
@@ -287,27 +413,6 @@
     "resumen": "Salvamento Marítimo busca al hombre de 66 años desde el pasado viernes"
   },
   {
-    "titulo": "Israel dice a Hamás que intensificará sus bombardeos si no cesan los lanzamientos de cometas desde Gaza",
-    "medio": "El País",
-    "fecha": 1787511050.0,
-    "link": "https://elpais.com/internacional/2026-08-23/israel-dice-a-hamas-que-intensificara-sus-bombardeos-si-no-cesan-los-lanzamientos-de-cometas-desde-gaza.html",
-    "resumen": "El Gobierno de Netanyahu también amenaza con nuevas evacuaciones masivas de la población civil en la Franja, en pleno estancamiento de las negociaciones impulsadas por EE UU"
-  },
-  {
-    "titulo": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
-    "medio": "El País",
-    "fecha": 1787510860.0,
-    "link": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html",
-    "resumen": "Sanidad ve “injustificada” y “desmesurada” la medida de confinamiento reclamada por el líder del PP y asegura que el riesgo de transmisión a la población es bajo y moderado entre los inmigrantes"
-  },
-  {
-    "titulo": "Tailandia deporta a cinco instructores de buceo españoles",
-    "medio": "La Vanguardia",
-    "fecha": 1787510765.0,
-    "link": "https://www.lavanguardia.com/vida/20260823/11618625/tailandia-deporta-cinco-instructores-buceo-espanoles.html",
-    "resumen": "Bangkok aumenta la presión sobre los extranjeros sin permiso de trabajo y las empresas con testaferros"
-  },
-  {
     "titulo": "Los controles fronterizos a viajeros de Italia afectan ya a más de 8.200 personas",
     "medio": "The Objective",
     "fecha": 1787510260.0,
@@ -329,13 +434,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Taxistas denuncian que los crucerista pierden barcos y aviones por culpa del caos del puerto",
-    "medio": "La Vanguardia",
-    "fecha": 1787509381.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260823/11618641/taxistas-denuncian-crucerista-pierden-barcos-aviones-culpa-caos-puerto.html",
-    "resumen": "Élite Taxi asegura que algunos domingos tardan hasta tres horas en entrar y salir de las terminales"
-  },
-  {
     "titulo": "Hace 2.000 años los romanos conquistaron los Alpes. Lo hicieron gracias a este campamento escondido a 2.200 metros de altura",
     "medio": "Xataka",
     "fecha": 1787508093.0,
@@ -348,13 +446,6 @@
     "fecha": 1787508093.0,
     "link": "https://www.trendencias.com/sneakers/nuevas-hoka-aguamarina-que-aman-pijas-madrilenas-para-ir-directas-gimnasio-a-oficina-porque-ideales-extra-comodas",
     "resumen": "La llegada de septiembre viene acompañada de muchas vueltas a la rutina. Regresamos a la oficina, pero también al gym y queremos tener tiempo para todo. Por eso, muchas apostamos por hacer deporte antes o después del trabajo y necesitamos no llevar el armario a cuestas. Ni falta que hace, porque estas Hoka son unas deportivas de gimnasio tan bonitas que seguirán dándote estilo en tu jornada laboral. Las nuevas Mach x 3 de Hoka son unas zapatillas de tendencia muy todoterreno, que se suben a la estética gorpcore que reina en 2026. Su tonalidad aguamarina es dulce, refrescante y bonita, poniendo la nota de color en los estilismos sobrios del otoño para evitar caer en la seriedad extrema y seguir sorprendiendo con tus looks. Estas zapas vienen realizadas en tejido de malla muy ligero y flexible, que se adapta a los pies con efecto calcetín para evitar cualquier rozadura. Por eso son perfectas fuera del ámbito deportivo, sirviéndonos comodidad 24/7 en los días más largos y agotadores y asegurándose de que nuestro estilo streetwear no falle jamás. Este azul claro de las Hoka queda precioso con tonos visualmente más pesados, como el marrón chocolate. Por eso, combinarlas dentro de estilismos profesionales, como total looks con trajes de chaqueta, es la mejor forma de que las Hoka destaquen y aporten su toque cool y aesthetic a tu combi. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | @courtneecrews, El Corte Inglés, @holliemercedes. En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. En Motorpasión | Fonsi Nieto, 47 años: \"Mi día a día es sencillo. Madrugo, voy al gimnasio y me acerco a la playa. Si hace bueno, pillo el barco y navego hasta Formentera\". En Xataka | Pensábamos que los 28 °C del Mediterráneo eran una maravilla para bañarse. Pero el calor acumulado en agosto se paga en septiembre. - La noticia Las nuevas Hoka aguamarina que aman las pijas madrileñas para ir directas del gimnasio a la oficina, porque son ideales y extra cómodas fue publicada originalmente en Trendencias por Pepa López ."
-  },
-  {
-    "titulo": "¡Descaso! (0-2) | El Barça debuta en Liga visitando al Elche",
-    "medio": "La Vanguardia",
-    "fecha": 1787508016.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260823/11618626/elche-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-    "resumen": ""
   },
   {
     "titulo": "Adiós a las actualizaciones para estos Xiaomi. Se acaba su soporte: no recibirán nada más",
@@ -376,13 +467,6 @@
     "fecha": 1787507969.0,
     "link": "https://theobjective.com/deportes/futbol/2026-08-23/atletico-empata-villarreal-pitos-julian-metropolitano/",
     "resumen": "El Atlético de Madrid empató (2-2) contra el Villarreal este domingo en la segunda jornada de LaLiga EA Sports celebrada en un Riyadh Air Metropolitano que […]"
-  },
-  {
-    "titulo": "El Liverpool salva un empate de penalti provocado por Víctor Muñoz en el debut de Araújo",
-    "medio": "La Vanguardia",
-    "fecha": 1787507668.0,
-    "link": "https://www.lavanguardia.com/deportes/20260823/11618636/liverpool-salva-empate-penalti-provocado-victor-munoz-debut-araujo.html",
-    "resumen": "El joven extremo del Turó de la Peira, fichado del Osasuna, arrancó un penalti en el minuto 96; Araújo jugó los últimos 30 minutos"
   },
   {
     "titulo": "Sanciones EE.UU. Irán: Teherán advierte a sus vecinos de que cooperar con Trump los convertirá en enemigos",
@@ -455,13 +539,6 @@
     "resumen": "El etíope deja atrás los 57:20 de Kiplimo este mismo año en Lisboa Leer"
   },
   {
-    "titulo": "Feijóo sabía que Ayuso buscaba una «sede temporal», pero cuestiona la compra del ático",
-    "medio": "The Objective",
-    "fecha": 1787504737.0,
-    "link": "https://theobjective.com/espana/politica/2026-08-23/feijoo-ayuso-sede-temporal-cuestiona-compra-atico/",
-    "resumen": "El líder del PP, Alberto Núñez Feijóo, ha asegurado que conoce desde abril que el Gobierno madrileño que dirige Isabel Díaz Ayuso buscaba un lugar para […]"
-  },
-  {
     "titulo": "Hallado el cadáver de un hombre en Gátova tras el realojo de las evacuados por el incendio de la Sierra Calderona",
     "medio": "eldiario.es",
     "fecha": 1787504512.0,
@@ -483,13 +560,6 @@
     "resumen": "Si llevas el tiempo suficiente frente a un PC, el Windows Media Player (o Reproductor de Windows Media) seguramente tenga un lugar especial en tu corazón. La aplicación fue una pieza crucial de múltiples versiones del sistema operativo de Microsoft, pero la empresa fue poco a poco dejándola en el olvido. Y ahora está rompiendo […] Seguir leyendo: Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app"
   },
   {
-    "titulo": "España y otros cinco países piden a la UE un impuesto a los beneficios de las petroleras por la guerra de Irán",
-    "medio": "Expansión",
-    "fecha": 1787504244.0,
-    "link": "https://www.expansion.com/economia/2026/08/23/6a8afa19468aeba91e8b45a7.html",
-    "resumen": "Los ministros de Economía y Finanzas de España, Alemania, Austria, Italia, Portugal y Polonia han solicitado a la Presidencia irlandesa del Consejo de la Unión Europea la apertura de un debate a 27 sobre la declaración de un impuesto al beneficio de petroleras por la guerra de Irán durante la próxima cumbre informal del Ecofin que se celebrará los días 18 y 19 de septiembre en Dublín. Leer"
-  },
-  {
     "titulo": "Matthew Brennan gana en Manosque y Pogacar pelea para evitar perder el rojo del liderato",
     "medio": "El Mundo",
     "fecha": 1787503512.0,
@@ -504,32 +574,11 @@
     "resumen": "La vuelta a la vida pública de la Primera Dama en medio del culebrón sobre el estrecho vínculo del presidente con Natalie Harp desata todo tipo de teorías.Más información: Evangélica, cáncer de huesos y 4 años en silla de ruedas: Natalie Harp, la asistente de Trump que le escribe cartas íntimas"
   },
   {
-    "titulo": "Feijóo pide confinar a los inmigrantes infectados por \"riesgo sanitario\" y la ministra de Sanidad lo descarta al verlo \"injustificado\" y \"desmesurado\"",
-    "medio": "El Mundo",
-    "fecha": 1787503225.0,
-    "link": "https://www.elmundo.es/espana/2026/08/23/6a8b1e6ffc6c833d098b4590.html",
-    "resumen": "El líder del PP se refiere al brote de sarna, que se ha extendido incluso a policías, y casos de gastroenteritis o tuberculosis Leer"
-  },
-  {
-    "titulo": "Putin se agarra al milagro de un príncipe incorrupto del siglo XIV para levantar la moral de su alicaída soldadesca en Ucrania",
-    "medio": "El Mundo",
-    "fecha": 1787503051.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/23/6a8ad0a6e9cf4af05b8b458b.html",
-    "resumen": "El autócrata del Kremlin celebra el hallazgo de los restos en extraordinario estado del gran príncipe Dmitri Donskói Leer"
-  },
-  {
     "titulo": "El exministro de Defensa de Zelenski planta cara al presidente ucraniano por la corrupción y pide elecciones",
     "medio": "eldiario.es",
     "fecha": 1787503001.0,
     "link": "https://www.eldiario.es/internacional/exministro-defensa-zelenski-planta-cara-presidente-ucraniano-corrupcion-pide-elecciones_1_13462696.html",
     "resumen": "Destituido en el mes de julio, Fedorov abrió el debate sobre la necesidad de celebrar elecciones en Ucrania la semana pasada, un tema tabú en el país desde que se declaró la Ley marcial en febrero de 2022 y que ha dejado al país europeo en un impás democrático que dura ya cuatro años y medioCómo Rusia usa la lucha contra el terrorismo para eliminar la disidencia: “Será el año con más condenas de la historia del código penal” El presidente de Ucrania, Volodímir Zelenski, debería “responder” a los supuestos casos de corrupción en su Gobierno. Es la principal crítica que ha volcado contra él este domingo en una entrevista con la cadena pública británica BBC Mykhailo Fédorov, quien fuera ministro de Defensa de Ucrania hasta el mes de julio. Fédorov, pionero en el uso de drones en la guerra con Rusia, fue sustituido hace poco más de un mes debido supuestamente a las diferencias con el jefe de las fuerzas armadas de Ucrania. En unas declaraciones a la BBC hechas públicas este domingo, el exministro afirma que la investigación sobre blanqueo de capitales anunciada la semana pasada plantea interrogantes sobre si Zelenski estaba al tanto de la posible corrupción en su círculo más cercano. También reiteró que “la democracia no debe ser rehén de Putin”, aunque evitó declarar sus propias ambiciones políticas, pocos días después de haber publicado un vídeo en el que pedía la celebración de comicios en Ucrania. Al ser preguntado sobre si echaba de menos su antiguo cargo, respondió que no, debido al estrés que suponía gestionar la guerra contra Rusia y, además, transformar el Ministerio de Defensa. Ucrania se encuentra bajo ley marcial desde la invasión rusa en el 2022, lo que implica la suspensión de elecciones. Pese a ello, Fédorov ha afirmado que tiene el “derecho moral” de iniciar el debate sobre la celebración de los comicios presidenciales. “No debemos temer hablar de ello. De eso trata la democracia. Si no puedo compartir mis ideas y expresarlas abiertamente ante mi propia sociedad, ¿entonces por qué estamos luchando?”, agregó. “Si nunca se celebrasen comicios”, señaló, “entonces ya no seríamos una democracia”. En su anterior declaración en vídeo, Fédorov había argumentado que “la gente no puede vivir indefinidamente en una situación en la que no entiende por qué se toman ciertas decisiones”, pero evitó criticar directamente al presidente y declinó responder si apoyaría a Zelenski para ganar unas elecciones. Zelenski ha argumentado que, a su juicio, celebrar comicios en tiempos de guerra resultaría demasiado peligroso para Ucrania. El vídeo de Fédorov de la semana pasada, en el que se denunciaba la corrupción política, se publicó un día antes de que se anunciara una investigación por blanqueo de capitales contra legisladores y banqueros. El Parlamento ucraniano o Rada nombró el pasado miércoles a Yevgueni Jmara nuevo ministro de Defensa, horas después de que su popular Fédorov desafiase públicamente a Zelenski y pidiera elecciones pese a la guerra con Rusia."
-  },
-  {
-    "titulo": "Un piloto de rally muere tras un accidente durante la subida a Taboadela (Orense)",
-    "medio": "The Objective",
-    "fecha": 1787502719.0,
-    "link": "https://theobjective.com/deportes/2026-08-23/piloto-rally-muere-accidente-subida-taboadela-ourense/",
-    "resumen": "El piloto de rally Jesús López ha fallecido este domingo durante la realización de la Subida a Taboadela, que acogía este municipio de Orense. Según la […]"
   },
   {
     "titulo": "El arruí africano y la cabra montés llevan 50 años compartiendo montaña en España: la ciencia duda de que el arruí sea \"invasor\"",
@@ -588,13 +637,6 @@
     "resumen": "Si tuviera que resumir en una frase qué era el helicóptero soviético Mil V-12, diría que el resultado de una noche loca entre un helicóptero y un Boeing 737. Y es que es como si cogieras un avión de pasajeros comercial y le recortaras y movieras las alas a la zona superior y allí les encasquetaras dos rotores gigantes con sus respectivas hélices. Una fantasía de nave de 105 toneladas que por supuesto batió el récord Guinness al helicóptero más grande con mucha distancia respecto al segundo. En su puesta de largo internacional en el Salón Aeronáutico de Le Bourget de 1971, impresionó tanto a quienes allí acudieron que recibió el Premio Sikorsky al helicóptero más potente del mundo que otorgaba su archienemigo, la Asociación Americana de Ingenieros de Helicópteros. Allí la OTAN lo bautizó como \"Homer\", sin ser él un Simpson ni nada de eso. Por qué demonios se les ocurrió un cacharro así. Nos vamos hasta los años 60, en plena carrera espacial y la Guerra Fría. La URSS tenía misiles balísticos intercontinentales como el 8K67, 8K75 o el 8K82 y un problema logístico muy gordo: cómo trasladarlos cerca del Pacífico, a zonas remotas como Siberia, donde no había carreteras. Así que ante grandes problemas, literalmente grandes remedios: el Comité Estatal de Tecnología Aeronáutica encargó al estudio de Mijaíl Leóntievich Mil que hiciera una grúa volante capaz de levantar entre 20 y 25 toneladas. El ingeniero aeronáutico recogió el guante y lo mejoró considerablemente con un diseño peculiar: algunos prototipos mediante, habían creado el helicóptero más grande del mundo, un título que más de medio siglo después todavía ostenta. Helicóptero pesado de rotores transversales Mil V-12. Las bestiales cifras del Mil V-12. El \"Homer\" V-12 medía 37 metros de longitud y 12,5 de altura y tenía una envergadura entre rotores de casi 67 metros. Montaba cuatro motores Soloviev D-25VF que en conjunto generaban unos 19.120 kW (25.640 CV), según el registro de Guinness World Records. En su bodega podía transportar más de 40.000 kg o, en la versión civil proyectada, hasta 196 pasajeros. El 6 de agosto de 1969 estableció el récord aún vigente: fue capaz de subir 40.204,5 kg de carga hasta 2.255 metros de altitud, un hito homologado por la Fédération Aéronautique Internationale. Y ya que estaba, ese mismo día batió otros siete récords de altitud con diferentes cargas, muchos de los cuales todavía mantiene. En Xataka El nuevo avión más grande del mundo tiene mucho en contra, pero hay alguien muy interesado: el Pentágono Y sin embargo, fracasó. El Mil V-12 cumplió con éxito las especificaciones de su diseño y razón de ser, salió al mundo para demostrar su poderío y pulverizó récords que nadie ha conseguido superar más medio siglo después... pero fracasó. En 1974, el desarrollo del V-12 se paró en seco. La Fuerza Aérea Soviética se negó a aceptar el helicóptero por varios motivos, el principal de todos ellos es que la misión para el que fue diseñado ya no existía: ya no hacía falta el despliegue rápido de misiles balísticos estratégicos pesados porque la tecnología armamentística había avanzado hacia modelos más compactos y ligeros que podían transportarse por carretera o ferrocarril. Y eso sin hablar de los costes de mantenimiento. La URSS se decantó en su lugar por el Mil Mi-26, más pequeño, versátil y económico. Mil V-12 en el aeropuerto de Groningen Airport en 1971 Qué fue del Mil V-12. Esta tremenda aeronave nunca entró en producción en serie y solo se construyeron dos unidades: uno está en las instalaciones de la fábrica Mil en Panki - Tomilino y el otro está expuesto en el Museo de las Fuerzas Aéreas, a 50 kilómetros al este de la capital rusa. Ninguno de los dos volvió a volar desde entonces, pero son la prueba de que aunque tengamos en mente la idea de un diseño de helicóptero, otro diseño es posible. Que verdaderamente sea útil es otra historia. En Xataka | Hay un submarino soviético hundido en Noruega desde hace 40 años. El problema es que acaban de descubrir que filtra radiación En Xataka | El submarino nuclear más avanzado de Rusia era un secreto. Hasta que Ucrania ha revelado todo, incluso sus fallos Portada | Maarten - La noticia La URSS fabricó el helicóptero más gigantesco de la historia para llevar misiles nucleares. Funcionó y aun así fracasó fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
-    "titulo": "El Metropolitano no perdona a Julián Álvarez y le dedica una pitada histórica por su intento de salida al Barça",
-    "medio": "El Español",
-    "fecha": 1787497887.0,
-    "link": "https://www.elespanol.com/deportes/futbol/20260823/metropolitano-no-perdona-julian-alvarez-dedica-pitada-historica-intento-salida-barca/1003744360700_0.html",
-    "resumen": "La respuesta de la afición fue unánime contra el delantero argentino, que se llevó una de las mayores broncas que se recuerdan en los últimos tiempos.Más información: El representante de Julián Álvarez responde a Gil Marín: \"Nunca le preguntes a un mentiroso por qué mintió\""
-  },
-  {
     "titulo": "Más allá de escribir: cuatro cosas útiles que puedes hacer con Notas del iPhone",
     "medio": "Applesfera",
     "fecha": 1787497293.0,
@@ -644,13 +686,6 @@
     "resumen": "La manifestación de Jaca, que los convocantes cifran en 6.000 asistentes, reclama más medios y personal para la prevención y extinción y un cambio en el modelo de gestión del medio ruralLa catástrofe forestal de 2026 en Aragón: los incendios arrasan 45.000 hectáreas en el peor año desde que hay registros Jaca ha vuelto a ser este sábado el escenario de una protesta masiva por el futuro del medio rural aragonés. Unas 6.000 personas, según los convocantes, han recorrido sus calles para cargar contra la gestión de los incendios y reclamar responsabilidades políticas al Gobierno de Aragón. La marcha ha servido también para respaldar la huelga indefinida de los Bomberos Forestales de Aragón. El Movimiento por la Dignidad de la Montaña considera que los grandes fuegos de este verano no eran inevitables. Habla de “una catástrofe que era prevenible y previsible” y acusa a las administraciones de haber dejado algunas zonas del territorio abandonadas. Los incendios han arrasado este verano más de 44.000 hectáreas, han obligado a desalojar decenas de pueblos y han afectado a miles de personas. Manifestación de Pirineo Digno con los Bomberos Forestales Los convocantes piden la dimisión de Jorge Azcón, Alejandro Nolasco y Luis Biendicho. Y reclaman un nuevo Gobierno que afronte, dicen, “con la seriedad que requiere” el cuidado del territorio y la salud de quienes viven en él. La prevención ha ocupado buena parte del discurso de la marcha. La organización reclama más trabajadores forestales y un refuerzo de la ganadería extensiva: “La despoblación y el abandono de la ganadería extensiva está produciendo cada vez una mayor masa forestal en la montaña, además el cambio climático produce una mayor temperatura que se traduce en una mayor frecuencia de incendios forestales”. Integrante de la manifestación con una pancarta contra Nolasco Los manifestantes también han reiterado la idea de que “los incendios se apagan en invierno”. Es una de las reivindicaciones recogidas durante las asambleas celebradas en el territorio. Desde pueblos como Embún se reclama aumentar el trabajo de limpieza de los montes antes de que llegue el verano. También se pide que la prevención se convierta en una política estable, no en una carrera contra las llamas cuando el incendio ya está desatado. Apoyo a los bomberos forestales Los bomberos forestales y sus reivindicaciones también han sido protagonistas de la marcha. El movimiento reclama “financiación suficiente”, un aumento significativo de las plantillas, “medios adecuados para el siglo XXI” y condiciones laborales dignas. La convocatoria de Jaca se ha planteado además como respaldo a la huelga indefinida del colectivo. Los bomberos han participado en la manifestación en Jaca Además, reclaman un cambio en el modelo turístico del Pirineo bajo el lema: “El Pirineo no se vende”. Entre los proyectos que rechaza están la unión de Astún y Formigal por Canal Roya, la telecabina Benasque-Cerler o el tobogán de Panticosa. La manifestación llega después de un verano que ha dejado incendios, desalojos y una fuerte contestación en las zonas afectadas. Los convocantes denuncian también accidentes entre las personas que han participado en las labores de extinción y aseguran que esta semana se han producido tres accidentes laborales mortales relacionados con incendios en Aragón."
   },
   {
-    "titulo": "Uno de cada cinco contratos firmados en julio duraron menos de una semana",
-    "medio": "Expansión",
-    "fecha": 1787491094.0,
-    "link": "https://www.expansion.com/economia/2026/08/23/6a8af21fe5fdea7e628b4591.html",
-    "resumen": "Casi uno de cada cinco contratos (19,4%) firmados el pasado mes de julio, en concreto 308.861 contratos, presentaban una duración igual o inferior a siete días, mientras que 82.741 contratos (el 5,2% del total) duraron entre 7 y 15 días, según los últimos datos del Servicio Público de Empleo Estatal (SEPE). Leer"
-  },
-  {
     "titulo": "Organizado en cuatro terrazas excavadas a lo largo de una hectárea, este yacimiento asturiano fue una explotación agropecuaria",
     "medio": "eldiario.es",
     "fecha": 1787490017.0,
@@ -672,25 +707,11 @@
     "resumen": "Sobre la intersección entre libros/películas y mapas se han publicado un montón de entretenidos trabajos: mapas sobre los lugares de rodaje, conversiones en mapas del Metro y hasta mapas galácticos. Ahora en Reading Maps han tenido una idea sencilla pero bastante entretenida: trazar las rutas que se describen sobre mapas del mundo real. Al fin y al cabo, el Pequod de Moby-Dick navegaba por océanos reales, Phileas Fogg daba la vuelta al mundo siguiendo las rutas de ciertos trenes y barcos y Ulises recorría un Mediterráneo más o menos reconocible. En el proyecto hay ya 1.386 libros y películas cartografiados, desde los de Homero y Julio Verne hasta los de Stephen King o incluso las películas de Spielberg. Cada obra tiene su propia ficha con un breve resumen y, lo más interesante, una ruta dividida en etapas, acompañada por una explicación de lo que sucede en cada lugar. En el caso de la Odisea de Ulises se cuenta cómo sale de Troya, luego se cruza con unas sirenas, encuentra una playa en la que hay gigantes… El Hades no aparece como tal, pero por ahí andará. Finalmente, llega a Ítaca, como debe ser. También se puede buscar por título, autor o ubicación y filtrar por libros, películas o tipos de viaje: marítimo, por carretera, ferrocarril… También se puede explorar la colección geográficamente: por ejemplo, hay 482 obras con alguna parada en América del Norte, 33 que pasan por Suiza y 9 por Islandia, incluyendo la famosa entrada del Viaje al centro de la Tierra en la novela de Verne. Si quieres flipar, mira la de otra de mis favoritos: 20.000 leguas de viaje submarino. La gracia está en que las rutas están muy curradas: los autores aseguran que comprueban las rutas marítimas con imágenes en alta resolución de las costas, para evitar que un barco atraviese alegremente Florida o cualquier otro pedazo de tierra. Los lectores pueden también comunicar errores para corregirlos. La única precaución que hay que tener: las descripciones de las etapas siguen el argumento y pueden contener spoilers, aunque no sé yo si un spoiler en La ilíada puede considerarse tal, miles de años después de su publicación (¿eso no tiene fecha de caducidad?) Reading Maps es sin duda una peculiar forma de comprobar que aunque los libros tengan un final, los lugares por los que pasaron los personajes siguen exactamente donde estaban. Relacionados: Un mapa interactivo de la Tierra Media de J.R.R. Tolkien Juego de Tronos: un mapa interactivo Cinemaps: el atlas artesanal de los mapas de las grandes películas La Tierra Media con Google Maps El mapa de las películas: dónde se rodaron todas las escenas La geografía de lugares imaginarios de series y películas rodadas en España, a modo de plano del Metro # Enlace permanente"
   },
   {
-    "titulo": "Cuerpo viaja a Ceuta para avanzar en un plan de apoyo a las empresas",
-    "medio": "Expansión",
-    "fecha": 1787488727.0,
-    "link": "https://www.expansion.com/economia/2026/08/23/6a8ae6f3e5fdead7528b458e.html",
-    "resumen": "El vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, viajará este lunes a Ceuta para abordar el apoyo económico necesario a la ciudad como consecuencia de la crisis migratoria inicial a finales del mes de julio. Leer"
-  },
-  {
     "titulo": "The Politics of Falling in Love",
     "medio": "Jacobin ES",
     "fecha": 1787488200.0,
     "link": "https://jacobin.com/2026/08/love-romance-heteropessimism-feminism-manosphere",
     "resumen": "Heteropessimism holds that men and women are incapable of understanding one another, foreclosing the possibility of more equal, fulfilling relations between the genders. But romantic love may offer us a way out of a social order in which everyone loses."
-  },
-  {
-    "titulo": "CaixaBank financia con 2.500 millones de euros al sector turístico en el primer semestre",
-    "medio": "Expansión",
-    "fecha": 1787486810.0,
-    "link": "https://www.expansion.com/empresas/banca/2026/08/23/6a8ae099468aeb9f3a8b458f.html",
-    "resumen": "CaixaBank ha concedido más de 2.500 millones de euros en financiación al sector hotelero y de alojamientos turísticos en España durante los seis primeros meses de 2026 a través de su división especializada Hotels & Tourism. Leer"
   },
   {
     "titulo": "Las nuevas Converse color espuma de mar que son pura tendencia en otoño 2026: minimalistas, sobrias y muy elegantes",
@@ -726,20 +747,6 @@
     "fecha": 1787485250.0,
     "link": "https://www.europapress.es/nacional/noticia-monica-garcia-responde-feijoo-confinar-migrantes-ceuta-podria-ser-contraproducente-desmesurado-20260823134050.html",
     "resumen": "Afirma que inmigrantes y ceutíes \"no conviven en los mismos espacios\" y las interacciones breves en la calle \"no son susceptibles de constituir un riesgo de salud pública\""
-  },
-  {
-    "titulo": "Así es Chris Xu, el fundador de Shein conocido como el \"directivo más anónimo del mundo\"",
-    "medio": "Expansión",
-    "fecha": 1787484358.0,
-    "link": "https://www.expansion.com/empresas/distribucion/2026/08/23/6a8ab75f468aeb0c368b45af.html",
-    "resumen": "¿Quién es Xu Yangtian? Que los propios empleados de Shein no reconocieran a su jefe es una señal inequívoca del secretismo que siempre ha rodeado al fundador de la popular plataforma de 'moda rápida', que saldrá a Bolsa en cuestión de días en Hong Kong. Leer"
-  },
-  {
-    "titulo": "La factura eléctrica apunta a una subida del 20% en agosto",
-    "medio": "Expansión",
-    "fecha": 1787483846.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/08/23/6a8ad3cfe5fdeade1c8b459b.html",
-    "resumen": "La factura eléctrica apunta a una subida de más del 20% en agosto con respecto al mismo mes del año pasado, impulsada por unos precios de la luz disparados por el repunte de la demanda durante las olas de calor y un gas natural al alza. Leer"
   },
   {
     "titulo": "Mar Mira, doctora en medicina estética: \"no podemos afirmar que el bótox sea un tratamiento para la depresión\"",
