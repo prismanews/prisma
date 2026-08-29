@@ -1,17 +1,269 @@
 [
   {
-    "titulo": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
-    "medio": "El País",
-    "fecha": 1788031679.0,
-    "link": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html",
-    "resumen": "Pese a que las marchas se han desembocado, un grupo de 200 personas han realizado una sentada en su intento por llegar a la frontera"
+    "titulo": "Un hombre de 49 años herido \"potencialmente grave\" en una atracción del Parque Warner",
+    "medio": "El Mundo",
+    "fecha": 1788042843.0,
+    "link": "https://www.elmundo.es/madrid/2026/08/29/6a9306edfdddff451c8b4585.html",
+    "resumen": "Según la Guardia Civil, el hombre se habría desvanecido y ha sufrido fracturas en ambas piernas Leer"
   },
   {
-    "titulo": "Escalofriante parte médico de Pogacar: «Conmoción cerebral, abrasiones y fractura cervical y de clavícula»",
+    "titulo": "Kim Jong-un destituye al ministro de Defensa norcoreano, ex responsable de los programas nuclear y misilístico de Pyongyang",
+    "medio": "El Mundo",
+    "fecha": 1788041974.0,
+    "link": "https://www.elmundo.es/internacional/2026/08/30/6a935a83e85ece20498b4577.html",
+    "resumen": "El cese tuvo lugar durante una reunión de la cúpula militar presidida por el líder supremo Leer"
+  },
+  {
+    "titulo": "Simeone exige más a Baena: «Debe mantener el nivel; no tener delanteros no significa que no ataquemos»",
+    "medio": "OK Diario",
+    "fecha": 1788041867.0,
+    "link": "https://okdiario.com/deportes/simeone-exige-mas-baena-debe-mantener-nivel-no-tener-delanteros-no-significa-que-no-ataquemos-20194790",
+    "resumen": "En este Atlético sin nueve, con Sorloth lesionado y Julián dándose de bruces con la realidad, Baena fue lo que lleva en la espalda. Un diez. En Sevilla le salió todo porque sintió la convicción de que le podía salir todo. Su doblete y el latigazo de Lookman derribaron (1-3) a los hispanlenses, que maquillaron … Continuar leyendo \"Simeone exige más a Baena: «Debe mantener el nivel; no tener delanteros no significa que no ataquemos»\""
+  },
+  {
+    "titulo": "Baena se disfraza de Julián para relanzar a un buen Atlético",
+    "medio": "El País",
+    "fecha": 1788041308.0,
+    "link": "https://elpais.com/deportes/futbol/2026-08-29/baena-se-disfraza-de-julian-para-relanzar-a-un-buen-atletico.html",
+    "resumen": "A los de Simeone les bastó con un gran primer tiempo ante un Sevilla muy digno mientras se espera recuperar al argentino"
+  },
+  {
+    "titulo": "Rutina de ejercicios en casa para personas de 50 y 60: ideales para activar todo el cuerpo",
+    "medio": "El Mundo",
+    "fecha": 1788041127.0,
+    "link": "https://www.elmundo.es/yodona/vida-saludable/2026/08/30/6a8d3516e9cf4a786c8b4596.html",
+    "resumen": "Cumplir 50 o 60 años no significa renunciar a una vida activa. Existen ejercicios fáciles de realizar en casa que permiten activar todo el cuerpo para mantener la movilidad y mejorar la condición física. Leer"
+  },
+  {
+    "titulo": "La sociedad catalana renueva sus votos wagnerianos",
+    "medio": "La Vanguardia",
+    "fecha": 1788041100.0,
+    "link": "https://www.lavanguardia.com/cultura/20260830/11622554/sociedad-catalana-renueva-votos-wagnerianos.html",
+    "resumen": "Un Palau puesto en pie ovaciona a la Orquesta del Festival de Bayreuth en una velada que recuerda las razones del modernismo"
+  },
+  {
+    "titulo": "El curso escolar empieza con huelga",
+    "medio": "La Vanguardia",
+    "fecha": 1788041100.0,
+    "link": "https://www.lavanguardia.com/opinion/20260830/11622432/curso-escolar-empieza-huelga.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Julián, al Richmond",
+    "medio": "La Vanguardia",
+    "fecha": 1788041100.0,
+    "link": "https://www.lavanguardia.com/opinion/20260830/11622449/julian-richmond.html",
+    "resumen": "Julián ha sido liberado de la prisión del Atlético, ya viene de camino a Inglaterra"
+  },
+  {
+    "titulo": "25 buenas razones para amar el odiado mes de septiembre: de la asombrosa Luna de la Cosecha hasta un desahogo a martillazo limpio",
+    "medio": "El Mundo",
+    "fecha": 1788041098.0,
+    "link": "https://www.elmundo.es/yodona/lifestyle/2026/08/30/6a8c3a55e4d4d8665c8b4578.html",
+    "resumen": "Diversas encuestas sitúan en un porcentaje entre el 30% y el 40% los españoles que experimentan malestar emocional al reincorporarse al trabajo tras las vacaciones. Estos 25 planes de todo pelaje, muchos de ellos gratuitos, pretenden neutralizar, al menos en parte, esa amenaza Leer"
+  },
+  {
+    "titulo": "Detienen a una rusa en el aeropuerto de Ecuador con 32 iguanas vivas en su equipaje",
+    "medio": "El Mundo",
+    "fecha": 1788041097.0,
+    "link": "https://www.elmundo.es/internacional/2026/08/30/6a935647e4d4d8dc5c8b457f.html",
+    "resumen": "Las iguanas fueron encontradas en condiciones de debilidad y deshidratación Leer"
+  },
+  {
+    "titulo": "El fenómeno de 'farmear aura' reúne a cientos de jóvenes en Nuevos Ministerios: \"¿De verdad la gente se piensa que hacemos esto en serio?\"",
+    "medio": "El Mundo",
+    "fecha": 1788041043.0,
+    "link": "https://www.elmundo.es/madrid/2026/08/30/6a92b042e9cf4a920a8b458a.html",
+    "resumen": "El distrito corporativo madrileño se transforma en el epicentro de la cultura digital, donde cientos de adolescentes se citan para actuar frente a las cámaras sin importarles las opiniones ajenas Leer"
+  },
+  {
+    "titulo": "Cierran los colegios electorales en el referéndum de Islandia sobre la adhesión a la UE",
+    "medio": "Europa Press",
+    "fecha": 1788040846.0,
+    "link": "https://www.europapress.es/internacional/noticia-cierran-colegios-electorales-referendum-islandia-adhesion-ue-20260830000046.html",
+    "resumen": "Este sábado a las 22.00 horas, 0.00 horas del domingo en la España peninsular, han cerrado los colegios electorales tras una jornada de votación en la que Islandia decide si el país reanuda, más de una década después, el proceso de adhesión a la Unión Europea."
+  },
+  {
+    "titulo": "Baena toma Sevilla para el Atlético de Simeone",
+    "medio": "El Mundo",
+    "fecha": 1788039225.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/29/6a93366ae9cf4aa2598b458c.html",
+    "resumen": "El andaluz, con un doblete, permite a los rojiblancos, en una primera parte esplendorosa, conseguir la primera victoria a domicilio Leer"
+  },
+  {
+    "titulo": "Baena lidera la victoria del Atlético de Madrid ante el Sevilla en el Pizjuán",
+    "medio": "The Objective",
+    "fecha": 1788039123.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-08-29/baena-victoria-atletico-sevilla-pizjuan/",
+    "resumen": "Sin piedad. El Atlético de Madrid ha logrado ganar y golear al Sevilla FC en el Ramón Sánchez Pizjuán gracias a los goles de Baena, que […]"
+  },
+  {
+    "titulo": "El Atlético no tiene ‘9’, pero Baena es un ’10’",
+    "medio": "OK Diario",
+    "fecha": 1788038977.0,
+    "link": "https://okdiario.com/deportes/atletico-no-tiene-9-pero-baena-10-20194500",
+    "resumen": "Con tanto ruido alrededor de Julián, el Atlético puso rock and roll. Instrumentado por Kang-in Lee y escenificado por Baena, director de orquesta para la ocasión. El primero caracoleó y asistió, y el segundo hizo de todo. Organizó, distribuyó y marcó. Al Mundial se fue un Baena mentalmente alicaído y ha regresado rebosante de confianza. … Continuar leyendo \"El Atlético no tiene ‘9’, pero Baena es un ’10’\""
+  },
+  {
+    "titulo": "El PP exige a Albares centrarse en Marruecos por la crisis de Ceuta, no en ‘bulos’",
+    "medio": "Moncloa.com",
+    "fecha": 1788038366.0,
+    "link": "https://www.moncloa.com/2026/08/29/pp-albares-ceuta-marruecos-congreso-3422775/",
+    "resumen": "El PP exige en el Congreso que Albares sitúe a Marruecos en el centro de la crisis de Ceuta y no en bulos de redes. Vox pide activar el artículo 102. La entrada El PP exige a Albares centrarse en Marruecos por la crisis de Ceuta, no en ‘bulos’ aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
+    "medio": "El País",
+    "fecha": 1788038293.0,
+    "link": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html",
+    "resumen": "Pese a que las marchas se han desconvocado, unas 200 personas hacen una sentada en un intento por llegar a la frontera"
+  },
+  {
+    "titulo": "El PSOE prohíbe a sus alcaldes sumarse a las concentraciones por Ceuta porque dice que «el PP las usa para ir contra el Gobierno»",
+    "medio": "OK Diario",
+    "fecha": 1788036414.0,
+    "link": "https://okdiario.com/espana/psoe-prohibe-sus-alcaldes-sumarse-concentraciones-ceuta-porque-dice-que-pp-usa-ir-contra-gobierno-20194545",
+    "resumen": "El PSOE se ha desmarcado de las movilizaciones previstas para el 2 de septiembre ante los ayuntamientos y prohíbe a sus alcaldes sumarse. La dirección socialista ha trasladado la decisión mediante un comunicado interno en el que acusa al Partido Popular de intentar utilizar la situación políticamente. «El PP las usa para ir contra el … Continuar leyendo \"El PSOE prohíbe a sus alcaldes sumarse a las concentraciones por Ceuta porque dice que «el PP las usa para ir contra el Gobierno»\""
+  },
+  {
+    "titulo": "El emotivo discurso de Haakon VIII como nuevo rey de Noruega en recuerdo a Harald V: «Gracias por haber sido un padre tan bueno»",
+    "medio": "OK Diario",
+    "fecha": 1788036411.0,
+    "link": "https://okdiario.com/cool/casa-real/emotivo-discurso-haakon-viii-como-nuevo-rey-noruega-recuerdo-harald-v-gracias-haber-sido-padre-tan-bueno-20194623",
+    "resumen": "Haakon VIII de Noruega ha pronunciado sus primeras palabras como rey a través de un discurso marcado por la emoción y el recuerdo de su padre. Mientras el hijo de Harald V se encuentra en pleno luto por la muerte del monarca, ha comparecido ante los noruegos para dirigirse por primera vez al país desde … Continuar leyendo \"El emotivo discurso de Haakon VIII como nuevo rey de Noruega en recuerdo a Harald V: «Gracias por haber sido un padre tan bueno»\""
+  },
+  {
+    "titulo": "La extrema derecha de Save Europe Act fracasa también en Madrid y solo reúne a unas decenas de fieles",
+    "medio": "eldiario.es",
+    "fecha": 1788036056.0,
+    "link": "https://www.eldiario.es/madrid/extrema-derecha-save-europe-act-fracasa-madrid-reune-decenas-fieles_1_13474759.html",
+    "resumen": "Tras pinchar en Barcelona, el grupo ultra solo consigue reunir en la capital a medio centenar de manifestantes en un encuentro que acabó con ataques a la prensaQuiénes son Reconquista y Save Europe, los grupos racistas que han traído a España la idea de “remigración” La fecha y el lugar eran propicios: sábado de finales de agosto, ocho de la tarde, Plaza de la Armería, enclave histórico situado junto al madrileño Palacio Real. Con algo más de 10.000 metros cuadrados (lejos de los cerca de 40.000 de la Plaza de Colón, por ejemplo), el lugar es ideal para dar sensación de concentración multitudinaria y sacar músculo. Save Europe Act, un grupo de extrema derecha que reclama, entre otras cosas, la expulsión de toda persona migrante del viejo continente, había preparado con mimo su llegada a Madrid en la que ha sido su segunda concentración en España tras la de Barcelona de hace una semana. Sin embargo, como ocurrió en la ciudad condal, esta solo ha congregado a unas decenas de manifestantes en un encuentro que ha discurrido con la única nota al pie del estupor de los turistas y que ha terminado, como ocurrió también en Barcelona, con ataques a la prensa. Pasados unos minutos de las 20.00, procedentes de la cercana Plaza de Oriente, el medio centenar de entusiastas fieles de Save Europe Act asoma por la turística Plaza de la Armería gritando sus proclamas habituales: “España es cristiana y no musulmana. No es inmigración, es una invasión. Ceuta y Melilla son españolas. Esta es nuestra tierra y hay que defenderla”. Una joven sentada en la escalinata no tarda en reprocharles: “¡Pero estos son cánticos fascistas!”. Los manifestantes la mandan callar a gritos justo antes de entonar uno de los cánticos predilectos: “Pedro Sánchez, hijo de puta”. Y eso que nadie había dicho nada del presidente del Gobierno. La Policía Nacional interviene por primera vez: “¡Muchos cojones contra los patriotas pero en Melilla, nada!”, les echan en cara. Al frente del acto ha estado Toni Estévez, coordinador de Save Europe Act en España y asiduo de los mensajes supremacistas en redes: “No están preparados para que los chicos blancos vayamos duro de nuevo”, se puede leer en el mensaje fijado de su cuenta en X. Este sábado, la manifestación ha contado además con la presencia de Irene González, autora del libro Salvar Europa: “No dejéis que digan que no los podemos echar, que no podemos dejar de vivir en la barbarie intercultural”, ha proclamado. Poco después, desplegada ya una pancarta de 400 metros cuadrados con el lema “remigración”, el propio Esteve ha dado por finalizado un acto que ha juzgado como “exitoso”. Pero aún había una traca final. Cuando un grupo de periodistas se ha acercado a los organizadores de Save Europe Act para tratar de recoger imágenes y declaraciones, estos han recibido insultos e incluso algún intento de agresión por parte de los propios manifestantes. Finalmente, la Policía Nacional ha tenido que establecer un cordón para evitar que la situación pasara a mayores. Una gira con poca afluencia La concentración ha formado parte de lo que desde Save Europe Act denominan la European Shield Tour, una gira europea que está previsto que llegue en septiembre a Lisboa, Milán y Viena. Lo hará, en todo caso, tras congregar a apenas unas decenas de manifestantes en Madrid y Barcelona, donde estaba previsto que el movimiento tomara impulso. No ha sido así. Save Europe Act abraza sin reservas, entre otras, la idea nazi de un supuesto reemplazo demográfico llevado a cabo por la población migrante en detrimento de la pureza de los pueblos europeos. “Reclamamos declarar una moratoria formal sobre nuevas vías de inmigración no occidental/no europea, incluida la suspensión de la tramitación de solicitudes de asilo para migrantes económicos y solicitantes procedentes de países de origen seguros, la paralización de la concesión de nuevos visados de estudios y de reunificación familiar para ciudadanos no europeos, y la estricta limitación de las vías de migración legal hasta que se restablezcan la cohesión social y la continuidad cultural en los Estados miembros”, se puede leer en el escrito fundacional de Save Europe Act, que fue presentado a la UE como iniciativa ciudadana. Decenas de personas durante una concentración a favor de la remigración, en la Plaza de la Armería, a 29 de agosto de 2026, en Madrid La Comisión Europea ha dejado ya clara su postura: “Esta iniciativa no cumple los requisitos formales establecidos en el Reglamento sobre la Iniciativa Ciudadana Europea. Para cumplir los requisitos de registro, una Iniciativa Ciudadana Europea no puede ser manifiestamente contraria a los valores consagrados en el Tratado y en la Carta de los Derechos Fundamentales de la UE”. Y prosigue: “La Comisión consideró que los criterios en los que se basaría la moratoria propuesta constituirían una discriminación por motivos de raza y origen étnico. Esto se debe a que la moratoria propuesta se basaría en el origen étnico, cultural o civilizacional de las personas afectadas, sin tener en cuenta el requisito de una evaluación individual y caso por caso con arreglo al marco jurídico aplicable. Por lo tanto, esta iniciativa es manifiestamente contraria a los valores de la Unión”. Save Europe Act ya ha expresado su intención de apelar contra esta decisión en los tribunales. Remigración, la palabra de moda en la extrema derecha Save Europe Act centra su discurso en un término que la derecha y la extrema derecha llevan meses tratando de colar en el discurso público: remigración. Aunque originalmente esta aludía a los procesos de vuelta a sus países de origen de personas que en su día se vieron forzadas a migrar, la palabra se ha reinterpretado recientemente en entornos ultras de países como Francia, Alemania y Austria. Tal y como la emplea Save Europe Act, la remigración remite a ideas de origen nazi que resultan fáciles de vender entre sus acólitos. Estas se basan siempre en la existencia de una supuesta esencia del pueblo europeo, que es blanco, occidental y civilizado por antonomasia pero se ve amenazado y pervertido por la migración que procede de África y Latinoamérica. Por tanto, hay que ejecutar la remigración: la expulsión automática de toda persona extranjera no blanca, sean cuales sean sus circunstancias. Historiadores, sociólogos, genetistas y antropólogos llevan décadas tratando de explicar que no existe nada parecido a un pueblo español esencial ni un pueblo europeo esencial. Antes bien, ahondan los expertos, los territorios se construyen siempre con el ir y venir de gente que se mueve con el único objetivo de mejorar su vida. Concentración ultra de Save Europe Act en Madrid. Da lo mismo. En España, Reconquista ha abrazado los postulados racistas y supremacistas de Save Europe Act sin reservas. Se trata de un nuevo grupo juvenil de extrema derecha surgido en la órbita de Vox después de que el partido se apartara de sus anteriores juventudes, Revuelta. Lo hizo tras las acusaciones surgidas en el seno de la propia organización de que diversos dirigentes podrían haber retenido dinero destinado a los afectados por la dana de Valencia. El pasado abril, la Fiscalía Provincial de Madrid archivó la denuncia por falta de consistencia en las pruebas de la acusación. Este sábado, junto a Esteve andaba también Nayara González, portavoz de Reconquista. Por ahora, desde Vox mantienen un perfil bajo con un movimiento que se define como ajeno a todos los partidos políticos. No obstante, las sinergias son claras: el mismísimo Santiago Abascal, líder de Vox, defendió hace años la teoría supremacista del reempalzo, y en la actual crisis de Ceuta el partido defiende también incumplir las normas internacionales y expulsar de forma inmediata a toda persona migrante, incluidos los menores. Pero las ideas de Save Europe Act, por ahora, no calan. Antes de las 21, menos de una hora después de empezado el acto, los voluntarios del grupo ultra han recogido la pancarta y han salido de una plaza de ambiente enrarecido y desangelado. Cargan con otro fracaso de convocatoria."
+  },
+  {
+    "titulo": "El Ejército de EE UU derriba con láser tres drones cerca de la frontera con México",
+    "medio": "El País",
+    "fecha": 1788035784.0,
+    "link": "https://elpais.com/mexico/2026-08-29/el-ejercito-de-ee-uu-derriba-con-laser-tres-drones-cerca-de-la-frontera-con-mexico.html",
+    "resumen": "La Sedena confirma que el operativo se llevó a cabo en la parte texana de la frontera con Reynosa contra dispositivos “utilizados por traficantes de indocumentados para la vigilancia de autoridades”"
+  },
+  {
+    "titulo": "Colombia termina las conversaciones de ‘paz total’ con grupos armados ilegales",
+    "medio": "The Objective",
+    "fecha": 1788034835.0,
+    "link": "https://theobjective.com/internacional/2026-08-29/colombia-paz-grupos-armados/",
+    "resumen": "El presidente colombiano, Abelardo de la Espriella, dio por terminadas las conversaciones con varios grupos armados ilegales iniciadas por su antecesor, Gustavo Petro, y revocó los […]"
+  },
+  {
+    "titulo": "Los ceutíes vuelven a la calle en una \"sentada pacífica\" contra la violencia y el \"abandono\" del Gobierno",
+    "medio": "Europa Press",
+    "fecha": 1788034753.0,
+    "link": "https://www.europapress.es/nacional/noticia-ceuties-vuelven-calle-sentada-pacifica-contra-violencia-abandono-gobierno-20260829221913.html",
+    "resumen": "Más de un centenar de ceutíes han participado este sábado en una nueva movilización ciudadana que ha recorrido distintos puntos de la ciudad y que ha tenido como momento central una \"sentada pacífica\" en la rotonda que conecta la frontera del Tarajal con la subida a Loma Colmenar, donde los asistentes han reivindicado \"unidad\" frente a la situación que vive la ciudad tras la entrada masiva de migrantes del pasado 30 de julio."
+  },
+  {
+    "titulo": "'Farmear aura', la expresión que arrasa entre los jóvenes y que obsesiona a la Generación Z",
+    "medio": "HuffPost",
+    "fecha": 1788034644.0,
+    "link": "https://www.huffingtonpost.es/sociedad/farmear-aura-expresion-arrasa-jovenes-obsesiona-generacion-z-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El parte médico de Pogacar lo deja claro: quirófano y adiós a la temporada",
+    "medio": "La Vanguardia",
+    "fecha": 1788034580.0,
+    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260829/11622447/parte-medico-pogacar-deja-claro-quirofano-adios-temporada.html",
+    "resumen": "El pentacampeón del Tour necesita operarse la clavícula izquierda, fracturada en el accidente"
+  },
+  {
+    "titulo": "Estados Unidos deporta al Reino Unido a Milo Yiannopoulos, el activista de ultraderecha que defendía redadas masivas",
+    "medio": "El País",
+    "fecha": 1788034431.0,
+    "link": "https://elpais.com/us/migracion/2026-08-29/estados-unidos-deporta-al-reino-unido-a-milo-yiannopoulos-el-activista-de-ultraderecha-que-defendia-redadas-masivas.html",
+    "resumen": "El bloguero que respaldó la política migratoria de Trump fue detenido por agentes del ICE el jueves"
+  },
+  {
+    "titulo": "Ceuta pide al Gobierno «concretar» el plan de seguridad escolar ante la crisis migratoria",
+    "medio": "The Objective",
+    "fecha": 1788034391.0,
+    "link": "https://theobjective.com/espana/politica/2026-08-29/ceuta-gobierno-plan-seguridad-escolar-crisis-migratoria/",
+    "resumen": "La Ciudad Autónoma de Ceuta ha trasladado al Ministerio de Educación que «concrete y comunique» el plan de seguridad de inicio de curso al considerar «necesario» […]"
+  },
+  {
+    "titulo": "Un incendio devora un plató de televisión y calcina sus oficinas en Madrid",
+    "medio": "OK Diario",
+    "fecha": 1788034359.0,
+    "link": "https://okdiario.com/madrid/incendio-devora-plato-television-calcina-sus-oficinas-madrid-20194438",
+    "resumen": "Las llamas han arrasado un plató de grabación donde se han grabado varios programas y películas y la zona de oficinas de una nave dedicada a producciones audiovisuales en Fuente el Saz de Jarama (Madrid). El incendio adquirió tal dimensión en el interior del edificio que, cuando llegaron los bomberos, el fuego ya estaba generalizado. Pese a … Continuar leyendo \"Un incendio devora un plató de televisión y calcina sus oficinas en Madrid\""
+  },
+  {
+    "titulo": "Centenares de ceutíes vuelven a las calles en una protesta improvisada al grito de «¡Ceuta unida jamás será vencida!»",
+    "medio": "OK Diario",
+    "fecha": 1788034170.0,
+    "link": "https://okdiario.com/espana/centenares-ceuties-vuelven-calles-protesta-improvisada-grito-ceuta-unida-jamas-sera-vencida-20194450",
+    "resumen": "Una nueva movilización ha recorrido las calles de Ceuta. En esta ocasión, la protesta ha sido improvisada por varios vecinos después de que las concentraciones quedaran suspendidas. Centenares de ceutíes han recorrido varias calles de la ciudad portando banderas de España. Reivindican una solución para la ciudad casi un mes después de la entrada masiva … Continuar leyendo \"Centenares de ceutíes vuelven a las calles en una protesta improvisada al grito de «¡Ceuta unida jamás será vencida!»\""
+  },
+  {
+    "titulo": "Cinco pantalones de vestir de Stradivarius para estrenar en septiembre favorecedores, elegantes y versátiles que combinan con todo",
+    "medio": "Trendencias",
+    "fecha": 1788033664.0,
+    "link": "https://www.trendencias.com/shopping/cinco-pantalones-vestir-stradivarius-para-estrenar-septiembre-favorecedores-elegantes-versatiles-que-combinan-todo",
+    "resumen": "Vestir de forma sofisticada sin renunciar a la comodidad no tiene que ser complicado, es más, llevar algo que no se ajusta a nuestro estilo y que nos incomoda de alguna manera es lo menos elegante del mundo. La inquietud por no estar en nuestra zona de confort se nota en nuestra actitud y al final, acabamos arruinando el oufit. Esto es inaceptable en cualquier situación, pero en especial, en la oficina, donde nos toca vestir bien pero aguantar con dignidad toda la jornada. Por suerte, los pantalones de sastre son una apuesta segura que siempre funciona y que se han normalizado tanto que los diseños se multiplican. Existe un pantalón de vestir para cada tipo de mujer y están todos en la nueva Stradivarius. Desde el clásico holgado con pinza, al bombacho reconvertido en pantalón de oficina, pasando por las bermudas 90s con un toque diferencial que las convierten en únicas, sin perder elegancia. Estos son nuestros cinco favoritos de la hermana mediana de Zara. Cinco pantalones de vestir de Stradivarius Stradivarius Nuestros favoritos son estos pantalones extra-holgados en color beige que en apariencia son clásicos, pero cuentan con un detalle en la cintura súper favorecedor que invita a llevar camisas o camisetas por dentro, realzando la cintura. Un diseño que va genial con sandalias, zapatos de tacón y zapatillas de tendencia por igual, por 39,99 euros. Stradivarius El caqui es uno de los colores más recurrentes en el próximo otoño y estas bermudas lo tienen como protagonista, pero no es lo único destacable de esta prenda no apta para básicas. Lo que más nos gusta de este pantalón que forma parte de un total look divino es el bolsillo tipo riñonera y su precio, por 25,99 euros. Stradivarius El clásico pantalón de pinzas gris adaptado a las tendencias más punteras del otoño 2026: la silueta balloon y el cierre asimétrico con cinturón negro creando contraste. Un diseño tan cómodo como original que va de perlas con stilettos de punta fina por 35,99 euros. Stradivarius Dice Stradivarius que el pantalón bombacho también es para la oficina y las fieles boho a este tipo de pantalones podrán vestir elegante en el trabajo sin renunciar a él con este pantalón de sastre caqui con bajo ajustado. Lo encontramos en otros colores más básicos como el negro, por 29,99 euros. Stradivarius El marrón chocolate llegó para quedarse y no nos sorprende porque es extremadamente elegante. Para muestra, este pantalón wide leg de pinzas que podemos llevar con top ajustado y zapatos de tacón destalonado (otra tendencia omnipresente del otoño) por 25,99 euros. Cómo combinar los pantalones de vestir de Stradivarius Calvin Klein Si algo tienen en común esos cinco pantalones de Stradivarius tan distintos entre sí es su silueta holgada. Por eso este zapato destalonado con tacón sensato y puntera pronunciada es ideal para cada uno de ellos, ya que alarga visualmente la figura y equilibra la silueta. Es de Calvin Klein, es de piel y está rebajado en El Corte Inglés por 159,90 79,95 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @zinafashionvibe, Stradivarius, El Corte Inglés En Trendencias | Cómo combinar un pantalón ancho | Look elegante, casual y de sport En DAP | Carmiña, abuela gallega: “Para que la tortilla no quede seca pero sí cuajada, remueve desde los bordes hacia el centro” En Xataka | El viernes 4 de septiembre llega a Lidl la solución a la falta de enchufes en patios y terrazas por 15,99 euros - La noticia Cinco pantalones de vestir de Stradivarius para estrenar en septiembre favorecedores, elegantes y versátiles que combinan con todo fue publicada originalmente en Trendencias por María Barba ."
+  },
+  {
+    "titulo": "Maribel, la fisioterapeuta que dejó Barcelona para fundar una aldea autosuficiente: \"Es la familia del espíritu\"",
+    "medio": "HuffPost",
+    "fecha": 1788033497.0,
+    "link": "https://www.huffingtonpost.es/sociedad/maribel-fisioterapeuta-dejo-barcelona-fundar-aldea-autosuficiente-es-familia-espiritu-f202608.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Daniel Luque dicta un tratado de perfección en Bilbao",
+    "medio": "El Mundo",
+    "fecha": 1788033045.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/08/29/6a928f66fc6c834c278b457b.html",
+    "resumen": "Sella la gran tarde de su carrera en Vista Alegre, capada por el palco; infortunado Morante, soberbio al natural, y desafortunado Borja Jiménez con un extraordinario toro de Garcigrande Leer"
+  },
+  {
+    "titulo": "Una escapada a Ávila para viajar a la Edad Media entre murallas, palacios, juglares y caballeros",
+    "medio": "eldiario.es",
+    "fecha": 1788032789.0,
+    "link": "https://www.eldiario.es/viajes/escapada-avila-viajar-edad-media-murallas-palacios-juglares-caballeros_1_13471548.html",
+    "resumen": "Del próximo 3 al 6 de septiembre, las calles de Ávila celebran su Mercado de las Tres Culturas, una excusa perfecta para descubrir la ciudad en su momento más evocador Las Aldeias do Xisto: una escapada para desconectar, caminar y comer bien en el interior de Portugal que casi desaparece ¿Te imaginas llegar a una ciudad y encontrarte con una muralla medieval prácticamente intacta, palacios, iglesias románicas y una catedral que también parece una fortaleza? Pues no hace falta viajar muy lejos ni ponerse a buscar un decorado de película. Ávila tiene todo lo necesario para que una escapada de fin de semana se convierta en un pequeño viaje en el tiempo. Y si además vamos en septiembre, podemos ser testigos de un ambiente aún más auténtico: del 3 al 6 de septiembre, las calles del casco histórico acogen las Jornadas Medievales, cuatro días en los que la ciudad se llena de artesanos, músicos, caballeros, campamentos, espectáculos y personajes de otras épocas. Es el Mercado de las Tres Culturas, una de las grandes citas del calendario abulense y una celebración declarada Fiesta de Interés Turístico Nacional. La propuesta es sencilla: aprovechar las Jornadas como excusa para visitar Ávila, pero no quedarnos solo en ellas. Porque aquí hay mucho que ver, vayamos cuando vayamos: podemos caminar por la muralla, entrar en palacios e iglesias, seguir las huellas de Santa Teresa, descubrir alguna que otra historia curiosa, contemplar la ciudad desde los Cuatro Postes y sentarnos después a probar unas patatas revolconas o unas buenas yemas, como manda la tradición. La muralla de Ávila. La muralla es solo el principio Empezar la visita por la muralla es casi obligatorio. No solo porque sea el gran símbolo de Ávila, sino porque caminar sobre ella ayuda a entender de golpe cómo era aquella ciudad medieval que hoy seguimos recorriendo. La construcción que vemos actualmente es del siglo XII y suma unos 2,5 kilómetros de perímetro, 87 torreones y nueve puertas. Se puede subir a diferentes tramos y recorrerla mientras descubrimos la ciudad desde las alturas. Pero lo bueno es que, una vez intramuros, la visita no ha hecho más que comenzar. Ávila está llena de palacios y casas fuertes levantados entre finales del siglo XV y el XVI, cuando la ciudad vivió una época de gran poder nobiliario. El Palacio de los Verdugo, el de Polentinos, el de Superunda o el de los Dávila son algunos de los que podemos encontrarnos mientras paseamos por el casco histórico. Y luego está la catedral, que merece una parada aparte. Considerada la primera catedral gótica de España, fue concebida también como fortaleza y su ábside forma parte de la propia muralla. A poco que levantemos la mirada descubriremos además detalles curiosos, como la casa del campanero situada en una de sus torres. Y si queremos seguir con el patrimonio religioso, la basílica de San Vicente es una de las grandes joyas del románico abulense. Entre unas cosas y otras, también nos iremos cruzando con las huellas de Santa Teresa, que nació en la ciudad y dejó aquí numerosos lugares vinculados a su vida. Representación durante las Jornadas Medievales. Y durante cuatro días, la ciudad viaja en el tiempo Todo esto ya sería motivo suficiente para acercarse a Ávila, pero hacerlo entre el 3 y el 6 de septiembre tiene un añadido importante. Durante las Jornadas Medievales el casco histórico se llena de actividad y buena parte de la ciudad se convierte en un gran escenario. El Mercado de las Tres Culturas ocupa calles y plazas con puestos de artesanía y gastronomía, mientras músicos, juglares, cetreros, caballeros y todo tipo de personajes se mezclan con quienes han llegado para disfrutar de la fiesta. La ambientación empieza incluso antes de que uno se detenga a buscar una actividad concreta. El programa de 2026 anuncia pasacalles de gran formato, músicos y danzas árabes, personajes fantásticos, bufones, malabaristas, zancudos, espectáculos de fuego, títeres, cuentacuentos y juegos infantiles, entre muchas otras propuestas. Lo mejor, en realidad, es dejarse llevar un poco y recorrer el mercado viendo qué aparece en la siguiente calle. Eso sí, hay algunas citas que merece la pena tener controladas. Una de las más llamativas será la de la compañía francesa Rouge Sauvage, que llevará por las calles sus marionetas articuladas Tendrá varios pases durante el viernes, el sábado y el domingo en la calle de San Segundo. Y el sábado a mediodía llegará uno de los momentos más esperados, el Gran Desfile de las Tres Culturas, que recorrerá diferentes calles del centro histórico. Animación nocturna durante las Jornadas Medievales. También habrá espacio para los clásicos de cualquier viaje a la Edad Media: caballeros, arqueros y torneos. En la zona de San Isidro se instalará la liza de los combates a caballo, mientras que en los Jardines de San Vicente estará el campamento de los arqueros, con entrenamientos, exhibiciones y un gran torneo de tiro con arco. El sábado incluso habrá lanzamiento de flechas desde la propia muralla. Y cuando caiga la noche, las Jornadas tampoco descansan. El programa incluye conciertos de música medieval y celta, espectáculos de fuego y propuestas como La Orden del Umbral Oscuro, que recorrerá la calle de San Segundo y el Paseo del Rastro en varios pases nocturnos. El domingo, Brujos del fuego pondrá el punto final a buena parte de la programación escénica. Las Jornadas Medievales son posibles gracias a la masiva participación popular. Hay concursos de atavíos, fotografía, escaparates y fachadas, y hasta una Carrera de las Tres Culturas para los más pequeños. Así que no hace falta ser un experto en historia medieval ni llegar con una capa bajo el brazo para disfrutar de la fiesta. Aunque, viendo cómo se implica la ciudad, tampoco sería tan mala idea. Celebración durante las Jornadas Medievales. Los pequeños detalles también cuentan Entre tanta muralla, catedral y espectáculo es fácil quedarse con los grandes nombres, pero Ávila también se disfruta cuando empezamos a fijarnos en esas cosas que normalmente pasan desapercibidas. Una de ellas está, precisamente, en la catedral: la casa del campanero. Se encuentra en las alturas de la torre que nunca llegó a completarse y fue la vivienda de quien se encargaba de las campanas hasta los años 50 del siglo XX. Conserva habitaciones, cocina, chimenea y hasta la antigua polea que servía para subir agua y alimentos. Otro pequeño descubrimiento son los verracos. Estas esculturas de animales fueron realizadas por los vetones siglos antes de que existiera la Ávila medieval y se han convertido en uno de los símbolos de la ciudad. Hay más de 50 repartidos por la provincia y algunos aparecen escondidos a simple vista por el casco histórico, en lugares como el Palacio de los Verdugo, la plaza Adolfo Suárez o la calle Brieva. Y entre las historias que merece la pena conocer está la de Ximena Blázquez. Según cuenta la tradición, cuando Ávila quedó prácticamente desprotegida ante un posible ataque musulmán, reunió a las mujeres, mayores y niños que permanecían en la ciudad y los hizo aparecer sobre la muralla ataviados como soldados. Los atacantes creyeron que la ciudad estaba mucho mejor defendida de lo que parecía y desistieron del asedio. Por ello, hoy una estatua en la plaza de San Miguel recuerda aquella historia. El Humilladero de los Cuatro Postes con Ávila al fondo. Una última mirada a Ávila desde los Cuatro Postes Después de recorrer la ciudad por dentro, merece la pena salir un momento del recinto amurallado. Cruzando el puente sobre el Adaja llegaremos hasta el Humilladero de los Cuatro Postes, uno de los mejores lugares para contemplar Ávila al completo. La tradición cuenta que hasta aquí llegaron de niños Santa Teresa y su hermano Rodrigo cuando pretendían marcharse hacia el sur, aunque lo realmente importante para el viajero es la panorámica: desde aquí se entiende mucho mejor la dimensión de la muralla y cómo encaja la ciudad en el paisaje. Y, después de tanto paseo, toca sentarse a comer. El chuletón de ternera Avileña-Negra es probablemente el plato más conocido, pero no debería ser el único. Las patatas revolconas, la sopa castellana y las judías del Barco de Ávila forman parte también de la cocina tradicional, mientras que las Yemas de Santa Teresa ponen el toque dulce. Durante las Jornadas, además, el propio mercado añade puestos gastronómicos a la experiencia. Porque esa es, al final, la gracia de esta escapada: Ávila no necesita inventarse una ciudad medieval para recibirnos. La muralla, las iglesias, los palacios y buena parte de sus calles ya están ahí. Las Jornadas Medievales simplemente añaden durante cuatro días personajes, música, caballeros, mercados y espectáculos, sirviendo de excusa para visitar una ciudad que ya tiene mucha historia que contar."
+  },
+  {
+    "titulo": "Jornada 3 de la Liga: resumen de todos los partidos",
+    "medio": "OK Diario",
+    "fecha": 1788032731.0,
+    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
+    "resumen": "La tercera jornada de Liga ya está aquí. Esto no para. Después de disputar las dos primeras a caballo entre una y otra, regresa el orden al campeonato. La jornada comienza este viernes con el partido entre Racing y Elche y finaliza el lunes con la visita del Rayo al Barcelona. Por el camino, el … Continuar leyendo \"Jornada 3 de la Liga: resumen de todos los partidos\""
+  },
+  {
+    "titulo": "La oposición venezolana acepta con cautela el acuerdo petrolero con EEUU",
+    "medio": "The Objective",
+    "fecha": 1788032458.0,
+    "link": "https://theobjective.com/internacional/2026-08-29/venezuela-estados-unidos-petrolero/",
+    "resumen": "La oposición de Venezuela está recibiendo con enorme cautela el acuerdo anunciado esta madrugada por el presidente de Estados Unidos, Donald Trump, que otorga a Washington […]"
+  },
+  {
+    "titulo": "Escalofriante parte médico de Pogacar: «Conmoción cerebral, abrasiones y sufre una fractura cervical",
     "medio": "OK Diario",
     "fecha": 1788031594.0,
     "link": "https://okdiario.com/deportes/escalofriante-parte-medico-pogacar-caida-vuelta-conmocion-cerebral-abrasiones-fractura-cervical-clavicula-20194443",
-    "resumen": "UAE Team Emirates-XRG ha confirmado el parte médico de Tadej Pogacar tras su accidente en La Vuelta que le costó abandonar la competición y ser trasladado al hospital para conocer el alcance de las lesiones. Un trágico suceso para el ciclista esloveno después de haber sido líder indiscutible. «Está estable, y tras una exhaustiva evaluación … Continuar leyendo \"Escalofriante parte médico de Pogacar: «Conmoción cerebral, abrasiones y fractura cervical y de clavícula»\""
+    "resumen": "UAE Team Emirates-XRG ha confirmado el parte médico de Tadej Pogacar tras su accidente en La Vuelta que le costó abandonar la competición y ser trasladado al hospital para conocer el alcance de las lesiones. Un trágico suceso para el ciclista esloveno después de haber sido líder indiscutible. «Está estable, y tras una exhaustiva evaluación … Continuar leyendo \"Escalofriante parte médico de Pogacar: «Conmoción cerebral, abrasiones y sufre una fractura cervical\""
+  },
+  {
+    "titulo": "Oyarzabal guía con dos asistencias el primer triunfo liguero de la Real Sociedad",
+    "medio": "El País",
+    "fecha": 1788031512.0,
+    "link": "https://elpais.com/deportes/futbol/2026-08-29/oyarzabal-guia-con-dos-asistencias-el-primer-triunfo-liguero-de-la-real-sociedad.html",
+    "resumen": "Los de Matarazzo se sobreponen del gol del empate de Roberto y firman sus primeros tres puntos del curso ante un Espanyol que encadena dos derrotas seguidas"
+  },
+  {
+    "titulo": "Un centenar de vecinos vuelven a salir a la calle para protestar: \"Ceuta no se vende, Ceuta se defiende\"",
+    "medio": "eldiario.es",
+    "fecha": 1788031416.0,
+    "link": "https://www.eldiario.es/politica/vecinos-ceuta-vuelven-salir-calle-protestar-consideran-invasion_1_13474725.html",
+    "resumen": "Los residentes se han manifestado de forma pacífica y con una menor afluencia de personas que en otras jornadas, al haberse realizado de forma imprevistaPor qué el Gobierno piensa que Marruecos no está detrás de la crisis de Ceuta Varios centenares de vecinos de Ceuta han vuelto esta tarde a salir a la calle para protestar por lo que consideran una “invasión”, la entrada de miles de migrantes el pasado 30 de julio, y pedir la inmediata devolución a Marruecos de todas las personas que accedieron ilegalmente a la ciudad. Según han informado a EFE fuentes policiales, las movilizaciones se habían suspendido este sábado ante los incidentes que se habían producido en las dos últimas jornadas, por lo que un grupo de ciudadanos había decidido convocar a través de las redes sociales una “sentada pacífica”. La sentada estaba previsto que se llevara a cabo en las Murallas Reales de la ciudad, pero finalmente se ha decidido convertir el acto de protesta en una manifestación que se ha dirigido hacia la frontera del Tarajal, en lugar de hacerlo hacia la playa de Benítez, como había ocurrido hasta ahora. Los vecinos se han manifestado de forma pacífica y con una menor afluencia de personas que en otras jornadas, al haberse realizado de forma imprevista. Los participantes, con banderas de España y de Ceuta, han vuelto a gritar consignas como “Ceuta no se vende, Ceuta se defiende” o “Ceuta unida jamás será vencida”, además de reclamar la entrega a Marruecos de los “invasores”. La movilización, convocada en pocas horas a través de los grupos de WhatsApp, se inició con poco más de un centenar de personas, pero a lo largo de la marcha se han unido otros centenares más para finalizar en el entorno de la frontera del Tarajal. Una flotilla llega a Ceuta con sus embarcaciones para apoyar a sus ciudadanos Las primeras embarcaciones de la denominada “Flotilla solidaria” que este fin de semana navega desde distintos puntos de Andalucía en apoyo a Ceuta han comenzado a llegar este sábado al puerto deportivo de la ciudad autónoma, donde está previsto que atraque la totalidad de la expedición, formada por unos 60 barcos. La iniciativa, concebida como un gesto de respaldo a los ceutíes en un momento marcado por la crisis migratoria, reunirá durante este fin de semana a navegantes procedentes principalmente de la Costa del Sol y el Campo de Gibraltar, que compartirán mañana una navegación por aguas próximas a Ceuta junto a embarcaciones de la ciudad. Entre los primeros participantes en alcanzar la ciudad se encuentra Federico Ybarra, quien ha explicado a EFE que ha viajado desde Tarifa (Cádiz) con la intención de transmitir a los ceutíes que “no están abandonados” y hacerles sentir la cercanía de Andalucía. Federico Ybarra ha destacado el carácter solidario de una convocatoria que, a su juicio, pretende ir más allá del propio desplazamiento marítimo y convertirse en un altavoz para la situación que atraviesa la ciudad. “Esperamos que esto sirva de altavoz para que otra gente también se involucre”, ha señalado. Hasta primera hora de la tarde habían alcanzado el puerto deportivo algo más de una treintena de embarcaciones, mientras que los organizadores prevén que las aproximadamente 60 que integran la flotilla estén ya en Ceuta esta noche. Los participantes participarán en un cóctel de bienvenida y tendrán ocasión de conocer la ciudad y compartir unas horas con sus vecinos antes de la jornada marítima prevista para este domingo."
   },
   {
     "titulo": "La ciberguerra que golpea a Marruecos desde 2025 se extiende a la crisis de Ceuta",
@@ -19,6 +271,13 @@
     "fecha": 1788031111.0,
     "link": "https://elpais.com/espana/2026-08-29/la-ciberguerra-que-golpea-a-marruecos-desde-2025-se-extiende-a-la-crisis-de-ceuta.html",
     "resumen": "Los ‘hackers’ que publicaron un listado de más de 70.000 presuntos espías marroquíes anuncian nuevas revelaciones sobre los responsables que “orquestaron” la entrada masiva en la ciudad"
+  },
+  {
+    "titulo": "Demasiado Oyarzabal para un errático Espanyol",
+    "medio": "La Vanguardia",
+    "fecha": 1788030784.0,
+    "link": "https://www.lavanguardia.com/deportes/20260829/11622442/demasiado-oyarzabal-erratico-espanyol.html",
+    "resumen": "El campeón del mundo lidera a la Real con dos geniales asistencias y deja sin efecto el gran gol de volea de Roberto"
   },
   {
     "titulo": "Daniel Noboa lanza este mensaje a Rafael Correa y la respuesta del expresidente no se queda precisamente atrás: \"Ya mismo te toca a ti\"",
@@ -42,20 +301,6 @@
     "resumen": "Parafraseando el titular de una obra de teatro y cambiando diluvio por la noctambulidad de un engaño, el eclipse pasó. Leer"
   },
   {
-    "titulo": "El legado de Tim Cook en Apple, los hitos que marcaron sus 15 años como CEO",
-    "medio": "OK Diario",
-    "fecha": 1788030059.0,
-    "link": "https://okdiario.com/tecnologia/legado-tim-cook-apple-hitos-que-marcaron-sus-15-anos-como-ceo-20194348",
-    "resumen": "El legado de Tim Cook en Apple llega a su última etapa este próximo martes. Apple anunció el pasado 20 de abril que Cook dejará el cargo de CEO después de 15 años al frente de la compañía, para convertirse en presidente ejecutivo. Le sustituye John Ternus, hasta ahora vicepresidente senior de Ingeniería de Hardware. … Continuar leyendo \"El legado de Tim Cook en Apple, los hitos que marcaron sus 15 años como CEO\""
-  },
-  {
-    "titulo": "El secreto de Kate Middleton para lucir un rostro más joven: consigue un «lifting definido» sin pasar por quirófano",
-    "medio": "OK Diario",
-    "fecha": 1788030007.0,
-    "link": "https://okdiario.com/cool/secreto-kate-middleton-lucir-rostro-mas-joven-consigue-lifting-definido-sin-pasar-quirofano-20194039",
-    "resumen": "Kate Middleton luce un rostro más joven sin pasar por quirófano, ha conseguido un lifting definido sin necesidad de nada más que una serie de detalles que pueden ser claves. Esta mujer que se ha convertido en todo un referente no duda en aplicarse los tratamientos de belleza que son fundamentales para ganarle la batalla … Continuar leyendo \"El secreto de Kate Middleton para lucir un rostro más joven: consigue un «lifting definido» sin pasar por quirófano\""
-  },
-  {
     "titulo": "Expedientado el conductor de un coche de caballos que tiró agua a una mujer que pedía que diera de beber al animal",
     "medio": "eldiario.es",
     "fecha": 1788029998.0,
@@ -70,7 +315,7 @@
     "resumen": ""
   },
   {
-    "titulo": "Carlos Espinosa de los Monteros (1944-2026): Un caballero que defendió a España sin descanso",
+    "titulo": "Carlos Espinosa de los Monteros: un caballero que defendió a España sin descanso",
     "medio": "El Español",
     "fecha": 1788029855.0,
     "link": "https://www.elespanol.com/invertia/20260829/carlos-espinosa-monteros-caballero-defendio-espana-sin-descanso/1003744366879_0.html",
@@ -154,6 +399,13 @@
     "resumen": ""
   },
   {
+    "titulo": "El rey Haakon de Noruega recuerda a su \"seguro\" y \"cálido\" padre en su primer discurso como monarca",
+    "medio": "Europa Press",
+    "fecha": 1788026584.0,
+    "link": "https://www.europapress.es/internacional/noticia-rey-haakon-noruega-recuerda-seguro-calido-padre-primer-discurso-monarca-20260829200304.html",
+    "resumen": "El rey Haakon VIII de Noruega ha pronunciado este sábado su primer discurso a la nación tras su acceso al trono después de la muerte el viernes de su padre, Harald, a quien ha descrito como \"seguro\" y \"cálido\"."
+  },
+  {
     "titulo": "Muere Carlos Espinosa de los Monteros, ex presidente de Iberia",
     "medio": "La Vanguardia",
     "fecha": 1788026471.0,
@@ -189,20 +441,6 @@
     "resumen": "El Departamento de Seguridad ha expresado su \"solidaridad y apoyo\" a los ertzainas agredidos, y condenado esta nueva agresión contra agentes \"que trabajan por garantizar la seguridad de las y los ciudadanos\"Donostia cumple un mes sin cenas solidarias mientras KAS sigue denunciando acoso policial Agentes de la Ertzaintza han sido atacados este pasado sábado de madrugada por unos jóvenes que les han lanzado objetos al grito de “zipaios”. El Departamento de Seguridad del Gobierno vasco, que ha informado del ataque, ha condenado esta nueva agresión ertzainas, a quienes ha mostrado su solidaridad. Los hechos han ocurrido a las 05.35 horas en Getxo, cuando una patrulla de la Ertzaintza se encontraba realizando labores preventivas de paisano en un vehículo oficial sin distintivos. Unos jóvenes han identificado a los agentes y han comenzado a lanzarles objetos y a insultarles con gritos como “zipaios”, “hijos de puta” y “asquerosos”. La Ertzaintza está investigando los hechos para tratar de localizar e identificar a los agresores. En un comunicado, el Departamento de Seguridad ha expresado su “solidaridad y apoyo” a los ertzainas agredidos, y condenado esta nueva agresión contra agentes “que trabajan por garantizar la seguridad de las y los ciudadanos”. Además, ha reiterado que este tipo de hechos “atentan contra la convivencia y las bases sobre las que se construye”. El sindicato Esan ha exigido “medidas inmediatas y cambios legislativos contundentes” para proteger a los ertzainas de los ataques que están siendo objeto. En un comunicado, la central sindical ha afirmado que “agredir a un ertzaina no puede salir gratis”. “Otra vez dos ertzainas agredidos. ¿Cuántos más hacen falta?”, ha preguntado. Esan ha asegurado que están “hartos de contar agresiones y de ver cómo la violencia contra los ertzainas se convierte en una noticia más”. “Se acabó normalizar lo inaceptable”, ha afirmado. Por ello, exige “medidas inmediatas y cambios legislativos contundentes que protejan de verdad a los agentes y garanticen consecuencias reales para sus agresores”. “Quien agrede a un ertzaina tiene que saber que no sale gratis”, ha subrayado. Tras apuntar que “los ertzainas salen a la calle a proteger a los demás”, se ha preguntado “quién protege a los ertzainas”. Por su parte, el secretario general de ErNE, Sergio Gómez de Segura, ha mostrado su condena “absoluta” a la agresión y ha pedido a todos los partidos políticos “un apoyo firme” a la Ertzaintza y un debate “serio” sobre los ataques a agentes de la autoridad. El representante sindical ha declarado a Europa Press que, mientras los agentes “trabajan para que no se delinca, para ayudar a la gente y para mantener la seguridad ciudadana, que al final es el objetivo de las patrullas de paisano”, se produce “un señalamiento continuo” a la Ertzaintza. En este sentido, ha considerado que los ataques son consecuencia de la “criminalización por la izquierda abertzale” a la Policía vasca, aunque ahora quiera “colocarse en la vía democrática y la carrera política para llegar a Ajuria Enea”. Por ello, ha preguntado quién va a poner ahora “freno” a esto que se ha generado “durante años, diciendo que la Ertzaintza es malísima, no les defienden ni representan y hay que ir contra ellos”. Sergio Gómez de Segura ha dicho que ahora hay jóvenes adolescentes “que no han conocido a ETA” pero que se han inoculado “del odio enquistado en esa parte de esa sociedad, y que sigue aflorando día tras día”. “Nosotros defendemos a todo el mundo. Y aunque haya quiénes no quieren que estemos en las fiestas y en los pueblos, seguiremos yendo y estando porque es nuestro deber defender a la gente”, ha añadido. El líder de ErNE espera que, una vez reanudada la actividad en el Parlamento Vasco, haya “un apoyo firme” de los diferentes grupos políticos y un debate “sobre todos estos problemas, incluido el delito de atentado y el principio de autoridad, porque tienen en sus manos poder hacer cambios”. “Queremos una discusión seria, real, a nivel no solo judicial y legislativo, sino también a nivel educacional”, ha concluido."
   },
   {
-    "titulo": "El acuerdo por el que Delcy Rodríguez cede a Trump el 22% de las reservas petroleras de Venezuela desata una avalancha de críticas",
-    "medio": "El País",
-    "fecha": 1788026232.0,
-    "link": "https://elpais.com/america/2026-08-29/el-acuerdo-por-el-que-delcy-rodriguez-cede-a-trump-el-22-de-las-reservas-petroleras-de-venezuela-desata-una-avalancha-de-criticas.html",
-    "resumen": "Varios expertos cuestionan la legitimidad del pacto en cuestiones como la soberanía nacional y la intervención extranjera"
-  },
-  {
-    "titulo": "Muere Carlos Espinosa de los Monteros a los 82 años, figura clave de la empresa española y padre del ex político de Vox",
-    "medio": "El Mundo",
-    "fecha": 1788026214.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/08/29/6a93193121efa0e0188b456f.html",
-    "resumen": "Ha trabajado en grandes empresas como Mercedes o Inditex y presidió el Círculo de Empresarios durante casi una década Leer"
-  },
-  {
     "titulo": "Exteriores confirma que dos españoles continúan desaparecidos tras la riada en Nepal",
     "medio": "HuffPost",
     "fecha": 1788025194.0,
@@ -210,25 +448,11 @@
     "resumen": ""
   },
   {
-    "titulo": "El último adiós Harald V ya tiene fecha y habrá ausencias: Mette-Marit no estará en el funeral",
-    "medio": "OK Diario",
-    "fecha": 1788025089.0,
-    "link": "https://okdiario.com/cool/casa-real/ultimo-adios-harald-v-ya-tiene-fecha-habra-ausencias-mette-marit-no-estara-funeral-20194354",
-    "resumen": "El pasado viernes 28 de agosto, la Casa Real de Noruega anunció la muerte del rey Harald V a los 89 años. Desde ese momento, y tal y como establecen las normas de sucesión del país, su hijo Haakon asumió inmediatamente las funciones de rey y escogió el nombre de Haakon VIII, en homenaje a … Continuar leyendo \"El último adiós Harald V ya tiene fecha y habrá ausencias: Mette-Marit no estará en el funeral\""
-  },
-  {
     "titulo": "El Algarrobico es el mayor monstruo de la ambición turística desmedida: 411 habitaciones y cero huéspedes",
     "medio": "Xataka",
     "fecha": 1788024664.0,
     "link": "https://www.xataka.com/magnet/algarrobico-mayor-monstruo-ambicion-turistica-desmedida-411-habitaciones-cero-huespedes",
     "resumen": "Veinte plantas. 411 habitaciones, incluyendo un puñado de suites con ventanales. Cero huéspedes en dos décadas, salvo ratas. El hotel El Algarrobico lleva desde 2006 clavado en la arena de una de las playas más vírgenes del Mediterráneo, dentro del Parque Natural de Cabo de Gata-Níjar, sin abrir jamás sus puertas. Es el edificio más feo de España. También el más resistente, visto lo visto. Desde la carretera parece un trasatlántico encallado en mitad de un cabo casi desnudo. Una mole blanca picoteada de acné y clavada sobre una Reserva de la Biosfera, espacio Ramsar y Red Natura 2000, rodeada de praderas de posidonia que figuran entre las mejor conservadas del Mediterráneo. En un pueblo de 8.458 habitantes como Carboneras, todo el mundo guarda recuerdos del día en que este demiurgo empezó a levantarse: unos hablan de trabajo, otros de vergüenza, otros de oportunidad perdida. Pelotazo con plano falsoLa historia arranca en 2003. El Ayuntamiento de Carboneras, gobernado entonces por el PSOE, concede una licencia de obras a la promotora Azata del Sol para levantar un complejo hotelero justo sobre la playa del Algarrobico. El terreno era, técnicamente, suelo protegido: el Plan de Ordenación de los Recursos Naturales de Cabo de Gata lo clasificaba como no urbanizable, y cualquier cambio exigía una modificación formal aprobada por el Consejo de Gobierno andaluz y publicada en el BOJA. Alguien decidió saltarse la ruta larga y sustituyó el procedimiento legal por una reclasificación de facto. La Fiscalía señalaría después que esa maniobra era nula de pleno derecho, porque nunca hubo acuerdo del Ejecutivo andaluz ni publicación oficial. Durante unos años bastó: la constructora empezó a levantar hormigón sobre dunas, dentro de una franja de dominio público marítimo-terrestre, como si el parque natural fuese un simple solar más. En 2005, una treintena de activistas de Greenpeace protagonizan un acto de protesta frente al hotel. Nada lo para, como cantaba Kase-O: para 2006 el edificio estaba casi terminado: 43.840 metros cuadrados construidos, 142.480 metros cúbicos de volumen aparente. Unos 60.000 metros cúbicos de residuos potenciales si algún día se llegaba a derribar. Entonces llegó el primer juzgado. En Xataka Ciudades fantasma de la URSS: un viaje a través de los no-lugares abandonados tras el comunismo Veinte años de callejón sin salida En febrero de 2006, desde el tribunal del Juzgado de lo Contencioso-Administrativo número 2 de Almería se ordena paralizar las obras. Desde ese momento, el Algarrobico se convierte en el caso judicial más enrevesado del urbanismo español: más de una decena de sentencias del Tribunal Supremo (ATS 3898/2021) y del Tribunal Superior de Justicia de Andalucía confirman, una y otra vez, que el hotel se construyó en suelo protegido y que debe demolerse. Pasa un año, los de Greenpeace pintan un “ILEGAL” gigantesco sobre la fachada. Pasa otro año y el Tribunal Superior de Justicia de Andalucía (TSJA) desestima los recursos presentados por el Ayuntamiento de Carboneras y la promotora Azata del Sol. Se declara nula la licencia. Pero sigue la pelea: los activistas cubren el hotel con 18.000 metros de tela verde. La Fiscalía General ordena abrir diligencias de investigación para ver si aquí hay delito de prevaricación. En 2011, Greenpeace recopiló más de 27.000 firmas para su demolición. Incluso instalaron una gigantesca bola de demolición con grúas. En 2012, la Consejería de Medio Ambiente de la Junta de Andalucía pide al Gobierno la expropiación. Pocos meses después la Abogacía del Estado niega que el Gobierno sea competente para derribar el hotel. El bucle es de risa: el Supremo determina que, antes de derribar, hay que anular la licencia municipal que permitió construir. El Ayuntamiento de Carboneras, que otorgó ese permiso, se niega a anularlo. Y sin licencia anulada, no hay derribo legal posible. Y sin derribo, la mole sigue ahí, oxidándose al sol. En 2021, tras 15 años de sentencias condenatorias, su demolición se canceló por el TSJA (Tribunal Superior de Justicia de Andalucía). Nombres concretosDurante estos años se empezaron a llenar sus fachadas de arte urbano y pintadas protesta, pero algunos ya se habían embolsado mucho dinero. La Fiscalía de Almería abrió diligencias para investigar a 7 concejales de Carboneras por un posible delito de prevaricación administrativa, a raíz del acuerdo plenario del 17 de junio de 2026 que volvió a aplazar la anulación de la licencia. 5 de ellos están vinculados al PSOE. Mientras tanto, Greenpeace, Ecologistas en Acción y WWF seguían presionando, aludiendo a la Ley de Costas. Tras el no reiterado de su demolición, la ONG sigue presentando recursos que el Tribunal Supremo rechaza o desestiam. Por suerte, la Audiencia Nacional también rechaza que las administraciones indemnicen a la promotora (con 70 millones, nada menos). El edificio ya es una carcasa y el caso avanza hasta 2024, cuando el Tribunal Europeo de Derechos Humanos (TEDH) investiga si las decisiones judiciales españolas son normales o irregulares. ExprópieseEl giro decisivo llega por una vía distinta a la judicial. En febrero de 2025, el Gobierno central declara la utilidad pública de los terrenos que el hotel ocupa dentro del dominio público marítimo-terrestre, primer paso para expropiarlos al amparo de la Ley de Costas. Azata del Sol recurre. En agosto de 2025, el Ministerio para la Transición Ecológica rechaza el recurso de alzada y cierra la vía administrativa: la expropiación sigue adelante. Ahí empieza otra pelea, esta vez por dinero. El Gobierno ofrece 16.496 euros por el suelo expropiado, una cifra que asume que solo se paga el terreno, no el edificio. Azata del Sol exige 44,5 millones: incluye en su cálculo el valor del hotel construido, más un 5% adicional por \"daño moral\" y descrédito empresarial. El desacuerdo pasa ahora a un jurado provincial de expropiación, que tiene hasta 6 meses para fijar un precio justo. En la práctica, es un tribunal de divorcio que debe decidir cuánto vale una relación que nunca debió empezar. En Xataka China ha encontrado un filón en las viejas minas de carbón abandonadas: refrescar los hogares Se acabó el bloqueoEl otro frente —el municipal— también avanza. El 7 de julio de 2026, el Pleno del Ayuntamiento de Carboneras aprueba, en segundo intento, anular la licencia de obras de 2003. Vota a favor el alcalde, Salvador Hernández (Ciudadanos), junto a 7 concejales presentes. 4 ediles —entre ellos dos del PSOE investigados— abandonan el salón justo antes de la votación, dejando sus sillas vacías en la foto final. La decisión llega después de un ultimátum del TSJA, que había dado 20 días al Consistorio para actuar bajo amenaza de ejecutar la anulación por su cuenta. En un municipio de menos de 9.000 habitantes donde muchas batallas se discuten en bares, todos saben quién se levantó de la silla y quién se quedó. Con la licencia anulada, desaparece el último obstáculo administrativo puro que quedaba en pie. Pero esto no acaba aquí: el proceso sigue abierto en dos frentes paralelos: la expropiación estatal del 40% del suelo, la franja que invade el dominio público, y la restauración ambiental del entorno, competencia de la Junta según un reparto de tareas pactado en 2011. Tras otra queja, Greenpeace registró el 27 de julio de 2026 un escrito exigiendo a Carboneras que active ya el procedimiento de derribo. Cuánto cuesta borrar un símbolo Un informe de la empresa pública Tragsa, elaborado en 2012, calculó el coste global de la demolición y restauración en 7,1 millones de euros. De ellos, 3,9 millones se destinarían a tirar el edificio y tratar unos 60.000 metros cúbicos de residuos; 1,5 millones, a restaurar el paraje; el resto, a estudios previos, proyecto, dirección de obra y seguridad. El paso del tiempo ha encarecido esa factura: solo el aumento del precio de la energía, de la mano de obra y de la gestión de residuos puede haber inflado el presupuesto hasta un 50%. Greenpeace encargó su propio estudio, elaborado por el colectivo de arquitectura n'UNDO. Propuso un desmantelamiento selectivo en vez de una demolición tradicional. Su propuesta mantiene una cifra similar —unos 7,3 millones de euros—, pero promete reciclar hasta el 98% del material y reducir los costes en torno a un 11%, convirtiendo la playa en un laboratorio de I+D de demolición, gestión de residuos y restauración de paisaje durante dos años. La propuesta calcula 380-410 empleos generados, 530 horas de cursos y 71 toneladas de CO2 no emitidas. Ninguna administración la ha adoptado todavía. Hasta Almería y más allá. El Algarrobico, más que un hotel fallido es la constatación de que durante los años del boom inmobiliario, el cemento llegó más lejos que la ley. El hambre por el dinero pisoteó incluso un parque natural protegido por la Unesco. Cada pleno y cada recurso de Azata del Sol alimenta una sensación de que la ilegalidad, sostenida el tiempo suficiente, se vuelve paisaje. Porque la verdad se defiende sola; la mentira necesita ayuda de tribunales. Imágenes | Flickr (PhotoLanda, Raquel Morrison, Francisco Jesús Gómez Gálvez, Salvador Ruiz Gómez) En Xataka | Si la pregunta es \"por qué España no construye más casas\", la industria del ladrillo tiene la repuesta: no es rentable - La noticia El Algarrobico es el mayor monstruo de la ambición turística desmedida: 411 habitaciones y cero huéspedes fue publicada originalmente en Xataka por Isra Fdez ."
-  },
-  {
-    "titulo": "La reflexión de San Agustín, filósofo y teólogo: «Si quieres conocer a una persona, no le preguntes lo que piensa sino lo que ama»",
-    "medio": "OK Diario",
-    "fecha": 1788024631.0,
-    "link": "https://okdiario.com/curiosidades/reflexion-san-agustin-filosofo-teologo-si-quieres-conocer-persona-no-preguntes-lo-que-piensa-sino-lo-que-ama-20190240",
-    "resumen": "Hay preguntas que permiten conocer las opiniones de una persona, pero no necesariamente quién es de verdad. San Agustín puso el foco en una cuestión mucho más profunda, que es el amor como reflejo de las prioridades, los valores y las decisiones de cada individuo. Su conocida reflexión invita a mirar más allá de los … Continuar leyendo \"La reflexión de San Agustín, filósofo y teólogo: «Si quieres conocer a una persona, no le preguntes lo que piensa sino lo que ama»\""
   },
   {
     "titulo": "La Policía investiga la infiltración de radicales violentos entre los inmigrantes de Ceuta",
@@ -252,52 +476,10 @@
     "resumen": "La Unión Europea trabaja ya en la petición formulada por España para recibir el apoyo de la Agencia Europea de Fronteras y Costas (Frontex) y de Europol en el triaje de los migrantes irregulares en Ceuta; una situación todavía \"compleja\", en palabras del comisario europeo de Migración, Magnus Brunner, quien ha celebrado de todas formas \"las medidas adicionales\" adoptadas al respecto por el Gobierno español. Leer"
   },
   {
-    "titulo": "Pogacar, caída y adiós a la Vuelta a España: una clavícula rota que deja huérfana a la carrera",
-    "medio": "El País",
-    "fecha": 1788024171.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-08-29/pogacar-se-cae-a-falta-de-31-kilometros-de-meta-y-abandona-la-vuelta-en-la-octava-etapa.html",
-    "resumen": "El esloveno se pega un topetazo al intentar evitar una piedra que le deja una fractura con desplazamiento y un traumatismo craneoencefálico. Abandona la carrera como líder, puesto que asume Enric Mas"
-  },
-  {
-    "titulo": "El ordenador del trabajo no es tuyo, y esto es lo que no deberías hacer nunca en él",
-    "medio": "OK Diario",
-    "fecha": 1788023823.0,
-    "link": "https://okdiario.com/tecnologia/ordenador-del-trabajo-no-tuyo-esto-lo-que-no-deberias-hacer-nunca-20194259",
-    "resumen": "Después de un mes desconectado, volver a encender el ordenador del trabajo tiene algo de rutina automática. Se abre el correo, se recupera la sesión de siempre y, sin pensarlo demasiado, se retoman también costumbres que llevaban meses sin cuestionarse. El problema es que ese equipo no es de quien lo usa cada día, sino … Continuar leyendo \"El ordenador del trabajo no es tuyo, y esto es lo que no deberías hacer nunca en él\""
-  },
-  {
-    "titulo": "Con más de 70 metros de eslora, 2000 toneladas y un sistema que le permite cargar sus baterías bajo el agua, Alemania entrega a Israel el submarino más grande y potente construido desde la II Guerra Mundial",
-    "medio": "OK Diario",
-    "fecha": 1788023790.0,
-    "link": "https://okdiario.com/techy/mas-70-metros-eslora-2000-toneladas-sistema-que-permite-cargar-sus-baterias-bajo-agua-alemania-entrega-israel-submarino-mas-grande-potente-construido-desde-ii-guerra-m-20194274",
-    "resumen": "Según MarineForum la Armada isrealí recibió en Kiel el INS Drakon, el sexto submarino de la familia Dolphin fabricado por la empresa alemana TKMS. La entrega, que estaba prevista inicialmente para 2025, al final se hizo el 22 de julio de 2026 y sin una ceremonia pública. Un día más tarde, el submarino zarpó con … Continuar leyendo \"Con más de 70 metros de eslora, 2000 toneladas y un sistema que le permite cargar sus baterías bajo el agua, Alemania entrega a Israel el submarino más grande y potente construido desde la II Guerra Mundial\""
-  },
-  {
     "titulo": "Jesús Calleja habla de la tragedia de Nepal y cuenta por qué le toca tan de cerca: \"Parte de mi familia es nepalí y nos afecta mucho\"",
     "medio": "HuffPost",
     "fecha": 1788023709.0,
     "link": "https://www.huffingtonpost.es/virales/jesus-calleja-habla-tragedia-nepal-cuenta-que-le-toca-cerca-parte-mi-familia-nepali-afecta-f202608.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Jornada 3 de la Liga: resumen de todos los partidos",
-    "medio": "OK Diario",
-    "fecha": 1788023611.0,
-    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
-    "resumen": "La tercera jornada de Liga ya está aquí. Esto no para. Después de disputar las dos primeras a caballo entre una y otra, regresa el orden al campeonato. La jornada comienza este viernes con el partido entre Racing y Elche y finaliza el lunes con la visita del Rayo al Barcelona. Por el camino, el … Continuar leyendo \"Jornada 3 de la Liga: resumen de todos los partidos\""
-  },
-  {
-    "titulo": "Paul, británico de 55 años, se mudó a España en 2017 y ahora avisa a sus compatriotas: \"Ya no es el sitio increíblemente barato que algunos imaginan\"",
-    "medio": "HuffPost",
-    "fecha": 1788023032.0,
-    "link": "https://www.huffingtonpost.es/economia/paul-britanico-55nos-mudo-espana-2017-avisa-compatriotas-ya-sitio-increiblemente-barato-imaginan-f202608.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Un estudio sobre el uso de pantallas con 502 niños de 1 a 8 años: \"Los efectos que vimos al año de vida fueron los mayores de todas las edades analizadas\"",
-    "medio": "HuffPost",
-    "fecha": 1788023010.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-estudio-sobre-pantallas-502-ninos-1-8-anos-efectos-vimos-ano-vida-mayores-todas-edades-analizadas-f202608.html",
     "resumen": ""
   },
   {
@@ -315,25 +497,11 @@
     "resumen": "Windows 11 guarda un secreto que muy pocos usuarios conocen y que podría ayudarte a ahorrar espacio. Un usuario de Reddit descubrió que Compact OS puede ser una alternativa a la crisis de memoria que se vive por culpa de la IA. Este comando puede comprimir los archivos del sistema operativo sin afectar de forma […] Seguir leyendo: Esta función oculta de Windows comprime tu sistema y libera hasta 5 GB de espacio"
   },
   {
-    "titulo": "Las llamas arrasan en Madrid el plató de una productora de televisión donde se graban programas como 'Maestros de la Costura', además de series y películas",
-    "medio": "El Mundo",
-    "fecha": 1788021800.0,
-    "link": "https://www.elmundo.es/madrid/2026/08/29/6a9307c8e9cf4aad168b4579.html",
-    "resumen": "Ha ardido el estudio 2 que en estos momentos estaba desocupado. Leer"
-  },
-  {
     "titulo": "Pogacar sufre un traumatismo craneoencefálico, una posible fractura en la clavícula izquierda y varias contusiones",
     "medio": "El Español",
     "fecha": 1788021499.0,
     "link": "https://www.elespanol.com/deportes/ciclismo/lavuelta/20260829/pogacar-sufre-traumatismo-craneoencefalico-posible-fractura-clavicula-izquierda-varias-contusiones/1003744366812_0.html",
     "resumen": "El esloveno se vio obligado a abandonar tras perder el control de su bici al contactar con la rueda trasera del ciclista que marchaba delante.Más información: Pogacar abandona la Vuelta a España tras sufrir una dura caída en la etapa 8"
-  },
-  {
-    "titulo": "Luna llena para el Ultra Trail du Mont Blanc más rápido de la historia",
-    "medio": "El País",
-    "fecha": 1788021371.0,
-    "link": "https://elpais.com/deportes/2026-08-29/luna-llena-para-el-ultra-trail-du-mont-blanc-mas-rapido-de-la-historia.html",
-    "resumen": "Victorias inapelables para Ben Dhiman y Blandine L’Hirondel en los 171 kilómetros alrededor del techo de los Alpes en condiciones idílicas tras una salida retrasada por las tormentas"
   },
   {
     "titulo": "Un herido por un accidente en una atracción del Parque Warner de Madrid",
@@ -348,13 +516,6 @@
     "fecha": 1788020820.0,
     "link": "https://www.eldiario.es/comunitat-valenciana/volta-enceta-revolta-comunidad-educativa-valenciana-retoma-movilizaciones-coincidiendo-paso-vuelta_1_13474585.html",
     "resumen": "STEPV convoca de nuevo este domingo a los docentes en La Vila Joiosa y el Port de Tudons para dar continuidad a las primeras movilizaciones del profesorado tras el parón estivalLa huelga educativa valenciana deja hasta el momento 14 sanciones a docentes y más de 8.000 euros en multas El profesorado valenciano ha vuelto a salir a la calle este sábado. Docentes de diferentes comarcas valencianas han visibilizado sus protestas y reivindicaciones en diferentes puntos a lo largo del recorrido de La Vuelta por tierras valencianas, en localidades como Simat de la Valldigna, Barx o Xeraco, en un ambiente festivo. Además, el Sindicat de Treballadors i Treballadores de l'Ensenyament del País Valencià (STEPV) ha convocado para este domingo 30 de agosto nuevas acciones de protesta del colectivo docente tras el parón vacacional. Bajo el lema “La Volta enceta la revolta”, el profesorado valenciano prevé visibilizar sus demandas de mejoras laborales y salariales a través del escaparate de la Vuelta Ciclista a España a su paso por la provincia de Alicante. Las concentraciones tendrán dos puntos neurálgicos principales: la salida de la etapa en La Vila Joiosa a primera hora de la mañana y la subida al Port de Tudons a mediodía. La organización ha diseñado una jornada de protesta de carácter pacífico y respetuoso en la que los participantes lucirán camisetas y pancartas reivindicativas desde los arcenes y balcones. “En ningún caso se interferirá en el transcurso normal de la carrera ni de los ciclistas”, ha remarcado el sindicato en sus recomendaciones a aquellos docentes que participen en las protestas. Con esta acción en la calle y en los puertos de montaña, el profesorado retoma las movilización después de la huelga de cinco semanas que protagonizó el final del curso pasado para exigir a la administración autonómica respuestas concretas antes del inicio de las clases."
-  },
-  {
-    "titulo": "Un hombre de 49 años herido \"potencialmente grave\" en una atracción del Parque Warner",
-    "medio": "El Mundo",
-    "fecha": 1788020669.0,
-    "link": "https://www.elmundo.es/madrid/2026/08/29/6a9306edfdddff451c8b4585.html",
-    "resumen": "Según la Guardia Civil, el hombre se habría desvanecido y ha sufrido fracturas en ambas piernas Leer"
   },
   {
     "titulo": "Un hombre muere tras prenderse fuego a las puertas de la Ciudad de la Justicia de Córdoba",
@@ -385,55 +546,6 @@
     "resumen": "Cien años de soledad de Gabriel García Márquez no es solo un clásico de la literatura latinoamericana. Que lo es y, por descontado. También es una historia fundacional que abarca la historia del continente y la transforma en realismo mágico. Como si eso no fuera suficiente, la historia, que narra siete generaciones de una misma […] Seguir leyendo: ¿Valió la pena adaptar ‘Cien años de soledad’? Tres grandes fallos de la serie sorpresa de Netflix"
   },
   {
-    "titulo": "Un hombre resulta herido grave tras un accidente en una montaña rusa del parque Warner de Madrid",
-    "medio": "eldiario.es",
-    "fecha": 1788018931.0,
-    "link": "https://www.eldiario.es/madrid/hombre-resulta-herido-grave-accidente-montana-rusa-parque-warner-madrid_1_13474563.html",
-    "resumen": "La víctima, de 49 años, ha sufrido una fractura en cada pierna y ha sido hospitalizadoDel platillo volante a la estrella voladora: las seis décadas del Parque de Atracciones de Madrid antes de cambiar de manos Un hombre de 49 años ha resultado herido potencialmente grave este sábado en una montaña rusa en el Parque Warner ubicado en la localidad de San Martín de la Vega. El incidente se ha producido en la atracción conocida como Batman Gotham City Escape, una montaña rusa de 45 metros de altura que se convirtió en la primera atracción multi-launch (o de lanzamientos múltiples) de España con su puesta en funcionamiento en 2023. En concreto, propone un viaje narrativo por la historia de Batman narrado en una caída de 98 grados a 45 metros de altura, con múltiples giros completos y lanzamientos a más de 100 kilómetros por hora en unos pocos segundos. El hombre ha sufrido una fractura abierta en la pierna izquierda, así como otra cerrada en la pierna derecha, según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. Desde la dirección del parque de atracciones han apuntado que la montaña rusa se detuvo inmediatamente y se activaron los procedimientos de emergencia, facilitando que la persona afectada fuera atendida por los equipos de emergencias. Tras recibir una primera asistencia en el lugar, el herido ha sido evacuado en helicóptero hasta el Hospital 12 de Octubre, donde ha ingresado con pronóstico potencialmente grave para una valoración más exhaustiva. También han acudido agentes de la Guardia Civil y de la Policía Local. Desde el Parque Warner han apuntado que la montaña rusa permanece cerrada mientras se revisa el incidente en coordinación con las autoridades. Juan José Molina, que se encontraba en el parque en ese momento, hacia las 14.30 horas, ha explicado a Europa Press que tras el incidente “había gente llorando y con crisis de ansiedad”. Según ha detallado, el resto del parque funcionaba con normalidad tras el incidente."
-  },
-  {
-    "titulo": "Milagro en Nepal: rescatada con vida una niña de seis años tras 60 horas atrapada",
-    "medio": "La Vanguardia",
-    "fecha": 1788018849.0,
-    "link": "https://www.lavanguardia.com/internacional/20260829/11622350/rescatan-vida-nina-seis-anos-60-horas-atrapada-hueco-nepal.html",
-    "resumen": "Los equipos de rescate se abrieron paso a mano entre piedras, maderas, planchas metálicas y fragmentos de estructuras acumulados por la corriente hasta alcanzar el estrecho hueco donde había quedado atrapada"
-  },
-  {
-    "titulo": "La Policía extrema la vigilancia en El Saler tras el histórico incendio",
-    "medio": "La Vanguardia",
-    "fecha": 1788018808.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260829/11622348/policia-extrema-vigilancia-saler-historico-incendio.html",
-    "resumen": "El grave incendio de El Saler provoca un nuevo fuego entre los partidos en València"
-  },
-  {
-    "titulo": "Tadej Pogačar abandona La Vuelta por culpa de una caída en la octava etapa",
-    "medio": "The Objective",
-    "fecha": 1788018636.0,
-    "link": "https://theobjective.com/deportes/2026-08-29/tadej-pogacar-abandona-la-vuelta/",
-    "resumen": "Tadej Pogačar se ha visto obligado a abandonar La Vuelta después de sufrir una dura caída cuando faltaban 33 kilómetros para la línea de meta, en […]"
-  },
-  {
-    "titulo": "Centro Deportivo Municipal Espronceda (★★★✩✩): un puzle bien resuelto",
-    "medio": "La Vanguardia",
-    "fecha": 1788018085.0,
-    "link": "https://www.lavanguardia.com/cultura/20260829/11622292/centro-deportivo-municipal-espronceda-barcelona-puzzle-resuelto-antoni-barcelo-barbara-balanzo-conxitya-balcells.html",
-    "resumen": "El equipo integrado por Antoni Barceló, Bárbara Balanzó y Conxita Balcells se ha salido con la suya en este polideportivo entre medianeras"
-  },
-  {
-    "titulo": "Marc Márquez consigue la victoria en la ‘sprint’ de Aragón y recorta distancias con Jorge Martín",
-    "medio": "The Objective",
-    "fecha": 1788017744.0,
-    "link": "https://theobjective.com/deportes/2026-08-29/marc-marquez-victoria-sprint-aragon/",
-    "resumen": "Marc Márquez se ha llevado este sábado la victoria en la carrera al ‘sprint‘ del Gran Premio de Aragón, decimotercera cita del Mundial de MotoGP, después […]"
-  },
-  {
-    "titulo": "Los noruegos salen a rendir homenaje a su rey forma parte de las imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1788017610.0,
-    "link": "https://www.lavanguardia.com/fotos/20260829/11622341/noruegos-salen-rendir-homenaje-rey-forma-parte-imagenes-dia.html",
-    "resumen": "Muestras de respeto, dolor y lágrimas recorren hoy diferentes partes del mundo"
-  },
-  {
     "titulo": "La ciencia reconstruye el primer paisaje sonoro del Jurásico y encuentra la prueba más antigua de comunicación por ultrasonidos.",
     "medio": "Xataka",
     "fecha": 1788017464.0,
@@ -441,25 +553,11 @@
     "resumen": "Si cerramos los ojos y pensamos en un bosque del Jurásico, la cultura popular nos invita a imaginar rugidos atronadores y pisadas gigantescas de los dinosaurios. Sin embargo, un nuevo estudio acaba de reconstruir el paisaje sonoro de aquella época y el resultado es muy distinto, puesto que solo se 'escucharía' una sinfonía de tonos puros y comunicación por ultrasonidos protagonizada por insectos. Reconstruir el sonido extinguido hace 165 millones de años parece algo mágico, pero es un tema puramente biomecánico y tecnológico. Aquí lo han explicado un grupo de paleontólogos y bioacústicos que han publicado un artículo con el análisis acústico más detallado hasta la fecha de un ecosistema del Jurásico Medio. Y para lograrlo, no han mirado a los grandes saurópodos, sino a los ancestros de los grillos y los saltamontes. En Xataka El asteroide aniquiló a los dinosaurios, los hongos remataron el trabajo: la teoría que explica el triunfo de los mamíferos La tecnología. Este trabajo se basó en el minucioso estudio de 20 alas fosilizadas pertenecientes a nueve especies diferentes de ensíferos, halladas en la región de Mongolia Interior. Y esto es muy interesante porque las alas de estos insectos funcionan como auténticos instrumentos musicales fosilizados, puesto que la estridulación, el proceso físico por el que frotan sus alas para emitir sonido, deja firmas morfológicas muy precisas en la estructura de sus nervaduras. Para descifrar estas partituras jurásicas, el equipo no se limitó a medir el tamaño de los fósiles, sino que utilizaron un enfoque multidisciplinar de vanguardia que incluyó vibrometría láser en especies vivas actuales para entender los patrones de resonancia, modelos biomecánicos para replicar el movimiento de los insectos extintos y sistemas de machine learning para estimar las tasas de llamada y los ritmos de cada especie. Primer ultrasonido. La gran revelación científica del artículo se esconde en las alas de la Sigmaboilus peregrinus, puesto que los modelos acústicos han demostrado que esta especie extinta se comunicaba utilizando ultrasonidos, emitiendo frecuencias superiores a los 20 kHz. Este detalle es un punto de inflexión, ya que hasta ahora, al hablar de la evolución de las altas frecuencias en la naturaleza, los grandes protagonistas eran los murciélagos y su red de ecolocalización. Pero estas nuevas pruebas demuestran que la comunicación ultrasónica animal ya operaba a pleno rendimiento hace unos 165 millones de años. Había más. El resto del bosque, por supuesto, no se quedaba en silencio, ya que las otras especies analizadas emitían cantos musicales de tonos puros, la gran mayoría rondando los 5 kHz. Al caer la tarde en aquel bosque, el aire vibraba con un coro complejo y estructurado, sorprendentemente similar a la partición de nichos acústicos que vemos hoy en día en las selvas tropicales, puesto que cada especie ocupaba una \"banda de frecuencia\" distinta para evitar que sus cantos se solaparan con los de sus vecinos. En Xataka Acabamos de descubrir un dinosaurio enorme en España. Debajo de las obras del AVE Era una necesidad. Más allá del asombroso logro técnico que supone \"escuchar\" el Jurásico, el estudio plantea una pregunta: ¿por qué un insecto prehistórico necesitaría desarrollar un sistema de comunicación por ultrasonidos? La respuesta apunta a una carrera armamentística ecológica, puesto que al emitir sonidos de alta frecuencia tiene ventajas biológicas clave, como por ejemplo que son señales altamente direccionales y se atenúan rápidamente en la distancia. Esto permite a los insectos comunicarse con sus posibles parejas reproductivas, reduciendo el riesgo de ser interceptados por depredadores que les pudieran escuchar. Imágenes | Antonio Mistretta En Xataka | 7 razones por la que 'Jurassic Park' no ha sido igualada por ninguna de sus secuelas - La noticia La ciencia reconstruye el primer paisaje sonoro del Jurásico y encuentra la prueba más antigua de comunicación por ultrasonidos. fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "Los vecinos de El Saler denuncian fallos en el dispositivo de extinción y reclaman responsabilidades políticas",
-    "medio": "eldiario.es",
-    "fecha": 1788016959.0,
-    "link": "https://www.eldiario.es/comunitat-valenciana/valencia/vecinos-saler-denuncian-fallos-dispositivo-extincion-reclaman-responsabilidades-politicas_1_13474487.html",
-    "resumen": "La asociación vecinal cuestiona la gestión del cambio de viento en el incendio que ha calcinado más de 30 hectáreas de la Devesa y exige un plan preventivo específicoLa delegada del Gobierno descarta causas naturales detrás del incendio de El Saler: “Pudo ser intencionado” El regreso de los residentes a sus viviendas tras la estabilización del incendio de la Devesa de El Saler no ha frenado el malestar de los vecinos. La Associació Veïnal del Saler ha emitido un comunicado en el que denuncia fallos en la coordinación y en la estrategia del operativo de emergencias tras el fuego que ha quemado más de 30 hectáreas de masa forestal en el paraje natura. La entidad exige que se depuren responsabilidades políticas y la puesta en marcha de un plan de acción efectivo que impida la repetición de episodios similares en este espacio protegido. Los residentes cuestionan directamente el desarrollo de las tareas de extinción durante la jornada del jueves, cuando el fuego reactivó su virulencia. “Cómo es posible que un incendio que por la mañana parecía totalmente controlado, de repente fuera una amenaza real que de poco no ha acabado llegando al pueblo”, ha expuesto la entidad vecinal. Según la asociación, el giro del viento a mediodía —un fenómeno del que ya había avisado la Agencia Estatal de Meteorología (Aemet)— cogió al dispositivo sin las decisiones pertinentes tomadas, lo que a su juicio generó una situación de extremo peligro. En el comunicado, los residentes reflejan el temor sufrido por la población durante la evacuación preventiva del núcleo urbano y de los centros educativos próximos. “El jueves cuando nos evacuaron, todos y todas pensamos que no podríamos volver a ver el bosque tal y como lo conocíamos, porque veíamos las llamas junto al instituto”, ha recordado el colectivo. Tras el regreso a sus casas, la opinión mayoritaria entre el vecindario es que la estrategia “ha fallado” y que no solo “ha puesto en peligro la vida de los bomberos”, sino que estuvo a punto de desencadenar “una desgracia mucho mayor”. Asimismo, la asociación de vecinos ha recordado que la Devesa requiere un protocolo forestal singular, tanto en la prevención como en los trabajos sobre el terreno, debido a la alta densidad de la vegetación y su cercanía a las zonas habitadas. La entidad ha remarcado que ya en 2024, tras sufrir una oleada de más de 17 fuegos, en su mayoría provocados, solicitaron un cambio de modelo a las administraciones públicas. “No podemos, después de ver lo que ha pasado, pensar que todo se ha hecho bien y que nada ha fallado”, han concluido los portavoces vecinales para instar al Ayuntamiento y a la Generalitat a actuar con inmediatez."
-  },
-  {
-    "titulo": "Pogacar abandona la Vuelta a España tras una caída de la que es evacuado en ambulancia",
-    "medio": "El Mundo",
-    "fecha": 1788016917.0,
-    "link": "https://www.elmundo.es/deportes/ciclismo/2026/08/29/6a92f63ce85ece20498b456e.html",
-    "resumen": "El esloveno se cayó a 32 kilómetros de meta y la etapa se la llevó Coquard al sprint Leer"
-  },
-  {
-    "titulo": "Ascienden a 37 los muertos en un ataque aéreo de Rusia sobre Kiev que deja cientos de evacuados",
-    "medio": "El Mundo",
-    "fecha": 1788016800.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/29/6a929ddb21efa061608b458e.html",
-    "resumen": "Hasta 42 personas han resultado heridas y 380 civiles han tenido que ser evacuados de la zona afectada Leer"
+    "titulo": "Pogacar abandona La Vuelta por una caída en la octava etapa",
+    "medio": "Europa Press",
+    "fecha": 1788017376.0,
+    "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-pogacar-abandona-vuelta-caida-octava-etapa-20260829172936.html",
+    "resumen": "El ciclista esloveno Tadej Pogacar (UAE Team Emirates-XRG) sufrió una fuerte caída este sábado en la octava etapa de La Vuelta a España, a 33 kilómetros de meta, por la cual no pudo continuar, dolorido en el hombro izquierdo, abandono del líder y favorito en un día donde venció al esprint el francés Bryan Coquard (Cofidis) y que deja como nuevo líder al español Enric Mas (Movistar)."
   },
   {
     "titulo": "Starbucks Workers Are Calling for a Nationwide Boycott",
@@ -497,13 +595,6 @@
     "resumen": "Ingrid Alexandra de Noruega se suma a Leonor de Borbón, Elisabeth de Bélgica y Amalia de Países Bajos al frente del relevo monárquico europeo. La entrada Princesas herederas Europa: la nueva generación que lidera el relevo monárquico aparece primero en Moncloa."
   },
   {
-    "titulo": "El embalse que pertenece a un pueblo medieval y en el que darse un buen chapuzón en esta provincia catalana alejada del mar",
-    "medio": "eldiario.es",
-    "fecha": 1788015673.0,
-    "link": "https://www.eldiario.es/viajes/embalse-pertenece-pueblo-medieval-darse-buen-chapuzon-provincia-catalana-alejada-mar-pm_1_13473929.html",
-    "resumen": "El de Sant Antoni es un embalse de la provincia de Lleida situado en el marco de un paraje lleno de agua dulce, historia y culturaEn el nacimiento de este río, además de una diversa fauna y flora, verás cómo el agua brota entre rocas de toba calcárea y desciende en cascadasEsta laguna es considerada un paraíso ornitológico y uno de los mejores lugares para ver la puesta de sol en Aragón En la provincia de Lleida, en un hermoso territorio de interior totalmente alejado de la brisa marina, se esconde uno de los tesoros fluviales más impresionantes de la geografía peninsular. Se trata del embalse de Sant Antoni, una colosal masa de agua que se extiende majestuosamente a lo largo de 11 kilómetros por la comarca prepirenaica del Pallars Jussà. Construida a principios del siglo pasado por la emblemática compañía conocida popularmente como La Canadiense, esta gran obra de ingeniería civil llegó a convertirse en su época de inauguración en la presa de retención hídrica más grande de todo el continente europeo. Hoy en día, este pantano destaca de manera singular por ser la superficie de agua dulce en profundidad más grande de Catalunya, ofreciendo un oasis de calma entre espectaculares montañas. Una de las joyas más singulares que custodian las orillas de este gran embalse es Salàs de Pallars, una preciosa villa que destaca por conservar con orgullo su trazado fortificado de origen medieval. Este pequeño municipio del Pirineo ofrece una fascinante inmersión en la historia medieval catalana gracias a un recinto amurallado perfectamente conservado que mantiene intactos tres de sus portales defensivos originales. Pasear por su casco histórico permite a los visitantes contemplar monumentos de gran valor como la imponente Torre de Barta o el magnífico Portal de Soldevila, flanqueado por una bella torre cilíndrica. El origen del nombre de este gran lago artificial se remonta a la antigua ermita románica de Sant Antoni de Susterris, un histórico templo religioso que quedó sumergido bajo las aguas tras la inundación del valle. En la actualidad, cuando el nivel del caudal desciende considerablemente durante las épocas secas, la punta del campanario de la ermita emerge de la superficie como un mudo testigo del pasado. La zona que rodea el embalse está impregnada de leyendas populares, destacando el relato de las pisadas del demonio en el estrecho de Susterris. Según cuenta la mitología de la comarca, estas marcas ovales grabadas en la roca eran el resultado de una violenta lucha cuerpo a cuerpo entre el santo y el diablo, quien acabó precipitándose risco abajo. Salàs de Pallars ofrece una fascinante inmersión en la historia medieval catalana gracias a un recinto amurallado perfectamente conservado Para aquellos viajeros que buscan refugiarse del intenso calor veraniego de las comarcas del interior, el embalse de Sant Antoni se presenta como el destino idóneo para disfrutar de un excelente chapuzón. El pantano dispone de diversos accesos públicos y gratuitos acondicionados como playas de interior que permiten bañarse de forma totalmente segura en estas limpias aguas de montaña. Entre los rincones predilectos por los bañistas destaca el Chiringuito de Pobla, una zona muy cercana a la localidad de La Pobla de Segur, donde es posible descansar sobre una playa de piedras pequeñas. Otro de los puntos de baño más recomendados del embalse de Sant Antoni es el Camping Gaset, un espacio de acceso libre que cuenta con una agradable playa ideal para las familias que viajan con niños pequeños. Esta playa dispone de un excelente restaurante donde comer o tomar un refresco tras una divertida jornada de natación en un entorno natural rodeado de espectaculares paisajes. Por otra parte, para los bañistas que prefieren una experiencia más tranquila y aislada, el paraje conocido como La Raconada ofrece un rápido acceso por coche desde Tremp. Tremp, la capital comarcal A muy poca distancia de estas playas se sitúa Tremp, la capital comarcal que bien merece una visita para complementar el día de baño con un agradable recorrido por sus calles medievales. Las animadas terrazas de los bares locales se llenan de visitantes que disfrutan de refrescantes granizados de frutas y batidos naturales. El patrimonio de Tremp se revela al contemplar las tres torres supervivientes de su antigua muralla defensiva, pasear por el histórico puente románico de Sant Jaume o disfrutar del extenso parque de El Pinell, un bello pinar cubierto de hierba con columpios, colinas y merenderos. El embalse de Sant Antoni y las hermosas poblaciones de su entorno constituyen un destino de interior inigualable que combina a la perfección la riqueza histórica, el deporte activo y la desconexión natural. Los amantes de las actividades al aire libre encontrarán opciones que van desde deportes náuticos como el remo hasta magníficas rutas de senderismo y ciclismo de montaña por parajes prepirenaicos. Un ejemplo ideal es la ruta circular que parte de La Pobla de Segur hacia Aramunt, permitiendo explorar cultivos tradicionales y ascender hasta el despoblado medieval de Aramunt Vell. En definitiva, una comarca que demuestra que no es necesario disponer de costa marina para gozar de un inolvidable período estival rodeado de agua dulce, historia y cultura."
-  },
-  {
     "titulo": "Alabama lleva 40 años enterrando árboles de Navidad sobre sus playas. El resultado ha sido un éxito: nuevas dunas contra los huracanes",
     "medio": "Xataka",
     "fecha": 1788015664.0,
@@ -539,32 +630,11 @@
     "resumen": "El TSJCV condena a la Generalitat a pagar 120.000 euros por responsabilidad patrimonial sanitaria tras una epidural no consentida. La entrada El TSJCV condena a la Generalitat: 120.000 euros por una epidural no consentida aparece primero en Moncloa."
   },
   {
-    "titulo": "El CERJ crea el observatorio del registro de jornada",
-    "medio": "Moncloa.com",
-    "fecha": 1788015546.0,
-    "link": "https://www.moncloa.com/2026/08/29/real-decreto-registro-jornada-juzgados-social-3422845/",
-    "resumen": "El CERJ crea el Observatorio del Registro de Jornada ante la inminente norma reglamentaria que exigirá control horario digital en más de un millón de empresas. La entrada El CERJ crea el observatorio del registro de jornada aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La oposición acepta con cautela el acuerdo petrolero con EEUU pero prioriza el beneficio de la población",
-    "medio": "Europa Press",
-    "fecha": 1788015372.0,
-    "link": "https://www.europapress.es/internacional/noticia-oposicion-venezolana-acepta-cautela-acuerdo-petrolero-eeuu-da-prioridad-beneficio-poblacion-20260829165612.html",
-    "resumen": "La oposición de Venezuela está recibiendo con enorme cautela el acuerdo anunciado esta madrugada por el presidente de Estados Unidos, Donald Trump, que otorga a Washington el control de una quinta parte de las reservas de crudo venezolanas a cambio de una inversión internacional masiva para potenciar su deteriorada industria petrolera."
-  },
-  {
     "titulo": "El duelo definitivo contra el insomnio: qué dice la ciencia de la melatonina, el magnesio y por qué mezclarlos no sirve de nada",
     "medio": "Xataka",
     "fecha": 1788013863.0,
     "link": "https://www.xataka.com/medicina-y-salud/duelo-definitivo-insomnio-que-dice-ciencia-melatonina-magnesio-que-mezclarlos-no-sirve-nada",
     "resumen": "El insomnio es la gran epidemia silenciosa de nuestro tiempo, y basta con dar una vuelta por cualquier farmacia o supermercado para ver estanterías repletas de suplementos que prometen devolvernos el descanso que hemos perdido. Y entre estos suplementos destaca sobre todo la melatonina y el magnesio. Cómo funcionan. Antes de saber cuál es el mejor, es importante que función cumple cada una de estas moléculas. En el caso de la melatonina, hablamos de una hormona que fabricamos nosotros y que está encargada de regular nuestro ritmo circadiano. De esta manera, cuando la luz cae, nuestro cuerpo la segrega para señalar al cerebro que debe prepararse para dormir, pero no es como un somnífero que 'nokea', sino que simplemente ajusta el reloj interno. El magnesio, por contra, es un mineral esencial y participa en multitud de reacciones en todo nuestro cuerpo. En lo que respecta al sueño, modula la actividad del sistema nervioso regulando los receptores GABA, que son inhibitorios y calman, y bloquean los NMDA, que son excitatorios. El resumen de todo esto es que promueven la relajación neuromuscular y apagan la \"hiperactividad\" cerebral. En Xataka Alguien ha dicho que la melatonina daña el corazón. La realidad, según la ciencia, es que podemos estar tranquilos La melatonina es la que cuenta con un mayor respaldo científico, especialmente cuando hay problema para poder conciliar el sueño. Aquí los datos científicos apuntan a que tomar melatonina reduce el tiempo en conciliar el sueño en unos siete minutos, aunque algunas voces apuntan a que se puede conseguir dormir 14 minutos antes. De esta manera, donde de verdad brilla la melatonina es en los trastornos de fase de sueño retardada y siempre que se tome una dosis entre 0,5 y 5 mg 60 o 90 minutos antes de ir a la cama. Aunque lógicamente es importante también tener una buena higiene del sueño, reduciendo la exposición al móvil y tratando de relajarse antes de ir a dormir. En el caso del magnesio, la literatura científica es mucho más reciente, y aunque es bastante prometedora, todavía es más limitada en comparación con la melatonina. Aquí su gran baza es la calidad subjetiva del sueño, puesto que una revisión narrativa de 2026 concluyó que tener niveles bajos de magnesio se asocia directamente con un sueño fragmentado. Además de esto, un ambicioso metaanálisis de este mismo año apuntó que con dosis de 300-500 mg diarios se conseguía una reducción del tiempo para dormirse en 17,4 minutos, mejora del 28% en la calidad del sueño y una extensión del 18% en las fases de sueño profundo. Tiene un \"pero\". Algo que hemos repetido en muchas ocasiones es que suplementar magnesio a una persona que tiene niveles normales de este mineral es una tontería porque no hace nada. Aquí se ha evidenciado nuevamente que el magnesio funciona de maravilla, pero sobre todo en quienes tienen un déficit del mismo, que es algo inusual con la dieta que tenemos ahora mismo en los países desarrollados. En Xataka Por supuesto que la melatonina tiene efectos secundarios. No tiene nada de especial ni de alarmante Los combos. El mercado está lleno de pastillas que mezclan ambos compuestos bajo la premisa de que se potencia el efecto de cada uno. Sin embargo, aquí no hay evidencia sólida que demuestre que combinar melatonina y magnesio sea superior a utilizar solo uno de ellos o un placebo. El verdadero tratamiento. Si ni el magnesio ni la melatonina son la panacea para el insomnio crónico, ¿qué hacemos? Aquí la ciencia tiene claro que el tratamiento de primera línea para el insomnio no está en el suplemento, sino que está en la terapia cognitivo-conductual que se hace en consulta. Abordar la higiene del sueño, las rutinas, la restricción del tiempo en cama y los factores psicológicos que nos mantienen alerta es mucho más efectivo a largo plazo que cualquier suplemento que nos podamos encontrar. La melatonina puede ayudar en los casos de jet lag pero si el problema es crónico, la verdad es que no es la mejor solución. Imágenes | Polina En Xataka | Tomas algo de melatonina y concilias el sueño. Parece una práctica inocua para tu salud pero no lo es tanto - La noticia El duelo definitivo contra el insomnio: qué dice la ciencia de la melatonina, el magnesio y por qué mezclarlos no sirve de nada fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Feyenoord, Inter y Liverpool, primeros rivales de Barça, Real Madrid y Atlético en Champions",
-    "medio": "The Objective",
-    "fecha": 1788013715.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-08-29/barca-real-madrid-atletico-champions/",
-    "resumen": "El Feyenoord, el Inter de Milán, el Liverpool, el Borussia Dortmund y el Lille serán los rivales del estreno en la fase de liga de la […]"
   },
   {
     "titulo": "Tony Is a Terrific Coming-of-Age Story",
@@ -602,32 +672,11 @@
     "resumen": "La aterosclerosis, causante de la mayoría de las enfermedades cardiovasculares, es una afección silenciosa que comienza mucho antes de que aparezcan los primeros síntomas en personas aparentemente sanas y es mucho más frecuente de lo que se pensaba: cerca del 60% de los adultos pueden padecerla sin saberlo. Leer"
   },
   {
-    "titulo": "Muere María Pardo, exconcejala de Urbanismo del PP en Santiago, a los 58 años",
-    "medio": "El Mundo",
-    "fecha": 1788011659.0,
-    "link": "https://www.elmundo.es/galicia/2026/08/29/6a92e465e9cf4a3b188b4584.html",
-    "resumen": "Fue también portavoz del gobierno municipal y participó en la coordinación del Concello tras la tragedia de Angrois. Leer"
-  },
-  {
     "titulo": "Un hombre de 70 años muere en una playa de Dénia (Alicante) tras golpearse accidentalmente la cabeza contra las rocas",
     "medio": "El Español",
     "fecha": 1788011494.0,
     "link": "https://www.elespanol.com/alicante/marina-alta/20260829/hombre-anos-muere-playa-denia-alicante-golpearse-accidentalmente-cabeza-rocas/1003744366759_0.html",
     "resumen": "El bañista ha sufrido una parada cardiorrespiratoria tras el accidente y los servicios médicos no han podido reanimarlo.Más información: La Policía Nacional detiene a una pareja en Alicante a bordo de un patinete con 400 gramos de marihuana"
-  },
-  {
-    "titulo": "Colonos israelíes asaltan la vivienda palestina en Qusra que asediaban desde hace semanas",
-    "medio": "The Objective",
-    "fecha": 1788011035.0,
-    "link": "https://theobjective.com/internacional/2026-08-29/colonos-israelies-asaltan-vivienda-palestina-qusra/",
-    "resumen": "Decenas de colonos israelíes han terminado asaltando la vivienda de una familia palestina en la localidad cisjordana de Qusra que llevaban asediando desde hace semanas, según […]"
-  },
-  {
-    "titulo": "Un sargento herido y cuatro marroquíes detenidos tras una segunda emboscada contra militares en Ceuta",
-    "medio": "El Mundo",
-    "fecha": 1788010398.0,
-    "link": "https://www.elmundo.es/espana/2026/08/29/6a92cdc521efa0ce738b45b3.html",
-    "resumen": "Los inmigrantes lanzaron piedras al grupo y hay un sargento herido Leer"
   },
   {
     "titulo": "\"Si me ves, llora\". La sequía europea está haciendo reaparecer piedras grabadas hace siglos para advertir de futuras hambrunas",
@@ -644,18 +693,18 @@
     "resumen": "La socialista ha afeado al presidente andaluz que \"permita\" que su vicepresidente segundo, de Vox, \"presuma\" de que él no habría aceptado dicho envío de dinero.Más información: El PSOE-A calienta la 'reentrée': amenaza con los tribunales para que Juanma Moreno \"informe\" sobre Los Gallardos y Niebla"
   },
   {
+    "titulo": "Decenas de colonos israelíes asaltan la vivienda palestina en Qusra que asediaban desde hace semanas",
+    "medio": "Europa Press",
+    "fecha": 1788009904.0,
+    "link": "https://www.europapress.es/internacional/noticia-decenas-colonos-israelies-asaltan-vivienda-palestina-qusra-asediaban-hace-semanas-20260829152504.html",
+    "resumen": "Decenas de colonos israelíes han terminado asaltando una vivienda de una familia palestina en la localidad cisjordana de Qusra que llevaban asediando desde hace semanas, según ha confirmado el Ejército israelí."
+  },
+  {
     "titulo": "El presidente iraní admite problemas en el país por las sanciones y el bloqueo de EEUU",
     "medio": "Expansión",
     "fecha": 1788009797.0,
     "link": "https://www.expansion.com/economia/2026/08/29/6a92cc8ee5fdeacd268b458a.html",
     "resumen": "El presidente de Irán, Masud Pezeshkian, admitió que la República Islámica se enfrenta a problemas por las sanciones económicas de Estados Unidos y el bloqueo de sus puertos y buques, que han hecho disminuir las exportaciones e importaciones del país persa en un 35%. Leer"
-  },
-  {
-    "titulo": "La australiana Cara Severino, hallada sana y salva gracias a cuatro senderistas nepalíes",
-    "medio": "El Mundo",
-    "fecha": 1788009786.0,
-    "link": "https://www.elmundo.es/internacional/2026/08/29/6a92dcafe4d4d8dc5c8b4571.html",
-    "resumen": "La joven logró hablar ayer con sus padres y finalmente ha sido localizada Leer"
   },
   {
     "titulo": "Entre vivos y muertos, la amarga espera de los familiares de desaparecidos en Nepal frente a un muro con sus fotos",
@@ -749,13 +798,6 @@
     "resumen": "Las Puma Speedcat están muy infravaloradas, pero las expertas en deportivas de tendencia saben que son mucho mejores que las Adidas Samba. Son igual de icónicas y retro, su tejido de ante es de altísima calidad y, encima, son mucho más cómodas y amables con los pies, siendo de las primeras zapas en subirse al barefoot. ¿Necesitas más razones? Su nuevo lanzamiento en color canario será la luz de tu otoño. Las nuevas Speedcat vienen en un amarillo intenso que rompe todos los moldes, porque no son ni el color mantequilla delicado del verano ni el típico mostaza que llega en invierno. Estas son amarillo canario, un color muy primario que combinado con el negro resulta ideal para el otoño: pega con colores neutros y evita que nuestros looks caigan en el sopor y sobriedad. Su silueta refinada y retro hace de estas zapatillas una opción muy apta para la oficina y para eventos profesionales, pues su puntera redondeada, su suela negra y sus cordones combinados la alejan de la estética deportiva y la meten de lleno en un campo más ambiguo y elegante: el de las sneakers de vestir. Como vemos en la imagen, unas deportivas amarillas insuflan vida a estilismos de otoño muy apagados, cuando la paleta de colores se vuelve más oscura para casar con el frío y nuestras combinaciones piden a gritos algo de luz: estas Puma se encargarán de todo. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | @gabrielegz, Puma, @iamcharlotteolivia. En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. En Xataka | El viernes 4 de septiembre llega a Lidl la solución a la falta de enchufes en patios y terrazas por 15,99 euros. En Motorpasión | Miriam, camionera argentina en España: “Paso entre 22 y 24 días fuera. Cuando vuelvo solo tengo tres o cuatro días para todo”. - La noticia Las nuevas Puma color 'pollito bebé' que son pura tendencia en septiembre 2026: suman luz y elegancia a los looks secos del otoño fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "Nepal contacta con un segundo español desaparecido tras la catastrófica riada de Rasuwa",
-    "medio": "Europa Press",
-    "fecha": 1787995478.0,
-    "link": "https://www.europapress.es/internacional/noticia-nepal-contacta-segundo-espanol-desaparecido-catastrofica-riada-rasuwa-20260829112438.html",
-    "resumen": "MADRID 29 Ago. (EUROPA PRESS) - Las autoridades de Nepal ha anunciado este sábado que está en contacto con un segundo ciudadano español al que se daba por desaparecido tras la devastadora riada de principios de esta semana en el distrito de Rasuwa, en la frontera con Tíbet."
-  },
-  {
     "titulo": "La serie de Prime Video que llegó a Netflix sin avisar: adapta la novela de un genio de la ciencia ficción",
     "medio": "Trendencias",
     "fecha": 1787994064.0,
@@ -770,32 +812,18 @@
     "resumen": "Da igual cuanto de buena sea la cámara de los iPhone. El encanto de las clásicas cámaras instantáneas está en todas partes, empezando por el momento en que enfocas y disparas, pasando por esa impresión instantánea y tener que agitar la foto mientras se revela. Y el estilazo que acaba teniendo la fotografía final. Pues todo eso se puede emular en el iPhone, siendo los modelos con Dynamic Island (iPhone 14 Pro y posteriores) en los que más sentido tiene. Existe una aplicación que recuerda a todo eso, convirtiendo esa parte superior de la pantalla en un visor y transformando la foto en una instantánea digna de aquellas cámaras. Buena, bonita y rápida Pico Cam es como se llama la aplicación de la que hablamos. Se lanzó hace apenas dos meses y se puede usar completamente gratis, aunque con ciertos límites. Por ejemplo, no hay un número ilimitado de fotos, aunque en nuestras pruebas hemos podido hacer bastantes sin problema (el desarrollador no especifica cuánto es el límite diario). En cualquier caso, si se quiere eliminar ese límite y tener nuevos marcos u opciones de edición, habrá que suscribirse a un plan de 1,99 euros por semana, 19,99 euros al año o 29,99 euros en un pago único que da acceso de por vida a esas funciones. pico cam: cámara instantánea pico cam es una cámara pequeña y divertida para convertir fotos de todos los días en tarjetas instantáneas con un poco de ritual. Descargar gratis La aplicación como tal exige únicamente de darle acceso a la cámara. Una vez concedido, su funcionamiento es tan sencillo como el deslizar hacia abajo y, cuando veas el visor de la cámara en la parte superior, enfocar y disparar. Podrás usar tanto la cámara frontal como la trasera. Así funciona Pico Cam Lo divertido de esta aplicación es que una vez que hagas la foto, verás como esta se imprime digitalmente, saliendo de la parte del visor igual que una fotografía sale de la parte inferior de una cámara instantánea. Incluso tendrás que agitar el iPhone como si fuese la foto para que se termine de revelar. El formato de la fotografía es idéntico al de esas cámaras y también el efecto que tiene. Podrás ir acumulándolas en una galería que verás dentro de la propia aplicación, pudiendo guardarlas también en la app Fotos del iPhone y compartirlas por WhatsApp, Instagram u otra aplicación. Cierto es que a efectos prácticos, Pico Cam no ofrece resultados que no tengan otras e incluso la propia app de cámara del iPhone si ajustas los filtros. Pero tiene un cierto encanto al ser automático y tener una interfaz dedicada a evocar las Polaroid. ¡Ah! Y por si te lo estabas preguntando, también funciona en iPhone que tengan notch, aunque ahí la interfaz queda algo más extraña al no tener la Dynamic Island, pero funciona de la misma forma. En Applesfera | Cómo conseguir mejores fotografías con tu iPhone cambiando estos ajustes En Applesfera | Nuevo iPhone plegable: todo lo que sabemos sobre su diseño, cámara y posible precio del iPhone Ultra - La noticia El truco para convertir la Dynamic Island de tu iPhone en una cámara Polaroid fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "Un ataque ruso contra un depósito de munición en Kiev deja al menos 37 muertos",
-    "medio": "Europa Press",
-    "fecha": 1787992124.0,
-    "link": "https://www.europapress.es/internacional/noticia-ola-ataques-rusos-contra-centros-logisticos-kiev-deja-menos-seis-heridos-mas-200-evacuados-20260829102844.html",
-    "resumen": "Zelenski exige responsabilidades tras una nueva noche de bombardeos contra centros logísticos y almacenes de material militar en Ucrania"
-  },
-  {
-    "titulo": "Más de 260 municipios llaman a manifestarse el 2 de septiembre frente a sus ayuntamientos en apoyo a Ceuta",
-    "medio": "Europa Press",
-    "fecha": 1787990811.0,
-    "link": "https://www.europapress.es/nacional/noticia-mas-260-municipios-llaman-manifestarse-septiembre-frente-ayuntamientos-apoyo-ceuta-20260829100651.html",
-    "resumen": "Más de 260 municipios han respaldado de manera oficial concentraciones ciudadanas frente a sus ayuntamientos, previstas para el 2 de septiembre a las 20.00 horas --coincidiendo con el Día de Ceuta--, secundando la iniciativa 'Por Ceuta' en apoyo a la ciudad autónoma tras la crisis migratoria."
-  },
-  {
-    "titulo": "Cortefiel rebaja las bailarinas de piel de firma española por las que suspiran las francesas para llevar 24/7 con vaqueros",
-    "medio": "Trendencias",
-    "fecha": 1787990465.0,
-    "link": "https://www.trendencias.com/shopping/cortefiel-rebaja-bailarinas-piel-firma-espanola-que-suspiran-francesas-para-llevar-24-7-vaqueros",
-    "resumen": "Encontrar el calzado perfecto para sobrevivir a las jornadas maratonianas de oficina sin perder el estilo a veces puede parecer misión imposible, pero este otoño 2026 lo tenemos más fácil que nunca. Así como en verano triunfaron las sandalias planas, esta temporada reinarán mocasines y bailarinas planas, pura artesanía y comodidad. De modo que en cuanto hemos visto estas bailarinas de piel de la firma española Bryan Stepwise rebajadas casi a mitad de precio, nos hemos tenido que fijar en ellas sí o sí. No solo por el estupendo descuento que ahora las deja por 84,90 euros 49,99 euros, sino porque no pueden ser más elegantes ni bonitas. Bryan Stepwise En un luminoso color marrón perlado, estas bailarinas guante de escote subido no pueden estar más en tendencia, con adorno de lazo en el empeine. Máxima sofisticación a la par que muchísima comodidad, tanta que sustituirán a las zapatillas en casi todos tus outfits. Son perfectas para los estilismos de entretiempo effortless chic que tan bien llevan las chicas francesas: con gabardina y pantalón vaquero recto de tiro alto, que permita ver asomar la bailarina por el bajo. Que no nos falte un bolso capazo (de rafia o de piel), con un pañuelo anudado. El bolso para combinar con estas bailarinas Sandra Freckled En El Corte Inglés fichamos este bolso capazo de piel en color marrón camel perfecto para combinar con las bailarinas de Bryan Stepwise. No sencanta el diseño del doble asa metálica que le aporta un toque aún más moderno, además de la correa extraíble para llevarlo en bandolera. va completamente forrado por dentro y tiene cierre de cremallera. Ahora por 189 euros 139,32 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @mariellehaon | Cortefiel, El Corte Inglés En Trendencias | Cómo combinar unas sandalias doradas | Look elegante, casual y de sport En Xataka|Puerto Rico introdujo mangostas para combatir las ratas en los campos de azúcar. 150 años después, son el principal foco de rabia en la isla En MotorPasión| Un multimillonario quería un circuito privado así que taló una montaña para construírselo. Ahora tiene el Disneyland de los amantes de los coches - La noticia Cortefiel rebaja las bailarinas de piel de firma española por las que suspiran las francesas para llevar 24/7 con vaqueros fue publicada originalmente en Trendencias por Patricia García Varela ."
-  },
-  {
     "titulo": "Hoy en Apple TV un gran éxito que mezcla a Buñuel, Mad Men y The White Lotus",
     "medio": "Applesfera",
     "fecha": 1787986865.0,
     "link": "https://www.applesfera.com/apple-tv/uno-grandes-exitos-apple-tv-piensa-mezcla-bunuel-mad-men-the-white-lotus",
     "resumen": "Para prestar atención a esta serie solo me hizo falta una frase random en internet: \"Juro que Apple TV tiene algunas de las mejores series originales de la televisión. Y 'Your Friends and Neighbors' es una de ellas\". Ni campañas de promoción ni la fortuna que la marca habrá invertido en vídeos y cartelería. Lo que dice un usuario. Y además es cierto. La serie más sucia y, a su vez, elegante de los últimos años, se convirtió también en uno de los mayores fenómenos mundiales de Apple. Y detrás hay varios pesos pesados. Más allá de la cara bonita, del enorme Jon Hamm (eterno Don Drapper en 'Mad Men', arcángel Gabriel en 'Good Omens'), la serie ha sido creada por Jonathan Tropper, alguien que siempre me ha gustado por su forma de poner patas arriba lo que entendemos por masculinidad. En 'Banshee' dejó un gran legado (y convirtió a Antony Starr en una gran estrella antes de ser el Homelander de 'The Boys'). Y 'Warrior' me gustó aún más, adaptando un concepto del mismísimo Bruce Lee que nunca pudo hacer realidad. También a Craig Gillespie ('Yo, Tonya', el nuevo chico de oro elegido para dirigir 'Supergirl'), como director de los primeros episodios. Pero lo mejor de 'Vicios ocultos', una muy buena adaptación del perverso titular original, 'Your Friends & Neighbors', es que aquí no hacen falta guantazos. Hay, pero no literales. Apple TV le ha dado alas (y mucho dinero) y el resultado es lo más parecido a un reboot de 'El discreto encanto de la burguesía' de Buñuel. Sutil e hiriente como una puñalada. El club de los que lo perdieron todo Al principio no roba, solo observa. Cae la noche en Westmont Village y un tal Coop (el típico norteamericano blanco, ex magnate de un capital riesgo) camina despacio entre las sombras de su propio vecindario. Está planeando algo gordo. Esta no es una historia sobre robos, es una historia sobre cómo los ricos usan la riqueza de fachada con la que tapar carencias. Y cómo alguien que lo ha perdido todo, que no tiene nada que arriesgar, usará esta riqueza como manifiesto. Jon Hamm interpreta a Andrew 'Coop' Cooper con una mezcla peligrosa de ironía y desesperación. Era un padre modelo, pilar de la comunidad. El tipo que antes organizaba cócteles con otros CEOs y ahora cena solo con whisky barato. Cuando todo se va al carajo (su empleo, su matrimonio, su reputación), Coop hace lo que haría cualquier millonario caído en desgracia: fingir que no ha pasado nada. Pero fingir es carísimo. Lo que sigue es una especie de 'Gone Girl' en clave de club de campo. Coop empieza a colarse en las casas de sus exvecinos, esos que siguen viviendo en la mentira con mayúsculas. Roba joyas, relojes, bolsos de marca. No por venganza. Ni siquiera por necesidad, roba porque la vida de esa gente es todo atrezzo, cartón piedra. Y nadie se da cuenta de lo que pierde hasta que ya es demasiado tarde. Y esa es la tesis emocional de la serie. Cualquiera puede caer. Incluso los que llevan americana de lino y beben mezcal en vasos diseñados por arquitectos daneses. Es Mad Men en la era del postcapitalismo. El vecindario perfecto huele a gasolina Creada por el citado Jonathan Tropper, esta serie parece que manda algunos recados a las criptoestrellas que han perdido la riqueza y la decencia pero no la caradura. Aquí todo tiene dientes: los diálogos, las miradas, los muebles caros. Pero también hay ternura, y esa ternura está en la mirada de un Jon Hamm crepuscular y glorioso. Solo él sabe matizar el ridículo histrionista y parecer un padre a punto de pedir perdón por alguna tontería. Al otro lado tenemos a Olivia Munn, que brilla como Sam, la vecina que se da cuenta de que algo no encaja. Su personaje no es solo una pieza funcional, es la grieta emocional por donde se cuela la humanidad. Amanda Peet (Mel, la exesposa) hace lo imposible: que te duela un personaje que empieza como cliché de telefilme. Porque en esta serie todos son clichés hasta que explotan. Un poco como en 'The White Lotus', solo que en vez de odiarlos acabas queriéndolos. Hoon Lee, Lena Hall, Aimee Carrero y, por supuesto, la fantástica incorporación de James Marsden en la segunda temporada: no hay un solo secundario sin historia, sin trauma y sin ser víctimas de la presión social, las expectativas y los contratos prenupciales. La fotografía también tiene lo suyo porque parece que nos vamos a encontrar con un anuncio de Lexus dirigido por Fincher, pero es puro veneno. La música acaricia, pero deja helado. Y la voz en off de Hamm, confesional, cínica, deliciosamente amarga y ronca, es un narrador real y fiable, como el viejo 'Dexter', porque solo nosotros sabemos hasta qué punto es inocente. En Applesfera El creador de Breaking Bad tiene una serie en Apple TV. Y no va de drogas, sino de algo mucho más raro: salvar al mundo de la felicidad El sueño americano se quema en cámara lentaMe ha venido bien revisitarla ahora que su segunda temporada ya está completa (se estrenó el pasado 3 de abril). Y Apple TV sabe muy bien lo que tiene entre manos: no solo le valió una nominación al Emmy a Mejor Serie Dramática por esta segunda entrega, sino que ya está renovada por una tercera temporada. No por hype, sino por intuición narrativa. Como escribió una vez Joan Didion, “vivimos por las historias que nos contamos a nosotros mismos”. Y Coop se está quedando sin historia pero escarba en unos silencios que descubren a cada poco nuevos hallazgos. Si sigue por aquí, puede acabar siendo una nueva 'Better Call Saul'. Y ojo, que os estoy hablando de mi serie favorita. Así que nada, en una época saturada de antihéroes de cartón piedra, aquí tenemos una rara avis que pone a Jon Hamm en una postura donde parece estar más a gusto que nunca: del lado de los vulnerables. Y es como si HBO y Showtime hubieran tenido un hijo en secreto y lo hubieran criado con cinismo del terapéutico. En 'Mad Men' toda una generación se pensó que el dinero era la única identidad y el poder era la respuesta a cada pregunta (luego tuvieron que resignificar a Elizabeth Moss temporada a temporada porque Peggy Olson siempre fue más inteligente que sus análogos). Aquí, en 'Vicios ocultos', se descubre que los ricos se lo llevaron todo menos la culpa. Y ya va siendo hora de ajustar cuentas. En Applesfera | 'Pluribus', segunda temporada: ya sabemos cuándo se rodará y su posible fecha de estreno En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo - La noticia Hoy en Apple TV un gran éxito que mezcla a Buñuel, Mad Men y The White Lotus fue publicada originalmente en Applesfera por Isra Fdez Guille Lomener ."
+  },
+  {
+    "titulo": "Aumentan a 675 los muertos y a 2.498 los desaparecidos por la riada de Nepal",
+    "medio": "Europa Press",
+    "fecha": 1787981974.0,
+    "link": "https://www.europapress.es/internacional/noticia-ascienden-626-muertos-devastadora-riada-nepal-20260829073934.html",
+    "resumen": "Un total de 675 personas han muerto y 2.498 continúan desaparecidas tras la grave riada registrada el miércoles en Nepal tras la crecida del río Bhotekoshi en Rasuwa, un distrito montañoso próximo a la frontera con la región autónoma china de Tíbet, según el último balance."
   },
   {
     "titulo": "'Los del túnel’ y la conmovedora humanización del españolito cuñado",
@@ -852,13 +880,6 @@
     "fecha": 1787976051.0,
     "link": "https://www.infolibre.es/cultura/libros/servicio-interior-mujeres-organizaron-red-informacion-clandestina-burlar-franco-nazis_1_2235205.html",
     "resumen": "Katixa Agirre narra una historia de espionaje ambientada en la posguerra española y la Segunda Guerra Mundial. La autora toma como punto de partida la llamada Red Álava, una red clandestina que operó en Euskadi y en la que tuvieron un papel fundamental numerosas mujeres. La autora define la novela como una historia de personas que «al principio no saben que son espías». Las protagonistas de esta historia no se perciben a sí mismas como espías. Desde su punto de vista, simplemente cuidaban de presos, transportaban mensajes o ayudaban a familiares. Actividades consideradas como «trabajo femenino» que acabaron convirtiéndose en tareas fundamentales de inteligencia y resistencia. La escritora pone el foco en los personajes femeninos y en revisar relatos dominantes desde perspectivas alternativas y reivindicando el papel oculto de las mujeres en redes de resistencia y espionaje. Muchas de estas mujeres actuaban movidas por convicciones políticas y éticas profundas, pero sin buscar reconocimiento heroico. Esa tensión entre vida cotidiana y acción clandestina se convierte en uno de los ejes centrales de la Servicio interior (Tusquets, 2026), novela de la que infoLibre adelanta en exclusiva un fragmento antes de su llegada a las librerías el 9 de septiembre._____________________________________________________________________Imaginemos que esto es una película. Explosión de luz violenta. Espejo fascinante del pasado. La caja oscura que devora el mundo y lo regurgita completamente renovado. Si esto fuera una película, estaríamos ahora en una sala acogedora y, en este preciso momento, las luces se apagarían.Los últimos susurros, los últimos carraspeos.El calor de un cuerpo extraño muy cerca de nuestro cuerpo. La respiración contenida. El temblor de las pestañas. Ese momento mágico. Y ahora sí, ahora comenzaría la película. Pero tal vez esto no sea una película, todas las señales indican que esto no es una película. ¿Qué haces entonces con un libro en las manos si va a empezar una película? ¿Por qué siguen encendidas las luces? ¿Por qué tus ojos resbalan sobre estas pequeñas marcas negras con atención y disciplina? Efectivamente, podemos afirmar con casi total certeza que esto no es una película. Pero hay una cosa segura: esto (aún no sabemos qué tenemos entre manos) merece ser una película, y todos merecemos sentir la emoción fílmica. Así que deseémonos ahora que esto sea, por arte de magia, una película.Cierra los ojos. Así. Los párpados son ahora pantalla. Llegan los últimos susurros, los últimos carraspeos preventivos. Llega ese momento mágico del que hablábamos. Y ahora, en esta oscuridad privada, aclaremos algo: aunque todo lo que veremos en imágenes esté basado en hechos reales, nada se volverá real hasta que logremos llevarlo a la pantalla con éxito. Hasta que lo proyectado nos penetre como un rayo. Necesitamos una pantalla, por tanto, y luego oscuridad. O al revés. Da igual. El caso es que allá vamos. Ha comenzado el torbellino. Guerra, traición y solidaridad. Noche, niebla y nada. Mujeres, hombres y dictadores. Aventura, desastre y esperanza. Ya hemos atrapado al público. Están dentro. Estamos dentro. La vida se nos escapa, pero las películas, oh, las películas, estas pueden durar mucho más que nuestras propias vidas. No están condenadas a caer con la misma firmeza que nosotros en el abismo del tiempo. Pueden detenerse ahora —pause— y continuar cuando creamos estar listos —play—.Podemos retroceder con facilidad, si no hemos entendido alguna escena, para volver a visionarla. Podemos saltarnos esa secuencia demasiado dura, abrazar la elipsis. Además, la película no nos necesita, no nos exige nada. Aunque nos alejemos de la pantalla, seguirá avanzando por su cuenta. Pero en este caso no querremos alejarnos. No podremos. Siempre alerta. Merecemos esta atención. Y otra vez la magia. Y otra vez esto. Oscuras maniobras. Complicidad y silencio. Telegramas cifrados, papeles arrugados que se guardan en el pecho. Personajes de gran carisma. Una ejecución, demasiadas ejecuciones. El encanto del perdedor, el drama del perdedor. Es posible —aunque no habitual— ver una película desde el final hasta el principio. Y qué bello es poder hacerlo así. Los ancianos rejuvenecen. Los muertos resucitan. Las balas regresan obedientes al cañón del fusil y los espermatozoides se alejan con desparpajo del imponente óvulo. Las guerras que se perderán ni siquiera llegan a empezarse según va el sol despertándose por el oeste. Pero vayamos despacio. Mejor si las imágenes se despliegan con parsimonia ante nuestros ojos, explosión de luz, espejo fascinante. ¿Por dónde empezar? Esa es también la ventaja de una película. Poder elegir: desde aquí. Este será el primer plano, y ningún otro. Aunque todo lo que se muestre en esta película haya ocurrido, nada tendrá sentido si no elegimos bien ese plano inicial. Y lo mismo sucede con el final. The End. Das Ende. Fine. Fin . Pero no queremos hablar de eso todavía. Estamos al comienzo, y el final nos es un misterio. Aunque conozcamos la historia, aún tenemos derecho al suspense. Que nadie nos lo arrebate. Porque el suspense, aquí, es sinónimo de esperanza. Así que allá vamos. ¿Adónde? Desde esta pantalla oscura a este lugar concreto: Una elegante avenida, en París. ¿No basta con el aire propio de la arquitectura del lugar? Añadiremos entonces un rótulo. El rótulo dirá: París. Y junto al nombre quedará también especificado el año: 1940. Con eso ya está todo dicho. Con ese lugar y ese año. Está dicho desastre. Hecatombe. Fin del mundo. The End. Das Ende. Fine. Fin. O puesto con otra palabra: guerra. Guerra en toda regla. O quizá no tan plena aún, si estamos a comienzos de 1940 (el rótulo no concreta tanto). A principios de 1940, más que guerra, lo que flota en el aire de París es la promesa de una guerra. La promesa de la mayor, más cruel y más eficaz guerra que la humanidad haya conocido nunca. La guerra aún más grande que llegó tras la gran guerra que, decían, acabaría con todas las guerras. Pero la guerra aún no ha llegado, todos están a la espera. Y siguen atentos a los acontecimientos. Mientras tanto: pequeñas interferencias, susurros, emisiones tóxicas de radio, porque Fulanito dice sin embargo, Menganito opina, ¡Zutanito cree, no obstante! Movimientos ininteligibles de soldados. Palabras que cambian de significado sin previo aviso pero aparente consenso. Ciudadanas, obreros, amas de casa, vendedores de periódicos, abogados, monjas, chóferes, pescadores, panaderas, zapateros, diputados, oficinistas, estudiantes y campesinas que, aunque tiemblan cada noche al acostarse, durante el día actúan como si nada pasara. Pero poco más, de momento. De este lado de la guerra, desde septiembre de 1939 no ha pasado nada. Se oyen truenos de una tormenta lejana, y en todas partes el bombardeo de propaganda histérica. Todavía lo llaman drôle de guerre, guerra de broma. Ja-ja-ja.Luego, en seis semanas, todo ha pasado. Tan rápido que parece, efectivamente, una broma. La bestia ha irrumpido hacia el oeste. Han caído los Países Bajos. Han borrado del mapa, por ejemplo, la ciudad de Róterdam, con esos aviones infernales que tan bien aprendieron a matar en la guerra de España. Han caído Luxemburgo, Bélgica, y al fin la bestia ha llegado a su verdadero destino, a la casa del enemigo ancestral: Francia. Ha caído París, el rayo le ha golpeado de lleno. Era inimaginable, y sin embargo ha ocurrido. Porque incluso lo inimaginable puede ocurrir, sobre todo a partir de ahora.La broma se ha acabado . En seis semanas . Es 14 de junio, viernes, y París se llena de alemanes . Manuel Irujo —nacionalista vasco, ministro de la República, exiliado en Londres desde aquella otra guerra— le escribe lo siguiente a Manu de la Sota —nacionalista vasco, dandy letraherido, mecenas adinerado—: «La catástrofe se ha producido. Dios así lo ha querido. Hágase su voluntad». Termina la primavera y comienza la ocupación. Trescientos mil soldados han escapado de Dunkerque, se han echado al mar con desesperación. Diez millones de personas —quizá doce, quién sabe— han intentado huir hacia el sur: a pie, en carros, coches, camiones o, mejor, bicicletas, el medio más eficaz para serpentear en esas carreteras bloqueadas. Hacia el sur, siempre hacia el sur. Las carreteras de Francia se han empapado de sangre, zapatos, niños perdidos y desaliento. El pueblo francés es un coágulo bloqueando las carreteras de Francia. Desde el cielo, los stukas los persiguen bombardeando todo lo que pueden. Porque la bestia quiere más. La bestia lo quiere todo, hasta el último aliento de vida. Incluso a los que logren embarcar intentará destruirlos, con submarinos al acecho, buscando siempre la explosión certera. La tierra patas arriba, las entrañas al descubierto, hierve el mar, alquitrán y sangre podrida. De Gaulle en Londres, y Pétain dice trabajo, familia y patria. C’est fini. Esto es París ahora: esvásticas en los edificios oficiales, policía extranjera bien vestida despatarrándose en sillones de todos los hoteles de lujo. Ha llegado Hitler, Heil Hitler. Ha completado un tour de tres horas por la ciudad de la luz, comenzando su rápido recorrido en la ópera Garnier y terminando en el Trocadero con un selfie para la historia. Tres horas en París, su primera visita en la vida, y también la última, realizada de madrugada, al alba, en una ciudad que no mira, una ciudad despoblada, una ciudad abierta, quizá demasiado abierta Esto sucede en junio. Termina la primavera y llega Hitler, Heil Hitler."
-  },
-  {
-    "titulo": "EEUU adquiere del \"control mayoritario\" de una quinta parte de las reservas de petróleo de Venezuela",
-    "medio": "Europa Press",
-    "fecha": 1787960138.0,
-    "link": "https://www.europapress.es/internacional/noticia-trump-anuncia-mayor-acuerdo-historia-venezuela-duplicar-reservas-petroleo-20260829013538.html",
-    "resumen": "EEUU se quedará con un potencial de 65.000 millones de barriles tras pactar con el Gobierno de Delcy Rodríguez la entrada en masa de inversión privada"
   },
   {
     "titulo": "\"¡Un caballa nunca se rinde!\": vecinos de Ceuta vuelven a la calle para protestar por la situación migratoria",
