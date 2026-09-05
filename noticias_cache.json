@@ -1,10 +1,304 @@
 [
   {
-    "titulo": "Betis - Real Madrid en directo: Parrott adelanta a los verdiblancos y Espí empata, pero el gol es anulado",
+    "titulo": "Equal Earth, el nuevo mapamundi que la ONU quiere usar en lugar del de Mercator",
+    "medio": "Microsiervos",
+    "fecha": 1788564644.0,
+    "link": "http://www.microsiervos.com/archivo/mundoreal/equal-earth-nuevo-mapamundi-onu-mercator.html",
+    "resumen": "Quienes en verdad mandan sobre los mapas son los cartógrafos, pero la Asamblea General de la ONU ha aprobado una resolución para promover mapas que representen mejor el tamaño relativo de países y continentes, porque como es sabido no existe el mapa perfecto. Geométricamente todos o distorsionan los tamaños, o distorsionan las distancias… o son un churro en el además no se entiende nada de nada y carecen de practicidad. Entre esos mapas está el de la proyección Equal Earth [en alta resolución en Equal-Earth.com, pero probablemente por lo noticioso está la web caída]. Lo crearon en 2018 por Bojan Šavrič, Tom Patterson y Bernhard Jenny como alternativa al omnipresente Mercator, «el mapamundi de toda la vida». La resolución de la ONU, propuesta por Togo y respaldada por otros países africanos, no es vinculante, pero anima a gobiernos, escuelas, instituciones y empresas tecnológicas a adoptar este tipo de mapas. Así que en unos años veremos el resultado, porque eso de «anima» suena a que mucho caso no se le va a hacer. Llámenme pesimista. La proyección de Mercator data de 1569 y fue concebida para la navegación marina, porque permite representar los rumbos constantes mediante líneas rectas. Pero a cambio se paga un precio: las formas de los países se van distorsionando más y más al acercarse a los polos, hasta puntos absolutamente ridículos. Groenlandia parece casi tan grande como África, aunque en realidad África tiene unas 14 veces más superficie, por ejemplo. En cambio, la proyección Equal Earth conserva correctamente las áreas relativas y, aunque inevitablemente deforma las formas de los países y las distancias (sobre todo respecto a lo que estamos acostumbrados), ofrece una imagen del planeta bastante más proporcionada. ¡Adiós a mi mapa con proyección Winkel-Tipel! La votación en la ONU fue como una pequeña comedia cartográfica, que es como suelen ser estas cosas. La resolución salió adelante con 164 votos a favor, 6 abstenciones y 1 voto en contra. El único país que votó «no» fue Estados Unidos. Sí: los mismos que cambian los mapas cuando les interesa, contando por supuesto con la servidumbre de Google (Maps), que curiosamente tarda menos en eso que en procesar una denuncia en YouTube. Los estadounidenses alegaron que la iniciativa respondía a una «agenda ideológica» y que «distraía a la ONU de asuntos más importantes». Tócate los eggs. Pero entre prácticamente todos los países del mundo reunidos (se abstuvieron Ucrania, Moldavia, Georgia, Serbia, Lituania y Estonia) Estados Unidos se quedó solo frente al resto del planeta. Aunque el Equal Earth y otros se empiecen a usar poco a poco, Mercator seguirá teniendo sentido donde siempre lo tuvo, especialmente para la navegación. Pero quizá haya llegado el momento de cambiar los mapas decorativos de las paredes por otro en el que los continentes se parezcan un poco más al tamaño que realmente tienen. Relacionado: El mapamundi de la Tierra a «tamaño real» con áreas iguales es una proyección distinta del mundo, con datos del dominio público Los mapas planos y precisos son matemáticamente imposibles, así que hemos de usar alternativas Projection Wizard: representaciones interactivas de mapas terrestres más fieles en áreas y distancias El verdadero tamaño de los países, versión interactiva Cómo entender la distorsión de los mapas de forma interactiva Mapas: todo depende del color... Los mapas y nuestra imagen del mundo Mercator extremo: el mundo visto de otra forma El «Verdadero tamaño de África», una imagen contra el «amapismo» Un generador de mapas del mundo vectoriales con todo tipo de detalles y proyecciones # Enlace permanente"
+  },
+  {
+    "titulo": "La confesión de Colate que vuelve a agitar su batalla judicial con Paulina Rubio: «Mi hijo ha dicho que no es feliz con su madre»",
+    "medio": "OK Diario",
+    "fecha": 1788564470.0,
+    "link": "https://okdiario.com/cool/television/confesion-colate-que-vuelve-agitar-batalla-judicial-paulina-rubio-hijo-dicho-que-no-feliz-madre-20233274",
+    "resumen": "Este verano ha estado lleno de luces y sombras, sobre todo para Colate. El hermano de la chef Samantha Vallejo-Nágera lleva años inmerso en juicios y pleitos con su exmujer, Paulina Rubio, por la custodia del hijo que tienen en común. Aunque la relación entre ambos es prácticamente inexistente, el joven es el que mantiene … Continuar leyendo \"La confesión de Colate que vuelve a agitar su batalla judicial con Paulina Rubio: «Mi hijo ha dicho que no es feliz con su madre»\""
+  },
+  {
+    "titulo": "Colombia captura a un terrorista acusado de planear un atentado contra el presidente",
+    "medio": "The Objective",
+    "fecha": 1788564357.0,
+    "link": "https://theobjective.com/internacional/2026-09-05/de-la-espriella-captura-terrorista/",
+    "resumen": "El presidente de Colombia, Abelardo de la Espriella, ha anunciado este viernes que el Ejército ha capturado a Firu, un importante integrante del Ejército de Liberación […]"
+  },
+  {
+    "titulo": "El ex jefe de la Policía Local de Ceuta: \"Sánchez hablaba desde el primer momento de ataque a la integridad territorial\"",
+    "medio": "El Mundo",
+    "fecha": 1788564250.0,
+    "link": "https://www.elmundo.es/espana/2026/09/05/6a9b18d0e4d4d8723e8b45a2.html",
+    "resumen": "El coronel Sebastián Vega lleva al frente del cuerpo desde 2017 y, un día después de jubilarse, señala que el presidente del Gobierno empezó acusando una violación de las fronteras Leer"
+  },
+  {
+    "titulo": "¿Tiene Seat futuro como marca? No depende de ella",
+    "medio": "El Mundo",
+    "fecha": 1788564248.0,
+    "link": "https://www.elmundo.es/economia/2026/09/05/6a9b0175e85ece524f8b45a0.html",
+    "resumen": "La historica enseña española atraviesa el momento más crítico en sus 76 años de historia. Leer"
+  },
+  {
+    "titulo": "El 'oasis' de \"libertad\" de los chavales marroquíes en Ceuta: \"Centros de menores, no; queremos libertad\"",
+    "medio": "El Mundo",
+    "fecha": 1788564244.0,
+    "link": "https://www.elmundo.es/espana/2026/09/05/6a9b0f92fdddffdc158b4584.html",
+    "resumen": "Decenas de menores campan con anarquía adolescente por su asentamiento de chabolas y rehúyen los centros de acogida Leer"
+  },
+  {
+    "titulo": "El malestar de los funcionarios se extiende por las administraciones ante el \"deterioro de los servicios públicos\"",
+    "medio": "El Mundo",
+    "fecha": 1788564243.0,
+    "link": "https://www.elmundo.es/economia/2026/09/05/6a9a9b7ce4d4d8472d8b4570.html",
+    "resumen": "Desde el sindicato confirmaron que contactarán con Función Pública para reactivar el desarrollo del Acuerdo Marco, con un 5% de subida salarial Leer"
+  },
+  {
+    "titulo": "Industria busca frenar en seco la huelga en Airbus: \"La oferta de la empresa es justa y hay que valorar la inversión del Gobierno en Airbus España\"",
+    "medio": "El Mundo",
+    "fecha": 1788563043.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/09/05/6a9b0112e85ece64538b458f.html",
+    "resumen": "Los efectos sobre la producción del gigante industrial y el bloque del conflico provocan que el Ministerio medie y empuje a los sindicatos al fin de la huelga Leer"
+  },
+  {
+    "titulo": "El PSG anuncia la renovación de Luis Enrique y cinco jugadores más, entre ellos Fabián Ruiz",
+    "medio": "La Vanguardia",
+    "fecha": 1788562370.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol/20260905/11627834/psg-anuncia-renovacion-luis-enrique-cinco-jugadores-mas-fabian-ruiz.html",
+    "resumen": "El asturiano, que ha liderado la etapa más exitosa de la ⁠historia del club, prorroga su contrato hasta 2030"
+  },
+  {
+    "titulo": "Las 10 series más esperadas del otoño: Netflix, Prime Video, Filmin, Movistar Plus+ y Apple TV",
+    "medio": "El Mundo",
+    "fecha": 1788561980.0,
+    "link": "https://www.elmundo.es/la-lectura/2026/09/05/6a901287fdddffdf6d8b45a7.html",
+    "resumen": "Matthew McConaughey y Woodey Harrelson regresan, esta vez para matarnos de risa Leer"
+  },
+  {
+    "titulo": "Cuándo es el Carlos Alcaraz – Tommy Paul: a qué hora empieza y cómo ver por televisión en directo los octavos del US Open 2026",
+    "medio": "OK Diario",
+    "fecha": 1788561916.0,
+    "link": "https://okdiario.com/deportes/cuando-carlos-alcaraz-tommy-paul-que-hora-empieza-como-ver-television-directo-octavos-del-us-open-2026-20233208",
+    "resumen": "Carlos Alcaraz sigue demostrando que no le pesan esos cuatro meses en el dique seco y el murciano ha asegurado que se ve bastante bien en este US Open 2026, aunque tendrá que ir paso a paso para no caer eliminado como Novak Djokovic o Rafa Jódar. Ahora, su próximo rival será un Tommy Paul … Continuar leyendo \"Cuándo es el Carlos Alcaraz – Tommy Paul: a qué hora empieza y cómo ver por televisión en directo los octavos del US Open 2026\""
+  },
+  {
+    "titulo": "Anabel Pantoja estalla en directo: «El apellido Pantoja rellena la mayoría de los programas y de eso ¡hemos comido todos!»",
+    "medio": "OK Diario",
+    "fecha": 1788561299.0,
+    "link": "https://okdiario.com/cool/television/anabel-pantoja-estalla-directo-apellido-pantoja-rellena-mayoria-programas-eso-hemos-comido-todos-20233228",
+    "resumen": "Si hablamos de un personaje que une a la familia Pantoja, esa es Anabel Pantoja. Su figura se mantiene a caballo entre Isabel Pantoja, Kiko Rivera y la benjamina de la familia, Isa Pantoja. La relación entre la tonadillera y su sobrina es bastante estrecha, algo que hemos podido comprobar cuando Anabel se fue de … Continuar leyendo \"Anabel Pantoja estalla en directo: «El apellido Pantoja rellena la mayoría de los programas y de eso ¡hemos comido todos!»\""
+  },
+  {
+    "titulo": "Sombra aquí sombra allá",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627554/sombra-sombra.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Por una nueva financiación autonómica",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627593/nueva-financiacion-autonomica.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La tabarra parlamentaria",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627433/tabarra-parlamentaria.html",
+    "resumen": "En la crisis de Ceuta, la UE ha contemporizado con Marruecos igual que ha hecho el Gobierno"
+  },
+  {
+    "titulo": "Gripados",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627088/gripados.html",
+    "resumen": "El ascenso de AfD no se explica solo por la inmigración, también hay una sensación de pérdida"
+  },
+  {
+    "titulo": "La importancia de las instituciones",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627341/importancia-instituciones.html",
+    "resumen": "Quien quiera cambios ha de reconocer que la transformación no se cumple en un instante"
+  },
+  {
+    "titulo": "El césped del vecino",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627438/cesped-vecino.html",
+    "resumen": "La ultraderecha está en condiciones de ganar su primer Parlamento regional en Alemania"
+  },
+  {
+    "titulo": "Laberintos Cortázar",
+    "medio": "La Vanguardia",
+    "fecha": 1788561000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260905/11627175/laberintos-cortazar.html",
+    "resumen": "Tan pronto vives en una casa tomada por susurros como la compartes con un tigre"
+  },
+  {
+    "titulo": "Invertir en ovnis y en bitcoin por la noche: los ETF más insólitos",
+    "medio": "Expansión",
+    "fecha": 1788560997.0,
+    "link": "https://www.expansion.com/mercados/2026/09/05/6a9b20dd468aeb2a7a8b458b.html",
+    "resumen": "La estrategia permite disparar las comisiones de gestión. De los 466 fondos cotizados lanzados este año en Wall Street, solo el 16% replica algún índice bursátil. Leer"
+  },
+  {
+    "titulo": "Veinte gigantes bursátiles con las mejores perspectivas para ganar",
+    "medio": "Expansión",
+    "fecha": 1788560973.0,
+    "link": "https://www.expansion.com/inversion/2026/09/05/6a9b0b29468aeb03508b4597.html",
+    "resumen": "Las diez cotizadas más grandes del mundo suman una capitalización bursátil de más de 29 billones de dólares, 15 veces el PIB de España. Nvidia, Apple, Alphabet, Microsoft y Amazon capitanean el ránking mundial, pero no todas están entre las más recomendadas por los analistas. Leer"
+  },
+  {
+    "titulo": "Cómo mueven el mercado las 'ballenas' del bitcoin",
+    "medio": "Expansión",
+    "fecha": 1788560919.0,
+    "link": "https://www.expansion.com/mercados/criptomonedas/2026/09/05/6a9a9a1ee5fdea73508b457f.html",
+    "resumen": "Satoshi Nakamoto, los gemelos Winklevoss o Michael Saylor comparten pódium con una nueva generación de criptoinversores que más allá del bitcoin también apuestan por ethereum o solana. Leer"
+  },
+  {
+    "titulo": "Volkswagen garantiza el futuro de sus plantas españolas pese al repliegue de Seat",
+    "medio": "Expansión",
+    "fecha": 1788560904.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/09/05/6a9acd0c468aeb2d018b458c.html",
+    "resumen": "El grupo alemán, que eliminará 100.000 empleos en todo el mundo y planea cerrar cuatro plantas en Alemania, garantiza el futuro de las fábricas de Pamplona y Martorell gracias a la nueva familia de coches eléctricos pequeños. Leer"
+  },
+  {
+    "titulo": "Los neobrókeres presionan las cuentas remuneradas de la banca",
+    "medio": "Expansión",
+    "fecha": 1788560855.0,
+    "link": "https://www.expansion.com/ahorro/2026/09/05/6a9b0f58468aeb59068b45a0.html",
+    "resumen": "Máxima competencia antes de la reunión del BCE. Leer"
+  },
+  {
+    "titulo": "La batalla judicial entre Apple y OpenAI se recrudece",
+    "medio": "Expansión",
+    "fecha": 1788560694.0,
+    "link": "https://www.expansion.com/empresas/2026/09/05/6a9b0766468aeb94728b45a5.html",
+    "resumen": "La firma de Ternus acusa de robar datos y destruir pruebas a la de Altman, que replica que en Cupertino solo tratan de frenar a un competidor. Leer"
+  },
+  {
+    "titulo": "Valores para invertir con el cambio climático",
+    "medio": "Expansión",
+    "fecha": 1788560343.0,
+    "link": "https://www.expansion.com/inversion/2026/09/05/6a9b0e7b468aeb126a8b4581.html",
+    "resumen": "Las manifestaciones del cambio climático son evidentes y afectan al día a día de las personas pero también a la economía. Leer"
+  },
+  {
+    "titulo": "Campeones de la 'Liga Fantástica' de las fusiones",
+    "medio": "Expansión",
+    "fecha": 1788560176.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/09/05/6a9b25c3e5fdeaa2268b45ad.html",
+    "resumen": "La Unión Europea suaviza sus normas de competencia para fomentar la creación de 'campeones europeos'. Ante el empuje de EEUU y China, Bruselas busca facilitar megafusiones en sectores estratégicos. Leer"
+  },
+  {
+    "titulo": "Álvaro Meyer, creador de Vollup, el servicio de alta cocina a domicilio: \"Romper el estigma del delivery ha sido nuestro mayor desafío\"",
+    "medio": "El Mundo",
+    "fecha": 1788560108.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/restaurantes/2026/09/05/6a4f859be9cf4ac1558b4579.html",
+    "resumen": "Dirige su plataforma que conecta los templos gastronómicos con el salón del hogar. Su oferta en Madrid ya incluye nombres como Arahy, Arzábal, Rafa, Tampu, Urrechu Velázquez, Benares, Brela Bakery y Quesería Cultivo. Leer"
+  },
+  {
+    "titulo": "El PSOE regala a Vox su segunda alcaldía en la Comunidad de Madrid: \"Lo más simpático es que no ha habido ningún tipo de pacto\"",
+    "medio": "El Mundo",
+    "fecha": 1788559974.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/05/6a9af74ffc6c83e6388b45b3.html",
+    "resumen": "Una de las concejalas socialistas, que también se presentó a la alcaldía, ni siquiera se votó a sí misma Leer"
+  },
+  {
+    "titulo": "Anabel Pantoja muestra la cara B de las redes sociales y hace una dura confesión: «Han deseado la muerte de mi hija»",
+    "medio": "OK Diario",
+    "fecha": 1788558960.0,
+    "link": "https://okdiario.com/cool/television/anabel-pantoja-muestra-cara-b-redes-sociales-hace-dura-confesion-han-deseado-muerte-hija-20233149",
+    "resumen": "Desde hace años, el clan Pantoja ha protagonizado cientos de titulares y sus problemas familiares se han convertido en un culebrón que toda España ha seguido. Desde el distanciamiento de Isabel Pantoja de sus hijos hasta una reconciliación con sabor agridulce, la familia siempre ha estado a pie de portada y ha sido motivo de … Continuar leyendo \"Anabel Pantoja muestra la cara B de las redes sociales y hace una dura confesión: «Han deseado la muerte de mi hija»\""
+  },
+  {
+    "titulo": "Alcaraz avisa: «Creí que después del primer partido estaría muerto, pero estoy mejor de lo que esperaba»",
+    "medio": "OK Diario",
+    "fecha": 1788558914.0,
+    "link": "https://okdiario.com/deportes/alcaraz-avisa-crei-que-despues-del-primer-partido-estaria-muerto-pero-estoy-mejor-lo-que-esperaba-20233170",
+    "resumen": "Ya está, se acabó el rodaje. Alcaraz ya se ha instalado en su rutina victoriosa. Los triunfos no tienen la superioridad de antes porque viene de cuatro meses inactivo, pero la inercia es idéntica. Su sonrisa prevalece sobre todos los rivales. Este domingo, tras superar (6-3, 6-4, 6-1) a Wu, se enfrentará a Tommy Paul … Continuar leyendo \"Alcaraz avisa: «Creí que después del primer partido estaría muerto, pero estoy mejor de lo que esperaba»\""
+  },
+  {
+    "titulo": "Tellado le pide a Sánchez que deje de famear aura «haciéndose el moderno»",
+    "medio": "The Objective",
+    "fecha": 1788558853.0,
+    "link": "https://theobjective.com/espana/politica/2026-09-04/tellado-pide-sanchez-deje-famear-aura-haciendose-moderno/",
+    "resumen": "El secretario general del Partido Popular, Miguel Tellado, ha advertido al presidente del Gobierno, Pedro Sánchez, que «los jóvenes no quieren a políticos que se hagan […]"
+  },
+  {
+    "titulo": "La UE rechaza cualquier «intento» israelí de «cambio demográfico o territorial» en Gaza",
+    "medio": "The Objective",
+    "fecha": 1788558715.0,
+    "link": "https://theobjective.com/internacional/2026-09-04/ue-israel-cambio-demografico-territorial-gaza/",
+    "resumen": "La Unión Europea ha rechazado este viernes cualquier «intento» de Israel para desplazar a la población palestina de la Franja de Gaza, después de que varios […]"
+  },
+  {
+    "titulo": "El Real Madrid de Mourinho se estrella ante el Betis y sucumbe en un final agónico",
+    "medio": "The Objective",
+    "fecha": 1788558267.0,
+    "link": "https://theobjective.com/deportes/futbol/laliga/2026-09-04/real-madrid-mourinho-betis-final-agonico/",
+    "resumen": "El Real Madrid sumó este viernes su primera derrota en LaLiga EA Sports 2026-2027 y la primera desde la llegada al banquillo de José Mourinho después […]"
+  },
+  {
+    "titulo": "El Betis frena al Madrid feliz de Mourinho",
     "medio": "El País",
-    "fecha": 1788555398.0,
-    "link": "https://elpais.com/deportes/futbol/2026-09-04/betis-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "resumen": "El equipo de Mourinho visita La Cartuja en busca de prorrogar su racha de victorias ante el conjunto de Pellegrini con Dumfries, Konaté y Güler de titulares"
+    "fecha": 1788558250.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-04/el-betis-frena-al-madrid-feliz-de-mourinho.html",
+    "resumen": "El Real sufre en Sevilla su primera derrota en un partido con multitud de ocasiones en el que chocó con los palos tres veces y que se cerró con Kylian Mbappé fallando un penalti ante el soberbio Valles"
+  },
+  {
+    "titulo": "Isabel Navarro, directora de casting de First Dates: \"El anti match cuando funciona es maravilloso, porque gente que a lo mejor es muy opuesta de repente se enamora\"",
+    "medio": "HuffPost",
+    "fecha": 1788558049.0,
+    "link": "https://www.huffingtonpost.es/sociedad/isabel-navarro-directora-casting-first-dates-el-anti-match-funciona-maravilloso-gente-mejor-opuesta-repente-enamora-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Alcaraz ya está ahí, como si nada hubiera pasado: otra victoria y rumbo a los octavos del US Open",
+    "medio": "El País",
+    "fecha": 1788557749.0,
+    "link": "https://elpais.com/deportes/tenis/2026-09-04/alcaraz-ya-esta-ahi-como-si-nada-hubiera-pasado-otra-victoria-y-rumbo-a-los-octavos-del-us-open.html",
+    "resumen": "El murciano se sobrepone a una fase trabada contra Wu (6-3, 6-4 y 6-1, en 2h 20m) y se adentra en la segunda semana. Se topará con un viejo conocido, el local Paul"
+  },
+  {
+    "titulo": "Dos truenos de Isak y el muro de Araujo dan la primera victoria al Liverpool de Iraola",
+    "medio": "El País",
+    "fecha": 1788557469.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-04/dos-truenos-de-isak-y-el-muro-de-araujo-dan-la-primera-victoria-al-liverpool-de-iraola.html",
+    "resumen": "Los goles del sueco en el inicio del encuentro en Ipswich logran una ventaja que se sella gracias al uruguayo"
+  },
+  {
+    "titulo": "Carlos Alcaraz se deshace del chino Wu por la vía rápida y ya espera Tommy Paul en octavos",
+    "medio": "The Objective",
+    "fecha": 1788556928.0,
+    "link": "https://theobjective.com/deportes/2026-09-04/carlos-alcaraz-wu-via-rapida-tommy-paul-octavos/",
+    "resumen": "El tenista español Carlos Alcaraz sigue avanzando en el US Open, cuarto y último ‘Grand Slam’ de la temporada y que se disputa sobre pista dura, […]"
+  },
+  {
+    "titulo": "Prisión provisional sin fianza para los padres del bebé muerto de Santa Bàrbara (Tarragona)",
+    "medio": "The Objective",
+    "fecha": 1788556724.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-09-04/prision-provisional-fianza-padres-bebe-muerto-santa-barbara-tarragona/",
+    "resumen": "El juez titular de la plaza de Amposta (Tarragona) ha acordado este viernes prisión provisional, comunicada y sin fianza para los padres del bebé cuyos restos […]"
+  },
+  {
+    "titulo": "Los vecinos de Ceuta vuelven a las calles como protesta por un nuevo centro de acogida",
+    "medio": "The Objective",
+    "fecha": 1788556291.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-09-04/vecinos-ceuties-calles-protesta-centro-acogida/",
+    "resumen": "Los vecinos de las barriadas de la Junta de Obras del Puerto y de Parques de Ceuta han vuelto a salir a la calle a última […]"
+  },
+  {
+    "titulo": "El Real Madrid sufre su primera derrota de la temporada ante el Betis: el VAR anuló el empate de Espí y Mbappé falló un penalti",
+    "medio": "El Español",
+    "fecha": 1788555974.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260904/real-madrid-sufre-primera-derrota-temporada-betis-var-anulo-empate-espi-mbappe-fallo-penalti/1003744373681_0.html",
+    "resumen": "El conjunto blanco se quejó de que Bartra, que despejó el rechace en el penalti, estaba adelantado y, por tanto, la pena máxima debió repetirse."
+  },
+  {
+    "titulo": "Gloria Steinem Was the Godmother of Neoliberal Feminism",
+    "medio": "Jacobin ES",
+    "fecha": 1788555886.0,
+    "link": "https://jacobin.com/2026/09/steinem-feminism-ms-cia-socialism",
+    "resumen": "Gloria Steinem died this week at age 92. The establishment’s favorite “radical” feminist, Steinem worked with the CIA to promote reactionary propaganda and helped direct the women’s liberation movement into a corporate-friendly, anti-socialist direction."
   },
   {
     "titulo": "Dónde ver Alcaraz – Wu Yibing y por televisión en directo online el partido del US Open 2026 hoy",
@@ -21,11 +315,11 @@
     "resumen": "La Universidad de Cambridge ha anunciado este viernes la apertura de una investigación independiente tras la muerte del profesor británico Jason Arday, que renunció a dar […]"
   },
   {
-    "titulo": "Alcaraz se instala de nuevo en su rutina ganadora y avanza a octavos del US Open",
+    "titulo": "Rodaje terminado: Alcaraz se instala de nuevo en su rutina ganadora y avanza a octavos del US Open",
     "medio": "OK Diario",
     "fecha": 1788555082.0,
     "link": "https://okdiario.com/deportes/alcaraz-instala-nuevo-rutina-ganadora-avanza-octavos-del-us-open-20232961",
-    "resumen": "Golpe de abanico e intercambio de botellas en la Arthur Ashe. La jornada es sofocante en la grada, también en la pista. Especialmente para Wu, que ve cómo los golpes de Alcaraz van de un lado a otro y terminan en el contador del murciano, que no deja de sonreír. Ya se ha instalado en … Continuar leyendo \"Alcaraz se instala de nuevo en su rutina ganadora y avanza a octavos del US Open\""
+    "resumen": "Golpe de abanico e intercambio de botellas en la Arthur Ashe. La jornada es sofocante en la grada, también en la pista. Especialmente para Wu, que ve cómo los golpes de Alcaraz van de un lado a otro y terminan en el contador del murciano, que no deja de sonreír. Ya se ha instalado en … Continuar leyendo \"Rodaje terminado: Alcaraz se instala de nuevo en su rutina ganadora y avanza a octavos del US Open\""
   },
   {
     "titulo": "El contundente mensaje de Anabel Pantoja en su vuelta a televisión: «Se habla de mi vida como si fuese la plaza del pueblo»",
@@ -42,25 +336,11 @@
     "resumen": "Gulpiyuri, Aiguablava, Bolonia o Platges de Comte son algunos de los destinos que merece la pena visitar en septiembre, cuando hay menos gente y resulta mucho más fácil disfrutarlos Diez playas del Mediterráneo para descubrir el mundo bajo el agua haciendo esnórquel Septiembre suele traer consigo el temido síndrome posvacacional, ese terrible bajón anímico cuando nos enfrentamos a la vuelta a la rutina. Ese choque de realidad que nos hace pensar que nuestro último viaje fue hace siglos, y no solo unos pocos días atrás. Pero ojo, porque eso no significa que haya que despedirse de las escapadas de un día para otro. De hecho, hay playas que se disfrutan mejor ahora que en pleno agosto, y de ellas te queremos hablar. Nos referimos, sobre todo, a playas pequeñas o aquellas que durante el verano reciben tal cantidad de visitantes que acceder a ellas, aparcar cerca o simplemente encontrar un sitio para extender la toalla puede convertirse en una misión imposible. En septiembre, cuando la afluencia empieza a bajar, todo resulta bastante más fácil y cómodo. Es el caso de lugares como Gulpiyuri, una diminuta playa escondida entre los prados de Asturias, la popular Cala Granadella en Jávea o la playa de Rodas, en las islas Cíes. También de Papagayo, Aiguablava, Bolonia o las espectaculares Platges de Comte, en Ibiza. Siete playas en las que septiembre puede ser el momento perfecto para darse ese último baño del verano o, quién sabe, quizá el penúltimo. Playa de Gulpiyuri (Asturias) Empezamos por una de las playas más curiosas de España. Gulpiyuri se encuentra cerca de Naves, en el concejo asturiano de Llanes, pero lo más llamativo es que desde la arena no se ve el mar. Esta pequeña playa interior está separada del Cantábrico por unos acantilados y recibe el agua a través de una cueva que comunica con el mar. Con la pleamar se convierte prácticamente en una piscina natural y cuando comienza a bajar la marea aparece de nuevo la zona arenosa. Todo ello en un espacio de apenas 40 metros de longitud y rodeado de verdes praderas. La particular playa de Gulpiyuri. Y precisamente sus reducidas dimensiones son una de las razones por las que septiembre es un buen momento para acercarse hasta ella. En pleno verano, un lugar tan pequeño puede quedarse rápidamente sin espacio cuando se llena de visitantes, mientras que ahora, con una afluencia menor, resulta más sencillo disfrutar del entorno. Eso sí, hay que tener en cuenta que Gulpiyuri no dispone de servicios y que el acceso es exclusivamente peatonal, bien desde Naves o bien siguiendo la senda costera desde la playa de San Antolín. Playa de Rodas (Islas Cíes, Pontevedra) La playa de Rodas es una de las grandes estrellas de las islas Cíes y no cuesta demasiado entender por qué. Se encuentra en pleno Parque Nacional de las Islas Atlánticas y une las islas de Monteagudo y Faro mediante un enorme arenal de arena fina y blanca. A un lado están las aguas transparentes de color turquesa y al otro, las dunas y la vegetación del archipiélago. Además, junto a la playa se encuentra un lago natural comunicado con el mar. La playa de Rodas, en las Islas Cíes. Aquí septiembre tiene una ventaja bastante clara. Hasta el 15 de septiembre es necesario que el visitante solicite una autorización a la Xunta. Pero a partir de esa fecha el trámite se simplifica para el viajero, ya que al contactar directamente con las navieras, ellas se encargan de gestionar el permiso, permitiendo disfrutar de este entorno natural tan exclusivo con bastante menos presión que durante los meses centrales del verano. Playa de Papagayo (Lanzarote) Papagayo es probablemente una de esas playas que no necesitan demasiada presentación para quienes conocen Lanzarote. Esta pequeña cala del sur de la isla está situada dentro del Monumento Natural de Los Ajaches y tiene forma de media luna, arena blanca y unas aguas transparentes de color esmeralda que suelen permanecer muy tranquilas. Es, además, un lugar especialmente apropiado para practicar esnórquel, gracias a la claridad del agua y a la riqueza de sus fondos marinos. Papagayo, una de las islas más deseadas de Lanzarote. Pero Papagayo tiene un pequeño problema: no es precisamente grande. Sus 120 metros de longitud pueden quedarse bastante justos cuando se juntan numerosos visitantes, algo habitual durante los meses de mayor afluencia. Por eso septiembre es una buena alternativa para conocerla con más tranquilidad, aprovechando además que el sur de Lanzarote mantiene unas condiciones muy favorables para disfrutar de la playa. El acceso a la zona para vehículos motorizados es de pago y hay aparcamiento y zona de acampada en las proximidades. Cala Granadella (Jávea, Alicante) Cala Granadella es otro ejemplo bastante claro de que una playa espectacular no siempre es una playa cómoda en agosto. Situada al sur de Jávea, esta pequeña cala apenas alcanza los 160 metros de longitud y combina aguas cristalinas de tonos turquesa y esmeralda con una orilla formada por grava, bolos y rocas. El entorno es especialmente atractivo para practicar snorkel o submarinismo, aunque también se pueden realizar otras actividades acuáticas como kayak. Cala Granadella, en Javea. La diferencia entre agosto y septiembre se entiende todavía mejor al hablar del acceso. Durante julio y agosto el acceso en coche está restringido para controlar el aforo, de manera que quien quiera asegurarse un hueco tiene que madrugar. Con el final de la temporada alta, la situación resulta bastante más cómoda y es más fácil plantearse una escapada hasta esta cala sin convertir el acceso en la parte más complicada del día. Y ya que estamos allí, siempre se puede aprovechar para hacer alguna de las rutas del entorno, como la que lleva hasta el Castillo de Granadella. Playa de Bolonia (Tarifa, Cádiz) Bolonia es diferente a las anteriores. Aquí no hablamos de una pequeña cala en la que apenas caben unas cuantas toallas, sino de un enorme arenal de unos cuatro kilómetros de longitud y alrededor de 70 metros de anchura. Y, aun así, septiembre también es un buen momento para visitarla. Situada en el entorno del Parque Natural del Estrecho, conserva un aspecto bastante salvaje, con arena clara, aguas transparentes, pinares y la enorme duna que domina la playa. Playa de Bolonia, en a costa de Cádiz. La razón para preferir septiembre es sencilla: Bolonia es uno de los grandes reclamos del litoral gaditano y en verano la llegada de visitantes se nota especialmente a la hora de aparcar. Durante esos meses toca madrugar o armarse de paciencia para encontrar sitio. Ahora, con menos gente, es más fácil disfrutar de sus cuatro kilómetros de arena y, además, dedicar tiempo a conocer todo lo que hay alrededor. La duna de Bolonia, declarada Monumento Natural, y las ruinas de la ciudad romana de Baelo Claudia son dos visitas que merece la pena añadir al día de playa. Cala Aiguablava (Begur, Girona) La Costa Brava tampoco se libra de las playas que se ponen complicadas en pleno verano. Aiguablava, en Begur, es una pequeña cala de apenas 80 metros de longitud y unos 40 de anchura, rodeada de pinos y acantilados. Sus aguas transparentes y poco profundas son uno de sus grandes atractivos y la playa cuenta además con servicios como duchas, aseos, vigilancia y accesos adaptados. También forma parte del recorrido del GR-92, por lo que es posible combinar el baño con un paseo por el camino de ronda. Aiguablava, en la Costa Brava. El problema, una vez más, está en el tamaño. En los meses de verano hay que llegar con tiempo si queremos encontrar un hueco para colocar la toalla, algo que cambia bastante cuando disminuye la afluencia de visitantes. Septiembre permite acercarse a Aiguablava con una idea mucho más relajada del día de playa y aprovechar mejor tanto el arenal como sus aguas tranquilas. Y, si todavía quedan ganas de caminar, el entorno ofrece además la posibilidad de continuar por alguno de los caminos de ronda de esta zona de la Costa Brava. Platges de Comte (Ibiza) Terminamos en Ibiza, en Platges de Comte, también conocida como Cala Conta. Es uno de esos lugares que explican por qué la isla tiene tanta fama como destino de playa. El agua es transparente y de un intenso color turquesa, la arena es muy fina y la costa se divide en pequeñas zonas de baño y rincones rocosos desde los que disfrutar del mar. Frente a la playa se pueden ver varios de los islotes que forman el paisaje de la costa occidental de Ibiza, mientras que sus aguas poco profundas son muy apropiadas para practicar esnórquel. Platges de Comte, en Ibiza. Todo esto hace que también sea una de las playas más populares de la isla y, en temporada alta, el espacio disponible en la arena suele quedarse bastante corto. Septiembre ofrece una buena opción mucho más sencilla para ir sin las prisas de agosto y disfrutar con más tranquilidad de sus aguas, sus diferentes zonas de baño y las vistas de los islotes. Y, si esperamos hasta el final de la tarde, todavía podremos despedir el verano con una de las puestas de sol más famosas de Ibiza."
   },
   {
-    "titulo": "Alcaraz recupera su dulce rutina ante Wu y ya está en octavos de final del US Open",
-    "medio": "El Mundo",
-    "fecha": 1788554499.0,
-    "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/04/6a9b2b87e4d4d873488b4577.html",
-    "resumen": "Gana por 6-3, 6-4 y 6-1 en tercera ronda de un torneo en el que cada partido le devuelve un poco más de confianza y ritmo. Leer"
-  },
-  {
-    "titulo": "Cómo va Alcaraz – Yibing Wu en directo: resultado online en vivo y minuto a minuto del partido del US Open 2026 hoy en tiempo real",
-    "medio": "OK Diario",
-    "fecha": 1788554404.0,
-    "link": "https://okdiario.com/deportes/como-va-alcaraz-yibing-wu-directo-donde-ver-resultado-online-vivo-minuto-minuto-del-partido-del-us-open-2026-hoy-tiempo-real-20227290",
-    "resumen": "Alcaraz suma y sigue, ya carbura en el US Open. Olvídense de la cautela, es aquí y ahora. Es aquí y ahora. «Me he sentido muy bien», asegura al reducido grupo de medios españoles desplazados a Nueva York, entre ellos OKDIARIO. Ganó su segundo partido después de cuatro meses y va al alza respecto a … Continuar leyendo \"Cómo va Alcaraz – Yibing Wu en directo: resultado online en vivo y minuto a minuto del partido del US Open 2026 hoy en tiempo real\""
-  },
-  {
-    "titulo": "Trump califica el conflicto con Irán como \"small potatoes\" (algo menor) y coincide con Vance en que no es una \"guerra\"",
-    "medio": "El Mundo",
-    "fecha": 1788554198.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/04/6a9b2b4afc6c833b478b45b7.html",
-    "resumen": "\"Yo no lo llamaría una guerra\", ha asegurado el mandatario Leer"
+    "titulo": "Carlos Alcaraz sube su nivel ante el chino Wu Yibing y logra una victoria fácil para meterse en los octavos del US Open",
+    "medio": "El Español",
+    "fecha": 1788554720.0,
+    "link": "https://www.elespanol.com/deportes/tenis/20260904/carlos-alcaraz-sube-nivel-chino-wu-yibing-logra-victoria-facil-meterse-octavos-us-open/1003744373675_0.html",
+    "resumen": "El español, como ya le pasó ante Jaime Faria, sufrió en su servicio pero terminó sin ceder ningún set en el partido (3-6, 4-6, 1-6).Más información: Las razones para confiar en Carlos Alcaraz para ganar el US Open: 16 triunfos y un dominio casi absoluto en los grandes"
   },
   {
     "titulo": "El juicio a Lindsay Clancy por matar a sus tres hijos es declarado nulo por el bloqueo del jurado",
@@ -70,13 +350,6 @@
     "resumen": "La decisión, que pone final a un proceso seguido con pasión durante semanas, aboca ahora a la repetición del juicio si no hay acuerdo entre defensa y acusación"
   },
   {
-    "titulo": "El ADN oculto en evangelios medievales cuenta la historia de un virus que afecta al ganado",
-    "medio": "The Objective",
-    "fecha": 1788553921.0,
-    "link": "https://theobjective.com/sociedad/ciencia/2026-09-04/adn-oculto-evangelios-medievales-virus-ganado/",
-    "resumen": "Algunos de los manuscritos más conocidos de Europa, entre ellos los Evangelios de York, se han convertido en auténticas «cápsulas del tiempo» que permiten reconstruir 3.500 […]"
-  },
-  {
     "titulo": "Los maquinistas piden retirar los Talgo Avril de Renfe tras el séptimo tren con fisuras en un año: \"Se debe actuar en consecuencia con el material, por muy drástico que pueda resultar\"",
     "medio": "HuffPost",
     "fecha": 1788553800.0,
@@ -84,39 +357,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Comprobar Cuponazo ONCE hoy, en directo | Resultados del sorteo del viernes 4 de septiembre de 2026",
-    "medio": "El Español",
-    "fecha": 1788553440.0,
-    "link": "https://www.elespanol.com/loterias/20260904/comprobar-cuponazo-once-directo-resultados-premios-sorteo-hoy-viernes-4-septiembre/1003744373477_10.html",
-    "resumen": "Estos son el número y serie premiados del Cuponazo de hoy: el 29.368 (serie 057).👉🏻 Lotería Nacional | Comprobar resultados y premios del sorteo del jueves 3 de septiembre."
-  },
-  {
-    "titulo": "Juanma Moreno critica la falta de «dimisiones» en el Gobierno por el accidente de Adamuz",
-    "medio": "The Objective",
-    "fecha": 1788553409.0,
-    "link": "https://theobjective.com/espana/politica/2026-09-04/juanma-moreno-falta-dimisiones-accidente-adamuz/",
-    "resumen": "El presidente de la Junta de Andalucía, Juanma Moreno, ha querido dejar claro este viernes que su Gobierno seguirá exigiendo «hasta el último minuto conocer toda […]"
-  },
-  {
     "titulo": "OpenAI abre GPT-6 Astra a más usuarios de ChatGPT",
     "medio": "Hipertextual",
     "fecha": 1788552707.0,
     "link": "https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/",
     "resumen": "Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pago del chatbot accedieran al nuevo modelo avanzado desde el primer día, la compañía ha […] Seguir leyendo: OpenAI abre GPT-6 Astra a más usuarios de ChatGPT"
-  },
-  {
-    "titulo": "Nueve heridos tras una colisión múltiple de cinco vehículos en la A-21 en Navarra",
-    "medio": "El Mundo",
-    "fecha": 1788552679.0,
-    "link": "https://www.elmundo.es/espana/2026/09/04/6a9b2559e85ece21778b45ae.html",
-    "resumen": "El siniestro se ha producido a la altura del kilómetro 29 de la A-21 (Autovía del Pirineo) en Lumbier Leer"
-  },
-  {
-    "titulo": "Prisión provisional para los padres del bebé muerto en Tarragona y libertad con cargos para la madre del bebé hallado muerto en el barrio de La Mina",
-    "medio": "El Mundo",
-    "fecha": 1788552337.0,
-    "link": "https://www.elmundo.es/cataluna/2026/09/04/6a9b1e27e85ece21778b45a7.html",
-    "resumen": "Uno de los dos menores detenidos por la muerte de un hombre en Manresa tenía una orden de libertad vigilada vigente Leer"
   },
   {
     "titulo": "El Reino Unido le responde a Milei y reafirma su compromiso “absoluto e inamovible” con las Malvinas",
@@ -140,46 +385,11 @@
     "resumen": "Todos conocemos el talento de Bruce Lee en las artes marciales, además de su faceta como actor protagonizando películas en las que siempre había hueco para king fu; lo que muchos no sabemos es que, además, antes de su incursión en el universo del cine, el artista estadounidense estudió Filosofía en la Universidad de Washington. Nacido en San Francisco en 1940 y criado en Hong Kong, Bruce Lee se inició en las artes marciales con tan solo 13 años. Todo ese tiempo de entrenamiento fue el que le llevó a desarrollar más tarde su propia filosofía de combate, el Jeet Kune Do. Se trata de un método que rechazaba las formas rígidas de esta disciplina y apostaba por responder con mucha más libertad a las circunstancias de cada momento. Según Lee, esta idea trascendía las artes marciales y podía trasladarse también a la vida cotidiana de todos nosotros. Su manera de entender el mundo rehuía la necesidad de seguir siempre el mismo camino. Brucee Lee defendía la importancia de mantener una actitud abierta, observar lo que sucede alrededor, aprender de cada experiencia y tener la capacidad de cambiar de rumbo cuando las circunstancias lo requieren. En lugar de aferrarse a aquello que creemos que debería ocurrir o a lo que pensamos que merecemos, proponía aceptar el movimiento constante de la vida y adaptarse a él. Frases icónicas que nos ha dejado para el recuerdoSus reflexiones acerca de la vida, el esfuerzo y la importancia de saber adaptarse quedaron recogidas tanto en sus libros como en sus entrevistas, y muchas de ellas ya han pasado a formar parte de su legado. En él vivía un pensamiento positivo y alentador, pero también consecuente con el universo. Recordamos especialmente sus frases más célebres: \"Esperar que la vida te trate bien por ser buena persona es como esperar que un tigre o un león no te ataquen por ser vegetariano”. Su capacidad para moldearse a las diferentes circunstancias de la vida era envidiable, pero es que por sus venas corría una profunda filosofía: \"Vacía tu mente, sé amorfo, moldeable, como el agua. Si pones agua en una taza, se convierte en la taza... El agua puede fluir o puede golpear. Sé agua, amigo mío.\" Resulta que es una frase de 'Longstreet', la serie de 1971 en la que interpretó a Li Tsung, pero que también encajaba al 100% con su forma de ver el mundo. Fotos | IMDb En Trendencias | René Descartes, filósofo: “Conversar con los de otros siglos es casi lo mismo que viajar” En Xataka | La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude' En Trendencias | Lucía Ruiz de Aguirre, diseñadora y tejedora: \"Los vaqueros no deben usarse dos días seguidos porque las fibras necesitan un tiempo de recuperación\" - La noticia Bruce Lee: “Esperar que la vida te trate bien por ser buena persona es como esperar que un tigre o un león no te ataquen por ser vegetariano” fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "Se buscan 2 voluntarios para vivir gratis en una isla europea a cambio de cuidar la cafetería y las viviendas vacacionales para turistas",
-    "medio": "OK Diario",
-    "fecha": 1788552058.0,
-    "link": "https://okdiario.com/curiosidades/estan-buscando-varios-voluntarios-vivir-gratis-isla-europea-cambio-cuidar-cafeteria-viviendas-vacacionales-turistas-20180458",
-    "resumen": "La idea de vivir gratis en una isla europea suena un poco a fantasía, más aún para quienes viven en otros continentes. No obstante, la realidad es que cada año tiene lugar una convocatoria de la que muchas personas no están enteradas. No hace falta experiencia previa ni ser millonario, solo tener ganas de instalarse … Continuar leyendo \"Se buscan 2 voluntarios para vivir gratis en una isla europea a cambio de cuidar la cafetería y las viviendas vacacionales para turistas\""
-  },
-  {
-    "titulo": "La psicología lo confirma: los nacidos entre 1945 y 1965 desarrollaron una ventaja única a la hora de gestionar las emociones, debido a que vivieron largos períodos de incertidumbre",
-    "medio": "OK Diario",
-    "fecha": 1788552054.0,
-    "link": "https://okdiario.com/curiosidades/fin-psicologia-confirma-todos-nacidos-1945-1965-desarrollaron-ventaja-unica-hora-gestionar-emociones-debido-que-vivieron-largos-periodos-incertidumbre-18922461",
-    "resumen": "Las personas no nacen con una personalidad definida, sino que la van construyendo a medida que crecen. Y si hay una etapa decisiva en ese proceso, esa es la infancia. Todo lo que nos rodea durante esos primeros años, el contexto en el que vivimos, las personas que nos educan, los referentes a los que … Continuar leyendo \"La psicología lo confirma: los nacidos entre 1945 y 1965 desarrollaron una ventaja única a la hora de gestionar las emociones, debido a que vivieron largos períodos de incertidumbre\""
-  },
-  {
-    "titulo": "Poner una hoja de laurel en la funda del móvil: para qué sirve y por qué lo recomiendan los expertos",
-    "medio": "OK Diario",
-    "fecha": 1788552048.0,
-    "link": "https://okdiario.com/curiosidades/significado-autentico-poner-hoja-laurel-funda-del-movil-que-sirve-que-lo-recomiendan-expertos-20198905",
-    "resumen": "A simple vista puede parecer que el laurel sólo sirve para utilizarlo en recetas de cocina y poder aportar sabor a los guisos. Sin embargo, tiene una gran cantidad de beneficios fuera del mundo culinario que mucha gente desconoce, como los que tiene el poner una hoja de laurel en la funda del teléfono, utilizado … Continuar leyendo \"Poner una hoja de laurel en la funda del móvil: para qué sirve y por qué lo recomiendan los expertos\""
-  },
-  {
-    "titulo": "La reflexión de David Beckham (51 años) sobre sus hijos: «Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero»",
-    "medio": "OK Diario",
-    "fecha": 1788552040.0,
-    "link": "https://okdiario.com/cool/autentica-reflexion-david-beckham-51-anos-sobre-sus-hijos-nunca-veras-mis-hijos-entrar-habitacion-no-dejar-mujer-pase-primero-20196355",
-    "resumen": "Nunca vas a ver a mis hijos entrar en una habitación y no dejar que una mujer pase primero, la reflexión de David Beckham sobre sus hijos. El papel de padre o de madre es de los más difíciles de ejercer que existe. Famosos o no, educar a los hijos es una tarea que nuestros … Continuar leyendo \"La reflexión de David Beckham (51 años) sobre sus hijos: «Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero»\""
-  },
-  {
     "titulo": "Anne, 69 años, multada cinco veces por aparcar en su propia calle: \"Tenía la sensación de que esos coches-escáner escaneaban a lo loco\"",
     "medio": "HuffPost",
     "fecha": 1788552000.0,
     "link": "https://www.huffingtonpost.es/sociedad/anne-69-anos-multada-cinco-veces-aparcar-propia-calle-tenia-sensacion-cochesescaner-escaneaban-loco-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Paul Schrader completa su trabajo más artificial en la enésima revisión del héroe atormentado en The Basics of Philosophy (**)",
-    "medio": "El Mundo",
-    "fecha": 1788551670.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/09/04/6a9aefccfc6c8310268b45aa.html",
-    "resumen": "El director continúa su exploración de la culpa y la redención en una película lejos de sus mejores trabajos. El francés Cédric Kahn echa mano de oficio en la sólida y algo despersonalizada 15/18 (A Place to Heal) (***) y el japonés Shinya Tsukamoto se pierde en su afán desmedido en Mr. Nelson, Did You Kill People? (**) Leer"
   },
   {
     "titulo": "Cuatro estudiantes cubren 200 metros de glaciar con lana de oveja y el resultado sorprende a los científicos: \"Funcionó increíblemente bien\"",
@@ -196,39 +406,11 @@
     "resumen": "Este sorteo se juega dos veces a la semana, los martes y los viernes"
   },
   {
-    "titulo": "Trump confirma que sus emisarios viajarán a Rusia y Ucrania para retomar conversaciones",
-    "medio": "The Objective",
-    "fecha": 1788550972.0,
-    "link": "https://theobjective.com/internacional/2026-09-04/trump-emisarios-rusia-ucrania-conversaciones/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, confirmó este viernes, como habían adelantado varios medios, que sus emisarios Steve Witkoff y Jared Kushner viajarán este fin […]"
-  },
-  {
     "titulo": "Hemos visto a los robots de Unitree dando saltos y volteretas y ya sabemos el motivo: su fundador se ha hecho millonario con ellos",
     "medio": "Xataka",
     "fecha": 1788550296.0,
     "link": "https://www.xataka.com/robotica-e-ia/hemos-visto-a-robots-unitree-dando-saltos-volteretas-sabemos-motivo-su-fundador-se-ha-hecho-millonario-ellos",
     "resumen": "Llevamos meses viendo a los robots de Unitree bailar, dar patadas de kung-fu y saltar más alto que cualquier atleta. Cada vídeo se hacía viral y muchos nos preguntábamos para qué servía tanto espectáculo si estas máquinas todavía no trabajan en fábricas ni en casas. La respuesta a ese despliegue de habilidades ha llegado con la salida a bolsa de Unitree. Tal y como recogía Forbes, su fundador, Wang Xingxing, ha pasado a convertirse en una de las mayores fortunas tecnológicas de China en cuestión de horas. Un debut que ha roto todos los récords. Unitree empezó a cotizar el 19 de agosto en el mercado STAR de Shanghái, el índice chino para empresas tecnológicas. Las acciones llegaron a dispararse un 629% en sesión, aunque cerraron con una subida del 450% sobre el precio de salida, según recogía la prensa económica. La demanda de acciones de Unitree fue tan alta que la oferta pública inicial recibió peticiones que multiplicaban por más de 5.500 veces los títulos disponibles. Con esa demanda, Unitree recaudó 6.100 millones de yuanes (unos 905 millones de dólares) que usará para desarrollar nuevos modelos y mejorar sus algoritmos. En Xataka Howqua: el \"Jeff Bezos chino\" que se convirtió en el hombre más rico del mundo prestando dinero a comerciantes de EEUU Una primera semana de infarto. No obstante, tras el frenesí inicial de su salida a bolsa, la cotización bursátil de Unitree sufrió un serio correctivo perdiendo más de 200.000 millones de yuanes, lo que equivale a una caída de 29.776 millones de dólares en su capitalización, que en la actualidad se mantiene por encima de los 50.000 millones Aun así, Wang Xingxing se mantiene como una de las personas más ricas de China con un patrimonio estimado en más de 9.600 millones de dólares, posicionándose en el puesto 375 de las mayores fortunas del mundo según Forbes. Un imperio construido sobre un robot casero de 200 yuanes. Wang Xingxing tiene 36 años y nació en una familia humilde en Zhejiang, al sur de Shanghái. Según cuentan en The Stardard, su interés por montar cosas le viene desde niño, cuando montó un coche movido por el viento y en el instituto intentó fabricar un turborreactor en miniatura. Estudió Mecatrónica y, durante su máster en la Universidad de Shanghái, construyó un robot cuadrúpedo casero con componentes de 200 yuanes llamado XDog. Trabajó solo dos meses en DJI antes de dejarlo todo para montar Unitree en 2016. Tras el debut bursátil, su participación en la compañía llegó a valer más de 133.500 millones de yuanes (unos 19.876 millones de dólares) en un solo día. Eso le convierte en el empresario de menos de 40 años más rico de China, muy por delante de Liu Jingkang, de 33 años y fundador de Insta360. Mientras Silicon Valley convierte a sus millonarios en superestrellas, China camina en sentido contrario: milmillonarios anónimos Los robots más populares. Unitree se hizo muy popular para el gran público justo antes de salir a bolsa gracias al enorme impacto que causaron sus robots bailarines, durante la actuación en una de las galas del Festival de Primavera de China de 2026. Poco antes de su debut bursátil, y aprovechando la gran expectación que generó la popular actuación, la compañía presentó \"Superman\", un humanoide capaz de saltar dos metros y correr a 12,66 metros por segundo. También causó furor con el GD01, un robot transformable de tres metros capaz de llevar a un piloto humano en su cabina, con un precio que parte de los 650.000 dólares. Son máquinas espectaculares y que se están vendiendo como churros, pero el propio Wang admite que queda mucho camino por recorrer. Eso sí, ahora Wang lo hará con los bolsillos un poco más llenos. En Xataka | No ha sido fácil rastrear la fortuna de los millonarios de China: la lista Hurun es la fuente más precisa para entenderlo Imagen | Unitree, Flickr (World Economic Forum), Magnific - La noticia Hemos visto a los robots de Unitree dando saltos y volteretas y ya sabemos el motivo: su fundador se ha hecho millonario con ellos fue publicada originalmente en Xataka por Rubén Andrés ."
-  },
-  {
-    "titulo": "En libertad con medidas cautelares la madre del bebé hallado muerto en un bloque de la Mina",
-    "medio": "La Vanguardia",
-    "fecha": 1788550103.0,
-    "link": "https://www.lavanguardia.com/local/barcelones-nord/20260904/11627588/libertad-medidas-cautelares-madre-bebe-hallado-muerto-bloque-mina.html",
-    "resumen": "La calificación penal de los hechos y la causa de la muerte dependen de la autopsia"
-  },
-  {
-    "titulo": "Trump afirma que México no ofrece nada a EEUU salvo «tamales picantes y tomates»",
-    "medio": "The Objective",
-    "fecha": 1788549826.0,
-    "link": "https://theobjective.com/internacional/2026-09-04/trump-mexico-ofrece-eeuu-tamales-picantes-tomates/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, aseguró este viernes que México no tiene nada que ofrecer a su país, más que «tamales picantes y tomates», […]"
-  },
-  {
-    "titulo": "El Gobierno da seis meses a Santoña para retirar un monumento a Carrero Blanco",
-    "medio": "The Objective",
-    "fecha": 1788549383.0,
-    "link": "https://theobjective.com/sociedad/2026-09-04/gobierno-retira-monumento-carrero-blanco-santona/",
-    "resumen": "El Ministerio de Política Territorial y Memoria Democrática ha emitido una resolución en la que informa de la entrada del monumento a Carrero Blanco en Santoña […]"
   },
   {
     "titulo": "Nerea Pérez de las Heras:",
@@ -266,67 +448,11 @@
     "resumen": "Citizen Lab confirma con la fundación SHARE el uso de Pegasus y NoviSpy contra activistas de Serbia mediante exploits zero-click en iMessage. La entrada Pegasus Serbia: Citizen Lab confirma infecciones zero-click a activistas antes de las elecciones aparece primero en Moncloa."
   },
   {
-    "titulo": "Prisión para los padres del bebé hallado muerto en el domicilio familiar de Santa Bàrbara (Tarragona)",
-    "medio": "La Vanguardia",
-    "fecha": 1788547340.0,
-    "link": "https://www.lavanguardia.com/local/tarragona/20260904/11627576/prision-padres-bebe-hallado-muerto-domicilio-familiar-santa-barbara-tarragona.html",
-    "resumen": "La causa permanece abierta por un supuesto delito de homicidio y el juez acuerda medidas civiles que suspenden la patria potestad de los progenitores"
-  },
-  {
-    "titulo": "La ONU adopta un nuevo mapamundi más fiel al tamaño de los continentes",
-    "medio": "The Objective",
-    "fecha": 1788547220.0,
-    "link": "https://theobjective.com/internacional/2026-09-04/onu-resolucion-mapa-fiel-tamano-continentes/",
-    "resumen": "La Asamblea General de la ONU adoptó este viernes una resolución para dejar de utilizar el diseño del mapa mundial actual y sustituirlo por uno más […]"
-  },
-  {
     "titulo": "El Gobierno quiere de vuelta una indemnización millonaria que los mineros asturianos no quieren asumir",
     "medio": "Xataka",
     "fecha": 1788546696.0,
     "link": "https://www.xataka.com/energia/gobierno-quiere-vuelta-indemnizacion-millonaria-que-mineros-asturianos-no-quieren-asumir",
     "resumen": "La minería del carbón en España parecía un capítulo cerrado, sellado a golpe de normativas europeas y fondos para la transición ecológica. Sin embargo, el intento de reactivar la extracción en un yacimiento de Asturias ha chocado de frente con un muro burocrático y económico de posiblemente 31,24 millones de euros, según ha recogido el medio La Nueva España. Muy medida. Esta es la cifra que el Instituto para la Transición Justa (ITJ), dependiente del Ministerio para la Transición Ecológica y el Reto Demográfico, ha puesto sobre la mesa como condición innegociable para que la empresa TyC Nrcea pueda continuar sacando carbón en Veiga de Rengos, en Cangas del Narcea. Y es una paradoja, puesto que el Estado reclama ahora la devolución de las ayudas millonarias que entregó hace años a la anterior propietaria precisamente para que cerrara esa misma mina. En Xataka China ha encontrado un filón en las viejas minas de carbón abandonadas: refrescar los hogares El fantasma de Carbonar. Para entender este laberinto administrativo hay que viajar unos años atrás. Entre 2011 y 2017, la antigua titular de la explotación, la sociedad Carbonar (hoy en liquidación), recibió cuantiosas ayudas estatales con un objetivo amparado en la Decisión 2010/787/UE de la Unión Europea. Aquí la administración buscaba financiar el cese permanente de la producción y Europa permitía estas ayudas bajo la condición estricta de que el cierre fuera \"irrevocable\" y definitivo. Ahora, la nueva empresa TYC Narcea busca operar en la zona, y de hecho presentó su proyecto de explotación en abril de 2025. Pero el Gobierno ha activado un mecanismo legal que actúa como un cepo. Cambio de paradigma. La administración se basa en el artículo 29 de la Ley 7/2021, que apunta que cualquier autorización, concesión o prórroga para explotar carbón en unidades que ya fueron incluidas en el Plan de Cierre queda supeditada a una condición ineludible: hay que devolver las ayudas cobradas previamente, sumando además los intereses devengados. Y el Ministerio aquí es tajante, puesto que no se trata de una sanción ni de una multa, sino de un requisito legal indispensable si se quiere volver a explotar un terreno por cuyo cierre ya se pagó con dinero público. El gran debate. El conflicto jurídico actual, que se encuentra en fase de resolución provisional, radica en un problema técnico y material: ¿Es el nuevo proyecto de TYC Narcea la misma unidad de producción que cobró por cerrar? Aquí la posición de la empresa que quiere seguir explotando esta mina de carbón apunta a que es una sociedad completamente distinta, con otros accionistas, una gestión diferente y un proyecto nuevo. De esta manera, cuestionan por qué deberían asumir la devolución de unas ayudas que cobró y disfrutó una empresa anterior. Además, ponen sobre la mesa un argumento temporal al denunciar una posible aplicación retroactiva del artículo 29, alegando que adquirieron derechos sobre la explotación antes de que la ley entrara en vigor. La administración. La posición del gobierno apunta a que sostiene que existen \"elementos materiales solapados\". Es decir, la extracción que pretende llevar a cabo TYC Narcea se desarrollaría sobre espacios, infraestructuras o accesos vinculados a la unidad de producción por la que Carbonar cobró para echar el cierre. En Xataka Europa necesita coltán para fabricar sus chips y lo ha encontrado en un lugar inesperado: un pueblo de Ourense Está congelado. Por el momento, los 31,24 millones de euros son una propuesta de resolución provisional y la empresa se encuentra en pleno trámite de alegaciones. El problema es que los efectos prácticos ya se hacen notar. El Gobierno del Principado de Asturias, encargado de tramitar el proyecto de explotación de TYC Narcea, confirmó en junio de 2026 que el proceso sigue abierto, pero con un asterisco gigante: la validez de cualquier permiso autonómico queda condicionada a que se resuelva el expediente ante el ITJ, que, pese a no ser vinculante si que puede definir el futuro de la explotación. El desenlace de este pulso definirá no solo el futuro de la mina de Veiga de Rengos, sino que sentará un precedente sobre cómo de \"irrevocables\" son los cierres mineros financiados por Europa y hasta qué punto una nueva sociedad hereda los fantasmas (y las deudas) de la tierra que pretende seguir perforando. Imágenes | RTPA En Xataka | En 2008, España llenó de agua una mina de carbón de 300 metros de profundidad. Cuatro años después se convirtió en el lago artificial más grande del país - La noticia El Gobierno quiere de vuelta una indemnización millonaria que los mineros asturianos no quieren asumir fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Betis - Real Madrid, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga",
-    "medio": "El Español",
-    "fecha": 1788546600.0,
-    "link": "https://www.elespanol.com/deportes/20260904/betis-real-madrid-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744373533_22.html",
-    "resumen": "l Real Madrid visita el Estadio Benito Villamarín tras reencontrarse con su mejor versión en la contundente victoria por 4-0 frente al Málaga."
-  },
-  {
-    "titulo": "ADIF afirma que el bache detectado en Adamuz no apuntaba a un problema de seguridad",
-    "medio": "The Objective",
-    "fecha": 1788546398.0,
-    "link": "https://theobjective.com/espana/2026-09-04/adif-bache-detectado-adamuz-no-apuntaba-problema-seguridad/",
-    "resumen": "ADIF ha asegurado que el bache que se detectó en octubre de 2025 en las vías donde tres meses después ocurrió el accidente ferroviario de Adamuz […]"
-  },
-  {
-    "titulo": "Un Reino Unido en crisis económica y militar reafirma que las islas Malvinas son suyas",
-    "medio": "La Vanguardia",
-    "fecha": 1788546103.0,
-    "link": "https://www.lavanguardia.com/internacional/20260904/11627572/reino-unido-crisis-economica-militar-reafirma-islas-malvinas-son.html",
-    "resumen": "Downing Street expresa su “apoyo inamovible” al derecho de autodeterminación"
-  },
-  {
-    "titulo": "Wu Yibing - Carlos Alcaraz, el partido del US Open, en directo|Alcaraz gana el partido y se enfrentará a Tommy Paul en los octavos de final",
-    "medio": "El País",
-    "fecha": 1788545985.0,
-    "link": "https://elpais.com/deportes/2026-09-04/wu-yibing-carlos-alcaraz-el-partido-del-us-open-en-directo.html",
-    "resumen": "El tenista español ha vencido en tres sets (6-3, 6-4 y 6-1) al tenista chino Wu Yibing en la tercera ronda del torneo"
-  },
-  {
-    "titulo": "Iberdrola y Naturgy desafían a REE y Endesa con una alianza hidroeléctrica",
-    "medio": "Expansión",
-    "fecha": 1788545818.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/09/04/6a9b0b16e5fdeaac168b45a1.html",
-    "resumen": "Leer"
-  },
-  {
-    "titulo": "Giorgia Meloni celebra su longevidad en el Gobierno: \"La estabilidad es la gran reforma que hemos regalado a esta nación\"",
-    "medio": "El Mundo",
-    "fecha": 1788545802.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/04/6a9b08ddfdddff7d6d8b456f.html",
-    "resumen": "La primera ministra italiana interviene en un acto organizado por Hermanos de Italia para celebrar su récord Leer"
   },
   {
     "titulo": "La Seguridad Social ultima la reforma de la CUME y veta una enmienda del PP en el Senado para revisar el límite la edad",
@@ -343,13 +469,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Varias mujeres expulsadas de un discurso del líder ultraderechista británico, Nigel Farage",
-    "medio": "La Vanguardia",
-    "fecha": 1788545011.0,
-    "link": "https://www.lavanguardia.com/internacional/20260904/11627564/mujeres-expulsadas-discurso-lider-ultraderechista-britanico-nigel-farage.html",
-    "resumen": "El discurso de Farage empezó con retraso debido a una alerta de seguridad de la que no se dieron detalles"
-  },
-  {
     "titulo": "La fusión de agujeros negros que rompió todas las reglas tenía truco: una lente gravitacional pudo haber inflado su tamaño",
     "medio": "Xataka",
     "fecha": 1788544897.0,
@@ -362,13 +481,6 @@
     "fecha": 1788544897.0,
     "link": "https://www.trendencias.com/psicologia/luis-xiv-zoolander-farmeaban-aura-existiera-palabra-explicacion-psicologica-a-que-se-ha-vuelto-a-poner-moda",
     "resumen": "Con todo esto de farmear aura que ha hecho que los jóvenes de la Generación Z hayan convertido parques y plazas en su nuevo escenario, han surgido muchas voces que lo tachan de ridículo cuando en realidad lo que ocurre es que no lo entienden. Y es que sí, esto es un código más de los zetas, y boomers y millennials estamos fuerísima. Pero que sea un lenguaje para la Generación Z no significa que sea algo nuevo. O que esté fuera de toda lógica. Farmear aura viene de lejos y tiene una explicación psicológica. Como explicaba Sandra Bravo Durán, Socióloga y Doctora en Creatividad Aplicada, llevamos siglos farmeando aura y antes de TikTok estaba Versalles. “Luis XIV estaba farmeando aura a escala estatal. La diferencia es que entonces hacían falta un palacio, una corte y cientos de espectadores para sostener la representación. Hoy basta un móvil con cámara”, sentenciaba. En los años 60, en Nueva York, esas poses, gestos y movimientos llenos de poder ya formaban parte de la comunidad LGBT+, y por eso Joel Catala asegura que farmear aura es “básicamente el voguing de los heteros”. Dice Juanjo Villalba en El País que cuando cientos de adolescentes se concentraron en Cataluña para farmear aura, “el espectáculo, a medio camino entre la performance artística y el delirio, recordó de forma inevitable a cierta película dirigida y protagonizada por Ben Stiller hace 25 años”. ‘Zoolander’. El acero azul, querida, también era farmear aura. Lo nuevo de este concepto no es la búsqueda de estatus, sino llevar la cuenta del mismo. Lo novedoso es convertir el carisma o la presencia en un marcador numérico y público, y es lo más lógico si pensamos en la generación que lo está llevando a cabo: los zetas y los alpha. Los jóvenes de ambas generaciones son digitales y nativos de una economía de la atención donde todo se mide. Se mide en likes, en views, en compartidos, en comentarios. El contexto generacional es la explicación a por qué ahora se mide ese farmeo de aura cuando siempre se ha farmeado sin medir nada. La pregunta psicológica de fondo: por qué necesitamos que alguien lleve la cuentaEl sociólogo Erving Goffman explicaba en los años 50 que toda interacción social es una actuación, y que todos llevamos un personaje a la calle, al trabajo o a una cena. Antes esa actuación se evaluaba en la cabeza de quien te miraba. Ahora hay un marcador como consecuencia lógica de una generación que ya medía todo lo demás y para la que el carisma era aún una variable sin cuantificar. La comparación social es la otra pieza que se une a esa actuación en una interacción social para convertirse en farmear aura. El psicólogo Leon Festinger aseguró que como seres humanos necesitamos medirnos con otros. Todos evaluamos nuestras propias capacidades y opiniones midiéndonos con los demás, sobre todo cuando no hay una regla objetiva para saber si vamos bien. El carisma no tiene una regla y durante siglos nos hemos “medido” por intuición, pero las redes sociales ahora sí ofrecen una métrica literal. El \"+1000 de aura\" no inventa la necesidad de compararse porque eso ya existía, lo que hace es volverla literal y para los jóvenes, transformarla en un juego. @overtime Aura Farming Battle NYC 👀🗽 #aurafarming #aurafarmingbattle #batalladeaura #newyork #aura ♬ Aura x Glory (Slowed) - Sr Billes La psicóloga Amaya Prado, experta en Psicología Educativa y Psicología Clínica en infancia y adolescencia, asegura que esto de farmear aura para los más jóvenes, es un ensayo con la propia imagen. Permite a los adolescentes jugar con la pregunta de cómo quieren presentarse a los demás y qué reacción quieren generar, es decir, es una especie de experimentación de la identidad. El riesgo: la autoestima contingenteNo es narcisismo sino la misma necesidad humana de siempre. Esa necesidad de gustar, de pertenecer y destacar, pero pasada por el único sistema de recompensas que estas generaciones conoce, el de la pantalla. Y es aquí donde radica el riesgo. La autoestima contingente, un término relativamente nuevo de la psicología que hace referencia a una autoestima frágil que fluctúa su rendimiento dependiendo de condicionamientos externos como la aprobación, el rendimiento o la imagen en vez de sostenerse en algo más estable, es la autoestima que se promueve farmeando aura. Cuando convertimos el carisma en un marcador completamente público (a través de las redes), ese marcador solo existe si hay audiencia. No existe \"aura\" en privado, solo cuando otros te ven. Y cuando nuestro propio valor necesita espectadores para confirmarse, dejamos de lado una parte necesaria de la autoestima que no depende de otros, sino de nosotros mismos. El riesgo es que en su cabeza solo exista la idea de que el valor es algo que se demuestra y se cuenta. Pero también hay una lectura mucho menos alarmista y es que esto de farmear aura es, sobre todo, juego colectivo. Es gente reuniéndose en parques, riéndose de sí misma y compitiendo sin ningún riesgo, usando referencias que solo entiende su tribu y perteneciendo, algo que ansiamos cada uno de los seres humanos que habitamos este planeta. Fotos | Zoolander, Picryl, TikTok @chekoaguilarmx y @overtime En Trendencias | Qué dice de ti tu foto del WhatsApp según una psicóloga: “Seleccionamos determinados elementos de nosotros mismos para generar una impresión en los demás” En Xataka | \"Es extraordinario, no se hace todos los días\": mueven un olivo de 500 años y 6.000 kilos para plantarlo en un jardín particular En DAP | Iba a ser un artículo sobre el “mejor bocadillo de jamón del mundo” de Dabiz Muñoz, pero me ha parecido demasiado caro hasta para escribir sobre él - La noticia Luis XIV y Zoolander ya farmeaban aura antes de que existiera la palabra. La explicación psicológica a por qué se ha vuelto a poner de moda fue publicada originalmente en Trendencias por Anabel Palomares ."
-  },
-  {
-    "titulo": "Airbus llega a un principio de acuerdo con los sindicatos mayoritarios, pero tendrá que ser aprobado en referéndum por la plantilla",
-    "medio": "El Mundo",
-    "fecha": 1788544537.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/09/04/6a9ab331e4d4d81a288b45a6.html",
-    "resumen": "La reunión en el Ministerio de Industria y Turismo da sus frutos con la aceptación de más del 80% de la mesa de negociación Leer"
   },
   {
     "titulo": "Dinamarca plantea que los centros de deportación fuera de la UE estén listos como tarde a finales de 2027",
@@ -385,25 +497,11 @@
     "resumen": "La serie de Harry Potter de HBO es una de las producciones más esperadas del año y sus responsables no pierden el tiempo pensando en la temporada 2. Si bien la nueva adaptación live-action todavía no ha estrenado su temporada inaugural, ya ha confirmado nuevos fichajes para la segunda. Desde HBO han confirmado a tres […] Seguir leyendo: ‘Harry Potter’ expande su elenco con nuevos fichajes para la temporada 2"
   },
   {
-    "titulo": "Sacyr se impone en la puja por la autopista Libertadores de Chile",
-    "medio": "Expansión",
-    "fecha": 1788544246.0,
-    "link": "https://www.expansion.com/empresas/inmobiliario/2026/09/04/6a9b03ab468aeb3f7b8b45a9.html",
-    "resumen": "La constructora supera las ofertas presentadas por Abertis y por Acciona en un corredor de peaje de 800 millones de euros de inversión. Leer"
-  },
-  {
     "titulo": "La espera termina, pero no para España: Xiaomi ya vende uno de sus productos estrella de 2026",
     "medio": "Xataka",
     "fecha": 1788543936.0,
     "link": "https://www.xataka.com/seleccion/espera-termina-no-para-espana-xiaomi-vende-uno-sus-productos-estrella-2026",
     "resumen": "Xiaomi continúa ampliando los límites de su ecosistema conectado. La firma asiática ha iniciado la comercialización de su Xiaomi Smart Storage, una de sus soluciones de almacenamiento en red más ambiciosas hasta la fecha. Este dispositivo aterriza de forma oficial en el mercado chino con un precio de partida que ronda los 345 euros al cambio (para el modelo base de 4 TB), aunque por ahora el fabricante no ha confirmado cuándo dará el salto al mercado internacional ni a España. Mientras llega (o no) este dispositivo de Xiaomi a nuestro país, en Amazon tienes algunos NAS que podrían interesarte, como son los siguientes: Ugreen NASync DXP2800 por 369,99 euros: con procesador Intel N100 de cuatro núcleos y 8 GB de RAM.Aoostar WTR Max Mini PC Nas por 839 euros: con Ryzen 7 Pro 8845HS, sin RAM y sin SSD.Synology NAS por 415,18 euros: con Intel Celeron DS225 y 2 GB de RAM.Integración nativa y hasta 60 TB de capacidad Diseñado para centralizar la copia de seguridad de todos los equipos del hogar (desde smartphones hasta cámaras de videovigilancia o televisores), el nuevo NAS de la marca destaca por su integración nativa con HyperOS. Esto permite una sincronización automática y fluida entre dispositivos sin necesidad de recurrir a servicios en la nube de terceros. En lo relativo a sus especificaciones técnicas y conectividad, este centro de almacenamiento ofrece: Capacidad máxima: admite configuraciones de hasta 60 TB, ideal para usuarios con grandes volúmenes de archivos multimedia o copias de seguridad de alta resolución.Puerto Ethernet 2.5 GbE: garantiza transferencias de datos a alta velocidad a través de la red local.Conexión directa por HDMI 1.4: este NAS está pensado para conectarlo directamente a un monitor o smart TV y reproducir contenido local sin intermediarios.Puerto USB-A 3.0: facilita la extracción rápida de archivos o la conexión de unidades externas adicionales. En Xataka Cómo elegir un NAS para montarte tu propia nube doméstica. recomendaciones y siete modelos destacados desde 100 euros Un lanzamiento restringido al mercado asiático Por el momento, el dispositivo solo se encuentra disponible en su país de origen. La marca suele probar la acogida de sus equipos de almacenamiento y domótica avanzada en China antes de dar el paso hacia una distribución global. Tocará permanecer atentos a los próximos anuncios de la firma para comprobar si termina desembarcando en los escaparates europeos en los próximos meses. ⚡ EN RESUMEN: xiaomi smart storage ✅ LO MEJORIntegración nativa con HyperOS: realiza copias de seguridad automáticas de móviles, tabletas, fotos e incluso grabaciones de cámaras de videovigilancia de la marca sin configuraciones complejas.Salida HDMI 4K directa: permite conectarlo directamente al televisor para usarlo como reproductor de archivos sin depender del rendimiento del Smart TV ni saturar el ancho de banda. ❌ LO PEORDisponibilidad y ecosistema regional limitado... Por el momento solo está a la venta en China, lo que implica menús en chino/inglés en su app inicial y posibles problemas de sincronización de cuentas si no usas servidores de dicha región.Sistema operativo cerrado... Al estar enfocado a la simplicidad del hogar inteligente, no ofrece la versatilidad de marcas como Synology o QNAP para virtualizar sistemas o instalar contenedores complejos (Docker/servidores dedicados). 💡 CÓMPRALA SI... Eres usuario del ecosistema Xiaomi/HyperOS y utilizas móviles, cámaras de seguridad o televisores de la marca y buscas una \"nube privada\" sin pagar suscripciones mensuales. ⛔ NO LA COMPRES SI... Buscas montar servidores web, gestionar entornos Docker complejos o requieres un software especializado de NAS profesional. En Xataka Servidores NAS: qué son, cómo funcionan y qué puedes hacer con uno También te pueden interesarAlgunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imagen | Xiaomi Youpin En Xataka | Mejores routers. Cuál comprar y modelos recomendados desde menos de 100 euros En Xataka | Qué router WiFi 4G comprar. Mejores recomendaciones y nueve modelos para todos los bolsillos incluidos (router de viaje) - La noticia La espera termina, pero no para España: Xiaomi ya vende uno de sus productos estrella de 2026 fue publicada originalmente en Xataka por Fran León ."
-  },
-  {
-    "titulo": "España se estrena en el Mundial divirtiéndose con un festival de triples (14) y un +30",
-    "medio": "La Vanguardia",
-    "fecha": 1788543336.0,
-    "link": "https://www.lavanguardia.com/deportes/20260904/11627547/baloncesto-femenino-espana-mundial-estreno-debut-alemania-festival-triples.html",
-    "resumen": "La selección que dirige Miguel Méndez demostró ser candidata a medallas barriendo a la anfitriona Alemania (83-53)"
   },
   {
     "titulo": "En Alarcos llevan 40 años excavando tumbas y ahora han dado con uno de los grandes descubrimientos arqueológicos de España",
@@ -413,25 +511,11 @@
     "resumen": "¿Cómo haces para estudiar un suelo arqueológico en un área que siempre estuvo ocupada? El Parque Arqueológico de Alarcos, a ocho kilómetros de Ciudad Real, acumula más de 3.000 años de ocupación continua. Fue un oppidum ibérico ocupado desde la Edad del Bronce Final hasta finales de la Edad Media. Aquí hay enterrada más historia que siglos de cristianismo. Las excavaciones en el cerro comenzaron en 1984 y el equipo codirigido por Javier Morales y Rosario García Huerta trabaja allí desde 1997, pero fue en 2019 cuando dieron con una necrópolis ibérica de media hectárea: se excava de forma sistemática desde 2021 y ya ha devuelto más de 200 tumbas y una crátera griega del siglo IV a.C. usada como urna funeraria. Y acaban de dar con lo mejor. Un yacimiento «inagotable». Alarcos es considerado uno de los yacimientos más importantes de España. Campaña tras campaña han ido apareciendo espadas y cascos y otros objetos que ayudan a reconstruir la historia de la primera población ibérica. El alcalde de Ciudad Real, Francisco Cañizares, visitó los trabajos y recalcó: “No necesitamos que National Geographic diga lo importante que es Alarcos”. El cerro de las cabezas cortadas. Los enterramientos siguen el rito de incineración prerromano. Entre las piezas destaca una crátera griega de Atenas, datada entre 380-370 a.C., hallada en 2022 y usada como urna funeraria de una mujer de unos 40 años. Junto a la crátera aparecieron 20 cabezas cortadas de hombres y alguna mujer, enterradas en momentos posteriores. La vasija, diseñada para mezclar vino con agua y especias, ya está en exposición en el Museo Provincial de Ciudad Real. El equipo considera que las 200 tumbas conocidas representan únicamente una fracción del total que aún permanece oculto bajo tierra. “Consideramos que, probablemente, estamos viendo la punta del iceberg. La necrópolis fácilmente podría triplicar o cuadruplicar esta cifra de enterramientos”, señalaba Javier Morales. Más que agotar el yacimiento, el objetivo es obtener la máxima información posible del pasado. La batalla decisiva. Este cerro fue escenario de la batalla de Alarcos del 19 de julio de 1195, en la que las tropas almohades del califa Abu Yusuf Ya'qub al-Mansur (Almansur) derrotaron al ejército de Alfonso VIII de Castilla. Lo que quedó fue una masacre. La derrota cristiana fue tan contundente que Alfonso VIII huyó del campo de batalla con apenas 20 caballeros. Tras la victoria cristiana de las Navas de Tolosa en 1212, los intentos de repoblar el lugar fracasaron y Alfonso X terminó fundando Villa Real en 1255, origen de la actual Ciudad Real. El recinto conserva alrededor de 22 hectáreas intramuros y documenta viviendas, murallas, restos romanos, necrópolis y una extensa fortaleza medieval. En Xataka Los arqueólogos han encontrado algo a 200 metros de profundidad en Valencia: un templo romano para mujeres La voz del pasado. Declarado Bien de Interés Cultural en 1992, formalizado como parque arqueológico en 2003, Alarcos sigue dando alegrías: “A través del análisis de los restos que ahí aparecen podemos saber e intuir cómo vivían, porque las necrópolis son lugares donde los habitantes depositan una serie de elementos que ellos valoran mucho”, destacan Cañizares y Rosario García Huerta, Javier Morales y David Rodríguez (UCLM), codirectores del proyecto. Las investigaciones actuales se centran en la necrópolis ibérica III, utilizada entre los siglos IV y I a.C., y en la maqbara o cementerio almohade vinculado a la ocupación islámica de Alarcos entre 1195 y 1212. La campaña de 2025 resultó muy relevante por el descubrimiento de nuevos enterramientos de inhumación y estos restos óseos están permitiendo realizar análisis de ADN y abrir nuevas líneas de investigación sobre el origen, parentesco y composición biológica de la comunidad actual. Votación y premio. Este entramado funerario ibérico y almohade fue seleccionado como candidato al premio al Mejor Descubrimiento o Hallazgo Histórico Nacional en los Premios +Historia de National Geographic. El próximo 12 de octubre se cierra la votación y Alarcos compite con otros 4 grandes hallazgos: el pecio romano de Ses Fontanelles, en Mallorca; un santuario romano localizado en la Cova de les Dones, en Valencia; una colección epigráfica funeraria de Cádiz y un conjunto de cuentas prehistóricas hallado en Sevilla. Imágenes | Lanza - Diario de La Mancha En Xataka | Hemos descubierto más de 600 tumbas en uno de los yacimientos arqueológicos más importantes de España: El Argar - La noticia En Alarcos llevan 40 años excavando tumbas y ahora han dado con uno de los grandes descubrimientos arqueológicos de España fue publicada originalmente en Xataka por Isra Fdez ."
   },
   {
-    "titulo": "Los menores detenidos en Manresa estaban en libertad vigilada por otro caso",
-    "medio": "La Vanguardia",
-    "fecha": 1788542830.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260904/11627543/menores-detenidos-manresa-estaban-libertad-vigilada-caso.html",
-    "resumen": "Tenían ya acumuladas siete detenciones y uno de ellos permaneció ingresado en un centro de menores hasta finales de julio"
-  },
-  {
     "titulo": "España da un golpe sobre la mesa: arrolla a la anfitriona Alemania por 83-53 en el debut en el Mundial femenino de baloncesto",
     "medio": "El País",
     "fecha": 1788542817.0,
     "link": "https://elpais.com/deportes/baloncesto/2026-09-04/espana-da-un-golpe-sobre-la-mesa-arrolla-a-la-anfitriona-alemania-por-83-53-en-el-debut-en-el-mundial-femenino-de-baloncesto.html",
     "resumen": "La selección de Miguel Méndez firma una exhibición de juego colectivo en Berlín y deja su carta de presentación como una de las grandes favoritas"
-  },
-  {
-    "titulo": "Un Betis, de menos a más, busca el gol ante el Real Madrid (0-0)",
-    "medio": "La Vanguardia",
-    "fecha": 1788542703.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260904/11627099/betis-real-madrid-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-    "resumen": ""
   },
   {
     "titulo": "La Asamblea General de la ONU vota a favor de emplear un nuevo mapamundi que refleja el tamaño real de África",
@@ -446,20 +530,6 @@
     "fecha": 1788542525.0,
     "link": "https://www.huffingtonpost.es/tecnologia/agentes-openai-escapan-pruebas-convierten-wiki-alemana-tablon-ia-15000-mensajes-sobre-como-saltarse-restricciones-ocultar-rastro-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Preguntan a Rayden por las manifestaciones a favor de Ceuta y lo resume todo con una frase: \"Se vio un bestiario\"",
-    "medio": "HuffPost",
-    "fecha": 1788542228.0,
-    "link": "https://www.huffingtonpost.es/virales/preguntan-rayden-manifestaciones-favor-ceuta-resume-frase-se-vio-bestiario-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
-    "medio": "El País",
-    "fecha": 1788541682.0,
-    "link": "https://elpais.com/videos/2026-09-04/la-mesa-de-hora-25-programa-en-el-pais.html",
-    "resumen": "La Cadena SER arranca su nueva temporada con José Luis Sastre al mando del análisis nocturno de todos los temas de actualidad con Josep Ramoneda, Carmen Lumbierres y Sergio Pascual"
   },
   {
     "titulo": "La ONU adopta un nuevo mapa de África más ajustado a las dimensiones reales, en una resolución no vinculante",
@@ -497,25 +567,11 @@
     "resumen": "Con la llegada de septiembre ocurre un poco como con enero: que muchas de nosotras lo cogemos como un nuevo comienzo en el que retomar (o empezar a adquirir) buenos hábitos, empezando por los más saludables. Uno de los que yo voy a recuperar es el de las caminatas con amigas por las tardes, no solo por hacer ejercicio sino porque es una manera perfecta de reforzar los vínculos entre nosotras. La verdad es que a mi me cuesta menos salir a caminar cuando sé que me están esperando mis amigas para hacerlo. Además, así tenemos la excusa perfecta para echar una risas mientras andamos (que tampoco vamos a ir a un ritmo tan rápido que no podamos hablar), y lo que no quememos por cansancio al menos que se vaya en alegría. Eso sí, nos vamos a llamar \"Las del Club de las Skechers\" porque nuestros pies ya no son los que eran y todas apostamos por estas zapatillas para andar mucho. Ligeras, flexibles y con tecnologías como Memory Foam, Arch Fit o Max Cushioning, dependiendo del modelo, son unas sneakers que protegen los pies a la vez que resultan fáciles de combinar en todo tipo de outfits. Con unos vaqueros anchos y claritos quedan fenomenal, pero tampoco desentonan con una falda midi. Hoy aprovecharemos para renovar calzado, porque podemos encontrarlas a precios muy por debajo de los habituales con hasta el 54% de descuento. Cinco pares de zapatillas Skechers muy rebajadas Skechers Flex Appeal 4.0 Brilliant View Uno de los modelos más básicos de Skechers y también de los más vendidos, porque no pueden ser más blanditas ni cómodas, pero tampoco más fáciles de combinar con unos leggings o ropa de entrenamiento. Cuentan con un upper de malla altamente transpirable, llevan una plantilla Air-Cooled Memory Foam y se pueden lavar en la lavadora. Ahora en Amazon por 69,95 euros 32,49 euros. Skechers Negro y dorado, una combinación sencilla pero que triunfa de la mañana a la noche, porque quedan genial con vaqueros. Además, estas Skechers Graceful Get Connected no pueden ser más cómodas (eso sí, calzan un poco estrechas). Ahora en Amazon por 69,95 euros 35,95 euros. Skechers Tengo que reconocer que estas Skechers Go Run Elevate 2.0 Badric son mi debilidad: no solo porque consiguen que sientas que caminas entre las nuebes gracias a su plantilla Air-Cooled Goga Mat, que ofrece una pisada mullida pero con respuesta, y una mediasuela ULTRA LIGHT súperligera, sino porque son muy elegantes. Me encanta su color gris nube combinado con ligeros toques de rosa, que las hacen perfectas para llevar con faldas. Ahora por 94,95 euros 44,60 euros. Muchas dicen que estas son las zapatillas más cómodas que han usado jamás, y lo cierto es que tienen todas las papeletas para ello: ni siquiera hay que atarse los cordones, se ajustan como un calcetín y llevan una plantilla con amortiguación Skechers Memory Foam. Además, son bonitas a rabiar, en un color berenjena plena tendencia que este otoño no puede ser más fácil de combinar. Ahora por 80 euros 62,73 euros. Skechers Para las que quieren caminar mucho, para las que se pasan el día de pie o de un lado para el otro, para las que sufren por el dolor de pies o por la espalda: para todas ellas la mejor opción son estas Skechers MAX Cushioning Endeavour Hallandale Slip-In. Con plantilla transpirable y muy bien amortiguada, no hay que atarse los cordones, se ajusta muy bien a los pies proporcionando mucho soporte y eleva el outfit. Ahora por 109,95 euros 73,95 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @jessiekass | Amazon En Trendencias | Zapatillas 2026: los modelos tendencia que más se llevan y que todo amante de la moda quiere tener En Xataka| La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude' En DAP| Iba a ser un artículo sobre el “mejor bocadillo de jamón del mundo” de Dabiz Muñoz, pero me ha parecido demasiado caro hasta para escribir sobre él - La noticia Skechers arrasa con una liquidación de zapatillas cómodas para caminar sin dolor con descuentos de hasta el 54% fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
-    "titulo": "La subida de tipos de la Fed podría hacer caer un 5% las bolsas europeas",
-    "medio": "Expansión",
-    "fecha": 1788541179.0,
-    "link": "https://www.expansion.com/inversion/2026/09/04/6a9af898e5fdeaee0c8b4578.html",
-    "resumen": "La reunión de la Reserva Federal del 16 de septiembre podría pasar factura a las bolsas europeas, según un informe publicado hoy por Bank of America. Avisa que una subida de tipos de la Fed podría suponer una caída del 5% para la renta variable europea por la presión de los tipos sobre los múltiplos de valoración. Leer"
-  },
-  {
     "titulo": "Adif defiende que cumplió la normativa y que los defectos de nivelación de la vía de Adamuz estaban dentro de los límites",
     "medio": "El Español",
     "fecha": 1788540994.0,
     "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260904/adif-defiende-cumplio-normativa-problemas-via-adamuz-dentro-limites-seguridad/1003744373479_0.html",
     "resumen": "El gestor ferroviario responde a los últimos informes y defiende que actuó conforme a la normativa.Adif asegura que las anomalías detectadas no exigían una actuación inmediata.Más información: Renfe sale de pérdidas seis años después: gana 60,2 millones de euros gracias a la alta velocidad"
-  },
-  {
-    "titulo": "Renfe endurece el control sobre los trenes de Talgo",
-    "medio": "Expansión",
-    "fecha": 1788540446.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/09/04/6a9af5b0468aeb273f8b4576.html",
-    "resumen": "Inspeccionará los 'bogies' cada 5.000 kilómetros, frente a los 10.000 kilómetros de antes, lo que supone la realización de un control cada tres o cuatro días. Leer"
   },
   {
     "titulo": "Que tiemblen el Galaxy Z Fold 8 y el Xiaomi 18 Fold: Motorola también prepara un plegable tipo pasaporte",
@@ -623,13 +679,6 @@
     "resumen": "El Gobierno de Castilla-La Mancha inyecta 23 millones de euros extra contra las 'escuelas de calor' y supera los 70 millones en climatización de centros públicos. La entrada Castilla-La Mancha destina 23 millones extra contra las ‘escuelas de calor’ tras las dos infracciones de Trabajo aparece primero en Moncloa."
   },
   {
-    "titulo": "El Ibex cierra con suaves alzas y salda la semana en tablas",
-    "medio": "Expansión",
-    "fecha": 1788536330.0,
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/04/6a9a5ba3e5fdeaf54e8b4582.html",
-    "resumen": "La referencia macro más esperada de la semana, el informe oficial de empleo de EEUU, acapara los focos en la jornada de hoy. Hasta entonces, la posibilidad de que la Fed eluda una subida de tipos este mes mantiene la tregua en los mercados. El Ibex mira al exterior en su intento por despedir la semana en los 20.000 puntos. Leer"
-  },
-  {
     "titulo": "Adéntrate en 'Silo' con este mapa 3D interactivo: el colofón perfecto a la tercera temporada",
     "medio": "Applesfera",
     "fecha": 1788535896.0,
@@ -683,7 +732,7 @@
     "medio": "Europa Press",
     "fecha": 1788533659.0,
     "link": "https://www.europapress.es/internacional/noticia-zelenski-denuncia-ataque-ruso-sede-servicio-seguridad-promete-respuesta-tangible-20260904165419.html",
-    "resumen": "El presidente de Ucrania, Volodimir Zelenski, ha denunciado este viernes un ataque ruso con drones a la sede del Servicio de Seguridad de Ucrania en la capital, Kiev, un incidente que ha dejado al menos 12 heridos, dos de ellos de gravedad."
+    "resumen": "El presidente de Ucrania, Volodimir Zelenski, ha denunciado este viernes un ataque ruso con drones a la sede del Servicio de Seguridad de Ucrania en la capital, Kiev, un incidente que ha dejado al menos 15 heridos, dos de ellos de gravedad."
   },
   {
     "titulo": "Trump exige a la Fed bajar tipos o romperá relaciones comerciales con los países que tengan superávit con EEUU",
@@ -691,27 +740,6 @@
     "fecha": 1788533290.0,
     "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-trump-exige-fed-bajar-tipos-rompera-relaciones-comerciales-paises-registren-deficit-comercial-20260904164810.html",
     "resumen": "El presidente de Estados Unidos, Donald Trump, ha reclamado a la Reserva Federal (Fed) que rebaje los tipos de interés o, en caso contrario, cesará el comercio con todos aquellos países con los que Estados Unidos mantenga superávit comercial, unas declaraciones realizadas tras la publicación de los datos de empleo del país norteamericano, que han superado las expectativas con 162.000 nuevos empleos."
-  },
-  {
-    "titulo": "El fondo soberano de Noruega propone reducir sus tenencias de bonos del Tesoro de EEUU",
-    "medio": "Expansión",
-    "fecha": 1788532846.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad76f468aeb96178b459e.html",
-    "resumen": "Reestructuración de las posiciones en bonos propuesta al Ministerio de Finanzas busca aumentar la rentabilidad. Leer"
-  },
-  {
-    "titulo": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
-    "medio": "Expansión",
-    "fecha": 1788532492.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html",
-    "resumen": "Mientras Trump endurece su postura sobre las negociaciones, Teherán sigue decidido a mantener cerrado el estrecho de Ormuz. Leer"
-  },
-  {
-    "titulo": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
-    "medio": "Expansión",
-    "fecha": 1788531581.0,
-    "link": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html",
-    "resumen": "El presidente de Estados Unidos esgrime el buen dato de empleo del mes de agosto para exigir a la Reserva Federal que recorte el precio del dinero advirtiendo de que si no romperá tratos con los países que tienen superávit comercial con su país. Leer"
   },
   {
     "titulo": "El juez rechaza la nulidad de la causa de Plus Ultra planteada por Zapatero",
@@ -966,25 +994,11 @@
     "resumen": "California’s Proposition 40 would tax roughly 200 billionaires to fund health care for millions. Google cofounder Sergey Brin and friends have responded by inventing a new kind of pressure group: a lobby whose only client is the billionaire class itself."
   },
   {
-    "titulo": "Comienza por fin la llegada de BepiColombo a Mercurio tras casi ocho años en el espacio y con cerca de uno de retraso",
-    "medio": "Microsiervos",
-    "fecha": 1788447600.0,
-    "link": "http://www.microsiervos.com/archivo/espacio/comienza-llegada-bepicolombo-mercurio.html",
-    "resumen": "Impresión artística del momento de la separación del módulo de propulsión del resto de la nave – ESA/JAXA Hoy a las 14:00, hora peninsular española (UTC +2) comenzaba la fase de llegada a Mercurio de la misión BepiColombo de la Agencia Espacial Europea (ESA) y de la Agencia Japonesa de Exploración Aeroespacial (JAXA). En ese preciso instante se llevaba a cabo de forma autónoma la separación del Mercury Transfer Module del resto de la nave. Esa separación lanzó un proceso de reinicio para responder a la nueva configuración, ya con un sólo panel solar y con una distinta distribución de masas. Por eso hasta las 15:53 no se recibió en la Tierra a través de las antenas de ESTRACK, la red de seguimiento de misiones espaciales de la ESA, la señal de que todo había ido bien. Bueno, por eso y por los once minutos y medio que tardan las señales de radio entre la nave y la Tierra, lo que también hizo que la maniobra tuviera que ejecutarse en forma totalmente autónoma. Eso sí, no podremos ver imágenes de la separación porque aunque el MTM llevaba tres cámaras para monitorizar el estado de la nave una vez desconectado del resto no tiene radio con la que transmitirlas. Seguir leyendo: Comienza por fin la llegada de BepiColombo a Mercurio tras casi ocho años en el espacio y con cerca de uno de retraso# Enlace permanente"
-  },
-  {
     "titulo": "Decades of Growing Inequality Powered MAGA’s Rise",
     "medio": "Jacobin ES",
     "fecha": 1788444512.0,
     "link": "https://jacobin.com/2026/09/us-economy-inequality-affordability-trump",
     "resumen": "The collapse of the GOP and Democratic establishments, and the rise of Donald Trump, have been driven by popular disillusionment with an economy that has for decades failed millions of people."
-  },
-  {
-    "titulo": "The Sewer Socialists Were Pragmatic Class Warriors",
-    "medio": "Jacobin ES",
-    "fecha": 1788441765.0,
-    "link": "https://jacobin.com/2026/09/sewer-socialism-berger-mamdani-pragmatism-organizing",
-    "resumen": "Milwaukee’s “sewer socialists” have often been dismissed as tepid reformers. In fact, they were pragmatic champions of a world beyond capitalism who were laser-focused on organizing the working class."
   },
   {
     "titulo": "Almodóvar, el gran ausente de la terna española para los Oscar: Los Javis y Sorogoyen se baten contra 'Los domingos'",
