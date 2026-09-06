@@ -1,31 +1,332 @@
 [
   {
-    "titulo": "Tommy Paul - Carlos Alcaraz en directo | Comienza el primer set del partido",
+    "titulo": "Los contrabandistas aprovechan la apertura económica de Argentina",
+    "medio": "Expansión",
+    "fecha": 1788732132.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9db586e5fdeab32f8b4578.html",
+    "resumen": "La fortaleza del peso, impulsada desde el gobierno de Javier Milei, ha favorecido las importaciones ilícitas de productos, lo que está asfixiando a las empresas locales. Leer"
+  },
+  {
+    "titulo": "Los accionistas suben la nota a los CEO del Ibex",
+    "medio": "Expansión",
+    "fecha": 1788732131.0,
+    "link": "https://www.expansion.com/empresas/2026/09/07/6a9da36ce5fdeaee0c8b45a7.html",
+    "resumen": "La ratificación o reelección como consejeros de los 19 presidentes ejecutivos y CEO tuvo un apoyo medio del 96,38%, tres puntos y medio más. Leer"
+  },
+  {
+    "titulo": "La Torre de Londres y la City se enfrentan por los rascacielos",
+    "medio": "Expansión",
+    "fecha": 1788732130.0,
+    "link": "https://www.expansion.com/sociedad/2026/09/07/6a9b1515468aeb3d798b459b.html",
+    "resumen": "El recinto del siglo XI plantea reducir la altura de los nuevos edificios del corazón de la capital británica para que no afecten a sus vistas, pero los promotores advierten de pérdidas de 1.400 millones. Leer"
+  },
+  {
+    "titulo": "Meloni: de estabilidad política a reforma estructural",
+    "medio": "Expansión",
+    "fecha": 1788732051.0,
+    "link": "https://www.expansion.com/economia/politica/2026/09/07/6a9db826e5fdea8f6a8b4574.html",
+    "resumen": "Cuatro años de estabilidad política han demostrado que Italia es capaz de sostener un Gobierno. La oportunidad ahora consiste en transformar esa estabilidad en reformas que reduzcan la complejidad administrativa y refuercen el crecimiento a largo plazo. Leer"
+  },
+  {
+    "titulo": "Navantia explora oportunidades de contratación en EEUU y Alemania",
+    "medio": "Expansión",
+    "fecha": 1788732050.0,
+    "link": "https://www.expansion.com/empresas/2026/09/07/6a9d9e6f468aeba9688b45ae.html",
+    "resumen": "La empresa monitoriza la situación en ambos países ante los potenciales contratos que puedan surgir tras la reciente reorientación de grandes programas para buques militares. Leer"
+  },
+  {
+    "titulo": "¿Cómo se protegen Enaire y Aena contra el riesgo de guerra?",
+    "medio": "Expansión",
+    "fecha": 1788732034.0,
+    "link": "https://www.expansion.com/empresas/seguros/2026/09/07/6a9dadc4e5fdeab32f8b4571.html",
+    "resumen": "Cuentan con un seguro de responsabilidad civil suscrito con Allianz Global Leer"
+  },
+  {
+    "titulo": "¿Debe el Rey ir a Ceuta?",
+    "medio": "Expansión",
+    "fecha": 1788732033.0,
+    "link": "https://www.expansion.com/opinion/2026/09/07/6a9dcf6ce5fdea36318b4572.html",
+    "resumen": "Es seguro que Don Felipe se vería rodeado de una enfervorecida muchedumbre nada más poner pie en la ciudad autónoma. Leer"
+  },
+  {
+    "titulo": "El oro ruso inunda Hong Kong tras las sanciones de Occidente",
+    "medio": "Expansión",
+    "fecha": 1788732032.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9daf4e468aebf80f8b4571.html",
+    "resumen": "Los envíos de oro ruso a Hong Kong se han disparado este año. El territorio chino se está convirtiendo en un importante centro de comercio de lingotes que tienen sanciones en Occidente. Leer"
+  },
+  {
+    "titulo": "Al menos cinco muertos después de que un avión de Amazon se saliera de pista en Miami",
+    "medio": "El Mundo",
+    "fecha": 1788730531.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/06/6a9dc92321efa0cd798b4584.html",
+    "resumen": "La aeronave chocó contra varios vehículos y se incendió, provocando una espesa nube de humo Leer"
+  },
+  {
+    "titulo": "La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán",
     "medio": "El País",
-    "fecha": 1788719545.0,
-    "link": "https://elpais.com/deportes/tenis/2026-09-06/tommy-paul-carlos-alcaraz-en-directo-el-partido-de-octavos-de-final-del-us-open-en-vivo.html",
-    "resumen": "El murciano busca acceder a los cuartos de final ante el estadounidense"
+    "fecha": 1788730422.0,
+    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
+    "resumen": "AfD roza la mayoría absoluta y depende del apoyo del partido de la izquierda nacionalista BSW para llegar al poder. Los democristianos del canciller Friedrich Merz se desploman y pasan de 40 a 16 diputados"
   },
   {
-    "titulo": "Carlos Alcaraz – Paul, en directo hoy | Dónde ver online y última hora del partido de octavos del US Open de tenis en vivo gratis",
+    "titulo": "Un cabezazo de Marcos Fernández salva un punto de milagro para el Espanyol",
+    "medio": "La Vanguardia",
+    "fecha": 1788730293.0,
+    "link": "https://www.lavanguardia.com/deportes/20260906/11628635/cabezazo-marcos-fernandez-salva-punto-milagro-espanyol.html",
+    "resumen": "El canterano rescata un empate in extremis para el equipo perico, que jugó contra diez 40 minutos pero que se había metido en un lío"
+  },
+  {
+    "titulo": "Un avión de carga de Amazon se estrella y se incendia en el Aeropuerto de Miami",
     "medio": "OK Diario",
-    "fecha": 1788719483.0,
+    "fecha": 1788730275.0,
+    "link": "https://okdiario.com/internacional/avion-carga-amazon-estrella-incendia-aeropuerto-miami-20238991",
+    "resumen": "Un avión de carga de Amazon se ha estrellado este domingo en el Aeropuerto Internacional de Miami después de salirse de la pista tras aterrizar. La Administración Federal de Aviación (FAA) de Estados Unidos ha informado de que el vuelo 7598 de Prime Air se salió de la pista sobre las 14:00 horas. El avión … Continuar leyendo \"Un avión de carga de Amazon se estrella y se incendia en el Aeropuerto de Miami\""
+  },
+  {
+    "titulo": "‘Salvados’, auge y caída de Rita Barberá en modo televisivo, operístico y fallero: “Que no me has saludado”",
+    "medio": "El País",
+    "fecha": 1788730200.0,
+    "link": "https://elpais.com/television/2026-09-06/auge-y-caida-de-rita-barbera-en-modo-televisivo-operistico-y-fallero-que-no-me-has-saludado.html",
+    "resumen": "El programa de Gonzo comienza su 18º temporada en La Sexta con un especial sobre la figura de la popular alcaldesa de Valencia durante 24 años en el décimo aniversario de su muerte"
+  },
+  {
+    "titulo": "La AfD arrasa en Sajonia-Anhalt con el 44%, según las proyecciones, y queda a las puertas de la mayoría absoluta",
+    "medio": "El Mundo",
+    "fecha": 1788729987.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/06/6a9d8f63fc6c8334508b456d.html",
+    "resumen": "La gran incógnita es si ese resultado permitirá a esta formación de extrema derecha hacerse con la mayoría absoluta de escaños y gobernar en solitario Leer"
+  },
+  {
+    "titulo": "Alcaraz despeja todas las dudas, arrolla a Paul en una exhibición y ya está en cuartos del US Open",
+    "medio": "El Mundo",
+    "fecha": 1788729936.0,
+    "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/06/6a9dcb58fdddff0c2f8b456f.html",
+    "resumen": "El español vuelve a exhibirse cuatro meses después de su lesión, eleva la velocidad de su servicio y confirma con un 6-4, 6-3 y 6-4 que ya no hay rastro de la lesión Leer"
+  },
+  {
+    "titulo": "El Espanyol rescata un punto de infarto ante un Sevilla que resistió con uno menos",
+    "medio": "El País",
+    "fecha": 1788729830.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-06/el-espanyol-rescata-un-punto-de-infarto-ante-un-sevilla-que-resistio-con-uno-menos.html",
+    "resumen": "Marcos Fernández anota en el minuto 98, tras rematar dos veces la misma jugada, el 1-1 definitivo que evita la derrota frente a conjunto andaluz, que aguantó toda la segunda parte en inferioridad numérica"
+  },
+  {
+    "titulo": "Estados Unidos, a punto de perder ante Italia su primer partido oficial en 20 años",
+    "medio": "El País",
+    "fecha": 1788729700.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-09-06/estados-unidos-a-punto-de-perder-ante-italia-su-primer-partido-oficial-en-20-anos.html",
+    "resumen": "El conjunto norteamericano vence con mucho sufrimiento por 52-55 y ve cómo los equipos europeos se acercan cada vez más"
+  },
+  {
+    "titulo": "AfD exige elecciones anticipadas a Merz para reemplazarlo \"antes de Navidad\"",
+    "medio": "Europa Press",
+    "fecha": 1788729254.0,
+    "link": "https://www.europapress.es/internacional/noticia-afd-exige-elecciones-anticipadas-merz-reemplazarlo-antes-navidad-20260906231414.html",
+    "resumen": "La líder del partido de extrema derecha Alternativa para Alemania (AfD) Alice Weidel ha emplazado al canciller alemán, Freidrich Merz, a convocar elecciones anticipadas de inmediato y propiciar así su reemplazo \"antes de Navidad\" tras la victoria de la formación en las elecciones regionales celebradas este domingo en Sajonia-Anhalt."
+  },
+  {
+    "titulo": "Alcaraz se desmelena, atrás quedó el rodaje: diversión y rumbo a cuartos del US Open",
+    "medio": "El País",
+    "fecha": 1788729119.0,
+    "link": "https://elpais.com/deportes/tenis/2026-09-06/alcaraz-se-desmelena-atras-quedo-el-rodaje-diversion-y-rumbo-a-cuartos-del-us-open.html",
+    "resumen": "El murciano firma un triunfo estupendo contra Paul y alcanza los cuartos en clara línea ascendente: 6-4, 6-3 y 6-4, en 2h 21m. Se enfrentará a Shelton o Tsitsipas"
+  },
+  {
+    "titulo": "El Morante más goyesco ‘se amotina’ en Aranjuez",
+    "medio": "The Objective",
+    "fecha": 1788728901.0,
+    "link": "https://theobjective.com/cultura/2026-09-06/morante-goyesco-amotina-aranjuez/",
+    "resumen": "Hay un punto en el que el éxito deja de ser una ventaja y empieza a convertirse en una servidumbre. Morante de la Puebla parece haber […]"
+  },
+  {
+    "titulo": "La reivindicación de Marcos Fernández tras marcar con el Espanyol: «Ceuta no se vende, Ceuta se defiende»",
+    "medio": "OK Diario",
+    "fecha": 1788728773.0,
+    "link": "https://okdiario.com/deportes/reivindicacion-marcos-fernandez-marcar-espanyol-ceuta-no-vende-ceuta-defiende-20239015",
+    "resumen": "El Espanyol-Sevilla terminó siendo de lo más movido y, en el descuento, nos dejó la imagen del partido. «Ceuta no se vende, Ceuta se defiende», se leía en la camiseta de Marcos Fernández. Marcaba el gol del empate el futbolista del conjunto barcelonés y se levantaba su camiseta, donde aparecía un mensaje con clara dirección … Continuar leyendo \"La reivindicación de Marcos Fernández tras marcar con el Espanyol: «Ceuta no se vende, Ceuta se defiende»\""
+  },
+  {
+    "titulo": "Jornada 4 de la Liga: resumen de todos los partidos",
+    "medio": "OK Diario",
+    "fecha": 1788728551.0,
+    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
+    "resumen": "La cuarta jornada de Liga ya está aquí. Antes de la Champions, llega el cuarto fin de semana del campeonato, con partidos de lo más apasionantes. Lo abrirá el Real Madrid con su visita a La Cartuja, seguirá la visita del Atlético a Bilbao y cerrará el tridente madrileño el Rayo en Leganés, ante el … Continuar leyendo \"Jornada 4 de la Liga: resumen de todos los partidos\""
+  },
+  {
+    "titulo": "Las calles en Alemania tras la victoria de AfD: “Todos tenemos que levantarnos”",
+    "medio": "El País",
+    "fecha": 1788728543.0,
+    "link": "https://elpais.com/internacional/2026-09-06/todos-tenemos-que-levantarnos-no-tiene-ningun-sentido-resignarse.html",
+    "resumen": "La posibilidad de que la ultraderecha gobierne por primera vez en un Estado supone un varapalo para manifestantes y dirigentes políticos del país"
+  },
+  {
+    "titulo": "Alcaraz ya no es un adolescente, pero 'farmea aura'",
+    "medio": "La Vanguardia",
+    "fecha": 1788727534.0,
+    "link": "https://www.lavanguardia.com/deportes/tenis/20260906/11628633/alcaraz-adolescente-farmea-aura.html",
+    "resumen": "El murciano acelera en su periplo en el US Open: no le deja una sola oportunidad a Tommy Paul y se planta en los cuartos de final (6-4, 6-3 y 6-4 en 2h21m); el título cobra forma"
+  },
+  {
+    "titulo": "Francisco Camps define así en 'Salvados' la famosa imagen del Ferrari con Rita Barberá: \"Fue una anécdota tan menor...\"",
+    "medio": "HuffPost",
+    "fecha": 1788727176.0,
+    "link": "https://www.huffingtonpost.es/virales/francisco-camps-define-asi-salvados-famosa-imagen-ferrari-rita-barbera-fue-anecdota-menor-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El primer ministro polaco advierte de que \"solo los idiotas o traidores\" se pueden alegrar de una victoria de AfD",
+    "medio": "Europa Press",
+    "fecha": 1788727113.0,
+    "link": "https://www.europapress.es/internacional/noticia-primer-ministro-polaco-advierte-solo-idiotas-traidores-pueden-alegrar-victoria-afd-20260906223833.html",
+    "resumen": "El primer ministro polaco, Donald Tusk, ha criticado este domingo a quienes se felicitan en Polonia por la victoria del partido de extrema derecha Alternativa para Alemania (AfD) en las elecciones regionales de Sajonia-Anhalt celebradas este domingo."
+  },
+  {
+    "titulo": "Enésimo escándalo arbitral: dejan al Sevilla con uno menos por una jugada que ni fue falta y el VAR no aparece",
+    "medio": "OK Diario",
+    "fecha": 1788727078.0,
+    "link": "https://okdiario.com/deportes/enesimo-escandalo-arbitral-dejan-sevilla-uno-menos-jugada-que-ni-fue-falta-var-no-aparece-20238826",
+    "resumen": "Ni un partido sin escándalo, han debido proponerse en el Comité Técnico de Árbitros. Esta jornada, había sucedido en el Betis-Real Madrid y en el Rayo-Racing. Ahora, en el Espanyol-Sevilla. El conjunto hispalense, favorecido en el arranque de la temporada, ha visto cómo ahora se le daba la vuelta. En Cornellá-El Prat, el conjunto dirigido por Luis … Continuar leyendo \"Enésimo escándalo arbitral: dejan al Sevilla con uno menos por una jugada que ni fue falta y el VAR no aparece\""
+  },
+  {
+    "titulo": "Resultado Alcaraz – Paul: resumen y cómo ha quedado el partido de octavos del US Open hoy",
+    "medio": "OK Diario",
+    "fecha": 1788726983.0,
     "link": "https://okdiario.com/deportes/carlos-alcaraz-paul-directo-hoy-donde-ver-online-ultima-hora-del-partido-octavos-del-us-open-tenis-vivo-gratis-20238261",
-    "resumen": "Carlos Alcaraz ya está donde quería. En la segunda semana del US Open. El murciano acabó el rodaje y ahora empieza lo bueno. Afronta este domingo su primer gran examen después de dejar atrás sus cinco meses de baja por su lesión de muñeca. Resolvió con solvencia las tres primeras rondas y le espera en … Continuar leyendo \"Carlos Alcaraz – Paul, en directo hoy | Dónde ver online y última hora del partido de octavos del US Open de tenis en vivo gratis\""
+    "resumen": "Carlos Alcaraz ya está donde quería. En la segunda semana del US Open. El murciano acabó el rodaje y ahora empieza lo bueno. Afronta este domingo su primer gran examen después de dejar atrás sus cinco meses de baja por su lesión de muñeca. Resolvió con solvencia las tres primeras rondas y le espera en … Continuar leyendo \"Resultado Alcaraz – Paul: resumen y cómo ha quedado el partido de octavos del US Open hoy\""
   },
   {
-    "titulo": "Fabio Volo, actor italiano: «La risa de tu madre algún día será solo un recuerdo. Y los consejos de tu padre, llegará el momento en que desearás haberlos anotado»",
+    "titulo": "Alcaraz se desata: pasa por encima de Tommy Paul y ya se posa en cuartos del US Open",
     "medio": "OK Diario",
-    "fecha": 1788719402.0,
-    "link": "https://okdiario.com/cool/television/fabio-volo-actor-italiano-risa-tu-madre-algun-dia-sera-solo-recuerdo-consejos-tu-padre-llegara-momento-que-desearas-haberlos-anotado-20233626",
-    "resumen": "Quizás al público español no le suene demasiado, pero Fabio Volo (de nombre real, Fabio Bonetti) es uno de los actores, presentadores y escritores más queridos de la Italia actual. Entre otras cosas, porque su figura representa esa siempre tan atractiva visión de cómo el esfuerzo y la constancia pueden llevarte al éxito y, a … Continuar leyendo \"Fabio Volo, actor italiano: «La risa de tu madre algún día será solo un recuerdo. Y los consejos de tu padre, llegará el momento en que desearás haberlos anotado»\""
+    "fecha": 1788726925.0,
+    "link": "https://okdiario.com/deportes/alcaraz-desata-pasa-encima-tommy-paul-posa-cuartos-del-us-open-20238635",
+    "resumen": "Una cuestión recorre la Arthur Ahse. ¿Alcaraz ha estado cuatro meses sin competir? A tenor de su rendimiento, nadie lo diría. Tommy Paul tampoco se lo explica. Resopla al tiempo que los aplausos se van para Alcaraz. Es la imagen de un partido que el murciano se embolsa (6-4, 6-3, 6-4) exhibiendo superioridad. Llegaron las … Continuar leyendo \"Alcaraz se desata: pasa por encima de Tommy Paul y ya se posa en cuartos del US Open\""
+  },
+  {
+    "titulo": "Cómo (no) frenar a la extrema derecha",
+    "medio": "El País",
+    "fecha": 1788726257.0,
+    "link": "https://elpais.com/opinion/2026-09-06/como-no-frenar-a-la-extrema-derecha.html",
+    "resumen": "El éxito de AfD en las elecciones de la región alemana de Sajonia-Anhalt muestran los límites del cordón sanitario y del aprendizaje concienzudo de la historia"
+  },
+  {
+    "titulo": "AfD arrasa en las elecciones de Sajonia y roza la mayoría absoluta: «Tenemos un claro mandato para gobernar»",
+    "medio": "OK Diario",
+    "fecha": 1788725978.0,
+    "link": "https://okdiario.com/internacional/afd-arrasa-elecciones-sajonia-roza-mayoria-absoluta-tenemos-claro-mandato-gobernar-20238593",
+    "resumen": "El partido Alternativa por Alemania (AfD) ha arrasado este domingo en las elecciones de la región de Sajonia-Anhalt, en las que se ha impuesto con más del 44% de los votos, según las primeras proyecciones. Este resultado deja al partido liderado por Ulrich Siegmund en la región a las puertas de conseguir la mayoría absoluta … Continuar leyendo \"AfD arrasa en las elecciones de Sajonia y roza la mayoría absoluta: «Tenemos un claro mandato para gobernar»\""
+  },
+  {
+    "titulo": "La curiosa reflexión de ‘El Principito’ sobre las relaciones amorosas: «Al primer amor se le quiere más, al resto se le quiere mejor»",
+    "medio": "OK Diario",
+    "fecha": 1788725891.0,
+    "link": "https://okdiario.com/curiosidades/curiosa-reflexion-principito-sobre-relaciones-amorosas-primer-amor-quiere-mas-resto-quiere-mejor-18800588",
+    "resumen": "Hay frases que detienen el ritmo ajetreado de nuestra vida. Que obligan a releer. Que uno guarda en algún rincón de la memoria sin saber muy bien por qué. «Al primer amor se le quiere más, al resto se le quiere mejor» es una de ellas. Circula desde hace años por internet atribuida a El … Continuar leyendo \"La curiosa reflexión de ‘El Principito’ sobre las relaciones amorosas: «Al primer amor se le quiere más, al resto se le quiere mejor»\""
   },
   {
     "titulo": "Susan Sarandon encarna el último amor loco de Bertolucci",
     "medio": "El País",
-    "fecha": 1788718883.0,
+    "fecha": 1788725223.0,
     "link": "https://elpais.com/cultura/cine/2026-09-06/susan-sarandon-encarna-el-ultimo-amor-loco-de-bertolucci.html",
     "resumen": "El concurso de Venecia se anima con el regreso de la actriz estadounidense, un estupendo drama coreano sobre la lucha de clases y otro danés sobre el crimen y castigo de las mujeres colaboracionistas"
+  },
+  {
+    "titulo": "Las nuevas New Balance color shiitake que ya son imprescindibles en el armario cápsula de las chicas elegantes",
+    "medio": "Trendencias",
+    "fecha": 1788724855.0,
+    "link": "https://www.trendencias.com/sneakers/nuevas-new-balance-color-shiitake-que-imprescindibles-armario-capsula-chicas-elegantes",
+    "resumen": "El verano ya está llegando a su fin y, aunque aún nos quedan unos días para lucir todos esos colores pasteles y neón, los tierra cada vez van ganando más peso en el street style. Hay una cosa que es irrebatible: sientan de cine y combinan a la perfección con todo nuestro armario de otoño, así que, aunque seguiremos dándole a nuestros outfits un buen toque de color, sabemos que la mejor compra que podemos hacer este septiembre son unas zapatillas como estas nuevas New Balance Gator Run en tono shiitake. New Balance Gator Run Estas zapatillas nos encantan porque, además de conjuntar con todos los looks de entretiempo que se te pasen por la cabeza, son un modelo súper atemporal. Si te haces con un par ahora, puedes estar segura de que te lo vas a seguir poniendo durante muchos años. Nos encanta cómo queda con cazadoras vaqueras como esta en denim oscuro de Eme Studios. Otro básico para esas noches que refresca un poco. Caqueta vaquera Eme Studios También puedes apostar por una prenda a juego con el tono marrón shiitake de las zapatillas. Para ello, los jerséis de punto finito son un acierto. A nosotras nos fascina cómo quedan anudados a la cintura, siguiendo una de las tendencias estrella del momento, y este de Pull & Bear nos parece un must. Jersey marrón Pull & Bear Otra opción para conjuntar las zapatillas es optar por un bolso en color verde oliva, y es que fusionar el color marrón shiitake con la intensidad de este tono más vivo es un mix ganador. Uno de nuestros favoritos del momento es este de SKFK, ideal para ir a la oficina. Bolso verde SKFK Nosotras estamos convencidas de que estas New Balance Gator Run son la estrella de la temporada. Su precio es de 140 euros y, aunque son una inversión, merece al 100% la pena. Palabra de editora. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | New Balance, @emitaz, Eme Studios, Pull & Bear, SKFK En Trendencias | Cómo lavar las zapatillas en la lavadora sin que se estropeen: el trucazo de mi madre para que queden impecables. En Xataka | La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude'. En DAP | Iba a ser un artículo sobre el “mejor bocadillo de jamón del mundo” de Dabiz Muñoz, pero me ha parecido demasiado caro hasta para escribir sobre él. - La noticia Las nuevas New Balance color shiitake que ya son imprescindibles en el armario cápsula de las chicas elegantes fue publicada originalmente en Trendencias por Noemí Valle ."
+  },
+  {
+    "titulo": "Sabrina Carpenter gana su primer Emmy y hay un detalle con Taylor Swift que no ha pasado desapercibido: ya van dos veces",
+    "medio": "HuffPost",
+    "fecha": 1788724623.0,
+    "link": "https://www.huffingtonpost.es/virales/sabrina-carpenter-gana-primer-emmy-hay-detalle-taylor-swift-pasado-desapercibido-dos-vecesbr-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Consejo Central de Judíos de Alemania expresa su \"consternación\" por la victoria de AfD en Sajonia-Anhalt",
+    "medio": "Europa Press",
+    "fecha": 1788724520.0,
+    "link": "https://www.europapress.es/internacional/noticia-consejo-central-judios-alemania-expresa-consternacion-victoria-afd-sajonia-anhalt-20260906215520.html",
+    "resumen": "El presidente del Consejo Central de los Judíos de Alemania, Josef Schuster, ha manifestado su \"consternación\" por la victoria del partido de extrema derecha Alternativa para Alemania (AfD) en las elecciones regionales de Sajonia-Anhalt."
+  },
+  {
+    "titulo": "\"Dejé mi trabajo y me mudé a Grecia: pensé que era la vida ideal, pero luego descubrí el lado oculto de la 'vida tranquila'\"",
+    "medio": "HuffPost",
+    "fecha": 1788724458.0,
+    "link": "https://www.huffingtonpost.es/sociedad/deje-mi-trabajo-me-mude-grecia-pense-vida-ideal-luego-descubri-lado-oculto-vida-tranquila-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Goleada del Barcelona en Mestalla ante un Valencia que no estuvo a la altura",
+    "medio": "The Objective",
+    "fecha": 1788724349.0,
+    "link": "https://theobjective.com/actualidad/2026-09-06/goleada-barcelona-mestalla-valencia-altura/",
+    "resumen": "El FC Barcelona ha ganado este domingo por un contundente 0-5 en su visita al Valencia CF durante la jornada 4, con doblete de Lamine Yamal […]"
+  },
+  {
+    "titulo": "El Europa denuncia una “actuación policial desproporcionada” con un hincha por una estelada",
+    "medio": "La Vanguardia",
+    "fecha": 1788724193.0,
+    "link": "https://www.lavanguardia.com/deportes/20260906/11628625/europa-denuncia-actuacion-policial-desproporcionada-hincha-estelada.html",
+    "resumen": "El incidente, sucedido en Alcorcón, llega después de un caso similar en Elx con un seguidor blaugrana"
+  },
+  {
+    "titulo": "Zelenski teme que la guerra seguirá en invierno pese a la mediación de Trump",
+    "medio": "La Vanguardia",
+    "fecha": 1788723267.0,
+    "link": "https://www.lavanguardia.com/internacional/20260906/11628623/zelenski-teme-guerra-seguira-invierno-pese-mediacion-trump.html",
+    "resumen": "La misión de Witkoff y Kushner en Rusia y Ucrania termina sin anuncio de avances"
+  },
+  {
+    "titulo": "La campaña electoral en Marruecos se centra en la reivindicación de Ceuta y Melilla",
+    "medio": "The Objective",
+    "fecha": 1788723102.0,
+    "link": "https://theobjective.com/internacional/2026-09-06/campana-electoral-marruecos-se-centra-reivindicacion-ceuta-melilla/",
+    "resumen": "Dos partidos de la oposición en Marruecos han decidido centrar sus campañas electorales en la soberanía de Ceuta y Melilla, la excomunista PPS y el barberista […]"
+  },
+  {
+    "titulo": "François Provost, CEO de Renault: “No estamos en España solo para fabricar”",
+    "medio": "eldiario.es",
+    "fecha": 1788722674.0,
+    "link": "https://www.eldiario.es/motor/sector_y_mercado/francois-provost-ceo-renault-no-espana-fabricar_1_13488379.html",
+    "resumen": "El consejero delegado del grupo francés destaca el compromiso con España y se abre a alianzas con nuevos socios como los fabricantes chinos fuera de Europa, pero rechaza compartir fábricas en el viejo continente sin una alianza tecnológicaEl Grupo Renault aspira a convertirse en el fabricante europeo de referencia en 2030 El consejero delegado del Grupo Renault, François Provost, ha reafirmado el compromiso del grupo automovilístico francés con España y ha situado al país como una pieza clave de su estrategia industrial y tecnológica. La afirmación llega justo cuando arranca el nuevo plan industrial de Renault en España, tras la reciente firma del convenio colectivo, con la producción en el país de los primeros eléctricos. “España es un país clave para Renault”, aseguró durante un encuentro con medios de comunicación europeos en respuesta a una pregunta de Movilidad+Auto de elDiario.es. Provost destacó que la presencia de la compañía en España va mucho más allá de la fabricación de vehículos. “No solo se trata de producción. También están las ventas, por supuesto, pero también los proveedores”, explicó el máximo directivo del fabricante automovilístico francés, que puso en valor las décadas de inversión de Renault en España y la integración de la compañía con el tejido industrial nacional. “Cuando invertimos en España no es solo para tener una fábrica, sino que llevamos décadas en España y hemos invertido profundamente con nuestros proveedores y en toda la cadena de valor”, señaló. El CEO de Renault insistió en que el objetivo es reforzar esta implantación mediante ingeniería, investigación, desarrollo y nuevos servicios de movilidad. “Renault Group está comprometido con España durante décadas y no solo para fabricar, sino para poner ingeniería, trabajar con proveedores y desarrollar nuevos servicios de movilidad”, afirmó. Palencia acogerá la nueva plataforma eléctrica Dentro de esta estrategia, Provost confirmó que Renault ha decidido localizar en España la producción de su nueva plataforma eléctrica destinada a vehículos de los segmentos C y D. Se trata, según explicó, de una arquitectura eléctrica nativa y preparada para vehículos definidos por software (SDV). La plataforma será fabricada en la planta de Palencia, una decisión que el máximo responsable de Renault atribuyó a la competitividad de la estructura industrial española. “Nuestros planes son muy productivos y toda la cadena de valor en España para Renault es muy, muy eficiente y competitiva”, afirmó. La compañía espera que los primeros vehículos derivados de esta arquitectura puedan entrar en producción en España en menos de dos años, aunque Provost evitó desvelar el importe de la inversión. Renault se abre a nuevos socios con condiciones Provost también explicó la estrategia de Renault respecto a las alianzas industriales, una cuestión especialmente relevante ante el creciente desembarco de fabricantes chinos en Europa. El grupo francés mantiene una política abierta a establecer nuevas asociaciones, pero con condiciones. “En Europa estamos abiertos a socios y, de hecho, tenemos muchas peticiones”, explicó. Sin embargo, Renault quiere que esas alianzas tengan un componente tecnológico y estratégico. “Si estás interesado en utilizar nuestra tecnología, porque nuestra tecnología es competitiva, entonces decimos que sí. Si es solo para utilizar la fábrica, no”, sentenció y añadió que tampoco tienen capacidad ociosa que ofrecer. El CEO puso como ejemplo el acuerdo con Ford para vehículos eléctricos compactos y pequeños, además de las alianzas existentes con Nissan y Mitsubishi. La filosofía, según explicó, consiste en aprovechar la tecnología y las capacidades industriales de Renault para establecer asociaciones que aporten valor al grupo. Fuera de Europa, en cambio, Renault mantiene una postura más flexible si las alianzas contribuyen a su crecimiento. Provost citó los acuerdos con Geely en Corea del Sur y Brasil, y avanzó que el grupo anunciará próximamente nuevos detalles sobre su estrategia en el mercado brasileño. “Renault Group es independiente. El plan Future Ready no depende de nadie para ejecutarse”, subrayó como primer principio de su política de alianzas. El segundo es la apertura a socios en Europa siempre que sean estratégicos, mientras que el tercero pasa por una mayor flexibilidad fuera del continente para impulsar el crecimiento. Acuerdo entre la UE y China La estrategia industrial de Renault se produce en un contexto de creciente presión de los fabricantes chinos sobre el mercado europeo. Provost considera que Europa necesita actuar, aunque descarta una política de cierre de fronteras. “No creemos que sea bueno para Europa cerrar las fronteras, como Estados Unidos, porque esto no llevará a la industria hacia la competitividad”, afirmó. Pero al mismo tiempo advirtió de que Europa tampoco puede permitir que los fabricantes chinos entren en el mercado “con una enorme ventaja competitiva” y una presión que termine perjudicando a la industria europea. Por ello, reclamó un acuerdo entre Europa y China para establecer unas reglas comerciales más equilibradas. “Necesitamos ahora que la UE tome medidas. Y, de nuevo, no se trata de cerrarlo todo, sino de encontrar un acuerdo entre China y Europa para organizar esto de manera ordenada y preservar la industria automovilística europea”, explicó. Provost considera que la presión china seguirá aumentando debido a la evolución de su mercado doméstico. Según señaló tras un viaje a China en agosto, el mercado automovilístico del país había experimentado una caída del 20%, circunstancia que, en su opinión, llevará a los fabricantes chinos a ser “aún más agresivos” fuera de sus fronteras. Competir con China acelerando el desarrollo de coches Ante este escenario, Renault ha decidido transformar sus procesos internos para reducir los tiempos de desarrollo de sus vehículos. La compañía pretende desarrollar sus modelos en torno a dos años para acercarse al ritmo de los fabricantes más rápidos, especialmente los chinos. “Desarrollamos todos nuestros coches en dos años. Es una enorme transformación”, afirmó Provost. No obstante, matizó que esa velocidad no implica renunciar a la calidad. “Dos años es el mínimo para garantizar la calidad”, aseguró. En el caso de una plataforma completamente nueva, el proceso puede extenderse hasta unos dos años y medio, mientras que un derivado de un modelo existente puede desarrollarse en unos 16 meses. La premisa, insistió, es que “el único criterio es la calidad” y que Renault no lanzará un vehículo si no está completamente satisfecha con su comportamiento y fiabilidad. Renault no prevé que Europa llegue al objetivo de electrificación Provost también defendió una estrategia de electrificación más flexible y rechazó la idea de que Europa vaya a convertirse rápidamente en un mercado prácticamente 100% eléctrico. “No creo que Europa vaya a ser un 90% eléctrica”, afirmó en respuesta a una pregunta sobre el futuro de los motores de combustión en los mercados europeos y exteriores. “La electrificación total no es posible. Llevará tiempo”, añadió. El grupo seguirá invirtiendo “masivamente” en vehículos eléctricos, pero mantendrá al mismo tiempo una oferta híbrida potente. “No cambiamos nuestra estrategia. El eléctrico es bueno, invertimos masivamente en los mejores vehículos eléctricos, pero también mantenemos una fuerte oferta híbrida”, explicó. En este contexto, Renault apuesta además por tecnologías de transición como los vehículos de autonomía extendida (Range Extender). Provost calcula que, después de 2030, alrededor del 70% de los clientes de los vehículos de los segmentos C y D podrían disponer de condiciones adecuadas para cargar un vehículo eléctrico, pero considera que todavía habrá un 30% que necesitará alternativas por sus dificultades para acceder a la recarga o por sus necesidades de desplazamientos. El objetivo será que esos clientes puedan utilizar un vehículo eléctrico en el día a día y recurrir al extensor de autonomía cuando necesiten realizar desplazamientos largos. Ofensiva de modelos La electrificación también será una herramienta para que Renault gane peso en los segmentos superiores del mercado. Provost reconoció que la compañía es especialmente fuerte en los vehículos compactos y pequeños, pero quiere mejorar su posición en los segmentos C y D. “Queremos ser un fabricante de referencia en Europa con alcance global”, afirmó. Para conseguirlo, Renault combinará su nueva plataforma eléctrica con autonomías de hasta 700 kilómetros, cargas rápidas de menos de 15 minutos y la posibilidad de incorporar un extensor de autonomía. A ello sumará diseño, calidad y experiencia de cliente. “No queremos convertirnos en una marca premium mañana. El segmento C y D es nuestro mercado principal”, afirmó François Provost."
+  },
+  {
+    "titulo": "Rusia dice que acusaciones contra Moscú por Leipzig suponen «el inicio de una guerra real»",
+    "medio": "The Objective",
+    "fecha": 1788721435.0,
+    "link": "https://theobjective.com/internacional/2026-09-06/rusia-moscu-leipzig-guerra-real/",
+    "resumen": "El ministro de Exteriores de Rusia, Sergei Lavrov, ha afirmado este domingo que las acusaciones de Moscú en torno al incidente en el aeropuerto alemán de […]"
+  },
+  {
+    "titulo": "Antes de los grandes aviones de pasajeros, el Atlántico se cruzó sin escalas en un biplano de madera y tela",
+    "medio": "Xataka",
+    "fecha": 1788721255.0,
+    "link": "https://www.xataka.com/movilidad/antes-grandes-aviones-pasajeros-atlantico-se-cruzo-escalas-biplano-madera-tela",
+    "resumen": "Hoy cruzar el Atlántico en avión forma parte de la rutina. Lo hacemos en Boeing 787, Airbus A330, A350 o 777 capaces de transportar a cientos de pasajeros durante miles de kilómetros, y hasta algunos aviones de pasillo único pueden cubrir determinadas rutas entre Europa y América. Hace poco más de un siglo, sin embargo, ese mismo océano seguía siendo una frontera formidable para la aviación. En 1919, dos hombres se prepararon para atravesarlo sin hacer una sola escala, sentados en la cabina abierta de un biplano que, visto con nuestros ojos, parece sorprendentemente pequeño. El intento llegaba en un momento muy particular. Apenas habían pasado 16 años desde el primer vuelo de los hermanos Wright, pero la Primera Guerra Mundial había acelerado enormemente el desarrollo de motores, estructuras y aparatos capaces de permanecer más tiempo en el aire. El Atlántico, de hecho, acababa de ser cruzado por vía aérea: unas semanas antes, el hidroavión NC-4 de la Marina estadounidense había completado la travesía por etapas. John Alcock y Arthur Whitten Brown perseguían algo distinto: recorrer el océano de una sola vez, sin detenerse entre América y Europa. Cruzar un océano con madera, tela y dos motores El aparato elegido era un Vickers Vimy, un bombardero pesado británico desarrollado durante la Primera Guerra Mundial que llegó demasiado tarde para entrar en combate. Tenía 13,27 metros de longitud y 20,47 metros de envergadura, estaba construido sobre una estructura de madera arriostrada con cables y recubierta de tela, y se movía gracias a dos motores Rolls-Royce Eagle de 360 CV cada uno. No era precisamente pequeño para la aviación de su tiempo, aunque hoy la comparación resulta llamativa: un Airbus A350-900 alcanza 64,75 metros de envergadura, más de tres veces la del avión de Alcock y Brown. Y podemos acercarnos tanto a aquel momento porque la hazaña coincidió con la consolidación de la fotografía en la cultura de masas y en la prensa. Kodak había contribuido a popularizarla desde 1888 con cámaras de rollo pensadas para un público mucho más amplio, mientras que, a comienzos del siglo XX, técnicas de impresión como el rotograbado permitieron a los periódicos reproducir fotografías a gran escala y sobre papel barato. La travesía quedó así acompañada por un extraordinario registro visual: conservamos imágenes de los preparativos, de los aviadores junto al Vimy y hasta del aparato después de alcanzar Irlanda. Convertir aquel bombardero en una máquina capaz de afrontar el Atlántico exigió adaptarlo para la travesía. El Vimy fue preparado para cargar alrededor de 3.900 litros de combustible y salió tan pesado que tuvo dificultades para levantar el vuelo. Alcock y Brown partieron desde un terreno improvisado en St. John’s, Terranova, de apenas unas 500 yardas, unos 457 metros, que tuvo que despejarse retirando obstáculos e incluso volando algunas rocas. Tampoco eran los únicos detrás de la hazaña: el Daily Mail ofrecía 10.000 libras al primer vuelo transatlántico sin escalas y varios equipos ya lo habían intentado sin conseguirlo. Una vez en el aire, el gran problema dejó de ser el peso y pasó a ser la orientación. Brown tenía que calcular la posición con técnicas heredadas de la navegación marítima, mediante observaciones del Sol y las estrellas, estimaciones de deriva y referencias sobre el propio océano. Todo dependía, por tanto, de poder ver algo, y el Atlántico no se lo puso fácil. Nubes, niebla y mala visibilidad limitaron durante horas esas observaciones, obligándole durante largos periodos a recurrir a la navegación por estima y aprovechar cada claro para corregir su posición mientras Alcock mantenía el avión en vuelo. El momento más peligroso llegó durante la mañana del 15 de junio. El Vimy entró en una niebla tan densa que Alcock apenas podía distinguir los extremos de las alas y terminó perdiendo la referencia del horizonte. Intentó recuperar el equilibrio guiándose por los instrumentos, pero el indicador de velocidad había quedado atascado; el avión levantó demasiado el morro, perdió velocidad, entró en pérdida y comenzó a caer mientras seguían envueltos en las nubes. Cuando finalmente salieron de ellas estaban a menos de 30 metros sobre el Atlántico. Alcock consiguió nivelar el aparato a unos 15 metros de las olas, con varias horas de vuelo todavía por delante. Irlanda apareció finalmente bajo ellos aquella misma mañana. Tras algo más de 16 horas de vuelo, Alcock buscó un lugar donde posar el Vimy cerca de Clifden y eligió lo que desde el aire parecía un terreno firme. Era una turbera. Las ruedas se hundieron y el avión terminó clavado de morro, aunque ambos aviadores salieron ilesos. En Xataka Un A350-1000ULR acaba de completar un vuelo de más de 24 horas sin escalas. Boeing quería el proyecto, pero Qantas eligió a Airbus La imagen quedó como un cierre casi perfecto para aquella hazaña: apenas 16 años después del primer vuelo de los Wright, un avión había conseguido unir Norteamérica y Europa sin tocar tierra entre medias. Imágenes | Wikimedia Commons (1, 2, 3) | Science Museum Group (1, 2) En Xataka | Jeff Bezos se fue a Miami para pagar menos impuestos. Ahora tiene otro problema: una multa de 244.000 dólares por aparcar su avión - La noticia Antes de los grandes aviones de pasajeros, el Atlántico se cruzó sin escalas en un biplano de madera y tela fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "La mayor granja de insectos del mundo está en Francia y cría 360 millones de larvas para alimentar ganado y mascotas, no personas",
+    "medio": "HuffPost",
+    "fecha": 1788720870.0,
+    "link": "https://www.huffingtonpost.es/sociedad/la-mayor-granja-insectos-mundo-esta-francia-cria-360-millones-larvas-alimentar-ganado-mascotas-personas-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Zelenski, antes de reunión con EEUU: «Está interesado en acercar el fin de la guerra»",
+    "medio": "The Objective",
+    "fecha": 1788720324.0,
+    "link": "https://theobjective.com/internacional/2026-09-06/zelenski-reunion-eeuu-interesado-acercar-fin-guerra/",
+    "resumen": "El presidente de Ucrania, Volodimir Zelenski, ha asegurado este domingo que Kiev «está interesado en acercar el fin de la guerra» con Rusia, de cara a […]"
+  },
+  {
+    "titulo": "Interceptados 66 inmigrantes llegados en tres pateras a Cabrera y Mallorca",
+    "medio": "The Objective",
+    "fecha": 1788719976.0,
+    "link": "https://theobjective.com/espana/2026-09-06/interceptados-66-migrantes-llegados-tres-pateras-cabrera-mallorca/",
+    "resumen": "Un total de 66 inmigrantes han sido interceptados este domingo después de haber conseguido alcanzar las aguas de Baleares a bordo de tres pateras: dos a […]"
   },
   {
     "titulo": "Ulrich Siegmund, el vendedor de aromas que ahora perfuma la extrema derecha alemana y que gana las elecciones según los sondeos",
@@ -35,25 +336,18 @@
     "resumen": "El líder de AfD en Sajonia-Anhalt ha construido su ascenso con la misma fórmula que aprendió vendiendo fragancias: mensajes sencillos, repetición constante y una sonrisa que nunca se apaga Leer"
   },
   {
+    "titulo": "El 'General' Fermín asombra en Mestalla",
+    "medio": "La Vanguardia",
+    "fecha": 1788717675.0,
+    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628612/general-fermin-asombra-mestalla.html",
+    "resumen": "El centrocampista simboliza la voracidad insaciable del Barça de Flick y ya suma cuatro goles en la Liga tras una actuación excelente"
+  },
+  {
     "titulo": "Cuando el Yongala se hundió en 1911, no dejó más rastro que el cuerpo de un caballo de carreras. Hoy es un arrecife lleno de vida",
     "medio": "Xataka",
     "fecha": 1788717655.0,
     "link": "https://www.xataka.com/magnet/1911-yongala-desaparecio-dejar-rastro-que-cuerpo-caballo-carreras-hoy-arrecife-lleno-vida",
     "resumen": "El 23 de marzo de 1911, un barco de vapor con 122 personas a bordo desapareció frente a las costas de Queensland (Australia) sin dejar rastro: no sobrevivió nadie ni tampoco se pudo recuperar ningún cuerpo. Solo hubo una excepción: la del cuerpo de un caballo de carreras que viajaba en bodega. En los 98 viajes que había realizado anteriormente, el SS Yongala tenía una reputación intachable, según el archivo oficial del gobierno de Queensland. Qué pasó. A modo de presentación, el SS Yongala se construyó en los astilleros ingleses para la Adelaide Steamship Company: tenía 109 metros de eslora y servía tanto para transportar personas como carga. Ese fatídico viaje 99, partió desde Mackay con destino Townsville, pero nunca llegó: un ciclón tropical lo borró del mapa. Llevaban menos de una hora de viaje cuando la estación de señales de Flat Top Island emitió una alerta sobre un ciclón en ciernes entre Mackay y Townsville, pero el SS Yongala no tenía instaladas las comunicaciones pertinentes para recibirla, así que navegó sin saberlo. La última vez que alguien lo vio fue el farero de la isla Dent, que lo vio pasar a las 18:30 horas. Postal del SS Yongala en 1905. Parecía que la Tierra se lo había tragado. Como el barco no llegaba, el gobierno de Queensland organizó una misión de búsqueda formada por siete embarcaciones: aparecieron restos de la carga entre Hinchinbrook Island y Bowen, pero del pecio, nada. Las autoridades ofrecieron una recompensa de mil libras esterlinas a cambio de información (rondaría los 150.000 euros actuales), pero nada. De hecho, hasta hoy no se han encontrado supervivientes más allá del cuerpo del caballo Moonshine. En junio de 1911, una Comisión de Investigación Marítima estudió el caso y exoneró de culpa a su capitán, el experimentado William Knight, y a la tripulación de la desaparición del barco. La investigación determinó que no era posible saber la causa exacta del naufragio y que: \"el destino del Yongala escapa al entendimiento humano y entra en el terreno de la conjetura, sumándose así a la larga lista de misterios del mar\". En Xataka El \"Tesoro de Alacranes\" y la disputa por los pecios: de quién son realmente los barcos españoles hundidos en el mar Entonces llegó la Segunda Guerra Mundial. En 1943, en plena contienda bélica, un buque militar diseñado para buscar minas detectó algo frente a Cape Bowling Green. En 1947, el buque hidrográfico HMAS Lachlan confirmó mediante ecosonda que lo que allí había probablemente era un pecio de gran tamaño. Hubo que esperar a 1958, cuando el pescador local Bill Kirkpatrick y el buzo alemán George Konrat se juntaron para investigar un sitio prometedor situado a 16 metros de profundidad. Tres visitas después, Konrat lo encontró y un grupo de investigación subacuática de Queensland resolvió todas las dudas al recuperar la caja fuerte, cuyo número de serie coincidía con el asignado al SS Yongala. Misterio resuelto. De barco de vapor a arrecife artificial. El pecio está situado a unos 89 kilómetros al sureste de Townsville, en pleno Parque Marino de la Gran Barrera de Coral: allí hay más de 120 especies de peces diferentes, además de tiburones, tortugas o mantarrayas que habitan una estructura casi intacta en un entorno protegido. Un auténtico caramelito para los más de 10.000 buceadores que lo visitan cada año. El barco que sufrió dos ciclones. Casi un siglo después de hundirse por un ciclón, el Yongala se enfrentó a otro: en febrero de 2011 llegó el ciclón tropical Yasi, de categoría 5. Como documenta el Museo de Queensland en su exposición \"SS Yongala: A Tale of Two Cyclones\" los primeros buceadores que volvieron allí tras la tormenta se encontraron que buena parte de la vida marina que había cubierto el casco a lo largo de los años había sido arrancada, dejando el barco desnudo y con un aspecto similar al que tuvo cuando justo se hundió. Eso sí, los efectos fueron tan fuertes que la proa apareció desfigurada y quedaron al descubierto partes que habían estado ocultas, como el eje de la hélice de la popa o el motor. Después, con el paso del tiempo, corales y esponjas han vuelto a cubrir su estructura. En Xataka | Durante siglos, los marineros de todo el mundo morían de escorbuto. Todos menos los vascos En Xataka | En 1845 la expedición de John Franklin zarpó en busca del paso del Noroeste. 180 años después su pérdida sigue siendo un misterio Portada | Allan C. Green con ChatGPT - La noticia Cuando el Yongala se hundió en 1911, no dejó más rastro que el cuerpo de un caballo de carreras. Hoy es un arrecife lleno de vida fue publicada originalmente en Xataka por Eva R. de Luis ."
-  },
-  {
-    "titulo": "Los psicólogos expertos coinciden: las personas que hablan muy fuerte no son agresivas, en realidad tienen una forma particular de gestionar su intensidad emocional",
-    "medio": "OK Diario",
-    "fecha": 1788717627.0,
-    "link": "https://okdiario.com/curiosidades/psicologos-expertos-coinciden-personas-que-hablan-muy-fuerte-no-son-agresivas-realidad-tienen-forma-particular-gestionar-intensidad-emocional-20230386",
-    "resumen": "Hay personas que hablan tan alto que pueden parecer enfadadas incluso cuando están completamente tranquilas. Su volumen puede llamar la atención, dominar una conversación o hacer pensar a quienes las rodean que están intentando imponerse. Sin embargo, la psicología y la investigación sobre la comunicación vocal muestran que hablar fuerte no equivale necesariamente a ser … Continuar leyendo \"Los psicólogos expertos coinciden: las personas que hablan muy fuerte no son agresivas, en realidad tienen una forma particular de gestionar su intensidad emocional\""
-  },
-  {
-    "titulo": "El Supremo abre una investigación para determinar si el Gobierno fue avisado antes de la invasión de Ceuta y decidió no actuar",
-    "medio": "OK Diario",
-    "fecha": 1788717612.0,
-    "link": "https://okdiario.com/espana/supremo-abre-investigacion-determinar-si-gobierno-fue-avisado-antes-invasion-ceuta-decidio-no-actuar-20235154",
-    "resumen": "El Tribunal Supremo ha admitido a trámite un recurso contra el Gobierno de España por la invasión de Ceuta y ha exigido a Presidencia que entregue en cinco días toda la documentación sobre lo ocurrido el pasado 30 de julio. La Sala Tercera investiga si el Ejecutivo de Pedro Sánchez conocía con antelación el riesgo … Continuar leyendo \"El Supremo abre una investigación para determinar si el Gobierno fue avisado antes de la invasión de Ceuta y decidió no actuar\""
   },
   {
     "titulo": "Un artista ruso explica la gran diferencia que descubrió entre Rusia y España:",
@@ -70,13 +364,6 @@
     "resumen": "A lo largo de este 2026, Netflix ha estrenado una vez más una buena cantidad de películas propias para seguir engordando su catálogo. Algunas son mediocres, otras directamente malas, pero también hay joyas que merece la pena descubrir. Y es que la compañía siempre sorprende con determinados proyectos que se convierten en favoritos de sus […] Seguir leyendo: Las 5 mejores películas de Netflix en 2026 (hasta la fecha)"
   },
   {
-    "titulo": "Los biólogos no se lo creen: descubren que un pesticida agrícola acelera el envejecimiento de los peces",
-    "medio": "OK Diario",
-    "fecha": 1788717584.0,
-    "link": "https://okdiario.com/naturaleza/biologos-no-lo-creen-descubren-que-pesticida-agricola-acelera-envejecimiento-peces-16106645",
-    "resumen": "Una investigación reciente advierte sobre una realidad inquietante sobre cómo la exposición continuada a ciertos químicos altera el ciclo vital de los animales acuáticos. Existe una clara preocupación entre los biólogos ante la evidencia de que algunos pesticidas agrícolas impactan de forma negativa en la longevidad de los peces. Los análisis actuales suelen centrarse en … Continuar leyendo \"Los biólogos no se lo creen: descubren que un pesticida agrícola acelera el envejecimiento de los peces\""
-  },
-  {
     "titulo": "En 1850, un ganadero llevó 45 ovejas a la isla de San Miguel; para 1862 había 6.000, y después de que el pastoreo acabara con la vegetación, las últimas 148 fueron eliminadas en 1966",
     "medio": "HuffPost",
     "fecha": 1788717514.0,
@@ -84,32 +371,11 @@
     "resumen": ""
   },
   {
-    "titulo": "Ver para creer: encuentran fósiles de tortugas marinas que huían de un terremoto hace 80 millones de años",
-    "medio": "OK Diario",
-    "fecha": 1788717469.0,
-    "link": "https://okdiario.com/naturaleza/ver-creer-encuentran-fosiles-tortugas-marinas-que-huian-terremoto-hace-80-millones-anos-16234268",
-    "resumen": "Unos escaladores que recorrían una zona montañosa del norte de Italia detectaron en una pared de roca unas marcas inusuales. Parecía una simple irregularidad geológica, pero acabó convirtiéndose en un hallazgo de gran valor científico. Los análisis posteriores confirmaron que se trataba de decenas de huellas fósiles de tortugas marinas de hace unos 80 millones … Continuar leyendo \"Ver para creer: encuentran fósiles de tortugas marinas que huían de un terremoto hace 80 millones de años\""
-  },
-  {
     "titulo": "Jordi Évole dice esto a quien se enfada viendo un programa que no le gusta: \"No vale la pena\"",
     "medio": "HuffPost",
     "fecha": 1788717392.0,
     "link": "https://www.huffingtonpost.es/virales/jordi-evole-dice-esto-enfada-viendo-programa-le-gusta-no-vale-penabr-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "El cinturón verde del planeta se está desplazando y preocupa a los expertos: la vegetación terrestre acelera su migración hacia el noreste",
-    "medio": "OK Diario",
-    "fecha": 1788717356.0,
-    "link": "https://okdiario.com/okgreen/cinturon-verde-del-planeta-esta-desplazando-preocupa-expertos-vegetacion-terrestre-acelera-migracion-hacia-noreste-16297550",
-    "resumen": "El cinturón verde del planeta está en movimiento y la vegetación terrestre acelera su migración hacia el noreste de forma sostenida desde hace décadas. Así lo confirma un estudio publicado en la revista PNAS y liderado por la Universidad de Leipzig y el Centro Alemán para la Investigación Integrativa de la Biodiversidad (iDiv), con la … Continuar leyendo \"El cinturón verde del planeta se está desplazando y preocupa a los expertos: la vegetación terrestre acelera su migración hacia el noreste\""
-  },
-  {
-    "titulo": "Un agricultor encuentra una montaña de billetes cuando hacía limpieza en su finca y cuando llega la Policía ocurre esto",
-    "medio": "OK Diario",
-    "fecha": 1788717215.0,
-    "link": "https://okdiario.com/economia/consumo/agricultor-encuentra-montana-billetes-cuando-hacia-limpieza-finca-cuando-llega-policia-ocurre-esto-15300318",
-    "resumen": "Trabajar en el campo como agricultor implica el tener que invertir muchas horas. Este es sin duda, un trabajo que es constante, dado que son mil y una las tareas las que se deben realizar para mantener la tierra viva. Un gran esfuerzo al que cada vez se quiere dedicar menos gente, pero que en … Continuar leyendo \"Un agricultor encuentra una montaña de billetes cuando hacía limpieza en su finca y cuando llega la Policía ocurre esto\""
   },
   {
     "titulo": "El primer triunfo rotundo en Venecia: Lee Chang-dong repiensa 'Parásitos' ante el aplauso unánime",
@@ -124,13 +390,6 @@
     "fecha": 1788716353.0,
     "link": "https://www.elmundo.es/cultura/cine/2026/09/06/6a9d75dae4d4d867128b4577.html",
     "resumen": "La actriz presenta en el Festival de Cine de Venecia 'The Echo Chamber', el último guion firmado por Bernardo Bertolucci dirigido por Andrea Pallaoro Leer"
-  },
-  {
-    "titulo": "La ultraderechista AfD vence en Sajonia-Anhalt y roza la mayoría absoluta",
-    "medio": "Expansión",
-    "fecha": 1788715874.0,
-    "link": "https://www.expansion.com/economia/politica/2026/09/06/6a9da207468aeb8f278b457a.html",
-    "resumen": "El partido ultraderechista Alternativa para Alemania (AfD) ganó este domingo las elecciones en la región oriental de Sajonia-Anhalt, al conseguir un 44% de los votos, según los sondeos a pie de urna, porcentajes que le sitúan a las puertas de la mayoría absoluta y del primer acceso a un gobierno regional de una formación de ultraderecha en el país centroeuropeo. Leer"
   },
   {
     "titulo": "La teoría médica de los cuatro humores estuvo vigente durante siglos. Lo raro es que a veces sí funcionaba",
@@ -168,18 +427,11 @@
     "resumen": "El hijo de Koeman rescata a su equipo, el Telstar, que empató ante el Cambuur (2-2)"
   },
   {
-    "titulo": "La ultraderecha de AfD, cerca de la mayoría absoluta en Sajonia-Anhalt, según los sondeos a pie de urna",
+    "titulo": "La ultraderecha de AfD, cerca de la mayoría absoluta en Sajonia-Anhalt, con el voto casi escrutado",
     "medio": "HuffPost",
     "fecha": 1788714308.0,
     "link": "https://www.huffingtonpost.es/global/la-ultraderecha-afd-cerca-mayoria-absoluta-sajoniaanhalt-sondeos-pie-urna-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "La AfD arrasa en Sajonia-Anhalt con el 44%, según las proyecciones, y queda a las puertas de la mayoría absoluta",
-    "medio": "El Mundo",
-    "fecha": 1788714234.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/06/6a9d8f63fc6c8334508b456d.html",
-    "resumen": "La gran incógnita es si ese resultado permitirá a esta formación de extrema derecha hacerse con la mayoría absoluta de escaños y gobernar en solitario Leer"
   },
   {
     "titulo": "Zaplana y Rus aguardan la respuesta a sus recursos y Oltra, la fecha de su juicio",
@@ -217,69 +469,6 @@
     "resumen": "El 27 de julio de 2024 marcó la llegada de Victor Von Doom al Universo Cinematográfico de Marvel. Eso, cuando el estudio dio un volantazo sorprendente en su irregular saga multiversal. Luego de meses de incertidumbre debido al despido de Jonathan Majors, la incógnita acerca del villano a enfrentar por el control del multiverso se […] Seguir leyendo: ¿Thanos tuvo desarrollo antes de aparecer en ‘Infinity War’? Analizamos la controversia sobre Doom, el nuevo villano multiversal"
   },
   {
-    "titulo": "La extrema derecha roza la mayoría absoluta en Sajonia-Anhalt, según los sondeos",
-    "medio": "El País",
-    "fecha": 1788713769.0,
-    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
-    "resumen": "La formación democristiana del canciller Fiedrich Merz se desploma y pasaría de 40 a 16 diputados. AfD podrá gobernar si el partido de la izquierda nacionalista BSW logra entrar en el parlamento regional"
-  },
-  {
-    "titulo": "Juanma Cabañas, profesor y experto en gestión del aula:",
-    "medio": "HuffPost",
-    "fecha": 1788713501.0,
-    "link": "https://www.huffingtonpost.es/virales/juanma-cabanas-profesor-experto-gestion-aula-habria-pasar-cuestionario-alumnado-evalue-docente-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Virginia, madrileña que levantó una aldea hobbit en la montaña gallega: \"Me han dicho que he sido muy valiente; yo contesto que más bien era inconsciente\"",
-    "medio": "HuffPost",
-    "fecha": 1788713423.0,
-    "link": "https://www.huffingtonpost.es/sociedad/virginia-madrilena-levanto-aldea-hobbit-montana-gallega-me-han-dicho-he-sido-valiente-contesto-mas-inconsciente-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El Barça disfruta en Mestalla a costa de un pobre Valencia",
-    "medio": "El País",
-    "fecha": 1788713169.0,
-    "link": "https://elpais.com/deportes/futbol/2026-09-06/el-barca-disfruta-en-mestalla-a-costa-de-un-pobre-valencia.html",
-    "resumen": "Los azulgrana alcanzan el liderato en solitario después de golear al desquiciado equipo de Corberán en un partido presidido por la excelente asociación Fermín-Lamine"
-  },
-  {
-    "titulo": "Un migrante herido al recibir dos puñaladas en una pelea con otro en la playa",
-    "medio": "HuffPost",
-    "fecha": 1788712989.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-migrante-herido-recibir-dos-punaladas-pelea-playabr-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Van Aert logra su segunda victoria de etapa en un recorrido que fue reducido por las altas temperaturas",
-    "medio": "El Mundo",
-    "fecha": 1788712564.0,
-    "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/09/06/6a9d9659e85ece1c048b457c.html",
-    "resumen": "El belga sobrevive al infierno de 43 grados y firma el primer puesto en Córdoba, mientras Enric Mas afronta la recta final de la Vuelta ante la posibilidad de convertirse en el primer español en ganar una gran vuelta desde Contador Leer"
-  },
-  {
-    "titulo": "‘Woman unknown’, el filme danés sobre el precio que pagan las mujeres por yacer con el enemigo",
-    "medio": "La Vanguardia",
-    "fecha": 1788712531.0,
-    "link": "https://www.lavanguardia.com/cultura/20260906/11628569/woman-unknown-filme-danes-sobre-precio-pagan-mujeres-yacer-enemigo.html",
-    "resumen": "May el-Toukhy es la única directora (no codirectora) con película que concursa por el Leon de Oro en Venecia"
-  },
-  {
-    "titulo": "Si solo fuera Rodri",
-    "medio": "La Vanguardia",
-    "fecha": 1788712464.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628585/fuera-rodri.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Antonelli cumple el sueño de su vida en el GP Italia",
-    "medio": "El País",
-    "fecha": 1788712303.0,
-    "link": "https://elpais.com/deportes/formula-1/2026-09-06/antonelli-cumple-el-sueno-de-su-vida-en-el-gp-italia.html",
-    "resumen": "El de Mercedes se convierte en el primer italiano en ganar en Monza en 60 años tras una memorable remontada desde la 19ª posición"
-  },
-  {
     "titulo": "Pensamos que el 'burnout' se soluciona con unas buenas vacaciones. La ciencia nos advierte que sus secuelas pueden durar años",
     "medio": "Xataka",
     "fecha": 1788712255.0,
@@ -287,32 +476,18 @@
     "resumen": "Cuando llega el viernes, un puente largo o incluso las vacaciones de verano, aprovechamos para descansar o dormir un poco más, y con eso solemos pensar que hemos solucionado el agotamiento mental que arrastrábamos. Sin embargo, cuando hablamos de estrés crónico o incluso de burnout, la ciencia apunta a que el descanso temporal no es una cura milagrosa y que para recuperarse habría que estar varios años de vacaciones. No es todo igual. Pese a que solemos meter todo en el mismo saco, y creemos que todo nuestro estrés es igual, la realidad es que la ciencia apunta a que hay que saber separar diferentes síntomas. Aquí, un estudio publicado en 2012 analizó concretamente a 232 pacientes derivados de una clínica sueca especializada en estrés y que cumplían con los criterios del trastorno por agotamiento. En Xataka Pensábamos que meditar para reducir el estrés exigía demasiado tiempo. La ciencia ha demostrado que bastan unos minutos al despertar Dos distinciones. Durante los 18 meses de seguimiento que tuvo este estudio, los investigadores encontraron una evolución a dos velocidades. Por un lado, tenemos los picos puntuales de ansiedad que afectaban a cerca del 65% de los pacientes al inicio. Aquí se vio que, afortunadamente, estos síntomas descendieron con rapidez, a menudo durante los primeros tres meses, cayendo a cerca de un 10% al cabo de año y medio. Pero por otro lado tenemos el 'burnout' cuyo estrés cayó a lo largo del estudio, aunque no tan rápido como ocurrió con el estrés. En concreto, aproximadamente un tercio de los pacientes seguía presentando síntomas de agotamiento a los 18 meses. Es por todo esto que se podía concluir que, a mayor duración de los síntomas antes de buscar ayuda profesional, más lenta es la recuperación. Un estrés crónico. Un seguimiento posterior del mismo equipo quiso ver cómo estaban 217 de esos mismos pacientes siete años después. Y las cifras invitan, como mínimo, a replantearnos nuestra cultura laboral, puesto que el 46% comunicó seguir sufriendo fatiga extrema residual y el 73% informaba de una menor tolerancia al estrés. Es imperativo interpretar estos datos con rigor y evitar generalizaciones indebidas, puesto que estamos hablando de una cohorte específica tratada en una clínica especializada en casos graves y basada parcialmente en cuestionarios subjetivos, por lo que no podemos afirmar que un tercio de toda la población con estrés vaya a seguir enferma siete años después. No obstante, la evidencia es clara, puesto que se ve que el trastorno por agotamiento deja una huella profunda. En Xataka Creíamos que el estrés era solo psicológico. La ciencia demuestra que también depende de la cantidad de agua que bebes El fin de semana. Viendo estos plazos interminables, es fácil caer en el nihilismo y preguntarse si las vacaciones no sirven para nada. Pero la respuesta es un contundente no, puesto que descansar es vital. Sin embargo, los estudios nos demuestran que un cuadro clínico grave de agotamiento no se revierte solo con unos días libres. Lo que si sabemos es que irse a la playa no es suficiente si la reincorporación es demasiado rápida y los mismos estresores están en el mismo sitio que antes de irse de vacaciones. Entre estos estresores tenemos, por ejemplo, la sobrecarga laboral inasumible o la ausencia total de cambios en las condiciones de trabajo. La verdadera solución. Si la terapia y el descanso no bastan por sí solos, ¿qué funciona para recuperar a un trabajador quemado? Aquí la ciencia apunta a que lo verdaderamente importante es hacer intervenciones específicamente en el entorno laboral para eliminar esos posibles estresores que desencadenan la situación de estrés o burnout. Imágenes | Yan Krukau En Xataka | El estrés fue diseñado por la evolución para salvarte la vida. El estrés crónico moderno te la está quitando - La noticia Pensamos que el 'burnout' se soluciona con unas buenas vacaciones. La ciencia nos advierte que sus secuelas pueden durar años fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "Van Aert repite triunfo en una etapa recortada por el calor extremo",
-    "medio": "La Vanguardia",
-    "fecha": 1788712175.0,
-    "link": "https://www.lavanguardia.com/deportes/ciclismo/20260906/11628583/aert-repite-triunfo-etapa-recortada-calor-extremo.html",
-    "resumen": "Los ciclistas pidieron activar el protocolo de altas temperaturas en Córdoba"
+    "titulo": "El Barça golea fuera de casa a un Valencia horrible",
+    "medio": "Europa Press",
+    "fecha": 1788711710.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-golea-fuera-casa-valencia-horrible-20260906182150.html",
+    "resumen": "El FC Barcelona ha ganado este domingo por un contundente 0-5 en su visita al Valencia CF durante la jornada 4, con doblete de Lamine Yamal y hasta cuatro goleadores diferentes en el equipo culé, que mantiene su liderato de LaLiga EA Sports tras arrollar a un oponente horrible y que ahora está en puestos de descenso."
   },
   {
-    "titulo": "Lamine Yamal y Fermín afilan a un Barça que baila en el infierno de Mestalla",
-    "medio": "El Mundo",
-    "fecha": 1788711988.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/06/6a9d6a2be85eceea208b45bb.html",
-    "resumen": "El equipo de Flick destroza a un desquiciado Valencia ante una grada volcada en protestar contra su directiva, con el hijo de Peter Lim en el palco. Leer"
-  },
-  {
-    "titulo": "Cuando la empresa tiene que fichar también a la familia",
-    "medio": "Expansión",
-    "fecha": 1788711853.0,
-    "link": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/09/04/6a9acb84468aeb89308b45c9.html",
-    "resumen": "El salario y el coche ya no bastan. Fichar a un profesional exige convencer a su entorno y hoy la familia es el principal obstáculo en la contratación, un 'stakeholder' invisible capaz de frenar cualquier fichaje estratégico. Leer"
-  },
-  {
-    "titulo": "El Barça de Lamine arrolla al Valencia en un ensordecedor Mestalla que llega a su límite",
-    "medio": "La Vanguardia",
-    "fecha": 1788711719.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628579/barca-lamine-arrolla-valencia-ensordeceror-mestalla-llega-limite.html",
-    "resumen": "El conjunto azulgrana con un doblete de Lamine y goles de Fermín, Raphinha y Pedri son más líderes de la Liga"
+    "titulo": "Las proyecciones sitúan a la ultraderechista AfD al borde de la mayoría absoluta en Sajonia-Anhalt",
+    "medio": "Europa Press",
+    "fecha": 1788711653.0,
+    "link": "https://www.europapress.es/internacional/noticia-encuestas-pie-urna-situan-ultraderechista-afd-borde-mayoria-absoluta-sajonia-anhalt-20260906182053.html",
+    "resumen": "La conservadora CDU ha perdido la mitad de su apoyo electoral frente a una AfD que podría gobernar por primera vez un estado alemán"
   },
   {
     "titulo": "AfD ganaría su primer gobierno regional con el 47% en Sajonia-Anhalt, tras el 67% escrutado",
@@ -320,13 +495,6 @@
     "fecha": 1788711631.0,
     "link": "https://theobjective.com/internacional/2026-09-06/ultraderechista-afd-vence-en-sajonia-anhalt-y-queda-al-borde-del-gobierno-segun-sondeos/",
     "resumen": "El partido Alternativa para Alemania (AfD) ha ganado este domingo las elecciones en la región de Sajonia-Anhalt, en el este de Alemania. Tras escrutar el 67% […]"
-  },
-  {
-    "titulo": "Sandra Bullock cuenta algo que llevaba años callándose y la frase no puede ser más clara: \"Hay naves alienígenas volando por el cielo, las he visto\"",
-    "medio": "HuffPost",
-    "fecha": 1788711482.0,
-    "link": "https://www.huffingtonpost.es/virales/sandra-bullock-cuenta-llevabanos-callandose-frase-mas-clara-hay-naves-alienigenas-volando-cielo-he-vistobr-f202609.html",
-    "resumen": ""
   },
   {
     "titulo": "El Barça saca la apisonadora y le endosa una manita a un Valencia pobre que no compitió e hizo aguas en defensa",
@@ -341,13 +509,6 @@
     "fecha": 1788711298.0,
     "link": "https://www.elespanol.com/espana/20260906/diputado-representa-toda-ceuta-pide-congreso-declare-sitio-gobierno-nombre-autoridad-militar-temporal/1003744374272_0.html",
     "resumen": "Javier Celaya lo plantea \"a título personal\" para no comprometer al PP en un artículo que publicará esta noche EL ESPAÑOL.Se basa en que la Ley Orgánica prevé declarar el Estado de Sitio \"cuando se produzca un acto de fuerza contra la integridad territorial\".Alega que \"en Ceuta no habrá recelo ante una autoridad militar\" y lanza un guante: \"Si a alguien se le ocurre una solución más rápida, que la exponga\".Más información: La Policía teme que asentar a los migrantes en el puerto bloquee una instalación crítica y aísle más a Ceuta, como quiere Rabat, si hay disturbios"
-  },
-  {
-    "titulo": "Van Aert, imperial, repite éxito en la Vuelta a España",
-    "medio": "El País",
-    "fecha": 1788711136.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-09-06/van-aert-imperial-repite-exito-en-la-vuelta-a-espana.html",
-    "resumen": "El belga del Visma, que se metió en la fuga buena, logra su segundo triunfo en una etapa tan reducida como exigente"
   },
   {
     "titulo": "Muere a los 99 años Rosa Maria Duran, figura destacada de la comunidad catalana exiliada en México",
@@ -369,6 +530,13 @@
     "fecha": 1788710841.0,
     "link": "https://theobjective.com/espana/politica/2026-09-06/ana-redondo-visita-mujeres-menores-inmigrantes-ceuta-espaldas-medios/",
     "resumen": "La ministra de Igualdad, Ana Redondo, ha visitado Ceuta sin ningún tipo de encuentro con los medios de comunicación o las autoridades de la ciudad autónoma. […]"
+  },
+  {
+    "titulo": "La ultraderecha alemana arrasa en Sajonia-Anhalt pero no logra hacerse con la mayoría absoluta",
+    "medio": "eldiario.es",
+    "fecha": 1788710803.0,
+    "link": "https://www.eldiario.es/internacional/sondeos-apuntan-arrolladora-victoria-ultraderecha-alemana-sajonia-anhalt_1_13490941.html",
+    "resumen": "Las elecciones regionales de este domingo son ya las de más participación desde la reunificación alemana, con un 78,1%, superando en casi 6,5 puntos a los comicios con menor abstención de los años noventaAlemania, en vilo ante las elecciones de Sajonia-Anhalt con una ultraderecha que aspira a la mayoría absoluta Los primeros sondeos a pie de urna hechos públicos por la televisión pública alemana ARD junto a la empresa Infratest dimap apuntan a una arrolladora victoria de la ultraderecha de Alternativa por Alemania (AfD) en las elecciones regionales del Estado de Sajonia-Anhalt de este domingo con un 44% de los votos. Este resultado, favorecido por las malas expectativas de la CDU, actual partido en el gobierno tanto de este Estado oriental como a nivel federal, supone más del doble que el resultado obtenido por esta fuerza política en las elecciones regionales de 2021. La CDU confirma su descalabro y perdería más de la mitad de sus votos. La caída le lleva hasta el 17,4% de apoyos, manteniéndose en segunda posición, y la izquierda (Die Linke) perdería la tercera posición en las urnas con un 8,6% del voto. Por delante se situarían en el parlamento estatal los socialdemócratas, que subirían al 9,2%, y los Verdes, que alcanzarían el 8,9%. Queda en el aire la posible entrada del partido de Sarah Wagenknecht, al que los sondeos sitúan por encima del 5% del voto mínimo para entrar en el parlamento de Alta Sajonia. En el sondeo a pie de urna encargado por la ARD, la estimación de escaños no otorga la mayoría absoluta a AfD, que se quedaría con 39 parlamentarios, a tres de los 42 diputados necesarios para gobernar. Esta estimación sí da entrada en el parlamento a BSW, con cuatro diputados, y dejaría fuera a los liberales, que en 2021 obtuvieron un total de siete representantes. El resto de diputados se repartirían de la siguiente manera: 16 para la CDU y ocho escaños para Die Linke, SPD y los Verdes. A su vez, el sondeo de Forschungsgruppe Wahlen para la televisión ZDF iguala el resultado para la AfD con el 44%, y rebaja el apoyo para la segunda fuerza, la CDU, al 17,7%. Pocas diferencias hay entre el resto de fuerzas políticas, situando en un empate técnico a Die Linke (9,1%), y al SPD y a los Verdes en el 8,9% y el 8,7% del voto, respectivamente. Sobre las opciones de BSW para entrar en el parlamento estatal, este sondeo ha ido incrementándolas y sitúa desde su actualización de las 21 horas su apoyo en el 5%. El sondeo de la ZDF hace una estimación de los escaños obtenidos por cada partido y muestra que, en caso de quedarse fuera el partido liderado por Sarah Wagenknecht (izquierda nacionalpopulista), la AfD se quedaría a apenas un escaño de obtener la mayoría absoluta, con 41, que apenas podría ser impedida por una coalición entre la CDU, los socialdemócratas, la Izquierda y los Verdes. Frente a la ultraderecha, la CDU mantendría apenas 17 diputados estatales, Die Linke 9 y tanto el SPD como los Verdes ocho representantes. Las reacciones no se han hecho esperar. El candidato de AfD Ulrich Siegmund ha declarado al poco de conocerse los primeros sondeos que este resultado es un mandato “claro” para que su partido gobierne, aunque aún no está claro si logrará la mayoría absoluta. Por ello, Siegmund ha dicho que está buscando apoyo en el resto de fuerzas políticas, aunque sin éxito. El ultraderechista ha afirmado que han hecho “historia” en el Estado de Alta Sajonia y ha asegurado que con él “no verán ninguna concesión a nuestros valores para conseguir el poder”. Por su lado, el gran perdedor de la noche, el ministro presidente y líder de la CDU en el Estado Sven Schulze ha reconocido su derrota y ha felicitado a AfD por su victoria electoral. No ha detallado, eso sí, cuáles serán los próximos movimientos de su formación. Schulze ha dicho tras conocerse los primeros sondeos que las consecuencias de las políticas del gobierno federal de Friedrich Merz han contribuido a su derrota. Sven Schulze reacciona a los primeros sondeos desde la sede de la CDU en Magdeburgo. Los resultados en Magdeburgo, la capital del Estado, reflejan el resultado de las dos principales fuerzas políticas de la derecha en Alta Sajonia. Mientras la AfD, que gana un 17,5% de votos, se sitúa en el 32,6%, más que duplicando sus resultados de 2021, la CDU pierde una cantidad exactamente igual de apoyo y se queda en el 15,4% tras haber obtenido un 32,9% de apoyos hace cinco años. En este caso, los socialdemócratas recuperan la tercera posición, con una subida de 2,5 puntos hasta el 12,1%, mientras que Die Linke cae al 11% de apoyos. Ya desde las primeras horas la asistencia a los centros de votación era masiva por parte de los votantes de este Estado de la antigua RDA. Según los datos provisionales ofrecidos por la institucion electoral regional a las 16.00 horas, todo apunta a que será la eleccion regional con mayor participación desde la reunificación de las dos alemanias, con más del 65% de participación. En 1998, la elección con menor abstención hasta ahora, a las 16 horas apenas se superaba el 60% de participación. Finalmente, la participación en estos comicios ha alcanzado el 80%, superando en 8,5 puntos la de 1998, la mayor hasta el momento desde la reunificación, y cuando se alcanzó un 71,5%. Respecto a las anteriores elecciones regionales de Sajonia-Anhalt en 2021, los alrededor de 1,7 millones de votantes llamados a las urnas acudieron en mayor número a votar, pues cinco años antes el porcentaje de participación a la la misma hora fue de apenas un 41%. Los sondeos previos a la contienda electoral ya otorgaban a AfD el 40% en intención de voto en los comicios regionales de este domingo en este pequeño Estado oriental que la ultraderecha aspira a convertir en un laboratorio para proyectar su poder al resto del país. De confirmarse el resultado, este sería el primer gobierno regional de una fuerza situada a la derecha de los conservadores de la CDU-CSU desde la derrota del nazismo y la capitulación de la Alemania nazi en 1945. Ello supondría el derribo de facto del cordón sanitario mediante las urnas y una seria amenaza para lo que resta de mandato del canciller Friedrich Merz."
   },
   {
     "titulo": "Londres tiene un problema con los Ferrari y Lamborghini extranjeros que aparcan donde les da la gana: el 99% de las multas no se pagan",
@@ -406,13 +574,6 @@
     "resumen": "Mucho antes de que se construyera la Gran Pirámide de Guiza o el monumento de Stonehenge, las antiguas comunidades agrícolas de lo que hoy es la República Checa ya levantaban santuarios circulares para realizar rituales relacionados con el Sol y la Luna. Los historiadores conocen desde hace tiempo los \"roundels\" de Europa central, anillos prehistóricos formados con trincheras y fosos como el descubierto en 2022 cerca de Praga, pero ahora han dado con un complejo fascinante próximo a Chleby, una pequeña localidad de Bohemia Central. Los expertos calculan que tiene más de 6.500 años. ¿Qué ha pasado? Que los investigadores de la Universidad de Bohemia Occidental (Západočeská univerzita v Plzni) han dado con un hallazgo fascinante, un tesoro arqueológico que conecta con las comunidades agrícolas prehistóricas de Europa Central. Lo que han localizado es ni más ni menos que un santuario prehistórico próximo a Chleby que se levantó hace algo más de 6.500 años. ¿Es eso importante? Sí. El dato nos habla de una construcción bastante anterior a otras edificaciones emblemáticas, como la Gran Pirámide de Guiza, erigida hacia el 2.500 a.C. (aunque hay quien cree que es mucho más antigua), o Stonehenge, que se construyó en la llanura de Salisbury en el 3.100 a.C. Para ser más precisos, los expertos creen que las obras en el círculo pétreo de Wiltshire se iniciaron hace unos cinco milenios, aunque tardaron varios siglos en finalizarse y las últimas modificaciones son posteriores, del 1.500 a.C. ¿Cómo es el yacimiento checo? Amplio. Según precisan desde la Universidad de Bohemia Occidental, el santuario prehistórico de Chleby forma un recinto casi circular de 230 m de diámetro y todo indica que en su día contaba con una zanja de más de 2,5 m de profundidad. Los expertos han identificado además 12 entradas espaciadas de forma aparentemente aleatoria. Aparentemente. Al examinar más a fondo su distribución los investigadores descubrieron que sigue un patrón geométrico deliberado. De hecho, ese detalle ha resultado clave para comprender el objetivo del recinto, planificado siguiendo un sistema de observación y teniendo muy presentes los ciclos del Sol y la Luna. Y eso, ¿por qué? \"Cuando empezamos a analizar en detalle la ubicación de las entradas, quedó claro que su disposición no era aleatoria. Su geometría crea un sistema que permitía observar los momentos más significativos de los ciclos solares y lunares\", comenta Petr Krištuf, director de la investigación, quien recuerda que hay otra razón por la que el complejo resulta especial. \"Los recintos circulares son completamente desconocidos en nuestra región para este período, lo que hace que el yacimiento sea excepcional\", insiste. ¿Sabemos algo más? Sí. Los arqueólogos identificaron dos puntos de observación principal con evidentes referencias astronómicas. El primero se asocia con las posiciones extremas de la Luna en el horizonte durante su ciclo de 18 años. El segundo, apostilla la universidad checa, \"conecta el amanecer en el solsticio de verano con el atardecer en el solsticio de verano\". Esa peculiaridad, detallan, recuerda a una disposición similar identificada en Stonehenge. \"Para las comunidades agrícolas prehistóricas, la conexión entre el amanecer y solsticio de verano simbolizaba un comienzo, mientras que el atardecer y solsticio de invierno representaban un final. El mismo principio se puede observar en el eje principal de Stonehenge. Ahora podemos ver que el santuario de Chleby fue diseñado de manera similar\", comenta Krištuf. \"Aun así, más de 1.000 años antes, como hemos visto mediante la datación de material orgánico\". ¿Qué encontraron en el yacimiento? Además de los vestigios del antiguo reciento, Krištuf y sus colegas localizaron restos que confirman que Chleby era un lugar ritual. Al investigar el entorno desenterraron cráneos y cuernos de toro situados en la zanja próximo a las entradas, una localización que no es casual. \"En origen pudieron decorar las monumentales puertas que daban acceso al recinto\", concuerda Jan Turek, arqueólogo, antes de recordar la relevancia del culto al toro entre las primeras comunidades agrícolas, algo que confirman los abundantes restos hallados en diferentes enclaves de la Europa prehistórica. ¿Cambio su uso con el tiempo? Todo indica que sí. Y eso es algo que lo diferencia del conjunto inglés. En el pasado los arqueólogos ya habían localizado en la zona restos humanos que datan probablemente de la cultura Únětice, en la Edad de Bronce. En total se corresponden con 18 cadáveres que se sepultaron a lo largo del tiempo, lo que sugiere que el uso del enclave cambió con los siglos. \"En la Edad del Hierro el monumento parece haber perdido definitivamente su significado original\", confirma Krištuf. La zanja se rellenó y lo que en su día había sido un santuario prehistórico se convirtió en un \"asentamiento común\". Para ir un paso más allá y descifrar la historia del lugar, los investigadores han decidido fijarse en algo más que los restos de huesos y artefactos enterrados: quieren analizar los \"rastros químicos\" que dejan los humanos en el suelo. Imágenes | Západočeská univerzita v Plzni En Xataka | El tesoro escondido tras guerras y peste: 2.600 monedas de hace 600 años revelan el poder oculto de una ciudad rusa - La noticia \"Se diseñó de manera similar a Stonehenge, pero 1.000 años antes\": los arqueólogos han descubierto algo en el centro de Europa fue publicada originalmente en Xataka por Carlos Prego ."
   },
   {
-    "titulo": "Los Gallos se estrellan en el SailGP de Valencia en una jornada sin viento",
-    "medio": "El País",
-    "fecha": 1788708408.0,
-    "link": "https://elpais.com/deportes/2026-09-06/los-gallos-se-estrellan-en-el-sailgp-de-valencia-en-una-jornada-sin-viento.html",
-    "resumen": "El catamarán español se queda de nuevo fuera de la final de un gran premio, esta vez en campo propio, y observa desde la orilla la victoria de Estados Unidos"
-  },
-  {
     "titulo": "\"De repente, parece que ser padre requiere poco menos que un máster\": los expertos que se plantan contra 'la sensación de que todo lo hacemos mal'",
     "medio": "Xataka",
     "fecha": 1788706828.0,
@@ -432,34 +593,6 @@
     "fecha": 1788706800.0,
     "link": "https://hipertextual.com/cine-television/7-libros-de-fantasia-que-deberias-leer-ahora-mismo/",
     "resumen": "La literatura fantástica es un género inmortal, algo que ha quedado más que demostrado durante buena parte de la historia de la escritura. Y lo es por una razón obvia. Es fundamental porque permite explorar la condición humana, la moral y las emociones complejas desde una distancia segura. De modo que, al romper con las […] Seguir leyendo: 7 libros de fantasía que deberías leer ahora mismo"
-  },
-  {
-    "titulo": "El Gobierno emprende una campaña contra el presidente ceutí: «Es un mero peón de Feijóo»",
-    "medio": "The Objective",
-    "fecha": 1788706339.0,
-    "link": "https://theobjective.com/espana/politica/2026-09-06/gobierno-emprende-campana-presidente-ceuti-mero-peon-feijoo/",
-    "resumen": "Dos ministros de Pedro Sánchez han arremetido este domingo contra el que ya se ha erigido como la figura institucional que mejor representa el sentir general […]"
-  },
-  {
-    "titulo": "Pensábamos que bastaba con tener árboles para reducir la mortalidad en las ciudades. Pero lo importante es su \"edad\"",
-    "medio": "Xataka",
-    "fecha": 1788705027.0,
-    "link": "https://www.xataka.com/ecologia-y-naturaleza/pensabamos-que-bastaba-tener-arboles-para-reducir-mortalidad-ciudades-importante-su-edad",
-    "resumen": "Durante años, hemos intuido que vivir cerca de zonas verdes es beneficioso para nuestra salud. Sin embargo, cuantificar matemáticamente ese beneficio a lo largo del tiempo es un desafío monumental que un estudio trató de solventar tras analizar 801 sectores censales de la ciudad de Chicago entre los años 2011 y 2021. Cómo se hizo. Para ello, los investigadores cruzaron datos anuales de cobertura arbórea, temperatura y contaminación con las características sociodemográficas de los barrios y un total de 220.711 defunciones registradas. Y el hallazgo que encontraron fue que la cantidad total de cobertura arbórea en un momento específico no mostró una asociación estadísticamente significativa con la reducción de la mortalidad general. Lo que verdaderamente marcó la diferencia y salvó vidas fue el incremento progresivo de esa cobertura vegetal de un año para el siguiente. En Xataka No basta con llenar las ciudades de árboles para frenar el calor: la ciencia ya sabe cuáles enfrían más y cómo debemos colocarlos El bosque urbano. Según los datos obtenidos en Chicago, el aumento interanual de la superficie arbolada se asoció de forma robusta con caídas notables en varias causas de muerte. En concreto, se pudo ver una disminución del 10% en la mortalidad general y un 11% en la mortalidad por causas respiratorias. Pero esto no significa que el simple acto de plantar un árbol individual reduzca automáticamente la mortalidad del barrio en esa proporción. De hecho, los investigadores desarrollaron un modelo hipotético que ilustra la escala del esfuerzo necesario y apunta que, si Chicago lograse aumentar su cobertura un 0,003% cada año, podrían llegar a evitarse unas 105 muertes anuales. Los árboles viejos importan. Un experimento natural que analizó 30 años de plantaciones en Portland descubrió que cada árbol plantado en los 15 años previos se asociaba con menores tasas de mortalidad cardiovascular y no accidental. El dato clave es que esta asociación protectora era mucho mayor cuanto más tiempo habían tenido los árboles para crecer y madurar. Esto nos hace ver lo importante que es mantener nuestros bosques urbanos y no estar moviéndolos de manera constante. Un escudo contra el calor. Algo que hemos hablado en diferentes ocasiones es que tener árboles en las grandes ciudades es fundamental para tener un escudo contra el cambio climático y reducir la mortalidad relacionada con el calor extremo. Esto es lo que vio un estudio predictivo sobre 744 ciudades europeas que estimó que un aumento del 5% en la cobertura arbórea reduciría las concentraciones de ozono y partículas PM2.5, disminuyendo así la mortalidad atribuible a la polución. En Xataka El límite de los 1,5 °C ya es una causa perdida. El plan B de la ciencia pasa por una tecnología que aún no dominamos La geometría del bosque. Además de la cantidad de árboles, también es importante el cómo los colocamos, puesto que 'plantar por plantar' no es lo más óptimo a día de hoy. Y es que la ciencia, además de confirmar la protección que nos dan los árboles, también es importante la conectividad, distribución y nivel de fragmentación. La salud mental. Un metaanálisis de cohortes que incluyó a más de 8,3 millones de personas halló una asociación inversa clara entre el verdor residencial y la mortalidad general. Pero esto no es todo, puesto que otra revisión que abarcó 201 estudios previos asoció los árboles urbanos con mejoras palpables en los niveles de estrés, la actividad física y la salud mental. Imágenes | SHVETS production En Xataka | Parecen miles de árboles, pero son un solo ser vivo: el organismo más pesado del mundo está en Utah - La noticia Pensábamos que bastaba con tener árboles para reducir la mortalidad en las ciudades. Pero lo importante es su \"edad\" fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "El repunte de la inflación tensa la negociación para la subida del salario mínimo en 2027",
-    "medio": "Expansión",
-    "fecha": 1788703690.0,
-    "link": "https://www.expansion.com/economia/2026/09/06/6a9d729f468aeb4f028b4588.html",
-    "resumen": "El Ministerio de Trabajo encara estos próximos meses la negociación para abordar una nueva subida del salario mínimo interprofesional (SMI) en 2027 con el repunte de la inflación de fondo, un factor que anticipa más tensiones también en el ámbito de la negociación salarial entre empresas y sindicatos. Leer"
-  },
-  {
-    "titulo": "Luis Fermoso, el periodista detrás de todo",
-    "medio": "El País",
-    "fecha": 1788703630.0,
-    "link": "https://elpais.com/deportes/2026-09-06/luis-fermoso-el-periodista-detras-de-todo.html",
-    "resumen": "Solo con extractos de sus locuciones podríamos viajar desde los noventa hasta hoy a base de historias maravillosas. Figura clave en Movistar Plus+ y en el programa Informe Robinson, ha fallecido a los 53 años"
   },
   {
     "titulo": "Devueltos 21 migrantes a Marruecos tras apedrear a una patrulla de militares en Ceuta",
@@ -497,20 +630,6 @@
     "resumen": "Las películas de terror no siempre deben mostrar sangre derramada para asustar y es algo que el año 2026 ha dejado muy claro. Éxitos como la inquietante Obsesión o la claustrofóbica Backrooms no solo muestran el alcance de un terror más introspectivo. También uno que toma los terrores del público y los transforma en densas […] Seguir leyendo: 5 películas de terror para los que odian ver sangre"
   },
   {
-    "titulo": "El legendario reality de MTV Jersey Shore finaliza su emisión tras 17 años, pero su versión española, con Ylenia y Labrador, aún puede verse en Apple TV",
-    "medio": "The Objective",
-    "fecha": 1788702090.0,
-    "link": "https://theobjective.com/medios/television/2026-09-06/legendario-reality-mtv-jersey-shore-finaliza-emision-17-anos-su-version-espanola-ylenia-labrador-puede-verse-apple-tv/",
-    "resumen": "La televisión de principios del 2000 pierde uno de sus programas más longevos y queridos por los fanáticos, sobre todo para los espectadores de MTV. Jersey […]"
-  },
-  {
-    "titulo": "La negociación del Gobierno luso con Lufthansa y Air France-KLM por TAP durará tres semanas",
-    "medio": "Expansión",
-    "fecha": 1788700663.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/09/06/6a9d6446468aeb932d8b458d.html",
-    "resumen": "Las negociaciones del Gobierno de Portugal con Lufthansa y Air France-KLM, interesados en la compra del 44,9% de la aerolínea TAP, durarán tres semanas, mientras que el plazo del proceso para la reprivatización parcial de la compañía se extenderá hasta el próximo 31 de diciembre. Leer"
-  },
-  {
     "titulo": "La primera mentira del Tapiz de Bayeux comienza en su propio nombre",
     "medio": "eldiario.es",
     "fecha": 1788699637.0,
@@ -532,20 +651,6 @@
     "resumen": "Chad Powers es una de esas series de las que quizás no has oído hablar, pero que de pronto parece estar en todas partes. Razones no faltan. Por un lado, se trata de una de las comedias deportivas más ingeniosas de la actualidad. En especial, porque se aleja del drama facilón o del humor exagerado […] Seguir leyendo: 3 razones para ver la nueva temporada de ‘Chad Powers’ con Glen Powell en Disney+"
   },
   {
-    "titulo": "El español Toni Bou ya es 40 veces campeón del mundo de trial",
-    "medio": "The Objective",
-    "fecha": 1788699481.0,
-    "link": "https://theobjective.com/deportes/2026-09-06/toni-bou-campeon-mundo-trial/",
-    "resumen": "El piloto español Toni Bou (Repsol Honda HRC) ha conquistado este domingo en Zelhem (Países Bajos) el título del Campeonato del Mundo de TrialGP por vigésima […]"
-  },
-  {
-    "titulo": "El PP exige al Gobierno un \"giro profundo\" en automoción ante la pérdida de competitividad por el caso Seat",
-    "medio": "Expansión",
-    "fecha": 1788699421.0,
-    "link": "https://www.expansion.com/economia/2026/09/06/6a9d4892e5fdea742e8b456e.html",
-    "resumen": "El vicesecretario de Economía y Desarrollo Sostenible del PP, Alberto Nadal, ha reclamado un \"giro profundo\" de la política del Gobierno hacia la industria del automóvil y ha enmarcado la incertidumbre sobre el futuro de la marca Seat como una advertencia de \"la pérdida de competitividad de una industria estratégica para España\". Leer"
-  },
-  {
     "titulo": "Susan Sarandon regresa tras ser vetada por apoyar a Palestina: “La gente ha descubierto los lazos de EEUU con el sionismo”",
     "medio": "eldiario.es",
     "fecha": 1788697964.0,
@@ -558,20 +663,6 @@
     "fecha": 1788697800.0,
     "link": "https://jacobin.com/2026/09/gen-z-protests-india-modi",
     "resumen": "The protest movement by young people in India has challenged the culture of fear that protects Narendra Modi’s Hindutva government. They are carving out the space for a future without Modi and his divisive authoritarian agenda."
-  },
-  {
-    "titulo": "Centenares de ceutíes vuelven a concentrarse frente a la Delegación del Gobierno al grito de \"invasores, expulsión\"",
-    "medio": "El Español",
-    "fecha": 1788696925.0,
-    "link": "https://www.elespanol.com/espana/20260906/centenares-ceuties-vuelven-concentrarse-frente-delegacion-gobierno-grito-invasores-expulsion/1003744374285_0.html",
-    "resumen": "La manifestación, que ha transcurrido de forma totalmente pacífica, ha sido convocada bajo el eslogan \"Por los niños de Ceuta\".Más información: El informe de la autoridad portuaria que ignoró Puente: el campamento aumenta el riesgo de sabotajes y de cortes de luz"
-  },
-  {
-    "titulo": "Muere atropellado un cachorro de lince ibérico en una carretera de Ciudad Real",
-    "medio": "eldiario.es",
-    "fecha": 1788696880.0,
-    "link": "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/muere-atropellado-cachorro-lince-iberico-carretera-ciudad-real_1_13490726.html",
-    "resumen": "El ejemplar ha sido localizado por un grupo de ciclistas que circulaba por la CM-4115, en el entorno de la microrreserva de la laguna de CaracuelMuere un lince tras ser atropellado en la población toledana de San Martín de Montalbán Un cachorro de lince ibérico ha muerto este domingo atropellado en la carretera CM-4115, que conecta las localidades ciudadrealeñas de Caracuel, Villamayor de Calatrava y Almodóvar del Campo, en el entorno de la microrreserva de la laguna de Caracuel. El ejemplar ha sido localizado por un grupo de ciclistas que circulaba por esta carretera, según han informado a EFE los propios testigos, en una zona considerada actualmente como área de dispersión del lince ibérico y en la que la presencia de la especie se ha constatado desde hace varios años. Los ciclistas han explicado que han dado aviso al 112, que ha movilizado una patrulla de agentes del Servicio de Protección de la Naturaleza (Seprona), quienes han sido los encargados de retirar el cuerpo del cachorro que ha sido trasladado finalmente al Centro de Recuperación de Fauna Silvestre de 'El Chaparrillo'. El atropello, han explicado, no sería un hecho aislado en este punto, puesto que en los últimos años se han localizado en esta carretera otros tres ejemplares de lince ibérico muertos tras ser atropellados, por lo que la Junta de Comunidades de Castilla-La Mancha ha instalado carteles informativos en la zona para advertir de la presencia de la especie en este punto de la vía y alertar del riesgo de ser atropellados. La microrreserva está incluida en el Lugar de Importancia Comunitaria (LIC) “Lagunas Volcánicas del Campo de Calatrava”, integrado en la Red Natura 2000. Más de mil ejemplares viven en Castilla-La Mancha La muerte del cachorro vuelve a evidenciar la presencia del lince ibérico en este sector de la provincia de Ciudad Real, donde los atropellos constituyen uno de los riesgos asociados a los desplazamientos de los ejemplares por las carreteras de la zona. El último censo oficial del lince ibérico, correspondiente a 2025, sitúa en 1.051 los ejemplares presentes en Castilla-La Mancha, la comunidad autónoma con mayor número de linces de toda España, que representa el 46,3 % de los 2.269 ejemplares contabilizados en territorio español y supone un incremento respecto a los 942 registrados en la región en 2024. Del total regional, 595 eran ejemplares adultos o subadultos y se contabilizaron además 456 cachorros nacidos durante 2025, lo que refleja además la elevada productividad de la población castellanomanchega, con 2,1 cachorros por hembra territorial, la tasa más alta entre las comunidades españolas con poblaciones reproductoras."
   },
   {
     "titulo": "Pocos lo saben, pero la razón por la que los restaurantes sirven el pan antes de la comida no es la que crees",
@@ -595,60 +686,11 @@
     "resumen": "Los monstruos clásicos son parte de la historia del cine de terror desde sus inicios. Y mucho más, después que Universal hiciera de cada uno de ellos parte esencial de su extensa saga de cintas sobre historias espeluznantes. Por ese motivo, es para celebrar que toda una nueva generación de realizadores traiga de vuelta a […] Seguir leyendo: Esta nueva versión del monstruo clásico te sorprenderá y ya la puedes ver en Movistar+"
   },
   {
-    "titulo": "La OPEP+ no cambia su producción tras meses de subidas y con problemas de exportación",
-    "medio": "Expansión",
-    "fecha": 1788695846.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/09/06/6a9d5485e5fdea58678b456e.html",
-    "resumen": "La alianza OPEP+, liderada por Arabia Saudí y Rusia, ha decidido este domingo mantener sin cambios su oferta petrolera, tras meses de aumentos, mientras queda pendiente una negociación para distribuir cuotas de bombeo entre sus 21 miembros, afectada por los problemas de exportación por la guerra en Irán. Leer"
-  },
-  {
-    "titulo": "Sánchez reúne a sus parlamentarios para preparar el nuevo curso político",
-    "medio": "The Objective",
-    "fecha": 1788695792.0,
-    "link": "https://theobjective.com/espana/politica/2026-09-06/sanchez-reune-diputados-senadores-inicio-curso-politico-marcado-ceuta/",
-    "resumen": "Comienza el curso político para Pedro Sánchez. Este lunes los parlamentarios del PSOE se reunirán para recibir las directrices necesarias para afrontarlo en bloque, en un […]"
-  },
-  {
-    "titulo": "El pique entre Alcaraz y Sabalenka en los entrenamientos del US Open por un motivo inesperado: «¡Estoy tan celosa!»",
-    "medio": "The Objective",
-    "fecha": 1788695388.0,
-    "link": "https://theobjective.com/deportes/2026-09-06/pique-alcaraz-sabalenka-entrenamientos-us-open-motivo-inesperado-estoy-tan-celosa/",
-    "resumen": "El US Open se encuentra en sus últimas fases de competición. En el cuadro individual, tanto masculino como femenino, se disputan este fin de semana los […]"
-  },
-  {
-    "titulo": "Las exportaciones agroalimentarias españolas a EEUU cayeron un 10% en 2025 por los aranceles",
-    "medio": "Expansión",
-    "fecha": 1788695053.0,
-    "link": "https://www.expansion.com/economia/2026/09/06/6a9d46b0468aeb3e018b457a.html",
-    "resumen": "Las exportaciones del sector agroalimentario y pesquero español dirigidas a Estados Unidos se desplomaron un 10% durante 2025, hasta alcanzar los 3.256 millones de euros, según los datos del Informe Anual de Comercio Exterior Agroalimentario y Pesquero 2025 del Ministerio de Agricultura, Pesca y Alimentación. Leer"
-  },
-  {
-    "titulo": "Devueltos a Marruecos 21 inmigrantes por lanzar piedras a militares en Ceuta",
-    "medio": "The Objective",
-    "fecha": 1788694457.0,
-    "link": "https://theobjective.com/espana/2026-09-06/detenidos-inmigrantes-militares-guardias-civiles-ceuta/",
-    "resumen": "Un total de 21 inmigrantes, todos ellos marroquíes, han sido detenidos este domingo en Ceuta por protagonizar un nuevo apedreamiento a una patrulla militar y a […]"
-  },
-  {
     "titulo": "Tyson Shuttered a Plant and Laid Off 2,500 Workers Overnight",
     "medio": "Jacobin ES",
     "fecha": 1788694200.0,
     "link": "https://jacobin.com/2026/09/tyson-illinois-plant-closure-immigrant-workers",
     "resumen": "Tyson abruptly shut down its plant in Joslin, Illinois, last month, throwing 2,500 mostly immigrant workers out of work. Consolidation across the beef and grocery industries may be driving a wave of meatpacking job losses."
-  },
-  {
-    "titulo": "España deporta a Marruecos a los 21 detenidos por apedrear a militares y guardias civiles en Ceuta",
-    "medio": "eldiario.es",
-    "fecha": 1788694189.0,
-    "link": "https://www.eldiario.es/sociedad/detenidas-21-personas-apedrear-militares-guardias-civiles-ceuta_1_13490677.html",
-    "resumen": "El incidente se produjo la noche de este sábado en las inmediaciones de la playa del Trampolín. Los detenidos, todos de nacionalidad marroquí, han sido devueltos a Marruecos tras reconocer su participación en los hechos y decidir voluntariamente retornar a su paísEl Gobierno dice que las carpas en el puerto de Ceuta son “temporales” Las 21 personas migrantes, todas de nacionalidad marroquí, detenidas en las últimas horas en Ceuta por participar en el apedreamiento a una patrulla militar y a guardias civiles han sido devueltos a Marruecos tras reconocer su participación en los hechos y decidir voluntariamente retornar a su país. Según han informado a EFE fuentes policiales, los 21 arrestados han sido trasladados a la frontera del Tarajal, después del incidente que se produjo a última hora de la noche de este sábado en las inmediaciones de la playa del Trampolín, lugar donde se concentran centenares de migrantes que duermen en esta zona de la costa. Los migrantes estaban participando en peleas entre ellos, tras lo cual optaron por lanzar piedras contra una patrulla de las Fuerzas Armadas que estaba en las inmediaciones, sin que se produjeran heridos. La Guardia Civil intervino y también resultó apedreada. La Asociación de Tropa y Marinería Española (ATME) ha lamentado este domingo los incidentes y ha asegurado que estos sucesos contra las Fuerzas Armadas se están repitiendo “porque no están investidos de la autoridad suficiente para poder ejercer su trabajo de una manera eficaz y contundente”. La ATME ha exigido “de manera inmediata” el reconocimiento como agentes de la autoridad y también como “profesión de riesgo ya que cada día los enfrentamientos son más numerosos y las agresiones más continuas”. “No podemos seguir en esta situación y elevamos la voz de alarma que llevamos diciendo desde hace un mes”, ha añadido la organización de militares."
-  },
-  {
-    "titulo": "El piloto español Toni Bou amplía su leyenda y conquista su 40º título Mundial de trial",
-    "medio": "El Español",
-    "fecha": 1788693227.0,
-    "link": "https://www.elespanol.com/deportes/otros-deportes/20260906/piloto-espanol-toni-bou-amplia-leyenda-conquista-titulo-mundial-trial/1003744374261_0.html",
-    "resumen": "El catalán alcanza en Holanda su 40º título del mundo de Trial a sus 39 años, siendo además invicto en todo lo que se ha disputado de temporada.Más información: Gabriel Marcelli, el discípulo de Toni Bou llamado a reinar en el trial: \"Si he podido ganarle una carrera, por qué no un Mundial\""
   },
   {
     "titulo": "La próxima serie de ‘Star Wars’ podría presentar al villano más brutal de la saga… es mucho más poderoso que Darth Vader",
@@ -658,25 +700,11 @@
     "resumen": "A pesar de su reciente regreso a los cines con The Mandalorian and Grogu, lo cierto es que Star Wars no ha olvidado del todo sus proyectos de streaming. De hecho, una de sus próximas series promete ser clave en el futuro de la franquicia galáctica. Tanto que los rumores ya apuntan a que presentará […] Seguir leyendo: La próxima serie de ‘Star Wars’ podría presentar al villano más brutal de la saga… es mucho más poderoso que Darth Vader"
   },
   {
-    "titulo": "Las reservas de petróleo amortiguan la subida del crudo tras seis meses de crisis en Ormuz",
-    "medio": "Expansión",
-    "fecha": 1788692086.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/09/06/6a9d42b7468aebb4348b457c.html",
-    "resumen": "Los inventarios globales de petróleo continúan reduciéndose a un ritmo acelerado para amortiguar la subida del precio de crudo por el conflicto en Oriente Medio que mantiene cerrado el estratégico estrecho de Ormuz, por donde hace más de seis meses circulaba el 20% del crudo mundial. Leer"
-  },
-  {
     "titulo": "PP planteará un conflicto de atribuciones por las ausencias de ministros en el Senado para explicar la crisis de Ceuta",
     "medio": "Europa Press",
     "fecha": 1788691095.0,
     "link": "https://www.europapress.es/nacional/noticia-pp-planteara-conflicto-atribuciones-ausencias-ministros-senado-explicar-crisis-ceuta-20260906123815.html",
     "resumen": "El PP planteará en el próximo pleno del Senado un conflicto de atribuciones por las ausencias del Gobierno en la Cámara Alta para explicar la crisis migratoria de Ceuta."
-  },
-  {
-    "titulo": "Más 1.600 menores filiados en Ceuta, entre el traslado a la Península y la reagrupación familiar",
-    "medio": "Europa Press",
-    "fecha": 1788690772.0,
-    "link": "https://www.europapress.es/epsocial/migracion/noticia-mas-1600-menores-filiados-ceuta-traslado-peninsula-reagrupacion-familiar-20260906123252.html",
-    "resumen": "Más de 1.600 menores migrantes han sido filiados en Ceuta tras la entrada masiva de extranjeros de julio y 500 plazas de acogida para niñas vulnerables están listas en la Península, a la espera de la firma de la comunidad autónoma de Ceuta, gobernada por Juan Jesús Vivas (PP)."
   },
   {
     "titulo": "Tras la subida de precios, fichamos un MacBook Air M5 con 1 TB de almacenamiento con descuento: es reacondicionado, pero está como nuevo",
@@ -749,20 +777,6 @@
     "resumen": "Aunque no conocemos mayor placer que el olor del papel de las páginas de los mejores libros, debemos reconocer que los modelos electrónicos son muy útiles y nos sirven para disfrutar de una infinidad de títulos por un precio menor (una vez que ya hemos adquirido el gadget). Además, son fáciles de transportar y pesan poco, un factor a tener en cuenta si deseamos gozar de la lectura en cualquier lugar. Tampoco es desdeñable poder contar con un sinfín de títulos en un accesorio que ocupa tan poco espacio, algo fundamental para todos aquellos que vivimos de alquiler en pocos metros cuadrados. Las opciones de marca propia en cuanto a libros electrónicos que ofrece Amazon, bautizadas como Kindle, son unas de las populares del mercado y actualmente encontramos cinco lectores electrónicos distintos que se adaptan a diferentes necesidades y presupuestos. Desde el modelo más básico hasta el más completo, con lápiz óptico incluido para poder tomar notas y hasta hacer esbozos usándolo como cuaderno. Es importante notar que a partir del 20 de mayo de 2026, Amazon dejará de dar soporte operativo a más de 10 modelos antiguos lanzados en 2012 o antes. Tras esta fecha, estos dispositivos no podrán acceder a la tienda, comprar ni descargar libros nuevos. Los libros ya descargados seguirán siendo accesibles, pero el dispositivo no podrá registrarse nuevamente si se restablece. Así que este es un buen momento para renovar nuestro dispositivo. Trendencias Los 100 mejores libros del siglo XXI que, según el New York Post, hay que leer una vez en la vida Índice de Contenidos (3) Nuestra selección de lectores de libro electrónico Kindle, de un vistazo: Cómo elegir un buen Amazon Kindle Los cuatro modelos de Amazon Kindle, a examen Nuestra selección de lectores de libro electrónico Kindle, de un vistazo:Kindle, el básico todoterreno más ligero y compactoNuevo Kindle Paperwhite, la gama media mejoradaKindle Colorsoft Signature Edition, un paso más allá, ideal para los que leen muchas novelas gráficasNuevo Kindle Scribe, para los que prefieren escribir a manoCómo elegir un buen Amazon Kindle Diseño La mayoría de libros electrónicos son de dimensiones reducidas, peso liviano y tamaño compacto pero pese a ello nos permiten almacenar miles de obras en un mismo gadget. Así y todo, debemos tener en cuenta que no todos son igual de ergonómicos, ligeros y manejables, y que no todos ellos se pueden usar con una sola mano. De este modo, recomendamos que tengas en cuenta cuáles son sus dimensiones y cuáles se adaptan mejor a tus propósitos según tus necesidades. Pantalla Como con los teléfonos móviles, es importante fijarse en la pantalla. No es lo mismo una pantalla de 5 o de 7 pulgadas, aunque la mayoría son de 6\". Los expertos de Xataka nos conminan también a tener muy en cuenta \"su calidad, la resolución y la entrega de brillo, este último fundamental si vamos a leer en exteriores. Teniendo en cuenta las diagonales de estos dispositivos, la resolución más adecuada para una buena experiencia es de unos 300 ppp\". Así que si tienes pensado usarlo a menudo mientras tomas el sol en la tumbona, o cuando sales al parque a relajarte, mejor fíjate bien en ello. Formatos admitidos Los libros son archivos electrónicos que se descargan en diferentes formatos. Los PDF, AZW3, AZW, TXT, PDF, MOBI, PRC, HTML, DOC, DOCX, JPEG, GIF, PNG, BMP o EPUB son los más populares. Los especialistas apuntan que el EPUB no es admitido por los populares Kindle, pero \"siempre podremos pasar de un formato a otro gracias a software como Calibre\". Resulta muy sencillo de usar, no tiene ningún misterio incluso si eres lo opuesto a un geeky. Conectividad La gran mayoría de dispositivos incluyen red WiFi para descargar los libros o navegar por la red, pero es interesante saber si el modelo que vamos a comprar dispone o no de conectividad móvil, así podremos disponer de los servicios desde cualquier lugar. Seguro que te fijas en que tus auriculares inalámbricos Bluetooth se emparejen automáticamente con cuantos más dispositivos mejor, pues esto es igual. Batería Como cualquier gadget electrónico es importante valorar la autonomía de la batería. En general, \"el consumo de los libros electrónicos es muy bajo, lo que posibilita que podamos estar sin cargarlos durante semanas, pero siempre es bueno que dispongan de cuanta más autonomía, mejor\" defienden en Xataka. Nos ha tocado acampar en aeropuertos haciendo esperas interminables, damos gracias por contar con lectores electrónicos con baterías que duran más que las pilas del conejito Duracell. Y si no, que al menos podamos cargarlos fácilmente con una power bank. Resistencia al agua Un eBook no está pensado para bucear en las profundidades, pero como cualquier dispositivo electrónico, merece la pena apostar por un modelo con relativa resistencia al agua por si se cae a la piscina o sufre cualquier accidente. Como detalle, los especialistas defienden que \"si vamos a la playa, mucho ojo con la sal\". Al igual que la sal puede hacer estragos con nuestro pelo, imagínate lo que puede conseguir si entra en contacto con los circuitos de nuestro lector. Lo primero se arregla con una buena mascarilla reparadora, lo segundo es más difícil de solucionar. Personalización y protección Por último, pero no menos importante, es interesante tener en mente la compra de un modelo que se pueda personalizar y proteger con elementos externos, como una buena funda o un cristal templado para la pantalla. Con ello conseguiremos alargar su vida útil durante mucho más tiempo, tener una experiencia lectora mucho mejor y evitar que su pantalla presente feos arañazos o la carcasa manchas. En Trendencias Qué leer en 2026: los mejores libros recomendados para todos los gustos Los cuatro modelos de Amazon Kindle, a examen Tras conocer aquellos factores que resultan esenciales para ejecutar una buena compra, analizamos los cuatro modelos disponibles actualmente de Amazon Kindle (ya que desde el pasado 2025 ha quedado atrás el muy añorado por muchos Kindle Oasis), para que elijas el que mejor se adapte a lo que estás buscando. Nuevo Kindle, el básico todoterreno Damos el primero paso con el modelo más económico y sencillo de la colección, pero no por ello menos interesante. El Kindle dispone de una pantalla de 6 pulgadas sin reflejos con una resolución de una resolución de 300 ppp y alto contraste, que nos ofrece una experiencia de lectura como si fuese papel impreso, sin ningún reflejo incluso bajo la luz del sol. Y, en caso de estar leyendo en la oscuridad, cuenta con una luz frontal ajustable incorporada a la pantalla. Ofrece 16 GB de memoria interna, suficiente para guardar millones de archivos. Su batería se carga mediante cable USB-C, y tiene una autonomía de hasta seis semanas. Respecto a la conectividad, sólo ofrece Wifi, así que no podemos disfrutar de descargar o conexión a Internet si no disponemos de esta red. Su precio ahora es de 169 euros. Nuevo Kindle Paperwhite, la gama media Un paso por encima se sitúa el Kindle Paperwhite. En este caso, es la gama media de la línea. Tiene una pantalla de 7 pulgadas (un poco mayor que el modelo anterior), y que permite pasar las páginas más rápido. También cuenta con una luz frontal bastante potente, con 17 LED. Un modelo diseñado con el propósito de no fatigar la vista tras horas de lectura, por lo que es ideal para aquellos que adoran devorar páginas. Y promete que no tiene reflejos. Además, es resistente al agua, así que se puede usar en la bañera o en la playa. Ofrece tanto WiFi como conectividad móvil, así que podremos descargar nuestros títulos favoritos fuera de casa. Sus mayores fallas son la conectividad Bluetooth para los audiolibros. Tiene un puerto USB-C y ofrece una autonomía de hasta doce semanas. Con una capacidad de 16 GB, su precio es de 224,99 euros en la versión sin Kindle Unlimited y sin publicidad. Kindle Colorsoft Signature Edition, un paso más allá Un modelo prácticamente idéntico al anterior pero con mayor capacidad de almacenamiento (32 GB en lugar de 16 GB). Además, ofrece dos mejoras respecto al modelo anterior: sistema de ajuste automático de la luz en función de las condiciones de iluminación externas, y sistema de carga inalámbrica, de modo que nos evita tener que depender de un cable para recargarlo. Si crees que estas dos características son fundamentales para tus necesidades, y además eres un lector asiduo de novela gráfica o usas destacados en color en los apuntes, este es tu libro electrónico. Este modelo lo encontramos desde 289,12 euros. Nuevo Kindle Scribe, para los que además quieren un cuaderno Con todas las características de sus predecesores, incluida la pantalla Paperwhite, tenemos este Scribe para tomar notas a mano, importar documentos y firmarlos, escribir notas en los libros o cualquier otro documento. Con él podemos escribir a mano, realizar anotaciones y dibujar de forma muy fácil y cómoda gracias a su lápiz óptico Premium, el cual está incluido en el precio. Cuenta con una pantalla sin reflejos de 11 pulgadas con una resolución de 300 ppp y luz frontal. Su cuaderno digital integrado y las herramientas de IA que contiene, además de que es compatible con servicios en la nube y tiene conexión WiFi, hacen de este dispositivo el más completo de Kindle. Eso sí, no incluye el adaptador de corriente ni ofrece carga inalámbrica, no es resistente al agua y no cuenta con botones de paso de página. Una joya que encontramos por 519,99 euros (versión de 32 GB con lápiz premium. Más fino, ligero y rápido, escribe en cuadernos, documentos y libros 3 meses de Kindle Unlimited). Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Foto de portada | İrem Karakaş |Amazon En Trendencias | La mejor power bank para tu teléfono móvil | ¿Cuál comprar? Consejos y recomendaciones - La noticia Amazon Kindle 2026 | ¿Cuál es mejor comprar? Consejos y recomendaciones fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
-    "titulo": "El PSOE lleva al Congreso una iniciativa contra Feijóo para obligarle a publicar todos sus ingresos y patrimonio",
-    "medio": "Europa Press",
-    "fecha": 1788688794.0,
-    "link": "https://www.europapress.es/nacional/noticia-psoe-lleva-congreso-iniciativa-contra-feijoo-obligarle-publicar-todos-ingresos-patrimonio-20260906115954.html",
-    "resumen": "Se trata de la propuesta registrada después de que Sánchez instara al líder de la oposición a explicar quién paga su piso en Madrid"
-  },
-  {
-    "titulo": "Más de 8 millones de alumnos vuelven esta semana al cole con calor, el foco puesto en Ceuta y huelgas en varias CC.AA",
-    "medio": "Europa Press",
-    "fecha": 1788687890.0,
-    "link": "https://www.europapress.es/sociedad/noticia-mas-millones-alumnos-vuelven-semana-cole-calor-foco-puesto-ceuta-huelgas-varias-ccaa-20260906114450.html",
-    "resumen": "Más de 8 millones de alumnos españoles retomarán la actividad lectiva tras las vacaciones de verano durante esta semana, aunque los primeros escolares en volver a las aulas fueron los de la Enseñanza Secundaria Obligatoria (ESO) y los de Bachillerato de la Comunidad Foral de Navarra, que lo hicieron el viernes 4 de septiembre. El resto de alumnos de esta comunidad están haciendo entre los días 4 y 8."
-  },
-  {
     "titulo": "En 72 horas hay keynote: ¿se atreverá John Ternus con un 'One More Thing' en su debut?",
     "medio": "Applesfera",
     "fecha": 1788685228.0,
@@ -777,25 +791,11 @@
     "resumen": "La entrada masiva de migrantes en Ceuta de finales de julio ha puesto de manifiesto el particular encaje que tiene este territorio, al igual que Melilla, en la Unión Europea y ha llevado al presidente del Gobierno, Pedro Sánchez, a anunciar una serie de medidas para dejar claro que ambas ciudades autónomas, pese a encontrarse enclavadas en el norte de África, son territorio europeo."
   },
   {
-    "titulo": "El exministro Trillo pide declarar el estado de excepción en Ceuta y llevar a Marruecos ante los foros internacionales",
-    "medio": "Europa Press",
-    "fecha": 1788682989.0,
-    "link": "https://www.europapress.es/nacional/noticia-exministro-trillo-pide-declarar-estado-excepcion-ceuta-llevar-marruecos-foros-internacionales-20260906102309.html",
-    "resumen": "Ve a Sánchez con \"síndrome de Estocolmo\" porque está \"en manos de sus secuestradores\" y defiende que se publiquen todos los informes"
-  },
-  {
     "titulo": "Mango agotará los mocasines de ante que las francesas llevan con vaqueros porque son comodísimos",
     "medio": "Trendencias",
     "fecha": 1788681628.0,
     "link": "https://www.trendencias.com/shopping/mango-agotara-mocasines-que-francesas-llevan-vaqueros-porque-comodisimos",
     "resumen": "Aunque muchas veces desearíamos ir todo el día en zapatillas para poder aguantar las jornadas maratonianas de trabajo, lo cierto es que existen alternativas de calzado plano igual de cómodas pero mucho más elegantes. Y que este otoño 2026 están en plena tendencia. Pudiera parecer que las bailarinas y las merceditas son la respuesta, pero lo cierto es que los mocasines planos son la alternativa definitiva para las que más saben de moda. Y Mango, que lo sabe, cuenta entre sus novedades con unos mocasines de serraje en piel bovino 100% capaces de elevar cualquier estilismo básico al instante. Mango Estos mocasines son una apuesta perfecta para este otoño 2026, ya que lejos de los modelos en pie sintética que se rozan y estropean en un visto y no visto, el serraje auténtico aporta mucha calidez visual a este calzado. Además, también resultan muy flexibles y suaves, lo que junto a su diseño fruncido en la puntera nos garantiza máxima comodidad durante todo el día. Son perfectos para llevar con unos vaqueros rectos de tiro alto o con pantalones tobilleros para la vuelta a la oficina, con camisas blancas de popelín de corte oversize y una gabardina clásica. De esa manera tan sencilla conseguiremos el tan buscado aire effortless chic de las chicas francesas. Por 49,99 euros, es un precio perfecto. Los vaqueros perfectos para combinar con estos mocasines de Mango Salsa Jeans Para realzar la silueta nada mejor que estos vaqueros de pernera ancha de Salsa Jeans, con tiro alto y refuerzo en la cintura. Llevan detalles deshilachados de estilo noventero, tal y como vuelven a llevarse esta temporada, y tienen un corte cropped que permite lucir mejor el calzado plano como los mocasines. Con diseño clásico de cinco bolsillos, son unos vaqueros efecto wow inmediato. En El Corte Inglés por 99,95 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @emitaz | Mango, El Corte Inglés En Trendencias |Cómo combinar un pantalón vaquero negro | Colores, zapatos y accesorios En DAP| Eran algunas de las marcas más icónicas del vino de Rioja. Tras un concurso de acreedores han acabado en manos del gigante de Valdepeñas En Xataka| Compran una casa en un pueblo de Castellón y descubren que los antiguos dueños se habían dejado una plantación de marihuana - La noticia Mango agotará los mocasines de ante que las francesas llevan con vaqueros porque son comodísimos fue publicada originalmente en Trendencias por Patricia García Varela ."
-  },
-  {
-    "titulo": "La Princesa Leonor inicia mañana como una alumna más sus estudios de Ciencias Políticas en la Carlos III",
-    "medio": "Europa Press",
-    "fecha": 1788677988.0,
-    "link": "https://www.europapress.es/nacional/noticia-princesa-leonor-inicia-manana-alumna-mas-estudios-ciencias-politicas-carlos-iii-20260906085948.html",
-    "resumen": "La Princesa Leonor inicia este lunes sus estudios de Ciencias Políticas como una alumna más en el campus de Getafe de la Universidad Carlos III de Madrid (UC3M), siguiendo así con su formación de cara convertirse en futura reina y tras haber completado su instrucción castrense los últimos tres años."
   },
   {
     "titulo": "Lahares: el peligro volcánico que el cambio climático está desatando",
@@ -873,13 +873,6 @@
     "fecha": 1788638427.0,
     "link": "https://www.trendencias.com/sneakers/nuevas-adidas-colaboracion-simone-rocha-lazos-perlas-romanticas-que-nunca",
     "resumen": "Septiembre implica una cosa: ir dejando poco a poco de lado nuestras queridas chanclas y sandalias y volver al calzado cerrado. Eso no quiere decir que tengamos que renunciar a diseños atrevidos y divertidos. Las zapatillas nos ofrecen diferentes versiones que nos permiten pasar de un look soso a uno lleno de intención. Las nuevas Adidas en colaboración con Simone Rocha son un ejemplo, y es que vienen en formato zueco con efecto pelo y detalles de lo más románticos que hacen de estas deportivas unas de lo más coquette que hemos visto hasta le fecha. Adidas Simone Rocha Japan Sin Cordones Beige Al tratarse de unas zapatillas con mucha personalidad, nos hace falta que nos rompamos la cabeza en busca de un look muy cargado. Opciones monocromáticas, así como propuestas a base de jeans y camisetas de manga larga como esta de Zara, son un acierto. Con el toque centelleante de las zapatillas ya consigues que tu outfit pase de un plano minimalista a uno de lo más original. Camiseta blanca Zara También nos encanta cómo quedan con prendas a juego con el color arena de las zapatillas. Además, ahora que llega la temporada de las gabardinas, nos parece que no hay nada que combine mejor con estas deportivas que un trench oversize como este de Pull & Bear. Trench de Pull & Bear Si eres una fiel amante del estilo coquette y quieres recalcar en tu outfit ese aire romántico que tanto te caracteriza, estas zapatillas con lazos pueden ser mejor opción para tus look. Nosotras te recomendamos que las conjuntes con una blusa con cuello bebé como esta de Mango. Camisa Mango Sabemos bien que esta colaboración de Simone Rocha con Adidas no es para todos los gustos y que solo las más atrevidas van a sentir el flechazo que hemos sentido nosotras. Su precio es de 220 euros, ya que se trata de una edición especial. Estamos deseando tenerlas en nuestro armario. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | Adidas, @ninasandbech, Zara, Pull & Bear, Mango En Trendencias | Cómo lavar las zapatillas en la lavadora sin que se estropeen: el trucazo de mi madre para que queden impecables. En Xataka | La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude'. En DAP | Iba a ser un artículo sobre el “mejor bocadillo de jamón del mundo” de Dabiz Muñoz, pero me ha parecido demasiado caro hasta para escribir sobre él. - La noticia Las nuevas Adidas en colaboración con Simone Rocha: con lazos, perlas y más románticas que nunca fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "Cinco bailarinas con o sin tacón que reinventan el concepto de las 'merceditas' y serán tendencia este otoño 2026",
-    "medio": "Trendencias",
-    "fecha": 1788631228.0,
-    "link": "https://www.trendencias.com/shopping/cinco-bailarinas-tacon-que-reinventan-concepto-merceditas-seran-tendencia-este-otono-2026",
-    "resumen": "Las bailarinas tipo Mary Jane son un clásico del estilo naif y parisino, vuelven cada temporada. Pero este otoño 2026 regresan con matices, son las de toda la vida pero con una personalidad renovada que las convierte irresitible incluso para aquellas mujeres que se encuentran en las antípodas del estilo romántico. Están las de taconcito de siempre sí, pero también una especie de zapatillas deportivas que son pura tendencia o las caladas de piel más atrevidas. Nosotras hemos fichado cinco para todos los gustos que deja claro que las 'merceditas' serán las favoritas de todas este 2026. Cinco merceditas en clave otoño 2026 Ulanka Ulanka funciona como una especie de radar del calzado de moda y en su catálogo encontramos estas merceditas de piel negras que confirman que el estilo calado sigue de moda. Las podemos llevar solas o con calcetines cuando refresque y las encontramos por 59,95 euros. Massimo Dutti Massimo Dutti por su parte pone el toque diferencial en la tira central, que en lugar de ser con una hebilla tradicional incorpora una especie de broche dorado y un efecto arrugado en la silueta que nos encanta. El tono vino tinto también es un plus porque va de perlas con prácticamente todo nuestro armario sin caer en el clásico negro, por 89,95 euros. Cole Haan Si buscas un taconcito sensato para llevar a diario con tus looks de oficina más elegantes, estas Mary Jane en negro de piel efecto charol son perfectas. Tienen las vibes de las merceditas más clásicas pero la doble tira le da un toque moderno así que son eternas, pero no anodinas. Están en El Corte Inglés por 209 euros. Zara El toque de rojo en nuestros looks es una de las tendencias más potentes de este otoño 2026 y llevarla a cabo con el calzado (o con un bolso) es lo más fácil y asequible. Estas merceditas de Zara pueden ser nuestras aliadas para conseguirlo por 39,95 euros. Lefties Por último, las más originales, estas merceditas mitad bailarinas, mitad zapatillas deportivas que encontramos en Lefties. Un diseño efecto ante en color caramelo salado que no pasará desapercibido y elevará cualquier look por anodino que sea, por solo 19,99 euros. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @mariellehaon, Zara, Lefties, Massimo Dutti, El Corte Inglés, Ulanka En Trendencias | Cómo combinar un pantalón ancho | Look elegante, casual y de sport En Xataka | Los psicólogos coinciden: ver películas o series que ya hemos visto no es un signo de mala memoria, es por la búsqueda del bienestar En Xataka | Hoy en Action, la solución a la falta de enchufes en cualquier rincón de casa, el patio o la terraza por sólo 14,95 euros - La noticia Cinco bailarinas con o sin tacón que reinventan el concepto de las 'merceditas' y serán tendencia este otoño 2026 fue publicada originalmente en Trendencias por María Barba ."
   },
   {
     "titulo": "Sky Map 2000, un planetario maravillosamente sencillo con 99.000 estrellas",
