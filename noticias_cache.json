@@ -1,10 +1,143 @@
 [
   {
-    "titulo": "Cal y arena en el US Open: Granollers inicia con éxito su defensa del título en dobles y Bucsa cae ante el azote de las españolas",
+    "titulo": "El incendio provocado de Pendilla de Arbas (León) pasa a Asturias, donde se encuentra la parte más activa",
+    "medio": "OK Diario",
+    "fecha": 1788652663.0,
+    "link": "https://okdiario.com/actualidad/incendio-provocado-pendilla-arbas-leon-pasa-asturias-donde-encuentra-parte-mas-activa-20236205",
+    "resumen": "La Consejería de Medio Ambiente ha informado de que el incendio forestal causado de forma intencional en Pendilla de Arbas (León) ha pasado a Asturias, donde se encuentra actualmente la parte más activa del fuego. Este incendio se activó a las 23:40 horas del viernes en la localidad perteneciente al municipio de Villamanín y se … Continuar leyendo \"El incendio provocado de Pendilla de Arbas (León) pasa a Asturias, donde se encuentra la parte más activa\""
+  },
+  {
+    "titulo": "Los dados perfectamente justos para decidir quién empieza entre 5 jugadores, un pequeño problema matemático resuelto tras 15 años",
+    "medio": "Microsiervos",
+    "fecha": 1788651278.0,
+    "link": "http://www.microsiervos.com/archivo/matematicas/dados-perfectamente-justos-quien-empieza-problema-matematico.html",
+    "resumen": "Este curioso problema comenzó con una pregunta aparentemente trivial: cómo decidir quién empieza una partida con una sola tirada de dados por jugador, de forma perfectamente justa y sin posibilidad de que haya empate. El número más alto empieza. Pero, lógicamente, no todos los dados pueden ser iguales, aunque sí tener la misma forma… y deben repartir las probabilidades equitativamente. Eric Harshbarger, profesor de matemáticas en la Universidad de Auburn (Alabama, Estados Unidos) y diseñador de juegos, empezó a estudiarlo en 2010 junto con Robert Ford. Finalmente, junto con el informático canadiense Paul Meyer, dieron con la solución. Unos 15 años después, el problema puede darse por resuelto de forma práctica. Con 2 jugadores es fácil. Basta, por ejemplo, con que el jugador A tenga un dado de dos caras (o una moneda) que sean {1, 4} y el jugador B otro de la misma forma con {2, 3}. De las 4 combinaciones posibles al lanzarlos, A gana 2 y B gana 2. Y nunca empatan, así que cada orden posible tiene una probabilidad del 50%. Con 3 jugadores ya hay 3! = 6 órdenes posibles posibles. Un ejemplo con dados de 6 caras es A={1,5,10,11,13,17}, B={3,4,7,12,15,16}, C={2,6,8,9,14,18}. En total habría 6³ = 216 tiradas posibles y, para que el asunto sea perfectamente justo, cada uno de los 6 órdenes posibles debería aparecer exactamente 36 veces. Eso ya indica que el problema es bastante más sutil que un simple «todos tienen las mismas posibilidades de sacar el número más alto». Harshbarger y Ford encontraron una solución para 4 jugadores usando cuatro dados de 12 caras con los números del 1 al 48 hábilmente distribuidos. La cosa se complicaba. Aun así, aprovecharon para fabricar los dados y venderlos bajo el nombre Go First Dice («Dados para ver quién empieza») entre los aficionados a los juegos de mesa. Pero con cinco jugadores la dificultad se disparó: hay 5! = 120 órdenes posibles posibles y todos deben aparecer con idéntica probabilidad. Se sabía que había alguna solución, pero que podría requerir dados de hasta 1.440 caras. Michael Purcell encontró una solución con dados de 120 caras, pero parecía demasiado complicada. El avance llegó hacia 2023, cuando Meyer utilizó búsquedas por ordenador y ciertas regularidades matemáticas para encontrar una solución mucho más razonable: cinco dados de 60 caras, donde aparecen los números del 1 al 300 repartidos equitativamente. Cada jugador lanza una vez, no hay empates y cualquiera de los 120 órdenes posibles tiene exactamente la misma probabilidad: 1/120, aproximadamente el 0,8333%. Otro problema era que no existen sólidos platónicos de 60 caras así que se decidieron por un hexecontaedro deltoidal, como el que puede verse en el vídeo, que tiene deltoides como caras, son todas iguales, equivalentes por simetría y equiprobables al lanzarlo físicamente. ¿Cuál sería siguiente reto? Encontrar una solución para 6 jugadores, en donde habría 6! = 720 órdenes posibles que repartir equitativamente… pero aquí la cosa comienza a irse de madre. Tanto que el número de caras del poliedro (que se desconoce) podría hacer imposible su construcción física dado que aquello podría parecerse más a una esfera que a otra cosa. Todo esto es una conjetura, pero seguro que ya están trabajando en la parte matemática y si lo resuelven irán a por el resto. Lo más interesante es que resolver un problema tan nimio para 5 jugadores hicieron falta cerca de 15 años. No era un gran teorema pendiente ni un problema con aplicaciones industriales: era encontrar unos dados que decidieran limpiamente el orden de una partida. Todo para decidir quién empieza, algo que normalmente resolvemos en cinco segundos y sin necesidad de dedicar una década y media a complicadas elaboraciones matemáticas. (Vía CBC Radio .) Relacionados: Dados numéricamente equilibrados de 20 y 30 caras Persi Diaconis: la apasionante tarea de entender el azar Los dados no transitivos que se «ganan» unos a otros Los curiosos dados «no transitivos» que parecen ir en contra las reglas Dados para todos los gustos El desafío de sacar el mismo número al tirar cinco dados En el Risk, clásico juego de mesa, la mejor estrategia es atacar a muerte Dados matemáticos El curioso dado esférico: cómo funciona y cómo se construye Un tres en raya probabilístico Tirar el dado, una nueva función disponible sin salir de Google Dice-o-Matic, la máquina echadora de dados # Enlace permanente"
+  },
+  {
+    "titulo": "Más difícil todavía para el Valencia: recibe incendiado a un Barça con la duda de Lamine, falto de refuerzos y con Corberán sin crédito en Mestalla",
+    "medio": "El Mundo",
+    "fecha": 1788651222.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/06/6a9c4cdafc6c8385358b4574.html",
+    "resumen": "Los valencianistas, mermados por las bajas y la escasa inversión en el mercado, reciben al equipo de Flick hundidos en la clasificación Leer"
+  },
+  {
+    "titulo": "La Jungla de Calais, en Ceuta",
+    "medio": "El Mundo",
+    "fecha": 1788650730.0,
+    "link": "https://www.elmundo.es/espana/2026/09/06/6a9c506de4d4d8c92c8b456f.html",
+    "resumen": "Sánchez no ha invertido su tiempo en responder al \"ataque a la integridad territorial\", sino a ocultar la magnitud de los hechos y la debilidad de España frente a Marruecos Leer"
+  },
+  {
+    "titulo": "\"Llevo 20 años como guardia civil en la frontera de El Tarajal, y lo peor es que nuestro trabajo no sirve para nada, es lamentable\"",
+    "medio": "El Mundo",
+    "fecha": 1788650723.0,
+    "link": "https://www.elmundo.es/espana/2026/09/06/6a9b1078fc6c83b7498b457b.html",
+    "resumen": "El ex agente relata cómo vivió la avalancha del 30 y 31 de julio, denuncia la falta de medios: \"Esto solo lo arregla la política\" Leer"
+  },
+  {
+    "titulo": "Los emisarios de Trump 'aterrizan' en una guerra preparada para durar",
+    "medio": "El Mundo",
+    "fecha": 1788650722.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/06/6a9c5a9ffdddff2e3a8b4584.html",
+    "resumen": "Putin ordena una pausa en los ataques en Kiev antes de la visita. Witkoff y Kushner reactivan una negociación en la que ni Putin ni Zelenski parecen confiar. Ni Kiev ni Moscú quieren cargar ante Washington con la culpa del fracaso Leer"
+  },
+  {
+    "titulo": "El alzhéimer en personas con síndrome de Down dispara el riesgo de epilepsia",
+    "medio": "El Mundo",
+    "fecha": 1788650713.0,
+    "link": "https://www.elmundo.es/salud/2026/09/06/6a9ad36fe4d4d85d6a8b4575.html",
+    "resumen": "Un grupo internacional de investigadores, entre los que hay españoles, confirma que la epilepsia acompaña al alzhéimer en el síndrome de Down, un hallazgo clave para frenar su deterioro y mortalidad Leer"
+  },
+  {
+    "titulo": "Así afectó el eclipse a los animales: las ovejas y las gallinas se quedaron paralizadas y la burra sufrió una taquicardia",
+    "medio": "El Mundo",
+    "fecha": 1788649255.0,
+    "link": "https://www.elmundo.es/ciencia/2026/09/06/6a9ac8dffdddff567c8b457f.html",
+    "resumen": "Los investigadores siguieron con sensores a más de 30 animales para descubrir qué ocurre cuando la luz desaparece de forma repentina Leer"
+  },
+  {
+    "titulo": "La dura vida en Caraque, el poblado chabolista de Batán: \"Había gente chunga de cojones; iban a robar a los de Aluche porque eran más pijos y blanditos\"",
+    "medio": "El Mundo",
+    "fecha": 1788649056.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/06/6a9a860be9cf4a08628b457a.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Al menos tres muertos en Ucrania en medio de la visita de EEUU a Kiev",
+    "medio": "The Objective",
+    "fecha": 1788648989.0,
+    "link": "https://theobjective.com/internacional/2026-09-06/tres-muertos-ucrania-visita-eeuu-kiev/",
+    "resumen": "Al menos tres personas, una de ellas un niño, han muerto y otra ha resultado herida este sábado en un ataque ruso sobre la localidad de […]"
+  },
+  {
+    "titulo": "Gone, otra serie británica de suspense con elementos que ya sabemos que funcionan",
+    "medio": "El Mundo",
+    "fecha": 1788648792.0,
+    "link": "https://www.elmundo.es/cultura/2026/09/06/6a9bc2bce4d4d847698b4573.html",
+    "resumen": "Tan bien engrasado está todo que la serie de George Kay no necesita que sus protagonistas tiren de carisma. Y mira que podrían hacerlo Leer"
+  },
+  {
+    "titulo": "Cristina Bucsa pelea, pero no puede con Coco Gauff",
+    "medio": "La Vanguardia",
+    "fecha": 1788647697.0,
+    "link": "https://www.lavanguardia.com/deportes/tenis/20260906/11628395/cristina-bucsa-pelea-coco-gauff.html",
+    "resumen": "La lógica se impone y la estadounidense derrota a la cántabra por 6-3 y 6-4"
+  },
+  {
+    "titulo": "La apatía de las estrellas",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627973/apatia-estrellas.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El lenguaje taurino",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627938/lenguaje-taurino.html",
+    "resumen": "La derecha espera que la crisis de Ceuta sea la puntilla para el espada de las siete vidas"
+  },
+  {
+    "titulo": "Este país no funciona",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627953/pais-funciona.html",
+    "resumen": "A los políticos podemos no votarles, con los técnicos hay que apechugar: hallar uno bueno es casi un milagro"
+  },
+  {
+    "titulo": "La sombra del 11-S sobre el siglo XXI",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627979/sombra-11-s-sobre-siglo-xxi.html",
+    "resumen": "El ataque terrorista y la reacción de EE.UU. han propiciado un retroceso de la libertad y la democracia"
+  },
+  {
+    "titulo": "Cómo explicar una huelga",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627954/como-explicar-huelga.html",
+    "resumen": "Las huelgas cuestan dinero a quien las convoca, y cansan, y desgastan; nadie las hace de manera frívola"
+  },
+  {
+    "titulo": "Gol de Kissinger",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627955/gol-kissinger.html",
+    "resumen": "Aunque parezca mentira, hay argentinos a los que no les gusta el fútbol; uno fue Borges"
+  },
+  {
+    "titulo": "Matando zombis",
+    "medio": "La Vanguardia",
+    "fecha": 1788647400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260906/11627974/matando-zombis.html",
+    "resumen": "El Gobierno de Estados Unidos lanza juegos que siguen el ideario MAGA"
+  },
+  {
+    "titulo": "Cal y arena en el US Open: Granollers inicia con éxito su defensa del título en dobles y Bucsa cae ante el ‘azote’ de las españolas",
     "medio": "OK Diario",
     "fecha": 1788645860.0,
     "link": "https://okdiario.com/deportes/cal-arena-us-open-granollers-inicia-exito-defensa-del-titulo-dobles-bucsa-cae-azote-espanolas-20236053",
-    "resumen": "La moneda volvió a mostrar un lado a los españoles. Cara para Marcel Granollers, que junto al argentino Horacio Zeballos, arrancó la defensa del título de dobles del US Open con un solvente triunfo (7-5 y 6-3) sobre el tándem formado por el mexicano Miguel Reyes-Varela y el alemán Hendrik Jebens. La cruza fue para … Continuar leyendo \"Cal y arena en el US Open: Granollers inicia con éxito su defensa del título en dobles y Bucsa cae ante el azote de las españolas\""
+    "resumen": "La moneda volvió a mostrar un lado a los españoles. Cara para Marcel Granollers, que junto al argentino Horacio Zeballos, arrancó la defensa del título de dobles del US Open con un solvente triunfo (7-5 y 6-3) sobre el tándem formado por el mexicano Miguel Reyes-Varela y el alemán Hendrik Jebens. La cruz fue para … Continuar leyendo \"Cal y arena en el US Open: Granollers inicia con éxito su defensa del título en dobles y Bucsa cae ante el ‘azote’ de las españolas\""
   },
   {
     "titulo": "Isar Aerospace se convierte en la primera empresa privada europea en conseguir colocar un cohete en órbita",
@@ -56,13 +189,6 @@
     "resumen": "La cuarta jornada de Liga ya está aquí. Antes de la Champions, llega el cuarto fin de semana del campeonato, con partidos de lo más apasionantes. Lo abrirá el Real Madrid con su visita a La Cartuja, seguirá la visita del Atlético a Bilbao y cerrará el tridente madrileño el Rayo en Leganés, ante el … Continuar leyendo \"Jornada 4 de la Liga: resumen de todos los partidos\""
   },
   {
-    "titulo": "Un Barça muy ofensivo no da pie a las sorpresas",
-    "medio": "La Vanguardia",
-    "fecha": 1788640911.0,
-    "link": "https://www.lavanguardia.com/deportes/20260905/11628200/barca-ofensivo-da-pie-sorpresas.html",
-    "resumen": "Liga F | Graham da dos asistencias y Torrejón marca de cabeza"
-  },
-  {
     "titulo": "EEUU ataca tres petroleros iraníes tras el lanzamiento de misiles contra dos buques de guerra: \"Si disparáis contra dos de los nuestros, destruiremos tres de los vuestros\"",
     "medio": "HuffPost",
     "fecha": 1788640702.0,
@@ -98,13 +224,6 @@
     "resumen": "Mientras hay quienes demuestran efusivamente su cariño, otorgando muchas muestras de afecto a través del contacto físico, también están aquellos que no se sienten cómodos y evitan a toda costa a todo el que se acerque a su espacio íntimo. Sin embargo, a pesar de lo que todo el mundo cree, la psicología ha demostrado … Continuar leyendo \"La psicología dice que las personas que rechazan los abrazos no son frías, en realidad tienen más sensibilidad a los estímulos físicos\""
   },
   {
-    "titulo": "Juan Ortega sueña el toreo en Ronda como homenaje a Ordóñez",
-    "medio": "El Mundo",
-    "fecha": 1788639799.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/09/05/6a9c383621efa0eb748b4593.html",
-    "resumen": "El torero sevillano corta tres orejas con dos grandiosas faenas y sale a hombros junto a Manzanares y Ventura; Morante deja apuntes de calado con el lote más deslucido Leer"
-  },
-  {
     "titulo": "Alma Guillermoprieto: “Estamos al borde de un precipicio, no sé si vamos a caer o no”",
     "medio": "El País",
     "fecha": 1788639043.0,
@@ -133,32 +252,11 @@
     "resumen": "La ministra de Juventud e Infancia, Sira Rego, ha enviado a la sociedad de Ceuta un mensaje de autocrítica y de solidaridad, reconociendo que el Gobierno […]"
   },
   {
-    "titulo": "Muere ahogado un hombre tras saltar de un ferry entre Cambrils y Salou",
-    "medio": "La Vanguardia",
-    "fecha": 1788638444.0,
-    "link": "https://www.lavanguardia.com/local/tarragona/20260905/11628193/muere-ahogado-hombre-saltar-ferry-cambrils-salou.html",
-    "resumen": "La víctima, de nacionalidad inglesa, viajaba con su padre y hermano cuando saltó para llegar antes a la plata"
-  },
-  {
     "titulo": "Las nuevas Adidas en colaboración con Simone Rocha: con lazos, perlas y más románticas que nunca",
     "medio": "Trendencias",
     "fecha": 1788638427.0,
     "link": "https://www.trendencias.com/sneakers/nuevas-adidas-colaboracion-simone-rocha-lazos-perlas-romanticas-que-nunca",
     "resumen": "Septiembre implica una cosa: ir dejando poco a poco de lado nuestras queridas chanclas y sandalias y volver al calzado cerrado. Eso no quiere decir que tengamos que renunciar a diseños atrevidos y divertidos. Las zapatillas nos ofrecen diferentes versiones que nos permiten pasar de un look soso a uno lleno de intención. Las nuevas Adidas en colaboración con Simone Rocha son un ejemplo, y es que vienen en formato zueco con efecto pelo y detalles de lo más románticos que hacen de estas deportivas unas de lo más coquette que hemos visto hasta le fecha. Adidas Simone Rocha Japan Sin Cordones Beige Al tratarse de unas zapatillas con mucha personalidad, nos hace falta que nos rompamos la cabeza en busca de un look muy cargado. Opciones monocromáticas, así como propuestas a base de jeans y camisetas de manga larga como esta de Zara, son un acierto. Con el toque centelleante de las zapatillas ya consigues que tu outfit pase de un plano minimalista a uno de lo más original. Camiseta blanca Zara También nos encanta cómo quedan con prendas a juego con el color arena de las zapatillas. Además, ahora que llega la temporada de las gabardinas, nos parece que no hay nada que combine mejor con estas deportivas que un trench oversize como este de Pull & Bear. Trench de Pull & Bear Si eres una fiel amante del estilo coquette y quieres recalcar en tu outfit ese aire romántico que tanto te caracteriza, estas zapatillas con lazos pueden ser mejor opción para tus look. Nosotras te recomendamos que las conjuntes con una blusa con cuello bebé como esta de Mango. Camisa Mango Sabemos bien que esta colaboración de Simone Rocha con Adidas no es para todos los gustos y que solo las más atrevidas van a sentir el flechazo que hemos sentido nosotras. Su precio es de 220 euros, ya que se trata de una edición especial. Estamos deseando tenerlas en nuestro armario. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | Adidas, @ninasandbech, Zara, Pull & Bear, Mango En Trendencias | Cómo lavar las zapatillas en la lavadora sin que se estropeen: el trucazo de mi madre para que queden impecables. En Xataka | La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude'. En DAP | Iba a ser un artículo sobre el “mejor bocadillo de jamón del mundo” de Dabiz Muñoz, pero me ha parecido demasiado caro hasta para escribir sobre él. - La noticia Las nuevas Adidas en colaboración con Simone Rocha: con lazos, perlas y más románticas que nunca fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open",
-    "medio": "OK Diario",
-    "fecha": 1788638386.0,
-    "link": "https://okdiario.com/deportes/marihuana-influencers-irrespetuosos-ruido-incesante-pleno-partido-vuelta-zoologico-del-us-open-20235678",
-    "resumen": "La salida del sol en Nueva York va acompañada del sonido de las sirenas de policía, ambulancia y bomberos. Es el politono de la ciudad. Su atrezo corresponde al humo proveniente de las alcantarillas, algunas incluso conviven con chimeneas temporales para canalizar el vapor. El skyline callejero muda su piel, pero mantiene su esencia, cuando … Continuar leyendo \"Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open\""
-  },
-  {
-    "titulo": "Detenida una mujer de 25 años por un intento de homicidio tras atropellar a su pareja en Elciego (Álava)",
-    "medio": "El Mundo",
-    "fecha": 1788638358.0,
-    "link": "https://www.elmundo.es/pais-vasco/2026/09/05/6a9c72ace4d4d8bb608b4572.html",
-    "resumen": "El personal sanitario de una ambulancia ha asistido a la víctima, que ha sido trasladada al Hospital de Txagorritxu Leer"
   },
   {
     "titulo": "Incertidumbre y miedo en la zona afectada por explosiones en un cuartel militar en Bolivia",
@@ -182,20 +280,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Sergio Camello, un pichichi en tiempos convulsos para el Rayo: el héroe, la voz y la pasión de Vallecas",
-    "medio": "El Mundo",
-    "fecha": 1788637210.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/09/05/6a9c6cd0e9cf4a34428b4574.html",
-    "resumen": "El madrileño de 25 años encabeza la lista de goleadores de LaLiga, empatado a cinco con Raphinha, con un partido más que el brasileño, y con un tanto más que Mbappé Leer"
-  },
-  {
-    "titulo": "Oasis: Don't Look Back in Anger, la apoteosis de los Gallagher contada por un notario: \"Esperábamos un final feliz, pero no contábamos 100% con ello\"",
-    "medio": "El Mundo",
-    "fecha": 1788636605.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/09/05/6a9c31fee85eceea208b45a5.html",
-    "resumen": "Los hermanos de Manchester, Noel y Liam, convierten su reencuentro en la gira 2025 después de 16 años sin hablarse en un documental en el que la emoción la ponen sus canciones, no la película Leer"
-  },
-  {
     "titulo": "El agigantado Robert Pattinson y un Nanni Moretti almodovariano animan el Festival de Venecia",
     "medio": "El Español",
     "fecha": 1788636600.0,
@@ -203,25 +287,11 @@
     "resumen": "Tras 37 años de ausencia y por el 50.º aniversario de su debut, la Biennale ha vuelto a abrir sus puertas al cineasta italiano.Pattinson ya acaricia el Oscar con 'Primetime'.Más información: Mamá Schrader y papá Tsukamoto en Venecia: buen cine, inútil, o la machaconería didáctica"
   },
   {
-    "titulo": "Rego admite parte de responsabilidad del Gobierno en la situación de \"desborde extraordinario\" de Ceuta",
-    "medio": "El Mundo",
-    "fecha": 1788636174.0,
-    "link": "https://www.elmundo.es/espana/2026/09/05/6a9c6babe85ece4e5e8b4570.html",
-    "resumen": "Rego reconoce que la coordinación del Gobierno \"tendría que haber sido más eficiente o más rápida\" y s suma a la autocrítica de Robles Leer"
-  },
-  {
     "titulo": "Camello y Ratiu convierten Butarque en Vallecas y dan la primera victoria del curso al Rayo",
     "medio": "El País",
     "fecha": 1788636010.0,
     "link": "https://elpais.com/deportes/futbol/2026-09-05/camello-y-ratiu-convierten-butarque-en-vallecas-y-dan-la-primera-victoria-del-curso-al-rayo.html",
     "resumen": "El español firma un doblete en su inicio de temporada estelar y, junto a un tanto del rumano que vio truncada su salida a la Premier, remontan al Racing en un nuevo exilio a Leganés"
-  },
-  {
-    "titulo": "Portugal considera que no hubo amenaza inmediata para Schengen en Ceuta",
-    "medio": "La Vanguardia",
-    "fecha": 1788635903.0,
-    "link": "https://www.lavanguardia.com/internacional/20260905/11628140/portugal-considera-hubo-amenaza-inmediata-schengen-ceuta.html",
-    "resumen": "El ministro de exteriores luso, Paulo Rangel, confía que la tensión con Italia se resolverá pronto"
   },
   {
     "titulo": "Ceuta califica de \"grave error\" el nuevo asentamiento para 1.000 migrantes en el puerto: \"La prioridad debe ser la devolución\"",
@@ -287,13 +357,6 @@
     "resumen": "El secretario de Seguridad, Omar García Harfuch, informa de que el operativo de búsqueda fue exitoso y dos personas secuestradas han sido liberadas"
   },
   {
-    "titulo": "Detenido un matrimonio tras hallar al padre de ella muerto en casa desde hacía tiempo",
-    "medio": "The Objective",
-    "fecha": 1788634242.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-09-05/detenido-matrimonio-hallar-padre-ella-muerto-casa-tiempo/",
-    "resumen": "La Policía ha detenido a un matrimonio en Torrelavega (Cantabria) que tenía el cadáver del padre de ella en su casa desde hacía, aparentemente, bastante tiempo, […]"
-  },
-  {
     "titulo": "Los vecinos del puerto de Ceuta se movilizan contra las obras para una nueva ubicación de los migrantes: “No los queremos aquí, punto”",
     "medio": "El País",
     "fecha": 1788633802.0,
@@ -322,32 +385,11 @@
     "resumen": "En España, la siesta es casi una institución cultural que supone un pequeño placer diario que tradicionalmente se ha asociado con un buen descanso y una recarga de energía. Sin embargo, la ciencia lleva tiempo afinando sobre este hábito y un reciente estudio acaba de confirmar lo que muchos investigadores sospechaban y es que no todas las siestas son iguales. Bajo investigación. Un estudio publicado este mismo año ha conseguido analizar a 1338 adultos de 56 años o más a través de una pulsera de actigrafía durante catorce días. Además, definieron la siesta como cualquier periodo de sueño detectado entre las 9:00 y las 19:00 horas, y realizaron un seguimiento de los participantes durante 19 años. Los resultados. Lo que vieron es que el tiempo que se dedica a la siesta importa mucho, puesto que por cada hora adicional de siesta diaria se aumentó un 13% la probabilidad de morir. Si hablamos de la frecuencia, cada siesta diaria adicional se relacionó con un 7% más de riesgo de mortalidad. Además, aquellas personas que dormían principalmente por la mañana presentaron un 30% más de mortalidad en comparación con las que lo hacían a primera hora de la tarde, que es la clásica siesta de sobremesa. En Xataka España tiene un antídoto contra el agotamiento mental y emocional: la siesta Hay un matiz. Al leer estos porcentajes, es fácil asustarse y pensar que dormir la siesta nos está quitando años de vida. Pero la ciencia apunta a que esto no significa que la siesta causa la muerte, ya que estamos ante un estudio observacional. En otras palabras, una persona no enferma por dormir muchas horas de siesta, sino que duerme mucho durante el día porque ya existe un problema de salud subyacente. Las siestas prolongadas o muy frecuentes suelen ser una señal de alerta, un síntoma de que el cuerpo está lidiando con dolencias como apnea del sueño, dolor crónico, depresión, alteraciones del ritmo circadiano o enfermedades cardiopulmonares. Es el cuerpo pidiendo un descanso extra porque el sueño nocturno es deficiente o porque la salud se está deteriorando. La siesta matutina. Uno de los hallazgos más interesantes del estudio es el riesgo asociado a las siestas por la mañana, puesto que fisiológicamente es normal sentir somnolencia a primera hora de la tarde después de comer, pero dormir por la mañana indica que la persona presenta una somnolencia diurna excesiva. De hecho, estudios previos ya habían encontrado que una mayor proporción de siestas matutinas se asociaba con un mayor riesgo de desarrollar la enfermedad de Alzheimer, apuntando a una posible relación bidireccional entre el deterioro cognitivo y la necesidad constante de dormir. En Xataka Me puse en manos de unos \"auriculares para dormir\" con la esperanza de conciliar al fin el sueño. Ha salido regular La buena siesta. La evidencia que tenemos encima de la mesa apunta a que las siestas cortas o power naps son positivas para nuestra salud. Los estudios apuntan a que dedicar 30 minutos a dormir no muestra asociaciones significativas con riesgos para la salud. Además, dormir entre 1 y 29 minutos se ha asociado en cohortes de personas mayores con un menor riesgo de deterioro cognitivo, además de proporcionar beneficios experimentales demostrados a corto plazo, como una mejora temporal del estado de alerta y una reducción de la somnolencia. Por otro lado, la ciencia lleva años advirtiendo de la línea roja de los 30-60 minutos, puesto que se ha visto que las siestas largas suponen un mayor riesgo de mortalidad por razones cardiovasculares. Imágenes | Timur Weber En Xataka | Hemos subestimado el poder de la siesta: un nuevo estudio desvela su papel crucial en la consolidación de la memoria - La noticia Pensábamos que las siestas largas eran inofensivas. Un nuevo estudio revela que en realidad son el síntoma de un problema mayor fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "El disputado Puerto de Ceuta y otras imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1788632393.0,
-    "link": "https://www.lavanguardia.com/fotos/20260905/11627998/disputado-puerto-ceuta-imagenes-dia.html",
-    "resumen": "La difícil gestión de la crisis en Ceuta tiene un nuevo escenario en su puerto, en un fin de semana en el que la ola de calor, el rescate en Nepal y las hazañas de Carlos Alcaraz en Estados Unidos también centran la atención."
-  },
-  {
     "titulo": "“Soy Manuel Lluesma, ejecutado el 29 del 12 de 1942. Dejo hijos”",
     "medio": "El País",
     "fecha": 1788632086.0,
     "link": "https://elpais.com/espana/2026-09-05/soy-manuel-lluesma-ejecutado-el-29-del-12-de-1942-dejo-hijos.html",
     "resumen": "El arqueólogo Alfredo González Ruibal recopila casi dos décadas de investigación sobre el franquismo y revela el hallazgo de un oscuro pasado familiar"
-  },
-  {
-    "titulo": "Asprilla se inspira en Gijón y el Girona se engancha a la parte alta de Segunda",
-    "medio": "La Vanguardia",
-    "fecha": 1788631880.0,
-    "link": "https://www.lavanguardia.com/deportes/20260905/11628103/asprilla-inspira-gijon-girona-engancha-parte-alta-segunda.html",
-    "resumen": "Carles Pérez debuta y pone el 0-2 definitivo con otro golazo"
-  },
-  {
-    "titulo": "Valls celebra el Año Gaudí con exhibición castellera en la Sagrada Família",
-    "medio": "La Vanguardia",
-    "fecha": 1788631706.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260905/11628100/valls-celebra-ano-gaudi-exhibicion-castellera-sagrada-familia.html",
-    "resumen": "La capital del Alt Camp reivindica su relación con el arquitecto y con la basílica"
   },
   {
     "titulo": "Un viaje desde Seat hasta el pequeño (pero grande y estratégico) Cupra Raval",
@@ -385,13 +427,6 @@
     "resumen": "Uno de los mayores temores con respecto a la IA es perder el control sobre sistemas que podrían superar nuestra comprensión y capacidad de decisión. La idea de un Skynet que acabe con la raza humana ya dejó de ser argumento para una película de Hollywood. No obstante, existe otro riesgo inmediato y tiene que […] Seguir leyendo: La IA podría causar una crisis financiera peor que la que vivimos en 2008"
   },
   {
-    "titulo": "EEUU ataca tres buques iraníes tras el lanzamiento de misiles contra un portaaviones estadounidense",
-    "medio": "El Mundo",
-    "fecha": 1788630899.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/05/6a9c2d97fdddff58688b4591.html",
-    "resumen": "Los últimos enfrentamientos ponen de manifiesto un esfuerzo cada vez mayor por parte de ambas partes para hacerse con el control del estrecho de Ormuz Leer"
-  },
-  {
     "titulo": "Sky Map 2000, un planetario maravillosamente sencillo con 99.000 estrellas",
     "medio": "Microsiervos",
     "fecha": 1788630867.0,
@@ -413,32 +448,11 @@
     "resumen": "Stonehenge lleva siglos acumulando explicaciones sobre su función, desde templo religioso hasta monumento funerario. En 1961, el astrónomo Gerald Hawkins decidió abordar el misterio con una herramienta bastante menos habitual en la arqueología de entonces: regresó de Stonehenge con las posiciones de piedras, arcos, agujeros y montículos y utilizó un ordenador electrónico en el Harvard-Smithsonian Observatory para reconstruir el cielo de miles de años atrás. Los resultados lo llevaron a una hipótesis fascinante. Llevar las piedras hasta un ordenador. Gerald Hawkins visitó Stonehenge aquel año intentando comprender cómo el monumento podía señalar la salida del Sol y quedó especialmente intrigado por la manera en que sus grandes arcos parecían obligar al observador a mirar hacia determinados puntos del horizonte. De regreso a Estados Unidos, trasladó a gráficos la posición del centro del monumento y de cada piedra, abertura, agujero y montículo que consideró relevante. Reconstruir manualmente qué habría aparecido sobre el horizonte siguiendo cada una de aquellas líneas miles de años antes era una tarea enorme, así que recurrió al ordenador disponible (un IBM 7090) en el Harvard-Smithsonian Observatory para hacer los cálculos. En Xataka Llevamos años obsesionados con el sentido de Stonehenge. Su gran enigma era otro: cómo su altar de seis toneladas viajó 700 km El Sol y la Luna entre las piedras. Hawkins y su equipo hicieron calcular al ordenador qué posiciones habrían ocupado los principales cuerpos celestes vistos a través de aquellas alineaciones en la época en que se construyó Stonehenge. Los resultados parecían mostrar que muchas coincidían con puntos significativos de salida y puesta del Sol y de la Luna, llevando al astrónomo a describir posteriormente el monumento como un observatorio estrechamente ligado a ambos astros. La relación con el Sol no era completamente nueva (la orientación de Stonehenge hacia los solsticios llevaba mucho tiempo siendo reconocida), pero Hawkins creyó haber encontrado algo bastante más sofisticado al introducir también los movimientos mucho más complejos de la Luna. 56 agujeros y una posibilidad. La pieza fundamental de su hipótesis fueron los llamados agujeros de Aubrey, un círculo de 56 cavidades situado alrededor del monumento. Hawkins sostuvo que 56 encajaba con determinados ciclos lunares y propuso utilizar las posiciones como un dispositivo de conteo mediante el que sus constructores habrían podido seguir a la Luna y anticipar eclipses. La idea terminó convirtiendo Stonehenge en algo parecido a un “ordenador” prehistórico: no una computadora en el sentido moderno, sino un sistema físico en el que mover marcadores siguiendo determinadas reglas habría permitido identificar cuándo se aproximaban las condiciones para que ocurriera un eclipse. Un disco blanco marca la ubicación del agujero número 21 de Aubrey en el lado occidental de la entrada sur de Stonehenge. Detrás del disco se aprecian el terraplén y el foso que rodean el monumento Las piedras como máquina de poder. Hawkins publicó sus ideas en el exitoso libro Stonehenge Decoded de 1965 y al año siguiente explicó a la BBC que, para él, no existía una verdadera separación entre observatorio y templo: Stonehenge podía haber sido ambas cosas porque el Sol y la Luna tenían una enorme dimensión religiosa. Time llevó entonces la hipótesis un paso más allá al plantear que conocer de antemano un eclipse habría proporcionado a las élites religiosas un recurso espectacular para reforzar su autoridad ante una población que podía interpretar el oscurecimiento del Sol o el enrojecimiento de la Luna como acontecimientos sobrenaturales. La teoría tuvo una enorme influencia y ayudó a popularizar la arqueoastronomía, precisamente porque convertía la disposición aparentemente misteriosa de Stonehenge en una tecnología capaz de interpretar el cielo. Plano de Stonehenge 1 con los agujeros de Aubrey representados como círculos blancos Desmontando el “ordenador”. La propuesta nunca estuvo libre de críticas y ya en 1966 el arqueólogo Richard Atkinson aceptaba la importancia astronómica del monumento mientras reclamaba mucha más cautela con las conclusiones de Hawkins. Incluso se discutió si algunos de los 56 agujeros esenciales para su mecanismo eran realmente obra humana o vestigios relacionados con antiguos árboles. Las investigaciones posteriores añadieron un problema todavía mayor: actualmente se sabe que Stonehenge no apareció como un conjunto diseñado de una sola vez, sino que fue construido y transformado en distintas fases durante más de 1.500 años, lo que debilita la idea de una máquina astronómica concebida como un sistema integrado. Direcciones de salida y puesta del sol en Stonehenge el día 21 de cada mes, donde 𝜙 es su latitud y 𝜀 es la inclinación axial de la Tierra Mira al cielo, pero no sabemos por qué. La arqueología actual no ha eliminado la astronomía de Stonehenge, sino la interpretación extrema que Hawkins construyó alrededor de ella. Michael Parker Pearson, uno de los principales especialistas modernos en el monumento, considera hoy descartada la teoría del “ordenador de eclipses” y señala que algunas supuestas orientaciones lunares tienen desviaciones de uno o dos grados, demasiado imprecisas para entender el conjunto como un instrumento de medición. La interpretación contemporánea apunta más bien hacia un monumento que celebraba determinados movimientos solares y lunares, mientras que las evidencias británicas de seguimiento y probable predicción de eclipses lunares aparecen hacia el 1000 a.C., entre 1.500 y 2.000 años después del apogeo de Stonehenge. En Xataka La historia de la obra más chanante de Reino Unido: el imposible túnel bajo Stonehenge de casi 2.000 millones de libras La teoría murió, pero cambió la percepción. La conclusión más espectacular de aquel análisis informático ya no se considera válida, pero el episodio conserva algo extraordinario: en los primeros años de la computación científica, Hawkins convirtió un monumento neolítico en un problema susceptible de ser sometido a cálculos astronómicos. El ordenador permitió contrastar sistemáticamente decenas de alineaciones con un cielo desaparecido miles de años atrás y dio un enorme impulso a la discusión sobre cuánto conocimiento astronómico tenían las sociedades prehistóricas. Si se quiere también, Stonehenge probablemente nunca fue el ordenador de eclipses que Hawkins imaginó, pero su intento de descifrarlo con otro ordenador, esta vez uno real, convirtió una teoría hoy descartada en uno de los capítulos más influyentes de la historia moderna del monumento. Imagen | Britannica, Adamsan, cmglee, cesar bojorquez En Xataka | Stonehenge es el monumento megalítico más famoso del mundo. El único problema es que solo es una copia En Xataka | Algo insólito acaba de aparecer en Escocia: una isla artificial con una estructura de madera y piedra más antigua que Stonehenge - La noticia En 1961, un hombre conectó Stonehenge a un IBM. Encontró 56 agujeros y una teoría fascinante: \"Está conectado al Sol y la Luna\" fue publicada originalmente en Xataka por Miguel Jorge ."
   },
   {
-    "titulo": "Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés",
-    "medio": "La Vanguardia",
-    "fecha": 1788629216.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.html",
-    "resumen": "“Salvo la de Julián, la verdad es que no tuvimos situaciones importantes para marcar”, lamentó Simeone"
-  },
-  {
     "titulo": "Miles de manifestantes por la democracia en víspera de las regionales de Sajonia-Anhalt con AfD como favorita",
     "medio": "Europa Press",
     "fecha": 1788628774.0,
     "link": "https://www.europapress.es/internacional/noticia-miles-manifestantes-democracia-vispera-regionales-sajonia-anhalt-afd-favorita-20260905191934.html",
     "resumen": "Miles de personas, unas 6.000 según las estimaciones de la prensa local, han participado este sábado en el Festival por la Democracia celebrado en la ciudad de Magdeburgo, capital del estado de Sajonia-Anhalt, en el que el partido ultraderechista Alternativa para Alemania (AfD) es favorito para hacerse con la victoria por mayoría absoluta en las elecciones regionales previstas para este domingo."
-  },
-  {
-    "titulo": "Sucederá esta noche: Nanni Moretti convierte la más pasional historia de amor en un ejercicio de cine apático (**)",
-    "medio": "El Mundo",
-    "fecha": 1788628621.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/09/05/6a9c3bfae4d4d82a578b4574.html",
-    "resumen": "Pese al argumento desmedido, el italiano firma su película más anómala y anodina en mucho tiempo. A su lado, la esperada Primetime (***), del debutante Lance Oppenheim y con Robert Pattinson, intriga y sorprende, pese a lo errático de la narración, con un tan turbio como subyugante viaje al fondo de las pantallas Leer"
-  },
-  {
-    "titulo": "Ya son 24 las personas ahogadas en las playas catalanas desde el 15 de junio",
-    "medio": "La Vanguardia",
-    "fecha": 1788627773.0,
-    "link": "https://www.lavanguardia.com/local/girona/20260905/11628082/son-24-personas-ahogadas-playas-catalanas-15-junio.html",
-    "resumen": "Un ahogamiento mortal de un bañista en una playa de Lloret de Mar eleva el número de víctimas"
   },
   {
     "titulo": "Sevilla alcanza mínimas de 30 grados en plena madrugada, \"una de las 5 noches más calurosas\" de los últimos 75 años",
@@ -1048,13 +1062,6 @@
     "fecha": 1788516000.0,
     "link": "http://www.microsiervos.com/archivo/mundoreal/mundo-cruel-experimento-any-human-ever.html",
     "resumen": "Me ha encantado Any Human Ever («Cualquier ser humano que haya existido»), un experimento que propone algo tan sencillo como curioso: escoger al azar una persona entre los más de 100.000 millones de seres humanos que han existido en el planeta Tierra y reconstruir aproximadamente cómo fue su existencia. Creo que es imposible probarlo solo una vez, básicamente porque las probabilidades de alcanzar la edad adulta y no morir miserablemente se ve pronto que son… ridículamente pequeñas. El experimento funciona en varias fases: hay una especie de «sorteo» para elegir el año de nacimiento, después el lugar exacto del mundo (porque no todo el mundo ha nacido en Europa ni en los Estados Unidos) y finalmente las circunstancias de esa vida, incluyendo las posibles enfermedades, la esperanza de vida y otros detalles. No se trata de «inventar» un personaje histórico, sino de jugar al azar con una muestra estadística razonable que represente a alguien que podría haber existido realmente. Mi primera prueba me llevo a nacer en el neolítico en África, donde la esperanza de vida eran 28 años. A los 3 años había muerto de una infección o algo parecido. Otro sorteo me llevó al año 273 a. e. c., pero en vez de aparecer en Grecia o Roma me tocó América Central, donde la esperanza de vida eran 26 años. Dio igual porque morí en el parto (la mortalidad infantil era como del 51%). Mi primera «supervivencia digna» fue en el año 1657, en la región de China, donde pude casarme a los 15 años, tener hijos y morir a los 56 de una enfermedad cardiovascular. Visto lo visto, ni tan mal. La historia no está tan llena de «famosos» El proyecto intenta en cierto modo hacernos ver que nuestra imagen de la historia está enormemente sesgada hacia personajes excepcionales: reyes, militares, científicos, artistas y otros cuyas vidas quedaron perfectamente documentadas. Pero la inmensa mayoría de la humanidad pasó sin pena ni gloria y no hay biografías ni relatos épicos de todos ellos. ¡Ah, Aquiles y su incansable búsqueda de la epicidad! La base de datos en que se han basado contiene 103 fuentes y trabajos académicos, 50.845 registros y 54 tablas con información sobre población, asentamientos, esperanza de vida, enfermedades, alimentación, fertilidad, trabajo, guerras, clima, religión o lenguas. Con ese megamix se pueden conseguir personajes creíbles en sitios reales y con historias verosímiles, al menos estadísticamente hablando. De hecho la última página elige un nombre, una foto y desarrolla una biografía bastante completa de la persona en cuestión. Escoger haber sido una persona de la historia del mundo al azar es obtener una vida muy distinta de la nuestra. El proyecto tiene en cuenta incluso que debido al crecimiento exponencial de la población, hay más probabilidades de aparecer en épocas relativamente recientes (hay más gente, 8.300 millones y subiendo ahora mismo), pero históricamente hay también muchas personas «acumuladas». Abundan las vidas cortas, pobres, rurales y asiáticas. Hoy en día, con medicina moderna, buena alimentación, viajes, tecnología y una esperanza de vida elevada, estamos en una posición no privilegiada: privilegiadísima. Esos más de 100.000 millones de vidas anónimas con las que jugar son una especie de máquina del tiempo probabilística: tiras los dados y en lugar de encontrarte con Napoleón o Cleopatra, casi siempre aparece alguien de quien nunca quedó escrito el nombre. Si reflexionas un momento te das cuenta de lo extremadamente improbable que es estar vivo y bien en el culmen de la civilización. Es un mundo cruel, pero por suerte nos estamos librando, estando más o menos sanos, comiendo a diario y leyendo tontás en Internet a través del wifi o el teléfono móvil. Pero en realidad esa alegría no es más que el sesgo del superviviente: concentrarse en los que superamos el «proceso de selección» ignorando como si no hubieran existido a todos los que no. § Bonus: cuidado que vicia. Probé de nuevo y morí tres o cuatro veces nada más nacer en distintas épocas; también la palmé con 20 y 26 en la zona de la India, de hambre y peste bubónica. Sobreviví como granjero en el norte de China hasta los 50 en el año 1100, morí al dar a luz con 28 como una mujer en el Norte de África hacia el año 510, y también morí en el 300 a. e. c. en Egipto de fiebre tifoidea a los 35, dejando huérfanos a 2 de mis 3 hijos (porque mi marido y uno de los niños también habían muerto). Lo más «cercano» que me tocó fue ser un hombre de Toledo que nació en 1890 y murió con 71 años de enfermedad cardiovascular; lo más «suertudo», quizá ser una mujer de la India del año 188, analfabeta, con 9 hijos, que murió a los 90 de disentería con 24 nietos. Finalmente tuve la suerte de nacer en 1963… pero en Guinea Ecuatorial, donde morí con 7 meses (era elquinto hijo de una familia de siete) de una infección respiratoria. En aquella casa se vivía con lo que hoy serían 1,5 euros al día por persona, por debajo de la línea de pobreza extrema. Relacionados: Cómo se calcula el número de personas que han vivido en la Tierra ¿Cuántas personas han vivido a lo largo de la historia? Population.it: tu lugar en el mundo Esperanza de vida Fueras de serie Este es el tiempo que probablemente te queda de vida Una calculadora de tu «fecha de caducidad» con tres datos básicos La vida y la muerte en tiempo real Cómo han cambiado las causas por las que nos morimos Cualquier tiempo pasado no fue mejor La desigualdad en la esperanza de vida entre diferentes regiones Si no existiera la muerte natural viviríamos unos 8.900 años de media # Enlace permanente"
-  },
-  {
-    "titulo": "Ahora también se pueden regalar suscripciones a Microsiervos sin publicidad",
-    "medio": "Microsiervos",
-    "fecha": 1788514819.0,
-    "link": "http://www.microsiervos.com/archivo/general/regalar-suscripciones-sin-publicidad-microsiervos.html",
-    "resumen": "Desde hoy es posible regalar una suscripción a Microsiervos sin publicidad a otras personas directamente, con solo un clic en un formulario. Tanto el precio como el proceso de alta son como los de una suscripción normal: se elige el plan deseado (uno, tres o doce meses) y, antes de completar el pago, se marca la casilla de «es un regalo». Entonces basta con indicar el nombre y correo electrónico del destinatario y, si eres detallista, se puede incluso incluir un mensaje personalizado. El pago se procesa exactamente igual que siempre, sin pasos adicionales ni formularios distintos, a través de Stripe. Y, para mayor seguridad, tanto la otra persona como quien regale la suscripción reciben el código con el token de activación, que se puede usar en hasta cinco dispositivos. A diferencia del resto de suscripciones, esta modalidad de regalo consiste en un pago único: no se renueva automáticamente al finalizar el periodo contratado, así que… cero compromisos. Es la excusa perfecta para quitarte de encima a ese familiar, compañero de trabajo o amigo un poco geek al que nunca sabes qué regalar: le libras de los anuncios y te libras del problema de pensar en un regalo. Ya está disponible en la página de suscripciones. # Enlace permanente"
   },
   {
     "titulo": "La extraña necesidad de crear",
