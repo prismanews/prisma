@@ -1,5 +1,285 @@
 [
   {
+    "titulo": "El directivo de los 14 juicios por una empresa pública: \"Estoy en tierra de nadie. Ni PSOE ni PP hablan de esta barbaridad\"",
+    "medio": "El Mundo",
+    "fecha": 1789086301.0,
+    "link": "https://www.elmundo.es/andalucia/2026/09/11/6a8d63f9e4d4d8716b8b457b.html",
+    "resumen": "Hace 21 años, Pérez-Sauquillo fue fichado por el Gobierno de Chaves para poner en marcha la empresa pública de capital riesgo. Su gestión derivó en una macrocausa de corrupción que lleva 14 años en los tribunales Leer"
+  },
+  {
+    "titulo": "Menores de edad aparecen como autores en un 20% de los casos por delito sexual",
+    "medio": "El Mundo",
+    "fecha": 1789086294.0,
+    "link": "https://www.elmundo.es/espana/2026/09/11/6aa2c1d0e9cf4a57768b45a3.html",
+    "resumen": "La Fiscalía General del Estado alerta de una \"alarmante espiral que no para de crecer\" después de que este grupo de edad esté inmerso en un 36% más de causas por estas infracciones Leer"
+  },
+  {
+    "titulo": "La deuda pública entra en zona crítica: los bonos de EEUU, Alemania o España se disparan ante la subida constante del petróleo y el alza de los tipos de interés",
+    "medio": "El Mundo",
+    "fecha": 1789086293.0,
+    "link": "https://www.elmundo.es/economia/dinero-inversion/2026/09/11/6aa2e3acfc6c83d22d8b4581.html",
+    "resumen": "Las dudas sobre la capacidad de financiación de los Estados y sus altos niveles de endeudamiento aumentan la presión sobre los rendimientos de los bonos Leer"
+  },
+  {
+    "titulo": "La inflación presiona los convenios con subidas salariales por encima del 4%",
+    "medio": "Expansión",
+    "fecha": 1789084743.0,
+    "link": "https://www.expansion.com/economia/2026/09/11/6aa2ef5de5fdea075a8b4579.html",
+    "resumen": "El alza salarial media pactada en convenio se sitúa en el 3,04% hasta agosto, mientras el IPC escala al 4,3%. Un total de 343.271 empresas efectúan incrementos del 4,08% a 2,7 millones de trabajadores, blindando su poder adquisitivo. Leer"
+  },
+  {
+    "titulo": "La banca sube la rentabilidad de depósitos y cuentas",
+    "medio": "Expansión",
+    "fecha": 1789084742.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3159f468aeb206a8b458e.html",
+    "resumen": "ING, MyInvestor, Deutsche Bank, Trade Republic y Renault Bank siguen al BCE con alzas significativas de las rentabilidades de sus productos. Leer"
+  },
+  {
+    "titulo": "El BCE, listo para llevar sus tipos a terreno restrictivo",
+    "medio": "Expansión",
+    "fecha": 1789083314.0,
+    "link": "https://www.expansion.com/mercados/2026/09/11/6aa31b24468aeb53688b4588.html",
+    "resumen": "Cuando el Banco Central Europeo (BCE) sube los tipos de interés, los inversores inmediatamente pasan la página de esa reunión y comienzan a especular sobre los futuros movimientos. Leer"
+  },
+  {
+    "titulo": "Castillos y torres para aislarse del mundo",
+    "medio": "Expansión",
+    "fecha": 1789082207.0,
+    "link": "https://www.expansion.com/estilo-vida/2026/09/11/6aa33727468aebb60d8b457a.html",
+    "resumen": "Mark Zuckerberg no esel único que ha escogido Irlanda para comprarse un castillo. Solo han llegado al mercado un puñado de los miles de activos de este tipo. Leer"
+  },
+  {
+    "titulo": "Marruecos coincide con Sánchez en que «ningún dato, hecho o informe» demuestra su implicación en la invasión de Ceuta",
+    "medio": "OK Diario",
+    "fecha": 1789081282.0,
+    "link": "https://okdiario.com/espana/marruecos-coincide-sanchez-que-ningun-dato-hecho-o-informe-demuestra-implicacion-invasion-ceuta-20268574",
+    "resumen": "Rabat rompe su silencio tras la desclasificación de comunicaciones sobre las alertas previas a la invasión de Ceuta del 30 y 31 de julio y responde a España lanzando una batería de preguntas sobre la gestión migratoria del Gobierno de Sánchez. El Gobierno marroquí, a través de un contundente comunicado del Ministerio de Asuntos Exteriores, … Continuar leyendo \"Marruecos coincide con Sánchez en que «ningún dato, hecho o informe» demuestra su implicación en la invasión de Ceuta\""
+  },
+  {
+    "titulo": "Inditex intenta para el golpe en Bolsa con los analistas divididos",
+    "medio": "Expansión",
+    "fecha": 1789081224.0,
+    "link": "https://www.expansion.com/mercados/2026/09/11/6aa30841468aeb93268b4574.html",
+    "resumen": "El grupo textil tiene un potencial de doble dígito en Bolsa Leer"
+  },
+  {
+    "titulo": "Ca7rel & Paco Amoroso, sanación musical sin renunciar a la locura",
+    "medio": "La Vanguardia",
+    "fecha": 1789081149.0,
+    "link": "https://www.lavanguardia.com/cultura/20260911/11632571/ca7rel-paco-amoroso-sanacion-musical-renunciar-locura.html",
+    "resumen": "La pareja argentina convirtió el Palau Sant Jordi en una fiesta polifónica cargada de ironía y buen humor"
+  },
+  {
+    "titulo": "ACS crece en India, un mercado de 'data center' de 18.000 millones",
+    "medio": "Expansión",
+    "fecha": 1789081055.0,
+    "link": "https://www.expansion.com/empresas/inmobiliario/2026/09/11/6aa33389468aeb53688b458f.html",
+    "resumen": "ACS, a través de Leighton Asia, está ganando tracción en India, un mercado donde la edificación y la construcción de data center representa una de las grandes palancas de crecimiento del sector constructor para los próximos años. Leer"
+  },
+  {
+    "titulo": "La F1 calienta el mercado de alquiler de lujo en Madrid: así es la oferta más exclusiva",
+    "medio": "Expansión",
+    "fecha": 1789080913.0,
+    "link": "https://www.expansion.com/inmobiliario/casas/2026/09/11/6aa30469e5fdeae5348b4577.html",
+    "resumen": "La Fórmula 1 se estrena en Madrid y, más allá del rugir de los monoplazas, sus efectos ya se notan en el inmobiliario Leer"
+  },
+  {
+    "titulo": "El aplaudido monólogo de Manu Sánchez contra el odio en 'El perro andaluz': \"Es más poderoso el amor, pero el odio hace más ruido\"",
+    "medio": "HuffPost",
+    "fecha": 1789080840.0,
+    "link": "https://www.huffingtonpost.es/virales/el-aplaudido-monologo-manu-sanchez-odio-el-perro-andaluz-es-mas-poderoso-amor-odio-mas-ruido-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Jorge Javier Vázquez contra Chayo Mohedano en ‘Supervivientes All Stars 3’: «Me pones de miserable en las redes»",
+    "medio": "OK Diario",
+    "fecha": 1789080537.0,
+    "link": "https://okdiario.com/cool/television/jorge-javier-vazquez-contra-chayo-mohedano-supervivientes-all-stars-3-pones-miserable-redes-20268530",
+    "resumen": "Jorge Javier Vázquez ha arrancado Supervivientes All Stars 3 en Telecinco enfrentándose a una antigua enemiga, Chayo Mohedano, hija de una de las grandes estrellas de esta edición, Rosa Benito. El presentador de Mediaset ha querido dejar claro en directo su pasado con la cantante y le ha reprochado lo injusta que ha sido ella … Continuar leyendo \"Jorge Javier Vázquez contra Chayo Mohedano en ‘Supervivientes All Stars 3’: «Me pones de miserable en las redes»\""
+  },
+  {
+    "titulo": "La planta de Martorell perdería sin Seat el 48% de su producción",
+    "medio": "Expansión",
+    "fecha": 1789080249.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/09/11/6aa30155e5fdea214f8b4585.html",
+    "resumen": "Volkswagen debería elevar la fabricación de Cupra y de otros modelos de marcas del grupo si quiere mantener el empleo y la actividad en la planta española. Leer"
+  },
+  {
+    "titulo": "El acoso escolar aumenta hasta el 14,1%, 1,8 puntos más en el último curso",
+    "medio": "El Mundo",
+    "fecha": 1789079573.0,
+    "link": "https://www.elmundo.es/espana/2026/09/11/6aa32e7ae9cf4a282b8b456d.html",
+    "resumen": "El uso de la IA para cometer ciberbullying ha crecido cerca de 10 puntos porcentuales el último año Leer"
+  },
+  {
+    "titulo": "Esfuérzate como yo, chaval",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632079/esfuerzate-chaval.html",
+    "resumen": "Qué extraño que hayan salido así los chavales, ¿no? Con los buenos ejemplos que les damos"
+  },
+  {
+    "titulo": "Eufemismos políticos",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632074/eufemismos-politicos.html",
+    "resumen": "Las dimisiones de altos cargos “por motivos personales” suenan a mala excusa"
+  },
+  {
+    "titulo": "Mientras haya lectores, hay esperanza",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632077/haya-lectores-hay-esperanza.html",
+    "resumen": "No conocemos el mundo de mañana, pero los ‘happy few’ habituados a leer lo entenderán mejor"
+  },
+  {
+    "titulo": "La educación frente al espejo",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632214/educacion-frente-espejo.html",
+    "resumen": "Además de hablar de presupuesto y ratios se ha de abrir el melón del modelo pedagógico"
+  },
+  {
+    "titulo": "Comunicación familiar",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632127/comunicacion-familiar.html",
+    "resumen": "PISA revela un interés decreciente de padres y madres por los estudios de sus hijos"
+  },
+  {
+    "titulo": "Los monstruos acechan",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11632213/monstruos-acechan.html",
+    "resumen": "Lo realmente grave es la confirmación de una profecía anunciada, el fracaso de los cordones sanitarios o muros cortafuegos"
+  },
+  {
+    "titulo": "Se seca el pozo",
+    "medio": "La Vanguardia",
+    "fecha": 1789079400.0,
+    "link": "https://www.lavanguardia.com/opinion/20260911/11631970/seca-pozo.html",
+    "resumen": "El 11-S causó secuelas crónicas que aún arrastran miles de personas"
+  },
+  {
+    "titulo": "La policía investiga si los Bolsonaro usaron dinero público para pagar la película sobre el expresidente",
+    "medio": "El País",
+    "fecha": 1789078407.0,
+    "link": "https://elpais.com/america/2026-09-10/la-policia-investiga-si-los-bolsonaro-usaron-dinero-publico-para-pagar-la-pelicula-sobre-el-expresidente.html",
+    "resumen": "El candidato a la presidencia Flávio Bolsonaro niega irregularidades y acusa a la Justicia de intentar interferir en la campaña electoral"
+  },
+  {
+    "titulo": "Milei celebra el dato más bajo de inflación de Argentina en más de un año: 1,7% mensual en agosto",
+    "medio": "El País",
+    "fecha": 1789078062.0,
+    "link": "https://elpais.com/argentina/2026-09-10/milei-celebra-el-dato-mas-bajo-de-inflacion-de-argentina-en-mas-de-un-ano-17-mensual-en-agosto.html",
+    "resumen": "Los precios aumentan un 33,5% en los últimos 12 meses y en lo que va de 2026 ya se ha duplicado la proyección del IPC del Gobierno"
+  },
+  {
+    "titulo": "Xènia Cid, madre de un niño que murió por una enfermedad rara, frente al duelo: \"No quiero dar pena, mi hijo no ha sido una desgracia\"",
+    "medio": "El Mundo",
+    "fecha": 1789077981.0,
+    "link": "https://www.elmundo.es/yodona/lifestyle/2026/09/11/6a7ad4c5fdddfff86f8b4598.html",
+    "resumen": "En momentos de oscuridad es posible encontrar luz. Xénia aborda sin filtros cómo ha conseguido volver a ser feliz después de la devastación absoluta que supuso la muerte de su hijo tras una dura batalla contra una enfermedad rara. Leer"
+  },
+  {
+    "titulo": "Ni coletas ni trenzas, los peinados que más se llevan este otoño de 2026 son estos... palabra de peluquero",
+    "medio": "El Mundo",
+    "fecha": 1789077979.0,
+    "link": "https://www.elmundo.es/yodona/belleza/2026/09/11/6a83089cfdddfffa058b459c.html",
+    "resumen": "No se nos ocurre mejor revulsivo para el no siempre apetecible regreso a la rutina laboral que estas ideas de peinados, desde voluminosos sueltos hasta recogidos desenfadados, que le dan un aire nuevo a cualquier estilismo sartorial. Leer"
+  },
+  {
+    "titulo": "El ingeniero que destapó los secretos de la adicción de Instagram: \"Meta es el Real Madrid de la tecnología, un niño no puede engañarla con la edad\"",
+    "medio": "El Mundo",
+    "fecha": 1789077935.0,
+    "link": "https://www.elmundo.es/papel/el-mundo-que-viene/2026/09/11/6a9af654e9cf4ad0048b459a.html",
+    "resumen": "El testimonio de este ingeniero ha sido clave en el cerco judicial contra su antigua empresa. \"Le mandé a Mark Zuckerberg datos de daños sufridos por menores y nunca me contestó\" Leer"
+  },
+  {
+    "titulo": "Fórmula 1 en Madrid: 10 restaurantes para comer muy bien cerca del circuito",
+    "medio": "El Mundo",
+    "fecha": 1789077908.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/2026/09/11/6aa2bf29e9cf4a22758b457c.html",
+    "resumen": "De las casas de comidas de Barajas a las parrillas de Valdebebas, una ruta 'gastro' para reponer fuerzas fuera de pista y disfrutar del Gran Premio de España 2026 Leer"
+  },
+  {
+    "titulo": "Torres pide al Supremo «los mismos derechos» para quienes se acojan a la ‘ley de nietos’",
+    "medio": "The Objective",
+    "fecha": 1789077135.0,
+    "link": "https://theobjective.com/espana/politica/2026-09-10/torres-supremo-derechos-ley-nietos/",
+    "resumen": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha advertido que sería «inconcebible» que hubiese «españoles con menos derechos que otros» en «2027, […]"
+  },
+  {
+    "titulo": "China tiene un problema con las tierras arrasadas por las minas de carbón. Ahora está llenándolas de cultivos e invernaderos",
+    "medio": "Xataka",
+    "fecha": 1789077071.0,
+    "link": "https://www.xataka.com/magnet/china-tiene-problema-tierras-arrasadas-minas-carbon-ahora-esta-llenandolas-cultivos-e-invernaderos",
+    "resumen": "Hay lugares donde una mina de carbón y un invernadero comparten el mismo paisaje. En Dongsheng, en la región china de Mongolia Interior, se encuentra Minda, la mayor mina de carbón a cielo abierto del distrito. La explotación sigue funcionando y, a poca distancia de su zona de producción, podemos encontrarnos con hileras de invernaderos llenos de verduras. La imagen resulta extraña porque estamos acostumbrados a pensar en una mina como el final de cualquier uso agrícola del terreno. Aquí ocurre algo diferente: algunas de las superficies que la actividad extractiva había dejado atrás están volviendo a producir. La escena de Minda sería mucho menos relevante si terminara en los límites de esa explotación. No es así. Solo en Ordos, las autoridades locales contabilizaban en 2025 un total de 39 proyectos de agricultura y ganadería ecológicas vinculados a la recuperación de terrenos mineros, además de otros usos como parques y plantas fotovoltaicas. De extraer carbón a cultivar encima Antes de plantar nada, hay que reconstruir el terreno. En esta mina de Dongsheng, por ejemplo, el material retirado durante la explotación se criba para eliminar las piedras de mayor tamaño y después se repone una capa de unos 60 centímetros de suelo apto para el cultivo. A partir de ahí empieza otra tarea: recuperar fertilidad mediante materia orgánica procedente de paja y estiércol fermentado, además de garantizar agua suficiente para mantener las plantaciones. Es un trabajo de ingeniería y agronomía previo a cualquier invernadero, porque el suelo transformado por la minería no vuelve a ser agrícola por sí solo. La recuperación abarca unas 14.000 mu, alrededor de 933 hectáreas. En abril de 2026, Inner Mongolia Daily cifraba el complejo en 300 invernaderos, además de cultivos y explotaciones ganaderas. Parte del maíz y la alfalfa sirve para alimentar a los animales, mientras que el estiércol se fermenta para producir fertilizante orgánico y devolverlo a los campos. La falta de agua llevó además a invertir 150 millones de yuanes, unos 19 millones de euros, en depósitos y sistemas de captación de lluvia. La misma fuente situaba la producción agrícola de 2025 en 12 millones de yuanes, alrededor de 1,5 millones de euros. El mapa se amplía bastante cuando salimos de allí. En Dafanpu, también en Ordos, se han desarrollado unas 59 hectáreas de frutales y más de 33 de viñedos sobre terrenos recuperados; Heidaigou y Haerwusu pusieron en marcha sobre seis zonas de escombreras un proyecto agroganadero con una superficie total prevista de unas 2.800 hectáreas. Y fuera de Mongolia Interior también encontramos ejemplos: en Shaanxi, Ningtiaota convirtió unas 13 hectáreas de una zona de subsidencia minera en un parque de invernaderos con tomates, pimientos, melones y más de veinte tipos de frutas y verduras. Trabajadoras plantando dentro de un invernadero de Minda El problema es que devolverle una función productiva a una superficie no elimina automáticamente todo lo que la minería puede haber hecho sobre ella o debajo de ella. La extracción de carbón puede alterar suelos, cubierta vegetal y sistemas de agua, y existe además un riesgo que depende de la geología de cada yacimiento. No ocurre necesariamente en todas las minas y no hemos documentado que esté sucediendo en Minda, pero explica por qué restaurar el paisaje y recuperar su calidad ambiental no son exactamente lo mismo. Aquí aparece probablemente la pregunta más desafiante de toda esta historia: ¿es seguro comer lo que se cultiva encima? No tenemos evidencias para afirmar que los tomates de Minda estén contaminados, pero tampoco podemos resolver esa cuestión mirando únicamente unas plantas saludables. Un estudio publicado en 2025 sobre rellenos con ganga de carbón, el residuo rocoso asociado a la extracción, en zonas mineras de Mongolia Interior encontró que el suelo recuperado cumplía los estándares agrícolas, aunque presentaba una fertilidad relativamente baja y situaba al cadmio como principal factor de riesgo ecológico. En Xataka China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030 China dispone precisamente de normas para separar esas preguntas. El estándar GB 15618-2018 establece valores de cribado y control del riesgo de contaminación para los suelos agrícolas con el objetivo, entre otros, de proteger la calidad y seguridad de la producción. Fija además límites directamente en los alimentos para contaminantes como plomo, cadmio, mercurio, arsénico, níquel o cromo. Imágenes | Gobierno de Ordos | Hou Zhijin Vía | People’s Daily Online En Xataka | China nunca había desplegado tantos aviones militares fuera de casa. Lo ha hecho frente al ejército más poderoso de África - La noticia China tiene un problema con las tierras arrasadas por las minas de carbón. Ahora está llenándolas de cultivos e invernaderos fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "El Como se presenta ante la nobleza europea",
+    "medio": "El País",
+    "fecha": 1789076965.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-10/el-como-se-presenta-ante-la-nobleza-europea.html",
+    "resumen": "Olise vuelve a impactar en la goleada del Bayern y el Manchester United tambien se exhibe ante el novel Sabah"
+  },
+  {
+    "titulo": "La Champions cierra su primera jornada: el Como debuta a lo grande, United y Bayern golean y el Lens remonta",
+    "medio": "OK Diario",
+    "fecha": 1789076948.0,
+    "link": "https://okdiario.com/deportes/champions-cierra-primera-jornada-como-debuta-lo-grande-united-bayern-golean-lens-remonta-20268486",
+    "resumen": "La fase de liga de la Champions League 2026-2027 ya ha finalizado su primera jornada. Larga y repleta de partidos, resultados abultados y con algún partidazo, se dejó para el final el regreso a lo grande del United, la primera de muchas goleadas del Bayern y la puesta de largo del Como más español que … Continuar leyendo \"La Champions cierra su primera jornada: el Como debuta a lo grande, United y Bayern golean y el Lens remonta\""
+  },
+  {
+    "titulo": "Vicky Luengo lleva a 'La Revuelta' una camiseta pintada por su madre, que ha perdido el 90% de la vista: \"Tengo que aprender a vivir\"",
+    "medio": "HuffPost",
+    "fecha": 1789076258.0,
+    "link": "https://www.huffingtonpost.es/virales/vicky-luengo-lleva-la-revuelta-camiseta-pintada-madre-perdido-90-vista-tengo-aprender-vivir-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La frase con la que Clara Campoamor defendió el derecho de las mujeres a votar y a equivocarse: \"La libertad se aprende ejerciéndola\"",
+    "medio": "Trendencias",
+    "fecha": 1789075860.0,
+    "link": "https://www.trendencias.com/feminismo/frase-que-clara-campoamor-defendio-derecho-mujeres-a-votar-a-equivocarse-libertad-se-aprende-ejerciendola",
+    "resumen": "La libertad no se aprende desde el banquillo. No basta con leer sobre ella, contemplar cómo la ejercen otros o esperar a que alguien decida que otra persona ya está suficientemente preparada. Hay que practicarla, con todo lo que eso implica: elegir, acertar o equivocarse y hacerse responsable de las propias decisiones. \"La libertad se aprende ejerciéndola\" es una de las más populares que resume esa idea y que le debemos a Clara Campoamor. Cabe destacar que esas nueve palabras no son literalmente las que ella usó durante su intervención en las Cortes Constituyentes, en defensa del sufragio femenino, el 1 de octubre de 1931. Son la fórmula divulgativa que condensa el argumento con el que Campoamor cerró uno de los debates más decisivos de la historia de las mujeres en España. \"La única manera de madurarse para el ejercicio de la libertad y de hacerla accesible a todos es caminar dentro de ella\". Se trata de una cita del filósofo alemán Wilhelm von Humboldt con la que Campoamor respondía a todos quienes defendían que las españolas todavía no estaban preparadas para votar. Un Parlamento elegido solo por hombres En 1931 las mujeres podían presentarse a unas elecciones y ocupar un escaño, pero no introducir su propia papeleta en una urna. Así llegaron a las Cortes Constituyentes Clara Campoamor, Victoria Kent y Margarita Nelken: elegidas por hombres para participar en la construcción de una nueva democracia que aún tenía pendiente decidir si consideraba ciudadanas de pleno derecho a la mitad de la población. Algo llamativo es que la resistencia a permitir el sufragio femenino no procedía únicamente de los sectores conservadores. Parte de la izquierda temía que las mujeres, que consideraban muy influidas por la Iglesia y por sus maridos, votaran mayoritariamente a la derecha y pusieran en peligro la República. De hecho, Victoria Kent compartía esa preocupación y defendió que el reconocimiento del voto debía aplazarse hasta que las españolas hubieran adquirido una mayor formación política y social. No obstante, reducir aquel enfrentamiento a una rivalidad entre dos mujeres sería hacerle un favor al relato incorrecto. Kent no cuestionaba la capacidad intelectual de las mujeres ni se oponía al sufragio como principio. Pensaba que no era el momento estratégico. Campoamor, en cambio, entendió que aceptar aquel aplazamiento era lo peligroso. Sobre todo porque si un derecho depende de que quienes ya lo poseen consideren que vas a utilizarlo correctamente, deja de ser un derecho para convertirse en un premio a la buena conducta. \"¿Cómo puede decirse que la mujer no ha luchado y que necesita una época, largos años de República, para demostrar su capacidad?\", preguntó también ante la Cámara. Campoamor recordó la participación de las mujeres en protestas, huelgas y movilizaciones políticas y rechazó que se las obligara a superar un examen que nadie había exigido a los hombres. A ellos tampoco se les había preguntado si estaban libres de influencias, si conocían suficientemente el programa electoral o si tomarían la decisión que más convenía al país. Clara Campoamor no esperó a sentirse preparada Campoamor había nacido en Madrid, en 1888, en el seno de una familia trabajadora. Abandonó pronto los estudios, después de la muerte de su padre, para ayudar en casa. Entonces trabajó como modista, dependienta, telefonista y funcionaria de Telégrafos. No siguió el recorrido reservado a las pocas mujeres privilegiadas que podían llegar en aquella época a la universidad. Regresó a las aulas cuando ya era adulta. Comenzó el bachillerato pasados los 30 años y en 1924, a los 36, se licenció en Derecho. Poco después empezó a ejercer como abogada en un país donde ver a una mujer ante los tribunales todavía era una excepción. Su actividad política tampoco se limitó al voto. Durante la elaboración de la Constitución defendió la igualdad jurídica entre mujeres y hombres, el divorcio y los derechos de los hijos nacidos fuera del matrimonio. Campoamor, por lo tanto, no estuvo nunca interesada en esperar a que el mundo estuviera listo para ella. Si hubiera aguardado a sentirse representada, a encontrar referentes suficientes o a que desaparecieran todos los obstáculos, probablemente no habría llegado nunca al Congreso. Fue avanzando poco a poco dentro de espacios que todavía no habían sido pensados para mujeres y, al hacerlo, allanó el camino para quienes venían detrás. El derecho a equivocarse como parte de la igualdad Finalmente, el artículo que reconocía los mismos derechos electorales a los ciudadanos españoles de ambos sexos fue aprobado por 161 votos frente a 121. Las españolas acudieron por primera vez a las urnas en unas elecciones generales en noviembre de 1933. La derecha ganó aquellos comicios y el resultado se utilizó durante años para responsabilizar al voto femenino, aunque siempre se ha cuestionado esa explicación simplista y señalado otros factores políticos y electorales. La victoria tuvo un coste para Campoamor. Se enfrentó a buena parte de su propio partido, no consiguió renovar su escaño en 1933 y terminó relatando aquella batalla en un libro de título dramático: 'El voto femenino y yo: mi pecado mortal'. Tras el estallido de la Guerra Civil abandonó España. Vivió en Francia, Argentina y Suiza y murió en Lausana en 1972, después de décadas de exilio y sin haber podido regresar definitivamente al país cuyos derechos democráticos había contribuido a ampliar. Casi un siglo después, aquella frase sigue recordándonos que disfrutar de la libertad significa poder usarla antes de dominarla y aceptar la incomodidad de decidir. Clara Campoamor nunca pidió que confiaran en que las mujeres votarían bien, no prometió que elegirían lo que la República esperaba de ellas. Defendió algo más universal y atemporal como que la libertad no empieza cuando demostramos merecerla, sino cuando por fin podemos ejercerla. Foto de portada | Dominio público En Trendencias | Los 100 mejores libros de la historia que te engancharán de principio a fin En DAP | Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme”. En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado - La noticia La frase con la que Clara Campoamor defendió el derecho de las mujeres a votar y a equivocarse: \"La libertad se aprende ejerciéndola\" fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "Javier Bardem en la televisión pública: «Tengo más dinero del que nunca hubiera imaginado»",
+    "medio": "OK Diario",
+    "fecha": 1789075559.0,
+    "link": "https://okdiario.com/cool/television/javier-bardem-television-publica-tengo-mas-dinero-del-que-nunca-hubiera-imaginado-20268204",
+    "resumen": "La Revuelta ha terminado su semana de estreno de la nueva temporada este jueves 10 de septiembre con la presencia de los actores Javier Bardem y Victoria Luengo como invitados de David Broncano. Ambos han hecho promoción de su última película juntos, El ser querido, y mientras que él se ha estrenado como invitado de … Continuar leyendo \"Javier Bardem en la televisión pública: «Tengo más dinero del que nunca hubiera imaginado»\""
+  },
+  {
+    "titulo": "Anthropic bloquea cinco posibles intentos de crear armas biológicas con Claude, alguna con potencial pandémico",
+    "medio": "Europa Press",
+    "fecha": 1789075435.0,
+    "link": "https://www.europapress.es/economia/noticia-anthropic-bloquea-cinco-posibles-intentos-crear-armas-biologicas-claude-alguna-potencial-pandemico-20260910232355.html",
+    "resumen": "Anthropic, empresa creadora del asistente de IA 'Claude', ha frustrado en lo que llevamos de año al menos cinco investigaciones científicas posiblemente relacionadas con el desarrollo de armas biológicas, algunas con alto potencial pandémico."
+  },
+  {
+    "titulo": "España se exhibe ante Australia y peleará por las medallas del Mundial femenino ante EEUU",
+    "medio": "The Objective",
+    "fecha": 1789075392.0,
+    "link": "https://theobjective.com/deportes/2026-09-10/seleccion-espanola-femenina-baloncesto-euu/",
+    "resumen": "La selección española femenina de baloncesto peleará por las medallas en el Mundial que se está disputando en Berlín después de ganar este jueves de forma […]"
+  },
+  {
+    "titulo": "España tumba a Australia y se medirá a Estados Unidos en semifinales del Mundial de baloncesto femenino",
+    "medio": "OK Diario",
+    "fecha": 1789075257.0,
+    "link": "https://okdiario.com/deportes/espana-tumba-australia-medira-estados-unidos-semifinales-del-mundial-baloncesto-femenino-20268098",
+    "resumen": "España peleará por las medallas en el Mundial de baloncesto femenino. La Selección se ha impuesto a Australia por un contundente 66-89, accediendo a las semifinales en las que espera Estados Unidos. Palabras mayores, pero ahora toca disfrutar de lo que puede ser una medalla para las de Miguel Méndez, que no fallaron en la … Continuar leyendo \"España tumba a Australia y se medirá a Estados Unidos en semifinales del Mundial de baloncesto femenino\""
+  },
+  {
+    "titulo": "Un pueblo de Zamora se queda sin agua después de que un grupo de vacas sueltas revienten una tubería: \"Ya estamos aburridos\"",
+    "medio": "HuffPost",
+    "fecha": 1789074124.0,
+    "link": "https://www.huffingtonpost.es/sociedad/un-pueblo-zamora-queda-agua-grupo-vacas-sueltas-revienten-tuberia-ya-aburridos-f202609.html",
+    "resumen": ""
+  },
+  {
     "titulo": "Friedrich Nietzsche, filósofo: “El que no sabe poner sus ideas en hielo no debe acalorarse en la discusión”",
     "medio": "Trendencias",
     "fecha": 1789074060.0,
@@ -12,13 +292,6 @@
     "fecha": 1789073555.0,
     "link": "https://theobjective.com/espana/2026-09-10/detenido-inmigrante-propinar-cabezazo-vigilante-ceti/",
     "resumen": "Le dio un cabezazo en la frente a un miembro de la seguridad del CETI cuando intermediaba entre varios inmigrantes que estaban involucrados en una reyerta. […]"
-  },
-  {
-    "titulo": "España se clasifica para las semifinales del Mundial femenino de baloncesto tras arrollar a Australia",
-    "medio": "El Mundo",
-    "fecha": 1789073548.0,
-    "link": "https://www.elmundo.es/deportes/baloncesto/2026/09/10/6aa3173ce4d4d840528b45a8.html",
-    "resumen": "Se jugará el sábado ante Estados Unidos, la gran favorita del torneo, el pase a la final Leer"
   },
   {
     "titulo": "Nueva York conmemora el 25.º aniversario del 11-S recreando las Torres Gemelas con un espectáculo de drones",
@@ -35,25 +308,11 @@
     "resumen": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha afirmado que la asistencia escolar en Ceuta subió este jueves al 81 %, lo […]"
   },
   {
-    "titulo": "Tensión entre grupos independentistas en el acto de Sílvia Orriols previo a la Diada: \"Hemos venido a salvar Cataluña\"",
-    "medio": "El Mundo",
-    "fecha": 1789072640.0,
-    "link": "https://www.elmundo.es/cataluna/2026/09/10/6aa2b33821efa0ca6e8b456e.html",
-    "resumen": "Aliança Catalana hace su ofrenda en el Fossar de les Moreres ante la oposición de grupos afines a la CUP / Los Mossos intervienen y Orriols sale escoltada Leer"
-  },
-  {
     "titulo": "Una España desbordante y mosquetera está en la élite mundial y pide cita a Estados Unidos",
     "medio": "El País",
     "fecha": 1789072442.0,
     "link": "https://elpais.com/deportes/baloncesto/2026-09-10/una-espana-desbordante-esta-en-la-elite-mundial.html",
     "resumen": "La selección bate a Australia en los cuartos por 66-89 con un gran juego colectivo y jugará este sábado ante el Dream Team por una plaza en la final"
-  },
-  {
-    "titulo": "España arrolla a Australia y se jugará el pase a la final ante la temible Estados Unidos (89-66)",
-    "medio": "La Vanguardia",
-    "fecha": 1789072357.0,
-    "link": "https://www.lavanguardia.com/deportes/baloncesto/20260910/11632333/espana-arrolla-australia-jugara-pase-final-temible-estados-unidos.html",
-    "resumen": "Iyana Martín, Alicia Flórez y Megan Gustafson lideran al equipo español, que se medirá a la campeona de seis de las siete últimas ediciones"
   },
   {
     "titulo": "Solo uno de cada 100 delitos en México tuvo una resolución positiva en 2025",
@@ -77,25 +336,11 @@
     "resumen": "El curso político ha arrancado en Castilla y León con un Pleno en el que se ha reprochado la política de odio de Vox El nuevo curso político ha arrancado este jueves en las Cortes de Castilla y León con escasa artillería. El Pleno cuenta desde ahora con tres nuevos procuradores de Vox, Silvia Guilarte, Javier Martínez y Mariano Veganzones -el exconsejero de Empleo en la pasada legislatura que destacó por sus improperios contra los sindicatos- que han ocupado los escaños que dejaron libres los compañeros que han sido nombrados altos cargos. En esta sesión se han votado también los tres senadores por designación autonómica, dos del PP y una del PSOE. El alavés Javier Maroto (PP), empadronado en Sotosalbos (Segovia), ha sido elegido por tercera vez, mientras que el expresidente de la Diputación de Salamanca, Javier Iglesias afronta su nueva etapa política en el Senado. Por el PSOE, entra la exalcaldesa de Segovia, Clara Martín, que será candidata al Ayuntamiento en las próximas elecciones locales. Los procuradores de Vox han dejado el voto en blanco y los tres senadores han obtenido 30 (PSOE) y 32 apoyos (PP), respectivamente. Los nuevos senadores por designación autonómica en Castilla y León, Clara Martín (PSOE), Javier Maroto (PP) y Javier Iglesias (PP). Aunque el nuevo líder del PSOE de Castilla y León, Carlos Martínez ya intervino en el Pleno de Investidura de Mañueco, se ha estrenado en la sesión de control tirando de ironía. Ha felicitado a los tres nuevos senadores y en concreto a Maroto “tras haber aprobado el test de arraigo seguramente exigido por el grupo Vox”. Las felicitaciones de Martínez han llegado también al presidente de la Junta, Alfonso Fernández Mañueco, por tener “un miembro con plaza en la Audiencia Nacional”. Se refería al consejero de Industria, Juan Carlos Suárez Quiñones, que ha obtenido plaza de magistrado en la Sala de lo Penal, si bien no lo ocupará de momento. “Enhorabuena, señor Quiñones, después de 15 años en política de la mano del señor Mañueco su carrera judicial sigue progresando”, ha dicho Martínez antes de añadir “olé por la separación de poderes”. “Enhorabuena también para usted, señor Mañueco, por garantizarse su seguridad política para el día que deje de ser presidente”, ha espetado. Además, le ha preguntado “hasta dónde es capaz de llegar” para seguir en el poder, en referencia a su pacto con Vox. El líder del PSOE de Castilla y León, Carlos Martínez, durante el Pleno de las Cortes. Mañueco ha respondido que no va a pactar con “los herederos de ETA”, que no va a “aprobar una ley de amnistía para los golpistas” y tampoco comprará “apoyos de ”separatistas“ con la financiación autonómica, todo ello en clara referencia al presidente del Gobierno, Pedro Sánchez. ”Asuma su derrota“, ha indicado al socialista. Martínez ha contraatacado reprochando su actitud durante los graves incendios de Ávila, cuando se convirtió ”en el más sanchista“ mientras se escondía tras Pedro Sánchez que fue quien ”salvó“ su gestión. En el Pleno se ha aludido además a las pautas que marca Vox en los gobiernos de los que forma parte. La socialista Patricia Gómez Urbán se ha referido en concreto a lo ocurrido en el Ayuntamiento de Valladolid (PP-Vox) donde se ha sustituido en el protocolo de acceso a vivienda de protección a las víctimas de violencia género por víctimas de violencia doméstica. En la tribuna de invitados, integrantes de la Coordinadora de Mujeres han acabado expulsadas por mostrar carteles de repulsa. La vicepresidenta segunda, Isabel Blanco, que antes fue consejera de Familia e Igualdad, que ya no dan nombre a ninguna consejería, ha asegurado que condena “firmemente” la violencia de género“ y ha recordado el aumento de la inversión, de la atención y el apoyo a las víctimas y a sus familias. Por contra, ha recriminado a los socialistas que no hayan alzado la voz cuando se aprobó la ley de ”solo sí es sí“ o cuando fallaron las pulseras de los agresores machistas. No han faltado contínuas referencias a la llegada masiva de migrantes a Ceuta. La procuradora Nuria Rubio (PSOE) a reprochado a Vox su política de odio contra los migrantes con la foto del niño que fue tiroteado con una escopeta de perdigones. El vicepresidente primero y consejero de Desregulación, Familia y Ayudas Sociales de la Junta, Carlos Pollán (Vox), ha remarcado que la Junta de Castilla y León usará “todos los medios legales” para no acoger a “migrantes ilegales” y que trabajarán para mandar de vuelta a los menores “a su país y con sus familias”. Se habló de fuegos, se habló de patrimonio histórico echado a perder, de reducción de ayudas a los sindicatos, pero es posible que migración y violencia de género centren todos los debates en el curso que comienza."
   },
   {
-    "titulo": "Morgan Stanley reduce su participación en Telefónica al 8%",
-    "medio": "Expansión",
-    "fecha": 1789072133.0,
-    "link": "https://www.expansion.com/empresas/tecnologia/2026/09/10/6aa312a8468aebcb4f8b4571.html",
-    "resumen": "El banco de inversión estadounidense Morgan Stanley ha reducido su participación en Telefónica al 8%, un movimiento que sitúa el valor actual de su posición en 1.726 millones de euros, según consta en los registros de la Comisión Nacional del Mercado de Valores (CNMV). Leer"
-  },
-  {
     "titulo": "Bolaños defiende el derecho «sagrado» al voto tras el fallo del Supremo sobre la ‘ley de nietos’",
     "medio": "The Objective",
     "fecha": 1789072116.0,
     "link": "https://theobjective.com/espana/politica/2026-09-10/bolanos-derecho-voto-supremo-ley-nietos/",
     "resumen": "El ministro de Justicia, Félix Bolaños, ha defendido el derecho «sagrado» del voto tras la publicación íntegra de los autos del Tribunal Supremo que dejan en […]"
-  },
-  {
-    "titulo": "Gallardo pide que su inhabilitación por el caso del 'hermanísimo' sólo le afecte a la Diputación de Badajoz",
-    "medio": "El Mundo",
-    "fecha": 1789072028.0,
-    "link": "https://www.elmundo.es/espana/extremadura/2026/09/10/6aa3123efdddff9c778b459f.html",
-    "resumen": "El ex líder del PSOE de Extremadura trata de impedir que su pena de 18 años para ejercer cago público se extienda a cualquiera otra administración Leer"
   },
   {
     "titulo": "España no da opción a Australia y sella el pase a las semifinales del Mundial donde se verá las caras con Estados Unidos",
@@ -119,7 +364,7 @@
     "resumen": ""
   },
   {
-    "titulo": "España se deshace de Australia y reta a la WNBA",
+    "titulo": "España reta a la WNBA",
     "medio": "Europa Press",
     "fecha": 1789071646.0,
     "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-gran-espana-peleara-medallas-mundial-baloncesto-20260910222046.html",
@@ -140,13 +385,6 @@
     "resumen": "A bordo del vehículo turístico viajaba medio centenar de personas. Se desconoce de momento el número de víctimas"
   },
   {
-    "titulo": "Hallan en Melilla a 71 inmigrantes ocultos en atracciones que pretendían viajar a la península",
-    "medio": "The Objective",
-    "fecha": 1789071111.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-09-10/melilla-personas-ocultas-atracciones-peninsula/",
-    "resumen": "La Guardia Civil y la Policía Nacional han localizado un total de 71 inmigrantes ocultas en atracciones durante la Operación Feriante en Melilla que pretendían viajar […]"
-  },
-  {
     "titulo": "El preparador físico de Alcaraz carga por el horario de su partido contra Shelton: «No es sano para la salud»",
     "medio": "OK Diario",
     "fecha": 1789070685.0,
@@ -161,13 +399,6 @@
     "resumen": "Hay días en los que te marcas el objetivo de cenar de forma sana y rica pero, eso sí, esforzándote lo mínimo en la cocina y, además, teniendo que tener todo listo en un tiempo récord. Bueno, pues aunque parezca mucho pedir, no es imposible y, como prueba, hemos preparado una batería de ideas exprés con ayuda de los expertos de Directo al paladar'. En Trendencias 101 recetas sanas para mantener una dieta equilibrada pero deliciosa todos los días del año Sartenada de calabacín con queso y jamón: 15 minutos Ingredientes Para 2 personas Calabacín 1 Queso 100 g Jamón serrano muy picado 50 g Tomillo fresco al gusto Cómo hacer Sartenada de calabacín con queso y jamón Dificultad: Fácil Tiempo total 15 min Elaboración 5 min Cocción 10 min Aunque te parezca increíble hay cosas mucho más fáciles que freír un huevo (que en realidad es mucho más complicado de lo que parece), como esta sartenada de calabacín con queso y jamón, por ejemplo. Solo necesitas cortar el calabacín en láminas muy finitas, dejarlo muy crujiente en la sartén y elegir un queso que funda bien y, si puede ser, bajo en grasa. Pollo a la ratatouille: 20-25 minutos Te sorprenderá este pollo a la ratatouille por lo fácil que se prepara, la cantidad de verduras que lleva (tu madre estará orgullosa) y, sobre todo, por lo rico que está. Jamás te hubieras imaginado que una simple pechuga de pollo iba a revivir de esta manera, tan solo untándolo con mostaza y acompañándolo de una selección de tiernas verduras laminadas. Salmón al horno en papillote: 20 minutos Aunque seas un desastre envolviendo regalos de cumpleaños, para hacer un salmón al horno en papillote no necesitas ni aprobar primero de Envoltorios y Paquetería Navideña. Con un poco de papel de aluminio, habilidad para doblar esquinas, un trozo de salmón fresco y un puñado de tus verduritas favoritas cortadas en juliana tendrás en cuestión de minutos una cena resultona y la mar de sana. Otra idea de Directo al Paladar. Cintas de calabacín con berberechos: 20 minutos Los espaguetis de calabacín están más de moda que los vestidos floreados y esta receta de cintas de calabacín con berberechos es estupenda para cocinarlos en un pis pas, justo en esos días en los que prácticamente tienes la nevera vacía y tienes que tirar de fondo de despensa (tan importante como el fondo de armario). Pollo marinado con adobo casero: 15 minutos (el adobo aparte) Además de estar riquísima, de estar chupada de hacer y de poder competir con el pollo de tu madre, esta receta de pollo marinado con adobo casero es muy económica y perfecta. Gambas en salsa con calabacín: 20 minutos Hay días que se te hacen cuesta arriba y cuando llegas a casa solo necesitas un poco de cariño y un plato reconfortante al que abrazarte. Con este guiso de gambas con calabacín en salsa de tomate lo conseguirás y se trata, además, de una opción súper sana. Ñoqui verde: 20 minutos Para esos días que tomar verdura se te hace tan cuesta arriba como a un niño de primaria, siempre puedes probar con este plato de ñoqui verde que las sirve acompañadas con ñoquis y un delicioso pesto de albahaca. Te relamerás de gusto mientras te comes una parte de tus 5 al día. Cuscús con pollo, calabaza agridulce y espinacas: 25 minutos ¿Te ha sobrado un poquito de pollo asado del domingo? Te parecerá mentira, pero con un par de trucos puedes transformarlo en una cena deliciosa de aprovechamiento. Solo necesitas customizarlo con un poco de cuscús precocido y saltear unas verduras. El toque exótico de esta receta de Cuscús con pollo, calabaza agridulce y espinacas lo aportan las especias. Merece la pena probarlo. Lubina a la sidra con almejas: 20 minutos Si no te apetece enchufar el horno, puedes probar con recetas como esta lubina a la sidra con almejas, una solución rápida y chupada de hacer que tiene como resultado una cena de pescado jugosa, con el aroma singular de la sidra y en la que el único requisito es no olvidarse de comprar un buen pan artesanal para mojar en la salsa. Sartén de brócoli con especias y coco: 25 minutos Te lo dice tu médico y nos lo recuerdan los expertos: hay que meter más verduras en nuestra dieta, pero, pasando de la clásica ensalada mixta, se te han acabado las ideas. Con recetas como esta sartén de brócoli con especias y coco de Directo al paladar podrás incrementar tu consumo de verde y además viajar con el paladar a otros países. Sartenada de pollo con verduras y salsa cajún: 20 minutos Practica el minimalismo en la cocina y haz todo en una misma sartén, tal y como sugieren en esta receta de sartenada de pollo con verduras y salsa cajún: un cuarto de pollo, algunas verduras fileteadas muy finas como champiñones, pimiento y zanahorias y especias Cajún diluidas en caldo. Requeteñam. Tacós de atún: 30 minutos Una versión bastante saludable de los típicos tacos mexicanos en la que se usa un ingrediente poco usual para este tipo de plato como lo es el atún. Los tacos, como muchas otras especialidades internacionales que podemos recuperar y adaptar, nos permiten inventar y crear alternativas fuera de los lugares comunes. Esta receta sencilla de tacos de atún es una delicia para la cena. Se pueden hacer en menos de 30 minutos por, lo que son una alternativa muy conveniente cuando no se dispone de mucho tiempo. Huevos turcos con yogur: 20 minutos El yogur es uno de los mejores inventos de la humanidad: tan simple, tan humilde, pero tan nutritivo y versátil. Esta receta de huevos turcos con yogur es saludable y deliciosa. Su preparación es muy simple: una base de yogur natural mezclado con hierbas y especias que acoge un huevo pochado o escalfado, con la yema sin cuajar. Un bocado lleno de proteínas ideal para una cena rápida y ligera. Ensalada de maíz fresco salteado y pollo: 30 minutos Para preparar esta ensalada de maíz fresco salteado y pollo, si tenemos sobras de pollo asado o cocido, la dificultad de la receta es mínima. También podemos cocinar en un momento una pechuga o un par de contramuslos. La preparación del maíz fresco es muy sencilla, solo hay que procurar escoger una mazorca de calidad, bien fresca, con los granos tan tiernos que casi se pueden devorar crudos. Wok de fideos de calabacín con verduras: 20 minutos Estos fideos de calabacín con verduras son una elaboración fácil y sana que soluciona cualquier comida en un pispás, pues solo se tardan 20 minutos en tenerlo sobre la mesa. De hecho, se come al dente y en el momento, así que conviene tener la mesa puesta y a los comensales sentados para que no tenga que esperar. Filetes de seitán en salsa de pimienta: 20 minutos Por su textura, el seitán es perfecto para cocinarlo al estilo de elaboraciones clásicas de cerdo o pollo. Esta receta de filetes de seitán en salsa de pimienta, además, es de lo más sencilla y estupenda para preparar una comida nutritiva y rica en menos de media hora. Sepia a la plancha con alioli: 16 minutos La sepia a la plancha con alioli es una tapa clásica de nuestro país. Ya sea que la elaboremos con una buena sepia de temporada, jibias o chocos. Siguiendo esta receta, el resultado será sabroso, tierno y jugoso. Frittata mediterránea: 25 minutos Esta frittata mediterránea es sabrosa, saciante y completa, sin resultar pesada, perfecta tanto para el almuerzo como la cena. Incluso también podríamos usarla como relleno de un delicioso bocadillo si tenemos que comer fuera de casa.` Pollo al curry: 10 minutos Con esta receta de pollo al curry en 10 minutos tenemos un plato completo y sabroso listo en un periquete. Troceando el pollo en piezas pequeñas y con los productos a temperatura ambiente cocinaremos mucho más rápido. Además, podemos usar la mezcla de especias que más nos guste. Fotos | Directo al Paladar En Trendencias | 23 recetas de pasta italiana con las que no aburrirte nunca - La noticia 19 cenas fáciles y rápidas para todos los días: cocina sana y exprés sin complicaciones fue publicada originalmente en Trendencias por Rebeca Rus ."
   },
   {
-    "titulo": "El petróleo supera los 107 dólares y reactiva la escalada de la deuda",
-    "medio": "Expansión",
-    "fecha": 1789070434.0,
-    "link": "https://www.expansion.com/economia/2026/09/10/6aa2af53e5fdeab7088b4574.html",
-    "resumen": "El conflicto en Oriente Próximo se recrudece después de que los hutíes, alineados con Irán, tomaron el control del puerto yemení de Mocha. Leer"
-  },
-  {
     "titulo": "El Ejército de EEUU disuelve su batallón de drones creado para aprender de Ucrania: \"Nunca iba a ser permanente\"",
     "medio": "HuffPost",
     "fecha": 1789070288.0,
@@ -180,20 +411,6 @@
     "fecha": 1789070239.0,
     "link": "https://www.eldiario.es/viajes/paradoja-cafeteria-bolsita-caro-cafe_1_13501068.html",
     "resumen": "Aventurarse en el vaporoso mundo de los tés y tisanas suele ser casi siempre un dolor de cabeza para el bebedor de estas infusiones, ya que tienden a confundirse de bolsita, a hacérsela mal y a cobrársela caraLa caña está en peligro de extinción: por qué cada vez menos bares la sirven Un malestar recorre las cafeterías españolas cada vez que alguien desafía la omnipresencia del café para aventurarse en el vaporoso, confuso, insondable mundo de los tés y las infusiones. Elección a priori trivial que, en nuestra hostelería, puede alcanzar la dimensión de hazaña homérica. Porque un café, incluso un mal café, aspira a ser siempre un paréntesis de placer para un bebedor de café, pero una infusión, incluso una buena infusión, suele ser casi siempre un dolor de cabeza para el bebedor de infusiones, ya que tienden a confundirse de bolsita, a hacérsela mal y a cobrársela cara. Las redes sociales han convertido los desengaños que nublan la experiencia del consumidor herbáceo en un género propio de creciente empoderamiento. Sus quejas empiezan a arañar la categoría de minoría oprimida, como prueba la siguiente colección de flashbacks de Vietnam recolectados para la documentación de este reportaje. Rocío, de 49 años, admite que ha dejado de pedir tés o infusiones en cafeterías generalistas. “Normalmente, cuando pides té, te ponen el agua caliente en una taza, a veces por la mitad, que es agua y es barata. Hombre, ¡echa más! Y la bolsita te la dan fuera, y para cuando la metes en el agua eso ni infusiona ni nada. Cuatro veces contadas me habrán puesto el agua en la tetera y lo suficientemente caliente”. El arquitecto Jesús Cao coincide en eso de “tirarme unos minutos mientras presuntamente infusiona y darme cuenta de que me han dado el sobrecito para que lo meta yo”, y añade otras lacras: “Precio absurdo, calidad lamentable, agua a 1.800°C, variedad inexistente, ‘¿Earl Grey, eso qué es?”. La necesidad de exiliarse a negocios de nicho como refugio rebela a Juanjo, profesor universitario de 36 años: “Me fastidia reconocer que, para tomarte una infusión rica, haya que ir a una cafetería de especialidad, sitios que odio porque detecto una especie de psicopatía detrás de ese culto al café. Yo quiero un bar donde poder leer el periódico; en las cafeterías de especialidad no tienen periódicos”. Normalmente, cuando pides té, te ponen el agua caliente en una taza, a veces por la mitad, que es agua y es barata. Hombre, ¡echa más! Y la bolsita te la dan fuera, y para cuando la metes en el agua eso ni infusiona ni nada Rocío, 49 años — consumidora de té El acompañamiento de las infusiones con leche parece ser también un nervio sensible en el gremio que nos ocupa. Entre los agravios, Óscar, informático de 50 años, cita “pedir un té con leche y que me traigan el sobre de té y una taza con solo leche calentita: acabas bebiéndote una taza de leche con regustillo a té”. Lola Castelló va más allá: “Pedí un té con leche, me trajeron un vaso corto con agua caliente, bolsa de té y para mi sorpresa una generosa dosis de leche condensada”. ¿Se trata de hostilidad o ignorancia del sector hostelero? El ambientólogo Miguel Antúnez López, asiduo de estos cálidos bebedizos, apuesta por lo segundo. “Es habitual percibir cierto desconocimiento sobre cómo servir las infusiones o, incluso, la diferencia entre un té, una manzanilla o una menta poleo”, lamenta. Se da la casualidad de que, mientras se realizaba la entrevista telemática sobre la cuestión, la maldición de su gremio hizo aparición para reforzar la conveniencia de este testimonio. “Precisamente ahora mismo he pedido un poleo y me han puesto un té verde”, escribe Antúnez sin demasiada sorpresa. Materia prima, preparación y servicio El precio es la queja más recurrente. En España hay alrededor de 1.200 embalses, con una capacidad conjunta de unos 56.000 hm³, cuyo principal cometido es almacenar agua para que, previo paso por una Estación de Tratamiento –donde, en función de su procedencia y calidad, se someterá a procesos de coagulación y floculación y eliminación de partículas, así como desinfección con cloro o derivados–, ésta se potabilice y permita a los hosteleros extraer una casi gratuita cantidad de inodoro e incoloro líquido del grifo de sus establecimientos, a fin de hervirlo en un recipiente adaptado y echarle una bolsita con hierbas –de precio oscilante entre los tres y los ocho céntimos de euro por unidad– cada vez que un cliente pida una infusión o un té. Y, sin embargo, los tés y las manzanillas y los menta poleo cuestan lo mismo, cuando no más, que un café con leche. ¿Por qué? Caroline Heredia, fundadora de la marca blueyellow.co, un pequeño proyecto de cultivo y elaboración de conservas de plantas aromáticas situado en Madrid, mantiene que “desde el punto de vista de la materia prima, y hablando en términos generales, no parece que el mayor precio de una infusión en restauración pueda explicarse simplemente porque producirla sea más caro que producir café. De hecho, en muchos casos ocurre más bien lo contrario”. Caroline explica que todas las plantas destinadas a té, tisana o café requieren procesos de cultivo, recolección, procesamiento, secado y envasado, y que, aunque en el caso del té estos procesos son más complejos que en los de las infusiones, “en el café hay además una fase posterior fundamental: el tueste”. Esta experta en agroecología destaca que tanto las plantas del té como la del café requieren además entre tres y cinco años para poder cosecharlas, “frente a muchas plantas aromáticas que pueden cosecharse en periodos mucho más cortos y con varios ciclos de aprovechamiento”. Por lo tanto, tampoco tendría sentido que una manzanilla nos cueste lo mismo que un té o un café. Desde el punto de vista de la materia prima, y hablando en términos generales, no parece que el mayor precio de una infusión en restauración pueda explicarse simplemente porque producirla sea más caro que producir café. De hecho, en muchos casos ocurre más bien lo contrario Caroline Heredia — cultivo y conservación de plantas aromáticas Caroline añade otro factor determinante que puede condicionar el precio: el coste y el tiempo de servicio. “Preparar y servir un café y preparar y servir una infusión o un té no implican necesariamente el mismo trabajo. Una buena infusión o té requiere controlar aspectos como la cantidad de planta –si no viene en bolsitas–, la temperatura del agua y el tiempo de infusión”. En función del establecimiento, los hay que preparan la bebida en una taza, acompañándola de una tetera, o permiten que el propio cliente haga la infusión y repita el servicio de agua. Sin embargo, los testimonios que encabezaban este reportaje no hablan, precisamente, de una actitud ceremoniosa en la hostelería nacional que justifique el precio del servicio en eso que podríamos llamar “bar estándar”. Vayamos, pues, a un bar estándar. Planteamos estas mismas preguntas a Jose, camarero de la cafetería Gaia, en Santiago de Compostela. Se encoge de hombros. “No puedo hablar por todos los negocios, porque cada bar tiene su público y su concepto, pero nosotros somos un bar de barrio y servimos, mayormente, café. La gente aquí, por la mañana, para desayunar, pide café. No sé cuánto porcentaje pueden suponer los clientes que piden infusiones, no tengo las cifras en la mano, pero calculo que no llega ni al 5%. Y en la hostelería, el precio de las infusiones suele estar acompasado al café. Cuando sube el café, suben las infusiones. Eso ha sido así toda la vida”. \"Los tés de bolsita contienen los restos de las grandes plantaciones. El brote se separa en las fábricas y con eso es con lo que se hace el té de verdad. Con lo otro se hacen las bolsitas”, dice la productora de té Beatriz Piñeiro. Jose no percibe ninguna tensión entre la clientela disidente del fruto del cafeto. “Aquí hay negocios para todos. Es igual que lo de los cafés de especialidad. El que quiera ese producto, tiene dónde buscarlo. En esta ciudad hay varias teterías. Aquí lo que damos es café normal. Y si quieres una infusión, también las hay. Aunque ahora ya no me piden té, apenas. Ni manzanillas. El que me pide infusión casi siempre va a por eso moderno que hay ahora, el rooibos. Las frutas del bosque también me las han pedido alguna vez”. Bolsitas del súper vs. permacultura Ante la evidente distancia entre el mundo hostelero y la sensibilidad tisánica, recurrimos a una experta en la materia. Beatriz Piñeiro Lago es la fundadora del Jardín del Té del Pazo Quinteiro da Cruz, en Ribadumia (Pontevedra). Se define como “la primera productora de té en España” porque en el año 2008 puso en marcha una plantación de Camellia sinensis –“es la única planta del té”, nos aclara, “el resto son tisanas y a las cosas hay que llamarlas por su nombre”– en una propiedad familiar. En la hostelería, el precio de las infusiones suele estar acompasado al café. Cuando sube el café, suben las infusiones Jose — camarero Su té ecológico, recolectado y procesado de manera artesanal bajo los principios de la economía circular, se sitúa en la antítesis de lo que puede ofrecerle cualquier cafetería estándar. “Nunca pido té en un sitio que no esté especializado, porque te dan tés de bolsitas comprados en el supermercado. Los tés de bolsita contienen los restos de las grandes plantaciones. Las cosechas se recogen a máquina, el brote se separa en las fábricas y con esos brotes es con lo que se hace el té, el té de verdad. Y con lo otro se hacen las bolsitas que compras por ahí”. Piñeiro aduce también prevenciones de salud para evitar este producto de masas. “En las bolsitas, el papel va blanqueado con cloro, lleva pegamento y grapa para sujetar el hilito, también microplásticos, PFAS... Estás tomando algo que en principio crees que te va a beneficiar, pero realmente no te beneficia”, dice. Por si fuera poco, el tratamiento que se da al té y las tisanas en los bares es tan pedestre que provoca el ahogamiento inmediato en taza del monóculo de cualquier experto que, ante la falta de finesse hostelera, se vea abocado a abrir los párpados más de lo debido. “No saben hacerlo. Tú no puedes hacer un té a 100 ºC porque lo quemas. Y para el té, no se debe de utilizar agua con cloro”. En cuanto a otras tisanas, asegura que difiere mucho el resultado entre “tomar una menta poleo de bolsita o que te sirvan una menta poleo de hierba, o sea, de la propia planta, deshidratada o en fresco: no tiene nada que ver”. Beatriz defiende que “en España no hay cultura del té ni cultura de la tisana para tomarlas en condiciones, algo especialmente triste si tenemos en cuenta que el té es la segunda bebida más consumida del mundo después del agua. En Europa hay bastante más cultura del té y las tisanas que en España”. Caroline Heredia comparte esta opinión. “El precio de venta no está determinado únicamente por el coste de materia prima y producción. También responde a la demanda, los hábitos de consumo, el posicionamiento del producto y el margen que cada establecimiento considera adecuado. El café es un producto muy consolidado en la restauración, con un consumo elevado y un precio que, dependiendo del tipo de local, está bastante interiorizado por el consumidor. Las infusiones tienen una demanda mucho menor y probablemente existe una referencia de precio menos rígida”. El precio de venta no está determinado únicamente por el coste de materia prima y producción. También responde a la demanda, los hábitos de consumo, el posicionamiento del producto y el margen que cada establecimiento considera adecuado Caroline Heredia — cultivo y conservación de plantas aromáticas Para la experta, “la diferencia de precio puede tener más que ver con la estructura comercial y con el margen que las cafeterías aplican a cada producto que con el coste real de producir la infusión”. En el fondo, frente a cualquier valoración técnica, en España siempre ha pesado más la tradición que la ciencia. Lo dijo Unamuno cuando dejó escrito en En torno al casticismo que “la tradición vive en el fondo del presente, es su sustancia; la tradición hace posible la ciencia, mejor dicho, la ciencia misma es tradición”; lo dijo también Ortega cuando, en una conferencia organizada por el British Institute of Management sobre “la situación del gerente en la sociedad actual” en 1954, alertó sobre la condición plomiza de la costumbre al constatar que “en todo momento, el individuo, la persona, vive prisionera en la trama inmensa de usos que su contorno humano mecánicamente le impone”; y lo dijo Jose, del café bar Gaia, en Santiago de Compostela, cuando, preguntado por la inercia atávica que acompasa los precios de los tés, las tisanas y el café, se encogió de hombros y nos recordó a todos que “eso ha sido así toda la vida”."
-  },
-  {
-    "titulo": "La mesa de Hora 25’, en EL PAÍS | Programa del 10 de septiembre de 2026",
-    "medio": "El País",
-    "fecha": 1789070166.0,
-    "link": "https://elpais.com/videos/2026-09-10/la-mesa-de-hora-25-en-el-pais-programa-del-10-de-septiembre-de-2026.html",
-    "resumen": "José Luis Sastre presenta el análisis nocturno de los temas de la actualidad con Eduardo Madina, Berna González Harbour, Esther Vera"
-  },
-  {
-    "titulo": "Milei suspende su viaje al Reino Unido en medio de tensiones por las islas Malvinas",
-    "medio": "La Vanguardia",
-    "fecha": 1789069606.0,
-    "link": "https://www.lavanguardia.com/internacional/20260910/11632324/milei-suspende-viaje-reino-unido-medio-tensiones-islas-malvinas.html",
-    "resumen": "El mandatario había planeado una visita de dos días a finales de octubre, en el que según medios argentinos daría una conferencia en una universidad"
   },
   {
     "titulo": "The GOP’s Enemy #1 for the Midterms: Socialism",
@@ -266,13 +483,6 @@
     "resumen": "Loterías y Apuestas del Estado reparte este jueves un primer premio de 30.000 euros por décimo con el sorteo de Lotería Nacional"
   },
   {
-    "titulo": "Varapalo histórico a Sánchez: el Congreso tumba por primera vez la Cuenta General por sus trampas presupuestarias",
-    "medio": "OK Diario",
-    "fecha": 1789067712.0,
-    "link": "https://okdiario.com/economia/cuentas-publicas/varapalo-historico-sanchez-congreso-tumba-primera-vez-cuenta-general-sus-trampas-presupuestarias-20267973",
-    "resumen": "Varapalo histórico del Congreso de los Diputados a la gestión de las cuentas públicas del Gobierno de Pedro Sánchez. La Cámara Baja ha rechazado por primera vez la Cuenta General del Estado después de que PP, Vox y Junts hayan unido sus votos para censurar las «trampas» e «irregularidades presupuestarias» que denuncian en la ejecución … Continuar leyendo \"Varapalo histórico a Sánchez: el Congreso tumba por primera vez la Cuenta General por sus trampas presupuestarias\""
-  },
-  {
     "titulo": "Los hutíes toman un puerto estratégico en el mar Rojo y ponen en riesgo el tránsito por el estrecho de Bab el Mandeb",
     "medio": "El Español",
     "fecha": 1789067672.0,
@@ -280,53 +490,11 @@
     "resumen": "Los aliados de Irán conquistan la ciudad de Moca tras varios días de combates que marcan la ruptura de una tregua de más de cuatro años.Más información: Los hutíes declaran un bloqueo marítimo contra Arabia Saudí y amenazan con forzar el cierre del estrecho de Bab el-Mandeb"
   },
   {
-    "titulo": "Atrys Health acelera el crecimiento durante el primer semestre y se refuerza en oncología",
-    "medio": "Expansión",
-    "fecha": 1789067520.0,
-    "link": "https://www.expansion.com/catalunya/2026/09/10/6aa2fd46468aeb20178b457b.html",
-    "resumen": "Leer"
-  },
-  {
-    "titulo": "Illa apela a la unidad ante el auge identitario y proclama: \"Nadie es más catalán que nadie\"",
-    "medio": "Expansión",
-    "fecha": 1789067255.0,
-    "link": "https://www.expansion.com/catalunya/2026/09/10/6aa2febbe5fdea58688b458c.html",
-    "resumen": "Leer"
-  },
-  {
-    "titulo": "El ponente de la resolución sobre la ‘ley de nietos’ expresó a Feijóo su deseo de que el PP llegara al Gobierno",
-    "medio": "El País",
-    "fecha": 1789067221.0,
-    "link": "https://elpais.com/espana/2026-09-10/el-ponente-de-la-resolucion-sobre-la-ley-de-nietos-expreso-a-feijoo-su-deseo-de-que-el-pp-llegara-al-gobierno.html",
-    "resumen": "En un encuentro de fiscales con el presidente popular en 2023, Narváez alertó de los pactos del PSE con formaciones que calificaba de “filoetarras”"
-  },
-  {
     "titulo": "Illa clama contra el odio y a favor de la convivencia por la Diada: \"Somos y queremos seguir siendo un solo pueblo\"",
     "medio": "eldiario.es",
     "fecha": 1789067198.0,
     "link": "https://www.eldiario.es/catalunya/illa-clama-odio-favor-convivencia-diada-queremos-seguir-pueblo_1_13501421.html",
     "resumen": "El president pide a la ciudadanía \"renovar la confianza\" en sí misma y en el país y advierte: \"Nadie es más catalán que nadie. Catalunya somos todos y todas\"Los Mossos cargan contra grupos antifascistas para evitar el boicot al acto de Aliança en el Fossar Llamada a la convivencia y contra el odio del president de la Generalitat, Salvador Illa, en su discurso institucional de la Diada. El jefe del Govern ha instado a enorgullecerse de que ciudadanos nacidos en distintas partes de España y el mundo “se sientan hoy catalanes y catalanas de pleno derecho”. “En Catalunya somos y queremos continuar siendo un solo pueblo”, ha agregado. La Diada del ecuador de la legislatura de Illa llega en un clima preelectoral, con el Govern encadenando crisis (huelga de maestros y dimisión de Trapero esta misma semana) y con la vista de los partidos en las elecciones generales y municipales de 2027. Las alarmas están encendidas por el fuerte ascenso que detectan las encuestas para Aliança Catalana, el partido de Sílvia Orriols, en casi todos los municipios. La tensión que genera la extrema derecha independentista se ha vuelto a constatar este miércoles en el Fossar de las Moreres en la previa de la Diada nacional de Catalunya. En sus palabras a los catalanes, Illa ha celebrado la diversidad de Catalunya “gracias a los vínculos humanos generados entre catalanes y personas de todo el mundo que han encontrado aquí su hogar y su país”. “No podemos permitir que nada ni nadie ponga en peligro la convivencia en Catalunya. En nuestra casa el odio no cabe”, ha enfatizado el president, en referencia al clima hostil que despliega en municipios y redes la extrema derecha contra los migrantes. El president ha insistido en el “latido común” y el “sentido colectivo, fraternal y humano del país” sea cual sea el origen de los catalanes. “Sintámonos orgullosos de nuestra capacidad para que personas nacidas en distintos sitios —de Andalucía a Extremadura, de Marruecos a Colombia— se sientan hoy catalanes y catalanas de pleno derecho, con deberes también por cumplir”. “Nadie es más catalán que nadie. Catalunya somos todos y todas”, ha ahondado Illa. Citando a uno de sus referentes políticos, el expresident Terradellas, el jefe del Govern ha instado a que Catalunya sea “la avanzada del bienestar, la prosperidad y la democracia de los pueblos de Europa y el mundo”. El president ha pedido “alzar la mirada” ante el momento “trascendental” que vive el mundo y “actuar con unidad de país”: “Haremos grande a Catalunya si no nos limitamos a mirarnos el ombligo y encogernos”. También ha solicitado “renovar la confianza en el país, las instituciones, las personas y las potencialidades” de Catalunya."
-  },
-  {
-    "titulo": "Zapatero traslada al juez Calama la carga de la prueba de las joyas",
-    "medio": "OK Diario",
-    "fecha": 1789067123.0,
-    "link": "https://okdiario.com/opinion/zapatero-traslada-juez-calama-carga-prueba-joyas-20267523",
-    "resumen": "José Luis Rodríguez Zapatero, incapaz de certificar el origen de las joyas incautadas en su despacho, pretende ganar tiempo y, según ha podido saber OKDIARIO, va a pedir al juez Calama que encargue una comisión rogatoria para obtener información relevante en Qatar sobre las mismas. O sea, patada adelante y a seguir. Dicho de otro … Continuar leyendo \"Zapatero traslada al juez Calama la carga de la prueba de las joyas\""
-  },
-  {
-    "titulo": "Zapatero fracasa en la búsqueda de los certificados de las joyas en Arabia, Emiratos y Qatar y pedirá al juez Calama que los consiga él",
-    "medio": "OK Diario",
-    "fecha": 1789066893.0,
-    "link": "https://okdiario.com/espana/zapatero-fracasa-busqueda-certificados-joyas-arabia-emiratos-qatar-pedira-juez-calama-que-consiga-20258973",
-    "resumen": "José Luis Rodríguez Zapatero pedirá al juez José Luis Calama que solicite el documento sobre el origen de las joyas intervenidas en su despacho a Qatar. Fuentes consultadas aseguran que el ex presidente del Gobierno ha fracasado en su intento de obtener esta documentación con la que trataba de zafarse del delito de fraude fiscal y … Continuar leyendo \"Zapatero fracasa en la búsqueda de los certificados de las joyas en Arabia, Emiratos y Qatar y pedirá al juez Calama que los consiga él\""
-  },
-  {
-    "titulo": "Perú se incorpora al Escudo de las Américas de Trump y refuerza su alianza en seguridad con Estados Unidos",
-    "medio": "El País",
-    "fecha": 1789066876.0,
-    "link": "https://elpais.com/america/2026-09-10/peru-se-incorpora-al-escudo-de-las-americas-de-trump-y-refuerza-su-alianza-en-seguridad-con-estados-unidos.html",
-    "resumen": "La visita del secretario de Estado estadounidense, Marco Rubio, se produce en medio de la tensión con China por la influencia en la región"
   },
   {
     "titulo": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
@@ -341,62 +509,6 @@
     "fecha": 1789066860.0,
     "link": "https://www.trendencias.com/cine/javier-bardem-nos-besamos-seguimos-seguimos-cuando-quisimos-darnos-cuenta-equipo-se-habia-ido",
     "resumen": "Estos días las redes y los periódicos se han inundado de imágenes del Festival de Venecia. Ahí han tenido lugar presentaciones de numerosas películas prometedoras, entre ellas 'Bunker' un film de Florian Zeller que tiene como protagonistas a Javier Bardem y Penélope Cruz. Una cinta que ha recibido la mayor ovación de la edición hasta el momento, con más de 15 minutos de aplausos. Desde aquí, estamos deseando verla. Y es que, si por separado son brillantes, juntos en la pantalla forman una dupla centelleante. 'Bunker' sería ya la novena película en la que trabaja la pareja en conjunto. Todos nos acordamos de aquel primer match en 1992 con 'Jamón, jamón' de Bigas Luna, donde ambos coincidieron por primera vez. Aunque si hay que nombrar un film de ambos, ese es 'Viky, Cristina, Barcelona'. En el rodaje en 2007 a manos de Woody Allen, Penélope y Javier se reencontraron y desde ese instante fueron una dupla inseparable con dos hijos en común. 'Viky, Cristina, Barcelona' 'Viky, Cristina, Barcelona' supuso un antes y un después para ellos, más allá del plano artístico. De hecho, el actor ha confesado varias veces que no se atrevió a pedirle salir a su mujer hasta el final del rodaje y que, cuando por fin lo hizo, ella le contestó: \"Ya era hora\", convencida de que no se lo iba a pedir nunca. En una entrevista para El País en 2022, Bardem compartió otra anécdota preciosa de ese rodaje que los unió de forma irremediable: \"El último día de 'Vicky Cristina Barcelona' rodamos nuestro beso. Nos besamos, y seguimos, y seguimos, y cuando quisimos darnos cuenta, el equipo se había ido.\" Si aún no te has visto esta cinta, te recomiendo encarecidamente que vayas a Prime Video y esta misma noche disfrutes de la película, porque es puro confort. Una comedia romántica que se teje como unas vacaciones de verano en Barcelona y te deja una sensación profundamente placentera. Además, cuenta con un reparto magnífico al que se suman Rebecca Hall y Scarlett Johansson. Fotos | IMDb En Trendencias | Las 43 mejores películas para ver en pareja (y dónde encontrarlas todas) En Xataka | Si España cree que las velutinas son un problema es porque no sabe qué ha encontrado EEUU: avispas radiactivas En Motorpasion | Fernando Alonso ve brotes verdes en Honda: \"En Monza hemos mejorado, pero se notará más en Madrid o Singapur\" - La noticia Javier Bardem: \"Nos besamos, y seguimos, y seguimos, y cuando quisimos darnos cuenta el equipo se había ido\" fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "Feijóo y Abascal: línea directa",
-    "medio": "HuffPost",
-    "fecha": 1789066807.0,
-    "link": "https://www.huffingtonpost.es/politica/feijoo-abascal-linea-directa-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Illa reivindica la convivencia ante los problemas de gestión y el auge extremista",
-    "medio": "La Vanguardia",
-    "fecha": 1789066800.0,
-    "link": "https://www.lavanguardia.com/politica/20260910/11632271/illa-reivindica-convivencia-problemas-gestion-auge-extremista.html",
-    "resumen": "El president pide unidad para mejorar los “ámbitos cruciales para nuestra prosperidad”"
-  },
-  {
-    "titulo": "Anthropic asegura haber bloqueado una operación para desarrollar armas biológicas con su modelo de IA",
-    "medio": "El Mundo",
-    "fecha": 1789066768.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/09/10/6aa2fe0efc6c83237d8b45c0.html",
-    "resumen": "La corporación californiana negó que tuviera constancia de que alguna empresa privada haya compartido públicamente \"evidencia del posible mal uso de sus plataformas para ese desarrollo\" Leer"
-  },
-  {
-    "titulo": "La vida actual de 'Bodeguita Los 50', en Sevilla, tras 'Pesadilla en la cocina': \"Alberto Chicote hace su papel de cabroncete pero es buen tío\"",
-    "medio": "HuffPost",
-    "fecha": 1789066506.0,
-    "link": "https://www.huffingtonpost.es/virales/la-vida-actual-bodeguita-50-sevilla-alberto-chicote-pesadilla-cocina-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Así preparan los invasores de Ceuta trampas a los militares para que caigan al vacío",
-    "medio": "OK Diario",
-    "fecha": 1789066239.0,
-    "link": "https://okdiario.com/espana/asi-preparan-invasores-ceuta-trampas-militares-que-caigan-vacio-20267714",
-    "resumen": "Los ataques de los invasores contra militares destacados en Ceuta van en aumento día a día. La situación en ciertas zonas costeras y rocosas se ha vuelto especialmente tensa. Este jueves se ha viralizado un vídeo en redes que muestra a dos inmigrantes en un asentamiento ilegal colocando piedras sueltas sobre un cartón en un … Continuar leyendo \"Así preparan los invasores de Ceuta trampas a los militares para que caigan al vacío\""
-  },
-  {
-    "titulo": "Israel afirma haber destruido infraestructuras subterráneas de Hizbulá en el sur del Líbano",
-    "medio": "El Mundo",
-    "fecha": 1789066228.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/10/6aa2f87ae4d4d8193f8b457b.html",
-    "resumen": "Netanyahu concreta que ha sido en la cresta de Ali Taher, de la que el ejército tomó control hace una semana, y que completa así \"el establecimiento de la zona de seguridad\" Leer"
-  },
-  {
-    "titulo": "\"Creer que la vida de nuestra hija vale 100.000 euros es una vergüenza\": fue al centro de salud tras beberse un batido, la mandaron a casa y ahora vive incapacitada",
-    "medio": "HuffPost",
-    "fecha": 1789066122.0,
-    "link": "https://www.huffingtonpost.es/sociedad/creer-vida-nuestra-hija-vale-100000-euros-verguenza-centro-salud-beberse-batido-mandaron-casa-vive-incapacitada-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La Federación pasa de Marruecos: «Es un movimiento político, la final la tenemos que hacer nosotros»",
-    "medio": "OK Diario",
-    "fecha": 1789065855.0,
-    "link": "https://okdiario.com/deportes/federacion-pasa-marruecos-movimiento-politico-final-tenemos-que-hacer-nosotros-20267571",
-    "resumen": "La Real Federación Española de Fútbol mantiene la calma pese a las palabras del ministro de Presupuesto marroquí y presidente de su federación de fútbol, Fouzi Lekjaa, que ha afirmado que «Casablanca tendrá el honor de organizar la final del Mundial de 2030». Siguen apostando por Madrid como la gran candidata a albergarla y esperan … Continuar leyendo \"La Federación pasa de Marruecos: «Es un movimiento político, la final la tenemos que hacer nosotros»\""
   },
   {
     "titulo": "El ‘coloso’ de Málaga que ofrece vistas a la Costa del Sol para la práctica de senderismo y ciclismo: así es Peñas Blancas en Estepona",
@@ -425,13 +537,6 @@
     "fecha": 1789064700.0,
     "link": "https://hipertextual.com/inteligencia-artificial/app-gemini-para-windows-ya-disponible/",
     "resumen": "Meses después de su lanzamiento en macOS, Gemini por fin estrena su app de escritorio para Windows. De esta manera, la IA de Google ahora dispone de un cliente nativo para el software de Microsoft y abre la puerta a un uso más integrado en cualquier PC, sin depender de un navegador web ni del […] Seguir leyendo: Gemini por fin lanza su app de escritorio para Windows, con Gemini Spark y Omni integrados"
-  },
-  {
-    "titulo": "El Gran Premio de España pone a Europa en el centro de la Fórmula 1",
-    "medio": "Expansión",
-    "fecha": 1789064454.0,
-    "link": "https://www.expansion.com/deporte-negocio/2026/09/10/6aa2f267e5fdeae7168b457c.html",
-    "resumen": "La Embajada de Italia en Madrid reunió a Stefano Domenicali, José Vicente de los Mozos y representantes de algunas de las principales compañías italianas ligadas al automóvil para reivindicar el peso industrial, tecnológico y cultural de la Motor Valley y el papel que Europa mantiene en la estrategia global de la Fórmula 1. Leer"
   },
   {
     "titulo": "Nigeria gobierna el mundo y Londres desapareció bajo el mar: el nuevo mundo según Ian McEwan",
@@ -469,48 +574,6 @@
     "resumen": "New Balance no está dispuesto a perder la carrera de los looks de oficina ante las Adidas Samba de nuevo. La firma está poniendo todo su potencial en lanzar zapatillas de tendencia que parecen Oxfords, incluso de cerca. Este diseño de T500 hecho por Jack Harlow nos lo ha dejado clarísimo. Las nuevas T500 están realizadas en cuero sintético con efecto arrugado, para conseguir ese aspecto envejecido de los zapatos italianos antiguos. New Balance se ha esforzado por que toda la atención esté en ese tejido brillante, manteniendo todas las costuras, cordones, pespuntes y hasta la suela en el mismo color cacao. <img alt=\"Jack Harlow x New Balance T500 zapatillas \" height=\"880\" src=\"https://i.blogs.es/12d397/blob/original.jpeg\" width=\"880\" /> Jack Harlow x New Balance T500 zapatillas PVP en New Balance — 150,00 € El precio podría variar. Obtenemos comisión por estos enlaces El resultado es un calzado que abarca todas nuestras necesidades: es extra cómodo, como cualquier New Balance, porque esa es su especialidad. Pero también es sofisticado, elegante y sobrio, sustituyendo a zapatos incómodos de oficina en otoño sin que nadie lo note. Ni siquiera tu estilo profesional y laboral. Estas New Balance están perfectamente camufladas para la oficina, sirviendo como una pincelada de modernidad cómoda y streetwear en el uniforme laboral más sobrio. Además, su color marrón combina con todo el armario cápsula de otoño, por lo que podremos exprimirlas al máximo. Incluso ayudan a elevar los vaqueros, con una americana y las sneakers como en la foto. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias Fotos | @chiaraferragni, New Balance. En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. En DAP | Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme”. En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado. - La noticia New Balance se propone hundir a mocasines y botines en otoño 2026: sus zapatillas color cacao intenso son puro lujo de oficina fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "El retorno más sobrecogedor de Ian McEwan: \"Sufriremos una o dos catástrofes antes de tomarnos en serio la regulación de la tecnología\"",
-    "medio": "El Mundo",
-    "fecha": 1789062939.0,
-    "link": "https://www.elmundo.es/cultura/literatura/2026/09/10/6aa2edccfc6c83f8548b45e1.html",
-    "resumen": "El autor de 'Expiación', de 78 años, vuelve con una novela ambientada en un distópico 2119. Sin embargo, reivindica un optimismo informado ante la sensación de que el mundo se vuelve más peligroso. \"Debemos a las próximas generaciones deshacernos de este pesimismo existencial que nos paraliza\" Leer"
-  },
-  {
-    "titulo": "Las 100 medidas anunciadas por Ayuso para el final de la legislatura: 3.000 viviendas, ayudas a autónomos y madres hasta 35 años y un plan regional de IA",
-    "medio": "El Mundo",
-    "fecha": 1789062695.0,
-    "link": "https://www.elmundo.es/madrid/2026/09/10/6aa2b97821efa0632e8b456f.html",
-    "resumen": "La presidenta regional despliega gestión para el curso político ante una izquierda que le exige explicaciones por el ático de Chamberí Leer"
-  },
-  {
-    "titulo": "Marruecos elude cualquier responsabilidad del cruce masivo a Ceuta y amenaza al PP por sus críticas a la gestión",
-    "medio": "El Mundo",
-    "fecha": 1789062663.0,
-    "link": "https://www.elmundo.es/espana/2026/09/10/6aa2eb13fc6c83f9758b45b7.html",
-    "resumen": "Rabat se pronunció así en una declaración sobre las relaciones con España en la que lamenta que \"algunos círculos políticos y mediáticos españoles persistan en explotar al Reino con fines políticos internos\". Leer"
-  },
-  {
-    "titulo": "El grupo Vicente Torns apuesta por EE.UU. con 17 millones en una nueva fábrica",
-    "medio": "La Vanguardia",
-    "fecha": 1789062577.0,
-    "link": "https://www.lavanguardia.com/dinero/20260910/11632257/grupo-vicente-torns-apuesta-ee-uu-17-millones-nueva-fabrica.html",
-    "resumen": "La multinacional de cobre factura 415 millones de euros y emplea a 1.000 personas"
-  },
-  {
-    "titulo": "Marruecos rechaza las acusaciones y no acepta “ser chivo expiatorio” por el salto de Ceuta",
-    "medio": "La Vanguardia",
-    "fecha": 1789062321.0,
-    "link": "https://www.lavanguardia.com/politica/20260910/11632253/marruecos-rechaza-acusaciones-acepta-chivo-expiatorio-salto-ceuta.html",
-    "resumen": "Rabat sostiene que “ningún dato establece implicación alguna de las autoridades marroquíes”"
-  },
-  {
-    "titulo": "Casa Tarradellas crece un 5%, hasta los 1.582 millones",
-    "medio": "La Vanguardia",
-    "fecha": 1789062314.0,
-    "link": "https://www.lavanguardia.com/economia/20260910/11632248/casa-tarradellas-crece-5-1-582-millones.html",
-    "resumen": "El fabricante de Gurb invierte 117 millones de euros para ampliar su capacidad industrial"
-  },
-  {
     "titulo": "Marruecos rechaza ser \"chivo expiatorio\" de la disputa política en España y que se le siga señalando sin pruebas",
     "medio": "Europa Press",
     "fecha": 1789062190.0,
@@ -530,27 +593,6 @@
     "fecha": 1789061461.0,
     "link": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
     "resumen": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte. Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del empleo si la IA sigue avanzando, y la cosa se pone complicada para los \"trabajadores de conocimiento\": salimos bastante mal parados. Electricistas, enfermeras y trabajadores de la construcción, en cambio, pueden beneficiarse, y mucho. Al menos hasta que los robots no aprendan a hacer bien esos trabajos. Esto no es una predicción. El Econ Scenario Explorer de Anthropic permite jugar con cinco variables —capacidades, adopción, autonomía, aumento de productividad y tiempo necesario para cambiar de empleo— para observar qué tipo de escenario económico producirían distintas combinaciones. A partir de ahí destaca tres escenarios: Modesto: el impacto sería similar al que tuvo internetSustancial: habrá una revolución para los trabajadores del conocimientoExtremo: la adopción será extraordinariamente rápida ¿Te va a quitar la IA el trabajo? Nosotros no lo sabemos, pero hay millones de empleados en China que sí lo saben Mal asunto para los white collar. En Anthropic creen que con el escenario sustancial en 2030 la IA podrá realizar la mitad del trabajo que hacen los trabajadores del conocimiento (white collar, típicos trabajos de oficina) y la mayoría de esas tareas se podrán realizar de forma autónoma, aunque la IA no se adopte en todas ellas. En ese escenario la economía crecería al doble de su ritmo habitual, pero los salarios de ingenieros, abogados, financieros, enfermeros o periodistas se estancan mientras que aumentan los de otros trabajadores. En el escenario extremo la cosa va aún más lejos: la IA supera a los humanos en la mayoría de tareas cognitivas, hace casi todas autónomamente y apenas aparecen nuevas tareas intelectuales reservadas a los seres humanos. Mudanza laboral. Si cada vez se necesitan menos programadores, atender un call center o realizar otras tareas cognitivas, esas personas tendrán que buscar trabajo en ocupaciones menos expuestas al impacto de la IA. Anthropic pone explícitamente dos ejemplos: electricista y enfermero, pero está claro que en esa lista están otros oficios tradicionales como la fontanería o la carpintería, por ejemplo. Las IAs son capaces de diseñar infraestructuras y no necesita apenas a trabajadores intelectuales, pero sí aumenta la demanda de aquellos que tienen que construir físicamente todo lo que la IA diseña. La economía va como un tiro. Programadores y periodistas, no tanto. En el escenario moedsto, el PIB de EEUU en 2030 sería según Anthropic un 1,6% superior al que habría sido sin IA. En el sustancial, un 8,3%, pero en el extremo sería un espectacular 32,4% hasta alcanzar los 44,4 billones de dólares. Durante esa transición el crecimiento anual estimado sería del 15%, suficiente para duplicar la economía cada 4,5 años. El problema: los salarios de los trabajadores de conocimiento caerían más de un 10% y su desempleo se dispararía. La IA puede funcionar fantásticamente para la economía y extraordinariamente mal para parte de quienes trabajan en ella. Fuente: Anthropic. ¿Quién se queda el dinero? Hoy en día aproximadamente el 60% de cada dólar producido en EEUU acaba remunerando algún trabajo, y el 40% restante va al capital: empresas y propietarios de esos activos que producen productos y servicios. En el escenario extremo de Anthropic la proporción se invierte: el 45,2% iría al trabajo y el 54,8% para el capital. Aunque la economía ha crecido un 32,4%, los ingresos laborales totales apenas cambian. Las máquinas, centros de datos, modelos y resto de componentes de la industria son capaces de producir una proporción mucho mayor de la riqueza, y ahí el desafío no es cómo generar crecimiento, sino de cómo repartirlo. La gente no cree que lleguemos a tanto. Anthropic realizó una encuesta en agosto en la que participaron 10.980 estadounidenses y les preguntó qué esperan de la IA, pasando sus respuestas por el mismo modelo. La respuesta típica fue la que se acerca al escenario sustancial: una economía alrededor de un 10% mayor en 2030 que sin IA, y un desempleo cercano al 5%. Solo 1 de cada 10 personas encuestadas planteaban un escenario extremo. Aquí Anthropic destaca que su modelo es una simplificación importante de muchísimas variables: no incluye respuestas políticas a estos cambios, ciclos económicos, crisis finacieras o riesgos catastróficos. Así pues, la foto que saca Anthropic es más imaginación que otra cosa. De momento (parece que) podemos guardar la llave inglesa. Los datos reales de Anthropic siguen mostrando un impacto económico mucho menos dramático. Su Economic Index ha monitorizado miles de tareas que se realizan a diario con Claude y sigue detectando una mezcla en la que sí hay automatización de tareas, pero también aumento de capacidades humanas. Los propios usuarios, apuntan en Anthropic, tampoco ven demasiada amenaza. En una encuesta de junio, un 10% consideraba probable o muy probable perder su propio empleo durante los siguientes doce meses, aunque el riesgo era mucho mayor cuando se les preguntaba por compañeros junior. Y los robots qué. Este singular estudio de Anthropic admite ser incompleto en muchos aspectos, y destacan uno especial: no incluye un modelo con robots (humanoides o no) avanzados capaces de realizar tareas manuales y sustituir a los profesionales de los oficios tradicionales. En el estudio los electricistas, enfermeros, fontaneros o trabajadores de la construcción están teóricamente protegidos porque la IA puede trabajar con datos digitales pero no con objetos físicos. Pero si la \"IA física\" llega a hacerse realidad, el impacto será igual de notable tanto para trabajadores de cuello blanco como para los de cuello azul. En Xataka Hay un nuevo puesto de trabajo en China: enseñarle a un robot cómo te mueves para que aprenda a ser más humano Es difícil encontrar un puesto de trabajo inmune. Durante décadas la robótica industrial parecía amenazar los trabajos físicos rutinarios (poner tuercas), y eso nos animaba a estudiar una carrera con el objetivo de encontrar nuestro sitio entre los trabajadores del conocimiento. La IA generativa ha cambiado el panorama, y la robótica lo puede cambiar aún más. Pero como esto último parece que puede tardar más en llegar (si es que llega), mi plan es claro: plantearme estudiar fontanería. En Xataka | Llevamos años preguntándonos cuántos empleos destruirá la IA. Satya Nadella tiene otra teoría: estamos haciendo mal la pregunta - La noticia Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería fue publicada originalmente en Xataka por Javier Pastor ."
-  },
-  {
-    "titulo": "Las raíces separadas de Lamine Yamal (19) e Inés García (21): casi 1000 kilómetros y dos cerámicas Patrimonio de la Humanidad",
-    "medio": "Trendencias",
-    "fecha": 1789061461.0,
-    "link": "https://www.trendencias.com/viajes/historia-amor-lamine-yamal-e-ines-garcia-casi-1000-kilometros-dos-ceramicas-patrimonio-humanidad",
-    "resumen": "Son la pareja más de moda de este 2026 y lo tienen todo para arrasar. Son guapos, atractivos, jóvenes y triunfadores, acaparan flashes allá donde van y sus muestras de amor dentro y fuera del estadio han conmovido al mundo entero. Si Lamine Yamal nació en Barcelona e Inés García en Toledo, ¿cómo se conocieron? Esplugues de Llobregat, el lugar de nacimiento de Lamine Yamal Calle Montserrat Esta ciudad catalana ha conservado su encanto histórico, que podemos descubrir en su casco antiguo y en la calle Montserrat, repletos de edificios modernistas. Su tradición ceramista de los siglos XVIII y XIX es el mayor reclamo de Esplugues, que antaño fue uno de los principales centros de producción de cerámica arquitectónica modernista y hoy podemos descubrirlo en los museos Can Tinturé y La Rajoleta. Monestir de Santa Maria de Montsió Otros planes que ofrece la localidad que vio nacer a Lamine Yamal son el Monestir de Santa Maria de Montsió y su historia gótica del siglo XIV , la torre de la Creu y el parque dels Torrents, repleto de esculturas al aire libre. Hay incluso tours para descubrir su centro histórico, entre el Modernismo catalán y callejones empedrados. Talavera de la Reina, cuna de la cerámica renacentista y de Inés García A 727 kilómetros de Esplugues se encuentra Talavera de la Reina, en el corazón de Toledo, donde nació Inés García. Aunque les separe tantísima distancia, ambas localidades tienen algo en común: la cerámica. Frente a la modernista, la de Talavera es renacentista, considerada Patrimonio Cultural Inmaterial de la Unesco y cuna del siglo de oro de la cerámica. Colegiata de Santa María la Mayor Pero Talavera es mucho más que su patrimonio inmaterial. Esta ciudad a orillas del Tajo comenzó en el Hospital de la Misericordia, uno de los más antiguos de toda Castilla, de estilo renacentista. El mismo estilo del Ayuntamiento y de la Colegiata de Santa María la Mayor. También destacan dos puentes fluviales: uno de hierro de la Revolución Industrial y el otro de la Edad Media. De Sevilla a Barcelona, entre cerámica y redes socialesElla misma explicó en redes sociales que se conocieron vía redes sociales. Tras terminar el instituto, Inés García se mudó a Sevilla para continuar sus estudios universitarios, por lo que su relación en realidad tuvo 989 kilómetros entre medias. Mientras, el jugador de España permaneció en Barcelona y tuvieron una relación a distancia, que terminó en agosto de 2026 cuando ella se mudó a la ciudad condal con él. Ahora, tras tantos kilómetros y dos ciudades cerámicas en común, ambos viven en Esplugues, ciudad natal de Lamine. Fotos | @ineesgaarcia, Ajuntament d'Esplugues, Wikipedia Commons, Viajes por Castilla-La Mancha, Turismo Talavera, En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado. En DAP | Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme”. - La noticia Las raíces separadas de Lamine Yamal (19) e Inés García (21): casi 1000 kilómetros y dos cerámicas Patrimonio de la Humanidad fue publicada originalmente en Trendencias por Pepa López ."
-  },
-  {
-    "titulo": "El Barcelona confirma su mejora ante LaLiga y aumenta el límite salarial",
-    "medio": "La Vanguardia",
-    "fecha": 1789061426.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260910/11632234/barcelona-confirma-mejora-laliga-aumenta-limite-salarial.html",
-    "resumen": "El club azulgrana ha adelgazado el coste de la plantilla del primer equipo y ha aumentado los ingresos"
-  },
-  {
-    "titulo": "El juez Llarena revisará la amnistía de Puigdemont con la doctrina del Constitucional",
-    "medio": "La Vanguardia",
-    "fecha": 1789061019.0,
-    "link": "https://www.lavanguardia.com/politica/20260910/11632241/juez-llarena-revisara-amnistia-puigdemont-doctrina-constitucional.html",
-    "resumen": "El juez levantará la orden de detención si se tumba la tesis sobre la malversación en el primer recurso analizado"
   },
   {
     "titulo": "El Mazda CX-6e me ha hecho preguntarme algo que nunca hubiera pensado: ¿y si a Mazda le conviene traicionarse?",
@@ -581,20 +623,6 @@
     "resumen": "Los iPhone 18 Pro y 18 Pro Max, así como el iPhone Duo, estrenan un nuevo cerebro de Apple. El chip A20 Pro supone la inauguración de la era de los 2 nanómetros en los teléfonos de la compañía. Un nuevo microprocesador pensado para los tiempos de la IA y que, a falta de pruebas de rendimiento exhaustivas, apunta a ser el nuevo rival a batir en esta materia. Ficha técnica del chip A20 Pro Apple A20 PRO FABRICANTE TSMC PROCESO DE FABRICACIÓN 2 nm MEMORIA 12 GB ANCHO DE BANDA DE MEMORIA 90 GB/s cpu 6 núcleos (con un acelerador neural en cada núcleo) gpu 7 núcleos npu 32 núcleos En qué dispositivos está el A20 Pro Aunque no se descarta una futura integración en otros dispositivos como iPad o la gama de MacBook Neo, por ahora el A20 Pro es un SoC exclusivo de los nuevos iPhone: iPhone 18 Pro.iPhone 18 Pro Max.iPhone Duo. Desglosando el chip A20 Pro El salto a los 2 nanómetros es una de las grandes novedades del A20 Pro. Apple no entra en detalles sobre el proceso más allá de confirmar esta tecnología de fabricación, pero sí deja claro que el chip busca mejorar rendimiento y eficiencia al mismo tiempo. De fondo, esto implica mejoras no solo en potencia, sino también en autonomía. La CPU mantiene seis núcleos, los mismos que el A19 Pro, aunque Apple no especifica cuántos corresponden a rendimiento y cuántos a eficiencia. Sí sabemos que incorpora aceleradores neurales en cada uno de esos núcleos, diseñados para acelerar determinadas cargas relacionadas con la ejecución de modelos de inteligencia artificial en local. Esto debería permitir que tareas de IA, ya sean de Apple Intelligence o terceros, puedan ejecutarse directamente en el iPhone con mayor rapidez. En el caso de las funciones nativas, Apple prioriza estas ejecuciones en lugar de mandar peticiones a la nube para hacerlo más privado y, a la vez, exprimir funciones como la personalización de la voz de Siri AI. En Xataka El A20 Pro es el chip más eficiente que Apple ha metido en un iPhone. Curiosamente, nunca había necesitado refrigerarlo tanto La GPU, y según datos de Apple, ofrece un 40% más de rendimiento gráfico que en el A19 Pro. Esta mejora afectaría a un amplio abanico de escenarios, desde juegos exigentes hasta procesamiento gráfico en aplicaciones y mover mucha información en pantalla. El Neural Engine (o NPU) pasa a tener el doble de núcleos que en generaciones anteriores, de 16 a 32. Esto, y nuevamente según los datos de Apple, equivale también al doble de rendimiento en procesamiento de IA respecto al A129 Pro. También se dispone de una memoria que, aunque sea de 12 GB como en la generación anterior, es ahora un 50% más rápida que en el A19 Pro. Esto ya no tiene tanta relación con la potencia como sí con la velocidad con la que se acceden a los datos. De paso, este procesador controla el sistema de cámara de vapor de los iPhone 18 Pro y Duo, con el fin de que este sea más eficiente y se traduzca también en una mayor autonomía de los dispositivos. En Applesfera | Nuevo iPhone 18 - Todo lo que creemos saber sobre él En Applesfera | ¿Cuántos años de actualizaciones le quedan a mi iPhone? Así podemos saberlo - La noticia Nuevo chip A20 Pro de Apple: se inaugura la era de los 2 nm para el iPhone fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "Revuelta en Ryanair contra el incentivo de 153 millones para O'Leary",
-    "medio": "Expansión",
-    "fecha": 1789059206.0,
-    "link": "https://www.expansion.com/empresas/transporte/2026/09/10/6aa2da30468aebdc6b8b457d.html",
-    "resumen": "La asamblea aprueba el plan de opciones sobre 10 millones acciones del consejero delegado de la aerolínea pese al voto en contra del 39% de los accionistas. Leer"
-  },
-  {
-    "titulo": "Fallece el fundador de La Fageda, fabricante de lácteos y paradigma de empresa social",
-    "medio": "Expansión",
-    "fecha": 1789059119.0,
-    "link": "https://www.expansion.com/catalunya/2026/09/10/6aa2e024e5fdeaab758b457c.html",
-    "resumen": "Cristóbal Colón fundó en los años 80 un obrador que ha pasado de emplear a 15 personas con discapacidad a impactar a más de 850 personas. Leer"
-  },
-  {
     "titulo": "El barrio de Maradona sufre apagones. Su apuesta para evitarlos: 134 paneles solares conectados directamente a la red",
     "medio": "Xataka",
     "fecha": 1789058820.0,
@@ -607,13 +635,6 @@
     "fecha": 1789058034.0,
     "link": "https://www.elespanol.com/invertia/medios/20260910/consejo-informativos-tve-convoca-huelga-firmas-bronca-entrevista-pedro-sanchez/1003744379605_0.html",
     "resumen": "El CdI critica que se usara un programa externo para interrogar al presidente.Más información: Bronca en la redacción de TVE tras la entrevista a Sánchez por la censura de una crítica a la elección de Cintora y Palomera"
-  },
-  {
-    "titulo": "\"Los vecinos ya no pueden más\": un barrio de Badajoz se ha declarado en guerra contra las palomas",
-    "medio": "Xataka",
-    "fecha": 1789057860.0,
-    "link": "https://www.xataka.com/magnet/vecinos-no-pueden-barrio-badajoz-se-ha-declarado-guerra-palomas",
-    "resumen": "Josefa González Moreno friega su alfombra de entrada cada dos días porque, al pisar la calle, se lleva los excrementos de paloma hasta dentro de casa. En la esquina de Bravo Murillo y Benegas, en el Casco Antiguo de Badajoz, no es la única: varios vecinos han aprendido trucos caseros —lejía con jabón, desengrasantes industriales— para levantar el blanco de las deposiciones de aceras, balcones y fachadas. Más abajo, decenas de aves anidan en sus huecos y cornisas. A pocas calles, en la Ronda del Pilar, un solar pendiente de construcción cumple la misma función junto a un semáforo. Desde el pasado mayo, un grupo de residentes de la calle Virgen de la Soledad reclamaba una solución. El año pasado ya retiraron más de 2.500 ante lo que consideraban una plaga en ciernes. \"Yo friego la calle\", reconoce María García Amaya, mientras su marido, Aureliano Gómez, añade que el problema ya no es solo el olor: los nidos en su tejado han movido tejas y provocado goteras que les han obligado a llamar a un albañil. Así que los vecinos han tomado armas en el asunto. Las ratas del aire. La proliferación de palomas es un problema grave en toda Badajoz, pero en el Casco Antiguo es más visible porque hay muchos edificios vacíos convertidos en palomares. Al tratarse de casas bajas, los excrementos invaden aceras y entradas de las viviendas. Tras meses de quejas, los residentes de Bravo Murillo lograron que los operarios de FCC realizaran una limpieza con máquinas especiales, pero apenas unas horas después la calle ya estaba salpicada de nuevo. Armando González Sama, vecino que ha canalizado las reclamaciones ante el Ayuntamiento, explica que le han confirmado la instalación de jaulas de captura en la zona, pero que \"por ahora no notamos mejoría y esto es insoportable\". Tres edificios vacíos. El que hace esquina con Benegas, que era del Obispado y fue vendido; el de Cáritas (antiguo refugio para personas sin hogar), también adquirido por un particular; y el inmueble en el cruce con Eugenio Hermoso, que es del Ayuntamiento y lleva años pendiente de un proyecto de vivienda. Los tres son enormes palomares. En el primero, las palomas anidan detrás de máquinas de aire acondicionado; los vecinos de justo debajo ven su fachada y entrada repletas de deposiciones, y desde los balcones de la segunda planta incluso se ven ejemplares muertos. \"Es una situación tremenda e insufrible, sobre todo por el olor. Cuando llueve se revuelve y estamos plagados de suciedad en las fachadas\", lamenta Laura Amaya, que vive enfrente. El runrún. Además de la suciedad y los daños, las palomas son un problema de ruido: hay tantas que desde las cinco de la mañana muchos vecinos se despiertan con su arrullo, que puede alcanzar entre 40 y 70 dB según las condiciones de medición. El Ayuntamiento de Badajoz reveló que había atrapado a 1.100 aves en nueve meses y ni así. En junio, a propuesta de Vox, el pleno municipal aprobó elaborar un plan de gestión y control con medidas preventivas y correctoras, cuyo objetivo era \"implantar sistemas eficaces de control poblacional, así como realizar balances periódicos y ponerlos a disposición de los ciudadanos\". El Ayuntamiento tenía dos meses para presentarlo, pero sigue sin estar listo. En Xataka La policía de India detuvo durante ocho meses a una paloma acusada de espiar para China. Era inocente y ha sido liberada Un problema global. El patrón se repite en otras ciudades españolas: en Zaragoza, los residentes del centro histórico llevan años pidiendo medidas ante lo que describen como un \"bombardeo de palomas\" diario, con quejas por las \"plastas amarillas\" que cubren coches, escaparates y aceras. Lleva años queriendo reducir la cantidad de estas aves. Valencia endureció las sanciones con multas de entre 750 y 3.000 euros por darles de comer, una medida que llegó tras detectar más de 32.197 palomas en la ciudad (una media de 11 por hectárea, ligeramente por encima del umbral de equilibrio de 10,2) y alerta de riesgos para la salud, plagas y daños en la ciudad. Una vecina de Málaga llegó a pagar 3.756 euros por alimentarlas junto a su edificio. Bilbao, San Sebastián y Vitoria tienen sus propias multas, entre 120 y 3.000 euros según la gravedad. En Mataró, las palomas están desintegrando literalmente un ventanal gótico del siglo XVI en Can Cruzate. En Madrid, el Ayuntamiento recurre desde mayo a vuelos de águilas y un halcón adiestrados, tres veces por semana, solo para mantener alejadas a las palomas de la Puerta de Alcalá. El pasado julio, el Consell de Mallorca llegó a declarar la emergencia cinegética por una plaga que amenazaba cultivos, tejados y patrimonio urbano a la vez. Riesgos para la salud. El guano de paloma no es solo suciedad. Contiene esporas y bacterias capaces de provocar psitacosis (una infección bacteriana que provoca síntomas gripales y neumonía), histoplasmosis, criptococosis e incluso salmonelosis, además de favorecer alergias y una dolencia menos conocida, la alveolitis alérgica o \"pulmón del criador de aves\", una inflamación pulmonar por exposición prolongada al polvo fecal. El riesgo real sube para quien vive justo debajo del nido: limpiadores, personal de mantenimiento, ancianos y personas con las defensas bajas son los grupos más expuestos. A eso se suman los propios parásitos de las palomas —ácaros, garrapatas, pulgas— que colonizan los nidos y pueden saltar a las viviendas contiguas. Por eso, las recomendaciones oficiales insisten en mojar las deposiciones antes de limpiarlas, usar guantes y mascarilla, y evitar que personas inmunodeprimidas manipulen directamente el material. Y para el mundo. El excremento seco contiene ácido úrico, fosfórico y oxálico, una combinación que reacciona con el carbonato cálcico de la piedra caliza y el granito, los mismos materiales de buena parte del casco histórico extremeño. El resultado es una corrosión lenta pero constante: la piedra se vuelve porosa, se descascarilla y termina cayendo a trozos. Reino Unido calcula que un metro cúbico de deposiciones de paloma puede llegar a pesar hasta 700 kilogramos. No hace falta ir tan lejos: Madrid convive con 720.000 kg de mierda de paloma anual. El Ayuntamiento de Badajoz reconoce el problema y ha intensificado las capturas, pero el plan integral prometido va lento. Por eso el pueblo ha tomado sus propias medidas: \"Me han dicho que han puesto una jaula en la zona para capturarlas, pero por ahora no notamos mejoría y esto es insoportible\", resume Armando González. La guerra está lejos de terminar y la plaga, mientras tanto, sigue anidando. En Xataka La historia de Cher Ami, la paloma mutilada y condecorada en la Primera Guerra Mundial por salvar a 200 soldados Qué dicen los expertos. Ecologistas y profesionales de la gestión de fauna urbana coinciden en que los métodos letales —sacrificio masivo, venenos o caza— son éticamente problemáticos y ofrecen resultados limitados a largo plazo. A partir de cuatro estudios académicos —una revisión de métodos en áreas urbanas de baja densidad, un ensayo comparativo de trampas, halconería y redes, una evaluación de tres años del control de fertilidad con nicarbazina en Barcelona y una evaluación de ocho años en 24 ciudades europeas— se desprende que las capturas y los sacrificios no reducen de forma sostenida las poblaciones, porque los ejemplares eliminados son reemplazados por juveniles o aves procedentes de zonas próximas. En cambio, los trabajos apuntan a mejores resultados cuando se combinan la exclusión física —pinchos, redes y sellado de huecos—, la modificación del hábitat, la retirada de nidos y el control de fertilidad con nicarbazina, que ha logrado reducciones sostenidas en varias experiencias sin efectos relevantes observados sobre especies no objetivo. La estrategia recomendada pasa por distribuir de forma controlada alimento esterilizante, impedir la alimentación humana en la vía pública y actuar sobre los edificios que ofrecen refugio, dejando las medidas letales para situaciones excepcionales, localizadas y justificadas. Imágenes | José Vicente Arnalas para Hoy Badajoz, Unspash (Ashe Walker) En Xataka | Ya no volverás a mirar a una paloma igual: una startup rusa está hackeando sus cerebros para convertirlos en drones con alas - La noticia \"Los vecinos ya no pueden más\": un barrio de Badajoz se ha declarado en guerra contra las palomas fue publicada originalmente en Xataka por Isra Fdez ."
   },
   {
     "titulo": "Universities Are Teaching the Virtue of Overwork",
@@ -648,7 +669,7 @@
     "medio": "Europa Press",
     "fecha": 1789055690.0,
     "link": "https://www.europapress.es/nacional/noticia-congreso-aprueba-ley-nacionalizar-saharauis-abstencion-pp-rechazo-vox-20260910175450.html",
-    "resumen": "El Congreso ha aprobado este jueves la proposición de ley para conceder la nacionalidad española a los saharauis nacidos cuando el Sáhara Occidental se encontraba bajo administración española y a sus descendientes, una iniciativa que ha salido adelante con el apoyo de los partidos del Gobierno y sus habituales aliados, la abstención del PP y UPN y el único voto en contra de Vox."
+    "resumen": "El Congreso ha aprobado este jueves la proposición de ley para conceder la nacionalidad española a los saharauis nacidos cuando el Sáhara Occidental se encontraba bajo administración española y a sus descendientes, una iniciativa que ha salido adelante con el apoyo de los partidos del Gobierno y sus habituales aliados, la abstención del PP y UPN y el único voto en contra de Vox. El texto continuará ahora su tramitación en el Senado."
   },
   {
     "titulo": "¿Merece la pena comprar el iPhone 18 o compensa más el iPhone 17? ¿Qué iPhone debo comprarme?",
@@ -656,13 +677,6 @@
     "fecha": 1789055569.0,
     "link": "https://hipertextual.com/tecnologia/iphone-18-17/",
     "resumen": "Ayer miércoles, Apple presentó sus nuevos teléfonos y aunque todas las miradas se dirigen al iPhone Duo, el primer plegable de la compañía, la opción más lógica es irse a cualquiera de los nuevos iPhone 18. Sin embargo, ¿compensa lanzarse a por el último modelo o tiene más sentido dirigirse a modelos del año pasado, […] Seguir leyendo: ¿Merece la pena comprar el iPhone 18 o compensa más el iPhone 17? ¿Qué iPhone debo comprarme?"
-  },
-  {
-    "titulo": "El Congreso tumba la iniciativa del PSOE para que Feijóo declare cómo paga su piso en Madrid",
-    "medio": "Europa Press",
-    "fecha": 1789055451.0,
-    "link": "https://www.europapress.es/nacional/noticia-congreso-tumba-iniciativa-psoe-feijoo-declare-paga-piso-madrid-20260910175051.html",
-    "resumen": "El Pleno del Congreso ha rechazado este jueves, con los votos del PP, Vox, PNV, UPN y la abstención de Junts y CC, la proposición no de ley con la que el PSOE aspiraba a que el líder del PP, Alberto Núñez Feijóo, detallase todos sus ingresos y explicase cómo paga el piso en el que vive con su familia en Madrid. La propuesta socialista ha recibido el respaldo de Sumar, ERC, Bildu, Podemos, Compromís y BNG."
   },
   {
     "titulo": "El Gobierno bloquea la jubilación anticipada de Policía y Guardia Civil por su coste para las arcas públicas",
