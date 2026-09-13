@@ -1,45 +1,122 @@
 [
   {
+    "titulo": "Los líderes de la IA alertan de que esta tecnología crece demasiado rápido",
+    "medio": "El País",
+    "fecha": 1789257923.0,
+    "link": "https://elpais.com/tecnologia/2026-09-12/el-director-general-de-anthropic-pide-ralentizar-el-progreso-de-la-ia-y-que-todas-las-empresas-admitan-verificadores-externos.html",
+    "resumen": "OpenIA se muestra favorable a permitir el acceso a los evaluadores mientras Dario Amodei advierte de que en 6 o 12 meses un enjambre de agentes descontrolados de un sistema de IA podría “controlar todo internet” y causar “cientos de miles de millones de dólares en daños”"
+  },
+  {
+    "titulo": "Sabalenka rompe la raqueta, lanza pelotas a la grada y lo pierde todo: «Quería dejar salir toda la agresividad»",
+    "medio": "OK Diario",
+    "fecha": 1789257517.0,
+    "link": "https://okdiario.com/deportes/sabalenka-rompe-raqueta-lanza-pelotas-grada-lo-pierde-todo-queria-dejar-salir-toda-agresividad-20278831",
+    "resumen": "Sabalenka se desgasta de tanto ser. Cada fallo suyo iba seguido de un gesto de desaprobación. Se hablaba soez y gesticulaba peor. Se le escapó el primer set y lo pagó con un par de pelotazos a la grada. Warning para ella, bolas para los aficionados. Win to win. Ni por esas se inmutaba Rybakina, … Continuar leyendo \"Sabalenka rompe la raqueta, lanza pelotas a la grada y lo pierde todo: «Quería dejar salir toda la agresividad»\""
+  },
+  {
+    "titulo": "Iker Jiménez y Carmen Porter premiados en el Festival de Televisión de Vitoria por sus récords de audiencia en Horizonte",
+    "medio": "OK Diario",
+    "fecha": 1789256429.0,
+    "link": "https://okdiario.com/cool/television/iker-jimenez-carmen-porter-premiados-festival-television-vitoria-sus-records-audiencia-horizonte-20278823",
+    "resumen": "Iker Jiménez y Carmen Porter han recibido este sábado el reconocimiento a su labor al frente de Horizonte siendo premiados en el Festival de Televisión de Vitoria, que alcanza ya su XVIII edición. El llamado FesTVal ha destacado la labor de los dos presentadores otorgándoles este premio «por firmar su mejor temporada de audiencia desde … Continuar leyendo \"Iker Jiménez y Carmen Porter premiados en el Festival de Televisión de Vitoria por sus récords de audiencia en Horizonte\""
+  },
+  {
+    "titulo": "Así se corona toda una número uno, la campeona Elena Rybakina",
+    "medio": "El País",
+    "fecha": 1789254306.0,
+    "link": "https://elpais.com/deportes/tenis/2026-09-12/asi-se-corona-toda-una-numero-uno-la-campeona-elena-rybakina.html",
+    "resumen": "La kazaja vuelve a derrotar a Sabalenka, de nuevo presa de los nervios (6-4 5-7 y 6-2)"
+  },
+  {
+    "titulo": "Rybakina levanta su primer US Open y confirma ante Sabalenka que es la número uno del mundo",
+    "medio": "El Mundo",
+    "fecha": 1789253185.0,
+    "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/13/6aa5d58c21efa02b598b4585.html",
+    "resumen": "La kazaja, que relevará a Sabalenka en lo más alto del ranking WTA, conquista su segundo Grand Slam del año con su tenis de potencia y sangre fría frente a una rival que volvió a quedarse atrapada entre sus emociones Leer"
+  },
+  {
+    "titulo": "Rybakina y los demonios ‘atrapan’ a una Sabalenka desesperada: el US Open y el mundo tienen nueva reina",
+    "medio": "OK Diario",
+    "fecha": 1789253183.0,
+    "link": "https://okdiario.com/deportes/rybakina-demonios-atrapan-sabalenka-desesperada-us-open-mundo-tienen-nueva-reina-20278671",
+    "resumen": "«Fuck, Aryna». El grito se escucha en toda la Arthur Ashe y parte de Nueva York. Lo brama Sabalenka como reproche a sí misma por haber fallado una derecha. El berrido va acompañado de un gesto descriptivo. Se agacha y mira al suelo. Así una y otra vez. Está perdiendo su batalla interior y se … Continuar leyendo \"Rybakina y los demonios ‘atrapan’ a una Sabalenka desesperada: el US Open y el mundo tienen nueva reina\""
+  },
+  {
+    "titulo": "Ucrania espera contactos trilaterales con Rusia y EEUU en octubre",
+    "medio": "The Objective",
+    "fecha": 1789252878.0,
+    "link": "https://theobjective.com/internacional/2026-09-13/ucrania-contactos-trilaterales-rusia-eeuu-octubre/",
+    "resumen": "El jefe de la Oficina Presidencial ucraniana, Kirilo Budanov, ha apuntado que podría haber contactos con formato trilateral con Estados Unidos y Rusia a principios de […]"
+  },
+  {
+    "titulo": "EEUU impide el paso de 100 barcos comerciales tras dos meses del nuevo bloqueo a Irán",
+    "medio": "El Mundo",
+    "fecha": 1789252236.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/13/6aa5d151fdddff3f6c8b4586.html",
+    "resumen": "El Comando Central sostuvo que \"cero barcos han atravesado el bloqueo sin la autorización de las fuerzas de EEUU\", además de avisar que \"los miembros del servicio militar estadounidense permanecen completamente enfocados en esta misión\" Leer"
+  },
+  {
+    "titulo": "Un inglés, un argentino y un israelí…",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633227/ingles-argentino-israeli.html",
+    "resumen": "Milei venera a Netanyahu y el amor es mutuo: Israel se ha aliado con Argentina contra el Reino Unido"
+  },
+  {
+    "titulo": "Mientras hay IA, hay esperanza",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633304/hay-ia-hay-esperanza.html",
+    "resumen": "Un investigador de Anthropic dimite porque teme que la IA acabe con el mundo"
+  },
+  {
+    "titulo": "Una ventana abierta",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633219/ventana-abierta.html",
+    "resumen": "Al presidente, se diría que le han fallado sus reflejos políticos; y la oposición juega al desgaste"
+  },
+  {
+    "titulo": "El sueño escolar ya es una pesadilla",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633231/sueno-escolar-pesadilla.html",
+    "resumen": "Bastaría con que dejaran de soñar con hombres y mujeres nuevos y que en las aulas se enseñe y se aprenda"
+  },
+  {
+    "titulo": "Las malditas aplicaciones",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633223/malditas-aplicaciones.html",
+    "resumen": "¿En qué momento creímos que la tecnología iba a facilitarnos la vida?"
+  },
+  {
+    "titulo": "Feijóo, en edad de jubilación",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633218/feijoo-edad-jubilacion.html",
+    "resumen": "La edad promedio de acceso a la presidencia de nuestra democracia está en los 46 años"
+  },
+  {
+    "titulo": "Yo, yo mismo y el otro",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633228/.html",
+    "resumen": "Los algoritmos de las redes nos hacen pensar que nuestra opinión y gustos son mayoritarios"
+  },
+  {
+    "titulo": "El apocalipsis era esto",
+    "medio": "La Vanguardia",
+    "fecha": 1789252200.0,
+    "link": "https://www.lavanguardia.com/opinion/20260913/11633232/apocalipsis-esto.html",
+    "resumen": "Con la IA cuesta recordar que estamos ante un algoritmo y no un ser humano"
+  },
+  {
     "titulo": "Llorenç Galmés: «Amar Mallorca significa cuidarla y protegerla para las generaciones futuras»",
     "medio": "OK Diario",
     "fecha": 1789251476.0,
     "link": "https://okdiario.com/baleares/llorenc-galmes-amar-mallorca-significa-cuidarla-protegerla-generaciones-futuras-20278721",
     "resumen": "El presidente del Consell de Mallorca, Llorenç Galmés, ha reivindicado este viernes la necesidad de cuidar, proteger y preservar la identidad de Mallorca para las futuras generaciones durante la gala de los Premios, Honores y Distinciones 2026, en la que la institución insular ha reconocido la trayectoria y la contribución de veintisiete personas y entidades … Continuar leyendo \"Llorenç Galmés: «Amar Mallorca significa cuidarla y protegerla para las generaciones futuras»\""
-  },
-  {
-    "titulo": "La IA pone en aprietos el negocio de las consultoras",
-    "medio": "La Vanguardia",
-    "fecha": 1789250700.0,
-    "link": "https://www.lavanguardia.com/dinero/20260913/11632870/ia-pone-aprietos-negocio-consultoras.html",
-    "resumen": "La nueva tecnología es también un ‘boomerang’ contra las empresas que la han implantado. Los grandes clientes quieren rebajas de precios"
-  },
-  {
-    "titulo": "Los carburantes sostenibles toman el volante de la F1",
-    "medio": "La Vanguardia",
-    "fecha": 1789250700.0,
-    "link": "https://www.lavanguardia.com/dinero/20260913/11632887/carburantes-sostenibles-toman-volante-f1.html",
-    "resumen": "La Fórmula 1 se enfrenta en 2026 a un reto histórico: funcionar con combustibles 100% sostenibles sin perder rendimiento ni eficiencia"
-  },
-  {
-    "titulo": "¿Hay suficiente ahorro?",
-    "medio": "La Vanguardia",
-    "fecha": 1789250700.0,
-    "link": "https://www.lavanguardia.com/dinero/20260913/11632844/hay-suficiente-ahorro.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La triunfadora galleta belga",
-    "medio": "La Vanguardia",
-    "fecha": 1789250700.0,
-    "link": "https://www.lavanguardia.com/dinero/20260913/11632838/triunfadora-galleta-belga.html",
-    "resumen": "La popularidad de las galletas belgas Biscoff se dispara en todo el mundo gracias, en parte, a los vídeos virales en redes sociales y a su versatilidad para todo tipo de postres. Ahora ya se sitúa entre las cinco más vendidas, por detrás de Oreo y Chips Ahoy!"
-  },
-  {
-    "titulo": "La bomba de Can Lluís",
-    "medio": "La Vanguardia",
-    "fecha": 1789250700.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260913/11632801/bomba-can-lluis.html",
-    "resumen": "El casi centenario restaurante de la calle de la Cera conserva en uno de los comedores la huella de la explosión de una granada lanzada en 1946 por una militante anarquista en la que murieron al menos tres personas"
   },
   {
     "titulo": "Los líderes del automovilismo español más allá de la F1",
@@ -54,13 +131,6 @@
     "fecha": 1789250511.0,
     "link": "https://okdiario.com/curiosidades/harrison-ford-actor-sus-84-anos-lo-unico-que-diria-gente-que-aferre-lo-que-individual-ellos-18968850",
     "resumen": "El legendario actor estadounidense Harrison Ford, conocido mundialmente por sus papeles del capitán Han Solo e Indiana Jones, ha vuelto a inspirar a millones de personas con una frase enfocada en la vida y en la creatividad. Ford aseguró que «lo único que le diría a la gente es que se aferre a lo que … Continuar leyendo \"Harrison Ford, actor a sus 84 años: «Lo único que le diría a la gente es que se aferre a lo que es individual en ellos»\""
-  },
-  {
-    "titulo": "Es solo Ron Wood, pero me gusta",
-    "medio": "La Vanguardia",
-    "fecha": 1789250368.0,
-    "link": "https://www.lavanguardia.com/cultura/20260912/11633455/ron-wood-me-gusta.html",
-    "resumen": "El guitarrista de los Stones tiró de raíces y buenos músicos para celebrar sus 60 años de carrera en Barcelona"
   },
   {
     "titulo": "Albert Einstein sobre cómo llegar a tener éxito: «No intentes convertirte en un hombre de éxito, intenta convertirte en un hombre de valor»",
@@ -105,13 +175,6 @@
     "resumen": "Los blancos sentencian a su rival en apenas media hora gracias a los goles de Mbappé, Carreras y Bellingham. Camello recortó distancias pero la entrada de Güler dio sentido al Madrid. El galo anotó el cuarto tras pase del turco. Leer"
   },
   {
-    "titulo": "El Real Madrid golea al Rayo pero no engaña a nadie",
-    "medio": "La Vanguardia",
-    "fecha": 1789246753.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20260912/11633451/real-madrid-rayo-vallecano-liga-ea-sports-resumen.html",
-    "resumen": "El Bernabéu acaba censurando a su equipo a pesar del triunfo ante un rival que rozó la resurrección"
-  },
-  {
     "titulo": "Un Madrid de dos caras atropella al Rayo con sus estrellas al volante y acaba sudando la gota gorda",
     "medio": "El Español",
     "fecha": 1789246696.0,
@@ -147,7 +210,7 @@
     "resumen": "La ganadora era la única mujer que firmaba una película en solitario en la competición oficial y su premio desnuda el errático criterio de selección de la Mostra. El Gran Premio del Jurado es para 'Un amor posible', del coreano Lee Chang-Dong Leer"
   },
   {
-    "titulo": "Denuncian plantilla de limpieza de Ceuta está «al límite» por miles residuos de inmigrantes",
+    "titulo": "Denuncian que la plantilla de limpieza de Ceuta está «al límite» por los inmigrantes",
     "medio": "The Objective",
     "fecha": 1789244649.0,
     "link": "https://theobjective.com/espana/2026-09-12/denuncian-plantilla-limpieza-ceuta-limite-miles-residuos-inmigrantes/",
@@ -159,13 +222,6 @@
     "fecha": 1789244643.0,
     "link": "https://elpais.com/deportes/2026-09-12/el-campeonato-ultimate-conforta-y-redime-a-kung-fu-kenny.html",
     "resumen": "El norteamericano Bednarek, que siempre se rajaba en las finales, se impone en los 100m de Budapest al campeón del mundo Oblique Seville"
-  },
-  {
-    "titulo": "Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación",
-    "medio": "La Vanguardia",
-    "fecha": 1789244638.0,
-    "link": "https://www.lavanguardia.com/politica/20260912/11633338/feijoo-abascal-aprovechan-crisis-ceuta-reforzar-relacion.html",
-    "resumen": "El intercambio de mensajes es “permanente” tras la entrada masiva de inmigrantes"
   },
   {
     "titulo": "Trump agita el debate político en Dublín y en Londres al asegurar que sería “fantástico” ver una Irlanda unida",
@@ -245,13 +301,6 @@
     "resumen": "La cantante canadiense, que padece una rara enfermedad neurológica llamada Síndrome de la Persona Rígida, inauguró el recital con 'On ne change pas' Leer"
   },
   {
-    "titulo": "España roza la hazaña pero cae ante Estados Unidos en la semifinal del Mundial de baloncesto femenino",
-    "medio": "OK Diario",
-    "fecha": 1789242553.0,
-    "link": "https://okdiario.com/deportes/espana-roza-hazana-pero-cae-estados-unidos-semifinal-del-mundial-baloncesto-femenino-20278600",
-    "resumen": "España ha estado muy cerca de firmar una de las grandes hazañas deportivas del año en el Mundial de baloncesto femenino. La Selección española ha caído ante la todopoderosa Estados Unidos en semifinales del Mundial (66-76) tras empezar el último cuarto con empate. Pero ahí, en los últimos diez minutos, España se hundió y Estados … Continuar leyendo \"España roza la hazaña pero cae ante Estados Unidos en la semifinal del Mundial de baloncesto femenino\""
-  },
-  {
     "titulo": "España cae ante EEUU en el mundial de baloncesto y se jugará el bronce con Alemania",
     "medio": "The Objective",
     "fecha": 1789242520.0,
@@ -271,13 +320,6 @@
     "fecha": 1789242196.0,
     "link": "https://www.eldiario.es/viajes/tiramisu-postre-arrasa-revela-nostalgia-decadencia_1_13503265.html",
     "resumen": "El pudin de café y mascarpone siempre ha sido muy popular. Pero ahora ha inspirado innumerables productos, desde bebidas hasta helados y bollos. ¿Qué hay detrás de este gran fenómeno cultural?Paradoja en la cafetería: por qué un té “de bolsita” es casi siempre más caro que un café Cuando Giancarlo Fanigliulo abrió Marrone, una cafetería dedicada al tiramisú en el Soho londinense en agosto, no se esperaba que se agotara todo en dos horas y media. “Esperaba que hubiera expectación, pero no que se formaran colas que dieran la vuelta a la esquina”, me cuenta. “Fue una locura”. Este tipo de entusiasmo por el postre italiano no es un caso aislado: al parecer, vivimos en una era de “tiramisúmanía”. Casi todas las cadenas de cafeterías han ofrecido algún tipo de café de tiramisú como especial de temporada (en EEUU, Dunkin’ tiene actualmente cuatro bebidas diferentes con sabor a tiramisú en su carta). Por su parte, Haagen-Dazs y Carte D’or venden ahora helado de tiramisú, la cadena londinense Buns from Home ofrece un bollo de masa de croissant con sabor a tiramisú y las redes sociales están repletas de recetas de tiramisú y vídeos de “cajones de tiramisú” —bandejas con el postre listas para servir desde los cajones de las cocinas de los chefs—, tal y como popularizó el vídeo viral del restaurante de pasta de Manchester Onda. Marrone no es el primer local especializado “solo en tiramisú” que ha surgido en los últimos años: el Paradiso de Sheffield —que, además del tiramisú clásico, te ofrece un “latte-misù” (un café helado coronado con una porción de tiramisú)— abrió sus puertas en 2023; mientras que el Secret Layers, que se hizo viral en TikTok, donde se puede comprar el postre en una pequeña ventanilla en la pared, abrió en Paddington, Londres, el año pasado. En marzo se batió el récord mundial Guinness del tiramisú más largo del mundo cuando unos chefs prepararon una porción de 440,6 metros de este postre (aunque hubo cierta polémica, al menos entre mis amigos, sobre si realmente debía considerarse el más largo, ya que parecía una serie de porciones más pequeñas de tiramisú unidas entre sí). Los supermercados también están notando un repunte en las compras de tiramisú. “Las ventas de nuestra gama de tiramisú de marca propia han crecido un 5 % durante el último año, y nuestro postre Tesco Finest Coffee & Amaretto Tiramisu ha resultado especialmente popular, con un aumento de las ventas de casi un 10 %”, afirma Peter Wood, responsable de compras de la categoría de postres de Tesco. M&S, que actualmente tiene en stock “brownies cremosos de tiramisú” y que en Semana Santa vendió bollos de tiramisú con cruz, afirma que las ventas de tiramisú han aumentado un 27% en comparación con el año pasado. [En España también se cuela entre los refrigerados del súper y las novedades de las cartas de los restaurantes-tendencia]. El tiramisú \"más largo del mundo\", en el Chelsea Old Town Hall, Londres. La moda del tiramisú también ha llegado a las bodas, a veces como sustituto de la tarta nupcial. Este postre “es probablemente una de las principales tendencias de 2026”, afirma el organizador de bodas Oliver Stanton, afincado en los Cotswolds; cuando hablamos con él, acaba de terminar de trabajar en una boda en la que se sirvió tiramisú. “Muchas parejas piden que se sirva el tiramisú en copas de champán y se disponga en forma de torre, como se haría con una torre de champán. Sirve tanto como postre para los invitados como para crear una oportunidad fotográfica adicional”. El tiramisú siempre ha sido un postre muy querido, pero Lisa Harris, cofundadora de la consultoría de alimentación y bebidas Harris and Hayes, entiende por qué está experimentando un repunte de popularidad en este momento: los algoritmos de las redes sociales premian la nostalgia y todo aquello que simbolice la decadencia, y el tiramisú cumple ambos requisitos. “Un buen tiramisú es, en realidad, un ejercicio de equilibrio entre el café, la crema y el bizcocho. En realidad, no tiene mucho misterio”, afirma Harris. “Y, sin embargo, también es sinónimo de placer”. La proliferación de productos con sabor a tiramisú, añade, se debe probablemente en parte a la propia palabra “tiramisú”: “Transmite elegancia sin necesidad de esforzarse demasiado”. También es una forma sencilla de describir un perfil de sabor específico: “Podría decir 'café con leche de tiramisú', 'galleta de tiramisú' o 'donut de tiramisú', y sabrías que me refiero a que lleva crema y café”. La aparición de la “cultura de los pequeños caprichos” —el concepto de darse pequeñas recompensas en medio de tiempos políticos y económicos difíciles— también ha contribuido al éxito del tiramisú y de los productos con sabor a tiramisú. En un momento “en el que la gente quizá sale menos a comer fuera, dada la situación económica actual”, darse un capricho se vuelve más codiciado. El simple hecho de que alguien “se plantee qué postre va a tomar” cobra mayor importancia, afirma Harris. Casi todas las cadenas de cafeterías han ofrecido algún tipo de café de tiramisú como especial de temporada. En parte fue precisamente porque el tiramisú se ha convertido en “todo un fenómeno cultural” por lo que Fanigliulo decidió abrir Marrone. Este joven de 30 años no tiene experiencia en el sector de la hostelería —antes trabajaba en ventas de tecnología—, pero le llamó la atención que “cuando piensas en el tiramisú, nunca ha habido una marca asociada a él”. Su familia es italiana por parte de padre, y su tiramisú se inspira en la receta de su abuela. Los tres tiramisús del menú de Marrone (el clásico original, el de chocolate negro y sal marina, y el de pistacho, cada uno a 10 libras el vaso) tienen un estilo ligero y brillante —a diferencia de un bloque que conserva su forma al cortarlo—, que es como a Fanigliulo le gusta el tiramisú. Espera que Marrone se convierta en un lugar de referencia para quienes busquen este estilo de tiramisú (que, puedo confirmar, está absolutamente delicioso). El entusiasmo de Fanigliulo por un buen tiramisú es contagioso y me recuerda que, de verdad, me encanta este postre tan bonito, cremoso y lleno de cafeína y alcohol. Y estoy totalmente a favor de que haya más sitios donde tomar un buen tiramisú. Pero cada vez que veo una nueva versión de este maravilloso postre convertida en otra bebida o aperitivo más, no puedo evitar pensar que quizá nos estamos pasando un poco. ¿Quizá sea hora de decir “tirami-stop”?"
-  },
-  {
-    "titulo": "El Elche rasca un punto ante un Athletic al que le faltó puntería",
-    "medio": "El País",
-    "fecha": 1789241538.0,
-    "link": "https://elpais.com/deportes/futbol/2026-09-12/el-elche-rasca-un-punto-ante-un-athletic-al-que-le-falto-punteria.html",
-    "resumen": "Un penalti que ejecutó Buonanotte para los ilicitanos al comienzo de la segunda parte dio un giro de guion a un partido que los de Terciz tenían encaminado"
   },
   {
     "titulo": "El contundente discurso del director israelí Yuval Abraham en Venecia: \"EEUU está financiando gran parte de la matanza en Gaza\"",
@@ -308,32 +350,11 @@
     "resumen": "La película era la única de las 21 obras a concurso dirigida en solitario por una mujer.El festival también ha premiado a 'Possible Love' con el Gran Premio del Jurado y a 'Naza' con el Premio Especial.Más información: 'Naza', un documental elegante y monstruoso sobre Gaza, horroriza al Festival de Venecia"
   },
   {
-    "titulo": "Kiko Matamoros devuelve el dardo a Makoke tras culparle de sus problemas con Hacienda: «Claro, por eso está condenada»",
-    "medio": "OK Diario",
-    "fecha": 1789239685.0,
-    "link": "https://okdiario.com/cool/famosos/kiko-matamoros-devuelve-dardo-makoke-culparle-sus-problemas-hacienda-claro-eso-esta-condenada-20278541",
-    "resumen": "Kiko Matamoros ha celebrado por todo lo alto el 50 cumpleaños de su compañero y amigo Kiko Hernández. Una celebración en la que no han faltado otros rostros conocidos como Marta López o Marta López Álamo, pareja del cumpleañero. A la salida del restaurante, Matamoros se ha encontrado con las cámaras y, como suele ser … Continuar leyendo \"Kiko Matamoros devuelve el dardo a Makoke tras culparle de sus problemas con Hacienda: «Claro, por eso está condenada»\""
-  },
-  {
     "titulo": "Erling Haaland (25 años): \"Duermo con la boca tapada con cinta, me pongo gafas naranjas tres horas antes de acostarme y estoy obsesionado con el sueño\"",
     "medio": "Trendencias",
     "fecha": 1789239660.0,
     "link": "https://www.trendencias.com/hombres/erling-haaland-25-anos-duermo-boca-tapada-cinta-me-pongo-gafas-naranjas-tres-horas-antes-acostarme-estoy-obsesionado-sueno",
     "resumen": "El nombre de Erling Haaland es sinónimo de goles, pero fuera de la cancha su verdadera obsesión tiene otro nombre: el sueño. El delantero noruego del Manchester City ha convertido su descanso nocturno en una rutina casi científica, con rituales que sorprenden tanto como sus números goleadores. Entre cinta adhesiva en la boca y gafas naranjas, Haaland asegura que dormir bien es la clave que sostiene su rendimiento físico. Antes de dormir, Haaland utiliza en su casa unas gafas de color naranja con filtro de luz azul, ya que esta luz bloquea la energía emitida por la luz natural y las pantallas digitales. Las usa durante tres horas previas a acostarse, un hábito que según explicó busca preparar al cuerpo para el descanso apagando cualquier estímulo lumínico que pueda retrasar el sueño. Para reforzar ese efecto, también recurre a bombillas que cambian a tono anaranjado, el color del ocaso, para que el organismo entienda que es hora de bajar el ritmo. La cinta en la boca, su técnica más comentada Haaland ha explicado que el motivo de taparse la boca con cinta adhesiva es aprovechar al máximo la respiración a través de los orificios nasales. En el podcast de Logan Paul fue más allá y lanzó una recomendación directa a quienes lo escuchaban: probar a sellarse la boca durante la noche, aclarando que hacer pequeños cambios de forma constante, y no de golpe, es lo que realmente da resultado con el tiempo. El delantero señala que respirar por la boca durante el sueño aumenta el riesgo de ronquidos y apnea, además de exponer la garganta a gérmenes y bacterias, mientras que respirar por la nariz ayuda a un descanso de mayor calidad. Esta técnica, conocida como mouth taping, no es un invento propio de Haaland. Jeff Kahn, cofundador de Rise Science, ha explicado en su plataforma los beneficios y riesgos de esta práctica, y algunos estudios encontraron que vendar la boca ayudó a reducir la intensidad y frecuencia de los ronquidos, aunque se trató de investigaciones pequeñas realizadas en personas con apnea del sueño, por lo que no se puede generalizar a toda la población. VitónicaVitónica Sauna, sol matutino y control biométricoEl cuidado del sueño de Haaland no termina cuando cierra los ojos. El noruego cuenta con un sauna en su casa de Manchester que utiliza casi todos los días para relajar sus músculos, alternando sauna y baño turco. Apenas se levanta, busca exponer su rostro al sol lo antes posible y permanece así durante algunos minutos, un gesto que ayuda a regular el reloj biológico interno. Para no dejar nada al azar, Haaland utiliza un anillo Oura que mide la calidad de su sueño, la evolución de su temperatura corporal, el estrés y la frecuencia cardíaca, y además se realiza análisis de sangre semanales para controlar sus valores físicos. Su lema resume la filosofía detrás de todo esto: dormir es lo más importante del mundo, y las cosas simples, hechas todos los días durante un periodo largo, son las que realmente marcan la diferencia. Fotos de @Erling En Trendencias | Unai Simón hace historia en el Mundial y lo acerca cada vez más a su sueño: la carrera por el Balón de Oro En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado En Motorpasión | Juan José Ebenezer, mecánico: \"Utiliza un buen aceite y cámbialo cada 15,000 km, eso es lo que más vida le va a dar al turbo de tu auto\" - La noticia Erling Haaland (25 años): \"Duermo con la boca tapada con cinta, me pongo gafas naranjas tres horas antes de acostarme y estoy obsesionado con el sueño\" fue publicada originalmente en Trendencias por Joel Calata ."
-  },
-  {
-    "titulo": "‘Woman Unknown’, de May el-Toukhy, León de Oro en un Festival de Venecia marcado por la falta de directoras",
-    "medio": "El País",
-    "fecha": 1789239613.0,
-    "link": "https://elpais.com/cultura/cine/2026-09-12/la-danesa-woman-unknown-de-may-el-toukhy-gana-el-leon-de-oro-en-el-festival-de-venecia.html",
-    "resumen": "‘Possible Love’, de Lee Chang-dong, se lleva el Gran Premio del jurado; ‘DAU’, de Ilya Khrzhanovskiy, el premio al mejor director; y ‘NAZA’, con los testimonios de soldados israelíes, el Premio Especial del Jurado"
-  },
-  {
-    "titulo": "Horario del Real Sociedad – Atlético de Madrid y dónde ver por TV en directo y en streaming gratis el partido de la Liga",
-    "medio": "OK Diario",
-    "fecha": 1789239610.0,
-    "link": "https://okdiario.com/deportes/horario-del-real-sociedad-atletico-madrid-donde-ver-tv-directo-streaming-gratis-partido-liga-video-20269929",
-    "resumen": "La Real Sociedad y el Atlético de Madrid se van a ver las caras en un partido que es un clásico del fútbol español. Cada vez que estos dos equipos se ven las caras suele haber de todo, por lo que se espera que en esta ocasión no sea diferente y que los futbolistas puedan … Continuar leyendo \"Horario del Real Sociedad – Atlético de Madrid y dónde ver por TV en directo y en streaming gratis el partido de la Liga\""
   },
   {
     "titulo": "May el-Toukhy gana el León de Oro con ‘Woman Unknown’, un incómodo retrato a las mujeres que mantenían relaciones con los nazis",
@@ -404,13 +425,6 @@
     "fecha": 1789237860.0,
     "link": "https://www.xataka.com/ecologia-y-naturaleza/1997-liberaron-1-541-alces-unas-viejas-minas-carbon-a-cielo-abierto-30-anos-despues-hay-manada-13-000",
     "resumen": "Hubo un tiempo en el que los alces (orientales) desaparecieron por completo de Kentucky: el último fue tiroteado en Pensilvania el 1 de septiembre de 1877, como recogen registros históricos. Precisamente la caza y la pérdida de su hábitat acabaron con la especie, que durante más de un siglo dejó de verse por los Apalaches. En 1997, el estado de Kentucky inició un ambicioso programa de reintroducción de alces y pasó algo altamente improbable: la nueva manada de alces se desbordó y dio un \"bombazo\" genético. El alce vuelve por todo lo alto. Como explica el Departamento de Recursos de Pesca y Vida Silvestre de Kentucky, entre 1997 y 2002, capturaron 1.541 alces en seis estados del oeste (Arizona, Kansas, Dakota del Norte, Nuevo México, Oregón y Utah) y los soltaron en una zona de 16 condados del sureste del estado de 17.000 kilómetros cuadrados, poco más o menos como la provincia de Zaragoza. La zona de liberación tiene sus particularidades: aunque la mayoría es bosque caducifolio, también hay terreno agrícola y viejas minas de carbón a cielo abierto que se habían rehabilitado con pastos, como documenta gráficamente la radio pública WHYY en el pie de foto. ¿El resultado? Inicialmente su objetivo era alcanzar una población de 10.000 ejemplares, pero hoy ya son 13.000 y constituyen la manada silvestre de alces más grande al este de las Montañas Rocosas, según cifras de la Rocky Mountain Elk Foundation, socio financiador del proyecto. Por qué funcionó. De toda la zona de suelta de alces, las que antiguamente eran minas de carbón suponen solo un 10%, pero tienen una importancia clave. La ley obliga a las minas de carbón a reparar el terreno después de la explotación, lo que implica nivelarlo, estabilizarlo y volver a ponerle vegetación y una forma barata y rápida de hacerlo es sembrar pasto. Este tipo de hábitat abierto es justo lo que necesita un herbívoro de tales dimensiones (o mejor dicho, casi 1.500 especímenes) para alimentarse, algo que el bosque de alrededor no podía ofrecer. Así, el bosque les sirve como zona de refugio y cría, y las praderas de las antiguas minas para pastar. La guinda del pastel son los inviernos suaves de la zona y la escasez de depredadores como osos o lobos, que también se extinguieron de esa área. En Xataka Un siglo de herbívoros a sus anchas estaba acabando con Yellowstone. La salvación era lógica: llamar al lobo La letra pequeña. Que el alce ha vuelto a Kentucky es una realidad y una buena noticia, pero con matices: el alce que hoy vive en ese estado del interior de Estados Unidos no era el que antes había allí y se extinguió: el alce oriental se extinguió para siempre. Lo que hoy pasta por sus praderas es su primo el alce occidental (alce de las Montañas Rocosas), que se ha \"naturalizado\" a este terreno. Aunque a simple vista no se distingan, genéticamente son diferentes. Y aunque una pradera ambientalmente siempre será mejor que unas cuevas yermas y explotadas, tampoco sustituye a una pradera natural. Al fin y al cabo es roca compactada recubierta de pastos que a veces ni siquiera son oriundos y que en cualquier caso conforman un terreno pobre comparado con lo que había antes. Vuelve el alce, vuelve la caza. El del alce de Kentucky es un ejemplo curioso de cómo una industria tan dañina para la naturaleza como la minería ha funcionado como caldo de cultivo perfecto (sin proponérselo) a una especie que había desaparecido. Esta reintroducción se ha convertido en modelo replicado en otros estados del este de EEUU y de hecho, esa prolífica manada ha servido como fuente para resaturaciones, como cuenta la página del programa. Como curiosidad, la vuelta del alce a Kentucky ha traído también beneficios en forma de turismo cinegético (qué cruel paradoja que una de las actividades que llevó al alce oriental a su desaparición haya retornado) y de observación de fauna, lo que se estima genera unos ingresos de cinco millones de dólares anuales, según un estudio de la Universidad de Kentucky. En Xataka | En 1871 un granjero abandonó a su suerte a cinco vacas en una isla remota. Contra todo pronóstico, colonizaron la isla En Xataka | Aquella vez que el ejército australiano sacó los tanques contra los emús... Y perdió Portada | Philipp Pilz - La noticia En 1997 liberaron 1.541 alces en unas viejas minas de carbón a cielo abierto. 30 años después, hay una manada de 13.000 fue publicada originalmente en Xataka por Eva R. de Luis ."
-  },
-  {
-    "titulo": "El ponente del TC da la razón al Supremo en su rechazo a aplicar la amnistía por el procés",
-    "medio": "The Objective",
-    "fecha": 1789236632.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-09-12/ponente-tc-razon-supremo-rechazo-aplicar-amnistia-proces/",
-    "resumen": "El magistrado del Tribunal Constitucional José María Macías, del bloque conservador, da la razón al Tribunal Supremo en su rechazo a aplicar la amnistía a los […]"
   },
   {
     "titulo": "Parecía una simple lata oxidada en medio de una colina. Dentro había un tesoro con el que poderse comprar un piso en Madrid",
@@ -537,20 +551,6 @@
     "fecha": 1789230660.0,
     "link": "https://www.xataka.com/magnet/nepal-tiene-nueva-atraccion-google-maps-casa-verde-que-sobrevivio-a-riada-cuyo-secreto-esta-enterrado-tierra",
     "resumen": "En medio de un paisaje arrasado por la riada en Nepal, una imagen terminó haciéndose viral: una casa verde permanecía en pie mientras buena parte de lo que había a su alrededor había desaparecido. La vivienda de la familia Pyakurel se convirtió en la “Miracle House”, atrajo visitantes y terminó incluso señalada en Google Maps como una atracción “resistente a inundaciones”. Pero la explicación más interesante podría no estar a la vista. Una casa en pie. Contaba el New York Times que la familia Pyakurel estaba en su vivienda de Dhunge Bazaar cuando una enorme corriente de agua, barro y escombros alcanzó la zona después del colapso del glaciar en la región del Himalaya entre Nepal y el Tíbet. Durante más de una hora contemplaron desde el tercer piso y posteriormente desde el tejado cómo el agua golpeaba el edificio y destruía lo que encontraba a su alrededor. Cuando el nivel comenzó a descender, unos vecinos utilizaron tuberías metálicas para improvisar una escalera y sacar a la familia. La casa, contra todo pronóstico, seguía en pie. En Xataka 700 toneladas de hielo cayendo 1.000 metros por un precipicio: Nepal y China tienen 47 otras \"bombas\" esperando a detonar Desaparecieron casas, carreteras y hasta un bazar. La excepcionalidad de la vivienda se entiende mejor observando lo que quedó a su alrededor: barro, escombros y enormes extensiones donde antes había edificios e infraestructuras. En el distrito de Nuwakot, más de 1.200 viviendas quedaron completamente destruidas y otras mil sufrieron daños parciales, mientras puentes y tramos enteros de carreteras desaparecieron. Cerca de la casa, las turbinas eléctricas situadas al otro lado del río fueron arrastradas, un bazar entero dejó de existir y cuatro viviendas pertenecientes a una misma familia desaparecieron, incluida una tan nueva que sus propietarios todavía no se habían mudado. Una atracción en Maps. Las fotografías de aquella construcción verde prácticamente aislada entre la destrucción comenzaron a circular por las redes sociales hasta el punto que la vivienda recibió rápidamente dos apodos: la “Miracle House” y la “Viral House”. Cuando la carretera volvió a abrir parcialmente, comenzaron a llegar curiosos hasta Dhunge Bazaar para observarla desde una elevación y hacerse fotografías con ella. La fama digital llegó aún más lejos: el lugar consiguió su propio marcador en Google Maps como una atracción “flood-proof”, convirtiendo una vivienda familiar en uno de los símbolos más insólitos de la catástrofe. El (posible) secreto. Es la gran pregunta, y Chhatra Bahadur Pyakurel, patriarca de la familia, cree que existe una explicación estructural para que su casa resistiera donde otras desaparecieron: sus pilares fueron anclados perforando profundamente hasta alcanzar la roca. La planta baja había sido construida en 1995 para albergar su tienda de alimentación y, a medida que prosperó el negocio familiar, fueron añadiendo nuevas plantas sobre aquella estructura. También se ha planteado otra posible explicación: una cresta situada frente a la trayectoria de la corriente pudo actuar parcialmente como escudo, por lo que no existe todavía una demostración técnica de que los cimientos fueran por sí solos responsables de la supervivencia. En Xataka El permafrost del Himalaya se está derritiendo cada vez más rápido: vamos a ver más catástrofes como la de Nepal Lo que no sobrevivió. La imagen de la casa intacta es engañosa porque las dos primeras plantas sufrieron daños: apenas permanecieron elementos estructurales, mientras el agua destruyó posesiones y documentos familiares tan importantes como pasaportes, certificados de ciudadanía y títulos de propiedad. En cambio, en el tercer piso seguían visibles una lavadora y ropa, y en el tejado permanecían depósitos de agua, un calentador solar, plantas e incluso un pequeño templo familiar. Para Pyakurel, sin embargo, la verdadera suerte no fue que sobreviviera el edificio: su nieto había salido poco antes hacia el colegio, situado en una zona elevada, y toda la familia consiguió reunirse sana y salva al día siguiente. Imagen | X, China News Service En Xataka | El Apocalipsis se hace real en Nepal: una inundación descomunal se lleva por delante todo un valle del Himalaya En Xataka | 7 minutos bastaron para borrar la frontera entre Nepal y China: la impactante imagen satelital del antes y el después - La noticia Nepal tiene una nueva atracción en Google Maps. La casa verde que sobrevivió a la riada cuyo secreto está enterrado bajo tierra fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
-    "titulo": "Festival español en la Vuelta: Mas se corona y Landa gana la etapa reina",
-    "medio": "El Mundo",
-    "fecha": 1789230163.0,
-    "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/09/12/6aa57326e85ece22538b459b.html",
-    "resumen": "Un español, salvo catástrofe en la última jornada de Granada, se adjudicará la ronda 12 años después. El alavés realizó una soberbia ascensión en el último puerto de la carrera Leer"
-  },
-  {
-    "titulo": "Valdebebas, distrito del motor: alonsomaníacos, simulacros de pit stop y furor por las tortillas",
-    "medio": "El Mundo",
-    "fecha": 1789229245.0,
-    "link": "https://www.elmundo.es/madrid/2026/09/12/6aa56785fdddff04668b457c.html",
-    "resumen": "Políticos, futbolistas y personalidades acuden al circuito entre miles de aficionados para disfrutar de la F1 y la mejor oferta gastronómica del campeonato Leer"
   },
   {
     "titulo": "En 1987, Costa Rica había perdido la mitad de su bosque. Hoy es el ejemplo mundial en revertir la deforestación",
