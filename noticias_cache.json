@@ -1,5 +1,278 @@
 [
   {
+    "titulo": "Los socialdemócratas ganan en Suecia, pero el escrutinio apunta a un escenario de igualdad máxima entre bloques",
+    "medio": "El País",
+    "fecha": 1789344514.0,
+    "link": "https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html",
+    "resumen": "La televisión pública pronostica que los partidos de centroizquierda sumarán 175 escaños, frente a los 174 de la derecha. La ultraderecha retrocede y se ve superada por los conservadores"
+  },
+  {
+    "titulo": "Cuando el software se conseguía copiando largos y aburridos listados de las revistas que se vendían en los quioscos",
+    "medio": "Microsiervos",
+    "fecha": 1789343158.0,
+    "link": "http://www.microsiervos.com/archivo/ordenadores/software-copiando-largos-aburridos-listados-revistas.html",
+    "resumen": "Pues resulta que me crucé con una peculiar y oscura entrada en la Wikipedia dedicada a los listados de programas para teclear. Estaba en inglés, así que la traduje, porque me trajo muy buenos recuerdos de otras épocas. A partir de aquí… Esta forma de distribuir software fue típica desde finales de los 70 hasta principios de los 90. En los 80, época donde se popularizó la informática con los ordenadores familiares (Spectrum, Commodore, Amstrad, MSX, Atari…) era una forma de, al mismo tiempo: a) enseñar Basic y otros lenguajes, b) distribuir software y c) «hacer comunidad» usando las revistas, normalmente mensuales, como punto de «reunión» en una época en la que casi nadie tenía acceso a internet, módems y como mucho, había un «club de Basic» en el barrio. Listados infinitos Los listados se publicaban en las míticas revistas de la época: El ordenador personal (la primera que yo compré), MicroHobby, Mi Computer, Amstrad User, MAX Club, Commodore World, Input (de la que había versiones para Sinclair, Commodore y MSX) y muchas otras. Yo trabajé en Commodore World, Amiga World, PC World y otras que acababan en -World; en los primeros años casi todo era teclear listados (¡se aprendían cosas!) Normalmente ese software eran listados de programas, utilidades o juegos relativamente sencillos, habitualmente en Basic, que era el lenguaje más popular. (Recordatorio: hablamos sobre todo de ordenadores con 16, 48 o 64 KB, 128 KB como mucho.) También se publicaban programas en ensamblador, código máquina, Pascal, Fortran o C que entonces eran más especializados y menos conocidos. Si conseguías teclear todo el listado sin errores, ya tenías el software en tu ordenador. Entonces podías guardarlo permanentemente, en cintas de casete, usando un radiocasete normal y corriente, o el que se usaba especialmente para cada ordenador particular. No era habitual en aquella época encontrar cintas ni disquetes acompañando las revistas (los CD-ROM apenas existían), así que en la primera época teclear era casi la única opción. Aunque había quien vendía cintas por correo con ese software, generalmente las propias revistas. También existía la opción de recibir los programas que se emitían por radio FM, algo más bizarro todavía. (A mí nunca me funcionó muy bien). Todo esto fue desapareciendo a principios de los 90, cuando se hizo habitual incluir disquetes en las revistas y la gente empezó a acceder a comunidades online (como las BBS, CompuServe, AOL, BIX u otros). Seguir leyendo: Cuando el software se conseguía copiando largos y aburridos listados de las revistas que se vendían en los quioscos# Enlace permanente"
+  },
+  {
+    "titulo": "El ministro de cultura israelí pide retirar la ciudadanía a los directores de 'Naza' tras su premio en Venecia: \"Traición al país\"",
+    "medio": "HuffPost",
+    "fecha": 1789343075.0,
+    "link": "https://www.huffingtonpost.es/global/el-ministro-cultura-israeli-pide-retirar-ciudadania-directores-naza-premio-venecia-traicion-pais-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El lujo de abrir una buena botella: siete vinos aspiracionales para estrenar el otoño",
+    "medio": "El Mundo",
+    "fecha": 1789343036.0,
+    "link": "https://www.elmundo.es/metropoli/elmundovino/2026/09/14/6aa3bf7efc6c83a96d8b4592.html",
+    "resumen": "De un blanco riojano con apenas 700 botellas a un oloroso de larguísima crianza, estas referencias ponen el foco en el origen, el tiempo y las historias que hacen especial una copa cuando septiembre vuelve a alargar las sobremesas. Leer"
+  },
+  {
+    "titulo": "Ronni, el joven marmolista asesinado en Parla por un vecino tras un simple encontronazo: «El día anterior el criminal estaba saludando a su madre»",
+    "medio": "El Mundo",
+    "fecha": 1789343027.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/14/6aa6cfd6fc6c836f228b458b.html",
+    "resumen": "Un roce a la salida de una discoteca habría desencadenado una agresión mortal con una botella rota. El presunto homicida vivía en el portal de al lado y era conocido de la familia. Leer"
+  },
+  {
+    "titulo": "S&P, Fitch y Moody's no suben más el 'rating' de España por el \"bloqueo político\", pese al crecimiento económico",
+    "medio": "El Mundo",
+    "fecha": 1789343026.0,
+    "link": "https://www.elmundo.es/economia/2026/09/14/6aa68682fdddff994f8b458f.html",
+    "resumen": "Sólo la europea Scope optó el viernes por mejorar la calificación, pero para llegar al notable bajo que ya asignaban al Estado el resto de agencias Leer"
+  },
+  {
+    "titulo": "Illa reacciona al hundimiento en los sondeos y presentará en una conferencia su ofensiva para \"la próxima década\"",
+    "medio": "El Mundo",
+    "fecha": 1789343019.0,
+    "link": "https://www.elmundo.es/cataluna/2026/09/14/6aa6a73c21efa093788b4599.html",
+    "resumen": "El último sondeo de EL MUNDO vaticina que el socialista perderá 11 diputados respecto a las elecciones catalanas de 2024 Leer"
+  },
+  {
+    "titulo": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+    "medio": "El Mundo",
+    "fecha": 1789343018.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html",
+    "resumen": "Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer"
+  },
+  {
+    "titulo": "El sector progresista del Poder Judicial mueve ficha para negociar ya las vacantes en la Sala Segunda del Tribunal Supremo",
+    "medio": "El Mundo",
+    "fecha": 1789343017.0,
+    "link": "https://www.elmundo.es/espana/2026/09/14/6aa690f3e85ece0f718b458b.html",
+    "resumen": "En un clima de acusaciones cruzadas y recelos, instan al bloque conservador a negociar cuatro puestos sensibles que juzgan a miembros del Gobierno Leer"
+  },
+  {
+    "titulo": "Zverev se libera: «Llevaba 30 años sin un Grand Slam y he ganado dos en tres meses, Dios ha visto lo que he sufrido»",
+    "medio": "OK Diario",
+    "fecha": 1789340855.0,
+    "link": "https://okdiario.com/deportes/zverev-libera-llevaba-30-anos-sin-grand-slam-he-ganado-dos-tres-meses-dios-visto-lo-que-he-sufrido-20282510",
+    "resumen": "Aprovecha Zverev las circunstancias y el momento para volver a enseñar el puño y levantar metal. Ha fabricado en 2026 un año memorable con las sobras de Alcaraz y Sinner. Consigue su segundo Grand Slam, su primer US Open, y echa un jarro de agua fría a la grada de la Arthur Ashe que se … Continuar leyendo \"Zverev se libera: «Llevaba 30 años sin un Grand Slam y he ganado dos en tres meses, Dios ha visto lo que he sufrido»\""
+  },
+  {
+    "titulo": "El primer ministro polaco convoca de urgencia al Gobierno tras ataques rusos cerca de Polonia",
+    "medio": "The Objective",
+    "fecha": 1789340759.0,
+    "link": "https://theobjective.com/internacional/2026-09-14/primer-ministro-polaco-urgencia-gobierno-ataque-ruso/",
+    "resumen": "El primer ministro polaco, Donald Tusk, ha convocado una reunión de urgencia del Gabinete de Seguridad del Gobierno polaco en respuesta al ataque ruso de este […]"
+  },
+  {
+    "titulo": "¿Cuál es el perfil de los consejeros coordinadores?",
+    "medio": "Expansión",
+    "fecha": 1789340388.0,
+    "link": "https://www.expansion.com/empresas/2026/09/14/6aa70775468aebd7628b4588.html",
+    "resumen": "Legitimidad, confianza y capacidad de aglutinar son características que definen la figura de los consejeros independientes coordinadores. Leer"
+  },
+  {
+    "titulo": "España triplica la meta de potencia de recarga para coches eléctricos",
+    "medio": "Expansión",
+    "fecha": 1789340357.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/09/14/6aa6e4e3e5fdeacd378b4576.html",
+    "resumen": "El país cuenta con 42.318 puntos de recarga para coches eléctricos, con una potencia instalada de 2,26 millones de kilovatios. Leer"
+  },
+  {
+    "titulo": "Jysk alquila una nave de 50.000 metros a Bain y Conren",
+    "medio": "Expansión",
+    "fecha": 1789340356.0,
+    "link": "https://www.expansion.com/empresas/distribucion/2026/09/14/6aa6e395468aeb6d2d8b4587.html",
+    "resumen": "La danesa está inmersa en una etapa de crecimiento acelerado en la Península Ibérica, por lo que busca reforzar su músculo logístico. Leer"
+  },
+  {
+    "titulo": "Friedrich Merz, el gran perdedor de las elecciones en Sajonia-Anhalt",
+    "medio": "Expansión",
+    "fecha": 1789340330.0,
+    "link": "https://www.expansion.com/economia/2026/09/14/6aa6fb5ae5fdea20228b457a.html",
+    "resumen": "El canciller alemán prometió un giro político, pero ha terminado garantizando la continuidad. Su incapacidad para afrontar los problemas económicos y sociales del país resulta cada vez más evidente, y dentro de la CDU la situación comienza a ser insostenible. Leer"
+  },
+  {
+    "titulo": "La banca digital de Cetelem se hace hueco en España",
+    "medio": "Expansión",
+    "fecha": 1789340329.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/09/14/6aa44aeb468aeba0758b4580.html",
+    "resumen": "La filial de BNP Paribas mueve 573 millones de euros en depósitos a plazo y otros 368 millones en cuentas en su corta historia. Leer"
+  },
+  {
+    "titulo": "Aluvión de dividendos para el 'family office' de Jon Riberas",
+    "medio": "Expansión",
+    "fecha": 1789340316.0,
+    "link": "https://www.expansion.com/empresas/2026/09/14/6aa6e1c6468aebf63d8b457b.html",
+    "resumen": "Ion Ion, sociedad patrimonial controlada por el presidente de Gonvarri Industries, ha captado en diez años casi 1.360 millones de euros en dividendos de las sociedades en las que participa. Leer"
+  },
+  {
+    "titulo": "El Wall Street post Lehman Brothers entra en la mayoría de edad",
+    "medio": "Expansión",
+    "fecha": 1789340315.0,
+    "link": "https://www.expansion.com/mercados/2026/09/14/6aa44dbc468aeba3628b45a4.html",
+    "resumen": "El sector financiero de EEUU cuenta con la mitad de entidades y el doble de activos que en 2008, una regulación más férrea y nuevos retos en el horizonte mientras la Bolsa vive la fiebre de la IA. Leer"
+  },
+  {
+    "titulo": "Orcel se reúne hoy con el ministro alemán de Finanzas",
+    "medio": "Expansión",
+    "fecha": 1789340314.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/09/14/6aa6e51c468aebf63d8b4583.html",
+    "resumen": "Dos años después de que Andrea Orcel, consejero delegado de UniCredit, llamara por primera vez a las puertas del Gobierno alemán para negociar sobre Commerzbank, finalmente está a punto de conseguir lo que quería. Leer"
+  },
+  {
+    "titulo": "Pa' mear y no echar gota",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11631906/pa-mear-echar-gota.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Perdón por si acaso",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633777/perdon-acaso.html",
+    "resumen": "“A quien haya podido sentirse ofendido” es una de las frases del año"
+  },
+  {
+    "titulo": "Ampliar la casa",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633769/ampliar-casa.html",
+    "resumen": "Hacer pagar el malestar a los recién llegados balcanizaría Catalunya"
+  },
+  {
+    "titulo": "Necesaria Universidad Europea",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633659/necesaria-universidad-europea.html",
+    "resumen": "reforzar la unidad europea y competir en educación y tecnología con Estados Unidos y China"
+  },
+  {
+    "titulo": "El milagro de la Mercè",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633658/milagro-merce.html",
+    "resumen": "Los barceloneses no podemos perder nuestro característico inconformismo"
+  },
+  {
+    "titulo": "Falta de poderes, espejismo de recursos: hay soluciones",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633690/falta-poderes-espejismo-recursos-hay-soluciones.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "‘Good News’",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633664/good-news.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Escribíamos con un boli Bic",
+    "medio": "La Vanguardia",
+    "fecha": 1789338600.0,
+    "link": "https://www.lavanguardia.com/opinion/20260914/11633666/escribiamos-boli-bic.html",
+    "resumen": "Aprender requiere una atención que se ha convertido en uno de los bienes más escasos"
+  },
+  {
+    "titulo": "Zverev contiene a Shelton, conquista el US Open y encuentra su momento",
+    "medio": "El País",
+    "fecha": 1789338328.0,
+    "link": "https://elpais.com/deportes/tenis/2026-09-13/zverev-contiene-a-shelton-conquista-el-us-open-y-encuentra-su-momento.html",
+    "resumen": "El alemán vence al estadounidense y alza su segundo grande en solo tres meses: 6-3, 7-6(2), 5-7 y 6-2 (en 3h 33m)"
+  },
+  {
+    "titulo": "Zverev gana el US Open sin saberlo: el despiste del alemán tras conquistar su segundo Grand Slam del año",
+    "medio": "HuffPost",
+    "fecha": 1789337999.0,
+    "link": "https://www.huffingtonpost.es/deporte/zverev-gana-us-open-saberlo-despiste-aleman-conquistar-segundo-grand-slamno-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La olvidada intelectual Mercedes Pinto, expulsada de España por Primo de Rivera, recupera su lugar en Madrid más de un siglo después",
+    "medio": "El Mundo",
+    "fecha": 1789337572.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/14/6aa44f13e85ece9d228b4585.html",
+    "resumen": "LaJoven Compañía reivindica sobre las tablas del Teatro Fernán Gómez a la pionera canaria, con el estreno de su exitosa comedia-farsa Leer"
+  },
+  {
+    "titulo": "Amparo Larrañaga: \"La cultura fue un motor social enorme en la España de los 80, pero eso se ha perdido para siempre\"",
+    "medio": "El Mundo",
+    "fecha": 1789337537.0,
+    "link": "https://www.elmundo.es/papel/2026/09/14/6aa15bbfe9cf4aac798b45ac.html",
+    "resumen": "Odiaba ser actriz, pero lleva toda la vida en esto. Los genes mandan. Reniega de las redes, pasa de operarse y ríe al recordar los años de desfase, pero puntualiza: \"No teníamos nada y ya tenemos de todo. Estamos un poco tontos, pero España es hoy mejor\" Leer"
+  },
+  {
+    "titulo": "La oposición de izquierda obtiene una minúscula ventaja en las elecciones de Suecia",
+    "medio": "The Objective",
+    "fecha": 1789337314.0,
+    "link": "https://theobjective.com/internacional/2026-09-14/oposicion-izquierda-elecciones-suecia/",
+    "resumen": "Los partidos de la oposición liderados por el Partido Socialdemócrata de Suecia (S) han logrado la mayor representación en el Riksdag, el Parlamento unicameral sueco, sumando […]"
+  },
+  {
+    "titulo": "Así queda el palmarés del US Open 2026 tras la victoria de Zverev",
+    "medio": "OK Diario",
+    "fecha": 1789336656.0,
+    "link": "https://okdiario.com/deportes/asi-queda-palmares-del-us-open-2026-victoria-zverev-20282144",
+    "resumen": "La secuencia es tan atípica que pilla por sorpresa al protagonista. Zverev devuelve la pelota para que Shelton saque cuando ve al estadounidense caminando a la red sin empuñar la raqueta. ¿Qué ha pasado? Mira entonces el marcador y halla la respuesta. No hay más puntos que jugar porque se ha acabado (6-3, 7-6, 5-7, … Continuar leyendo \"Así queda el palmarés del US Open 2026 tras la victoria de Zverev\""
+  },
+  {
+    "titulo": "Cuánto dinero gana el campeón del US Open 2026",
+    "medio": "OK Diario",
+    "fecha": 1789336572.0,
+    "link": "https://okdiario.com/deportes/cuanto-dinero-gana-campeon-del-us-open-2026-20279265",
+    "resumen": "El US Open cierra el calendario tenístico del año en lo referente a los Grand Slams. El torneo estadounidense concluye la gira de pista dura de verano en en Norteamérica y abre paso a una recta final del circuito ATP con los Masters 1000 de Shanghai y París y las ATP Finals como principales citas; … Continuar leyendo \"Cuánto dinero gana el campeón del US Open 2026\""
+  },
+  {
+    "titulo": "Zverev destruye el sueño americano de Shelton y se consagra campeón del US Open",
+    "medio": "OK Diario",
+    "fecha": 1789336527.0,
+    "link": "https://okdiario.com/deportes/zverev-destruye-sueno-americano-shelton-consagra-campeon-del-us-open-20281999",
+    "resumen": "La secuencia es tan atípica que pilla por sorpresa al protagonista. Zverev devuelve la pelota para que Shelton saque cuando ve al estadounidense caminando a la red sin empuñar la raqueta. ¿Qué ha pasado? Mira entonces el marcador y halla la respuesta. No hay más puntos que jugar porque se ha acabado (6-3, 7-6, 5-7, … Continuar leyendo \"Zverev destruye el sueño americano de Shelton y se consagra campeón del US Open\""
+  },
+  {
+    "titulo": "Simeone insiste en la reconstrucción y reconoce la polémica con el penalti: «Salimos favorecidos»",
+    "medio": "OK Diario",
+    "fecha": 1789335102.0,
+    "link": "https://okdiario.com/deportes/simeone-insiste-reconstruccion-reconoce-polemica-penalti-salimos-favorecidos-20282300",
+    "resumen": "Simeone puso fin a la mala racha del Atlético con polémica. Después de dos derrotas consecutivas, el conjunto colchonero sufrió en el Reale Arena y no desatascó el partido hasta el penalti por mano de la Real Sociedad. Una decisión arbitral que protestó el equipo vasco y que dio pie a que los rojiblancos acabasen … Continuar leyendo \"Simeone insiste en la reconstrucción y reconoce la polémica con el penalti: «Salimos favorecidos»\""
+  },
+  {
+    "titulo": "Shelton y Zverev se jugaban la corona del US Open mientras el realizador decidió hacer magia con James Bond",
+    "medio": "HuffPost",
+    "fecha": 1789335062.0,
+    "link": "https://www.huffingtonpost.es/virales/shelton-zverev-jugaban-corona-us-open-realizador-decidio-magia-james-bond-f202609.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Atlético vence pero no convence ante una sólida Real Sociedad",
+    "medio": "El País",
+    "fecha": 1789334872.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-13/el-atletico-vence-pero-no-convence-ante-una-solida-real-sociedad.html",
+    "resumen": "Una mano de Ochieng en el área da la vuelta a un encuentro bastante igualado en Anoeta"
+  },
+  {
+    "titulo": "La espontaneidad mágica de Alison dos Santos tiñe de felicidad el final del Ultimate",
+    "medio": "El País",
+    "fecha": 1789333978.0,
+    "link": "https://elpais.com/deportes/2026-09-13/la-espontaneidad-magica-de-alison-dos-santos-tine-de-felicidad-el-final-del-ultimate.html",
+    "resumen": "El atleta brasileño baja de nuevo de los 46s en los 400m vallas en una jornada de velocidad atómica en los 200m de Bednarek y Jefferson"
+  },
+  {
     "titulo": "Jornada 5 de la Liga: resumen de todos los partidos",
     "medio": "OK Diario",
     "fecha": 1789333531.0,
@@ -14,20 +287,6 @@
     "resumen": "El Atlético de Madrid ha rascado tres puntos de oro ante la Real Sociedad en Anoeta. Victoria 0-3 el cierre de la jornada 5 de la Liga. Los de Simeone tuvieron muchos problemas para generar situaciones de peligro, aunque lograron hacer daño a la contra. Finalmente, un dudoso penalti por mano de Ochieng se convirtió en … Continuar leyendo \"El Atlético se salva con polémica de un marrón\""
   },
   {
-    "titulo": "Zverev - Shelton, la final del US Open en directo | Zverev gana también el segundo set en el ‘tie-break’",
-    "medio": "El País",
-    "fecha": 1789333484.0,
-    "link": "https://elpais.com/deportes/tenis/2026-09-13/zverev-shelton-en-directo-la-final-del-us-open-en-vivo.html",
-    "resumen": "El alemán busca su segundo Grand Slam frente al estadounidense, que quiere su primer ‘major’"
-  },
-  {
-    "titulo": "Los socialdemócratas ganan en Suecia, pero las proyecciones apuntan a un escenario de igualdad máxima entre bloques",
-    "medio": "El País",
-    "fecha": 1789333390.0,
-    "link": "https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html",
-    "resumen": "La televisión pública pronostica que los partidos de centroizquierda sumarán 175 escaños, frente a los 174 de la derecha"
-  },
-  {
     "titulo": "Tres heridos y 50 desalojados por el incendio de Málaga, que augura una noche «activa»",
     "medio": "The Objective",
     "fecha": 1789332624.0,
@@ -40,13 +299,6 @@
     "fecha": 1789332004.0,
     "link": "https://okdiario.com/espana/narcolancha-embiste-patrullera-guardia-civil-almeria-deja-cinco-detenidos-dos-heridos-20281784",
     "resumen": "Cinco personas han sido detenidas y varias han resultado heridas después de que una narcolancha chocara contra una patrullera de la Guardia Civil. El suceso se ha producido en la costa de Adra, Almería. La operación se ha saldado con cinco detenidos. Debido al choque, hay al menos dos heridos, que han tenido que ser … Continuar leyendo \"Una narcolancha embiste a una patrullera de la Guardia Civil en Almería y deja cinco detenidos y dos heridos\""
-  },
-  {
-    "titulo": "El bloque de izquierdas, cerca de la victoria en Suecia",
-    "medio": "El Mundo",
-    "fecha": 1789331216.0,
-    "link": "https://www.elmundo.es/internacional/2026/09/13/6aa6e34efdddfffa4d8b4581.html",
-    "resumen": "Los partidos de la oposición obtendrían, en conjunto, el 51,3% de los votos, frente al 46,8% del bloque de derecha, actualmente en el poder Leer"
   },
   {
     "titulo": "El ministro de Cultura israelí pide retirar la nacionalidad a autores de un documental sobre muertes en Gaza",
@@ -70,13 +322,6 @@
     "resumen": "El ministro para la Transformación Digital y de la Función Pública, Óscar López, ha defendido este domingo que España «está gobernando» a la Inteligencia Artificial con […]"
   },
   {
-    "titulo": "Cinco detenidos y varios heridos al embestir una narcolancha a una patrullera en Almería",
-    "medio": "El Mundo",
-    "fecha": 1789330068.0,
-    "link": "https://www.elmundo.es/andalucia/2026/09/13/6aa7009ae85ececa248b458c.html",
-    "resumen": "Al menos dos heridos han tenido que ser evacuados al Hospital Universitario de Poniente, ubicado en el municipio almeriense de El Ejido Leer"
-  },
-  {
     "titulo": "Cinco vestidos de Zara, Mango y Massimo Dutti para llevar del día a la noche: elegantes, favorecedores y fáciles de combinar",
     "medio": "Trendencias",
     "fecha": 1789329660.0,
@@ -91,60 +336,11 @@
     "resumen": "\"Como ministro de Cultura, actuaré de inmediato para revocar la ciudadanía israelí de estos creadores viles por traición al país\", dijo Zohar en un mensaje en X sobre los realizadores del filme, Yuval Abraham y Rachel Szor, que muestran en su documental la estrategia militar de Israel para destruir Gaza o el uso de la inteligencia artificial para decidir objetivosEl contundente discurso del director israelí Yuval Abraham en Venecia: “EEUU está financiando gran parte de la matanza en Gaza” El ministro israelí de Cultura, Miki Zohar, dijo este domingo que trabajará para intentará revocar la nacionalidad a los directores del documental 'Naza', que recibió ayer el Premio Especial del Jurado del Festival de Venecia por mostrar la supuesta estrategia de Israel para destruir la Franja de Gaza. “Como ministro de Cultura, actuaré de inmediato para revocar la ciudadanía israelí de estos creadores viles por traición al país”, dijo Zohar en un mensaje en X sobre los realizadores del filme, Yuval Abraham y Rachel Szor. Zohar acusó a los cineastas de tener un “ardiente odio autodestructivo” y de estar “dispuestos a dañar a su patria para recibir aplausos de los antisemitas del mundo”, lo que, según él, “constituye una traición al país”. Por su parte, el ministro de Seguridad Nacional, el ultraderechista Itamar Ben Gvir, dijo también en X que Abraham y Szor “son una vergüenza y una deshonra para todo el pueblo de Israel”. “Desaparezcan. Estoy seguro de que sus amigos, nuestros enemigos de Hamás en Gaza, los recibirán con los brazos abiertos”, les dijo Ben Gvir a los cineastas La cinta, de 80 minutos, pone sobre la mesa la supuesta estrategia que hay detrás de la matanza masiva y calculada de civiles palestinos en Gaza por parte de Israel. Su estreno en Venecia, el jueves, recibió un aplauso apabullante por parte del público. Abraham y Szor formaron parte del equipo de la oscarizada 'No Other Land' (2024). Su nuevo proyecto entró con aplausos en la carrera por el León de Oro después de que el certamen lo aceptara 'in extremis' una semana antes de su inicio. El 'Naza' del título es el término con el que los mandos y los servicios de inteligencia israelíes denominan a las 'víctimas colaterales' de los bombardeos que han arrasado Gaza tras los ataques del 7 de octubre de 2023 contra Israel cometidos por Hamás y otros grupos islamistas palestinos, en los que murieron 1.200 personas y otras 250 fueron secuestradas y llevadas a la franja. La cifra de víctimas en dicho enclave se eleva a su vez a más de 73.000, según las autoridades locales, controladas por Hamás. El Ejército israelí (FDI) contradijo el viernes al documental, al asegurar en un comunicado que sus decisiones para bombardear Gaza siempre las toma personal humano y no la inteligencia artificial (IA), como detalla el filme a partir de testimonios de oficiales de inteligencia y soldados de Israel."
   },
   {
-    "titulo": "La emoción de Enric Mas tras ganar la Vuelta a España: «Ha sido un camino muy bonito»",
-    "medio": "OK Diario",
-    "fecha": 1789329299.0,
-    "link": "https://okdiario.com/deportes/emocion-enric-mas-ganar-vuelta-espana-sido-camino-muy-bonito-20281488",
-    "resumen": "«Emocionado y feliz». Así se encontraba Enric Mas tras bajarse del podio en Granada. No era para menos. El ciclista balear había ganado su primera Vuelta a España. Tres semanas en las que se ha mostrado como el más fuerte del pelotón, superando todas las expectativas y culminando, por fin, su gran sueño. «Ha sido … Continuar leyendo \"La emoción de Enric Mas tras ganar la Vuelta a España: «Ha sido un camino muy bonito»\""
-  },
-  {
-    "titulo": "Así sonó el himno de España en Granada para celebrar el triunfo de Enric Mas en la Vuelta 2026",
-    "medio": "OK Diario",
-    "fecha": 1789328679.0,
-    "link": "https://okdiario.com/deportes/asi-sono-himno-espana-granada-celebrar-triunfo-enric-mas-vuelta-2026-20281341",
-    "resumen": "España vuelve a vibrar con su Vuelta gracias a Enric Mas. Han pasado 12 años desde que sonara por última vez el himno español al término de la carrera. Los mismos que hace que ganó Alberto Contador. Más de una década después, el himno nacional vuelve a sonar para conmemorar a una de las competiciones … Continuar leyendo \"Así sonó el himno de España en Granada para celebrar el triunfo de Enric Mas en la Vuelta 2026\""
-  },
-  {
-    "titulo": "Los hutíes toman el sur de Yemen y amenazan el paso por Bab el-Mandeb",
-    "medio": "Expansión",
-    "fecha": 1789328675.0,
-    "link": "https://www.expansion.com/empresas/banca/2026/09/13/6aa6fb08e5fdea9d648b4584.html",
-    "resumen": "En los últimos días, los rebeldes hutíes de Yemen han tomado el puerto de Moca y la isla de Perim, bloqueando la salida de petróleo saudí hacia los mercados asiáticos. Leer"
-  },
-  {
     "titulo": "Elevada a fase de emergencia 1 el incendio de Málaga y provoca confinamiento preventivo",
     "medio": "The Objective",
     "fecha": 1789328255.0,
     "link": "https://theobjective.com/sociedad/suceso/2026-09-13/elevada-fase-emergencia-1-incendio-malaga-provoca-confinamiento-preventivo/",
     "resumen": "El consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, Antonio Sanz, en su condición de director del Plan de Emergencias por Incendios Forestales de […]"
-  },
-  {
-    "titulo": "El zasca del entrenador del Levante al Barça por quejarse del césped: «La próxima vez taparemos el sol»",
-    "medio": "OK Diario",
-    "fecha": 1789327644.0,
-    "link": "https://okdiario.com/deportes/zasca-del-entrenador-del-levante-quejas-del-barcelona-cesped-proxima-vez-intentaremos-tapar-sol-20281818",
-    "resumen": "El Barcelona criticó el estado del césped del Ciutat de València. A pesar de que los de Hansi Flick ganaron el partido, los culés se mostraron muy enfadados por las condiciones en las que jugaron en el estadio granota. Un discurso que cabreó al entrenador del Levante, Luís Castro, quien lanzó un tremendo zasca en … Continuar leyendo \"El zasca del entrenador del Levante al Barça por quejarse del césped: «La próxima vez taparemos el sol»\""
-  },
-  {
-    "titulo": "Tres heridos y 50 desalojados en el incendio de Benahavís, que avanza hacia Pujerra",
-    "medio": "El Mundo",
-    "fecha": 1789327309.0,
-    "link": "https://www.elmundo.es/andalucia/2026/09/13/6aa6a8d4fdddff3e2f8b4589.html",
-    "resumen": "Tres personas han resultado heridas en el incendio, entre ellas una que ha sufrido quemaduras y un bombero forestal que ha resultado afectado con traumatismos tras sufrir una caída. Leer"
-  },
-  {
-    "titulo": "La coalición de izquierdas liderada por Andersson recuperaría el poder en Suecia según los sondeos a pie de urna",
-    "medio": "OK Diario",
-    "fecha": 1789327126.0,
-    "link": "https://okdiario.com/internacional/coalicion-izquierdas-liderada-andersson-recuperaria-poder-suecia-segun-sondeos-pie-urna-20281853",
-    "resumen": "Los partidos de la oposición liderados por el Partido Socialdemócrata de Suecia (S) han logrado un 51,3% de votos en las elecciones celebradas este domingo en Suecia, ligeramente por delante del 46,8% que suman los partidos conservadores y de centro que gobiernan y contando también con Demócratas de Suecia (SD), que apoya la actual coalición … Continuar leyendo \"La coalición de izquierdas liderada por Andersson recuperaría el poder en Suecia según los sondeos a pie de urna\""
-  },
-  {
-    "titulo": "La Séptica no aséptica",
-    "medio": "OK Diario",
-    "fecha": 1789327107.0,
-    "link": "https://okdiario.com/opinion/septica-no-aseptica-20281768",
-    "resumen": "En La Séptica ya huelen a bulo. No han empezado aún y ya están buleando. Bulear significa crear mentiras con conocimiento. El bulócrata es ese funcionario de la mentira acostumbrado a trolear verdades con la impunidad que le da ser cargo público o palmero mediático (es decir, carga pública). En La Séptica, la nueva fosa … Continuar leyendo \"La Séptica no aséptica\""
   },
   {
     "titulo": "Movilizados 13 efectivos de bomberos para proteger casas en el incendio de Málaga",
@@ -168,18 +364,11 @@
     "resumen": "La víctima sufría una herida en el costado y ha sido operado de urgencia por el equipo médico desplazado al lugar en la plaza de toros"
   },
   {
-    "titulo": "Al menos 6 muertos y 129 desaparecidos tras volcar un barco de pasajeros indonesio",
-    "medio": "El País",
-    "fecha": 1789326233.0,
-    "link": "https://elpais.com/internacional/2026-09-13/al-menos-6-muertos-y-129-desaparecidos-tras-volcar-un-barco-de-pasajeros-indonesio.html",
-    "resumen": "Las autoridades han logrado rescatar a 108 personas de la embarcación siniestrada en el mar de Java"
-  },
-  {
-    "titulo": "Europa recupera la corona de la Solheim Cup de golf al ganar por 15-13 a EE UU",
-    "medio": "El País",
-    "fecha": 1789326224.0,
-    "link": "https://elpais.com/deportes/2026-09-13/europa-recupera-la-corona-de-la-solheim-cup-de-golf-al-ganar-por-15-13-a-ee-uu.html",
-    "resumen": "Las europeas, entre las que forman parte las españolas Carlota Ciganda y Julia López, marcaron el ritmo desde el inicio y tuvieron siempre el casillero de cara"
+    "titulo": "Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener",
+    "medio": "Xataka",
+    "fecha": 1789326060.0,
+    "link": "https://www.xataka.com/seguridad/cuando-estudiante-prometio-1-000-dolares-haciendose-pasar-bill-gates-su-broma-acabo-siendo-imposible-detener",
+    "resumen": "Mucho antes de que hablásemos de publicaciones virales, tendencias o algoritmos, Internet ya había encontrado una forma bastante eficaz de conseguir que una misma historia circulase de una persona a otra: pedirnos que pulsáramos \"Reenviar\". El correo podía llegar de un amigo, un compañero de trabajo o un familiar, y ese simple vínculo podía prestarle una credibilidad que el mensaje quizá no merecía. En aquella Internet de finales de los 90, además, muchos usuarios todavía no tenían por qué saber qué podía hacer técnicamente un correo electrónico. Esa combinación resultó extraordinariamente fértil para los bulos. El 18 de noviembre de 1997, Bryan Mack estaba en un laboratorio informático de Iowa State University cuando el estudiante sentado a su lado recibió uno de aquellos correos que prometían dinero fácil. Según contó años después a Wired, Mack respondió que podía inventar algo mejor y tardó apenas tres minutos en hacerlo. Escribió un mensaje haciéndose pasar por Bill Gates y presentó un supuesto programa capaz de rastrear cada reenvío: si la cadena alcanzaba a 1.000 personas, decía, todos sus integrantes recibirían 1.000 dólares pagados por el propio Gates. Una broma que dejó de pertenecerleMack envió aquel correo a un amigo de Loras College, en Dubuque, con el asunto \"bill gates here\". Su amigo se rio y decidió reenviarlo. Bastaron unos días para que el mensaje llegara a desconocidos que empezaron a escribir a Mack preguntándole por el dinero prometido. El salto definitivo llegó después de Acción de Gracias: al regresar a la universidad encontró su cuenta bloqueada y, según relató, aproximadamente un gigabyte de correo acumulado, con \"miles y miles\" de mensajes. Para entonces, aquella broma entre amigos ya circulaba sin necesitarle. Dos semanas más tarde, a Mack le llegó una versión de su propia broma que ya casi no le pertenecía. Su nombre había desaparecido, el remitente figuraba como gatesbeta@microsoft.com y la recompensa incluía, además de los 1.000 dólares, una copia gratuita de Windows 98. Poco después recibió otra falsamente firmada por \"Walt Disney Jr.\" que prometía 5.000 dólares y unas vacaciones. Aquello no terminó ahí: años más tarde aparecieron decenas de versiones distintas que habían incorporado marcas como IBM, Nokia, Honda, British Airways, Disney, Coca-Cola o Gap. Para 1999, una nueva cadena aseguraba que Honda recompensaría con 200 dólares de crédito por cada amigo al que se reenviara el mensaje, gracias a un supuesto programa capaz de seguir su recorrido por Internet. La compañía negó haber lanzado semejante promoción y publicó un desmentido, pero no consiguió evitar que algunos destinatarios llamaran para cobrar. En realidad, ni siquiera el desmentido del propio Gates había conseguido frenarlo. En marzo de 1998 ya había calificado aquel correo de \"hooey\", una patraña, pero el mensaje continuó pasando de una bandeja de entrada a otra. Cuando se les preguntó años después a varias personas por qué lo habían reenviado, las respuestas resultaron reveladoras: algunos confiaban en quien se lo había enviado, otros pensaban que no tenían nada que perder y hubo quien encontró plausible que Microsoft pudiera rastrear los correos. Esa falta de familiaridad técnica es precisamente uno de los ingredientes que Microsoft identifica al recordar los grandes bulos por email de aquella época. En Xataka OpenAI dio acceso a Internet a miles de agentes. Ellos acabaron montándose su propio Slack en una vieja wiki alemana La parte más interesante es que nadie diseñó todo lo que vino después. Las firmas automáticas daban autoridad a algunas copias, distintos mensajes acababan mezclados y algunas variantes conseguían propagarse mucho más que otras. Mack había puesto en circulación unas pocas líneas, pero Internet terminó convirtiéndolas en algo que podía cambiar sin dejar de reconocerse. Años antes de las redes sociales, ya habíamos encontrado una forma de fabricar virales: bastaba con que cada receptor decidiera enviárselo a alguien más. Imágenes | Xataka con Nano Banana En Xataka | Cada cuánto debemos cambiar TODAS nuestras contraseñas según tres expertos en ciberseguridad - La noticia Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener fue publicada originalmente en Xataka por Javier Marquez ."
   },
   {
     "titulo": "Séneca, filósofo estoico: \"Ajeno es todo lo que nos viene en deseo\"",
@@ -189,32 +378,11 @@
     "resumen": "El otro día, sentada en el sofá y consumida por un scroll infinito en el que no paraban de salirme anuncios, me pregunté cuándo había sido la última vez que había comprado algo por verdadera necesidad. ¿Necesitaba ese sérum de PDRN o solo me dejé llevar por las decenas de vídeos de TikTok que decían que funcionaba? Y esas deportivas, ¿las necesitaba o solo las quería? Cada vez que abro el móvil nace una necesidad que cinco minutos antes no tenía. Y me di cuenta de que esa carencia no nace de mí, sino de los estímulos que me rodean. “Todas las cosas, Lucilio, en realidad nos son ajenas, sólo el tiempo es bien nuestro”, escribía el filósofo Séneca en sus ‘Cartas a Lucilio’ . Cualquier cosa material puede desaparecer de nuestra vida en cualquier momento, y lo curioso es que ni siquiera el deseo de tener todas esas cosas es nuestro. El mecanismo de la insatisfacción constante\"Ajeno es todo lo que nos viene en deseo\", escribía hace veinte siglos. Esta frase resume el diagnóstico que el estoicismo hace sobre el consumismo cuando aún no existía la palabra consumismo ni el capitalismo se había convertido en la maquinaria que mueve toda nuestra sociedad como afirma el también filósofo Byung Chul-Han. Lo que deseamos porque se lo hemos visto a otra persona, porque está de moda o porque no para de aparecer delante de nuestros ojos y según Séneca, ni siquiera nos pertenece de verdad cuando lo compramos. Sigue siendo un deseo prestado que no se sacia porque su origen no se agota nunca. A pesar de eso, \"no es pobre el que tiene poco, sino el que desea más\", afirmaba Séneca. Para el estoicismo el problema no es cuánto tenemos sino cuánto seguimos queriendo tener. A nivel psicológico, de lo que habla el filósofo es la cinta de correr hedónica. Este mecanismo explica que nos adaptamos tan rápido a cualquier cosa que conseguimos o compramos (un ascenso, un móvil nuevo, una casa más grande…) que, en cuestión de días, volvemos al mismo nivel de satisfacción de antes. Después de hacerlo, la mente ya está buscando el siguiente objeto de deseo como si fuéramos vampiros insaciables con sed de sangre. Baruch Spinoza en el siglo XVII, escribió en su libro ‘Tratado de la reforma del entendimiento’, que \"cuanto ocurre frecuentemente en la vida ordinaria es vano y fútil\", refiriéndose a la riqueza, el honor y el placer como los objetivos que persigue la mayoría. Todos ellos están fuera de nosotros y esos deseos dependen de causas externas, lo que llamaba \"esclavitud afectiva\". Es la misma idea de Séneca que explicaba que si el deseo no nace de ti, es imposible que controles cuándo se calma. La mala noticia es que el problema del que habla Séneca no está en nosotros. O al menos no es enteramente nuestro. El sociólogo Zygmunt Bauman decía que “en la sociedad actual todas las ideas de felicidad siempre acaban en una tienda” y llega incluso a describir que en la sociedad actual el mercado no espera a que surja el deseo. Lo fabrica de manera activa y constante. Si Séneca hablaba de desear lo que otros tienen, en la \"modernidad líquida\" que describe Bauman lo ajeno llega a ser el propio valor como persona. En ‘Vida de consumo’ explica que en la sociedad de consumidores \"nadie puede convertirse en un sujeto sin antes convertirse en producto\". Para sentirnos válidas ya no basta con desear objetos. Tenemos que presentarnos como algo deseable, actualizado y \"vendible\", según un criterio que tampoco es propio, sino del mercado. El deseo ajeno del que hablaba Séneca se extiende así hasta el propio yo. Séneca no proponía renunciar a todo, solo preguntarnos cada día qué deseos nos han pasado por la cabeza y de dónde venían. Si nacen de una carencia propia tiene sentido atenderlos, como una necesidad. Si nacen de un escaparate, de la vida de otro, o de algo que hemos visto en una pantalla, son simplemente ajenos y es mejor no darles lugar. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. Fotos | The Art Institute of Chicago, Hc Digital en Unsplash, Liza Summer en Pexels En Trendencias | Zygmunt Bauman, filósofo: “Una vida con sentido no garantiza la felicidad, pero hace soportable la infelicidad” En DAP | Los posos del café son un residuo muy problemático, pero hay una solución para que no acaben en el vertedero: convertirlos en hormigón En Xataka | En 1997 liberaron 1.541 alces en unas viejas minas de carbón a cielo abierto. 30 años después, hay una manada de 13.000 - La noticia Séneca, filósofo estoico: \"Ajeno es todo lo que nos viene en deseo\" fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
-    "titulo": "Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener",
-    "medio": "Xataka",
-    "fecha": 1789326060.0,
-    "link": "https://www.xataka.com/seguridad/cuando-estudiante-prometio-1-000-dolares-haciendose-pasar-bill-gates-su-broma-acabo-siendo-imposible-detener",
-    "resumen": "Mucho antes de que hablásemos de publicaciones virales, tendencias o algoritmos, Internet ya había encontrado una forma bastante eficaz de conseguir que una misma historia circulase de una persona a otra: pedirnos que pulsáramos \"Reenviar\". El correo podía llegar de un amigo, un compañero de trabajo o un familiar, y ese simple vínculo podía prestarle una credibilidad que el mensaje quizá no merecía. En aquella Internet de finales de los 90, además, muchos usuarios todavía no tenían por qué saber qué podía hacer técnicamente un correo electrónico. Esa combinación resultó extraordinariamente fértil para los bulos. El 18 de noviembre de 1997, Bryan Mack estaba en un laboratorio informático de Iowa State University cuando el estudiante sentado a su lado recibió uno de aquellos correos que prometían dinero fácil. Según contó años después a Wired, Mack respondió que podía inventar algo mejor y tardó apenas tres minutos en hacerlo. Escribió un mensaje haciéndose pasar por Bill Gates y presentó un supuesto programa capaz de rastrear cada reenvío: si la cadena alcanzaba a 1.000 personas, decía, todos sus integrantes recibirían 1.000 dólares pagados por el propio Gates. Una broma que dejó de pertenecerleMack envió aquel correo a un amigo de Loras College, en Dubuque, con el asunto \"bill gates here\". Su amigo se rio y decidió reenviarlo. Bastaron unos días para que el mensaje llegara a desconocidos que empezaron a escribir a Mack preguntándole por el dinero prometido. El salto definitivo llegó después de Acción de Gracias: al regresar a la universidad encontró su cuenta bloqueada y, según relató, aproximadamente un gigabyte de correo acumulado, con \"miles y miles\" de mensajes. Para entonces, aquella broma entre amigos ya circulaba sin necesitarle. Dos semanas más tarde, a Mack le llegó una versión de su propia broma que ya casi no le pertenecía. Su nombre había desaparecido, el remitente figuraba como gatesbeta@microsoft.com y la recompensa incluía, además de los 1.000 dólares, una copia gratuita de Windows 98. Poco después recibió otra falsamente firmada por \"Walt Disney Jr.\" que prometía 5.000 dólares y unas vacaciones. Aquello no terminó ahí: años más tarde aparecieron decenas de versiones distintas que habían incorporado marcas como IBM, Nokia, Honda, British Airways, Disney, Coca-Cola o Gap. Para 1999, una nueva cadena aseguraba que Honda recompensaría con 200 dólares de crédito por cada amigo al que se reenviara el mensaje, gracias a un supuesto programa capaz de seguir su recorrido por Internet. La compañía negó haber lanzado semejante promoción y publicó un desmentido, pero no consiguió evitar que algunos destinatarios llamaran para cobrar. En realidad, ni siquiera el desmentido del propio Gates había conseguido frenarlo. En marzo de 1998 ya había calificado aquel correo de \"hooey\", una patraña, pero el mensaje continuó pasando de una bandeja de entrada a otra. Cuando se les preguntó años después a varias personas por qué lo habían reenviado, las respuestas resultaron reveladoras: algunos confiaban en quien se lo había enviado, otros pensaban que no tenían nada que perder y hubo quien encontró plausible que Microsoft pudiera rastrear los correos. Esa falta de familiaridad técnica es precisamente uno de los ingredientes que Microsoft identifica al recordar los grandes bulos por email de aquella época. En Xataka OpenAI dio acceso a Internet a miles de agentes. Ellos acabaron montándose su propio Slack en una vieja wiki alemana La parte más interesante es que nadie diseñó todo lo que vino después. Las firmas automáticas daban autoridad a algunas copias, distintos mensajes acababan mezclados y algunas variantes conseguían propagarse mucho más que otras. Mack había puesto en circulación unas pocas líneas, pero Internet terminó convirtiéndolas en algo que podía cambiar sin dejar de reconocerse. Años antes de las redes sociales, ya habíamos encontrado una forma de fabricar virales: bastaba con que cada receptor decidiera enviárselo a alguien más. Imágenes | Xataka con Nano Banana En Xataka | Cada cuánto debemos cambiar TODAS nuestras contraseñas según tres expertos en ciberseguridad - La noticia Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener fue publicada originalmente en Xataka por Javier Marquez ."
-  },
-  {
     "titulo": "La oposición de izquierda se impone en las elecciones de Suecia, según encuestas a pie de urna",
     "medio": "HuffPost",
     "fecha": 1789325843.0,
     "link": "https://www.huffingtonpost.es/global/la-oposicion-izquierda-impone-elecciones-suecia-encuestas-pie-urna-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Ausente el fatigado Ingebrigtsen, Kerr se adueña del mediofondo",
-    "medio": "La Vanguardia",
-    "fecha": 1789325726.0,
-    "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260913/11633840/ausente-fatigado-ingebrigtsen-kerr-regala-monologo-1-500.html",
-    "resumen": "El noruego, agotado tras ganar el viernes el 5.000, se desentiende de la pelea y el astro escocés dicta un monólogo en el 1.500"
-  },
-  {
-    "titulo": "García Munté sube el beneficio un 9% y abre una filial en Dinamarca",
-    "medio": "Expansión",
-    "fecha": 1789325153.0,
-    "link": "https://www.expansion.com/catalunya/2026/09/13/6aa6ed1d468aebe04b8b45a3.html",
-    "resumen": "El grupo catalán de combustibles sólidos, que quiere crecer con biomasa en el mercado nórdico, alcanza una facturación de 725 millones y un resultado atribuido de 22 millones de euros en 2025. Leer"
   },
   {
     "titulo": "Un restaurante cobra 650 euros por cena y te guarda el móvil en una taquilla: solo entran 18 personas en una cueva en pleno bosque",
@@ -245,13 +413,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Investigan el posible asesinato machista de una mujer en Madrid",
-    "medio": "HuffPost",
-    "fecha": 1789324566.0,
-    "link": "https://www.huffingtonpost.es/sociedad/investigan-posible-asesinato-machista-mujer-madridbr-f202609.html",
-    "resumen": ""
-  },
-  {
     "titulo": "Una flor adelantada a su tiempo: hallan en China un fósil de 295 millones de años que sitúa a los frutos antes que los dinosaurios",
     "medio": "Xataka",
     "fecha": 1789324260.0,
@@ -273,60 +434,11 @@
     "resumen": "El ciclista Tobias Johannessen, del equipo Uno-X Mobility, se adjudicó este domingo la vigesimoprimera y última etapa de la edición 2026 de La Vuelta, disputada entre […]"
   },
   {
-    "titulo": "La oposición de centroizquierda gana las elecciones en Suecia, según los sondeos",
-    "medio": "La Vanguardia",
-    "fecha": 1789323751.0,
-    "link": "https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html",
-    "resumen": "La exprimera ministra socialdemócrata, Magdalena Andersson, ha logrado batir al bloque del actual gobernante conservador, Ulf Kristersson"
-  },
-  {
-    "titulo": "¿Cuánto dinero ha ganado Enric Mas por conquistar La Vuelta a España 2026?",
-    "medio": "La Vanguardia",
-    "fecha": 1789323588.0,
-    "link": "https://www.lavanguardia.com/clic/20260913/11633748/dinero-ganado-enric-conquistar-vuelta-espana-2026-lol.html",
-    "resumen": "Enric Mas se ha proclamado campeón de La Vuelta 2026 y solo por la general, sus días vestido de rojo y su victoria en el Alto de Aitana acumula 168.000 euros en premios"
-  },
-  {
-    "titulo": "Los sondeos dan la victoria a la oposición socialdemócrata en Suecia",
-    "medio": "eldiario.es",
-    "fecha": 1789323330.0,
-    "link": "https://www.eldiario.es/internacional/sondeos-pie-urna-dan-victoria-socialdemocracia-suecia_1_13506863.html",
-    "resumen": "Los partidos de centroizquierda salen reforzados de unos comicios con una gran participación, lo que podría facilitar la vuelta del Partido Socialdemócrata al gobierno del país nórdico. La extrema derecha quedaría en tercera posición por debajo de los ModeradosAnálisis - Cómo Suecia perdió su esencia… y dejó de ser Suecia Al cierre de los colegios electorales, las encuestas a pie de urna sitúan al Partido Socialdemócrata (S) como ganador de las elecciones generales en Suecia, con el 28,4% de los votos. Según la encuesta de la cadena pública SVT en segunda posición quedarían los Moderados (conservadores), del primer ministro, Ulf Kristersson, con el 18,1% de los votos, mientras que la formación ultraderechista Demócratas de Suecia (SD), con el 17,2%, quedaría en tercera posición. Si se confirma el resultado de esta encuesta, los partidos del bloque progresista sumarían una mayoría de escaños suficiente para formar Gobierno con el 51,3% de los votos, en unas elecciones marcadas por el estado de los servicios públicos, la inmigración, la economía y, sobre todo, por la posibilidad de que la ultraderecha entrara por primera vez en el Ejecutivo. Los socialdemócratas de Magdalena Andersson han planteado las elecciones como una defensa frente a la posible entrada de la ultraderecha en el Gobierno del país nórdico, con el lema de campaña “Vota por alguien que no tenga ideas extremistas”. Tras cuatro años de Gobierno de una coalición conservadora en Suecia, los partidos del bloque de izquierda-verde han liderado las encuestas durante buena parte de la legislatura, llegando a disfrutar de una ventaja de 12,6 puntos porcentuales la pasada primavera. Sin embargo, en las últimas semanas, los sondeos han apuntado a un retroceso de la formación de Andersson, hasta reducir a apenas dos o tres puntos la ventaja del bloque progresista, lo que ha dado alas a los conservadores y alimentado sus expectativas de reeditar el Gobierno. El cordón sanitario que los partidos en Suecia habían mantenido en anteriores elecciones frente al auge de la ultraderecha se ha roto por completo y hoy la formación Demócratas de Suecia ya es aceptada por todas las formaciones del bloque conservador para formar un gobierno en caso de que obtenga la mayoría en las elecciones. Hace cuatro años, SD consiguió por primera vez más votos que los conservadores tradicionales (Moderados), situándose como segunda fuerza en el Parlamento. En estas elecciones, el líder ultra Jimmie Åkesson expresó que el objetivo era obtener un número de cargos ministeriales “proporcional” a sus resultados en las votaciones. SD, considerado como un partido populista, nacionalista y xenófobo, ya ha tenido un peso muy importante en la política sueca en los últimos cuatro años, ya que su apoyo ha sostenido el Gobierno de Kristersson, formado por Moderados, Demócrata Cristianos y Liberales. La huella de SD se ha hecho especialmente visible en el endurecimiento de las políticas migratorias y de seguridad, dos de los principales frentes del giro conservador que ha experimentado Suecia en los últimos años."
-  },
-  {
     "titulo": "Las ceutíes claman contra Sánchez y el abandono de Marlaska: \"Queremos volver a casa subjetivamente solas\"",
     "medio": "El Español",
     "fecha": 1789323196.0,
     "link": "https://www.elespanol.com/espana/20260913/ceuties-claman-sanchez-abandono-marlaska-queremos-volver-casa-subjetivamente-solas/1003744382155_0.html",
     "resumen": "Las mujeres reivindican poder salir \"sin miedo a las calles\" y aseguran que lo que están pasando \"es horrible\".Más información: Alarma en Ceuta por la violencia en los campamentos de migrantes: \"Los que se han quedado son lo peor de lo peor\""
-  },
-  {
-    "titulo": "Enric Mas se corona y acaba con la sequía española más larga en la Vuelta",
-    "medio": "El Mundo",
-    "fecha": 1789323145.0,
-    "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/09/13/6aa6bddffdddffa2098b459e.html",
-    "resumen": "El malloquín cierra el círculo con su maestro, Alberto Contador, que se anotó la ronda 12 años atrás, en 2014. El escalador del Movistar, tras el abandono de Pogacar, dominó con enorme autoridad. ''Ha sido la carrera de mi vida'', dice. Johannessen gana en la clausura de Granada Leer"
-  },
-  {
-    "titulo": "Meghan Markle sorprende con imágenes de su vida familiar tras su regreso al Reino Unido",
-    "medio": "La Vanguardia",
-    "fecha": 1789323008.0,
-    "link": "https://www.lavanguardia.com/gente/20260913/11633823/meghan-markle-sorprende-nuevas-imagenes-vida-familiar-principe-enrique-regreso-reino-unido.html",
-    "resumen": "La duquesa de Sussex ha compartido un vídeo en Instagram en el que aparecen Enrique, Archie y Lilibet disfrutando de distintos momentos al aire libre"
-  },
-  {
-    "titulo": "Enric Mas, todo un sol sin sombras, recupera la Vuelta para España",
-    "medio": "La Vanguardia",
-    "fecha": 1789323001.0,
-    "link": "https://www.lavanguardia.com/deportes/20260913/11633825/enric-sol-sombras-recupera-vuelta-espana.html",
-    "resumen": "El escalador mallorquín, de 31 años, se confirma como el sucesor de Alberto Contador al estar a la altura tras el accidente de Pogacar"
-  },
-  {
-    "titulo": "Herido muy grave por arma blanca en Carabanchel",
-    "medio": "La Vanguardia",
-    "fecha": 1789322920.0,
-    "link": "https://www.lavanguardia.com/local/madrid/20260913/11633824/madrid-herido-grave-arma-blanca-carabanchel.html",
-    "resumen": "La víctima ha sido ingresada en el Hospital 12 de octubre tras ser apuñalada en el cuello"
   },
   {
     "titulo": "Un muerto en un ataque contra un buque iraní en el estrecho de Ormuz",
@@ -336,18 +448,18 @@
     "resumen": "Una persona ha muerto y varias más han resultado heridas como consecuencia del impacto de un proyectil contra un buque iraní que atravesaba el estrecho de […]"
   },
   {
-    "titulo": "Hoy en HBO Max: la película con Julianne Moore y Natalie Portman que se inspira en un escándalo de los 90",
-    "medio": "Trendencias",
-    "fecha": 1789322460.0,
-    "link": "https://www.trendencias.com/cine/hoy-hbo-max-pelicula-julianne-moore-natalie-portman-que-se-inspira-escandalo-90",
-    "resumen": "Dirigida por Todd Haynes y con un guion escrito por Samy Burch, esta película habla del caso de Mary Kay Letourneau y Vili Fualaau. Se convirtió en uno de los más mediáticos de los años 70, pero la película no es una adaptación literal de la historia, sino más bien un relato sobre cómo el cine, los medios y la sociedad convierten esa historia en un espectáculo. Te hablo de ‘Secretos de un escándalo’ con Julianne Moore y Natalie Portman, ambas ganadoras de un Oscar por ‘Siempre Alice’ y ‘Cisne negro’ respectivamente, que puedes ver en HBO Max y en Prime Video. Aunque fue estrenada en 2023, su historia es mucho más antigua. La historia real de Mary Kay Letourneau y Vili Fualaau Mary Kay Letourneau era una profesora estadounidense de 34 años, casada y con hijos. Y se hizo famosa a finales de los 90 por mantener una relación sexual con uno de sus alumnos, Vili Fualauu, que tenía 12 años en ese momento. La relación salió a la luz cuando Letourneau se quedó embarazada y en 1997 se declaró culpable de violación de un menor. Fue condenada a prisión pero menos de un año después de salir de la cárcel, en agosto de 2004, Letourneau y Fualaau se casaron. Era mayo de 2005. Lo que esconde ‘Secretos de un escándalo’ La película cambia los nombres, las edades y varios elementos de la historia. Los protagonistas no son una representación biográfica exacta de la pareja, pero su relación sí es el punto de partida para preguntarse qué ocurre cuando una relación de abuso se transforma en otra cosa. Empieza por ser una noticia, vira hasta ser una historia de amor, y termina convertida en una película con identidad pública. La película cuenta la historia de Gracie y Joe. La pareja tiene una diferencia de edad de 23 años y nos lleva 20 años después de que la relación de Gracie Atherton-Yoo con un menor provocara un escándalo nacional. Ahora vive aparentemente tranquila con su marido Joe y sus hijos. Pero esa aparente estabilidad familiar empieza a resquebrajarse cuando Elizabeth Berry, una actriz que va a interpretar a Gracie en una película, se instala temporalmente con ellos para estudiar su forma de hablar, sus gestos y su historia. Elizabeth observa a Gracie, a Joe y a sus hijos, pero también empieza a imitar a la mujer que pretende representar. Esta película fascinante, compleja y abierta a múltiples interpretaciones llegó a ser nominada al Oscar a Mejor guion original que finalmente se llevó ‘Anatomía de una caída’. En ella Todd Haynes combina el drama psicológico, con el humor negro y algo de melodrama, y el duelo interpretativo entre Moore y Portman es espectacular, aunque tengo que decir que la interpretación de Charles Melton me pareció sublime y toda una revelación. No se centra en descubrir qué ocurrió sino en observar quién controla el relato y lo que cada uno de ellos puede hacer con él. Gracie defiende la versión romántica de su relación. Elizabeth intenta desmontarla y reconstruirla para el cine. Joe parece atrapado entre ambas. Una película que según nuestros compañeros de Espinof es “una pequeña joya de la sátira”. Para nosotras es un planazo de fin de semana. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En Trendencias | Las 32 mejores series de HBO Max que puedes ver ahora mismo En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado En DAP | Recetas saludables, sabrosas y facilonas en el menú semanal del 14 de septiembre - La noticia Hoy en HBO Max: la película con Julianne Moore y Natalie Portman que se inspira en un escándalo de los 90 fue publicada originalmente en Trendencias por Anabel Palomares ."
-  },
-  {
     "titulo": "Caminar o subir escaleras a partir de los 60: la ciencia tiene claro qué ejercicio exige más a tus piernas",
     "medio": "Xataka",
     "fecha": 1789322460.0,
     "link": "https://www.xataka.com/medicina-y-salud/caminar-subir-escaleras-a-partir-60-ciencia-tiene-claro-que-ejercicio-exige-a-tus-piernas",
     "resumen": "La actividad física diaria es fundamental para mantener un buen tono muscular y disfrutar de todos sus beneficios a largo plazo con el objetivo de contar con unos cuantos años más de vida en óptimas condiciones. Pero dentro de las actividades diarias puede haber preguntas sobre qué ejercicio es el más adecuado, destacando sobre todo el caminar o el subir las escaleras. El duelo biomecánico. La explicación biomecánica de que las escaleras exigen más fuerza por paso es completamente razonable, puesto que al subir un escalón, nos vemos obligados a elevar nuestro centro de masas contra la gravedad, lo que impone una demanda significativamente mayor a los músculos extensores de la rodilla y la cadera. Y lo estudios de intervención respaldan esta exigencia extra, como por ejemplo un ensayo piloto realizado con 45 personas mayores de 65 años con movilidad limitada, donde se demostró que 12 semanas subiendo y bajando escaleras con un chaleco lastrado produjeron una mejora del 17% en la potencia máxima de la prensa de piernas frente a un programa centrado únicamente en caminar. En Xataka No has dormido lo suficiente y tienes un examen mañana. La ciencia dice que hay un truco: 30 minutos de ejercicio Y hay más. La evidencia más reciente es aún más precisa, puesto que un ensayo aleatorizado de 2025 con 46 adultos mayores comparó el entrenamiento de escaleras con el de fuerza en máquinas. Ambos mejoraron la potencia de las piernas y la capacidad funcional, y aunque las escaleras no demostraron poder sustituir por completo a las máquinas de gimnasio, sí dejaron claro que son un estímulo útil, específico y altamente funcional para el día a día. Un buen paseo. Presentar el acto de caminar como un ejercicio irrelevante para ganar fuerza es un error, puesto que un ensayo aleatorizado de 17 semanas en adultos mayores no entrenados reveló que un programa progresivo de caminata aumentó el grosor de los músculos del muslo y la fuerza isométrica de la rodilla. De hecho, en este estudio, añadir escaleras no produjo una ventaja adicional estadísticamente significativa frente a la caminata progresiva. El problema de las escaleras. Cuando se llega a cierta edad, hay cierto miedo por subir y sobre todo por bajar las escaleras. Y la afirmación de que bajar las escaleras molesta más es clínicamente plausible, puesto que el cuádriceps debe trabajar para frenar al cuerpo, lo que resulta exigente para rodillas débiles o con artrosis, como explica también el Dr. Alberto Sanagustín, como recoge 20 minutos. Pero esto no quiere decir que las escaleras causen artrosis, puesto que la evidencia observacional no demuestra causalidad. Y aunque un estudio de 2024 halló una asociación modesta entre subir más de 150 escalones diarios y un mayor riesgo posterior de artrosis, existen múltiples factores que influyen. Es por ello que lo mejor no es dejar las escaleras, sino adaptar el ejercicio usando menos altura o apoyarse si hay dolor. En Xataka Caminar no cuenta como \"hacer ejercicio\": para que los 10.000 pasos diarios sean efectivos hay que aplicar la regla x3 La recomendación de la OMS. Lo que se apunta en las guías oficiales es la necesidad de hacer entre 150 y 300 minutos semanales de actividad aeróbica moderada, y dos días a la semana hay que fortalecer los grandes grupos musculares, como los de las piernas. Además, en las personas más mayores se necesita también tener en mente los ejercicios de equilibrio para poder evitar posibles caídas que a ciertas edades son fatales. Imágenes | Atlantic Ambience En Xataka | Hacer ejercicio a partir de los 60 es casi una obligación, pero si queremos alargar la vida lo mejor es optar por la raqueta - La noticia Caminar o subir escaleras a partir de los 60: la ciencia tiene claro qué ejercicio exige más a tus piernas fue publicada originalmente en Xataka por José A. Lizana ."
+  },
+  {
+    "titulo": "Hoy en HBO Max: la película con Julianne Moore y Natalie Portman que se inspira en un escándalo de los 90",
+    "medio": "Trendencias",
+    "fecha": 1789322460.0,
+    "link": "https://www.trendencias.com/cine/hoy-hbo-max-pelicula-julianne-moore-natalie-portman-que-se-inspira-escandalo-90",
+    "resumen": "Dirigida por Todd Haynes y con un guion escrito por Samy Burch, esta película habla del caso de Mary Kay Letourneau y Vili Fualaau. Se convirtió en uno de los más mediáticos de los años 70, pero la película no es una adaptación literal de la historia, sino más bien un relato sobre cómo el cine, los medios y la sociedad convierten esa historia en un espectáculo. Te hablo de ‘Secretos de un escándalo’ con Julianne Moore y Natalie Portman, ambas ganadoras de un Oscar por ‘Siempre Alice’ y ‘Cisne negro’ respectivamente, que puedes ver en HBO Max y en Prime Video. Aunque fue estrenada en 2023, su historia es mucho más antigua. La historia real de Mary Kay Letourneau y Vili Fualaau Mary Kay Letourneau era una profesora estadounidense de 34 años, casada y con hijos. Y se hizo famosa a finales de los 90 por mantener una relación sexual con uno de sus alumnos, Vili Fualauu, que tenía 12 años en ese momento. La relación salió a la luz cuando Letourneau se quedó embarazada y en 1997 se declaró culpable de violación de un menor. Fue condenada a prisión pero menos de un año después de salir de la cárcel, en agosto de 2004, Letourneau y Fualaau se casaron. Era mayo de 2005. Lo que esconde ‘Secretos de un escándalo’ La película cambia los nombres, las edades y varios elementos de la historia. Los protagonistas no son una representación biográfica exacta de la pareja, pero su relación sí es el punto de partida para preguntarse qué ocurre cuando una relación de abuso se transforma en otra cosa. Empieza por ser una noticia, vira hasta ser una historia de amor, y termina convertida en una película con identidad pública. La película cuenta la historia de Gracie y Joe. La pareja tiene una diferencia de edad de 23 años y nos lleva 20 años después de que la relación de Gracie Atherton-Yoo con un menor provocara un escándalo nacional. Ahora vive aparentemente tranquila con su marido Joe y sus hijos. Pero esa aparente estabilidad familiar empieza a resquebrajarse cuando Elizabeth Berry, una actriz que va a interpretar a Gracie en una película, se instala temporalmente con ellos para estudiar su forma de hablar, sus gestos y su historia. Elizabeth observa a Gracie, a Joe y a sus hijos, pero también empieza a imitar a la mujer que pretende representar. Esta película fascinante, compleja y abierta a múltiples interpretaciones llegó a ser nominada al Oscar a Mejor guion original que finalmente se llevó ‘Anatomía de una caída’. En ella Todd Haynes combina el drama psicológico, con el humor negro y algo de melodrama, y el duelo interpretativo entre Moore y Portman es espectacular, aunque tengo que decir que la interpretación de Charles Melton me pareció sublime y toda una revelación. No se centra en descubrir qué ocurrió sino en observar quién controla el relato y lo que cada uno de ellos puede hacer con él. Gracie defiende la versión romántica de su relación. Elizabeth intenta desmontarla y reconstruirla para el cine. Joe parece atrapado entre ambas. Una película que según nuestros compañeros de Espinof es “una pequeña joya de la sátira”. Para nosotras es un planazo de fin de semana. Nota: algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Trendencias. En Trendencias | Las 32 mejores series de HBO Max que puedes ver ahora mismo En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado En DAP | Recetas saludables, sabrosas y facilonas en el menú semanal del 14 de septiembre - La noticia Hoy en HBO Max: la película con Julianne Moore y Natalie Portman que se inspira en un escándalo de los 90 fue publicada originalmente en Trendencias por Anabel Palomares ."
   },
   {
     "titulo": "Dónde es festivo el 15 de septiembre y qué se celebra",
@@ -364,39 +476,11 @@
     "resumen": "Netflix suele ser criticada por la baja calidad de sus películas. Pero durante este año, la plataforma ha puesto interés y esfuerzo en que su catálogo sea mucho más atractivo. Claro está, la discusión sobre la calidad de las producciones originales de Netflix es uno de los debates más complejos del mundo del entretenimiento. Porque, […] Seguir leyendo: 5 películas y series con 100% en Rotten Tomatoes que puedes ver ahora mismo en Netflix"
   },
   {
-    "titulo": "Enric Mas se proclama ganador de la Vuelta 2026; última etapa, para Johannessen",
-    "medio": "HuffPost",
-    "fecha": 1789321686.0,
-    "link": "https://www.huffingtonpost.es/deporte/enric-proclama-vencedor-vuelta-2026-ultima-etapa-johannessenbr-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Carney impulsa la idea de convertir a Canadá en “miembro asociado” de la UE",
-    "medio": "La Vanguardia",
-    "fecha": 1789321264.0,
-    "link": "https://www.lavanguardia.com/internacional/20260913/11633816/carney-impulsa-idea-convertir-canada-miembro-asociado-ue.html",
-    "resumen": "La Unión Europea estaría abierta a la idea de conceder al país un estatuto especial, según el 'Wall Street Journal'"
-  },
-  {
-    "titulo": "Turquía lanza redadas contra organizaciones defensoras de la comunidad LGBTI",
-    "medio": "The Objective",
-    "fecha": 1789321175.0,
-    "link": "https://theobjective.com/internacional/2026-09-13/turquia-redadas-nizaciones-defensoras-lgbti/",
-    "resumen": "Las fuerzas de seguridad de Turquía han lanzado en las últimas horas una serie de redadas contra organizaciones en defensa de los derechos de la comunidad […]"
-  },
-  {
     "titulo": "Enric Mas conquista La Vuelta en Granada y devuelve al ciclismo español a lo más alto tras ganar el pulso a Roglic",
     "medio": "El Español",
     "fecha": 1789321174.0,
     "link": "https://www.elespanol.com/deportes/ciclismo/lavuelta/20260913/enric-conquista-vuelta-granada-devuelve-ciclismo-espanol-alto-ganar-pulso-roglic/1003744382132_0.html",
     "resumen": "Johannessen se llevó la última etapa de la ronda española en un maravilloso esprint ante Alessandro Romele."
-  },
-  {
-    "titulo": "Trump: EEUU saldrá de Irán \"a no ser que decida quedarse por el petróleo, como en Venezuela\"",
-    "medio": "Expansión",
-    "fecha": 1789320908.0,
-    "link": "https://www.expansion.com/economia/2026/09/13/6aa6dda0e5fdea204f8b457a.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, afirmó este domingo que habló con el mandatario ucraniano, Volodímir Zelenski, para pedirle que deje de atacar refinerías de Rusia porque está provocando \"una escasez de diésel\". Leer"
   },
   {
     "titulo": "Bajo Tenerife hay un mundo que lleva 27.000 años aislado: dentro de esta cueva viven 190 especies",
@@ -413,25 +497,11 @@
     "resumen": "“Estamos a la cabeza de China en inteligencia artificial. Somos el país más avanzado del mundo y, francamente, quiero que siga siendo así, porque quien gane en IA, gana”, afirma el presiente estadounidenseOpenAI aplaza su salida a bolsa ante el miedo al descontrol de la IA y se suma al plan de frenar desarrollos Las alarmantes advertencias de Anthropic sobre las consecuencias para la humanidad del rápido desarrollo de la inteligencia artificial (IA) han suscitado una rara muestra de unidad entre los desarrolladores rivales. Los otros tres gigantes del sector (OpenAI, SpaceX y Google) no han tardado ni un día en respaldar el llamamiento del fundador y director ejecutivo de Anthropic, Dario Amodei, para retrasar el desarrollo de la IA, petición que se produjo tras una serie de advertencias de investigadores de IA la semana pasada. Pero el presidente Donald Trump resta importancia a la creciente alarma sobre los riesgos de la inteligencia artificial. “Estamos a la cabeza de China en inteligencia artificial. Somos el país más avanzado del mundo y, francamente, quiero que siga siendo así, porque quien gane en IA, gana”, declaró Trump el domingo a los periodistas en el Irish Open de golf. “Podemos establecer límites. Podemos hacer esto y aquello. Pero creo que hay muchas fuerzas negativas que están sacando el tema a colación cuando no deberían hacerlo”. Amodei advirtió este sábado, en un extenso ensayo publicado en su página web: “Dada la aceleración en el desarrollo de capacidades de IA, me preocupa que, en un plazo de 6 a 12 meses, un enjambre de este tipo pueda llegar a tomar el control de todo Internet mediante una red de bots persistente (causando potencialmente daños por valor de cientos de miles de millones de dólares) y que la magnitud del daño siga aumentando si la IA se vuelve más potente sin contar con las salvaguardas necesarias”. Al cabo de una hora, el dueño de SpaceXAI, Elon Musk, sorprendió al citar el ensayo de su rival en X y afirmar: “Dario tiene razón”. Musk se había abstenido deliberadamente de sumarse a los anteriores llamamientos de todo el sector a favor de cualquier tipo de ralentización. El CEO de OpenAI, Sam Altman, se sumó al cabo de poco: “Estoy de acuerdo con Dario en que debemos avanzar con cautela en esta frontera”, tuiteó. Y, en una entrevista publicada en Fortune, daba un paso más allá, al anunciar que la tecnológica creadora de ChatGPT aplaza su salida a bolsa —una de las operaciones más esperadas del año junto a la de Anthropic—, ante los riesgos de seguridad que presentan los modelos avanzados de IA. “Sería un momento poco aconsejable para salir al mercado bursátil”. Afirmó que OpenAI tiene mucho trabajo por delante en materia de seguridad y que sería mejor hacerlo como empresa privada. Faltaba Google, que se añadió por la tarde, según relata Axios. Demis Hassabis —ganador del Premio Nobel, cofundador y presidente de Google DeepMind, y científico jefe de Alphabet— tuiteaba: “El ensayo de Dario señala el camino correcto a seguir. Hay que pulir los detalles, pero la dirección es la adecuada para afrontar este momento crítico”. “La industria mintió” Amodei ha dado un pasó más allá este domingo y, en una entrevista en el programa Sunday Morning de CBS, afirmó que “la industria mintió” sobre el peligro de la inteligencia artificial IA por lo que el Gobierno y los ciudadanos deben intervenir. No les voy a mentir: existen peligros reales. Y creo que durante demasiado tiempo la industria le mintió a la gente sobre el hecho de que esta tecnología tenía riesgo. Nosotros nunca lo hicimos (en Anthropic), pero mucha de la industria lo hizo Dario Amodei — CEO de Anthropic “No les voy a mentir: existen peligros reales. Y creo que durante demasiado tiempo la industria le mintió a la gente sobre el hecho de que esta tecnología tenía riesgo. Nosotros nunca lo hicimos (en Anthropic), pero mucha de la industria lo hizo”, declaró Amodei. Sin embargo, el líder de Anthropic no ha dicho nada —por ahora— sobre si cancela o sigue adelante con sus preparativos para debutar en el mercado bursátil estadounidense, en lo que se prevé que sea la mayor oferta pública inicial de la historia, superior a la reciente protagonizada por SpaceX. Según los planes, se espera que este otoño comience la comercialización de su OPV, que superará los 2 billones de dólares. Surgen dudas sobre hasta qué punto los líderes de la IA se tomarán en serio la tarea de moderar el ritmo de desarrollo de sus modelos más avanzados —y más lucrativos—. Quizás hay demasiado dinero en juego como para dejar de avanzar. Según Axios, anunciar públicamente que se da prioridad a la seguridad frente al crecimiento tecnológico o financiero podría ser la única vía que tiene el sector para evitar una intervención por parte de las autoridades de Estados Unidos que no se ajuste a sus condiciones. El director del Consejo Económico Nacional, Kevin Hassett, declaró este domingo que la propuesta de Amodei para añadir salvaguardias a la IA podría servir de modelo para el sector privado, incluso permitiendo el acceso de observadores independientes a los modelos. Los legisladores están suplicando al presidente de la Cámara de Representantes, el republicano Mike Johnson, que mantenga la sesión abierta y haga algo al respecto de la “amenaza” de la IA, después de conocerse casos de agentes de IA que actuaron por su cuenta atacando a sistemas externos. Este domingo, el líder de los demócratas en la Cámara de Representantes, Hakeem Jeffries, pidió al Congreso “actuar con urgencia”. La alternativa más extrema es algo parecido a la iniciativa del senador demócrata Bernie Sanders de forzar una pausa y declarar ilegal la IA más avanzada. Pero Johnson, como Trump, tampoco quiere darse prisa. “Si quieren desacelerar eso, me parece bien. Pero, al mismo tiempo, también tenemos que resistirnos a que el Congreso intervenga e imponga una especie de moratoria de emergencia. Tiene que hacerse de manera correcta, segura y sensata”, expresó Johnson en una entrevista con CNN. La amenaza china El presidente de la cámara pidió una reunión con los gigantes del sector, que podría celebrarse a principios de esta semana (lunes o martes). Pero por ahora descartó una legislación que pause el desarrollo de la IA al argumentar que es un asunto de seguridad nacional en el que Estados Unidos debe mantener el liderazgo ante China. Tienen [los líderes tecnológicos] que reunirse con nosotros, sentarse y determinar cuál es el equilibrio adecuado. No podemos imponer una moratoria a esto porque China nos va a sobrepasar. Y ese es el reto Mike Johnson — Presidente de la Cámara de Representantes “Tienen [los líderes tecnológicos] que reunirse con nosotros, sentarse y determinar cuál es el equilibrio adecuado. No podemos imponer una moratoria a esto porque China nos va a sobrepasar. Y ese es el reto. Es el equilibrio entre la seguridad nacional y la seguridad inmediata de garantizar que los modelos sean seguros”, remarcó. Varias voces influyentes del sector tecnológico de Silicon Valley, entre ellas el exfuncionario de Trump David Sacks, dedicaron el fin de semana a destacar el contraargumento de que reducir el ritmo solo permite que los adversarios —que no tienen esos escrúpulos en materia de seguridad— nos alcancen. En una publicación de la madrugada del sábado, Sacks retó de hecho a OpenAI y Anthropic a marcar voluntariamente el ritmo en la frontera de la IA sin esperar al Gobierno. “Si no lo hacéis, sabremos que esto no ha sido más que otro intento de captura regulatoria —o una operación psicológica en plena campaña electoral”. Trump y el presidente chino Xi Jinping se reunirán a finales de este mes, y la seguridad de la IA será uno de los temas principales de la agenda. Mientras tanto, el principal comité internacional de expertos en IA, reunido por la ONU, ha alertado de que la posibilidad de que la IA se salga de control es real y de “consecuencias catastróficas”."
   },
   {
-    "titulo": "Trump arremete contra quienes exigen más regulación en la IA y dice que \"están planteando cosas que no van a suceder\"",
-    "medio": "HuffPost",
-    "fecha": 1789320096.0,
-    "link": "https://www.huffingtonpost.es/global/trump-arremete-quienes-exigen-mas-regulacion-ia-dice-estan-planteando-cosas-suceder-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Adeyemi, rayo y trueno",
-    "medio": "La Vanguardia",
-    "fecha": 1789319858.0,
-    "link": "https://www.lavanguardia.com/deportes/20260913/11633812/adeyemi-rayo-trueno.html",
-    "resumen": "El extremo alemán sentenció el partido con un gol de crack en el que superó a tres defensas con una conducción supersónica y habilidosa y un remate sutil"
-  },
-  {
-    "titulo": "Boris Johnson y Carl Bildt viajaban en el tren anterior al atacado por un dron ruso",
-    "medio": "The Objective",
-    "fecha": 1789319261.0,
-    "link": "https://theobjective.com/internacional/2026-09-13/boris-johnson-carl-bildt-viajaban-tren-anterior-atacado-dron-ruso/",
-    "resumen": "Los ex primeros ministros de Reino Unido Boris Johnson y de Suecia Carl Bildt viajaban junto a otros diplomáticos europeos en el tren inmediatamente anterior al […]"
+    "titulo": "Estuve en IFA y me quedé impresionada con los robots humanoides chinos. Hasta que vi lo que había detrás",
+    "medio": "Xataka",
+    "fecha": 1789318860.0,
+    "link": "https://www.xataka.com/robotica-e-ia/estuve-ifa-me-quede-impresionada-robots-humanoides-chinos-que-vi-que-habia-detras",
+    "resumen": "He escrito bastante sobre robots humanoides y he visto muchos vídeos de ellos en acción; desde robots preparándose para coronar el Everest, pasando por el robot que superó el récord de Usain Bolt, hasta los robots bailarines del año nuevo chino. Sin embargo, aún no los había visto en directo y mi primera impresión ha sido de sorpresa y, a la vez, cierta decepción. La semana pasada estuve en la IFA, la mayor feria de tecnología del viejo continente donde se suelen presentar sobre todo novedades para el hogar. Por circunstancias que no vienen al caso, hacía unos cuantos años que no pisaba Messe Berlín y me sorprendió encontrarme infinidad de stands de empresas de robótica. Todas las grandes empresas chinas de robótica tenían su stand: Unitree, Galbot, Agibot, UBTech... y por supuesto todas estaban dando show. Round one, fightEl stand de Unitree era uno de los más concurridos del pabellón 25. La razón es que cada hora aproximadamente había un show de robots. Cuando pasé por allí había un Unitree G1 bailando y poco después empezó un combate de boxeo. Había visto vídeos de ese mismo robot haciendo cosas mucho más impresionantes, pero una cosa es verlo en la pantalla y otra en directo. Es brutal la agilidad y naturalidad con las que se mueven, muy similares a las de un humano, pero sobre todo me llamó la atención la estabilidad que tenían. Ninguno de los dos llegó a caerse al suelo a pesar de recibir golpes o dar patadas voladoras; aunque se tropezaran, siempre conseguían estabilizarse y seguir peleando. Eso sí, fallaban bastantes golpes, todo hay que decirlo. Paseando por el pabellón 25 también me encontré otros robots como el Booster K1 jugando al fútbol, el Galbot G1 regentando una tienda de bebidas y el perro robot con rueda de Agibot subiendo escaleras como si nada. Todo muy espectacular, pero mi entusiasmo se vino un poco abajo cuando vi lo que había detrás. En Xataka Se están vendiendo más robots humanoides que nunca y todas las empresas beneficiándose de ello son Chinas Humanos con un mando Los controladores Los robots humanoides suelen despertar cierta inquietud en muchas personas, miedo incluso. Las bromas (o no tan bromas) sobre robots que nos atacan o se rebelan contra la humanidad para esclavizarnos ya forman parte de la conversación. La realidad es que, al menos de momento, no es ni remotamente parecida a ese escenario. Absolutamente todos los robots que pude ver en IFA estaban siendo controlados por personas que llevaban un mando en las manos. No se escondían, estaban ahí plantados al lado de los robots que manejaban, pulsando botones como si estuvieran llevando a un personaje de un videojuego. No dejan de ser una marioneta por radiocontrol; muy compleja, pero una marioneta al fin y al cabo. Si lo piensas, que una máquina sea capaz de dar esos saltos y patadas voladoras al más puro estilo luchador de Kung-fu es algo espectacular, pero por el momento son incapaces de hacerlo por sí mismos. Al final, no dejan de ser una marioneta por radiocontrol; muy compleja, pero una marioneta al fin y al cabo. Todos los robots que vemos en esos eventos haciendo coreografías espectaculares o los que están en fábricas haciendo tareas repetitivas están siendo controlados o siguiendo unos movimientos que les han sido preprogramados. Y va más allá de las empresas chinas. Hace unos meses vimos como la empresa 1X nos vendía la idea del robot mayordomo que hace todo en casa, pero cuando puso a la venta su robot Neo supimos que no es 100% autónomo, sino que lo controla una persona con gafas de realidad virtual y mandos. Lo que se viene Que los robots necesiten ser controlados hoy, no significa que vaya a ser así siempre. Sabemos lo rápido que avanza el entrenamiento de modelos de inteligencia artificial y con la robótica está pasando lo mismo. Unitree anunció esta misma semana que ya tiene el primer humanoide impulsado por un modelo del mundo en tiempo real. Se llama UnifoLM-X2-1.0 y es capaz de planificar y tomar decisiones de forma totalmente autónoma. Como no podía ser de otra forma, en el vídeo de presentación lo pusieron a pelear contra un humano. Este robot no responde a las órdenes que le dan, sino que estudia los movimientos del oponente para decidir cómo atacar o cómo protegerse. En una entrevista, el CEO de 1X, Bernt Bornich, dijo que para él la teleoperación no es un parche temporal, sino una parte fundamental del entrenamiento de los robots. La idea es que aprendan a partir de nuestros movimientos para ir ganando autonomía hasta lograr lo que denomina la \"AGI física\". Si el ritmo de estos anuncios se mantiene, no sería raro que la próxima vez que pise la feria IFA los robots ya no vengan acompañados de una persona con un mando a un lado. Puede que sigan fallando golpes o tropezándose, pero al menos estarán decidiendo ellos mismos cómo hacerlo. A lo mejor ahí empiezo a preocuparme. Imágenes | Xataka En Xataka | Unitree está haciendo con los robots lo mismo que DJI hizo con los drones: convertirse en algo inevitable - La noticia Estuve en IFA y me quedé impresionada con los robots humanoides chinos. Hasta que vi lo que había detrás fue publicada originalmente en Xataka por Amparo Babiloni ."
   },
   {
     "titulo": "Las nuevas Converse en color 'blue moon' que aman las pijas de Madrid, porque tienen 'estilo pañuelo' de tendencia",
@@ -441,32 +511,11 @@
     "resumen": "Converse sabe leer a su público y las pijas madrileñas son su mayor audiencia. Ahora que ellas están obsesionadas con las bandanas y las llevan en el pelo, en el cuello y hasta decorando sus bolsos, la firma deportiva les ha dado una alternativa: llevarlas como estampado de las zapatillas de tendencia más bonitas y cool del otoño 2026. Converse ha lanzado unas deportivas en ese azul 'blue moon' tan delicado y luminoso, ese que se va a encargar de dar luz y ligereza a los estilismos plomizos y sobrios de oficina en otoño. Pero no se han contentado con este color precioso. También han dado con el estampado boho-chic que asegura el éxito. Este tesoro se puede sumar a nuestro zapatero por 110 euros y dejarnos looks icónicos que escapan de los total looks, los uniformes y los estilismos monocolor que quieren quitarnos las combinaciones vitamina en días de frío. Además, su suela de plataforma nos ayudará a sumar centímetros sin caer en la dictadura de los tacones. Aunque parezca un color veraniego, lo cierto es que su tonalidad fresca ayuda a que los looks en tonos neutros de días de frío respiren. Queda precioso con verdes pardos y combina con burdeos de una forma exquisita, dando luz y alegría al otoño 2026. Fotos | @alenavbas, Converse, @linda.sza. En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado. En Espinof | Meses después de su paso discreto por cines, se estrena en streaming uno de los mejores thrillers del año. - La noticia Las nuevas Converse en color 'blue moon' que aman las pijas de Madrid, porque tienen 'estilo pañuelo' de tendencia fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
-    "titulo": "Estuve en IFA y me quedé impresionada con los robots humanoides chinos. Hasta que vi lo que había detrás",
-    "medio": "Xataka",
-    "fecha": 1789318860.0,
-    "link": "https://www.xataka.com/robotica-e-ia/estuve-ifa-me-quede-impresionada-robots-humanoides-chinos-que-vi-que-habia-detras",
-    "resumen": "He escrito bastante sobre robots humanoides y he visto muchos vídeos de ellos en acción; desde robots preparándose para coronar el Everest, pasando por el robot que superó el récord de Usain Bolt, hasta los robots bailarines del año nuevo chino. Sin embargo, aún no los había visto en directo y mi primera impresión ha sido de sorpresa y, a la vez, cierta decepción. La semana pasada estuve en la IFA, la mayor feria de tecnología del viejo continente donde se suelen presentar sobre todo novedades para el hogar. Por circunstancias que no vienen al caso, hacía unos cuantos años que no pisaba Messe Berlín y me sorprendió encontrarme infinidad de stands de empresas de robótica. Todas las grandes empresas chinas de robótica tenían su stand: Unitree, Galbot, Agibot, UBTech... y por supuesto todas estaban dando show. Round one, fightEl stand de Unitree era uno de los más concurridos del pabellón 25. La razón es que cada hora aproximadamente había un show de robots. Cuando pasé por allí había un Unitree G1 bailando y poco después empezó un combate de boxeo. Había visto vídeos de ese mismo robot haciendo cosas mucho más impresionantes, pero una cosa es verlo en la pantalla y otra en directo. Es brutal la agilidad y naturalidad con las que se mueven, muy similares a las de un humano, pero sobre todo me llamó la atención la estabilidad que tenían. Ninguno de los dos llegó a caerse al suelo a pesar de recibir golpes o dar patadas voladoras; aunque se tropezaran, siempre conseguían estabilizarse y seguir peleando. Eso sí, fallaban bastantes golpes, todo hay que decirlo. Paseando por el pabellón 25 también me encontré otros robots como el Booster K1 jugando al fútbol, el Galbot G1 regentando una tienda de bebidas y el perro robot con rueda de Agibot subiendo escaleras como si nada. Todo muy espectacular, pero mi entusiasmo se vino un poco abajo cuando vi lo que había detrás. En Xataka Se están vendiendo más robots humanoides que nunca y todas las empresas beneficiándose de ello son Chinas Humanos con un mando Los controladores Los robots humanoides suelen despertar cierta inquietud en muchas personas, miedo incluso. Las bromas (o no tan bromas) sobre robots que nos atacan o se rebelan contra la humanidad para esclavizarnos ya forman parte de la conversación. La realidad es que, al menos de momento, no es ni remotamente parecida a ese escenario. Absolutamente todos los robots que pude ver en IFA estaban siendo controlados por personas que llevaban un mando en las manos. No se escondían, estaban ahí plantados al lado de los robots que manejaban, pulsando botones como si estuvieran llevando a un personaje de un videojuego. No dejan de ser una marioneta por radiocontrol; muy compleja, pero una marioneta al fin y al cabo. Si lo piensas, que una máquina sea capaz de dar esos saltos y patadas voladoras al más puro estilo luchador de Kung-fu es algo espectacular, pero por el momento son incapaces de hacerlo por sí mismos. Al final, no dejan de ser una marioneta por radiocontrol; muy compleja, pero una marioneta al fin y al cabo. Todos los robots que vemos en esos eventos haciendo coreografías espectaculares o los que están en fábricas haciendo tareas repetitivas están siendo controlados o siguiendo unos movimientos que les han sido preprogramados. Y va más allá de las empresas chinas. Hace unos meses vimos como la empresa 1X nos vendía la idea del robot mayordomo que hace todo en casa, pero cuando puso a la venta su robot Neo supimos que no es 100% autónomo, sino que lo controla una persona con gafas de realidad virtual y mandos. Lo que se viene Que los robots necesiten ser controlados hoy, no significa que vaya a ser así siempre. Sabemos lo rápido que avanza el entrenamiento de modelos de inteligencia artificial y con la robótica está pasando lo mismo. Unitree anunció esta misma semana que ya tiene el primer humanoide impulsado por un modelo del mundo en tiempo real. Se llama UnifoLM-X2-1.0 y es capaz de planificar y tomar decisiones de forma totalmente autónoma. Como no podía ser de otra forma, en el vídeo de presentación lo pusieron a pelear contra un humano. Este robot no responde a las órdenes que le dan, sino que estudia los movimientos del oponente para decidir cómo atacar o cómo protegerse. En una entrevista, el CEO de 1X, Bernt Bornich, dijo que para él la teleoperación no es un parche temporal, sino una parte fundamental del entrenamiento de los robots. La idea es que aprendan a partir de nuestros movimientos para ir ganando autonomía hasta lograr lo que denomina la \"AGI física\". Si el ritmo de estos anuncios se mantiene, no sería raro que la próxima vez que pise la feria IFA los robots ya no vengan acompañados de una persona con un mando a un lado. Puede que sigan fallando golpes o tropezándose, pero al menos estarán decidiendo ellos mismos cómo hacerlo. A lo mejor ahí empiezo a preocuparme. Imágenes | Xataka En Xataka | Unitree está haciendo con los robots lo mismo que DJI hizo con los drones: convertirse en algo inevitable - La noticia Estuve en IFA y me quedé impresionada con los robots humanoides chinos. Hasta que vi lo que había detrás fue publicada originalmente en Xataka por Amparo Babiloni ."
-  },
-  {
     "titulo": "Windows 11 tiene un modo secreto que desbloquea el máximo rendimiento de tu PC (y está escondido por una buena razón)",
     "medio": "Hipertextual",
     "fecha": 1789318800.0,
     "link": "https://hipertextual.com/software/windows-11-plan-de-energia-ultimate-performance/",
     "resumen": "Los planes de energía de Windows son una solución muy práctica para regular el rendimiento del PC con solo un clic. Esto no solo sirve en los ordenadores portátiles para optimizar la gestión de la batería, sino que también cumple un rol importante en los equipos de escritorio. Pero lo que muchos no saben es […] Seguir leyendo: Windows 11 tiene un modo secreto que desbloquea el máximo rendimiento de tu PC (y está escondido por una buena razón)"
-  },
-  {
-    "titulo": "El Barça es un líder terrenal",
-    "medio": "El Mundo",
-    "fecha": 1789318042.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/13/6aa6ad19fc6c83100f8b457b.html",
-    "resumen": "El equipo de Flick deja escapar una ventaja de tres goles y sufre ante un Levante descarado que llegó a poner el 2-3 en el marcador. Adeyemi, en el añadido, provocó el alivio. Leer"
-  },
-  {
-    "titulo": "Así vivieron los cientos de aficionados sin entrada la carrera de Fórmula 1: \"Mis hijos son muy fans, pero yo no me lo puedo permitir\"",
-    "medio": "El Mundo",
-    "fecha": 1789317465.0,
-    "link": "https://www.elmundo.es/madrid/2026/09/13/6aa6b4d9fc6c83100f8b4582.html",
-    "resumen": "Escaleras de aluminio, sombrillas contra el sol y gritos al borde de la carretera definen la pasión de los seguidores que no consiguieron entrada Leer"
   },
   {
     "titulo": "El FC Barcelona sigue imparable",
@@ -481,13 +530,6 @@
     "fecha": 1789317060.0,
     "link": "https://www.xataka.com/medicina-y-salud/siempre-hablamos-peso-verdadero-problema-efecto-rebote-podria-estar-musculos",
     "resumen": "Adelgazar es uno de los propósitos más comunes que vemos en nuestra sociedad para mejorar la salud o verse físicamente mucho mejor. Pero a menudo este objetivo se convierte en un ciclo interminable de pérdida y recuperación de kilos, que es lo que se conoce popularmente como 'efecto rebote' o dietas yo-yo. Sin embargo, a medida que cumplimos años, la ciencia nos advierte que este ciclo repetitivo puede afectar a la masa muscular de manera persistente. La fluctuación de peso. Para ver el efecto que de verdad tiene algo que puede parecer tan inocuo como ganar y perder peso, los investigadores comenzaron a analizar las resonancias magnéticas y las analíticas de 1.433 personas de mediana edad. Los resultados apuntaron a que las personas cuyo peso fluctuaba repetidamente, perdiendo y ganando kilos en ciclos constantes, perdieron casi cuatro veces más músculo en los muslos durante un periodo de cuatro años en comparación con las que mantuvieron un peso estable. En concreto, la pérdida fue de aproximadamente el 3,7% del volumen muscular del muslo en quienes experimentaron estas fluctuaciones, frente a un mero 1% en los de peso estable, incluso tras ajustar por edad, sexo, actividad física o dieta. En Xataka Siempre nos han dicho que comer despacio adelgaza, pero la realidad tiene muchos matices Declaraciones. Thomas Link, profesor de Radiología de la UCSF y director de la investigación, lo resume de forma muy gráfica: \"Cuando el peso de las personas fluctuaba, perdían grandes cantidades de músculo junto con la grasa, y no lo recuperaban\". Y es que, al final del estudio, estas personas terminaron con aproximadamente el mismo peso total que cuando comenzaron, pero su composición corporal había empeorado drásticamente. Por qué ocurre. Aquí hay que tener muy presente que cuando nos sometemos a un déficit calórico para perder peso, el cuerpo no solo quema grasa, sino que también degrada el tejido magro. Esto es algo que se estudió en 2011 en 78 mujeres posmenopáusicas tras una intervención de pérdida de peso y durante el año posterior de recuperación ponderal. Los números son demoledores, puesto que por cada kilogramo de grasa que se perdía durante la dieta, se perdían también 0,26 kg de tejido magro. Sin embargo, cuando llegaba el efecto rebote y se recuperaba un kilo de grasa, solo se recuperaban 0,12 kg de músculo. En otras palabras, en cada ciclo de dieta y rebote, se está intercambiando musculatura por tejido adiposo. A largo plazo. El problema, por tanto, no es la pérdida de peso en sí, sino cómo se ejecuta. Una reciente investigación de 2025 estudió a 291 personas con sobrepeso u obesidad y encontró que la reducción del volumen muscular del muslo es un peaje inevitable al bajar de kilos: un 5,1% en quienes mantuvieron su peso estable, frente a un 12,8% en quienes experimentaron pérdidas de peso drásticas. Sin embargo, este mismo estudio revela que la clave para evitar esta sangría en nuestro tejido muscular es hacer ejercicio mientras estamos en una dieta hipocalórica. En concreto, aquellos participantes que combinaron su dieta con entrenamiento físico perdieron considerablemente menos músculo frente a quienes adelgazaban basándose únicamente en restringir sus comidas. Imágenes | Andres Ayrton En Xataka | La dieta 'keto' es muy superior a la dieta mediterránea. El problema es que es una tortura - La noticia Siempre hablamos del peso, pero el verdadero problema del efecto rebote podría estar en los músculos fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Alonso y Sainz, batalla dentro y fuera del circuito: \"Me ha echado contra el muro\"",
-    "medio": "El Mundo",
-    "fecha": 1789316907.0,
-    "link": "https://www.elmundo.es/deportes/formula-1/2026/09/13/6aa6bedee9cf4ac6238b45a2.html",
-    "resumen": "En plena pelea por la posición, el asturiano denunció que el madrileño le dejó sin espacio y terminaron tocándose. \"Se quejó por la radio y logró que me sancionaran\", señaló Sainz. Leer"
   },
   {
     "titulo": "El Barça sigue intratable: victoria ante el Levante al ritmo de Raphinha y sostenido en la dificultad por Adeyemi",
@@ -525,18 +567,18 @@
     "resumen": "Han pasado casi 15 años desde que falleció Steve Jobs y siete desde que el diseñador Jonathan Ive abandonó Apple. Sin embargo, sus legados siguen presentes en las cajas de productos como el iPhone. Sí, esas mismas en las que cada vez encontramos menos elementos tras el adiós del adaptador de corriente en 2020 y el de las pegatinas de Apple en 2024. El caso es que, a falta de ver las cajas de los nuevos iPhone 18 Pro, suelen ser cada vez más pequeñas y con menos accesorios. Absolutamente todo en las cajas de Apple está medido. Desde el diseño hasta la distribución e incluso el olor. Sí, un olor muy característico y del que se han hecho incluso fragancias. Y todo, por supuesto, responde al marketing. La obsesión de Jonathan Ive Jonathan 'Jony' Ive (izda.) y Steve Jobs (dcha.) Es de sobra conocido que cuando Steve Jobs aterrizó de nuevo en Apple en 1997 se fijó en Jonathan Ive. Un joven y tímido miembro del equipo de diseño de origen británico que derrochaba potencial. Tan bien lo vio Jobs que tardó poco en convertirlo en jefe de diseño y su mano derecha. Hasta su retirada de Apple en 2019, Ive fue pieza fundamental en los productos de Apple, cuidando lo que desde la nueva era Jobs y hasta el día de hoy sigue siendo un pilar fundamental en Apple: el diseño. De la mano de Jony Ive nacieron todos los diseños populares que hoy conocemos, como el iPhone, el iPad, el Apple Watch, los AirPods. Incluso el Vision Pro, pese a que este fuese lanzado años después de la marcha del diseñador. También tuvo trabajo en el gigantesco Apple Park inaugurado en 2017 como nueva sede de Apple. En Applesfera \"Te lo juro por Snoopy\": así fue el proceso creativo detrás de la esfera más compleja de la historia del Apple Watch La obsesión de Jony Ive por los detalles llegaba hasta el extremo de diseñar al dedillo las cajas de los dispositivos. Con el iPhone se vivió un punto de inflexión y es que hasta entonces las cajas de los teléfonos móviles eran… eran cajas sin más. Aparecía impresa una foto del dispositivo, la operadora que lo comercializaba, así como un montón de información en texto sobre sus capacidades. El iPhone brilló desde su primera generación cambiando por completo aquellos esquemas de diseño y apostando todo por un embalaje minimalista en el que antes de descubrir el producto ya nos enamora. Su diseño impreso en 3D a tamaño real, un letrero en los laterales con el nombre del producto y ya. Tan apreciada es esta idea de diseño que hasta existen coleccionistas de cajas de iPhone. Los cuatro pilares psicológicos del packaging de un iPhone Imagen: Victor Serban Marketing y psicología van de la mano, puesto que crear una marca o un producto concreto exigen de conocer bien la mente de los consumidores. No se trata de engañarlos, como quizás pueda malinterpretarse de forma habitual. El marketing trata de convencer y para ello las mentiras tienen las patas muy cortas. Por eso, en este caso concreto Apple ha tratado de cuidar hasta el más mínimo detalle para estimular al usuario antes incluso de que tenga el iPhone en la mano. Algunos expertos en la materia han hablado de ello en multitud de ocasiones y todo se acaba resumiendo en cuatro puntos clave: Emoción y anticipación: desde el momento en que un usuario tiene la caja en la mano ya siente esa alta expectación por conocer lo que hay dentro. En cierto modo ya lo sabe y la caja ya se lo intuye, ya que su diseño es una excelente antesala del producto que está a punto de ver.Minimalismo y calidad: el usuario no se siente en ningún momento engañado o agobiado por recibir una cantidad indecente de información antes de abrir la caja. No está ante un completo resumen del dispositivo, ni conoce todas sus aristas todavía. Tiene lo justo y necesario para saber ante qué se encuentra y con el añadido de tener una sensación de estar ante un producto de suma calidad, ya que lo más simple de él, que es su caja, ya se lo muestra con materiales y diseños muy cuidados.Estímulos sensoriales: el usuario se encuentra ante un momento que, aunque haya vivido antes, no deja de embriagar sus sentidos. Desde el olor que transmite la caja al abrirse hasta los sonidos tan característicos al retirar los protectores de la pantalla.Ritualización: sí, con el paso de los años eso de abrir la caja de un iPhone se ha convertido en todo un ritual digno de compartir. Tanto es así que las redes se inundan de los clásicos unboxing con cada generación. Una experiencia que se vive con intensidad incluso aquellos que están simplemente viéndolo a través de una pantalla.Al final, lo que todo esto pretende es que crezca la conexión emocional del usuario con Apple hasta el punto de que abrir la caja del producto se convierta en parte indispensable de la experiencia. No hace falta esperar a encender el dispositivo, navegar por sus menús o hacer las primeras fotos con él. Es quitar las pegatinas que protegen la caja y empezar a disfrutar de una experiencia única. Tal y como querían Steve Jobs y Jony Ive. Tanto es así que años después de sus etapas, Apple sigue esta línea con sus cajas. También otras compañías han imitado esta estrategia y la caja de prácticamente cualquier smartphone genera sensaciones similares. En Applesfera | ¿Cuántos años de actualizaciones le quedan a mi iPhone? Así podemos saberlo En Applesfera | Nuevo iPhone 18 - Todo lo que creemos saber sobre él - La noticia La psicología detrás de la caja de un iPhone. Hasta el olor es marketing ideado por Steve Jobs y Jony Ive fue publicada originalmente en Applesfera por Álvaro García M. ."
   },
   {
-    "titulo": "Las nuevas Nike en color avellana tostada que son las zapatillas perfectas para combinar con tonos tierra en otoño",
-    "medio": "Trendencias",
-    "fecha": 1789315260.0,
-    "link": "https://www.trendencias.com/sneakers/nuevas-nike-color-avellana-tostada-que-zapatillas-perfectas-para-combinar-tonos-tierra-otono",
-    "resumen": "Nos hemos obsesionado con el marrón chocolate y sin darnos cuenta, todo nuestro armario se está tiñendo de este tono. Es cierto que este color es elegante y estiloso, pero también podemos optar por variantes del mismo para no parecer que todas las prendas siguen la misma gama cromática. Ahora es tiempo de colores como el avellana tostada y hemos encontrado unas zapatillas donde es el protagonista, estas nuevas Nike Cortez. Nike Cortez Nike Cortez PVP en Nike — 99,99 € El precio podría variar. Obtenemos comisión por estos enlaces Siguen la estética de sneakers finitas y nos parecen perfectas para conjuntar con vestidos de entretiempo, ya sea de tirantes y corte midi o de manga larga y súper mini. A nosotras nos gusta especialmente cómo quedan las zapatillas en tono avellana tostada con este vestido de cuadros Vicky de Parfois. Vestido Parfois También puedes conjuntar las zapatillas con bermudas. Aquí puedes apostar por unas de lino si tienes un estilo más informal o decantarte por unas tipo traje de pinzas, ideales para ir al trabajo súper estilosa, pero también muy cómoda con tus Nike en color avellana tostada. Estas de Massimo Dutti nos parecen ideales para hacer match con las deportivas. Bermudas Massimo Dutti Otra combinación que nos fascina con las Nike con faldas satinadas. No existe una prenda mejor para esos días en los que nos asalta una crisis de vestuario y no sabemos qué ponernos a pesar de tener muchas opciones. Una como esta de corte midi de Mango con el detalle del encaje y en color perla nos parece un diez de diez. Falda satinada Mango Desde luego, hacerte con estas sneakers es todo un plus porque, aunque cuestan 99,99 euros, son de esas que no te dejas de poner en toda la temporada, sin importar el look que lleves. Se van directas a nuestra lista de deseos. Fotos | @courteecrews, Nike, Parfois, Massimo Dutti, Mango En Trendencias | New Balance le pone el toque retro a tu look de otoño con sus zapatillas blanco crema que no dejarás de llevar con jeans En DAP | Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme” En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado - La noticia Las nuevas Nike en color avellana tostada que son las zapatillas perfectas para combinar con tonos tierra en otoño fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
     "titulo": "Muhammad Ali: \"El hombre que ve el mundo a los 50 igual que a los 20 ha desperdiciado 30 años de su vida\"",
     "medio": "Xataka",
     "fecha": 1789315260.0,
     "link": "https://www.xataka.com/magnet/muhammad-ali-hombre-que-ve-mundo-a-50-igual-que-a-20-ha-desperdiciado-30-anos-su-vida",
     "resumen": "La frase se ha convertido en una de las más citadas de Muhammad Ali, pero su biografía hace que resulte bastante más interesante que un simple aforismo sobre hacerse mayor. Ali cambió radicalmente algunas de sus ideas, se arrepintió de otras y mantuvo convicciones cuando hacerlo podía costarle su carrera. Su vida terminó convirtiendo aquellas palabras en una paradoja: a veces crecer significa cambiar de opinión y otras significa descubrir que era el mundo el que tenía que cambiar. La frase. Muhammad Ali llevaba años dando vueltas a esa idea cuando pronunció su versión definitiva. En noviembre de 1974, durante una rueda de prensa en Londres, explicó que un hombre que contemplara el mundo a los 50 exactamente como lo hacía a los 20 habría desperdiciado tres décadas de su vida. Un año después, con 33 años, la condensó durante una entrevista con Playboy en la frase que acabaría haciéndose célebre: “The man who views the world at 50 the same as he did at 20 has wasted 30 years of his life”. La paradoja está en que solemos considerar la coherencia una virtud, mientras Ali proponía casi lo contrario: si treinta años de experiencias, errores y aprendizaje no modifican nuestra manera de mirar el mundo, quizá esa aparente coherencia sea simplemente una señal de que no hemos aprendido nada. En Xataka Stephen Hawking: \"Cada uno de nosotros vive solo un breve periodo de tiempo, y solo visitamos apenas una minúscula parte del universo\" De joven a icono político. Cuando Cassius Clay ganó el oro olímpico en Roma en 1960 tenía 18 años y sus prioridades eran bastante sencillas: boxear, hacerse famoso y ganar dinero. Incluso cuando un periodista soviético le preguntó por el racismo en Estados Unidos, respondió que, pese a sus problemas, seguía siendo “el mejor país del mundo”, una posición muy alejada de la que adoptaría pocos años después. Su acercamiento a la Nation of Islam, la influencia de Malcolm X y sus propias experiencias con el racismo transformaron progresivamente aquella visión. Tras derrotar a Sonny Liston en 1964 confirmó públicamente su pertenencia al movimiento, rechazó el nombre Cassius Clay y proclamó algo mucho más profundo que un cambio de nombre: “No tengo que ser lo que vosotros queráis que sea. Soy libre para ser quien quiera”. Ali con Mal Goode, Rahaman Ali, Malcolm X y Simeon Adebo en las Naciones Unidas, en la ciudad de Nueva York, en 1964 En constante cambio. La evolución de Ali resulta incómoda precisamente porque no todas sus posiciones juveniles envejecieron bien. Recordaban en Smithsonian que durante su etapa en la Nation of Islam defendió la separación racial, rechazó la integración y llegó a realizar declaraciones extremas sobre las relaciones entre blancos y negros. Martin Luther King criticó públicamente esas posiciones porque veía en ellas otra forma de segregacionismo. Años después Ali abandonó esas ideas y, en 1975, se alejó de la Nation of Islam para abrazar el islam suní. El hombre convertido posteriormente en símbolo mundial de convivencia no había pensado siempre de esa manera, y ocultarlo convertiría su frase sobre los 20 y los 50 en algo mucho menos interesante: parte de su propia maduración consistió precisamente en superar ideas que alguna vez había defendido con absoluta seguridad. El ejemplo más doloroso. Malcolm X había sido amigo y mentor de Ali, pero su ruptura con la Nation of Islam terminó enfrentándolos. Cuando volvieron a encontrarse en Ghana en 1964, Malcolm intentó saludarlo y Ali, entonces absolutamente fiel a Elijah Muhammad, lo rechazó diciéndole que nunca debería haber desafiado al líder de la organización. Malcolm fue asesinado al año siguiente y los dos jamás pudieron reconciliarse. La ironía llegó después, cuando Ali también abandonó la Nation of Islam y siguió una evolución religiosa hacia el islam suní, como había hecho Malcolm. Décadas después reconocería en su autobiografía de 2004 que “darle la espalda a Malcolm” había sido uno de los errores que más lamentaba de su vida: pocas historias ilustran mejor la diferencia entre el hombre que estuvo convencido de algo y el hombre que años después tuvo que convivir con haber descubierto que estaba equivocado. Frazier y madurar. Porque Ali podía ser extraordinariamente cruel con sus rivales y con Joe Frazier cruzó una frontera que posteriormente reconocería. Lo ridiculizó, lo llamó “gorila”, lo presentó como representante del establishment blanco e incluso sugirió que los afroamericanos que lo apoyaban eran traidores, pese a que Frazier lo había ayudado económicamente y había defendido públicamente su regreso al boxeo cuando Ali estaba sancionado. Con el tiempo, Ali admitió que había dicho cosas que nunca debería haber dicho y pidió disculpas, aunque Frazier nunca olvidó completamente aquellas humillaciones. La rectificación no borró el daño, pero sí introduce otra dimensión de la frase célebre: aprender durante treinta años no permite modificar el pasado, únicamente cambiar la forma en que uno lo comprende. Ali con su esposa Lonnie en Washington D. C., 2001 Vietnam y el gran giro de la paradoja. En 1967 Ali se negó a incorporarse al Ejército estadounidense para combatir en Vietnam y pagó un precio extraordinario: perdió el título mundial, las comisiones deportivas le retiraron sus licencias y permaneció más de tres años fuera del ring durante una etapa crucial de su carrera. Con los años reconoció que habría empleado otras palabras y lamentó particularmente su famosa referencia al Viet Cong porque consideraba que había provocado una hostilidad innecesaria, aunque eso no equivalía a renunciar al principio que había defendido. Ali podía reconsiderar la retórica sin reconsiderar necesariamente la convicción. Posiblemente ahí aparece el reverso más interesante de su frase: crecer no obliga a sustituir todas nuestras ideas, también puede servir para descubrir cuáles sobreviven a décadas de experiencia y cuáles no. Ali contra Frazier, foto promocional De odiado a leyenda. La última paradoja pertenece tanto a Ali como al país que lo rodeaba. En los sesenta fue presentado como cobarde, traidor y antiamericano, y su oposición a Vietnam contribuyó a convertirlo, según su biógrafo Jonathan Eig, en uno de los hombres más detestados de Estados Unidos. En 1996, ya afectado por el Parkinson, apareció ante el mundo para encender el pebetero de los Juegos Olímpicos de Atlanta y recibió una enorme ovación: el mismo hombre que tres décadas antes había sido castigado por sus posiciones políticas se había convertido en un icono nacional. El historiador Damion Thomas introducía en este punto de la historia el giro definitivo: quizá Ali no cambiara tanto en algunas cuestiones como solemos pensar. En asuntos como Vietnam y la injusticia racial, fue Estados Unidos quien realmente cambió hasta acercarse a él. En Xataka Richard Feynman: “El primer principio es que no debes engañarte a ti mismo, y tú eres la persona más fácil de engañar” Llegar a los 50. Jonathan Eig lo definió como un “peso pesado de las contradicciones”, una descripción que quizá explica mejor su famosa frase que cualquier interpretación edificante. Ali conservó el orgullo, la rebeldía y el valor para asumir las consecuencias de algunas de sus convicciones, aunque abandonó otras, pidió perdón por comportamientos de los que terminó avergonzándose y reconoció errores que ya no podía reparar. Incluso el Parkinson transformó su manera de contemplarse a sí mismo: llegó a decir que la enfermedad lo había obligado a escuchar en lugar de hablar y a descubrir qué cosas eran realmente importantes. Quizá por ello, aquella frase pronunciada cuando tenía apenas 33 años terminó funcionando casi como una profecía autobiográfica: desperdiciar treinta años no era cambiar de ideas, sino atravesarlos sin permitir que ninguna experiencia fuese capaz de cambiarte. Imagen | Wikimedia, United Press International En Xataka | En 1902 un geógrafo se propuso explicar el origen del nombre de cada ciudad de EEUU. La respuesta la tenían dos países de Europa En Xataka | En 1890, un neoyorquino liberó 100 estorninos en Central Park. No tenía ni idea de lo que desencadenó en el continente - La noticia Muhammad Ali: \"El hombre que ve el mundo a los 50 igual que a los 20 ha desperdiciado 30 años de su vida\" fue publicada originalmente en Xataka por Miguel Jorge ."
+  },
+  {
+    "titulo": "Las nuevas Nike en color avellana tostada que son las zapatillas perfectas para combinar con tonos tierra en otoño",
+    "medio": "Trendencias",
+    "fecha": 1789315260.0,
+    "link": "https://www.trendencias.com/sneakers/nuevas-nike-color-avellana-tostada-que-zapatillas-perfectas-para-combinar-tonos-tierra-otono",
+    "resumen": "Nos hemos obsesionado con el marrón chocolate y sin darnos cuenta, todo nuestro armario se está tiñendo de este tono. Es cierto que este color es elegante y estiloso, pero también podemos optar por variantes del mismo para no parecer que todas las prendas siguen la misma gama cromática. Ahora es tiempo de colores como el avellana tostada y hemos encontrado unas zapatillas donde es el protagonista, estas nuevas Nike Cortez. Nike Cortez Nike Cortez PVP en Nike — 99,99 € El precio podría variar. Obtenemos comisión por estos enlaces Siguen la estética de sneakers finitas y nos parecen perfectas para conjuntar con vestidos de entretiempo, ya sea de tirantes y corte midi o de manga larga y súper mini. A nosotras nos gusta especialmente cómo quedan las zapatillas en tono avellana tostada con este vestido de cuadros Vicky de Parfois. Vestido Parfois También puedes conjuntar las zapatillas con bermudas. Aquí puedes apostar por unas de lino si tienes un estilo más informal o decantarte por unas tipo traje de pinzas, ideales para ir al trabajo súper estilosa, pero también muy cómoda con tus Nike en color avellana tostada. Estas de Massimo Dutti nos parecen ideales para hacer match con las deportivas. Bermudas Massimo Dutti Otra combinación que nos fascina con las Nike con faldas satinadas. No existe una prenda mejor para esos días en los que nos asalta una crisis de vestuario y no sabemos qué ponernos a pesar de tener muchas opciones. Una como esta de corte midi de Mango con el detalle del encaje y en color perla nos parece un diez de diez. Falda satinada Mango Desde luego, hacerte con estas sneakers es todo un plus porque, aunque cuestan 99,99 euros, son de esas que no te dejas de poner en toda la temporada, sin importar el look que lleves. Se van directas a nuestra lista de deseos. Fotos | @courteecrews, Nike, Parfois, Massimo Dutti, Mango En Trendencias | New Balance le pone el toque retro a tu look de otoño con sus zapatillas blanco crema que no dejarás de llevar con jeans En DAP | Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme” En Xataka | EEUU pintó de blanco 340 tejados de casas con bajos ingresos. Redujo a la mitad la temperatura interior y ahorraron 560 kWh al año en aire acondicionado - La noticia Las nuevas Nike en color avellana tostada que son las zapatillas perfectas para combinar con tonos tierra en otoño fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
     "titulo": "Jugar ‘GTA 5’ desde tu móvil va a ser posible muy pronto, pero no te hagas grandes ilusiones",
@@ -551,13 +593,6 @@
     "fecha": 1789313460.0,
     "link": "https://www.xataka.com/magnet/tren-mostoles-navalcarnero-jamas-ha-transportado-a-ningun-pasajero-162-millones-para-tren-fantasma-que-sigue-ahi",
     "resumen": "Hay trenes que llegan tarde (y pasa en todas partes, aunque en Japón lo llevan mejor); hay otros que están monopolizados. Y hay trenes que directamente nunca salieron de la estación: el de Móstoles a Navalcarnero todavía no ha llevado a ningún viajero. Ni un solo billete vendido, ni un trayecto completado en 22 años. En el suroeste madrileño quedan hoy 8 kilómetros de estructuras abandonadas: vía, túneles y estaciones a medio construir que emergen como una ruina modernista. Y la obra no se canceló en fase de planificación, sino a mitad de su ejecución física con maquinaria desplegada y el coste hasta el momento asciende a 162 millones de euros públicos. La causa del fiasco combina errores de cálculo, desacuerdos entre administraciones y un supuesto esquema de comisiones ilegales pendiente de juicio. Por suerte, hay luz al final del túnel. 2004 - 2009: adjudicación, protocolos, quiebras y caso LezoEn 2004, la Comunidad de Madrid, bajo la presidencia de Esperanza Aguirre, sacó a concurso el proyecto para prolongar la línea C-5 de Cercanías entre Móstoles El Soto, Arroyomolinos y Navalcarnero. La concesionaria Ciempozuelos (filial de OHL) ganó la licitación comprometiendo una inversión de unos 360 millones de euros mediante concesión privada a 40 años. La planificación contemplaba 15 kilómetros de trazado y 7 estaciones como 7 soles para extender la línea C-5 de Cercanías (que empieza en Humanes, pasa por Fuenlabrada, Leganés y acaba en Móstoles) hasta Navalcarnero. Es decir, haría cuatro paradas en Móstoles, una en Arroyomolinos y dos en Navalcarnero. Bien, ¿no? En Xataka En Carboneras hay un hotel que lleva 20 años sin alojar a nadie y ahora costará más de 7 millones tumbarlo En 2008, arrancaron las obras sobre el terreno. En 2009, la Comunidad de Madrid firmó un protocolo marco con el Ministerio de Fomento para fijar que la administración autonómica asumiría la infraestructura física y el Estado aportaría los trenes y la posterior explotación del servicio. Pasaron los meses y, en 2010, en pleno impacto de la crisis financiera e inmobiliaria, OHL paraliza unilateralmente las obras tras haber ejecutado solo 8 de los 15 kilómetros proyectados y haber gastado cerca de 140 millones de euros. ¿Qué ha pasado? Muchas cosas y mucho silencio. Tanto que no fue hasta 2015, cuando la Comunidad de Madrid inició un expediente de resolución de contrato e impuso a OHL una penalización de 34 millones de euros por incumplimiento de plazos. La constructora respondió exigiendo 369,5 millones de euros en concepto de inversiones ejecutadas (238,9 millones), daños y perjuicios. Estalla el caso Lezo Nada, que no hay dinero. Así que en 2016 la filial Ciempozuelos entra en concurso de acreedores. En respuesta a la penalización, OHL acude a los tribunales reclamando la cantidad que mencionábamos más arriba. A los pocos meses, la Audiencia Nacional abre una pieza separada dentro de la trama Lezo para investigar si OHL pagó una comisión ilegal de 1,4 millones de euros al expresidente madrileño Ignacio González a través de cuentas en México, Panamá y Suiza a cambio de la adjudicación del tren. La investigación del Ministerio Fiscal sostiene que el dinero salió de una cuenta de OHL hacia México, circuló por sociedades panameñas vinculadas al empresario Adrián de la Joya, pasó por Suiza y terminó bajo el control de Ildefonso de Miguel. La Fiscalía Anticorrupción solicitó 4 años de prisión para González y 6 para el entonces consejero delegado de OHL, Javier López Madrid. El caso llega a juicio este mes, con 22 acusados entre los que se encuentran los exconsejeros madrileños Pedro Calvo y Juan Bravo, antiguos colaboradores de Alberto Ruiz-Gallardón, para quien Anticorrupción pide 7 años de prisión y 15 de inhabilitación absoluta. Pero dejemos esto aparcado un momento y sigamos con la cronología estricta. 2021 - 2026: varapalos y reveses económicos En octubre de 2021, la Justicia invalida la sanción impuesta por el Gobierno regional y obliga a la Comunidad de Madrid a devolver a OHL los 34 millones de euros que le había retenido en garantías. A finales de año, para evitar un mayor devengo de intereses, el Ejecutivo de Isabel Díaz Ayuso ejecuta la liquidación del contrato abonando un total de 162,4 millones de euros públicos a la constructora (123,3 millones por la obra ejecutada más 39,1 millones en intereses acumulados). En septiembre de 2022, tras formalizarse el desembolso económico, Ayuso reclama formalmente al Gobierno central de Pedro Sánchez que asuma y reactive el tren de Navalcarnero. ¿El argumento? Que la competencia de la red de Cercanías corresponde al Estado. Así que es hora de sacar la escuadra y el cartabón. Pasa otro año y en septiembre de 2024 el PSOE exige a la Comunidad de Madrid que finalice el tren a Navalcarnero, abriendo un debate público entre administraciones sobre quién debe licitar el tramo que falta. El balón vuelve a estar en el balcón de Ayuso. En Xataka México Este millonario construyó una mansión en el punto más alto de un edificio; lo sorprendente es que igual y nunca la conoce En julio de 2025, tras un puñado de reuniones, el ministro de Transportes, Óscar Puente, propuso a la Comunidad de Madrid que el Estado asuma la viabilidad y ejecución de la línea para desatascar el proyecto. Con el ok mutuo, 16 años después, se saca a licitación y adjudicatura el estudio de viabilidad para el tren a Navalcarnero. El precio: un importe de 619.266 euros y un plazo de ejecución de 24 meses. ¿Final feliz?En diciembre de 2025, el Gobierno aprueba el inicio de los trámites para terminar el tren, sacando a licitación el estudio informativo de viabilidad por un importe de 738.100 euros. Entre mayo y junio de 2026, el Ministerio de Transportes adjudica definitivamente el estudio. Y fija los análisis sobre el estado de la infraestructura previa para evaluar su recuperación hacia 2028. Es decir, el eventual inicio de nuevas obras, como pronto, se va a 2028, veinte años después de llevar la primera viga. El informe determinará qué tramos de lo construido se pueden reutilizar y analizará un corredor con capacidad para prestar servicio a 250.000 residentes de 29 municipios del suroeste madrileño, incluidos Sevilla la Nueva, Cenicientos y Navas del Rey. Porque el área ha cambiado bastante desde entonces. Entretanto, Renfe ha adjudicado a la Unión Temporal de Empresas (liderada por OHLA) una base de mantenimiento en el Móstoles-El Soto, en la línea C-5, por casi 41 millones de euros. En el plano político, el Gobierno autonómico señala que el proyecto surgió porque el Ejecutivo central de José Luis Rodríguez Zapatero rechazó asumir la obra originalmente. El Ministerio contestó que la responsabilidad recaía en la Comunidad de Madrid por iniciar el proyecto y mantenerlo paralizado durante 15 años. Mientras tanto, las casi 34.000 personas censadas en Navalcarnero, más otros cuantos miles de desplazamientos, continúan generando debate y sin conexión ferroviaria. Imágenes | Archivo de 'Noticias Para Municipios' / Unsplash (Marcelo) En Xataka | Talgo creó unos trenes perfectos para España pero se olvidaron de un pequeño detalle: no dejan de averiarse - La noticia El tren Móstoles-Navalcarnero jamás ha transportado a ningún pasajero: 162 millones para un tren fantasma que sigue ahí fue publicada originalmente en Xataka por Isra Fdez ."
-  },
-  {
-    "titulo": "Madrid supera su primer gran examen de Fórmula 1",
-    "medio": "Expansión",
-    "fecha": 1789312281.0,
-    "link": "https://www.expansion.com/deporte-negocio/2026/09/13/6aa6bc08468aebe04b8b4598.html",
-    "resumen": "Andrea Kimi Antonelli se convirtió en el primer vencedor de la Fórmula 1 en MADRING al imponerse a Max Verstappen y Lando Norris en el regreso del campeonato a Madrid 45 años después. El estreno del nuevo circuito llega además con todas las localidades vendidas y abre una etapa que se prolongará, como mínimo, durante una década. Leer"
   },
   {
     "titulo": "Las 15 novedades de Mercadona de septiembre que ya son los nuevos caprichos para el baño, el desayuno y la cena",
@@ -607,13 +642,6 @@
     "fecha": 1789310088.0,
     "link": "https://www.eldiario.es/andalucia/malaga/envian-mensaje-alert-confinan-poblacion-benahavis-malaga-agravarse-incendio-forestal_1_13506653.html",
     "resumen": "El siniestro ha movilizado a 22 medios aéreos y un centenar de bomberos y ha provocado un herido al sufrir quemaduras cuando intentaba apagar el fuego, mientras se lucha para que las llamas no lleguen a las viviendasBerrocal, el pueblo de Huelva que 20 años después vuelve a la UCI por otro incendio forestal: “No sabemos cómo vamos a vivir” El incendio forestal declarado este domingo, 13 de septiembre, en el paraje Ermita del Rosario en la localidad de Benahavís (Málaga), ha obligado al desalojo preventivo de 50 personas de 20 viviendas de la urbanización Montemayor Alto. Además, una persona ha resultado herida a causa de las quemaduras generadas al intentar apagar el fuego, otra ha resultado afectada por inhalación de humo y un bombero forestal se ha roto una muñeca al sufrir una caída. La Agencia de Emergencias de Andalucía (EMA) ha llegado a enviar un mensaje Es-Alert a la población, aunque no todos lo han recibido tras interrumpirse la comunicación telefónica en la zona al resultar afectada una antena. El siniestro (elevado a fase de emergencia, situación operativa 1) ha provocado el confinamiento preventivo de varias zonas de la localidad y la movilización de 22 medios aéreos, además de más de un centenar de bomberos del Plan Infoca. El consejero de la Presidencia, Antonio Sanz, ha explicado que la principal dificultad radica en que se lucha contra un fuerte viento de levante que sopla de 30 a 35 kilómetros por hora, pero con rachas de hasta 50 kilómetros por hora. A elo se une la complicada orografía del terreno, con barrancos y cuencas. “Se trabaja por contener la cabeza, que avanza a mucha velocidad”, en un incendio que ha definido como “muy alargado”, de ahí que “lo más importante era volcarnos en proteger a la población, porque estamos en una zona de extraordinario peligro y el fuego se ha metido por en medio de la urbanización”. El Servicio de Emergencias 112 Andalucía decretó el confinamiento preventivo del casco urbano de Benahavís, diseminados al norte y oeste, y la urbanización La Coja. En este sentido, el 112 ha detallado en declaraciones a esta agencia que sobre las 12.40 horas han recibido el primero de numerosos avisos que alertaban de la presencia de un incendio próximo a la carretera A-7175, en el término municipal de Benahavís. Esto ha obligado a cortar el carril derecho en sentido creciente de esta vía para el acceso de los vehículos de emergencia. En este contexto, se ha indicado a la población que debe seguir las instrucciones del 112 y de los operativos que se encuentran en la zona. Entre las recomendaciones hechas está evitar riesgos, que los habitantes de la zona se confinen en una vivienda o edificio de mampostería y cerrar las puertas y ventanas de las viviendas, así como proteger a las personas más vulnerables, entre ellos niños, personas mayores y enfermos ante la presencia de humo."
-  },
-  {
-    "titulo": "La CNMC bloqueará los SMS comerciales con alias no registrados en su base de datos",
-    "medio": "Expansión",
-    "fecha": 1789308860.0,
-    "link": "https://www.expansion.com/economia/2026/09/13/6aa68f0f468aebe04b8b458d.html",
-    "resumen": "Las empresas, comercios, administraciones públicas y demás organizaciones que utilicen alias como remitentes en sus mensajes SMS, MMS o RCS deberán inscribir adecuadamente estos identificadores antes del próximo martes, 15 de septiembre, para poder seguir usándolos, según ha señalado la Comisión Nacional de los Mercados y la Competencia (CNMC). Leer"
   },
   {
     "titulo": "Marc Márquez completa la remontada hacia el título: gana en Misano y pasa a liderar la general de MotoGP",
@@ -693,13 +721,6 @@
     "resumen": "¿Qué convierte a una película de terror en una joya de culto? Es una pregunta habitual en el género. Pero además, una para la que hay múltiples respuestas. De su relevancia en el tiempo hasta el hecho de que la cinta en cuestión sea inimitable en estilo, tono y capacidad para aterrorizar. Las razones que […] Seguir leyendo: Esta película de terror prohibida se estrenó hace 18 años, aterrorizó al mundo y la puedes ver en streaming"
   },
   {
-    "titulo": "El valor de las bolsas del golfo Pérsico cayó en 2025 arrastrado por Arabia Saudí",
-    "medio": "Expansión",
-    "fecha": 1789306668.0,
-    "link": "https://www.expansion.com/mercados/2026/09/13/6aa6a13d468aebaa308b4576.html",
-    "resumen": "El valor de mercado de las bolsas de valores de los países del Consejo de Cooperación del Golfo (CCG) cayó un 6,20% en 2025 arrastrado por el desplome de la bolsa saudí Tadawul, que acumuló pérdidas del 13,6%, según refleja un informe del Consejo de Estadísticas del CCG publicado este domingo. Leer"
-  },
-  {
     "titulo": "Quién es Nathan Fielder, el creador del documental viral sobre Elizabeth Holmes",
     "medio": "Hipertextual",
     "fecha": 1789304400.0,
@@ -756,13 +777,6 @@
     "resumen": "La portavoz del PP en el Congreso, Ester Muñoz, ha acusado al Gobierno \"tener información\" sobre el riesgo de crisis migratoria en Ceuta antes de que se produjera y no hacer \"absolutamente nada\" al respecto. \"Tenemos un Gobierno que no sólo abandonó a Ceuta, sino que además pudo promover que pasara lo que pasó\", ha insistido la portavoz, que también ha acusado al Ejecutivo de \"alentar próximas invasiones\"."
   },
   {
-    "titulo": "Uno de cada cuatro contratos firmados en agosto duró 7 días o menos",
-    "medio": "Expansión",
-    "fecha": 1789300354.0,
-    "link": "https://www.expansion.com/economia/2026/09/13/6aa687a9468aebd7628b457a.html",
-    "resumen": "Uno de cada cuatro contratos (21,6%) firmados el pasado mes de agosto, en concreto 241.176 contratos, presentaban una duración igual o inferior a siete días, mientras que 81.307 contratos (el 7,3% del total) duraron entre 7 y 15 días, según los últimos datos del Servicio Público de Empleo Estatal (SEPE). Leer"
-  },
-  {
     "titulo": "13 de septiembre, el día en el que la Luna fue arrancada de su órbita en Espacio: 1999",
     "medio": "Microsiervos",
     "fecha": 1789299000.0,
@@ -777,13 +791,6 @@
     "resumen": "Windows 11 nunca se ha distinguido por ser un sistema operativo ligero, sobre todo cuando hablamos de ordenadores con recursos limitados. Esto ha provocado que muchos usuarios terminen por cambiar a Linux pensando que resolverá sus problemas de rendimiento. La realidad es que sí, pero no en todos los escenarios, y existe una prueba que […] Seguir leyendo: ¿Windows o Linux? Esta prueba demuestra cuál es el más rápido"
   },
   {
-    "titulo": "Las medidas fiscales por la guerra en Irán restan 1.812 millones a la recaudación hasta julio",
-    "medio": "Expansión",
-    "fecha": 1789296878.0,
-    "link": "https://www.expansion.com/economia/2026/09/13/6aa67f14e5fdeaae658b457a.html",
-    "resumen": "Hacienda ha dejado de ingresar hasta el mes de julio 1.812 millones de euros por las medidas fiscales incluidas en el real decreto ley 7/2026, que se aprobó en el marzo para paliar el impacto económico del conflicto en Oriente Próximo. Leer"
-  },
-  {
     "titulo": "El Gobierno de Ceuta solicita el desalojo urgente del asentamiento levantado junto a la desalinizadora",
     "medio": "Europa Press",
     "fecha": 1789296727.0,
@@ -795,7 +802,7 @@
     "medio": "Applesfera",
     "fecha": 1789295460.0,
     "link": "https://www.applesfera.com/seleccion/queda-poco-suban-precio-iphone-17-te-contamos-donde-comprarlos-ahora-al-mejor-precio",
-    "resumen": "Ya os lo hemos contado: los iPhone de la generación anterior van a subir de precio. No nos puede coger por sorpresa tras la subida de los Mac, iPads y otros dispositivos, pero eso no quita que sea doloroso para nuestra cartera. Con los nuevos iPhone 18, iPhone 18 Pro y iPhone 18 Pro Max disponibles para reservar, vamos a hacer un repaso rápido para ver si merece la pena apostar por un iPhone de la generación anterior o esperar al lanzamiento de estos nuevos modelos. Apple iPhone 17 de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage, Mayor Resistencia a los arañazos, autonomía para el día Entero; Blanco Hoy en MediaMarkt — 929,00 € Amazon — 959,00 € El Corte Inglés — 959,00 € Reacondicionados Back Market — 785,00 € PcComponentes — 853,59 € El precio podría variar. Obtenemos comisión por estos enlaces Así quedan los iPhone de la generación anterior tras la subida Como decimos, vamos a hacer una comparativa al grano de seis iPhone diferentes de la ya anterior generación. Para ello, vamos a coger en todos la configuración de memoria básica, que es de 256 GB, a excepción del iPhone 16, que es de 128 GB. Vamos a indicar tres elementos en cada uno de los móviles: su precio más barato en este momento, su precio posterior a la subida y si hay alguna opción reacondicionada que merezca la pena. iPhone 16: Teniendo en cuenta que el iPhone 18 llegará en 2027, este sigue siendo la generación anterior del iPhone base. Su precio más bajo lo vamos a encontrar en MediaMarkt (799 euros), relativamente alto si tenemos en cuenta que solo tiene 128 GB de memoria. Reacondicionado en estado 'Excelente' se queda en 603 euros, un precio más atractivo si tenemos en cuenta que subirá de precio hasta los 1.009 euros. Apple iPhone 16, Negro, 128 GB, 5G, 6.1 \" OLED Super Retina XDR, Chip A18 Bionic, iOS PVP en MediaMarkt — 799,00 € PcComponentes — 829,00 € El Corte Inglés — 829,00 € Reacondicionados Back Market — 603,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17e: El iPhone económico va a subir de precio hasta los 859 euros. Si tienes pensado adquirir un móvil de Apple y quieres uno que sea actual y que no suba mucho de precio, quizás estás ante el mejor momento ahora que todavía lo podemos encontrar por 699 euros (o reacondicionado por 551 euros en estado 'Excelente'). Apple iPhone 17e, Blanco, 256 GB, 5G, 6.1\" OLED Super Retina XDR, Chip A19, iOS PVP en MediaMarkt — 699,00 € El Corte Inglés — 699,00 € Reacondicionados Back Market — 551,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17: El primer iPhone base con pantalla de 120 Hz va a pasar a costar 1.109 euros con 256 GB de almacenamiento. Es una subida bastante importante, especialmente si tenemos en cuenta que ahora mismo lo podemos encontrar por 929 euros en varias tiendas. Reacondicionado, en estado 'Excelente', sale por 785 euros. Apple iPhone 17 de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage, Mayor Resistencia a los arañazos, autonomía para el día Entero; Blanco Hoy en MediaMarkt — 929,00 € Amazon — 959,00 € El Corte Inglés — 959,00 € Reacondicionados Back Market — 785,00 € PcComponentes — 853,59 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17 Pro: Aquí la cosa cambia, puesto que este modelo dejará de estar disponible con la llegada del nuevo iPhone 18 Pro. Su precio actual es de 1.179 euros en varias tiendas, lejos de los 1.319 euros que costará tras la subida. Reacondicionado sale por 977 euros en estado 'Excelente'. Apple iPhone 17 Pro de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19 Pro, autonomía revolucionaria, Sistema de cámaras Pro Fusion con cámara Frontal Center Stage; Naranja cósmico Hoy en Amazon — 699,00 € El Corte Inglés — 1.179,00 € MediaMarkt — 1.179,00 € PcComponentes — 1.179,00 € Reacondicionados Back Market — 977,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17 Pro Max: También desaparecerá el iPhone 17 Pro Max tras la llegada del nuevo modelo. Lo podemos encontrar por 1.319 euros en varias tiendas y reacondicionado, por 1.125 euros en estado 'Prémium'. Su precio será de 1.469 euros tras la subida. Apple iPhone 17 Pro MAX de 256 GB: Pantalla de 6,9 Pulgadas con Promotion, Chip A19 Pro, autonomía revolucionaria, Sistema de cámaras Pro Fusion con cámara Frontal Center Stage; Azul Intenso Hoy en Amazon — 799,00 € MediaMarkt — 1.319,00 € El Corte Inglés — 1.319,00 € PcComponentes — 1.319,00 € Fnac — 1.349,00 € Powerplanet — 1.399,00 € Reacondicionados Back Market — 1.125,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone Air: Nos hemos dejado para el final el iPhone Air, que pasará a costar 1.319 euros en su configuración más básica. La buena noticia es que ahora mismo podemos encontrarlo a 899 euros, un buen precio si tenemos en cuenta que utiliza el mismo chip que los dos anteriores móviles (aunque su apartado gráfico está un escalón por detrás). Reacondicionado, se queda en 759 euros en estado 'Prémium'. Apple iPhone Air de 256 GB: El iPhone más Fino jamás Creado, Pantalla de 6,5 Pulgadas con Promotion hasta 120 Hz, Chip A19 Pro, cámara Frontal Center Stage, autonomía para el día Entero; Azul Cielo Hoy en Amazon — 899,00 € MediaMarkt — 899,00 € Fnac — 899,00 € Powerplanet — 919,00 € El Corte Inglés — 919,00 € Reacondicionados Back Market — 759,00 € PcComponentes — 889,99 € El precio podría variar. Obtenemos comisión por estos enlaces En Xataka Smart Home El lunes 14 de septiembre llega a Lidl este set de sartenes apilables Tefal para todo tipo de cocinas por 35,99 euros También te puede interesar Apple AirPods 5 con Estuche de Carga inalámbrica ​​​​​​ Hoy en Amazon — 169,00 € El precio podría variar. Obtenemos comisión por estos enlaces Apple Watch Series 12 GPS 42 mm, Caja de Aluminio en Negro Hoy en Amazon — 449,00 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Applesfera, Apple En Applesfera | Ya es oficial: Apple sube los precios de los Mac, iPad y productos de hogar. Así es cómo queda su catálogo En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia Queda poco para que suban de precio los iPhone 17: te contamos dónde comprarlos ahora al mejor precio fue publicada originalmente en Applesfera por Juan Lorente ."
+    "resumen": "Ya os lo hemos contado: los iPhone de la generación anterior van a subir de precio. No nos puede coger por sorpresa tras la subida de los Mac, iPads y otros dispositivos, pero eso no quita que sea doloroso para nuestra cartera. Con los nuevos iPhone 18, iPhone 18 Pro y iPhone 18 Pro Max disponibles para reservar, vamos a hacer un repaso rápido para ver si merece la pena apostar por un iPhone de la generación anterior o esperar al lanzamiento de estos nuevos modelos. Apple iPhone 17 de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage, Mayor Resistencia a los arañazos, autonomía para el día Entero; Blanco Hoy en MediaMarkt — 929,00 € El Corte Inglés — 959,00 € Amazon — 1.188,99 € Reacondicionados Back Market — 785,00 € PcComponentes — 853,59 € El precio podría variar. Obtenemos comisión por estos enlaces Así quedan los iPhone de la generación anterior tras la subida Como decimos, vamos a hacer una comparativa al grano de seis iPhone diferentes de la ya anterior generación. Para ello, vamos a coger en todos la configuración de memoria básica, que es de 256 GB, a excepción del iPhone 16, que es de 128 GB. Vamos a indicar tres elementos en cada uno de los móviles: su precio más barato en este momento, su precio posterior a la subida y si hay alguna opción reacondicionada que merezca la pena. iPhone 16: Teniendo en cuenta que el iPhone 18 llegará en 2027, este sigue siendo la generación anterior del iPhone base. Su precio más bajo lo vamos a encontrar en MediaMarkt (799 euros), relativamente alto si tenemos en cuenta que solo tiene 128 GB de memoria. Reacondicionado en estado 'Excelente' se queda en 603 euros, un precio más atractivo si tenemos en cuenta que subirá de precio hasta los 1.009 euros. Apple iPhone 16, Negro, 128 GB, 5G, 6.1 \" OLED Super Retina XDR, Chip A18 Bionic, iOS PVP en MediaMarkt — 799,00 € PcComponentes — 829,00 € El Corte Inglés — 829,00 € Reacondicionados Back Market — 603,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17e: El iPhone económico va a subir de precio hasta los 859 euros. Si tienes pensado adquirir un móvil de Apple y quieres uno que sea actual y que no suba mucho de precio, quizás estás ante el mejor momento ahora que todavía lo podemos encontrar por 699 euros (o reacondicionado por 551 euros en estado 'Excelente'). Apple iPhone 17e, Blanco, 256 GB, 5G, 6.1\" OLED Super Retina XDR, Chip A19, iOS PVP en MediaMarkt — 699,00 € El Corte Inglés — 699,00 € Reacondicionados Back Market — 551,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17: El primer iPhone base con pantalla de 120 Hz va a pasar a costar 1.109 euros con 256 GB de almacenamiento. Es una subida bastante importante, especialmente si tenemos en cuenta que ahora mismo lo podemos encontrar por 929 euros en varias tiendas. Reacondicionado, en estado 'Excelente', sale por 785 euros. Apple iPhone 17 de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage, Mayor Resistencia a los arañazos, autonomía para el día Entero; Blanco Hoy en MediaMarkt — 929,00 € El Corte Inglés — 959,00 € Amazon — 1.188,99 € Reacondicionados Back Market — 785,00 € PcComponentes — 853,59 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17 Pro: Aquí la cosa cambia, puesto que este modelo dejará de estar disponible con la llegada del nuevo iPhone 18 Pro. Su precio actual es de 1.179 euros en varias tiendas, lejos de los 1.319 euros que costará tras la subida. Reacondicionado sale por 977 euros en estado 'Excelente'. Apple iPhone 17 Pro de 256 GB: Pantalla de 6,3 Pulgadas con Promotion, Chip A19 Pro, autonomía revolucionaria, Sistema de cámaras Pro Fusion con cámara Frontal Center Stage; Naranja cósmico Hoy en Amazon — 1.179,00 € El Corte Inglés — 1.179,00 € MediaMarkt — 1.179,00 € PcComponentes — 1.179,00 € Reacondicionados Back Market — 977,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone 17 Pro Max: También desaparecerá el iPhone 17 Pro Max tras la llegada del nuevo modelo. Lo podemos encontrar por 1.319 euros en varias tiendas y reacondicionado, por 1.125 euros en estado 'Prémium'. Su precio será de 1.469 euros tras la subida. Apple iPhone 17 Pro MAX de 256 GB: Pantalla de 6,9 Pulgadas con Promotion, Chip A19 Pro, autonomía revolucionaria, Sistema de cámaras Pro Fusion con cámara Frontal Center Stage; Azul Intenso Hoy en Amazon — 1.319,00 € MediaMarkt — 1.319,00 € El Corte Inglés — 1.319,00 € PcComponentes — 1.319,00 € Fnac — 1.349,00 € Powerplanet — 1.399,00 € Reacondicionados Back Market — 1.125,00 € El precio podría variar. Obtenemos comisión por estos enlaces iPhone Air: Nos hemos dejado para el final el iPhone Air, que pasará a costar 1.319 euros en su configuración más básica. La buena noticia es que ahora mismo podemos encontrarlo a 899 euros, un buen precio si tenemos en cuenta que utiliza el mismo chip que los dos anteriores móviles (aunque su apartado gráfico está un escalón por detrás). Reacondicionado, se queda en 759 euros en estado 'Prémium'. Apple iPhone Air de 256 GB: El iPhone más Fino jamás Creado, Pantalla de 6,5 Pulgadas con Promotion hasta 120 Hz, Chip A19 Pro, cámara Frontal Center Stage, autonomía para el día Entero; Azul Cielo Hoy en Amazon — 899,00 € MediaMarkt — 899,00 € Fnac — 899,00 € Powerplanet — 919,00 € El Corte Inglés — 919,00 € Reacondicionados Back Market — 759,00 € PcComponentes — 889,99 € El precio podría variar. Obtenemos comisión por estos enlaces En Xataka Smart Home El lunes 14 de septiembre llega a Lidl este set de sartenes apilables Tefal para todo tipo de cocinas por 35,99 euros También te puede interesar Apple AirPods 5 con Estuche de Carga inalámbrica ​​​​​​ Hoy en Amazon — 169,00 € El precio podría variar. Obtenemos comisión por estos enlaces Apple Watch Series 12 GPS 42 mm, Caja de Aluminio en Negro Hoy en Amazon — 449,00 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Applesfera, Apple En Applesfera | Ya es oficial: Apple sube los precios de los Mac, iPad y productos de hogar. Así es cómo queda su catálogo En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia Queda poco para que suban de precio los iPhone 17: te contamos dónde comprarlos ahora al mejor precio fue publicada originalmente en Applesfera por Juan Lorente ."
   },
   {
     "titulo": "Quería revivir mi viejo iPhone 4 y mi iPod Nano, así que me fui a Barcelona a conseguirlo",
@@ -1020,13 +1027,6 @@
     "fecha": 1789141590.0,
     "link": "https://jacobin.com/2026/09/germany-afd-far-right-tech-elite-musk",
     "resumen": "Germany’s far-right Alternative for Germany party styles itself as populist and anti-elite. Yet it maintains close relationships with tech elites like Elon Musk, who was among the first to congratulate the party on Sunday’s election win."
-  },
-  {
-    "titulo": "La evolución del Miura 5 de PLD Space se llamará Miura 9",
-    "medio": "Microsiervos",
-    "fecha": 1789131600.0,
-    "link": "http://www.microsiervos.com/archivo/espacio/evolucion-miura-5-se-llamara-miura-9.html",
-    "resumen": "Impresión artística de la primera etapa de un Miura 9 a punto de aterrizar tras cumplir su misión – PLD Space Cuando PLD presentó sus planes de futuro en el evento beyond_by una de las cosas de las que habló fue de una evolución del Miura 5 que, a diferencia de la primera versión, tendría una primera etapa diseñada para tomar tierra utilizando sus motores en lugar de amerizando bajo un paracaídas. Entonces se referían a ella como Miura 5 bloque 1.2. Pero la han rebautizado como Miura 9. El Miura 9 es –será– un cohete de dos etapas que mide 42 m de alto y 3 m de diámetro. La primera etapa utilizará nueve motores TEPREL –de ahí el nombre– mientras que la segunda utilizará un TEPREL de vacío. Los motores de ambas etapas utilizan queroseno y oxígeno líquido como propelentes. Y sí, se parece mucho a un Falcon 9 –hasta en el nombre– pero las leyes de la física son las que son; por ello también se parecen mucho entre sí coches y aviones. Y además, si ya sabes que algo funciona, no hace falta reinventarlo del todo aunque lo desarrolles de nuevo con tecnología propia. La capacidad del Miura 9 será de hasta 1.500 kg a una órbita sincrónica al Sol de 500 km de altitud para un lanzamiento desde el espaciopuerto de Kourou. Con esto triplica la capacidad del Miura 5, capaz de colocar cargas útiles de hasta 540 Kg en la misma órbita, con el que convivirá y se repartirá los lanzamientos según las necesidades de los clientes. Su desarrollo se enmarca en el contrato de 158,9 millones de euros recientemente firmado por PLD Space con la ESA dentro del European Launcher Challenge. Pero en cualquier caso, como dije en su momento, aunque me parece estupendo que PLD Space apunte algo (guiño guiño codazo codazo) primero tenemos que ver volar al Miura 5. Hardware de varios Miura 5 en producción – PLD Space Será entonces cuando podamos empezar a tener una estimación realista de cuando puede entrar en servicio el Miura 9. Lo que pasa es que aunque quiero ser optimista empieza a parecerme complicado que Miura 5 haga su primer lanzamiento no ya en lo que queda de 2026 sino incluso en el primer semestre de 2027. Aunque me encantaría equivocarme. # Enlace permanente"
   },
   {
     "titulo": "‘Backrooms’ demuestra que YouTube es la nueva cuna del gran cine de terror",
