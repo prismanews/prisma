@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prisma | Comparador IA de noticias</title>
-    <meta name="description" content="Analizamos automáticamente 22 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
+    <meta name="description" content="Analizamos automáticamente 23 medios para detectar enfoques editoriales, sesgos y tendencias en tiempo real.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://prismanews.github.io/prisma/">
     <meta property="og:title" content="Prisma noticias IA">
@@ -25,7 +25,7 @@
         gtag('config', 'G-9WZC3GQSN8');
     </script>
     
-    <link rel="stylesheet" href="prisma.css?v=1789473851">
+    <link rel="stylesheet" href="prisma.css?v=1789492527">
     <style>
         .buscador-rapido {
             background: var(--bg-primary);
@@ -107,8 +107,8 @@
             </div>
             <div class="header-text">
                 <p class="claim">EL COMPARADOR DE MEDIOS CON IA</p>
-                <p class="explicacion">Analizamos automáticamente <strong>22 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
-                <div class="stats">📰 22 medios · <time datetime="2026-09-15T12:04:11.767488">Actualizado: 15/09/2026 12:04</time></div>
+                <p class="explicacion">Analizamos automáticamente <strong>23 medios</strong> para detectar <strong>enfoques editoriales, sesgos y tendencias</strong> en tiempo real.<br><span class="highlight">Entiende cómo te cuentan la actualidad.</span></p>
+                <div class="stats">📰 23 medios · <time datetime="2026-09-15T17:15:27.655721">Actualizado: 15/09/2026 17:15</time></div>
             </div>
             <nav class="nav">
                 <a href="index.html" class="active">Inicio</a>
@@ -148,6 +148,7 @@
                 <option value="Infolibre">Infolibre</option>
                 <option value="Jacobin ES">Jacobin ES</option>
                 <option value="La Vanguardia">La Vanguardia</option>
+                <option value="Microsiervos">Microsiervos</option>
                 <option value="Moncloa.com">Moncloa.com</option>
                 <option value="OK Diario">OK Diario</option>
                 <option value="The Objective">The Objective</option>
@@ -159,11 +160,49 @@
             </select>
         </div>
 
-        <div class="card" data-medios="Moncloa.com,El Español,Infolibre,Europa Press,OK Diario">
-            <h2>Portada: Política, ceuta y sánchez</h2>
+        <div class="card" data-medios="El Independiente,HuffPost,eldiario.es,El País">
+            <h2>Hoy: Sheeran, macklemore y gira</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
-                5 medios · tono equilibrado · 
+                4 medios · tono equilibrado · 
+                múltiples perspectivas
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/cultura/ed-sheeran-pronuncia-exclusion-macklemore-gira-defender-palestina-no-complice-elijo-no-hablar-publicamente_1_13512537.html" target="_blank" rel="noopener">Ed Sheeran se pronuncia tras la exclusión de Macklemore de su gira por defender a Palestina: "No soy cómplice, elijo no hablar públicamente"</a></p>
+
+            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/cultura/ed-sheeran-responde-polemica-macklemore-no-complice-consternado-conflicto-israel-palestina-sufrimiento-causado-bandos-tragedia-humana-f202609.html" target="_blank" rel="noopener">Ed Sheeran responde a la polémica con Macklemore: "No soy cómplice. Estoy consternado por el conflicto entre Israel y Palestina y el sufrimiento causado en ambos bandos"</a></p>
+
+            <p><strong>El País:</strong> <a href="https://elpais.com/gente/2026-09-15/ed-sheeran-se-pronuncia-sobre-la-polemica-expulsion-de-macklemore-de-su-gira-yo-elijo-utilizar-mi-fama-para-ofrecer-un-espacio-seguro.html" target="_blank" rel="noopener">Ed Sheeran se pronuncia sobre la polémica expulsión de Macklemore de su gira: “Yo elijo utilizar mi fama para ofrecer un espacio seguro”</a></p>
+
+            <details class="ver-mas">
+                <summary>+ 1 noticias más</summary>
+                <div class="noticias-extra">
+
+                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/tendencias/2026/09/15/razones-macklemore-expulsado-gira-ed-sheeran/" target="_blank" rel="noopener">Las razones políticas por las que Macklemore ha sido expulsado como telonero de la gira de Ed Sheeran</a></p>
+
+                </div>
+            </details>
+        </div>
+
+        <div class="card" data-medios="El País,Europa Press,The Objective,El Mundo">
+            <h2>Portada: Maduro, declara y culpable</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                4 medios · tono equilibrado · 
                 múltiples perspectivas
             </div>
             <div class="sesgo-simple">
@@ -172,94 +211,6 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/espana/ultima-hora-situacion-ceuta-actualidad-politica-directo-hoy-sanchez-preside-reunion-seguimiento-sobre-crisis-migratoria-20290485" target="_blank" rel="noopener">Última hora de la situación en Ceuta y la actualidad política en directo hoy: Sánchez preside la reunión de seguimiento sobre la crisis migratoria</a></p>
-
-            <p><strong>OK Diario:</strong> <a href="https://okdiario.com/baleares/pp-vox-disparan-sus-criticas-delegado-sanchez-baleares-crisis-policia-guardia-civil-revelada-okbaleares-20292598" target="_blank" rel="noopener">PP y Vox disparan sus críticas al delegado de Sánchez en Baleares por su crisis con Policía y Guardia Civil revelada por OKBALEARES</a></p>
-
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/09/15/corts-debate-politica-general-perez-llorca-3431884/" target="_blank" rel="noopener">Las Corts fijan el debate de política general para el 28 y 30 de septiembre, el primero de Pérez Llorca como president</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 4 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/vox-escala-costa-apuntala-posibilidad-gobierno-derechas_1_2236301.html" target="_blank" rel="noopener">Vox escala a costa de todos los demás y apuntala la posibilidad de un Gobierno de derechas</a></p>
-
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-juzgado-ceuta-remite-audiencia-nacional-causa-contra-delegado-gobierno-entrada-masiva-20260915123140.html" target="_blank" rel="noopener">El juzgado de Ceuta remite a la Audiencia Nacional la causa contra el delegado del Gobierno por la entrada masiva</a></p>
-
-                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/madrid/capital/20260915/pablo-fernandez-postula-candidato-podemos-ayuntamiento-madrid-epicentro-derecha/1003744383778_0.html" target="_blank" rel="noopener">Pablo Fernández se postula como candidato de Podemos al Ayuntamiento de Madrid: "Es el epicentro de la derecha"</a></p>
-
-                    <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/opinion/ideas-propias/cautela-convierte-politica-estrado_129_2236240.html" target="_blank" rel="noopener">Cuando la cautela se convierte en política de estrado</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="El Español,eldiario.es,El País,Europa Press,El Mundo,El Independiente,Expansión">
-            <h2>En foco: Subida, 2031 y aprueba</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                7 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 44%;"></div>
-                    <div class="barra-conservadora" style="width: 56%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 44%</span>
-                    <span>Conservador 56%</span>
-                </div>
-            </div>
-
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/2026/09/15/6aa92d40fc6c8333218b4590.html" target="_blank" rel="noopener">El Gobierno aprueba una subida anual de las tasas aeroportuarias del 0,33% hasta 2031</a></p>
-
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/empresas/transporte/2026/09/15/6aa92c4be5fdeaf35c8b4579.html" target="_blank" rel="noopener">El Gobierno autoriza a Aena a invertir 13.000 millones hasta 2031 y limita al 0,33% la subida de tasas</a></p>
-
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/economia/noticia-gobierno-aprueba-dora-iii-aena-invertira-13000-millones-2031-subida-tasas-033-20260915133342.html" target="_blank" rel="noopener">El Gobierno aprueba el DORA III: Aena invertirá 13.000 millones hasta 2031 con una subida de tasas del 0,33%</a></p>
-
-            <details class="ver-mas">
-                <summary>+ 4 noticias más</summary>
-                <div class="noticias-extra">
-
-                    <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/economia/gobierno-aprueba-mayor-inversion-historica-aeropuertos-subida-tarifas-3-centimos-ano-2031_1_13510792.html" target="_blank" rel="noopener">El Gobierno aprueba la mayor inversión histórica en aeropuertos y una subida de tarifas de 3 céntimos al año hasta 2031</a></p>
-
-                    <p><strong>El País:</strong> <a href="https://elpais.com/economia/2026-09-15/el-gobierno-zanja-el-pulso-entre-aena-y-las-aerolineas-con-tarifas-casi-congeladas-hasta-2031.html" target="_blank" rel="noopener">El Gobierno zanja el pulso entre Aena y las aerolíneas con tarifas casi congeladas hasta 2031</a></p>
-
-                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/invertia/observatorios/movilidad/20260915/gobierno-aprueba-subida-anual-tasas-aereas/1003744383942_0.html" target="_blank" rel="noopener">El Gobierno aprueba una subida anual del 0,33% de las tasas aéreas y zanja la guerra entre Aena y aerolíneas</a></p>
-
-                    <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/economia/2026/09/15/telefonica-alcanza-acuerdo-dazn-emision-partidos-laliga/" target="_blank" rel="noopener">Telefónica cierra con DAZN la retransmisión de LaLiga por 1.650 millones hasta 2032</a></p>
-
-                </div>
-            </details>
-        </div>
-
-        <div class="card" data-medios="La Vanguardia,El Español,Europa Press,The Objective,El Mundo,HuffPost">
-            <h2>Claves: Ceuta, ejemplo y civismo</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                6 medios · tono equilibrado · 
-                múltiples perspectivas, amplia cobertura mediática
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
                     <div class="barra-progresista" style="width: 48%;"></div>
                     <div class="barra-conservadora" style="width: 52%;"></div>
                 </div>
@@ -269,57 +220,24 @@
                 </div>
             </div>
 
-            <p><strong>The Objective:</strong> <a href="https://theobjective.com/videos/espana/2026-09-15/rey-ceuta-civismo-situacion-compleja/" target="_blank" rel="noopener">VÍDEO | El rey Felipe VI pone a Ceuta como «ejemplo de civismo» en medio de una situación muy compleja</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/internacional/2026/09/15/6aa97617e9cf4aac6d8b458c.html" target="_blank" rel="noopener">El ex ministro venezolano Alex Saab, presunto testaferro de Maduro, se declara en EEUU culpable de lavado de dinero</a></p>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/politica/el-rey-pone-ceuta-ejemplo-civismo-situacion-extraordinariamente-compleja-f202609.html" target="_blank" rel="noopener">El rey pone a Ceuta como ejemplo de civismo en una situación extraordinariamente compleja</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/internacional/noticia-alex-saab-presunto-testaferro-maduro-declara-culpable-blanqueo-acuerdo-eeuu-20260915185340.html" target="_blank" rel="noopener">Alex Saab, presunto testaferro de Maduro, se declara culpable de blanqueo tras un acuerdo con EEUU</a></p>
 
-            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/espana/2026/09/15/6aa91dafe85ece9a648b4572.html" target="_blank" rel="noopener">Felipe VI recuerda en su primer discurso tras el asalto a Ceuta que la ciudad continúa "inmersa en una situación de extrema complejidad"</a></p>
+            <p><strong>The Objective:</strong> <a href="https://theobjective.com/internacional/2026-09-15/testaferro-maduro-culpable-lavar-dinero-eeuu/" target="_blank" rel="noopener">El testaferro de Nicolás Maduro se declara culpable de lavar dinero en Estados Unidos</a></p>
 
             <details class="ver-mas">
-                <summary>+ 3 noticias más</summary>
+                <summary>+ 1 noticias más</summary>
                 <div class="noticias-extra">
 
-                    <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-rey-ensalza-ejemplo-civismo-ceuta-resalta-importancia-flexibilidad-emergencias-20260915130953.html" target="_blank" rel="noopener">El Rey ensalza el "ejemplo de civismo" de Ceuta y resalta la importancia de la "flexibilidad" ante las emergencias</a></p>
-
-                    <p><strong>El Español:</strong> <a href="https://www.elespanol.com/espana/20260915/rey-pone-ejemplo-civismo-ceuta-labor-hombres-mujeres-genera-admiracion-espanoles/1003744384009_0.html" target="_blank" rel="noopener">El Rey pone como "ejemplo de civismo" a Ceuta: "La labor de esos hombres y mujeres genera la admiración de todos"</a></p>
-
-                    <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/politica/20260915/11635349/rey-alerta-extraordinaria-complejidad-situacion-ceuta.html" target="_blank" rel="noopener">El Rey alerta de la “extraordinaria complejidad” de la situación en Ceuta</a></p>
+                    <p><strong>El País:</strong> <a href="https://elpais.com/us/2026-09-15/alex-saab-se-declara-culpable-en-ee-uu-de-lavar-dinero-al-amparo-de-maduro.html" target="_blank" rel="noopener">Alex Saab se declara culpable en EE UU de lavar dinero al amparo de Maduro</a></p>
 
                 </div>
             </details>
         </div>
 
-        <div class="card" data-medios="eldiario.es,Expansión,El Español">
-            <h2>Claves: Champions, league y camp</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                3 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>Expansión:</strong> <a href="https://www.expansion.com/deporte-negocio/2026/09/15/6aa92a5d468aebf73f8b457a.html" target="_blank" rel="noopener">España organizará dos de las próximas tres finales de la Champions League</a></p>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/spin/deportes/camp-nou-renovado-acogera-final-champions-league-2029-pm_1_13510954.html" target="_blank" rel="noopener">Un Camp Nou renovado acogerá la final de la Champions League 2029</a></p>
-
-            <p><strong>El Español:</strong> <a href="https://www.elespanol.com/deportes/futbol/20260915/camp-nou-volvera-albergar-final-champions-league-anos-despues-ultima-vez/1003744383834_0.html" target="_blank" rel="noopener">El Camp Nou volverá a albergar la final de la Champions League en 2029, 30 años después de la última vez</a></p>
-        </div>
-
-        <div class="card" data-medios="El Independiente,HuffPost">
-            <h2>En foco: Macklemore, sheeran y apoyo</h2>
+        <div class="card" data-medios="Infolibre,El País">
+            <h2>Claves: Madrid, listas y espera</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -340,94 +258,13 @@
                 </div>
             </div>
 
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/life/cultura/el-apoyo-palestina-macklemore-deberia-sorprender-ed-sheeran-cancion-lanzo-dosnos-f202609.html" target="_blank" rel="noopener">El apoyo a Palestina de Macklemore no debería sorprender a Ed Sheeran: esta canción lanzó hace dos años</a></p>
+            <p><strong>El País:</strong> <a href="https://elpais.com/sociedad/2026-09-15/sanidad-reclama-a-la-comunidad-de-madrid-que-aclare-si-manipula-las-listas-de-espera-de-sus-hospitales.html" target="_blank" rel="noopener">Sanidad reclama a la Comunidad de Madrid que aclare si manipula las listas de espera de sus hospitales</a></p>
 
-            <p><strong>El Independiente:</strong> <a href="https://www.elindependiente.com/tendencias/2026/09/15/razones-macklemore-expulsado-gira-ed-sheeran/" target="_blank" rel="noopener">Las razones políticas por las que Macklemore ha sido expulsado como telonero de la gira de Ed Sheeran</a></p>
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/hospital-ramon-cajal-madrid-rebaja-gravedad-57-pacientes-falsear-listas-espera_1_2236293.html" target="_blank" rel="noopener">El hospital Ramón y Cajal de Madrid rebaja la gravedad de 57 pacientes para falsear sus listas de espera</a></p>
         </div>
 
-        <div class="card" data-medios="Xataka,Genbeta">
-            <h2>Portada: Abogo, semana y laboral</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 50%;"></div>
-                    <div class="barra-conservadora" style="width: 50%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 50%</span>
-                    <span>Conservador 50%</span>
-                </div>
-            </div>
-
-            <p><strong>Xataka:</strong> <a href="https://www.xataka.com/empresas-y-economia/abogo-semana-laboral-40-horas-remuneracion-dueno-motosierras-stihl-pide-que-alemania-trabaje" target="_blank" rel="noopener">"Abogo por una semana laboral de 40 horas sin más remuneración": el dueño de motosierras Stihl pide que Alemania trabaje más</a></p>
-
-            <p><strong>Genbeta:</strong> <a href="https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo" target="_blank" rel="noopener">"Será un trabajo estresante", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo</a></p>
-        </div>
-
-        <div class="card" data-medios="eldiario.es,Moncloa.com">
-            <h2>Portada: Conselleiro, familia y empleo</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 47%;"></div>
-                    <div class="barra-conservadora" style="width: 53%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 47%</span>
-                    <span>Conservador 53%</span>
-                </div>
-            </div>
-
-            <p><strong>eldiario.es:</strong> <a href="https://www.eldiario.es/galicia/conselleiro-empleo-defiende-empresa-familia-utilizar-inmigrantes-papeles-vendimia_1_13510499.html" target="_blank" rel="noopener">El conselleiro de Empleo defiende a la empresa de su familia tras utilizar inmigrantes sin papeles para la vendimia</a></p>
-
-            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/09/15/sancion-bodega-conselleiro-emprego-ribeiro-3431887/" target="_blank" rel="noopener">Inspección de Trabajo sanciona a una bodega de la familia del conselleiro de Emprego por emplear migrantes sin permiso</a></p>
-        </div>
-
-        <div class="card" data-medios="La Vanguardia,HuffPost">
-            <h2>Portada: Cambio, brusco y tormentas</h2>
-            <div class="resumen">
-                📊 <strong>Resumen IA:</strong>
-                2 medios · tono equilibrado · 
-                enfoque directo
-            </div>
-            <div class="sesgo-simple">
-                <div class="sesgo-header">
-                    <span class="sesgo-texto">⚪ Cobertura muy equilibrada</span>
-                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
-                </div>
-                <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 49%;"></div>
-                    <div class="barra-conservadora" style="width: 51%;"></div>
-                </div>
-                <div class="sesgo-etiquetas">
-                    <span>Progresista 49%</span>
-                    <span>Conservador 51%</span>
-                </div>
-            </div>
-
-            <p><strong>La Vanguardia:</strong> <a href="https://www.lavanguardia.com/natural/20260915/11635346/manana-llega-cambio-brusco-13-grados-norte-tormentas-fuertes.html" target="_blank" rel="noopener">Mañana miércoles llega un cambio brusco: 13 grados menos en el norte y tormentas intensas</a></p>
-
-            <p><strong>HuffPost:</strong> <a href="https://www.huffingtonpost.es/tiempo/confirmado-aemet-cambio-brusco-tormentas-fuertes-fuertes-zonas-f202609.html" target="_blank" rel="noopener">Confirmado por la Aemet: cambio brusco en el tiempo con "tormentas fuertes o muy fuertes" en estas zonas</a></p>
-        </div>
-
-        <div class="card" data-medios="Trendencias,Applesfera">
-            <h2>Relevante: Premios, emmy y 2026</h2>
+        <div class="card" data-medios="Moncloa.com,El Mundo">
+            <h2>Claves: Gasóleo, agrícola y llenar</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -448,13 +285,40 @@
                 </div>
             </div>
 
-            <p><strong>Trendencias:</strong> <a href="https://www.trendencias.com/series-de-television/premios-emmy-2026-todas-series-ganadoras-donde-ver-cada-ellas" target="_blank" rel="noopener">Premios Emmy 2026: todas las series ganadoras y dónde ver cada una de ellas</a></p>
+            <p><strong>El Mundo:</strong> <a href="https://www.elmundo.es/economia/empresas/2026/09/15/6aa928c321efa02b2c8b45a3.html" target="_blank" rel="noopener">Alarma en el gasóleo agrícola: llenar el depósito de un tractor se dispara en siete meses un 45,6 %</a></p>
 
-            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-tv/serie-que-arraso-premios-emmy-mezcla-miedo-comedia-como-ninguna-puedes-verla-apple-tv" target="_blank" rel="noopener">La serie que arrasó en los premios Emmy mezcla miedo y comedia como ninguna. Puedes verla en Apple TV</a></p>
+            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/09/15/gasoleo-agricola-400-euros-siembra-cereal-3432026/" target="_blank" rel="noopener">Llenar el depósito del tractor supera los 400 euros: por qué el gasóleo agrícola pone en riesgo la siembra</a></p>
         </div>
 
-        <div class="card" data-medios="Europa Press,Hipertextual">
-            <h2>Tema: Maldición, widows y emmy</h2>
+        <div class="card" data-medios="Hipertextual,Applesfera">
+            <h2>Tema: Iphone, mejores y móviles</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 45%;"></div>
+                    <div class="barra-conservadora" style="width: 55%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 45%</span>
+                    <span>Conservador 55%</span>
+                </div>
+            </div>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/seleccion/mejores-iphones-reacondicionados" target="_blank" rel="noopener">iPhone reacondicionados 2026: los mejores móviles usados y qué tener en cuenta antes de comprar uno</a></p>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/mobile/los-moviles-samsung-ya-tienen-una-de-las-mejores-funciones-del-iphone-adios-al-mareo-en-el-coche-el-avion-o-el-tren/" target="_blank" rel="noopener">Los móviles Samsung ya tienen una de las mejores funciones del iPhone: adiós al mareo en el coche, el avión o el tren</a></p>
+        </div>
+
+        <div class="card" data-medios="Europa Press,Moncloa.com">
+            <h2>Portada: Nacionalidad, retirar y graves</h2>
             <div class="resumen">
                 📊 <strong>Resumen IA:</strong>
                 2 medios · tono equilibrado · 
@@ -466,18 +330,72 @@
                     <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
                 </div>
                 <div class="sesgo-barra">
-                    <div class="barra-progresista" style="width: 52%;"></div>
-                    <div class="barra-conservadora" style="width: 48%;"></div>
+                    <div class="barra-progresista" style="width: 49%;"></div>
+                    <div class="barra-conservadora" style="width: 51%;"></div>
                 </div>
                 <div class="sesgo-etiquetas">
-                    <span>Progresista 52%</span>
-                    <span>Conservador 48%</span>
+                    <span>Progresista 49%</span>
+                    <span>Conservador 51%</span>
                 </div>
             </div>
 
-            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/tv/noticia-maldicion-widows-bay-domina-emmy-2026-14-premios-20260915080900.html" target="_blank" rel="noopener">'La Maldición de Widow's Bay' domina en los Emmy 2026 con 14 premios</a></p>
+            <p><strong>Moncloa.com:</strong> <a href="https://www.moncloa.com/2026/09/15/ley-nacionalidad-pp-munoz-delitos-graves-3431958/" target="_blank" rel="noopener">Ester Muñoz respalda la ley de nacionalidad del PP para retirar el pasaporte a condenados graves</a></p>
 
-            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/premios-emmy-2026-lista-completa-de-ganadores/" target="_blank" rel="noopener">‘The Pitt’ y ‘La maldición de Widow’s Bay’ se confirman como las series del año en los Premios Emmy 2026: lista completa de ganadores</a></p>
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-feijoo-plantea-retirar-nacionalidad-extranjeros-delitos-graves-asesinos-terroristas-violadores-reincidentes-20260915144241.html" target="_blank" rel="noopener">Feijóo plantea retirar la nacionalidad a extranjeros con delitos graves: asesinos, terroristas o violadores reincidentes</a></p>
+        </div>
+
+        <div class="card" data-medios="Europa Press,Infolibre">
+            <h2>Hoy: Ahora, puigdemont y llarena</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 47%;"></div>
+                    <div class="barra-conservadora" style="width: 53%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 47%</span>
+                    <span>Conservador 53%</span>
+                </div>
+            </div>
+
+            <p><strong>Infolibre:</strong> <a href="https://www.infolibre.es/politica/llarena-cierra-ahora-puerta-amnistia-puigdemont_1_2236316.html" target="_blank" rel="noopener">Llarena cierra por ahora la puerta de la amnistía a Puigdemont</a></p>
+
+            <p><strong>Europa Press:</strong> <a href="https://www.europapress.es/nacional/noticia-supremo-mantiene-ahora-no-amnistiar-puigdemont-aval-tjue-ley-20260915143046.html" target="_blank" rel="noopener">El Supremo mantiene por ahora su 'no' a amnistiar a Puigdemont y la orden de detención tras el aval del TJUE a la ley</a></p>
+        </div>
+
+        <div class="card" data-medios="Hipertextual,Applesfera">
+            <h2>Claves: Premios, emmy y serie</h2>
+            <div class="resumen">
+                📊 <strong>Resumen IA:</strong>
+                2 medios · tono equilibrado · 
+                enfoque directo
+            </div>
+            <div class="sesgo-simple">
+                <div class="sesgo-header">
+                    <span class="sesgo-texto">🟠 Enfoque ligeramente conservador</span>
+                    <span class="sesgo-info" title="Basado en análisis semántico de los titulares">ⓘ</span>
+                </div>
+                <div class="sesgo-barra">
+                    <div class="barra-progresista" style="width: 46%;"></div>
+                    <div class="barra-conservadora" style="width: 54%;"></div>
+                </div>
+                <div class="sesgo-etiquetas">
+                    <span>Progresista 46%</span>
+                    <span>Conservador 54%</span>
+                </div>
+            </div>
+
+            <p><strong>Applesfera:</strong> <a href="https://www.applesfera.com/apple-tv/serie-que-arraso-premios-emmy-mezcla-miedo-comedia-como-ninguna-puedes-verla-apple-tv" target="_blank" rel="noopener">La serie que arrasó en los premios Emmy mezcla miedo y comedia como ninguna. Puedes verla en Apple TV</a></p>
+
+            <p><strong>Hipertextual:</strong> <a href="https://hipertextual.com/cine-television/donde-ver-las-series-ganadoras-de-los-premios-emmy-2026/" target="_blank" rel="noopener">Dónde ver las series ganadoras de los Premios Emmy 2026</a></p>
         </div>
 
         <div class="cta-section">
