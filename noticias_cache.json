@@ -1,24 +1,262 @@
 [
   {
+    "titulo": "La idiosincrasia que hace de Groenlandia mucho más europeista",
+    "medio": "El Mundo",
+    "fecha": 1789860545.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/20/6aaecc11e4d4d81a288b457c.html",
+    "resumen": "El vínculo de la población groenlandesa con Estados Unidos es nulo y el uso militar total ya lo tenían, por lo que el verdadero interés de la Casa Blanca es económico Leer"
+  },
+  {
+    "titulo": "Operación independentista en España aprovechando el 'procés' británico",
+    "medio": "El Mundo",
+    "fecha": 1789860536.0,
+    "link": "https://www.elmundo.es/cataluna/2026/09/20/6aaeb7dae9cf4acc098b4578.html",
+    "resumen": "Junts, ERC y EH Bildu ven \"nuevos caminos hacia la independencia\" tras el pacto soberanista de Cardiff entre Escocia, Gales e Irlanda del Norte Leer"
+  },
+  {
+    "titulo": "Feijóo multiplica sus actos de calle para \"contrastar\" con Sánchez",
+    "medio": "El Mundo",
+    "fecha": 1789860535.0,
+    "link": "https://www.elmundo.es/espana/2026/09/20/6aaec2c0e85ecebd3b8b4572.html",
+    "resumen": "El PP potenciará más esta estrategia, y hoy se medirán a 33 kilómetros, en Cataluña Leer"
+  },
+  {
+    "titulo": "Javier Águila, vicepresidente de Hyatt: \"Tengo prohibida la palabra buffet, pero el 'todo incluido' es una tendencia al alza a la que ha llegado el lujo\"",
+    "medio": "El Mundo",
+    "fecha": 1789860534.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/09/20/6aac28e7e9cf4a64168b4577.html",
+    "resumen": "El vicepresidente de la estadounidense Hyatt y máximo responsable del negocio Inclusive Collection advierte de que el lujo ha llegado a otro nivel y que nuestro país es el destino señalado en el mapa. Leer"
+  },
+  {
+    "titulo": "Marruecos, en el periscopio europeo",
+    "medio": "El Mundo",
+    "fecha": 1789860533.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/20/6aae830de9cf4ac8308b4577.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Cuerpo se compromete en privado ante empresarios intentar mejorar la relación con EEUU: \"No está fácil\"",
+    "medio": "El Mundo",
+    "fecha": 1789860528.0,
+    "link": "https://www.elmundo.es/economia/macroeconomia/2026/09/20/6aac00ede9cf4a68578b4572.html",
+    "resumen": "El vicepresidente primero se declara consciente de que el país de Trump \"no es un mercado sustituible\" en una reunión a puerta cerrada con gestores con fuertes intereses en EEUU Leer"
+  },
+  {
+    "titulo": "VO2 máx, el parámetro de salud que puede reducir a la mitad el riesgo cardiovascular",
+    "medio": "El Mundo",
+    "fecha": 1789860526.0,
+    "link": "https://www.elmundo.es/salud/2026/09/20/6aaea033fdddff4f138b456e.html",
+    "resumen": "La cantidad de oxígeno que el cuerpo es capaz de absorber en los picos máximos de actividad pone a prueba el sistema circulatorio. El ejercicio diario entrena y fortalece esta capacidad Leer"
+  },
+  {
+    "titulo": "El barrio donde los taxistas en los años 80 no querían ir: \"Las compañías ya no aseguraban a las tiendas; las farmacias y estancos eran como búnkeres, con rejas\"",
+    "medio": "El Mundo",
+    "fecha": 1789860525.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/20/6aabcf4be85ece7d3f8b45bb.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "La nueva guerra fría",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639141/nueva-guerra-fria.html",
+    "resumen": "Dos nuevos bloques dividen al mundo: uno lo lidera el canadiense Carney; el otro, Trump"
+  },
+  {
+    "titulo": "¡Alerta, una feminista!",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639133/alerta-feminista.html",
+    "resumen": "Virginia Woolf decía que nadie pondría un cerrojo a su mente, pero no contaba con Meta"
+  },
+  {
+    "titulo": "Pardo Bazán y Barcelona",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639135/pardo-bazan-barcelona.html",
+    "resumen": "La autora gallega tenía interés por la lengua catalana para poder leer a sus autores sin traducción"
+  },
+  {
+    "titulo": "Los alcohólicos golpistas",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639137/alcoholicos-golpistas.html",
+    "resumen": "No todos los dirigentes mundiales tienen esos escrúpulos a la hora de cargarse a gente"
+  },
+  {
+    "titulo": "No ‘maxximicemos’ el café",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639136/maxximicemos-cafe.html",
+    "resumen": "Existe una obsesión de que todo lo podemos hacer de manera más productiva y eficiente"
+  },
+  {
+    "titulo": "Gato encerrado",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639142/gato-encerrado.html",
+    "resumen": "Escuchar la llamada de auxilio de los máximos gurús de la IA activa mi instinto ­arácnido"
+  },
+  {
+    "titulo": "No todo vale...",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639146/vale.html",
+    "resumen": "La desclasificación de documentos da pistas preciosas a los servicios de inteligencia extranjeros"
+  },
+  {
+    "titulo": "El principio del fin de la pesadilla",
+    "medio": "La Vanguardia",
+    "fecha": 1789857000.0,
+    "link": "https://www.lavanguardia.com/opinion/20260920/11639148/principio-pesadilla.html",
+    "resumen": "Hay que tener un rostro de cemento y una ética de estropajo para intentar comprar unos comicios enteros"
+  },
+  {
+    "titulo": "Flick exige más: «No jugamos a nuestro nivel en la primera parte»",
+    "medio": "OK Diario",
+    "fecha": 1789856288.0,
+    "link": "https://okdiario.com/deportes/flick-exige-mas-no-jugamos-nuestro-nivel-primera-parte-20339666",
+    "resumen": "Hansi Flick sigue poniendo el listón muy alto a un Barcelona que se mantiene inmaculado en el arranque de Liga. El equipo se impuso por 1-3 al Sevilla, aunque en la primera mitad sufrieron el empuje del equipo hispalense hasta tal punto que el técnico alemán quiso dar un toque a sus pupilos. «Ha sido … Continuar leyendo \"Flick exige más: «No jugamos a nuestro nivel en la primera parte»\""
+  },
+  {
+    "titulo": "Alerta en Bruselas: una red de espionaje marroquí se infiltra en las instituciones de la Unión Europea",
+    "medio": "Moncloa.com",
+    "fecha": 1789855259.0,
+    "link": "https://www.moncloa.com/2026/09/20/espionaje-marruecos-union-europea-3434444/",
+    "resumen": "El espionaje marroquí en la Unión Europea pasa de rumor de pasillo a alerta real en Bruselas tras la crisis de Ceuta y el varapalo de la Eurocámara a España. La entrada Alerta en Bruselas: una red de espionaje marroquí se infiltra en las instituciones de la Unión Europea aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Washington Post: el Pentágono ocultó cinco bajas de la guerra con Irán y Hegseth lo niega",
+    "medio": "Moncloa.com",
+    "fecha": 1789855117.0,
+    "link": "https://www.moncloa.com/2026/09/19/pentagono-bajas-ocultas-guerra-iran-3434462/",
+    "resumen": "El Washington Post sostiene que el Pentágono omite hasta cinco bajas de la guerra con Irán. Hegseth lo niega y el coste ya roza los 43.600 millones. La entrada Washington Post: el Pentágono ocultó cinco bajas de la guerra con Irán y Hegseth lo niega aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Explosiones y alerta aérea en Riad por el ataque hutí a la capital saudí",
+    "medio": "Moncloa.com",
+    "fecha": 1789854988.0,
+    "link": "https://www.moncloa.com/2026/09/19/ataque-huti-riad-vuelos-desviados-3434460/",
+    "resumen": "Explosiones y desvío de vuelos en Riad tras los avisos de 'amenaza aérea hostil'. Aramco corta el crudo de octubre a Europa. La entrada Explosiones y alerta aérea en Riad por el ataque hutí a la capital saudí aparece primero en Moncloa."
+  },
+  {
+    "titulo": "EEUU avisa a la OTAN: la escasez de misiles se retrasa entregas hasta cinco años y tensiona la defensa europea",
+    "medio": "Moncloa.com",
+    "fecha": 1789854949.0,
+    "link": "https://www.moncloa.com/2026/09/19/escasez-misiles-eeuu-otan-retrasos-3434458/",
+    "resumen": "La escasez de misiles en EEUU retrasa hasta cinco años las entregas a Europa y deja a España sin garantías sobre su defensa aérea. La entrada EEUU avisa a la OTAN: la escasez de misiles se retrasa entregas hasta cinco años y tensiona la defensa europea aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Un ‘hat-trick’ de Raphinha derriba a un Sevilla que se adelantó en casa",
+    "medio": "The Objective",
+    "fecha": 1789854912.0,
+    "link": "https://theobjective.com/deportes/futbol/laliga/2026-09-19/hat-trick-raphinha-derriba-sevilla-adelanto-casa/",
+    "resumen": "El FC Barcelona ha ganado este sábado por 1-3 en su visita al Sevilla FC durante la jornada 7 de LaLiga EA Sports, con remontada incluida, […]"
+  },
+  {
+    "titulo": "Page denuncia el «pacto del agua PP» con el Levante para sostener a Núñez en Castilla-La Mancha",
+    "medio": "Moncloa.com",
+    "fecha": 1789854809.0,
+    "link": "https://www.moncloa.com/2026/09/19/page-pacto-agua-pp-levante-3434452/",
+    "resumen": "El PSOE de Castilla-La Mancha acusa al PP de Núñez de un pacto oculto con el Levante y Génova y le exige condenar los ataques de los regantes a Page. La entrada Page denuncia el «pacto del agua PP» con el Levante para sostener a Núñez en Castilla-La Mancha aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Israel bloquea seis años después la investigación del espionaje Pegasus al móvil de Sánchez",
+    "medio": "Moncloa.com",
+    "fecha": 1789854705.0,
+    "link": "https://www.moncloa.com/2026/09/19/espionaje-pegasus-sanchez-israel-3434450/",
+    "resumen": "Seis años después del pinchazo de Pegasus al móvil de Pedro Sánchez, la causa sigue sobreseída por la negativa de Israel a cooperar con la Justicia española. La entrada Israel bloquea seis años después la investigación del espionaje Pegasus al móvil de Sánchez aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El modelo de Ayuso en Madrid: las grietas internas que amenazan su salto nacional en el PP",
+    "medio": "Moncloa.com",
+    "fecha": 1789854615.0,
+    "link": "https://www.moncloa.com/2026/09/19/modelo-ayuso-madrid-tensiones-internas-pp-3434445/",
+    "resumen": "El eco del ático de lujo y la resaca vecinal del Madring tensan el modelo Ayuso en Madrid y obligan a medir el coste de su proyección nacional. La entrada El modelo de Ayuso en Madrid: las grietas internas que amenazan su salto nacional en el PP aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El PSOE redobla su ofensiva contra Feijóo y Vivas: «Es un mal virus que ha infectado al PP»",
+    "medio": "Moncloa.com",
+    "fecha": 1789854538.0,
+    "link": "https://www.moncloa.com/2026/09/19/psoe-feijoo-vivas-mal-virus-pp-3434443/",
+    "resumen": "Rebeca Torró califica de 'mal virus' la actitud de Vivas y acusa al PP de competir con Vox; Génova responde con los datos de Interior. La entrada El PSOE redobla su ofensiva contra Feijóo y Vivas: «Es un mal virus que ha infectado al PP» aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Un Barcelona muy atlético se venga del Valencia y accede a la final de la Supercopa",
+    "medio": "El País",
+    "fecha": 1789853654.0,
+    "link": "https://elpais.com/deportes/baloncesto/2026-09-19/un-barcelona-muy-atletico-se-venga-del-valencia-y-accede-a-la-final-de-la-supercopa.html",
+    "resumen": "El renovado equipo azulgrana domina durante gran parte del partido y luchará por el título ante el Joventut"
+  },
+  {
+    "titulo": "Naomi Watts dedica el premio Donostia a David Lynch: «Tras 10 años de rechazos, supo verme y cambió mi vida»",
+    "medio": "OK Diario",
+    "fecha": 1789853209.0,
+    "link": "https://okdiario.com/cool/television/naomi-watts-dedica-premio-donostia-david-lynch-10-anos-rechazos-supo-verme-cambio-vida-20339401",
+    "resumen": "David Lynch descorchó en Mulholland Drive el misterio que encerraba Naomi Watts: su «alma hermosa» y su «inteligencia emocional». Esas fueron exactamente las dos cualidades con las que el fallecido director definió a la actriz, que, tras 10 años recibiendo constantes negativas en la industria del cine, lo conquistó de golpe con su doble heroína … Continuar leyendo \"Naomi Watts dedica el premio Donostia a David Lynch: «Tras 10 años de rechazos, supo verme y cambió mi vida»\""
+  },
+  {
+    "titulo": "El Barça de Raphinha revienta a un enérgico Sevilla",
+    "medio": "El País",
+    "fecha": 1789853021.0,
+    "link": "https://elpais.com/deportes/futbol/2026-09-19/el-barca-de-raphinha-revienta-a-un-energico-sevilla.html",
+    "resumen": "Los tres goles del brasileño coronan la remontada del equipo azulgrana, muy superior en la segunda parte, después de un primer tiempo presidido por el vigor y la intensidad del equipo de García Plaza"
+  },
+  {
+    "titulo": "La Guardia Civil busca a una mujer y su nieta en la Cruz de Priena (Asturias)",
+    "medio": "The Objective",
+    "fecha": 1789852528.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-09-19/guardia-civil-mujer-nieta-cruz-de-priena-asturias/",
+    "resumen": "La Guardia Civil busca desde la tarde de este sábado a una mujer y su nieta en el entorno de la Cruz de Priena, en Cangas […]"
+  },
+  {
+    "titulo": "Naomi Watts recoge el Premio Donostia y reivindica el \"cambio de relato\": \"Necesitamos vernos reflejadas\"",
+    "medio": "Europa Press",
+    "fecha": 1789852325.0,
+    "link": "https://www.europapress.es/cultura/cine-00128/noticia-naomi-watts-recoge-premio-donostia-reivindica-cambio-relato-necesitamos-vernos-reflejadas-20260919231205.html",
+    "resumen": "La actriz británica Naomi Watts ha recogido este sábado el Premio Donostia en una gala en la que ha reivindicado y agradecido formar parte del \"cambio de relato\" en el que las mujeres mayores siguen formando parte del cine con historias interesantes."
+  },
+  {
+    "titulo": "Patxi López afea a Feijóo que critique la Ley de nietos, que refueza el «sistema garantista»",
+    "medio": "The Objective",
+    "fecha": 1789852257.0,
+    "link": "https://theobjective.com/espana/politica/2026-09-19/patxi-lopez-afea-feijoo-critique-ley-de-nietos/",
+    "resumen": "El portavoz del PSOE en el Congreso de los Diputados, Patxi López, ha afeado este sábado al presidente del PP, Alberto Núñez Feijóo, que critique la […]"
+  },
+  {
+    "titulo": "Resultado Sevilla – Barcelona: resumen, estadísticas, goles y cómo ha quedado el partido de la Liga (1-3)",
+    "medio": "OK Diario",
+    "fecha": 1789851828.0,
+    "link": "https://okdiario.com/deportes/como-va-sevilla-barcelona-directo-resultado-estadisticas-ultima-hora-del-partido-liga-gratis-vivo-online-tiempo-real-1-1-20335754",
+    "resumen": "Partido de los importantes en el campeonato liguero. El Sevilla recibe al Barcelona en el Ramón Sánchez Pizjuán en la séptima jornada de la Liga y se espera que sea un duelo apasionante, ya que siempre que estos dos equipos se enfrentan suele haber goles, tensión y polémica. Además, el cuadro andaluz llega en un … Continuar leyendo \"Resultado Sevilla – Barcelona: resumen, estadísticas, goles y cómo ha quedado el partido de la Liga (1-3)\""
+  },
+  {
+    "titulo": "Así queda la clasificación de la Liga tras la victoria del Barcelona contra el Sevilla",
+    "medio": "OK Diario",
+    "fecha": 1789851732.0,
+    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-contra-sevilla-2-20339443",
+    "resumen": "El Barcelona se va al parón de selecciones en lo más alto de la clasificación de la Liga: líder en solitario tras su victoria contra el Sevilla, independientemente de lo que ocurra en el derbi de este domingo entre Atlético y Real Madrid. Los culés ganaron en el estadio Ramón Sánchez-Pizjuán con otro hat-trick de … Continuar leyendo \"Así queda la clasificación de la Liga tras la victoria del Barcelona contra el Sevilla\""
+  },
+  {
+    "titulo": "Cuerpo sí señala a Marruecos y le exige «lealtad» a España y «colaboración»",
+    "medio": "The Objective",
+    "fecha": 1789851700.0,
+    "link": "https://theobjective.com/espana/politica/2026-09-19/cuerpo-si-senala-marruecos-exige-lealtad-espana-colaboracion/",
+    "resumen": "El vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, ha exigido «lealtad» a Marruecos, al tiempo que ha defendido los 309 millones de […]"
+  },
+  {
+    "titulo": "Raphinha, con un hat-trick, guía a un Barça imparable ante el Sevilla para mantener el pleno de victorias en esta temporada",
+    "medio": "El Español",
+    "fecha": 1789851468.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20260919/raphinha-hat-trick-guia-barca-imparable-sevilla-mantener-pleno-victorias-temporada/1003744389996_0.html",
+    "resumen": "El conjunto azulgrana tuvo que remontar el gol inicial de Fofana. Doblete de asistencias de Lamine y Christensen sufrió una nueva lesión.Más información: Interior pide que el España-México Sub-20 no se juegue en Ceuta porque \"la tensión\" le impide \"garantizar la seguridad\""
+  },
+  {
     "titulo": "Un hat-trick de Raphinha apaga al Sevilla",
     "medio": "OK Diario",
     "fecha": 1789851430.0,
     "link": "https://okdiario.com/deportes/hat-trick-raphinha-apaga-sevilla-20339044",
     "resumen": "Raphinha se encuentra en el mejor momento de su carrera deportiva. El delantero brasileño anotó un hat-trick para acabar con las ilusiones de un Sevilla que soñó durante la primera parte con terminar con la racha victoriosa del Barcelona y que finalmente sucumbió ante la inspiración del ariete brasileño. Hansi Flick no echa de menos … Continuar leyendo \"Un hat-trick de Raphinha apaga al Sevilla\""
-  },
-  {
-    "titulo": "Resultado Sevilla – Barcelona, en directo: resumen, goles, cómo va y última hora del partido de la Liga gratis y en vivo online en tiempo real (1-3)",
-    "medio": "OK Diario",
-    "fecha": 1789851228.0,
-    "link": "https://okdiario.com/deportes/como-va-sevilla-barcelona-directo-resultado-estadisticas-ultima-hora-del-partido-liga-gratis-vivo-online-tiempo-real-1-1-20335754",
-    "resumen": "Partido de los importantes en el campeonato liguero. El Sevilla recibe al Barcelona en el Ramón Sánchez Pizjuán en la séptima jornada de la Liga y se espera que sea un duelo apasionante, ya que siempre que estos dos equipos se enfrentan suele haber goles, tensión y polémica. Además, el cuadro andaluz llega en un … Continuar leyendo \"Resultado Sevilla – Barcelona, en directo: resumen, goles, cómo va y última hora del partido de la Liga gratis y en vivo online en tiempo real (1-3)\""
-  },
-  {
-    "titulo": "Sevilla - Barcelona en directo | Raphinha firma un triplete y aumenta la ventaja en el marcador",
-    "medio": "El País",
-    "fecha": 1789850851.0,
-    "link": "https://elpais.com/deportes/futbol/2026-09-19/sevilla-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "resumen": "Fofana adelantó al conjunto andaluz, pero el brasileño igualó la contienda tres minutos después | Vlachodimos y el palo evitaron un tanto de Lamine"
   },
   {
     "titulo": "Jornada 7 de la Liga: resumen de todos los partidos",
@@ -28,27 +266,6 @@
     "resumen": "Llega la jornada 7 de Liga. Sin tiempo para recuperarnos de la sexta, la competición sigue un ritmo endiablado antes del megaparón internacional. La Primera División no para y en esta séptima fecha se disputarán los siguientes partidos: Espanyol-Elche, Osasuna-Rayo Vallecano, Athletic-Alavés, Celta de Vigo-Racing de Santander, Sevilla-Barcelona, Getafe-Málaga, Atlético de Madrid-Real Madrid, Villarreal-Levante, Deportivo-Betis … Continuar leyendo \"Jornada 7 de la Liga: resumen de todos los partidos\""
   },
   {
-    "titulo": "Adiós a la lengua dura: el truco de la abuela para una lengua de ternera en salsa melosa",
-    "medio": "Moncloa.com",
-    "fecha": 1789850497.0,
-    "link": "https://www.moncloa.com/2026/09/19/lengua-de-ternera-en-salsa-3434430/",
-    "resumen": "La lengua de ternera en salsa vuelve a las cocinas: cocción lenta, rebozado en harina y huevo, pan frito para espesar y una noche de nevera. La entrada Adiós a la lengua dura: el truco de la abuela para una lengua de ternera en salsa melosa aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El truco de las pulpeiras gallegas para que el pulpo á feira quede siempre tierno",
-    "medio": "Moncloa.com",
-    "fecha": 1789850461.0,
-    "link": "https://www.moncloa.com/2026/09/19/truco-pulpo-a-feira-tierno-3434426/",
-    "resumen": "Por qué el pulpo á feira sale duro y cómo evitarlo: agua sin sal al cocer, corte a tijera y la tabla de madera mojada en el caldo de cocción. La entrada El truco de las pulpeiras gallegas para que el pulpo á feira quede siempre tierno aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Nunca más te quedas sin cena: la quiche de atún exprés lista en 15 minutos en freidora de aire",
-    "medio": "Moncloa.com",
-    "fecha": 1789850332.0,
-    "link": "https://www.moncloa.com/2026/09/19/quiche-atun-expres-freidora-aire-3434423/",
-    "resumen": "Quiche de atún exprés sin masa: cuatro huevos, 80 g de queso y 240 ml de lácteo. Lista en quince minutos en freidora de aire. La entrada Nunca más te quedas sin cena: la quiche de atún exprés lista en 15 minutos en freidora de aire aparece primero en Moncloa."
-  },
-  {
     "titulo": "La expresidenta de Chile Bachelet retira su candidatura a la Secretaría General de la ONU",
     "medio": "The Objective",
     "fecha": 1789850094.0,
@@ -56,32 +273,11 @@
     "resumen": "La expresidenta de Chile Michelle Bachelet ha anunciado este sábado que retira su candidatura para convertirse en la próxima secretaria general de Naciones Unidas, en sustitución […]"
   },
   {
-    "titulo": "La Casa Real de noruega activa una medida excepcional para proteger la salud de Mette-Marit",
-    "medio": "Moncloa.com",
-    "fecha": 1789850063.0,
-    "link": "https://www.moncloa.com/2026/09/19/mette-marit-salud-casa-real-noruega-3434417/",
-    "resumen": "El Hospital Universitario de Oslo prohíbe fotografiar a la familia real para proteger la salud de Mette-Marit y la intimidad de los demás pacientes. La entrada La Casa Real de noruega activa una medida excepcional para proteger la salud de Mette-Marit aparece primero en Moncloa."
-  },
-  {
     "titulo": "¿Debutantes? ¿Qué debutantes? Mérida y Jódar brillan en la Davis y castigan la fragilidad de Chile",
     "medio": "El País",
     "fecha": 1789850038.0,
     "link": "https://elpais.com/deportes/tenis/2026-09-19/debutantes-que-debutantes-merida-y-jodar-brillan-en-la-davis-y-castigan-la-fragilidad-de-chile.html",
     "resumen": "La remontada del primero contra Tabilo (5-7, 6-3 y 6-3) y el paseo del segundo ante Garín (6-0 y 6-2) sitúan a España a un solo punto de las Finales de noviembre (2-0)"
-  },
-  {
-    "titulo": "Juan Carlos I reaparece en París arropado por sus nietas Irene Urdangarin y Victoria de Marichalar",
-    "medio": "Moncloa.com",
-    "fecha": 1789850028.0,
-    "link": "https://www.moncloa.com/2026/09/19/juan-carlos-i-paris-nietas-3434414/",
-    "resumen": "Juan Carlos I reaparecerá este domingo en Francia con sus nietas Irene Urdangarin y Victoria de Marichalar para recibir el 51º premio Saint-Simon. La entrada Juan Carlos I reaparece en París arropado por sus nietas Irene Urdangarin y Victoria de Marichalar aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Felipe VI mantiene su viaje a Ceuta: recibe a Vivas y exige unidad institucional",
-    "medio": "Moncloa.com",
-    "fecha": 1789849934.0,
-    "link": "https://www.moncloa.com/2026/09/19/felipe-vi-ceuta-juan-vivas-3434410/",
-    "resumen": "Felipe VI mantiene su viaje a Ceuta y la Casa del Rey ultima la fecha de una visita que devolverá a la Corona a la ciudad casi dos décadas después. La entrada Felipe VI mantiene su viaje a Ceuta: recibe a Vivas y exige unidad institucional aparece primero en Moncloa."
   },
   {
     "titulo": "La Comisión Electoral rusa denuncia un ciberataque contra su voto electrónico",
@@ -96,48 +292,6 @@
     "fecha": 1789849412.0,
     "link": "https://okdiario.com/deportes/sevilla-barcelona-que-hora-partido-liga-donde-ver-television-directo-vivo-online-20314628",
     "resumen": "El Sevilla y el Barcelona, dos de los clubes más laureados de nuestro país, se ven las caras en la séptima jornada de la Liga y se espera que sea un choque apasionante, ya que en el recuerdo de todos está la victoria hispalense la temporada pasada. Los azulgranas buscarán un triunfo más para seguir … Continuar leyendo \"Dónde ver online el resultado Sevilla – Barcelona y a qué hora es el partido de la Liga y dónde ver por televisión en directo y en vivo online\""
-  },
-  {
-    "titulo": "El PP vuelve a citar en el Senado a Marlaska, Robles y Albares por la crisis de Ceuta: las claves de su comparecencia",
-    "medio": "Moncloa.com",
-    "fecha": 1789849246.0,
-    "link": "https://www.moncloa.com/2026/09/19/pp-senado-ceuta-comparecencia-ministros-3434407/",
-    "resumen": "El PP registra en el Senado nuevas peticiones de comparecencia de Marlaska, Robles y Albares por la crisis de Ceuta tras su ausencia en agosto. La entrada El PP vuelve a citar en el Senado a Marlaska, Robles y Albares por la crisis de Ceuta: las claves de su comparecencia aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Collboni se adelanta a Sánchez y se reúne en Nueva York con el alcalde Zohran Mamdani, la antítesis política de Donald Trump",
-    "medio": "El Mundo",
-    "fecha": 1789849216.0,
-    "link": "https://www.elmundo.es/cataluna/2026/09/19/6aae6e2fe85ece70408b4596.html",
-    "resumen": "El regidor barcelonés del PSC, que anuncia una prueba piloto de comercios asequibles, participa este fin de semana en la cumbre de alcaldes Urban20 (U20) / El presidente del Gobierno viajará a Estados Unidos la próxima semana Leer"
-  },
-  {
-    "titulo": "El acuerdo de Groenlandia y EE. UU.: las claves del pacto de seguridad con Dinamarca que deja la soberanía sin aclarar",
-    "medio": "Moncloa.com",
-    "fecha": 1789849214.0,
-    "link": "https://www.moncloa.com/2026/09/19/acuerdo-groenlandia-eeuu-dinamarca-seguridad-3434408/",
-    "resumen": "Acuerdo Groenlandia EEUU: Washington anuncia control permanente de la seguridad de la isla y Copenhague replica que el texto reconoce su soberanía. La entrada El acuerdo de Groenlandia y EE. UU.: las claves del pacto de seguridad con Dinamarca que deja la soberanía sin aclarar aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Collboni anuncia en Nueva York la apertura de tiendas asequibles en Barcelona",
-    "medio": "La Vanguardia",
-    "fecha": 1789849187.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260919/11639300/collboni-anuncia-nueva-york-apertura-tiendas-asequibles.html",
-    "resumen": "La iniciativa arrancará el año que viene en los barrios de la Marina"
-  },
-  {
-    "titulo": "Jódar arrolla a Garín y pone a España a un paso de la fase final de Bolonia",
-    "medio": "El Mundo",
-    "fecha": 1789848792.0,
-    "link": "https://www.elmundo.es/deportes/tenis/copa-davis/2026/09/19/6aaeec53fc6c83f0798b459b.html",
-    "resumen": "El madrileño sumó el segundo punto para España en la eliminatoria contra Chile. Antes, Mérida derrotó a Tabilo Leer"
-  },
-  {
-    "titulo": "Trinchera contra la gentrificación el Eixample",
-    "medio": "La Vanguardia",
-    "fecha": 1789848694.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20260919/11639218/trinchera-gentrificacion-eixample.html",
-    "resumen": "Vecinos de Barcelona denuncian la expulsión de inquilinos por parte de fondos de inversión"
   },
   {
     "titulo": "Seis monumentos con visitas nocturnas para disfrutar las noches de septiembre",
@@ -182,27 +336,6 @@
     "resumen": "El conjunto blanco se impone al Olympiacos en la final de Abu Dabi y suma el primer título con Pedro Martínez"
   },
   {
-    "titulo": "Marlaska deja a Ceuta sin España y desata la indignación: «Quieren evitar una exaltación de españolidad»",
-    "medio": "OK Diario",
-    "fecha": 1789847507.0,
-    "link": "https://okdiario.com/deportes/marlaska-deja-ceuta-sin-espana-desata-indignacion-quieren-evitar-exaltacion-espanolidad-20338958",
-    "resumen": "El Gobierno deja a Ceuta sin el partido de la selección española sub-20 contra México. No existe una prohibición formal, pero el resultado práctico es exactamente el mismo. Un informe demoledor de la Comisaría General de Seguridad Ciudadana, dependiente del Ministerio del Interior de Fernando Grande-Marlaska, desaconseja celebrar el encuentro previsto para el próximo 30 … Continuar leyendo \"Marlaska deja a Ceuta sin España y desata la indignación: «Quieren evitar una exaltación de españolidad»\""
-  },
-  {
-    "titulo": "Investigan la muerte de una mujer con signos de violencia en Leganés (Madrid)",
-    "medio": "OK Diario",
-    "fecha": 1789847474.0,
-    "link": "https://okdiario.com/madrid/investigan-muerte-mujer-signos-violencia-leganes-madrid-20338776",
-    "resumen": "La Policía Nacional investiga la muerte de una mujer, encontrada con signos de violencia en la localidad de Leganés, en Madrid. Los hechos ocurrieron cuando la Sala del 091 recibió una llamada alertando de que un hombre que había entrado en el domicilio de su hija había encontrado el interior de la casa muy revuelto, … Continuar leyendo \"Investigan la muerte de una mujer con signos de violencia en Leganés (Madrid)\""
-  },
-  {
-    "titulo": "Marlaska dio 1,5 millones a Cruz Roja y 21.000 € a la Comisión Islámica un día después de la invasión de Ceuta",
-    "medio": "OK Diario",
-    "fecha": 1789846430.0,
-    "link": "https://okdiario.com/espana/marlaska-dio-15-millones-cruz-roja-21-000-comision-islamica-dia-despues-invasion-20336731",
-    "resumen": "El ministro del Interior, Fernando Grande-Marlaska, regó con 1,5 millones a Cruz Roja y con 21.000 euros a la Comisión Islámica un día después de la invasión de Ceuta. Así consta en el Boletín Oficial del Estado (BOE) del pasado 31 de julio, donde Interior reconoce que son subvenciones directas, sin concurrencia competitiva. Marlaska publicó aquel … Continuar leyendo \"Marlaska dio 1,5 millones a Cruz Roja y 21.000 € a la Comisión Islámica un día después de la invasión de Ceuta\""
-  },
-  {
     "titulo": "Collboni anuncia la apertura de comercios asequibles en Barcelona tras reunirse con Zohran Mamdani",
     "medio": "eldiario.es",
     "fecha": 1789846326.0,
@@ -217,39 +350,11 @@
     "resumen": "Mantener tu casa limpia es una tarea muy sencilla si contamos con las herramientas adecuadas, y hoy en día una de las más importantes es un robot aspirador y fregasuelos. Este dispositivo ha ayudado a millones de personas a ahorrar tiempo en la limpieza diaria del hogar y su tecnología ha avanzado tanto que incluso […] Seguir leyendo: Lefant tiene el robot aspirador y fregasuelos perfecto: el M210 Omni llega a todos los rincones por solo 269 €"
   },
   {
-    "titulo": "Pedro Martínez inaugura su era en el Real Madrid ganando la Supercopa de Europa",
-    "medio": "El Mundo",
-    "fecha": 1789845943.0,
-    "link": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/09/19/6aaeb92fe9cf4a88168b457d.html",
-    "resumen": "Los blancos se toman la revancha de la final de la Euroliga derrotando al Olympiacos en Abu Dhabi. Andrés Feliz, decisivo en una gran labor coral: 31 asistencias Leer"
-  },
-  {
-    "titulo": "La Guardia Civil busca a una mujer de 67 años y a su nieta de 8 perdidas en una ruta en Asturias",
-    "medio": "HuffPost",
-    "fecha": 1789845530.0,
-    "link": "https://www.huffingtonpost.es/sociedad/la-guardia-civil-busca-mujer-67nos-nieta-8-perdidas-ruta-asturiasbr-f202609.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Moldavia y Luxemburgo denuncian la presencia ilegal de drones en plena escalada de tensión con Rusia",
-    "medio": "La Vanguardia",
-    "fecha": 1789845392.0,
-    "link": "https://www.lavanguardia.com/internacional/20260919/11639239/moldavia-luxemburgo-denuncian-presencia-ilegal-drones-plena-escalada-tension-rusia.html",
-    "resumen": "Los dos países registran incidentes coincidiendo con la llamada a la acción de Francia para proteger las infraestructuras críticas"
-  },
-  {
     "titulo": "Collboni anuncia tras reunirse con Mamdani que planea abrir en Barcelona supermercados asequibles como en Nueva York",
     "medio": "El País",
     "fecha": 1789845331.0,
     "link": "https://elpais.com/us/2026-09-19/collboni-anuncia-tras-reunirse-con-mamdani-que-planea-llevar-a-barcelona-un-programa-de-supermercados-asequibles-similar-al-de-nueva-york.html",
     "resumen": "El alcalde socialista participa en el Urban 20, que reunirá hasta el domingo a los representantes de 34 ciudades del G-20"
-  },
-  {
-    "titulo": "Hallan el cadáver de una mujer con signos de violencia en una vivienda en Leganés",
-    "medio": "La Vanguardia",
-    "fecha": 1789845295.0,
-    "link": "https://www.lavanguardia.com/vida/20260919/11639237/hallan-cadaver-mujer-signos-violencia-vivienda-leganes.html",
-    "resumen": "Esta es la segunda mujer asesinada este sábado en la comunidad de Madrid"
   },
   {
     "titulo": "El nuevo Madrid de Martínez vence a Olympiacos y gana la Supercopa de la Euroliga, el primer título de la temporada",
@@ -278,13 +383,6 @@
     "fecha": 1789844633.0,
     "link": "https://www.europapress.es/nacional/noticia-patxi-lopez-afea-feijoo-critique-ley-nietos-senala-tenemos-sistema-electoral-mas-garantista-20260919210353.html",
     "resumen": "El portavoz del PSOE en el Congreso de los Diputados, Patxi López, ha afeado este sábado al presidente del PP, Alberto Núñez Feijóo, que critique la denominada ley de nietos. Además, ha defendido: \"En España tenemos el sistema electoral más garantista, más limpio, prácticamente del mundo\"."
-  },
-  {
-    "titulo": "Encontrado el cuerpo de una mujer sin vida en su casa de Leganés con signos de violencia",
-    "medio": "The Objective",
-    "fecha": 1789844531.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-09-19/encontrado-cuerpo-mujer-casa-leganes-signos-violencia/",
-    "resumen": "Agentes de Policía Nacional investigan la muerte de una mujer hallada con signos de violencia en la localidad madrileña de Leganés, según ha informado la Jefatura […]"
   },
   {
     "titulo": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"",
@@ -329,18 +427,18 @@
     "resumen": "Copenhague y Nuuk subrayan que el pacto respeta la soberanía danesa, aunque algunos expertos dudan de que zanje todas las disputas"
   },
   {
+    "titulo": "Investigan la muerte con signos de violencia de una mujer en Leganés (Madrid)",
+    "medio": "eldiario.es",
+    "fecha": 1789843429.0,
+    "link": "https://www.eldiario.es/madrid/investigan-muerte-signos-violencia-mujer-leganes-madrid_1_13523544.html",
+    "resumen": "El padre de la víctima entró en el domicilio tras un tiempo sin saber nada de ella y encontró el cuerpo en el interiorDetenido un hombre en Madrid por asesinar a su exnuera en el distrito de Arganzuela Agentes de Policía Nacional investigan la muerte de una mujer hallada con signos de violencia en la localidad madrileña de Leganés, según ha informado la Jefatura Superior. Los hechos ocurrieron alrededor de las 15:15 horas, cuando se recibió una llamada en la Sala del 091 alertando de que un hombre que había entrado en el domicilio de su hija había encontrado el interior de la casa muy revuelto, pensando que quizá habían entrado a robar. Una vez personados los agentes del Grupo de Atención al Ciudadano en el domicilio, hallaron a una mujer fallecida con signos de violencia y un cuchillo con lo que parecen ser restos de sangre. La víctima es la hija del hombre, que tenía llaves de la casa y que se había acercado hasta el lugar porque no sabía nada de ella desde hacía un tiempo, han confirmado a EFE fuentes policiales. Hasta el lugar se ha desplazado el Grupo de Delitos Violentos de Policía Científica y el Grupo VI de Homicidios, quienes se han hecho cargo de la investigación. Según las mismas fuentes, la Policía sigue investigando los hechos y no se descarta ninguna hipótesis. Esta es la segunda mujer asesinada este sábado en Madrid, después de que esta mañana fuera detenido un hombre de 85 años por la muerte violenta de su exnuera, de 47, que ha sido hallada sin vida con signos de estrangulamiento en la vivienda que ambos compartían en la calle Ferrocarril del distrito madrileño de Arganzuela."
+  },
+  {
     "titulo": "La economía del Barça se abraza al Camp Nou: la Asamblea autoriza ampliar la deuda hasta los 2.680 millones para acabar el estadio",
     "medio": "El País",
     "fecha": 1789843425.0,
     "link": "https://elpais.com/deportes/futbol/2026-09-19/la-economia-del-barca-se-abraza-al-camp-nou-la-asamblea-autoriza-ampliar-la-deuda-hasta-los-2680-millones-para-acabar-el-estadio.html",
     "resumen": "Los socios aprueban el ejercicio con 18 millones de pérdida y reiteran su apuesta por el recinto como motor económico del club"
-  },
-  {
-    "titulo": "Los hutíes de Yemen se atribuyen ataques con drones y misiles en Arabia Saudí",
-    "medio": "El País",
-    "fecha": 1789843406.0,
-    "link": "https://elpais.com/internacional/2026-09-19/los-huties-de-yemen-se-atribuyen-ataques-con-drones-y-misiles-en-arabia-saudi.html",
-    "resumen": "Los rebeldes aseguran haber golpeado Riad e instalaciones de la petrolera estatal Aramco en el mar Rojo"
   },
   {
     "titulo": "Israel indulta a un exmilitar israelí que mató a un atacante palestino herido y reducido en 2016",
@@ -350,32 +448,11 @@
     "resumen": ""
   },
   {
-    "titulo": "El PP cierra filas con Vivas: «Sánchez le ha sido desleal a él y a Ceuta»",
-    "medio": "The Objective",
-    "fecha": 1789842892.0,
-    "link": "https://theobjective.com/espana/politica/2026-09-19/pp-cierra-filas-vivas-sanchez-sido-desleal-ceuta/",
-    "resumen": "En plena campaña de hostigamiento a Juan Jesús Vivas desde el PSOE, el Partido Popular responde y arropa a su presidente autonómico. Este sábado el secretario […]"
-  },
-  {
     "titulo": "Comprar péptidos para adelgazar por internet es sorprendentemente fácil. Nadie parece comprobar qué vas a hacer con ellos",
     "medio": "Xataka",
     "fecha": 1789842612.0,
     "link": "https://www.xataka.com/medicina-y-salud/comprar-peptidos-para-adelgazar-internet-sorprendentemente-facil-nadie-parece-comprobar-que-vas-a-hacer-ellos",
     "resumen": "La necesidad imperiosa de perder peso o mejorar el rendimiento deportivo ha hecho que las redes sociales se hayan llenado de consejos que engrandecen el uso de péptidos y moléculas que tienen una dudosa reputación a sus espaldas. Y es que detrás de estos consejos se esconde un mercado que no está regulado y que pone a disposición de cualquier persona la posibilidad de hacerse con sustancias que no han sido testadas en humanos. La pérdida de peso. A día de hoy hay numerosos medicamentos en el mercado que, pese a estar pensados para tratar la diabetes, se han hecho muy famosos por su efecto secundario de pérdida de peso. Este es el caso de Ozempic, que ha saltado a la fama precisamente por esto, y no es raro que en una consulta médica se pida este fármaco varias veces a la semana. Lo positivo de este medicamento es que está completamente regulado y testado en humanos, y para conseguirlo hay que tener una receta médica y que sea dispensado. Pero aparte de Ozempic, hay otras muchas moléculas que ahora mismo están bajo investigación, que prometen estos mismos efectos y que son mucho más fáciles de conseguir. Un ejemplo. Estas moléculas, que son fáciles de conseguir, son lo que se conoce como 'péptidos', que prometen modular diferentes partes del organismo para lograr esto. Este es el caso, por ejemplo, de retrutida, que ahora mismo está bajo investigación y cuya función es actuar como un \"triple agonista\" para controlar el metabolismo y conseguir una pérdida de peso. Este tipo de péptidos que están siendo ahora mismo probados en humanos, lo lógico sería que estuvieran muy restringidos al no conocerse el posible efecto tóxico que tienen, pero en internet es muy fácil de conseguir. Un mercado sin regulación es el culpable de este gran problema de salud pública, puesto que con una búsqueda muy sencilla se puede tener cualquier péptido e incluso hormonas tan conocidas como la hormona del crecimiento, que bajo ciertas circunstancias puede ser muy peligrosa. Pero más allá de esto, solo hace falta meter una dirección, una tarjeta bancaria y a los pocos días se tendrá un vial de este péptido para ser administrado. Y lo mejor de todo es que muchos de los viales que llegan tienen en su etiqueta el aviso de que no se puede administrar ni a humanos ni tampoco a animales, porque se debe usar exclusivamente para la investigación. Aunque eso no se cumple del todo. Captura de pantalla de una web donde se comercializa este péptido y con posibilidad de envío a España. La compra. Lo mejor de todo es que estas webs avisan de que este es un producto que se debe destinar únicamente para la investigación, pero no hacen ninguna comprobación de que se envía a un laboratorio clínico o a una farmacéutica. La única verificación que hacen muchas de estas webs es marcar una casilla donde afirmas tener más de 18 años y que lo destinarás a investigación. Pero lo que ocurra después, depende únicamente del comprador. Casilla de verificación de mayoría de edad y de compromiso de uso con un fin concreto. Un aviso. Para entender por qué es tan peligroso comprar este tipo en webs que parecen completamente legítimas, nos podemos ir a un aviso que ha lanzado la autoridad reguladora australiana, conocida como la Therapeutic Goods Administration (TGA), que publicó el caso de un paciente que sufrió vómitos incontrolables y una rotura del esófago tras utilizar un producto vendido como retratrutida. Pero la sorpresa fue que, tras analizar este vial, no se encontró rastro de retatrutida, sino que el vial contenía semaglutida en una concentración ocho veces superior a la habitual en estos productos. Ante esto, la agencia recomienda no utilizar productos peptídicos no aprobados, especialmente si proceden de internet, del extranjero o están en viales sin etiquetado. La ruleta rusa. Comprar estas sustancias fuera de los canales oficiales implica un riesgo extremo en cuanto a la concentración de los principios activos. Un análisis químico publicado en la revista Clinical Case Reports analizó tres productos adquiridos en el mercado no regulado y en cuya etiqueta se informaba que contenían 10 mg de retatrutida. El problema fue que ninguno de estos viales contenía la concentración declarada, estando a veces muy por encima o muy por debajo de la concentración que esperaríamos. El aviso oficial. Como hemos comentado anteriormente, esta molécula está ahora mismo bajo investigación, y aquí la FDA aclara que la retatrutida y la cagrilintida no forman parte de medicamentos aprobados y no han demostrado seguridad y eficacia para ninguna indicación autorizada. Además, la agencia ha advertido contra empresas que comercializan semaglutida, tirzepatida, retatrutida, survodutida y mazdutida sin aprobación, puesto que, como dijimos, es muy común encontrar páginas que intentan sortear la ley añadiendo etiquetas como \"solo para investigación\". Las redes. La viralidad de estos productos magnifica el problema, puesto que ahora mismo es fácil encontrar miles de publicaciones promocionando este producto y contando todas sus \"bondades\". Y esto ha hecho que ahora mismo, entre las personas que quieren ver resultados rápidos en su físico, se haya convertido en una especie de 'santo grial'. Vía | The Conversation En Xataka | La obsesión por los péptidos: del milagro antiedad con aval científico al peligroso mundo del 'looksmaxxing' inyectable - La noticia Comprar péptidos para adelgazar por internet es sorprendentemente fácil. Nadie parece comprobar qué vas a hacer con ellos fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Sevilla - FC Barcelona, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga",
-    "medio": "El Español",
-    "fecha": 1789842600.0,
-    "link": "https://www.elespanol.com/deportes/20260919/sevilla-fc-barcelona-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744389641_22.html",
-    "resumen": "El Sevilla FC recibe al FC Barcelona en el Estadio Ramón Sánchez-Pizjuán para disputar un apasionante compromiso de La Liga. Ambos conjuntos buscan afianzar sus aspiraciones ligueras en un choque con máxima intensidad y dinamismo sobre el césped."
-  },
-  {
-    "titulo": "Un Laprovittola estelar guía al Joventut a la final de la Supercopa en su retorno a Badalona",
-    "medio": "La Vanguardia",
-    "fecha": 1789842161.0,
-    "link": "https://www.lavanguardia.com/deportes/baloncesto/20260919/11639228/laprovittola-estelar-guia-joventut-final-supercopa-retorno-badalona.html",
-    "resumen": "El argentino anota 27 puntos y reparte 10 asistencias en la semifinal ante los vitorianos en el Olímpic"
   },
   {
     "titulo": "Naomi Watts habla de lo que está ocurriendo en el mundo y lo resume en seis palabras: \"Tenemos que estar vigilantes\"",
@@ -441,13 +518,6 @@
     "resumen": "El pacto, pendiente de firma, podría ampliar los derechos de Washington y dar a EEUU capacidad para supervisar inversiones extranjeras, aunque los expertos dudan de que suponga un cambio sustancial respecto al acuerdo de 1951 Dinamarca asegura que el acuerdo con EEUU sobre Groenlandia reconoce su integridad territorial y refuerza la “seguridad compartida” El acuerdo sobre Groenlandia está todavía envuelto en incógnitas. Estados Unidos y Dinamarca anunciaron por sorpresa el viernes por la noche un pacto de seguridad negociado durante meses, después de que el presidente estadounidense, Donald Trump, haya expresado reiteradamente sus ambiciones expansionistas para hacerse con el control de la estratégica isla ártica desde que fue reelegido en la Casa Blanca. El acuerdo está pendiente de firmarse la semana que viene en Nueva York, en el marco de la celebración de la Asamblea General de las Naciones Unidas. Según la interpretación de Trump en sus redes sociales, el pacto supone una “victoria” para Estados Unidos, una lectura que contrasta con las valoraciones expresadas en Copenhague y Nuuk, mucho más cautelosas y comedidas, aunque todas las partes han coincidido en destacar los beneficios del acuerdo. Experto danés: “No hay mucho nuevo bajo el sol” A falta de conocer el contenido del pacto, los analistas apuntan a que, por ahora, la mayor pregunta es qué novedades introduce el nuevo texto respecto al acuerdo de defensa sobre la isla ártica firmado por Washington y Copenhague en 1951 y que todavía sigue vigente. Hasta ahora, el pacto daba amplios márgenes a que EEUU pudiera desarrollar su actividad militar, ya que reconoce que la isla tiene importancia para la seguridad estadounidense. En este sentido, el profesor de la Academia de Defensa Danesa, Petter Viggo Jakobsen, cree que “no hay mucha cosa nueva bajo el sol”, señalaba. Según Jakobsen, una de las voces más reconocidas en materia de defensa en Dinamarca, “los EEUU ya tienen amplias posibilidades de presencia militar en Groenlandia”. Por lo que el anuncio de Trump de que EEUU aumentará “inmediatamente” el número de efectivos militares “no significa necesariamente que se hayan otorgado mayores derechos a los norteamericanos con el nuevo acuerdo”. Jakobsen señalaba, sin embargo, un aspecto no menos importante: “Ahora Trump puede decir que ha ganado y que es un presidente brillante, mientras el resto se pone a trabajar”, dijo en una entrevista con TV2. Actualmente, EEUU mantiene una única base militar permanente en Groenlandia, la Pituffik Space Base, donde están destinados alrededor de 150 militares estadounidenses. Sin embargo, en los últimos meses, medios de comunicación daneses han informado de que Washington y Copenhague ya negocian la apertura de tres nuevas instalaciones militares en la isla. Soberanía y autodeterminación Según expresó Trump en la red Truth Social, el nuevo acuerdo otorga “el control permanente sobre la seguridad y sobre todas las otras necesidades de EEUU en Groenlandia”, una cláusula “sin fecha de caducidad y válido de forma infinita”. Este punto es uno de los aspectos que preocupa más al investigador sénior del Instituto Danés de Estudios Internacionales (DIIS), Ulrik Pram Gad, especializado en geopolítica ártica y en las relaciones entre Groenlandia y Dinamarca. Gad apunta a la posibilidad de que el acuerdo permita a EEUU ejercer determinados derechos de manera permanente o sobre nuevos ámbitos que hasta ahora no estaban incluidos en el pacto de seguridad anterior, por lo que “veo una particular línea roja en conceder a EEUU ciertos derechos incondicionalmente para siempre, dependiendo de cómo se formule en el texto del acuerdo, puede ser controvertido”, apuntaba el experto. En referencia a la integridad territorial y a la autonomía de Groenlandia, tanto la primera ministra danesa, Mette Frederiksen, como el primer ministro de Groenlandia, Jens-Frederik Nielsen, destacaron que el nuevo acuerdo “reconoce la soberanía del Reino de Dinamarca” y el derecho a la autodeterminación. El control de las inversiones extranjeras, foco de controversia Una de las principales novedades del acuerdo respecto al firmado en 1951 podría ser, según los expertos consultados, que EEUU se reserve algún tipo de capacidad para supervisar las inversiones extranjeras en Groenlandia: “Es posible que el nuevo acuerdo incluya algún aspecto que otorgue a EEUU un papel, formal o informal, amplio o muy limitado, en la evaluación de las inversiones extranjeras en Groenlandia”, señala el experto Ulrik Pram Gad. Este punto hace referencia a la especial preocupación que ha despertado China por su interés en sectores estratégicos como la minería o las infraestructuras en el Ártico, aunque la presencia real de Pekín en Groenlandia sigue siendo limitada y varios de sus proyectos han quedado paralizados. Para Gad, hay temor de que este mecanismo “se pueda convertir, a la práctica, en una limitación de la capacidad de Groenlandia para decidir sobre sus propias inversiones”, lo que afectaría directamente a su soberanía. ¿Habrá alguna compensación para Groenlandia? Otro de los puntos importantes que hasta ahora no se ha mencionado, según el experto del DIIS, son las posibles compensaciones que Groenlandia podría obtener a cambio de la presencia militar estadounidense. Ulrik Pram Gad recuerda que, desde la perspectiva groenlandesa, las bases estadounidenses no se consideran necesariamente una garantía de protección para la isla. “Creo que nadie en Groenlandia piensa particularmente que su isla necesite defensa”, señala. Por el contrario, “existe un problema relacionado con la protección del medio ambiente y con la limpieza tras la gran cantidad de catástrofes ambientales que han producido las bases estadounidenses”. El investigador considera, por tanto, que habrá que comprobar si el nuevo acuerdo incluye compromisos en materia de contratos para empresas groenlandesas o danesas, protección medioambiental y limpieza de la contaminación heredada de anteriores instalaciones estadounidenses. Por último, Gad se pregunta si el acuerdo alcanzado será capaz de estabilizar las relaciones entre Estados Unidos, Dinamarca y Groenlandia. A su juicio, tanto en Copenhague como, sobre todo, en Nuuk, “hay un fuerte desgaste por la crisis y hay un interés en cerrar el conflicto”, señala. Sin embargo, a la vista de los antecedentes de Trump en materia de cumplimiento de acuerdos internacionales, advierte que “Todavía está por verse si un acuerdo con Donald Trump es realmente un acuerdo.”."
   },
   {
-    "titulo": "Los niños de Gaza regresan a escuelas provisionales y aún bajo ataques",
-    "medio": "La Vanguardia",
-    "fecha": 1789840091.0,
-    "link": "https://www.lavanguardia.com/internacional/20260919/11639219/ninos-gaza-regresan-escuelas-provisionales-aun-ataques.html",
-    "resumen": "Cerca del 98% de los centros educativos han sido destruidos, según la ONU"
-  },
-  {
     "titulo": "La demanda de alquiler se traslada de las capitales a ciudades más pequeñas",
     "medio": "Expansión",
     "fecha": 1789839904.0,
@@ -455,25 +525,11 @@
     "resumen": "Getafe concentra el interés de los posibles arrendatarios por encima de Madrid capital gracias a que cuenta con unos precios más asequibles, y Cornellà de Llobregat hace lo propio en Barcelona. Leer"
   },
   {
-    "titulo": "Reactivado el incendio forestal que calcinó más de 800 hectáreas en la reserva de Tuéjar",
-    "medio": "La Vanguardia",
-    "fecha": 1789839838.0,
-    "link": "https://www.lavanguardia.com/local/valencia/20260919/11639211/reactiva-incendio-forestal-calcino-mas-800-hectareas-reserva-biofera-tuejar.html",
-    "resumen": "Las primeras investigaciones apuntan directamente al “factor humano”, aunque se mantienen abiertas todas las líneas de investigaciónEl fuego calcinó 835 hectáreas, fue estabilizado este miércoles"
-  },
-  {
     "titulo": "En 1931, los humanos abandonaron 4.000 ovejas en una isla remota. 40 años más tarde tuvieron que ir a eliminarlas porque su evolución era un peligro",
     "medio": "Xataka",
     "fecha": 1789839012.0,
     "link": "https://www.xataka.com/ecologia-y-naturaleza/1931-humanos-abandonaron-4-000-ovejas-isla-remota-40-anos-tarde-tuvieron-que-ir-a-eliminarlas-porque-su-evolucion-era-peligro",
     "resumen": "Cuando los últimos habitantes de una explotación ganadera abandonaron Campbell Island, dejaron atrás unas 4.000 ovejas. Durante las cuatro décadas siguientes, aquellos animales sobrevivieron sin pastores, esquileo ni selección artificial en una isla subantártica azotada por el viento y la humedad. Cuando los humanos regresaron en los años setenta, encontraron una población con características singulares, pero también un problema: estaban destruyendo la isla y había llegado el momento de eliminarlas. Una granja muy lejos de todo. Campbell Island se encuentra en pleno océano Austral, a más de 600 kilómetros al sur de Nueva Zelanda continental, y nunca fue un lugar sencillo para mantener una explotación ganadera. Las primeras 400 ovejas llegaron en 1895 y posteriormente se introdujeron miles más, procedentes de diferentes cruces de merinos, Lincoln y Leicester. El viento, la humedad, los suelos de turba y, sobre todo, un transporte marítimo irregular convertían cualquier operación cotidiana en un problema, hasta el punto de que encontrar trabajadores dispuestos a soportar semejante aislamiento también resultaba complicado. En Xataka En 1807, arrojaron cerdos en una isla para que los náufragos pudieran comérselos. 192 años después, encontraron criaturas muy distintas Se marchan los humanos sin las ovejas. El último intento de mantener el negocio correspondió a John Warren, que todavía introdujo unas 5.000 ovejas en 1927. El desplome posterior de los precios de la carne y la lana, unido a los enormes problemas de abastecimiento y a los efectos de la Gran Depresión, terminó haciendo inviable la explotación. Warren abandonó finalmente la isla prácticamente arruinado en 1931. Detrás quedaron alrededor de 4.000 ovejas y entre 20 y 30 reses que, de un día para otro, dejaron de ser ganado gestionado por humanos y comenzaron a sobrevivir por su cuenta. Campbell Island 40 años al libre albedrío. Las ovejas dejaron de ser esquiladas, alimentadas, protegidas y seleccionadas por ganaderos, de modo que sobrevivir y reproducirse pasó a depender de su capacidad para soportar las condiciones de Campbell Island. La población sufrió primero una enorme criba: después de haber superado los 8.000 ejemplares durante la etapa ganadera, hacia 1961 quedaban alrededor de 1.000, aunque durante los años sesenta volvieron a aumentar hasta aproximarse a los 3.000. Los estudios posteriores encontraron características especialmente útiles para aquella vida salvaje, como la capacidad de desprenderse por sí mismas de parte del vellón, reproducirse desde aproximadamente un año de edad y presentar mayores tasas de reproducción que durante algunos periodos de la antigua explotación. Parecían normales, pero no lo eran. Décadas de aislamiento convirtieron aquella población en un pequeño experimento involuntario de selección natural, aunque no todos los rasgos observados pueden atribuirse con certeza exclusivamente a la evolución ocurrida en la isla. Se documentó resistencia a problemas como la podredumbre de las pezuñas y posteriormente se describieron comportamientos llamativos, como hembras capaces de parir de pie y corderos vigorosos que podían caminar pocos minutos después de nacer. Eran animales resistentes y capaces de desenvolverse sin muchos de los cuidados asociados a un rebaño doméstico, precisamente porque durante generaciones los ejemplares menos adaptados habían tenido muchas menos posibilidades de sobrevivir y reproducirse. Ovejas en la isla Campbell Devorando la isla. Lo que resultaba fascinante para los investigadores era desastroso para Campbell Island. Las ovejas llevaban décadas pastando sobre comunidades vegetales que habían evolucionado sin grandes herbívoros terrestres y estaban alterando seriamente la flora autóctona, sumándose al impacto histórico provocado por otras especies introducidas como ratas, cerdos y cabras. Cuando Campbell Island se convirtió en reserva en 1954, conservar aquel rebaño asilvestrado dejó de tener sentido: proteger el ecosistema significaba eliminar precisamente a los animales que habían demostrado ser capaces de sobrevivir allí. La caza. Casi cuatro décadas después del abandono de la granja, Nueva Zelanda levantó una valla que atravesaba la isla y comenzó a eliminar las ovejas situadas al norte de la barrera. Las del sur permanecieron temporalmente, creando además un enorme experimento de campo que permitía comparar cómo respondía la vegetación cuando desaparecía el pastoreo. La erradicación continuó durante los años siguientes hasta acabar con la población salvaje a finales de los ochenta y comienzos de los noventa, permitiendo que plantas autóctonas castigadas durante décadas comenzaran a recuperar el terreno perdido. Salvar a diez. Aquí aparece la última paradoja de la historia. Las ovejas tenían que desaparecer de Campbell Island para proteger su naturaleza, pero décadas de aislamiento habían convertido a aquella población en algo genéticamente demasiado interesante como para permitir que desapareciera por completo. Durante los veranos de 1975-1976 se seleccionaron diez ejemplares y se trasladaron a Nueva Zelanda continental, donde sus descendientes fueron mantenidos como una población pura y permitieron conservar características desarrolladas durante aproximadamente 45 años de vida salvaje. En Xataka En 1940 Japón eliminó esta isla de los mapas para mantener en secreto sus actividades. Ahora sus criaturas están muriendo Una rareza que proteger. Los descendientes de aquellos animales sobrevivieron después en explotaciones neozelandesas y Campbell Island sheep pasó a considerarse una población rara cuyo principal valor reside precisamente en su singular patrimonio genético. Es el extraño desenlace de un experimento que nadie había planeado: los humanos introdujeron ovejas en una isla remota, abandonaron unas 4.000 cuando el negocio quebró y regresaron 40 años después para exterminar a sus descendientes porque amenazaban el ecosistema. Pero antes de hacerlo se llevaron una pequeña muestra a casa, conservando fuera de Campbell Island aquello que la selección natural había producido mientras nadie estaba mirando. Imagen | PickPick, Albatross2147. MNZ En Xataka | En 1871 un granjero abandonó a su suerte a cinco vacas en una isla remota. Contra todo pronóstico, colonizaron la isla En Xataka | En 1940 una criatura se coló en una isla de EEUU y devoró todo. Hoy conviven solas dos de las especies más temidas por los humanos - La noticia En 1931, los humanos abandonaron 4.000 ovejas en una isla remota. 40 años más tarde tuvieron que ir a eliminarlas porque su evolución era un peligro fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
-    "titulo": "Segundo crimen de este sábado en Madrid: hallan a una mujer muerta a puñaladas en Leganés",
-    "medio": "El Mundo",
-    "fecha": 1789838973.0,
-    "link": "https://www.elmundo.es/madrid/2026/09/19/6aaec277e85ece31318b456f.html",
-    "resumen": "Un hombre ha encontrado el cuerpo de su hija al entrar en la vivienda y la Policía investiga si se trata de violencia machista Leer"
   },
   {
     "titulo": "Llega la nueva era de la guerra controlada con IA",
@@ -490,25 +546,11 @@
     "resumen": "Aunque la IA promete revolucionar la sanidad, la falta de transparencia en los algoritmos médicos suponen un riesgo para los pacientes. Urgen ensayos reales y una supervisión independiente. Leer"
   },
   {
-    "titulo": "¡Otro de Raphinha! (1-3) | El Barça busca seguir su racha en su visita al Sevilla",
-    "medio": "La Vanguardia",
-    "fecha": 1789838753.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20260919/11639029/sevilla-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-    "resumen": "🔴 SEGUNDA PARTE | Sevilla 1- FC Barcelona 3"
-  },
-  {
     "titulo": "Interior pide que el España-México Sub-20 no se juegue en Ceuta porque \"la tensión\" le impide \"garantizar la seguridad\"",
     "medio": "El Español",
     "fecha": 1789837960.0,
     "link": "https://www.elespanol.com/deportes/futbol/20260919/interior-desaconseja-espana-mexico-sub-20-ceuta-no-poder-garantizar-seguridad-situacion-ciudad/1003744389850_0.html",
     "resumen": "La Policía alerta de la presión migratoria, la conflictividad social y las carencias de seguridad del Alfonso Murube para un partido de especial difusión.Más información: El '¿y ahora qué?' de la Selección: bloque continuista, tres 'fichajes' y el reto de mantener el hambre para prolongar el ciclo ganador"
-  },
-  {
-    "titulo": "Interior pide a la Federación que cancele el amistoso de la selección sub-20 en Ceuta",
-    "medio": "The Objective",
-    "fecha": 1789837911.0,
-    "link": "https://theobjective.com/deportes/2026-09-19/interior-pide-federacion-cancele-amistoso-seleccion-sub-20-ceuta/",
-    "resumen": "El Ministerio del Interior ha solicitado que se cancele el partido amistoso de la selección española sub-20 de fútbol contra la de México previsto para el […]"
   },
   {
     "titulo": "Chips: los soportes esperan más abajo",
@@ -518,13 +560,6 @@
     "resumen": "El índice SOX de los chips presenta un magnífico soporte en el rango de los 10.000-10.200 puntos. Leer"
   },
   {
-    "titulo": "El diminuto pueblo de Zaragoza con unas vistas de vértigo: 29 habitantes, calles imposibles y casas que desafían al terreno",
-    "medio": "Trendencias",
-    "fecha": 1789837212.0,
-    "link": "https://www.trendencias.com/viajes/diminuto-pueblo-zaragoza-unas-vistas-vertigo-29-habitantes-calles-imposibles-casas-que-desafian-al-terreno",
-    "resumen": "Desde la carretera, Purujosa parece hacer mantenerse haciendo equilibrios sobre la montaña. Sus casas de piedra se apiñan en lo alto de un espolón rocoso, entre el río Isuela y el barranco de la Virgen, como si el suelo llano fuera un lujo innecesario. Este municipio zaragozano, de apenas 29 habitantes, forma parte de la Comarca del Aranda, en la cara menos conocida del Parque Natural del Moncayo. De hecho, lo llaman \"la puerta del Moncayo\" y ofrece al visitante calles empinadas, casas sobresaliendo de la roca y un paisaje de barrancos, cuevas y paredes calizas en las afueras del casco urbano. Qué ver en Purujosa Recorrer Purujosa no lleva demasiado tiempo si hablamos en metros, aunque sus cuestas ya se encargan de que el paseo cunda... Entre las casas sobresale la iglesia de El Salvador, un templo del siglo XIII que ocupa la parte alta del pueblo. El entramado de calles de piedra, las fachadas tradicionales y las vistas al valle completan una visita en la que el monumento es la ubicación en sí misma. Turismo de Aragón Otro de sus rincones destacados es la ermita de la Virgen de Constantín, situada a las afueras y rodeada por el paisaje del Moncayo. También merece la pena acercarse al área del río Isuela y contemplar el pueblo desde abajo: es desde cierta distancia cuando mejor se entiende cómo han conseguido colocar todas esas casas sobre una superficie que parece más apta para las cabras que para las personas. El entorno de Purujosa conserva además cuevas y barrancos con restos que que hablan de una ocupación humana muy antigua. En la cueva de los Rincones se han encontrado herramientas de piedra asociadas a los neandertales, aunque se trata de un yacimiento arqueológico y no de una cueva turística que admita visitas. Turismo Comarca del Aranda Dónde comer rico y barato en Purujosa Con solo 29 habitantes, Purujosa no dispone precisamente de una calle llena de terrazas. La oferta es muy reducida. En la cercana Calcena se encuentra el Albergue de Calcena, que ofrece menús y cocina para salir del paso, una opción sencilla para recuperar fuerzas después de tanta cuesta. Otra alternativa es el Camping Municipal de Trasobares. Aunque la mejor opción es llevarse la comida de casa y aprovechar las zonas recreativas del entorno, siempre respetando cualquier restricción. Qué hacer en los alrededores de Purujosa Purujosa pertenece al Parque Natural del Moncayo y funciona como punto de partida de varias rutas entre barrancos. Una de las más conocidas recorre los de Cuartún y Valcongosto y permite acercarse a cavidades como la cueva de Cuartún. El terreno es montañoso y algunos senderos tienen una dificultad moderada, por lo que conviene consultar el recorrido, el desnivel y las condiciones meteorológicas antes de empezar. Turismo de Calcena Por la zona pasa también el GR 90, el sendero de gran recorrido que atraviesa las tierras del Moncayo. Lo bueno es que no es necesario hacer una etapa entera para disfrutar del paisaje sino que se pueden elegir tramos más cortos entre paredones calizos, encinares y desfiladeros. Para rutas más exigentes o actividades de espeleología y escalada, lo recomendable es recurrir a empresas especializadas de la zona. La escapada puede completarse en Calcena, otro pequeño pueblo rodeado de formaciones calizas y muy vinculado a la escalada, o en Trasobares, donde se conservan la iglesia y la portada barroca del antiguo monasterio cisterciense. Son paradas tranquilas y sin colas ni fomo. En esta parte de Zaragoza, el plan consiste precisamente en todo lo contrario. Es reconfortane comprobar que todavía quedan pueblos escondidos entre las montañas. Foto de portada | Diego Delso En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En DAP | Adiós a la típica cocina alargada y estrecha: la reforma sin grandes obras que las arquitectas recomiendan para ganar luz en pisos pequeños En Xataka | En 1807, arrojaron cerdos en una isla para que los náufragos pudieran comérselos. 192 años después, encontraron criaturas muy distintas - La noticia El diminuto pueblo de Zaragoza con unas vistas de vértigo: 29 habitantes, calles imposibles y casas que desafían al terreno fue publicada originalmente en Trendencias por María Yuste ."
-  },
-  {
     "titulo": "No hace falta entrenar durante horas: 10 minutos de carrera suave ya tienen efectos en el cerebro",
     "medio": "Xataka",
     "fecha": 1789837212.0,
@@ -532,11 +567,11 @@
     "resumen": "Hacer ejercicio es un precepto que se ha convertido en algo prácticamente obligatorio para todos si queremos mantener una buena calidad de vida cuando se llegue a la tercera edad, pero la gran pregunta está en cuánto tiempo hay que dedicar para que sea eficiente y conseguir todos sus beneficios. Y el cerebro es uno de esos grandes beneficiados, incluso cuando le dedicamos muy poco tiempo al día. Un estudio liderado por un equipo de la Universidad de Tsukuba en Japón quiso analizar el efecto del deporte en un grupo de 24 adultos sanos y jóvenes. Para ello, se sometió a los participantes a dos condiciones muy diferentes aleatorizadas. Por un lado, se contó con una sesión de 10 minutos de carrera muy lenta en cinta a una intensidad muy \"light\" de entre 3 y 6 km/h, y por otro lado, se hizo una sesión de 10 minutos en reposo, sentados. Una comparación. La clave aquí está en que antes y después de cada prueba, los científicos midieron su función ejecutiva mediante el test de Stroop, y evaluaron su estado de ánimo con una escala validada y monitorizaron la actividad de la corteza prefrontal utilizando espectroscopia funcional de infrarrojos cercano. En Xataka Los expertos coinciden: caminar media hora al día por encima de los 60 años es suficiente para alargar la vida El efecto sobre el cerebro. Con solo 10 minutos de un paseo muy relajado, se vio cómo el estado de ánimo de los participantes se volvió más positivo y agradable de forma inmediata. Además, se registró un menor tiempo de interferencia en el test de Stroop, lo que significa que el ejercicio mejoró su función ejecutiva, haciéndoles más rápidos y eficientes a la hora de controlar la inhibición y la atención. A esto se suma también el resultado de los escáneres que mostraron una mayor activación en la corteza prefrontal izquierda, en concreto en las regiones dorsolateral y frontopolar, que son áreas ligadas a la regulación emocional y el control cognitivo. Pero quizás el dato más curioso es que la aceleración vertical de la cabeza mostró una correlación positiva con la mejora del ánimo. Tiene limitaciones. A pesar de los buenos resultados, debemos tener en cuenta que se trata de una muestra muy pequeña con 24 personas y los efectos beneficiosos se han medido en un momento muy concreto tras la sesión de ejercicio. Es por ello que quedan algunos flecos sueltos, como el efecto sobre el desarrollo de una demencia, aunque para eso si tenemos otros estudios que si apuntan a que el ejercicio es fundamental para tener menos papeletas de sufrir una enfermedad neurodegenerativa. En Xataka Los expertos coinciden: caminar media hora al día por encima de los 60 años es suficiente para alargar la vida Envejecimiento cerebral. En esta línea, son muchos los estudios que nos apuntan a los beneficios sobre nuestro cerebro, como por ejemplo un trabajo publicado en 2023 por el Journal of Epidemiology & Community Health, donde se demostró que realizar tan solo entre 6 y 9 minutos de actividad de intensidad de moderada a vigorosa al día ya se asocia con mejores puntuaciones cognitivas, demostrando que esfuerzos más intensos y breves también tienen impacto. Y es que mejorar nuestra forma física tiene un reflejo directo en la anatomía del cerebro, como demostró un estudio en 2020 que relacionó una mejor condición cardiorrespiratoria con un mayor volumen de materia gris en las áreas del cerebro implicadas en el desarrollo del alzhéimer y el envejecimiento cognitivo. Imágenes | Andrea Piacquadio En Xataka | Caminar o subir escaleras a partir de los 60: la ciencia tiene claro qué ejercicio exige más a tus piernas - La noticia No hace falta entrenar durante horas: 10 minutos de carrera suave ya tienen efectos en el cerebro fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "\"Vamos tarde\": la inquietud se apodera de Sumar tras los portazos de Bustinduy, Urtasun, Colau o Garzón y con Podemos lanzando una 'opa'",
-    "medio": "El Mundo",
-    "fecha": 1789837207.0,
-    "link": "https://www.elmundo.es/espana/2026/09/19/6aad6a7a21efa06c3e8b4596.html",
-    "resumen": "La alianza se fija octubre como nuevo plazo para anunciar al sustituto de Yolanda Díaz mientras que los 'morados' aceleran Leer"
+    "titulo": "El diminuto pueblo de Zaragoza con unas vistas de vértigo: 29 habitantes, calles imposibles y casas que desafían al terreno",
+    "medio": "Trendencias",
+    "fecha": 1789837212.0,
+    "link": "https://www.trendencias.com/viajes/diminuto-pueblo-zaragoza-unas-vistas-vertigo-29-habitantes-calles-imposibles-casas-que-desafian-al-terreno",
+    "resumen": "Desde la carretera, Purujosa parece hacer mantenerse haciendo equilibrios sobre la montaña. Sus casas de piedra se apiñan en lo alto de un espolón rocoso, entre el río Isuela y el barranco de la Virgen, como si el suelo llano fuera un lujo innecesario. Este municipio zaragozano, de apenas 29 habitantes, forma parte de la Comarca del Aranda, en la cara menos conocida del Parque Natural del Moncayo. De hecho, lo llaman \"la puerta del Moncayo\" y ofrece al visitante calles empinadas, casas sobresaliendo de la roca y un paisaje de barrancos, cuevas y paredes calizas en las afueras del casco urbano. Qué ver en Purujosa Recorrer Purujosa no lleva demasiado tiempo si hablamos en metros, aunque sus cuestas ya se encargan de que el paseo cunda... Entre las casas sobresale la iglesia de El Salvador, un templo del siglo XIII que ocupa la parte alta del pueblo. El entramado de calles de piedra, las fachadas tradicionales y las vistas al valle completan una visita en la que el monumento es la ubicación en sí misma. Turismo de Aragón Otro de sus rincones destacados es la ermita de la Virgen de Constantín, situada a las afueras y rodeada por el paisaje del Moncayo. También merece la pena acercarse al área del río Isuela y contemplar el pueblo desde abajo: es desde cierta distancia cuando mejor se entiende cómo han conseguido colocar todas esas casas sobre una superficie que parece más apta para las cabras que para las personas. El entorno de Purujosa conserva además cuevas y barrancos con restos que que hablan de una ocupación humana muy antigua. En la cueva de los Rincones se han encontrado herramientas de piedra asociadas a los neandertales, aunque se trata de un yacimiento arqueológico y no de una cueva turística que admita visitas. Turismo Comarca del Aranda Dónde comer rico y barato en Purujosa Con solo 29 habitantes, Purujosa no dispone precisamente de una calle llena de terrazas. La oferta es muy reducida. En la cercana Calcena se encuentra el Albergue de Calcena, que ofrece menús y cocina para salir del paso, una opción sencilla para recuperar fuerzas después de tanta cuesta. Otra alternativa es el Camping Municipal de Trasobares. Aunque la mejor opción es llevarse la comida de casa y aprovechar las zonas recreativas del entorno, siempre respetando cualquier restricción. Qué hacer en los alrededores de Purujosa Purujosa pertenece al Parque Natural del Moncayo y funciona como punto de partida de varias rutas entre barrancos. Una de las más conocidas recorre los de Cuartún y Valcongosto y permite acercarse a cavidades como la cueva de Cuartún. El terreno es montañoso y algunos senderos tienen una dificultad moderada, por lo que conviene consultar el recorrido, el desnivel y las condiciones meteorológicas antes de empezar. Turismo de Calcena Por la zona pasa también el GR 90, el sendero de gran recorrido que atraviesa las tierras del Moncayo. Lo bueno es que no es necesario hacer una etapa entera para disfrutar del paisaje sino que se pueden elegir tramos más cortos entre paredones calizos, encinares y desfiladeros. Para rutas más exigentes o actividades de espeleología y escalada, lo recomendable es recurrir a empresas especializadas de la zona. La escapada puede completarse en Calcena, otro pequeño pueblo rodeado de formaciones calizas y muy vinculado a la escalada, o en Trasobares, donde se conservan la iglesia y la portada barroca del antiguo monasterio cisterciense. Son paradas tranquilas y sin colas ni fomo. En esta parte de Zaragoza, el plan consiste precisamente en todo lo contrario. Es reconfortane comprobar que todavía quedan pueblos escondidos entre las montañas. Foto de portada | Diego Delso En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En DAP | Adiós a la típica cocina alargada y estrecha: la reforma sin grandes obras que las arquitectas recomiendan para ganar luz en pisos pequeños En Xataka | En 1807, arrojaron cerdos en una isla para que los náufragos pudieran comérselos. 192 años después, encontraron criaturas muy distintas - La noticia El diminuto pueblo de Zaragoza con unas vistas de vértigo: 29 habitantes, calles imposibles y casas que desafían al terreno fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
     "titulo": "La serie que tienes que ver si te gustan ‘El Padrino’ y ‘Los Soprano’: es buenísima y solo tiene 2 temporadas",
@@ -574,13 +609,6 @@
     "resumen": "Tal y como estaba previsto la cápsula de carga Progress MS-35 se acoplaba de forma automática hace unos minutos al módulo Poisk de la Estación Espacial Internacional, en la que está previsto que permanezca hasta febrero de 2027. Lleva a bordo dos toneladas y media de carga –2.489 kg para ser exactos– que serán sustituidas por material de desecho y ya no necesario a bordo de la Estación que resultarán destruidos en una reentrada controlada en la atmósfera junto con la cápsula al final de su misión. Esquema de la Estación Espacial Internacional y las naves que tiene acopladas tras la llegada de la Progress MS-35, a la que la NASA se refiere como Progress 96 porque ese es su número de orden en cuanto a cápsulas Progress que han ido a la EEI – NASA La mayor parte corresponde a 842 kg de combustible para el sistema de propulsión del segmento ruso de la Estación, aunque también hay 420 kg de agua y 50 kg de oxígeno. Los alimentos se llevan 275 kg de la capacidad de carga e incluyen casi 21 kilos de «chuches» para la tripulación como caramelos o piñones. Otro 357 kg son de productos de higiene y sanitarios, a los que hay que sumar 20 kg de productos especiales para contrarrestar los efectos negativos de la microgravedad. Otra parte importante de la carga son instrumentos científicos y el material consumible necesario para llevarlos a cabo con un total de 525 kg. Los nuevos experimentos son Gazoanalizator-FS, Teledroid, Biopolimer, Virtual, Vampir, Uragan y Separatsiya. Es la primera Progress que ha sido lanzada con un cohete Soyuz-2-1b, que es el que Roscosmos pretende establecer como estándar el lugar del Soyuz-2-1a. El utilizarlo con una Progress es un primer paso para certificarlo para lanzamientos de cápsulas tripuladas Soyuz. Relacionado, Termina la misión a la Estación Espacial Internacional de la cápsula de carga Dragon 34 La Soyuz MS-29 lleva tres nuevos tripulantes a la Estación Espacial Internacional Termina la misión de la cápsula tripulada Soyuz MS-28 La Estación Espacial Internacional ya está lista para recibir su octavo y último panel solar desenrollable # Enlace permanente"
   },
   {
-    "titulo": "Concentración en Madrid «contra el racismo» sufrido por los inmigrantes en Ceuta",
-    "medio": "The Objective",
-    "fecha": 1789834675.0,
-    "link": "https://theobjective.com/actualidad/2026-09-19/concentracion-madrid-racismo-sufrido-inmigrantes-ceuta/",
-    "resumen": "Representantes de SOS Racismo Madrid, el Colectivo Migrantes Transgresorxs y Border Resistance han condenado este sábado en Madrid la «frontera colonial y racista» de Ceuta y […]"
-  },
-  {
     "titulo": "Hoy en Netflix: el thriller de José Coronado y Luis Zahera perfecto para maratonear",
     "medio": "Trendencias",
     "fecha": 1789833613.0,
@@ -607,13 +635,6 @@
     "fecha": 1789833600.0,
     "link": "https://hipertextual.com/mobile/grapheneos-critica-google-api-android-17/",
     "resumen": "GrapheneOS se ha convertido en la solución ideal para quienes desean tener una experiencia enfocada en la privacidad al usar un móvil. El sistema operativo basado en Android está vitaminado con una gran cantidad de funciones pensadas en proteger a los usuarios de cualquier tipo de intromisión, incluyendo la opción de borrar el teléfono por […] Seguir leyendo: GrapheneOS dispara contra Google por restringir funciones de Android 17: ¿Qué está pasando?"
-  },
-  {
-    "titulo": "Landaluce reclama información al Gobierno sobre los movimientos que se están produciendo en torno al CIE de Algeciras por el traslado de argelinos",
-    "medio": "El Mundo",
-    "fecha": 1789832907.0,
-    "link": "https://www.elmundo.es/espana/2026/09/19/6aaeaec1fdddffbe4a8b4573.html",
-    "resumen": "Autocares con varios ciudadanos de este país llegan al puerto y la ciudadanía muestra su preocupación tras lo que se está viviendo en Ceuta Leer"
   },
   {
     "titulo": "The Prospects for a 2028 May Day Mass Strike",
@@ -658,13 +679,6 @@
     "resumen": "La diputada en el Parlament dejará el escaño si sale elegida en las elecciones municipales y se presentará en una nueva coalición de la CUP con ComunistesCollboni, Martí, Pisarello o Alamany: los alcaldables por Barcelona están decididos y se preparan para un año de campaña Laure Vega ha sido ratificada como candidata de la CUP por Barcelona a las elecciones municipales de mayo de 2027. La CUP ha avalado este sábado su designación como cabeza de lista de la formación, una vez culminado el proceso interno de la candidatura, impulsada por la CUP, Comunistas y personas a título individual. La diputada ha aceptado el nombramiento como un “honor”, y ha esbozado las líneas de su candidatura. “Si nos presentamos es porque nos están robando Barcelona; las promesas más básicas se han roto”, ha manifestado Vega en referencia al coste de la vida, el problema del acceso a la vivienda o el uso del catalán en la ciudad. La diputada de la CUP en el Parlament ha confirmado que si se convierte en concejala dejará su escaño, pero no antes. Vega encabezará la candidatura unitaria impulsada por la CUP, Comunistas y activistas de Barcelona. La candidatura se define como un espacio “amplio, independentista y anticapitalista”. Los anticapitalistas quieren revertir la situación de los últimos años en la capital catalana. En las dos últimas elecciones municipales, las de 2023 y 2019, la candidatura no ha obtenido representación en el Ayuntamiento de Barcelona. En 2019 la formación independentista perdió a los 3 concejales que había conseguido en 2015. Laure Vega será la cabeza de lista, y el resto de nombres todavía no se han anunciado. La candidatura prepara un acto público para el 17 de octubre, en Barcelona, para presentar el proyecto político de cara a las elecciones municipales. Este sábado, la candidata ha agradecido su nombramiento, y ha dicho que cuenta no sólo con el apoyo de las organizaciones sino también de “muchísimas personas” del tejido vecinal y de los movimientos social, “la gente que está haciendo que esta sociedad sea un poco habitable”. “Y eso quiere decir que es un honor representar esta candidatura”, ha remachado. “Nos están robando Barcelona” El día de su nombramiento, Laure Vega ha argumentado que la CUP se presenta a las elecciones municipales en la capital catalana con una proclama: “Nos están robando Barcelona”. Para sostenerlo ha enumerado algunas situaciones que la formación quiere revertir. “Las promesas más básicas están rotas: Tú puedes trabajar 40 o 48 horas y eso no asegura que puedas quedarte de tu casa, que puedas quedarte en tu casa, del calor en un verano que ha sido infierno”, ha dicho. En segundo lugar, ha seguido, “sufrimos una humillación constante: es imposible vivir en tu lengua en esta ciudad, esto no tiene ningún sentido, no podemos seguir manteniendo un modelo depredador del turismo”. Preguntada por si mantendrá su escaño en el Parlament en caso de ser elegida como concejala en Barcelona, ha aseverado que la CUP “tiene muy claro” que no se pueden acumular cargos, pero en todo caso ha aplazado su adiós a la cámara catalana hasta el día de las elecciones, en caso de que salga elegida. “Ahora mismo estamos en una carrera, la de las elecciones al Ayuntamiento de Barcelona y, por tanto, yo mantendré mi escaño de diputada hasta que entremos en el Ayuntamiento de Barcelona”, ha expuesto."
   },
   {
-    "titulo": "Interior pide cancelar el partido de la Selección Sub 20 en Ceuta por la \"presión migratoria existente\" y el \"clima de tensión en la vía pública\"",
-    "medio": "El Mundo",
-    "fecha": 1789830554.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/09/19/6aaea12121efa0bf2b8b456d.html",
-    "resumen": "El departamento que dirige Fernando Grande-Marlaska se opone a la celebración del encuentro amistoso fijado para el próximo 30 de septiembre contra México, organizado por la Federación como muestra de apoyo a los ceutíes Leer"
-  },
-  {
     "titulo": "La Casa Blanca impide el acceso a sus instalaciones a los periodistas de CNN y MS NOW tras el veto de Trump",
     "medio": "El Español",
     "fecha": 1789830190.0,
@@ -693,20 +707,6 @@
     "resumen": "Plenty of contemporary comedy gazes upon American stupidity and concludes that Americans are stupid. The Chapo Trap House anthology Chunks suggests instead that people behave strangely because the world around them has become so strange."
   },
   {
-    "titulo": "Dictan prisión preventiva en México para el presunto asesino de la española Claudia Tacoronte",
-    "medio": "Europa Press",
-    "fecha": 1789826940.0,
-    "link": "https://www.europapress.es/internacional/noticia-dictan-prision-preventiva-mexico-presunto-asesino-espanola-claudia-tacoronte-20260919160900.html",
-    "resumen": "Una jueza de control ha dictado prisión preventiva contra Francisco Javier N. por su probable participación en el asesinato de la estudiante española Claudia Tacoronte, el pasado 12 de septiembre en el interior de la Casa de Cultura de Cuautla, en el estado mexicano de Morelos."
-  },
-  {
-    "titulo": "Mourinho: \"¿La camiseta de Ceuta? Yo hablo de fútbol\"",
-    "medio": "El Mundo",
-    "fecha": 1789826767.0,
-    "link": "https://www.elmundo.es/deportes/futbol/2026/09/19/6aae8df9e85eced0558b459d.html",
-    "resumen": "El portugués se desmarca de la polémica con Mbappé, Vinicius y Konaté justo antes del derbi contra el Atlético: \"No es un examen, no soy pesimista\" Leer"
-  },
-  {
     "titulo": "Hola, otoño: Zara dice adiós a las sandalias con estos zapatos de tendencia que llevaremos con vaqueros, faldas y vestidos",
     "medio": "Trendencias",
     "fecha": 1789826412.0,
@@ -733,13 +733,6 @@
     "fecha": 1789823673.0,
     "link": "https://www.elespanol.com/reportajes/20260919/cientos-ceuties-acampan-asentamientos-migrantes-no-racistas-invadieron-seguimos/1003744389758_0.html",
     "resumen": "En modo de protesta, cientos de ceutíes instalaron tiendas de campaña con mensajes alusivos a la invasión de las playas en Ceuta.Otras historias: Los migrantes se extienden en los puntos críticos de Ceuta: 1.600 ocupan ya el puerto pero las playas vuelven a estar llenas"
-  },
-  {
-    "titulo": "Carmen Machi ensalza el \"universo femenino de la mujer madura\" en el Premio Nacional: \"Interesa, y mucho\"",
-    "medio": "Europa Press",
-    "fecha": 1789823476.0,
-    "link": "https://www.europapress.es/cultura/cine-00128/noticia-carmen-machi-ensalza-universo-femenino-mujer-madura-premio-nacional-interesa-mucho-20260919151116.html",
-    "resumen": "La actriz Carmen Machi ha recibido este sábado, de manos del ministro de Cultura, Ernest Urtasun, el Premio Nacional de Cinematografía 2026 y ha ensalzado el \"universo femenino de la mujer madura\" en su discurso de agradecimiento, en el que también ha confesado que es consciente de la \"suerte\" que ha tenido con una profesión que le ha brindado una vida \"maravillosa\"."
   },
   {
     "titulo": "¿Tiene ‘Resident Evil’ escena post-créditos?",
@@ -803,6 +796,13 @@
     "fecha": 1789809612.0,
     "link": "https://www.europapress.es/nacional/noticia-audiencia-nacional-admite-recurso-sup-contra-dispositivo-migrantes-puerto-ceuta-20260919112012.html",
     "resumen": "La Audiencia Nacional ha admitido a trámite el recurso contencioso-administrativo interpuesto por el Sindicato Unificado de Policía (SUP) contra la resolución del Ministerio de Transportes que autorizó la instalación del dispositivo de acogida de migrantes en el puerto de Ceuta, según ha informado la organización sindical en un comunicado este sábado."
+  },
+  {
+    "titulo": "El PP vuelve a citar en el Senado a Marlaska, Robles y Albares por la crisis de Ceuta tras su \"plantón\" en agosto",
+    "medio": "Europa Press",
+    "fecha": 1789808799.0,
+    "link": "https://www.europapress.es/nacional/noticia-pp-vuelve-citar-senado-marlaska-robles-albares-crisis-ceuta-planton-agosto-20260919110639.html",
+    "resumen": "El PP ha vuelto a registrar la solicitud de comparecencia en el Senado de los ministros de Interior, Exteriores y Defensa, Fernando Grande-Marlaska, José Manuel Albares y Margarita Robles, respectivamente, después de que \"dieran plantón\" a la Cámara Alta en agosto cuando fueron llamados para comparecer por la crisis en Ceuta y se ausentaron."
   },
   {
     "titulo": "Tengo un iPhone antiguo, ¿merece la pena actualizar al iPhone 18 Pro?",
