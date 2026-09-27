@@ -1,17 +1,227 @@
 [
   {
+    "titulo": "Manifestación contra los desahucios, en directo | Los manifestantes por la crisis de la vivienda acampan en Sol y animan a la gente a que se una",
+    "medio": "El País",
+    "fecha": 1790469696.0,
+    "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
+    "resumen": "El Sindicato de Inquilinas, sobre la acampada: “La manifestación no nos bastaba” | Decenas de miles de personas recorren Madrid en protesta por los alquileres y los desahucios: “Nos quedamos sin casa”"
+  },
+  {
+    "titulo": "A qué hora empiezan los partidos de Carlos Alcaraz y Rafa Jódar en la Laver Cup 2026 y cómo ver por televisión en directo y en streaming gratis",
+    "medio": "OK Diario",
+    "fecha": 1790469463.0,
+    "link": "https://okdiario.com/deportes/que-hora-empiezan-partidos-carlos-alcaraz-rafa-jodar-laver-cup-2026-como-ver-television-directo-streaming-gratis-20406143",
+    "resumen": "La Laver Cup 2026 se decide hoy, domingo 27 de septiembre, en Londres y Europa llega a esta fecha por delante en el marcador, ya que van ganando 7-5 al resto del mundo. Carlos Alcaraz y Rafa Jódar se enfrentarán a Álex de Miñaur y a Taylor Fritz respectivamente en dos choques que podrían acabar … Continuar leyendo \"A qué hora empiezan los partidos de Carlos Alcaraz y Rafa Jódar en la Laver Cup 2026 y cómo ver por televisión en directo y en streaming gratis\""
+  },
+  {
+    "titulo": "Peinado se jubila: de la reflexión de Sánchez a la reflexión de un jurado",
+    "medio": "El Mundo",
+    "fecha": 1790464620.0,
+    "link": "https://www.elmundo.es/espana/2026/09/27/6ab7ef3ce85ece8d248b4594.html",
+    "resumen": "El magistrado cumple 72 años y deja los juzgados tras enviar al banquillo a la esposa del presidente del Gobierno Leer"
+  },
+  {
+    "titulo": "La indignación por la vivienda desemboca en un 15-M para Sánchez: \"O cae el rentismo, o cae el Gobierno\"",
+    "medio": "El Mundo",
+    "fecha": 1790464615.0,
+    "link": "https://www.elmundo.es/espana/2026/09/27/6ab82f12e4d4d8f14a8b4574.html",
+    "resumen": "Una multitudinaria marcha de indignados termina en una acampada en Sol. \"Nadie mueve un dedo\", afirman los manifestantes Leer"
+  },
+  {
+    "titulo": "Del médico robot a la Superinteligencia",
+    "medio": "El Mundo",
+    "fecha": 1790464614.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/27/6ab7c91be4d4d8d35c8b458c.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "'Operación nuevo orden': Así liquidó Israel al líder de Hizbulá, Hasan Nasrala",
+    "medio": "El Mundo",
+    "fecha": 1790464608.0,
+    "link": "https://www.elmundo.es/internacional/2026/09/27/6ab6a20021efa0a5628b45dd.html",
+    "resumen": "El jefe de la Sección de Operaciones del ejército israelí desvela a EL MUNDO detalles del ataque hace dos años contra el poderoso dirigente de Hizbulá en su búnker en Beirut Leer"
+  },
+  {
+    "titulo": "Génova retrasa cambios en las CCAA para no desviar el foco: \"Toca Ceuta\"",
+    "medio": "El Mundo",
+    "fecha": 1790464607.0,
+    "link": "https://www.elmundo.es/espana/2026/09/27/6ab80b9721efa077548b4595.html",
+    "resumen": "El lunes convocará varios congresos, pero sin fecha para nombrar a cabezas de lista clave Leer"
+  },
+  {
+    "titulo": "Los restos de Ciudadanos en la Comunidad de Madrid: un alcalde \"más solo que la una\", 17 concejales y un piso \"reducido\" como sede",
+    "medio": "El Mundo",
+    "fecha": 1790464605.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/27/6ab78fd6fc6c835c0b8b458d.html",
+    "resumen": "La formación naranja afronta el tramo final hacia 2027 con una estructura territorial muy mermada y cargos locales que empiezan a plantearse si concurrir de nuevo bajo sus siglas Leer"
+  },
+  {
+    "titulo": "Así se debe actuar cuando una persona convulsiona",
+    "medio": "El Mundo",
+    "fecha": 1790464600.0,
+    "link": "https://www.elmundo.es/salud/2026/09/27/6ab69cf1e4d4d8b4278b459f.html",
+    "resumen": "Actuar frente a las crisis ayudará a evitar secuelas mayores. Además de llamar al 112, se recomienda mantener la atención en la duración y en evitar daños por los movimientos involuntarios Leer"
+  },
+  {
+    "titulo": "La carrera hasta el infierno del Lagarto de Lacoma: \"Descuartizó al Pelos y sus perros se comieron los restos del cadáver. Todo fue por unas anfetaminas\"",
+    "medio": "El Mundo",
+    "fecha": 1790464599.0,
+    "link": "https://www.elmundo.es/madrid/2026/09/27/6ab55000fc6c8342748b4598.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "¿El Anticristo anda por la Tierra?",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644573/anticristo-anda-tierra.html",
+    "resumen": "Entre los candidatos a Anticristo: Trump y Putin, demasiado evidentes; Sánchez, demasiado local"
+  },
+  {
+    "titulo": "El caso de Maricarmen no debe repetirse",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644704/caso-maricarmen-debe-repetirse.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El portero sin miedo al penalti",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644579/portero-miedo-penalti.html",
+    "resumen": "Unai Simón es la antítesis del personaje angustiado y perdido de Peter Handke"
+  },
+  {
+    "titulo": "El insulto y las bajas artes",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644531/insulto-bajas-artes.html",
+    "resumen": "El insulto a Pedro Sánchez es la demostración de un odio feroz que sobrecoge"
+  },
+  {
+    "titulo": "Casas y buitres",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644541/casas-buitres.html",
+    "resumen": "A Maricarmen no solo la han echado sin miramientos, también sin opciones de futuro"
+  },
+  {
+    "titulo": "Mi bola de cristal",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644083/mi-bola-cristal.html",
+    "resumen": "De una u otra manera, cisne negro o rinoceronte gris, el futuro volverá a sorprendernos"
+  },
+  {
+    "titulo": "Comentario de los comentarios",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644536/comentario-comentarios.html",
+    "resumen": "Quien quiera lucirse corre el riesgo de conseguir lo contrario; escribir tiene riesgos"
+  },
+  {
+    "titulo": "Los sentidos de la vida",
+    "medio": "La Vanguardia",
+    "fecha": 1790461800.0,
+    "link": "https://www.lavanguardia.com/opinion/20260927/11644575/sentidos-vida.html",
+    "resumen": "La novela de Puerto Quetglas levanta un refugio en estos tiempos de nihilismo"
+  },
+  {
+    "titulo": "Vídeos muestran a militares golpeando a migrantes en Ceuta en plena crisis fronteriza",
+    "medio": "Moncloa.com",
+    "fecha": 1790461680.0,
+    "link": "https://www.moncloa.com/2026/09/27/militares-ceuta-migrantes-crisis-fronteriza-3438362/",
+    "resumen": "Un medio local verifica vídeos de militares españoles golpeando a migrantes en Ceuta, mientras el Gobierno promete una investigación interna. La entrada Vídeos muestran a militares golpeando a migrantes en Ceuta en plena crisis fronteriza aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El Congreso aprueba la PNL para agilizar las autorizaciones excepcionales de fitosanitarios: a quién beneficia",
+    "medio": "Moncloa.com",
+    "fecha": 1790461675.0,
+    "link": "https://www.moncloa.com/2026/09/27/autorizaciones-excepcionales-fitosanitarios-congreso-3438371/",
+    "resumen": "El Congreso aprueba la PNL de Unión de Uniones para agilizar las autorizaciones excepcionales de fitosanitarios y los usos menores en cultivos sin soluciones. La entrada El Congreso aprueba la PNL para agilizar las autorizaciones excepcionales de fitosanitarios: a quién beneficia aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La caída de la rentabilidad del olivar: ASAJA, COAG, UPA y Cooperativas exigen sanciones penales por fraude",
+    "medio": "Moncloa.com",
+    "fecha": 1790461675.0,
+    "link": "https://www.moncloa.com/2026/09/27/rentabilidad-olivar-almazara-sanciones-fraude-3438369/",
+    "resumen": "ASAJA, COAG, UPA y Cooperativas reclaman sanciones penales contra el fraude y medidas urgentes ante la caída de la rentabilidad del olivar. La entrada La caída de la rentabilidad del olivar: ASAJA, COAG, UPA y Cooperativas exigen sanciones penales por fraude aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Lavrov advierte en la ONU del rearme de la UE y reclama un orden multipolar para Ucrania",
+    "medio": "Moncloa.com",
+    "fecha": 1790461674.0,
+    "link": "https://www.moncloa.com/2026/09/27/lavrov-onu-rearme-ue-multipolar-3438366/",
+    "resumen": "Lavrov advierte en la ONU sobre Ucrania contra el rearme europeo y ofrece a Washington volver a los entendimientos de Anchorage. La entrada Lavrov advierte en la ONU del rearme de la UE y reclama un orden multipolar para Ucrania aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump empuja a Zelenski a negociar con Putin en Moscú al margen de la ONU",
+    "medio": "Moncloa.com",
+    "fecha": 1790461674.0,
+    "link": "https://www.moncloa.com/2026/09/27/trump-zelenski-putin-moscu-3438364/",
+    "resumen": "La propuesta de Trump a Zelenski choca con el decreto ucraniano que prohíbe negociar con Putin y deja a Bruselas fuera de la mesa. La entrada Trump empuja a Zelenski a negociar con Putin en Moscú al margen de la ONU aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El bulo del caso Leire Díez: la UCO atribuye al PSOE una nacionalización que Justicia denegó",
+    "medio": "Moncloa.com",
+    "fecha": 1790461674.0,
+    "link": "https://www.moncloa.com/2026/09/27/caso-leire-diez-bulo-uco-villalobos-3438360/",
+    "resumen": "Un informe de la UCO atribuye a Justicia una nacionalización que denegó: la fecha del 17 de julio de 2020 desmonta el bulo del caso Leire Díez. La entrada El bulo del caso Leire Díez: la UCO atribuye al PSOE una nacionalización que Justicia denegó aparece primero en Moncloa."
+  },
+  {
+    "titulo": "PSOE exige la dimisión de Ana Vázquez por el gas pimienta en el Congreso",
+    "medio": "Moncloa.com",
+    "fecha": 1790461673.0,
+    "link": "https://www.moncloa.com/2026/09/27/gas-pimienta-congreso-dimision-ana-vazquez-3438359/",
+    "resumen": "El PSOE reclama la dimisión de Ana Vázquez por introducir un bote de gas pimienta en el Congreso y la Mesa estudia el martes abrirle expediente. La entrada PSOE exige la dimisión de Ana Vázquez por el gas pimienta en el Congreso aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez ultima un decreto ley para acelerar las devoluciones a Marruecos: va al Consejo de Ministros del martes",
+    "medio": "Moncloa.com",
+    "fecha": 1790461673.0,
+    "link": "https://www.moncloa.com/2026/09/27/sanchez-decreto-ley-devoluciones-marruecos-3438358/",
+    "resumen": "El Gobierno llevará al Consejo de Ministros del martes un decreto ley para acelerar las devoluciones a Marruecos, con Sumar en contra. La entrada Sánchez ultima un decreto ley para acelerar las devoluciones a Marruecos: va al Consejo de Ministros del martes aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La indignación por la vivienda toma la calle y se planta en Sol",
+    "medio": "El País",
+    "fecha": 1790460197.0,
+    "link": "https://elpais.com/espana/2026-09-27/la-indignacion-por-la-vivienda-toma-la-calle-y-se-planta-en-sol.html",
+    "resumen": "Una marcha de protesta por el desahucio de Maricarmen congrega a decenas de miles de personas y desemboca en un movimiento que recuerda al 15-M"
+  },
+  {
+    "titulo": "Londres disfruta de Alcaraz, victorioso en un desenlace con funambulismo",
+    "medio": "El País",
+    "fecha": 1790459773.0,
+    "link": "https://elpais.com/deportes/tenis/2026-09-26/londres-disfruta-de-alcaraz-victorioso-en-un-desenlace-de-funambulismo.html",
+    "resumen": "El murciano supera a Fritz tras salvar dos bolas de partido (6-3, 4-6 y 13-11, en 1h 50m) y sostiene al equipo europeo tras las derrotas iniciales de Zverev y Cobolli"
+  },
+  {
+    "titulo": "Espeña pedirá la Final Four de la Liga de Naciones con el Bernabéu y Zorilla como sedes",
+    "medio": "OK Diario",
+    "fecha": 1790459737.0,
+    "link": "https://okdiario.com/deportes/espena-pedira-final-four-liga-naciones-bernabeu-zorilla-como-sedes-20405971",
+    "resumen": "La Real Federación Española de Fútbol presentará el Santiago Bernabéu y el José Zorrilla como sedes de la fase final de la Liga de Naciones en caso de que España sea elegida para organizarla. La UEFA ha pedido a las selecciones que pueden alcanzar la fase final que planteen sus estadios y la Federación se … Continuar leyendo \"Espeña pedirá la Final Four de la Liga de Naciones con el Bernabéu y Zorilla como sedes\""
+  },
+  {
+    "titulo": "Tuchel: «Cometimos demasiados errores contra el mejor equipo del mundo»",
+    "medio": "OK Diario",
+    "fecha": 1790459136.0,
+    "link": "https://okdiario.com/deportes/tuchel-cometimos-demasiados-errores-contra-mejor-equipo-del-mundo-20404123",
+    "resumen": "Thomas Tuchel atendió a los medios de comunicación tras perder contra España en Wembley por 2-3. Inglaterra se fue al descanso ganando 2-1 tras remontar el gol de Lamine Yamal, pero en la segunda mitad, después de errar un penalti, la selección española pasó por encima de los británicos para sumar los tres primeros puntos … Continuar leyendo \"Tuchel: «Cometimos demasiados errores contra el mejor equipo del mundo»\""
+  },
+  {
+    "titulo": "Madrid vuelve a tomar Sol por la vivienda: manifestantes convierten la indignación por los alquileres en una acampada",
+    "medio": "HuffPost",
+    "fecha": 1790457979.0,
+    "link": "https://www.huffingtonpost.es/politica/madrid-vuelve-tomar-sol-vivienda-manifestantes-convierten-indignacion-alquileres-acampada-f202609.html",
+    "resumen": ""
+  },
+  {
     "titulo": "De la Fuente: «Es muy difícil hacer lo que hace este equipo, pero queremos seguir mejorando»",
     "medio": "OK Diario",
     "fecha": 1790457806.0,
     "link": "https://okdiario.com/deportes/fuente-muy-dificil-hacer-lo-que-hace-este-equipo-pero-queremos-seguir-mejorando-20404119",
     "resumen": "Luis de la Fuente atendió a los medios de comunicación tras la victoria de España ante Inglaterra en Wembley. El combinado nacional superó a los ingleses para ganar por tercera vez en su historia en un escenario legendario y estrenar la segunda estrella como se merece. Lamine Yamal, Baena y Oyarzabal hicieron los goles del … Continuar leyendo \"De la Fuente: «Es muy difícil hacer lo que hace este equipo, pero queremos seguir mejorando»\""
-  },
-  {
-    "titulo": "Manifestación contra los desahucios, en directo | Los manifestantes por la crisis de la vivienda acampan en Sol y animan a la gente a que se una",
-    "medio": "El País",
-    "fecha": 1790457714.0,
-    "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
-    "resumen": "El Sindicato de Inquilinas, sobre la acampada: “La manifestación no nos bastaba” | Decenas de miles de personas recorren Madrid en protesta por los alquileres y los desahucios: “Nos quedamos sin casa”"
   },
   {
     "titulo": "España asalta Wembley con remontada ante Inglaterra",
@@ -21,13 +231,6 @@
     "resumen": "La Roja estrena su segunda estrella en un comprometido partido ante un rival poderoso que estuvo 20 minutos por delante, y al que remontó con los goles de Baena y Oyarzabal, salidos del banquillo"
   },
   {
-    "titulo": "De Lamine Yamal a Anthony Gordon, un templo blaugrana",
-    "medio": "La Vanguardia",
-    "fecha": 1790457012.0,
-    "link": "https://www.lavanguardia.com/deportes/20260926/11644706/lamine-yamal-anthony-gordon-templo-blaugrana.html",
-    "resumen": "El extremo de Rocafonda le gana la partida a Harry Kane y el inglés del Barça también brilla"
-  },
-  {
     "titulo": "España remonta en Wembley en el estreno de la segunda estrella",
     "medio": "The Objective",
     "fecha": 1790456930.0,
@@ -35,25 +238,11 @@
     "resumen": "La selección española se ha impuesto este sábado ante Inglaterra en Wembley (2-3), en la primera jornada de la Liga de Naciones y estreno de la […]"
   },
   {
-    "titulo": "Una Concha de lo más redonda",
-    "medio": "La Vanguardia",
-    "fecha": 1790456689.0,
-    "link": "https://www.lavanguardia.com/cultura/20260926/11644705/concha-san-sebastian-tender.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "España sigue aquí: estrena su título mundial con una victoria de prestigio en Wembley frente a Inglaterra",
-    "medio": "El Mundo",
-    "fecha": 1790456562.0,
-    "link": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/09/26/6ab8035efdddff97348b458e.html",
-    "resumen": "Pese a pasar un mal rato al final de la primera parte y al principio de la segunda, se levante y termina imponiéndose con una gran noche de Olmo y Baena Leer"
-  },
-  {
     "titulo": "La protesta por la vivienda en Madrid culmina con una acampada en la Puerta del Sol",
     "medio": "Infolibre",
     "fecha": 1790455838.0,
     "link": "https://www.infolibre.es/economia/protesta-vivienda-madrid-culmina-acampada-puerta-sol_1_2236956.html",
-    "resumen": "“Nos vamos a Sol”, así ha terminado la manifestación por el derecho a la vivienda que tuvo a Maricarmen como símbolo. Sin embargo, poco después de llegar a las inmediaciones del Congreso, la marcha ha continuado hacia la Puerta del Sol para acampar. A las diez de la noche, las sentadas y las tiendas de campaña cubrían la plaza y cientos de personas volvían a corear cánticos por una vivienda digna en el mismo lugar de dónde había partido la manifestación a las 18:30 horas.Al grito de “la vivienda es un derecho” los manifestantes agitan en la Puerta del Sol sus llaves en el aire y corean pidiendo la dimisión de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso. ”La idea es quedarnos porque no podemos seguir así”, señala una joven que ha venido sola y se ha sentado al pie de las tiendas. Otro grupo se prepara para montar una tienda y expresan la misma determinación: “Resistir”."
+    "resumen": "“Nos vamos a Sol”, así ha terminado la manifestación por el derecho a la vivienda que tuvo a Maricarmen como símbolo. Sin embargo, poco después de llegar a las inmediaciones del Congreso, la marcha ha continuado hacia la Puerta del Sol para acampar. A las diez de la noche, las sentadas y las tiendas de campaña proliferaban en la plaza y cientos de personas volvían a corear cánticos por una vivienda digna en el mismo lugar de donde había partido la manifestación a las 18:30 horas. \"Nosotros tenemos las llaves de Madrid\", repiten frente a la sede de la Comunidad de Madrid. Al grito de “la vivienda es un derecho” los manifestantes agitan en la Puerta del Sol sus llaves en el aire y corean pidiendo la dimisión de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso. ”La idea es quedarnos porque no podemos seguir así”, señala a infoLibre una joven que ha venido sola y se ha sentado al pie de las tiendas. Otro grupo se prepara para montar la suya y expresan la misma determinación: “Resistir”. Un poco más allá, un grupo de jóvenes cena. Una de ellas, Sarah, cuenta a infoLibre que ha venido a las charlas convocadas por el Sindicato de Inquilinas esta semana, un evento llamado ‘Barrio’ que se celebraba la misma semana que la feria inmobiliaria The District. Es alemana y también milita en el activismo por la vivienda y el cambio climático. \"He venido por la vivienda y por el grave problema que supone la turistificación\", cuenta. Víctor Palomo, abogado del Sindicato de Inquilinas de Madrid, explica en medio de la acampada que el día ha sido un éxito. \"Se sabía que la manifestación iba a ser multitudinaria, pero esto ha sido un desborde\". Para él, el malestar social aún no se había canalizado hasta ahora y cree que esto será muy relevante para que el decreto de vivienda que plantea el Gobierno se apruebe ya. \"No se pueden poner puertas al campo; estaba claro que esto iba a pasar porque la gente no tiene casa. Claro que va a acampar\", concluye. Se despide y avanza hacia una carpa con los colores del Sindicato de Inquilinas, donde algunos activistas comen y reparten agua entre sus compañeros. Las consignas contra la especulación van acompañadas de un sonido constante de llaves agitándose en el aire. Alrededor de las personas que se han ido sentando en torno a las tiendas de campaña, también se concentran personas que siguen la protesta de pie. Pese a que algunas calles estaban cortadas por la policía tras la manifestación principal, a Sol seguía llegando un goteo cada vez menos numeroso de personas, aunque quienes permanecían sentados tenían intención de quedarse. En otro grupo de jóvenes, Rocío, que porta una camiseta del sindicato, señala que \"ha sido medio espontáneo\", pero que tratarán de organizarse para permanecer ahí. \"Se ha ido sumando gente y ahora hay medio Madrid ocupando la plaza. La fuerza de todas ayuda a que no nos puedan desahuciar tan fácilmente. El ambiente en la plaza al comienzo de la noche era entre festivo y reivindicativo. Personas, sobre todo jóvenes, que ven cómo la vivienda se aleja cada vez más de sus posibilidades económicas y que han visto un detonante en el caso de Maricarmen. La imagen general recuerda al año 2011, cuando el movimiento 15M se plantó frente a un sistema que también había multiplicado los desahucios y la pobreza. Pese a las semejanzas, está por ver si esta protesta se extiende en el tiempo y si desencadena un movimiento político tan fuerte como el que se dio en ese momento. En torno a la una de la madrugada, Valeria Racu, portavoz del Sindicato de Inquilinas, ha tomado la palabra en medio de la plaza y ha arrancado su discurso con un \"estamos haciendo historia\". Racu ha recordado las horas del desahucio de Maricarmen el pasado miércoles señalando que todavía le cuesta pensar en ese momento, pero al mismo tiempo ha querido reivindicar el papel de la anciana de 87 años que fue expulsada de la casa en la que ha vivido durante 70 años: \"El mensaje que nos dejó Maricarmen es no dejéis de luchar, y eso es lo que estamos haciendo\". Justo después ha explicado que el domingo irán al hospital a visitarla: \"Mañana le enseñaremos las imágenes y le diremos: 'Mira la que has montado'\", ha remarcado Racu ante lo que la plaza ha respondido gritando: \"Somos todas Maricarmen\".La portavoz del sindicato también ha querido poner el foco en el Gobierno. Desde la Puerta del Sol ha explicado que el martes hay Consejo de Ministros, y que es ese día cuando el Ejecutivo de Pedro Sánchez tiene el compromiso de aprobar un real decreto de vivienda. Ante la posibilidad de que esta medida se retrase, Racu ha asegurado que \"ahí este Gobierno que se autodenomina progresista tendrá que demostrar que se pone del lado de la gente y no de los especuladores\". Y ha añadido: \"El martes se tiene que aprobar el 'real decreto Maricarmen', porque o cae el rentismo o cae el Gobierno\". Entre gritos y aplausos, Racu ha terminado sus palabras invitando a todos a quedarse en la Puerta del Sol: \"Vamos a pasar la noche aquí, ¿no?\". Después de contar cómo se va a organizar la acampada, la portavoz del sindicato ha explicado que a partir del domingo habrá otras actividades en la plaza y se irá informando de los siguientes pasos que dará esta concentración."
   },
   {
     "titulo": "\"Aterrizan a las ocho y a las ocho y cuarto ya están pidiendo una cerveza y un escalope\": el desayuno de los turistas alemanes en Playa de Palma",
@@ -98,104 +287,6 @@
     "resumen": "Lamine Yamal necesitó apenas dos minutos para dejar su firma en Wembley. Presionó la salida de Inglaterra, aprovechó una indecisión de Marc Guéhi y robó el balón cerca del área. James Trafford salió a taparle el camino, pero el extremo resolvió con una vaselina llena de clase para adelantar a España. El gol fue sólo … Continuar leyendo \"España es el Balón de Oro\""
   },
   {
-    "titulo": "España también profana Wembley en una noche de altibajos",
-    "medio": "La Vanguardia",
-    "fecha": 1790455326.0,
-    "link": "https://www.lavanguardia.com/deportes/20260926/11644700/espana-profana-wembley-noche-altibajos.html",
-    "resumen": "La selección sobrevive a una noche divertida pero escasa de solidez en su estreno en la Nations"
-  },
-  {
-    "titulo": "España saca brillo a sus estrellas",
-    "medio": "OK Diario",
-    "fecha": 1790455324.0,
-    "link": "https://okdiario.com/deportes/inglaterra-espana-saca-brillo-estrellas-20404069",
-    "resumen": "España tiene dos estrellas en el pecho y muchas más en el césped. El equipo, porque es un equipo, de Luis de la Fuente remontó un 2-1 a Inglaterra en Wembley para ganar un partidazo. Y lo cambió otra de nuestras estrellas: el seleccionador. La entrada al campo de Baena y Oyarzabal, que ejecutaron la … Continuar leyendo \"España saca brillo a sus estrellas\""
-  },
-  {
-    "titulo": "La rutina de Madonna para estar en buena forma a los 67 años: «Sigo una dieta macrobiótica construida completamente en torno a alimentos integrales, orgánicos y de temporada»",
-    "medio": "OK Diario",
-    "fecha": 1790455143.0,
-    "link": "https://okdiario.com/cool/famosos/rutina-madonna-estar-buena-forma-67-anos-sigo-dieta-macrobiotica-construida-completamente-torno-alimentos-integrales-organicos-temporada-20193374",
-    "resumen": "Madonna lleva más de cuatro décadas convertida en una de las figuras más influyentes de la música. A sus 67 años, la artista continúa manteniendo una intensa actividad profesional y una exigente preparación física, una disciplina que forma parte de su vida desde hace décadas. Su imagen pública ha estado siempre ligada al ejercicio y … Continuar leyendo \"La rutina de Madonna para estar en buena forma a los 67 años: «Sigo una dieta macrobiótica construida completamente en torno a alimentos integrales, orgánicos y de temporada»\""
-  },
-  {
-    "titulo": "El proverbio japonés del día sobre el amor: «El marido y la mujer deben ser como las manos y los ojos: cuando duele la mano, los ojos lloran, y cuando los ojos lloran las manos secan las lágrimas»",
-    "medio": "OK Diario",
-    "fecha": 1790455135.0,
-    "link": "https://okdiario.com/curiosidades/antiguo-proverbio-japones-dia-amor-marido-mujer-deben-ser-como-manos-ojos-cuando-duele-mano-ojos-lloran-cuando-ojos-lloran-manos-secan-lagrimas-20199148",
-    "resumen": "Hay relaciones en las que el bienestar de una persona deja de ser completamente individual. Lo que le ocurre a uno termina afectando al otro, especialmente cuando existe un vínculo construido sobre la confianza, el cariño y el compromiso. Un conocido proverbio japonés utiliza una imagen tan sencilla como poderosa para explicar esta conexión. «El … Continuar leyendo \"El proverbio japonés del día sobre el amor: «El marido y la mujer deben ser como las manos y los ojos: cuando duele la mano, los ojos lloran, y cuando los ojos lloran las manos secan las lágrimas»\""
-  },
-  {
-    "titulo": "Alcaraz, un maestro en la Laver Cup: \"Hablo mucho y no sé si ayudo a mi compañero\"",
-    "medio": "El Mundo",
-    "fecha": 1790455071.0,
-    "link": "https://www.elmundo.es/deportes/tenis/2026/09/26/6ab82cb1fdddff235b8b4573.html",
-    "resumen": "El murciano se ha convertido en una figura clave en el banquillo de Europa, pendiente de sus compañeros, analizando los partidos y repartiendo lecciones: \"Disfruto dando consejos\" Leer"
-  },
-  {
-    "titulo": "Muere la princesa Astrid de Noruega y doce días después fallece su perra Wilma",
-    "medio": "Moncloa.com",
-    "fecha": 1790454660.0,
-    "link": "https://www.moncloa.com/2026/09/26/princesa-astrid-noruega-perra-wilma-3438325/",
-    "resumen": "La princesa Astrid de Noruega falleció a los 94 años y doce días después murió Wilma, el chihuahua de 12 años que fue su compañero más fiel. La entrada Muere la princesa Astrid de Noruega y doce días después fallece su perra Wilma aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Federico X y Mary de Dinamarca inauguran el primer retrato oficial del Rey",
-    "medio": "Moncloa.com",
-    "fecha": 1790454659.0,
-    "link": "https://www.moncloa.com/2026/09/26/retrato-oficial-federico-x-dinamarca-3438324/",
-    "resumen": "Federico X de Dinamarca estrena en Frederiksborg su primer retrato oficial, un acto de imagen institucional con guiño a Margarita II. La entrada Federico X y Mary de Dinamarca inauguran el primer retrato oficial del Rey aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Ataques Rusia Ucrania: seis muertos en 24 horas y por qué Putin niega que vaya a atacar Europa",
-    "medio": "Moncloa.com",
-    "fecha": 1790454659.0,
-    "link": "https://www.moncloa.com/2026/09/26/ataques-rusia-ucrania-putin-europa-3438321/",
-    "resumen": "Rusia ha matado a seis personas en Ucrania en 24 horas y Putin niega que prepare una guerra con Europa, con la OTAN reforzando su flanco este. La entrada Ataques Rusia Ucrania: seis muertos en 24 horas y por qué Putin niega que vaya a atacar Europa aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La devolución de 23 sudaneses desde Ceuta a Marruecos: las claves del procedimiento que las ONG cuestionan",
-    "medio": "Moncloa.com",
-    "fecha": 1790454659.0,
-    "link": "https://www.moncloa.com/2026/09/26/devolucion-sudaneses-ceuta-marruecos-asilo-3438320/",
-    "resumen": "Interior confirma la devolución de 23 sudaneses desde Ceuta a Marruecos tras rechazar estos el asilo, mientras las ONG cuestionan el procedimiento. La entrada La devolución de 23 sudaneses desde Ceuta a Marruecos: las claves del procedimiento que las ONG cuestionan aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Manifestación de la vivienda en Madrid: decenas de miles desbordan la capital y acampan en la Puerta del Sol",
-    "medio": "Moncloa.com",
-    "fecha": 1790454658.0,
-    "link": "https://www.moncloa.com/2026/09/26/manifestacion-vivienda-madrid-acampada-puerta-sol-3438319/",
-    "resumen": "La manifestación por la vivienda en Madrid reúne a decenas de miles de personas y termina en una acampada en la Puerta del Sol. La entrada Manifestación de la vivienda en Madrid: decenas de miles desbordan la capital y acampan en la Puerta del Sol aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La mafia rusa en España muta tras las sanciones: de refugio de capos a laboratorio del crimen organizado",
-    "medio": "Moncloa.com",
-    "fecha": 1790454658.0,
-    "link": "https://www.moncloa.com/2026/09/26/mafia-rusa-espana-laboratorio-crimen-organizado-3438318/",
-    "resumen": "España pasa de refugio de viejos capos a laboratorio de la nueva mafia rusa: las sanciones y el relevo generacional rediseñan el blanqueo. La entrada La mafia rusa en España muta tras las sanciones: de refugio de capos a laboratorio del crimen organizado aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La Policía Nacional despliega un operativo policial en Ceuta para filiar a los menores migrantes en las playas",
-    "medio": "Moncloa.com",
-    "fecha": 1790454657.0,
-    "link": "https://www.moncloa.com/2026/09/26/policia-nacional-operativo-policial-ceuta-menores-3438315/",
-    "resumen": "La Policía Nacional despliega un operativo en Ceuta para filiar a los menores migrantes de las playas, con 2.383 identificados hasta la fecha. La entrada La Policía Nacional despliega un operativo policial en Ceuta para filiar a los menores migrantes en las playas aparece primero en Moncloa."
-  },
-  {
-    "titulo": "EEUU condena a 70 meses al exsoldado de espionaje informático que quiso desertar a Rusia",
-    "medio": "Moncloa.com",
-    "fecha": 1790454657.0,
-    "link": "https://www.moncloa.com/2026/09/26/exsoldado-espionaje-informatico-rusia-3438313/",
-    "resumen": "El exsoldado Cameron Wagenius, condenado a 70 meses por atacar AT&T y Snowflake en activo y por intentar vender datos a un servicio extranjero. La entrada EEUU condena a 70 meses al exsoldado de espionaje informático que quiso desertar a Rusia aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Alcaraz es un héroe europeo: salva dos bolas de partido y derrota a Taylor Fritz",
-    "medio": "La Vanguardia",
-    "fecha": 1790454652.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20260926/11644599/alcaraz-heroe-europeo-salva-dos-bolas-partido-derrota-taylor-fritz.html",
-    "resumen": "El talento murciano navega en aguas pantanosas y recurre al super tie break para igualar hasta 5-5 la competición (6-3, 4-6 y 13-11)"
-  },
-  {
     "titulo": "Javier Cámara, Concha de Plata a la mejor interpretación de reparto: “Vivo un momento muy bonito. A veces me da pudor decirlo por si se va a acabar”",
     "medio": "El País",
     "fecha": 1790454095.0,
@@ -224,13 +315,6 @@
     "resumen": "Aunque las tendencias apuntan al talle bajo, el pantalón a la altura de la cintura siempre serán un valor seguro por una sencilla razón, favorecen muchísimo y son bastante más elegantes. Por eso, no es de extrañar que cada temporada proliferen en el catálogo de nuestras tiendas favoritas, aunque adaptándose por supuesto, a las tendencias del momento. Esta temporada se llevan las siluetas barrel, flare e incluso viviremos un pequeño resurgir del favorecedor paper bag. Estilos muy diferentes entre sí que sin embargo, encajan a la perfección con el talle alto y con un calzado en particular que regresa este otoño 2026 con tanta fuerza como hace una década. Hablamos de los botines de tacón fino y puntera pronunciada, grandes aliados para sumar centímetros y alargar la figura. Cinco pantalones de talle alto de ZaraEn Zara encontramos todo tipo de pantalones de talle alto, para todos los estilos y bolsillos: desde diseños sastre de corte extra holgado para la oficina a pantalones vaqueros con guiños a la década de los 70s, para looks más casual. Zara Este pantalón de sastre gris es pura elegancia y sofisticación, además de una pieza versátil que podemos llevar en ocasiones formales y momentos más casual. Su pernera extra holgada y larga, junto con el talle alto, piden unos botines de tacón y puntera para jugar con esa sensación de piernas infinitas. Lo tenemos por 39,99 euros. Zara Estos pantalones negros de sastre son la adaptación del clásico que mencionamos antes a las tendencias de 2026. La clave está en las pinzas que juegan con el volumen realzando más la cadera y poniendo el foco en la cintura. Un diseño sofisticado y a la vez, cómodo que nos sacará de más de un apuro por 35,95 euros. Zara Las tendencias este otoño miran al pasado con nostalgia para revisionarlo y crear prendas súper deseables como estos vaqueros de estilo años 70s. Una propuesta de talle alto sin cintura y costuras que no puede ser más retro y a la vez, más original por 35,95 euros. Zara El paper bag omnipresente hace una década vuelve esta temporada pero de forma discreta y sutil. Una muestra es este pantalón a rayas largo hasta el tobillo ideal para bajitas que favorece sin caer en lo de siempre. Es perfecto para combinar con blusas vaporosas por dentro y está disponible por 29,95 euros. Zara Pero si existe una silueta recurrente en Zara y en todas partes este 2026 en general es la tipo barrel. Estos pantalones de vestir de Zara en color negro son un fichaje estupendo para sumarla a nuestro armario. Los encontramos por 29,95 euros. Los botines que combinan con todos Gioseppo Y para sacarle partido a todos estos pantalones potenciando el efecto piernas infinitas, nada como un par de botines con taconcito que juegan a ser stilettos (dos tendencias del otoño 2026 en un solo calzado). Los firma Gioseppo y los encontrarás en El Corte Inglés por 69,95 euros. <img alt=\"Botines elásticos de mujer con tacón bajo tipo kitten y pulsera en el tobillo - Gioseppo \" height=\"966\" src=\"https://i.blogs.es/55f6fd/blob/original.jpeg\" width=\"967\" /> Botines elásticos de mujer con tacón bajo tipo kitten y pulsera en el tobillo - Gioseppo PVP en El Corte Inglés — 69,95 € El precio podría variar. Obtenemos comisión por estos enlaces Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @emitaz, Zara, El Corte Inglés En Trendencias | Cómo combinar un pantalón ancho | Look elegante, casual y de sport En DAP | Boticaria García, sobre el error de abuela que cometemos: “Dejar una conserva abierta en la nevera es un descapotable con autopista a la infección y al deterioro” En Xataka | La URSS perforó un pozo de 12.262 metros en 1970: lo que detuvo las perforadoras no fue ni la roca ni el dinero - La noticia Vuelven los pantalones a la cintura y se llevan con botines para un look elegante en otoño 2026 fue publicada originalmente en Trendencias por María Barba ."
   },
   {
-    "titulo": "Mike Leigh se alza con la Concha de Oro en su conmovedora despedida del cine",
-    "medio": "La Vanguardia",
-    "fecha": 1790452259.0,
-    "link": "https://www.lavanguardia.com/cultura/20260926/11644506/mike-leigh-alza-concha-oro-conmovedora-despedida-cine.html",
-    "resumen": "El director británico conquista el palmarés con 'Tender loving care', una película sobre la compasión y los cuidados"
-  },
-  {
     "titulo": "Mike Leigh gana la Concha de Oro del Festival de San Sebastián con la película 'Tender Loving Care'",
     "medio": "El Español",
     "fecha": 1790452252.0,
@@ -245,14 +329,14 @@
     "resumen": "Un grupo de asistentes ha iniciado, espontáneamente, una acampada en la Puerta del Sol de Madrid tras la finalización de la manifestación por la vivienda para reclamar, entre otras cuestiones, la aprobación del 'decreto Maricarmen', según ha informado este sábado el Sindicato de Inquilinas de Madrid en un comunicado."
   },
   {
-    "titulo": "Mike Leigh entrega una obra maestra a la Concha de Oro del Festival de San Sebastián",
-    "medio": "El Mundo",
-    "fecha": 1790452061.0,
-    "link": "https://www.elmundo.es/cultura/cine/2026/09/26/6ab7e1dae9cf4adc618b4575.html",
-    "resumen": "El director británico, que ha declarado que \"probablemente\" deje el cine, acapara el palmarés con tres premios a Tender Loving Care, una delicada y furiosa a la vez reivindicación de la compasión, de los cuidados y de lo público. Javier Cámara logra el de mejor intérprete de reparto Leer"
+    "titulo": "Mike Leigh conquista el Festival de San Sebastián con su película final y logra tres premios, incluida la Concha de Oro",
+    "medio": "eldiario.es",
+    "fecha": 1790452019.0,
+    "link": "https://www.eldiario.es/cultura/cine/mike-leigh-conquista-festival-san-sebastian-pelicula-final-logra-tres-premios-incluida-concha-oro_1_13540970.html",
+    "resumen": "Tender Loving Care arrasa, mientras que Javier Cámara se lleva la Concha de Plata a la Mejor interpretación de reparto y La bola negra el del público El conmovedor discurso de los Javis en San Sebastián: “Emociona escuchar una frase que la gente no quería usar: ¡Viva el cine español!” Desde que se proyectó Tender Loving Care en el Festival de San Sebastián el certamen quedó prácticamente sentenciado. Era complicado que una película de la Sección Oficial igualará en sensibilidad, inteligencia y brillantez al filme con el que Mike Leigh se despedía del cine. El director británico ya había contado, y confirmó en el Zinemaldia, que esta será la última vez que dirija. Una enfermedad que afecta a sus ojos ha afectado a la movilidad del cineasta, que no se siente en las condiciones físicas necesarias para volver a rodar. Algún malpensado podría pensar que ese factor sentimental, el que Tender Loving Care fuera la despedida de uno de los directores fundamentales del cine británico de las últimas décadas, podría afectar al jurado, pero tras ver la película es evidente que su calidad hablaba por sí sola. Si la crítica se rindió al maestro en contar el cine social desde lo íntimo, el jurado no se quedó atrás y claramente quedó enamorado de esta historia sobre cómo los cuidados son fundamentales, pero solo para aquellos que cuenten con una red familiar o de amigos. Un retrato magistral que, desde la relación de dos amigos y los padres de una de ellas acaba creciendo a una crítica sobre la destrucción del estado de bienestar. No solo reconoció la película con una Concha de Oro tan previsible como incontestable, sino que el filme casi acaparó el palmarés llevándose también el premio al Mejor guion y el de Mejor actriz para Kate O’Flynn, que culmina su año dorado. La actriz británica llegaba de ganar el Emmy por La maldición de Widow's Bay y ahora se lleva la Concha de Plata por un trabajo de tono complicado donde se pasa de la comedia casi física al drama cotidiano. O’Flynn, eso sí, lo tuvo que compartir con Asta Kamma August, actriz noruega que protagoniza Growth of the soil, el filme de Hans Petter Moland que también logró el galardón a la mejor fotografía para Oskar Dahlsbakken. Desde Nueva York, Leigh mandó in vídeo agradeciendo por todos los premios para el filme. Tan escueto como acostumbra, solo dio las gracias y dijo un “Os quiero” que supo a poco. El cine español, que venía encadenando tres Conchas de Oro consecutivas —O Corno, Tardes de Soledad y Los domingos— se tuvo que conformar en esta ocasión con la Concha de Plata a la mejor interpretación de reparto (en el Zinemaldia no hay división por género en las categorías interpretativas, pero sí por protagonistas y secundarios) para Javier Cámara por su personaje despreciable e hilarante en la divertida 5 minutos más, de Javier Ruiz Caldera. Javier Cámara recoge su premio a la mejor interpretación de reparto por '5 minutos más' El palmarés dejó fuera a otra de las grandes favoritas de la edición, The debut, de Jesse Eisenberg, una de las películas mejor recibidas y que muchos contaban con que no se iría de vacío. Las interpretaciones de Julianne Moore y Paul Giamatti o su guion parecían sus mejores bazas, pero el jurado, presidido por el cineasta Ira Sachs, decidió apostar por filmes más actorales y dejar, por esta vez, a Hollywood fuera de la ecuación. En su lugar apostaron por darle la Concha de Plata a la Mejor dirección a Amanda Kernell por la estupenda Brace your heart, retrato de independencia de una mujer en la comunidad Sami. Para cerrar el palmarés, el jurado apostó por una de las películas más radicales de la Sección Oficial, la china Border, de Ah Biao, a la que reconocieron con el premio del jurado. El público se rinde a 'La bola negra' Tras convertirse en el evento del Zinemaldia, al realizar su premiere española en el marco del festival, donde competía en la Sección Perlak, que recoge lo mejor de otros certámenes internacionales, La bola negra regresó a Donostia al llevarse el premio del público. La película de Javier Calvo y Javier Ambrossi logró una puntuación de 9,4, la segunda más alta de la historia del galardón tras la obtenida por La voz de Hind el año pasado (9,52). El público del Kursaal muestra banderas palestinas y carteles en apoyo de los directores de 'Naza' Los cineastas regresaron al festival tras conseguir en el primer día en la taquilla más de un millón de euros, el segundo mejor viernes para una película española de los últimos diez años y solo por detrás del de Torrente, presidente, este mismo año. Un comienzo inmejorable para la que ya es, sin duda, la película española del año. El premio del público a la mejor película europea fue para Naza, el documental de Yuval Abraham y Rachel Szor, que no pudieron viajar a Donostia. Ambos han sido amenazados por la extrema derecha israelí por su filme, en el que 24 miembros del ejército y la inteligencia israelí cuentan los crímenes de guerra realizados contra la población palestina en Gaza. Un trabajo que ha hecho que desde el gobierno israelí se realice una campaña de desprestigio para un trabajo estremecedor, producido por The Guardian y que se estrenará en España el próximo 9 de octubre. Un mes después, The Guardian, uno de los productores del filme, la liberará en Youtube para que todo el mundo pueda verla. Muchos de los asistentes a la ceremonia de clausura posaron con carteles en defensa de los cineastas, y al anunciar el título del filme todo el auditorio saco las hojas que ponían We are naza too“. Enrique Costa, de la distribuidora del filme, Elástica, leyó unas palabras de los cineastas en donde agradecían el premio y esperaban que el galardón ”sirva para esparcir la voz de lo que la película representa y lo que el gobierno israelí está haciendo con la matanza de palestinos en Gaza“. Cierra así una 74.ª edición que también será recordada como la última de su director, José Luis Rebordinos, que se despide tras 16 años al frente y al que se le dedicó una calurosa ovación para cerrar la ceremonia. Deja el testigo a Maialen Beloki, que desde el año que viene ejercerá las funciones convirtiéndose en la primera mujer al frente del festival más importante de España."
   },
   {
-    "titulo": "Detenidos dos migrantes en la playa del Trampolín en Ceuta por agredir sexualmente a una menor migrante de 17 años",
+    "titulo": "Detenidos dos migrantes en El Trampolín en Ceuta por agredir sexualmente a una menor de 17 años también migrante",
     "medio": "El Español",
     "fecha": 1790451873.0,
     "link": "https://www.elespanol.com/espana/20260926/detenidos-migrantes-playa-trampolin-ceuta-agredir-sexualmente-menor-migrante-anos/1003744398610_0.html",
@@ -266,25 +350,11 @@
     "resumen": "Una nueva manifestación multitudinaria tras el desahucio de Maricarmen ha acabado con un llamamiento a acampar en el que fuera el epicentro del 15M, donde ya hay una decena de tiendas de campañaDirecto - Sigue la última hora de la acampada “Todas a Sol a luchar, compañeras”. Con esta frase acababa el manifiesto del Sindicato de inquilinas que ponía fin a la mayor manifestación por la vivienda que ha visto Madrid en los últimos años, a consecuencia del desahucio de Maricarmen el pasado miércoles. El llamamiento a acampar en Sol era rápidamente secundado por varios cientos de personas, que a las 21.30 de la noche colocaban más de una decena de tiendas de campaña en el corazón de Madrid, delante de la Casa de Correos, sede del Gobierno de Ayuso. “Queremos quedarnos en Sol, así que vamos a expandirnos por toda la plaza para que no nos puedan echar”, decía uno de los organizadores megáfono en mano mientras los asistentes a la manifestación que iban llegando a la plaza se distribuían por toda su parte central. Irene (28 años) y Pablo (37) han venido a dormir “esta noche y las que hagan falta”. Ambos creen que la situación de la vivienda en Madrid es insostenible y el desahucio de Maricarmen ha sido la gota que ha colmado el vaso. “Yo hasta hace poco vivía con cinco personas y dos perras, en el centro. Me he tenido que mudar a un barrio periférico a 40 minutos del trabajo en metro o en bus, si tengo suerte. Sigo compartiendo piso”, cuenta Pablo. Centenares de personas acampan en Sol En la sentada hay pocas tiendas de momento, aunque los organizadores llaman a traer más para aguantar la primera noche. En el Sindicato no han puesto todavía ningún horizonte a la acampada, pero a nadie en la plaza se le escapa que el objetivo es al menos resistir hasta el martes, día en el que se celebra el Consejo de Ministros que podría aprobar el Decreto Maricarmen, en el que los ahora acampados exigen que se incluya la paralización de los desahucios y ambiciosas medidas para poner coto a la especulación inmobiliaria en España, como la conversión en indefinidos de todos los contratos de alquiler. Personas acampadas en Sol del Sindicato de Inquilinas. Los primeros momentos de la sentada en Sol han sido tranquilos, con nula presencia policial de momento en los alrededores. La decisión para desalojar o no la plaza para evitar la acampada depende de Delegación del Gobierno, cuestionada esta semana por la actuación policial en el desahucio de Maricarmen (ha abierto una investigación al respecto) y por el uso de pelotas de goma para disolver la manifestación pacífica que tuvo lugar ese mismo día por la tarde. Quienes han decidido continuar en la plaza lo han hecho después de recorrer durante dos horas las calles de la capital en una protesta masiva en solidaridad por el desahucio de Maricarmen. La manifestación ha congregado a 300.000 personas según los datos de la organización, que la Delegación del Gobierno rebaja a 25.000, para elevar la presión sobre los partidos políticos en la recta final de la negociación de un paquete de medidas urgentes de vivienda. Entre las exigencias incluidas en el que han llamado Decreto Maricarmen están contar con medidas estructurales para impedir los desahucios, una reforma de la LAU para regular los alquileres por temporada y por habitaciones, la congelación de los precios actuales del alquiler, la aprobación de prórrogas efectivas, y la renovación automática de todos los contratos, para que pasen a ser indefinidos."
   },
   {
-    "titulo": "Marruecos investiga supuestas irregularidades en Tánger durante las elecciones",
-    "medio": "La Vanguardia",
-    "fecha": 1790451154.0,
-    "link": "https://www.lavanguardia.com/internacional/20260926/11644693/marruecos-investiga-supuestas-irregularidades-tanger-elecciones.html",
-    "resumen": "La Fiscalía habría abierto una pesquisa para tomar declaración a varias personas vinculadas con denuncias de anomalías durante la votación del pasado 23 de setiembre"
-  },
-  {
     "titulo": "El conmovedor discurso de los Javis en San Sebastián: “Emociona escuchar una frase que la gente no quería usar: ¡Viva el cine español!”",
     "medio": "eldiario.es",
     "fecha": 1790450774.0,
     "link": "https://www.eldiario.es/cultura/cine/emocionante-discurso-javis-san-sebastian-emociona-escuchar-frase-gente-no-queria-viva-cine-espanol_1_13540963.html",
     "resumen": "Javier Calvo y Javier Ambrossi regresaron al Zinemaldia para recoger el premio del público. Lo hacen como números 1 en la taquilla con unos resultados increíblesJavier Calvo y Javier Ambrossi: “'La bola negra' es una película que nos supera, que tiene un propósito mayor de existencia que nosotros” Tras convertirse en el evento del Zinemaldia, al realizar su premiere española en el marco del festival, donde competía en la Sección Perlak, que recoge lo mejor de otros certámenes internacionales, La bola negra regresó a Donostia al llevarse el premio del público. La película de Javier Calvo y Javier Ambrossi logró una puntuación de 9,4, la segunda más alta de la historia del galardón tras la obtenida por La voz de Hind el año pasado (9,52). Los cineastas regresaron al festival tras conseguir en el primer día en la taquilla más de un millón de euros, el segundo mejor viernes para una película española de los últimos diez años y solo por detrás del de Torrente, presidente, este mismo año. Un comienzo inmejorable para la que ya es, sin duda, la película española del año y que va dispuesta a hacer historia para el cine español en los próximos Oscar. En su emocionante discurso, Javier Calvo dio las gracias al público y recordó que para Federico García Lorca, la figura que atraviesa las tres historias que conforman La bola negra, el público era muy importante, tanto que tituló así una de sus obras. Para ellos también lo ha sido siempre, incluso cuando su primera obra solo tenía 15 espectadores, los que cabían. “Para él no crear era la muerte. Nosotros hacemos esto para vosotros, para el público”, dijo Javier Calvo. “Hay una cosa que a mí me emociona mucho, y es que hoy y ayer y durante este año, escucho una frase que hacía tiempo que no quería usar la gente y es: ¡viva el cine español! Y lo quiero reivindicar: ¡Qué viva el cine español. Sí, Señor!”, añadió el cineasta. Javier Ambrossi tomó la palabra para y agradeció el galardón a aquellos que les han apoyado, entre ellos a José Luis Rebordinos, director del Festival de Cine de San Sebastián que además se despedía del certamen, que el año que viene estará dirigido por Maialen Beloki. “Tú nos hiciste creer que podíamos ser grandes con tu apoyo, así que muchísimas gracias, de verdad, de corazón”, le dijo. “Hay dos cosas fundamentales para poder probar y experimentar: una es el equipo, y nosotros tenemos el mejor equipo técnico del mundo. Os quiero muchísimo. Gracias por dejarnos crear ese espacio en el que uno puede soñar que existe la comunicación horizontal, en el que uno puede ser un director teniendo dudas, en el que se puede ser un director diferente a lo que uno espera de un director. Gracias porque solamente con este equipo técnico hemos podido hacerlo. Gracias de verdad. Y gracias a Movistar Plus, a toda la gente que confiaron, Elastica, Atresmedia, El Deseo, gracias por estar aquí con nosotros. Tenemos mucho que agradecerles al público. Sabemos que estáis de nuestro lado y gracias por estar ahí y espero no defraudaros nunca”, concluyó."
-  },
-  {
-    "titulo": "La manifestación por la vivienda desemboca en una gran acampada en Sol: \"O nos sacan a palos, o nos quedamos aquí\"",
-    "medio": "El Mundo",
-    "fecha": 1790450706.0,
-    "link": "https://www.elmundo.es/espana/2026/09/26/6ab7e24ce9cf4a567e8b4573.html",
-    "resumen": "Miles de personas llenan las calles de Madrid como muestra de apoyo a la mujer de 87 años desahuciada. \"El de Maricarmen puede parecer un caso más, pero es un hasta aquí\", opinan los manifestantes contra los desahucios Leer"
   },
   {
     "titulo": "Dos detenidos en la playa ceutí del Trampolín por una agresión sexual contra una menor",
@@ -301,18 +371,11 @@
     "resumen": "El Sindicato de Inquilinas e Inquilinos de Madrid amenaza a Pedro Sánchez de cara a la decisión que tome su Ejecutivo en el Consejo de Ministros […]"
   },
   {
-    "titulo": "Inspiradísima Puerta del Príncipe de Pablo Aguado, rey de la cadencia en Sevilla",
-    "medio": "El Mundo",
-    "fecha": 1790450480.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/09/26/6ab819ade85ece62278b457c.html",
-    "resumen": "Vuelve a conquistar la gloria de la Maestranza, siete años después de aquella esférica tarde de 2019, con un lote de Jandilla de ensueño; una oreja para De Justo y Roca; gran corrida de Borja Domecq Leer"
-  },
-  {
-    "titulo": "Julio Millán salva los muebles a María Jesús Montero y gana las primarias del PSOE en Jaén",
+    "titulo": "Montero salva los muebles en las primarias del PSOE en Jaén, pero sufre un duro revés en Córdoba",
     "medio": "El Español",
     "fecha": 1790450288.0,
     "link": "https://www.elespanol.com/espana/andalucia/20260926/julio-millan-salva-muebles-maria-jesus-montero-gana-primarias-psoe-jaen/1003744398518_0.html",
-    "resumen": "Duro varapalo a la secretaria general de los socialistas andaluces en Córdoba, donde su candidata pierde frente a dos críticos.Más información: El PSOE vota en las primarias que Montero no pudo evitar, con el temor a perder el control en Jaén, única capital socialista"
+    "resumen": "La elección de candidatos para las próximas municipales evidencia divisiones internas y debilidad en la dirección regional. Más información: El PSOE vota en las primarias que Montero no pudo evitar, con el temor a perder el control en Jaén, única capital socialista"
   },
   {
     "titulo": "Aguado hace historia en la Maestranza: tres orejas que revolucionan el toreo",
@@ -336,13 +399,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz",
-    "medio": "El País",
-    "fecha": 1790449216.0,
-    "link": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html",
-    "resumen": "El presidente de Estados Unidos amenaza con nuevos bombardeos tras las elecciones de noviembre"
-  },
-  {
     "titulo": "Deja de reparar electrodomésticos para explicar por teléfono cómo se reparan: \"Ahora gano entre 9.000 y 13.500 euros al mes\"",
     "medio": "HuffPost",
     "fecha": 1790449208.0,
@@ -364,39 +420,11 @@
     "resumen": "El Comité del PSOE de Castilla-La Mancha, encabezado por Emiliano García-Page como líder socialista regional, rechaza el modelo de financiación autonómica propuesto por el Gobierno de […]"
   },
   {
-    "titulo": "Demi Vollering alcanza en Montreal el arcoíris que corona una gran carrera",
-    "medio": "El País",
-    "fecha": 1790448791.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-09-26/demi-vollering-alcanza-en-montreal-el-arcoiris-que-corona-una-gran-carrera.html",
-    "resumen": "La neerlandesa consigue por fin a los 29 años ganar el Mundial de ciclismo, la victoria que le faltaba, en una carrera de la que se retiró Paula Blasi"
-  },
-  {
-    "titulo": "La manifestación en apoyo a Maricarmen, en imágenes",
-    "medio": "La Vanguardia",
-    "fecha": 1790448536.0,
-    "link": "https://www.lavanguardia.com/vida/20260926/11644630/manifestacion-apoyo-maricarmen-imagenes.html",
-    "resumen": "Miles de personas han protestado este sábado en el centro de Madrid por el desahucio de Maricarmen, la inquilina de 87 años desalojada de la casa donde residía desde hacía 71 años"
-  },
-  {
     "titulo": "Trump rechaza la propuesta de Irán para reabrir Ormuz y Rusia le ofrece volver al acuerdo de Alaska para negociar sobre Ucrania",
     "medio": "HuffPost",
     "fecha": 1790448171.0,
     "link": "https://www.huffingtonpost.es/global/trump-rechaza-propuestaan-reabrir-ormuz-rusia-le-ofrece-volver-acuerdo-alaska-negociar-sobre-ucrania-f202609.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Acampada en la Puerta del Sol de Madrid tras la multitudinaria marcha en apoyo a Maricarmen",
-    "medio": "La Vanguardia",
-    "fecha": 1790448078.0,
-    "link": "https://www.lavanguardia.com/politica/20260926/11644613/clamor-multitudinario-madrid-exigir-prohibicion-desahucios-medidas-proteger-vivienda.html",
-    "resumen": "Miles de ciudadanos recorren el centro de la ciudad bajo el lema 'Ni una Maricarmen más' y reclaman que el decreto se apruebe este próximo martes"
-  },
-  {
-    "titulo": "Las asociaciones de víctimas de la dana se concentran en Alicante para pedir prisión para Mazón",
-    "medio": "El Mundo",
-    "fecha": 1790448035.0,
-    "link": "https://www.elmundo.es/comunidad-valenciana/alicante/2026/09/26/6ab80c02e9cf4a1b528b45a4.html",
-    "resumen": "A un mes de que se cumplan dos años de la tragedia, han trasladado sus protesta a la Casa de Brujas, sede del Consell en la capital alicantina Leer"
   },
   {
     "titulo": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
@@ -441,13 +469,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Rachel Anne, estadounidense que vive en España desde hace 8 años: \"Yo no me movía en Estados Unidos y no soy la única. Nadie se mueve\"",
-    "medio": "HuffPost",
-    "fecha": 1790445355.0,
-    "link": "https://www.huffingtonpost.es/sociedad/rachel-anne-estadounidense-vive-espana-8nos-yo-me-movia-estados-unidos-unica-nadie-mueve-f202609.html",
-    "resumen": ""
-  },
-  {
     "titulo": "La marcha ‘Ni una Maricarmen más’ recorre el centro de Madrid",
     "medio": "The Objective",
     "fecha": 1790444816.0,
@@ -460,20 +481,6 @@
     "fecha": 1790444441.0,
     "link": "https://www.eldiario.es/madrid/somos/mejores-imagenes-protesta-exigir-no-haya-maricarmen_3_13540782.html",
     "resumen": "Miles de personas recorren Madrid para solidarizarse con la mujer de 87 años tras su desahucio y exigir al Gobierno que apruebe medidas ambiciosas para atajar la crisis de viviendaUna marea ciudadana exige atajar la crisis de la vivienda y aprobar un 'decreto Maricarmen' que prohíba los desahucios Decenas de miles de personas han recorrido Madrid para solidarizarse con Maricarmen, que todavía está en el hospital tras su desahucio, y exigir al Gobierno un paquete de medidas ambicioso para atajar la crisis de vivienda. El Sindicato de Inquilinas ha bautizado esa legislación como 'decreto Maricarmen' e incluye regular los alquileres por temporada y por habitaciones, la congelación de los precios actuales del alquiler y la prohibición de los desahucios. Esta es una selección de las mejores imágenes de la manifestación:"
-  },
-  {
-    "titulo": "Del conflicto en Oriente Próximo a la sequía en Panamá: los cuellos de botella que amenazan con subir los precios antes de Navidad",
-    "medio": "El Mundo",
-    "fecha": 1790444053.0,
-    "link": "https://www.elmundo.es/economia/2026/09/26/6aad651efc6c83716b8b45a9.html",
-    "resumen": "Las navieras comenzaban a regresar al canal de Suez cuando el repunte de la tensión elevó el riesgo sobre la ruta. El coste mundial de transportar contenedores se duplicado en un año Leer"
-  },
-  {
-    "titulo": "Mbappé sufre una ''hiperextensión de la cápsula posterior de la rodilla izquierda'' y podría estar de baja sólo dos semanas",
-    "medio": "El Mundo",
-    "fecha": 1790443872.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/26/6ab7ff5c21efa022538b45a4.html",
-    "resumen": "Lo previsible es que el delantero francés pueda jugar el partido de la Champions contra la Roma Leer"
   },
   {
     "titulo": "En junio, cuatro estudiantes envolvieron parte de un glaciar con lana de oveja. Acaban de descubrir que frenaron su deshielo a la mitad",
@@ -746,7 +753,7 @@
     "medio": "Europa Press",
     "fecha": 1790421059.0,
     "link": "https://www.europapress.es/nacional/noticia-sumar-redobla-presion-psoe-plantara-si-vivienda-lleva-decreto-medidas-parciales-descafeinadas-20260926131059.html",
-    "resumen": "Sumar ha redoblado la presión sobre el PSOE amenzando con plantarse el martes si el Ministerio de Vivienda lleva al Consejo de Ministros un decreto ley que sea un mero \"parche cosmético\" con \"medidas parciales y descafeinadas\" que no respondan a la demanda social de soluciones para frenar desahucios como el de la anciana madrileña Maricarmen Abascal. \"Estamos en un momento absolutamente crítico para el Gobierno y para la legislatura; es un momento de ser o no ser\", ha sentenciado el ministro de Derechos Sociales, Pablo Bustinduy."
+    "resumen": "Recalca que el Gobierno de coalición nació con el \"mandato\" de atajar la crisis de vivienda y que ya no valen propuestas \"cosméticas\""
   },
   {
     "titulo": "Esta IA de código abierto busca fallos de seguridad sin subir tus datos a internet",
@@ -838,6 +845,13 @@
     "fecha": 1790395266.0,
     "link": "https://www.infolibre.es/internacional/cuatro-mujeres-aspiran-romper-techo-cristal-onu-sucesion-guterres_1_2236914.html",
     "resumen": "“Nueve hombres han ocupado la Secretaría General de esta organización en sus 80 años de vida. Ahora le toca a una mujer. A una mujer latinoamericana”. Pedro Sánchez aprovechó este miércoles su intervención ante la Asamblea General de Naciones Unidas para entrar en una de las negociaciones que se desarrollan estos días lejos de la tribuna de Nueva York: la elección de la persona que sustituirá a António Guterres a partir del 1 de enero de 2027. El presidente no respaldó ningún nombre concreto, pero reclamó que la ONU rompa por primera vez la barrera del género.Nunca una mujer ha dirigido Naciones Unidas. Desde su creación en 1945, sus nueve secretarios generales han sido hombres y ningún latinoamericano ocupa el puesto desde que el peruano Javier Pérez de Cuéllar dejó el cargo en 1991. La reivindicación de Sánchez coincide además con una carrera en la que cuatro de las siete candidaturas que continúan oficialmente en juego son mujeres procedentes de América Latina y el Caribe. La chilena Michelle Bachelet, una de las figuras de mayor peso político al comienzo del proceso, retiró su candidatura tras el tercer sondeo informal celebrado en el Consejo de Seguridad.La sucesión llega cuando Guterres pone fin a una década especialmente convulsa al frente de la organización. El portugués asumió el cargo el 1 de enero de 2017 y fue reelegido para un segundo mandato que concluirá el próximo 31 de diciembre. Durante sus diez años en Nueva York, la ONU ha tenido que afrontar la pandemia, la invasión rusa de Ucrania, las guerras en Oriente Próximo, una multiplicación de las crisis humanitarias y una emergencia climática que Guterres convirtió en uno de los ejes de su mandato. Este martes, en su último discurso ante los líderes reunidos en la Asamblea General, Guterres hizo precisamente balance de esa década. Advirtió del aumento de los conflictos y las divisiones geopolíticas y señaló cuatro grandes desafíos para quien tome el relevo: guerra, desigualdad, cambio climático e inteligencia artificial. Su etapa también ha mostrado los límites del propio puesto. El secretario general puede mediar, denunciar y colocar asuntos en la agenda internacional, pero las decisiones fundamentales sobre paz y seguridad continúan dependiendo de un Consejo de Seguridad en el que EEUU, China, Rusia, Francia y Reino Unido conservan el derecho de veto.Ese mismo poder es ahora determinante para escoger a su sucesor. Los 15 miembros del Consejo están celebrando sucesivos sondeos secretos en los que pueden apoyar, rechazar o no expresar opinión sobre cada candidatura. Para que finalmente un nombre sea recomendado a la Asamblea General necesita nueve votos y no recibir el veto de ninguno de los cinco miembros permanentes. El calendario todavía no está cerrado, aunque se espera una nueva ronda de sondeos tras el final de la Semana de Alto Nivel de la Asamblea, el 28 de septiembre. En los procesos de 2006 y 2016, las votaciones que terminaron decidiendo al candidato elegido se celebraron a comienzos de octubre.La costarricense Rebeca Grynspan obtuvo el mayor número de votos favorables en el tercer sondeo del Consejo de Seguridad, celebrado el 18 de septiembre: nueve apoyos, cinco rechazos y una abstención de opinión. Había logrado diez apoyos en julio, bajó a siete en agosto y ha recuperado dos en septiembre. Es economista, fue vicepresidenta de Costa Rica entre 1994 y 1998 y dirige desde 2021 ONU Comercio y Desarrollo, la antigua UNCTAD.Su trayectoria política procede del Partido Liberación Nacional, la formación histórica de la socialdemocracia costarricense. Sin embargo, su campaña se presenta con un tono más tecnocrático que partidista, ya que se ha centrado en reivindicar políticas de desarrollo y reducción de desigualdades, pero también una reforma profunda de una ONU que sufre una grave crisis financiera.Muy cerca se encuentra Carolyn Rodrigues-Birkett, embajadora de Guyana ante Naciones Unidas y exministra de Exteriores. Recibió ocho votos favorables y seis negativos en septiembre, después de haber conseguido nueve apoyos en julio y ocho en agosto. Pertenece al People's Progressive Party/Civic, la formación de centro-izquierda gobernante de Guyana, y antes de llegar a Exteriores fue ministra de Asuntos Amerindios. Su perfil público durante la campaña también ha sido especialmente institucional, defendiendo una ONU más ágil y eficiente, pero ha insistido también en preservar su papel en la cooperación internacional.Guyana pertenece al grupo regional de América Latina y el Caribe dentro de Naciones Unidas, aunque cultural y lingüísticamente suele identificarse con el Caribe anglófono. Por eso, cuando Sánchez reclama una “mujer latinoamericana”, las candidaturas que encajan de forma más estricta con esa expresión son las de Grynspan y las dos ecuatorianas que continúan en carrera.Una de ellas es María Fernanda Espinosa, exministra de Exteriores y Defensa de Ecuador y expresidenta de la Asamblea General de la ONU. Formó parte del Gobierno izquierdista de Rafael Correa, aunque en los últimos años se ha distanciado de su antiguo espacio político. No obstante, su programa combina asuntos tradicionalmente progresistas —igualdad, clima, derechos humanos o pueblos indígenas— con una propuesta muy marcada de reforma administrativa. En el último sondeo recibió tres votos favorables, seis negativos y seis sin opinión.La otra ecuatoriana es Ivonne Baki, exembajadora en EEUU, Francia y Qatar y antigua candidata presidencial en Ecuador por una alianza liberal. Su discurso se centra especialmente en la prevención de conflictos y en la diplomacia personal. Ha presumido de sus relaciones con dirigentes estadounidenses, incluido Donald Trump, y aseguró antes de entrar en la carrera que contaba con el apoyo de Washington, algo que EEUU no ha confirmado públicamente. Además, en la consulta de septiembre no recibió ningún voto de apoyo, frente a diez votos negativos y cinco sin opinión.Entre los hombres, uno de los perfiles más conocidos internacionalmente es el argentino Rafael Grossi, director general del Organismo Internacional de Energía Atómica (OIEA). En los últimos años, ha ganado visibilidad por las negociaciones sobre el programa nuclear iraní y por la actuación del organismo en Ucrania, especialmente alrededor de la central nuclear de Zaporiyia. A diferencia de otros candidatos, resulta difícil adscribirlo a una familia ideológica concreta, ya que su trayectoria es fundamentalmente técnica y diplomática y ha trabajado con gobiernos argentinos de distinto signo.Grossi comenzó el proceso con siete apoyos en los dos primeros sondeos, pero en septiembre bajó a cinco, frente a ocho votos negativos y dos sin opinión. Su principal dificultad política es la relación con Rusia, que ha mostrado reservas hacia su candidatura por su actuación al frente del OIEA. Esa oposición resulta especialmente importante porque Moscú dispone de derecho de veto.También con cinco apoyos aparece el ugandés Olara Otunnu, aunque recibió siete votos negativos y tres sin opinión. Su perfil está más ligado a los derechos humanos y la protección de civiles que a la seguridad entre Estados. Fue embajador de Uganda ante Naciones Unidas, secretario general adjunto y el primer representante especial de la ONU para los niños y los conflictos armados. En su campaña ha insistido en recuperar la “autoridad moral” de Naciones Unidas y acercar la institución a las comunidades sobre el terreno.El séptimo aspirante es Macky Sall, presidente de Senegal entre 2012 y 2024 y expresidente de la Unión Africana. Es el único exjefe de Estado que continúa en la carrera después de la retirada de Bachelet y representa un perfil distinto al de los diplomáticos y altos funcionarios internacionales que dominan la lista. Políticamente se ha situado en el espacio liberal de centro debido a que su partido, la Alianza por la República, pertenece a Liberal International y durante sus gobiernos combinó una apuesta por la inversión privada y las grandes infraestructuras con políticas de desarrollo económico y estabilidad institucional. Su presidencia terminó, sin embargo, en medio de una fuerte tensión política. Su intento de aplazar las elecciones presidenciales de 2024 fue rechazado por el Consejo Constitucional senegalés y provocó protestas en un país considerado durante décadas una de las democracias más estables de África occidental. Sall terminó abandonando el poder después de dos mandatos. En el último sondeo para dirigir la ONU consiguió cinco apoyos, nueve votos negativos y uno sin opinión.Esos números todavía no resuelven la sucesión. Grynspan y Rodrigues-Birkett son las únicas que han superado o se han acercado en las tres rondas al umbral de nueve apoyos, pero ninguna votación realizada hasta ahora permite saber si entre sus rechazos está el de EEUU, China, Rusia, Francia o Reino Unido. En 2016, a estas alturas del proceso, Guterres había conseguido consolidar una ventaja mucho más clara. Diez años después, el Consejo de Seguridad sigue sin cerrar filas alrededor de un nombre."
+  },
+  {
+    "titulo": "España deja de ser el refugio de viejos capos y se convierte en el laboratorio de la nueva mafia rusa",
+    "medio": "Infolibre",
+    "fecha": 1790395266.0,
+    "link": "https://www.infolibre.es/narcotrafico/espana-deja-refugio-viejos-capos-convierte-laboratorio-nueva-mafia-rusa_1_2236654.html",
+    "resumen": "Desde la invasión de Ucrania, Rusia como Estado no lo está pasando bien. La guerra ha obligado al Kremlin a concentrar una cantidad enorme de recursos en un conflicto que ha terminado afectando también a las estructuras económicas que durante décadas conectaron Rusia con Europa. Las sanciones, el cierre de determinadas vías financieras y el endurecimiento de los controles sobre el dinero ruso han cambiado las reglas de un negocio que, como cualquier otro, necesita movilidad. También el crimen organizado ha tenido que adaptarse.Y mientras Rusia afronta una guerra que ya ha transformado sus relaciones con Occidente, en el mundo criminal postsoviético se está produciendo, al mismo tiempo, un relevo generacional que lleva años gestándose y que afecta especialmente a aquellos clanes que durante las últimas décadas construyeron parte de su poder en Europa.España conoce muy bien a algunos de sus protagonistas. Durante décadas, la Costa del Sol, Alicante, Cataluña y otros puntos del litoral mediterráneo fueron territorio de paso, refugio e inversión para ciudadanos procedentes de Rusia, Georgia, Ucrania, Armenia, Azerbaiyán y otras antiguas repúblicas soviéticas.La expresión 'mafia rusa' se utilizó muchas veces para definir un fenómeno que, en realidad, era bastante más complicado. No existía una única organización y mucho menos una especie de consejo central que dirigiera todos los negocios. Había familias, clanes, alianzas temporales y viejas rivalidades. Y por encima de muchas de esas estructuras aparecían los llamados vory v zakone, los 'ladrones en ley', una categoría de delincuentes con una autoridad particular dentro del hampa postsoviética.Uno de los nombres más importantes de aquella generación es Zakhar Kalashov, conocido como Shakro Molodoy. Nacido en Tiflis (Georgia), fue reconocido como vory siendo muy joven y terminó convirtiéndose en uno de los personajes de mayor peso dentro de ese universo criminal. Su nombre apareció durante años en investigaciones policiales de diferentes países y, finalmente, también en España.Lo hizo en una época en la que determinados grupos procedentes del espacio postsoviético habían encontrado en el país algo más que un lugar donde vivir: una economía en expansión, un mercado inmobiliario especialmente atractivo y, sobre todo, un sistema empresarial en el que grandes cantidades de dinero podían acabar transformadas en propiedades, sociedades y negocios aparentemente legales.Kalashov se movió por la Costa del Sol y mantuvo intereses en España. Pero lo verdaderamente importante de su presencia aquí no era tanto dónde vivía o qué propiedades tenía, sino quiénes acudían a su alrededor. En marzo de 2003, una celebración en Alicante reunió a varios de los nombres que entonces preocupaban a las fuerzas de seguridad españolas. Allí estaban Kalashov, Tariel Oniani, Aslan Usoyan y otros personajes vinculados al crimen organizado postsoviético.Para los investigadores, aquellas reuniones eran auténticos mapas humanos. Servían para descubrir quién hablaba con quién, qué relaciones permanecían intactas y qué hombres podían sentarse en la misma mesa pese a pertenecer a organizaciones diferentes.Entre Kalashov y Oniani existía una relación especialmente relevante. Ambos procedían de Georgia y ambos terminarían ocupando un lugar destacado en las investigaciones españolas. La documentación reunida durante aquellos años permitió reconstruir una parte de los negocios que se movían alrededor de estos hombres.Había inversiones inmobiliarias, sociedades, proyectos empresariales y operaciones que llevaban el dinero desde Rusia hasta España y después intentaban introducirlo en la economía legal. En algunos casos, las investigaciones llegaron a relacionar a Kalashov y Oniani con proyectos vinculados a la expansión de Lukoil en España. Era la otra cara de aquella mafia: no siempre había pistolas, ajustes de cuentas o coches de lujo. Muchas veces había notarios, sociedades mercantiles, contratos y reuniones empresariales.La Policía Nacional y la Guardia Civil llevaban años siguiendo aquellas estructuras cuando llegó la Operación Avispa, en 2005. Fue uno de los mayores golpes contra el crimen organizado procedente de la antigua Unión Soviética que se habían producido hasta entonces en España. Kalashov y Oniani estaban entre los objetivos principales, aunque consiguieron escapar inicialmente. La investigación continuó y Kalashov terminó siendo localizado en Dubái. Su extradición permitió que la Justicia española lo sentara finalmente en el banquillo. En 2010 fue condenado a siete años y seis meses de prisión y a una multa de 20 millones de euros por blanqueo de capitales.La fotografía de aquel momento resulta interesante vista desde la distancia. España había conseguido llevar ante los tribunales a uno de los hombres que durante años habían aparecido en los informes policiales como una de las figuras de referencia del hampa postsoviética. Pero no había conseguido acabar con el fenómeno. Eso era prácticamente imposible. Las organizaciones criminales no dependen de una sola persona y mucho menos cuando llevan décadas funcionando. Cuando un jefe desaparece, alguien ocupa parte de su lugar. Cuando una empresa es intervenida, aparecen otras. Cuando una ruta financiera queda bloqueada, se busca otra.Kalashov salió de prisión en octubre de 2014 y fue expulsado a Rusia. El regreso no significó, sin embargo, el final de sus problemas. En su país volvió a verse envuelto en una de las grandes disputas internas del mundo criminal ruso. En 2016 fue detenido y posteriormente condenado a nueve años y diez meses de prisión por un delito de extorsión. En marzo de 2024 obtuvo la libertad condicional. El hombre que había sido encarcelado en España, expulsado a Rusia y posteriormente condenado de nuevo se encontraba otra vez fuera de prisión. Para entonces habían cambiado muchas cosas.Algunos de los hombres que habían compartido mesa con Kalashov habían muerto. Otros estaban encarcelados o habían perdido influencia. Aslan Usoyan, uno de los grandes nombres del hampa rusa y rival de algunas de las estructuras próximas a Kalashov, fue asesinado en Moscú en 2013. Tariel Oniani también pasó por las cárceles rusas después de los años que había vivido en España. Gennady Petrov y Alexander Malyshev quedaron en el centro de otra de las grandes investigaciones españolas, la Operación Troika. El mapa que Kalashov encontró a su regreso era, por tanto, muy distinto al que había dejado. Y ahí está precisamente una de las claves para entender lo que está ocurriendo ahora.Los viejos capos han sobrevivido a una época en la que las guerras entre clanes podían decidirse a tiros en Moscú, Barcelona o cualquier otra ciudad europea. Han pasado por cárceles, han perdido aliados y han visto cómo la Policía desmantelaba buena parte de las estructuras que habían construido.Pero los hombres más jóvenes que crecieron durante esos años también han aprendido. Ya no necesitan copiar exactamente el modelo de los antiguos vory. Las nuevas redes criminales pueden apoyarse mucho más en intermediarios, sociedades pantalla, sistemas financieros alternativos y herramientas tecnológicas. El poder puede ser menos visible y, precisamente por eso, más difícil de localizar.España continúa formando parte de ese escenario. En febrero de 2025, la Policía Nacional y Europol anunciaron la desarticulación de una red de origen ruso dedicada al blanqueo de capitales y con conexiones internacionales. Los investigadores describieron movimientos de varios millones de euros y una estructura capaz de prestar servicios financieros a otras organizaciones criminales. El caso demostraba que, veinte años después de Avispa, el problema no había desaparecido. Habían desaparecido algunos protagonistas, pero no el mercado que hacía posible sus negocios.Por eso, la libertad de Kalashov tiene un interés que va más allá de su propia biografía. No hay pruebas públicas suficientes para decir que haya reconstruido un clan o que esté dirigiendo nuevamente una organización desde Rusia. Tampoco sería correcto presentar como una realidad una guerra abierta entre los viejos padrinos y una nueva generación cuando lo que existe, al menos de forma documentada, es un proceso mucho más complejo de sustitución, adaptación y competencia.Pero sí resulta significativo que uno de los hombres que mejor representa a aquella generación vuelva a estar libre precisamente cuando el entorno criminal postsoviético atraviesa una transformación profunda y muchos se han integrado en el Kremlin con la guerra de Ucrania.Durante años, España fue uno de los lugares donde aquellos hombres pudieron convertir el poder criminal en patrimonio. Llegaron con dinero, contactos y una cultura mafiosa que las autoridades españolas tuvieron que aprender a identificar. Compraron casas, participaron en empresas, hicieron negocios y se relacionaron con otros grupos. Algunos acabaron en prisión y otros lograron escapar.La Operación Avispa y las investigaciones posteriores permitieron reconstruir una parte de aquella historia, pero nunca consiguieron borrar las redes personales que habían construido durante décadas. Ahora, algunos de aquellos nombres vuelven a aparecer en Rusia e intentan llegar a acuerdos con gente que pretende ocupar su lugar.Si volvemos a España y nos situamos en febrero de 2025, observamos una operación policial que deja claro el cambio de escenario. La Mafia Rusa, en su nueva situación, tenía capacidad para blanquear millones de euros cada mes para el cártel de Los Balcanes, la Mocro Mafia y los cárteles colombianos, es decir, para los grandes grupos criminales que introducen la cocaína en Europa. 14 personas fueron detenidas. Su negocios llegaban hasta Cuba, con cuyo Gobierno intercambiaban tecnología punta por níquel y oro, según se supo tras las pesquisas. La investigación se extendió durante dos años, entre 2023 y 2025, y se realizaron registros en Madrid, Málaga, Marbella, Torremolinos, Coín, Ayamonte y Lisboa. Se estima que podían blanquear hasta 300.000 euros en efectivo en un solo día.Mientras, Kalashov está libre. Otros antiguos protagonistas siguen en prisión, han muerto o permanecen alejados del foco. Y alrededor de ellos existe una generación que no vivió las grandes guerras mafiosas de los noventa de la misma manera y que ha crecido en un país diferente, mucho más aislado de Occidente y con unas rutas económicas distintas. El viejo mundo no ha desaparecido del todo. Pero tampoco sigue siendo el mismo.Y esa puede ser la verdadera batalla que empieza ahora: no una guerra entre buenos y malos, ni una película de mafiosos con nombres conocidos, sino una disputa mucho más silenciosa por saber quién ocupará los espacios que dejaron aquellos hombres que durante años hicieron de España una de sus principales puertas de entrada a Europa."
   },
   {
     "titulo": "La desolación abrasiva de las afganas",
