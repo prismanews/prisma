@@ -1,5 +1,229 @@
 [
   {
+    "titulo": "Marc Márquez y Jorge Martín, un toma y daca diario por el título de MotoGP",
+    "medio": "El País",
+    "fecha": 1791077504.0,
+    "link": "https://elpais.com/deportes/motociclismo/2026-10-03/marc-marquez-y-jorge-martin-un-toma-y-daca-diario-por-el-titulo-de-motogp.html",
+    "resumen": "El vigente campeón se lleva la ‘sprint’ del GP de Japón por delante del líder del certamen, ‘poleman’ de récord en Motegi y tercero en la meta este sábado"
+  },
+  {
+    "titulo": "Cómo se escribe recuerden o recuérden",
+    "medio": "OK Diario",
+    "fecha": 1791072021.0,
+    "link": "https://okdiario.com/educacion/como-escribe-recuerden-o-recuerden-4613940",
+    "resumen": "Saber si se escribe recuerden o recuérden es una duda que podemos tener. En este caso debemos recordar correctamente las normas de ortografía para evitar cometer este tipo de errores. Es muy importante tener las reglas bien aprendidas o leer todo lo que sea posible para evitar algunas faltas de ortografía como ésta. En este … Continuar leyendo \"Cómo se escribe recuerden o recuérden\""
+  },
+  {
+    "titulo": "Un violento diluvio barre la costa catalana, en alerta por un posible “minihuracán”",
+    "medio": "El País",
+    "fecha": 1791071700.0,
+    "link": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html",
+    "resumen": "La movilidad queda restringida y Protección Civil mantiene el máximo nivel de alerta ante un “episodio excepcional”. El Raval de Barcelona acumula 178,3 litros por metro cuadrado, casi el doble que su anterior récord diario, registrado en 2017"
+  },
+  {
+    "titulo": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
+    "medio": "El Mundo",
+    "fecha": 1791071473.0,
+    "link": "https://www.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html",
+    "resumen": "División de opiniones entre los partidarios de adelantar elecciones y quienes piensan que es mejor dar tiempo a que la izquierda se organice. Las protestas de ayer no arrojan un veredicto claro Leer"
+  },
+  {
+    "titulo": "Los informes económicos aconsejan a Sánchez adelantar elecciones: evita Presupuestos y el deterioro del coste de la vida que viene",
+    "medio": "El Mundo",
+    "fecha": 1791071472.0,
+    "link": "https://www.elmundo.es/espana/2026/10/04/6ac107b7e4d4d840528b4578.html",
+    "resumen": "La situación económica ha pasado en un año de ser el sexto problema de los españoles, al segundo solo detrás de la Vivienda Leer"
+  },
+  {
+    "titulo": "Horacio Morell (IBM): \"En la IA hay sobreinversión. Habrá ganadores y perdedores, pero al final el resultado neto será positivo\"",
+    "medio": "El Mundo",
+    "fecha": 1791071462.0,
+    "link": "https://www.elmundo.es/economia/empresas/2026/10/04/6abba8a9e9cf4ad6668b4595.html",
+    "resumen": "El presidente de IBM España rechaza que la IA sea peligrosa para la humanidad y apuesta por convertir a España en punta de lanza de la computación cuántica Leer"
+  },
+  {
+    "titulo": "Historia de un bulo en Ceuta: la menor \"violada y reanimada\" de la Playa del Trampolín...que no lo fue",
+    "medio": "El Mundo",
+    "fecha": 1791071461.0,
+    "link": "https://www.elmundo.es/cronica/2026/10/04/6abff42dfdddff7f2d8b457b.html",
+    "resumen": "Los medios se apresuraron a publicar que una joven de 17 años había sido agredida sexualmente en la playa de la ciudad autónoma. Al final, como ha podido saber EL MUNDO, la presunta víctima no presentaba signo ninguno de agresión y sí de un comportamiento errático. \"Creen que denunciar abuso las acerca a obtener el asilo\", sostienen fuentes policiales Leer"
+  },
+  {
+    "titulo": "Brasil vota polarizado en primera vuelta como si ya fuese la segunda",
+    "medio": "El Mundo",
+    "fecha": 1791071460.0,
+    "link": "https://www.elmundo.es/internacional/2026/10/04/6ac10e04e9cf4aae3a8b4590.html",
+    "resumen": "Lula y Flávio Bolsonaro apuran sus opciones para evitar volver a las urnas el día 25 de octubre Leer"
+  },
+  {
+    "titulo": "Bosnia vota con el pasado muy presente: \"Tras años de estancamiento y promesas incumplidas, muchos caen en la resignación y el desánimo\"",
+    "medio": "El Mundo",
+    "fecha": 1791071398.0,
+    "link": "https://www.elmundo.es/internacional/2026/10/04/6ac09778fc6c834f488b45b8.html",
+    "resumen": "El sistema político heredado de la Paz de Dayton ancla al país a la posguerra. \"En la vida cotidiana, el país está mucho menos dividido de lo que parece desde el exterior, suele estar más presente en los discursos políticos y en las campañas electorales\" Leer"
+  },
+  {
+    "titulo": "Las 'cucarachas' se expanden por Europa",
+    "medio": "El Mundo",
+    "fecha": 1791071397.0,
+    "link": "https://www.elmundo.es/internacional/2026/10/04/6ac1412921efa0cd0f8b4581.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "La alta cocina también nace en el pueblo: 7 chefs (casi todos con estrella Michelin) reinventan este otoño el cordero",
+    "medio": "El Mundo",
+    "fecha": 1791071388.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/2026/10/04/6abbab7dfdddff4a0c8b4589.html",
+    "resumen": "De Cáceres a Huesca, reconocidos cocineros protagonizan la campaña de Interovic para reivindicar que \"el verdadero lujo está en el origen\" y llevar durante el mes de octubre el cordero, el lechal y el cabrito a sus cartas o menús Leer"
+  },
+  {
+    "titulo": "El Departamento de Interior catalán pide que la gente se quede en casa ante el «minihuracán»",
+    "medio": "The Objective",
+    "fecha": 1791068139.0,
+    "link": "https://theobjective.com/espana/cataluna/2026-10-04/departamento-interior-catalan-pide-gente-quede-casa-minihuracan/",
+    "resumen": "En el marco del plan Inuncat, la consejera de Interior y Seguridad Pública de la Generalidad de Cataluña, Núria Parlon, ha solicitado a todas las personas […]"
+  },
+  {
+    "titulo": "El temporal que azota Bilbao deja 150 incidencias con calles inundadas y carreteras cortadas",
+    "medio": "OK Diario",
+    "fecha": 1791067886.0,
+    "link": "https://okdiario.com/pais-vasco/temporal-que-azota-bilbao-deja-150-incidencias-calles-inundadas-carreteras-cortadas-20476715",
+    "resumen": "El temporal que ha afectado a Bilbao dejó calles inundadas, carreteras cortadas, bajos y garajes anegados. El Centro de Emergencias del País Vasco registró 150 incidencias hasta las 20:30 horas de este sábado. El casco viejo de Bilbao fue fuertemente golpeado por las fuertes lluvias, el agua se acumuló en varias calles que fueron cortadas … Continuar leyendo \"El temporal que azota Bilbao deja 150 incidencias con calles inundadas y carreteras cortadas\""
+  },
+  {
+    "titulo": "Reacciones a los decretos de vivienda y las acampadas en directo| Detenidos tres manifestantes de grupos de ultraderecha que intentaban llegar a la acampada de Sol",
+    "medio": "El País",
+    "fecha": 1791067539.0,
+    "link": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+    "resumen": "La policía dispara pelotas de goma contra grupos de extrema derecha que intentan llegar a Sol | La Delegación del Gobierno de Madrid cifra en 70.000 el número de asistentes a la convocatoria del Sindicato de Inquilinas"
+  },
+  {
+    "titulo": "El desahucio de la humanidad",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650245/desahucio-humanidad.html",
+    "resumen": "¿Sucumbiremos a la IA como los aztecas a los colonizadores? ¿Seremos sus esclavos?"
+  },
+  {
+    "titulo": "Como en ‘¡Allá tú!",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650252/como-en-alla-tu.html",
+    "resumen": "Aina Vidal recuperó en el Congreso una camiseta que decía que ‘CiU no és Catalunya’"
+  },
+  {
+    "titulo": "Una familia moderna",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650234/familia-moderna.html",
+    "resumen": "El respeto a los mayores se ve hoy muy cuestionable porque la longevidad resulta demasiado cara"
+  },
+  {
+    "titulo": "Demografía y geopolítica",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650239/demografia-geopolitica.html",
+    "resumen": "Como Europa necesitará gente joven, habrá que abrir vías para una inmigración legal y regulada"
+  },
+  {
+    "titulo": "Mundo de ricos",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650261/mundo-ricos.html",
+    "resumen": "Hace años que un grupo (pequeño) de millonarios británicos pide pagar más impuestos"
+  },
+  {
+    "titulo": "Los nuevos rentistas",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650265/nuevos-rentistas.html",
+    "resumen": "¡Éramos magnates y nosotros sin saberlo! Gracias Pedro, Irene, Yolanda, Gabriel y demás"
+  },
+  {
+    "titulo": "Freud no conoció el amor",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650236/freud-conocio-amor.html",
+    "resumen": "El Nobel J.M.Coetzee desvela su comportamiento marital en 'Freud y el matrimonio'"
+  },
+  {
+    "titulo": "China, EE.UU. e IA, el mundo en juego",
+    "medio": "La Vanguardia",
+    "fecha": 1791066600.0,
+    "link": "https://www.lavanguardia.com/opinion/20261004/11650241/china-ee-uu-e-ia-mundo-juego.html",
+    "resumen": "Quien gane tendrá un control fundamental incluso para establecer medidas sobre la destrucción de la humanidad"
+  },
+  {
+    "titulo": "Los ceutíes vuelven a salir a la calle por segunda vez en tres días: «Ceuta no es un CETI»",
+    "medio": "OK Diario",
+    "fecha": 1791066585.0,
+    "link": "https://okdiario.com/espana/ceuties-vuelven-salir-calle-segunda-vez-tres-dias-ceuta-no-ceti-20476698",
+    "resumen": "Los ceutíes han vuelto a salir a las calles con motivo de una nueva concentración ante la sede de la Delegación del Gobierno. Decenas de ceutíes han expresado su disconformidad con la «nueva normalidad» de la ciudad debido a la invasión con miles de inmigrantes. «¡Ceuta no es CETI!», han denunciado. El Foro Ciudadano de … Continuar leyendo \"Los ceutíes vuelven a salir a la calle por segunda vez en tres días: «Ceuta no es un CETI»\""
+  },
+  {
+    "titulo": "China y Rusia bloquean en la ONU las sanciones a Irán nuclear y reivindican su programa civil",
+    "medio": "Moncloa.com",
+    "fecha": 1791064415.0,
+    "link": "https://www.moncloa.com/2026/10/03/iran-nuclear-sanciones-onu-china-rusia-3442123/",
+    "resumen": "China y Rusia bloquean en el Consejo de Seguridad cualquier prórroga de las sanciones sobre Irán nuclear y reabren la crisis del NPT. La entrada China y Rusia bloquean en la ONU las sanciones a Irán nuclear y reivindican su programa civil aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Bruselas condiciona la financiación a Ucrania: exige reformas anticorrupción ante un hueco de 27.000 millones",
+    "medio": "Moncloa.com",
+    "fecha": 1791064359.0,
+    "link": "https://www.moncloa.com/2026/10/03/financiacion-ue-ucrania-reformas-anticorrupcion-3442121/",
+    "resumen": "Bruselas ata la financiación de la UE a Ucrania a nuevas reformas anticorrupción y evita validar el hueco de 27.000 millones que reclama Kiev. La entrada Bruselas condiciona la financiación a Ucrania: exige reformas anticorrupción ante un hueco de 27.000 millones aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El rearme alemán en la OTAN: Berlín dispara el gasto en defensa y confía en que Rusia no escale",
+    "medio": "Moncloa.com",
+    "fecha": 1791064330.0,
+    "link": "https://www.moncloa.com/2026/10/03/rearme-aleman-otan-bundeswehr-rusia-3442119/",
+    "resumen": "Alemania convierte su peso industrial en influencia en Bruselas y rearma la Bundeswehr mientras apuesta a que Moscú no escalará el conflicto. La entrada El rearme alemán en la OTAN: Berlín dispara el gasto en defensa y confía en que Rusia no escale aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Junts agota a la legislatura: los socios ven las elecciones, pero no todos las quieren",
+    "medio": "Moncloa.com",
+    "fecha": 1791064307.0,
+    "link": "https://www.moncloa.com/2026/10/03/socios-legislatura-elecciones-junts-3442117/",
+    "resumen": "El 'no' de Junts a los decretos de vivienda instala la sensación de final de legislatura entre los socios del Gobierno. La entrada Junts agota a la legislatura: los socios ven las elecciones, pero no todos las quieren aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La Audiencia Nacional cita a Vivas y amplía la investigación de migrantes en Ceuta hacia Moncloa",
+    "medio": "Moncloa.com",
+    "fecha": 1791064076.0,
+    "link": "https://www.moncloa.com/2026/10/03/investigacion-ceuta-migrantes-moncloa-3442116/",
+    "resumen": "La Audiencia Nacional interroga a Vivas y al ex jefe de gabinete de la Delegación de Ceuta y desplaza el foco de la instrucción hacia Madrid. La entrada La Audiencia Nacional cita a Vivas y amplía la investigación de migrantes en Ceuta hacia Moncloa aparece primero en Moncloa."
+  },
+  {
+    "titulo": "España doblega a República Checa con rotaciones y sigue invicta en la Nations League",
+    "medio": "The Objective",
+    "fecha": 1791064055.0,
+    "link": "https://theobjective.com/deportes/futbol/2026-10-03/espana-doblega-republica-checa-rotaciones-sigue-invicta-nations-league/",
+    "resumen": "España venció (3-1) a Chequia este sábado en la tercera jornada de la Liga de Naciones celebrada en el Carlos Tartiere de Oviedo para seguir con […]"
+  },
+  {
+    "titulo": "Illa planta cara a Junts por los decretos de vivienda y Turull reta al PSOE a las urnas",
+    "medio": "Moncloa.com",
+    "fecha": 1791064043.0,
+    "link": "https://www.moncloa.com/2026/10/03/illa-decretos-vivienda-junts-urnas-3442110/",
+    "resumen": "Illa carga contra Junts por tumbar los decretos de vivienda en el Congreso y Turull responde retando al PSOE a medirse en las urnas. La entrada Illa planta cara a Junts por los decretos de vivienda y Turull reta al PSOE a las urnas aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La encuesta de la Ley de Nietos: el 65% teme un pucherazo electoral y el 45% del PSOE avala suspenderla",
+    "medio": "Moncloa.com",
+    "fecha": 1791064022.0,
+    "link": "https://www.moncloa.com/2026/10/03/encuesta-ley-nietos-sigma-dos-pp-3442109/",
+    "resumen": "El 65% de los españoles avala la suspensión cautelar del Supremo sobre la Ley de Nietos, y un 45% de votantes socialistas respalda frenarla. La entrada La encuesta de la Ley de Nietos: el 65% teme un pucherazo electoral y el 45% del PSOE avala suspenderla aparece primero en Moncloa."
+  },
+  {
+    "titulo": "De la Fuente: «Lamine está en el camino de convertirse en un jugador de leyenda»",
+    "medio": "OK Diario",
+    "fecha": 1791063805.0,
+    "link": "https://okdiario.com/deportes/fuente-lamine-esta-camino-convertirse-jugador-leyenda-20475311",
+    "resumen": "Luis de la Fuente atendió a los medios de comunicación tras la victoria de la selección española frente a la República Checa en Oviedo. El combinado nacional ganó 3-1 gracias a los goles de Lamine Yamal, Rodrigo y Mikel Merino. La campeona del mundo sellará su presencia en los cuartos de final de la Liga … Continuar leyendo \"De la Fuente: «Lamine está en el camino de convertirse en un jugador de leyenda»\""
+  },
+  {
     "titulo": "España supera una desconexión ante República Checa en un partido con multitud de ocasiones",
     "medio": "El País",
     "fecha": 1791063127.0,
@@ -28,60 +252,11 @@
     "resumen": "El presidente de Canarias reprocha a Sánchez que gobernar no es resistir y sitúa en Moncloa la decisión del adelanto electoral. La entrada Clavijo a Sánchez: «gobernar no es resistir» y deja en la Moncloa el adelanto electoral aparece primero en Moncloa."
   },
   {
-    "titulo": "Francia dispara las primas de riesgo europeas: la Eurozona teme el contagio a España e Italia",
-    "medio": "Moncloa.com",
-    "fecha": 1791062297.0,
-    "link": "https://www.moncloa.com/2026/10/03/primas-riesgo-europeas-francia-eurozona-3442102/",
-    "resumen": "La prima de riesgo francesa marca máximos desde 2011 y el contagio ya llega a España e Italia. El BCE se desmarca: su mandato es la inflación. La entrada Francia dispara las primas de riesgo europeas: la Eurozona teme el contagio a España e Italia aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La inflación de la eurozona repunta al 3,8% y presiona al BCE: la energía sube un 18,8%",
-    "medio": "Moncloa.com",
-    "fecha": 1791062218.0,
-    "link": "https://www.moncloa.com/2026/10/03/inflacion-eurozona-repunta-bce-energia-3442099/",
-    "resumen": "La inflación de la eurozona sube al 3,8% en septiembre, la más alta en tres años, con la energía disparada un 18,8% y España en el 5%. La entrada La inflación de la eurozona repunta al 3,8% y presiona al BCE: la energía sube un 18,8% aparece primero en Moncloa."
-  },
-  {
-    "titulo": "EH Bildu lanza las candidaturas de Aznal y Asiron y pide «pasar del cambio a la transformación»",
-    "medio": "Moncloa.com",
-    "fecha": 1791062178.0,
-    "link": "https://www.moncloa.com/2026/10/03/eh-bildu-candidaturas-aznal-asiron-3442027/",
-    "resumen": "EH Bildu presenta sus candidaturas a Navarra y Pamplona-Iruña, con la vivienda como eje del discurso y Arnaldo Otegi en el cierre. La entrada EH Bildu lanza las candidaturas de Aznal y Asiron y pide «pasar del cambio a la transformación» aparece primero en Moncloa."
-  },
-  {
     "titulo": "La Policía arresta a tres ultraderechistas que intentaban llegar a la acampada de Sol y evita peleas con los manifestantes",
     "medio": "El Español",
     "fecha": 1791062041.0,
     "link": "https://www.elespanol.com/espana/20261003/disturbios-puerta-sol-policia-arresta-ultraderechistas-intentaban-llegar-acampada/1003744407750_0.html",
     "resumen": "Ha sido en la calle de la Montera donde se han vivido los mayores conatos de violencia, resultando en la intervención de las UIP.Más información: Manifestaciones masivas en toda España exigen que se garantice el derecho a la vivienda y reclaman una huelga"
-  },
-  {
-    "titulo": "Cisco Talos atribuye a UAT-11587 el backdoor Antino que espió 16 organismos de Asia vía Microsoft 365",
-    "medio": "Moncloa.com",
-    "fecha": 1791061906.0,
-    "link": "https://www.moncloa.com/2026/10/03/backdoor-antino-uat-11587-microsoft-365-3442041/",
-    "resumen": "Cisco Talos atribuye al grupo chino UAT-11587 el backdoor Antino, que usó Microsoft 365 como canal de mando para espiar dieciséis organismos de Asia. La entrada Cisco Talos atribuye a UAT-11587 el backdoor Antino que espió 16 organismos de Asia vía Microsoft 365 aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La forma más fácil de hacer cheesecake alto en proteína sin horno: listo en 15 minutos",
-    "medio": "Moncloa.com",
-    "fecha": 1791061842.0,
-    "link": "https://www.moncloa.com/2026/10/03/cheesecake-alto-proteina-sin-horno-3442086/",
-    "resumen": "Cheesecake alto en proteína sin horno: base de avena en microondas, relleno de queso cottage y yogur griego, y nevera. Listo con 15 minutos de trabajo. La entrada La forma más fácil de hacer cheesecake alto en proteína sin horno: listo en 15 minutos aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El temporal en Cataluña: alerta roja, ES-Alert y movilidad restringida en 20 comarcas",
-    "medio": "Moncloa.com",
-    "fecha": 1791061807.0,
-    "link": "https://www.moncloa.com/2026/10/03/temporal-cataluna-alerta-roja-movilidad-3442087/",
-    "resumen": "La alerta roja por el temporal de Cataluña activa el INUNCAT: 20 comarcas sin movilidad libre hasta el domingo y un ES-Alert masivo en los móviles. La entrada El temporal en Cataluña: alerta roja, ES-Alert y movilidad restringida en 20 comarcas aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El temporal en Cataluña: Rodalies cancelados desde las 20:00, el metro de Barcelona cerrado y El Prat colapsado",
-    "medio": "Moncloa.com",
-    "fecha": 1791061694.0,
-    "link": "https://www.moncloa.com/2026/10/03/rodalies-cancelados-metro-barcelona-el-prat-3442088/",
-    "resumen": "Rodalies cancela los trenes en zonas de riesgo desde las 20:00, el metro de Barcelona cesa a medianoche y El Prat suma retrasos de hasta cuatro horas. La entrada El temporal en Cataluña: Rodalies cancelados desde las 20:00, el metro de Barcelona cerrado y El Prat colapsado aparece primero en Moncloa."
   },
   {
     "titulo": "Las imágenes de riadas y calles inundadas por el minihuracán mediterráneo que azota Cataluña",
@@ -91,32 +266,11 @@
     "resumen": "Las imágenes de riadas y calles inundadas por el minihuracán mediterráneo que azota Cataluña se pueden observar en las redes sociales la noche de este sábado. La localidad más afectada por la acumulación de agua es Hospitalet de Llobregat. Las tormentas dejan ya más de 160 litros por metro cuadrado en menos de una hora … Continuar leyendo \"Las imágenes de riadas y calles inundadas por el minihuracán mediterráneo que azota Cataluña\""
   },
   {
-    "titulo": "La España anónima supera su propia pereza y cumple el trámite ante la República Checa",
-    "medio": "El Mundo",
-    "fecha": 1791061088.0,
-    "link": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/10/03/6ac16c54e85ece17518b4572.html",
-    "resumen": "Tras una buena primera parte, se desconectó del partido y pasó un mal rato hasta que Merino resolvió al final con el tercero Leer"
-  },
-  {
     "titulo": "Lamine y España siguen en otra liga",
     "medio": "Europa Press",
     "fecha": 1791060877.0,
     "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-lamine-espana-siguen-otra-liga-20261003225437.html",
     "resumen": "España venció (3-1) a Chequia este sábado en la tercera jornada de la Liga de Naciones celebrada en el Carlos Tartiere de Oviedo para seguir con su pleno de victorias y gran estado de forma, personalizado en un Lamine Yamal que dejó otra obra de arte."
-  },
-  {
-    "titulo": "Lamine Yamal, la felicidad siempre es titular",
-    "medio": "El Mundo",
-    "fecha": 1791060763.0,
-    "link": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/10/03/6ac16b06e9cf4a395f8b45b1.html",
-    "resumen": "Leer"
-  },
-  {
-    "titulo": "Marco Pérez sobrevive a la crueldad de Madrid",
-    "medio": "El Mundo",
-    "fecha": 1791060583.0,
-    "link": "https://www.elmundo.es/cultura/toros/2026/10/03/6ac11c2a21efa01d5d8b4586.html",
-    "resumen": "El confirmante supera una prueba de fuego con un ambiente hostil, un feo corridón de Victoriano del Río y un planteamiento de su apoderado nefasto Leer"
   },
   {
     "titulo": "De las murallas romanas al MUSAC: un paseo por las huellas que ha dejado la historia en León",
@@ -126,25 +280,11 @@
     "resumen": "Elegida por Lonely Planet entre los destinos recomendados para 2027, León ofrece un viaje mucho más allá de sus monumentos conocidos. Sus calles permiten seguir el rastro de las legiones romanas, los reyes medievales, los peregrinos y las generaciones que han construido la ciudad actual Los 50 destinos que no hay que perderse en 2027 y uno es español, según Lonely Planet Que León aparezca entre los destinos elegidos por Lonely Planet para su Best in Travel 2027 es una buena excusa para, si no lo has hecho antes, dedicarle una visita en profundidad. La firma mundialmente conocida por sus guías de viajes destaca su historia, sus monumentos y su relación con el Camino de Santiago, pero hay una forma especialmente interesante de descubrir todo eso sin quedarnos en un simple y llano “qué ver en León”. Te proponemos descubrir León viajando en el tiempo y deteniéndonos en cada una de sus épocas de esplendor, porque no es una ciudad que se pueda entender de un solo vistazo. Bajo la ciudad que conocemos hoy todavía quedan restos de la antigua y romana Legio VII, después la ciudad medieval fue capital de un reino y escenario de uno de los episodios políticos más importantes de la Europa medieval, y siglos después llegaron los palacios renacentistas, la expansión burguesa y los edificios modernistas. Todo ha ido sumándose sobre el mismo espacio, sin que una época terminara de borrar por completo a la anterior. Así que este viaje propone recorrer León siguiendo ese hilo histórico. Empezaremos por el campamento romano, continuaremos por la ciudad que se convirtió en capital del reino y seguiremos las calles por las que llevan siglos pasando los peregrinos. Después llegarán los palacios, los mercados y la ciudad burguesa, hasta terminar en el León contemporáneo, con el MUSAC como uno de los ejemplos de cómo la ciudad sigue construyéndose a día de hoy. Las murallas de León. La ciudad que fundaron los romanos Fundada en el último tercio del siglo I d. C., la Legio VII Gemina estableció en este punto su campamento permanente. Aquella instalación militar es el origen de León y todavía hoy permite entender buena parte de su trazado. El recinto tenía una organización muy definida y estaba protegido por una primera muralla de piedra, a la que se sumó otra fortificación más potente a finales del siglo III. La que vemos hoy es el resultado de esa evolución y de numerosas reformas posteriores. Para acercarnos a aquel primer León podemos buscar los restos de la Cripta de Puerta Obispo, donde se conservan vestigios de la antigua puerta romana, o acercarnos a la Casona de Puerta Castillo, que funciona como Centro de Interpretación del León Romano. También hay restos arqueológicos en la Cripta de Cascalería y en el entorno de la Catedral, mientras que el Jardín del Cid permite reconocer algunos vestigios vinculados a las infraestructuras del campamento. La ciudad actual empieza a explicarse aquí, en un recinto militar que acabaría marcando su desarrollo durante siglos. San Isidoro, la “Capilla Sixtina del románico”. La capital de un reino Con el final del mundo romano cambió la función de la ciudad. León pasó por distintas etapas hasta convertirse en sede regia y capital del Reino de León, y fue durante la Edad Media cuando alcanzó buena parte de la importancia política y religiosa que todavía podemos reconocer en sus monumentos. El mejor lugar para entender ese periodo es San Isidoro, donde el Panteón Real reúne las sepulturas de numerosos miembros de la monarquía leonesa y conserva uno de los grandes conjuntos de pintura románica, conocido popularmente como “la Capilla Sixtina del románico”. Muy cerca está la Catedral, aunque aquí la historia vuelve a llevarnos más atrás. El templo gótico comenzó a construirse hacia 1205 sobre el solar ocupado anteriormente por la catedral románica, el palacio de Ordoño II y las termas romanas. Es otro buen ejemplo de cómo León ha ido creciendo sobre lo que ya existía. Y entre San Isidoro y la Catedral aparece también uno de los episodios que explican la relevancia política de la ciudad: en 1188 el rey Alfonso IX convocó en León unas Cortes cuyo testimonio documental está reconocido por la UNESCO como la referencia documental más antigua conocida del sistema parlamentario europeo. Y vamos un poco más allá. Seguro que de León te suena su Barrio Húmedo, sobre todo como referencia gastronómica para salir de tapeo. Pues bien, en parte corresponde a la antigua judería, instalada en este entorno desde el siglo XIII hasta el XV. El Convento San Marcos, en León. La ciudad de los peregrinos Hay una época de León que no se puede acotar en una fecha concreta. El Camino de Santiago atraviesa la ciudad desde la Edad Media y ha influido durante siglos en sus calles, su actividad comercial y su relación con quienes llegaban de otros lugares. Por eso merece la pena recorrerlo como un capítulo propio, aunque cronológicamente se dilate en el tiempo. El itinerario permite seguir ese León de los peregrinos desde Santa Ana, uno de los primeros templos de la ciudad en recibirlos, hasta Puerta Moneda, vinculada históricamente a los cambistas y al movimiento comercial asociado al Camino. Después aparecen Santa María del Camino, la plaza del Grano, la Rúa y la calle Ancha, antes de llegar a algunos de los grandes monumentos de la ciudad. La Catedral y San Isidoro forman parte de este recorrido, igual que San Marcos, que nació como hospedería para peregrinos en el siglo XII y que siglos después adquiriría su actual imagen plateresca. La Plaza Mayor de León. El León del Renacimiento A partir del siglo XVI, la ciudad fue incorporando nuevos edificios que hablan de una sociedad más compleja, con mayor presencia de las familias nobles, instituciones y actividades comerciales. El Palacio de los Guzmanes es uno de los mejores ejemplos. Las obras comenzaron en 1577 y se prolongaron hasta el siglo XVII, dando forma a un gran palacio renacentista que hoy ocupa uno de los puntos más reconocibles del centro. En esta misma zona se puede seguir la transformación de la ciudad a través de espacios mucho más vinculados a la vida cotidiana. La Plaza Mayor se levantó sobre un antiguo mercado medieval después de un incendio ocurrido a mediados del siglo XVII y mantuvo su función comercial y pública. Cerca está la plaza de San Martín, vinculada durante siglos a los gremios y a la actividad de la ciudad, con la Casa de las Carnicerías como ejemplo de ese pasado comercial. Y el Palacio de los Condes de Luna resume bien la superposición de épocas: conserva un cuerpo gótico, una torre renacentista y elementos modificados posteriormente. La fachada principal de la Casa Botines, en León. La ciudad que se hizo moderna El siguiente cambio llegó con la expansión urbana y el crecimiento de una nueva sociedad burguesa entre el siglo XIX y comienzos del XX. El ferrocarril tuvo un papel importante en esa transformación al conectar León con nuevos flujos de personas y mercancías, mientras la ciudad crecía más allá de los límites históricos. Casa Botines es probablemente el edificio que mejor permite reconocer ese cambio. Antonio Gaudí inició su proyecto en 1891 por encargo de comerciantes de tejidos de León vinculados al sector textil catalán. El edificio combinaba actividad empresarial en las plantas inferiores y viviendas en las superiores, y su aspecto modernista incorporaba referencias que recuerdan a la arquitectura medieval de la ciudad. El proceso de modernización también dejó otros ejemplos de esta corriente artística en Santo Domingo y en distintas zonas del centro. El MUSAC, en León. El León de hoy El recorrido termina en una ciudad que ya no necesita mirar únicamente a su pasado para construir su identidad. El MUSAC, dedicado al arte de los siglos XX y XXI, representa bien ese León contemporáneo. Su colección reúne más de 1.650 obras de casi 400 artistas y su programación relaciona la creación actual con los contextos históricos, políticos y sociales que la rodean. El edificio, diseñado por Emilio Tuñón y Luis Moreno Mansilla, ocupa más de 21.000 metros cuadrados y recibió en 2007 el Premio Mies van der Rohe de Arquitectura Contemporánea de la Unión Europea. Su fachada multicolor toma como referencia las vidrieras de la Catedral, algo que resume bastante bien el recorrido en el tiempo que acabamos de hacer. En León, lo contemporáneo no aparece separado de la historia, sino que sigue construyéndose sobre ella. Y basta caminar por el casco histórico, las murallas, el Barrio Húmedo o los nuevos espacios culturales para comprobar que la ciudad todavía está escribiendo su siguiente capítulo."
   },
   {
-    "titulo": "España vence a Chequia con una gran primera mitad y sufriendo en la segunda",
-    "medio": "La Vanguardia",
-    "fecha": 1791060460.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20261003/11650394/espana-republica-checa-nations-league-resumen.html",
-    "resumen": "Los de De la Fuente se afianzan en el liderato de su grupo en la Nations"
-  },
-  {
     "titulo": "Dua Lipa canta con Shakira ‘Antología’ en el octavo concierto de la colombiana en Madrid",
     "medio": "El País",
     "fecha": 1791060424.0,
     "link": "https://elpais.com/cultura/2026-10-03/dua-lipa-canta-con-shakira-antologia-en-el-octavo-concierto-de-la-colombiana-en-madrid.html",
     "resumen": "El recital de la artista se retransmite en directo por la plataforma Amazon"
-  },
-  {
-    "titulo": "Reacciones a los decretos de vivienda y las acampadas en directo| Detenidos tres manifestantes de grupos de ultraderecha que intentaban llegar a la acampada de Sol",
-    "medio": "El País",
-    "fecha": 1791060363.0,
-    "link": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-    "resumen": "La policía dispara pelotas de goma contra grupos de extrema derecha que intentan llegar a Sol | La Delegación del Gobierno de Madrid cifra en 70.000 el número de asistentes a la convocatoria del Sindicato de Inquilinas"
   },
   {
     "titulo": "Marvel revoluciona la San Diego Comic Con de Málaga con la presencia sorpresa de varios actores de 'Vengadores Doomsday'",
@@ -161,39 +301,11 @@
     "resumen": "España ya tiene las cuentas claras para estar en los cuartos de final de la Liga de Naciones. Tras la jornada disputada este sábado, la selección española viajará a Croacia sabiendo que una victoria o un empate en Split le permitirá sellar matemáticamente su clasificación para la siguiente ronda. Los de Luis de la Fuente … Continuar leyendo \"España deja los cuartos de la Liga de Naciones a punto\""
   },
   {
-    "titulo": "Ni De la Fuente se acostumbra a Lamine",
-    "medio": "OK Diario",
-    "fecha": 1791060126.0,
-    "link": "https://okdiario.com/deportes/ni-fuente-acostumbra-lamine-20475263",
-    "resumen": "Lamine Yamal necesitó solamente 45 minutos para volver a demostrar que es el futbolista más desequilibrante de España. El extremo firmó una primera parte brillante contra República Checa en el Carlos Tartiere, generando peligro prácticamente cada vez que recibió el balón por la banda derecha. Fue el principal argumento ofensivo de la selección antes de … Continuar leyendo \"Ni De la Fuente se acostumbra a Lamine\""
-  },
-  {
-    "titulo": "España gana hasta sin querer",
-    "medio": "OK Diario",
-    "fecha": 1791060077.0,
-    "link": "https://okdiario.com/deportes/espana-republica-checa-espana-gana-sin-querer-20475364",
-    "resumen": "España gana hasta sin querer. La selección de Luis de la Fuente pasaportó a la República Checa en poco más de media hora de buen fútbol con los dos goles de Lamine Yamal y Rodri. El partido era tan cómodo que nos dormimos y los checos se metieron en el partido con su gol mediada … Continuar leyendo \"España gana hasta sin querer\""
-  },
-  {
-    "titulo": "Así queda la clasificación del grupo de España en la Liga de las Naciones tras la victoria contra la República Checa",
-    "medio": "OK Diario",
-    "fecha": 1791059983.0,
-    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-del-grupo-espana-liga-naciones-victoria-contra-republica-checa-20475960",
-    "resumen": "España sigue mandando en su grupo de la Liga de las Naciones. El triunfo ante la República Checa (2-1) mantiene a la Selección española en el liderato. Nueve puntos de nueve posibles tras las tres victorias en los tres encuentros jugados en esta competición. En un grupo de cuatro selecciones (España, Inglaterra, Croacia y República … Continuar leyendo \"Así queda la clasificación del grupo de España en la Liga de las Naciones tras la victoria contra la República Checa\""
-  },
-  {
     "titulo": "España muestra varias caras en su victoria ante la República Checa: superioridad, disfrute, relajación y el sufrimiento final",
     "medio": "El Español",
     "fecha": 1791059957.0,
     "link": "https://www.elespanol.com/deportes/futbol/20261003/espana-muestra-varias-caras-victoria-republica-checa-superioridad-disfrute-relajacion-sufrimiento-final/1003744407696_0.html",
     "resumen": "Lamine y Rodri encarrilaron el partido en la primera parte, pero los checos recortaron distancias en el 69'. Mikel Merino, en el minuto 89', apareció para sentenciar el encuentro."
-  },
-  {
-    "titulo": "Detenidos tres participantes de una marcha ultra que trataba de llegar a la acampada de Sol",
-    "medio": "La Vanguardia",
-    "fecha": 1791059552.0,
-    "link": "https://www.lavanguardia.com/local/madrid/20261003/11650392/detenidos-tres-participantes-marcha-ultra-trataba-llegar-acampada-sol.html",
-    "resumen": "En la a concentración, que contaba con el apoyo de Núcleo Nacional y Democracia Nacional, han participado medio millar de personas"
   },
   {
     "titulo": "El CIS de Tezanos pregunta por el desahucio de Maricarmen: \"¿Es más importante proteger al vulnerable o cumplir la ley?\"",
@@ -208,13 +320,6 @@
     "fecha": 1791058966.0,
     "link": "https://elpais.com/espana/2026-10-03/las-fuertes-lluvias-inundan-el-centro-de-bilbao-y-causan-numerosas-incidencias-en-bizkaia.html",
     "resumen": "El temporal deja inundaciones y riadas en varias comunidades y mantiene en alerta a media España"
-  },
-  {
-    "titulo": "Marlaska blinda la Puerta del Sol con 500 agentes de Policía para evitar enfrentamientos entre grupos radicales",
-    "medio": "OK Diario",
-    "fecha": 1791058906.0,
-    "link": "https://okdiario.com/espana/marlaska-blinda-puerta-del-sol-500-agentes-policia-evitar-enfrentamientos-grupos-20475709",
-    "resumen": "La Policía Nacional ha disparado pelotas de goma contra los manifestantes que este sábado se concentraron para protestar contra la acampada en la Puerta del Sol y a favor de la vivienda «social y nacional». Los agentes han detenido a tres manifestantes que intentaban acceder a la acampada de Sol. La protesta fue organizada por la … Continuar leyendo \"Marlaska blinda la Puerta del Sol con 500 agentes de Policía para evitar enfrentamientos entre grupos radicales\""
   },
   {
     "titulo": "\"Se están reconfigurando los debates\": por qué la acampada de Sol le da oxígeno a la izquierda poniendo la vivienda en el centro",
@@ -245,11 +350,11 @@
     "resumen": "La polarización ha llegado a Las Ventas y la terna sufrió la indiferencia del público ante una corrida mansa, sosa y descastada de Victoriano del Río"
   },
   {
-    "titulo": "Alrededor de 400 personas de grupos de ultraderecha intentan llegar a la Puerta del Sol",
+    "titulo": "Tres manifestantes detenidos mientras intentaban alcanzar la Puerta del Sol",
     "medio": "The Objective",
     "fecha": 1791057768.0,
     "link": "https://theobjective.com/espana/2026-10-03/400-personas-contra-acampada-sol/",
-    "resumen": "Unos 400 manifestantes, según Delegación del Gobierno en Madrid, convocados por la plataforma Indignados por España, se han concentrado este sábado en Cibeles, frente al Banco […]"
+    "resumen": "Tres manifestantes de la concentración convocada por Indignados por España en Cibeles han sido detenidos este sábado en la calle Montera cuando intentaban llegar a la […]"
   },
   {
     "titulo": "Las nuevas Adidas con detalles color grosella que mejor sientan con gabardinas este otoño y destronan a las Samba",
@@ -259,32 +364,11 @@
     "resumen": "Ahora que parece que estamos empezando a desterrar las sandalias para dejar hueco en nuestro armario a los mocasines y las bailarinas, también estamos especialmente contentas de volver a las sneakers. Y es que este calzado resulta de lo más cómodo y nos encanta combinarlo hasta con los looks de oficina. Eso sí, sabemos que para ello es imprescindible contar con una propuesta elegante y chic, para no restar demasiada sobriedad a algunos estilismos que lo requieren. Pues estas nuevas Adidas Superstar en color negro y con detalles en un tono grosella nos tienen enamoradas. Adidas Superstar Adidas Superstar PVP en Adidas — 120,00 € El precio podría variar. Obtenemos comisión por estos enlaces Estas deportivas, además de ser un acierto para llevar con trajes de dos piezas, nos parecen un must para lucir con la prenda a la que más recurrimos en los días de entretiempo: la gabardina. Es que este color negro súper básico encaja a la perfección con el camel de un trench y encima con este de Zara queda de cine. Trench Zara También nos parece que estas sneakers quedan especialmente bien con una biker de cuero, otra de nuestras prendas de abrigo favoritas en los meses de otoño. Ahora es el momento de hacerte con una que se ajuste más a tu estilo, ya sea una oversize estilo ochentera o apostar por una más ajustada al cuerpo en sintonía con un minimalismo más noventero. Con esta de Pull & Bear las zapatillas son un sí rotundo. Biker de cuero Pull & Bear También puedes conjuntar las zapatillas con una sudadera, optando por un estilo mucho más sporty, ideal tanto para ir al gym a entrenar, así como un look cómodo entre semana para salir a la calle a hacer recados. En tiendas hay muchas opciones, pero nosotras buscábamos una en color grosella a juego con los detalles de las Adidas, y esta de Eme Studios es nuestra predilecta. Sudadera Eme Studios Sin duda, estas zapatillas son una compra en la que merece la pena invertir porque, aunque su precio es de 120 euros, son un básico al que vas a recurrir este año y los siguientes. Palabra de editora. Fotos | @zinafashionvibe, Adidas, Zara, Pull & Bear, Eme Studios En Trendencias | New Balance tiene las zapatillas color vino de aires vintage que sirven para la oficina y para los paseos bajo el sol del otoño En Espinof | Arturo Pérez-Reverte elige su película del oeste favorita de Clint Eastwood: \"Obra maestra, está a la altura de los mejores westerns de la historia\" En Xataka | Se buscan voluntarios para vivir gratis en un refugio de la Sierra de Gredos a cambio de trabajar 24 horas semanales cuidando animales abandonados - La noticia Las nuevas Adidas con detalles color grosella que mejor sientan con gabardinas este otoño y destronan a las Samba fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "Nadal se exhibe en el décimo aniversario de su academia: las mejores imágenes de su regreso a las pistas",
-    "medio": "La Vanguardia",
-    "fecha": 1791056495.0,
-    "link": "https://www.lavanguardia.com/clic/20261003/11650322/nadal-exhibe-decimo-aniversario-academia-mejores-imagenes-regreso-pistas-lol.html",
-    "resumen": "El ganador de 22 Grand Slams volvió a jugar ante el público en Manacor y dejó varios destellos de su tenis en una exhibición junto a Moyà, Ferrer, Gasquet, Murray, Thiem, Fognini y Safin"
-  },
-  {
-    "titulo": "Las imágenes que deja del temporal en Catalunya",
-    "medio": "La Vanguardia",
-    "fecha": 1791055907.0,
-    "link": "https://www.lavanguardia.com/local/catalunya/20261003/11650330/imagenes-mas-impactantes-temporal-catalunya.html",
-    "resumen": "La intesidad de las lluvias ha empezado a provocar inundaciones y restricciones de circulación en la costa central de Catalunya"
-  },
-  {
     "titulo": "Miles de personas claman en CyL contra \"el negocio de la vivienda\" y abogan por la huelga general",
     "medio": "Europa Press",
     "fecha": 1791055230.0,
     "link": "https://www.europapress.es/castilla-y-leon/noticia-cientos-personas-claman-valladolid-contra-negocio-vivienda-abogan-huelga-general-20261003212030.html",
     "resumen": "Miles de personas se han manifestado este sábado en Castilla y León en defensa del derecho a la vivienda y en contra del negocio con la misma y la especulación inmobiliaria, a la vez que han puesto en valor la huelga general como un \"instrumento legítimo\" para lograr unas condiciones de vida \"dignas\"."
-  },
-  {
-    "titulo": "Varios socorristas rescatan a una bañista a punto de ahogarse en la Barceloneta",
-    "medio": "La Vanguardia",
-    "fecha": 1791054657.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20261003/11650327/socorristas-rescatan-banista-punto-ahogarse-barceloneta.html",
-    "resumen": "Una veintena de comarcas en Catalunya permanecen en alerta y el Ayuntamiento ha decretado el cierre de playas y restringido el acceso a espigones"
   },
   {
     "titulo": "Agua hasta las rodillas en el Casco Viejo y cortes de luz en el teatro Arriaga de Bilbao por las fuertes lluvias",
@@ -313,13 +397,6 @@
     "fecha": 1791053821.0,
     "link": "https://www.huffingtonpost.es/sociedad/el-primer-rascacielos-mundo-nueva-york-palacio-etiopia-construido-2800nos-f202610.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Máxima alerta ante la posibilidad de un minihuracán mediterráneo en el litoral de Catalunya",
-    "medio": "La Vanguardia",
-    "fecha": 1791053390.0,
-    "link": "https://www.lavanguardia.com/local/catalunya/20261003/11650173/alerta-roja-temporal-catalunya-ultima-hora-riesgo-fuertes-lluvias-inundaciones-en-directo.html",
-    "resumen": "Los servicios de transporte público como el metro o el ferrocarril se van a ver afectados por las lluvias intensas"
   },
   {
     "titulo": "Suspendida la mayor parte del servicio ferroviario de Rodalies y FGC por el temporal",
@@ -371,20 +448,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Cataluña se blinda por la alerta de un “minihuracán mediterráneo”",
-    "medio": "El País",
-    "fecha": 1791052393.0,
-    "link": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html",
-    "resumen": "La movilidad queda restringida, los trenes suspenden el servicio y el metro cerrará a medianoche. Protección Civil activa el máximo nivel de alerta por un “episodio excepcional”"
-  },
-  {
-    "titulo": "El temporal obliga a retrasar el Barcelona - Real Madrid de Liga F a las 19.00 de este domingo",
-    "medio": "El País",
-    "fecha": 1791052204.0,
-    "link": "https://elpais.com/deportes/futbol/2026-10-03/el-temporal-obliga-a-retrasar-el-barcelona-real-madrid-de-liga-f-a-las-1900-de-este-domingo.html",
-    "resumen": "Los clubes acuerdan cambiar el horario del clásico en el Camp Nou, que en principio estaba previsto que se disputara mañana a las 17.00"
-  },
-  {
     "titulo": "Por qué buscamos los empleos del futuro en el sitio equivocado",
     "medio": "Expansión",
     "fecha": 1791051533.0,
@@ -406,25 +469,11 @@
     "resumen": "El presidente de Canarias, Fernando Clavijo, ha recordado este sábado al presidente del Gobierno, Pedro Sánchez, que «uno está en las instituciones porque quiere transformar la […]"
   },
   {
-    "titulo": "Junqueras exige a Sánchez que cumpla “con los compromisos y deje de jugar con Catalunya”",
-    "medio": "La Vanguardia",
-    "fecha": 1791050998.0,
-    "link": "https://www.lavanguardia.com/politica/20261003/11650316/junqueras-exige-sanchez-cumpla-compromisos-deje-jugar-catalunya.html",
-    "resumen": "El líder de ERC pide a Junts que decida si quiere defender “los intereses del país” o “hacer piña con PP y Vox”"
-  },
-  {
     "titulo": "Lola Índigo pulsa por error antes de que una concursante de 'La Voz' cante una sola nota y su reacción lo dice todo: \"¿Cómo le he dado?\"",
     "medio": "HuffPost",
     "fecha": 1791050912.0,
     "link": "https://www.huffingtonpost.es/virales/lola-indigo-pulsa-error-concursante-la-voz-cante-sola-nota-reaccion-dice-como-le-he-dado-f202610.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Cindy Crawford y Rande Gerber estudian denunciar por la muerte de su hijo Presley Gerber",
-    "medio": "La Vanguardia",
-    "fecha": 1791050492.0,
-    "link": "https://www.lavanguardia.com/gente/20261003/11650313/cindy-crawford-rande-gerber-estudian-emprender-acciones-legales-muerte-hijo-presley-gerber.html",
-    "resumen": "Presley Gerber murió el pasado 20 de septiembre en un centro de rehabilitación de Santa Mónica tras años batallando contra sus adicciones"
   },
   {
     "titulo": "Parecen unos náuticos, pero son las zapatillas marrón de Adidas más cómodas inspiradas en el skate que no dejarás de llevar este otoño",
@@ -455,20 +504,6 @@
     "resumen": ""
   },
   {
-    "titulo": "El Gobierno carga su discurso contra los grandes fondos, pero los decretos Maricarmen habrían arañado menos de 10 millones a las socimis",
-    "medio": "El Mundo",
-    "fecha": 1791049865.0,
-    "link": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abfd695e9cf4a99108b4585.html",
-    "resumen": "La reforma afecta a un número muy limitado de estas empresas Leer"
-  },
-  {
-    "titulo": "Intercambio de golpes entre Illa y Junts: el presidente tilda de \"vergüenza\" su 'no' a los decretos y Turull reta a un PSOE que \"siempre engaña\" a encontrarse en las urnas",
-    "medio": "El Mundo",
-    "fecha": 1791049591.0,
-    "link": "https://www.elmundo.es/cataluna/2026/10/03/6ac0f0cc21efa06b778b45ab.html",
-    "resumen": "Elevan el tono 24 horas después de la votación fallida sobre vivienda en el Congreso Leer"
-  },
-  {
     "titulo": "El experimento sirio de libre mercado trae competencia",
     "medio": "Expansión",
     "fecha": 1791049474.0,
@@ -495,13 +530,6 @@
     "fecha": 1791048079.0,
     "link": "https://theobjective.com/deportes/futbol/2026-10-03/vandalizan-estadio-vallecas-rayo-carga-comunidad-madrid/",
     "resumen": "El Rayo Vallecano ha denunciado que esta madrugada se ha producido «un asalto» al Estadio de Vallecas en el que se ha «vandalizado» el palco de […]"
-  },
-  {
-    "titulo": "Trump publica el número de móvil de un senador de su partido que no apoya una ley para eliminar el cambio de hora",
-    "medio": "El Mundo",
-    "fecha": 1791047929.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/03/6ac13735e85ece34348b4582.html",
-    "resumen": "\"Casi todos quieren que se apruebe excepto Tom Cotton. Háganle saber que sería una gran victoria, llamen a su móvil\", insta a sus millones de seguidores Leer"
   },
   {
     "titulo": "“La esperanza nos mueve”: Sol mantiene viva la llama de la vivienda mientras crece el clamor por una huelga general",
@@ -539,20 +567,6 @@
     "resumen": "Al este del Edén, lo nuevo de Florence Pugh para Netflix es más que una miniserie intrigante con una antiheroína de cuidado. Que lo es. También, es una nueva visión de un clásico del cine que llega a la plataforma para una nueva audiencia y un punto de vista renovado. En especial, al conservar la […] Seguir leyendo: 3 razones para ver ‘Al este del Edén’, lo nuevo de Netflix con Florence Pugh"
   },
   {
-    "titulo": "Una cueva que no se conocía, posible origen del derrumbe del bar en San Vicente, La Rioja",
-    "medio": "El Mundo",
-    "fecha": 1791046548.0,
-    "link": "https://www.elmundo.es/espana/2026/10/03/6ac1338ce9cf4a4c218b45ad.html",
-    "resumen": "El alcalde ha declarado ya el estado de ruina del edificio y ahora los dueños tendrán que derribarlo por completo, dice el regidor Leer"
-  },
-  {
-    "titulo": "Dimite el jefe de prisiones de Tennessee tras la ejecución fallida de Christa Pike",
-    "medio": "El Mundo",
-    "fecha": 1791046353.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/03/6ac132ab21efa066048b457f.html",
-    "resumen": "Pike está ingresada en un hospital en estado crítico y con respiración asistida, mientras ha comenzado una investigación independiente sobre cómo se llevó a cabo el proceso de ejecución Leer"
-  },
-  {
     "titulo": "El colectivo Coordinadora Socialista ‘roba’ la Puerta del Sol al Sindicato de Inquilinas",
     "medio": "The Objective",
     "fecha": 1791045831.0,
@@ -572,20 +586,6 @@
     "fecha": 1791045082.0,
     "link": "https://www.xataka.com/magnet/guerra-drones-ucrania-acaba-superar-barrera-insolita-drones-persiguiendo-a-drones-a-velocidades-formula-1",
     "resumen": "La guerra de drones en Ucrania acaba de superar otra barrera que hasta hace poco parecía reservada a los misiles y los aviones de combate: ya hay drones persiguiendo a otros drones a velocidades propias de la Fórmula 1. Rusia ha empezado a lanzar en cantidades crecientes Geran propulsados por reactores capaces de volar mucho más rápido y alto que los antiguos Shahed de hélice, y Ucrania ha respondido construyendo interceptores específicamente diseñados para darles caza. Un territorio inexplorado. La imagen resume hasta qué punto ha cambiado el cielo ucraniano: una cámara térmica se aproxima entre las nubes a un Geran-5 ruso hasta prácticamente alcanzarlo. Según la Fundación Serhiy Prytula, el objetivo fue destruido cuando volaba a 425 km/h y a más de tres kilómetros de altitud por un interceptor de una unidad antiaérea ucraniana. Como referencia, el récord de velocidad conseguido por un Fórmula 1 modificado fue de unos 397 km/h y el Shinkansen japonés circula comercialmente a alrededor de 320 km/h. Ucrania ya había anunciado en diciembre que uno de sus interceptores había alcanzado 400 km/h durante pruebas, pero ahora asegura haber llevado esas velocidades al combate. En Xataka Los drones ucranianos están desplazando el frente de la guerra a miles de kilómetros de su territorio: a Mali y Sudán Un reactor inédito. Los Shahed-136 o Geran-2 que Rusia lleva años utilizando eran relativamente lentos, una característica que permitió a Ucrania desarrollar pequeños interceptores baratos capaces de perseguirlos y destruirlos. Moscú ha respondido introduciendo progresivamente los Geran-3, Geran-4 y Geran-5 con propulsión a reacción. El Geran-4 incorpora una estructura reforzada, una aerodinámica diseñada específicamente para el vuelo rápido y un turborreactor de mayor empuje que, según los análisis citados por Radio Free Europe/Radio Liberty, le permite alcanzar entre 450 y 500 km/h y operar hasta unos ocho kilómetros de altura. El Geran-5 va todavía más lejos: la inteligencia ucraniana le atribuye una velocidad máxima cercana a los 600 km/h. Más velocidad significa menos tiempo. Ese salto no convierte simplemente al Shahed en un dron más rápido, sino que reduce drásticamente la ventana disponible para detectarlo, perseguirlo y destruirlo. Los interceptores que funcionaban contra los Geran de hélice comenzaron a quedarse atrás frente a las nuevas variantes a reacción, obligando a Ucrania a recurrir en algunos casos a sistemas mucho más sofisticados, incluidos sus F-16. En ese sentido, el problema es económico: derribar drones producidos en masa con misiles antiaéreos avanzados puede convertirse rápidamente en una batalla de desgaste, precisamente la ecuación que los interceptores baratos habían empezado a corregir. Fabricar drones cada vez más rápido. Kiev asegura haber probado con éxito cuatro nuevos modelos de interceptores destinados específicamente a perseguir Shahed a reacción y está tratando de ampliar su producción. Entre los proyectos conocidos está el Sting S de Wild Hornets, una evolución de sus pequeños interceptores con mayor velocidad y carga explosiva que, según la empresa, ya ha derribado durante las pruebas de combate alrededor de una docena de Geran-4 y varios Geran-5, aunque esas cifras no han podido verificarse independientemente. El objetivo sigue siendo el mismo que hizo atractivos a estos sistemas desde el principio: conseguir una máquina suficientemente rápida para cazar al atacante sin tener que gastar un misil mucho más caro en cada intento. Los nuevos Geran. Rusia está convirtiendo progresivamente estos aparatos en armas bastante más sofisticadas que los primeros Shahed programados para volar hacia unas coordenadas. Algunos Geran-4 examinados en Ucrania incorporan cámaras diurnas, nocturnas e infrarrojas, módems celulares y enlaces capaces de transmitir vídeo casi en tiempo real, mientras determinadas configuraciones permiten introducir al operador humano en el circuito de ataque. En el Geran-5 se han identificado además sistemas de navegación mediante imágenes del terreno similares conceptualmente a los empleados por misiles de crucero, reduciendo su dependencia de la navegación por satélite. Velocidad, conectividad y autonomía están empezando así a converger en la misma plataforma. Objetivo económico. Ahí está la paradoja de esta nueva carrera tecnológica. Para destruir drones rusos cada vez más rápidos, Ucrania necesita interceptores con motores, comunicaciones y prestaciones superiores, lo que inevitablemente eleva su coste y complejidad. Rusia, mientras tanto, intenta industrializar sus nuevas variantes y la inteligencia ucraniana estima una producción conjunta de Geran-4 y Geran-5 de alrededor de 3.000 unidades mensuales. La guerra que comenzó enfrentando drones baratos de hélice está empujando a ambos bandos hacia máquinas que se parecen cada vez más, en prestaciones y funciones, a pequeños misiles de crucero. En Xataka China perfeccionó a los \"perros robot\", Ucrania a los drones y ha tenido que llegar México para convertirlos en uno solo De los 150 km/h a los 600 km/h. La historia de los Shahed en Ucrania se ha convertido en un ciclo acelerado de innovación y contramedidas: Rusia introduce una mejora, Ucrania encuentra una forma barata de neutralizarla y Moscú vuelve a modificar el arma para recuperar la ventaja. La aparición de los Geran a reacción ha trasladado ahora esa competición al terreno de la velocidad, obligando a construir interceptores capaces de perseguir objetivos a más de 400 km/h mientras algunos de sus blancos pueden acercarse a los 600. La Fórmula 1 sirve hoy como comparación certera, aunque al ritmo al que está evolucionando esta guerra, puede que pronto deje de servir. Imagen | GUR En Xataka | Rusia quiere aprovechar la niebla para volver a mover sus blindados. Ucrania lleva meses preparando la respuesta a cientos de kilómetros del frente En Xataka | La frontera de Estonia parece el lugar más amenazado, no lo es: la diminuta isla sueca en el punto de mira de Rusia - La noticia La guerra de drones de Ucrania acaba de superar una barrera insólita: drones persiguiendo a drones a velocidades de Fórmula 1 fue publicada originalmente en Xataka por Miguel Jorge ."
-  },
-  {
-    "titulo": "Cataluña se blinda ante la amenaza de lluvias torrenciales y un posible «minihuracán»",
-    "medio": "The Objective",
-    "fecha": 1791043540.0,
-    "link": "https://theobjective.com/sociedad/2026-10-03/cataluna-blinda-amenaza-lluvias-torrenciales-posible-minihuracan/",
-    "resumen": "Cataluña afronta desde este sábado por la tarde un episodio meteorológico que las autoridades califican de excepcional. La previsión de lluvias torrenciales y fuertes tormentas, con […]"
-  },
-  {
-    "titulo": "Miles de personas protestan por la vivienda mientras Sánchez calcula su rédito electoral",
-    "medio": "The Objective",
-    "fecha": 1791043491.0,
-    "link": "https://theobjective.com/espana/2026-10-03/miles-personas-protestan-vivienda-sanchez-calcula-redito-electoral/",
-    "resumen": "Miles de personas han salido este sábado a las calles de distintas ciudades españolas para reclamar soluciones a la crisis de la vivienda y protestar contra […]"
   },
   {
     "titulo": "La isla argentina que no solo tiene una forma redonda casi perfecta sino que además se mueve",
@@ -739,7 +739,7 @@
     "medio": "Trendencias",
     "fecha": 1791028882.0,
     "link": "https://www.trendencias.com/shopping/mejores-basculas-inteligentes-para-controlar-tu-peso-cual-mejor-comprar-consejos-recomendaciones",
-    "resumen": "Lo primero en lo que solemos pensar cuando decidimos comenzar a cuidarnos suele ser en nuestro peso. Pero ya no lo hacemos como en los años 90. En aquella época nos pesábamos en las farmacias y, si teníamos una báscula en casa, seguramente fuera una pesa de las de aguja, una de las máquinas más simples que podíamos encontrar. Ahora, la cosa ha cambiado bastante. Hemos entendido (por suerte) que el peso es solo un número y que no nos da mucha información sobre nuestro estado de forma general. Ahora sabemos que otras variables como el porcentaje de grasa, el porcentaje de músculo o la cantidad de hueso que tenemos en nuestro cuerpo son métricas mucho más acertadas a la hora de saber cómo nos encontramos realmente. Si antes esos datos solo podíamos tenerlos con un estudio exhaustivo, ahora están al alcance de nuestra mano y podemos conocerlos desde nuestro propio baño. Las básculas inteligentes han llegado a nuestras casas para quedarse y convertirse en uno más de los accesorios tech que tenemos para cuidar de nuestra salud. Índice de Contenidos (14) Nuestra selección de básculas inteligentes de un vistazo Cómo elegir una buena báscula inteligente Porcentaje de grasa corporal Cantidad de masa muscular Porcentaje de agua corporal Índice de grasa visceral Metabolismo basal Cantidad de masa ósea Opciones de básculas inteligentes que encontramos en el mercado Xiaomi Body Composition Scale S400 Renpho Elis 1 Withings Body Smart Tanita BC-613 Withings Body Scan Nuestra selección de básculas inteligentes de un vistazo Xiaomi Body Composition Scale S400, básica pero perfecta para el uso diarioRenpho Elis 1, con modo bebé y mascotas, para toda la familiaWithings Body Smart, la más potente de las más sencillas, con pantalla a color de alta resoluciónTanita BC-613, medición segmentada de la composición corporal, no necesita appWithings Body Scan, la más potente y precisa, con 12 electrodos, e incorpora medición de ECG, edad vascular y puntuación de respuesta nerviosa Cómo elegir una buena báscula inteligente Antes de lanzarnos a la piscina para comprar nuestra báscula inteligente, tenemos que tener claro cuáles son las funciones indispensables para nosotros. Y esto va a depender, en gran parte, del uso que le queramos dar. No serán iguales las necesidades de una persona que solamente quiere monitorizar su salud a las de otra persona que va a competir en Hyrox o CrossFit, o que está preparando una maratón. Si lo único que quieres es monitorear tus datos y tener constancia de ellos, los modelos simples son los más adecuados para ti. Lo más importante va a ser que el modelo en cuestión disponga de conexión bluetooth para poder conectarse con tu teléfono a través de una app en la que quedarán reflejados tus datos con todo tu histórico, para que puedas consultarlo cuando quieras. Si estás entrenando con algún objetivo en concreto o si quieres ahondar mucho más en tu salud, estos son los parámetros imprescindibles que debería medir una báscula inteligente para que sea útil para ti. Porcentaje de grasa corporal Es uno de los parámetros más básicos y se mide a través de una bioimpedancia, para la cual la báscula cuenta con unos electrodos sobre los que colocas tus pies. ¿Por qué es importante este parámetro? Porque el porcentaje de grasa corporal te da una idea mucho más certera que únicamente el peso de tu composición corporal, y te dirá si estás dentro de los parámetros considerados como saludables. Dos cuerpos pueden pesar exactamente lo mismo y, sin embargo, tener una composición corporal muy diferente. Si entrenas fuerza, sabrás que el peso por sí mismo no es muy buen indicador de tu estado de salud, ya que el músculo es mucho más denso que la grasa (pesa más ocupando el mismo espacio). El porcentaje de grasa es bastante más preciso en este sentido. Cantidad de masa muscular Inversamente relacionado con el porcentaje de grasa corporal, las básculas inteligentes suelen darnos este valor en kilogramos, y son capaces de decirnos exactamente cuántos kilos de músculo hay en nuestro cuerpo (dependiendo del modelo de la báscula, también pueden decirnos cómo están distribuidos). Si entrenas fuerza o tu entrenamiento está orientado a ganar masa muscular, este parámetro te interesa. Porcentaje de agua corporal También relacionado con los dos anteriores e igualmente importante, ya que es el que permite calcular tanto la cantidad de masa grasa como la cantidad de masa magra en nuestro cuerpo. De forma general, un adulto suele contar con alrededor de un 60% de agua corporal en su cuerpo, una cifra que puede oscilar dependiendo del sexo y edad. Otros factores que se tienen en cuenta son el porcentaje de masa muscular o masa magra (el músculo almacena mucha agua) y la cantidad de masa grasa (la grasa retiene muy poca). Índice de grasa visceral Otra cifra importante. La cantidad de grasa que poseemos en el cuerpo está distribuida en diferentes zonas: la grasa periférica, que se encuentra en las extremidades, y la grasa visceral, que es la que se encuentra recubriendo los órganos que están en la zona del torso. Esta última es a la que debemos prestar más atención, ya que un exceso de ella es más peligroso al estar relacionado con el incremento de posibilidad de sufrir enfermedades graves como hipertensión o hígado graso. Las básculas de bioimpedancia miden este parámetro y nos lo devuelven en forma de índice o número entero. Por norma general, si nuestros valores se encuentran entre 1 y 12 estaremos dentro del rango normal; mientras que si pasamos de 13 ya podemos hablar de un índice alto que puede acarrear problemas (aunque nuestro peso esté en la media o no tengamos un porcentaje alto de grasa periférica). Metabolismo basal Un dato interesante que podemos tener en cuenta si queremos cuidarnos un poco más es el de las kilocalorías que nuestro cuerpo consume simplemente por existir y funcionar a diario (es decir, sin contar las calorías provenientes de la actividad física ni del entrenamiento). Podemos estimar nuestro metabolismo basal de la manera clásica, con alguna de las fórmulas que se han utilizado durante años para ello, pero siempre va a tratarse de un valor muy aproximado y que tenemos que coger con pinzas porque no está teniendo en cuenta nuestro porcentaje de masa muscular ni nuestro porcentaje de grasa. En el caso de las básculas inteligentes, como ya tienen el dato de cuánto músculo y cuánta grasa hay en nuestro cuerpo, pueden realizar un cálculo mucho más preciso de esta cifra, aunque sigue siendo un aproximado. Si estás en un proceso de pérdida de peso o de ganancia muscular, este dato es importante para saber de dónde tienes que partir para restar o sumar calorías a tu dieta. Cantidad de masa ósea Un dato especialmente interesante para las mujeres, sobre todo cuando nos acercamos a la perimenopausia o menopausia. En ese momento de nuestra vida, al caer los niveles de estrógeno suele darse también una pérdida de la densidad de los huesos y un aumento considerable del riesgo de padecer osteoporosis. Conocer nuestros niveles de masa ósea es vital en esta etapa para retrasar la aparición de osteoporosis lo más posible. Opciones de básculas inteligentes que encontramos en el mercado Xiaomi Body Composition Scale S400 La báscula de Xiaomi cuenta con una bioimpedancia de alta y baja frecuencia capaz de medir el agua intracelular y extracelular, de modo que puede aportar datos de forma bastante precisa. Analiza 25 indicadores de salud, entre los que se encuentran todos los mencionados en nuestro artículo. Además, puede almacenar datos de hasta 36 perfiles distintos, más que suficiente para monitorear a toda la familia. Como extra, tiene un modo especial para pesar objetos pequeños y mascotas. Xiaomi Mi Body Composition Scale S400 PVP en PcComponentes — 21,99 € MediaMarkt — 29,99 € Xiaomi — 29,99 € Amazon — 47,49 € El precio podría variar. Obtenemos comisión por estos enlaces Renpho Elis 1 El best seller de la marca es este modelo básico pero suficiente si lo que quieres es llevar un control de tus métricas. La Renpho Elis 1 analiza 13 parámetros de salud, incluyendo los más importantes, y cuenta con 4 sensores en su base que detectan los incrementos de 50 gramos, para una medición muy precisa. Se utiliza conectada con la app de Renpho y puede recibir datos de otras aplicaciones de salud como Health en los iPhone, Myfitnesspal o Samsung Health. También cuenta con un modo para pesar bebés y mascotas solamente cogiéndolos en brazos, para que toda la familia pueda llevar un control. Renpho Elis 1 PVP en Miravia — 17,99 € Amazon — 21,84 € MediaMarkt — 21,99 € El precio podría variar. Obtenemos comisión por estos enlaces Withings Body Smart La báscula más sencilla de Withings, una marca histórica en los dispositivos para control de la salud en general y de las básculas en particular. Esta báscula inteligente cuenta con cuatro electrodos para medir todos los parámetros más importantes y, además, también mide la frecuencia cardíaca en posición de pie. Las básculas de Withings funcionan con la app de la marca, suficiente en su opción básica para los datos que nos ofrece esta báscula. Cuenta con pantalla a color de alta resolución y con cuatro modos diferentes, además del modo normal: modo deportista, embarazo, bebé y ojos cerrados (si no quieres saber tu peso concreto, puedes recibir simplemente mensajes motivadores). Withings Body Smart Hoy en Amazon — 99,95 € PcComponentes — 99,95 € Decathlon — 99,99 € El precio podría variar. Obtenemos comisión por estos enlaces Tanita BC-613 Entramos ya en el mundo de las básculas inteligentes de bioimpedancia que pueden realizar una medición segmentada de la masa grasa y masa muscular. Para ello necesitamos más electrodos de los cuatro que suelen tener las básculas más simples, y estos se encuentran en el asa, con dos electrodos más para cada mano. Esta medición con ocho electrodos es mucho más precisa y permite saber exactamente la composición corporal de nuestras extremidades. ¿Quién se beneficia de esto? Personas que, o bien quieren una información mucho más completa sobre su cuerpo y su salud, o bien deportistas con metas muy concretas de composición corporal. Esta Tanita, otra de las marcas históricas de básculas, ofrece, además de los parámetros básicos, medición en 5 segmentos de la composición corporal, a través de los datos recogidos en 19 puntos repartidos por todo el cuerpo. Los datos se ofrecen al usuario en la pantalla integrada en el asa, y pueden guardarse en una tarjeta de memoria para después trabajar con ellos en el ordenador a través de su software oficial. Esto es algo más trabajoso que una conexión bluetooth, pero no necesita ninguna app. TANITA BC-613 Hoy en Amazon — 249,99 € Tanita — 249,99 € El precio podría variar. Obtenemos comisión por estos enlaces Withings Body Scan Una de las básculas inteligentes más completas y potentes que podemos encontrar en el mercado es la Withings Body Scan, con 12 electrodos que permiten una medición de la composición corporal segmentada en seis zonas diferentes del cuerpo, edad vascular, electrocardiograma de seis derivaciones y puntuación de respuesta nerviosa. Dentro de la app Withings puedes ver la distribución concreta de tu masa grasa y de tu masa corporal en todo el cuerpo, haciendo incluso distinción entre brazo derecho e izquierdo y pierna derecha e izquierda. Al igual que su \"hermana pequeña\", también cuenta con modo deportista, bebé, embarazo y ojos cerrados. Una máquina potente para los que quieren saberlo todo sobre su cuerpo. Withings Body Scan PVP en PcComponentes — 378,48 € Amazon — 399,95 € Withings — 399,95 € Ebay — 403,15 € El precio podría variar. Obtenemos comisión por estos enlaces Imágenes | iStock En Trendencias | Dieta antiinflamatoria: qué alimentos elegir y cuáles evitar para sentirte ligera y olvidarte de la hinchazón En Xataka | Se buscan voluntarios para vivir gratis en un refugio de la Sierra de Gredos a cambio de trabajar 24 horas semanales cuidando animales abandonados En 3DJuegos | Zack Snyder, sobre su mayor fracaso de ciencia ficción: \"Siento que con el tiempo, quizás pueda hacer otra\" - La noticia Mejores básculas inteligentes para controlar tu peso | ¿Cuál es mejor comprar? Consejos y recomendaciones fue publicada originalmente en Trendencias por Raquel Rodríguez ."
+    "resumen": "Lo primero en lo que solemos pensar cuando decidimos comenzar a cuidarnos suele ser en nuestro peso. Pero ya no lo hacemos como en los años 90. En aquella época nos pesábamos en las farmacias y, si teníamos una báscula en casa, seguramente fuera una pesa de las de aguja, una de las máquinas más simples que podíamos encontrar. Ahora, la cosa ha cambiado bastante. Hemos entendido (por suerte) que el peso es solo un número y que no nos da mucha información sobre nuestro estado de forma general. Ahora sabemos que otras variables como el porcentaje de grasa, el porcentaje de músculo o la cantidad de hueso que tenemos en nuestro cuerpo son métricas mucho más acertadas a la hora de saber cómo nos encontramos realmente. Si antes esos datos solo podíamos tenerlos con un estudio exhaustivo, ahora están al alcance de nuestra mano y podemos conocerlos desde nuestro propio baño. Las básculas inteligentes han llegado a nuestras casas para quedarse y convertirse en uno más de los accesorios tech que tenemos para cuidar de nuestra salud. Índice de Contenidos (14) Nuestra selección de básculas inteligentes de un vistazo Cómo elegir una buena báscula inteligente Porcentaje de grasa corporal Cantidad de masa muscular Porcentaje de agua corporal Índice de grasa visceral Metabolismo basal Cantidad de masa ósea Opciones de básculas inteligentes que encontramos en el mercado Xiaomi Body Composition Scale S400 Renpho Elis 1 Withings Body Smart Tanita BC-613 Withings Body Scan Nuestra selección de básculas inteligentes de un vistazo Xiaomi Body Composition Scale S400, básica pero perfecta para el uso diarioRenpho Elis 1, con modo bebé y mascotas, para toda la familiaWithings Body Smart, la más potente de las más sencillas, con pantalla a color de alta resoluciónTanita BC-613, medición segmentada de la composición corporal, no necesita appWithings Body Scan, la más potente y precisa, con 12 electrodos, e incorpora medición de ECG, edad vascular y puntuación de respuesta nerviosa Cómo elegir una buena báscula inteligente Antes de lanzarnos a la piscina para comprar nuestra báscula inteligente, tenemos que tener claro cuáles son las funciones indispensables para nosotros. Y esto va a depender, en gran parte, del uso que le queramos dar. No serán iguales las necesidades de una persona que solamente quiere monitorizar su salud a las de otra persona que va a competir en Hyrox o CrossFit, o que está preparando una maratón. Si lo único que quieres es monitorear tus datos y tener constancia de ellos, los modelos simples son los más adecuados para ti. Lo más importante va a ser que el modelo en cuestión disponga de conexión bluetooth para poder conectarse con tu teléfono a través de una app en la que quedarán reflejados tus datos con todo tu histórico, para que puedas consultarlo cuando quieras. Si estás entrenando con algún objetivo en concreto o si quieres ahondar mucho más en tu salud, estos son los parámetros imprescindibles que debería medir una báscula inteligente para que sea útil para ti. Porcentaje de grasa corporal Es uno de los parámetros más básicos y se mide a través de una bioimpedancia, para la cual la báscula cuenta con unos electrodos sobre los que colocas tus pies. ¿Por qué es importante este parámetro? Porque el porcentaje de grasa corporal te da una idea mucho más certera que únicamente el peso de tu composición corporal, y te dirá si estás dentro de los parámetros considerados como saludables. Dos cuerpos pueden pesar exactamente lo mismo y, sin embargo, tener una composición corporal muy diferente. Si entrenas fuerza, sabrás que el peso por sí mismo no es muy buen indicador de tu estado de salud, ya que el músculo es mucho más denso que la grasa (pesa más ocupando el mismo espacio). El porcentaje de grasa es bastante más preciso en este sentido. Cantidad de masa muscular Inversamente relacionado con el porcentaje de grasa corporal, las básculas inteligentes suelen darnos este valor en kilogramos, y son capaces de decirnos exactamente cuántos kilos de músculo hay en nuestro cuerpo (dependiendo del modelo de la báscula, también pueden decirnos cómo están distribuidos). Si entrenas fuerza o tu entrenamiento está orientado a ganar masa muscular, este parámetro te interesa. Porcentaje de agua corporal También relacionado con los dos anteriores e igualmente importante, ya que es el que permite calcular tanto la cantidad de masa grasa como la cantidad de masa magra en nuestro cuerpo. De forma general, un adulto suele contar con alrededor de un 60% de agua corporal en su cuerpo, una cifra que puede oscilar dependiendo del sexo y edad. Otros factores que se tienen en cuenta son el porcentaje de masa muscular o masa magra (el músculo almacena mucha agua) y la cantidad de masa grasa (la grasa retiene muy poca). Índice de grasa visceral Otra cifra importante. La cantidad de grasa que poseemos en el cuerpo está distribuida en diferentes zonas: la grasa periférica, que se encuentra en las extremidades, y la grasa visceral, que es la que se encuentra recubriendo los órganos que están en la zona del torso. Esta última es a la que debemos prestar más atención, ya que un exceso de ella es más peligroso al estar relacionado con el incremento de posibilidad de sufrir enfermedades graves como hipertensión o hígado graso. Las básculas de bioimpedancia miden este parámetro y nos lo devuelven en forma de índice o número entero. Por norma general, si nuestros valores se encuentran entre 1 y 12 estaremos dentro del rango normal; mientras que si pasamos de 13 ya podemos hablar de un índice alto que puede acarrear problemas (aunque nuestro peso esté en la media o no tengamos un porcentaje alto de grasa periférica). Metabolismo basal Un dato interesante que podemos tener en cuenta si queremos cuidarnos un poco más es el de las kilocalorías que nuestro cuerpo consume simplemente por existir y funcionar a diario (es decir, sin contar las calorías provenientes de la actividad física ni del entrenamiento). Podemos estimar nuestro metabolismo basal de la manera clásica, con alguna de las fórmulas que se han utilizado durante años para ello, pero siempre va a tratarse de un valor muy aproximado y que tenemos que coger con pinzas porque no está teniendo en cuenta nuestro porcentaje de masa muscular ni nuestro porcentaje de grasa. En el caso de las básculas inteligentes, como ya tienen el dato de cuánto músculo y cuánta grasa hay en nuestro cuerpo, pueden realizar un cálculo mucho más preciso de esta cifra, aunque sigue siendo un aproximado. Si estás en un proceso de pérdida de peso o de ganancia muscular, este dato es importante para saber de dónde tienes que partir para restar o sumar calorías a tu dieta. Cantidad de masa ósea Un dato especialmente interesante para las mujeres, sobre todo cuando nos acercamos a la perimenopausia o menopausia. En ese momento de nuestra vida, al caer los niveles de estrógeno suele darse también una pérdida de la densidad de los huesos y un aumento considerable del riesgo de padecer osteoporosis. Conocer nuestros niveles de masa ósea es vital en esta etapa para retrasar la aparición de osteoporosis lo más posible. Opciones de básculas inteligentes que encontramos en el mercado Xiaomi Body Composition Scale S400 La báscula de Xiaomi cuenta con una bioimpedancia de alta y baja frecuencia capaz de medir el agua intracelular y extracelular, de modo que puede aportar datos de forma bastante precisa. Analiza 25 indicadores de salud, entre los que se encuentran todos los mencionados en nuestro artículo. Además, puede almacenar datos de hasta 36 perfiles distintos, más que suficiente para monitorear a toda la familia. Como extra, tiene un modo especial para pesar objetos pequeños y mascotas. Xiaomi Mi Body Composition Scale S400 Hoy en PcComponentes — 21,99 € MediaMarkt — 29,99 € Xiaomi — 29,99 € Amazon — 47,49 € El precio podría variar. Obtenemos comisión por estos enlaces Renpho Elis 1 El best seller de la marca es este modelo básico pero suficiente si lo que quieres es llevar un control de tus métricas. La Renpho Elis 1 analiza 13 parámetros de salud, incluyendo los más importantes, y cuenta con 4 sensores en su base que detectan los incrementos de 50 gramos, para una medición muy precisa. Se utiliza conectada con la app de Renpho y puede recibir datos de otras aplicaciones de salud como Health en los iPhone, Myfitnesspal o Samsung Health. También cuenta con un modo para pesar bebés y mascotas solamente cogiéndolos en brazos, para que toda la familia pueda llevar un control. Renpho Elis 1 Hoy en Miravia — 17,99 € Amazon — 21,84 € MediaMarkt — 21,99 € El precio podría variar. Obtenemos comisión por estos enlaces Withings Body Smart La báscula más sencilla de Withings, una marca histórica en los dispositivos para control de la salud en general y de las básculas en particular. Esta báscula inteligente cuenta con cuatro electrodos para medir todos los parámetros más importantes y, además, también mide la frecuencia cardíaca en posición de pie. Las básculas de Withings funcionan con la app de la marca, suficiente en su opción básica para los datos que nos ofrece esta báscula. Cuenta con pantalla a color de alta resolución y con cuatro modos diferentes, además del modo normal: modo deportista, embarazo, bebé y ojos cerrados (si no quieres saber tu peso concreto, puedes recibir simplemente mensajes motivadores). Withings Body Smart Hoy en Amazon — 99,95 € PcComponentes — 99,95 € Decathlon — 99,99 € El precio podría variar. Obtenemos comisión por estos enlaces Tanita BC-613 Entramos ya en el mundo de las básculas inteligentes de bioimpedancia que pueden realizar una medición segmentada de la masa grasa y masa muscular. Para ello necesitamos más electrodos de los cuatro que suelen tener las básculas más simples, y estos se encuentran en el asa, con dos electrodos más para cada mano. Esta medición con ocho electrodos es mucho más precisa y permite saber exactamente la composición corporal de nuestras extremidades. ¿Quién se beneficia de esto? Personas que, o bien quieren una información mucho más completa sobre su cuerpo y su salud, o bien deportistas con metas muy concretas de composición corporal. Esta Tanita, otra de las marcas históricas de básculas, ofrece, además de los parámetros básicos, medición en 5 segmentos de la composición corporal, a través de los datos recogidos en 19 puntos repartidos por todo el cuerpo. Los datos se ofrecen al usuario en la pantalla integrada en el asa, y pueden guardarse en una tarjeta de memoria para después trabajar con ellos en el ordenador a través de su software oficial. Esto es algo más trabajoso que una conexión bluetooth, pero no necesita ninguna app. TANITA BC-613 Hoy en Amazon — 249,99 € Tanita — 249,99 € El precio podría variar. Obtenemos comisión por estos enlaces Withings Body Scan Una de las básculas inteligentes más completas y potentes que podemos encontrar en el mercado es la Withings Body Scan, con 12 electrodos que permiten una medición de la composición corporal segmentada en seis zonas diferentes del cuerpo, edad vascular, electrocardiograma de seis derivaciones y puntuación de respuesta nerviosa. Dentro de la app Withings puedes ver la distribución concreta de tu masa grasa y de tu masa corporal en todo el cuerpo, haciendo incluso distinción entre brazo derecho e izquierdo y pierna derecha e izquierda. Al igual que su \"hermana pequeña\", también cuenta con modo deportista, bebé, embarazo y ojos cerrados. Una máquina potente para los que quieren saberlo todo sobre su cuerpo. Withings Body Scan Hoy en PcComponentes — 378,48 € Amazon — 399,95 € Withings — 399,95 € Ebay — 403,15 € El precio podría variar. Obtenemos comisión por estos enlaces Imágenes | iStock En Trendencias | Dieta antiinflamatoria: qué alimentos elegir y cuáles evitar para sentirte ligera y olvidarte de la hinchazón En Xataka | Se buscan voluntarios para vivir gratis en un refugio de la Sierra de Gredos a cambio de trabajar 24 horas semanales cuidando animales abandonados En 3DJuegos | Zack Snyder, sobre su mayor fracaso de ciencia ficción: \"Siento que con el tiempo, quizás pueda hacer otra\" - La noticia Mejores básculas inteligentes para controlar tu peso | ¿Cuál es mejor comprar? Consejos y recomendaciones fue publicada originalmente en Trendencias por Raquel Rodríguez ."
   },
   {
     "titulo": "La acampada comienza a extenderse más allá de la Puerta del Sol cuando se cumple una semana de su comienzo",
