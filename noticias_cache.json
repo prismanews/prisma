@@ -1,5 +1,425 @@
 [
   {
+    "titulo": "Un ataque de los hutíes contra el aeropuerto de Riad causa al menos 12 muertos y más de 300 heridos",
+    "medio": "El País",
+    "fecha": 1791673225.0,
+    "link": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
+    "resumen": "Entre los fallecidos hay cuatro saudíes y un estadounidense. Las autoridades de Arabia Saudí han suspendido todas las operaciones aéreas en el aeródromo Rey Jalid de la capital"
+  },
+  {
+    "titulo": "Así es La Copita Asturiana, el restaurante en Madrid con más de 70 años donde los Javis grabaron parte de 'La bola negra'",
+    "medio": "El Mundo",
+    "fecha": 1791673115.0,
+    "link": "https://www.elmundo.es/metropoli/gastronomia/2026/10/11/6ac607c1fdddff5c0c8b459d.html",
+    "resumen": "Los cineastas Javier Calvo y Javier Ambrossi eligieron este restaurante regentado por la familia de María Mayo desde 1959, donde la fabada, el lacón, el caldo o las patatas a la fayona son una religión. Leer"
+  },
+  {
+    "titulo": "Athenea fue expulsada con España minutos antes que Vinicius… ¡por un tirón de pelo a una jugadora de Estados Unidos!",
+    "medio": "OK Diario",
+    "fecha": 1791672119.0,
+    "link": "https://okdiario.com/deportes/athenea-fue-expulsada-espana-minutos-antes-que-vinicius-tiron-pelo-jugadora-estados-unidos-20527876",
+    "resumen": "Vinicius y su agarrón de pelo han copado todos los titulares, pero en el Estados Unidos-España pasó minutos antes justo lo mismo. La protagonista fue otra jugadora del Real Madrid, Athenea del Castillo. La cántabra enganchó del pelo en una acción a Cooper prácticamente nada más entrar al terreno de juego. La Selección ganaba el … Continuar leyendo \"Athenea fue expulsada con España minutos antes que Vinicius… ¡por un tirón de pelo a una jugadora de Estados Unidos!\""
+  },
+  {
+    "titulo": "Almas muertas",
+    "medio": "La Vanguardia",
+    "fecha": 1791671700.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656091/almas-muertas.html",
+    "resumen": "La campaña perfecta es aquella que ciega la razón y arrasa con cualquier atisbo de complejidad"
+  },
+  {
+    "titulo": "El rompecabezas de la diplomacia",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656013/rompecabezas-diplomacia.html",
+    "resumen": "Mohamed VI acusa a círculos políticos y mediáticos de explotar la crisis migratoria"
+  },
+  {
+    "titulo": "Lo que viene",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656017/viene.html",
+    "resumen": "El populismo es un enemigo del pluralismo, del consenso y de la auténtica democracia"
+  },
+  {
+    "titulo": "¿Qué pasará?",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656032/que-pasara.html",
+    "resumen": "La incertidumbre del cuerpo social es una mala noticia para la salud mental colectiva"
+  },
+  {
+    "titulo": "Restablecer la normalidad",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656024/restablecer-normalidad.html",
+    "resumen": "Hay que dejar muy claro a Marruecos que otro asalto tendrá respuesta inmediata también desde Bruselas"
+  },
+  {
+    "titulo": "La pena máxima se queda corta",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656016/pena-maxima-queda-corta.html",
+    "resumen": "El caso de Christa Pike reaviva el debate sobre la pena de muerte en EE.UU."
+  },
+  {
+    "titulo": "El dios de la lluvia",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656018/dios-lluvia.html",
+    "resumen": "Que te llueva dentro de casa no se soluciona por más cubos que coloques bajo las goteras"
+  },
+  {
+    "titulo": "Empapados en Sants",
+    "medio": "La Vanguardia",
+    "fecha": 1791671400.0,
+    "link": "https://www.lavanguardia.com/opinion/20261011/11656023/empapados-sants.html",
+    "resumen": "La estación, en obras interminables, es una vergüenza para Barcelona"
+  },
+  {
+    "titulo": "Francia y Alemania se acusan de hundir el proyecto MGCS, el tanque europeo del futuro",
+    "medio": "Moncloa.com",
+    "fecha": 1791669838.0,
+    "link": "https://www.moncloa.com/2026/10/11/francia-alemania-proyecto-mgcs-tanque-3446105/",
+    "resumen": "Francia acusa a Alemania de retirarse del proyecto MGCS y Berlín lo niega: el tanque europeo se retrasa a los años cuarenta y cada país irá por su cuenta. La entrada Francia y Alemania se acusan de hundir el proyecto MGCS, el tanque europeo del futuro aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump levanta las sanciones al diésel ruso y Zelenski estalla: ‘Es débil e injusto’",
+    "medio": "Moncloa.com",
+    "fecha": 1791669837.0,
+    "link": "https://www.moncloa.com/2026/10/11/trump-sanciones-diesel-ruso-zelenski-3446103/",
+    "resumen": "El Tesoro suspende las sanciones al diésel ruso hasta abril de 2027 mientras Bruselas mantiene su veto: la factura del gasóleo entra en campaña. La entrada Trump levanta las sanciones al diésel ruso y Zelenski estalla: ‘Es débil e injusto’ aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump exige un cambio de liderazgo y acusa a Zelenski de bloquear la paz",
+    "medio": "Moncloa.com",
+    "fecha": 1791669836.0,
+    "link": "https://www.moncloa.com/2026/10/11/trump-ucrania-presidente-zelenski-paz-3446101/",
+    "resumen": "Trump exige un nuevo presidente para Ucrania y acusa a Zelenski de bloquear la paz, un día después de pactar con Putin una tregua sobre el diésel ruso. La entrada Trump exige un cambio de liderazgo y acusa a Zelenski de bloquear la paz aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Almeida augura una campaña ‘sucia’ y ‘de odio’ de la izquierda tras el desahucio de Maricarmen",
+    "medio": "Moncloa.com",
+    "fecha": 1791669836.0,
+    "link": "https://www.moncloa.com/2026/10/11/almeida-campana-sucia-izquierda-madrid-3446095/",
+    "resumen": "Almeida convierte el aviso de Más Madrid sobre la calle en argumento de precampaña y responde con gestión, vivienda y mayoría social. La entrada Almeida augura una campaña ‘sucia’ y ‘de odio’ de la izquierda tras el desahucio de Maricarmen aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez abre la precampaña pidiendo ‘urnas llenas’ y ataca a PP y Vox por el voto por correo del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1791669835.0,
+    "link": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093/",
+    "resumen": "Sánchez abre la precampaña del 29-N en Dos Hermanas con un ataque al PP y a Vox por el voto por correo, mientras Génova exige garantías. La entrada Sánchez abre la precampaña pidiendo ‘urnas llenas’ y ataca a PP y Vox por el voto por correo del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La deuda de Francia escala al 119% del PIB y amenaza con contagiar a la eurozona",
+    "medio": "Moncloa.com",
+    "fecha": 1791669834.0,
+    "link": "https://www.moncloa.com/2026/10/11/deuda-francia-eurozona-119-pib-3446092/",
+    "resumen": "La deuda francesa llega al 119% del PIB y el diferencial con Alemania toca los 150 puntos básicos, máximos desde 2012. El BCE estudia su respuesta. La entrada La deuda de Francia escala al 119% del PIB y amenaza con contagiar a la eurozona aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ayuso acusa a Sánchez de preparar ‘todas las trampas’ en las elecciones y señala al voto por correo del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1791669834.0,
+    "link": "https://www.moncloa.com/2026/10/11/ayuso-trampas-elecciones-voto-correo-3446089/",
+    "resumen": "Ayuso acusa a Sánchez de preparar 'todas las trampas que pueda' ante el 29-N y reclama 'abrir los ojos' sobre el voto por correo. La entrada Ayuso acusa a Sánchez de preparar ‘todas las trampas’ en las elecciones y señala al voto por correo del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Puigdemont exige al Tribunal de Cuentas la amnistía ‘inmediata’ y lo acusa de rebeldía",
+    "medio": "Moncloa.com",
+    "fecha": 1791669833.0,
+    "link": "https://www.moncloa.com/2026/10/11/puigdemont-amnistia-tribunal-cuentas-3446084/",
+    "resumen": "Puigdemont reclama al Tribunal de Cuentas que dicte sentencia y le amnistíe el 1-O tras 89 días sin respuesta al TJUE. La entrada Puigdemont exige al Tribunal de Cuentas la amnistía ‘inmediata’ y lo acusa de rebeldía aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El Madrid, de nuevo contra los árbitros: Mourinho se niega a salir en rueda de prensa tras la roja a Vinicius, que pide \"perdón\" y se podría perder el clásico",
+    "medio": "El Mundo",
+    "fecha": 1791669337.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/10/6acab451fdddff582d8b456f.html",
+    "resumen": "El portugués deja plantados a los medios de comunicación alegando que no quiere ser sancionado. El conjunto blanco, muy enfadado por el arbitraje de Díaz de Mera. Leer"
+  },
+  {
+    "titulo": "Proyecto Timestamper: un intento de salvaguardar de forma inmutable el legado cultural y científico de la humanidad.",
+    "medio": "Microsiervos",
+    "fecha": 1791669331.0,
+    "link": "http://www.microsiervos.com/archivo/internet/guardian-tiempo-legado-cultura-ciencia.html",
+    "resumen": "El Proyecto Timestamper es, además de una iniciativa con nombre de película de ciencia-ficción, un intento de dejar constancia de la existencia de libros, películas, música, artículos científicos, pinturas y páginas web antes de que la inteligencia artificial generativa pudiera generar fakes y copias modificadas de forma masiva. El proyecto ha registrado colecciones enormes: por ejemplo, 85 millones de artículos científicos y 339.000 millones de capturas de páginas web. Esta es su descripción oficial: Project Timestamper es una iniciativa de código abierto destinada a proteger la integridad del patrimonio de información de la humanidad en la era de la IA generativa. En este proyecto se asignan marcas de tiempo criptográficas al contenido histórico más valioso usando la cadena de bloques de Bitcoin. De este modo se crea una prueba permanente de la existencia de dicho contenido a mediados de la década de 2020. Etas marcas de tiempo generadas se comparten públicamente para garantizar que el contenido creado por humanos en el pasado pueda identificarse claramente, incluso cuando el contenido generado por IA llegue a dominar nuestra cultura. ¿Cómo funciona TimeStamper? Para certificar una obra, ya sea un PDF, una película, una imagen, una base de datos o cualquier otro tipo de archivo, se calcula un hash o huella digital de cada archivo. Es una especie de identificador criptográficamente seguro que cambiaría si se modificara el contenido, aunque fuera en lo más mínimo. El siguiente paso es guardar esas huellas en el lugar probablemente más seguro e inmutable que hay en la red hoy en día: la cadena de bloques (blockchain) de Bitcoin. Esto lo hace mediante OpenTimestamps, un estándar abierto que aprovecha una de las principales características de la cadena de bloques: su capacidad para marcar de forma indefectible el tiempo y el hecho cierto de que unos acontecimientos sucedieron antes que otros. De este modo, cualquiera puede comprobar más adelante que un archivo concreto ya existía en una fecha determinada. La ventaja es que el Proyecto Timestamper no conserva necesariamente los archivos ni demuestra quién los creó. Al ser un proyecto de código abierto se puede acceder a todos los datos, que están en Github, ordenados por tipos de archivo: desde los trabajos científicos las películas, libros e incluso genomas públicos. En el FAQ y el Porqué hay más información, algo sobre sus creadores e incluso un pequeño blog, donde explican precisamente la hercúlea tarea que supone por ejemplo el registro de 339.000 millones de páginas web. Me ha parecido una iniciativa tan ambiciosa por su alcance como ingeniosa por la forma de llevarlo a cabo, así que solo podemos desearles parabienes. Relacionados: Cómo almacenar datos para que sigan existiendo dentro de un siglo Archive.org: preservar páginas web y contenidos históricos El Archivo de Internet de Suiza y la preservación digital Internet Archive Scholar: archivo de publicaciones académicas La Wayback Machine compara páginas de su archivo histórico El genoma humano grabado en cristal como copia de seguridad # Enlace permanente"
+  },
+  {
+    "titulo": "Un tirador mata a ocho personas en una vivienda en Pensilvania",
+    "medio": "El País",
+    "fecha": 1791668967.0,
+    "link": "https://elpais.com/us/2026-10-10/un-tirador-mata-a-ocho-personas-en-una-vivienda-en-pensilvania.html",
+    "resumen": "Siete de las víctimas eran familiares del autor de los disparos en la localidad de Erie"
+  },
+  {
+    "titulo": "Una España a prueba de misiles",
+    "medio": "OK Diario",
+    "fecha": 1791668569.0,
+    "link": "https://okdiario.com/deportes/espana-prueba-misiles-20527400",
+    "resumen": "Nuevo golpe encima de la mesa de la Selección. España supera con nota su primer examen contra Estados Unidos, con dos golazos de Patri Guijarro y Eva Navarro al comienzo del encuentro. Dos misiles que dejaron visto para sentencia un partido en el que España fue superior a las norteamericanas, certificando su segundo triunfo ante … Continuar leyendo \"Una España a prueba de misiles\""
+  },
+  {
+    "titulo": "Diomande alivia al Madrid ante el Villarreal",
+    "medio": "El País",
+    "fecha": 1791667905.0,
+    "link": "https://elpais.com/deportes/futbol/2026-10-10/diomande-alivia-al-madrid-ante-el-villarreal.html",
+    "resumen": "El costamarfileño, titular por delante de Vinicius, da la victoria al equipo de Mourinho, que no progresa, en un partido en el que el brasileño terminó expulsado por tirar del pelo a Saliba"
+  },
+  {
+    "titulo": "La eficiencia de España se impone a la insistencia de Estados Unidos",
+    "medio": "El País",
+    "fecha": 1791667830.0,
+    "link": "https://elpais.com/us/2026-10-10/la-eficiencia-de-espana-se-impone-a-la-insistencia-de-estados-unidos.html",
+    "resumen": "El combinado de Sonia Bermúdez escenifica la nueva jerarquía en el orden del fútbol mundial en el primero de los dos partidos amistosos que jugará en territorio estadounidense"
+  },
+  {
+    "titulo": "Es oficial el cambio en las bajas médicas en España: después de 18 meses de incapacidad temporal el trabajador pierde su puesto y lo confirma el INSS",
+    "medio": "OK Diario",
+    "fecha": 1791667243.0,
+    "link": "https://okdiario.com/economia/oficial-cambio-bajas-medicas-despues-18-meses-incapacidad-temporal-trabajador-pierde-puesto-lo-confirma-inss-20271843",
+    "resumen": "Una baja médica por un periodo de tiempo alargado conlleva una serie de consecuencias para el trabajador complementarias a seguir cobrando una prestación. La Seguridad Social cifra en 545 días, lo correspondiente a 18 meses, el límite para la incapacidad temporal. Si el plazo se alarga una vez alcanzado, la situación laboral del empleado cambia. … Continuar leyendo \"Es oficial el cambio en las bajas médicas en España: después de 18 meses de incapacidad temporal el trabajador pierde su puesto y lo confirma el INSS\""
+  },
+  {
+    "titulo": "Llega a El Hierro un cayuco con 61 personas",
+    "medio": "The Objective",
+    "fecha": 1791667133.0,
+    "link": "https://theobjective.com/sociedad/2026-10-10/llega-el-hierro-cayuco-61-personas/",
+    "resumen": "Un cayuco ha llegado por sus propios medios al puerto de La Restinga, en la isla de El Hierro, donde han desembarcado sus 61 ocupantes y […]"
+  },
+  {
+    "titulo": "La frase de Marcus Ulpius, legionario romano, que sigue emocionando: «Suena la corneta, comienza un nuevo día en las fortificaciones del Danubio para las legiones de Roma»",
+    "medio": "OK Diario",
+    "fecha": 1791666933.0,
+    "link": "https://okdiario.com/curiosidades/frase-marcus-ulpius-legionario-romano-que-sigue-emocionando-suena-corneta-comienza-nuevo-dia-fortificaciones-del-danubio-legiones-roma-20282601",
+    "resumen": "El sonido de una corneta podía marcar el comienzo de otra jornada en uno de los lugares más exigentes del Imperio romano. En las fortificaciones levantadas junto al Danubio, miles de soldados permanecieron durante generaciones vigilando una frontera estratégica para Roma. A esa rutina se refiere la conocida cita de Marcus Ulpius. «Suena la corneta, … Continuar leyendo \"La frase de Marcus Ulpius, legionario romano, que sigue emocionando: «Suena la corneta, comienza un nuevo día en las fortificaciones del Danubio para las legiones de Roma»\""
+  },
+  {
+    "titulo": "Diomandé salva una noche de nervios en la que Vinicius fue expulsado y el Madrid sufrió ante el Villarreal",
+    "medio": "El Mundo",
+    "fecha": 1791666646.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/10/6aca814521efa0b44a8b4576.html",
+    "resumen": "El brasileño, suplente, había anotado el 2-0, pero vio la roja tras una revisión de VAR en la que el árbitro observó que le había tirado del pelo a Saliba. Leer"
+  },
+  {
+    "titulo": "La profunda reflexión de Gabriel García Márquez, escritor: «Creo que no hay mayor desgracia humana que la incapacidad para amar»",
+    "medio": "OK Diario",
+    "fecha": 1791666608.0,
+    "link": "https://okdiario.com/curiosidades/profunda-reflexion-gabriel-garcia-marquez-escritor-creo-no-hay-mayor-desgracia-humana-que-incapacidad-amar-20314658",
+    "resumen": "«Creo que no hay mayor desgracia humana que la incapacidad para amar». La reflexión de Gabriel García Márquez resume una de las preocupaciones que recorren buena parte de su literatura, que habla de la necesidad de establecer vínculos con los demás y el vacío que puede aparecer cuando una persona es incapaz de querer. Para … Continuar leyendo \"La profunda reflexión de Gabriel García Márquez, escritor: «Creo que no hay mayor desgracia humana que la incapacidad para amar»\""
+  },
+  {
+    "titulo": "Leonardo DiCaprio compró una isla de 42 hectáreas por 2 millones de dólares y la ha convertido en un santuario ecológico",
+    "medio": "OK Diario",
+    "fecha": 1791666350.0,
+    "link": "https://okdiario.com/cool/famosos/leonardo-dicaprio-decide-invertir-casi-dos-millones-dolares-comprar-isla-42-hectareas-convertirla-santuario-ecologico-20306989",
+    "resumen": "Hay lugares que parecen destinados al turismo de lujo y otros que terminan convirtiéndose en refugios para la vida silvestre. En Belice, una pequeña isla de 42 hectáreas está vinculada desde hace años a un ambicioso proyecto que busca precisamente eso: recuperar un ecosistema deteriorado y convertirlo en un ejemplo de conservación ambiental. Detrás de la iniciativa está … Continuar leyendo \"Leonardo DiCaprio compró una isla de 42 hectáreas por 2 millones de dólares y la ha convertido en un santuario ecológico\""
+  },
+  {
+    "titulo": "El Real Madrid aguanta el tipo",
+    "medio": "Europa Press",
+    "fecha": 1791666264.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-aguanta-tipo-20261010230424.html",
+    "resumen": "Los blancos vencen al Villarreal con el estreno goleador de Diomande, en un partido marcado por la suplencia del brasileño, que terminó expulsado"
+  },
+  {
+    "titulo": "Se busca gente que quiera mudarse a la Antártida con habitación individual y comida de chef a cambio de mantener las redes y ordenadores de una base científica",
+    "medio": "OK Diario",
+    "fecha": 1791666052.0,
+    "link": "https://okdiario.com/techy/buscando-gente-que-quiera-mudarse-antartida-habitacion-individual-comida-chef-cambio-mantener-redes-ordenadores-base-cientifica-20308871",
+    "resumen": "Hay ofertas de trabajo raras y luego está esta. El Programa Antártico Australiano vuelve a buscar gente dispuesta a pasar meses en el lugar más frío y aislado del planeta, y entre los perfiles más demandados están los informáticos y técnicos de telecomunicaciones. El premio: un sueldo que arranca en 162.012 dólares australianos al año … Continuar leyendo \"Se busca gente que quiera mudarse a la Antártida con habitación individual y comida de chef a cambio de mantener las redes y ordenadores de una base científica\""
+  },
+  {
+    "titulo": "Diomande salva el triunfo del Real Madrid contra el Villarreal en otro partido de Liga absorbido por la polémica",
+    "medio": "El Español",
+    "fecha": 1791665852.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20261010/real-madrid-vuelve-paron-victoria-villarreal-partido-liga-absorbido-polemica/1003744416449_0.html",
+    "resumen": "El árbitro Díaz de Mera anuló a Vinicius Jr. el 2-0 y le sacó la tarjeta roja en la misma jugada por un agarrón de pelo a Saliba."
+  },
+  {
+    "titulo": "La Policía advierte sobre la estafa del billete en el limpiaparabrisas: «Se trata de una maniobra que utilizan algunos delincuentes para robar en cuestión de segundos»",
+    "medio": "OK Diario",
+    "fecha": 1791665713.0,
+    "link": "https://okdiario.com/curiosidades/advierte-estafa-billete-limpiaparabrisas-trata-maniobra-que-utilizan-algunos-delincuentes-robar-cuestion-segundos-20269458",
+    "resumen": "Los robos de vehículos han vuelto a crecer en España. Según los últimos datos publicados en el Balance de Criminalidad del Ministerio del Interior, durante el primer trimestre de 2026 se contabilizaron 7.908 sustracciones de vehículos, frente a las 7.707 registradas en el mismo periodo de 2025. Esto supone un aumento del 2,6 % en … Continuar leyendo \"La Policía advierte sobre la estafa del billete en el limpiaparabrisas: «Se trata de una maniobra que utilizan algunos delincuentes para robar en cuestión de segundos»\""
+  },
+  {
+    "titulo": "Piden siete años de cárcel para la diseñadora Kina Fernández por alzamiento de bienes",
+    "medio": "The Objective",
+    "fecha": 1791665050.0,
+    "link": "https://theobjective.com/espana/tribunales/2026-10-10/carcel-kina-fernandez-alzamiento-bienes/",
+    "resumen": "La Fiscalía ha pedido siete años de cárcel para la diseñadora gallega Kina Fernández, su marido, las dos hijas del matrimonio y un gestor financiero por […]"
+  },
+  {
+    "titulo": "Abbas anula las elecciones legislativas palestinas y las aplaza hasta el año que viene",
+    "medio": "The Objective",
+    "fecha": 1791664051.0,
+    "link": "https://theobjective.com/internacional/2026-10-10/abbas-anula-elecciones-legislativas-palestinas-aplaza/",
+    "resumen": "El presidente de la Autoridad Palestina, Mahmud Abbas, de 90 años de edad, ha anunciado este sábado la cancelación de las elecciones legislativas palestinas previstas para […]"
+  },
+  {
+    "titulo": "48 horas siguiendo los pasos de Federico García Lorca por Granada",
+    "medio": "eldiario.es",
+    "fecha": 1791663052.0,
+    "link": "https://www.eldiario.es/viajes/48-horas-siguiendo-pasos-federico-garcia-lorca-granada_1_13575785.html",
+    "resumen": "El éxito de 'La bola negra' es una buena excusa para conocer mejor al escritor granadino. Te proponemos una ruta por los lugares que marcaron su vida: desde su casa natal hasta los escenarios de sus últimos días ‘La bola negra’, el fenómeno improbable que conecta con los adolescentes: “Lo primero que pensé fue qué ganas de que todo el mundo la vea” El éxito en los cines de La bola negra, la película de Javier Calvo y Javier Ambrossi, ha vuelto a poner a Federico García Lorca en boca de todos. Si la has visto, sabrás por qué. Y si todavía no la has visto, no te preocupes, no te la vamos a contar. Pero si saber que está relacionada con Lorca te ha despertado curiosidad por conocer mejor al autor de La casa de Bernarda Alba, puede ser un buen momento para organizar una escapada a Granada. Lorca nació en la provincia de Granada, pasó buena parte de su vida entre la capital y los pueblos de la Vega y dejó una huella importante en la vida cultural de la ciudad. También fue allí donde, en agosto de 1936, lo detuvieron antes de su asesinato. Conocer los lugares relacionados con su vida ayuda a entender mejor de dónde venía, con quién se relacionaba y cómo era el ambiente en el que desarrolló buena parte de su obra. Para recorrer algunos de esos escenarios no hace falta mucho más que un fin de semana. De modo que, si dispones de 48 horas, con esta ruta podrás conocer mejor tanto al autor como a su persona. Pasarás por la Huerta de San Vicente, donde escribió varias de sus obras más conocidas, y continuarás por el centro de Granada antes de salir hacia Fuente Vaqueros y Valderrubio, dos localidades estrechamente ligadas a su infancia y juventud. Si tienes más de dos días, añade a tu lista otros lugares como la Alhambra, Víznar o Alfacar. Pero, para no volvernos locos, aquí tienes una ruta realista para conocer más de Lorca en un fin de semana. Huerta de San Vicente en Granada, casa de verano de la familia de Federico García Lorca. Sábado por la mañana: la Huerta de San Vicente Empezamos por la Huerta de San Vicente, la antigua casa de verano de la familia García Lorca, hoy convertida en casa-museo dentro del parque que lleva el nombre del poeta. La familia pasó aquí los veranos desde 1926 y Federico encontró en esta finca el lugar para trabajar en algunas de sus obras más conocidas, como Yerma, Bodas de sangre, Romancero gitano y Así que pasen cinco años. En su interior se conservan objetos cotidianos que permiten acercarse a su vida privada, desde el escritorio y el gramófono hasta el piano, el diván y los enseres de la cocina familiar. No hace falta ser un experto en literatura para disfrutar de la visita, porque en realidad se trata de un viaje en el tiempo. La casa también fue el punto de partida de sus últimos días en Granada. Tras varios registros violentos, Lorca salió de ella el 9 de agosto de 1936 y buscó refugio en casa de la familia Rosales. Sábado a mediodía: el Centro Federico García Lorca Desde la Huerta nos dirigimos al centro de Granada, a la plaza de la Romanilla, donde se encuentra el Centro Federico García Lorca. Este espacio cultural y centro de investigación conserva buena parte del legado artístico y documental del escritor, incluidos manuscritos, dibujos, correspondencia, fotografías y otros materiales personales. El centro también organiza exposiciones y actividades culturales, así que conviene consultar la programación antes de ir. Es una buena forma de completar la visita de la mañana y descubrir que Lorca no fue solo poeta y dramaturgo, sino también dibujante y músico, además de una figura destacada de la vida cultural de su época. La tertulia de El Rinconcillo. Sábado por la tarde: el Café Alameda y la tertulia de El Rinconcillo Nuestra siguiente parada está en la plaza del Campillo, donde se encontraba el antiguo Café Alameda. El local lo ocupa hoy el restaurante Chikito, pero su importancia para la ruta tiene que ver con lo que sucedía allí hace un siglo. El café acogía la tertulia de El Rinconcillo, en la que Lorca coincidía con escritores, artistas e intelectuales como Melchor Fernández Almagro y Manuel de Falla. Aquellas reuniones fueron uno de los focos de la vida cultural granadina de principios del siglo XX. De ese ambiente surgieron iniciativas como el Concurso de Cante Jondo de 1922, impulsado por Lorca, Falla y otros artistas para reivindicar el cante tradicional andaluz. El certamen se celebró en el Patio de los Aljibes de la Alhambra, de modo que, si vuelves a Granada con más tiempo, ya tienes una buena razón para incluir también el monumento en tu recorrido. Si te apetece añadir una parada breve, puedes acercarte a la Facultad de Derecho de la Universidad de Granada, donde Lorca estudió. No era precisamente su vocación, pero forma parte de su etapa de formación antes de dedicarse de lleno a la literatura y entrar en contacto con otros creadores. Sábado al final del día: la casa de los Rosales Terminamos la jornada en la casa de la familia Rosales, donde Lorca se refugió después de abandonar la Huerta de San Vicente. Los Rosales eran amigos del poeta y Federico confió en ellos cuando la situación en Granada se volvió peligrosa. Sin embargo, fue detenido allí el 16 de agosto de 1936 y trasladado al Gobierno Civil antes de ser asesinado dos días después. El edificio ya no funciona como casa-museo, es un hotel que mantiene vestigios de la vivienda original, pero sigue siendo un lugar clave para entender los últimos días del escritor. La visita sirve también para recordar que su muerte no fue un episodio aislado de su biografía, sino consecuencia de la represión franquista. Fuente Vaqueros, donde nació Lorca. Domingo por la mañana: Fuente Vaqueros, donde nació Lorca El domingo salimos de Granada capital para visitar Fuente Vaqueros, el pueblo donde nació Federico en 1898. Su casa natal, convertida en museo, permite conocer el entorno familiar de sus primeros años y acercarse a una infancia que transcurrió en la Vega granadina, lejos de la ciudad a la que se trasladaría después. La visita es guiada y recorre la vivienda, además de mostrar objetos y materiales relacionados con su vida y su obra. Merece la pena detenerse en esta etapa porque ayuda a entender la importancia que tuvieron el paisaje rural y las costumbres de la zona en su imaginario. Después, en 1906, la familia se trasladó a la cercana Valderrubio, nuestra siguiente parada. Monumento a Lorca en Fuente Vaqueros (Granada). Domingo a mediodía: Valderrubio y La casa de Bernarda Alba La familia García Lorca se instaló en Valderrubio en 1906 por los negocios agrícolas del padre del poeta. Federico vivió allí de forma permanente hasta que se trasladó a Granada en 1909, aunque la casa siguió siendo la residencia familiar de verano hasta 1926. Hoy puede visitarse como Casa Museo Federico García Lorca, una vivienda tradicional de labor que permite hacerse una idea de la vida familiar en el pueblo. La localidad guarda otra visita especialmente interesante para los lectores de su obra: la casa vinculada a la familia de Francisca Alba, que inspiró La casa de Bernarda Alba. La vivienda compartía un pozo con la casa de una tía de Lorca, lo que le permitió conocer de cerca las conversaciones y la vida de las vecinas. A partir de aquel entorno, el escritor construyó uno de sus dramas más conocidos. Eso sí, tanto la Casa Museo como la Casa de Bernarda Alba requieren reserva previa, así que es mejor organizar las visitas antes de salir de Granada."
+  },
+  {
+    "titulo": "Un hombre muere tras ser atacado por un tigre en un zoo británico",
+    "medio": "El Mundo",
+    "fecha": 1791662572.0,
+    "link": "https://www.elmundo.es/internacional/2026/10/10/6aca6b28e85eceeb298b458c.html",
+    "resumen": "El animal permaneció en el recinto tras el incidente y no existe un riesgo generalizado para la población Leer"
+  },
+  {
+    "titulo": "El pueblo de montaña a menos de 3 horas de Madrid que parece una aldea alpina: la escapada con el mejor embutido del otoño",
+    "medio": "Trendencias",
+    "fecha": 1791662426.0,
+    "link": "https://www.trendencias.com/viajes/pueblo-montana-a-3-horas-madrid-que-parece-aldea-alpina-escapada-mejor-embutido-otono",
+    "resumen": "Hay un pueblo en el corazón de Salamanca donde el carácter castellano cobra otra dimensión. Candelario se ha mantenido en el pasado sin esfuerzo, protegido por sus serranías, valles y bosques que han detenido la masificación y permitido que este encanto rural de calles empinadas y balcones floridos sobreviva hasta nuestros días. Parece un viaje en el tiempo, pero está a solo tres horas de la capital. Qué ver en Candelario, Salamanca La villa de Candelario está repleta de historia de la alta alcurnia castellana, que ha dejado monumentos y arquitectura dignos de ser reconocidos Conjunto Histórico Artístico. Es un pueblo pequeñito y fácil de pasear, pero cada rincón te hará detenerte a admirar. Desde sus calles con canalillos por las que cae el agua de la sierra hasta sus batipuertas típicas, puertas batientes de madera en dos niveles para evitar que la nieve entrara en las casas. Sus fachadas de piedra gruesa son regias y sobrias, pero coronadas con preciosas balconadas de madera decoradas con embutidos recién hechos, que se dejan secar al frío viento del otoño. No en vano, su chorizo es uno de los más famosos de España. Caminando por sus cuestas imposibles llegarás hasta la iglesia de Nuestra Señora de la Asunción, un templo del siglo XIV que combina de forma magistral el románico, el gótico y el mudéjar. Otros edificios notables son la Casa Consistorial con su escalinata y su fachada de sillería del siglo XIX; y sus fuentes esparcidas por todo el pueblo, que acompañan nuestro paseo con el murmullo del agua. Dónde comer barato y rico en Candelario, Salamanca Candelario, como cualquier pueblo salmantino, presume de una cocina que obsesiona a los amantes de la gastronomía. Sus grandes platos son los huevos con farinato, el hornazo o la trucha de río, además de los embutidos, por supuesto. En Mesón de La Candela tienen todo esto y mucho más, por un precio de unos 20 euros por persona. Qué hacer cerca de Candelario, Salamanca La sierra de Candelario que rodea a la villa está protegida por la mismísima UNESCO, siendo una Reserva Natural de la Biosfera repleta de pinos, robles y bosques inmensos de castaños. Sus lagos glaciares son como espejos que reflejan los picos más altos, nevados en casi cualquier época del año. Semejante escenario invita a hacer rutas de senderismo y muchas de ellas parten desde el pueblo. Las hay difíciles, como la que sube hasta la cima del pico Calvitero, o sencillas y relajadas, como las de las Lagunas del Trampal. Todas son preciosas y perfectas para desconectar en la naturaleza. Fotos | Wikipedia Commons, Los Pueblos Más Bonitos de España, Turismo Castilla y León, TripAdvisor, Apartamentos Valdesierra. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. En Xataka | EEUU anuncia su F-47 como el primer caza de sexta generación del planeta. China le ha dicho “sujétame el cubata”: ya vuelan dos. En Espinof | Hace 57 años, Robert Redford amplió su terreno de una hectárea en Utah con cerca de 2.000. Lo nombró en honor a una de sus películas más legendarias. - La noticia El pueblo de montaña a menos de 3 horas de Madrid que parece una aldea alpina: la escapada con el mejor embutido del otoño fue publicada originalmente en Trendencias por Pepa López ."
+  },
+  {
+    "titulo": "El Rayo acusa a Bukaneros de planificar la suspensión y perseguirá a los autores: \"Somos víctimas de un atentado\"",
+    "medio": "El Español",
+    "fecha": 1791662343.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20261010/rayo-acusa-bukaneros-planificar-suspension-perseguira-autores-victimas-atentado/1003744416469_0.html",
+    "resumen": "El club franjirrojo asegura que ya había advertido a la Policía del alto riesgo y aplicará el régimen interno a quienes arrojaron objetos.Más información: Las protestas en Vallecas suspenden el Rayo - Athletic: aviones de papel y pelotas de goma al grito de \"Presa, vete ya\""
+  },
+  {
+    "titulo": "Ni castillo ni templo: la roca de 180 metros donde un rey se escondió de su hermano tras arrebatarle el trono a su padre, considerada la octava maravilla del mundo",
+    "medio": "HuffPost",
+    "fecha": 1791662193.0,
+    "link": "https://www.huffingtonpost.es/sociedad/castillo-templo-roca-180-metros-rey-escondio-hermano-arrebatarle-trono-padre-considerada-octava-maravilla-mundo-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Irene Montero señala a los responsables del precio de la vivienda y pide \"seguir el rastro del dinero\": \"Los problemas siempre están arriba\"",
+    "medio": "HuffPost",
+    "fecha": 1791661474.0,
+    "link": "https://www.huffingtonpost.es/politica/irene-monteronala-responsables-precio-vivienda-pide-seguir-rastro-dinero-los-problemas-siempre-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El Papa califica de \"inadmisible\" la pena de muerte tras el anuncio de una ejecución pública en Estados Unidos",
+    "medio": "Europa Press",
+    "fecha": 1791661462.0,
+    "link": "https://www.europapress.es/sociedad/noticia-papa-califica-inadmisible-pena-muerte-anuncio-ejecucion-publica-estados-unidos-20261010214422.html",
+    "resumen": "El Papa León XIV ha calificado de \"inadmisible\" la pena de muerte en un mensaje publicado este sábado en su cuenta oficial de X, con motivo de la Jornada Mundial contra la Pena de Muerte."
+  },
+  {
+    "titulo": "El Barça sigue enchufado y afianza el liderato liguero",
+    "medio": "The Objective",
+    "fecha": 1791661195.0,
+    "link": "https://theobjective.com/deportes/futbol/laliga/2026-10-10/el-barca-sigue-enchufado-y-afianza-el-liderato-liguero/",
+    "resumen": "El FC Barcelona venció (3-0) al Getafe CF este sábado en la octava jornada de LaLiga EA Sports para seguir líder invicto con pleno de puntos, […]"
+  },
+  {
+    "titulo": "Un tirador deja ocho muertos, incluyendo dos niños, y se quita la vida en Pensilvania",
+    "medio": "eldiario.es",
+    "fecha": 1791661124.0,
+    "link": "https://www.eldiario.es/internacional/tirador-deja-ocho-muertos-incluyendo-ninos-quita-vida-pensilvania_1_13577923.html",
+    "resumen": "El sospechoso se enfrentó con agentes de las fuerzas del ordenUn agente del ICE dispara y hiere a un migrante dominicano en Nueva York que iba en su coche con su hijo de 5 años Un presunto tirador asesinó el viernes a ocho personas, dos de ellas niños, el viernes en la localidad de Erie, en el norte del estado de Pensilvania, antes de quitarse la vida, informó este sábado la policía local. Según autoridades citadas por la cadena Fox, el tiroteo ocurrió el viernes alrededor de las 17.00 hora local (21.00 GMT) y concluyó después de que el sospechoso se disparara a sí mismo durante un enfrentamiento con agentes de las fuerzas del orden. De acuerdo con informes ofrecidos por la policía, el sospechoso acudió a una vivienda de Erie en torno a la citada hora y disparó contra dos mujeres que se hallaban en el exterior de la casa. A continuación, entró en la residencia y disparó a seis personas más en el interior, incluidos dos niños. Las autoridades no han revelado por el momento los nombres de las víctimas ni del sospechoso, ni han dado a conocer el motivo detrás del crimen."
+  },
+  {
+    "titulo": "El castillo, la osadía radical de colarse en el miedo y asco de cada día en un club de carretera",
+    "medio": "El Mundo",
+    "fecha": 1791661047.0,
+    "link": "https://www.elmundo.es/cultura/2026/10/10/6ac8af73e9cf4aa8118b458b.html",
+    "resumen": "La de esta serie es una historia arriesgada de puro obvia: ¿cómo no se le había ocurrido a nadie antes escribir algo así? Preparen la lluvia de premios Leer"
+  },
+  {
+    "titulo": "Trump censura a Zelenski y pide «un nuevo presidente» para Ucrania",
+    "medio": "The Objective",
+    "fecha": 1791660632.0,
+    "link": "https://theobjective.com/internacional/2026-10-10/trump-censura-zelenski-pide-nuevo-presidente-ucrania/",
+    "resumen": "El presidente estadounidense, Donald Trump, ha cargado este sábado contra el presidente ucraniano, Volodimir Zelenski, y ha defendido que el país tenga «un nuevo presidente». «Creo […]"
+  },
+  {
+    "titulo": "Una mujer da a luz en el baño de un bar de Madrid atendiendo instrucciones de sanitarios",
+    "medio": "The Objective",
+    "fecha": 1791659580.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-10-10/mujer-da-a-luz-bano-bar-madrid/",
+    "resumen": "Una mujer ha dado a luz este sábado en el baño de un bar del distrito madrileño de Ciudad Lineal gracias a las instrucciones que ha […]"
+  },
+  {
+    "titulo": "El Barça muerde más que el Getafe",
+    "medio": "El País",
+    "fecha": 1791659347.0,
+    "link": "https://elpais.com/deportes/futbol/2026-10-10/el-barca-muerde-mas-que-el-getafe.html",
+    "resumen": "Los azulgrana sobresalen con y sin balón con Gabriel Jesus y Gordon a la cabeza"
+  },
+  {
+    "titulo": "Cómo funcionará la nueva cuenta de inversión del Gobierno",
+    "medio": "Expansión",
+    "fecha": 1791659209.0,
+    "link": "https://www.expansion.com/ahorro/2026/10/10/6aca4151468aebd2358b4579.html",
+    "resumen": "El nuevo vehículo de inversión para pequeños ahorradores permitirá aportar hasta 150.000 euros e incluirá ventajas fiscales para fomentar la inversión en Bolsa europea. Leer"
+  },
+  {
+    "titulo": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
+    "medio": "Expansión",
+    "fecha": 1791659180.0,
+    "link": "https://www.expansion.com/economia/2026/10/10/6ac901da468aeb78798b4575.html",
+    "resumen": "El jueves entró en vigor el primero de los dos decretos de vivienda aprobados por el Gobierno que redefinen el mercado del alquiler y la compra. La Diputación Permanente del Congreso lo convalidará el viernes. Leer"
+  },
+  {
+    "titulo": "La amenaza latente para el mercado del alquiler: renovación automática con sanciones al casero",
+    "medio": "Expansión",
+    "fecha": 1791659178.0,
+    "link": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html",
+    "resumen": "La Diputación Permanente también votará un segundo donde se imponen sanciones mínimas de 12 meses de alquiler a los caseros que no quieran renovar el contrato tras su vencimiento. Leer"
+  },
+  {
+    "titulo": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
+    "medio": "Expansión",
+    "fecha": 1791659176.0,
+    "link": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html",
+    "resumen": "Fiscalistas y expertos inmobiliarios recopilan varias recomendaciones para propietarios, inquilinos y empresas ante la entrada en vigor del nuevo decreto. Leer"
+  },
+  {
+    "titulo": "Álvaro Serrano, herido grave en su arriesgada y deslucida encerrona",
+    "medio": "El País",
+    "fecha": 1791659126.0,
+    "link": "https://elpais.com/cultura/2026-10-10/alvaro-serrano-herido-grave-en-su-arriesgada-y-deslucida-encerrona.html",
+    "resumen": "El novillero fue cogido por el tercero y la tarde quedó rota a pesar de la voluntad de los sobresalientes Héctor Roberto y Aitor Fernández"
+  },
+  {
+    "titulo": "El Barça no afloja y suma su octava victoria seguida",
+    "medio": "El Mundo",
+    "fecha": 1791658986.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/10/6aca8a5dfc6c83537b8b457e.html",
+    "resumen": "Se impone por 3-0 al Getafe con goles de Gordon, Gabriel Jesús y Koundé, quien se convirtió en el jugador francés con más partidos como azulgrana Leer"
+  },
+  {
+    "titulo": "La prensa se apaga en el Ecuador de Noboa",
+    "medio": "El País",
+    "fecha": 1791658725.0,
+    "link": "https://elpais.com/america/2026-10-10/la-prensa-se-apaga-en-el-ecuador-de-noboa.html",
+    "resumen": "El diario guayaquileño ‘Expreso’ deja de circular en papel después de 53 años, tras meses de hostigamiento estatal que, según sus directivos, ha comprometido la supervivencia económica del periódico"
+  },
+  {
+    "titulo": "La UE planta cara al giro de Trump con Rusia: prepara su mayor paquete de sanciones y avisa de que no rebajará la presión sobre Putin",
+    "medio": "HuffPost",
+    "fecha": 1791658691.0,
+    "link": "https://www.huffingtonpost.es/global/la-ue-planta-cara-giro-trump-rusia-prepara-mayor-paquete-sanciones-avisa-rebajara-presion-sobre-putin-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Víctor y Mel vendieron su piso en Barcelona y compraron una casa en una aldea de Galicia: \"¿De qué sirve trabajar todo el tiempo si solo vives para pagar deudas?\"",
+    "medio": "HuffPost",
+    "fecha": 1791658531.0,
+    "link": "https://www.huffingtonpost.es/sociedad/victor-mel-vendieron-piso-barcelona-compraron-casa-aldea-galicia-sirve-trabajar-vives-pagar-deudas-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "La IA que ataca antes de que lleguen los ‘hackers’",
+    "medio": "Expansión",
+    "fecha": 1791658510.0,
+    "link": "https://www.expansion.com/tecnologia/2026/10/10/ia-ataca-lleguen-hackers.html",
+    "resumen": "Horizon3 desembarca en España con una plataforma que usa inteligencia artificial para simular ciberataques y detectar vulnerabilidades en las empresas. Leer"
+  },
+  {
     "titulo": "El Atlético reacciona a tiempo ante el Alavés y mete presión al líder",
     "medio": "The Objective",
     "fecha": 1791657958.0,
@@ -7,46 +427,32 @@
     "resumen": "El Atlético de Madrid ha logrado este sábado su cuarta victoria liguera consecutiva al superar al Deportivo Alavés en Mendizorrotza (1-2), en una octava jornada de […]"
   },
   {
-    "titulo": "Barcelona - Getafe, en directo, el partido de LaLiga, en vivo | El Barcelona golea al Getafe y mete presión al Madrid en LaLiga",
-    "medio": "El País",
-    "fecha": 1791657879.0,
-    "link": "https://elpais.com/deportes/futbol/2026-10-10/barcelona-getafe-en-directo-el-partido-de-laliga-en-vivo.html",
-    "resumen": "El conjunto azulgrana logra su octava victoria consecutiva en este inicio de campaña | Gabriel Jesús: “Flick nos da mucha confianza a los jugadores”"
+    "titulo": "Miriam González presenta Democracia 21y propone bajar los impuestos de vivienda a los menores de 35 años",
+    "medio": "Expansión",
+    "fecha": 1791657855.0,
+    "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html",
+    "resumen": "Miriam González, la abogada que lidera el nuevo partido Democracia21, que se ha presentado este sábado en Madrid, ha propuesto rebajar todos los impuestos de vivienda para los menores de 35 años, para evitar así que el Estado se enriquezca con sus ciudadanos. Leer"
   },
   {
-    "titulo": "Los científicos no dan crédito: crean en Estados Unidos un aislante térmico rígido que deja pasar cinco veces menos calor que la silicona de las manoplas de horno",
-    "medio": "OK Diario",
-    "fecha": 1791657879.0,
-    "link": "https://okdiario.com/techy/aislante-termico-rigido-perovskita-cinco-veces-silicona-20521729",
-    "resumen": "La silicona de las manoplas de horno conduce el calor cinco veces mejor que un nuevo material desarrollado en la Universidad Estatal de Carolina del Norte (NC State), en Estados Unidos. Y ese material, una película cristalina de apenas 150 nanómetros de grosor, es además entre 700 y 10.000 veces más rígido que la silicona. … Continuar leyendo \"Los científicos no dan crédito: crean en Estados Unidos un aislante térmico rígido que deja pasar cinco veces menos calor que la silicona de las manoplas de horno\""
+    "titulo": "La policía desaloja de nuevo el Fuerte de El Príncipe, donde decenas de inmigrantes vivían en condiciones insalubres",
+    "medio": "El Español",
+    "fecha": 1791657837.0,
+    "link": "https://www.elespanol.com/espana/20261010/policia-desaloja-nuevo-fuerte-principe-decenas-inmigrantes-vivian-condiciones-insalubres/1003744416413_0.html",
+    "resumen": "La UIP movilizó un fuerte dispositivo policial para desalojar el fuerte, situado en lo más alto de la barriada del Príncipe Alfonso.Los vecinos de El Príncipe afirman que no daban problemas, y es por eso que les permitían quedarse.Más información: Mohamed VI, entre el \"límite\" y el \"chantaje\""
   },
   {
-    "titulo": "Sin Raphinha, pero sin piedad",
-    "medio": "OK Diario",
-    "fecha": 1791657497.0,
-    "link": "https://okdiario.com/deportes/sin-raphinha-pero-sin-piedad-20527433",
-    "resumen": "El Barcelona sigue a lo suyo y aún no conoce la derrota en la Liga. Los de Flick no perdonan en casa y han conseguido imponerse 3-0 al Getafe, en la jornada ocho. El partido estaba marcado por la baja de Raphinha, pero el equipo lo ha solventado a la perfección. Anthony Gordon adelantó a … Continuar leyendo \"Sin Raphinha, pero sin piedad\""
+    "titulo": "El Barça sigue enchufado",
+    "medio": "Europa Press",
+    "fecha": 1791657749.0,
+    "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-sigue-enchufado-20261010204229.html",
+    "resumen": "El FC Barcelona venció (3-0) al Getafe CF este sábado en la octava jornada de LaLiga EA Sports para seguir líder invicto con pleno de puntos, despejando la incógnita de los efectos del parón internacional sobre un perfecto inicio de temporada."
   },
   {
-    "titulo": "Así queda la clasificación de la Liga tras las victoria de Atlético de Madrid y Barcelona",
-    "medio": "OK Diario",
-    "fecha": 1791657245.0,
-    "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-atletico-madrid-contra-alaves-20526988",
-    "resumen": "El Atlético de Madrid y el Barcelona han abierto el supersábado de la Liga con sus enfrentamientos ante Alavés y Getafe. Dos partidos en los que ninguno ha fallado. Se le ha dado peor al conjunto rojiblanco, que sufrió hasta el final para conseguir batir al conjunto vasco. Por su parte, el Barcelona sigue al … Continuar leyendo \"Así queda la clasificación de la Liga tras las victoria de Atlético de Madrid y Barcelona\""
-  },
-  {
-    "titulo": "Resultado Barcelona – Getafe | Resumen, estadísticas, goles y cómo ha quedado el partido de la jornada 8 de La Liga EA Sports",
-    "medio": "OK Diario",
-    "fecha": 1791657194.0,
-    "link": "https://okdiario.com/deportes/barcelona-getafe-directo-20526521",
-    "resumen": "El Barcelona recibe este sábado al Getafe en el Camp Nou en la octava jornada de la Liga, en el reencuentro con la competición doméstica tras veinte días de parón internacional marcado por la baja de Raphinha, víctima del popularmente conocido como ‘virus FIFA’, y con el objetivo para el equipo catalán de firmar un … Continuar leyendo \"Resultado Barcelona – Getafe | Resumen, estadísticas, goles y cómo ha quedado el partido de la jornada 8 de La Liga EA Sports\""
-  },
-  {
-    "titulo": "Scarlett Johansson sobre grabar con Robert Redford: «Antes de cada escena, me contaba la historia para ayudarme a encontrar mi lugar en la película»",
-    "medio": "OK Diario",
-    "fecha": 1791657026.0,
-    "link": "https://okdiario.com/cool/television/scarlett-johansson-sobre-grabar-robert-redford-antes-cada-escena-contaba-historia-ayudarme-encontrar-lugar-pelicula-20517991",
-    "resumen": "Hace casi un mes, se cumplió un año del triste fallecimiento de Robert Redford a los 89 años. Una de esas últimas leyendas del cine clásico de Hollywood, cuyo papel en la industria sirvió como un puente intergeneracional entre las estrellas que lo precedieron, como Alec Guinness o Marlon Brando, y esa nueva camada de … Continuar leyendo \"Scarlett Johansson sobre grabar con Robert Redford: «Antes de cada escena, me contaba la historia para ayudarme a encontrar mi lugar en la película»\""
+    "titulo": "Así son las mejores coctelerías del mundo",
+    "medio": "Expansión",
+    "fecha": 1791657140.0,
+    "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/10/asi-son-mejores-coctelerias-mundo.html",
+    "resumen": "Bar Leone, en Hong Kong, repite como líder, y el madrileño Angelita se estrena en el top 50. Leer"
   },
   {
     "titulo": "Un Barça de andar por casa se impone a un inofensivo Getafe y mantiene su invicto en La Liga para meter presión al Madrid",
@@ -56,32 +462,32 @@
     "resumen": "Gordon abrió la lata en el primer minuto, Gabriel Jesús hizo el segundo a la media hora y Koundé sentenció en el tramo final."
   },
   {
-    "titulo": "Democracia 21 se presenta a las elecciones por Madrid y Barcelona liderados por la abogada Miriam González",
+    "titulo": "Democracia 21 se presenta a las elecciones por Madrid y Barcelona liderada por la abogada Miriam González",
     "medio": "El Español",
     "fecha": 1791656982.0,
     "link": "https://www.elespanol.com/espana/20261010/democracia-presenta-elecciones-madrid-barcelona-liderados-miriam-gonzalez/1003744416434_0.html",
     "resumen": "González Durántez defiende la inmigración como \"un activo\" bajo una regulación \"sensata y con cabeza\".Más información: La abogada Miriam González registra un partido político con el que aspira a presentarse a las elecciones generales"
   },
   {
-    "titulo": "La CUP descarta presentarse el 29-N y espera el aval de la militancia",
-    "medio": "The Objective",
-    "fecha": 1791655861.0,
-    "link": "https://theobjective.com/espana/politica/2026-10-10/cup-descarta-presentarse-29n-espera-aval-militancia/",
-    "resumen": "La mesa nacional de la CUP, que es el máximo órgano de dirección política del partido entre asambleas nacionales, ha descartado este sábado conformar una candidatura […]"
+    "titulo": "China impulsa megacentros de IA con energía barata",
+    "medio": "Expansión",
+    "fecha": 1791656488.0,
+    "link": "https://www.expansion.com/economia/financial-times/2026/10/10/6aca7f70468aeb673a8b4590.html",
+    "resumen": "China moviliza enormes recursos para edificar centros de IA, pero su velocidad constructiva choca con la dificultad para obtener suficientes semiconductores avanzados ante las restricciones de Washington. Leer"
   },
   {
     "titulo": "Trump carga contra Zelenski: \"Ha llegado el momento de que Ucrania tenga un nuevo presidente\"",
     "medio": "El Mundo",
-    "fecha": 1791655289.0,
+    "fecha": 1791656458.0,
     "link": "https://www.elmundo.es/internacional/2026/10/10/6aca7549fdddffa1748b4571.html",
     "resumen": "Las declaraciones del presidente estadounidense se producen después de que su homólogo ucraniano denunciara que sus negociadores han sido utilizados como \"cortina de humo\" Leer"
   },
   {
-    "titulo": "En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero",
-    "medio": "Xataka",
-    "fecha": 1791655228.0,
-    "link": "https://www.xataka.com/ecologia-y-naturaleza/1971-quebec-inundo-11-500-km2-bosque-para-crear-megaembalse-saberlo-enveneno-a-pueblo-entero",
-    "resumen": "En 1971, el inicio del megaproyecto hidroeléctrico de la bahía de James, en Canadá, prometía ser un triunfo para la ingeniería contemporánea, brindando una gran cantidad de energía limpia para millones de personas. Sin embargo, al crear embalses enormes en medio de la naturaleza salvaje, se desencadenó una bomba química silenciosa a consecuencia de la liberación del mercurio natural del suelo que envenenó el pescado del que dependía históricamente el pueblo indígena de los Cree. Un gran problema. Un pescado que se saque de estas aguas a simple vista puede estar en perfecto estado y, sin embargo, ser un grave riesgo para el sistema nervioso de aquellas personas que decidan comerlo. Esta es la dura realidad con la que se topó el pueblo Cree tras la construcción de este gran complejo hidroeléctrico que alteró cinco ríos y la creación de inmensos embalses sumergieron más de 11.500 km2 de bosque boreal, un área comparable con la superficie de Qatar. Pero la contaminación no fueron los generadores eléctricos ni la maquinaria pesada, sino el contacto de la propia agua con la tierra virgen. En Xataka Hay quien echa la culpa de que se le rompa la nevera a Mercurio retrógrado. La ciencia tiene algo que decir a eso El mercurio es una de esas toxinas de las que nos preocupamos mucho, sobre todo cuando vamos a tomar pescado. Pero en este caso el mercurio no provino de la contaminación industrial, sino que llevaba miles de años depositado en el suelo forestal. Pero al llegar el humano e inundar esos terrenos para formar los reservorios, la materia orgánica de la vegetación sumergida comenzó a degradarse rápidamente, sirviendo de festín para todos los microorganismos que allí vivían. Esta drástica actividad microbiana, alimentada por la degradación del carbono orgánico lábil en los suelos inundados, disparó la producción de metilmercurio. El metilmercurio es una forma altamente neurotóxica del metal que, a diferencia del mercurio inorgánico, tiene una enorme facilidad para bioacumularse en los organismos y ascender rápidamente por la cadena trófica acuática. La buena noticia es que la producción excesiva de este peligroso compuesto suele detenerse entre los ocho y diez años posteriores a la inundación, un plazo que coincide con el agotamiento de los nutrientes vegetales de fácil descomposición presentes en el fondo. Se ha medido. Para entender la magnitud de este problema, los investigadores han medido la concentración de mercurio en 45.000 peces a lo largo de décadas. Aquí se vio que las especies que no se alimentan de otros peces cuentan con una concentración de mercurio que alcanza su pico máximo entre 4 y 11 años desde que se llenaron los embalses. Pero cuando hablamos de peces que se alimentan de otros peces, los valores más altos se registran entre los 9 y 14 años. La buena noticia es que, a pesar de estas altas concentraciones de mercurio, no se registró una caída en la población de los peces. Con el paso del tiempo, el ecosistema ahora es más estable y la gran mayoría de las especies retornaron a niveles equivalentes a los de los lagos naturales. Sobre los humanos. Para el pueblo indígena Cree algunas especies como el lucio no eran únicamente una fuente de alimento, sino el núcleo de su dieta milenaria. Y es por ello que el problema fue que este pescado local era la principal fuente de exposición al mercurio para los habitantes de la zona. Y si concretamos un poco más, vemos que las comunidades indígenas ubicadas en el interior estaban sometidas a una mayor concentración de mercurio que las que vivían en la costa. Sus consecuencias. A raíz de esta exposición en el año 1988, el 14,2 % de la población Cree presentaba niveles de mercurio en el cabello por encima de los 15 mg/kg. Además, se observó que los mayores niveles de intoxicación se daban de forma independiente en hombres, personas de edad avanzada y aquellos dedicados al tradicional oficio de trampero. Ante la crisis sostenida, las autoridades y el Cree Board of Health of Eeyou Istchee se vieron obligados a elaborar estrictas guías dietéticas para la población. En el periodo más crítico, se recomendó a las familias que habitaban cerca de los embalses más impactados limitar su ingesta a un máximo de dos comidas a base de lucio al mes. Y esto hizo que se viera una reducción importante de la concentración de mercurio. En Xataka \"El mayor error es pensar que esto es solo comprar y vender agua\": el negocio más boyante de Mallorca es el agua embotellada En la actualidad, las concentraciones de mercurio en casi todas las áreas afectadas han retornado a la normalidad, lo que ha permitido a las autoridades sanitarias retomar la promoción del consumo de pescado local por sus indiscutibles beneficios nutricionales. Sin embargo, este accidente biogeoquímico está lejos de ser una simple anécdota de los años setenta, puesto que, a medida que el mundo acelera su transición hacia energías bajas en emisiones, la infraestructura hidroeléctrica vive un nuevo auge. Actualmente, hay unos 22 proyectos hidroeléctricos planificados en Canadá que se situarán a menos de 100 km de distancia de comunidades indígenas, y el miedo de que esta historia pueda repetirse está aún encima de la mesa. Vía | SciencePost Imágenes | Anthony Da Cruz En Xataka | Llevamos siglos contaminando los mares con mercurio. No esperábamos que la solución fuera la ingeniería genética - La noticia En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero fue publicada originalmente en Xataka por José A. Lizana ."
+    "titulo": "Grave cornada de Álvaro Serrano en su encerrona en Las Ventas",
+    "medio": "El Mundo",
+    "fecha": 1791656437.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/10/10/6aca74c3fc6c83c86d8b4585.html",
+    "resumen": "Sufre una herida de 20 cm. que contusiona la arteria fermoral y produce destrozos musculares; los sobresalientes Héctor Roberto y Aitor Fernández despacharon la complicada y fea novillada Leer"
   },
   {
     "titulo": "Este puente tiene 2085 años de antigüedad y aún se conserva tal y como lució en el Imperio romano",
@@ -89,6 +495,13 @@
     "fecha": 1791655228.0,
     "link": "https://www.trendencias.com/viajes/este-puente-tiene-2085-anos-antiguedad-se-conserva-tal-como-lucio-imperio-romano-2",
     "resumen": "La elevada frecuencia con la que algunos hombres piensan en el Imperio romano es uno de los memes más divertidos que ha dado TikTok. No obstante, hay que admitir que fue un capítulo de la historia tan fascinante que sigue influyendo en el presente. Prueba tangible de ello es la cantidad de sus construcciones que aún se mantienen en pie en la actualidad. Aquí, en España, lo podemos constatar en uno de nuestros pueblos más bonitos y desconocidos. No obstante, es normal que la infraestructura más impresionante, por lo bien que se conserva, se encuentre en Roma. Se trata del Pons Fabricius o Ponte dei Quattro Capi, que no solo es el puente romano más viejo de la antigua República romana que aún podemos encontrar en Roma, es que se conserva en su estado original y, prácticamente, inalterado por el tiempo. Situado justo al lado del antiguo Foro Romano, este puente cruza el río Tíber y une el Campo de Marte con el lado este de la isla Tiberina. Fue construido en el año 62 antes de la era común, aunque su nombre de \"quattro capi\" (cuatro cabezas) es posterior. Este hace referencia a las dos hermas de cuatro cabezas de Jano (el dios de las dos caras) que fueron trasladadas aquí desde la iglesia de San Gregorio (Monte Savello) en el siglo XIV.​ Carole Raddato El puente en cuestión tiene una longitud de 62 metros y un ancho 5,5 metros. Está construido a partir de dos amplios arcos que se apoyan en un pilar central en medio del cauce. Se trata de un puente de piedra. Su núcleo está construido de toba y su revestimiento exterior actual es de ladrillo y travertino. Encargado por Lucius Fabricius, el puente se construyó un año después de que Cicerón fuera nombrado cónsul. Vino a reemplazar un puente anterior de madera, que había estado en pie desde el año 192 antes de la era común, y que había sido destruido en un incendio. Desde entonces, ha continuado en uso ininterrumpido. Pascal Reusch Tal vez, en cuanto a estética, no sea un puente que destaque por su belleza pero hay que tener en cuenta lo difícil que es encontrar otro puente antiguo en uso que haya sobrevivido prácticamente sin cambios durante más de 2.000 años. Aunque los Papas Eugenio IV e Inocencio XI lo restauraron posteriormente (en 1447 y 1679, respectivamente). Si solo los puentes pudieran hablar... Foto de portada | Helen Simonsson En Tendencias | 35 escapadas románticas por España para hacer en pareja en 2026 En Xataka | EEUU anuncia su F-47 como el primer caza de sexta generación del planeta. China le ha dicho “sujétame el cubata”: ya vuelan dosEn 3DJuegos | Peter Huber, granjero, sobre usar Windows 95 en pleno año 2026 para clasificar huevos: \"Nunca he tenido problemas\" - La noticia Este puente tiene 2085 años de antigüedad y aún se conserva tal y como lució en el Imperio romano fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero",
+    "medio": "Xataka",
+    "fecha": 1791655228.0,
+    "link": "https://www.xataka.com/ecologia-y-naturaleza/1971-quebec-inundo-11-500-km2-bosque-para-crear-megaembalse-saberlo-enveneno-a-pueblo-entero",
+    "resumen": "En 1971, el inicio del megaproyecto hidroeléctrico de la bahía de James, en Canadá, prometía ser un triunfo para la ingeniería contemporánea, brindando una gran cantidad de energía limpia para millones de personas. Sin embargo, al crear embalses enormes en medio de la naturaleza salvaje, se desencadenó una bomba química silenciosa a consecuencia de la liberación del mercurio natural del suelo que envenenó el pescado del que dependía históricamente el pueblo indígena de los Cree. Un gran problema. Un pescado que se saque de estas aguas a simple vista puede estar en perfecto estado y, sin embargo, ser un grave riesgo para el sistema nervioso de aquellas personas que decidan comerlo. Esta es la dura realidad con la que se topó el pueblo Cree tras la construcción de este gran complejo hidroeléctrico que alteró cinco ríos y la creación de inmensos embalses sumergieron más de 11.500 km2 de bosque boreal, un área comparable con la superficie de Qatar. Pero la contaminación no fueron los generadores eléctricos ni la maquinaria pesada, sino el contacto de la propia agua con la tierra virgen. En Xataka Hay quien echa la culpa de que se le rompa la nevera a Mercurio retrógrado. La ciencia tiene algo que decir a eso El mercurio es una de esas toxinas de las que nos preocupamos mucho, sobre todo cuando vamos a tomar pescado. Pero en este caso el mercurio no provino de la contaminación industrial, sino que llevaba miles de años depositado en el suelo forestal. Pero al llegar el humano e inundar esos terrenos para formar los reservorios, la materia orgánica de la vegetación sumergida comenzó a degradarse rápidamente, sirviendo de festín para todos los microorganismos que allí vivían. Esta drástica actividad microbiana, alimentada por la degradación del carbono orgánico lábil en los suelos inundados, disparó la producción de metilmercurio. El metilmercurio es una forma altamente neurotóxica del metal que, a diferencia del mercurio inorgánico, tiene una enorme facilidad para bioacumularse en los organismos y ascender rápidamente por la cadena trófica acuática. La buena noticia es que la producción excesiva de este peligroso compuesto suele detenerse entre los ocho y diez años posteriores a la inundación, un plazo que coincide con el agotamiento de los nutrientes vegetales de fácil descomposición presentes en el fondo. Se ha medido. Para entender la magnitud de este problema, los investigadores han medido la concentración de mercurio en 45.000 peces a lo largo de décadas. Aquí se vio que las especies que no se alimentan de otros peces cuentan con una concentración de mercurio que alcanza su pico máximo entre 4 y 11 años desde que se llenaron los embalses. Pero cuando hablamos de peces que se alimentan de otros peces, los valores más altos se registran entre los 9 y 14 años. La buena noticia es que, a pesar de estas altas concentraciones de mercurio, no se registró una caída en la población de los peces. Con el paso del tiempo, el ecosistema ahora es más estable y la gran mayoría de las especies retornaron a niveles equivalentes a los de los lagos naturales. Sobre los humanos. Para el pueblo indígena Cree algunas especies como el lucio no eran únicamente una fuente de alimento, sino el núcleo de su dieta milenaria. Y es por ello que el problema fue que este pescado local era la principal fuente de exposición al mercurio para los habitantes de la zona. Y si concretamos un poco más, vemos que las comunidades indígenas ubicadas en el interior estaban sometidas a una mayor concentración de mercurio que las que vivían en la costa. Sus consecuencias. A raíz de esta exposición en el año 1988, el 14,2 % de la población Cree presentaba niveles de mercurio en el cabello por encima de los 15 mg/kg. Además, se observó que los mayores niveles de intoxicación se daban de forma independiente en hombres, personas de edad avanzada y aquellos dedicados al tradicional oficio de trampero. Ante la crisis sostenida, las autoridades y el Cree Board of Health of Eeyou Istchee se vieron obligados a elaborar estrictas guías dietéticas para la población. En el periodo más crítico, se recomendó a las familias que habitaban cerca de los embalses más impactados limitar su ingesta a un máximo de dos comidas a base de lucio al mes. Y esto hizo que se viera una reducción importante de la concentración de mercurio. En Xataka \"El mayor error es pensar que esto es solo comprar y vender agua\": el negocio más boyante de Mallorca es el agua embotellada En la actualidad, las concentraciones de mercurio en casi todas las áreas afectadas han retornado a la normalidad, lo que ha permitido a las autoridades sanitarias retomar la promoción del consumo de pescado local por sus indiscutibles beneficios nutricionales. Sin embargo, este accidente biogeoquímico está lejos de ser una simple anécdota de los años setenta, puesto que, a medida que el mundo acelera su transición hacia energías bajas en emisiones, la infraestructura hidroeléctrica vive un nuevo auge. Actualmente, hay unos 22 proyectos hidroeléctricos planificados en Canadá que se situarán a menos de 100 km de distancia de comunidades indígenas, y el miedo de que esta historia pueda repetirse está aún encima de la mesa. Vía | SciencePost Imágenes | Anthony Da Cruz En Xataka | Llevamos siglos contaminando los mares con mercurio. No esperábamos que la solución fuera la ingeniería genética - La noticia En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
     "titulo": "La industria de automoción se 'cuela' en el desfile del 12 de octubre",
@@ -105,32 +518,11 @@
     "resumen": "Acaba de llegar a los cines El precio de la red, la esperada secuela de La red social. La película de David Fincher estrenada en 2010 es sin duda uno de los grandes largometrajes de Hollywood de este siglo. La historia del nacimiento de Facebook y todo lo que había detrás con la figura de […] Seguir leyendo: La historia real de ‘El precio de la red’: quién es Frances Haugen y qué fue el caso The Facebook Files"
   },
   {
-    "titulo": "El novillero Álvaro Serrano herido de gravedad en Las Ventas durante su encerrona",
-    "medio": "OK Diario",
-    "fecha": 1791655076.0,
-    "link": "https://okdiario.com/toros/novillero-alvaro-serrano-herido-gravedad-ventas-encerrona-20527373",
-    "resumen": "El novillero Álvaro Serrano resultó herido por el tercero de la tarde en la plaza de toros de Las Ventas en la tarde de su encerrona. El animal de Conde de Mayalde ya había dejado claras sus intenciones instantes antes del percance, cuando se coló en varias ocasiones durante la serie anterior, advirtiendo del peligro … Continuar leyendo \"El novillero Álvaro Serrano herido de gravedad en Las Ventas durante su encerrona\""
-  },
-  {
-    "titulo": "Trump dice ahora que aún no ha decidido si permitirá la emisión del fusilamiento del asesino de Fort Hood",
-    "medio": "La Vanguardia",
-    "fecha": 1791655061.0,
-    "link": "https://www.lavanguardia.com/internacional/20261010/11656088/trump-dice-aun-decidido-permitira-emision-fusilamiento-asesino-fort-hood.html",
-    "resumen": "“Al mostrarlo, quizá otras personas no hagan lo que él hizo”, argumenta el presidente estadounidense"
-  },
-  {
     "titulo": "Maricarmen no es la única, los desahucios son un problema transversal de salud pública: \"Estamos normalizando vivir sin dignidad\"",
     "medio": "HuffPost",
     "fecha": 1791654991.0,
     "link": "https://www.huffingtonpost.es/politica/maricarmen-unica-desahucios-son-problema-salud-publica-generan-suicidios-todosnos-f202610.html",
     "resumen": ""
-  },
-  {
-    "titulo": "La estadounidense Christa Pike regresa a prisión tras sobrevivir a dos inyecciones letales",
-    "medio": "The Objective",
-    "fecha": 1791654707.0,
-    "link": "https://theobjective.com/internacional/2026-10-10/christa-pike-regresa-prision-sobrevivir-dos-inyecciones-letales/",
-    "resumen": "Christa Pike, la presa estadounidense que ha sobrevivido tras recibir dos inyecciones letales en Tennesee (Estados Unidos) hace diez días, ha recibido el alta del hospital […]"
   },
   {
     "titulo": "Trump anima a los ucranios a que “busquen un nuevo líder” tras un ataque de Kiev contra el sector petrolero ruso",
@@ -154,34 +546,6 @@
     "resumen": ""
   },
   {
-    "titulo": "El TSXG anula el nombramiento de Eladio Santos como subdelegado del Gobierno en Ourense",
-    "medio": "Moncloa.com",
-    "fecha": 1791654221.0,
-    "link": "https://www.moncloa.com/2026/10/10/tsxg-anula-subdelegado-gobierno-ourense-3445794/",
-    "resumen": "El TSXG anula el nombramiento de Eladio Santos como subdelegado del Gobierno en Ourense por falta de motivación y ordena repetir el proceso. La entrada El TSXG anula el nombramiento de Eladio Santos como subdelegado del Gobierno en Ourense aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Trump carga contra Zelenski y pide para Ucrania “un nuevo presidente” con el que pactar",
-    "medio": "La Vanguardia",
-    "fecha": 1791654208.0,
-    "link": "https://www.lavanguardia.com/internacional/20261010/11656085/trump-carga-zelenski-pide-ucrania-nuevo-presidente-pactar.html",
-    "resumen": "El presidente ucraniano ha ironizado sobre el acuerdo por el diésel entre EE.UU. y Rusia afirmando que las cinco bombas lanzadas por Putin sobre su territorio son una muestra de su “agradecimiento”"
-  },
-  {
-    "titulo": "Danny Deep será el nuevo CEO de General Dynamics a partir de enero de 2027",
-    "medio": "Expansión",
-    "fecha": 1791653991.0,
-    "link": "https://www.expansion.com/empresas/industria/2026/10/10/6aca7368e5fdea3d598b4574.html",
-    "resumen": "El consejo de administración de la compañía estadounidense de defensa y aeroespacial General Dynamics, matriz de Santa Bárbara Sistemas, ha elegido a Danny Deep como nuevo consejero delegado (CEO) con efecto a partir del próximo 1 de enero de 2027, según ha informado la multinacional en un comunicado. Leer"
-  },
-  {
-    "titulo": "Bessent acusa a Warren de manipular la inflación en Estados Unidos con su ‘Trumpflation tracker’",
-    "medio": "Moncloa.com",
-    "fecha": 1791653921.0,
-    "link": "https://www.moncloa.com/2026/10/10/bessent-warren-inflacion-estados-unidos-3445797/",
-    "resumen": "Bessent responde al 'Trumpflation tracker' de Warren con datos propios: 2,5% de inflación subyacente anualizada frente al 4,7% del mandato de Biden. La entrada Bessent acusa a Warren de manipular la inflación en Estados Unidos con su ‘Trumpflation tracker’ aparece primero en Moncloa."
-  },
-  {
     "titulo": "La campaña de Lula denuncia ante el Tribunal Electoral una supuesta interferencia de Meta en favor de Bolsonaro",
     "medio": "eldiario.es",
     "fecha": 1791653871.0,
@@ -196,102 +560,11 @@
     "resumen": "La Audiencia Provincial sostiene en una sentencia que el sistema “atiende o debería atender” la necesidad de vivienda, pero rechaza el estado de necesidad porque la mujer no probó que la ocupación fuera su única salida Una madre con cuatro hijos menores a su cargo ha sido condenada a desalojar el piso de alquiler social del Gobierno de Aragón que ocupaba en Zaragoza y a pagar una multa de 180 euros por un delito leve de usurpación. La Audiencia Provincial ha confirmado la condena en una sentencia dictada el 1 de octubre por la Sección Sexta, que ya es firme. La resolución afirma que el sistema “atiende o debería atender necesidades tan básicas como la comida, la vivienda y el vestido”, pero concluye que tener cuatro niños a cargo “no permite la apreciación de la eximente de estado de necesidad”. La pena, que ha sido adelantada por 'Heraldo' y que también ha conseguido este periódico, es la más baja que admite el Código Penal para este delito. El artículo 245.2 castiga la ocupación de inmuebles que no constituyen morada con multa de tres a seis meses, y el Tribunal de Instancia de Zaragoza impuso tres en su sentencia del 14 de julio. La cuota diaria, de dos euros, es también el mínimo legal, pero el fallo prevé un día de cárcel por cada dos cuotas impagadas. A la multa se suman las costas de la primera instancia, mientras que las de la apelación se declaran de oficio. La condena incluye el “desalojo de la vivienda y su restitución a su legítimo propietario”, la sociedad pública Suelo y Vivienda de Aragón, dependiente del Ejecutivo autonómico. La mujer, defendida por el letrado Ignacio Serrano Vieco, sostuvo en su recurso que entró en el piso en la creencia de que tenía título para hacerlo: se lo había alquilado a la anterior inquilina, a quien entregó una cantidad de dinero. Añadió que no se negaba a marcharse si se le garantizaba una alternativa habitacional. Sin embargo, la Audiencia considera esa versión “huérfana de toda prueba” y añade que, aun siendo cierta, no eliminaría el delito de mantenerse después en el inmueble contra la voluntad de la propietaria. La vivienda está integrada en la Red de Bolsas de Viviendas para el Alquiler Social de Aragón. Una trabajadora social de la entidad comprobó en una visita rutinaria que quien vivía allí no era la arrendataria, y el 19 de mayo de 2025 la mujer firmó un requerimiento en el que le informaba de que no tenía adjudicación ni contrato y que debía desalojarlo. Ella alegó que no leyó el documento. La magistrada responde que eso “no convierte en invencible un error que pudo evitarse con una mínima diligencia”. Sin datos sobre la situación de la familia El último motivo del recurso era el estado de necesidad, una eximente del Código Penal. La resolución no recoge ningún dato sobre los ingresos de la familia ni sobre si acudió a los servicios sociales: se limita a señalar que “no existe prueba que acredite dicha situación”. Tampoco se acreditó, añade, que “la ocupación prolongada de una vivienda ajena integrada en un programa público de alquiler social fuera el único medio posible para evitar un mal inminente, ni que no existieran recursos o vías administrativas y sociales a las que pudiera acudirse”. La Audiencia apela al orden de acceso a las ayudas. Para obtener una renta de inserción o una vivienda pública “es preciso que se siga un orden y no se legalicen situaciones de ilegalidad”, porque de lo contrario se lograría una casa “en perjuicio de otras personas igualmente necesitadas o con necesidades más graves”. Admitir el estado de necesidad, concluye, “significaría permitir el acceso a la vivienda por las vías de hecho cuando existen los cauces legales adecuados donde se valoran las circunstancias de todos los peticionarios”. Suelo y Vivienda de Aragón y la Fiscalía se opusieron al recurso y pidieron confirmar la condena. Según la sentencia, la ocupación del piso al margen del procedimiento de adjudicación “impide destinarla a las personas y unidades de convivencia que pudieran resultar adjudicatarias y altera el sistema público de acceso a ese recurso habitacional”."
   },
   {
-    "titulo": "El CES de Extremadura avisa: la convergencia con España y Europa avanza a un ritmo insuficiente",
-    "medio": "Moncloa.com",
-    "fecha": 1791653621.0,
-    "link": "https://www.moncloa.com/2026/10/10/ces-extremadura-convergencia-insuficiente-3445802/",
-    "resumen": "El CES de Extremadura advierte en su Memoria 2025 de que la convergencia con España y Europa avanza a un ritmo insuficiente pese al 3,2% de PIB. La entrada El CES de Extremadura avisa: la convergencia con España y Europa avanza a un ritmo insuficiente aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Trump desprecia a Zelenski (y van...)",
-    "medio": "La Vanguardia",
-    "fecha": 1791653552.0,
-    "link": "https://www.lavanguardia.com/internacional/20261010/11656083/trump-desprecia-zelenski.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Simeone: «La expulsión del Alavés nos lo hizo más difícil, aunque pareciera más fácil»",
-    "medio": "OK Diario",
-    "fecha": 1791653409.0,
-    "link": "https://okdiario.com/deportes/simeone-expulsion-del-alaves-nos-lo-hizo-mas-dificil-aunque-pareciera-mas-facil-20527311",
-    "resumen": "El Atlético llevaba jugando con un futbolista más desde el minuto 60, pero más era menos. Desde entonces se había dado de bruces con la trinchera de los de Quique Sánchez Flores, zorro entre los zorros. El Cholo se dio cuenta de que por abajo no iba la cosa y envidó con Sorloth para ganarlo … Continuar leyendo \"Simeone: «La expulsión del Alavés nos lo hizo más difícil, aunque pareciera más fácil»\""
-  },
-  {
-    "titulo": "Alineaciones y última hora del partido dentre el Real Madrid y el Villarreal",
-    "medio": "La Vanguardia",
-    "fecha": 1791653402.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20261010/11655896/real-madrid-villarreal-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-    "resumen": "11 del Real Madrid: Courtois; Trent, Konaté, Rüdiger, Carreras; Valverde, Tchouameni; Arda Güler, Bellingham, Diomande; Mbappé."
-  },
-  {
-    "titulo": "El censo electoral de Ourense: 111.124 votantes en el exterior y 17 concellos con más voto foráneo que residente",
-    "medio": "Moncloa.com",
-    "fecha": 1791653321.0,
-    "link": "https://www.moncloa.com/2026/10/10/censo-electoral-ourense-voto-exterior-3445803/",
-    "resumen": "Ourense afronta las generales del 29-N con 360.252 electores, 111.124 de ellos en el extranjero: en 17 de sus 92 concellos pesa más la diáspora. La entrada El censo electoral de Ourense: 111.124 votantes en el exterior y 17 concellos con más voto foráneo que residente aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Horario del Carlos Alcaraz – Zizou Bergs: cuándo es y dónde ver por TV en directo y en vivo online el partido del Masters 1000 de Shanghái 2026",
-    "medio": "OK Diario",
-    "fecha": 1791653277.0,
-    "link": "https://okdiario.com/deportes/horario-del-carlos-alcaraz-zizou-bergs-cuando-donde-ver-tv-directo-vivo-online-partido-del-masters-1000-shanghai-2026-20527248",
-    "resumen": "Carlos Alcaraz se cita con Zizou Bergs en la tercera ronda del Masters 1000 de Shanghái 2026. El murciano quiere romper el maleficio del tenis español con este torneo, ya que ningún tenista de nuestro país ha conseguido conquistarlo en el cuadro individual y él, tras llevarse el ATP 500 de Tokio hace unos días, … Continuar leyendo \"Horario del Carlos Alcaraz – Zizou Bergs: cuándo es y dónde ver por TV en directo y en vivo online el partido del Masters 1000 de Shanghái 2026\""
-  },
-  {
-    "titulo": "Trump considera \"increíble\" no haber recibido el Nobel de la Paz",
-    "medio": "Expansión",
-    "fecha": 1791653107.0,
-    "link": "https://www.expansion.com/sociedad/2026/10/10/trump-considera-increible-haber-recibido-nobel-paz.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, alardeó este sábado de sus logros en política internacional y calificó de \"increíble\" que ni él ni su país recibieran el Premio Nobel de la Paz, otorgado el viernes a Navi Pillay, jurista con una larga trayectoria en la defensa de los derechos humanos. Leer"
-  },
-  {
-    "titulo": "De La Espriella retira la demanda de Colombia contra Israel ante la CIJ y reorienta su política exterior",
-    "medio": "Moncloa.com",
-    "fecha": 1791653021.0,
-    "link": "https://www.moncloa.com/2026/10/10/retiro-demanda-colombia-israel-cij-3445804/",
-    "resumen": "Colombia retira su respaldo a la demanda contra Israel ante la CIJ. España pierde su copresidencia en la Coalición por la Igualdad de Derechos. La entrada De La Espriella retira la demanda de Colombia contra Israel ante la CIJ y reorienta su política exterior aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Baena sintoniza al Mariscal Romero para que el Atlético derrote al Alavés",
-    "medio": "El País",
-    "fecha": 1791652848.0,
-    "link": "https://elpais.com/deportes/futbol/2026-10-10/baena-sintoniza-al-mariscal-romero-para-que-el-atletico-derrote-al-alaves.html",
-    "resumen": "Los de Simeone solo pudieron superar en los últimos minutos al ordenado y combativo equipo de Quique Flores, que jugó media hora con uno menos"
-  },
-  {
-    "titulo": "El PSOE arranca la precampaña con un amplio catálogo de insultos al \"perro\" Sánchez para tratar de movilizar a sus votantes",
-    "medio": "El Mundo",
-    "fecha": 1791652796.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca5e98fc6c8301108b4571.html",
-    "resumen": "Lanza un vídeo en el primer mitin en Dos Hermanas y a través de las redes sociales en el que recoge descalificativos hacia el líder en boca de Feijóo, Ayuso y Abascal, entre otros Leer"
-  },
-  {
-    "titulo": "La patronal suspende la gala pirotécnica de València por la acampada de vivienda y culpa a la Delegación del Gobierno",
-    "medio": "Moncloa.com",
-    "fecha": 1791652721.0,
-    "link": "https://www.moncloa.com/2026/10/10/gala-pirotenica-valencia-acampada-vivienda-3445806/",
-    "resumen": "La patronal pirotécnica suspende la gala de fuegos artificiales en València por la acampada de vivienda y culpa a la Delegación del Gobierno. La entrada La patronal suspende la gala pirotécnica de València por la acampada de vivienda y culpa a la Delegación del Gobierno aparece primero en Moncloa."
-  },
-  {
     "titulo": "Jucil alerta de que el litoral de Murcia es la \"nueva costa andaluza\" para el narco y la Fiscalía pide un plan a Interior",
     "medio": "El Español",
     "fecha": 1791652451.0,
     "link": "https://www.elespanol.com/espana/murcia/20261010/jucil-alerta-litoral-murcia-nueva-costa-andaluza-narco-fiscal-superior-pide-plan/1003744415873_0.html",
     "resumen": "\"La realidad diaria es la de una costa convertida en un auténtico coladero\", según alerta la asociación profesional.Más información: Un testigo del presunto fraude del voto por correo en Sevilla, ante la jueza: \"No he votado nunca y esa firma no es mía\""
-  },
-  {
-    "titulo": "Pontevedra se consolida como cuarta provincia exportadora de España pese a ser la 19 por PIB",
-    "medio": "Moncloa.com",
-    "fecha": 1791652421.0,
-    "link": "https://www.moncloa.com/2026/10/10/pontevedra-cuarta-exportadora-espana-pib-3445809/",
-    "resumen": "Un estudio de Economistas y Cámaras sitúa a Pontevedra como cuarta exportadora de España pese a ser la 19 por PIB y señala la innovación como reto. La entrada Pontevedra se consolida como cuarta provincia exportadora de España pese a ser la 19 por PIB aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Paul Seixas alcanza en el Giro de Lombardía su futuro anunciado",
-    "medio": "El País",
-    "fecha": 1791652356.0,
-    "link": "https://elpais.com/deportes/ciclismo/2026-10-10/paul-seixas-alcanza-en-el-giro-de-lombardia-su-futuro-anunciado.html",
-    "resumen": "El francés gana su primer monumento y se convierte en el más joven en imponerse en la clásica italiana"
   },
   {
     "titulo": "Sebastián Yatra abre la puerta a cantar con Judeline y deja clara su opinión sobre ella: \"A mí con ella me fascinaría cantar\"",
@@ -301,46 +574,11 @@
     "resumen": ""
   },
   {
-    "titulo": "La vivienda marca el arranque de la campaña de las elecciones de la Comunitat Valenciana del 29-N",
-    "medio": "Moncloa.com",
-    "fecha": 1791652121.0,
-    "link": "https://www.moncloa.com/2026/10/10/elecciones-comunitat-valenciana-29n-vivienda-3445811/",
-    "resumen": "La crisis de vivienda y la acampada en la plaza del Ayuntamiento marcan el 9 d'Octubre y anticipan las elecciones de la Comunitat Valenciana del 29-N. La entrada La vivienda marca el arranque de la campaña de las elecciones de la Comunitat Valenciana del 29-N aparece primero en Moncloa."
-  },
-  {
     "titulo": "Trump rompe con Zelenski tras sellar un acuerdo con Putin: \"Ya es hora de que Ucrania tenga un nuevo presidente\"",
     "medio": "El Español",
     "fecha": 1791651829.0,
     "link": "https://www.elespanol.com/mundo/20261010/trump-exige-cambio-liderazgo-ucrania-hora-nuevo-presidente/1003744416403_0.html",
     "resumen": "Más información: Trump anuncia un acuerdo con Putin para que Rusia inyecte \"de inmediato\" más de 300.000 toneladas de diésel al mercado"
-  },
-  {
-    "titulo": "José, tras dejar Madrid hace un año para afincarse en un pueblo del Bierzo: La idea es ir construyendo una vida cada vez más autosuficiente\"",
-    "medio": "HuffPost",
-    "fecha": 1791651802.0,
-    "link": "https://www.huffingtonpost.es/sociedad/jose-dejar-madridno-afincarse-pueblo-bierzo-aqui-he-descubierto-mas-capaz-pensaba-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Tiene 70 años, vive solo en el campo con la pensión mínima y bebe agua de lluvia desde 2012: \"Tengo más de lo que necesito\"",
-    "medio": "HuffPost",
-    "fecha": 1791651800.0,
-    "link": "https://www.huffingtonpost.es/sociedad/tiene-70nos-vive-campo-pension-minima-bebe-agua-lluvia-2012-tengo-mas-necesito-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Trump censura a Zelenski y pide \"un nuevo presidente\" para Ucrania",
-    "medio": "Europa Press",
-    "fecha": 1791651743.0,
-    "link": "https://www.europapress.es/internacional/noticia-trump-censura-zelenski-pide-nuevo-presidente-ucrania-20261010190223.html",
-    "resumen": "El presidente estadounidense, Donald Trump, ha cargado este sábado contra el presidente ucraniano, Volodimir Zelenski, y ha defendido que el país tenga \"un nuevo presidente\"."
-  },
-  {
-    "titulo": "IU celebra sus primarias para elegir candidato con Valero y Moreno como aspirantes",
-    "medio": "The Objective",
-    "fecha": 1791651713.0,
-    "link": "https://theobjective.com/espana/politica/2026-10-10/iu-celebra-primarias-valero-moreno/",
-    "resumen": "Izquierda Unida celebra desde este sábado sus primarias para elegir candidato a las elecciones del próximo 29 de noviembre, con el andaluz Toni Valero y el […]"
   },
   {
     "titulo": "Tiene dos toneladas de vaqueros y 4.000 cintas VHS en las paredes: parece un adosado más, pero esta casa está hecha de residuos",
@@ -371,20 +609,6 @@
     "resumen": "After years of warnings that the war in Ukraine could spiral into a full-on Russia-Europe conflagration, the conflict has reached a point where this is a real possibliity. It’s a prospect that threatens not just European lives but the entire globe."
   },
   {
-    "titulo": "Christa Pike recibe el alta en el hospital tras su ejecución fallida y regresa a prisión",
-    "medio": "El País",
-    "fecha": 1791651401.0,
-    "link": "https://elpais.com/us/2026-10-10/christa-pike-recibe-el-alta-en-el-hospital-y-es-trasladada-de-nuevo-a-prision.html",
-    "resumen": "Los abogados afirman en un comunicado que su clienta seguirá recibiendo cuidados médicos en la cárcel en Tennessee"
-  },
-  {
-    "titulo": "Decenas de heridos en el aeropuerto de Riad tras un presunto ataque con misil lanzado por los hutíes",
-    "medio": "El Mundo",
-    "fecha": 1791651151.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/10/6aca65c521efa0d7568b4582.html",
-    "resumen": "Testigos presenciales describen escenas de pánico en la terminal alcanzada por los rebeldes yemeníes Leer"
-  },
-  {
     "titulo": "La Guardia Civil libera a 25 mujeres explotadas sexualmente por una red criminal en Ibiza",
     "medio": "eldiario.es",
     "fecha": 1791650935.0,
@@ -392,116 +616,11 @@
     "resumen": "La organización captaba a jóvenes de entre 18 y 25 años con falsas ofertas de empleo en hostelería y manicura y las forzaba a saldar una supuesta deuda de 5.000 euros con servicios sexuales. Hay cuatro detenidos y se han intervenido cerca de 120.000 euros en efectivoDesarticulan por explotación laboral la empresa con más trabajadores en situación irregular de la historia de Balears La Guardia Civil ha liberado a 25 mujeres que eran obligadas a prostituirse por una organización criminal asentada en Eivissa y ha detenido a cuatro personas en una operación contra la trata de seres humanos con fines de explotación sexual. Los arrestados son presuntos autores de delitos de prostitución coactiva, tráfico de drogas y blanqueo de capitales, según ha informado este sábado el instituto armado. La operación, bautizada como Gecaroni, culminó el pasado 5 de octubre tras meses de investigación y fue desarrollada por agentes de Policía Judicial del Área de Delitos contra las Personas de la Guardia Civil en Illes Balears. La organización captaba a mujeres, principalmente venezolanas y de entre 18 y 25 años, procedentes de entornos especialmente vulnerables. Para conseguir que viajaran a España, les ofrecía falsas oportunidades laborales relacionadas con la hostelería o la manicura. Una vez en territorio nacional, miembros de la red las recogían en el aeropuerto y les retiraban parte de sus pertenencias y el dinero en efectivo que habían recibido en sus países de origen. Después, las trasladaban a inmuebles vinculados a la organización, donde les comunicaban que habían contraído una deuda de aproximadamente 5.000 euros que debían saldar mediante la prestación de servicios sexuales. Coacciones, vigilancia y miedo Según los investigadores, las mujeres estaban sometidas a un férreo control y debían permanecer disponibles para prestar esos servicios. La organización recurría a las coacciones y se aprovechaba de su situación administrativa irregular para infundirles temor y dificultar que acudieran a los servicios sanitarios, policiales o a los recursos asistenciales. Los agentes constataron la existencia de mecanismos de vigilancia directa y sistemas de videovigilancia destinados a controlar los movimientos de las víctimas. Los contactos con los clientes se realizaban a través de aplicaciones de mensajería. Además, las mujeres eran expuestas en determinados puntos de la zona de ocio de Platja d’en Bossa, desde donde también eran trasladadas a domicilios de clientes. La investigación permitió comprobar que la organización desarrollaba su actividad principalmente durante los meses de verano en Eivissa. Al finalizar la temporada estival, trasladaba parte de sus operaciones a otras zonas de la península. Intervenidos cerca de 120.000 euros Paralelamente a la explotación sexual, la organización obtenía ingresos de la venta de potenciadores sexuales y sustancias estupefacientes a los clientes. Los beneficios presuntamente obtenidos permitían a sus integrantes mantener un elevado nivel de vida, incluido el alquiler de viviendas de lujo y vehículos. Los investigadores también descubrieron la estructura económica de la red y la posible utilización de sociedades vinculadas a su responsable para blanquear los beneficios procedentes de las actividades ilícitas. Tras meses de pesquisas, la Guardia Civil desplegó un dispositivo que incluyó cuatro entradas y registros en domicilios vinculados a la organización en distintos puntos de Eivissa. Además de las cuatro detenciones y la liberación de las 25 mujeres, los agentes intervinieron cerca de 120.000 euros en efectivo, presuntamente procedentes de la explotación sexual, diferentes sustancias estupefacientes, numerosos dispositivos electrónicos y material relacionado con la vigilancia y la organización de la actividad criminal. La investigación ha sido tutelada por la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Eivissa. En el operativo participaron el Área de Delitos contra las Personas de la Unidad Orgánica de Policía Judicial de Illes Balears, el Equipo Territorial de Policía Judicial de Eivissa, el Equipo Zulu-Bravo de Eivissa, especializado en la investigación de agresiones sexuales, la Unidad Central Operativa (UCO), los Grupos de Reserva y Seguridad (GRS), la Unidad de Seguridad Ciudadana (USECIC) y el Servicio Cinológico de la Guardia Civil."
   },
   {
-    "titulo": "Seixas (20 años) se adjudica el Giro de Lombardía y establece un récord de precocidad en el último 'Monumento' de la temporada",
-    "medio": "El Mundo",
-    "fecha": 1791650442.0,
-    "link": "https://www.elmundo.es/deportes/ciclismo/2026/10/10/6aca573efdddff3b218b459d.html",
-    "resumen": "El nuevo fenómeno francés, al estilo Pogacar, se fugó a falta de 18 kilómetros de la meta. Enric Mas, espléndido, terminó segundo. Ciccone, tercero Leer"
-  },
-  {
-    "titulo": "Christa Pike, la mujer que sobrevivió a dos inyecciones letales, es dada de alta",
-    "medio": "eldiario.es",
-    "fecha": 1791650190.0,
-    "link": "https://www.eldiario.es/internacional/christa-pike-mujer-sobrevivio-inyecciones-letales-dada-alta_1_13577727.html",
-    "resumen": "La mujer ha regresado a la prisión de Nashville. Sus abogados avisan de que \"sufre un grave trauma psicológico\"Christa Pike, en el corredor de la muerte durante 30 años, sobrevive a su ejecución en Tennessee Christa Pike, la presa estadounidense que ha sobrevivido tras recibir dos inyecciones letales en Tennessee hace diez días, ha recibido el alta del hospital de Nashville donde se encontraba ingresada, informaron este sábado sus abogados el sábado. Sus letrados han indicado que la mujer ha sido trasladada de nuevo al Centro Debra K. Johnson de Nashville, principal presidio femenino en el estado de Tennessee. Su defensa aseguró en un comunicado que la mujer “está agradecida con los equipos de emergencia y su equipo médico por la atención recibida en estas circunstancias extraordinarias”. Pike, de 50 años, seguirá recibiendo atención médica en la prisión, donde se seguirá haciendo un seguimiento de su estado de salud. El pasado 30 de septiembre la mujer sobrevivió a dos inyecciones de pentobarbital, lo que obligó a suspender su ejecución y a ingresarla en un hospital, donde estuvo varios días inconsciente. Pike, condenada a muerte en 1996 por el asesinato de su compañera de estudios Colleen Slemmer, permanece en el corredor de la muerte después de que las autoridades interrumpieran su ejecución tras administrarle dos dosis de pentobarbital sin lograr que muriera. Los abogados de la reclusa, Randy Spivey, Kelly Gleason, Stephen Ferrell y Luke Ihnen, indicaron al medio TMZ que la terrible experiencia que ha vivido le ha dejado secuelas psicológicas: “Si bien su recuperación física ha sido notable, persisten dudas importantes sobre los efectos a largo plazo de lo que padeció”. “Christa está lidiando con el profundo trauma psicológico de haber sobrevivido a una ejecución fallida, lo que incluye el terror, el dolor y la incertidumbre de creer que estaba a punto de morir”, agregaron los letrados, según TMZ. Según sus abogados, Pike también presenta dificultades cognitivas, particularmente en cuanto a la memoria y la concentración. En una audiencia urgente celebrada el miércoles, Ihnen describió la gravedad de sus lesiones físicas, incluida la pérdida de movilidad en brazos y manos, las cuales, según afirman, están hinchadas “como si se hubiera inflado un guante quirúrgico”. Los abogados reiteraron su petición al gobernador Bill Lee para que conmute su pena de muerte por cadena perpetua sin posibilidad de libertad condicional. El jefe de Derechos Humanos de la ONU pide que no haya ningún nuevo intento de ejecutarla El alto comisionado de la ONU para los derechos humanos, Volker Türk, afirmó que el caso de Christa Pike pone de manifiesto la necesidad de abolir la pena de muerte, y pidió a las autoridades que “no lleven a cabo ningún otro intento de ejecución” de la condenada. “El sufrimiento prolongado físico y mental derivado de los múltiples intentos fallidos de ejecución es aborrecible y cruel, y siguen sin resolverse cuestiones fundamentales relativas al derecho a un juicio justo”, señaló este jueves Türk en su cuenta oficial en X. El jefe de derechos humanos de Naciones Unidas también manifestó su preocupación por el aumento de las ejecuciones en Estados Unidos y aseguró que la pena de muerte “no tiene cabida en ninguna sociedad”. El papa tacha de “inadmisible” la pena de muerte por atentar contra la dignidad El papa León XIV ha tachado este sábado de “inadmisible” la pena de muerte porque, según ha denunciado, atenta contra la dignidad de la persona y priva por completo a los condenados de la posibilidad de redimirse. “La pena de muerte es inadmisible porque atenta contra la inviolabilidad y la dignidad de la persona”, ha escrito el pontífice estadounidense en sus nueve perfiles de la red X, en español, inglés, italiano, francés, alemán, portugués, árabe, polaco y latín. Asimismo defendió que “el bien común puede protegerse y los requisitos de la justicia pueden salvaguardarse sin recurrir a la pena capital”. Esto porque, según explicó, “ya se han desarrollado sistemas penitenciarios eficaces que protegen a los ciudadanos y, al mismo tiempo, no privan por completo a los culpables de la posibilidad de redimirse”, dijo, añadiendo la etiqueta '#NoDeathPenalty'. El papa se sumó así a las iniciativas por el Día Mundial contra la Pena de Muerte, que se conmemora cada 10 de octubre."
-  },
-  {
-    "titulo": "Cada profesional tendrá un pasaporte actualizado de habilidades y credenciales",
-    "medio": "Expansión",
-    "fecha": 1791649920.0,
-    "link": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/10/09/6ac7c316e5fdea6f708b45a2.html",
-    "resumen": "Coursera no competirá contra la IA; la integrará para reinventar el aprendizaje online. Su nuevo CEO, Greg Hart, busca transformar la plataforma conectando las demandas laborales con microcredenciales personalizadas que superen las simples respuestas de los algoritmos. Leer"
-  },
-  {
-    "titulo": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
-    "medio": "La Vanguardia",
-    "fecha": 1791649802.0,
-    "link": "https://www.lavanguardia.com/politica/20261010/11656057/erc-rufian-apuran-negociacion-abierta-encauzada-candidatura-29-n.html",
-    "resumen": "Fuentes al corriente de la negociación no hablan todavía de acuerdo entre la dirección y su portavoz en el Congreso, pero sí que lo ven “más próximo” cuando quedan horas para tener los avales para ser candidato"
-  },
-  {
-    "titulo": "Detenido Rafael Amargo por agredir a un agente",
-    "medio": "The Objective",
-    "fecha": 1791649645.0,
-    "link": "https://theobjective.com/sociedad/2026-10-10/detenido-rafael-amargo-agredir-agente/",
-    "resumen": "El bailaor Rafael Amargo y su pareja han sido detenidos por la Policía Nacional esta mañana tras una pelea con un hombre que irrumpió de forma […]"
-  },
-  {
-    "titulo": "Ángel Ayora, un golfista bajo el objetivo y a la caza del Open de España",
-    "medio": "El País",
-    "fecha": 1791649642.0,
-    "link": "https://elpais.com/deportes/2026-10-10/angel-ayora-un-golfista-bajo-el-objetivo-y-a-la-caza-del-open-de-espana.html",
-    "resumen": "El malagueño, entre los mejores con -10, es grabado en vídeo por su entrenador, Juan Ochoa, durante cada ronda para estudiar y mejorar su juego"
-  },
-  {
-    "titulo": "Las playas de Barcelona vuelven a llenarse después de los últimos temporales",
-    "medio": "La Vanguardia",
-    "fecha": 1791649594.0,
-    "link": "https://www.lavanguardia.com/local/barcelona/20261010/11656063/playas-barcelona-vuelven-llenarse-ultimos-temporales.html",
-    "resumen": "Unas temperaturas muy amables propician unas estampas la mar de veraniegas"
-  },
-  {
-    "titulo": "Drago Canarias anuncia que concurrirá en solitario a las elecciones generales",
-    "medio": "eldiario.es",
-    "fecha": 1791649498.0,
-    "link": "https://www.eldiario.es/canariasahora/politica/drago-canarias-anuncia-concurrira-solitario-elecciones-generales_1_13577708.html",
-    "resumen": "Alberto Rodríguez y Héctor Morán encabezarán las listas de la formación por las provincias de Santa Cruz de Tenerife y Las Palmas, respectivamenteLa confluencia canaria de izquierdas está avanzada para las elecciones generales: “Tendrá una marca específica” Drago Canarias ha anunciado este sábado que concurrirá en solitario a las elecciones generales del próximo 29 de noviembre. Alberto Rodríguez y Héctor Morán encabezarán las listas de la formación por las provincias de Santa Cruz de Tenerife y Las Palmas, respectivamente, según un comunicado de prensa del partido tras la celebración de una reunión del Secretariado Nacional de Drago Canarias en La Oliva, Fuerteventura Drago ha anunciado que se trata de una apuesta por construir una alternativa política “soberana, canaria y progresista”, al margen de las organizaciones estatales. En la nota de prensa, la organización ha cargado duramente contra el PSOE y sus socios de coalición, a los que responsabiliza de no haber respondido a problemas como el acceso a la vivienda, la carestía de la vida y la pobreza. En particular, reprocha al Ejecutivo que no aprobara medidas para limitar la compra de vivienda con fines especulativos cuando tuvo mayoría parlamentaria y califica el adelanto electoral de “utilización torticera” para frenar la pérdida de apoyo en las encuestas. Drago también critica los tres años consecutivos sin Presupuestos Generales del Estado y el cambio de posición del Gobierno de Pedro Sánchez sobre el Sáhara Occidental en 2022, que considera perjudicial para Canarias. La formación sostiene que el adelanto electoral deja sin completar la tramitación de la proposición de ley para conceder la nacionalidad española a las personas saharauis nacidas bajo administración española, aprobada en el Congrescanario y pendiente del Senado. La organización vincula el crecimiento de la extrema derecha tanto a la falta de respuestas a los problemas cotidianos como a la «flagrante falta de autocrítica» de los partidos situados a la izquierda del PSOE. A su juicio, esa falta de reacción está llevando a parte de la ciudadanía a buscar respuestas en posiciones reaccionarias. Drago reivindica una candidatura propia para impulsar el “decrecimiento turístico”, diversificar la economía y limitar la compra especulativa de vivienda. También propone reclamar competencias en costas y aeropuertos, defender la soberanía de las aguas territoriales canarias y aprobar una Ley de Residencia. Alberto Rodríguez, concejal en el Ayuntamiento de La Laguna y exdiputado en el Congreso, encabezará la lista por Santa Cruz de Tenerife. Héctor Morán, responsable de Organización y Confederalidad de Drago Canarias y con experiencia en el Congreso y en el Ministerio de Trabajo y Economía Social, liderará la candidatura por Las Palmas."
-  },
-  {
-    "titulo": "Los hutíes atacan de nuevo el Aeropuerto de Riad",
-    "medio": "Europa Press",
-    "fecha": 1791649009.0,
-    "link": "https://www.europapress.es/internacional/noticia-huties-atacan-nuevo-aeropuerto-riad-20261010181649.html",
-    "resumen": "Las milicias hutíes han atacado este sábado el Aeropuerto Internacional Rey Jalid de Riad y habrían causado heridos, evacuación de parte de sus instalaciones y la cancelación de algunos vuelos."
-  },
-  {
-    "titulo": "El Cuti Romero da la victoria al Atlético ante un Alavés que se quedó con 10",
-    "medio": "El Mundo",
-    "fecha": 1791648874.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/10/6aca46e621efa0bd7b8b456e.html",
-    "resumen": "El argentino, con un soberbio cabezazo tras un no menos increíble pase con el exterior de Baena, rompe el empate en Mendizorroza tras los tantos de Grimaldo y Boyé Leer"
-  },
-  {
-    "titulo": "Russell se diluye; Verstappen se agiganta",
-    "medio": "El País",
-    "fecha": 1791648820.0,
-    "link": "https://elpais.com/deportes/formula-1/2026-10-10/russell-se-diluye-verstappen-se-agiganta.html",
-    "resumen": "El británico, que encaró este curso como favorito al título, se olvida prácticamente de él en Singapur, donde el holandés saldrá desde la ‘pole’"
-  },
-  {
-    "titulo": "Navi Pillay, un Nobel para el Derecho",
-    "medio": "El País",
-    "fecha": 1791648677.0,
-    "link": "https://elpais.com/opinion/2026-10-10/navi-pillay-un-nobel-para-el-derecho.html",
-    "resumen": "Solo existe una alternativa verdadera para organizar la vida en común: o nos gobierna la fuerza o nos gobierna la ley"
-  },
-  {
-    "titulo": "Christa Pike vuelve a prisión tras sobrevivir a un intento fallido de ejecución en Tennessee",
-    "medio": "El Mundo",
-    "fecha": 1791648401.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/10/6aca628fe9cf4a62308b4586.html",
-    "resumen": "La condenada a muerte, de 50 años, ha recibido el alta hospitalaria diez días después de que dos dosis de pentobarbital no lograran acabar con su vida durante una ejecución por inyección letal Leer"
-  },
-  {
     "titulo": "Christa Pike, la mujer que sobrevivió a dos inyecciones letales en EEUU, recibe el alta hospitalaria",
     "medio": "El Español",
     "fecha": 1791648317.0,
     "link": "https://www.elespanol.com/mundo/20261010/christa-pike-mujer-sobrevivio-inyecciones-letales-eeuu-recibe-alta-hospitalaria/1003744416366_0.html",
     "resumen": "La reclusa sobrevivió al intento de ejecución tras ser condenada por un crimen cometido en 1995.Más información: Christa Pike, la mujer que sobrevivió a una ejecución fallida en EEUU, se encuentra consciente y puede hablar"
-  },
-  {
-    "titulo": "Irán ha condenado a muerte a 106 detenidos desde las protestas de enero y ejecutado a 35",
-    "medio": "The Objective",
-    "fecha": 1791648131.0,
-    "link": "https://theobjective.com/internacional/2026-10-10/iran-protestas-enero/",
-    "resumen": "Irán ha condenado a muerte a 106 personas entre los detenidos tras las protestas políticas del pasado mes de enero, de las que ya ha ejecutado […]"
-  },
-  {
-    "titulo": "Palma prepara la sustitución de las calesas de caballos por carruajes eléctricos, pero cada uno cuesta 45.000 euros y lo paga el conductor: \"Ahora la mayoría no lo podría afrontar\"",
-    "medio": "HuffPost",
-    "fecha": 1791648121.0,
-    "link": "https://www.huffingtonpost.es/sociedad/palma-prepara-sustitucion-calesas-caballos-carruajes-electricos-cuesta-45000-euros-paga-conductor-ahora-mayoria-afrontar-f202610.html",
-    "resumen": ""
   },
   {
     "titulo": "Por qué faltan diez días en el calendario de tu móvil si viajas hasta octubre de 1582",
@@ -532,41 +651,6 @@
     "resumen": "Sin despreciar los otros cada vez me gustan más los museos pequeños y manejables y especializados en temas muy concretos. Mi más reciente descubrimiento en este campo ha sido el Museo del Neón de Varsovia. O quizás mejor el Museo de los letreros de neón de Varsovia;. Letreros de neón al estilo del archiconocido, al menos en España, letrero de Schweppes en la plaza de Callao en Madrid. Aunque con una vuelta comunista, lo que los hace especialmente peculiares. Como te cuentan nada más entrar el neón fue descubierto en 1898 por los químicos británicos William Ramsay y Morris Travers. Y aunque intentaron utilizarlo para iluminación doméstica nunca fue realmente práctico para eso. Sin embargo el ingeniero francés Georges Claude vendió un letrero de este tipo en 1913 a una peluquería en París y en pocos años terminaron extendiéndose por todo el mundo. Varsovia fue una de las ciudades en las que más lo petaron y entre las décadas de los 20 y los 30 del siglo XX llegó a haber decenas de letreros de neón de todos los tipos. Letreros que resultaron arrasados en su práctica totalidad, igual que la ciudad, en la Segunda Guerra Mundial. Pero –y aquí viene el giro de guión inesperado de este museo y de esta historia– las autoridades soviéticas del país decidieron a finales de la década de los 50 que querían recuperarlos como forma de dar luz y color a las ciudades. Aunque no a lo loco, por supuesto, no fuera a ser que se colara el capitalismo o algo parecido a través de ellos. Así que crearon la empresa estatal Reklama para gestionar su diseño, empresa en la que trabajaron algunos de los mejores diseñadores polacos. Seguir leyendo: El delicioso y muy interesante Museo del Neón de Varsovia, un lugar en el que se encuentran diseño, tecnología y política# Enlace permanente"
   },
   {
-    "titulo": "Toni Valero se perfila como referente de IU para Frente Amplio y solo tendrá un rival en las primarias internas",
-    "medio": "HuffPost",
-    "fecha": 1791647948.0,
-    "link": "https://www.huffingtonpost.es/politica/toni-valero-perfila-referente-iu-frente-amplio-tendra-rival-primarias-internas-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "El Orfeó Català abre en París la primera gira de la New York Philharmonic con Gustavo Dudamel",
-    "medio": "La Vanguardia",
-    "fecha": 1791647787.0,
-    "link": "https://www.lavanguardia.com/cultura/20261010/11656055/orfeo-catala-abre-paris-primera-gira-new-york-philharmonic-gustavo-dudamel.html",
-    "resumen": "La Philharmonie parisina ha acogido la gira este viernes y sábado, y el lunes viaja a L'Auditori de Barcelona"
-  },
-  {
-    "titulo": "Para Walmart, sustituir a humanos por robots es una batalla multimillonaria",
-    "medio": "El Mundo",
-    "fecha": 1791647758.0,
-    "link": "https://www.elmundo.es/economia/2026/10/10/6ac8f367fc6c83ce0b8b45a8.html",
-    "resumen": "Las máquinas programadas para clasificar mercancías en los almacenes tropiezan con dificultades al manejar cajas de cartón y pavos; el impulso hacia la automatización alcanza su \"máximo nivel de complejidad\" Leer"
-  },
-  {
-    "titulo": "Puente con precampaña, Nobel con justicia poética y otras imágenes del día",
-    "medio": "La Vanguardia",
-    "fecha": 1791647474.0,
-    "link": "https://www.lavanguardia.com/fotos/20261010/11655943/puente-precampana-nobel-justicia-poetica-imagenes-dia.html",
-    "resumen": "Los españoles se van de puente con las primeras imágenes de precampaña, mientras que el Nobel de la Paz y el recuerdo del 7-O devuelven la mirada hacia Gaza, ahora en precaria paz. Algo que no ocurre en Ucrania, golpeada implacablemente."
-  },
-  {
-    "titulo": "Portugal suspende provisionalmente y abre expediente a Cristiano Ronaldo",
-    "medio": "The Objective",
-    "fecha": 1791646909.0,
-    "link": "https://theobjective.com/deportes/futbol/2026-10-10/portugal-suspende-expediente-cristiano-ronaldo/",
-    "resumen": "La Federación Portuguesa de Fútbol anunció este sábado la suspensión provisional de Cristiano Ronaldo después de que la estrella de la selección abandonara la última convocatoria, […]"
-  },
-  {
     "titulo": "Las empresas de IA tienen tan claro que habrá una gran catástrofe en 2027 que ya preparan el día después",
     "medio": "Xataka",
     "fecha": 1791646225.0,
@@ -586,13 +670,6 @@
     "fecha": 1791645768.0,
     "link": "http://www.microsiervos.com/archivo/libros/memorandums-libros-raros-raros-raros-raaaros.html",
     "resumen": "En Read Rare hay 54 documentos que, como diría el Doctor Iglesias se pueden calificar de raros, raros, raros, raaaros… Algunos son porque son correos internos que quizá nunca debieron salir de las empresas; otros porque son libros viejos y descatalogados, casi imposibles de encontrar. Hay documentos y libros de la gente que construyó Apple, Intel, Google, Netflix y Facebook, entre otros: 29 memorándums&ast y otros documentos internos como hilos de correo, además de 25 libros. Se pueden leer gratis o tomar prestados de la Biblioteca del Archivo de Internet. Diez memos para abrir en pestañas y deleitarse The Apple Marketing Philosophy (1977). Mike Markkula (empleado #3 de Apple) explica cómo presentar y vender los primeros ordenadores de Apple. The YouTube Investment Memo (2005). Roelof Botha declarando cómo propuso a Sequoia invertir un millón de dólares en YouTube. The Instagram Emails (2012). Los correos de Zuckerberg y su director financiero antes de comprar Instagram. «Holy War with Google» (2010). El orden del día de Steve Jobs para una reunión secreta de Apple. Comienza con un «Para vuestra información. No reenviar.» The Internet Tidal Wave (1995). Bill Gates alerta a Microsoft de que Internet exige cambiar de rumbo. The Peanut Butter Manifesto (2006). Brad Garlinghouse denuncia que Yahoo dilapida sus recursos repartiéndolos en demasiados proyectos. Information Management: A Proposal (1989). Tim Berners-Lee presenta en el CERN la idea que daría lugar a la World Wide Web; su jefe anotó «una idea vaga, pero interesante». Netflix Culture Deck (2009). Reed Hastings expone la cultura de empresa que se convirtió en una estrategia empresarial de culto. We Have No Moat, And Neither Does OpenAI (2023). Un documento filtrado de Google sostiene que obtener una ventaja competitiva en IA es difícil de conseguir, pero también para OpenAI. The “Burning Platform” Memo (2011). Stephen Elop describe la crisis de Nokia con una metáfora incendiaria. Cinco libros sobre «cultura» corporativa Fumbling the Future (1988). Cómo Xerox inventó el ordenador personal y luego dejó escapar su futuro. Odissey: From Pepsi to Apple (1989). La historia de John Sculley, alto directivo de Pepsi al que Steve Jobs contrató como CEO de Apple y que acabó despidiendo al emblemático fundador de la compañía. Después de leerlo todo el mundo quiere ser un genio del márketing. Tandy’s Money Machine (1992). Irvin Farman y la historia empresarial de Tandy. Startup: A Silicon Valley Adventure (1995). Jerry Kaplan narra desde dentro una aventura emprendedora en Silicon Valley. Hard Drive (1992). James Wallace y Jim Erickson reconstruyen los primeros años de Microsoft, a las duras y las maduras. La colección es todo una pequeña gran fondo documental con la que asomarse a las decisiones que acabaron en productos, guerras corporativas o alguna que otra conjunción cósmica universal. Hay estrategias brillantes, advertencias que hoy parecerían obvias pero que nadie escuchó y reuniones que podrían pasar por historias de la época del Imperio Romano, pero con la épica de los microchips y las redes digitales. _____&ast No estaba yo muy seguro así que tuve que recurrir al diccionario. Y efectivamente, se puede escribir memorándum o memorando, castellanizado; sus plurales serían memorandos o memorándums. La academia prefiere la versión castellanizada, pero yo prefiero la otra. Relacionados: El «archivo secreto» de Google y sus páginas antiguas Steve Ballmer lo tiene claro con Google # Enlace permanente"
-  },
-  {
-    "titulo": "Podemos acusa al sistema de «matar» con los desahucios y la precariedad",
-    "medio": "The Objective",
-    "fecha": 1791645596.0,
-    "link": "https://theobjective.com/espana/politica/2026-10-10/podemos-acusa-al-sistema-de-matar-con-los-desahucios-y-la-precariedad/",
-    "resumen": "La secretaria política de Podemos, Irene Montero, ha acusado al sistema económico de «matar» a través de los desahucios, la precariedad laboral y las dificultades para […]"
   },
   {
     "titulo": "En 1945, EEUU gastó una fortuna intentando crear un \"superperro\": 500 cachorros y 13 años después descubrieron el problema",
@@ -623,11 +700,11 @@
     "resumen": "Dormir entre 7 y 8 horas es importante. Aunque no todos lo hagamos, es algo que tenemos bastante asumido. Aun así, no dejan de sorprendernos las nuevas consecuencias que se van descubriendo que podría acarrear descansar durante menos tiempo. Por ejemplo, según un estudio reciente, dormir poco podría hacernos engordar, con todo lo que eso conlleva. Solo seis semanas. En este estudio participaron 95 personas con riesgo cardiometabólico elevado, que aseguraron dormir normalmente más de 7 horas. Durante seis semanas, algunos tuvieron que acostarse 90 minutos más tarde. Equivaldría más o menos a 80 minutos menos de sueño. Después, durante otras seis semanas, volvieron a su rutina de sueño habitual. Otros hicieron lo mismo, pero en orden inverso: primero el sueño adecuado y después el restringido. A lo largo de las 12 semanas que duró el estudio se analizaron tanto su sueño como su actividad mediante pulseras. Además, se tomaron datos de su peso, la circunferencia de la cintura, la composición corporal y los niveles de hormonas asociadas al apetito. Al comparar todos estos datos, se vio que esas seis semanas fueron suficientes para alterar su peso. Medio kilo. De media, los participantes ganaron una libra de peso, equivalente más o menos a medio kilo. Esto puede parecernos poco. Sin embargo, los autores del estudio recuerdan que solo se hizo un análisis de seis semanas. Si lo extrapolamos a un año entero, la ganancia de peso puede ser considerable. Lógicamente no será algo exacto, pero en las 52 semanas que tiene un año serían unos 4 kilos. Un estudio más realista. En realidad, este no es el primer estudio que se ha llevado a cabo para estudiar cómo afecta dormir poco a la masa corporal. Sin embargo, en estudios previos se habían hecho restricciones muy drásticas del sueño. Normalmente, los participantes se despertaban tras 4 horas durmiendo. Esto es algo que, en nuestro día a día, no solemos mantener en el tiempo. Iríamos arrastrándonos por la vida. En cambio, dormir 5 o 6 horas es algo que muchas personas sí que mantienen de forma crónica. Por eso se decidió analizar cómo afecta al peso esa restricción más moderada del descanso. En Xataka Luis de la Fuente no para de acumular títulos y luce como alguien con 20 años menos, pero la ciencia dice que no deberías imitar sus hábitos También afecta al sedentarismo. Algo curioso que se vio en este estudio es que las personas obligadas a dormir menos fueron también más sedentarias durante su día. Incluso si se descontaban las horas extras que pasaban despiertos, su sedentarismo aumentó una media de 17 minutos al día. De nuevo puede parecer poco, pero se vio en un periodo corto de tiempo y al final todo suma. Enfermedades asociadas. El aumento de peso y sedentarismo propician la obesidad y la aparición de enfermedades como la diabetes tipo 2 o las afecciones cardíacas. Por eso, dormir bien es importante por causas multifactoriales. Todo está relacionado. Aún no se saben los motivos. A pesar de que las consecuencias son bastante llamativas, estos científicos no saben cuáles son las causas de esta relación. Aunque en el estudio se midieron algunos parámetros como las hormonas, no se conoce el mecanismo completo. Sí que es cierto que hay investigaciones anteriores en las que se ha visto que dormir poco puede aumentar la resistencia a la insulina, entre otros factores que también se relacionan con la obesidad y las patologías del corazón. Sin embargo, de nuevo, no sabemos qué relación hay entre el sueño y esa resistencia a la insulina. Todo esto debe seguir estudiándose, especialmente en población general, no solo en personas que ya tienen cierto riesgo cardiometabólico. Mientras tanto, recuerda que dormir bien es importante por muchos motivos. Lo más evidente es que nos ayuda a estar más descansados durante el día, pero debemos prestar atención a todo lo demás. Imágenes |Magnific En Xataka | Pensábamos que apagar el hambre con Ozempic era el remedio definitivo contra la obesidad. Hasta que nos fijamos en el músculo - La noticia Dormir 80 minutos menos durante seis semanas nos hace engordar, según un nuevo estudio fue publicada originalmente en Xataka por Azucena Martín ."
   },
   {
-    "titulo": "Irlanda propone recortar un 8% el presupuesto de la UE para 2028-2034",
-    "medio": "Expansión",
-    "fecha": 1791641294.0,
-    "link": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html",
-    "resumen": "Países del norte de la Unión Europea (UE) han considerado insuficiente el recorte del 8 % al presupuesto europeo para el período 2028-2034 planteado este sábado por la presidencia rotatoria, que este semestre ostenta Irlanda, y pidieron ir \"más allá\" para alcanzar una propuesta \"más realista\". Leer"
+    "titulo": "Mudarme a Canarias cambió la relación con mi cuerpo: verme en bikini 24/7 me hizo romper con mis complejos",
+    "medio": "Trendencias",
+    "fecha": 1791640827.0,
+    "link": "https://www.trendencias.com/body-positive/mudarme-a-canarias-cambio-relacion-mi-cuerpo-verme-bikini-24-7-me-hizo-romper-mis-complejos",
+    "resumen": "Hace cinco años me mudé a Fuerteventura con tres décadas de complejos corporales a mis espaldas. Entre ellos, uno especialmente persistente: mi \"culo gordo de centauro\", como solía repetir a diario. Por aquel entonces, la idea de escoger bikini implicaba que la braga fuera ancha a lo Bridget Jones, para esconder dentro todo lo que me avergonzaba. Hoy, en cambio, adoro los tangas, las foto-culo en la playa y los vestidos ajustados. Mi cuerpo no ha cambiado, ha cambiado mi manera de mirarlo y el entorno en que lo hago. La maldición de las mujeres de los 90s Una de las últimas fotos mías sin complejos ni conciencia de que había \"cuerpos feos y cuerpos bonitos\". Ay, qué tiempos aquellos. Crecí en el Madrid de los 90s y, como tantas mujeres de mi generación, la delgadez era el sinónimo máximo de belleza. No hablo de estar sana, fuerte o en forma. Hablo de la delgadez extrema, de cuanto más, mejor. De modelos como perchas a lo Kate Moss, del heroin-chic, de pantalones de tiro bajo que no perdonan y de una cultura de la dieta que saltaba de las revistas a mi propia casa. Recuerdo perfectamente que un chico que me gustaba en la playa le dijo a una amiga mía que yo tenía el culo gordo. Han pasado casi veinte años y todavía oigo aquel comentario. También recuerdo que otro me preguntó si yo era Ronaldinho, porque tenía piernas de futbolista. Hoy probablemente le respondería que gracias por apreciar mis piernas duras y atléticas, pero por aquel entonces me dejó destrozada. Es curioso que los dos comentarios que más se han quedado conmigo vinieran de hombres y que les diera semejante autoridad para decidir qué partes de mi cuerpo eran un problema. Pero, qué os voy a contar, ser heterosexual y querer gustar al género masculino es la maldición definitiva. Con este caldo de cultivo que invita a un TCA como la copa de un pino decidí odiar mis curvas. No fue algo consciente, pero en algún momento aprendí que mi culo, mis muslos y mis caderas debían ser disimulados o, aun mejor, corregidos. Por supuesto, el bikini era mi archienemigo, el mayor reto a la hora de esconder todas esas cosas que, sinceramente, nunca debieron ser escondidas. Llegué a Canarias con mis bikinis de braga ancha y descubrí otro mundoEn 2021 me mudé a Fuerteventura y, de repente, una prenda reservada para las vacaciones se convirtió en mi uniforme habitual, al menos hasta bien entrado noviembre. Por supuesto, el bikini hay que cambiárselo cuando está mojado para no coger una infección de orina y mis amigas lo hacían en cualquier sitio. Se quitaban todo en la playa, junto al coche y seguían hablando con el resto sin importar quien estuviera alrededor. Cuando lo mencioné con asombro, ellas encontraron rarísimo que yo no hubiera visto desnudas a mis amigas de Madrid. \"Si no os habéis visto las tetas no sois amigas\" decían con sorna. Otra broma (que no era tan broma) es que podían reconocer a una peninsular por su bikini: \"si no lleva tanga es de Península\". Sí, soy. O sí, era. Yo, había aterrizado con mi colección de bragas herméticas y me veía enfrentada a sus tangas diminutos, a su naturalidad y a ese nudismo normalizado. De pronto, estaba rodeada de cuerpos desnudos. Cuerpos jóvenes, cuerpos mayores, delgados, con cicatrices, con barriga, con poco pecho. Simplemente, cuerpos que no buscaban hacer check en requisitos ajenos. Ver cuerpos reales todos los días hace que los cánones de belleza pierdan sentidoEn una ciudad como Madrid puedes pasarte toda la vida sin ver el cuerpo desnudo de otra mujer. Evidentemente, la gente va vestida por la calle, por lo que todas las referencias de bikini o ropa interior que consumimos son publicidad, revistas y redes sociales. Y esas imágenes no son precisamente una representación fiel y honesta de la realidad. En la isla, esto cambia por completo. Estoy expuesta a cuerpos reales en playas, en calas, en el propio mentidero del pueblo e incluso en las terrazas de los bares, calles y aceras. Esto me ha hecho descubrir que ese canon de belleza con el que he crecido es inalcanzable para la mayoría de mujeres. Es más, ni siquiera tiene sentido, porque aquí esas curvas y culos generosos son motivo de admiración. Y ahora no lo digo por un comentario masculino, fue una amiga la que me dijo \"tía, qué culazo\" y me rompió todos los moldes que yo tenía en la cabeza. Por supuesto, este cambio no fue inmediato. No me desperté una mañana \"curada de mis complejos\" y todos habían desaparecido. Lentamente, empecé a mirarme de otra manera y a perder esas concepciones sexistas inculcadas que clasificaban los cuerpos como bonitos o feos. Dejé de compararme para encontrar la capacidad de admirar sin desear y creo que esa ha sido una de las liberaciones más grandes de todas. No es solo vivir en bikini, es vivir anclada a la playa En Fuerteventura no solo paso mucho tiempo en bikini, también tengo una vida que gira en torno al mar. Los planes se alejan de los bares o de los centros comerciales y se sustituyen por puestas de sol en la playa, unas cerves en la orilla y un bañito en la marea. Esto hace que los códigos estéticos que traje de Madrid, como arreglarme y maquillarme para salir, ya no tengan espacio en mi vida. ¿Quién se pone rimmel si quizá cuadra un chapuzón? Por supuesto que hay ocasiones especiales, como citas, cenas o verbenas, donde sigo disfrutando de arreglarme. La diferencia es que ya no siento que tenga que hacerlo. Así que, en general, salgo de casa sin maquillar, con el pelo revuelto por el viento y ropa que me haga sentir cómoda. Y sí, paseo a mi perro y voy al super en pijama y no pasa nada: todo el pueblo lo hace. No he aprendido a tener un cuerpo perfecto, sino a dejar de exigírmeloSería maravilloso poder decir que ya no tengo ningún complejo, que me adoro todos los días del año y que jamás vuelvo a mirarme al espejo con ojos críticos. Pero sería una mentira y gorda. Quien esté libre de pecado, que tire la primera piedra. Y quien nunca se haya sentido un monstruo durante los días previos a la menstruación, que me explique su secreto. Sigo teniendo inseguridades. Hay días en los que no me gusta lo que veo, prendas que no me favorecen como esperaba y momentos en los que reaparecen pensamientos que creía superados. La diferencia es que ahora esos pensamientos pesan mucho menos y ya no condicionan mi manera de vestirme, de comer o de cuidar mi cuerpo. Ya no quiero castigarlo. Ahora hago deporte porque quiero estar fuerte, porque me gusta sentirme bien y porque me preocupa mi salud. Como lo que me apetece y he descubierto que, la mayoría de las veces, lo que me apetece es comer de forma saludable y abundante. Pues que así sea. Este cambio tiene sus sombras: el pasado pesa mucho A veces pienso en aquella chica que buscaba bikinis de braga ancha, que se avergonzaba de sus piernas y que permitió que los comentarios de dos chicos condicionaran durante años la manera en la que se veía a sí misma. Y me entra un coraje y una rabia por todo el tiempo que pasó preocupándose por encajar. Si pudiera decirle algo, le diría que no se creyera todo lo que escucha, que disfrutara de sus curvas, que se pusiera ese vestido ajustado y que dejara de esconder un culo que, veinte años después, iba a descubrir que le encantaba. De hecho, sigo teniendo prácticamente la misma talla, las mismas caderas, los mismos muslos y el mismo trasero que cuando vivía en Madrid. Mi cuerpo no ha cambiado, y mi cabeza ya no necesita que lo haga. Fotos | @pepatatas. En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos. En Espinof | Willem Dafoe, a sus 71 años: \"Nunca soy más feliz que lavando los platos, limpiando el estiércol de los animales o haciendo tareas sencillas\". En Xataka | En los sótanos de las casas europeas funciona un motor patentado en 1816 por un pastor escocés para evitar que los obreros murieran quemados. - La noticia Mudarme a Canarias cambió la relación con mi cuerpo: verme en bikini 24/7 me hizo romper con mis complejos fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
     "titulo": "Si la pregunta es si África tuvo un \"rascacielos\" hace 2.800 años, la respuesta de las matemáticas es que, técnicamente, sí",
@@ -635,13 +712,6 @@
     "fecha": 1791640827.0,
     "link": "https://www.xataka.com/magnet/pregunta-africa-tuvo-rascacielos-hace-2-800-anos-respuesta-matematicas-que-tecnicamente",
     "resumen": "Cuando pensamos en rascacielos, es culturalmente inevitable asociarlos al Nueva York y Chicago de finales del siglo XIX y principios del XX con toda la razón del mundo, pero puede que existieran antes, muchísimo antes. Vamos, casi 3000 años antes y en un sitio a priori bastante insospechado, o esa es la conclusión a la que acaba de llegar un estudio realizado en Etiopía. ¿El primer rascacielos africano? Allá por el año 800 a. C., en Yeha, en la región de Tigray en el norte del mencionado país africano se levantó un palacio llamado Grat Be'al Gibri. Hoy está en ruinas, reducido a parte de la planta baja y poco más, como puedes ver en la imagen que ilustra este artículo. Tenía una planta de 60 metros de ancho por 60 metros de ancho y por aquel entonces, era el mayor edificio de este tipo conocido en el sur de Arabia y África oriental de la época La pregunta del millón es: ¿qué altura tenía el templo? Un equipo multidisciplinar alemán se propuso resolver esa pregunta, así que se pusieron manos a la obra. La respuesta: en el peor de los casos, entre 16 y 19. Ojo, eso no quiere decir que las tuviera, solo que sus muros serían capaces de soportarlas. Por qué importa. Hasta ahora, la altura de este tipo de edificios derruidos se deducía a partir de textos y pinturas, porque no había un análisis estructural que diera más pistas. Así, el historiador yemení al-Hamdānī (siglo X d. C.) habla de un palacio de 20 pisos en Yemen, y hay pinturas rupestres de Arabia del Sur que muestran palacios con al menos nueve. El estudio propone además que quienes diseñaban y construían este tipo de edificios sabían lo que hacían, ya que los esfuerzos se reparten de forma moderadamente equilibrada entre los muros, lo que denota experiencia y conocimiento detrás. A prueba de milenios (y metros). El estudio de este yacimiento tiene más de un siglo de historia: comenzó con la Expedición Alemana a Aksum en 1906, siguió con excavaciones etíopo-francesas en 1971-73 y continúa desde 2009 con un proyecto etíopo-alemán financiado por la Fundación Alemana de Investigación (DFG). Los muros se hicieron con piedra, barro y vigas de madera, una técnica muy común hace unos 3.000 años en el sur de Arabia y el noreste de África, y que también se usaba en Grecia y Asia Menor desde la Edad del Bronce. En Xataka Uno de los mayores y más extraños aeropuertos del mundo no va a estar ni en Dubái ni en UAE: va estar en Etiopía Como los rascacielos actuales (los de madera). Entre los trucos para su durabilidad y longevidad, para las vigas emplearon olivo africano y Cordia africana, resistente a las termitas (pero no al fuego). Entre las piezas más pesadas hay pilares monolíticos de arenisca de hasta 20 toneladas. Y pese a ser una construcción milenaria, la Universidad Técnica de Brandeburgo Cottbus-Senftenberg (BTU) compara su técnica con las construcciones híbridas de madera que hoy se proyectan en altura en ciudades como Sídney, Hamburgo o Berlín. Cómo lo han calculado. Para llegar a esa conclusión, recrearon con un modelo tridimensional dos trozos de muro: una esquina y una puerta. Después, con software de modelado y análisis por elementos finitos, calcularon cuánto peso podía soportar, así que fueron añadiendo kilos al modelo hasta que el muro fallara. Con valores medios, los muros habrían aguantado entre 48 y 56 plantas. En el peor de los casos, entre 16 y 19: 16 en el tramo de esquina y unas 19 en el de la puerta. Como curiosidad, la madera influyó muy poco: lo primero que cedía era el barro. Llegaron a una conclusión llamativa: los muros tenían capacidad de sobra, por lo que creen que solo algo excepcional pudo derrumbar el edificio. Lo más probable es que fuera el gran incendio que lo destruyó. En Xataka | Una cueva remota de África ha revelado algo sobre los humanos de hace 200.000 años: ya cambiaban la ropa de sus camas En Xataka | Pensábamos que el ser humano empezó a caminar en África. Este fósil de 7,2 millones de años dice lo contrario Portada | A.Savin - La noticia Si la pregunta es si África tuvo un \"rascacielos\" hace 2.800 años, la respuesta de las matemáticas es que, técnicamente, sí fue publicada originalmente en Xataka por Eva R. de Luis ."
-  },
-  {
-    "titulo": "Mudarme a Canarias cambió la relación con mi cuerpo: verme en bikini 24/7 me hizo romper con mis complejos",
-    "medio": "Trendencias",
-    "fecha": 1791640827.0,
-    "link": "https://www.trendencias.com/body-positive/mudarme-a-canarias-cambio-relacion-mi-cuerpo-verme-bikini-24-7-me-hizo-romper-mis-complejos",
-    "resumen": "Hace cinco años me mudé a Fuerteventura con tres décadas de complejos corporales a mis espaldas. Entre ellos, uno especialmente persistente: mi \"culo gordo de centauro\", como solía repetir a diario. Por aquel entonces, la idea de escoger bikini implicaba que la braga fuera ancha a lo Bridget Jones, para esconder dentro todo lo que me avergonzaba. Hoy, en cambio, adoro los tangas, las foto-culo en la playa y los vestidos ajustados. Mi cuerpo no ha cambiado, ha cambiado mi manera de mirarlo y el entorno en que lo hago. La maldición de las mujeres de los 90s Una de las últimas fotos mías sin complejos ni conciencia de que había \"cuerpos feos y cuerpos bonitos\". Ay, qué tiempos aquellos. Crecí en el Madrid de los 90s y, como tantas mujeres de mi generación, la delgadez era el sinónimo máximo de belleza. No hablo de estar sana, fuerte o en forma. Hablo de la delgadez extrema, de cuanto más, mejor. De modelos como perchas a lo Kate Moss, del heroin-chic, de pantalones de tiro bajo que no perdonan y de una cultura de la dieta que saltaba de las revistas a mi propia casa. Recuerdo perfectamente que un chico que me gustaba en la playa le dijo a una amiga mía que yo tenía el culo gordo. Han pasado casi veinte años y todavía oigo aquel comentario. También recuerdo que otro me preguntó si yo era Ronaldinho, porque tenía piernas de futbolista. Hoy probablemente le respondería que gracias por apreciar mis piernas duras y atléticas, pero por aquel entonces me dejó destrozada. Es curioso que los dos comentarios que más se han quedado conmigo vinieran de hombres y que les diera semejante autoridad para decidir qué partes de mi cuerpo eran un problema. Pero, qué os voy a contar, ser heterosexual y querer gustar al género masculino es la maldición definitiva. Con este caldo de cultivo que invita a un TCA como la copa de un pino decidí odiar mis curvas. No fue algo consciente, pero en algún momento aprendí que mi culo, mis muslos y mis caderas debían ser disimulados o, aun mejor, corregidos. Por supuesto, el bikini era mi archienemigo, el mayor reto a la hora de esconder todas esas cosas que, sinceramente, nunca debieron ser escondidas. Llegué a Canarias con mis bikinis de braga ancha y descubrí otro mundoEn 2021 me mudé a Fuerteventura y, de repente, una prenda reservada para las vacaciones se convirtió en mi uniforme habitual, al menos hasta bien entrado noviembre. Por supuesto, el bikini hay que cambiárselo cuando está mojado para no coger una infección de orina y mis amigas lo hacían en cualquier sitio. Se quitaban todo en la playa, junto al coche y seguían hablando con el resto sin importar quien estuviera alrededor. Cuando lo mencioné con asombro, ellas encontraron rarísimo que yo no hubiera visto desnudas a mis amigas de Madrid. \"Si no os habéis visto las tetas no sois amigas\" decían con sorna. Otra broma (que no era tan broma) es que podían reconocer a una peninsular por su bikini: \"si no lleva tanga es de Península\". Sí, soy. O sí, era. Yo, había aterrizado con mi colección de bragas herméticas y me veía enfrentada a sus tangas diminutos, a su naturalidad y a ese nudismo normalizado. De pronto, estaba rodeada de cuerpos desnudos. Cuerpos jóvenes, cuerpos mayores, delgados, con cicatrices, con barriga, con poco pecho. Simplemente, cuerpos que no buscaban hacer check en requisitos ajenos. Ver cuerpos reales todos los días hace que los cánones de belleza pierdan sentidoEn una ciudad como Madrid puedes pasarte toda la vida sin ver el cuerpo desnudo de otra mujer. Evidentemente, la gente va vestida por la calle, por lo que todas las referencias de bikini o ropa interior que consumimos son publicidad, revistas y redes sociales. Y esas imágenes no son precisamente una representación fiel y honesta de la realidad. En la isla, esto cambia por completo. Estoy expuesta a cuerpos reales en playas, en calas, en el propio mentidero del pueblo e incluso en las terrazas de los bares, calles y aceras. Esto me ha hecho descubrir que ese canon de belleza con el que he crecido es inalcanzable para la mayoría de mujeres. Es más, ni siquiera tiene sentido, porque aquí esas curvas y culos generosos son motivo de admiración. Y ahora no lo digo por un comentario masculino, fue una amiga la que me dijo \"tía, qué culazo\" y me rompió todos los moldes que yo tenía en la cabeza. Por supuesto, este cambio no fue inmediato. No me desperté una mañana \"curada de mis complejos\" y todos habían desaparecido. Lentamente, empecé a mirarme de otra manera y a perder esas concepciones sexistas inculcadas que clasificaban los cuerpos como bonitos o feos. Dejé de compararme para encontrar la capacidad de admirar sin desear y creo que esa ha sido una de las liberaciones más grandes de todas. No es solo vivir en bikini, es vivir anclada a la playa En Fuerteventura no solo paso mucho tiempo en bikini, también tengo una vida que gira en torno al mar. Los planes se alejan de los bares o de los centros comerciales y se sustituyen por puestas de sol en la playa, unas cerves en la orilla y un bañito en la marea. Esto hace que los códigos estéticos que traje de Madrid, como arreglarme y maquillarme para salir, ya no tengan espacio en mi vida. ¿Quién se pone rimmel si quizá cuadra un chapuzón? Por supuesto que hay ocasiones especiales, como citas, cenas o verbenas, donde sigo disfrutando de arreglarme. La diferencia es que ya no siento que tenga que hacerlo. Así que, en general, salgo de casa sin maquillar, con el pelo revuelto por el viento y ropa que me haga sentir cómoda. Y sí, paseo a mi perro y voy al super en pijama y no pasa nada: todo el pueblo lo hace. No he aprendido a tener un cuerpo perfecto, sino a dejar de exigírmeloSería maravilloso poder decir que ya no tengo ningún complejo, que me adoro todos los días del año y que jamás vuelvo a mirarme al espejo con ojos críticos. Pero sería una mentira y gorda. Quien esté libre de pecado, que tire la primera piedra. Y quien nunca se haya sentido un monstruo durante los días previos a la menstruación, que me explique su secreto. Sigo teniendo inseguridades. Hay días en los que no me gusta lo que veo, prendas que no me favorecen como esperaba y momentos en los que reaparecen pensamientos que creía superados. La diferencia es que ahora esos pensamientos pesan mucho menos y ya no condicionan mi manera de vestirme, de comer o de cuidar mi cuerpo. Ya no quiero castigarlo. Ahora hago deporte porque quiero estar fuerte, porque me gusta sentirme bien y porque me preocupa mi salud. Como lo que me apetece y he descubierto que, la mayoría de las veces, lo que me apetece es comer de forma saludable y abundante. Pues que así sea. Este cambio tiene sus sombras: el pasado pesa mucho A veces pienso en aquella chica que buscaba bikinis de braga ancha, que se avergonzaba de sus piernas y que permitió que los comentarios de dos chicos condicionaran durante años la manera en la que se veía a sí misma. Y me entra un coraje y una rabia por todo el tiempo que pasó preocupándose por encajar. Si pudiera decirle algo, le diría que no se creyera todo lo que escucha, que disfrutara de sus curvas, que se pusiera ese vestido ajustado y que dejara de esconder un culo que, veinte años después, iba a descubrir que le encantaba. De hecho, sigo teniendo prácticamente la misma talla, las mismas caderas, los mismos muslos y el mismo trasero que cuando vivía en Madrid. Mi cuerpo no ha cambiado, y mi cabeza ya no necesita que lo haga. Fotos | @pepatatas. En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos. En Espinof | Willem Dafoe, a sus 71 años: \"Nunca soy más feliz que lavando los platos, limpiando el estiércol de los animales o haciendo tareas sencillas\". En Xataka | En los sótanos de las casas europeas funciona un motor patentado en 1816 por un pastor escocés para evitar que los obreros murieran quemados. - La noticia Mudarme a Canarias cambió la relación con mi cuerpo: verme en bikini 24/7 me hizo romper con mis complejos fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
     "titulo": "The Gospel According to J. D. Vance",
@@ -672,53 +742,11 @@
     "resumen": "It’s been 100 years since the opening of Walter Gropius’s Bauhaus building in Dessau, but the Alternative für Deutschland wants to cut funding from centenary events. The winner of recent state elections, the far-right party labels Bauhaus un-German."
   },
   {
-    "titulo": "Portugal expedienta a Cristiano Ronaldo: \"suspensión preventiva\" y un posible castigo de hasta 6 meses sin jugar",
-    "medio": "El Español",
-    "fecha": 1791636385.0,
-    "link": "https://www.elespanol.com/deportes/futbol/20261010/portugal-expedienta-cristiano-ronaldo-suspension-preventiva-posible-castigo-meses-sin-jugar/1003744416288_0.html",
-    "resumen": "La Federación abre un procedimiento urgente por su salida de la concentración tras el conflicto con Jorge Jesus; la sanción definitiva sigue pendiente.Más información: Cristiano Ronaldo se sincera tras el desencuentro con Jorge Jesus: perdón, promesas rotas y la intención de seguir con Portugal"
-  },
-  {
-    "titulo": "Sánchez hace de Maricarmen su emblema de campaña y recurre a militantes de toda Andalucía para llenar Dos Hermanas",
-    "medio": "El Español",
-    "fecha": 1791636295.0,
-    "link": "https://www.elespanol.com/espana/20261010/sanchez-hace-maricarmen-emblema-campana-recurre-militantes-toda-andalucia-llenar-hermanas/1003744416157_0.html",
-    "resumen": "Afirma que el PP \"mete miedo\" con el voto por correo porque \"prefiere urnas vacías para que ganen los que mueven los hilos\".Se reivindica como \"perro sin amo\" cuando la oposición \"está con la fábula de Pedro y el lobo; el lobo son ellos\".Más información: Un testigo del presunto fraude del voto por correo en Sevilla, ante la jueza: \"No he votado nunca y esa firma no es mía\""
-  },
-  {
     "titulo": "Cube Type, un generador de imágenes con tipografía isométrica para jugar con palabras en bloques",
     "medio": "Microsiervos",
     "fecha": 1791636018.0,
     "link": "http://www.microsiervos.com/archivo/arte-y-diseno/cube-type-generador-imagenes-tipografia-isometrica-bloques.html",
     "resumen": "Cube Type es una pequeña web interactiva en la que juguetear con palabras en bloques de letras, como si alguien hubiese construido una tipografía con cubos y mucha paciencia. Brilla por su simplicidad y por el encanto de las formas isométricas. Basta con escribir un texto para verlo transformado en una composición cuadriculada: los cubos crecen según haga falta; las líneas se ajustan y se puede decidir dónde cortar los textos. Una manera estupenda de poner incluso algo tan simple como «HOLA» con elegancia. El editor ofrece controles para cambiar la composición y el aspecto: ajustar la perspectiva, el espaciado, añadir sombra, dejar cubos vacíos o incluso formar escaleras. También permite elegir entre una pequeña variedad de paleta de colores y recolocar todo el conjunto. Hay botón para deshacer, por si aquello acaba pareciendo un mensaje extraterrestre tras manipularlo demasiado. El resultado se puede exportar y compartir como PNG, MP4 o GIF. Sirve para preparar rótulos, títulos o pequeños experimentos gráficos sin tener que instalar nada ni abrir un programa de diseño. Es una herramienta gratuita y directa, como dios manda: escribes, mueves los controles y el texto queda convertido en una pequeña nueva obra medio de diseño, medio arquitectónica, medio juguete infantil. Relacionados: Brik Font: Lego y tipografía en un experimento de diseño Un conversor de texto a ASCII Art con unos pocos clics ASCII Play, un laboratorio de gráficos animados con caracteres ASCII ASCII Art Paint y el encanto de dibujar con caracteres ASCII 10 recursos para introducirse en el arte isométrico pixelado Rooms.xyz, un juego para crear habitaciones isométricas Type Anything: una forma simple de maquetar texto para la web Haikei: generador de diseños y patrones geométricos vectoriales # Enlace permanente"
-  },
-  {
-    "titulo": "Miriam González (Democracia21) propone bajar los impuestos de vivienda a los menores de 35 años",
-    "medio": "Expansión",
-    "fecha": 1791635895.0,
-    "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html",
-    "resumen": "Miriam González, la abogada que lidera el nuevo partido Democracia21, que se ha presentado este sábado en Madrid, ha propuesto rebajar todos los impuestos de vivienda para los menores de 35 años, para evitar así que el Estado se enriquezca con sus ciudadanos. Leer"
-  },
-  {
-    "titulo": "Las protestas en Vallecas suspenden el Rayo - Athletic: aviones de papel y pelotas de goma al grito de \"Presa, vete ya\"",
-    "medio": "El Español",
-    "fecha": 1791635888.0,
-    "link": "https://www.elespanol.com/deportes/futbol/20261010/aviones-papel-pelotas-goma-grito-presa-vete-aficion-rayo-boicotea-regreso-liga-vallecas/1003744416269_0.html",
-    "resumen": "El primer partido liguero del curso en el estadio del sureste de Madrid no pasó de la primera mitad por el lanzamiento de objetos.Más información: Vandalizan el palco del estadio de Vallecas: asientos destrozados y pintadas de \"Presa, vete ya\""
-  },
-  {
-    "titulo": "Óscar López (PSOE) tacha de \"espeluznante\" las \"mofas\" del PP a la acampada en Sol: \"Lo tienen que pagar en las urnas\"",
-    "medio": "Europa Press",
-    "fecha": 1791634285.0,
-    "link": "https://www.europapress.es/madrid/noticia-oscar-lopez-psoe-tacha-espeluznante-mofas-pp-acampada-sol-tienen-pagar-urnas-20261010141125.html",
-    "resumen": "El ministro para la Transformación Digital y de la Función Pública y también secretario general de los socialistas madrileños, Óscar López, ha defendido el cometido de los acampados en la Puerta del Sol al tiempo que ha tachado de \"espeluznante\" las \"mofas\" que los líderes de la derecha hacen sobre los acampados."
-  },
-  {
-    "titulo": "Pedro Sánchez promete \"reforzar y mantener\" los decretos de vivienda",
-    "medio": "Expansión",
-    "fecha": 1791634185.0,
-    "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca29c5468aebd2358b4572.html",
-    "resumen": "El líder del PSOE y candidato a la Presidencia del Gobierno en las elecciones del 29 de noviembre, Pedro Sánchez, se comprometió este sábado a \"reforzar y mantener\" los dos reales decretos de vivienda que no consiguió sacar adelante en el Congreso y también prometió \"honrar el ejemplo de vida\" de Maricarmen, la octogenaria que fue desahuciada hace dos semanas en Madrid. Leer"
   },
   {
     "titulo": "Óscar Ares, traumatólogo: \"Si quieres llegar bien a los 70 años, moverte y ser independiente, necesitas empezar a trabajar tus músculos desde los 50\"",
@@ -735,13 +763,6 @@
     "resumen": "El secretario general del PSOE y presidente del Gobierno, Pedro Sánchez, se ha reivindicado este sábado como un líder para \"la gente de a pie\", y como \"un perro que no tiene amo\", y que, si sirve \"a alguien, es a la gente de a pie\", al tiempo que ha animado a llenar las urnas de votos en las elecciones generales del próximo 29 de noviembre frente a los discursos de \"miedo\" y \"bulos\" que, según ha denunciado, propagan PP y Vox en relación al voto por correo."
   },
   {
-    "titulo": "La UE concede a España un préstamo por valor de 1.000 millones para la ampliación de sus capacidades defensivas",
-    "medio": "Expansión",
-    "fecha": 1791631066.0,
-    "link": "https://www.expansion.com/economia/2026/10/10/6aca1b99e5fdeaf0128b456e.html",
-    "resumen": "El comisario europeo de Defensa y Espacio, Andrius Kubilius, ha anunciado este sábado la concesión a España de un préstamo de 1.000 millones de euros para la adquisición de material de defensa, dentro del instrumento SAFE (por sus siglas en inglés), tal y como anunció a comienzos de este año la Comisión Europea. Leer"
-  },
-  {
     "titulo": "¿Sony tira la toalla con PlayStation VR? La venta de patentes a Meta pone en duda su futuro",
     "medio": "Hipertextual",
     "fecha": 1791630000.0,
@@ -756,13 +777,6 @@
     "resumen": "Los nuevos Apple Watch ya están disponibles en tiendas, pero, posiblemente, tardaremos en verlos con algún descuento potente. Si buscas un nuevo reloj para acompañar a tu iPhone y tu prioridad es gastar poco, la mejor opción calidad-precio que puedes comprar hoy es el Apple Watch SE 3. Especialmente, con una oferta como esta de Carrefour: se queda en 249 euros. Apple - Apple Watch SE 3 GPS 44mm Aluminio medianoche con Correa Deportiva Medianoche (M/L). PVP en Carrefour — 249,00 € El Corte Inglés — 269,00 € PcComponentes — 287,99 € El precio podría variar. Obtenemos comisión por estos enlaces Un reloj muy completo por menos de 250 euros El nuevo Apple Watch SE todavía tardará en llegar, por lo que, sumado al descuento de 50 euros, hace que estemos ante un gran momento para hacernos con él. Pese a ser la versión de 44 milímetros del mismo, es un dispositivo ligero y cómodo de llevar, incluso si tenemos pensado utilizarlo a la hora de practicar algún tipo de actividad deportiva. En Applesfera Apple Watch SE 3 vs Series 11: una guía para elegir entre el mejor reloj calidad-precio y el mejor reloj para los próximos cinco años En su interior va el chip S10 que, además de darnos un buen rendimiento, también nos permitirá interactuar con Siri sin tener tanta dependencia del móvil. Además, su pantalla de 1,78 pulgadas tiene función siempre activa y tiene un brillo máximo de 1.000 nits, lo que es más que suficiente para verla bien en casi cualquier escenario. Con sus sensores vamos a poder llevar un buen control de nuestra salud y nuestros entrenamientos, aunque es cierto que este modelo no es compatible, no permite hacer ECG. Apple promete que la autonomía de este reloj es de aproximadamente 18 horas. ⚡ EN RESUMEN: oferta del apple watch se 3 ✅ LO MEJORPrecio top para la versión de 44 mm: Tiene un descuento de 50 euros, por lo que estamos ante un gran momento para hacernos con él.Su pantalla: Se ve bastante bien y, además, tiene función siempre activa. ❌ LO PEORNo tiene sensores para ECG: Esta función queda reservada para el resto de relojes de Apple.Su autonomía: Aunque no es mala, se queda atrás de lo que estamos viendo el relojes de otros fabricantes. 💡 CÓMPRALO SI... Tienes un iPhone, buscas un nuevo reloj y quieres una opción actual sin necesidad de gastar demasiado. ⛔ NO LO COMPRES SI... Prefieres tener un Apple Watch Series 12 o Watch Ultra 4, incluso si eso significa esperar a que bajen de precio en el futuro. En Xataka Ya en Action, la freidora de aire tipo Ninja Crispi con dos recipientes de cristal, pantalla y menos de la mitad de su precio También te puede interesar Apple Watch Series 12 GPS 46 mm, Caja de Aluminio en Negro Hoy en Amazon — 488,00 € El precio podría variar. Obtenemos comisión por estos enlaces Apple Watch Ultra 4 GPS + Cellular con Caja de Titanio Negro de 49 mm Hoy en Amazon — 899,00 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Applesfera, Apple En Applesfera | Apple Watch SE 3 vs Series 11: una guía para elegir entre el mejor reloj calidad-precio y el mejor reloj para los próximos cinco años En Applesfera | Qué iPhone comprar en 2026 - Guía para elegir el smartphone de Apple más adecuado para ti - La noticia Cae de precio (otra vez) el Apple Watch SE 3: es uno de los mejores momentos para comprarlo fue publicada originalmente en Applesfera por Juan Lorente ."
   },
   {
-    "titulo": "Ayuso exige a la Delegación información sobre si la acampada en Sol la gestiona un grupo con \"antecedentes terroristas\"",
-    "medio": "Europa Press",
-    "fecha": 1791627755.0,
-    "link": "https://www.europapress.es/madrid/noticia-ayuso-exige-delegacion-informacion-si-acampada-sol-gestiona-grupo-antecedentes-terroristas-20261010122235.html",
-    "resumen": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha exigido este sábado a la Delegación del Gobierno en Madrid información sobre si la acampada en la Puerta del Sol en contra de la situación de la vivienda y contra los desahucios está ahora siendo gestionada por un grupo con \"antecedentes terroristas propalestinos\"."
-  },
-  {
     "titulo": "Nuevo en Zara: cinco blusas románticas que van genial con vaqueros y zapatos con taconcito en otoño",
     "medio": "Trendencias",
     "fecha": 1791626429.0,
@@ -775,13 +789,6 @@
     "fecha": 1791626392.0,
     "link": "https://www.europapress.es/nacional/noticia-supremo-acelera-decidir-voto-nacionalizados-ley-nietos-adelanto-electoral-20261010115952.html",
     "resumen": "El adelanto electoral que anunció el presidente del Gobierno, Pedro Sánchez, este lunes ha provocado que el Tribunal Supremo acelere los trámites para decidir qué hacer con la suspensión cautelar que acordó sobre la llamada 'ley de nietos', que paralizó el voto para los nacionalizados a través de esa vía."
-  },
-  {
-    "titulo": "Putin confirma el acuerdo con Trump para el suministro de crudo a EEUU y al mercado mundial",
-    "medio": "Expansión",
-    "fecha": 1791625739.0,
-    "link": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html",
-    "resumen": "El presidente de Rusia, Vladímir Putin, confirmó este viernes el acuerdo alcanzado en conversación telefónica con su homólogo de EEUU, Donald Trump, para el suministro de petróleo ruso al mercado estadounidense y mundial. Leer"
   },
   {
     "titulo": "La izquierda afronta una semana decisiva con Frente Amplio aún sin candidato y Podemos volcado en sus primarias",
@@ -831,13 +838,6 @@
     "fecha": 1791617638.0,
     "link": "https://www.europapress.es/catalunya/noticia-alamany-erc-asegura-rufian-sera-cabeza-lista-erc-29n-20261010093358.html",
     "resumen": "La secretaria general de ERC, Elisenda Alamany, ha asegurado que el actual portavoz del partido en el Congreso de los Diputados, Gabriel Rufián, será el cabeza de lista de la formación en la elecciones del próximo 29 de noviembre, en una entrevista a 'El Nacional' recogida por Europa Press este sábado."
-  },
-  {
-    "titulo": "Los maquilladores coinciden: \"Repasar todo el contorno de los labios por fuera de su línea natural no siempre es la mejor estrategia\"",
-    "medio": "Trendencias",
-    "fecha": 1791615627.0,
-    "link": "https://www.trendencias.com/belleza/maquilladores-coinciden-repasar-todo-contorno-labios-fuera-su-linea-natural-no-siempre-mejor-estrategia",
-    "resumen": "El perfilador de labios se ha convertido en uno de esos productos de maquillaje básicos para transformar los labios. Con tan solo realizar unos trazos estratégicos podemos definir el labio de cupido, dibujar el contorno y crear una sensación de mayor volumen sin necesidad de recurrir a nada más. El problema llega cuando, en busca de unos labios más carnosos, empezamos a dibujar por fuera de su forma natural y el resultado pierde frescura. Porque la diferencia entre un perfilado que realza los labios y otro que se ve demasiado artificial, está casi siempre en los detalles. El secreto reside en lograr un resultado natural que convierta el perfilador de labios en un imprescindible del maquillaje. \"La técnica ha mejorado muchísimo\", señala la maquilladora Cristina Lobato en Vanity Fair. Hoy, \"la forma en la que perfilamos actualmente los labios crea un efecto óptico de mayor volumen de forma natural y sutil\", indica. Para conseguir un buen resultado, hay que fijarse en la forma natural de los labios y desde esas base trabajar con el perfilador. El objetivo es lograr que \"tu labio parezca más voluminoso y quede mucho más perfecto y definido\", explica el maquillador profesional Sergio Antón de las Nieves a Vogue. Comenzamos perfilando en el centroAunque la idea sea conseguir unos labios más carnosos, repasar todo el contorno por fuera de su línea natural no siempre es la mejor estrategia. Para ganar volumen sin renunciar a un acabado creíble, los maquilladores aconsejan concentrar el perfilado en la zona superior (arco de cupido) y en la inferior del labio. Concretamente Cristina explica cómo es la mejor forma de hacerlo: \"Perfila el labio superior marcando primeramente la zona del arco de cupido y después conecta perfilando de forma ascendente desde las comisuras, siempre respetando la línea natural para que no te quede artificial. Salvo la zona de las comisuras, cuando perfiles el labio inferior marca la zona central con el perfilador sobresaliendo un milímetro de tu línea natural, conéctalo desde las comisuras hasta la línea central\", aconseja la maquilladora. Si deseamos ganar más volumen Perfilar los labios va mucho más allá de definir y de dar forma a unos labios desdibujados. Con la técnica adecuada también se puede lograr labios más voluminosos y repulpados. Lo importante aquí, es saber donde hay que perfilar por fuera y donde hay que mantener la línea natural. Gisela Bosque, National Make Up Artist de Sephora, comenta que \"si el objetivo es que los labios parezcan más voluminosos sin dejar de parecer naturales, hay que optar por un perfilador de labios ligeramente más oscuro para definir el arco y el centro del labio inferior. A continuación, se difumina con un perfilador de tono más claro\", comenta a Vanity Fair. Para un efecto antiedad Con el paso del tiempo los labios pierden volumen y definición, y de nuevo el perfilador es un gran aliado. En este contexto, hay que intentar redefinir el contorno de los labios y aportar una mayor sensación de volumen de forma natural. La maquilladora y creadora de contenido Ana Aparichi, explica en sus redes sociales cómo es la forma correcta de perfilar los labios para obtener un resultado antiaging. \"Lo importante es elevar la parte central para que ópticamente esta zona quede más alta\", resalta. @anaaparichi RECUPERAR LA DEFINICIÓN DE TUS LABIOS ES ASÍ DE SENCILLO Con los años, el contorno de los labios pierde definición y se vuelve menos marcado. Descubre cómo recuperar visualmente esa forma y conseguir unos labios más definidos y bonitos con un sencillo truco de perfilado Productos Utilizados: - El Perfilador de Labios Nude - El Bálsamo Natural Todos los productos que ves son de ĀNA ĀPARICHI: 👉 www.anaaparichi.com 📍 Nuestras Beautiques en: - Madrid: Narváez 25 y Fuencarral 149. - Barcelona: Av Pau Casals 1. #anaaparichi #maquillaje #perfilador ♬ sonido original - anaaparichi - anaaparichi La experta recomienda coger el perfilador de labios, subir barbilla y unir los dos picos del arco de cupido ligeramente por fuera, creando una especie de arco. Solo en la parte central, \"fíjate que no pase de tu nariz\", señala. Para perfilar el resto del labio solo debemos seguir la línea natural hasta las comisuras. Para delinear el labio inferior, seguimos el mismo procedimiento: bajamos ligeramente la barbilla y ampliamos de forma sutil la zona central, perfilándola apenas por fuera de su contorno natural. Desde ese punto, continuamos el trazo siguiendo la línea del labio hasta llegar a las comisuras. Con esta técnica conseguimos unos labios más definidos y un efecto visual rejuvenecedor, sin perder naturalidad. Fotos | @charlottetilbury En Trendencias | Mercadona da el salto a la cosmética coreana con K-Skin, su nueva línea beauty con dos texturas En Xataka | Se sigue buscando al vecino de Salamanca que colocó una piscina de 2 metros cúbicos en el patio de luces de su comunidad de vecinos En Motorpasion | Pedro Bastida, mecánico, sobre el SUV barato por excelencia en España: \"Sigue estando por encima de los chinos en calidad-precio\" - La noticia Los maquilladores coinciden: \"Repasar todo el contorno de los labios por fuera de su línea natural no siempre es la mejor estrategia\" fue publicada originalmente en Trendencias por Carolina L. ."
   },
   {
     "titulo": "Así funciona ViVeTool, la herramienta gratuita que permite activar funciones ocultas de Windows",
@@ -1041,13 +1041,6 @@
     "fecha": 1791547228.0,
     "link": "https://www.applesfera.com/apple-1/queria-que-john-tuviera-algo-viento-a-su-favor-tim-cook-ex-ceo-apple-su-sucesor",
     "resumen": "Hace ya más de un mes que John Ternus ejerce como CEO de Apple. En este tiempo, ya ha tenido la oportunidad de protagonizar grandes momentos como la presentación del iPhone Duo, el primer plegable de la compañía. Pero Tim Cook, su antecesor y que tuvo el bastón de mando durante 15 años, no está ni mucho menos jubilado. A nadie le pilló por sorpresa que Tim Cook anunciase que se echaría a un lado y tampoco que Ternus fuese designado como su sucesor. Era un secreto a voces que llevaba ya filtrándose mucho tiempo. Lo que no estaba tan claro es que Cook fuese a jubilarse. Pocos hubiesen visto con malos ojos que pasease con chanclas y calcetines por una playa mallorquina. Bien ganado lo tendría tras haber logrado hacer frente a la alargada sombra de Steve Jobs e incrementar los ingresos de la compañía en un 280%. Pero no fue el caso. Jubila¿QUÉ? Imagen: Trump White House en Flickr Tim Cook está a menos de un mes (el 1 de noviembre) de cumplir 66 años. Es la edad media a la que se suelen jubilar los trabajadores en Estados Unidos. Pero Cook \"ama a Apple\", como él mismo confirmaba en su carta de despedida. Una en la que ya advertía de que \"esto no es un adiós\". Nada de jubilarse (ni de perder su sueldo). Desde el 1 de septiembre, Cook tiene un nuevo cargo como Presidente del Consejo de Administración de Apple. Con ese papel se centra en una labor que realmente no le resulta novedosa, dado que ya ha estado ejerciéndola durante todo su mandato como CEO: político. Sí, político. No es que vaya a presentarse a las elecciones presidenciales de Estados Unidos o algo similar. No por ahora, aunque se llegó a rumorear en el pasado. Cook ejerce como diplomático de Apple en sus relaciones geopolíticas, bien sea con Donald Trump o con Xi Jinping. De hecho, estuvo cenando con ambos en la Casa Blanca el pasado 24 de septiembre. En Applesfera Cuando China más tensaba la cuerda, Apple tomó una decisión \"extrema\": invertir 275.000 millones En una empresa internacional como Apple, con una situación geopolítica cada vez más tensa, siendo estadounidense de origen y con China como uno de sus principales mercados y fábricas, es crucial mantener un equilibrio institucional. Y en eso Cook es un experto. En una reciente entrevista a The Independent, el ahora presidente habló de este papel y de cómo su salida del puesto de CEO permitirá a John Ternus centrarse en lo que mejor conoce: los productos de Apple. Cook explicó que llevaba tiempo preparando esta transición y que quería que su sucesor comenzase su etapa al frente de la compañía con las mejores condiciones posibles. Ternus no será Cook. Y Cook tampoco quiere que lo sea \"Quería que John tuviera algo de viento a su favor\", dijo Tim Cook al respecto de haberle dejado a él el protagonismo de presentar el iPhone Duo. Aunque esa idea sirve también para resumir su visión general sobre el relevo. Tras 15 años al frente de Apple, no pretendía que Ternus continuase haciendo exactamente lo mismo que él. De hecho, él mismo recibió un consejo así de valioso de Steve Jobs cuando le tocó ser CEO, y es que siguiese su propio camino. Cook quiere que Ternus pueda construir su propia etapa. En la citada entrevista a The Independent, el ex-CEO ha explicado que su sucesor debe hacer suyo el cargo, sin tratar de imitarle a él, pero tampoco a Jobs. Esto se ha escenificado incluso con la introducción del último Apple Event, en el que en un gag muy propio de Apple, Cook lo decía claro: \"no soy yo, él es el hombre\". El nuevo papel que ejerce tiene también mucho que ver con esto, tal como veíamos anteriormente. Las relaciones con gobiernos y otros responsables políticos son fundamentales para una compañía como Apple, pero exigen de tiempo, experiencia y una agenda propia. También generan desgaste. Y es justo eso lo que no quiere Cook que tenga Ternus. En Applesfera De diseñar los chips del iPhone a controlar todo el hardware de Apple. La historia de Johny Srouji Eso no significa que el nuevo CEO pueda desentenderse por completo de la política y de las relaciones internacionales. Tampoco que en un futuro no le toque ejercer ese papel diplomático. Sin embargo, contar con Cook, sobre todo en estos primeros años, parece vital para que el nuevo CEO pueda poner más atención a la estrategia de producto, que es al final en lo que está especializado tras 25 años en la compañía siendo uno de los ingenieros más importantes. Ahora estamos ante la parte más interesante como espectadores, que es la de comprobar qué quiere hacer Ternus con Apple. De momento, estamos viendo bailes en los puestos ejecutivos (y más que llegarán), así como nuevas estrategias de lanzamientos. Eso sí, ya te advertimos de que no veremos un cambio enorme a corto plazo, como tampoco lo vimos en la transición de Jobs a Cook. En una empresa como Apple, se trabaja a años vista, y aunque Ternus llevaba tiempo sabiendo lo que se le venía y su opinión fuese importante, realmente será en unos años cuando notemos su mano. En Applesfera, solamente tenemos una petición para él: que sea un loco. En Applesfera | Nuevo iPhone Air 2 - Todo lo que creemos saber sobre él En Applesfera | ¿Cuántos años de actualizaciones le quedan a mi iPhone? Así podemos saberlo - La noticia \"Quería que John tuviera algo de viento a su favor\", Tim Cook, ex-CEO de Apple, sobre su sucesor fue publicada originalmente en Applesfera por Álvaro García M. ."
-  },
-  {
-    "titulo": "La astronauta de la ESA Sophie Adenot vuelve tierra con la tripulación Crew 12 y con un nuevo récord de permanencia en el espacio para Europa",
-    "medio": "Microsiervos",
-    "fecha": 1791486000.0,
-    "link": "http://www.microsiervos.com/archivo/espacio/astronauta-esa-sophie-adenot-record-vuelve-tierra-tripulacion-crew-12.html",
-    "resumen": "La astronauta de la ESA Sophie Adenot recibe ayuda de los equipos de rescate tras salir de la Freedom, después de pasar casi ocho meses en el espacio en su primera misión, εpsilon – NASA/Keegan Barber Hace unas horas la Crew Dragon Freedom amerizaba frente a la costa de California. A bordo venía la tripulación Crew 12, formada por Jessica Meir y Jack Hathaway de la NASA, Sophie Adenot de la Agencia Espacial Europea (ESA) y Andrey Fedyaev de Roscosmos. Los 237 días, cinco horas y 18 minutos que han pasado en el espacio suponen que la misión εpsilon ha establecido un nuevo récord como la misión más larga de la Agencia Espacial Europea. Queda por delante de los 201 días y unas horas de Luca Parmitano en la misión Beyond o de los 199 días y unas horas de Thomas Pesquet en la misión Alpha. Aunque Sophie queda, eso sí, bastante por detrás de los 396 días 11 horas y 34 minutos que acumula Thomas Pesquet, de los 370 días 5 horas y 45 minutos de Samantha Cristoforetti, o de los 362 días 1 hora y 50 minutos de Alexander Gerst. Se coloca, de hecho, en el séptimo puesto de tiempo acumulado en el espacio en toda la historia de la ESA. Pero no está nada mal teniendo en cuenta que esta ha sido su primera misión. Ha sido también la primera de la promoción de astronautas de la ESA de 2022 en ir al espacio. Aunque, curiosamente, se le adelantaron Sławosz Uznański y Marcus Wandt, astronautas de reserva de su promoción, quienes volaron a la EEI en las misiones privadas Axiom Ax-4 y Axiom Ax-3 respectivamente. Con independencia de que algún otro astronauta de reserva pueda hacerlo antes se supone que Raphaël Liégeois será el segundo astronauta de carrera de la ESA en ir a la Estación Espacial Internacional. O se suponía, pues su misión iba a ser en la segunda mitad de 2026, algo que obviamente no va a suceder y en lo que no ha tenido poco que ver el enésimo fracaso de la Starliner de Boeing, que aún tendrá que hacer otra misión no tripulada a la EEI antes de poder -con suerte– entrar en servicio. Aunque Raphaël nunca ha llegado a estar asignado a ninguna misión específica. Los logros de εpsilon Durante su tiempo en la Estación Espacial Internacional (EEI) Sophie se convirtió en la primera mujer francesa en realizar un paseo espacial y la segunda mujer europea en hacerlo tras Samantha Cristoforetti, que estrenó la lista en 2022. También fue la primera mujer no estadounidense en participar en un paseo espacial llevado a cabo por dos mujeres. En total participó en tres paseos espaciales en 14 días, con los que acumulo un total de 19 horas y 42 minutos. Además de colaborar en el mantenimiento de la Estación también llevó a cabo toda una serie de experimentos y probó el traje intravehicular EuroSuit, aunque de esto apenas sabemos nada. En total dedicó unas 218 horas a trabajar en 35 cargas útiles europeas, y unas 25 horas al mantenimiento o las actualizaciones de los sistemas de la ESA en Columbus, el laboratorio europeo de la Estación Espacial Internacional. Al final completó todos los experimentos específicos de la misión propuestos por la agencia espacial francesa CNES, así como todos los experimentos de la ESA que le fueron asignados. Relacionado, La cápsula de carga Progress MS-35 llega a la Estación Espacial Internacional La próxima misión tripulada de la cápsula Starliner de Boeing no será antes de mediados de 2028… Y eso con suerte La ESA encarga dos estudios de viabilidad para una posible estación espacial europea La tripulación Crew 13 de la NASA llega en un tiempo récord a la Estación Espacial Internacional # Enlace permanente"
   },
   {
     "titulo": "‘La otra orilla de la vanguardia’: arte al otro lado de la razón",
