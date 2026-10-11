@@ -1,38 +1,395 @@
 [
   {
-    "titulo": "Las llamas devoran una fábrica textil en Córdoba y piden a los vecinos no salir de casa",
-    "medio": "OK Diario",
-    "fecha": 1791745689.0,
-    "link": "https://okdiario.com/andalucia/llamas-devoran-fabrica-textil-cordoba-piden-vecinos-no-salir-casa-20530069",
-    "resumen": "Una nave textil de Palma del Río (Córdoba) ha ardido este domingo y ha generado una intensa humareda. Catorce bomberos trabajan en la zona y, aunque el fuego está controlado, según la Diputación, las autoridades han pedido a los vecinos que no salgan de casa y mantengan puertas y ventanas cerradas mientras persista el humo. … Continuar leyendo \"Las llamas devoran una fábrica textil en Córdoba y piden a los vecinos no salir de casa\""
+    "titulo": "Burnham acusa directamente a Rusia de interferir en la campaña del referéndum del Brexit",
+    "medio": "El País",
+    "fecha": 1791759314.0,
+    "link": "https://elpais.com/internacional/2026-10-11/burnham-acusa-directamente-a-rusia-de-interferir-en-la-campana-del-referendum-del-brexit.html",
+    "resumen": "Es la primera vez que Downing Street señala a Moscú por este asunto. El primer ministro advierte del peligro a Alemania y Francia"
   },
   {
-    "titulo": "Éxtasis en Las Ventas: sangre, épica y pasión de Antonio Ferrera y Román",
+    "titulo": "Robles elogia el «trabajo impecable» en el exterior de las Fuerzas Armadas y defiende la «españolidad de Ceuta»",
+    "medio": "OK Diario",
+    "fecha": 1791758103.0,
+    "link": "https://okdiario.com/espana/robles-elogia-labor-exterior-fuerzas-armadas-defiende-espanolidad-ceuta-20530435",
+    "resumen": "La ministra de Defensa, Margarita Robles, elogia la labor exterior de las Fuerzas Armadas y defiende la «españolidad de Ceuta» este domingo durante una videoconferencia con motivo de la celebración del Día de la Fiesta Nacional con los contingentes de las misiones en el exterior y los destinados en Ceuta. Robles ha resaltado durante su … Continuar leyendo \"Robles elogia el «trabajo impecable» en el exterior de las Fuerzas Armadas y defiende la «españolidad de Ceuta»\""
+  },
+  {
+    "titulo": "Invisibles en Collserola",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656395/invisibles-collserola.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "El pez, harto de morderse la cola",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656616/pez-harto-morderse-cola.html",
+    "resumen": "Solo hay una salida posible: pactos de Estado, acuerdos, diálogo..."
+  },
+  {
+    "titulo": "Migraciones, un reto nacional",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656600/migraciones-reto-nacional.html",
+    "resumen": "En Catalunya la asunción de competencias y recursos en inmigración es una necesidad política y nacional"
+  },
+  {
+    "titulo": "Los derrotados",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656586/derrotados.html",
+    "resumen": "Algunas derrotas individuales se convierten en símbolos colectivos"
+  },
+  {
+    "titulo": "Votar por correo",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656581/votar-correo.html",
+    "resumen": "Es lógico que los AFA (Ayuso, Feijóo y Abascal) desconfíen del voto por correo"
+  },
+  {
+    "titulo": "La lucha de clases hoy",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656585/lucha-clases-hoy.html",
+    "resumen": "Lo real es que hay clases y luchan entre sí; lo ideal sería que no fuera así y hubiese paz social"
+  },
+  {
+    "titulo": "El derecho a fracasar",
+    "medio": "La Vanguardia",
+    "fecha": 1791757800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261012/11656599/derecho-fracasar.html",
+    "resumen": "Una sociedad que teme demasiado fracasar es más vulnerable a quien promete eliminar la incertidumbre fácilmente"
+  },
+  {
+    "titulo": "“Vamos a vivir en la Luna, con 120ºC al sol y 210ºC bajo cero a la sombra”",
+    "medio": "La Vanguardia",
+    "fecha": 1791756300.0,
+    "link": "https://www.lavanguardia.com/lacontra/20261012/11656619/carlos-garcia-galan-vivir-luna-120-c-sol-210-c-cero-sombra.html",
+    "resumen": "Tengo 52 años. Nací en Málaga y vivo en Houston. Estoy separado y tengo dos hijos. Me licencié en Ciencias Espaciales e Ingeniería Eléctrica. Temo los extremos ideológicos y su falta de flexibilidad, que impide que hagamos lo que realmente necesitamos hacer para seguir avanzando. No tengo creencias."
+  },
+  {
+    "titulo": "Un alud deja atrapados a dos trabajadores en la mina El Teniente de Codelco",
+    "medio": "El País",
+    "fecha": 1791756228.0,
+    "link": "https://elpais.com/chile/2026-10-11/un-alud-deja-atrapados-a-dos-trabajadores-en-la-mina-el-teniente-de-codelco.html",
+    "resumen": "La cuprífera chilena confirma que un tercer afectado ha logrado escapar del lugar. Los equipos de emergencia inician las labores de rescate"
+  },
+  {
+    "titulo": "En 1969 era un pueblo abandonado en León: hoy es una aldea ‘hippie’ donde viven 75 personas y tienen sus propias reglas",
+    "medio": "OK Diario",
+    "fecha": 1791755396.0,
+    "link": "https://okdiario.com/viajes/1969-pueblo-abandonado-leon-hoy-aldea-hippie-donde-viven-75-personas-tienen-sus-propias-reglas-20253749",
+    "resumen": "En las montañas de El Bierzo, en León, existe una aldea que pasó de quedar deshabitada a convertirse en un singular experimento de vida comunitaria. Matavenero recuperó sus casas a finales de los años 80 y hoy mantiene un modelo basado en la autogestión, el contacto con la naturaleza y unas normas de convivencia propias. … Continuar leyendo \"En 1969 era un pueblo abandonado en León: hoy es una aldea ‘hippie’ donde viven 75 personas y tienen sus propias reglas\""
+  },
+  {
+    "titulo": "Una mujer marroquí cobró durante 11 años una ayuda para la que no tenía derecho, ahora la Justicia responde y tiene que devolver 162.000 euros",
+    "medio": "OK Diario",
+    "fecha": 1791755261.0,
+    "link": "https://okdiario.com/economia/mujer-marroqui-cobro-durante-11-anos-ayuda-lo-que-no-tenia-derecho-ahora-justicia-responde-tiene-que-devolver-162-000-euros-20304503",
+    "resumen": "La justicia neerlandesa ha puesto fin a un proceso que se prolongó durante casi once años. Es el caso de una mujer de origen marroquí con nacionalidad de los Países Bajos que deberá devolver 162.324,21 euros correspondientes a la asistencia social que percibió entre diciembre de 2013 y septiembre de 2024. El fallo, dictado por … Continuar leyendo \"Una mujer marroquí cobró durante 11 años una ayuda para la que no tenía derecho, ahora la Justicia responde y tiene que devolver 162.000 euros\""
+  },
+  {
+    "titulo": "España ya está lista para recibir el eclipse solar más largo del siglo que convertirá el día en noche y no se repetirá en 152 años",
+    "medio": "OK Diario",
+    "fecha": 1791755176.0,
+    "link": "https://okdiario.com/ciencia/espana-ya-esta-lista-recibir-eclipse-solar-mas-largo-del-siglo-que-convertira-dia-noche-no-repetira-152-anos-20280590",
+    "resumen": "El próximo 2 de agosto de 2027, España podrá disfrutar del eclipse solar total más largo del siglo XXI, cuya fase de totalidad alcanzará los 6 minutos y 22 segundos. Como referencia, el eclipse más largo del siglo XX se produjo el 11 de julio de 1991, cuando la totalidad llegó a los 6 minutos … Continuar leyendo \"España ya está lista para recibir el eclipse solar más largo del siglo que convertirá el día en noche y no se repetirá en 152 años\""
+  },
+  {
+    "titulo": "La inversión sostenible crece con foco ambiental y social",
+    "medio": "Expansión",
+    "fecha": 1791755160.0,
+    "link": "https://www.expansion.com/empresas/2026/10/11/6acba414468aeb11508b45da.html",
+    "resumen": "El interés por la inversión responsable crece cuatro puntos en un año, dirigida sobre todo a promover el avance de los objetivos ambientales y sociales. Leer"
+  },
+  {
+    "titulo": "Stellum se lanza al mercado para captar 460 millones con tres fondos",
+    "medio": "Expansión",
+    "fecha": 1791755152.0,
+    "link": "https://www.expansion.com/empresas/2026/10/11/6acb79b9468aeb673a8b45a4.html",
+    "resumen": "La gestora de capital riesgo con sede en San Sebastián, que apunta a los 700 millones de euros bajo gestión, ampliará su huella geográfica a Portugal y el sur de Francia con el nuevo vehículo de crecimiento. Leer"
+  },
+  {
+    "titulo": "Frux capta 350 millones y prepara un nuevo fondo para 'data center'",
+    "medio": "Expansión",
+    "fecha": 1791755151.0,
+    "link": "https://www.expansion.com/empresas/2026/10/11/6acb7ab2e5fdea9b018b4577.html",
+    "resumen": "Frux Capital, gestora de deuda privada especializada en el sector inmobiliario, acaba de cerrar su tercer fondo con compromisos por importe de 350 millones de euros, un 60% más que su predecesor, y prepara un vehículo específico de 200 millones de euros que se especializará en centros de datos. Leer"
+  },
+  {
+    "titulo": "Iberia pide activar un nuevo control de pasaportes en la T4 para ganar vuelos de largo",
+    "medio": "Expansión",
+    "fecha": 1791755149.0,
+    "link": "https://www.expansion.com/empresas/transporte/2026/10/11/6acb4896e5fdea4f7e8b457a.html",
+    "resumen": "Los puestos en la T4 para vuelos no Schengen están acabados, pero no tienen agentes. El sector calcula que se podría aumentar a capacidad en unos 50 vuelos diarios. Leer"
+  },
+  {
+    "titulo": "Volvo disparará rentabilidad con las ventas de Lynk & Co",
+    "medio": "Expansión",
+    "fecha": 1791755141.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/10/11/6ac91fc8468aebc5728b4588.html",
+    "resumen": "La distribución de los coches de Lynk & Co, propiedad del gigante chino Geely, aportarán mayor volumen y margen a los concesionarios de Volvo. Leer"
+  },
+  {
+    "titulo": "Pensiones, agua y Europa: así quiere cambiar Burnham Reino Unido",
+    "medio": "Expansión",
+    "fecha": 1791755140.0,
+    "link": "https://www.expansion.com/economia/politica/2026/10/11/6acb4d35e5fdeab02b8b457b.html",
+    "resumen": "El primer ministro británico anuncia en sus primeras semanas ajustes en las pensiones, más control público sobre servicios básicos y una lucha para que más jóvenes trabajen. Leer"
+  },
+  {
+    "titulo": "IESE, ESCP e IE, en el 'top 15' de mejores MBA a ejecutivos",
+    "medio": "Expansión",
+    "fecha": 1791755138.0,
+    "link": "https://www.expansion.com/empresas/2026/10/11/6ac7dd48e5fdea6f078b4592.html",
+    "resumen": "El máster a ejecutivos de la española IESE es el tercero a nivel mundial y el de IE está en el número 13. ESCP, con campus en Madrid, es quinta del ránking. Leer"
+  },
+  {
+    "titulo": "La cuenta de inversión deja fuera al 90% de los fondos españoles",
+    "medio": "Expansión",
+    "fecha": 1791755136.0,
+    "link": "https://www.expansion.com/ahorro/2026/10/11/6acbe795468aeb78798b45b4.html",
+    "resumen": "Menos del 5% del patrimonio cumple con las exigencias de la propuesta diseñada por Economía. Leer"
+  },
+  {
+    "titulo": "Alejandro Magno hizo una reflexión sobre el poder: «Todo lo que hemos ganado con la espada no puede ser seguro ni duradero, pero el amor ganado con bondad es seguro y permanente»",
+    "medio": "OK Diario",
+    "fecha": 1791755130.0,
+    "link": "https://okdiario.com/curiosidades/alejandro-magno-hizo-reflexion-poder-todo-lo-que-hemos-ganado-espada-no-puede-ser-seguro-ni-duradero-pero-amor-ganado-bondad-seguro-permanente-20329248",
+    "resumen": "Alejandro III de Macedonia nació en julio del 356 a. C. en Pella, la capital del reino de Macedonia. Su educación estuvo en manos de uno de los grandes pensadores de la Antigüedad: Aristóteles. Bajo su tutela, Alejandro recibió una amplia formación en filosofía, ética, política, ciencias, medicina y literatura. La influencia de la cultura griega … Continuar leyendo \"Alejandro Magno hizo una reflexión sobre el poder: «Todo lo que hemos ganado con la espada no puede ser seguro ni duradero, pero el amor ganado con bondad es seguro y permanente»\""
+  },
+  {
+    "titulo": "El significado del reflexivo proverbio portugués: «Quien en otoño no trabaja, en invierno come paja»",
+    "medio": "OK Diario",
+    "fecha": 1791755114.0,
+    "link": "https://okdiario.com/curiosidades/significado-del-reflexivo-proverbio-portugues-quien-otono-no-trabaja-invierno-come-paja-20327434",
+    "resumen": "Los proverbios populares han servido durante siglos para transmitir conocimientos de una generación a otra con frases sencillas y fáciles de recordar. Muchos nacieron vinculados a la agricultura, donde conocer el momento adecuado para sembrar, cosechar o almacenar alimentos podía marcar la diferencia durante los meses más difíciles. El proverbio portugués «Quien en otoño no … Continuar leyendo \"El significado del reflexivo proverbio portugués: «Quien en otoño no trabaja, en invierno come paja»\""
+  },
+  {
+    "titulo": "Levantadas las acampadas por la vivienda de Málaga y Granada tras dos semanas",
     "medio": "The Objective",
-    "fecha": 1791745638.0,
-    "link": "https://theobjective.com/cultura/2026-10-11/extasis-en-las-ventas-antonio-ferrera-y-roman/",
-    "resumen": "Hay tardes en las que el toreo se convierte en arte y otras en las que se transforma en una cuestión de vida o muerte. Y […]"
+    "fecha": 1791754871.0,
+    "link": "https://theobjective.com/sociedad/2026-10-11/levantadas-acampadas-vivienda-malaga-granada/",
+    "resumen": "Cientos de manifestantes y colectivos de Málaga y Granada han levantado este domingo la acampada que ocupaba desde hace dos semanas la Plaza de la Constitución […]"
   },
   {
-    "titulo": "Ataque aeropuerto Riad: los hutíes renuevan su amenaza contra los aeropuertos saudíes",
-    "medio": "Moncloa.com",
-    "fecha": 1791745626.0,
-    "link": "https://www.moncloa.com/2026/10/11/ataque-aeropuerto-riad-huties-amenaza-3446408/",
-    "resumen": "El ataque al aeropuerto de Riad deja 12 muertos y más de 300 heridos. Los hutíes intensifican su amenaza contra los aeropuertos saudíes. La entrada Ataque aeropuerto Riad: los hutíes renuevan su amenaza contra los aeropuertos saudíes aparece primero en Moncloa."
+    "titulo": "Javier Aguirre le pone un parche al Valencia",
+    "medio": "El País",
+    "fecha": 1791754220.0,
+    "link": "https://elpais.com/deportes/futbol/2026-10-11/javier-aguirre-le-pone-un-parche-al-valencia.html",
+    "resumen": "El entrenador mexicano debuta con un empate ante el Racing después de que su equipo mostrara algunas de las debilidades del pasado"
   },
   {
-    "titulo": "Génova: el «miedo» a Vox ya no moviliza ante el 29-N y al PSOE solo le queda Sánchez",
-    "medio": "Moncloa.com",
-    "fecha": 1791745326.0,
-    "link": "https://www.moncloa.com/2026/10/11/genova-vox-campana-29n-psoe-3446411/",
-    "resumen": "Génova sostiene que el 'miedo a Vox' ya no moviliza ante el 29-N y que la animadversión hacia Sánchez pesa más en el electorado. La entrada Génova: el «miedo» a Vox ya no moviliza ante el 29-N y al PSOE solo le queda Sánchez aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El Gobierno tiene bloqueadas más de 8.000 nacionalizaciones de judíos sefardíes en plena polémica por la Ley de Nietos",
+    "titulo": "La psicología dice que los adultos que de niños crecieron en hogares donde los cambios de humor eran constantes se convierten en observadores intensos",
     "medio": "OK Diario",
-    "fecha": 1791745290.0,
-    "link": "https://okdiario.com/espana/gobierno-tiene-bloqueadas-mas-8-000-nacionalizaciones-judios-sefardies-plena-polemica-ley-nietos-20515114",
-    "resumen": "El Gobierno de Pedro Sánchez ha dejado en un cajón durante 5 largos años un total de 8.622 solicitudes de nacionalizaciones de descendientes de ciudadanos judíos sefardíes, mientras ha nacionalizado, de acuerdo con la instrucción conocida como la «Ley de Nietos» dictada por la hermana del ministro Óscar Puente, Sofía Puente, a cientos de miles de … Continuar leyendo \"El Gobierno tiene bloqueadas más de 8.000 nacionalizaciones de judíos sefardíes en plena polémica por la Ley de Nietos\""
+    "fecha": 1791753654.0,
+    "link": "https://okdiario.com/curiosidades/psicologia-dice-que-adultos-que-ninos-crecieron-hogares-donde-cambios-humor-eran-constantes-convierten-observadores-intensos-20327721",
+    "resumen": "La psicología señala que muchos adultos que pasaron su infancia en hogares ruidosos, tensos o imprevisibles no necesariamente consideran que aquellas experiencias fueran problemáticas. Según una investigación de la Universidad de California Irvine (UCI), recogida por Science Daily, algunas personas pueden asumir que aquello «simplemente era así». Sin embargo, normalizar una experiencia no significa que … Continuar leyendo \"La psicología dice que los adultos que de niños crecieron en hogares donde los cambios de humor eran constantes se convierten en observadores intensos\""
+  },
+  {
+    "titulo": "La confesión de Heráclito, filósofo griego, que sigue haciéndonos pensar: «Nuestra envidia siempre dura más que la felicidad de aquellos a los que envidiamos»",
+    "medio": "OK Diario",
+    "fecha": 1791753350.0,
+    "link": "https://okdiario.com/curiosidades/confesion-heraclito-filosofo-griego-que-sigue-haciendonos-pensar-nuestra-envidia-siempre-dura-mas-que-felicidad-aquellos-que-envidiamos-20201939",
+    "resumen": "Un error que solemos cometer al repesar el pensamiento de filósofos clásicos como Heráclito de Éfeso es creer que no hay consejos que podamos utilizar en nuestra vida. Sin embargo, sus citas célebres demuestran lo contrario. Por ejemplo, de Heráclito de Éfeso podemos rescatar una frase para vivir más alegres y sin fijarnos tanto en … Continuar leyendo \"La confesión de Heráclito, filósofo griego, que sigue haciéndonos pensar: «Nuestra envidia siempre dura más que la felicidad de aquellos a los que envidiamos»\""
+  },
+  {
+    "titulo": "Un empate agridulce para el primer Valencia de Javier Aguirre",
+    "medio": "El Mundo",
+    "fecha": 1791753243.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/11/6acbdf52e85ecee2188b4575.html",
+    "resumen": "Un gol de Dani Raba a los 72 segundos dio ventaja a los valencianistas, que se vieron remontados con tantos de Zabiri e Iván Martín. Otorbi, asistido por un lúcido Javi Guerra, logró el empate pero Hugo Duro tuvo la victoria en sus botas en el añadido Leer"
+  },
+  {
+    "titulo": "Al menos trece muertos en bombardeos en la frontera entre Sudán y Egipto",
+    "medio": "The Objective",
+    "fecha": 1791753215.0,
+    "link": "https://theobjective.com/internacional/2026-10-11/al-menos-trece-muertos-bombardeos-frontera-sudan-egipto/",
+    "resumen": "Al menos trece trabajadores de la minería artesanal han muerto y decenas más han resultado heridos en un bombardeo sobre varias minas de oro situadas en […]"
+  },
+  {
+    "titulo": "Los manifestantes levantan este domingo las acampadas de Málaga y Granada tras dos semanas de protesta por la vivienda",
+    "medio": "Europa Press",
+    "fecha": 1791752243.0,
+    "link": "https://www.europapress.es/andalucia/malaga-00356/noticia-manifestantes-levantan-domingo-acampadas-malaga-granada-dos-semanas-protesta-vivienda-20261011225723.html",
+    "resumen": "Cientos de manifestantes y colectivos de Málaga y Granada han levantado este domingo la acampada que ocupaba desde hace dos semanas la Plaza de la Constitución y el Palacio de Congresos en protesta por la vivienda."
+  },
+  {
+    "titulo": "Cena lista en 30 minutos: acelgas con patatas a la croata que triunfa en casa",
+    "medio": "Moncloa.com",
+    "fecha": 1791751721.0,
+    "link": "https://www.moncloa.com/2026/10/11/acelgas-patatas-cena-croata-30-minutos-3446685/",
+    "resumen": "La blitva croata convierte las acelgas con patatas en una cena vegetal lista en 30 minutos, con un majado de ajo crudo y aceite de oliva. La entrada Cena lista en 30 minutos: acelgas con patatas a la croata que triunfa en casa aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Adiós a los revueltos sosos: el truco con setas de cardo jugosas listo en 15 minutos",
+    "medio": "Moncloa.com",
+    "fecha": 1791751716.0,
+    "link": "https://www.moncloa.com/2026/10/11/setas-de-cardo-en-revuelto-3446687/",
+    "resumen": "Un revuelto de setas de cardo que no se encharca ni acaba en tortilla: mantequilla, cinco minutos de evaporación y fuego suave. La entrada Adiós a los revueltos sosos: el truco con setas de cardo jugosas listo en 15 minutos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Adiós a los coulants que no funden: el truco del coulant de pistachos en 15 minutos",
+    "medio": "Moncloa.com",
+    "fecha": 1791751672.0,
+    "link": "https://www.moncloa.com/2026/10/11/coulant-pistachos-chocolate-blanco-fundente-3446680/",
+    "resumen": "El coulant de pistachos y chocolate blanco sale fundente en un cuarto de hora si la crema es 100% pistacho y el horneado se parte en dos fases. La entrada Adiós a los coulants que no funden: el truco del coulant de pistachos en 15 minutos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Adiós a las guarniciones aburridas: la guarnición de patata y zanahoria al vapor en Thermomix",
+    "medio": "Moncloa.com",
+    "fecha": 1791751670.0,
+    "link": "https://www.moncloa.com/2026/10/11/guarnicion-patata-zanahoria-vapor-thermomix-3446678/",
+    "resumen": "Una guarnición de patata y zanahoria cocida al vapor en Thermomix, chafada y aliñada con aceite de perejil y ajo. Lista en 40 minutos. La entrada Adiós a las guarniciones aburridas: la guarnición de patata y zanahoria al vapor en Thermomix aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Adiós al guiso de pollo soso: el truco del pimentón con solo 4 ingredientes",
+    "medio": "Moncloa.com",
+    "fecha": 1791751670.0,
+    "link": "https://www.moncloa.com/2026/10/11/guiso-pollo-otonal-4-ingredientes-pimenton-3446675/",
+    "resumen": "Cuatro ingredientes, una cazuela y el pimentón como único motor del sabor: el guiso de pollo de otoño que no se pega ni se corta. La entrada Adiós al guiso de pollo soso: el truco del pimentón con solo 4 ingredientes aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La comunidad musulmana de Melilla se moviliza ante la visita de los Reyes y pide acortar las clases",
+    "medio": "Moncloa.com",
+    "fecha": 1791751669.0,
+    "link": "https://www.moncloa.com/2026/10/11/visita-reyes-melilla-comunidad-musulmana-3446673/",
+    "resumen": "La visita de los Reyes a Melilla del 14 de octubre activa a la comunidad musulmana y a la educativa, que pide acortar la jornada lectiva. La entrada La comunidad musulmana de Melilla se moviliza ante la visita de los Reyes y pide acortar las clases aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Felipe VI capitán general: los poderes del Rey como mando supremo de las Fuerzas Armadas",
+    "medio": "Moncloa.com",
+    "fecha": 1791751668.0,
+    "link": "https://www.moncloa.com/2026/10/11/felipe-vi-capitan-general-fuerzas-armadas-3446672/",
+    "resumen": "Felipe VI preside el 12-O como capitán general. La Constitución le otorga el mando supremo de las Fuerzas Armadas; el Gobierno dirige la Defensa. La entrada Felipe VI capitán general: los poderes del Rey como mando supremo de las Fuerzas Armadas aparece primero en Moncloa."
+  },
+  {
+    "titulo": "La deuda de Francia alcanza el 119% del PIB: las claves del riesgo que amenaza con contagiar a la eurozona",
+    "medio": "Moncloa.com",
+    "fecha": 1791751666.0,
+    "link": "https://www.moncloa.com/2026/10/11/deuda-francia-119-pib-riesgo-eurozona-3446667/",
+    "resumen": "La deuda de Francia alcanza el 119% del PIB y el déficit superará el 5% este año. Los inversores venden bonos ante la falta de confianza en los recortes. La entrada La deuda de Francia alcanza el 119% del PIB: las claves del riesgo que amenaza con contagiar a la eurozona aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania",
+    "medio": "El País",
+    "fecha": 1791751083.0,
+    "link": "https://elpais.com/internacional/2026-10-11/zelenski-ofrece-a-putin-una-tregua-energetica-en-plena-escalada-verbal-con-trump.html",
+    "resumen": "“Ambas partes han llegado a un acuerdo. ¡No lo rompáis!“, afirma el líder republicano. Zelenski reconoce que la noticia de este alto el fuego le ha pillado por sorpresa, pero que lo apoya"
+  },
+  {
+    "titulo": "UGT y CCOO apelan a un acuerdo para Frente Amplio: «El país os espera»",
+    "medio": "The Objective",
+    "fecha": 1791750846.0,
+    "link": "https://theobjective.com/economia/2026-10-11/ugt-ccoo-apelan-acuerdo-frente-amplio/",
+    "resumen": "Los secretarios generales de UGT, Pepe Álvarez, y CCOO, Unai Sordo, han apelado a los partidos de izquierda a alcanzar un acuerdo para conformar Frente Amplio […]"
+  },
+  {
+    "titulo": "Sumar apuesta por Ada Colau y Emilio Delgado para liderar el Frente Amplio y abre la puerta a nuevas alianzas",
+    "medio": "HuffPost",
+    "fecha": 1791750352.0,
+    "link": "https://www.huffingtonpost.es/politica/sumar-apuesta-colau-emilio-delgado-liderar-frente-amplio-abre-puerta-nuevas-alianzas-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Atari revive uno de sus ordenadores familiares de 8 bits, el 800XL, con HDMI y 25 juegos",
+    "medio": "Microsiervos",
+    "fecha": 1791749394.0,
+    "link": "http://www.microsiervos.com/archivo/ordenadores/atari-revive-ordenador-familiar-800xl-hdmi-juegos.html",
+    "resumen": "Algunas consolas y ordenadores de otras épocas están volviendo poco a poco a la vida. En esta ocasión es la mismísima Atari&ast quien va a resucitar el Atari 800XL, una recreación moderna del ordenador de 8 bits que lanzó en 1983. Quizá no era de los más populares, como fueron el C-64, el Spectrum o el Amstrad, pero tenía sus seguidores y una pedazo de marca para la época, en la que Ataris era como Hermes, el Dios de los (video)juegos. El nuevo equipo conserva la carcasa clásica de toda la vida, el teclado mecánico a tamaño completo, la ranura para cartuchos, completamente funcional y lleva, cómo no, el Atari Basic incorporado. La versión original tenía 64 KB de memoria RAM y chips para gráficos y sonido; esta es un poco diferente en ese aspecto y añade algunas modernidades al respecto. Pero se comporta igual: es el ordenador con el que muchos aprendieron informática, aunque ahora para enchufarlo no hay negociar con la familia quien puede usar el televisor del salón. Es un gran acierto que además incluya 25 juegos de aquella época, entre ellos Asteroides, Centipede, Missile Command, Boulder Dash, BattleZone y el mitiquísimo M.U.L.E. de Electronic Arts. También lleva un joystick actualizado, con ocho botones. La ranura admite la mayoría de los cartuchos de Atari 400, 800, XL y XE pero en los tiempos que corren también carga juegos y programas desde pendrives USB. Puede leer archivos de imágenes de cartucho, discos y casetes, así que el ritual de rebobinar la cinta tiene menos glamour, pero es más rápido. Se puede jugar en cualquier monitor a través de la salida HDMI, en modos PAL de 50 Hz y NTSC de 60 Hz, formato 4:3, con filtros CRT opcionales para aviejunar la imagen y recordar las teles de culo y pantalla medio curva, y 12 marcos decorativos. También permite conectar mandos y unidades USB mediante cuatro puertos USB-A. Cada juego ofrece cuatro espacios para guardar partidas, algo que no tenía el original, y una función para retroceder hasta 40 segundos, lo cual habría sido un milagro en aquella época. Se puede reservar ya por unos 220 dólares. Atari espera empezar a enviarlo en abril de 2027. _____ &ast Atari hoy en día es, más bien, el holding francés que adquirió la compañía tras muchas vicisitudes y cambios de propietarios. Relacionados: El arte de Atari y las ilustraciones de sus videojuegos La historia de Asteroides, un videojuego mítico de los 80 Enlaces retro sobre microordenadores M.U.L.E. cumple 40 años como juego de estrategia económica Asteroides Multijugador # Enlace permanente"
+  },
+  {
+    "titulo": "Eugenio Chacarra, el subcampeón consagrado en ocho hoyos de épica y locura de Open de España",
+    "medio": "El Mundo",
+    "fecha": 1791749271.0,
+    "link": "https://www.elmundo.es/deportes/golf/2026/10/11/6acbeb11fdddff37798b459b.html",
+    "resumen": "El escocés Grant Forrest conquistó el Abierto de España, su tercer título en el DP World Tour, después de una emocionante lucha con el español Eugenio Chacarra y el francés Victor Perez, con los que llegó empatado al último hoyo. Leer"
+  },
+  {
+    "titulo": "Nike rebaja sus zapatillas color latte más lujosas y retro: un modelo premium a precio de ganga para tus looks de otoño",
+    "medio": "Trendencias",
+    "fecha": 1791748827.0,
+    "link": "https://www.trendencias.com/calzado-ellos/nike-rebaja-sus-zapatillas-color-latte-lujosas-retro-modelo-premium-a-precio-ganga-para-tus-looks-otono",
+    "resumen": "Parece ser que la inspiración gourmand que llegó a la perfumería para estos meses de otoño también se ha apoderado del diseño de las zapatillas que llevaremos los últimos meses del año, sólo basta con darle un vistazo a los complementos y al calzado en color marrón inspirados en el café y los postres para darnos cuenta de que esta estación llega para pintar ser la más antojable de todas. Y como no podía ser de otra manera, son las zapatillas las que cobran protagonismo con estos colores de moda, sobre todo aquellos de inspiración vintage, como las Nike Air Force 1 Low Retro Premium que, con detalles de piel trenzada y materiales de calidad, serán la joya de la corona de muchos de nuestros estilismos. Tomando inspiración de los bolsos de lujo, esta zapatilla muestra una textura de piel trenzada en la parte superior y lateral de su construcción, sin dejar de lado detalles históricos que la convierten en un referente de la marca, como la suela exterior de goma que ofrece tracción y durabilidad, así como una placa metálica en la zona de los cordones y una etiqueta de edición especial con diseño retro. Bershka Para crear un look que incluya los códigos deportivos del baloncesto y que, al mismo tiempo, sirva como un referente para la moda de las calles, unos pantalones baggy de inspiración skate vienen perfectos: son del corte ancho ideal para andar cómodos, pero sin restarle protagonismo a la zapatilla. Los encuentras en Bershka por 35,99 euros Mango Si lo que buscas es hacer un contraste entre la piel de las zapatillas y las prendas de abrigo de tu look, entonces esta chaqueta efecto ante de Mango es perfecta para lograr ese cometido: su diseño de bomber clásica la convierte en un comodín para llevar de la oficina a la tarde con amigos. La encuentras disponible por 59,99 euros H&M Y para no complicar demasiado tus estilismos de cada mañana, una sobrecamisa a cuadros encima de una camiseta básica es todo lo que necesitas para lucir estas zapatillas al máximo. La encuentras en H&M por 29,99 euros Sin duda, las Nike Air Force 1 Low Retro Premium son esas zapatillas que llamarán la atención cuando salgas a la calle porque puedes combinarlas con un montón de estilismos, aunque lo mejor de todo es que las encuentras con descuento: de 139,99 a 97,99 euros para hacerlas parte de tu colección. Fotos de Nike En Trendencias | Puma y Rosé transforman los zapatos de ballet en las zapatillas color espresso más elegantes y vintage para el otoño En El Blog Salmón | Javier Gutiérrez, actor español: “Lo de Madrid es insostenible. Vivo en una finca de 90 vecinos y más de la mitad son apartamentos vacacionales” En Espinof | Willem Dafoe, a sus 71 años: \"Nunca soy más feliz que lavando los platos, limpiando el estiércol de los animales o haciendo tareas sencillas\" - La noticia Nike rebaja sus zapatillas color latte más lujosas y retro: un modelo premium a precio de ganga para tus looks de otoño fue publicada originalmente en Trendencias por Joel Calata ."
+  },
+  {
+    "titulo": "Laura Pato, arquitecta, sobre un piso de 700 euros en Malasaña: \"Tenía dentro de la cocina un plato de ducha, dentro del plato de ducha un váter\"",
+    "medio": "HuffPost",
+    "fecha": 1791748095.0,
+    "link": "https://www.huffingtonpost.es/sociedad/laura-pato-arquitecta-sobre-piso-700-euros-malasana-tenia-cocina-plato-ducha-plato-ducha-vater-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Lula saca a la calle una marea roja para emprender la remontada y ganar las elecciones",
+    "medio": "El País",
+    "fecha": 1791747908.0,
+    "link": "https://elpais.com/america/2026-10-11/lula-saca-a-la-calle-una-marea-roja-para-emprender-la-remontada-y-ganar-las-elecciones.html",
+    "resumen": "El presidente de Brasil advierte contra un triunfo del ultra Bolsonaro el día 25 porque “este país no puede perder la democracia”"
+  },
+  {
+    "titulo": "Pepe Colubi anuncia que tiene párkinson y revela que \"ahora mismo se están enterando la mayoría de mis amigos\"",
+    "medio": "HuffPost",
+    "fecha": 1791747832.0,
+    "link": "https://www.huffingtonpost.es/life/cultura/pepe-colubi-anuncia-parkinson-enterando-mayoria-mis-amigos-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Cinco desaparecidos en nuevas inundaciones en Nepal",
+    "medio": "The Objective",
+    "fecha": 1791747770.0,
+    "link": "https://theobjective.com/internacional/2026-10-11/cinco-desaparecidos-nuevas-inundaciones-nepal/",
+    "resumen": "Cinco personas están desaparecidas tras las últimas inundaciones que han afectado a Nepal y que han destruido varias casas y puentes en el distrito de Gorja. […]"
+  },
+  {
+    "titulo": "Sumar apuesta por Colau y Delgado para liderar Frente Amplio y tejer alianzas \"con todo el que quiera venir\"",
+    "medio": "Europa Press",
+    "fecha": 1791746536.0,
+    "link": "https://www.europapress.es/nacional/noticia-sumar-apuesta-colau-delgado-liderar-frente-amplio-tejer-alianzas-todo-quiera-venir-20261011212216.html",
+    "resumen": "La co-coordinadora de Movimiento Sumar, Verónica Martínez Barbero, ha apostado por una candidatura de Frente Amplio encabezada por la exalcaldesa de Barcelona Ada Colau y el portavoz adjunto de Más Madrid en la Asamblea, Emilio Delgado, si bien ha abierto la puerta a la posibilidad de tejer alianzas con otras fuerzas."
+  },
+  {
+    "titulo": "El humorista Pepe Colubi cuenta que tiene párkison: “En cierta manera, es salir del armario”",
+    "medio": "El País",
+    "fecha": 1791746489.0,
+    "link": "https://elpais.com/television/2026-10-11/pepe-colubi-cuenta-que-tiene-parkison.html",
+    "resumen": "El rostro de ‘Ilustres ignorantes’ hace pública su dolencia en una entrevista en Onda Cero para dar visibilidad a la enfermedad y quitarse presión"
+  },
+  {
+    "titulo": "El Betis de Isco y de Morante golea a Osasuna y es tercero",
+    "medio": "El País",
+    "fecha": 1791746442.0,
+    "link": "https://elpais.com/deportes/futbol/2026-10-11/el-betis-de-isco-y-de-morante-golea-a-osasuna-y-es-tercero.html",
+    "resumen": "Un doblete de su capitán y un gol del hijo del torero en su debut impulsan a los andaluces"
+  },
+  {
+    "titulo": "Puigdemont asiste al recital de 50 aniversario de María del Mar Bonet en el Olympia",
+    "medio": "El Mundo",
+    "fecha": 1791746327.0,
+    "link": "https://www.elmundo.es/espana/2026/10/11/6acbe11421efa083378b456f.html",
+    "resumen": "Puigdemont ha rechazado hacer declaraciones a la prensa antes del comienzo del espectáculo Leer"
+  },
+  {
+    "titulo": "Una tarde para la historia en Las Ventas: Ferrera y Román elevan el toreo a la cumbre",
+    "medio": "El País",
+    "fecha": 1791746276.0,
+    "link": "https://elpais.com/cultura/2026-10-11/una-tarde-para-la-historia-en-las-ventas-ferrera-y-roman-llegan-a-la-cumbre-del-toreo.html",
+    "resumen": "Los dos toreros salieron a hombros por la Puerta Grande en una jornada apasionante, ante una corrida brava, encastada, fiera y muy dificultosa de Adolfo Martín"
+  },
+  {
+    "titulo": "Doble Puerta Grande en Las Ventas: Antonio Ferrera y Román protagonizan una tarde apasionada y libre",
+    "medio": "El Mundo",
+    "fecha": 1791746080.0,
+    "link": "https://www.elmundo.es/cultura/toros/2026/10/11/6acb3d8cfc6c83803b8b4572.html",
+    "resumen": "El extremeño desata la magia de su magisterio y se inventa todo; el valenciano fue la entrega absoluta con un valor a tumba abierta; Adolfo echa un toro de categoría al final de una corrida para ponerle y exponerle mucho Leer"
+  },
+  {
+    "titulo": "En 2001, Raquel y Nicholas empezaron a replantar unos pastos de Río de Janeiro: 25 años y un millón de árboles después, vuelven a nacer tapires, desaparecidos desde 1914",
+    "medio": "HuffPost",
+    "fecha": 1791745658.0,
+    "link": "https://www.huffingtonpost.es/life/animales/en-2001-raquel-nicholas-empezaron-replantar-pastos-rio-janeiro-25nos-millon-arboles-vuelven-nacer-tapires-desaparecidos-1914-f202610.html",
+    "resumen": ""
   },
   {
     "titulo": "Ada Colau: \"Mis padres eran hippies y mis abuelos llegaron a Barcelona escapando de la pobreza\"",
@@ -42,81 +399,11 @@
     "resumen": "El nombre de Ada Colau suena cada vez con más fuerza para pasar de exalcaldesa de Barcelona a líder de Frente Amplio de cara a las próximas elecciones generales. Mientras tanto, una entrevista que concedió en 2018 al programa 'el principio', de la Cadena SER, nos permite conocer la historia familiar que hay detrás de su trayectoria política. El resumen sería: unos padres con ganas de libertad, unos abuelos que conocieron el hambre de la guerra y una infancia en la que también hubo que hacer números para llegar a fin de mes. De hecho el programa presentaba a sus padres directamente como hippies. Colau los recordaba como jóvenes con inquietudes artísticas en una casa en la que sonaban Serrat, los Beatles o Simon & Garfunkel. Según explicó, no militaban en partidos ni sindicatos, pero participaban en manifestaciones y se movían en un ambiente progresista y antifranquista. Para ellos, el final de la dictadura significó poder expresarse y vivir con libertad. Su madre, que había llegado a Barcelona desde Almazán, en Soria, quiso quedarse en la capital catalana cuando sus padres decidieron regresar al pueblo. La condición que le pusieron, según relató Colau, fue que se casara. Para sus abuelos paternos, la llegada a Barcelona se produjo después de la guerra, \"huyendo de la pobreza y de la miseria\". Según ella misma explicó en aquella entrevista, venían de \"un pequeñísimo pueblo que se llama Güell, en Huesca, y eran pastores, y apenas sabían ni leer ni escribir\". @adacolau Su abuela trabajó como interna en una casa adinerada y su abuelo fue chófer. \"Su única obsesión fue trabajar para darles un futuro mejor a sus hijos\", aseguró la Colau. Ella pasaba muchos fines de semana con ellos y los recuerda atravesados por el hambre que habían conocido. En su casa, la comida se cuidaba porque había faltado y la posibilidad de que volviera a faltar seguía presente. También por ese motivo insistían mucho en que su nieta estudiara una carrera y consiguiera un trabajo fijo. A la nieta, sin embargo, le interesaban la filosofía y el activismo. \"Ninona, no te metas en política\", le decía usando un apelativo cariñoso. Había vivido la guerra y la posguerra, y temía que implicarse pudiera complicarle la vida. Lamentablemente, nunca llegaron a verla como alcaldesa de Barcelona. La precariedad, además, no se quedó en esa generación. Colau relató que su familia disfrutó de unos años de prosperidad gracias al trabajo de su padre en el mundo de la publicidad, pero después cuenta que \"vino la gran crisis y todo se vino a pique. Los ingresos decayeron y tuvieron que malvender su vivienda. Ella era la mayor de cuatro hermanas y recuerda meses en los que no llegaron a final de mes y tuvieron que pedir ayuda a la familia para comer. \"Cada mes peleábamos para no ser desahuciados\", explicó. Así que mucho antes de ser conocida como portavoz de la Plataforma de Afectados por la Hipoteca, ya había vivido ese miedo en casa. \"Es un tema que conozco muy en primera persona porque recuerdo aquella segunda infancia muy dura\", dijo sobre aquella época. Entre las imágenes de recuerdos concretos que compartió, estaba el de contar y buscar si quedaba alguna moneda para comprar la merienda. Una estampa que añade una dimensión personal a sus intervenciones políticas sobre vivienda y pobreza. Fotos de portada | @adacolau En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos En Xataka | En los sótanos de las casas europeas funciona un motor patentado en 1816 por un pastor escocés para evitar que los obreros murieran quemados En Motorpasion | Enrique Álvarez, \"Kike\", mecánico: \"En cinco años nadie va a poder mantener un coche\" - La noticia Ada Colau: \"Mis padres eran hippies y mis abuelos llegaron a Barcelona escapando de la pobreza\" fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "La candidatura de Colau al Congreso perfila un duelo con Hereu y reactiva el eje confluente con Sumar",
-    "medio": "Moncloa.com",
-    "fecha": 1791745219.0,
-    "link": "https://www.moncloa.com/2026/10/11/candidatura-colau-congreso-comuns-sumar-3446352/",
-    "resumen": "Ada Colau valora dar el salto al Congreso por Comuns el 29-N y enfrentarse a Jordi Hereu en el mayor granero electoral de España. La entrada La candidatura de Colau al Congreso perfila un duelo con Hereu y reactiva el eje confluente con Sumar aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Prisión sin fianza para el joven que mató a tiros al cirujano asesinado en Marbella: causa secreta",
-    "medio": "Moncloa.com",
-    "fecha": 1791745026.0,
-    "link": "https://www.moncloa.com/2026/10/11/prision-provisional-cirujano-asesinado-marbella-3446412/",
-    "resumen": "El joven detenido por la muerte del cirujano asesinado en Marbella entra en prisión provisional sin fianza con la causa declarada secreta. La entrada Prisión sin fianza para el joven que mató a tiros al cirujano asesinado en Marbella: causa secreta aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Sumar y Podemos reabren la unidad de la izquierda: las corrientes que impulsan la reconciliación y las que la frenan",
-    "medio": "Moncloa.com",
-    "fecha": 1791744919.0,
-    "link": "https://www.moncloa.com/2026/10/11/sumar-podemos-unidad-izquierda-espacio-confluente-3446354/",
-    "resumen": "Sumar y Podemos negocian contra reloj una lista única a la izquierda del PSOE, con Ada Colau como posible bisagra y el 16 de octubre como fecha límite. La entrada Sumar y Podemos reabren la unidad de la izquierda: las corrientes que impulsan la reconciliación y las que la frenan aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Aperitivos Halloween para adultos: 10 ideas originales para una fiesta terroríficamente deliciosa",
-    "medio": "OK Diario",
-    "fecha": 1791744905.0,
-    "link": "https://okdiario.com/recetas/aperitivos-halloween-adultos-4750529",
-    "resumen": "Halloween no es solo cosa de niños. Si organizas una cena temática o una reunión con amigos, estos aperitivos de Halloween para adultos combinan sabor, buena presentación y un toque de humor negro. Son entrantes y entremeses fáciles, tanto fríos como calientes, para picotear entre disfraces, cócteles y buena compañía. Este año Halloween cae en … Continuar leyendo \"Aperitivos Halloween para adultos: 10 ideas originales para una fiesta terroríficamente deliciosa\""
-  },
-  {
     "titulo": "El Tribunal Supremo debería inclinarse por el mal menor ante la trampa de la 'ley de nietos'",
     "medio": "El Español",
     "fecha": 1791744831.0,
     "link": "https://www.elespanol.com/opinion/editoriales/20261011/tribunal-supremo-deberia-inclinarse-mal-menor-trampa-ley-nietos/1003744416874_14.html",
     "resumen": "Para subsanar en lo posible el estropicio de la trampa electoral, el Supremo debe mantener la suspensión cautelar y así garantizar la limpieza de las elecciones del 29-N."
-  },
-  {
-    "titulo": "Polonia investiga un supuesto plan para atentar contra Tusk y el ministro de Defensa",
-    "medio": "El País",
-    "fecha": 1791744805.0,
-    "link": "https://elpais.com/internacional/2026-10-11/polonia-investiga-un-supuesto-plan-para-atentar-contra-tusk-y-el-ministro-de-defensa.html",
-    "resumen": "Las autoridades detienen a un hombre tras recibir un aviso “especialmente preocupante”"
-  },
-  {
-    "titulo": "Ayuso acusa al Gobierno de consentir la presencia de Samidoun en Madrid",
-    "medio": "Moncloa.com",
-    "fecha": 1791744726.0,
-    "link": "https://www.moncloa.com/2026/10/11/ayuso-samidoun-madrid-fplp-3446414/",
-    "resumen": "Ayuso eleva el pulso con el Gobierno por Samidoun: exige saber si la red vinculada al FPLP y prohibida en Alemania dirige la acampada de Sol. La entrada Ayuso acusa al Gobierno de consentir la presencia de Samidoun en Madrid aparece primero en Moncloa."
-  },
-  {
-    "titulo": "EE.UU. empuja por una transición en Venezuela mientras Nueva York amplía los cargos contra Maduro",
-    "medio": "Moncloa.com",
-    "fecha": 1791744619.0,
-    "link": "https://www.moncloa.com/2026/10/11/transicion-venezuela-negociaciones-eeuu-3446357/",
-    "resumen": "La transición en Venezuela avanza bajo tutela de Washington mientras la Fiscalía de Nueva York amplía los cargos contra Maduro y Cilia Flores. La entrada EE.UU. empuja por una transición en Venezuela mientras Nueva York amplía los cargos contra Maduro aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Australia asfaltó en 2023 dos calles con más de 135.000 vasos de café reciclados y 1,2 millones de botellas de vidrio: sus creadores dicen que contamina un 24 % menos",
-    "medio": "OK Diario",
-    "fecha": 1791744465.0,
-    "link": "https://okdiario.com/techy/vasos-cafe-reciclados-asfalto-calles-sidney-australia-20521786",
-    "resumen": "A comienzos de 2023, una cuadrilla de State Asphalt Services extendió de noche una capa de asfalto nuevo sobre 390 metros de Jamison Road, en South Penrith, un barrio del oeste de Sídney (Australia). Aquella mezcla llevaba dentro unos 72.000 vasos de café para llevar que los vecinos habían depositado en puntos de reciclaje de … Continuar leyendo \"Australia asfaltó en 2023 dos calles con más de 135.000 vasos de café reciclados y 1,2 millones de botellas de vidrio: sus creadores dicen que contamina un 24 % menos\""
-  },
-  {
-    "titulo": "La Policía Nacional desaloja en Ceuta el último gran asentamiento irregular en la playa de El Guano",
-    "medio": "Moncloa.com",
-    "fecha": 1791744443.0,
-    "link": "https://www.moncloa.com/2026/10/11/policia-nacional-desalojo-ceuta-asentamiento-irregular-3446630/",
-    "resumen": "La Policía Nacional culmina en Ceuta el desalojo del último asentamiento irregular, en la playa de El Guano, con una veintena de furgones. La entrada La Policía Nacional desaloja en Ceuta el último gran asentamiento irregular en la playa de El Guano aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Doku doblega al Liverpool y protege al City del escarnio",
-    "medio": "El País",
-    "fecha": 1791744399.0,
-    "link": "https://elpais.com/deportes/futbol/2026-10-11/doku-doblega-al-liverpool-y-protege-al-city-del-escarnio.html",
-    "resumen": "La entrada del extremo belga en Anfield (0-3) revoluciona la primera salida del equipo celeste tras el fallo que lo señala por fraude financiero"
   },
   {
     "titulo": "Abascal insta a votar presencialmente: «Es desconfianza de Pedro Sánchez»",
@@ -126,62 +413,6 @@
     "resumen": "El presidente de Vox, Santiago Abascal, ha pedido además acudir a las urnas de forma presencial. «A votar presencialmente. El que no tenga otro remedio, que […]"
   },
   {
-    "titulo": "El tenis español, contra el maleficio histórico de Shanghái: cuatro amagos, ningún trofeo",
-    "medio": "El País",
-    "fecha": 1791744188.0,
-    "link": "https://elpais.com/deportes/tenis/2026-10-11/el-tenis-espanol-contra-el-maleficio-historico-de-shanghai.html",
-    "resumen": "El torneo chino es el único Masters 1000 que aún no ha registrado un campeón nacional. Nadal perdió dos finales y Ferrer y Bautista se quedaron a un solo paso"
-  },
-  {
-    "titulo": "El hijo de Morante debuta con el Betis en Primera División con un golazo en su primer disparo",
-    "medio": "OK Diario",
-    "fecha": 1791744060.0,
-    "link": "https://okdiario.com/deportes/hijo-morante-debuta-betis-primera-division-golazo-primer-disparo-20530061",
-    "resumen": "José Antonio Morante, hijo del gran torero Morante de la Puebla, debutó este domingo en Primera División con la camiseta del Betis y en su primer disparo a portería marcó un golazo desde fuera del área en un estadio de La Cartuja entregado al chaval. Fue el 5-2 del conjunto verdiblanco, que es tercero en … Continuar leyendo \"El hijo de Morante debuta con el Betis en Primera División con un golazo en su primer disparo\""
-  },
-  {
-    "titulo": "Lula saca a la calle una marea roja para emprender la remontada y ganar las elecciones",
-    "medio": "El País",
-    "fecha": 1791743876.0,
-    "link": "https://elpais.com/america/2026-10-11/lula-saca-a-la-calle-una-marea-roja-para-emprender-la-remontada-y-ganar-las-elecciones.html",
-    "resumen": "El presidente de Brasil advierte contra un triunfo del ultra Bolsonaro el día 25 porque “este país no puede perder la democracia”"
-  },
-  {
-    "titulo": "¿Por qué no presenta Sandra Barneda este domingo ‘Supervivientes: Conexión Honduras’?",
-    "medio": "OK Diario",
-    "fecha": 1791743566.0,
-    "link": "https://okdiario.com/happyfm/que-no-presenta-sandra-barneda-este-domingo-supervivientes-conexion-honduras-20523243",
-    "resumen": "Quien espere ver a Sandra Barneda al frente de Supervivientes: Conexión Honduras este domingo 11 de octubre se va a llevar una sorpresa. La presentadora no estará en el plató porque lo normal es que esté disfrutando con su pareja, Pascalle Paerel, de la resaca de su comentada. Para tener libres la boda y las … Continuar leyendo \"¿Por qué no presenta Sandra Barneda este domingo ‘Supervivientes: Conexión Honduras’?\""
-  },
-  {
-    "titulo": "Jornada 8 de la Liga: resumen de todos los partidos",
-    "medio": "OK Diario",
-    "fecha": 1791743431.0,
-    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
-    "resumen": "Llega la jornada 8 de Liga. Después de un enorme parón internacional, el más largo que se recuerda, vuelve nuestro fútbol. La Primera División vuelve a escena otra vez, con 10 partidos que se celebrarán entre el viernes y el lunes, con un supersábado en el que jugarán cuatro de los cinco equipos de Champions: … Continuar leyendo \"Jornada 8 de la Liga: resumen de todos los partidos\""
-  },
-  {
-    "titulo": "Postres de Halloween fáciles sin horno: 10 recetas rápidas y divertidas",
-    "medio": "OK Diario",
-    "fecha": 1791743424.0,
-    "link": "https://okdiario.com/recetas/postres-faciles-halloween-video-2523160",
-    "resumen": "Un postre de Halloween no necesita horno ni horas de cocina. Esta guía reúne 10 postres de Halloween fáciles y sin horno, muchos de ellos fríos, que se montan en pocos minutos con galletas, chocolate, yogur y golosinas. Son recetas sencillas para hacer con niños y quedan genial en la mesa de una fiesta de … Continuar leyendo \"Postres de Halloween fáciles sin horno: 10 recetas rápidas y divertidas\""
-  },
-  {
-    "titulo": "Diez empresas copan el 40% de la contratación municipal en Barcelona",
-    "medio": "Expansión",
-    "fecha": 1791743292.0,
-    "link": "https://www.expansion.com/catalunya/2026/10/11/diez-empresas-copan-40-contratacion-municipal-barcelona.html",
-    "resumen": "El Ayuntamiento de la capital catalana y sus organismos dependientes rubricaron el año pasado casi 36.000 contratos con proveedores por más de 1.800 millones de euros. FCC Medio Ambiente repitió en 2025 como primer contratista municipal. Leer"
-  },
-  {
-    "titulo": "IU apoya a Ada Colau para que lidere el Frente Amplio y pide responsabilidad a los partidos",
-    "medio": "La Vanguardia",
-    "fecha": 1791742957.0,
-    "link": "https://www.lavanguardia.com/politica/20261011/11656655/iu-apoya-ada-colau-lidere-frente-amplio-pide-responsabilidad-partidos.html",
-    "resumen": "El partido encabezado por Antonio Maíllo apuesta por la exalcaldesa de Barcelona porque “representa una oportunidad para ensanchar al máximo el Frente Amplio”"
-  },
-  {
     "titulo": "Netanyahu ordena investigar y procesar a los participantes del documental 'NAZA'",
     "medio": "El Mundo",
     "fecha": 1791742835.0,
@@ -189,25 +420,18 @@
     "resumen": "\"La película construye una narrativa falsa, engañosa y sesgada que difama al Estado de Israel y a las FDI (Fuerzas de Defensa de Israel) a nivel mundial, y que perjudica gravemente la imagen de Israel\", afirmó el mandatario Leer"
   },
   {
-    "titulo": "Comsa prioriza la rentabilidad y busca crecer en mantenimiento y concesiones",
-    "medio": "Expansión",
-    "fecha": 1791742717.0,
-    "link": "https://www.expansion.com/catalunya/2026/10/11/comsa-prioriza-rentabilidad-busca-crecer-mantenimiento-concesiones.html",
-    "resumen": "La constructora catalana apuesta por la mejora de los márgenes más que por el crecimiento y prevé cerrar el ejercicio con unas ventas de hasta 1.040 millones de euros, un 3% más que en 2025. Leer"
+    "titulo": "La importancia de la autoestima en la sociedad actual",
+    "medio": "El Independiente",
+    "fecha": 1791742780.0,
+    "link": "https://www.elindependiente.com/eli/2026/10/11/la-importancia-de-la-autoestima-en-la-sociedad-actual/",
+    "resumen": "No resulta fácil escapar a la comparación diaria, especialmente cuando la esfera digital te muestra lo que parece ser la […]"
   },
   {
-    "titulo": "Puigdemont, en París para asistir en el Olympia al 50 aniversario de María del Mar Bonet",
-    "medio": "La Vanguardia",
-    "fecha": 1791742630.0,
-    "link": "https://www.lavanguardia.com/politica/20261011/11656650/puigdemont-paris-asistir-olympia-50-aniversario-maria-mar-bonet.html",
-    "resumen": "El expresident ha rechazado hacer declaraciones a la prensa antes del comienzo del espectáculo del icono de la Nova Cançó catalana"
-  },
-  {
-    "titulo": "La AIE insta a los países a liberar más reservas de diésel por la crisis de precios",
-    "medio": "La Vanguardia",
-    "fecha": 1791741893.0,
-    "link": "https://www.lavanguardia.com/economia/20261011/11656648/aie-insta-paises-liberar-mas-reservas-diesel-crisis-precios.html",
-    "resumen": "“Las condiciones actuales del mercado requieren atención inmediata”, afirmó Fatih Birol"
+    "titulo": "Abascal arranca la precampaña de Vox prometiendo vivienda, pensiones y remigración: \"No van a ser unas elecciones normales\"",
+    "medio": "El Independiente",
+    "fecha": 1791742777.0,
+    "link": "https://www.elindependiente.com/espana/2026/10/11/abascal-arranca-la-precampana-de-vox-prometiendo-vivienda-pensiones-y-remigracion-no-van-a-ser-unas-elecciones-normales/",
+    "resumen": "El presidente de Vox, Santiago Abascal, ha abierto este domingo en Estepona (Málaga) la precampaña de su formación ante las […]"
   },
   {
     "titulo": "Rufián firma la paz con Junqueras para liderar ERC y negocia una alianza con Podemos que puede reventar el Frente Amplio",
@@ -217,11 +441,11 @@
     "resumen": "Esquerra y su líder en el Congreso aparcan la polémica sobre la confluencia con los partidos de izquierdas y soberanistas del resto de España, pero estudian fórmulas de colaboración con Podemos Leer"
   },
   {
-    "titulo": "Irán afirma que EEUU ha aceptado algunas de sus condiciones para poner fin a la guerra",
-    "medio": "Expansión",
-    "fecha": 1791741817.0,
-    "link": "https://www.expansion.com/economia/2026/10/11/6acbc1c3e5fdea9b018b4586.html",
-    "resumen": "El secretario del Consejo Supremo de Seguridad Nacional de Irán, Mohsen Rezaei, afirmó este domingo que Estados Unidos ha aceptado algunas de sus condiciones para poner fin a la guerra y reabrir el estrecho de Ormuz, a pesar de que el presidente estadounidense, Donald Trump, rechazó la propuesta en público. Leer"
+    "titulo": "\"Siempre que hay una emergencia ustedes nunca fallan\": Robles reivindica la labor \"impecable\" de las Fuerzas Armadas en Ceuta frente a \"alguna crítica injusta\"",
+    "medio": "El Independiente",
+    "fecha": 1791741644.0,
+    "link": "https://www.elindependiente.com/espana/2026/10/11/robles-reivindica-la-labor-impecable-de-las-fuerzas-armadas-en-ceuta-frente-a-alguna-critica-injusta-siempre-que-hay-una-emergencia-ustedes-nunca-fallan/",
+    "resumen": "La ministra de Defensa, Margarita Robles, ha defendido con firmeza este domingo la labor \"impecable\" y con \"absoluto\" respeto a […]"
   },
   {
     "titulo": "No eres rara, solo más inteligente que el resto. Y estos rasgos te lo demuestran",
@@ -273,27 +497,6 @@
     "resumen": ""
   },
   {
-    "titulo": "VW pide a Francia y Alemania más protección para los coches eléctricos",
-    "medio": "La Vanguardia",
-    "fecha": 1791741512.0,
-    "link": "https://www.lavanguardia.com/dinero/20261011/11656646/vw-pide-francia-alemania-mas-proteccion-coches-electricos.html",
-    "resumen": "El grupo ya analiza la remodelación de la red de concesionarios de Seat ante el nuevo escenario"
-  },
-  {
-    "titulo": "Abascal llama a evitar el “exceso de confianza” y avisa que Sánchez usará la “mentira” y la “violencia”",
-    "medio": "La Vanguardia",
-    "fecha": 1791741037.0,
-    "link": "https://www.lavanguardia.com/politica/20261011/11656642/abascal-llama-evitar-exceso-confianza-encuestas-avisa-sanchez-usara-mentira-violencia.html",
-    "resumen": "El líder de Vox señala que el Gobierno “está dispuesto a todo” y a “matar” tras las informaciones publicadas del caso Leire"
-  },
-  {
-    "titulo": "Haaland, Doku y Cherki ‘amnistían’ al City con una goleada en un Anfield caldeado",
-    "medio": "La Vanguardia",
-    "fecha": 1791740824.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20261011/11656643/haaland-doku-cherki-amnistian-al-city-con-goleada-en-anfield-caliente.html",
-    "resumen": "Los de Manchester reivindican su fútbol en un partido donde la afición del Liverpool se muestra muy beligerante con ellos en el primer partido tras ser declarados culpables"
-  },
-  {
     "titulo": "Por 8 euros, Lidl vende hoy una lámpara con sensor de movimiento que soluciona un problema cotidiano en casa",
     "medio": "Xataka",
     "fecha": 1791740785.0,
@@ -308,18 +511,11 @@
     "resumen": "Más allá del ámbito británico, el primer ministro situó el problema en el marco global de la seguridad europea.Más información : Burnham acusa a Rusia de \"enemiga\" y de injerencia en la política de Francia y Alemania"
   },
   {
-    "titulo": "David Ellison ha creado un coloso de Hollywood: Ahora el reto será dirigirlo",
-    "medio": "Expansión",
-    "fecha": 1791740654.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8d90de5fdeabf6a8b4593.html",
-    "resumen": "El magnate de los medios se enfrenta a un desafío formidable tras la fusión de Paramount y Warner Bros. Leer"
-  },
-  {
-    "titulo": "Los Mossos buscan a los autores de un tiroteo que acaba con una mujer herida de bala en la cabeza en Figueres",
-    "medio": "El País",
-    "fecha": 1791740468.0,
-    "link": "https://elpais.com/espana/catalunya/2026-10-11/los-mossos-buscan-a-los-autores-de-un-tiroteo-acaba-con-una-mujer-herida-de-bala-en-la-cabeza-en-figueres.html",
-    "resumen": "La víctima ha sido intervenida y permanece estable con pronóstico reservado en el Hospital Trueta de Girona"
+    "titulo": "La esperanza de una tercera vía entre Le Pen y Mélenchon: Glucksmann arrasa en las primarias socialdemócratas para las presidenciales de 2027",
+    "medio": "El Independiente",
+    "fecha": 1791740577.0,
+    "link": "https://www.elindependiente.com/internacional/2026/10/11/glucksmann-arrasa-en-las-primarias-socialdemocratas-y-busca-abrir-una-tercera-via-en-una-francia-al-limite/",
+    "resumen": "La socialdemocracia francesa ya tiene candidato para las elecciones presidenciales de la primavera de 2027, y su elección no ha […]"
   },
   {
     "titulo": "Esteban agranda el esperpento al afirmar que se \"se le comunicó minutos antes\" la candidatura de Bengoetxea que ya conocía",
@@ -327,20 +523,6 @@
     "fecha": 1791740294.0,
     "link": "https://www.elmundo.es/pais-vasco/2026/10/11/6acbbd44fdddff80638b458c.html",
     "resumen": "El presidente del PNV midió mal, otra vez, los tiempos horas antes de que el grupo que apoya a Ansola abriera la 'guerra interna' en Bizkaia. Esteban señala al presidente vizcaíno porque \"históricamente\" las propuestas de las Territoriales se habían consesuado con la presidencia del EBB Leer"
-  },
-  {
-    "titulo": "El eurodiputado Raphaël Glucksmann gana las primarias socialistas en Francia",
-    "medio": "El País",
-    "fecha": 1791740189.0,
-    "link": "https://elpais.com/internacional/2026-10-11/el-eurodiputado-raphael-glucksmann-gana-las-primarias-socialistas-en-francia.html",
-    "resumen": "“Una izquierda fiel a sus valores puede unir, gobernar y ganar”, dice el aspirante a la presidencia francesa"
-  },
-  {
-    "titulo": "Un disparo accidental hiere a una mujer en la cabeza en el barrio de Sant Joan de Figueres",
-    "medio": "La Vanguardia",
-    "fecha": 1791739767.0,
-    "link": "https://www.lavanguardia.com/local/girona/20261011/11656635/disparo-accidental-hiere-mujer-cabeza-barrio-sant-joan-figueres.html",
-    "resumen": "Los hechos se produjeron en la calle Doctor Fleming, en el marco de la celebración de una fiesta de cumpleaños"
   },
   {
     "titulo": "Abascal apunta a UGT y CCOO por convocar una huelga general «en medio» de una campaña electoral",
@@ -371,32 +553,11 @@
     "resumen": "Izquierda Unida (IU) ha mostrado este domingo su respaldo a que sea la exalcaldesa de Barcelona Ada Colau quien encabece la candidatura de Frente Amplio en las elecciones generales del 29 de noviembre, al tiempo que ha instado al resto de fuerzas políticas a llegar a un acuerdo."
   },
   {
-    "titulo": "Grupo Renault celebra el \"importante\" acuerdo de la UE y China para reducir las importaciones de coches",
-    "medio": "Expansión",
-    "fecha": 1791739271.0,
-    "link": "https://www.expansion.com/empresas/motor/2026/10/11/6acbc245e5fdea2d6c8b4584.html",
-    "resumen": "El consejero delegado de Grupo Renault, François Provost, ha celebrado que la Unión Europea ha alcanzado un \"hito importante\" con su acuerdo para frenar la avalancha de coches híbridos procedentes de China, lo que contribuirá a garantizar el futuro de la industria automovilística europea. Leer"
-  },
-  {
-    "titulo": "Eugenio Chacarra, subcampeón en el Open de España, va tras los pasos de Seve y Jon Rahm",
-    "medio": "El País",
-    "fecha": 1791739113.0,
-    "link": "https://elpais.com/deportes/2026-10-11/eugenio-chacarra-subcampeon-en-el-open-de-espana-va-tras-los-pasos-de-seve-y-jon-rahm.html",
-    "resumen": "El golfista madrileño es segundo en la Race to Dubai, la clasificación del circuito europeo, que solo han conquistado el cántabro y el vasco entre los jugadores españoles"
-  },
-  {
     "titulo": "Izquierda Unida respalda la vía Colau y pide \"responsabilidad\" al resto de fuerzas tras el movimiento de Rufián",
     "medio": "eldiario.es",
     "fecha": 1791738894.0,
     "link": "https://www.eldiario.es/politica/izquierda-unida-respalda-via-colau-pide-responsabilidad-resto-fuerzas-movimiento-rufian_1_13578996.html",
     "resumen": "La formación insiste en que el Frente Amplio debe aglutinar “a todas las fuerzas políticas de la izquierda del Estado”ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio Izquierda Unida ha respaldado de nuevo la candidatura de Ada Colau como una oportunidad “para ensanchar al máximo el Frente Amplio” e insiste en que debe aglutinar “a todas las fuerzas políticas de la izquierda del Estado”. El partido se ha reunido esta tarde, después de que ERC llegase a un “acuerdo de colaboración” con Podemos y confirmase a Rufián como cabeza de lista. “Nuestra voluntad es inequívoca: no le soltamos la mano a ninguna de ellas. En este sentido, Izquierda Unida hace un llamamiento a la responsabilidad de todas las fuerzas políticas. Tenemos la obligación de estar a la altura de quienes esperan una alternativa política capaz de defender y ampliar sus derechos”, señala la formación en un comunicado. IU cree que no hay “una sola razón” que impida el entendimiento entre las organizaciones ni tampoco “para que las individualidades se impongan a los intereses de la mayoría social”. Este domingo se han sucedido los movimientos en la izquierda del tablero. Después del paso de Rufián, Más Madrid ha propuesto un acuerdo en el que en la circunscripción de Madrid se presente como cabeza de lista Emilio Delgado seguido de Mónica García, con la integración de Izquierda Unida, Movimiento Sumar y Podemos, en el caso de que este último decida integrarse en el Frente Amplio. Desde los Comuns han lamentado “que no haya querido participar en la construcción de un Frente Amplio de izquierdas para maximizar las opciones de frenar y volver a derrotar a las derechas, como ya se hizo en 2023”. Las mismas fuentes añaden que los Comuns siguen “comprometidos y trabajando activamente” para articular un Frente Amplio “de ámbito estatal” que dé respuesta “a la voluntad de unidad expresada reiteradamente por la ciudadanía”."
-  },
-  {
-    "titulo": "Abascal pide calma ante las \"provocaciones\" desde Estepona, pero alerta contra el \"gobierno más sucio\": \"No os fieis de una sola encuesta\"",
-    "medio": "El Mundo",
-    "fecha": 1791738684.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6acbac50e85ece731f8b457c.html",
-    "resumen": "El líder de Vox arranca la precampaña acusando a Moncloa de intentar alterar el censo, moviliza el voto presencial frente al fantasma del pucherazo y contrapone su \"prioridad nacional\" a la crisis de la vivienda Leer"
   },
   {
     "titulo": "ERC, «muy cerca» de un acuerdo con Podemos para que no presente candidatura en Cataluña",
@@ -406,46 +567,11 @@
     "resumen": "ERC ve «muy cerca» un acuerdo con Podemos con el que este partido no presentaría candidatura en Cataluña en las elecciones del 29 de noviembre y […]"
   },
   {
-    "titulo": "Las imágenes de una nueva riada en Nepal",
-    "medio": "El País",
-    "fecha": 1791738524.0,
-    "link": "https://elpais.com/videos/2026-10-11/las-imagenes-de-una-nueva-riada-en-nepal.html",
-    "resumen": "La crecida del río Budhi Gandaki, en el distrito de Gorkha, ha arrasado con decenas de casas y ha dejado varios desaparecidos"
-  },
-  {
-    "titulo": "Un nuevo ataque de hutíes contra el aeropuerto de Riad deja varios heridos tras la muerte ayer de 12 personas",
-    "medio": "El Mundo",
-    "fecha": 1791738153.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/11/6acb5c33e4d4d89f188b459d.html",
-    "resumen": "El aeropuerto de la ciudad ha vuelto a suspender las operaciones \"hasta nuevo aviso\" Leer"
-  },
-  {
-    "titulo": "Un estudio abre la puerta a 3.767 plazas turísticas más en Formentera y reaviva el debate sobre la saturación",
-    "medio": "HuffPost",
-    "fecha": 1791738148.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-estudio-abre-puerta-3767-plazas-turisticas-mas-formentera-reaviva-debate-sobre-saturacion-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Trump anuncia que Kiev y Moscú acordaron dejar de atacar sus infraestructuras energéticas",
-    "medio": "Expansión",
-    "fecha": 1791738146.0,
-    "link": "https://www.expansion.com/economia/2026/10/11/6acbbf0ee5fdeabe5f8b4596.html",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, anunció este domingo que Rusia y Ucrania han acordado suspender los ataques contra sus respectivas infraestructuras energéticas, que en las últimas semanas han ido escalando y han afectado a los precios de los combustibles a nivel global. Leer"
-  },
-  {
-    "titulo": "En el año 705 abrió en Japón un hotel que sigue funcionando hoy: 1.321 años después, lo lleva la misma familia",
-    "medio": "HuffPost",
-    "fecha": 1791738071.0,
-    "link": "https://www.huffingtonpost.es/sociedad/en-ano-705-abrio-japon-hotel-sigue-funcionando-hoy-1321-anos-lleva-familia-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Una camarera española que trabaja en Noruega explica la gran diferencia: \"Se respeta cada minuto extra que trabajas\"",
-    "medio": "HuffPost",
-    "fecha": 1791738052.0,
-    "link": "https://www.huffingtonpost.es/virales/una-camarera-espanola-trabaja-noruega-explica-gran-diferencia-f202610.html",
-    "resumen": ""
+    "titulo": "Huawei Watch GT 7, análisis y opinión tras 3 semanas de uso: ¿merece la pena?",
+    "medio": "El Independiente",
+    "fecha": 1791738219.0,
+    "link": "https://www.elindependiente.com/de-tiendas/2026/10/11/huawei-watch-gt-7-analisis-y-opinion-tras-3-semanas-de-uso-merece-la-pena/",
+    "resumen": "Tres semanas con el Huawei Watch GT 7 en la muñeca dan para mucho. ¿Merece la pena comprarlo en 2026? Te cuento lo mejor, lo peor y lo que me sorprendió. Copiar"
   },
   {
     "titulo": "Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula",
@@ -453,13 +579,6 @@
     "fecha": 1791738027.0,
     "link": "https://www.xataka.com/medicina-y-salud/numero-que-tu-reloj-mide-predice-cuanto-viviras-mejor-que-peso-vo2-max",
     "resumen": "Tener un reloj inteligente en la muñeca como un Apple Watch o un Garmin es sinónimo a día de hoy de tener una gran cantidad de información en la palma de nuestra mano. Frecuencia cardiaca, frecuencia respiratoria, número de pasos o incluso la posibilidad de hacer un electrocardiograma son algunos de estos datos sobre nuestra salud que, bien interpretados, nos pueden dar mucha información. La longevidad. En la sociedad actual, el objetivo de casi todos es el de vivir muchos años y con una buena calidad de vida. Para ello tratamos de conocer al dedillo nuestros niveles de colesterol, de tensión o de glucosa en sangre para poder aplicar tratamientos correctivos o incluso para aplicar scores que engloben toda la información para conocer nuestra esperanza de vida o incluso las probabilidades que tenemos de sufrir un evento cardiovascular. Pero hay un valor que nos da nuestro propio reloj inteligente que puede darnos una idea de esta esperanza de vida, y que a veces dejamos de lado: la VO2 max o 'capacidad aeróbica'. En Xataka Ni gimnasio ni 10.000 pasos: los que más viven solo se mueven todo el día Qué es. De una manera resumida, este valor nos indica la cantidad de oxígeno que puede procesar nuestro organismo para generar energía en una actividad física de alto impacto. Si buscamos el símil perfecto, se suele asemejar a los caballos de un coche, ya que en este caso, cuantos más caballos, más nos va a rendir al acelerar. Pues en el caso de nuestro organismo, cuanta mejor VO2 max tengamos, más oxígeno podrá captar nuestro organismo. A priori, este es un valor que históricamente se ha reservado para ciclistas de élite y maratonianos con el objetivo de saber cómo procesaban el oxígeno. Pero ahora sabemos que el estado de nuestro sistema cardiorrespiratorio es un gran indicativo para predecir el riesgo de mortalidad, y este valor nos hace tener una idea de cómo está nuestro organismo. Un signo vital. El peso de este indicador es tan importante que la Asociación Americana del Corazón (AHA) propuso en 2016 que la forma cardiorrespiratoria debe ser tratada y evaluada como un \"signo vital clínico\". Y para que nos hagamos una idea con datos objetivos, un estudio con 20,9 millones de observaciones apuntó que las personas con una buena forma física tenían un 53% menos de riesgo de morir que aquellas que estaban peor físicamente. Pero la buena noticia es que, por cada unidad metabólica (MET) de capacidad aeróbica, la mortalidad general se reduce entre un 11% y un 17%. Y esta unidad no es difícil de conseguir, puesto que solo siendo capaces de correr 1 km/k más rápido sin 'morir' en el intento ya es suficiente para tener un 13% menos de riesgo de mortalidad. El cálculo. Una vez que tenemos claro que tener una VO2 max baja es una mala idea, lo siguiente es saber si lo que nos dicen nuestros relojes es cierto. A pariori utilizan tanto los sensores como los algoritmos para darnos un VO2 max estimado que nos ahorra el hecho de pagar la prueba, que es bastante laboriosa de realizar. Y para conocer si es exacto, nos podemos ir a una revisión de la Universidad de Granada que concluyó que los dispositivos que calculan el VO2 máx utilizando únicamente datos del usuario en reposo tienden a sobreestimar el valor real, presentando unos márgenes de error considerables de ±15 ml/kg/min. Pero en el caso de tener un reloj que se basa en los datos obtenidos durante el ejercicio, este margen de error baja hasta los ±10 ml/kg/min. No son perfectos, pero nos dan una estimación de cómo se encuentra nuestro sistema cardiovascular con el objetivo de ponernos manos a la obra y mejorar nuestra capacidad física si es que queremos llegar a tener una vejez con una buena calidad de vida. En Xataka Caminar no cuenta como \"hacer ejercicio\": para que los 10.000 pasos diarios sean efectivos hay que aplicar la regla x3 Mejorar el VO2 max. Para mejorar nuestra capacidad aeróbica, el ejercicio es uno de nuestros mejores aliados aquí. Los estudios nos apuntan a que los entrenamientos continuos de resistencia demuestran una gran eficacia, mejorando el VO2 máx en unos 4,9 ml/kg/min, pero lo que de verdad funciona son los entrenamientos por intervalos de alta intensidad al tener una mejora de 5,5 ml/kg/min. Pero tampoco hay que pasar de 0 a 100 en pocos días, sino que con un mínimo ejercicio que hagamos ya vamos a estar haciendo mucho por nuestro organismo. Aquí una revisión reciente de Cochrane analizó justamente a los adultos sedentarios y vio que realizar sesiones de entrenamiento de intensidad variable ya mejoraba el VO2 max en unos 6 ml/kg/min. Los consejos. Para empezar a escalar esta montaña metabólica, el marco de referencia sigue siendo la OMS, que nos recomienda acumular entre 150 y 300 minutos a la semana de actividad física aeróbica de intensidad moderada. Pero todo esto sin olvidarse de la musculación y el entrenamiento de fuerza, que también se hace muy necesario para mejorar nuestra esperanza de vida. Imágenes | RUN 4 FFWPU En Xataka | Un estudio apunta a cómo muscular los brazos: \"Una rutina de resistencia estructurada con series y pesos adecuados es suficiente\" - La noticia Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula fue publicada originalmente en Xataka por José A. Lizana ."
-  },
-  {
-    "titulo": "Alberto Chicote revela qué hace durante horas para desconectar de todo: \"Me tengo que poner el despertador para ir a comer\"",
-    "medio": "HuffPost",
-    "fecha": 1791738022.0,
-    "link": "https://www.huffingtonpost.es/virales/alberto-chicote-revela-que-horas-desconectar-me-poner-despertador-comer-f202610.html",
-    "resumen": ""
   },
   {
     "titulo": "3 series que casi nadie conoce, pero que deberías ver (y dónde verlas ahora mismo)",
@@ -474,20 +593,6 @@
     "fecha": 1791737828.0,
     "link": "https://www.eldiario.es/internacional/theguardian/escandalo-detencion-antiguo-jefe-sacude-servicios-secretos-alemanes-punalada-corazon_1_13578931.html",
     "resumen": "Las acusaciones contra August Hanning por utilizar información de inteligencia en beneficio de clientes privados se suman a otros inquietantes escándalos de espionaje en AlemaniaAlemania detiene a un exjefe de sus servicios secretos bajo sospecha de espionaje El exjefe del Servicio de Información Federal (BND), August Hanning, criticó en una ocasión a los propios servicios de inteligencia alemanes calificándolos de “vegetarianos” entre carnívoros al acecho, y exigió mayores competencias para garantizar la seguridad del país en un mundo hostil. Descrito a menudo como el “padrino” de la arquitectura de seguridad alemana del siglo XXI, Hanning está ahora acusado de presunto espionaje constitutivo de alta traición y de entregar secretos de Estado a una potencia extranjera en lo que se considera una de las presuntas filtraciones de inteligencia más graves del periodo de posguerra. De ser cierto, Hanning podría haber dañado irreparablemente la cooperación de Alemania en materia de seguridad global, al tiempo que ha puesto de manifiesto graves vulnerabilidades internas, en una historia que parece sacada de un inverosímil thriller político. “Se trata de un incidente que tiene el potencial para convertirse en un auténtico escándalo nacional”, afirmó Konstantin von Notz, diputado del Bundestag que forma parte de la comisión parlamentaria de supervisión de los servicios de inteligencia. Von Notz advirtió de una pérdida de confianza “devastadora” entre los países socios, “cuyo apoyo es indispensable en la actual situación de seguridad, extremadamente tensa”. Las imágenes del martes, tomadas en una pequeña localidad alemana, dejaron atónitos incluso a los observadores más experimentados en el mundo del espionaje: comandos enmascarados condujeron a Hanning desde su finca en su ciudad natal, Nordwalde, hasta una furgoneta policial negra. Su rostro, con sus características gafas, estaba enmarcado por su cabello blanco cuidadosamente peinado. Su expresión era serena y concentrada, y no llevaba esposas. Según los expertos, la detención de este hombre de 80 años, que dirigió el BND entre 1998 y 2005, supuso un hecho sin precedentes en una democracia occidental, debido a su rango anterior. La Fiscalía Federal cree que Hanning utilizó a su antiguo jefe de gabinete, identificado únicamente como Manfred D, como topo en el BND. Le llegó a pagar para que sustrajera casi 2.000 documentos, al menos algunos de ellos clasificados, durante 12 años. Posteriormente, presuntamente explotó esa información en beneficio de los clientes que tenía en la consultora privada que fundó tras jubilarse, un modelo de negocio legal que suscitó duras críticas a lo largo de una semana convulsa. Hanning se encuentra en prisión preventiva y, a través de sus abogados, ha negado haber filtrado documentos confidenciales a potencias extranjeras. Si es declarado culpable, podría enfrentarse a una pena de 10 años de cárcel. Las “joyas de la corona del BND” Se cree que muchos de los archivos comprometidos eran informes preparados para altos cargos, incluida el propio canciller alemán. El exvicepresidente del BND, Arndt Freytag von Loringhoven, describió el material como las “joyas de la corona del BND” y declaró a Der Spiegel que se trataba de “los informes de evaluación más críticos que suministra la presidencia del BND”. Este explosivo caso ha llevado a que los servicios secretos aliados se movilizaran rápidamente para evaluar posibles daños. Un funcionario occidental declaró a Reuters que entre los documentos sustraídos del BND se encontraban datos de inteligencia exterior de EEUU. La CIA no se ha pronunciado por el momento al respecto. Un agente de policía a las puertas de un edificio en Berlín-Mitte. Según el registro mercantil, en esa dirección está registrada una empresa de gestión de activos, cuyo socio general es August Hanning. El director general de la Unidad de Investigación de los Servicios de Inteligencia de la Universidad de Colonia, Luca Manns, calificó el caso como una “puñalada en el corazón” del BND, que ha causado un daño incalculable a la cooperación entre aliados. “No será una ruptura brusca”, afirmó Manns, quien pronosticó una “erosión gradual de las alianzas”. La presunta traición podría tener un efecto corrosivo tanto dentro de los servicios de inteligencia como en la opinión pública, afirmó Dieter Bacher, historiador de la Universidad de Graz (Austria), especializado en servicios secretos. “Cuando el exjefe de un servicio de inteligencia hace algo así, las consecuencias son, por supuesto, enormes”, señaló. “La pérdida de confianza es, sin duda, inevitable. Dado que, al parecer, también se vio afectada información procedente de servicios asociados, el impacto en la actividad de la agencia es todavía mayor”, añadió. La noticia salió a la luz en una semana en la que los directores de los servicios de inteligencia alemanes habían testificado ante el Parlamento sobre la creciente amenaza que representan potencias como Rusia y China. El jefe del BND, Martin Jäger, también exembajador en Ucrania, advirtió de un posible conflicto violento con Moscú y acusó al Kremlin de librar una “guerra en la sombra” con ataques híbridos y con drones. “Queremos sinceramente ser la primera línea de defensa de Alemania”, afirmó. Según los informes, Jäger ya estaba al tanto de la inminente detención de Henning en el momento de su testimonio, que tuvo lugar semanas después de un atentado frustrado con un dron cargado de explosivos en Leipzig que Berlín ha atribuido a Moscú. El móvil económico Según los informes, no parece que Rusia sea la destinataria de las supuestas actividades de Hanning, al menos no de forma directa. Der Spiegel mencionó a Azerbaiyán y a China entre los posibles clientes, afirmaciones que no han sido confirmadas por las autoridades. Bakú ha negado cualquier implicación, aunque Hanning formó parte de la junta directiva del Foro Germano-Azerbaiyano, encargado de “fomentar los lazos” con este país clave para el tránsito energético, gobernado por un régimen autoritaritario. Es posible que el principal motivo de Hanning fuera el económico. Formaba parte del consejo de administración del banco letón PNB Banka, que quebró y fue declarado insolvente en 2019. El periódico Bild afirmó que Hanning y otro miembro del consejo de supervisión, que según se informó se trataba del exsecretario general de la OTAN, Anders Fogh Rasmussen, fueron considerados responsables de una deuda de hasta 4 millones de euros. Según Bild, la pensión de Hanning había sido embargada para saldar la deuda. Los servicios secretos alemanes se enfrentan además a una campaña de reformas que se ha visto frenada durante mucho tiempo por la susceptibilidad en torno a los abusos cometidos bajo las dictaduras nazi y comunista. Una ley que se prevé que apruebe el Parlamento este año eliminaría muchas de las restricciones impuestas durante el período de posguerra. Manns advirtió contra cualquier petición de detener estas medidas a la luz del caso Hanning, afirmando que ello “haría el juego a nuestros oponentes, que quieren un servicio exterior alemán débil”. Las preguntas que deja la detención de Hanning Hanning fue el rostro de los servicios de inteligencia alemanes durante un período turbulento de la posguerra fría, ya que supervisó la estrategia antiterrorista tras los atentados del 11S, que fueron planeados en parte por una célula en Hamburgo. Los investigadores se enteraron de las presuntas actividades delictivas de Hanning mientras recababan pruebas en un caso aparte de secuestro de menores relacionado con una dinastía de propietarios de restaurantes especializados en carnes, en el que también se le acusa de haber colaborado utilizando sus contactos en la inteligencia israelí. Un vehículo sale del Tribunal Federal de Justicia de Karlsruhe en el que presuntaría viajaría detenido August Hanning. Los cargos de traición han suscitado una serie de preguntas inquietantes. ¿Había otros topos? ¿Cómo es posible que su espionaje pasara desapercibido durante tanto tiempo? ¿Se filtró la información clasificada a terceros? ¿Y quién seguirá confiando en los servicios de inteligencia alemanes? Los cargos contra Hanning no son, ni mucho menos, el primer escándalo que sacude a los servicios secretos del país en los últimos años, con casos de gran repercusión relacionados con el espionaje para la inteligencia rusa y la CIA. En un plano más amplio, el exjefe del servicio de inteligencia nacional, Hans-Georg Maaßen, se ha aliado con grupos y causas de extrema derecha, lo que ha suscitado dudas sobre la neutralidad de la agencia bajo su mandato. Y el excanciller Gerhard Schröder, que en su día fue un firme defensor de la socialdemocracia y un respetado reformador económico, ha conmocionado a los alemanes al aceptar una serie de lucrativos puestos en empresas rusas desde que dejó el cargo en 2005. Al tiempo que se ha convertido en un amigo íntimo de Vladímir Putin, llegando incluso a asistir esta semana en Moscú a la celebración del 74 cumpleaños del líder del Kremlin. Además, con el partido de extrema derecha y prorruso Alternativa para Alemania (AfD) a punto de llegar al poder en un estado federado alemán por primera vez desde la Segunda Guerra Mundial, las autoridades se han dado prisa para restringir su acceso a información confidencial de los servicios de inteligencia. Ante las crecientes críticas hacia la legión de antiguos altos cargos alemanes que se benefician económicamente de trabajos relacionados con sus actividades anteriores, Von Notz y Manns se han sumado al coro de voces que reclaman una prohibición de por vida para los altos manos de los servicios de inteligencia para que no puedan ejercer como lobistas."
-  },
-  {
-    "titulo": "Salvamento rescata dos embarcaciones en Canarias con más de 300 inmigrantes",
-    "medio": "The Objective",
-    "fecha": 1791736478.0,
-    "link": "https://theobjective.com/sociedad/2026-10-11/salvamento-rescata-dos-embarcaciones-canarias-300-inmigrantes/",
-    "resumen": "Salvamento Marítimo ha rescatado dos embarcaciones en la Ruta Canaria en las que viajaban más de 300 personas, según cálculo provisional: una trasladada a Lanzarote con […]"
-  },
-  {
-    "titulo": "Quién quiere defender España: así son los jóvenes que se alistan hoy en el Ejército",
-    "medio": "El Mundo",
-    "fecha": 1791735462.0,
-    "link": "https://www.elmundo.es/papel/historias/2026/10/10/6aca003ce85ece4d438b459c.html",
-    "resumen": "España está entre los países del mundo con menos gente dispuesta a luchar por su nación en caso de guerra. Sin embargo, en plena incertidumbre global, sigue habiendo jóvenes decididos a alistarse en las Fuerzas Armadas. Recorremos varias escuelas de formación militar para descubrir cómo son, qué piensan y a qué se dedican Leer"
   },
   {
     "titulo": "A Sánchez no le funciona ni apropiarse de Maricarmen ni la huelga contra la oposición: cae más en el sondeo de esta noche",
@@ -518,32 +623,11 @@
     "resumen": "Si hay algo que nos ha ayudado a conocer mejor a los neandertales, esos son sus retos: huesos fosilizados, dientes y objetos como herramientas de piedra o cenizas. Al fin y al cabo, es lo que sobrevive al paso de 40.000 años porque el resto se pudre. Sin embargo y tras cuatro décadas de excavación en un yacimiento en Capellades (Barcelona), un equipo del Institut Català de Paleoecologia Humana i Evolució Social (IPHES-CERCA) ha encontrado 597 huellas de un material que no aparece en las quinielas de la supervivencia: madera. Aunque el concepto de \"oficio\" no aplicaba por aquel entonces porque desconocemos si existían artesanos especializados, parece claro que trabajar la madera formaba parte de la vida diaria de los neandertales. Los neandertales eran buenos carpinteros. El IPHES-CERCA ha publicado su análisis de esos restos de Abric Romaní que permiten tener una visión más completa de qué hacían los neandentales. De momento, ya sabemos que no solo quemaban madera, también la trabajaban para fabricar armas, utensilios y, posiblemente, hasta mobiliario de su casa, según la síntesis de Archaeology Magazine. El estudio analiza 597 restos de madera de 16 niveles arqueológicos, con ocupaciones que van entre los 62.000 y 40.000 años de antigüedad. De todo ese conjunto, el equipo liderado por Palmira Saladié ha identificado 13 piezas como objetos hechos o usados por neandertales: dos lanzas (una de 2,45 m y otra de 1,99 m), restos de posibles bandejas, piezas estructurales y un objeto con forma de maza. Todo lo demás son troncos, ramas, raíces y acumulaciones de leña, que aportan información sobre cómo la manejaban para usarla como combustible. Por qué importa. Que la madera rara vez se conserve tanto tiempo tiene una consecuencia: que la imágenes de los neandertales y cómo vivían quede distorsionada. En pocas palabras: conocemos sobre todo la parte de su tecnología que se conserva. Lo encontrado en Abric Romaní permite algo que es una rara avis: seguir el uso de la madera durante miles de años en un mismo lugar, lo que indica que era un recurso habitual. Además, como los restos aparecen junto a hogares, herramientas de piedra y huesos de animales, ayudan a entender cómo organizaban los neandertales su espacio y gestionaban el fuego. Por otro lado, hasta la fecha el escaso registro de armas de madera del Paleolítico europeo se concentra principalmente en yacimientos alemanes como Schöningen y Lehringen, por lo que este hallazgo amplía el abanico de muestras. No es la primera vez. Ya se sabía que los neandertales trabajaban la madera: en Poggetti Vecchi (Italia), se han encontrado palos de excavar de boj parcialmente carbonizados de hace unos 171.000 años, lo que apunta al uso del fuego para moldear la madera. En Schöningen (Alemania) se conservan las lanzas de madera completas más antiguas conocidas (unos 300.000 años) , si bien según esta revisión podría ser de neandertales tempranos o hasta de Homo heidelbergensis. Lo verdaderamente llamativo de Abric Romaní es la cantidad de muestras y el abanico temporal que abarcan. En Xataka Para sobrevivir, los neandertales se convirtieron en auténticas moles de músculo. Y algunos hemos heredado su genética El secreto de la conservación. Es la pregunta del millón: ¿cómo demonios ha aguantado tanto la madera? Tiene truco y una explicación bastante natural: agua con mucho carbonato de calcio en su composición la cubrió, de modo que cuando la madera se descompuso, dejó un molde de piedra con su forma exacta. De hecho, algunos son tan precisos que conservan rasgos de la estructura interna del tejido vegetal. Sí, pero. Como ya hemos visto, aunque haya 597 restos en total, solo 13 son objetos trabajados. Y no se conserva la pieza en sí sino su molde, de modo que la función de muchas de esas piezas es una interpretación. Sin ir más lejos, la lanza más larga apareció junto a restos de ciervo y estructuras de combustión, lo que permite hipotetizar con que se usara para cazarlo. Quedan además preguntas abiertas, como cómo transmitían su conocimiento entre generaciones y grupos, o para qué servía la maza. Aun así, todo apunta a que la madera era un recurso más importante de lo que sugería el registro de piedra. En Xataka | Barcelona se puso a excavar para construir un parking. Acabó descubriendo un barco medieval de 10 m y origen incierto En Xataka | Hace 60 años hundieron una iglesia de mil años en un embalse de Barcelona. Solo la sequía la ha devuelto a la superficie Portada | IPHES-CERCA - La noticia La profesión más antigua del mundo tiene 40.000 años y está en un yacimiento de Barcelona fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
-    "titulo": "DIRECTO | Santiago Abascal participa en un acto de precampaña electoral en Estepona (Málaga)",
-    "medio": "The Objective",
-    "fecha": 1791734284.0,
-    "link": "https://theobjective.com/videos/espana/politica/2026-10-11/directo-santiago-abascal-vox-estepona/",
-    "resumen": ""
-  },
-  {
-    "titulo": "Robles agradece a los militares su «difícil trabajo» en la defensa de Ceuta",
-    "medio": "The Objective",
-    "fecha": 1791733386.0,
-    "link": "https://theobjective.com/espana/2026-10-11/robles-agradece-militares-dificil-trabajo-defensa-ceuta/",
-    "resumen": "La ministra de Defensa, Margarita Robles, ha trasladado su reconocimiento a los contingentes desplegados en las misiones de las Fuerzas Armadas en el exterior y en […]"
-  },
-  {
     "titulo": "\"Io sono Giorgia Meloni\": cuatro segundos de audio son la nueva arma de la primera ministra italiana contra los deepfakes",
     "medio": "Xataka",
     "fecha": 1791732627.0,
     "link": "https://www.xataka.com/robotica-e-ia/io-sono-giorgia-meloni-cuatro-segundos-audio-nueva-arma-primera-ministra-italiana-deepfakes",
     "resumen": "La primera ministra italiana quiere que su voz sea suya y solo suya también ante la ley, así que Giorgia Meloni ha iniciado los trámites para registrarla como marca. Según Reuters, ha presentado la solicitud ante la oficina de propiedad intelectual de la UE (EUIPO), y su propia oficina lo ha confirmado. ¿El objetivo? Protegerse contra los deepfakes. Sin embargo, la política de extrema derecha no lo tendrá fácil ni con esas. \"Io sono Giorgia Meloni\". Esa frase \"Soy Giorgia Meloni\" (io sono Giorgia Meloni) repetida dos veces es la grabación de audio de apenas cuatro segundos registrada por la primera ministra italiana. La solicitud está a su nombre, sigue todavía pendiente de aprobación y de hecho, puede consultarse. Si la EUIPO reconoce este sonido como una marca, la voz de Meloni gozaría de protección en los 27 estados miembros. La elección de las palabras no es casual: \"Io sono Giorgia\" fue el título de su autobiografía y está asociada a campañas como la que hizo en 2019: \"Soy Giorgia, soy mujer, soy madre, soy italiana, soy cristiana\". Por qué importa. Como explica el Financial Times, Giorgia Meloni sería la primera política importante que intenta registrar su voz como marca y lo hace en el momento justo: Italia celebrará elecciones generales el año que viene y el fantasma de los clones enseña la patita. Según The Next Web, ya han aparecido clones de su voz en anuncios políticos. En mayo circularon además fotos suyas manipuladas en ropa interior, como recoge eldiario.es. Hoy en día no hacen falta grandes conocimientos técnicos o software sofisticado para clonar una voz partiendo de una pista original de pocos segundos. Para una persona cualquiera, eso puede servir para suplantarla en una estafa (con el “fraude del sí” basta una grabación corta); para un político, puede ser un problema serio en plena campaña. Además, el movimiento de Meloni evidencia que la ley va por detrás: recurre a una marca registrada, una herramienta que no fue pensada para esto. Y, de forma más generalizada, esta preocupación por los deepfakes se hace extensiva a los bulos. En Xataka El mayor experto en fakes IA ha perdido la esperanza: \"En un año o dos, todo nuestro sistema visual será inútil\" No es la primera. Tampoco será la última. Meloni es pionera entre los políticos, pero otros personajes ilustres lo han hecho antes: Matthew McConaughey registró su imagen y su voz en enero y Taylor Swift hizo lo propio en abril, como recoge la BBC. En Europa, la cantante Giusy Ferreri fue en mayo la primera artista en registrar su voz en la EUIPO. Por otro lado, si las celebridades siguen registrando su voz para protegerse, la pregunta es: qué pasa con la gente de a pie que no se lo ha planteado o no puede permitírselo? Recientemente, un tribunal japonés otorgó protección legal a la voz humana en un caso contra una cuenta de TikTok que usaba un clon de IA de un actor de doblaje. En agosto, más de 80 artistas británicos pidieron al primer ministro Andy Burnham, según la BBC, que ponga en marcha una ley que dé a cada persona del Reino Unido un derecho legal sobre su voz. Sobre la mesa, una realidad: hace falta legislación. Una misión (casi) imposible. Eso sí, aunque la solicitud de Giorgia Meloni se aprobase, solo serviría para crear obstáculos legales, pero no impediría por sí sola los deepfakes. Porque de hecho, las herramientas diseñadas para este problema son otras, como el artículo 50 del Reglamento de IA, que obliga a avisar de que un deepfake lo es. O una reforma sobre los derechos de autor sobre la imagen y la voz que lo contemple, como ya está intentando Dinamarca. Además, el oído humano no es suficiente para defenderse: hay estudios que demuestran que nos cuesta identificar las voces sintéticas (en el estudio, como máximo un 73% de las veces), incluso con entrenamiento. En Xataka | La ultraderecha italiana buscaba una forma de lavar su imagen. Encontró la fórmula en 'El Señor de los Anillos' En Xataka | En 1991 Italia creyó que se acercaba un viejo carguero. Cuando atracó descubrió que cada rincón estaba cubierto de personas Portada | Flickr y ChatGPT - La noticia \"Io sono Giorgia Meloni\": cuatro segundos de audio son la nueva arma de la primera ministra italiana contra los deepfakes fue publicada originalmente en Xataka por Eva R. de Luis ."
-  },
-  {
-    "titulo": "Carlos Martínez augura un «Pedro Sánchez 2030» y acusa al PP de «desanimar el voto»",
-    "medio": "The Objective",
-    "fecha": 1791731901.0,
-    "link": "https://theobjective.com/espana/politica/2026-10-11/carlos-martinez-pedro-sanchez/",
-    "resumen": "El secretario general del PSOE de Castilla y León, Carlos Martínez, ha vaticinado que «habrá Pedro Sánchez 2030», en referencia a que el líder socialista ganará […]"
   },
   {
     "titulo": "Volkswagen se envuelve en la bandera europea y pide apoyo político para replicar el caso de éxito de España",
@@ -553,18 +637,18 @@
     "resumen": "La multinacional presenta en París, en vísperas de aplicar su mayor recorte laboral y productivo, la estrategia 'For Europe' para unificar medidas de apoyo con las que salvar 476.400 empleos del grupo en el continente extendiendo el éxito de los nuevos cuatro eléctricos urbanos fabricados en España, que suman casi 150.000 pedidosLos coches chinos también conquistan el Salón del Automóvil de París El Grupo Volkswagen quiere convertir la defensa de la industria europea en una responsabilidad compartida entre las empresas y los gobiernos. La multinacional alemana ha presentado en París la iniciativa ‘For Europe’, con la que reclama una mayor coordinación entre las autoridades políticas y el sector privado para acelerar la transformación del automóvil y reforzar la competitividad del continente frente a la presión de los mercados globales. El movimiento coincide con la aplicación del mayor programa de transformación de la historia del fabricante con la supresión de 100.000 empleos , que busca adaptar sus estructuras a un escenario de mayor competencia y exigencias de rentabilidad. “Las crisis geopolíticas y la presión competitiva global, que crece a gran velocidad, exigen a Europa —igual que nos lo exigen al Grupo Volkswagen— avanzar más rápido e impulsar el cambio con determinación”, ha afirmado Oliver Blume, consejero delegado del grupo, durante la presentación de la iniciativa, celebrada el domingo 11 de octubre, en vísperas de la apertura del Salón del Automóvil de París. El directivo sostiene que Europa dispone de los recursos industriales, tecnológicos y de innovación necesarios para mantener su posición económica, pero advierte de que debe aprovecharlos mejor. “La competitividad es una responsabilidad compartida: las empresas tienen que poner de su parte y los responsables políticos deben crear las condiciones marco adecuadas”, ha señalado Blume, que reclama decisiones sobre el contenido europeo de los productos, la normativa de emisiones de CO₂ y las relaciones comerciales con China. La compañía vincula esta petición a una agenda industrial que combine el desarrollo de tecnologías propias, la fabricación en Europa y unas reglas que favorezcan la creación de valor en el continente. En concreto, defiende un marco regulatorio que incentive la producción europea, facilite el crecimiento de la movilidad eléctrica y garantice una competencia internacional en condiciones equitativas. Casi 150.000 pedidos para los eléctricos urbanos El principal argumento de Volkswagen para demostrar que la transformación industrial europea puede traducirse en productos competitivos es la nueva familia Electric Urban Car Family. La compañía reunió por primera vez en París los cuatro modelos de producción que integran esta gama: el Volkswagen ID. Polo, el Volkswagen ID. Cross, el Škoda Epiq y el CUPRA Raval. En conjunto, habían recibido cerca de 150.000 pedidos de vehículos en el momento de la presentación que se fabrican entre las plantas de Seat de Martorell y la de Volkswagen de Pamplona. De los 150.000, unos 50.000 corresponden al VW ID. Polo, fabricado en Martorell junto al Cuora Raval. La cifra está por encima de las previsiones iniciales del grupo, poniendo en aprietos a las fábricas, y constituye uno de los datos más relevantes del mensaje que quiere trasladar a las autoridades europeas: existe demanda para una nueva generación de vehículos eléctricos desarrollados y fabricados en el continente. La familia se apoya en una base tecnológica común y en la cooperación entre marcas para contener costes y aprovechar las economías de escala, sin renunciar a diseños y posicionamientos comerciales diferenciados. Más del 80% de los componentes y tecnologías de los cuatro modelos son compartidos. La producción se reparte entre las plantas españolas de Martorell (Barcelona), donde se fabrican los modelos de CUPRA y Volkswagen asignados a esta instalación, y Pamplona (Navarra), que participa en el despliegue industrial de la gama. Esta arquitectura permite al grupo distribuir inversiones y conocimientos entre sus marcas y concentrar recursos en una plataforma destinada a ampliar el acceso a la movilidad eléctrica. “La Electric Urban Car Family demuestra lo que significa ‘For Europe’ en la práctica: coches atractivos, desarrollados y fabricados en Europa, que la gente realmente quiere”, ha defendido Thomas Schäfer, máximo responsable de la marca Volkswagen y del Brand Group Core. El directivo sostiene que competitividad, fortaleza industrial y electrificación pueden avanzar conjuntamente. La apuesta también responde a la necesidad de reducir la complejidad de los productos, los procesos y las estructuras del grupo. Volkswagen quiere extender el uso de plataformas, arquitecturas y módulos compartidos, reducir duplicidades y aprovechar la inteligencia artificial en el desarrollo de hardware y software para acortar los plazos de lanzamiento. El objetivo es llevar las innovaciones al mercado con mayor rapidez y mejorar al mismo tiempo la rentabilidad. 476.400 trabajadores y 55 fábricas en Europa La dimensión industrial del grupo explica la relevancia de su llamamiento. Volkswagen contaba en 2025 con 476.400 empleados en Europa, alrededor del 72% de su plantilla mundial, y disponía de 55 plantas repartidas por 16 países. El continente constituye, además, su principal mercado: el grupo entregó allí 3,94 millones de vehículos, el 44% del total mundial, y alcanzó una cuota de mercado del 25% en todas las tecnologías de propulsión y del 27% en los vehículos completamente eléctricos. Su red europea de proveedores también representa una pieza fundamental de esta estructura, con un volumen anual de compras superior a los 100.000 millones de euros. Siete de sus diez mayores proveedores son europeos. Sin embargo, la defensa de esta base industrial llega en plena transformación interna del fabricante, que persigue crear estructuras más competitivas y ajustar su organización a las nuevas condiciones del mercado. La compañía pretende combinar la reorganización de sus operaciones y la disciplina inversora con el desarrollo de nuevos productos, en un contexto marcado por la electrificación, la competencia internacional y las tensiones geopolíticas. Arno Antlitz, director financiero y operativo del grupo, ha defendido que el objetivo es proteger las fortalezas de Volkswagen y asentarlas sobre una base financiera más sostenible. La multinacional no plantea abandonar la innovación, sino concentrar sus inversiones y aprovechar mejor su escala, su cartera de marcas y sus tecnologías compartidas. El mensaje de ‘For Europe’ es que ese esfuerzo empresarial necesita también un marco político que permita competir en condiciones adecuadas. Volkswagen reclama avanzar en la definición de las reglas industriales y comerciales que determinarán el futuro del automóvil europeo, al tiempo que reivindica su compromiso con el continente como centro de producción, innovación y empleo."
   },
   {
-    "titulo": "Cientos de pasajeros varados por Plus Ultra en la ruta Madrid-Buenos Aires: \"Posible estafa premeditada\"",
-    "medio": "El Mundo",
-    "fecha": 1791731750.0,
-    "link": "https://www.elmundo.es/economia/2026/10/11/6acba69221efa0c0698b4579.html",
-    "resumen": "La aerolínea ha reducido de cinco a sólo dos frecuencias semanales sus vuelos entre ambas capitales Leer"
+    "titulo": "Varios heridos en un nuevo ataque de los hutíes contra el aeropuerto de Riad",
+    "medio": "Europa Press",
+    "fecha": 1791731446.0,
+    "link": "https://www.europapress.es/internacional/noticia-huties-atacan-nuevo-aeropuerto-riad-20261011171046.html",
+    "resumen": "Varias personas han resultado heridas en un nuevo ataque perpetrado este domingo por los hutíes contra el Aeropuerto Internacional Rey Jalid de Riad, la capital de Arabia Saudí, después de que el sábado mataran a doce personas e hirieran a más de 300 en otro ataque contra estas instalaciones."
   },
   {
-    "titulo": "Los frugales avanzan: el presupuesto de la UE se debatirá desde los recortes",
-    "medio": "Expansión",
-    "fecha": 1791731578.0,
-    "link": "https://www.expansion.com/economia/2026/10/11/6acba76c468aeba6488b45a1.html",
-    "resumen": "La presidencia irlandesa del Consejo de la UE presenta una propuesta que contempla rebajas de 140.000 millones respecto al volumen que la Comisión Europea puso sobre la mesa, lo que predispone el debate hacia los ajustes. Leer"
+    "titulo": "Zelenski cede a la presión de Trump y abre la puerta a una tregua energética con Rusia tras el pacto petrolero de EEUU con Putin",
+    "medio": "El Independiente",
+    "fecha": 1791731376.0,
+    "link": "https://www.elindependiente.com/internacional/2026/10/11/zelenski-cede-a-la-presion-de-trump-y-abre-la-puerta-a-una-tregua-energetica-con-rusia-tras-el-pacto-petrolero-de-eeuu-con-putin/",
+    "resumen": "El presidente de Ucrania, Volodímir Zelenski, ha abierto este domingo la puerta a una tregua energética bilateral con Rusia. En […]"
   },
   {
     "titulo": "Apple ha quitado una de las mejores funciones de iOS 27 y todavía no sabemos cuándo volverá",
@@ -616,13 +700,6 @@
     "resumen": "La transición energética presenta un problema importante: aunque estamos dando pasos agigantados a la hora de electrificar el mundo, todavía existen ciertos sectores que, bien de momento o bien por su naturaleza, no podrán dar ese salto con facilidad. Ahí entra en juego el gas natural, un combustible fósil que durante años se ha considerado una pieza de transición por sus menores emisiones directas frente al carbón y otros combustibles fósiles. Pero sigue presentando algunos desafíos: continúa dependiendo de un recurso fósil y deja a Europa expuesta a las condiciones de un mercado energético muy volátil. En este contexto, una tecnología desarrollada por equipos españoles y alemanes está intentando conseguir algo muy interesante: fabricar la molécula principal del gas natural sin tener que extraer gas natural del suelo. De este modo, estaríamos ante una forma de fabricar un combustible que ya es conocido, pero sin la parte más perjudicial, y con todas las ventajas de usar una enorme infraestructura que ya está instalada. Y el epicentro de todo está en Extremadura. Una planta de Miajadas, en Cáceres, está produciendo metano sintético a partir de hidrógeno renovable y CO₂ biogénico. El resultado es una molécula que, a nivel químico, está presente en el gas natural convencional, pero que no viene de una reserva fósil. Detrás del proyecto se encuentra la empresa alemana Turn2X que desde esta planta extremeña ha conseguido probar esta idea con resultados muy prometedores. Tanto es así que a esta planta le ha valido ser la ganadora de la 3ª subasta del Banco Europeo del Hidrógeno, según recoge PV Magazine. En Xataka Bruselas advierte a todos los Gobiernos de Europa: las reservas de gas son bajas y el invierno se va a hacer duro Tecnología Power-to-Gas. Para poder llevar esto a cabo, el proyecto, que se llama T2X, emplea la tecnología Power–to-Gas para almacenar energía renovable transformándola en combustible gaseoso, como explica El Confidencial. Primero, se produce hidrógeno renovable mediante electrólisis del agua utilizando electricidad limpia. Este proceso separa las moléculas de agua en sus elementos básicos de hidrógeno y oxígeno. A continuación, ese hidrógeno se combina con dióxido de carbono de origen biogénico, procedente de materia orgánica que previamente había capturado carbono de la atmósfera de una planta de bioetanol cercana. Ese CO₂ se combina con el hidrógeno mediante la reacción de Sabatier, que produce metano sintético y agua. Pero… ¿por qué no utilizar directamente el hidrógeno? Si este proyecto emplea hidrógeno renovable para funcionar, lo lógico es preguntarse por qué no utilizarlo directamente para producir energía, en lugar de dar un rodeo con un paso intermedio y convertirlo en metano. La clave reside en que el hidrógeno es una molécula mucho más difícil de almacenar y transportar: su densidad energética es mucho menor a la del gas natural y requiere soluciones propias para poder almacenarse y utilizarse, por lo que muchas infraestructuras no están preparadas para funcionar con hidrógeno puro, como sí ocurre con el metano. No haría falta una nueva civilización energética. La principal ventaja del proyecto es que, si la tecnología demuestra ser viable, el metano sintético podría utilizar buena parte de la infraestructura gasista que ya existe. Esto reduciría la necesidad de adaptar desde cero aquellas industrias donde hoy opera el gas natural convencional, como la siderurgia, la industria cerámica o el transporte marítimo, como indica El Confidencial. De este modo, este tipo de sectores y, en última instancia, la economía, podría reducir su dependencia del gas natural de origen fósil, empleando los mismos equipos y sistemas de distribución que ya existen. Imagen | Turn2X En Xataka | El mapa energético está cambiando: ya no gana quien tiene más gas, sino quien puede sacarlo al mercado - La noticia Así funciona el metano sintético que España fabrica con CO₂ e hidrógeno renovable para sustituir al gas natural fue publicada originalmente en Xataka por Alexandra Ramírez ."
   },
   {
-    "titulo": "Los hutíes demuestran su alcance militar con ataques mortales con misiles contra Riad",
-    "medio": "Expansión",
-    "fecha": 1791727637.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/10/11/6acb9508e5fdea742b8b4594.html",
-    "resumen": "Los ataques con misiles que han causado víctimas en el aeropuerto internacional de Riad durante la última semana han puesto de manifiesto el creciente poder militar de los rebeldes hutíes de Yemen, quienes han pasado de ser una insurgencia a convertirse en una de las fuerzas armadas no estatales más formidables de Oriente Medio. Leer"
-  },
-  {
     "titulo": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
     "medio": "Xataka",
     "fecha": 1791727227.0,
@@ -637,18 +714,18 @@
     "resumen": "Si hay una firma de bolsos que ha conseguido obsesionar a las editoras de moda, a la realeza británica y a las amantes del lujo silencioso por igual, esa es la firma londinense DeMellier. Sus diseños limpios y arquitectónicos compiten de tú a tú en elegancia con firmas de lujo que multiplican por diez su precio, y ha sido clonado hasta el infinito. <img alt=\"DEMELLIER The Midi New York handbag\" height=\"434\" src=\"https://i.blogs.es/a2c3d6/blob/original.jpeg\" width=\"434\" /> DEMELLIER The Midi New York handbag PVP en 24S — 357,00 € El precio podría variar. Obtenemos comisión por estos enlaces Así que tener la ocasión de conseguir uno de sus icónicos bolsos shopper a precio rebajado por 595 euros 357 euros, es lo mismo que decir que tenemos la oportunidad de hacernos con una pieza de coleccionista para nuestro armario cápsula que nunca pasará de moda. Es lo que ocurre ahora con este bolso The Midi New York de DeMellier, un bolso que destaca por su exquisita forma trapezoidal con alas sutilmente estructuradas que recuerdan a la icónica estética clásica de los bolsos Birkin de Hermès o al trapecio de Céline. Su color marrón chocolate en máxima tendencia así como su textura de rafia le proporcionan el toque artesanal perfecto para transformar un look de otoño y aportarle calidez. Además de contar con asas dobles para llevarlo del antebrazo, incluye una fina correa ajustable y desmontable que permite cruzarlo con total comodidad en clave crossbody. Su interior deja espacio suficiente para incluir básicos como el neceser, las gafas de sol, un iPad y todo lo necesario para que se convierta en el todoterreno indispensable en la oficina. Otros bolsos tote a tener en cuenta DKNY Si el minimalismo noventero de DeMellier se queda corto con tu estilo, fíjate en este bolso tote mediano de DKNY, el Paula. Una estética urbana y audaz que rompe moldes gracias a sus mosquetones laterales configurables que permiten transformar su silueta, su llamativo estampado animal print que transformará cualquier estilismo diario y su acabado en peluche que no puede estar más en tendencia. Ahora en El Corte Inglés por 179 euros. Bolso tote Paula mediano - DKNY - Multicolor PVP en El Corte Inglés — 179,00 € El precio podría variar. Obtenemos comisión por estos enlaces Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @emitaz| 24S, El Corte Inglés En Trendencias | Qué es un bolso bandolera | Tipos, usos y cuál comprar En Xataka| Un vecino de Casabermeja se enfrenta a 15 meses de prisión por instalar una \"casa móvil\" en una parcela que compró En Xataka| Los expertos en ejercicio físico opinan igual: \"Si el objetivo es perder peso, debemos trabajar fuerza y resistencia de una forma secuenciada\" - La noticia DeMellier rebaja su icónico bolso New York Midi marrón chocolate que eleva cualquier estilismo fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
+    "titulo": "El pacto entre ERC y Podemos con Rufián y Montero en tándem dinamita la estrategia del Frente Amplio",
+    "medio": "El Independiente",
+    "fecha": 1791726943.0,
+    "link": "https://www.elindependiente.com/espana/2026/10/11/erc-y-podemos-ultiman-un-acuerdo-para-concurrir-juntos-en-cataluna-con-rufian-y-montero/",
+    "resumen": "La confirmación de que Gabriel Rufián volverá a ser el candidato de Esquerra Republicana de Catalunya (ERC) en las elecciones […]"
+  },
+  {
     "titulo": "Zelenski recoge el guante de Trump: Ucrania organizará elecciones si Putin acepta un alto el fuego de 60 días",
     "medio": "El Español",
     "fecha": 1791725965.0,
     "link": "https://www.elespanol.com/mundo/europa/20261011/zelenski-recoge-guante-trump-ucrania-organizara-elecciones-putin-acepta-alto-fuego-dias/1003744416754_0.html",
     "resumen": "Este sábado el mandatario estadounidense culpó a los ataques ucranianos contra las refinerías rusas del aumento de los precios del diésel en EEUU.Más información: Trump rompe con Zelenski tras el pacto energético con Putin para salvar su inflación: \"Ucrania debe elegir un nuevo presidente\""
-  },
-  {
-    "titulo": "Desalojados unos 500 migrantes de la explanada del Guano en Ceuta tras un despliegue policial de más de 350 agentes",
-    "medio": "Europa Press",
-    "fecha": 1791725322.0,
-    "link": "https://www.europapress.es/nacional/noticia-desalojados-500-migrantes-explanada-guano-ceuta-despliegue-policial-mas-350-agentes-20261011152842.html",
-    "resumen": "Alrededor de 500 personas migrantes, según fuentes policiales, han sido desalojadas este domingo de la explanada del Guano, situada junto a la playa del Trampolín, donde pernoctaban, en el marco de un amplio operativo policial que ha comenzado a primera hora de la mañana y que ha permitido despejar este asentamiento."
   },
   {
     "titulo": "The Strange Resurrection of Lonesome Dove",
@@ -805,13 +882,6 @@
     "resumen": "Aquí siempre tendremos debilidad por las zapatillas, especialmente si son diseños súper especiales que apuestan a la par por esa estética de deportiva finita que es tendencia en estado puro. Ahora este tipo de calzado se ha convertido en la competencia directa de las bailarinas y no nos extraña porque son tan elegantes como ellas, pero mucho más cómodas y versátiles. En concreto, hay unas que no nos quitamos de la cabeza y se trata del nuevo modelo de Adidas Handball Spezial en color mermelada de mora. Adidas Handball Spezial Adidas Handball Spezial Hoy en Adidas — 110,00 € El precio podría variar. Obtenemos comisión por estos enlaces Una combinación que nunca falla con estas sneakers es conjuntarlas con una falda de cuadros. Ahora que el cottagecore ha cogido más fuerza que nunca, es el momento perfecto para sumarte a la tendencia con una propuesta como esta de la nueva colección de Pull & Bear. Al ser en un bicolor muy básico, encaja a la perfección con las deportivas color mermelada de mora. Falda Pull & Bear También puedes lucir estas zapatillas con un jersey a juego. Ahora que por fin podemos volver poco a poco a estas prendas tan cómodas y apetecibles, nos decantamos por tonos que huyan de la estética puramente minimalista. Lo ideal es dar hueco a tonos vibrantes y ese color morado de las zapatillas no puede quedar mejor que con un suéter del mismo tono como este de COS. Jersey morado COS Tanto si eres más de bikers o si en su lugar prefieres lucir gabardinas en el día a día, estas zapatillas también son un acierto para tus looks. Nosotras apostamos por una versión corta del trench que resulta súper funcional, una como esta de la nueva colección de Zara que queda ideal con las zapatillas. Trench corto Zara Nosotras sabemos que estas zapatillas son la compra perfecta para inaugurar el otoño. Y es que, aunque su precio asciende a los 110 euros, son todo un acierto para avivar tus outfits más apagados de los meses de frío. Fotos | Adidas, @coutneecrews, Pull & Bear, COS, Zara En Trendencias | Cómo limpiar las zapatillas de ante y que queden como recién compradas. En Motorpasion | En Volkswagen también existe una correa húmeda parecida a la del PureTech de Stellantis en algunos diésel TDI, pero con una gran diferencia En Xataka | Desde el 5 de octubre en Lidl (rebajada a 12,99 euros), la solución para conectar aparatos en la terraza sin depender de enchufes cercanos - La noticia Las nuevas Adidas en color mermelada de mora que le hacen la competencia a las bailarinas más elegantes este otoño fue publicada originalmente en Trendencias por Noemí Valle ."
   },
   {
-    "titulo": "El Congreso surgido de las elecciones del 29N dará más facilidades a las minorías para formar grupo parlamentario propio",
-    "medio": "Europa Press",
-    "fecha": 1791703791.0,
-    "link": "https://www.europapress.es/nacional/noticia-congreso-surgido-elecciones-29n-dara-mas-facilidades-minorias-formar-grupo-parlamentario-propio-20261011092951.html",
-    "resumen": "El nuevo Congreso que surja de las elecciones generales del 29 de noviembre ofrecerá más facilidades a los partidos minoritarios para conformar grupo parlamentario propio gracias a la reforma del Reglamento de la Cámara que se aprobó el pasado julio y que se aplicará ya en la próxima legislatura."
-  },
-  {
     "titulo": "Cómo aprovechar los cuadernos de Gemini Notebook en Gemini para exprimir la IA de Google",
     "medio": "Hipertextual",
     "fecha": 1791702000.0,
@@ -873,13 +943,6 @@
     "fecha": 1791669331.0,
     "link": "http://www.microsiervos.com/archivo/internet/guardian-tiempo-legado-cultura-ciencia.html",
     "resumen": "El Proyecto Timestamper es, además de una iniciativa con nombre de película de ciencia-ficción, un intento de dejar constancia de la existencia de libros, películas, música, artículos científicos, pinturas y páginas web antes de que la inteligencia artificial generativa pudiera generar fakes y copias modificadas de forma masiva. El proyecto ha registrado colecciones enormes: por ejemplo, 85 millones de artículos científicos y 339.000 millones de capturas de páginas web. Esta es su descripción oficial: Project Timestamper es una iniciativa de código abierto destinada a proteger la integridad del patrimonio de información de la humanidad en la era de la IA generativa. En este proyecto se asignan marcas de tiempo criptográficas al contenido histórico más valioso usando la cadena de bloques de Bitcoin. De este modo se crea una prueba permanente de la existencia de dicho contenido a mediados de la década de 2020. Etas marcas de tiempo generadas se comparten públicamente para garantizar que el contenido creado por humanos en el pasado pueda identificarse claramente, incluso cuando el contenido generado por IA llegue a dominar nuestra cultura. ¿Cómo funciona TimeStamper? Para certificar una obra, ya sea un PDF, una película, una imagen, una base de datos o cualquier otro tipo de archivo, se calcula un hash o huella digital de cada archivo. Es una especie de identificador criptográficamente seguro que cambiaría si se modificara el contenido, aunque fuera en lo más mínimo. El siguiente paso es guardar esas huellas en el lugar probablemente más seguro e inmutable que hay en la red hoy en día: la cadena de bloques (blockchain) de Bitcoin. Esto lo hace mediante OpenTimestamps, un estándar abierto que aprovecha una de las principales características de la cadena de bloques: su capacidad para marcar de forma indefectible el tiempo y el hecho cierto de que unos acontecimientos sucedieron antes que otros. De este modo, cualquiera puede comprobar más adelante que un archivo concreto ya existía en una fecha determinada. La ventaja es que el Proyecto Timestamper no conserva necesariamente los archivos ni demuestra quién los creó. Al ser un proyecto de código abierto se puede acceder a todos los datos, que están en Github, ordenados por tipos de archivo: desde los trabajos científicos las películas, libros e incluso genomas públicos. En el FAQ y el Porqué hay más información, algo sobre sus creadores e incluso un pequeño blog, donde explican precisamente la hercúlea tarea que supone por ejemplo el registro de 339.000 millones de páginas web. Me ha parecido una iniciativa tan ambiciosa por su alcance como ingeniosa por la forma de llevarlo a cabo, así que solo podemos desearles parabienes. Relacionados: Cómo almacenar datos para que sigan existiendo dentro de un siglo Archive.org: preservar páginas web y contenidos históricos El Archivo de Internet de Suiza y la preservación digital Internet Archive Scholar: archivo de publicaciones académicas La Wayback Machine compara páginas de su archivo histórico El genoma humano grabado en cristal como copia de seguridad # Enlace permanente"
-  },
-  {
-    "titulo": "El pueblo detenido en el tiempo de Castilla y León con calles de agua, casas de piedra y el mejor chorizo de España",
-    "medio": "Trendencias",
-    "fecha": 1791662400.0,
-    "link": "https://www.trendencias.com/viajes/pueblo-montana-a-3-horas-madrid-que-parece-aldea-alpina-escapada-mejor-embutido-otono",
-    "resumen": "Hay un pueblo en el corazón de Salamanca donde el carácter castellano cobra otra dimensión. Candelario se ha mantenido en el pasado sin esfuerzo, protegido por sus serranías, valles y bosques que han detenido la masificación y permitido que este encanto rural de calles empinadas y balcones floridos sobreviva hasta nuestros días. Parece un viaje en el tiempo, pero está a solo tres horas de la capital. Qué ver en Candelario, Salamanca La villa de Candelario está repleta de historia de la alta alcurnia castellana, que ha dejado monumentos y arquitectura dignos de ser reconocidos Conjunto Histórico Artístico. Es un pueblo pequeñito y fácil de pasear, pero cada rincón te hará detenerte a admirar. Desde sus calles con canalillos por las que cae el agua de la sierra hasta sus batipuertas típicas, puertas batientes de madera en dos niveles para evitar que la nieve entrara en las casas. Sus fachadas de piedra gruesa son regias y sobrias, pero coronadas con preciosas balconadas de madera decoradas con embutidos recién hechos, que se dejan secar al frío viento del otoño. No en vano, su chorizo es uno de los más famosos de España. Caminando por sus cuestas imposibles llegarás hasta la iglesia de Nuestra Señora de la Asunción, un templo del siglo XIV que combina de forma magistral el románico, el gótico y el mudéjar. Otros edificios notables son la Casa Consistorial con su escalinata y su fachada de sillería del siglo XIX; y sus fuentes esparcidas por todo el pueblo, que acompañan nuestro paseo con el murmullo del agua. Dónde comer barato y rico en Candelario, Salamanca Candelario, como cualquier pueblo salmantino, presume de una cocina que obsesiona a los amantes de la gastronomía. Sus grandes platos son los huevos con farinato, el hornazo o la trucha de río, además de los embutidos, por supuesto. En Mesón de La Candela tienen todo esto y mucho más, por un precio de unos 20 euros por persona. Qué hacer cerca de Candelario, Salamanca La sierra de Candelario que rodea a la villa está protegida por la mismísima UNESCO, siendo una Reserva Natural de la Biosfera repleta de pinos, robles y bosques inmensos de castaños. Sus lagos glaciares son como espejos que reflejan los picos más altos, nevados en casi cualquier época del año. Semejante escenario invita a hacer rutas de senderismo y muchas de ellas parten desde el pueblo. Las hay difíciles, como la que sube hasta la cima del pico Calvitero, o sencillas y relajadas, como las de las Lagunas del Trampal. Todas son preciosas y perfectas para desconectar en la naturaleza. Fotos | Wikipedia Commons, Los Pueblos Más Bonitos de España, Turismo Castilla y León, TripAdvisor, Apartamentos Valdesierra. En Trendencias | 35 escapadas románticas por España para hacer en pareja en 2026. En Xataka | EEUU anuncia su F-47 como el primer caza de sexta generación del planeta. China le ha dicho “sujétame el cubata”: ya vuelan dos. En Espinof | Hace 57 años, Robert Redford amplió su terreno de una hectárea en Utah con cerca de 2.000. Lo nombró en honor a una de sus películas más legendarias. - La noticia El pueblo detenido en el tiempo de Castilla y León con calles de agua, casas de piedra y el mejor chorizo de España fue publicada originalmente en Trendencias por Pepa López ."
   },
   {
     "titulo": "The War in Ukraine Is Spiraling Out of Control",
@@ -966,74 +1029,11 @@
     "resumen": "Lumon tiene una de las oficinas más reconocibles de la televisión. Con sus pasillos interminables, su moqueta... Cualquiera que haya visto Separación en Apple TV se habrá preguntado de dónde salió esa idea. Parte de la respuesta lleva años enterrada en forma de videojuego. Dan Erickson (el creador de la serie) reconoció que el juego \"The Stanley Parable\" estaba entre sus influencias para dar ese aura a la serie. Se trata de un videojuego donde un oficinista pulsa teclas sin saber para qué hasta que un día la oficina aparece vacía. Está disponible para iOS y yo ya lo he instalado. Un oficinista, una voz y un edificio vacío Stanley es un oficinista que cada mañana llega a su mesa, se sienta delante del ordenador y pulsa las teclas que le indica la pantalla. Una detrás de otra y durante horas. Nadie le explica para qué sirven esas órdenes ni cuál es el objetivo de su trabajo. Él las obedece. Hasta que un día se levanta para ir a una reunión y se encuentra la oficina vacía. Con los despachos abandonados, los teléfonos mudos y solo las luces fluorescentes y el zumbido de los equipos como compañía. Muy al estilo Separación. Y por qué no decirlo, también de las Backrooms. Tú controlas al personaje, pero el narrador te marca el camino. El juego consiste en recorrer ese edificio mientras decides si le haces caso o le llevas la contraria. Lo único que tienes es un pasillo, una puerta a la izquierda, otra a la derecha y una voz que ya ha decidido por ti. O no. El creador de Separación también se inspiró en Matrix, en Backrooms como hemos dicho antes, en El show de Truman y hasta en La metamorfosis de Kafka. El juego \"The Stanley Parable\" nació en 2011 como un mod experimental de Half-Life 2. Aquella edición original sigue disponible en PC a través de Steam, aunque tiene una versión más actual llamada \"Ultra Deluxe\", que es la que está disponible ahora. The Stanley Parable: UD Tú jugarás como Stanley, y no jugarás como Stanley. Tú tendrás que tomar una decisión, y tus decisiones te serán quitadas. Descargar gratis Se puede jugar en iPhone, iPad, PC, PlayStation, Xbox y hasta Nintendo Switch. El juego tiene un precio de 14,99 dólares pero puedes jugar gratuitamente un rato. Más que suficiente para pillarle el tranquillo. Mientras esperamos la llegada de la tercera temporada de Separación (y va para largo), es un buen entretenimiento. Por pasillos y finales disponibles, desde luego, no será. En Applesfera | 'Separación', tercera temporada: todo sobre los nuevos capítulos de 'Severance' En Applesfera | Apple TV y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo - La noticia El videojuego que inspiró la serie 'Separación' existe y puedes jugarlo en el iPhone fue publicada originalmente en Applesfera por Guille Lomener ."
   },
   {
-    "titulo": "Un viaje interactivo al mundo de los sueños rotos de la estafadora Elizabeth Holmes y su «máquina mágica», el analizador Edison",
-    "medio": "Microsiervos",
-    "fecha": 1791585671.0,
-    "link": "http://www.microsiervos.com/archivo/mundoreal/viaje-elizabeth-holmes-analizador-magico-edison-maquina.html",
-    "resumen": "Si la información se presentara siempre como en este experimento, otro gallo nos cantaría. La gente de Extend muestra en esta web cómo se pueden presentar toneladas de documentos de una forma sencilla de entender: correos, notas, mensajes, hojas de cálculo, presentaciones… En vez de en un PDF de mil páginas llenos de texto en abogadil. Lo han llamado, apropiadamente, Theranos.world y es una recreación del escritorio y los documentos de la estafadora Elizabeth Holmes, hace tiempo condenada por fraude a sus inversores con su empresa Theranos. Como extra se incluye un «analizador Edison», la «máquina mágica» que supuestamente obtenía cientos de analíticas médicas a partir de una única gota de sangre. (Va a ser que no). Los textos proceden de pruebas presentadas durante el juicio, así que la simulación funciona como un archivo documental completo. Como es sabido y descubrimos en documentales como The Inventor: Out for Blood in Silicon Valley (2018) y The Dropout: Auge y caída de Elizabeth Holmes (2022), la empresa fundada por Holmes acabó convertida en uno de los mayores fiascos de Silicon Valley. No obstante, pasó antes por las decadentes charlas TED y su psicópata fundadora, que hasta impostaba su voz con un tono más grave durante las entrevistas, fue portada de la revista Forbes y también «elegida» por Time como uno de los 100 personajes del año (o algo así). En esta web, en vez de leer un resumen del caso, se puede acceder y curiosear el «escenario real» y jugar con los cacharritos. La experiencia tiene algo de museo forense y algo de aventura gráfica, aunque aquí el misterio no consiste en abrir una puerta con una clave, sino en averiguar qué demonios pasó. Eso sí, habría que leerse todos los correos y mensajes para entender la complejidad del caso… aunque con unos cuantos puedes hacerte idea del tono del asunto. De eso ya se encargaron los abogados. El escritorio de Holmes incluye un MacBook, un iPhone y una máquina Edison. Se pueden abrir archivos en el portátil (presentaciones), consultar mensajes y correos en el teléfono y hasta poner en marcha el aparato para ver cómo simulaba funcionar. Cada objeto es una puerta a documentos reales; cada clic, una invitación a recordar que la tecnología podía parecer futurista incluso cuando sus resultados no están a la altura. (Vía Hacker News.) Relacionados: Fraudes en Internet: sentido común y estafadores clásicos De Stephen Hawking a Llados: la decadencia TED/TEDx # Enlace permanente"
-  },
-  {
-    "titulo": "China y la UE pactan moderar las exportaciones de híbridos y rebajar aranceles al aceite de oliva",
-    "medio": "El Independiente",
-    "fecha": 1791575412.0,
-    "link": "https://www.elindependiente.com/economia/2026/10/09/china-y-la-ue-pactan-moderar-las-exportaciones-de-hibridos-y-rebajar-aranceles-al-aceite-de-oliva/",
-    "resumen": "China y la Unión Europea (UE) han alcanzado un entendimiento para moderar las exportaciones chinas de vehículos híbridos e híbridos […]"
-  },
-  {
-    "titulo": "Trump anuncia un acuerdo con Putin para que Rusia suministre combustible diésel a EEUU y al mercado global",
-    "medio": "El Independiente",
-    "fecha": 1791574059.0,
-    "link": "https://www.elindependiente.com/internacional/2026/10/09/trump-anuncia-un-acuerdo-con-putin-para-que-rusia-suministre-combustible-diesel-a-eeuu-y-al-mercado-global/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado este viernes un acuerdo \"trascendental\" con su homólogo ruso, Vladimir Putin, […]"
-  },
-  {
     "titulo": "Online Pornography Created the Model for Platform Capitalism",
     "medio": "Jacobin ES",
     "fecha": 1791572222.0,
     "link": "https://jacobin.com/2026/10/platform-capitalism-internet-porn-camming",
     "resumen": "Moral debates about sex work often overlook the wider effect of online porn in shaping our digital existence. More than just a corner of the internet, it has profoundly shaped how platforms keep our attention, and how we present ourselves online."
-  },
-  {
-    "titulo": "Un terremoto de magnitud 7,6 sacude el sureste de Panamá",
-    "medio": "El Independiente",
-    "fecha": 1791570802.0,
-    "link": "https://www.elindependiente.com/internacional/2026/10/09/un-terremoto-de-magnitud-76-sacude-el-sureste-de-panama/",
-    "resumen": "Un terremoto de magnitud 7,6 ha sacudido este viernes el sureste de Panamá, con una profundidad de 10 kilómetros, ha […]"
-  },
-  {
-    "titulo": "Colau invita a Rufián a sumarse al Frente Amplio para unir a toda la izquierda: \"Estamos absolutamente abiertos\"",
-    "medio": "El Independiente",
-    "fecha": 1791569230.0,
-    "link": "https://www.elindependiente.com/espana/2026/10/09/colau-invita-a-rufian-a-sumarse-al-frente-amplio-para-unir-a-toda-la-izquierda-estamos-absolutamente-abiertos/",
-    "resumen": "La exalcaldesa de Barcelona Ada Colau ha manifestado que las puertas de Frente Amplio están \"abiertas\" para el portavoz de […]"
-  },
-  {
-    "titulo": "Trump crea un comité para investigar a la gobernadora de la Reserva Federal, Lisa Cook, por un supuesto fraude hipotecario",
-    "medio": "El Independiente",
-    "fecha": 1791567946.0,
-    "link": "https://www.elindependiente.com/internacional/2026/10/09/trump-crea-un-comite-para-investigar-a-la-gobernadora-de-la-reserva-federal-lisa-cook-por-un-supuesto-fraude-hipotecario/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, ha establecido un comité de la Casa Blanca para investigar a la gobernadora […]"
-  },
-  {
-    "titulo": "¿Es sólido el sistema de pensiones?",
-    "medio": "El Independiente",
-    "fecha": 1791565311.0,
-    "link": "https://www.elindependiente.com/economia/2026/10/09/solido-sistema-pensiones/",
-    "resumen": "El sistema público de pensiones vuelve al centro del debate político. Mientras el Gobierno defiende su sostenibilidad y la oposición […]"
-  },
-  {
-    "titulo": "Fundación PRL: formación online especializada en prevención",
-    "medio": "El Independiente",
-    "fecha": 1791564718.0,
-    "link": "https://www.elindependiente.com/eli/2026/10/09/fundacion-prl-formacion-online-especializada-en-prevencion/",
-    "resumen": "La formación en prevención de riesgos laborales cuenta con un papel cada vez más relevante para trabajadores y empresas que […]"
-  },
-  {
-    "titulo": "Mohamed VI advierte de que la colaboración de Marruecos con España \"no puede someterse a chantaje, amenaza o presión\"",
-    "medio": "El Independiente",
-    "fecha": 1791564667.0,
-    "link": "https://www.elindependiente.com/internacional/2026/10/09/mohamed-vi-advierte-de-que-la-colaboracion-con-espana-no-puede-someterse-al-chantaje-amenaza-o-presion/",
-    "resumen": "Mohamed VI vuelve a acaparar el foco. El rey de Marruecos ha abierto la primera sesión de la 12ª legislatura […]"
   },
   {
     "titulo": "‘La otra orilla de la vanguardia’: arte al otro lado de la razón",
