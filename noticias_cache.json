@@ -1,66 +1,367 @@
 [
   {
-    "titulo": "La decisión de Sofía y el inevitable pucherazo",
+    "titulo": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
+    "medio": "El País",
+    "fecha": 1792902601.0,
+    "link": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
+    "resumen": "La intervención estaba prevista y el monarca pasará la noche en la clínica asturiana"
+  },
+  {
+    "titulo": "Railpass: relajantes viajes interminables en tren por todo el mundo, sin salir de casa",
+    "medio": "Microsiervos",
+    "fecha": 1792882117.0,
+    "link": "http://www.microsiervos.com/archivo/mundoreal/railpass-viajes-tren-mundo.html",
+    "resumen": "Sami Smith se ha dado cuenta de lo relajantes que suelen ser los viajes en tren y que mirar por la ventanilla proporciona una tranquilidad inusitada. Así que ha creado Railpass que convierte la pantalla en un vagón de tren desde el que contemplar paisajes en movimiento. El contenido son vídeos grabaciones de vídeo auténticas, hechas desde trenes, reproducidas como se vieran a través del cristal. Un gran invento que no requiere pagar billetes, seguir horarios, ni hacer las maletas. Y si te aburres, el botón Random te lleva a otro lugar del mundo al azar. La idea es similar a otras que se han visto con webcams en ventanas, parques o los canales de YouTube de paseos por las calles o en Metros o tren. El menú permite escoger entre 34 países y territorios repartidos por América, Europa, Asia y Oceanía. Hay opciones como España, Japón, Suiza, India, Canadá o Australia; también regiones como Escocia, Gales o Hong Kong. Puedes ver cómo son los recorridos ferroviarios y paisajes de muchos lugares. Y para completar la ambientación se puede activar el sonido y elegir entre seis ambientes visuales: despejado, atardecer, noche, lluvia, niebla o nieve (esto sí son efectos especiales, no grabaciones). Un pequeño bug: algunas grabaciones están en sentido contrario de la marcha, lo cual a mi me resulta incómodo por naturaleza, pero bueno… Se cambia por otro sitio y listo. Railpass puede considerarse una especie de salvapantallas ferroviario o una televisión con un único canal dedicado a ver pasar el mundo, descubrir paisajes o cotillear qué se ve en diversas ciudades y países. Se puede poner en una segunda pantalla mientras se está trabajando o cuando el ordenador no tenga nada mejor que hacer. El resultado es bonito. (Vía Kottke.org.) Relacionados: Video del viernes: viaje por las cuatro estaciones WindowSwap: intercambio de vistas para aliviar el confinamiento Vídeo paseos relajantes por todo el mundo Un viaje en monorraíl por las ciudades de Japón Un par de relajantes webs con vistas a parques y paisajes flickvision y twittervision como salvapantallas # Enlace permanente"
+  },
+  {
+    "titulo": "El tradicional ‘civet’ del empresario Luis Conde reúne a presidentes autonómicos, miembros del Gobierno y destacados empresarios en Gerona",
     "medio": "OK Diario",
-    "fecha": 1792868136.0,
-    "link": "https://okdiario.com/opinion/decision-sofia-inevitable-pucherazo-20622983",
-    "resumen": "De momento ha terminado la controversia entre el Tribunal Supremo y el Tribunal Constitucional por el absurdo recurso de amparo interpuesto por el Defensor del Pueblo. Pero el hecho de que sigan vigentes las medidas cautelares impuestas sobre el derecho a voto de algunos de los nacionalizados por la Ley de Nietos no significa, ni … Continuar leyendo \"La decisión de Sofía y el inevitable pucherazo\""
+    "fecha": 1792881547.0,
+    "link": "https://okdiario.com/espana/tradicional-civet-del-empresario-luis-conde-reune-presidentes-autonomicos-miembros-del-gobierno-destacados-empresarios-gerona-20623630",
+    "resumen": "El empresario catalán Luis Conde ha celebrado este sábado su tradicional civet (guiso de caza) en una finca en Fonteta, en la provincia de Gerona, una cita que ha alcanzado ya su 13ª edición y que ha reunido a lo más granado del panorama político y empresarial no ya sólo catalán sino a nivel nacional. … Continuar leyendo \"El tradicional ‘civet’ del empresario Luis Conde reúne a presidentes autonómicos, miembros del Gobierno y destacados empresarios en Gerona\""
   },
   {
-    "titulo": "García-Page publica su primer libro y se reivindica frente a Sánchez: «No a los populismos simplones»",
-    "medio": "Moncloa.com",
-    "fecha": 1792868030.0,
-    "link": "https://www.moncloa.com/2026/10/24/garcia-page-libro-sanchez-3454654/",
-    "resumen": "García-Page publica 'Luces de emergencia', su primer libro, en plena precampaña del 29N y vuelve a marcar distancia con Ferraz y con Sánchez. La entrada García-Page publica su primer libro y se reivindica frente a Sánchez: «No a los populismos simplones» aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Discurso Felipe VI democracia: «no se agota en las elecciones» y compromiso cívico ante el 29-N",
-    "medio": "Moncloa.com",
-    "fecha": 1792867730.0,
-    "link": "https://www.moncloa.com/2026/10/24/felipe-vi-discurso-democracia-29n-3454656/",
-    "resumen": "Felipe VI cierra los Premios Princesa de Asturias 2026 con una advertencia sobre la democracia y el compromiso cívico ante el 29-N. La entrada Discurso Felipe VI democracia: «no se agota en las elecciones» y compromiso cívico ante el 29-N aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La psicología sugiere que las personas que no suben fotos a sus redes sociales no son antipáticas, en realidad no tienen necesidad de dar explicaciones en espacios públicos",
+    "titulo": "Así queda la parrilla de salida para el GP de Estados Unidos de F1 2026 tras la clasificación en Austin",
     "medio": "OK Diario",
-    "fecha": 1792867512.0,
-    "link": "https://okdiario.com/curiosidades/psicologia-sugiere-que-personas-que-no-suben-fotos-sus-redes-sociales-no-son-antipaticas-realidad-no-tienen-necesidad-dar-explicaciones-espacios-publicos-20608226",
-    "resumen": "Hay personas que publican cada viaje, celebración o encuentro con amigos en Instagram, mientras que otras prefieren disfrutar de esos momentos sin compartirlos con nadie más. Esta diferencia puede dar lugar a interpretaciones equivocadas, como pensar que quienes apenas suben fotografías son antipáticos, reservados en exceso o poco sociables. Sin embargo, la psicología ofrece una … Continuar leyendo \"La psicología sugiere que las personas que no suben fotos a sus redes sociales no son antipáticas, en realidad no tienen necesidad de dar explicaciones en espacios públicos\""
+    "fecha": 1792881293.0,
+    "link": "https://okdiario.com/deportes/asi-queda-parrilla-salida-gp-estados-unidos-f1-2026-clasificacion-austin-20623846",
+    "resumen": "Ya está configurada la parrilla de salida para la carrera de este domingo en el Gran Premio de Estados Unidos, que arrancará a las 21:00 horas (20:00 en las Islas Canarias). El orden de los 22 pilotos ha quedado establecido tras la clasificación celebrada en el circuito de las Américas. Andrea Kimi Antonelli se llevó … Continuar leyendo \"Así queda la parrilla de salida para el GP de Estados Unidos de F1 2026 tras la clasificación en Austin\""
   },
   {
-    "titulo": "Los Reyes, Leonor y Sofía entregan en Llanes el Premio Pueblo Ejemplar de Asturias 2026",
+    "titulo": "Cientos de personas quedan atrapadas en los comercios de Barcelona, mientras los antisistema saquean la ciudad",
+    "medio": "El Español",
+    "fecha": 1792880931.0,
+    "link": "https://www.elespanol.com/espana/20261025/cientos-personas-quedan-atrapadas-comercios-barcelona-antisistema-saquean-ciudad/1003744433873_0.html",
+    "resumen": "Muchos de los afectados son turistas y peatones que no tenían conocimiento de la protesta y se han visto sorprendidos por los disturbios.Más información: Encapuchados antisistema saquean comercios y siembran el terror en Barcelona: hay al menos 100 detenidos"
+  },
+  {
+    "titulo": "Antonelli no está para rodeos y se lleva la ‘pole’ del GP de EE UU",
+    "medio": "El País",
+    "fecha": 1792880804.0,
+    "link": "https://elpais.com/deportes/formula-1/2026-10-24/antonelli-no-esta-para-rodeos-y-se-lleva-la-pole-del-gp-de-ee-uu.html",
+    "resumen": "El piloto de Mercedes encara en Austin la primera oportunidad de coronarse y hacer historia en la F1"
+  },
+  {
+    "titulo": "Clasificación del GP de Estados Unidos hoy: resultado online, parrilla de salida y cómo han quedado Alonso y Sainz en Austin",
+    "medio": "OK Diario",
+    "fecha": 1792879785.0,
+    "link": "https://okdiario.com/deportes/clasificacion-del-gp-estados-unidos-directo-sigue-ultima-hora-prueba-formula-1-circuito-americas-20621239",
+    "resumen": "Llega el momento de la verdad para los pilotos en el GP de Estados Unidos ahora que empieza a acercarse el final del Mundial de Fórmula 1 2026. Los mejores corredores del mundo se juntan en Austin, Texas, para darlo todo en esta prueba y tratar de salir lo más adelante posible en la carrera … Continuar leyendo \"Clasificación del GP de Estados Unidos hoy: resultado online, parrilla de salida y cómo han quedado Alonso y Sainz en Austin\""
+  },
+  {
+    "titulo": "Antonelli se acerca al Mundial con la pole de Austin: Alonso firma una Q2 milagrosa y Sainz sufre con Williams",
+    "medio": "OK Diario",
+    "fecha": 1792879757.0,
+    "link": "https://okdiario.com/deportes/antonelli-acerca-mundial-pole-austin-alonso-firma-q2-milagrosa-sainz-sufre-williams-20623390",
+    "resumen": "Las cartas ya están echadas en el Gran Premio de Estados Unidos. La carrera de este domingo promete, con Ferrari, Red Bull y Mercedes en la pelea. Andrea Kimi Antonelli se ha llevado la pole y saldrá justo por delante de Max Verstappen e Isack Hadjar. Los españoles han vuelto ha tener dificultades, pero Fernando … Continuar leyendo \"Antonelli se acerca al Mundial con la pole de Austin: Alonso firma una Q2 milagrosa y Sainz sufre con Williams\""
+  },
+  {
+    "titulo": "Los disturbios en Barcelona dejan un centenar de detenidos, una cuarta parte menores",
+    "medio": "The Objective",
+    "fecha": 1792879495.0,
+    "link": "https://theobjective.com/espana/cataluna/2026-10-25/protestas-barcelona-centenar-detenidos-menores/",
+    "resumen": "Los Mossos d’Esquadra han detenido a un centenar de personas, una cuarta parte de ellas menores de edad, por su presunta relación con los disturbios desatados […]"
+  },
+  {
+    "titulo": "Julián Álvarez volvió a marcar... y pidió perdón: \"Mis palabras durante el Mundial fueron una equivocación\"",
+    "medio": "El Mundo",
+    "fecha": 1792879008.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/24/6add27ece85ece7e2e8b457d.html",
+    "resumen": "El delantero quiere cerrar su capítulo sobre su fichaje por el Barça y pide disculpas a la afición que \"tanto le bancó\" Leer"
+  },
+  {
+    "titulo": "El Congreso de EE.UU. maniobra para tumbar la exención de sanciones al diésel ruso hasta abril",
     "medio": "Moncloa.com",
-    "fecha": 1792867430.0,
-    "link": "https://www.moncloa.com/2026/10/24/pueblo-ejemplar-asturias-llanes-2026-3454658/",
-    "resumen": "Los Reyes, Leonor y Sofía entregan en Llanes el Pueblo Ejemplar 2026 a la Cofradía de Pescadores Santa Ana, premio a la pesca artesanal y sostenible. La entrada Los Reyes, Leonor y Sofía entregan en Llanes el Premio Pueblo Ejemplar de Asturias 2026 aparece primero en Moncloa."
+    "fecha": 1792878820.0,
+    "link": "https://www.moncloa.com/2026/10/24/sanciones-diesel-ruso-senado-eeuu-3454921/",
+    "resumen": "El Congreso de EE.UU. mueve ficha contra la exención del diésel ruso mientras el Senado investiga a las empresas. El precio del gasóleo llega a España. La entrada El Congreso de EE.UU. maniobra para tumbar la exención de sanciones al diésel ruso hasta abril aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Trump amenaza con un nuevo ataque «Epic Fury» contra Irán y retira tropas de Oriente Próximo",
+    "medio": "Moncloa.com",
+    "fecha": 1792878809.0,
+    "link": "https://www.moncloa.com/2026/10/24/trump-iran-epic-fury-oriente-proximo-3454919/",
+    "resumen": "Trump amenaza con 'otro pequeño Epic Fury' contra Irán mientras Washington vacía embajadas y recoloca tropas en el Golfo. La entrada Trump amenaza con un nuevo ataque «Epic Fury» contra Irán y retira tropas de Oriente Próximo aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN",
+    "medio": "Moncloa.com",
+    "fecha": 1792878790.0,
+    "link": "https://www.moncloa.com/2026/10/24/ataque-misiles-oryol-municion-otan-3454923/",
+    "resumen": "Tres muertos en Oryol por un ataque con misiles que Klíchkov atribuye a munición de la OTAN, sin verificación independiente del tipo de arma. La entrada Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Julián Alvarez reconquista el Metropolitano con el gol que derrota al Depor y pide perdón a la hinchada del Atlético: “Entiendo el enojo de la afición”",
+    "medio": "El País",
+    "fecha": 1792878618.0,
+    "link": "https://elpais.com/deportes/futbol/2026-10-24/julian-alvarez-reconquista-el-metropolitano-con-el-gol-que-derrota-al-depor-y-pide-perdon-a-la-hinchada-del-atletico-entiendo-el-enojo-de-la-aficion.html",
+    "resumen": "El atacante argentino y Oblak fueron decisivos para frenar al conjunto gallego, que tuvo el empate en la última jugada"
+  },
+  {
+    "titulo": "Simeone y el perdón de Julián: «No es fácil disculparse, cuando uno dice eso es porque lo siente; se sentirá en paz»",
+    "medio": "OK Diario",
+    "fecha": 1792878513.0,
+    "link": "https://okdiario.com/deportes/simeone-perdon-julian-no-facil-disculparse-cuando-uno-dice-eso-porque-lo-siente-sentira-paz-20623768",
+    "resumen": "El culebrón del veramo se zanja entrado el otoño. Julián Álvarez, tras irrumpir públicamente y en pleno Mundial para pedir un traspaso y cumplir su «sueño», ha pedido perdón a la afición del Atlético por el cómo y el cuándo. Por hacerlo en la mitad de un evento tan mastodóntico como el Mundial y de … Continuar leyendo \"Simeone y el perdón de Julián: «No es fácil disculparse, cuando uno dice eso es porque lo siente; se sentirá en paz»\""
+  },
+  {
+    "titulo": "Encapuchados antisistema saquean comercios y siembran el terror en Barcelona: hay al menos 100 detenidos",
+    "medio": "El Español",
+    "fecha": 1792878493.0,
+    "link": "https://www.elespanol.com/espana/20261024/saqueos-vandalismo-barcelona-concentracion-jovenes-antisistema-acaba-detenidos/1003744433857_0.html",
+    "resumen": "Unos 500 jóvenes, convocados a través de las redes sociales, se enfrentan a los mossos y provocan daños y saqueo de comercios.Más información: Cientos de miles desafían a Macron y se manifiestan en las calles mientras la tensión se recrudece en Italia."
+  },
+  {
+    "titulo": "Detienen a tres menores trinitarios por apuñalar de gravedad a un chico DDP de 14 años en Pueblo Nuevo",
+    "medio": "El Mundo",
+    "fecha": 1792878352.0,
+    "link": "https://www.elmundo.es/madrid/2026/10/24/6adc4fdae4d4d8f0048b45aa.html",
+    "resumen": "El menor ha sufrido cuatro heridas en tórax y la pierna y ha sido traslado en estado grave al hospital Leer"
+  },
+  {
+    "titulo": "Ni la nube ni un superordenador: NVIDIA PAIR reparte gratis la IA entre los PC de casa y, en su demo, baja una tarea de 18 minutos a menos de 10",
+    "medio": "OK Diario",
+    "fecha": 1792878338.0,
+    "link": "https://okdiario.com/techy/nvidia-pair-ia-ordenadores-casa-gratis-codigo-abierto-20623281",
+    "resumen": "NVIDIA publicó el 13 de octubre de 2026 la primera versión estable de NVIDIA PAIR, un programa gratuito y de código abierto que reparte las tareas de inteligencia artificial entre los ordenadores conectados a una misma red doméstica. En la demostración de la propia empresa, tres equipos terminaron en 8 minutos y 48 segundos un … Continuar leyendo \"Ni la nube ni un superordenador: NVIDIA PAIR reparte gratis la IA entre los PC de casa y, en su demo, baja una tarea de 18 minutos a menos de 10\""
+  },
+  {
+    "titulo": "Trump vota en Palm Beach a 10 días de las ‘midterms’ pese a cuestionar el voto anticipado y por correo",
+    "medio": "El País",
+    "fecha": 1792878311.0,
+    "link": "https://elpais.com/us/2026-10-24/trump-vota-en-palm-beach-a-10-dias-de-las-midterms-pese-a-cuestionar-el-voto-anticipado-y-por-correo.html",
+    "resumen": "El presidente estadounidense está inscrito en su mansión de Mar-a-Lago en Florida"
+  },
+  {
+    "titulo": "Armenia gana Eurovisión Junior 2026 y España queda segunda con Lucas Paulano y ‘Cuore Bello (Te quiero, te quiero)’",
+    "medio": "El País",
+    "fecha": 1792878047.0,
+    "link": "https://elpais.com/television/2026-10-24/armenia-gana-eurovision-junior-2026-y-espana-queda-segunda-con-lucas-paulano-y-cuore-bello-te-quiero-te-quiero.html",
+    "resumen": "Naré Kerobyan, de 13 años, se ha impuesto con la canción ‘Boo!’. España ha logrado 184 puntos"
+  },
+  {
+    "titulo": "Julián Álvarez pide perdón al Atlético: «Mis palabras durante el Mundial fueron una equivocación por las formas y el momento»",
+    "medio": "OK Diario",
+    "fecha": 1792877789.0,
+    "link": "https://okdiario.com/deportes/julian-alvarez-pide-perdon-atletico-mis-palabras-durante-mundial-fueron-equivocacion-formas-momento-20623718",
+    "resumen": "Y tras casi cuatro meses, Julián Álvarez pidió perdón a la afición del Atlético. El argentino, que apareció en pleno Mundial a solicitar un traspaso en busca de su «sueño», se disculpa ahora por todo. Por el cómo y el cuándo. Por hacerlo en la mitad de un evento tan mastodóntico como el Mundial y … Continuar leyendo \"Julián Álvarez pide perdón al Atlético: «Mis palabras durante el Mundial fueron una equivocación por las formas y el momento»\""
+  },
+  {
+    "titulo": "Ni las bombas ni el acuerdo con EEUU lo han frenado: Irán acelera en 2026 las obras de la montaña Pickaxe, a 2 kilómetros de Natanz",
+    "medio": "OK Diario",
+    "fecha": 1792877423.0,
+    "link": "https://okdiario.com/techy/montana-pickaxe-iran-obras-2026-natanz-satelite-csis-20623260",
+    "resumen": "Irán ha trabajado en 2026 en la montaña Pickaxe, el complejo de túneles que excava a 2 kilómetros de la planta de enriquecimiento de Natanz, con más intensidad que en ningún otro momento desde que empezaron las obras en 2020. Es la conclusión del análisis de imágenes por satélite que el Centro de Estudios Estratégicos … Continuar leyendo \"Ni las bombas ni el acuerdo con EEUU lo han frenado: Irán acelera en 2026 las obras de la montaña Pickaxe, a 2 kilómetros de Natanz\""
+  },
+  {
+    "titulo": "Armengol descarta la polarización en el Congreso y propone preguntas «más libres» al Gobierno",
+    "medio": "Moncloa.com",
+    "fecha": 1792877172.0,
+    "link": "https://www.moncloa.com/2026/10/24/armengol-congreso-polarizacion-preguntas-3454910/",
+    "resumen": "Armengol sostiene que el Congreso no vive polarización sino un clima de agresividad buscado y aboga por preguntas 'más libres' en el control al Gobierno. La entrada Armengol descarta la polarización en el Congreso y propone preguntas «más libres» al Gobierno aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ferraz celebra su estrategia de precampaña: Milei y los tropiezos del PP aupan a Sánchez a cinco semanas del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1792877012.0,
+    "link": "https://www.moncloa.com/2026/10/24/ferraz-precampana-milei-tropiezos-pp-3454905/",
+    "resumen": "Ferraz rentabiliza la visita de Milei y los tropiezos del PP para instalar el marco de los dos modelos a cinco semanas del 29-N. La entrada Ferraz celebra su estrategia de precampaña: Milei y los tropiezos del PP aupan a Sánchez a cinco semanas del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Milei llama «ladrón corrupto» a Sánchez y le acusa de amañar el 29-N con la ley de nietos",
+    "medio": "Moncloa.com",
+    "fecha": 1792876987.0,
+    "link": "https://www.moncloa.com/2026/10/24/milei-sanchez-ley-nietos-29n-3454901/",
+    "resumen": "Milei acusa a Sánchez de amañar el 29-N con la ley de nietos y desea que la ola azul llegue a España; el PSOE responde con gestión institucional. La entrada Milei llama «ladrón corrupto» a Sánchez y le acusa de amañar el 29-N con la ley de nietos aparece primero en Moncloa."
+  },
+  {
+    "titulo": "España respalda ampliar a 180 días la pesca mediterránea de arrastre en 2027",
+    "medio": "Moncloa.com",
+    "fecha": 1792876926.0,
+    "link": "https://www.moncloa.com/2026/10/24/pesca-mediterranea-180-dias-arrastre-3454892/",
+    "resumen": "España respalda 180 días de arrastre mediterráneo en 2027. La propuesta de la Eurocámara choca con la condicionalidad ambiental de Bruselas. La entrada España respalda ampliar a 180 días la pesca mediterránea de arrastre en 2027 aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Juanma Moreno, en Cataluña: «Necesitamos recuperar la concordia» para captar el voto andaluz del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1792876903.0,
+    "link": "https://www.moncloa.com/2026/10/24/moreno-cataluna-precampana-29n-voto-andaluz-3454891/",
+    "resumen": "Moreno pide en Barcelona el voto andaluz para el PP con la vivienda, la okupación y la gestión andaluza como banderas ante el 29-N. La entrada Juanma Moreno, en Cataluña: «Necesitamos recuperar la concordia» para captar el voto andaluz del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Felipe VI, operado de cataratas en Oviedo: pasará la noche en el centro tras una intervención sin incidencias",
+    "medio": "HuffPost",
+    "fecha": 1792875895.0,
+    "link": "https://www.huffingtonpost.es/politica/felipe-vi-operado-cataratas-oviedo-pasara-noche-centro-intervencion-incidencias-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Landaluce entrega el bastón de mando de la ciudad al Señor de Medinaceli antes de abandonar la Alcaldía de Algeciras por la moción de censura",
+    "medio": "El Mundo",
+    "fecha": 1792875694.0,
+    "link": "https://www.elmundo.es/andalucia/2026/10/24/6add1a37fdddffda1a8b459d.html",
+    "resumen": "Pide para que la ciudadanía \"pueda liberarse de los cautiverios a veces forzados, otras veces creados a los que se ven sometidos por distintos avatares de la vida\" Leer"
+  },
+  {
+    "titulo": "Al menos 1.500 palestinos desplazados en una operación militar israelí de represalia en Hebrón",
+    "medio": "The Objective",
+    "fecha": 1792875151.0,
+    "link": "https://theobjective.com/internacional/2026-10-24/palestinos-operacion-militar-israeli-represalia-hebron/",
+    "resumen": "Al menos 1.500 personas han tenido que huir de sus hogares este sábado como consecuencia de una amplia operación militar israelí en la localidad de Hebrón, […]"
+  },
+  {
+    "titulo": "Felipe VI aprovecha su viaje a Oviedo para operarse de cataratas en el ojo izquierdo: pasará la noche en el hospital",
+    "medio": "El Español",
+    "fecha": 1792874997.0,
+    "link": "https://www.elespanol.com/espana/20261024/rey-felipe-vi-operado-cataratas-ojo-izquierdo-pasara-noche-hospital-oviedo/1003744433843_0.html",
+    "resumen": "La intervención, de carácter rutinario, ha durado media hora y el monarca pernoctará en el Instituto Oftalmológico Fernández-Vega.Más información: La Princesa Leonor defiende el papel de las mujeres en la historia marinera de Llanes y el sacrificio de sus pescadores."
+  },
+  {
+    "titulo": "La violencia política desborda el blindaje de seguridad en Francia",
+    "medio": "El Mundo",
+    "fecha": 1792874846.0,
+    "link": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
+    "resumen": "Más de 400.000 manifestantes desafían las prohibiciones y las cargas policiales durante otra jornada de movilizaciones en el país galo Leer"
+  },
+  {
+    "titulo": "Felipe VI, intervenido de cataratas en su ojo izquierdo",
+    "medio": "El Mundo",
+    "fecha": 1792874364.0,
+    "link": "https://www.elmundo.es/espana/2026/10/24/6add1778fdddff48738b457b.html",
+    "resumen": "La operación ha durado media hora y ha transcurrido sin complicaciones Leer"
+  },
+  {
+    "titulo": "El Barça olvida el tropiezo en Zubieta ganando al Granada",
+    "medio": "La Vanguardia",
+    "fecha": 1792873780.0,
+    "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20261024/11667358/barca-olvida-tropiezo-zubieta-ganando-granada.html",
+    "resumen": "La entrada de una excelsa Caroline Graham Hansen desatasca un partido espeso"
+  },
+  {
+    "titulo": "Guía para visitar Eslovenia por primera vez: las 13 cosas que debes saber, explicadas por un viajero experto",
+    "medio": "eldiario.es",
+    "fecha": 1792873530.0,
+    "link": "https://www.eldiario.es/viajes/guia-visitar-eslovenia-primera-vez-13-cosas-debes-explicadas-viajero-experto_1_13499314.html",
+    "resumen": "¿Cuántos días necesitas para conocer Eslovenia? ¿Es mejor moverse en coche o en transporte público? ¿Cómo es su gastronomía? Seis buenas razones para viajar en otoño (y seis destinos que lo demuestran) Eslovenia es uno de esos destinos que, pese a su tamaño, permite organizar un viaje muy completo. En pocos días puedes pasar de una capital pequeña y fácil de recorrer a los Alpes Julianos, grandes lagos, cuevas, pueblos con historia y la costa del Adriático. Además, las distancias no son grandes, aunque conviene tener en cuenta que los desplazamientos por zonas de montaña pueden llevar más tiempo del que parece sobre el mapa. La buena noticia es que no necesitas elegir entre naturaleza, ciudades o costa. Una primera ruta por Eslovenia puede combinar un poco de todo y, si dispones de más días, ampliar el viaje hacia regiones menos conocidas o dedicar más tiempo a hacer senderismo y disfrutar de los paisajes alpinos. La clave está en organizar bien las paradas y no intentar abarcar demasiado cada jornada. En esta guía te contamos cuándo es mejor viajar a Eslovenia, cuántos días necesitas y qué ruta puedes plantearte según el tiempo disponible. También repasamos cómo moverte por el país, qué documentación necesitas, cuánto puedes gastar, dónde alojarte, qué tienes que probar sí o sí y qué llevar en la maleta. Y, por supuesto, qué lugares merece la pena incluir en una primera visita, desde Liubliana y el lago Bled hasta las cuevas del Karst, Piran o el valle del Soča. El Valle del Soča, en Eslovenia. Cuándo viajar a Eslovenia Eslovenia se puede visitar durante todo el año, pero la experiencia cambia bastante según la época. Si quieres combinar naturaleza, pueblos, ciudades y rutas por montaña, primavera y otoño suelen ser buenas opciones, especialmente mayo, junio, septiembre y octubre. Hay menos afluencia que en pleno verano y las temperaturas suelen resultar más cómodas para hacer turismo y actividades al aire libre. Julio y agosto son los meses más adecuados si quieres aprovechar al máximo los lagos, los ríos, la costa y las actividades en los Alpes, aunque también coinciden con la temporada de mayor demanda. En invierno, en cambio, el viaje cambia por completo y resulta más interesante si buscas nieve, esquí o una visita urbana. En las zonas de montaña hay que tener en cuenta además que algunas carreteras pueden verse afectadas por la nieve y que los días son más cortos. Las estaciones están muy marcadas y ten claro que en verano puede hacer mucho calor y en invierno mucho frío. Cuántos días dedicar al viaje Para una primera visita, lo más recomendable es disponer de entre 8 y 10 días. Con una semana puedes conocer algunos de los lugares más importantes, pero tendrás que asumir un ritmo bastante intenso moviéndote de un lado para otro. Si solo tienes tres o cuatro días, puedes centrarte en Liubliana, el lago Bled y alguno de los atractivos del Karst. A partir de dos semanas, la ventaja está en poder viajar con más calma, hacer senderismo y añadir regiones menos conocidas y alejadas. Tromostovje, o el Puente Triple de Liubliana. Qué ruta elegir según los días disponibles Si tienes una semana En siete días conviene centrarse en los grandes imprescindibles. Una ruta bastante equilibrada puede comenzar en Liubliana y continuar hacia la zona del Karst, con las cuevas de Postojna y Škocjan y el castillo de Predjama. Desde allí puedes bajar hasta la costa para conocer Piran y después dirigirte hacia el norte para dedicar los últimos días al lago Bled, Vintgar, Bohinj y los Alpes Julianos. Es un recorrido intenso, pero permite hacerse una buena idea de la variedad del país. Si te lo puedes permitir, lo ideal es contar con un poco más de margen. Si tienes diez días Diez días permiten ampliar bastante el recorrido. A la ruta anterior puedes añadir Maribor y Ptuj, en el este, y dedicar más tiempo a la zona alpina. También merece la pena reservar un par de jornadas para el valle del Soča y Bovec, especialmente si te interesan las rutas de senderismo y las actividades al aire libre. Una buena estrategia es dividir el viaje en varias bases y hacer excursiones desde ellas. Así reduces los cambios de alojamiento y evitas pasar buena parte del día metido en el coche. Si tienes dos semanas o más Con más de dos semanas puedes dedicar varios días a los Alpes Julianos y al valle del Soča, hacer rutas a pie y explorar otras zonas del país, como Logarska Dolina, Velika Planina o algunas de sus regiones termales. Tampoco hay que volverse loco sumando visitas. Tener más tiempo en Eslovenia merece sobre todo la pena porque permite conocer cada zona con más calma y reservar alguna jornada para improvisar según el tiempo. Piran, en Eslovenia. Cómo moverse por Eslovenia Eslovenia es un país pequeño, con algo más de 20.000 km² es algo más pequeño que toda la Comunitat Valenciana, y las distancias entre sus principales destinos son relativamente cortas. Aun así, hay una diferencia importante entre ver el mapa y hacer el trayecto. En las zonas de montaña las carreteras son buenas pero estrechas, y los recorridos pueden ser sinuosos y bastante más lentos de lo que parece. Para una ruta de una semana o diez días, el coche de alquiler es probablemente la opción más cómoda, sobre todo si quieres combinar lagos, cuevas, pueblos y espacios naturales. La red de trenes y autobuses permite viajar por buena parte del país, pero ofrece menos flexibilidad para llegar a zonas rurales o encadenar varias visitas en una misma jornada. Si conduces por autopistas y determinadas vías rápidas tendrás que adquirir una e-vignette, vinculada a la matrícula del vehículo. Si el coche lo alquilas en Eslovenia suele venir incluida, pero si el coche viene de fuera de sus fronteras es un trámite obligatorio que conviene resolver antes de utilizar estas carreteras y que deberás gestionar tú mismo (fácilmente de manera online). Documentación, sanidad y otros aspectos prácticos Si viajas desde España, Eslovenia forma parte de la Unión Europea y del espacio Schengen, por lo que puedes entrar con DNI o pasaporte en vigor. La Tarjeta Sanitaria Europea permite acceder a la asistencia sanitaria pública, pero no sustituye a un seguro de viaje que además incluirá muchas otras coberturas. Si vas a hacer senderismo o actividades de montaña, es especialmente recomendable comprobar que el seguro cubre este tipo de actividades. Los enchufes son tipo C y F, como en España, y tampoco hay diferencia horaria, así que no tendrás que preocuparte por nada de eso. La garganta de Vintgar, en Eslovenia. Internet y móvil Al estar dentro de la Unión Europea, los viajeros españoles pueden utilizar el móvil con las condiciones de roaming de su tarifa. Aun así, conviene comprobar antes del viaje los límites de datos. La cobertura suele ser buena en las zonas habitadas y turísticas, aunque puede empeorar en algunos puntos de montaña. Encontrarás Wi-Fi en prácticamente cualquier lugar público, así que permanecer conectado no será ningún problema. Dinero, precios y presupuesto Eslovenia utiliza el euro y las tarjetas están ampliamente aceptadas. Aun así, es recomendable llevar algo de efectivo para pequeños gastos o lugares donde no admitan pagos con tarjeta, como puede ocurrir en algunos puntos de la montaña. El coste del viaje puede resultar parecido al de España, aunque depende bastante de la zona y de la temporada. El alojamiento en lugares muy turísticos, especialmente Bled, puede elevar el presupuesto, al igual que los aparcamientos y las entradas a determinados atractivos. Pero por lo general Eslovenia no es un país caro, sobre todo si te sales de las rutas más turísticas. ¿Es seguro viajar a Eslovenia? Eslovenia es, en general, un destino seguro para viajar por libre. Las precauciones son las habituales en cualquier viaje, especialmente en zonas turísticas, donde conviene vigilar las pertenencias y no dejar objetos de valor a la vista en el coche. Si vas a hacer rutas por montaña, consulta siempre la previsión meteorológica y lleva el equipamiento adecuado. En los Alpes el tiempo puede cambiar rápidamente y hay que estar preparados. El Castillo de Predjama, en Eslovenia. A tener en cuenta al elegir el alojamiento Aunque el país sea pequeño, no es buena idea utilizar Liubliana como única base si vas a viajar durante una semana o más. Los desplazamientos diarios hacia Bled, Bohinj, la costa o los Alpes pueden acabar restando bastante tiempo al viaje. Para una ruta de siete a diez días resulta más práctico repartir las noches entre varias zonas. Puedes combinar Liubliana con una base en los alrededores de Bled o Bohinj, otra en la zona del Karst o la costa y, si vas a dedicar más tiempo a los Alpes, alguna localidad del Valle del Soča. En temporada alta conviene reservar con antelación, especialmente en los destinos más demandados. También merece la pena buscar alojamientos rurales en los alrededores de las principales localidades, que pueden ofrecer precios más moderados y una experiencia más auténtica. Gastronomía eslovena La cocina eslovena mezcla influencias de Europa Central, los Alpes, el Mediterráneo y los Balcanes, por lo que la mezcla de sabores es interesante. Entre los platos que merece la pena probar están los štruklji, que pueden llevar diferentes rellenos, la típica salchicha kranjska klobasa, la jota, una sopa de verduras y carne, y el golaž, un clásico estofado de carne. En el apartado dulce destacan la potica, un pastel enrollado con frutos secos y miel, y la kremšnita, una tarta de crema especialmente típica de la zona de Bled. También encontrarás platos de tradición balcánica, como los čevapčiči. Idioma y comunicación El esloveno no es fácil, pero el inglés está muy extendido y es fácil comunicarse, especialmente en alojamientos y servicios relacionados con el turismo. No necesitas aprender esloveno para viajar, aunque conocer algunas palabras siempre resulta útil y, además, muy apreciado por los locales. Živjo — Hola Dober dan — Buenos días / Buenas tardes Hvala — Gracias Prosim — Por favor / De nada Oprostite — Perdón / Disculpe Nasvidenje — Adiós Las cuevas de Postojna, en Eslovenia. Qué llevar en la maleta La época del viaje marca una diferencia importante. En verano necesitarás ropa ligera, protección solar y bañador si quieres aprovechar los lagos o la costa, pero también alguna prenda de abrigo y un impermeable. En las zonas de montaña puede refrescar por la noche y el tiempo puede cambiar rápidamente. Si vas a hacer rutas a pie, el calzado cómodo y con buen agarre debería estar entre tus prioridades. En primavera y otoño es especialmente útil vestirse por capas. En invierno tendrás que preparar una maleta mucho más abrigada y adaptada a las condiciones de nieve, porque según por dónde te muevas las temperaturas pueden ser realmente bajas. Imprescindibles que no te puedes perder en una primera visita Si es tu primer viaje a Eslovenia, hay varios lugares que deberían estar en la planificación. Liubliana es un buen punto de partida, mientras que Bled y Bohinj concentran algunos de los principales atractivos de los Alpes Julianos. Cerca de Bled, la garganta de Vintgar permite añadir una ruta sencilla a esta parte del viaje. En el sur, las cuevas de Postojna, el castillo de Predjama y las cuevas de Škocjan muestran otra de las grandes particularidades del país con su paisaje kárstico. Y si quieres conocer la costa, Piran es la parada imprescindible. Con más tiempo, merece la pena ampliar el recorrido hacia el valle del Soča y Bovec, entrar en el Parque Nacional de Triglav y acercarse a Maribor y Ptuj. Las zonas más populares pueden requerir cierta planificación previa en temporada alta, especialmente cuando hay entradas o aparcamientos con capacidad limitada. Pero con un poco de planificación verás que Eslovenia es un país cómodo de descubrir y extremadamente fácil de disfrutar."
   },
   {
     "titulo": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
     "medio": "El País",
-    "fecha": 1792867298.0,
+    "fecha": 1792873228.0,
     "link": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html",
     "resumen": "El amplio despliegue policial y la confusión de los llamamientos hacen que no hayan aparecido grupos violentos. El detenido es un periodista italiano de origen marroquí"
   },
   {
-    "titulo": "Encapuchados queman barricadas y destrozan mobiliario en Barcelona y los Mossos blindan la plaza de Cataluña",
-    "medio": "OK Diario",
-    "fecha": 1792867136.0,
-    "link": "https://okdiario.com/cataluna/encapuchados-queman-barricadas-destrozan-mobiliario-barcelona-mossos-blindan-plaza-cataluna-20623023",
-    "resumen": "Los Mossos blindan este sábado por la tarde la plaza de Cataluña de Barcelona, donde grupos de encapuchados han quemado papeleras, tirado motos al suelo y levantado una barricada. Los antidisturbios han realizado cargas para dispersar a los concentrados, la mayoría vestidos de negro y con el rostro cubierto. En el cruce de la calle … Continuar leyendo \"Encapuchados queman barricadas y destrozan mobiliario en Barcelona y los Mossos blindan la plaza de Cataluña\""
+    "titulo": "Esta noche cambia la hora: a las tres serán las dos, pero el calendario del BOE no significa que sea la última vez",
+    "medio": "HuffPost",
+    "fecha": 1792872843.0,
+    "link": "https://www.huffingtonpost.es/sociedad/esta-noche-cambia-hora-tresan-dos-calendario-boe-significa-sea-ultima-vez-f202610.html",
+    "resumen": ""
   },
   {
-    "titulo": "Sánchez recupera el ‘No a la guerra’ en un vídeo de precampaña: «Sin dobles raseros» en política exterior",
-    "medio": "Moncloa.com",
-    "fecha": 1792867130.0,
-    "link": "https://www.moncloa.com/2026/10/24/sanchez-no-a-la-guerra-video-3454659/",
-    "resumen": "Sánchez reivindica el 'No a la guerra' en un vídeo ante el Guernica, con la vista puesta en el 29N y en el rechazo al 5% del PIB en defensa. La entrada Sánchez recupera el ‘No a la guerra’ en un vídeo de precampaña: «Sin dobles raseros» en política exterior aparece primero en Moncloa."
+    "titulo": "Videoanálisis | Brasil elige presidente en una elección reñida y que será decisiva para Latinoamérica",
+    "medio": "El País",
+    "fecha": 1792872462.0,
+    "link": "https://elpais.com/america/2026-10-24/videoanalisis-brasil-elige-presidente-en-una-eleccion-renida-y-que-sera-decisiva-para-latinoamerica.html",
+    "resumen": "Brasil se juega mucho más que una elección. Este es un partido importante para América Latina, para Brasil, para la Amazonia y para el planeta. De un lado está el hijo de Jair Bolsonaro, expresidente condenado por golpismo. Del otro, un estadista y demócrata de credenciales contrastadas"
   },
   {
-    "titulo": "Jornada 10 de la Liga: resumen de todos los partidos",
-    "medio": "OK Diario",
-    "fecha": 1792866931.0,
-    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
-    "resumen": "La jornada 10 de la Liga ya está aquí, con el Clásico entre el Barcelona y el Real Madrid como partido más destacado. Los dos grandes del fútbol español se miden este domingo en el Camp Nou, pero hay otros encuentros que completan esta décima jornada. Aquí puedes consultar todos los resúmenes, goleadores y marcadores … Continuar leyendo \"Jornada 10 de la Liga: resumen de todos los partidos\""
+    "titulo": "Miguel Benito Barrionuevo, abogado laborista: \"Da igual lo que ponga en el convenio colectivo, es un derecho irrenunciable\"",
+    "medio": "Trendencias",
+    "fecha": 1792872009.0,
+    "link": "https://www.trendencias.com/trabajo/miguel-benito-barrionuevo-abogado-laborista-da-igual-que-ponga-convenio-colectivo-derecho-irrenunciable",
+    "resumen": "“No importa lo que diga tu convenio. Si la ley te reconoce un derecho mejor, la empresa no puede quitártelo”. Esto explicaba el abogado laboralista Miguel Benito Barrionuevo, denunciando que algunas empresas usan trucos para evitar reconocerlos. Concretamente habla de los días de hospitalización por un familiar. Para entender a lo que se refiere, lo primero que hace Benito es explicar que “el Estatuto de los Trabajadores recoge vuestros derechos principales, básicos e irrenunciables”. Esto significa que como trabajador, independientemente de a qué sector pertenezcas o qué trabajo sea el que realizas, “tienes una serie de derechos que ningún convenio colectivo te puede quitar”. En base a estos derechos básicos, el convenio puede añadir algunos o cambiar determinados preceptos, “pero tus derechos son irrenunciables, no se pueden tocar\". Un convenio puede mejorar las condiciones mínimas que ya marca la ley, pero en ningún caso, puede rebajarlas por debajo de lo que marca la ley. El problema está cuando la ley se actualiza, pero el convenio no lo hace. “Han mejorado algunos derechos laborales, como el aumento de determinados días de permiso por hospitalización o fallecimiento de familiares”, explica Benito. Hace referencia al artículo 37.3.b del Estatuto de los Trabajadores (ET), que el 30 de junio de 2023 se reformó tras la aprobación del Real Decreto-ley 5/2023 y entró en vigor. Ese artículo del ET que reconoce el derecho a un permiso retribuido de 5 días laborables por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario. Son días laborales, es decir, no incluyen el fin de semana. Si a tu madre la operan un viernes, asumiendo que tu jornada laboral sea de lunes a viernes y tengas los fines de semana libres, te incorporarías a trabajar el viernes de la semana siguiente. Lo que se hizo tras la reforma fue modificar el artículo 37.3.b) del ET, pasando de los dos días que era antes (o cuatro si se requería desplazamiento), a cinco. Pero puede que el convenio que te corresponde no se haya actualizado, porque como explica Benito, “hay convenios de hace 4 o 5 años que establecen menos días de los que ahora reconoce la ley”. Como explica el abogado, ese convenio era anterior a la reforma y “aunque a día de hoy ese convenio aún no se haya cambiado, no se haya negociado y establezca que tienes dos días por hospitalización, tú tienes 5 días, que es lo que marca la ley”. Ni tu convenio ni tu empresa pueden quitarte ese derecho. El convenio sí puede mejorar las condiciones y en lugar de darte cinco días, darte siete, por ejemplo. Pero en ningún caso puede darte menos de cinco porque es lo que la ley ha marcado como mínimo. Fotos | Stephen Andrews en Unsplash, Amagna Abogados En Trendencias | Sebastián Ramírez, abogado laboralista: \"Si quieres dejar tu trabajo no presentes la baja voluntaria, presenta el autodespido\" En 3DJuegos | Una cueva de Cantabria estuvo bloqueada durante 16.800 años. Dentro hay una vivienda de la Edad de Piedra con más de 4.600 objetos En Xataka | Se buscan voluntarios para vivir gratis en una casa con piscina cerca de Alicante, a cambio de mover heno y cuidar de dos caballos - La noticia Miguel Benito Barrionuevo, abogado laborista: \"Da igual lo que ponga en el convenio colectivo, es un derecho irrenunciable\" fue publicada originalmente en Trendencias por Anabel Palomares ."
+  },
+  {
+    "titulo": "Lula ataca a Flávio Bolsonaro en el cierre de la campaña: «Un mentiroso y un miliciano»",
+    "medio": "The Objective",
+    "fecha": 1792871596.0,
+    "link": "https://theobjective.com/internacional/2026-10-24/lula-bolsonaro-campana-mentiroso-miliciano/",
+    "resumen": "El presidente brasileño y candidato a la reelección, el izquierdista Luiz Inácio Lula da Silva, ha cargado duramente este sábado contra su oponente, el senador derechista […]"
+  },
+  {
+    "titulo": "Finlandia ofrece 3.200 euros brutos y vivienda asequible a maestros de Infantil españoles: el sistema necesita 9.000 plazas en cuatro años",
+    "medio": "HuffPost",
+    "fecha": 1792871367.0,
+    "link": "https://www.huffingtonpost.es/sociedad/finlandia-ofrece-3200-euros-brutos-vivienda-maestras-infantil-espanolas-sistema-necesita-9000-plazas-cuatronos-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Detenidos los padres de una bebé de seis meses tras entregarla a otra pareja y denunciar un falso secuestro",
+    "medio": "HuffPost",
+    "fecha": 1792871300.0,
+    "link": "https://www.huffingtonpost.es/sociedad/detenidos-padres-bebe-seis-meses-entregarla-pareja-denunciar-falso-secuestro-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Jóvenes de los disturbios en Barcelona: “Nos aburríamos en casa”",
+    "medio": "La Vanguardia",
+    "fecha": 1792871117.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667352/aburriamos-casa.html",
+    "resumen": "Centenares de chicos y chicas provocan daños en el centro de la ciudad en una convocatoria de redes sociales"
+  },
+  {
+    "titulo": "Miles de personas piden el fin del Gobierno de Netanyahu tres días antes de las elecciones",
+    "medio": "El País",
+    "fecha": 1792869716.0,
+    "link": "https://elpais.com/internacional/2026-10-24/miles-de-personas-piden-el-fin-del-gobierno-de-netanyahu-tres-dias-antes-de-las-elecciones.html",
+    "resumen": "Una protesta reúne en Tel Aviv a líderes políticos y familiares de víctimas de los ataques de Hamás que exigen una investigación oficial sobre el 7 de octubre de 2023"
+  },
+  {
+    "titulo": "Los animalistas montan un altar en el bar donde mataron a un jabalí en Zaragoza: \"Se lo cargaron a cuchillo\"",
+    "medio": "El Español",
+    "fecha": 1792869643.0,
+    "link": "https://www.elespanol.com/aragon/actualidad/zaragoza/20261024/animalistas-montan-altar-bar-mataron-jabali-zaragoza-cargaron-cuchillo/1003744433805_0.html",
+    "resumen": "El animal recorrió a gran velocidad el centro de la ciudad y se introdujo en el local durante la última noche de las Fiestas del Pilar.Más información: Un jabalí siembra el caos en pleno centro de Zaragoza y se cuela en una discoteca del Casco: \"Es el jabalí fiestero\""
+  },
+  {
+    "titulo": "Altercados, saqueos y cargas en el centro de Barcelona en una protesta juvenil \"contra el sistema\"",
+    "medio": "eldiario.es",
+    "fecha": 1792869229.0,
+    "link": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html",
+    "resumen": "Los Mossos d'Esquadra detienen a un centenar de personas, al menos 25 menores de edad, en unos disturbios inspirados en las protestas en FranciaLa calle mantiene la presión sobre Macron con marchas masivas pese a las trabas del Gobierno El centro de Barcelona ha vivido altercados, saqueos de 14 tiendas y cargas policiales en la noche de este sábado en una protesta juvenil “contra el sistema” convocada a través de redes sociales. El lema de la marcha era “Instituts Indignats”, traducción del movimiento “Lyceés Indignés”, que está detrás de las movilizaciones estudiantiles de las últimas semanas en Francia. Los Mossos d'Esquadra han detenido a un centenar de personas, al menos 25 de ellas menores de edad, según ha explicado la consellera de Interior, Núria Parlon, en una comparecencia pasadas las 23:00h. “No permitiremos que vandalizar comercios e intimidar a las personas que pasean por Barcelona quede impune”, ha advertido el alcalde, Jaume Collboni, que ha anunciado que el Ayuntamiento se personará como acusación particular en las causas judiciales que se abran contra los arrestados. El alcalde ha lanzado un mensaje de contundencia. “Iremos hasta el final. Esto tendrá consecuencia para los mayores de edad y para los progenitores de los menores”, ha afirmado Collboni. En España, los padres no pueden ser castigados penalmente por los delitos que cometan sus hijos, ya que la responsabilidad penal es individual. Sin embargo, en ocasiones sí pueden asumir las indemnizaciones por los daños causados por los menores, si así lo decide un juez. Según ha explicado Parlon, los disturbios los han protagonizado unas 500 personas “desordenadas, sin organización” y al margen de cualquier protesta amparada por el derecho a manifestación o en defensa de una causa social. “Uno puede tener rabia o estar en contra de las injusticias, pero nada de lo que ha pasado esta noche en Barcelona tiene que ver con esto”, ha enfatizado Parlon, que ha situado los altercados en un “efecto espejo” con las protestas estudiantiles en Francia. “Tolerancia cero ante conductas violentas”, ha agregado. La protesta, que ha congregado a unas decenas de jóvenes, la mayoría vestidos de negro y algunos de ellos alumnos de instituto, ha empezado en la plaza de Catalunya. Los manifestantes se han enfrentado a los Mossos d'Esquadra y han quemado algunos contenedores y el parasol de una terraza. Comercio saqueado Todo ello, entre una gran afluencia de ciudadanos y turistas que se encontraban en el centro de la ciudad esta tarde de sábado y a metros de la acampada por el derecho a una vivienda que desde hace semanas está instalada en la plaza Catalunya de Barcelona. La manifestación no había sido comunicada al departamento de Interior, según fuentes policiales. Varios grupos de manifestantes han empezado a romper escaparates (la Agència Catalana de Notícies ha captado cómo saqueaban una tienda de la Ronda Universitat) y han tirado motocicletas por el suelo. Los Mossos han perseguido a los manifestantes por la zona para contener la situación. Por su parte, la Guàrdia Urbana de Barcelona ha cortado el tráfico en torno a plaza Catalunya y Universitat, donde se han concetrado los altercados. Los comercios de la zona, entre ellos El Corte Inglés, han bajado las persianas para evitar daños. Detención en los altercados Según la policía catalana, “grupos violentos de personas con la cara tapada” han quemando contenedores, vandalizano mobiliario urbano y lanzando piedras contra la policía, por lo que han recomendado no acercarse a la zona. El president de la Generalitat, Salvador Illa, ha agradecido la labor de los Mossos “para proteger a la ciudadanía y al comercio”. “Protestar es un derecho democrático. Agredir, intimidar o causar destrozos no lo es”, ha agregado."
+  },
+  {
+    "titulo": "La ofensiva china que resucita las superdeportivas de acceso",
+    "medio": "Expansión",
+    "fecha": 1792869221.0,
+    "link": "https://www.expansion.com/empresas/motor/2026/10/24/6adcfd77e5fdea7b168b4571.html",
+    "resumen": "Motores de cuatro cilindros, potencias cercanas a los 80 CV y precios competitivos desde el gigante chino para recuperar una arquitectura mecánica que nunca ha dejado de tener seguidores y que mantienen viva los japoneses. Leer"
+  },
+  {
+    "titulo": "\"Estar dispuesta a un proceso de repatriación, deportaciones y remigración\": la condición de Abascal para una \"alternativa\"",
+    "medio": "El Mundo",
+    "fecha": 1792868997.0,
+    "link": "https://www.elmundo.es/elecciones/2026/10/24/6adcff54e9cf4a2e028b45ae.html",
+    "resumen": "Aboga por estudiar de forma \"individualizada\" la situación de cada extranjero para decidir si puede permanecer en España Leer"
+  },
+  {
+    "titulo": "Le piden un autógrafo a Pedro Sánchez tras un mitin y lo que se le ocurre soltar deja a su fan sin saber qué decir",
+    "medio": "HuffPost",
+    "fecha": 1792868700.0,
+    "link": "https://www.huffingtonpost.es/virales/le-piden-autografo-pedro-sanchez-mitin-le-ocurre-soltar-deja-fan-que-decir-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Centenares de manifestantes se enfrentan a los Mossos y causan destrozos en Barcelona",
+    "medio": "The Objective",
+    "fecha": 1792868296.0,
+    "link": "https://theobjective.com/sociedad/2026-10-24/centenares-manifestantes-mossos-destrozos-barcelona/",
+    "resumen": "Un centenar de manifestantes ha provocado disturbios este sábado en la Plaza de Cataluña de Barcelona, según informa EFE. Se trata del mismo enclave donde se […]"
+  },
+  {
+    "titulo": "Un decorador jubilado vende por unos 1,8 millones de euros las cartas Pokémon que compró a finales de los 90 y olvidó 15 años en el desván",
+    "medio": "HuffPost",
+    "fecha": 1792868122.0,
+    "link": "https://www.huffingtonpost.es/sociedad/un-decorador-jubilado-vende-18-millones-euros-cartas-pokemon-compro-finales-90-olvido-15nos-desvan-f202610.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Mikautadze silencia a Mestalla ante un Valencia de tímida reacción intermitente",
+    "medio": "El Mundo",
+    "fecha": 1792867665.0,
+    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/24/6adcdc8d21efa0b1528b4589.html",
+    "resumen": "El equipo de Aguirre se adelanta en el marcador en el primer tiro a puerta: un penalti que marcó Pepelu. Empató Freeman en el 69 y, con dos expulsiones en cada equipo, el georgiano apareció en el último ataque para llevarse la victoria Leer"
   },
   {
     "titulo": "Tensión y cargas policiales en Barcelona durante una protesta juvenil en plena jornada de movilizaciones europeas",
@@ -70,11 +371,18 @@
     "resumen": ""
   },
   {
-    "titulo": "Leonor recibe en solitario a los premiados de los Premios Princesa de Asturias 2026 y consolida su papel institucional",
-    "medio": "Moncloa.com",
-    "fecha": 1792866830.0,
-    "link": "https://www.moncloa.com/2026/10/24/leonor-premios-princesa-asturias-2026-2-3454660/",
-    "resumen": "Leonor preside en solitario la audiencia a los galardonados de los Premios Princesa de Asturias 2026 en Oviedo y refuerza su hoja de ruta institucional. La entrada Leonor recibe en solitario a los premiados de los Premios Princesa de Asturias 2026 y consolida su papel institucional aparece primero en Moncloa."
+    "titulo": "Infantino se acerca a la reelección como presidente de la FIFA: asegura tener un gran apoyo para ganar las elecciones",
+    "medio": "El Español",
+    "fecha": 1792866880.0,
+    "link": "https://www.elespanol.com/deportes/futbol/20261024/infantino-acerca-reeleccion-presidente-fifa-asegura-tener-gran-apoyo-ganar-elecciones/1003744433797_0.html",
+    "resumen": "El mandatario suizo se tomó a risa las preguntas sobre una posible renuncia después de las críticas recibidas tras el intento fallido de privatizar las competiciones de la FIFA.Más información: Ultimátum de UEFA a FIFA: da 2 semanas para responder a 42 preguntas sobre Infantino antes del cierre del plazo electoral"
+  },
+  {
+    "titulo": "Los disturbios durante una protesta en el centro de Barcelona, en imágenes",
+    "medio": "La Vanguardia",
+    "fecha": 1792866734.0,
+    "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667298/disturbios-protesta-centro-barcelona-imagenes.html",
+    "resumen": "Grupos de jóvenes convocados por redes sociales a una protesta “contra el sistema” provocan altercados que obligan a intervenir a los Mossos y la Guardia Urbana"
   },
   {
     "titulo": "Comprobar Bonoloto hoy: resultado del sábado 24 de octubre y números premiados",
@@ -91,55 +399,6 @@
     "resumen": "Desde los años 80 y hasta final del siglo XX, el oso pardo cantábrico le vio las orejas al lobo: estuvo a punto de desaparecer, llegando a alcanzar un mínimo histórico que hizo saltar las alarmas ante su extinción. Y sin embargo, hoy vuelve a ocupar un territorio amplio en la península Ibérica, como documenta el CSIC. El retorno del oso pardo. Un estudio de la Estación Biológica de Doñana ha reconstruido cómo ha cambiado su área de distribución desde 1982 hasta alcanzar los 17.000 kilómetros cuadrados y por qué. En febrero de 2023, un censo genético en las comunidades autónomas donde vive este gran mamífero contabilizó 370 ejemplares, 250 en la subpoblación occidental y 120 en la oriental. En el estudio, dividen dos décadas en tres periodos de 10 años cada uno hasta 2012 y como puede verse bajo estas líneas, mientras que el área de presencia cayó un 25% entre los dos primeros periodos, creció un 70% en el tercero. Y en ese crecimiento sucedió algo importante: dos poblaciones aisladas se unieron. Representación del rango de presencia y de cría de la población de oso pardo cantábrico en los tres periodos. CSIC Por qué importa. Que un carnívoro de ese tamaño se expanda en España indica que el hábitat es el adecuado y que las medidas de protección están dando resultados. Pero ojo porque los planes de recuperación solo cubren aproximadamente el 50% de la distribución actual, de modo que casi la mitad de su territorio actual, lo que se traduce en eventuales problemas: menos vigilancia, exposición a cultivos, ganado o la apicultura. Por otro lado, la unión de las dos poblaciones es especialmente relevante para que una especie con pocos especímenes crezca, ya que más pronto que tarde ambas poblaciones se unifiquen. Malditos años 90. En los 90 el oso pardo Cantábrico estuvo a punto de extinguirse y según un estudio de 2016, lo que más influyó en ese descenso fueron los factores ambientales, concretamente los cambios en los recursos alimentarios asociados al clima. La presencia humana fue algo secundario. No obstante, eso puede cambiar precisamente por esa expansión del oso pardo fuera de las zonas de vigilancia: la Fundación Oso Pardo prevé más daños causados por algunos ejemplares y más presencia en zonas humanizadas, lo que puede cambiar la percepción hacia ese gran mamífero, lo que a la larga puede pasar factura a la protección y sus políticas, es decir, a su supervivencia. La colonización úrsida. En realidad, el equipo de investigación comparó cuatro periodos: 1982-1992, 1993-2002, 2003-2012 y un último, de 2013 a 2021. Y midió dos parámetros: el área de presencia y el área reproductora, esta última donde hay constancia de la presencia de hembras con crías. Las gráficas dicen además algo: esa zona de reproducción apenas ha crecido en los últimos 45 años, precisamente el eslabón más débil para la supervivencia de la especie, el que más protección necesita. A partir de ahí, usó estadística para analizar qué factores determinan que el oso abandone o colonice una zona y llegó a una conclusión: los osos avanzan hacia zonas con menos presencia humana y que estén geográficamente cercanas a donde ya vivían. Por eso piden que los planes de protección se actualicen conforme el oso se expande. En Xataka | Hay una batalla sin cuartel entre los ganaderos de España y la industria del turismo por una nueva realidad: los osos En Xataka | Ante el mayor aluvión de osos salvajes que se recuerda, Japón ha tomado una medida: cacerías de emergencia Portada | Juan lacruz retoque con ChatGPT - La noticia Mientras discutimos qué especie introducir, el oso pardo sigue expandiéndose por el noroeste de la península Ibérica fue publicada originalmente en Xataka por Eva R. de Luis ."
   },
   {
-    "titulo": "Huelga de autobuses en Barcelona el 11 de noviembre: los comités respaldan los paros",
-    "medio": "Moncloa.com",
-    "fecha": 1792866530.0,
-    "link": "https://www.moncloa.com/2026/10/24/huelga-autobuses-barcelona-11-noviembre-3454661/",
-    "resumen": "Los comités de las operadoras de bus metropolitano respaldan la huelga del 11 de noviembre. La Generalitat aún no ha fijado los servicios mínimos. La entrada Huelga de autobuses en Barcelona el 11 de noviembre: los comités respaldan los paros aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La ira social desafía al blindaje policial en Francia: \"Todo el mundo odia a la Policía\"",
-    "medio": "El Mundo",
-    "fecha": 1792866438.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
-    "resumen": "Más de 400.000 manifestantes desafían las prohibiciones y las cargas policiales durante otra jornada de movilizaciones en el país galo Leer"
-  },
-  {
-    "titulo": "Alerta yihadista en Cataluña: Mossos refuerza la autoprotección en el fin de semana de manifestaciones",
-    "medio": "Moncloa.com",
-    "fecha": 1792866230.0,
-    "link": "https://www.moncloa.com/2026/10/24/alerta-yihadista-cataluna-mossos-3454662/",
-    "resumen": "Los Mossos refuerzan la autoprotección de los agentes ante el llamamiento yihadista a atentar en manifestaciones multitudinarias este fin de semana. La entrada Alerta yihadista en Cataluña: Mossos refuerza la autoprotección en el fin de semana de manifestaciones aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Abascal confía en Ibiza en poder «convencer a muchos más» socialistas para que voten a Vox: «Fueron estafados»",
-    "medio": "OK Diario",
-    "fecha": 1792866175.0,
-    "link": "https://okdiario.com/baleares/abascal-confia-ibiza-poder-convencer-muchos-mas-socialistas-que-voten-vox-fueron-estafados-20622966",
-    "resumen": "El presidente de Vox, Santiago Abascal, ha confiado en poder «convencer a muchos más» socialistas para que le voten en las elecciones generales del próximo 29 de noviembre. «Seguro que aquí hay gente que les votó y ahora nos va a votar a nosotros. No tengo ningún reproche, les doy las gracias y espero poder … Continuar leyendo \"Abascal confía en Ibiza en poder «convencer a muchos más» socialistas para que voten a Vox: «Fueron estafados»\""
-  },
-  {
-    "titulo": "Los radicales de izquierda provocan nuevos disturbios en las calles de Francia que se saldan con al menos 1.000 detenidos",
-    "medio": "OK Diario",
-    "fecha": 1792866134.0,
-    "link": "https://okdiario.com/internacional/radicales-izquierda-provocan-nuevos-disturbios-calles-francia-que-saldan-menos-1-000-detenidos-20622828",
-    "resumen": "Los radicales de izquierda han provocado nuevos disturbios en las calles de Francia tras la revuelta del pasado 17 de octubre. El Gobierno francés ha desplegado este sábado al menos unos 70.000 efectivos de seguridad —entre policías endarmes y militares— que intervinieron en varias ciudades. En esta ocasión, los disturbios no han sido tan violentos … Continuar leyendo \"Los radicales de izquierda provocan nuevos disturbios en las calles de Francia que se saldan con al menos 1.000 detenidos\""
-  },
-  {
-    "titulo": "Una protesta juvenil desencadena disturbios en el centro de Barcelona",
-    "medio": "El País",
-    "fecha": 1792866014.0,
-    "link": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
-    "resumen": "Manifestantes se enfrentan a los Mossos d’Esquadra y provocan daños en comercios y en el mobiliario urbano"
-  },
-  {
-    "titulo": "Illa convierte el 29N en una elección entre democracia y autoritarismo y acusa a PP y Vox",
-    "medio": "Moncloa.com",
-    "fecha": 1792865930.0,
-    "link": "https://www.moncloa.com/2026/10/24/illa-elecciones-29n-democracia-autoritarismo-3454663/",
-    "resumen": "Illa convierte el 29N en una elección entre la democracia y el autoritarismo y reivindica el voto de los nacionalizados ante 400 personas en Girona. La entrada Illa convierte el 29N en una elección entre democracia y autoritarismo y acusa a PP y Vox aparece primero en Moncloa."
-  },
-  {
     "titulo": "Francisco, el técnico de ascensores que se dedicaba \"a masturbarse\" frente a un piso de universitarias en Cartagena",
     "medio": "El Español",
     "fecha": 1792865604.0,
@@ -147,25 +406,18 @@
     "resumen": "El detenido por la Policía está representado por Raúl Pardo-Geijo y ha quedo en libertad como investigado por un delito continuado de exhibicionismo.Las dos estudiantes que le han denunciado sostienen que han sufrido \"una situación de hostigamiento y acoso\" desde el 8 de octubre.Más información: Cristian, tras el triple atropello que mató a Sergio: \"Consumí varias copas y tusi, pensé que di un bordillazo con el coche\""
   },
   {
-    "titulo": "Disturbios, cargas, quema de contenedores y tiendas cerradas en el centro de Barcelona por una protesta de jóvenes convocada por redes sociales",
+    "titulo": "Disturbios, saqueos, quema de contenedores y destrozos en el centro de Barcelona tras una protesta juvenil con un centenar de detenidos",
     "medio": "El Mundo",
     "fecha": 1792865299.0,
     "link": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
     "resumen": "Grupos de jóvenes encapuchados se enfrentan a los Mossos y provocan destrozos en el mobiliario urbano Leer"
   },
   {
-    "titulo": "Loles León tiene algo importante que decirle Pedro Sánchez antes de las elecciones: \"Somos muchas\"",
-    "medio": "HuffPost",
-    "fecha": 1792865255.0,
-    "link": "https://www.huffingtonpost.es/virales/loles-leon-importante-decirle-pedro-sanchez-elecciones-somos-muchas-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "En 2002 un mecánico brasileño inventó una bombilla con una botella de agua y lejía: 24 años después ilumina más de un millón de casas sin electricidad",
-    "medio": "HuffPost",
-    "fecha": 1792865069.0,
-    "link": "https://www.huffingtonpost.es/sociedad/en-2002-mecanico-brasileno-invento-bombilla-botella-agua-lejia-24-anos-ilumina-mas-millon-casas-electricidad-f202610.html",
-    "resumen": ""
+    "titulo": "Kim Jong Un cruza a China en una visita relámpago",
+    "medio": "La Vanguardia",
+    "fecha": 1792865053.0,
+    "link": "https://www.lavanguardia.com/internacional/20261024/11667282/kim-jong-cruza-china-visita-relampago.html",
+    "resumen": "El dictador norcoreano ha visitado una fábrica de coches junto al número 4 chino, Wang Huning"
   },
   {
     "titulo": "La Administración entra en una carrera contrarreloj por la IA",
@@ -189,13 +441,6 @@
     "resumen": "El petróleo tiene «un papel nuclear» en la transición venezolana y se ha convertido en su «lenguaje», según el informe especial Venezuela, 300 días después: los […]"
   },
   {
-    "titulo": "El caso de la novela galardonada y presuntamente escrita por IA abre el debate sobre los filtros ante obras inéditas",
-    "medio": "El País",
-    "fecha": 1792864977.0,
-    "link": "https://elpais.com/cultura/2026-10-24/el-caso-de-la-novela-galardonada-y-presuntamente-escrita-por-ia-abre-el-debate-sobre-los-filtros-ante-obras-ineditas.html",
-    "resumen": "El programa Pangram señala que el libro de David Silva Rojas, ‘Donde el agua trabaja’, está escrito por IA al 99% y la editorial Almadía anuncia una revisión en profundidad"
-  },
-  {
     "titulo": "El eslabón perdido de Beringia: los cazadores de bisontes que cruzaron de Asia a América hace 13.800 años",
     "medio": "Xataka",
     "fecha": 1792864809.0,
@@ -217,6 +462,13 @@
     "resumen": "Sentido y sensibilidad de Georgia Oakley demuestran algo que cualquier fanático del cine de época ya sabe. Jane Austen nunca pasa de moda. De hecho, la nueva adaptación de una de las novelas más conocidas de la autora es una combinación brillante, interesante y divertida de varias cosas. Por un lado, una historia de amor […] Seguir leyendo: Las mejores adaptaciones de Jane Austen para ver si te gustó ‘Sentido y sensibilidad’"
   },
   {
+    "titulo": "Abascal confía desde Eivissa en poder \"convencer a muchos más\" socialistas para que voten a Vox: \"Fueron estafados\"",
+    "medio": "Europa Press",
+    "fecha": 1792864775.0,
+    "link": "https://www.europapress.es/illes-balears/noticia-abascal-confia-eivissa-poder-convencer-muchos-mas-socialistas-voten-vox-fueron-estafados-20261024195935.html",
+    "resumen": "El presidente de Vox, Santiago Abascal, ha confiado en poder \"convencer a muchos más\" socialistas para que le voten en las elecciones generales del próximo 29 de noviembre."
+  },
+  {
     "titulo": "La calle mantiene la presión sobre Macron con marchas masivas pese a las trabas del Gobierno",
     "medio": "eldiario.es",
     "fecha": 1792864551.0,
@@ -229,13 +481,6 @@
     "fecha": 1792864372.0,
     "link": "https://theobjective.com/internacional/2026-10-24/milei-ladron-sanchez-amanar-elecciones/",
     "resumen": "El presidente de Argentina, Javier Milei, ha vuelto a llamar «ladrón corrupto» a su homólogo español, Pedro Sánchez, al que ha acusado de tratar de amañar […]"
-  },
-  {
-    "titulo": "Viena, capital de los espías, estrecha el cerco a Moscú",
-    "medio": "El Mundo",
-    "fecha": 1792864324.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6adb8269fdddff8e118b4590.html",
-    "resumen": "Austria declara 'personas non gratas' a cuatro diplomáticos rusos por sospechas de espionaje Leer"
   },
   {
     "titulo": "Alfonso y Enrique: objetivo 2050",
@@ -252,25 +497,11 @@
     "resumen": "Una moneda débil favorece a empresas europeas con exposición a EEUU y bonos soberanos del país. Leer"
   },
   {
-    "titulo": "El español rebasa los 640 millones de usuarios potenciales y gana terreno en China",
-    "medio": "El Mundo",
-    "fecha": 1792863969.0,
-    "link": "https://www.elmundo.es/cultura/2026/10/24/6adcecd4fc6c83b5508b4584.html",
-    "resumen": "El número de matrículas de español en China creció un 12,6 % entre 2023 y 2025, según el Anuario del Instituto Cervantes presentado este sábado en Pekín Leer"
-  },
-  {
     "titulo": "En Aldi (por 14,99 euros) desde el miércoles 28 de octubre, la batería externa 2 en 1 con luz, panel solar y protección IP44",
     "medio": "Xataka",
     "fecha": 1792863966.0,
     "link": "https://www.xataka.com/seleccion/aldi-14-99-euros-miercoles-28-octubre-bateria-externa-2-1-luz-panel-solar-proteccion-ip44",
     "resumen": "Como cada siete días, Aldi renovó el pasado lunes su folleto de novedades y ofertas con bajadas de precios en algunos productos y la llegada de otros tantos a sus tiendas físicas. Y entre estas últimas, una de las más interesantes es esta batería externa con carga solar, a la venta desde el miércoles 28 de octubre a un precio de 14,99 euros. WOWMVP Power Bank Solar 26800mAh Hoy en Amazon — 23,99 € El precio podría variar. Obtenemos comisión por estos enlaces Aldi no vende online, de modo que si queremos hacernos con ella tenemos que acudir a alguna de sus tiendas. Y tanto si no tenemos ninguna a mano como si preferimos comprar desde casa, Amazon vende una alternativa parecida que incluso mejora en capacidad a la de Aldi (26.800 mAh frente a 10.000 mAh): es el modelo más vendido de su categoría y cuesta 23,99 euros. Una powerbank cargada de funciones y muy versátil La batería externa de Aldi, esta Casalux disponible desde el próximo miércoles, no destaca tanto por su capacidad como por su versatilidad. Cuenta con 10.000 mAh, frente a unos 20.000 mAh mucho más equilibrados de muchas otras alternativas de precio similar (en cualquier caso, da para una carga completa del teléfono y un poco más). Pero sí ofrece unas funciones no demasiado comunes entre las powerbanks. Viene con luz (con diferentes modos) y también con la posibilidad de cargarse con energía solar, gracias al panel fotovoltaico que incorpora. Lo que convierte a esta batería externa en un imprescindible si somos de pasar tiempo en la naturaleza, alejados de tomas de corriente. Porque, aunque la carga mediante dicho panel es mucho más lenta que a través de cable, puede sacarnos de más de un apuro si no tenemos más fuentes de energía a mano. En Xataka El electrodoméstico 2 en 1 de Samsung que soluciona uno de los principales problemas en casa cuando llueve Y eso no es todo. También permite cargar dos dispositivos al mismo tiempo y, junto a ella, se incluye un cable multi USB con diferentes conectores para varios tipos de dispositivos, con USB tipo C y microUSB, entre otros. Todo ello, además, con protección IP44 frente a partículas y agua. Indispensable para un uso seguro a la intemperie. ⚡ EN RESUMEN: powerbank solar 2 en 1 aldi ✅ LO MEJORMuy versátil, perfecta para llevar encima durante rutas de senderismo o campingsPrecio contenido para todo lo que ofrece: carga solar, luz y cable multiUSB ❌ LO PEORAldi no vende online y hay que acudir a sus tiendas a comprarla (desde el miércoles 28 de octubre)Sólo con 10.000 mAh que no es demasiada capacidad para varias cargas 💡 CÓMPRALA SI... pasas mucho tiempo lejos de tomas de corriente y necesitas una batería externa autónoma que puedas recargar con luz solar ⛔ NO LA COMPRES SI... cada cierto tiempo tienes un enchufe a mano. En ese caso, mejor invertir en powerbanks de mayor capacidad sin panel solar Más baterías externas con panel solar que también te pueden interesar WOWMVP Power Bank Solar 26800mAh Hoy en Amazon — 22,99 € El precio podría variar. Obtenemos comisión por estos enlaces Solar Charger Power Bank 70000mAh Hoy en Amazon — 54,06 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Compradicción, Aldi En Xataka | Electrodomésticos que más consumen en tu casa: lista con los ocho que más electricidad gastan y sus cantidades medias En Xataka | Cuál es el dispositivo más útil de mi casa inteligente: los mejores gadgets conectados de los editores de Xataka - La noticia En Aldi (por 14,99 euros) desde el miércoles 28 de octubre, la batería externa 2 en 1 con luz, panel solar y protección IP44 fue publicada originalmente en Xataka por Carlos Castillo ."
-  },
-  {
-    "titulo": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
-    "medio": "El País",
-    "fecha": 1792863678.0,
-    "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
-    "resumen": "Un salario neto de 1.500 euros equivale hoy al poder de compra que tenían los 1.000 euros hace 20 años. Quienes perciben esta renta relatan dificultades para llegar a fin de mes"
   },
   {
     "titulo": "El alquiler cae en un tercio de Madrid",
@@ -280,25 +511,11 @@
     "resumen": "Las rentas se estancan tras las subidas de los últimos años, con descensos en Villaverde y San Blas. Leer"
   },
   {
-    "titulo": "Poner un frasco con bicarbonato de sodio en la nevera antes de acostarse: para qué sirve y por qué lo recomiendan los expertos",
-    "medio": "OK Diario",
-    "fecha": 1792863049.0,
-    "link": "https://okdiario.com/curiosidades/poner-frasco-bicarbonato-sodio-nevera-antes-acostarse-que-sirve-que-lo-recomiendan-expertos-20618725",
-    "resumen": "No hay cosa más desagradable que abrir la puerta de la nevera y encontrarte con un mal olor que no sabes ni de dónde viene. Un mal olor que además se impregna en la nevera y luego no sabes cómo quitar. Los expertos aseguran que con este pequeño gesto podrás neutralizar los malos olores de … Continuar leyendo \"Poner un frasco con bicarbonato de sodio en la nevera antes de acostarse: para qué sirve y por qué lo recomiendan los expertos\""
-  },
-  {
     "titulo": "Las grandes capitales pierden fuerza",
     "medio": "Expansión",
     "fecha": 1792863040.0,
     "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html",
     "resumen": "Los precios se compra se disparan; los del alquiler dan señales de agotamiento en algunas grandes urbes. Leer"
-  },
-  {
-    "titulo": "El Súper Niño amenaza con alterar el clima mundial hasta 2027: qué puede pasar en España y cuándo se esperan sus efectos",
-    "medio": "OK Diario",
-    "fecha": 1792863028.0,
-    "link": "https://okdiario.com/sociedad/super-nino-amenaza-alterar-clima-mundial-hasta-2027-que-puede-pasar-espana-cuando-esperan-sus-efectos-20607648",
-    "resumen": "El fenómeno de El Niño se está intensificando y podría convertirse en uno de los episodios más potentes registrados, con consecuencias sobre las temperaturas y las precipitaciones a escala mundial. La Organización Meteorológica Mundial (OMM) prevé que alcance su máximo en torno a diciembre de 2026, aunque sus efectos podrían prolongarse durante 2027. La gran … Continuar leyendo \"El Súper Niño amenaza con alterar el clima mundial hasta 2027: qué puede pasar en España y cuándo se esperan sus efectos\""
   },
   {
     "titulo": "Barcelona: incertidumbre en el alquiler",
@@ -315,13 +532,6 @@
     "resumen": "La vivienda en la capital catalana vuelve a crecer a doble dígito, impulsada por el distrito de Sants-Montjuïc, que pasa a convertirse en la zona que más se eleva, seguida de Nou Barris y Sant Andreu. Leer"
   },
   {
-    "titulo": "La fiscalidad de la vivienda para uso propio y alquiler",
-    "medio": "Expansión",
-    "fecha": 1792862619.0,
-    "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html",
-    "resumen": "El real decreto-ley del 6 de octubre, que está pendiente de convalidación, modifica de forma significativa el IRPF, el IVA, el IBI y la plusvalía municipal. Leer"
-  },
-  {
     "titulo": "Unilever reduce un 77% sus emisiones operativas y acelera la transformación de su modelo hacia una economía baja en carbono",
     "medio": "The Objective",
     "fecha": 1792862609.0,
@@ -329,18 +539,11 @@
     "resumen": "Unilever informó de que continúa avanzando en la implementación de su Climate Transition Action Plan, la hoja de ruta con la que la compañía articula sus […]"
   },
   {
-    "titulo": "Francia vuelve a salir a la calle entre cargas y detenciones y Mélenchon avisa a Macron: \"Aún tiene tiempo de ceder\"",
-    "medio": "HuffPost",
-    "fecha": 1792862341.0,
-    "link": "https://www.huffingtonpost.es/global/francia-vuelve-salir-calle-cargas-detenciones-melenchon-avisa-macron-aun-ceder-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Mossos y Guàrdia Urbana dispersan una concentración “contra el sistema” en Plaça Catalunya",
+    "titulo": "Disturbios y pillaje en Barcelona tras una protesta que emulaba a las de Francia",
     "medio": "La Vanguardia",
     "fecha": 1792862252.0,
     "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
-    "resumen": "Algunas calles del centro de Barcelona han sido cortadas y varios comercios, incluido el Corte Inglés, han cerrado sus puertas después de que varias decenas de jóvenes lanzaran piedras, petardos y bengalas"
+    "resumen": "Algunas calles del centro de Barcelona han sido cortadas y varios comercios han cerrado sus puertas después de que cientos de jóvenes hayan provocado destrozos en el mobiliario urbano y saqueado 14 tiendas"
   },
   {
     "titulo": "Michael Kiwanuka (★★★★✩), radicalmente libre y humano, y otros discos de la semana",
@@ -364,13 +567,6 @@
     "resumen": "Defiende su relato después de que la Policía Metropolitana de Londres confirmara que registraron denuncias contra su progenitor hace 7 años.Más información: El padre de Meghan Markle, investigado por presunta posesión de pornografía infantil"
   },
   {
-    "titulo": "Francia vive una nueva oleada de disturbios violentos en las principales ciudades",
-    "medio": "The Objective",
-    "fecha": 1792861663.0,
-    "link": "https://theobjective.com/internacional/2026-10-24/francia-disturbios-principales-ciudades/",
-    "resumen": "Francia ha vuelto a vivir una jornada de protestas que han culminado con disturbios en las principales ciudades galas. La mayoría de las manifestaciones habían transcurrido […]"
-  },
-  {
     "titulo": "Cucarachas cyborg con \"mochilas\" de sensores y pilotadas por IA: la promesa de una startup alemana choca con la realidad científica",
     "medio": "Xataka",
     "fecha": 1792861208.0,
@@ -378,46 +574,11 @@
     "resumen": "Para muchos, las cucarachas no deberían existir por el gran rechazo que les genera simplemente pensar en ellas, pero para una empresa alemana estas pueden ser espías cyborgs de primera. Y para reclutarlas como agentes han llegado al punto de equiparlas con mochilas en miniatura repletas de sensores y controladas con IA para poder infiltrarse en cualquier sitio. Sin embargo, detrás de las espectaculares promesas comerciales sobre escuadrones de insectos espía, la ciencia tiene algunas dudas. La protagonista es SWARM Bioatctic, una startup fundada en 2024 que se define como desarrolladora de sistemas biorrobóticos basados en insectos vivos totalmente controlables para operaciones críticas. A partir de aquí, en junio de 2025, la compañía anunció una ronda de inversión que involucró a fondos importantes, orientando su tecnología hacia la defensa, la seguridad nacional o la respuesta a desastres. El CEO de la compañía, Stefan Wilhelm, ha explicado que sus biorrobots llevan módulos de estimulación neural, sensores y sistemas de comunicación segura. Y es que, según ha trascendido, los neurocientíficos de la empresa colocan electrodos en las antenas de los insectos para estimular su capacidad natural de navegación. En Xataka Cucarachas, guppys y sexo espacial frustrado: la cara B de las muestras geológicas del programa Apolo No se cierran puertas. Ahora mismo sabemos que la compañía defiende que este sistema no es para nada doloroso para los animales, y confirma que se está tratando de probar en el terreno junto a las fuerzas armadas alemanas. Y aunque las cucarachas son muy llamativas, la compañía no se quiere limitar a estas, sino que también explora poder usarlo en langostas o saltamontes. No es nuevo. Esta idea puede parecer algo revolucionario en el campo de la defensa, pero detrás hay una línea de investigación que lleva desarrollándose décadas. Por ejemplo, en el ámbito de la navegación grupal, un estudio demostró la capacidad de crear un esquema líder-seguidos donde una cucaracha guía a otras 19 a través de terrenos desconocidos. El problema que se planteaba era la alimentación energética de todo el sistema, pero aquí la integración de una batería en una mochila impresa en 3D en el tórax podría generar hasta 17,2 mW de potencia sin comprometer su movilidad natural. El gran límite. La promesa de tener espías autónomos pilotados por IA se enfrenta al muro biológico de la habituación. Y es que el insecto, al ser un vivo, deja de responder a los estímulos eléctricos repetidos con el paso del tiempo. Esto hace que el control efectivo del animal se limite a unos pocos minutos. Aquí algunos estudios muy controlados han logrado extender este tiempo hasta las 3 horas, mientras que otros se quedan en los 47 minutos con control adaptativo. Es por ello que la idea de tener \"espías autónomos\" operando de forma continua e indefinida está todavía muy por delante de lo que muestra la literatura publicada en entornos controlados. El bienestar animal. Como ocurre siempre que se investiga con animales, el hecho de que estos no sufran es algo primordial. Pero aquí no tenemos claro si las cucarachas pueden sufrir o no, puesto que mientras algunos estudios apuntan a que sí lo sienten, otros creen que no pueden sufrir dolor de manera subjetiva. Imágenes | Erik Karits En Xataka | Quizá no estés preocupado por la gran extinción de los insectos. Tu bolsillo tiene otro punto de vista - La noticia Cucarachas cyborg con \"mochilas\" de sensores y pilotadas por IA: la promesa de una startup alemana choca con la realidad científica fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "El ganador del Premio Nacional de Historia desmonta uno de los grandes mitos del franquismo: \"La gente se moría de hambre\"",
-    "medio": "HuffPost",
-    "fecha": 1792861165.0,
-    "link": "https://www.huffingtonpost.es/virales/el-ganador-premio-nacional-historia-desmonta-grandes-mitos-franquismo-la-gente-moria-hambre-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La alta participación de los palestinos de Israel busca derrocar a Netanyahu: “Tiene que marcharse ya”",
-    "medio": "El País",
-    "fecha": 1792861027.0,
-    "link": "https://elpais.com/internacional/2026-10-25/la-alta-participacion-de-los-palestinos-de-israel-busca-derrocar-a-netanyahu-tiene-que-marcharse-ya.html",
-    "resumen": "Los electores árabes denuncian ataques racistas y contra su libertad de expresión por parte del Gobierno ultraderechista. Poner fin a ese miedo les motiva para votar"
-  },
-  {
-    "titulo": "Laurent, panadero francés, vende el pan y los cruasanes a 70 céntimos: “Hay familias que tienen que elegir entre la gasolina y la cesta de la compra”",
-    "medio": "HuffPost",
-    "fecha": 1792861026.0,
-    "link": "https://www.huffingtonpost.es/sociedad/laurent-panadero-frances-vende-pan-bolleria-70-centimos-hay-familias-elegir-gasolina-cesta-compra-f202610.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La primera vacuna contra el melanoma abre una nueva vía para tratamientos personalizados contra el cáncer",
-    "medio": "El País",
-    "fecha": 1792860862.0,
-    "link": "https://elpais.com/salud-y-bienestar/2026-10-24/la-primera-vacuna-contra-el-melanoma-abre-una-nueva-via-para-tratamientos-personalizados-contra-el-cancer.html",
-    "resumen": "Los rumores y las expectativas sobre lo que significará para el tratamiento oncológico han provocado subidas y bajadas millonarias en bolsa"
-  },
-  {
     "titulo": "Lula busca el 'milagro' en las urnas: ningún candidato que ha perdido en la primera vuelta en Brasil remonta en la segunda",
     "medio": "El Español",
     "fecha": 1792860098.0,
     "link": "https://www.elespanol.com/mundo/america/20261024/lula-busca-milagro-urnas-ningun-candidato-perdido-primera-vuelta-brasil-remonta-segunda/1003744433081_0.html",
     "resumen": "Se trata del único país latinoamericano en donde nunca se ha producido un vuelco en la segunda vuelta.Más información: Abstencionistas, la última baza de Lula: el 21% de brasileños que no votó en la primera vuelta puede decidir la presidencia"
-  },
-  {
-    "titulo": "Nueva derrota del Espanyol con sabor amargo y regusto a injusticia",
-    "medio": "La Vanguardia",
-    "fecha": 1792859575.0,
-    "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/20261024/11667265/nueva-derrota-espanyol-sabor-amargo-regusto-injusticia.html",
-    "resumen": "Los de Manolo González caen en zona de descenso al ser incapaces de defender el 0-1 en El Sardinero después de ver cómo les escatimaban un penalti a favor"
   },
   {
     "titulo": "Un preso se suicida en la cárcel catalana de Brians 2, el octavo en lo que va de año",
@@ -434,74 +595,11 @@
     "resumen": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artificial está reescribiendo esas reglas, puesto que los modelos basados en machine learning ya no son una promesa de laboratorio, sino que están operando en tiempo real, brindando apoyo a estos profesionales. El caso de Isaías. Para comprobar la potencia que tiene esta tecnología en el campo de la meteorología, el usuario en X Packie Young compartía cómo un modelo de DeepMind había anticipado la aparición del huracán Isaías con una precisión casi mágica. En concreto, el modelo FNV3 de Weather Labs es una de estas grandes promesas. En cuanto a la trayectoria, la IA lo bordó. Según el análisis de HurriLab el modelo de IA situó el momento de tocar tierra con un margen de error de pocas horas a más de tres días vista, y fue el modelo que más se acercó al punto real de impacto, que fue en Florida. Mientras tanto, el sistema tradicional, tanto europeo como americano, se desvió demasiado al oeste. En Xataka Se supone que El Niño no tiene un impacto directo en España. Hasta que empezamos a fijarnos en el arroz Pero con matices. Pese a que funcionó bastante bien, el propio director del Centro Nacional de Huracanes matizó que el pronóstico oficial del NHC tuvo entre un 20 y un 40% más de habilidad que la IA a la hora de predecir la fuerza del huracán. Aquí, sin duda, los modelos clásicos como HWRF y HMON, siguieron siendo los mejores en pronósticos de intensidad a largo plazo. Una revolución. Más allá de este caso tan peculiar, hay bastante literatura científica que nos apunta a las bondades de usar estos modelos de IA. Por ejemplo, un artículo publicado en Nature este mismo año sobre el modelo WeatherNext Cyclones demostró que, tras evaluarse con ciclones entre 2023 y 2025, se consiguió ofrecer de media un día o más de ventaja de anticipación frente a los principales modelos que hay operando ahora mismo. Pero la prueba más importante que tenemos la dio el NHC en su informe de 2025, que fue el primer año en el que incorporaron modelos de IA en sus operaciones en tiempo real. Aquí el modelo de DeepMind superó el pronóstico del NHC en trayectoria entre 12 y 72 horas, logrando una habilidad comparable en intensidad. Unos resultados que ahora han hecho que se integre perfectamente en las operaciones diarias. El cambio institucional. Durante Isaías, los meteorólogos estadounidenses ajustaron sus pronósticos oficiales para que se parecieran a los del modelo de DeepMind, relegando a un segundo plano a colosos históricos como el modelo europeo o el GFS estadounidense. Este nivel de confianza explica también lo ocurrido con el huracán Melissa, donde el NHC logró anticipar su intensificación rápida casi tres días antes de que llegara a Jamaica, apoyándose en la IA. Por su parte, el Centro Europeo de Previsiones Meteorológicas a Plazo Medio ya tiene la IA plenamente operativa con su modelo AIFS listo desde el 25 de febrero del año pasado junto al modelo físico IFS. Aquí la principal diferencia radica en su eficiencia, puesto que la IA consume unas 1.000 veces menos energía por pronóstico. En Xataka En 2023, veinte camiones cruzaron Países Bajos cargados con 400 toneladas de marisma frisia. Su destino era un canal capaz de fabricar tormentas En España, la AEMET no se queda atrás, pero mantiene un enfoque más pragmático con sus avances dentro del marco europeo con el modelo ANEMOI-ML. Aquí la agencia pública apunta a que a día de hoy los resultados con IA son peores que los de los modelos tradicionales, siendo el principal problema la suavización de los extremos meteorológicos, que es un factor de riesgo importante cuando se tienen que emitir alertas por las precipitaciones torrenciales. Los meteorólogos son necesarios y a priori no van a ser sustituidos por la IA como se puede llegar a pensar. A día de hoy, la mayoría de los modelos necesitan a la meteorología tradicional para arrancar y tomar toda la información con complejos cálculos físicos, siendo de momento un sistema de apoyo. Esto no quita que, en el momento en que la IA logre comerse todo el proceso para llevar los datos desde un sensor hasta el mapa del tiempo, los modelos físicos tradicionales puedan quedar obsoletos. Imágenes | Josias Salinas En Xataka | En 2023, veinte camiones cruzaron Países Bajos cargados con 400 toneladas de marisma frisia. Su destino era un canal capaz de fabricar tormentas - La noticia La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron fue publicada originalmente en Xataka por José A. Lizana ."
   },
   {
-    "titulo": "Zelenski confirma que Starlink vuelve a funcionar a pleno rendimiento en el frente",
-    "medio": "La Vanguardia",
-    "fecha": 1792859396.0,
-    "link": "https://www.lavanguardia.com/internacional/20261024/11667263/zelenski-confirma-starlink-vuelve-funcionar-pleno-rendimiento-frente.html",
-    "resumen": "El presidente ucraniano confía en “restablecer también otros niveles de cooperación con EE.UU.”"
-  },
-  {
-    "titulo": "Miles de jóvenes protestan en Milán contra el coste de la vida mientras la Policía identifica a más de 200 personas en Roma",
-    "medio": "El Mundo",
-    "fecha": 1792859025.0,
-    "link": "https://www.elmundo.es/internacional/2026/10/24/6adcd30fe85ece54528b458a.html",
-    "resumen": "El Gobierno de Meloni despliega 1.400 efectivos de seguridad en Milán y endurece las sanciones por violencia en las manifestaciones tras los disturbios de la semana pasada Leer"
-  },
-  {
-    "titulo": "El hartazgo de los jóvenes en Albania frente a la clase dirigente vuelve a estallar en las calles",
-    "medio": "El País",
-    "fecha": 1792858851.0,
-    "link": "https://elpais.com/internacional/2026-10-24/el-hartazgo-de-los-jovenes-en-albania-frente-a-la-clase-dirigente-vuelve-a-estallar-en-las-calles.html",
-    "resumen": "Policías y manifestantes chocan de nuevo en Tirana después de tres días sin violencia. Los manifestantes acusan al primer ministro y al principal partido opositor de ser cómplices de un sistema “mafioso”"
-  },
-  {
-    "titulo": "Cientos de miles desafían a Macron y se manifiestan en las calles mientras la tensión se recrudece en Italia",
-    "medio": "El Español",
-    "fecha": 1792858839.0,
-    "link": "https://www.elespanol.com/mundo/20261024/cientos-miles-personas-desafian-macron-salen-calles-tension-recrudece-italia/1003744433744_0.html",
-    "resumen": "En París se han vivido momentos de tensión después de que la Policía tuviera que utilizar gases lacrimógenos ante los ataques de varios manifestantes. Más información: Francia refuerza su respuesta ante la tensión en las calles y activa una célula de crisis ante una nueva jornada de protestas"
-  },
-  {
-    "titulo": "Las imágenes del día: una jornada marcada por la movilización y los contrastes",
-    "medio": "La Vanguardia",
-    "fecha": 1792858664.0,
-    "link": "https://www.lavanguardia.com/fotos/20261024/11666795/imagenes-dia-jornada-marcada-movilizacion-contrastes.html",
-    "resumen": "De las manifestaciones en Madrid, París y Tirana a las inundaciones en Paraguay, los incendios en Indonesia y los actos conmemorativos de la Revolución Húngara, una selección de fotografías recorre la actualidad política, social y cultural."
-  },
-  {
-    "titulo": "Muere Mélanie Berger-Volle, la mensajera contra los nazis que jugó a la muerte con la Muerte",
-    "medio": "La Vanguardia",
-    "fecha": 1792858346.0,
-    "link": "https://www.lavanguardia.com/internacional/20261024/11666615/muere-melanie-berger-volle-mensajera-nazis-jugo-muerte-muerte.html",
-    "resumen": "La condecorada combatiente austro-francesa, encargada de la contrapropaganda y célebre por sus evasiones de la cárcel, era una de las últimas grandes figuras vivas de La Resistencia francesa y belga"
-  },
-  {
-    "titulo": "Los chalecos amarillos anuncian nuevas protestas por la «deriva autoritaria» de Macron",
-    "medio": "The Objective",
-    "fecha": 1792858267.0,
-    "link": "https://theobjective.com/internacional/2026-10-24/chalecos-amarillos-francia-protestas/",
-    "resumen": "El colectivo de protesta francés de los chalecos amarillos ha anunciado este sábado una nueva jornada de movilización masiva contra el Gobierno francés por el coste […]"
-  },
-  {
-    "titulo": "La policía francesa logra controlar la protesta",
-    "medio": "La Vanguardia",
-    "fecha": 1792858253.0,
-    "link": "https://www.lavanguardia.com/internacional/20261024/11667249/policia-francesa-logra-controlar-protesta.html",
-    "resumen": "Solo incidentes limitados perturban unas manifestaciones en general pacíficas y entre medidas de seguridad excepcionales"
-  },
-  {
     "titulo": "Miles de jóvenes protestan en Milán por los precios y el despliegue policial de Meloni",
     "medio": "eldiario.es",
     "fecha": 1792857944.0,
     "link": "https://www.eldiario.es/internacional/miles-jovenes-protestan-milan-precios-despliegue-policial-meloni_1_13612664.html",
     "resumen": "Entre las reivindicaciones hubo denuncias contra el alto coste de los alquileresMeloni aprueba el arresto preventivo de menores y envía 500 militares a Milán tras los disturbios Miles de personas, en su mayoría jóvenes, empezaron este sábado una manifestación en Milán (norte) para protestar contra el encarecimiento de la vida y por el amplio dispositivo policial desplegado por las autoridades. Los asistentes desfilaron coreando consignas como “Meloni vaffanculo” (que se traduce como “vete a tomar por culo”) y “somos todos antifascistas”. Entre las reivindicaciones hubo denuncias contra el alto precio de los alquileres y por unas condiciones que consideran inadmisibles en Milán, la capital económica del país. “Hoy protestamos contra el encarecimiento de la vida y contra un Gobierno que destina dinero a las armas, pero no a la educación, a los barrios periféricos ni a la gente que realmente necesita ayuda”, declaró a EFE Davide, un estudiante de 23 años. El joven criticó también la presencia policial y aseguró que Milán es este sábado “una ciudad totalmente militarizada”: “La presencia de la policía hoy nos hace entender cómo interpreta el Gobierno el malestar de la población (...) La única respuesta que el Gobierno de Meloni es capaz de dar a las protestas, a los movimientos sociales y al malestar de la gente es esta”, afirmó. En esa misma línea, Michele, otro de los estudiantes congregados, lamentó el rumbo político del país y la “falta de alternativas”. “Estoy aquí para protestar contra el Gobierno italiano y todas sus políticas de este año. El país vive una situación de parálisis política, con movimientos de extrema derecha, o aún más radicales, en el poder”, denunció a EFE. La movilización se produce una semana después de los violentos disturbios que tuvieron lugar en el centro de la ciudad, con saqueos en tiendas y que han obligado a las autoridades a reforzar la seguridad. El centro de Milán permanece completamente blindado con 1.400 efectivos de seguridad, entre ellos 500 militares de la brigada Folgore desplegados por Giorgia Meloni. La marcha comenzó en la zona de Lanza, junto al Castillo Sforzesco, y avanzó en dirección a la periferia. Detienen al presunto autor del “movimiento” que alentaba las protestas Las autoridades italianas han identificado este sábado en Milán al presunto creador del 'Movimiento 17 Octubre', que organizaba en las redes sociales nuevas protestas tras los disturbios de hace una semana. El ministro del Interior, Matteo Piantedosi, ha informado en la red X de la detención de este hombre de 30 años al que se considera “la presunta mente” detrás de dicho movimiento, que desde Instagram “organizaba acciones violentas” en el país. Piantedosi precisó que el sospechoso es un periodista y milita en el “entorno pro-palestina”, sin aportar más detalles o pruebas. Su detención, advirtió, reafirma un mensaje “claro”: “No habrá zonas libres de la acción de la justicia y la respuesta del Estado será inmediata contra cualquiera que crea que puede organizar agresiones y revueltas pensando que logrará esconderse detrás de un pasamontañas o del anonimato de las redes sociales”. Por ahora, el ministro ha sido el único que ha confirmado la detención del presunto organizador de los hechos, a la espera de que la Jefatura de Policía milanesa aporte más detalles. El denominado 'Movimiento 17 Octubre' fue creado a raíz de los violentos disturbios y saqueos vividos en Milán el pasado fin de semana y, de forma anónima, ha dado indicaciones para protestar de nuevo desde Instagram, donde ya acumula más de 40.000 seguidores."
-  },
-  {
-    "titulo": "Un columnista italiano alerta del sobreturismo poniendo de ejemplo a Barcelona: \"Hay ciudades preciosas destrozadas, los vecinos somos los nuevos extranjeros\"",
-    "medio": "HuffPost",
-    "fecha": 1792857727.0,
-    "link": "https://www.huffingtonpost.es/sociedad/un-columnista-italiano-alerta-sobreturismo-poniendo-ejemplo-barcelona-hay-ciudades-preciosas-destrozadas-vecinos-nuevos-extranjeros-f202610.html",
-    "resumen": ""
   },
   {
     "titulo": "En 1824 este árbol llegó a España para decorar jardines, pero sus flores amarillas esconden al invasor perfecto tras los incendios",
@@ -532,39 +630,11 @@
     "resumen": "Activar y desactivar manualmente el HDR es una de las tareas más tediosas para quienes usan Windows con un monitor compatible, sobre todo si es OLED. Si juegas o ves vídeos en YouTube y luego vuelves al escritorio, es probable que tengas que usar el atajo de teclado Win + Alt + B varias veces […] Seguir leyendo: Si tienes una pantalla OLED, esta app gratuita corrige uno de los peores problemas de Windows"
   },
   {
-    "titulo": "El clásico como síntoma",
-    "medio": "El País",
-    "fecha": 1792857593.0,
-    "link": "https://elpais.com/deportes/futbol/2026-10-24/el-clasico-como-sintoma.html",
-    "resumen": "El partido escenifica el modelo de crecimiento del fútbol europeo: cada vez más valor concentrado en un puñado de marcas globales"
-  },
-  {
-    "titulo": "Una mujer con dos úteros da a luz a dos mellizos en Italia: \"Es un caso muy raro, el sexto en el mundo\"",
-    "medio": "El Mundo",
-    "fecha": 1792857551.0,
-    "link": "https://www.elmundo.es/salud/2026/10/24/6adcd355e4d4d86a6f8b456d.html",
-    "resumen": "La directora de Obstetricia del Hospital Universitario de Padua explica que entraron al quirófano pensando \"en mil complejidades\" y salieron \"felices y conmovidos\". Leer"
-  },
-  {
     "titulo": "A New Israeli Government Won’t Stop the Settlements",
     "medio": "Jacobin ES",
     "fecha": 1792857470.0,
     "link": "https://jacobin.com/2026/10/israel-palestine-elections-settlements-occupation",
     "resumen": "Israel’s election on Tuesday is the first since October 7, 2023. Even if Benjamin Netanyahu’s government loses, it’s unlikely to lead to a real shift in Israeli policy."
-  },
-  {
-    "titulo": "Vox se querellará contra el delegado del Gobierno en Baleares tras los actos violentos contra Abascal en Mahón",
-    "medio": "El Español",
-    "fecha": 1792856589.0,
-    "link": "https://www.elespanol.com/espana/politica/20261024/vox-anuncia-querella-delegado-gobierno-baleares-protesta-abascal-mahon/1003744433735_0.html",
-    "resumen": "Esta acción judicial se suma a la querella que la formación ha presentado contra el delegado del Gobierno en Galicia.Más información: Montse Lluis, el brazo ejecutor de Abascal y nueva número 2 de Vox: \"Hace lo que sea por que se cumplan las órdenes de Santi\""
-  },
-  {
-    "titulo": "Natalee muestra una reducción de casi el 20% en el riesgo de muerte en cáncer de mama precoz HR+/HER2- con alto riesgo de recaída",
-    "medio": "The Objective",
-    "fecha": 1792855975.0,
-    "link": "https://theobjective.com/sanidad/2026-10-24/natalee-reduccion-muerte-cancer-mama/",
-    "resumen": "El análisis a seis años del estudio de fase III Natalee, desarrollado en España, ha mostrado que el tratamiento con Kisqali (ribociclib) más terapia endocrina reduce […]"
   },
   {
     "titulo": "'La bola negra' ha conseguido algo que parecía imposible: que Netflix haga pública su taquilla por primera vez en diez años",
@@ -579,27 +649,6 @@
     "fecha": 1792854974.0,
     "link": "https://www.xataka.com/videojuegos/gta-vi-no-tendra-formato-fisico-vinilo-porque-tener-algo-tus-manos-se-esta-convirtiendo-lujo",
     "resumen": "GTA se ha convertido en el símbolo perfecto de una contradicción. El 19 de noviembre llegará 'Grand Theft Auto VI' y algunos jugadores podrán comprarlo en un formato físico… llamémoslo curioso. Tendremos una caja, un cartón y un código impreso en él para descargar el juego, pero podemos olvidarnos de encontrar el disco tradicional. El objeto conserva la apariencia de una copia física en las estanterías, aunque su función ha desaparecido. La contradicción resulta aún mayor porque Rockstar Games no ha dejado de lado el formato físico, todo lo contrario: lanzará su música en CD y hasta dos ediciones en vinilo con la banda sonora original, además de una caja coleccionista por 400 euros con productos relacionados con GTA, eso sí, con la ausencia del videojuego. Durante estos largos años que nos han llevado al estreno de 'Grand Theft Auto VI', se ha hablado mucho en la industria de cómo el próximo mundo abierto de Rockstar sería el Santo Grial; los despidos, cierres y caída en ventas de consolas aguardaban una panacea en forma de GTA. Se esperaba que fuera un antes y un después para el medio y, a falta de evaluar su impacto una vez esté en el mercado, es evidente que estamos frente a un adelantado a su tiempo; al menos en lo que a modelo de negocio se refiere. El juego como tal, llegará al consumidor solamente como una licencia digital, muy a la par con el cambio que está experimentando la industria del videojuego. Sony anunciaba este mismo verano que, a partir de enero de 2028, no volverá a fabricar más discos en formato físico para PS5. Esto es especialmente relevante porque no sólo los juegos desarrollados por PlayStation Studios se quedan sin soporte físico; ninguna desarrolladora podrá ofrecer discos de sus juegos. En Xataka Dave Jones, creador del 'GTA': \"Hace como tres años que no compro un videojuego físico, soy parte del problema\" Una cosa es que el próximo ‘Assassin’s Creed’ de Ubisoft o el ‘EA Sports FC’ de Electronic Arts pasen a ser sólo licencias digitales, pero es que también editoriales como las patrias Meridiem o Selecta Play, que han creado un negocio en base a crear ediciones físicas de juegos inicialmente digitales, ven ahora cómo una de sus patas de negocio se evaporará en poco más de un año. El videojuego, que durante décadas era algo que podíamos guardar, vender, prestar o coleccionar, avanza así hacia un modelo en el que lo que compramos es, meramente, una licencia de acceso. Así que, ¿Por qué están dispuestos a fabricar y distribuir un objeto físico para acompañar un videojuego, pero no para contener el videojuego? Lo curioso es que mientras esta industria prioriza la venta de códigos en cartones para acceder a una obra, otros sectores del entretenimiento hacen justo lo contrario: cuidan, miman, elaboran y encarecen el objeto físico. Vinilos de edición limitada con olores característicos, libros que son el sueño de un coleccionista con cantos pintados y overlays (ilustraciones de escenas a color que se colocan en el libro para que se vea la ilustración y parte del texto a la vez) o películas en ediciones con un diseño impecable que no solo incluyen un disco, sino también escenas adicionales exclusivas que completan la experiencia. Lo físico, al contrario que en el sector del videojuego, no está desapareciendo; está cambiando de categoría y adquiriendo un nuevo valor. Ha pasado de ser una herramienta esencial para poder consumir una obra en nuestros hogares a un símbolo de estatus, de pertenencia o de demostrar hasta qué punto somos fans de algo. Estética y conexión gracias a un formato “del pasado” El mejor ejemplo de esta transformación está probablemente en la música. El vinilo lleva años demostrando que un formato puede sobrevivir precisamente cuando deja de ser necesario. La tendencia es clara: en el primer semestre de 2026 las ventas de vinilo crecieron en España otro 27,7%, representando el 73% del mercado físico. En la era del streaming no necesitas un vinilo para escuchar música, lo compras porque quieres tener esa música en un soporte físico. No existe, por tanto, esa competencia con plataformas digitales como Spotify o Amazon Music. Deseas ese objeto, el packaging, esa edición con glitter en el propio vinilo o incluso algo para hacer más aesthetic tu habitación. Todo ello convive en perfecta armonía con tu playlist digital para entrenar. Mientras el consumo de música se ha digitalizado hasta el punto de que el streaming concentra casi el 88% de las ventas totales en España, el formato físico que más crece es el que menos necesitamos para escuchar música. En Xataka La nueva realidad de PlayStation: a partir de 2028 no comprarás el juego, solo un permiso para jugarlo mientras Sony quiera El vinilo no ha protagonizado su particular vuelta de entre los muertos por su utilidad o practicidad, sino porque aporta algo que el streaming no nos puede dar: un objeto para conservar, exhibir y establecer conexión con el artista. El formato físico ya no se dirige a un consumidor medio, sino al fan que quiere una relación más intensa (y más cara) con la obra. Con la lectura estamos ante un panorama similar. Contamos con los ebooks para poder disponer de una biblioteca en cualquier momento en un formato digital, incluso con opciones como audiolibros o suscripciones, pero su existencia no opaca el mercado del libro físico. El fenómeno de determinados géneros literarios ha hecho crecer la demanda y con ello la estrategia de venta que hacen de esos libros un objeto de deseo para el lector: cantos pintados, nuevas reediciones con puntos de vista de otro personaje, cubiertas alternativas, ilustraciones exclusivas o ejemplares firmados por el autor. Además, es un mercado que está en continua sinergia con el audiovisual. Las numerosas adaptaciones de novelas éxitos en ventas y clásicos permiten lanzar nuevas ediciones con la cara de los actores protagonistas, como ocurre ahora mismo por ejemplo con ‘Al Este del Edén’ o ‘Sentido y Sensibilidad’; o añadir materiales vinculados a la adaptación, como el prólogo escrito por la actriz de ‘La hipótesis del amor’ Lili Reinhart. El libro deja así de ser únicamente el soporte de una historia para convertirse también en un objeto que conecta distintas formas de consumirla. El fenómeno ‘Heated Rivalry’ lleva esta lógica mucho más lejos, al rebufo de la adaptación televisiva no solo han proliferado nuevas ediciones de la saga de libros originales, sino productos que explotan precisamente ese formato físico; como nuevas ediciones con el guion de la serie con anotaciones del director y la coordinadora de intimidad, casetes con la banda sonora o cajas deluxe con toda una letanía de merchandising. Pero siempre, en el centro, encontramos el formato físico del libro o de la serie. Volvemos así a ese concepto de alma coleccionista. En muchas ocasiones los lectores combinan el uso de Kindle Unlimited, ebooks y libros físicos sin que unos formatos tengan que excluir a otros. De hecho, algo común es descubrir un libro en digital, enamorarte de él y comprarlo después en papel. Entre tantas opciones, la que incorpora algún bonus, una portada especial o una estética particularmente cuidada tiene todas las papeletas para ser la elegida. El contenido es el mismo, es la experiencia de tenerlo lo que cambia. Criterion, el objeto de deseo de los cinéfilos Y de ese alma coleccionista, el ejemplo perfecto lo encontramos en herramientas como Criterion. The Criterion Collection se ha dedicado a publicar importantes películas clásicas y contemporáneas de todo el mundo en ediciones que ofrecen la máxima calidad técnica y material adicional original. Independientemente del soporte, presentan cada película tal y como su creador querría que se viera mediante restauraciones de vanguardia. Así que una película puede estar disponible en streaming pero, aun así, una edición física de Criterion o de la Tienda Avalon puede venderse por bastante más dinero porque lo que compras ya no es simplemente la película. Compras su restauración, sus materiales adicionales, su contexto y, sobre todo, la posibilidad de conservarla. En Xataka Sony \"matará\" a los videojuegos físicos en 2028. La realidad es que llevan años muriendo en silencio Aquí tenemos otro punto esencial: el contenido puede estar a un clic de distancia en una plataforma, no obstante, la edición física convierte ese mismo contenido en un objeto que podemos tener en una estantería y volver a él cuando queramos. A esto se suma lo más relevante, nos ofrece una manera de conservar una obra. Si solamente nos rendimos al digital, por muchas ventajas que nos proporcione, siempre rondará la posibilidad de que un material desaparezca de una plataforma y deje de estar disponible e incluso quede condicionado a determinada cuenta. Puede ocurrir con un juego, una película, un libro o un disco. Una copia física no garantiza una conservación hasta el final de los tiempos, aunque sí que nos da cierto control. Cuando compramos una edición física no solo estamos comprando el contenido, cada vez más adquirimos un lujo o algo especial que roza el privilegio. También compramos la posibilidad de conservarlo, de volver a ello y de sentir que realmente nos pertenece. Así vuelve a aparecer ese sentimiento de pertenencia: formar parte de una comunidad de fans, tener un objeto que demuestra nuestra relación con esa obra. Antes pagábamos por tener la obra y poníamos una suma mayor por una edición especial. Ahora la edición especial es la que nos permite tener algo que realmente podemos conservar. Lo curioso es como el videojuego, en vez de sumarse a esta ola, está boicoteando a este tipo de comprador y va a contracorriente. El vinilo que tiene líquido de colores dentro mantiene la música, un formato deluxe sigue teniendo el libro y una edición de Criterion, la película. En el videojuego, en cambio, podemos llegar a comprar una edición coleccionista sin el juego, convirtiéndolo en un recuerdo o una muestra de nuestra relación con la obra, pero sin el factor de conservación que implica el disco. Está claro que el medio digital es mucho más rentable para la industria y cómodo para los jugadores. Contamos con una distribución inmediata ahorrando costes y una descarga para poder jugar en unos minutos. Ante esto, el formato físico por supuesto que está en desventaja. Si el objetivo es simplemente jugar, el digital es sencillo además de rápido y el físico necesita ponerse las pilas y encontrar otra razón para existir como ya ha ocurrido en otras industrias. En Xataka | Comprar un juego de PC antes también significaba tener una caja enorme en la estantería. GOG quiere recuperar eso En Xataka | Valve confirma lo que ya era evidente: no eres dueño de tus juegos de Steam En Xataka | Los jóvenes están volviendo a comprar CDs. Hay un pequeño detalle: la mitad ni siquiera tiene reproductor - La noticia GTA VI no tendrá formato físico pero sí un vinilo porque tener algo en tus manos se está convirtiendo en un lujo fue publicada originalmente en Xataka por Lara Ben-Ameur ."
-  },
-  {
-    "titulo": "Miles de pensionistas salen a la calle a exigir subidas de las pensiones del 6%, mejores salarios y acceso a la vivienda",
-    "medio": "El Mundo",
-    "fecha": 1792854954.0,
-    "link": "https://www.elmundo.es/economia/2026/10/24/6adcc9b421efa06d528b4576.html",
-    "resumen": "Los manifestantes rechazan la privatización del sistema en pleno debate sobre la sostenibilidad Leer"
-  },
-  {
-    "titulo": "Vox se querella contra el delegado del Gobierno en Baleares por la concentración en Menorca",
-    "medio": "The Objective",
-    "fecha": 1792854914.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-10-24/vox-querella-delegado-gobierno-baleares/",
-    "resumen": "Vox ha presentado una querella contra el delegado del Gobierno en Baleares, Alfonso Rodríguez, por la concentración con 400 personas cerca del mitin del líder del […]"
-  },
-  {
-    "titulo": "Álvarez de Toledo carga contra Tolón y Page: \"El rostro del apocalipsis cognitivo\" y el \"socialista con piel de cordero\"",
-    "medio": "El Español",
-    "fecha": 1792854904.0,
-    "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261024/alvarez-toledo-carga-tolon-page-rostro-apocalipsis-cognitivo-socialista-piel-cordero/1003744433599_0.html",
-    "resumen": "Cayetana se ha comprometido a recorrer la región para apoyar la candidatura de Paco Núñez.Más información: Carlos Velázquez garantiza que \"seguirá siendo alcalde de Toledo\" y dará voz a la ciudad desde Madrid"
   },
   {
     "titulo": "Muere un hombre de 34 años tras volcar una máquina de coger aceitunas en Osuna",
@@ -630,46 +679,11 @@
     "resumen": "Sentido y sensibilidad de Georgia Oakley se enfrenta a varios problemas de entrada. En primer lugar, la importancia de la espléndida adaptación de 1995 de Ang Lee del mismo libro de Jane Austen. Una obra ganadora del Óscar y que todavía se considera una joya en el amplio universo dedicado a las historias de la […] Seguir leyendo: ‘Sentido y sensibilidad’ es una película genial para los fans de Jane Austen"
   },
   {
-    "titulo": "Milei califica a Sánchez de \"ladrón corrupto\" y le acusa de legalizar a inmigrantes y 'nietos' para que voten al PSOE el 29N",
-    "medio": "El Español",
-    "fecha": 1792853928.0,
-    "link": "https://www.elespanol.com/espana/politica/20261024/milei-califica-sanchez-ladron-corrupto-acusa-legalizar-inmigrantes-nietos-voten-psoe/1003744433701_0.html",
-    "resumen": "Sostiene que el Gobierno Sánchez aplica la \"política del reemplazo\" para ganar las elecciones mientras los inmigrantes \"siembran el caos\" en Francia.Más información: Milei llama \"impresentable dictador\" a Sánchez y pide a España \"sacar a los socialistas a patadas\" el próximo 29-N"
-  },
-  {
     "titulo": "Brazil’s Far-Right Trajectory Is a Warning for Us All",
     "medio": "Jacobin ES",
     "fecha": 1792853277.0,
     "link": "https://jacobin.com/2026/10/brazil-far-right-social-disintegration-exploitation",
     "resumen": "To understand the global appeal of the far right, look to Brazil, where Bolsonarismo has capitalized on social disintegration to cement brute exploitation as the dominant social logic."
-  },
-  {
-    "titulo": "Álvarez de Toledo avisa al Gobierno por la ‘ley de nietos’: «Antes al banquillo que a un escaño»",
-    "medio": "The Objective",
-    "fecha": 1792853219.0,
-    "link": "https://theobjective.com/espana/politica/2026-10-24/alvarez-toledo-ley-nietos-banquillo-escano/",
-    "resumen": "Cayetana Álvarez de Toledo, número dos del PP al Congreso por Madrid, ha pedido a los ministros Félix Bolaños y José Manuel Albares que entreguen al […]"
-  },
-  {
-    "titulo": "Sonsoles Ónega en Jumilla: “El feminismo no es supremacía de la mujer, es igualdad, lo han manoseado y politizado\"",
-    "medio": "El Español",
-    "fecha": 1792852401.0,
-    "link": "https://www.elespanol.com/reportajes/20261024/sonsoles-ongea-jumilla-feminismo-no-supremacia-mujer-igualdad-manoseado-politizado/1003744433535_0.html",
-    "resumen": "La presentadora de Antena 3 y escritora protagoniza un encuentro literario en el Teatro Vico donde confiesa que está inmersa en otra novela.\"¿Qué demonios hemos hecho mal las mujeres para no estar gobernando el mundo?\" \"Los partidos son las primeras estructuras que no son democráticas\".Más información: Sonsoles Ónega, 48 años: \"Mi infancia fue asalvajada. Salía de Madrid y era otro mundo, sin tiempo ni obligaciones\""
-  },
-  {
-    "titulo": "¿A qué viene la extraña obsesión de Trump con los cuerpos de los hombres?",
-    "medio": "eldiario.es",
-    "fecha": 1792851941.0,
-    "link": "https://www.eldiario.es/internacional/theguardian/viene-extrana-obsesion-trump-cuerpos-hombres_129_13612426.html",
-    "resumen": "La última estrategia de Trump para apoyar a los candidatos republicanos de cara a las elecciones legislativas del 3 de noviembre está dando que hablar: analiza meticulosa y obsesivamente los cuerpos de los hombres“Tonta, estúpida”: Trump pierde los nervios cuando se le pregunta por Putin y lanza insultos a las periodistas de CNN y ABC News Durante un mitin celebrado a principios de este mes en Youngstown, Ohio, para apoyar al senador republicano Jon Husted, Donald Trump abandonó, como con frecuencia, el discurso que tenía preparado. El presidente estadounidense comentó que acababa de enterarse de que Husted había jugado al fútbol americano en la universidad. Trump, de 80 años, explicó que conocer ese detalle le había llevado a realizar una evaluación física de Husted. “No suelo hacer esto con los hombres, pero empecé a examinar su cuerpo porque no sabía que era un gran atleta. Lo miré de arriba abajo. Le miré el trasero y... bueno, lo miré todo. Después, me fijé en sus manos. Mirad sus manos. Tiene algo así como... garras”, dijo Trump, en el tono propio de un admirador. “Eres un gran atleta”, le dijo a Husted, de 59 años. “Felicidades”. Ese es solo un ejemplo de las evaluaciones físicas, y cada vez más desquiciadas, que Trump está haciendo en las últimas semanas del cuerpo de hombres mientras recorre Estados Unidos sin rumbo fijo intentando recabar votos para candidatos republicanos antes de las elecciones de mitad de mandato del próximo 3 de noviembre. El senador republicano Jon Husted, en un acto de campaña en una fábrica Dado que las encuestas indican que los republicanos se enfrentan a dificultades en las urnas, no está claro si las inspecciones y comentarios laudatorios de Trump forman parte de una estrategia cuidadosamente elaborada o si simplemente se trata de un comportamiento habitual, pero en cualquier caso, no sería extraño que Husted, quien ha representado a Ohio en el Senado desde 2025, estuviera deseando que Trump dejara de prestar tanta atención a su físico. Por desgracia para él, parece poco probable que eso suceda, ya que Trump ha comenzado a hablar de los encantos de Husted incluso cuando hace campaña por otros candidatos en otros estados. Así fue como quienes asistieron esta semana a otro mitin, en este caso en Kentucky, escucharon a Trump hablar de Husted, con otra evaluación de su aspecto que adquirió un tono casi más propio de un forense. “Examiné su culo”, dijo el presidente refiriéndose a Husted, que no estaba ni mucho menos presente en el evento. “Luego observé los hombros. Le miré los pies. Le miré la mano. Le observé la línea de la mandíbula. Lo estudié. Tiene una buena mandíbula”. Trump continuó: “Después le di una palmada en el hombro, y era como un trozo de acero. Todavía me estoy recuperando”. Se espera que los demócratas se hagan cómodamente con el control de la Cámara de Representantes en los comicios que tendrán lugar en 10 días y se cree que incluso podrían hacerse con el Senado, ya que el partido tiene posibilidades de ganar en estados profundamente republicanos como Mississippi, Kansas y Kentucky. Esto ha dado lugar a una intensa actividad de campaña por parte de Trump, que ha instado repetidamente a los votantes a imaginar que él mismo aparece en las papeletas, pese a que su nivel de popularidad, según las encuestas, está en cifras históricamente bajas. Está por ver si esta táctica de ensalzar el aspecto físico de los candidatos masculinos, que está dando lugar a comentarios e informaciones en todos los medios, puede cambiar la suerte de los republicanos, pero, en cualquier caso, Trump no da señales de que esté dispuesto a bajar el ritmo. Aunque el físico de Husted parece ser el que más le ha cautivado, el presidente ha demostrado tener ojos para más, pues otros candidatos también han llamado su atención. Entre ellos se encuentra Ed Gallrein, un exmiembro de los Navy SEAL de 68 años convertido en productor lechero. “Es un hombre perfecto”, ha dicho Trump refiriéndose a Gallrein. El presidente recordó cuando buscaba un candidato para enfrentarse al congresista republicano en ejercicio Thomas Massie (a quien Trump no soporta) en Kentucky. “Necesitaba dar con alguien bueno, y, de repente, este tipo aparece por la puerta”, comentó Trump sobre Gallrein. “Entonces, dije: ¡Mirad qué tipo tan magnífico!'”. Gallrein, con Trump, durante una visita al Despacho Oval El inusual comportamiento de Trump no ha pasado desapercibido. Anderson Cooper, presentador estrella de la CNN, calificó a Trump como el “assman-in-chief” (hombre de los culos en jefe) mientras emitía diversos fragmentos de los comentarios del presidente en su programa. “No hay nada inusual, y, desde luego, nada gay, en un presidente que baila a diario al ritmo de 'YMCA' y que ha expresado públicamente su deseo de volver a ver a Betty Buckley, un icono de la comunidad LGTBI, en 'Cats'”, señaló Cooper, que es homosexual. Por su parte, en Fox News, el presentador Jesse Watters intentó normalizar los sorprendentes comentarios de Trump de las últimas semanas: “Trump dice muchas cosas que todos pensamos, pero que no decimos. A veces suena un poco gay. Pero él puede permitírselo porque es heterosexual”, afirmó. “Así es como hablan los hombres”, continuó Watters. “Lo que quería decir es que este tal John Husted es un atleta fenomenal; fue un jugador destacado a nivel nacional en la posición de 'cornerback', campeón nacional y jugador de fútbol americano de tercera división. Tiene lo que hay que tener”. En cualquier caso, hemos llegado a un punto en el que las digresiones de Trump para comentar el aspecto físico de los candidatos de su partido se han convertido en un elemento tan habitual en sus discursos como sus oscuras advertencias de que los demócratas pretenden transformar Estados Unidos en una mezcla entre la Camboya de Pol Pot y la Australia de 'Mad Max'. El pasado viernes, durante un mitin en Dalton (Georgia), Trump habló sobre los diferentes atractivos de Jon Ossoff —senador demócrata por ese estado, de 39 años— y de Mike Collins, su contrincante republicano, un hombre de maneras rígidas que luce un cabello blanco peinado con un estilo que recuerda al corte tipo 'mullet'. Al principio de su discurso, Trump interrumpió su llamamiento a que la gente “saliera a votar” y comparó el aspecto de Ossoff con el de Pee-wee Herman, un personaje cómico cuya popularidad alcanzó su punto álgido a mediados de la década de 1980. “Alguien dijo que es un hombre atractivo”, comentó Trump sobre Ossoff. “Yo no creo que sea un hombre atractivo. De hecho, creo que Mike Collins sí es un hombre atractivo; es un hombre hecho y derecho. Es un hombre hecho y derecho. De Ossoff no estoy tan seguro”. A continuación, Trump centró su atención en Rick Jackson, el multimillonario republicano de 72 años que se postula para gobernador de Georgia. “La verdad es que considero que Rick Jackson es un tipo muy apuesto, distinguido y de muy buen ver”, remató. Los ejemplos de comentarios de este tipo no cesan. Tim Sheehy, senador estadounidense por Montana, fue calificado por Trump como “un tipo muy apuesto”. Un grupo de generales, cuya identidad no reveló, fueron descritos como “tipos guapos”. También hubo elogios para el “hijo de buen ver” del cantante y activista del Partido Republicano Ted Nugent. Este patrón de comportamiento quizá alcanzó su punto álgido durante un mitin celebrado este mes en Oklahoma. En medio de su discurso, Trump interrumpió lo que tenía previsto decir para elogiar a tres “tipos grandes, fuertes y guapos” a quienes había visto esperando en la fila fuera del recinto. “¿Dónde están?”, preguntó Trump a la multitud. “Es imposible no verlos: unos tipos de Oklahoma grandes, fuertes y guapos”. A continuación, Trump hizo subir a dos hombres al escenario. “¡Vaya par de ejemplares!”, dijo Trump. “¡Guau!”. El público respondió con carcajadas nerviosas, sin saber muy bien cómo reaccionar ante una escena tan sorprendente. Pero, tal vez, no es ya tan extraña. Quizá no sea más que la culminación natural de la creciente fascinación de un hombre por los traseros, las líneas de la mandíbula y los hombros firmes como el acero; una obsesión que Trump parece disfrutar, pero que difícilmente ayudará a los candidatos republicanos en la cita con las urnas del 3 de noviembre."
-  },
-  {
-    "titulo": "Los españoles reclutados para estafar desde Turquía y Ucrania: el imperio del fraude que se extiende por Europa",
-    "medio": "El Mundo",
-    "fecha": 1792851082.0,
-    "link": "https://www.elmundo.es/cronica/2026/10/24/6ad57b98e4d4d80d138b4586.html",
-    "resumen": "La Policía Nacional ha detectado la presencia de ciudadanos españoles en centros de ciberestafas que operan desde Turquía, Ucrania y los Balcanes. Trabajan en oficinas clandestinas que funcionan como empresas, con formación, comisiones y departamentos especializados en vaciar las cuentas de sus víctimas Leer"
   },
   {
     "titulo": "Javier Albares, médico especialista en sueño: \"Para muchas mujeres en menopausia, el mejor tratamiento para el insomnio es la terapia hormonal sustitutiva\"",
@@ -705,13 +719,6 @@
     "fecha": 1792847525.0,
     "link": "https://www.elindependiente.com/series-y-television/2026/10/24/el-secreto-avance-del-capitulo-8-este-domingo-25-de-octubre/",
     "resumen": "El Secreto, la nueva serie turca de Antena 3, continúa su emisión en el primer canal de Atresmedia cada domingo […]"
-  },
-  {
-    "titulo": "Lamine Yamal y Mbappé se enfrentan en el Clásico 24 horas antes de conocerse el ganador del Balón de Oro 2026",
-    "medio": "eldiario.es",
-    "fecha": 1792846804.0,
-    "link": "https://www.eldiario.es/spin/deportes/lamine-yamal-mbappe-enfrentan-clasico-24-horas-conocerse-ganador-balon-oro-2026_1_13612184.html",
-    "resumen": "Los dos futbolistas figuran entre los candidatos al premio, que se entregará el lunes 26 de octubre en Londres, justo después del primer Barça-Madrid de la temporada. Antonelli en su primera oportunidad de ser campeón del mundo de Fórmula 1: previa, horario y dónde ver por TV el GP de Estados Unidos El primer Clásico de la temporada tendrá un atractivo añadido. Lamine Yamal y Kylian Mbappé se enfrentarán este domingo 25 de octubre, apenas un día antes de conocerse el ganador del Balón de Oro 2026. Los dos futbolistas están entre los candidatos al premio y protagonizarán uno de los duelos más esperados del encuentro entre el FC Barcelona y el Real Madrid. El partido se disputará a las 21.00 horas en el Spotify Camp Nou, correspondiente a la décima jornada de LaLiga. Más allá de la clasificación, el encuentro reunirá a dos jugadores que aspiran a conseguir su primer Balón de Oro, después de una temporada marcada por sus actuaciones tanto con sus clubes como con sus selecciones. Lamine Yamal y Mbappé, dos candidatos con argumentos diferentes Lamine Yamal llega a la cita después de una temporada 2025-2026 en la que conquistó LaLiga y la Supercopa de España con el Barcelona, además del Mundial con la selección española. Este último título cobra especial importancia en un año de Copa del Mundo y refuerza la candidatura del extremo azulgrana, que también fue una de las principales referencias ofensivas de su equipo. A los títulos colectivos se suman sus números individuales. Lamine Yamal terminó el curso con 25 goles y 20 asistencias entre el Barcelona y la selección española, unas cifras que reflejan su participación tanto en la finalización de las jugadas como en la creación de ocasiones para sus compañeros. Jugadores del Real Madrid y el FC Barcelona durante un Clásico Mbappé, por su parte, presenta una candidatura apoyada principalmente en sus registros goleadores. Aunque el Real Madrid no consiguió títulos durante la pasada temporada, el delantero francés marcó 58 goles entre su club y su selección. Además, ganó el Trofeo Pichichi de LaLiga con 25 tantos, fue el máximo goleador de la Champions League con 15 y anotó diez en el Mundial, donde consiguió la Bota de Oro y se convirtió en el máximo goleador histórico de la competición. Así, mientras Lamine Yamal puede presumir de los títulos conseguidos con el Barcelona y España, Mbappé destaca por sus registros individuales. Ambos llegan al Clásico con argumentos diferentes para aspirar al premio, aunque lo que suceda sobre el césped no cambiará el resultado de la votación, que ya está cerrada. Una gala que se celebrará al día siguiente en Londres El ganador del Balón de Oro 2026 se conocerá el lunes 26 de octubre durante una ceremonia que tendrá lugar en el London Palladium, en Londres. Lamine Yamal y Mbappé no son los únicos futbolistas que aspiran al premio. Rodrigo, Fabián Ruiz, Pau Cubarsí, Cucurella y Ferran Torres también figuran entre los candidatos españoles, junto a otros jugadores destacados del fútbol internacional, como Harry Kane, Erling Haaland y Ousmane Dembélé. El galardón reconoce el rendimiento de los futbolistas durante la temporada anterior. En la edición de 2025, el ganador fue el francés Ousmane Dembélé. Así, el fútbol vivirá dos citas importantes en apenas dos días. El domingo, Barcelona y Real Madrid buscarán una victoria en LaLiga; el lunes se conocerá al ganador del Balón de Oro 2026."
   },
   {
     "titulo": "Los 5 mejores finales del cine contemporáneo",
@@ -887,13 +894,6 @@
     "fecha": 1792825209.0,
     "link": "https://www.trendencias.com/tendencias/adios-bailarinas-otono-e-invierno-que-zapatos-usar-durante-frio-eres-fan-ballet-flats",
     "resumen": "Las bailarinas se han convertido este último año en nuestro calzado favorito, lo han hecho hasta tal punto que han monopolizado la mayor parte de nuestros looks. Y es que, aunque adoremos cómo queda este calzado finito con todo nuestro armario, esta temporada estamos dispuestas a darles un respiro y optar por alternativas igual de cómodas y estilosas. Para ello hemos echado un vistazo en tiendas en busca de ideas para todos los gustos y estas son nuestras favoritas. Mocasines para un toque classyDa igual cuál sea tu estilo, unos mocasines siempre son un acierto, y es que puedes optar por una propuesta más noventera en clave old money o decantarte por modelos más actuales que se atrevan con colores tendencia como el tono vino. Estos de la nueva colección de Parfois, confeccionados en 100% piel por 65,99 euros, nos fascinan. Mocasines Parfois Los mules: el nuevo must haveSi ves demasiado formales los mocasines para ti, otra alternativa a las bailarinas pueden ser unos mules. Aquí hay opciones con kitten heels pero también otras que rehúyen del tacón, como estos mules tipo zueco de Massimo Dutti hechos en piel y en un color marrón chocolate que sienta de cine. Su precio es de 89,95 euros. Zuecos Massimo Dutti Mary Janes: la versión 2.0 de las bailarinasLas Mary Janes son una alternativa un poco más sofisticada a las bailarinas, perfectas para ir a la oficina en el día a día sin recurrir a los tacones, pero también ideales para cenas de trabajo o una fiesta con amigas. Estas en color rojo fuego de Polin et moi con el acabado de charol, nos parecen super elegantes. Su precio es de 89,95 euros. Mary Janes Polin et moi Sí a las sneakerinas Dijimos que no a las bailarinas, pero no dijimos nada de su versión más sporty. Esta fusión de las deportivas con este calzado más formal da forma a una propuesta de lo más cómoda y diferente para integrar en tus looks y hacer un par de recados por la ciudad o acudir al gym. Estas Puma Speedcat Ballet Étoile con el detalle de las cintas nos parecen las zapatillas más coquette que hemos visto. Su precio es de 63 euros. Sneakerinas Puma Deportivas slim de pelitoLas zapatillas slim también tienen un hueco especial en nuestro armario de otoño-invierno, pero, puestas a hacernos con unas, no se nos ocurre mejor que aquellas que tienen pelito y apuestan por el animal print. Hoff Bridge Leopard Chocolate En tiendas hay muchas opciones, pero nuestras favoritas del momento son estas de Hoff con el estampado de leopardo, donde los tonos ocres y el marrón chocolate son los colores protagonistas. Su precio es de 150 euros. Fotos | @mariellehaon, Parfois, Massimo Dutti, Polin et moi, Puma En Trendencias | María Baras, peluquera: \"Para integrar las canas, primero hay que dejar de teñirse para ver cómo es la cana y después hacer un aclarado gradual o una decoloración controlada\" En Xataka | Una cueva de Cantabria estuvo bloqueada durante 16.800 años. Han visto que conserva una vivienda de la Edad de Piedra En DAP | El lunes 26 de octubre llega a Lidl un cubo de basura de doble compartimento ideal para separar los residuos cómodamente - La noticia Adiós, bailarinas en otoño e invierno: qué zapatos usar durante el frío si eres fan de las ballet flats fue publicada originalmente en Trendencias por Noemí Valle ."
-  },
-  {
-    "titulo": "Adidas y Pharrell Wiliams han lanzado las zapatillas color frambuesa más modernas hasta ahora que se coronan como el diseño más esperado del año",
-    "medio": "Trendencias",
-    "fecha": 1792821609.0,
-    "link": "https://www.trendencias.com/calzado-ellos/adidas-pharrell-wiliams-han-lanzado-zapatillas-color-frambuesa-modernas-se-coronan-como-diseno-esperado-ano",
-    "resumen": "En el universo de las zapatillas deportivas, las colaboraciones están a la orden del día como verdadera inspiración para muchos de nuestros looks, y una de las que más ha llamado la atención este año ha sido la mancuerna de Pharrell Williams con Adidas, que nos ha dejado uno de los modelos más codiciados entre los sneakerheads y que ahora regresan con un modelo mucho más llamativo. En esta ocasión, la PW adistar Jellyfish se pinta de un flagrante color frambuesa que viene perfecto para dotar de color nuestros looks de otoño. Dentro de la gama de tonalidades cálidas por la que podemos apostar para esta temporada, es el complemento ideal para llevar con piezas de tono marrón o negro y darle vitalidad a cualquier estilismo. Con un diseño que rompe con las formas tradicionales del calzado de running, incorpora líneas fluidas y orgánicas inspiradas en la naturaleza marina, fusionando una estética futurista con una suela de formas onduladas y esculpidas que simulan el movimiento de una medusa. Si bien ahora son muy populares las zapatillas delgadas, este modelo representa la evolución perfecta del las siluetas chunky elevando cualquier conjunto urbano gracias a su presencia visual única y sus vanguardistas detalles tecnológicos. Zara Para darles el protagonismo que se merecen, podemos combinarlas con unos pantalones de corte recto o de pierna flare, cuya silueta ayuda a darle notoriedad al calzado que llevamos sin demasiado esfuerzo. Los encuentras en Zara por 39,95 euros. Bershka Buscando un balance entre lo viejo y lo nuevo, podemos crear un contraste con una pieza de espíritu vintage como con esta sudadera inspirada en los polos de la tendencia preppy que nos remontan directo a los looks Ivy League de los años ochenta. La encuentras en Bershka por 35,99 euros. H&M Y para un estilismo de lo más relajado, un pantalón de chándal deportivo que sólo basta con combinar con una camiseta básica para crear un look de calle listo para cualquier plan. Lo encuentras en H&M por 44,99 euros. Sumando a tu colección las PW Adistar Jellyfish, se convertirán en la pieza central de cualquiera de tus looks, lo que demuestra que Pharrell continúa redefiniendo las fronteras entre el alto diseño, la comodidad y la cultura de las zapatillas. Las PW Adistar Jellyfish están disponibles por 300 euros Fotos de Adidas En Trendencias | New Balance tiene las zapatillas color trufa más elegantes, cómodas y con descuento para los que aman el color marrón en sus estilismos de otoño En 3D Juegos | Una cueva de Cantabria estuvo bloqueada durante 16.800 años. Dentro hay una vivienda de la Edad de Piedra con más de 4.600 objetos En Trendencias | Las nuevas Converse en color verde pino que adoran las pijas de Cantabria porque son resistentes al agua y muy elegantes - La noticia Adidas y Pharrell Wiliams han lanzado las zapatillas color frambuesa más modernas hasta ahora que se coronan como el diseño más esperado del año fue publicada originalmente en Trendencias por Joel Calata ."
   },
   {
     "titulo": "Yo no acuso, yo pregunto",
@@ -1118,13 +1118,6 @@
     "fecha": 1792644912.0,
     "link": "https://yorokobu.es/proemas/",
     "resumen": "«Me han despedido y siento que he fracasado». Martí Muñoz escribió una frase parecida para probar PROEMAS, la herramienta que ha creado para encontrar poemas a partir de lo que nos preocupa. El sistema le propuso leer A un olmo seco, de Antonio Machado. ¿Qué tenía que ver aquel árbol con un despido? La conexión estaba en la pérdida, la incertidumbre y la posibilidad de volver a empezar. El poema describe un olmo deteriorado al que todavía le brota una rama verde. Para Muñoz, esa imagen resumía lo que buscaba con el proyecto: «No responde al problema ni intenta solucionarlo, La entrada Proemas: eso que hoy no sabes cómo decir lo escribió hace siglos otra persona se publicó primero en Yorokobu."
-  },
-  {
-    "titulo": "Avances en procesadores fotónicos",
-    "medio": "Microsiervos",
-    "fecha": 1792623159.0,
-    "link": "http://www.microsiervos.com/archivo/tecnologia/avances-procesadores-fotonicos.html",
-    "resumen": "Tim Ventura tiene un mega-artículo lleno de información acerca de los ordenadores fotónicos, máquinas prodigiosas capaces de alcanzar velocidades mil veces más rápidas que los procesadores actuales. Se puede leer aquí: Akhetonics Photonic Computing: 1,000x Faster CPUs!. Lo de «procesadores fotónicos» suena muy de Star Trek, pero en ello están. Estas CPUs de Akhetonics emplean luz en vez de electricidad, así que se podría hablar de ordenadores «a la velocidad de la luz», literalmente, aunque también sabemos que la luz no es tan rápida al propagarse por guías o fibra óptica que en el vacío. En el artículo se explica cómo pretenden pasar de los GHz habituales de las CPU actuales a frecuencias de terahercios (THz). Esto supondría multiplicar por mil la frecuencia respecto a un procesador de 1 GHz, aunque no necesariamente su rendimiento. La idea es que los datos entren como luz, se procesen como luz y salgan como luz, evitando las conversiones entre señales ópticas y eléctricas. Ya llevan desarrolladas cerca de 30 generaciones de chips fotónicos, con circuitos que han pasado de una puerta lógica a unas diez mil. La arquitectura de Akhetonics es todavía experimental. Emplean una CPU de dos bits con algo llamado SUBLEQ y con un conjunto de instrucciones minimalista pero capaz de realizar cálculos generales, como la idea de los antiguos procesadores RISC. Emplea guías ópticas (algo parecido a los circuitos metálicos de los chips convencionales) además de semiconductores y otras tecnologías tradicionales de 90 a 250 nanómetros. A corto y medio plazo esperan conseguir procesadores entre 10 y 100 veces más rápidos en determinadas tareas. Lo de las 1.000 veces es un deseo a largo plazo. El principal escollo es la memoria óptica: almacenar información resulta complicado porque los fotones, por su propia naturaleza, no quieren quedarse quietos. Una solución consiste en mantenerlos circulando por pequeños bucles hasta que se necesitan. También tienen que resolver problemas como el consumo energético, la refrigeración y las conexiones entre chips, porque los láseres y demás componentes siguen necesitando electricidad. A medida que a finales de año y durante 2027 instalen sus primeros ordenadores se podrá ver si pueden competir con las CPU convencionales. Relacionados: Una CPU de IBM, el ordenador más pequeño del mundo La máquina más avanzada para fabricar microchips Una ley que cambió el mundo De arena a silicio: cómo se construye un chip NAND-16, un ordenador de 277.248 puertas NAND # Enlace permanente"
   },
   {
     "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
