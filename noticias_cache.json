@@ -1,52 +1,395 @@
 [
   {
-    "titulo": "GP de México en directo | Alonso y Stroll abandonan en las primeras vueltas",
+    "titulo": "La red de jueces expertos encargados de asesorar a la instructora de Urda en la tragedia de los trenes",
+    "medio": "El Mundo",
+    "fecha": 1793579097.0,
+    "link": "https://www.elmundo.es/espana/2026/11/02/6ae766d8fc6c831b028b4583.html",
+    "resumen": "Aristea Afroditi Ortiz reclama más operarios y que se trabaje \"de manera ininterrumpida\" en las tareas de retirada de los vagones siniestrados Leer"
+  },
+  {
+    "titulo": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre...",
+    "medio": "El Mundo",
+    "fecha": 1793579096.0,
+    "link": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+    "resumen": "De los 69 fallecidos, los forenses han identificado a 56 personas. Estas son las historias de Ana, Carmen, Antonio o Adriana Leer"
+  },
+  {
+    "titulo": "Los trabajadores se suman a operadores y maquinistas y piden al regulador que intervenga en Adif por \"riesgo grave\" para mejorar con urgencia la seguridad en las vías",
+    "medio": "El Mundo",
+    "fecha": 1793579095.0,
+    "link": "https://www.elmundo.es/economia/2026/11/02/6ae767a7e9cf4aad0b8b4577.html",
+    "resumen": "CCOO, sindicato mayoritario en la empresa pública se suma a Iryo y los maquinistas para demandar a la Agencia de seguridad Ferroviaria que intervenga en Adif con urgencia para cambiar la política de seguridad. Ouigo apoya aplicar medidas cautelares Leer"
+  },
+  {
+    "titulo": "Carta abierta de un maquinista: El AVE devora al tren",
+    "medio": "El Mundo",
+    "fecha": 1793579091.0,
+    "link": "https://www.elmundo.es/economia/2026/11/02/6ae727cf21efa029738b4572.html",
+    "resumen": "La degradación de un orgullo ferroviario y la urgencia de asumir responsabilidades Leer"
+  },
+  {
+    "titulo": "El DAO abrió una investigación interna pese a tener \"claro\" que el teniente coronel Balas no había filtrado los mensajes entre Sánchez y Ábalos",
+    "medio": "El Mundo",
+    "fecha": 1793578492.0,
+    "link": "https://www.elmundo.es/espana/2026/11/02/6ae7908be85ece8f138b456e.html",
+    "resumen": "Así se lo reconoció Manuel Llamas a un superior de la UCO y pese a ello abrió la investigación Leer"
+  },
+  {
+    "titulo": "La juez de Badajoz frenó la investigación interna a la UCO al considerarla \"una injerencia\" en el 'caso Hermanísimo'",
+    "medio": "El Mundo",
+    "fecha": 1793578490.0,
+    "link": "https://www.elmundo.es/espana/2026/11/02/6ae78c0421efa0f37a8b4581.html",
+    "resumen": "Biedma ordenó a sus miembros que no informaran de \"nada\" y sus citaciones se anularon Leer"
+  },
+  {
+    "titulo": "El Estados Unidos que no se mueve: un viaje a Tennessee, el corazón del trumpismo",
+    "medio": "El Mundo",
+    "fecha": 1793578489.0,
+    "link": "https://www.elmundo.es/internacional/2026/11/02/6ae7532dfdddff0c068b458b.html",
+    "resumen": "Es un estado que vota republicano sin fisuras, funciona como un microcosmos de las contradicciones del país, de los grandes debates políticos y jurídicos y de las cuestiones que durante el último siglo han marcado la sociedad Leer"
+  },
+  {
+    "titulo": "La trata de esclavos bajo la Monarquía británica persigue al rey Carlos III en su gira caribeña y enrarece la cumbre de la Commonwealth",
+    "medio": "El Mundo",
+    "fecha": 1793578255.0,
+    "link": "https://www.elmundo.es/internacional/2026/11/02/6ae756f1e85ece7c778b4573.html",
+    "resumen": "Jamaica y otras naciones de la región exigen a Londres una reparación por siglos de tráfico humano y al monarca una petición de perdón por el papel de la Corona en el mayor crimen de lesa humanidad de la Historia Leer"
+  },
+  {
+    "titulo": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
     "medio": "El País",
-    "fecha": 1793565785.0,
-    "link": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html",
-    "resumen": "Antonelli puede convertirse en el campeón más joven de la historia del campeonato si logra acabar entre los nueve primeros"
+    "fecha": 1793577196.0,
+    "link": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
+    "resumen": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial"
+  },
+  {
+    "titulo": "Los arroceros de la Albufera advierten: no sembrarán si los precios no cubren costes, un abandono sin precedentes",
+    "medio": "Moncloa.com",
+    "fecha": 1793576897.0,
+    "link": "https://www.moncloa.com/2026/11/02/arroceros-albufera-no-sembraran-precios-3459942/",
+    "resumen": "AVA-ASAJA advierte de que buena parte de los arroceros de la Albufera baraja no sembrar en 2027 por falta de rentabilidad, un escenario inédito en el parque. La entrada Los arroceros de la Albufera advierten: no sembrarán si los precios no cubren costes, un abandono sin precedentes aparece primero en Moncloa."
+  },
+  {
+    "titulo": "India se queda sin cazas de quinta generación: China y Pakistán aceleran y Nueva Delhi duda entre el Su-57 y el AMCA",
+    "medio": "Moncloa.com",
+    "fecha": 1793576897.0,
+    "link": "https://www.moncloa.com/2026/11/02/india-cazas-quinta-generacion-china-pakistan-3459940/",
+    "resumen": "India pierde escuadrones frente a los 600 cazas de quinta generación de China y Pakistán. El Su-57E ruso y el AMCA propio miden el coste del retraso. La entrada India se queda sin cazas de quinta generación: China y Pakistán aceleran y Nueva Delhi duda entre el Su-57 y el AMCA aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Iotova gana las elecciones de Bulgaria con el 52% y desafía la ayuda militar a Ucrania",
+    "medio": "Moncloa.com",
+    "fecha": 1793576896.0,
+    "link": "https://www.moncloa.com/2026/11/02/elecciones-bulgaria-iotova-ucrania-3459938/",
+    "resumen": "Iotova gana la segunda vuelta en Bulgaria con el 50-52% y consolida el giro de Sofía contra la ayuda militar a Ucrania. La entrada Iotova gana las elecciones de Bulgaria con el 52% y desafía la ayuda militar a Ucrania aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Feijóo blinda la personación del PP en Urda como eje de campaña a cuatro semanas del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1793576894.0,
+    "link": "https://www.moncloa.com/2026/11/02/pp-personacion-urda-feijoo-campana-3459932/",
+    "resumen": "El PP se persona en la causa de Urda y convierte la gestión en eje de campaña a cuatro semanas del 29-N. Ferraz responde con datos y calendario judicial. La entrada Feijóo blinda la personación del PP en Urda como eje de campaña a cuatro semanas del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Puente medidas seguridad ferroviaria: anuncia un nuevo paquete mientras Renfe aplica los primeros cambios",
+    "medio": "Moncloa.com",
+    "fecha": 1793576893.0,
+    "link": "https://www.moncloa.com/2026/11/02/puente-medidas-seguridad-ferroviaria-3459930/",
+    "resumen": "Puente anuncia un nuevo paquete de seguridad ferroviaria mientras Renfe aplica los primeros cambios tras los siniestros de Urda y Adamuz. La entrada Puente medidas seguridad ferroviaria: anuncia un nuevo paquete mientras Renfe aplica los primeros cambios aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Albiol acusa a TVE de aplazar el debate del 29-N para proteger al PSC y se desmarca del formato",
+    "medio": "Moncloa.com",
+    "fecha": 1793576892.0,
+    "link": "https://www.moncloa.com/2026/11/02/albiol-tve-debate-catalan-psc-3459927/",
+    "resumen": "Albiol acusa a TVE de mover el debate catalán para proteger al PSC y anuncia que no participará si la cadena lo recoloca en otra fecha. La entrada Albiol acusa a TVE de aplazar el debate del 29-N para proteger al PSC y se desmarca del formato aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Puente comparece el martes ante la Diputación Permanente con el 74% de los españoles pidiendo su dimisión",
+    "medio": "Moncloa.com",
+    "fecha": 1793576892.0,
+    "link": "https://www.moncloa.com/2026/11/02/puente-diputacion-permanente-dimision-3459926/",
+    "resumen": "Puente comparece el martes ante la Diputación Permanente con el 73,6% de los españoles pidiendo su dimisión y el PP exigiendo responsabilidad política. La entrada Puente comparece el martes ante la Diputación Permanente con el 74% de los españoles pidiendo su dimisión aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El BCE acelera el euro digital para romper la dependencia de EE.UU. pese al 92% que defiende el efectivo",
+    "medio": "Moncloa.com",
+    "fecha": 1793576891.0,
+    "link": "https://www.moncloa.com/2026/11/02/euro-digital-bce-pagos-eeuu-3459925/",
+    "resumen": "El BCE acelera el euro digital para reducir la dependencia de Visa y Mastercard, mientras España defiende el efectivo y la convivencia con Bizum. La entrada El BCE acelera el euro digital para romper la dependencia de EE.UU. pese al 92% que defiende el efectivo aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Joselito apunta al lujo en China",
+    "medio": "Expansión",
+    "fecha": 1793576449.0,
+    "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/01/joselito-apunta-lujo-china.html",
+    "resumen": "La firma elige Xitan Hotel para lanzar su jamón Vintage 2016 y firma colaboración con el chef Zhang Yong. Leer"
+  },
+  {
+    "titulo": "El regreso de María Corina Machado acelera el ritmo de la transición en Venezuela",
+    "medio": "El País",
+    "fecha": 1793576140.0,
+    "link": "https://elpais.com/america/2026-11-01/el-regreso-de-maria-corina-machado-acelera-el-ritmo-de-la-transicion-en-venezuela.html",
+    "resumen": "La reaparición de la dirigente política descoloca al chavismo, impulsa la agenda del cambio y empuja al Gobierno a reiterar en público su compromiso de apertura política"
+  },
+  {
+    "titulo": "El coste de equivocarse reordena las habilidades profesionales",
+    "medio": "Expansión",
+    "fecha": 1793576097.0,
+    "link": "https://www.expansion.com/expansion-empleo/profesiones/2026/10/30/coste-equivocarse-reordena-habilidades-profesionales.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Rafa Jódar – Tabilo: cuándo es, horario y dónde ver por TV en directo y en vivo online el Masters 1000 de París 2026",
+    "medio": "OK Diario",
+    "fecha": 1793575841.0,
+    "link": "https://okdiario.com/deportes/rafa-jodar-tabilo-cuando-horario-donde-ver-tv-directo-vivo-online-masters-1000-paris-2026-20680548",
+    "resumen": "El Masters 1000 de París 2026 ha arrancado y en esta primera ronda va a debutar Rafa Jódar, que se tendrá que ver las caras con el chileno Alejandro Tabilo. Este será el quinto encuentro que juegan entre ambos y el balance es muy positivo para el español, ya que ha conseguido ganar en tres … Continuar leyendo \"Rafa Jódar – Tabilo: cuándo es, horario y dónde ver por TV en directo y en vivo online el Masters 1000 de París 2026\""
+  },
+  {
+    "titulo": "Santander es el único gran banco que gana accionistas en 2026",
+    "medio": "Expansión",
+    "fecha": 1793575837.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/11/01/santander-unico-gran-banco-gana-accionistas-2026.html",
+    "resumen": "La base accionarial de Santander se consolidó por encima de los 3,5 millones en los nueve primeros meses del año con la cotización en máximos. BBVA y CaixaBank pierden inversores. Leer"
+  },
+  {
+    "titulo": "Blocus y el embudo",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673292/blocus-embudo.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Trump, ante su gran desafío",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673523/trump-gran-desafio.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Mismas frases, otras víctimas",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673436/frases-victimas.html",
+    "resumen": "Sería deseable que los partidos conservaran su criterio cuando cambian de escaño."
+  },
+  {
+    "titulo": "Nosotros y la muerte",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673439/muerte.html",
+    "resumen": "El día de Difuntos coincide con la rabia, el malestar, el dolor por la tragedia del AVE"
+  },
+  {
+    "titulo": "'Midterm': Abstención asimétrica, sondeos no fiables",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11672940/midterm-abstencion-asimetrica-sondeos-fiables.html",
+    "resumen": "Los demócratas necesitan la abstención de republicanos decepcionados para ganar la Cámara"
+  },
+  {
+    "titulo": "Mujer y autonomía",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673427/mujer-autonomia.html",
+    "resumen": "Afortunadamente para todos, pero sobre todo para las mujeres, el dictador no fue eterno"
+  },
+  {
+    "titulo": "El error humano",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673430/error-humano.html",
+    "resumen": "Vamos aceptando que somos demasiado imperfectos para gestionar las cosas importantes"
+  },
+  {
+    "titulo": "En la incertidumbre",
+    "medio": "La Vanguardia",
+    "fecha": 1793575800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261102/11673433/incertidumbre.html",
+    "resumen": "No se puede tener todo controlado y hay que encajar lo que nos depare la vida"
+  },
+  {
+    "titulo": "Los fondos cazaopas logran vía libre para invertir fuera del radar en España",
+    "medio": "Expansión",
+    "fecha": 1793575362.0,
+    "link": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/fondos-cazaopas-logran-via-libre-invertir-fuera-radar-espana.html",
+    "resumen": "Cambia la normativa para declarar participaciones significativas durante una oferta de adquisición. Leer"
+  },
+  {
+    "titulo": "De Texas a Michigan: los estados clave que decidirán las 'midterm'",
+    "medio": "Expansión",
+    "fecha": 1793574787.0,
+    "link": "https://www.expansion.com/economia/2026/11/01/texas-michigan-estados-clave-decidiran-midterm.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "JPMorgan y Santander lideran el mejor año del M&A desde 2006",
+    "medio": "Expansión",
+    "fecha": 1793574598.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/11/02/jpmorgan-santander-lideran-mejor-ano-m-2006.html",
+    "resumen": "Leer"
+  },
+  {
+    "titulo": "Anthropic elige 14 bancos de la salida a Bolsa de SpaceX",
+    "medio": "Expansión",
+    "fecha": 1793574202.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/11/02/anthropic-elige-14-bancos-salida-bolsa-spacex.html",
+    "resumen": "Los dos gigantes compiten por la mayor salida a Bolsa de la historia. BNP Paribas y Crédit Agricole sustituyen a Santander e ING. Leer"
+  },
+  {
+    "titulo": "Sabadell negocia con Sanitas la renovación de su alianza en salud",
+    "medio": "Expansión",
+    "fecha": 1793574156.0,
+    "link": "https://www.expansion.com/empresas/banca/2026/11/02/sabadell-negocia-sanitas-renovacion-alianza-salud.html",
+    "resumen": "Este año expira el acuerdo con la compañía de salud. El grupo suizo Zurich es su socio de seguros para el resto de negocios desde hace 18 años. Leer"
+  },
+  {
+    "titulo": "Kimi Antonelli se pasa el juego en México y se convierte en el más joven de la historia en ganar el Mundial de F1",
+    "medio": "El País",
+    "fecha": 1793574094.0,
+    "link": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html",
+    "resumen": "El piloto de Mercedes devuelve la gloria a Italia, que no tenía un campeón del mundo desde Ascari en 1953"
+  },
+  {
+    "titulo": "Kimi Antonelli conquista su primer Mundial de F1 y hace historia como el campeón más joven",
+    "medio": "The Objective",
+    "fecha": 1793572341.0,
+    "link": "https://theobjective.com/deportes/formula-1/2026-11-01/antonelli-campeon-mundo-f1-mas-joven/",
+    "resumen": "Kimi Antonelli ya es campeón del mundo de Fórmula 1. El piloto italiano de Mercedes ha conquistado su primer título mundial en el Gran Premio de […]"
+  },
+  {
+    "titulo": "Así queda el palmarés del Mundial de Fórmula 1 tras la victoria de Kimi Antonelli: todos los campeones de la historia",
+    "medio": "OK Diario",
+    "fecha": 1793572228.0,
+    "link": "https://okdiario.com/deportes/asi-queda-palmares-del-mundial-formula-1-victoria-kimi-antonelli-todos-campeones-historia-20678929",
+    "resumen": "Kimi Antonelli es el nuevo campeón de la Fórmula 1. Con 20 años, el italiano es el piloto más joven en ganar el Mundial de F1, un hito total que ha conseguido en el GP de México, todavía con varias carreras por disputarse. Antonelli, de Mercedes, ha sido el claro dominador del Mundial. Antonelli es, … Continuar leyendo \"Así queda el palmarés del Mundial de Fórmula 1 tras la victoria de Kimi Antonelli: todos los campeones de la historia\""
+  },
+  {
+    "titulo": "El Athletic le gana la partida a la Real y deja la alegría en Bilbao",
+    "medio": "El País",
+    "fecha": 1793572185.0,
+    "link": "https://elpais.com/deportes/futbol/2026-11-01/el-athletic-le-gana-la-partida-a-la-real-y-deja-la-alegria-en-bilbao.html",
+    "resumen": "Terzic se impone a Matarazzo con goles de Nico y Berenguer en un choque con la tensión propia del derbi"
+  },
+  {
+    "titulo": "Cuánto dinero gana Kimi Antonelli por ser campeón del Mundial de Fórmula 1 2026",
+    "medio": "OK Diario",
+    "fecha": 1793572165.0,
+    "link": "https://okdiario.com/deportes/cuanto-dinero-gana-kimi-antonelli-ser-campeon-del-mundial-formula-1-2026-20678330",
+    "resumen": "Kimi Antonelli se ha proclamado campeón del Mundial de Pilotos de Fórmula 1 en el Gran Premio de México. El piloto italiano se ha convertido en el ganador más joven de la historia de la competición. Lo ha hecho, además, con una amplia diferencia respecto a su predecesor. El anterior registro estaba en manos de … Continuar leyendo \"Cuánto dinero gana Kimi Antonelli por ser campeón del Mundial de Fórmula 1 2026\""
   },
   {
     "titulo": "Hamilton pone lustre a la coronación de Antonelli en el GP de México",
     "medio": "El País",
-    "fecha": 1793565784.0,
+    "fecha": 1793572085.0,
     "link": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html",
     "resumen": "El británico firma en el Autódromo Hermanos Rodríguez su primera pole con Ferrari mientras el italiano, que saldrá el cuarto, se coronará si cruza la meta el noveno"
   },
   {
-    "titulo": "Carrera F1 GP de México, en directo | Dónde ver por TV online gratis, resultado y última hora de Alonso y Sainz de la Fórmula 1 en vivo hoy",
+    "titulo": "Antonelli se proclama campeón del mundo de F1 en México… pero Verstappen sigue siendo el rey",
     "medio": "OK Diario",
-    "fecha": 1793565607.0,
+    "fecha": 1793571938.0,
+    "link": "https://okdiario.com/deportes/antonelli-proclama-campeon-del-mundo-f1-mexico-pero-verstappen-sigue-siendo-rey-20680061",
+    "resumen": "Kimi Antonelli ya es el campeón de la Fórmula 1. El italiano ha ganado este domingo el Mundial 2026 tras quedar tercero en la carrera del Gran Premio de México, donde ha levantado su primer título con sólo 20 años, lo que le convierte en el piloto más joven de la historia en lograrlo. El vencedor … Continuar leyendo \"Antonelli se proclama campeón del mundo de F1 en México… pero Verstappen sigue siendo el rey\""
+  },
+  {
+    "titulo": "Kimi Antonelli hace historia al proclamarse el campeón más joven en la Fórmula 1: Verstappen vence en México",
+    "medio": "El Español",
+    "fecha": 1793571856.0,
+    "link": "https://www.elespanol.com/deportes/motor/f1/20261101/kimi-antonelli-hace-historia-proclamarse-campeon-joven-formula-verstappen-vence-mexico/1003744442997_0.html",
+    "resumen": "73 años después, un piloto italiano vuelve a ganar el Mundial. El piloto de Mercedes acabó tercero. Sainz 15º y Alonso abandonó en la vuelta 6."
+  },
+  {
+    "titulo": "Resumen de la carrera de F1 GP de México: clasificaciones y resultados de la Fórmula 1 hoy en vivo online gratis",
+    "medio": "OK Diario",
+    "fecha": 1793571607.0,
     "link": "https://okdiario.com/deportes/carrera-f1-gp-mexico-directo-donde-ver-tv-vivo-gratis-ultima-hora-alonso-sainz-formula-1-online-hoy-20679604",
-    "resumen": "La Fórmula 1 espera la coronación del más joven rey. Este domingo, Kimi Antonelli puede proclamarse campeón del mundo en la carrera del Gran Premio de México, la cual te vamos a contar en directo en OKDIARIO vuelta a vuelta desde las 21:00. Antes, una hora de previa para contar todos los detalles de la … Continuar leyendo \"Carrera F1 GP de México, en directo | Dónde ver por TV online gratis, resultado y última hora de Alonso y Sainz de la Fórmula 1 en vivo hoy\""
+    "resumen": "La Fórmula 1 espera la coronación del más joven rey. Este domingo, Kimi Antonelli puede proclamarse campeón del mundo en la carrera del Gran Premio de México, la cual te vamos a contar en directo en OKDIARIO vuelta a vuelta desde las 21:00. Antes, una hora de previa para contar todos los detalles de la … Continuar leyendo \"Resumen de la carrera de F1 GP de México: clasificaciones y resultados de la Fórmula 1 hoy en vivo online gratis\""
   },
   {
-    "titulo": "Athletic y Real Sociedad homenajean a la ikurriña en San Mamés 50 años después",
+    "titulo": "Irán informa de dos nuevas explosiones por el impacto de minas contra petroleros en Ormuz",
+    "medio": "The Objective",
+    "fecha": 1793571185.0,
+    "link": "https://theobjective.com/internacional/2026-11-01/iran-dos-explosiones-impacto-minas-petroleros-ormuz/",
+    "resumen": "La Guardia Revolucionaria iraní ha informado este domingo de dos nuevas explosiones por la detonación de minas marítimas por parte de sendos petroleros que transitaban por […]"
+  },
+  {
+    "titulo": "Jornada 11 de la Liga: resumen de todos los partidos",
     "medio": "OK Diario",
-    "fecha": 1793565512.0,
-    "link": "https://okdiario.com/deportes/athletic-real-sociedad-homenajean-ikurrina-san-mames-50-anos-despues-20680158",
-    "resumen": "José Ángel Iribar e Inaxio Kortabarria, leyendas del Athletic Club y la Real Sociedad, respectivamente, reprodujeron en San Mamés la icónica imagen que ambos protagonizaron en 1976, cuando portaron una ikurriña, entonces prohibida, en un derbi vasco disputado en el desaparecido campo de Atotxa. El ‘Txopo’ y Kortabarria saltaron al césped minutos antes del encuentro … Continuar leyendo \"Athletic y Real Sociedad homenajean a la ikurriña en San Mamés 50 años después\""
+    "fecha": 1793570431.0,
+    "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
+    "resumen": "La Liga sigue su curso y este fin de semana se disputa la jornada 11 con grandes partidos. La pelea por el primer puesto está que arde, pero también hay muchas cosas en juego. Aquí puedes consultar los resúmenes, goles y resultados de los diez encuentros que se disputan: Villarreal – Espanyol, Levante – Atlético … Continuar leyendo \"Jornada 11 de la Liga: resumen de todos los partidos\""
   },
   {
-    "titulo": "Guía del 3-N: los cinco estados y los horarios que deciden el control del Congreso en las elecciones de medio mandato",
-    "medio": "Moncloa.com",
-    "fecha": 1793565332.0,
-    "link": "https://www.moncloa.com/2026/11/01/elecciones-medio-mandato-3n-congreso-3459745/",
-    "resumen": "Los republicanos llegan al 3-N por detrás en los sondeos. Alaska, Texas, Míchigan, Ohio y Kansas decidirán el control del Senado y de la Cámara. La entrada Guía del 3-N: los cinco estados y los horarios que deciden el control del Congreso en las elecciones de medio mandato aparece primero en Moncloa."
+    "titulo": "Jordi Évole aclara por qué no se emite la entrevista a Pedro Sánchez en 'Salvados': \"Nunca se grabó\"",
+    "medio": "HuffPost",
+    "fecha": 1793569708.0,
+    "link": "https://www.huffingtonpost.es/virales/jordi-evole-aclara-que-emite-entrevista-pedro-sanchez-salvados-nunca-grabo-f202611.html",
+    "resumen": ""
   },
   {
-    "titulo": "Microsoft destapa cómo usan la IA los hackers de Corea del Norte: más de 100 cebos en PDF, docenas de ellos creados en minutos, y tres empresas pantalla en cinco días",
+    "titulo": "Prisión sin fianza para el detenido por apuñalamiento mortal en Valladolid",
+    "medio": "The Objective",
+    "fecha": 1793569555.0,
+    "link": "https://theobjective.com/sociedad/suceso/2026-11-01/prision-detenido-apunalamiento-mortal-valladolid/",
+    "resumen": "La autoridad judicial ha decretado este domingo prisión comunicada y sin fianza para el detenido el sábado como supuesto autor del apuñalamiento mortal de un hombre […]"
+  },
+  {
+    "titulo": "Así es HyperOS 4: Xiaomi tarda un 17,5 % menos en abrir 30 apps en sus pruebas con un Xiaomi 17 Ultra y abre la cámara 235 milisegundos antes",
     "medio": "OK Diario",
-    "fecha": 1793565103.0,
-    "link": "https://okdiario.com/techy/hackers-corea-norte-ia-microsoft-cebos-pdf-20669018",
-    "resumen": "Microsoft publicó el 29 de octubre un informe sobre ocho grupos de hackers de Corea del Norte y su uso de la inteligencia artificial. Tres de ellos, Jade Sleet, Coral Sleet y Jasper Sleet, ya la emplean en todas sus operaciones. Otro creó más de 100 documentos trampa en PDF, docenas de ellos en cuestión … Continuar leyendo \"Microsoft destapa cómo usan la IA los hackers de Corea del Norte: más de 100 cebos en PDF, docenas de ellos creados en minutos, y tres empresas pantalla en cinco días\""
+    "fecha": 1793568662.0,
+    "link": "https://okdiario.com/techy/hyperos-4-xiaomi-apps-17-5-rapido-camara-20669028",
+    "resumen": "Xiaomi ha detallado en su web oficial HyperOS 4, el nuevo sistema de sus móviles y tabletas. En sus pruebas con un Xiaomi 17 Ultra, abre 30 aplicaciones en 139,7 segundos tras nueve horas de uso. Con HyperOS 3 tardaba 169,4 segundos, así que la espera se reduce un 17,5 %. Según el calendario de … Continuar leyendo \"Así es HyperOS 4: Xiaomi tarda un 17,5 % menos en abrir 30 apps en sus pruebas con un Xiaomi 17 Ultra y abre la cámara 235 milisegundos antes\""
   },
   {
-    "titulo": "Aragón suma 26 ‘spin-offs’ deep tech, el 2,6% nacional, y empata con Navarra en octava plaza autonómica",
-    "medio": "Moncloa.com",
-    "fecha": 1793565032.0,
-    "link": "https://www.moncloa.com/2026/11/01/spin-offs-deep-tech-aragon-navarra-3459747/",
-    "resumen": "Aragón alcanza 26 'spin-offs' deep tech, el 2,6% nacional, y empata con Navarra en octava plaza gracias al empuje de la Universidad de Zaragoza. La entrada Aragón suma 26 ‘spin-offs’ deep tech, el 2,6% nacional, y empata con Navarra en octava plaza autonómica aparece primero en Moncloa."
+    "titulo": "El amigo de Lali Espósito revela el papel que tuvo en su boda: \"Me tocó la honra de casarlos\"",
+    "medio": "HuffPost",
+    "fecha": 1793568489.0,
+    "link": "https://www.huffingtonpost.es/virales/el-amigo-lali-esposito-revela-papel-tuvo-boda-me-toco-honra-casarlos-f202611.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "Un avión privado pierde el control y se estrella en una zona residencial de Florida: mueren sus nueve ocupantes",
+    "medio": "El Español",
+    "fecha": 1793567728.0,
+    "link": "https://www.elespanol.com/mundo/america/eeuu/20261101/avion-privado-personas-bordo-estrella-plena-zona-residencial-florida-provoca-incendio/1003744442994_0.html",
+    "resumen": "El aparato siniestrado era un avión privado Learjet 60 que volaba hacia Bahamas desde el Aeropuerto Internacional Austin-Bergstrom.Más información: Al menos cinco muertos al salirse de la pista un avión de carga de Amazon en Miami y estrellarse en una carretera"
+  },
+  {
+    "titulo": "Un avión privado con nueve personas a bordo se estrella en una zona residencial de Florida",
+    "medio": "The Objective",
+    "fecha": 1793567484.0,
+    "link": "https://theobjective.com/internacional/2026-11-01/avion-privado-nueve-personas-estrella-residencial-florida/",
+    "resumen": "Las autoridades estadounidenses investigan ya el siniestro de un avión privado que se ha estrellado este domingo con nueve personas a bordo en una zona residencial […]"
+  },
+  {
+    "titulo": "Qué ver en Breslavia en un fin de semana: una escapada de 48 horas por la ciudad de los gnomos",
+    "medio": "eldiario.es",
+    "fecha": 1793567272.0,
+    "link": "https://www.eldiario.es/viajes/ver-breslavia-semana-escapada-48-horas-ciudad-gnomos_1_13627689.html",
+    "resumen": "Dos días para conocer una de las ciudades más curiosas de Polonia, entre plazas llenas de color, edificios históricos y gnomos de bronce Seis buenas razones para viajar en otoño (y seis destinos que lo demuestran) Breslavia no suele estar entre las primeras ciudades que se nos vienen a la cabeza cuando pensamos en una escapada de fin de semana por Europa. Y, precisamente por eso, puede ser una opción especialmente interesante. Situada en el suroeste de Polonia, es una ciudad con personalidad propia, bastante menos frecuentada que otros destinos del país como Cracovia, pero con motivos de sobra para dedicarle un par de días. Su historia también ayuda a entender por qué Breslavia es una ciudad diferente. A lo largo de los siglos ha pasado por distintas etapas y ha formado parte de territorios y estados muy diversos, hasta quedar incorporada a Polonia después de la Segunda Guerra Mundial. Aquella etapa dejó una profunda huella en la ciudad, que sufrió importantes daños durante la contienda y tuvo que reconstruirse en buena medida. Hoy, sin embargo, conserva un centro histórico muy atractivo, atravesado por el río Óder y sus afluentes, con más de un centenar de puentes y pequeñas islas que le dan un carácter muy particular. Por cierto, si encuentras escrito Wrocław, no te despistes: es el nombre de la ciudad en polaco. Breslavia es su denominación en español. En un fin de semana podemos recorrer buena parte de sus lugares más interesantes. El punto de partida será la plaza del Mercado, con sus fachadas de colores y el antiguo ayuntamiento, pero también nos acercaremos a la isla de la Catedral, descubriremos algunos de sus edificios históricos y buscaremos los pequeños gnomos de bronce que aparecen repartidos por las calles. Una escapada que combina paseos por el casco antiguo, historia, arquitectura y algunos platos típicos de la cocina polaca. Día 1: el centro histórico y sus rincones más curiosos Rynek, la plaza del Mercado. La mejor forma de empezar a conocer Breslavia es acercarse a Rynek, la plaza del Mercado. Es el corazón del casco antiguo y uno de esos lugares en los que merece la pena detenerse un rato, porque buena parte de su atractivo está en observar los edificios que la rodean. Las fachadas de colores, con sus diferentes formas y detalles, dibujan un conjunto muy llamativo (y fotogénico). En el centro destaca el antiguo ayuntamiento, un edificio gótico que es uno de los grandes símbolos de la ciudad. Muy cerca se encuentra Plac Solny, la plaza de la Sal, que durante siglos fue un importante mercado y que hoy conserva un ambiente animado. Desde aquí podemos continuar hacia las casas de Hansel y Gretel, dos edificios estrechos unidos por un arco que parecen sacados de un cuento. También merece la pena acercarse a la iglesia de Santa Isabel, cuya torre es uno de los puntos más reconocibles del perfil urbano. Si está abierta la subida al mirador, puede ser una buena ocasión para contemplar los tejados del centro desde arriba. Una ciudad llena de gnomos. En este paseo conviene ir mirando también a ras de suelo. Breslavia es conocida como la ciudad de los gnomos y sus pequeñas esculturas de bronce aparecen en calles, plazas y rincones de todo el casco antiguo. No están colocadas al azar: su origen está relacionado con el movimiento anticomunista Alternativa Naranja, que en los años ochenta utilizaba dibujos de gnomos como forma de protesta. Con el tiempo, aquellos personajes se convirtieron en uno de los símbolos de la ciudad. Buscar algunos mientras recorremos el centro es una manera entretenida de descubrir detalles que quizá pasarían desapercibidos, sobre todo si viajamos con niños. Otra parada interesante es Stare Jatki, el antiguo mercado de carne. Esta pequeña calle conserva edificios históricos y varias esculturas de animales que recuerdan la actividad que tuvo aquí durante siglos. Después podemos dirigirnos hacia la Universidad de Breslavia, junto al río Óder. Su edificio principal guarda una de las grandes joyas barrocas de la ciudad, el Aula Leopoldina, una sala ceremonial decorada con frescos, esculturas y abundantes detalles ornamentales. Si tenemos algo más de tiempo, también podemos visitar el Oratorium Marianum o subir a la Torre Matemática, que ofrece otra perspectiva del centro. Para comer, es buen momento para probar algunos platos tradicionales polacos. Uno de los más conocidos son los famosos pierogi, unas empanadillas tradicionales que puedes encontrar con una gran variedad de rellenos, siendo los más clásicos los de carne, setas o la popular combinación de requesón y patata. Otra opción es el żurek, una sopa de sabor ligeramente ácido elaborada con harina de centeno fermentada, que suele servirse con salchicha y huevo y, en ocasiones, dentro de un pan. Vamos, algo nada ligero. Día 2: la isla de la Catedral y el paseo junto al Óder Los colores de Breslavia. El segundo día podemos dedicarlo a conocer otra de las zonas más interesantes de Breslavia, la que se extiende alrededor del río y sus islas. Antes de llegar a Ostrów Tumski, merece la pena acercarse al Panorama de Racławice, uno de los museos más singulares de la ciudad. El protagonista de este espacio es un lienzo gigantesco de 360 grados que recrea la histórica contienda de 1794 entre los ejércitos de Polonia y Rusia. Al exhibirse dentro de un edificio cilíndrico y combinarse con elementos tridimensionales y efectos de luz, logra una inmersión total que se aleja por completo de la visita a una pinacoteca tradicional. Desde allí podemos continuar hacia Ostrów Tumski, conocida como la isla de la Catedral y considerada el núcleo más antiguo de Breslavia. Aunque hoy ya no está completamente rodeada de agua, conserva un ambiente muy diferente al del centro histórico, con calles tranquilas, edificios religiosos y una arquitectura que invita a pasear con calma. La gran protagonista es la catedral de San Juan Bautista, con sus dos torres góticas. Se puede visitar su interior y, si está disponible, subir a uno de los miradores para contemplar el río y los tejados de la ciudad. No es el único templo que merece nuestra atención. En la misma isla se encuentra la iglesia de la Santa Cruz y San Bartolomé, un edificio muy curioso porque está formado por dos iglesias superpuestas. También podemos acercarnos a la pequeña iglesia de San Gil, considerada la más antigua de la ciudad. Todo este conjunto ayuda a entender la importancia que tuvo esta zona en los primeros siglos de historia de Breslavia. Para acceder a la isla se suele cruzar el puente Tumski, una pasarela metálica que durante años fue conocida como el puente de los candados. Las parejas acostumbraban a colocar allí un candado como símbolo de su amor y a arrojar la llave al río. Pero eso se acabó, durante la reforma del puente, que concluyó en 2020, se retiraron los candados y actualmente está prohibido colocar otros nuevos. Cruzando el puente Tumski. Si podemos, conviene reservar un rato para pasear junto a las orillas del Óder y cruzar alguno de sus puentes. El agua, las pequeñas islas y las torres de las iglesias componen algunas de las vistas más características de Breslavia. Y si la visita coincide con el encendido de las antiguas farolas de gas de la isla, también podremos ver al farolero que todavía se ocupa de encenderlas manualmente. Es una de esas curiosidades que hacen que el paseo tenga algo especial. A la hora de sentarnos a comer, podemos seguir descubriendo la gastronomía polaca. El bigos es un guiso contundente preparado con col fermentada, col fresca y diferentes carnes, mientras que el kotlet schabowy es una chuleta de cerdo empanada que suele acompañarse de patatas y ensalada. Son platos abundantes, bastante habituales en la cocina tradicional del país. Si tienes más tiempo en Breslavia Si disponemos de algunas horas más, podemos ampliar la visita a otros rincones de la ciudad. Uno de ellos es el barrio de las Cuatro Denominaciones, también conocido como el barrio del Respeto Mutuo. En unas pocas calles se encuentran templos católicos, ortodoxos, protestantes y judíos, un reflejo de la diversidad religiosa que ha caracterizado a Breslavia. En esta misma zona está el antiguo Palacio Real, que fue residencia de los reyes de Prusia y hoy alberga el Museo de la Ciudad. Otra visita interesante, aunque algo más alejada del centro, es el Centro del Centenario o Hala Stulecia, declarado Patrimonio Mundial por la Unesco. Su gran cúpula de hormigón armado fue una obra pionera de la arquitectura del siglo XX. Si viajas con niños, también puedes valorar Kolejkowo, un museo de maquetas en miniatura con trenes, edificios y escenas de la vida cotidiana. El centro histórico se puede recorrer perfectamente a pie y, de hecho, es la mejor manera de descubrir sus calles y plazas. Para llegar a lugares algo más alejados, como el Centro del Centenario, la ciudad cuenta con una red de tranvías y autobuses que te lo pone bastante fácil. Lo más práctico es consultar las rutas y los billetes antes de subir, especialmente si tenemos previsto utilizar el transporte público varias veces durante el fin de semana."
+  },
+  {
+    "titulo": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+    "medio": "Xataka",
+    "fecha": 1793566887.0,
+    "link": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+    "resumen": "En muchos cajones hay móviles que no volveremos a utilizar como teléfonos. Los guardamos después de estrenar otro, quizá por si algún día hacen falta, y ahí se quedan aunque sigan teniendo una cámara, un procesador, sensores de movimiento y conexión inalámbrica. Nos hemos acostumbrado a medir su utilidad por lo bien que sirven para llamar, hacer fotos o utilizar aplicaciones, pero esos componentes no desaparecen cuando dejamos de llevarlos encima. Y eso plantea una posibilidad bastante más interesante que darles una segunda vida como teléfono de repuesto. En la Universidad de California en Los Ángeles (UCLA) han hecho algo que, visto de lejos, parece una ocurrencia: ponerle piernas a un móvil. El resultado se llama PhoneBot y es un pequeño robot de 48,3 centímetros de altura y 1,8 kilos de peso, incluido el smartphone que lleva instalado en el torso. Detrás de su desarrollo está RoMeLa, un laboratorio de robótica que presentó el proyecto en un estudio publicado en arXiv el 6 de octubre de 2026. Pero lo verdaderamente interesante no es su peculiar aspecto, sino que el teléfono participa directamente en el funcionamiento de sus 13 articulaciones motorizadas y los investigadores ya han conseguido que camine. Un móvil que hace de cerebro y unas piernas que obedecenPara entender cómo funciona PhoneBot, podemos pensar en lo que ocurre cuando intentamos mantener el equilibrio: necesitamos saber cómo está colocado nuestro cuerpo y corregir los movimientos constantemente. Aquí, buena parte de ese trabajo recae sobre el smartphone, que utiliza sus sensores para conocer la inclinación del robot y su procesador para calcular las órdenes de movimiento. La cámara, por su parte, le permite interpretar visualmente lo que tiene delante. Las instrucciones viajan por Wi-Fi hasta una pequeña placa electrónica que se comunica con los motores, mientras que el sistema también puede recibir órdenes de desplazamiento del usuario. Así, mantener el equilibrio y decidir hacia dónde moverse son funciones diferentes. Tener dos piernas no significa saber caminar. A diferencia de un robot con ruedas, PhoneBot debe coordinar sus articulaciones mientras reparte el peso y evita que un paso desestabilice el siguiente. Para conseguirlo, los investigadores entrenaron un sistema de control en simulaciones mediante aprendizaje por refuerzo, una técnica que permite mejorar el comportamiento a partir de recompensas y penalizaciones. Durante ese proceso detectaron que el robot tendía a favorecer una pierna, así que introdujeron un mecanismo para fomentar movimientos simétricos. Después trasladaron ese sistema al prototipo físico para comprobar si podía caminar. Y llegó el momento de comprobar si todo aquello funcionaba fuera de las simulaciones. Según las pruebas documentadas por los propios investigadores, PhoneBot ha conseguido caminar y levantarse después de quedar boca abajo, dos capacidades que mostraron en sus demostraciones con el prototipo físico. También enseñaron cómo puede utilizar la cámara del teléfono para detectar a una persona y orientar el torso hacia ella, aunque eso no demuestra que pueda seguirla caminando de forma autónoma por cualquier entorno. El pequeño robot incorpora, además, funciones de conversación, pero aquí hay un matiz importante: el reconocimiento de voz y el modelo de lenguaje se ejecutan en un ordenador externo. Hay otro detalle que hace todavía más curioso el experimento: entre los teléfonos que el equipo puso a prueba había un Honor 9, un modelo lanzado en 2017. No era el único, porque también utilizaron tres Android económicos más recientes, pero su presencia demuestra que el sistema no exige necesariamente un móvil de última generación. Según el estudio, el Honor 9 pudo ejecutar las funciones principales evaluadas, con una excepción: el mapeo del entorno mediante ARCore, que no estaba disponible por la ausencia de los servicios necesarios de Google en ese dispositivo en Estados Unidos. Eso sí, los autores no atribuyen todas las demostraciones físicas a ese teléfono concreto. Dar una segunda vida a un smartphone también plantea otra pregunta: ¿cuánto cuesta construir el resto del robot? Los investigadores calculan que los componentes necesarios para fabricar el cuerpo de PhoneBot cuestan unos 400 dólares, sin incluir el móvil, y buena parte del presupuesto se destina a los 13 motores de sus articulaciones. El equipo ha compartido documentación y archivos de diseño para facilitar su reproducción, aunque bajo una licencia que restringe los usos comerciales. Por eso, pese a que lo presentan como una plataforma abierta, esos materiales no cumplen los criterios habituales del hardware de código abierto. Tampoco hemos podido verificar que todo el software necesario esté disponible públicamente. La idea de utilizar un smartphone como cerebro de un robot no es completamente nueva. En 2021, investigadores de Intel Labs presentaron en la conferencia ICRA OpenBot, un proyecto que permitía convertir un teléfono en el centro de control de un pequeño vehículo con ruedas, cuyo cuerpo podía construirse por unos 50 dólares. La diferencia está en lo que han conseguido ahora en UCLA: trasladar ese planteamiento a una máquina que camina sobre dos piernas, donde mantener el equilibrio añade dificultades. Esto abre nuevas posibilidades para investigar y experimentar con robótica bípeda sin depender necesariamente de equipos mucho más costosos. En Xataka La IA está cambiando algo más que el trabajo de los programadores: su salud mental empieza a pagar el precio De momento, no conviene pedirle a PhoneBot que nos traiga un café: ni tiene brazos para cogerlo ni está preparado para moverse por cualquier superficie. Su sistema de marcha se ha entrenado para suelos planos y sus motores económicos también imponen limitaciones, aunque los investigadores quieren añadir brazos ligeros y probar terrenos más complicados. Con todo, hay algo bastante divertido en este experimento: mientras nosotros dejamos un teléfono olvidado en un cajón porque se ha quedado antiguo, en UCLA han demostrado que puede servir para dar vida a un robot con piernas. Y hacerlo caminar. En Xataka | China presenta un superclúster de 100.000 tarjetas \"nacionales\" para entregar grandes modelos cada vez más exigentes - La noticia Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Nunchi, el secreto coreano para el éxito y la felicidad que consiste en entender qué piensan y sienten los demás",
+    "medio": "Trendencias",
+    "fecha": 1793566887.0,
+    "link": "https://www.trendencias.com/psicologia/nunchi-secreto-coreano-para-exito-felicidad-que-consiste-entender-que-piensan-sienten-demas-1",
+    "resumen": "Hoy os traemos una de esas palabra que nos hablan de formas diferentes de entender la vida y que estamos convencidas de que, de ahora en adelante, se va a oír hablar mucho de ella. Se trata del \"nunchi\" que, a diferencia del Köpskam o el hygge, en esta ocasión no llega desde los países nórdicos sino desde Corea y tiene, además, mucho que ver con la inteligencia emocional occidental. El \"nunchi\" se traduce literalmente como \"medida del ojo\" y hace referencia a la alta sensibilidad social de los coreanos, que aprenden a leer las señales de cualquier situación social, ya sea una fiesta o una entrevista de trabajo, no solo para tener una visión general del contexto y la atmósfera de dicha situación sino también para reconocer lo que están sintiendo y pensando los demás. Euny Hong es una periodista y escritora coreano-estadounidense que acaba de publicar un libro sobre el tema en Estados Unidos, Reino Unido, Francia y Holanda. Aunque ya se han vendido los derechos para su traducción a más de una decena de otros idiomas. En 'The Power of Nunchi' ('El poder del Nunchi'), Hong afirma que esta habilidad nos es útil no solo como individuos sino que la eleva a la categoría de factor clave en el rápido desarrollo que ha tenido el país asiático. Pasando, en unas generaciones, de ser una de las regiones más pobres del mundo a convertirse en un país poderoso cultural y económicamente hablando. En Corea, los niños ya conocen esta palabra a la edad de tres años y aprenden que no tener lo que representa es negativo. Hong pone el ejemplo de un niño que sube las escaleras por el lado izquierdo cuando el resto de la gente lo hace por la derecha. En ese caso, un padre le reprocharía no tener \"nunchi\". Sin embargo, no se trata solo de no ser mal educado sino de estar conectado con tu entorno. Tener un \"nunchi\" eficiente puede ayudarnos a tener éxito en las relaciones sociales, afectivas, laborales o en los negocios. Según Hong, aquellos que lo desarrollan son personas con más probabilidades de encajar y hacer conexiones. Por el contrario, carecer de él puede provocar rechazo en los que nos rodean, haciéndonos parecer incompetentes o llevándonos a meter la pata. Para desarrollarlo, como si fuera un músculo, observar es clave. Observar y analizar cómo los individuos actúan y reaccionan dentro de un espacio antes de hablar y actuar nosotros mismos. Darnos cuenta de quiénes hablan, quiénes escuchan, quién es que se disculpa, quién se aburre... Partiendo de ahí, uno puede valorar la naturaleza de las relaciones y jerarquías de un grupo, el ánimo general y cómo comportarse de forma acorde. Es, además, importante que esta habilidad de procesar información social cambiante sea rápida. De hecho, los coreanos no dicen de alguien que tiene un buen \"nunchi\" sino que lo tiene rápido. Según Hong, las personas no solo se encuentran más cómodas y felices con gente que tiene un \"nunchi\" rápido sino que, dándole al asunto un punto un poco maquiavélico, el hecho de escuchar atentamente y recoger información acerca de los demás antes de hablar también nos permite negociar mejor. Aunque de ningún modo debe confundirse con la manipulación. Desarrollar el \"nunchi\" no tiene que ver con aprender a manejar la situación para que juegue a nuestro favor en detrimento de otros sino en hacerlo para crear una atmósfera mejor para todos. Es una forma de entender las relaciones sociales que se aleja del individualismo y pone el énfasis en la unidad, la construcción de relaciones y la armonía colectiva. Suena bien, ¿verdad? Fotos | Parásitos En Trendencias | Los expertos coinciden: la curva de la felicidad ha desaparecido para la Generación Z En Xataka | Robert Lustig, neuroendocrinólogo: \"La idea de comer menos y hacer más ejercicio es lo que la industria alimentaria quería que creyeras\"En Xataka | El Plan 18.000: las familias madrileñas que pagaron sus casas hace 30 años y siguen sin ser dueñas del suelo - La noticia Nunchi, el secreto coreano para el éxito y la felicidad que consiste en entender qué piensan y sienten los demás fue publicada originalmente en Trendencias por María Yuste ."
+  },
+  {
+    "titulo": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
+    "medio": "El País",
+    "fecha": 1793566711.0,
+    "link": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
+    "resumen": "La aeronave modelo Learjet 60 se dirigía a las Bahamas tras despegar de Texas cuando cayó en una zona residencial del condado de Palm Beach"
   },
   {
     "titulo": "León XIV espera que la operación humanitaria entre Ucrania y Rusia haga crecer «el diálogo»",
@@ -56,88 +399,11 @@
     "resumen": "El papa León XIV ha expresado este domingo su esperanza en que la operación humanitaria que ha tenido lugar en los últimos días en la ciudad […]"
   },
   {
-    "titulo": "Feijóo reivindica el modelo de gestión de la Xunta para España: el laboratorio gallego de la campaña del 29-N",
-    "medio": "Moncloa.com",
-    "fecha": 1793564732.0,
-    "link": "https://www.moncloa.com/2026/11/01/feijoo-modelo-gestion-xunta-espana-3459749/",
-    "resumen": "El PP sitúa la gestión en el centro de la campaña del 29-N y Feijóo apela a que España «vuelva a funcionar» con el aval de la Xunta. La entrada Feijóo reivindica el modelo de gestión de la Xunta para España: el laboratorio gallego de la campaña del 29-N aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Alonso cierra un fin de semana de muerte en México: los dos Aston Martin abandonan en la sexta vuelta",
-    "medio": "OK Diario",
-    "fecha": 1793564670.0,
-    "link": "https://okdiario.com/deportes/alonso-cierra-fin-semana-muerte-mexico-dos-aston-martin-abandonan-vuelta-7-20680085",
-    "resumen": "Fernando Alonso ha cerrado un fin de semana de muerte este domingo en la carrera del Gran Premio de México, haciendo referencia a la tradicional fiesta mexicana que se celebra estos días en los que el Mundial de Fórmula 1 2026 pasa por el país de Centroamérica. Los dos Aston Martin abandonaron en la misma … Continuar leyendo \"Alonso cierra un fin de semana de muerte en México: los dos Aston Martin abandonan en la sexta vuelta\""
-  },
-  {
-    "titulo": "Lopesan lleva a la World Travel Market sus nuevos resorts del Caribe y su apuesta por Gran Canaria",
-    "medio": "Moncloa.com",
-    "fecha": 1793564432.0,
-    "link": "https://www.moncloa.com/2026/11/01/lopesan-world-travel-market-gran-canaria-3459752/",
-    "resumen": "Lopesan presenta en la World Travel Market de Londres tres resorts en Playa Bávaro y dos proyectos en Gran Canaria, con 956 habitaciones en Meloneras. La entrada Lopesan lleva a la World Travel Market sus nuevos resorts del Caribe y su apuesta por Gran Canaria aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Al menos cuatro muertos y varios heridos tras una serie de tiroteos durante la noche de Halloween en Dallas",
-    "medio": "OK Diario",
-    "fecha": 1793564141.0,
-    "link": "https://okdiario.com/internacional/menos-cuatro-muertos-varios-heridos-serie-tiroteos-durante-noche-halloween-dallas-20679974",
-    "resumen": "Al menos cuatro personas han muerto y varias resultaron heridas tras una serie de tiroteos durante la noche de Halloween en el barrio de Deep Ellum en Dallas, Estados Unidos. Hasta el momento, la Policía local ha detenido a varios sospechosos, pero según avanza la investigación, no ha encontrado conexión directa entre los hechos. Durante la … Continuar leyendo \"Al menos cuatro muertos y varios heridos tras una serie de tiroteos durante la noche de Halloween en Dallas\""
-  },
-  {
-    "titulo": "El Consell de Pérez Llorca recurre ante los tribunales la delimitación de costa entre Vinaròs y Benicarló",
-    "medio": "Moncloa.com",
-    "fecha": 1793564132.0,
-    "link": "https://www.moncloa.com/2026/11/01/consell-recurso-delimitacion-costa-vinaros-benicarlo-3459755/",
-    "resumen": "El Consell de Pérez Llorca recurre la delimitación de 2,2 km de costa entre Vinaròs y Benicarló y advierte de que hay viviendas y familias afectadas. La entrada El Consell de Pérez Llorca recurre ante los tribunales la delimitación de costa entre Vinaròs y Benicarló aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Salvamento Marítimo atiende a 307 migrantes llegados en dos cayucos a El Hierro tras seis días de travesía",
-    "medio": "Moncloa.com",
-    "fecha": 1793564013.0,
-    "link": "https://www.moncloa.com/2026/11/01/cayucos-el-hierro-307-migrantes-salvamento-3459846/",
-    "resumen": "Salvamento Marítimo atiende a 307 migrantes en dos cayucos llegados a La Restinga, El Hierro, tras seis días de travesía desde Gambia. La entrada Salvamento Marítimo atiende a 307 migrantes llegados en dos cayucos a El Hierro tras seis días de travesía aparece primero en Moncloa."
-  },
-  {
-    "titulo": "La Policía Nacional y la Guardia Civil detienen a una decena de Blocus, incluido su líder, y blindan comercios",
-    "medio": "Moncloa.com",
-    "fecha": 1793564012.0,
-    "link": "https://www.moncloa.com/2026/11/01/policia-nacional-operacion-blocus-detenidos-3459844/",
-    "resumen": "La Policía Nacional y la Guardia Civil detienen a una decena de Blocus, con su presunto fundador, y blindan comercios ante nuevas convocatorias. La entrada La Policía Nacional y la Guardia Civil detienen a una decena de Blocus, incluido su líder, y blindan comercios aparece primero en Moncloa."
-  },
-  {
-    "titulo": "iPhone 18 Pro: sus ventas suben un 29% en China y compensan el desplome del 27% en Japón",
-    "medio": "Moncloa.com",
-    "fecha": 1793564011.0,
-    "link": "https://www.moncloa.com/2026/11/01/ventas-iphone-18-pro-china-japon-3459793/",
-    "resumen": "Las ventas del iPhone 18 Pro suben un 3,1% en tres semanas: China crece un 29% y Japón cae un 27%. La subida de precio en EE. UU. sostiene la facturación. La entrada iPhone 18 Pro: sus ventas suben un 29% en China y compensan el desplome del 27% en Japón aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Ebro apunta a 40.000 coches en 2027 y negocia más financiación",
-    "medio": "Expansión",
-    "fecha": 1793563886.0,
-    "link": "https://www.expansion.com/catalunya/2026/11/01/ebro-apunta-40-000-coches-2027-negocia-financiacion.html",
-    "resumen": "La firma redefine sus gastos debido a las inversiones en la Zona Franca e iniciará la producción del s400, el Jaecoo 5 y el s700 en su línea de soldadura durante el primer trimestre del año entrante. Leer"
-  },
-  {
     "titulo": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
     "medio": "Xataka",
     "fecha": 1793563287.0,
     "link": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
     "resumen": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con laboratorios internos que realizan todo tipo de pruebas in situ. Sin embargo, con el procesado informático la cosa cambia. Los datos deben procesarse en nuestro planeta, con una gran dependencia del ancho de banda. Para solucionarlo, la compañía HPE ha desarrollado Spaceborne Computer-4, un sistema de computación de alto rendimiento diseñado para funcionar directamente en la Luna. El hardware. El conjunto del hardware, de 1,2 kg, consta de un módulo ligero y autónomo, con CPU y GPU de bajo consumo, sin ventiladores. Esto último es importante para resistir a las condiciones lunares; donde, cuantas más piezas haya, más fácil es que alguna sea dañada por inclemencias como el polvo. Además, Spaceborne Computer-4 cuenta con unidades de estado sólido de Kioxia, unas unidades de almacenamiento sin partes móviles que guardan los datos en chips de memoria flash. Las pruebas. Una vez en la Luna, este sistema realizará varias pruebas. Para empezar, se encargará de realizar pruebas de rendimiento (benchmarks) en condiciones lunares. Por otro lado, ejecutará modelos de lenguaje con generación aumentada por recuperación (RAG), que consultan documentos antes de responder. También probará un sistema de procesamiento de datos LiDAR para cartografía y navegación y desplegará y gestionará diversas aplicaciones para ver si puede hacerse de forma fiable en la Luna. Cuándo. Todo el equipo se lanzará dentro del programa CLPS de la NASA. Formará parte del rover FLIP de Astrolab, que viajará a bordo del módulo de aterrizaje Griffin-1 de Voyager Technologies. Si todo va bien, este conjunto se lanzará a finales de 2026, para aterrizar cerca del polo sur lunar. En Xataka En 1969 el ser humano puso pie por primer vez en la Luna. Lo hizo gracias a un ordenador menos potente que tu móvil Otros socios. Además del hardware y el software de HPE, la misión incluirá también experimentos de IA desarrollados por la NASA. El algoritmo en cuestión se llama FLUID y consiste en un sistema de aprendizaje federado que coordina tres redes neuronales entrenadas con datos de la Tierra, la Luna y la Estación Espacial Internacional. También se probará un modelo de lenguaje ajustado para buscar e interpretar documentos a bordo. Y por supuesto, igual que hay que proteger los sistemas informáticos en la Tierra, llegará un momento en el que sea esencial en la Luna. Por eso, Deloitte aportará un sistema de ciberseguridad llamado Silent Shield, que se encarga de detectar actividad anómala e intrusiones casi en tiempo real. Todo esto, si funciona adecuadamente, será útil para misiones no tripuladas, pero también para el futuro desarrollo de bases habitadas en la Luna. Los astronautas tendrán sus propios sistemas de procesamiento de la información, por lo que los datos fluirán mucho más deprisa que con una conexión permanente con la Tierra. Imagen | Astrolab En Xataka | Sabíamos que había agua en la Luna, pero no por qué algunos cráteres estaban vacíos. Al fin tenemos la respuesta - La noticia La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción fue publicada originalmente en Xataka por Azucena Martín ."
-  },
-  {
-    "titulo": "Jordi Wild entrevistará a los cuatro candidatos a la presidencia sin preguntas pactadas y con dos verificadores en plató: fecha, formato y todo lo que se sabe de las entrevistas del 29N",
-    "medio": "OK Diario",
-    "fecha": 1793563251.0,
-    "link": "https://okdiario.com/cool/jordi-wild-entrevistara-cuatro-candidatos-presidencia-sin-preguntas-pactadas-dos-verificadores-plato-fecha-formato-todo-lo-que-sabe-entrevistas-del-29n-20631696",
-    "resumen": "El pódcast del creador de contenido Jordi Wild tendrá a los cuatro principales aspirantes a presidir el Gobierno antes de las elecciones generales del 29 de noviembre. Las cuatro conversaciones se emitirán el 13 de noviembre, con una hora de diferencia entre cada una, una fecha que coincide con el arranque oficial de la campaña. … Continuar leyendo \"Jordi Wild entrevistará a los cuatro candidatos a la presidencia sin preguntas pactadas y con dos verificadores en plató: fecha, formato y todo lo que se sabe de las entrevistas del 29N\""
-  },
-  {
-    "titulo": "El Barça acaba dibujando una sonrisa en Málaga después de un partidazo",
-    "medio": "La Vanguardia",
-    "fecha": 1793563150.0,
-    "link": "https://www.lavanguardia.com/deportes/baloncesto/20261101/11673526/unicaja-barca-liga-endesa.html",
-    "resumen": "Los azulgrana se impusieron al Unicaja en una gran tarde de baloncesto en el Carpena"
   },
   {
     "titulo": "Un dependiente salta a un autobús escolar en marcha cuando el conductor sufre un ataque y lo frena con 18 niños dentro: “Metí la marcha atrás sin querer, pero al final eché el freno de mano”",
@@ -154,13 +420,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Vox señala al Gobierno de Sánchez por la invasión de Ceuta: «Es el mayor fracaso institucional de la historia reciente»",
-    "medio": "OK Diario",
-    "fecha": 1793562297.0,
-    "link": "https://okdiario.com/espana/vox-senala-gobierno-sanchez-invasion-ceuta-mayor-fracaso-institucional-historia-reciente-20679970",
-    "resumen": "La entrada masiva de inmigrantes a Ceuta ha dejado a la ciudad autónoma ante el «mayor fracaso político e institucional» de la historia reciente de España, según denuncia Vox. Tres meses después de la invasión, la formación exige al Gobierno de Pedro Sánchez que asuma responsabilidades y adopte medidas para recuperar la seguridad. Los ceutíes … Continuar leyendo \"Vox señala al Gobierno de Sánchez por la invasión de Ceuta: «Es el mayor fracaso institucional de la historia reciente»\""
-  },
-  {
     "titulo": "Comprobar Bonoloto hoy: resultado del domingo 1 de noviembre y números premiados",
     "medio": "HuffPost",
     "fecha": 1793562142.0,
@@ -168,25 +427,11 @@
     "resumen": ""
   },
   {
-    "titulo": "El Gobierno desvió 1 millón del presupuesto para el sistema de seguridad ASFA a pagar el apoyo del PNV",
-    "medio": "OK Diario",
-    "fecha": 1793561926.0,
-    "link": "https://okdiario.com/espana/gobierno-desvio-1-millon-del-presupuesto-sistema-seguridad-asfa-pagar-apoyo-del-pnv-20668413",
-    "resumen": "El Gobierno de Pedro Sánchez retiró 1 millón de euros destinados a la seguridad ferroviaria en los últimos Presupuestos Generales del Estado. En su lugar, los dedicó al «refuerzo de servicios ferroviarios» en el País Vasco, una exigencia del PNV al Ejecutivo socialista. Concretamente, el dinero salió de la partida destinada al ASFA Digital en diferentes comunidades … Continuar leyendo \"El Gobierno desvió 1 millón del presupuesto para el sistema de seguridad ASFA a pagar el apoyo del PNV\""
-  },
-  {
     "titulo": "El inicio del desmantelamiento de la acampada de Sol, en imágenes",
     "medio": "The Objective",
     "fecha": 1793561644.0,
     "link": "https://theobjective.com/galerias/sociedad/2026-11-01/desmontaje-acampada-sol-en-imagenes/",
     "resumen": ""
-  },
-  {
-    "titulo": "Entra en vigor nueva la tasa europea de dos euros a los pequeños envíos",
-    "medio": "Expansión",
-    "fecha": 1793561633.0,
-    "link": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html",
-    "resumen": "El impuesto se dedicará a financiar las aduanas que se han visto casi colapsadas. Se reciben casi 6.000 millones de paquetes al año. Leer"
   },
   {
     "titulo": "La reflexión de una profesora sobre lo que está pasando en las clases: \"Hay que ser muy valiente hoy en día para meterte en un aula de secundaria\"",
@@ -208,13 +453,6 @@
     "fecha": 1793561332.0,
     "link": "https://www.huffingtonpost.es/sociedad/rocio-camarera-espanola-noruega-estoy-ahorrando-mes-minimo-1500-euros-mas-sueldo-entero-tenia-espana-f202611.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Prisión comunicada y sin fianza para el presunto autor del apuñalamiento mortal en Tordehumos (Valladolid)",
-    "medio": "La Vanguardia",
-    "fecha": 1793560844.0,
-    "link": "https://www.lavanguardia.com/local/castilla-leon/20261101/11673524/prision-comunicada-fianza-presunto-autor-apunalamiento-mortal-tordehumos-valladolid.html",
-    "resumen": "El varón de origen indio fue detenido en la tarde del sábado tras varias horas de búsqueda, un suceso que se saldó además con dos heridos, también de origen indio"
   },
   {
     "titulo": "Adiós a Miquel Navarro, uno de los grandes exponentes de la renovación de la escultura en España",
@@ -273,20 +511,6 @@
     "resumen": "El campeón mundial de 1995 disputa en la Gran Manzana junto a su hijo el 42º y último maratón de su vida, que abrochan ambos en 3h 1m 11s"
   },
   {
-    "titulo": "Elecciones 'midterm' y cambio de ciclo global",
-    "medio": "HuffPost",
-    "fecha": 1793559574.0,
-    "link": "https://www.huffingtonpost.es/opinion/elecciones-midterm-cambio-ciclo-global-f202611.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "“La IA va a convertirnos en unos tetrapléjicos intelectuales”",
-    "medio": "La Vanguardia",
-    "fecha": 1793559299.0,
-    "link": "https://www.lavanguardia.com/cultura/20261101/11673515/goncalo-m-tavares-ia-convertirnos-tetraplejicos-intelectuales.html",
-    "resumen": "El escritor portugués recoge esta noche el premio Formentor de las Letras"
-  },
-  {
     "titulo": "Juan Carlos Ferrero escoge a Ben Shelton para su regreso: \"Tiene un talento, una potencia y un carácter extraordinario\"",
     "medio": "El Español",
     "fecha": 1793558759.0,
@@ -294,88 +518,11 @@
     "resumen": "El valenciano se unirá al equipo del tenista estadounidense, número cuatro del ranking ATP, la próxima temporada.Más información: Alcaraz arrolla a De Miñaur en la final del ATP de Viena y ya es el tercer tenista español con más títulos"
   },
   {
-    "titulo": "Detenidos dos jóvenes por alentar disturbios en nombre de Blocus en Fuengirola (Málaga)",
-    "medio": "The Objective",
-    "fecha": 1793558606.0,
-    "link": "https://theobjective.com/sociedad/suceso/2026-11-01/detenidos-dos-jovenes-disturbios-blocus-fuengirola-malaga/",
-    "resumen": "Agentes de la Policía Nacional han detenido la pasada noche del sábado en Fuengirola (Málaga) a otros dos individuos, uno de ellos menor de edad, pertenecientes […]"
-  },
-  {
-    "titulo": "Los usuarios de Binance retiran más de 3.600 millones de la plataforma tras el robo",
-    "medio": "Expansión",
-    "fecha": 1793558389.0,
-    "link": "https://www.expansion.com/economia/financial-times/2026/11/01/usuarios-binance-retiran-3-600-millones-plataforma-robo.html",
-    "resumen": "Los usuarios de Binance retiraron 3.640 millones de dólares de la mayor plataforma de intercambio de criptomonedas del mundo, la cual reanudó sus servicios el domingo tras sufrir un robo récord de 6.300 millones de dólares. Leer"
-  },
-  {
-    "titulo": "El Arsenal asalta Anfield y es líder en solitario",
-    "medio": "La Vanguardia",
-    "fecha": 1793558141.0,
-    "link": "https://www.lavanguardia.com/deportes/futbol/20261101/11673504/arsenal-gana-liverpool-anfield-arteta-iraola.html",
-    "resumen": "Arteta le gana la partida a Iraola en el duelo en los banquillos entre españoles"
-  },
-  {
-    "titulo": "El bolígrafo de Éder Sarabia empieza a escribir en el Espanyol",
-    "medio": "La Vanguardia",
-    "fecha": 1793558084.0,
-    "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/primer-equipo/20261101/11673510/boligrafo-eder-sarabia-empieza-escribir-espanyol.html",
-    "resumen": "El técnico vasco dirigió el domingo su primera sesión al frente del conjunto blanquiazul"
-  },
-  {
-    "titulo": "Mueren cuatro miembros de una familia, dos adultos y dos menores, en un accidente de tráfico en Malva (Zamora)",
-    "medio": "El Mundo",
-    "fecha": 1793557936.0,
-    "link": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html",
-    "resumen": "Un coche se ha salido de la vía en un tramo recto de una carretera provincial y ha chocado contra una tajea de hormigón Leer"
-  },
-  {
     "titulo": "\"Decidí hacerme amiga del fantasma\": en Japón las casas encantadas se han convertido en la obsesión de los cazadores de gangas",
     "medio": "Xataka",
     "fecha": 1793557887.0,
     "link": "https://www.xataka.com/magnet/decidi-hacerme-amiga-fantasma-japon-casas-encantadas-se-han-convertido-obsesion-cazadores-gangas",
     "resumen": "Ryua vive en un pequeño apartamento del barrio de Setagaya, en Tokio, por el que debería estar pagando un alquiler de 62.000 yenes, alrededor de 350 euros. Ese es el precio de mercado. Ella en realidad paga 45.000 yenes, un 30% menos. Algo parecido le pasa a Diane Tincher, una guía estadounidense que lleva varias décadas viviendo en Japón. En condiciones normales, su casa de Kagoshima costaría 45 millones de yenes, pero ella la compró por menos de la mitad. Si Ryua o Diane pagan tan poco por sus viviendas no es por un error de cálculo o un acto de generosidad inmobiliaria. Sus casas están devaluadas porque se consideran jiko bukken, propiedades encantadas o asociadas a tragedias. “Decidí hacerme amiga del fantasma”. La frase es de Ryua, una joven aidoru que hace poco explicaba a la BBC cómo consiguió vivir en un elegante barrio de Tokio pagando un alquiler muy por debajo de los valores reales del mercado. Cuando hace cuatro años fue a ver el estudio, de 25 m2, le explicaron que tenía una historia trágica: un hombre se había suicidado en su interior. La propia Ryua asegura que la primera vez que puso un pie en el apartamento vio “un fantasma”, un hombre que la observsaba fijamente y solo podía ver ella. Aún a día de hoy, asegura, siente actividad paranormal. Sea o no verdad, lo innegable es que a la joven el historial de la vivienda le vino de perlas. Cada vez que paga la renta se ahorra 17.000 yenes. “Decidí hacerme amiga del fantasma”. Luke Paris (Unsplash). “Son muy supersticiosos”. Diane Tincher es bastante mayor que Ryua (tiene 79 años), nació en EEUU y vive en el otro extremo de Japón, en una región rural de Kagoshima. Sin embargo, se ha favorecido también del recelo de los nipones a instalarse en casas con historias dramáticas. Mientras buscaba una vivienda se encontró con un chalet de tres habitaciones que se vendía a un precio irrisorio: 20 millones de yenes, menos de la mitad de su tasación. La visitó. Y la compró. El agente inmobiliario que se la mostró fue sincero con ella: le explicó que era una ganga porque, tiempo atrás, una anciana había muerto sola en la propiedad y eso la había dejado estigmatizada. “No creo en fantasmas. Pero sé que los japoneses son muy supersticiosos”, explica Tincher: “Si hay un fantasma, le agradezco cada día vivir en una casa tan espléndida y asequible”. ¿Son casos anecdóticos? No. En Japón incluso tienen un término para referirse a casas como las de Ryua y Tincher. Son jiko bukken, “propiedades estigmatizadas”, viviendas marcadas por episodios trágicos y traumáticos, como un crimen, un suicidio o incluso muertes en soledad, cada vez más comunes. “Debido a la imagen de mala suerte y fenómenos psíquicos que crean este tipo de inmuebles quienes buscan casa suelen rechazarlos, y por lo general es difícil encontrar residentes para ellos. Es un gran inconveniente para la industria inmobiliaria”, explica la web especializada Nippon.com. Complicando el mercado. “Incluso un apartamento situado junto a un cementerio será difícil de alquilar, sobre todo si desde la cocina se ven las tumbas. Lo peor es que se haya producido un suicidio. Aunque alguien se haya tirado desde la azotea, muchos inquilinos se marcharán. Otros problemas son un delito grave o muerte en soledad”, confirma Erik Oskamp, un agente de Tokio. Aunque vender o alquilar propiedades así puede suponer un desafío en otras partes del mundo, Osakamp está convencido de que los japoneses son especialmente reacios a instalarse, comprar o arrendar jiko bukken. WARNING: GRAPHIC CONTENT Japan's 'misfortunate properties' or 'jiko bukken' — homes where murders or suicides have occurred — find buyers at a discount that could help overcome the fear of restless spirits https://t.co/9ZVyoKsTcO https://t.co/0EmF3N57qp— Reuters (@Reuters) June 30, 2025 ¿Y si nadie lo sabe? Que Ryua y Tincher estén al tanto del pasado lúgubre de sus viviendas no es casualidad ni depende únicamente de la transparencia de las inmobiliarias. Como recuerda la BBC, a menudo los agentes deben comunicar si la propiedad que están mostrando ha sido escenario de un suicidio, homicidio o muerte por incendio. También si alguien ha muerto en su interior y su cadáver ha tardado tiempo en encontrarse, un drama cada vez más común en el país. Si la casa se alquila, esa información debe estar disponible durante al menos tres años. En propiedades a la venta la norma se aplica de forma indefinida. Un Google Maps tétrico. Ni siquiera hay que rascar mucho para encontrar información sobre las jiko bukken. Desde hace años hay una web, Oshimaland, que incluye un mapa de ‘propiedades estigmatizadas’, escenarios de hechos lúgubres que pueden resultar interesante a posibles compradores o inquilinos. Sobre todo si, al igual que Ryua, no les importa vivir en una supuesta ‘casa encantada’ a cambio de una rebaja del 30% en su alquiler. Oshimaland ofrece información de diferentes países, pero sobre todo cubre el territorio nipón. ¿Fantasmas o precios disparados? La sociedad japonesa quizás sea más sensible a las jiko bukken, pero también lo es a las fluctuaciones de la economía. Y eso se nota en un escenario marcado por el encarecimiento de la vivienda. Hace un año Kazutoshi Kodama reconocía a la agencia Reuters que el encarecimiento del m2 está haciendo que cada vez más gente se plantee vivir en propiedades ‘estigmatizadas’. “Antes encontrar inquilino era casi imposible. Pero con el aumento de precios inmobiliarios, la gente ha empezado a considerar las propiedades desafortunadas una opción”, relata. Hay estudios que muestran que alrededor del 54% viviría en una jiko bukken si el alquiler lo compensa. En Xataka Japón tiene tantas casas abandonadas que se están regalando. El problema es que su estado no es para \"entrar a vivir\" 'Cazafantasmas' inmobiliarios. Sabe de lo que habla. Hace años Kodama fundó en Shinjuku, Tokio, una empresa que presta un servicio peculiar: realiza lo que denomina investigaciones paranormales para inmobiliarias y propietarios, análisis que demuestran a los clientes aprensivos que una casa no tiene espiritus. No sale barato. Según The Asahi Shimbun, cobra 88.000 yenes por sesión. “Pueden revalorizar sus propiedades cuando les dicen a los inquilinos que no debería haber ningún problema porque no hay nada de qué preocuparse”, explica Kodama. “Cuando alguien publica en Internet que hay un cadáver en una casa, esa información permanece y es difícil de borrar”. En los casos más escabrosos (con crímenes de por medio) eso puede hundir hasta un 80% el precio de venta. Imágenes | Patricia Haller-Anguela (Unsplash) y Luke Paris (Unsplash) Vía | BBC En Xataka | Japón tiene tantos ancianos muriendo solos que desconoce el número de casas vacías. Así que han recurrido a un algoritmo - La noticia \"Decidí hacerme amiga del fantasma\": en Japón las casas encantadas se han convertido en la obsesión de los cazadores de gangas fue publicada originalmente en Xataka por Carlos Prego ."
-  },
-  {
-    "titulo": "Francia detiene a 779 personas en una jornada de protestas con 320.000 manifestantes",
-    "medio": "The Objective",
-    "fecha": 1793557592.0,
-    "link": "https://theobjective.com/internacional/2026-11-01/francia-jornada-protestas-manifestaciones/",
-    "resumen": "Un total de 779 personas fueron arrestadas en toda Francia durante la jornada de protestas sociales y manifestaciones, sin que se registraran incidentes graves durante la […]"
-  },
-  {
-    "titulo": "Juan Carlos Ferrero entrenará a Ben Shelton, número cuatro del mundo, en 2027",
-    "medio": "La Vanguardia",
-    "fecha": 1793557577.0,
-    "link": "https://www.lavanguardia.com/deportes/tenis/20261101/11673500/juan-carlos-ferrero-entrenara-ben-shelton-numero-cuatro-mundo-2027.html",
-    "resumen": "El alicantino se une al cuerpo técnico del estadounidense"
-  },
-  {
-    "titulo": "Míriam Nogueras asegura que \"los votos de Junts nunca irán al bloque del PP y Vox\"",
-    "medio": "El Mundo",
-    "fecha": 1793557560.0,
-    "link": "https://www.elmundo.es/cataluna/2026/11/01/6ae774b3e9cf4ad73e8b458c.html",
-    "resumen": "La cabeza de cartel de los 'neoconvergentes' para el 29-N dice que el objetivo electoral es \"que en Madrid no se pueda decidir nada sin Cataluña\" Leer"
-  },
-  {
-    "titulo": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
-    "medio": "El País",
-    "fecha": 1793557168.0,
-    "link": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
-    "resumen": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta"
-  },
-  {
-    "titulo": "Un detenido cerca de Marsella por disparar y herir de gravedad a un bombero durante un incendio",
-    "medio": "El Mundo",
-    "fecha": 1793556905.0,
-    "link": "https://www.elmundo.es/internacional/2026/11/01/6ae77c09e4d4d800188b4594.html",
-    "resumen": "Aún no se conocen las motivaciones del ataque, que ha condenado el ministro del Interior Leer"
-  },
-  {
-    "titulo": "Prisión provisional para el detenido por intentar matar a su expareja en Gran Canaria",
-    "medio": "The Objective",
-    "fecha": 1793556426.0,
-    "link": "https://theobjective.com/espana/tribunales/2026-11-01/prision-provisional-detenido-gran-canaria/",
-    "resumen": "El juzgado de guardia de Violencia sobre la Mujer de Las Palmas de Gran Canaria ha decretado este domingo el ingreso en prisión provisional comunicada y […]"
   },
   {
     "titulo": "Atesoró miles de juguetes antiguos que acabaron en este museo y que es una joya para los amantes del coleccionismo",
@@ -406,46 +553,11 @@
     "resumen": "La privacidad en Windows 11 recibirá una de sus mejoras más importantes de los últimos años. Microsoft comenzó a probar nuevos controles que permitirán gestionar de forma individual el acceso de las aplicaciones de escritorio a la cámara, micrófono y ubicación. Esto es similar a lo que vemos en el móvil y ya existe en […] Seguir leyendo: Windows 11 por fin te dirá qué aplicaciones pueden verte, escucharte y rastrearte"
   },
   {
-    "titulo": "La tripulación de la misión simulada a Marte de la NASA sale del aislamiento tras 378 días",
-    "medio": "La Vanguardia",
-    "fecha": 1793555803.0,
-    "link": "https://www.lavanguardia.com/ciencia/20261101/11673490/tripulacion-mision-simulada-marte-nasa-sale-aislamiento-378-dias-sido-ano-locos.html",
-    "resumen": "Los cuatro integrantes entraron en el hábitat de 158 m², impreso en 3D, en octubre del 2025, y realizaron ⁠tareas como el cultivo de plantas en suelo marciano simulado"
-  },
-  {
-    "titulo": "El PP y Vox se lanzan a la batalla política y judicial contra Óscar Puente",
-    "medio": "HuffPost",
-    "fecha": 1793555784.0,
-    "link": "https://www.huffingtonpost.es/politica/el-silencio-precede-tormenta-politica-precampana-reactiva-poco-ruido-trabajo-estrategico-foco-puesto-sobre-oscar-puente-f202611.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "Una española habla de su experiencia estudiando en Reino Unido tras leer el informe PISA:",
-    "medio": "HuffPost",
-    "fecha": 1793555523.0,
-    "link": "https://www.huffingtonpost.es/virales/una-espanola-habla-experiencia-estudiando-reino-unido-leer-informe-pisa-f202611.html",
-    "resumen": ""
-  },
-  {
-    "titulo": "La acampada de Sol claudica ante la Delegación del Gobierno y se prepara para la última noche con una advertencia: \"Hay gente que se quedará\"",
-    "medio": "El Mundo",
-    "fecha": 1793555424.0,
-    "link": "https://www.elmundo.es/madrid/2026/11/01/6ae77551e4d4d83d0b8b458e.html",
-    "resumen": "Este lunes celebrarán una jornada de despedida con actuaciones musicales, aunque algunos ocupantes, entre ellos una asociación de personas sin hogar, pretenden resistir en la plaza Leer"
-  },
-  {
-    "titulo": "El Madrid vuela sobre el Racing",
-    "medio": "El País",
-    "fecha": 1793555277.0,
-    "link": "https://elpais.com/deportes/futbol/2026-11-01/el-madrid-vuela-sobre-el-racing.html",
-    "resumen": "Con Diomande en racha, el equipo de Mourinho, cada vez más redondo, atrapa una goleada en poco más de media hora ante un rival alegre y vulnerable"
-  },
-  {
-    "titulo": "“Mourinho: ¿La polémica? El público no sabe las reglas y el árbitro ha estado muy bien”",
-    "medio": "La Vanguardia",
-    "fecha": 1793555157.0,
-    "link": "https://www.lavanguardia.com/deportes/real-madrid/20261101/11673488/mourinho-polemica-publico-reglas-arbitro.html",
-    "resumen": "El técnico portugués felicita al colegiado y hace chanza de la afición del Sardinero"
+    "titulo": "Detienen a dos jóvenes por alentar disturbios en nombre de Blocus en Fuengirola",
+    "medio": "eldiario.es",
+    "fecha": 1793555276.0,
+    "link": "https://www.eldiario.es/andalucia/malaga/detienen-jovenes-alentar-disturbios-nombre-blocus-fuengirola_1_13630835.html",
+    "resumen": "En tan solo cuatro días, la Policía Nacional ha arrestado a siete jóvenes por su presunta vinculación con este movimiento juvenil en las ciudades de Valencia, Bilbao, Málaga y FuengirolaEl blindaje y cientos de identificaciones evitan nuevos saqueos en las convocatorias de Blocus Agentes de la Policía Nacional han detenido la pasada noche del sábado en Fuengirola (Málaga) a otros dos individuos, uno de ellos menor de edad, pertenecientes al llamado movimiento 'Blocus'. Esta detención se suma a la de un joven de 20 años que también fue arrestado en la provincia. En un comunicado, el cuerpo traslada que ambos fueron localizados en el momento en el que se preparaban para cometer actos vandálicos en la ciudad. Los dos individuos participaban de modo activo en canales de mensajería instantánea en los que hacían un llamamiento a realizar saqueos y actos de pillaje en comercios de la localidades de Fuengirola y Marbella. En tan solo cuatro días, la Policía Nacional ha arrestado a siete jóvenes por su presunta vinculación con este movimiento juvenil en las ciudades de Valencia, Bilbao, Málaga y Fuengirola. Detención Asimismo, la Policía ha detallado que el detenido mayor de edad era el administrador del grupo que coordinaba los actos en el grupo denominado 'Blocus Fuengirola'. Este indicaba el 'modus operandi' a seguir por el resto de miembros, animándoles a cometer sabotajes y daños. Las investigaciones avanzadas en esta semana permitieron identificarlos para proceder a su detención durante el dispositivo policial de prevención desarrollado la pasada noche. Se les considera presuntos responsables de los delitos de conspiración para la comisión de desórdenes públicos, conspiración para llevar a cabo delitos contra el patrimonio y pertenencia a grupo organizado."
   },
   {
     "titulo": "Hoy en Lidl (por 6,99 euros) este pack de tres higrómetros con los que tener la humedad y temperatura de casa siempre bajo control",
@@ -455,25 +567,11 @@
     "resumen": "Ahora que se acerca el invierno y bajan las temperaturas y regresan las lluvias, en muchas casas sube también la humedad. Sobre todo, en zonas costeras. Algo que, a largo plazo y superados ciertos umbrales, puede derivar en un problema de moho y ácaros si no le ponemos remedio. Y para ello, un requisito vital es saber precisamente el nivel de humedad (y temperatura) que hay en cada habitación en cada momento. TempPro TP50 - 3 Piezas Hoy en Amazon — 26,04 € El precio podría variar. Obtenemos comisión por estos enlaces Para ello, existe una solución sencilla y económica: los higrómetros. Unos pequeños aparatos que miden ambos valores y los muestran de un modo muy simplificado (grados para temperatura y porcentaje para humedad). Y Lidl tiene este pack de tres por sólo 6,99 euros en total (salen a 2,33 euros cada unidad). Ya disponibles en Lidl online. Amazon tiene algunas alternativas muy interesantes, con envío gratuito a casa si somos miembros Prime o si disfrutamos de los 30 días gratuitos para nuevas altas: este pack de tres por 26,04 euros (con más de 7.000 valoraciones), o este de cinco unidades por 11,88 euros. Pack de 5 Mini Termómetros Digitales Higrómetro LCD Hoy en Amazon — 11,88 € El precio podría variar. Obtenemos comisión por estos enlaces Para uso exclusivo en interiores En Xataka Sin apps, sin obras y sin WiFi: Lidl tiene la solución (por menos de 17 euros) para controlar las luces y aparatos de casa A diferencia de las estaciones meteorológicas (que cuentan con sensores que debemos colocar en el exterior de casa), estos higrómetros son para un uso exclusivo interior. Lo ideal es colocarlos sobre alguna mesa, repisa o estantería, en diferentes habitaciones: dormitorios, cocinas, baños o el salón. E incluso la cocina, un lugar donde también se acumula gran cantidad de humedad tras cocinar (por ejemplo, cuando cocemos pasta o arroz). Así, de un vistazo, vemos la cantidad de humedad que hay en cada momento, clave para identificar si se superan esos niveles críticos que a largo plazo (sostenidos durante horas o días) derivan en esos problemas mencionados. Momento en el que deberíamos poner remedio, ya sea ventilando o encendiendo el deshumidificador. En Xataka Action soluciona por 1,49 euros (sólo esta semana) un problema cotidiano en casa con su lámpara LED automática con sensor de movimiento Disponibles en dos colores (negro y blanco), estos higrómetros de Lidl no son los más completos del mercado pero destacan por ser de los más baratos. Funcionan con pilas, memorizan valores mínimos y máximos (muy útil para ver hasta qué punto ha subido la humedad durante la noche, por ejemplo) y se pueden colocar de pie, fijarse en la pared y hasta incluyen un imán. ⚡ EN RESUMEN: pack 3 higrómetros livarno lidl ✅ LO MEJORMuy económicos y prácticosVitales para tener la humedad siempre bajo control ❌ LO PEORSin funciones inteligentesSólo para uso interior, frente a las estaciones meteorológicas que también ofrecen información de fuera 💡 CÓMPRALOS SI... te preocupa tener los niveles de humedad bajos dentro de casa ⛔ NO LOS COMPRES SI... vives en zonas donde la humedad no es problemática Más dispositivos de este tipo que también te pueden interesar NOKLEAD Higrómetro Termómetro Digital Interior Hoy en Amazon — 12,99 € El precio podría variar. Obtenemos comisión por estos enlaces Govee Termómetro Higrómetro Digital Bluetooth Hoy en Amazon — 12,99 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Compradicción, Lidl En Xataka | Electrodomésticos que más consumen en tu casa: lista con los ocho que más electricidad gastan y sus cantidades medias En Xataka | Cuál es el dispositivo más útil de mi casa inteligente: los mejores gadgets conectados de los editores de Xataka - La noticia Hoy en Lidl (por 6,99 euros) este pack de tres higrómetros con los que tener la humedad y temperatura de casa siempre bajo control fue publicada originalmente en Xataka por Carlos Castillo ."
   },
   {
-    "titulo": "El Real Madrid asalta El Sardinero con una goleada al Racing y sigue la estela del Barça",
-    "medio": "The Objective",
-    "fecha": 1793554063.0,
-    "link": "https://theobjective.com/deportes/futbol/laliga/2026-11-01/real-madrid-goleada-racing-sigue-estela-barca/",
-    "resumen": "El Real Madrid ha conseguido este domingo una contundente victoria ante el Racing de Santander (0-3) en los Campos de Sport de El Sardinero, en el […]"
-  },
-  {
     "titulo": "La cruz del Aneto vuelve al pico más alto del Pirineo tras seis meses fuera de la cima",
     "medio": "eldiario.es",
     "fecha": 1793553893.0,
     "link": "https://www.eldiario.es/aragon/sociedad/cruz-aneto-vuelve-pico-alto-pirineo-seis-meses-fuera-cima_1_13630821.html",
     "resumen": "El Ayuntamiento de Benasque ha trasladado este sábado en helicóptero la estructura, reparada tras ser cortada y arrojada montaña abajo el pasado abrilEl pulso por la cruz del Aneto se aviva: el joven montañero francés vuelve a colocar otra en la cima La cruz del Aneto ha regresado este sábado a los 3.404 metros de altitud de la cumbre más alta de los Pirineos. El Ayuntamiento de Benasque ha llevado a cabo su reinstalación con ayuda de un helicóptero, aprovechando las condiciones meteorológicas favorables. La estructura metálica ha sido reparada por el herrero de Villanova Miguel Ángel Plaza. No es la primera vez que la estructura regresa al techo de los Pirineos en los últimos años. La cruz original fue desmontada en septiembre de 2023 debido al deterioro acumulado por el paso del tiempo y las duras condiciones meteorológicas de la alta montaña. El mismo herrero se encargó de su restauración durante casi dos años. Tras permanecer expuesta en el Palacio de los Condes de Ribagorza, en Benasque, volvió a la cumbre en agosto de 2025 en una operación aérea coordinada por la Guardia Civil y el Ayuntamiento. Sin embargo, apenas ocho meses después volvió a desaparecer. El 17 de abril de este año, el Consistorio comunicó que varios guías de montaña habían alertado de que la cruz ya no estaba en su emplazamiento y trasladó el aviso al Grupo de Rescate e Intervención en Montaña (GREIM) de la Guardia Civil. La investigación permitió determinar que había sido cortada por su base con una herramienta mecánica y arrojada ladera abajo, aunque inicialmente no se pudo localizar debido a la nieve y a las dificultades de acceso. El 16 de junio efectivos del GREIM de Benasque y de la Unidad Aérea de Huesca que se dirigían a realizar un rescate y observaron desde el helicóptero una estructura semienterrada en la nieve, unos 200 metros por debajo de la cima. Una vez concluida la intervención, regresaron al lugar y confirmaron que se trataba de la cruz desaparecida. La recuperaron mediante una maniobra aérea y la trasladaron a Benasque, donde quedó a disposición de la Guardia Civil antes de pasar a manos del Ayuntamiento para su reparación. La polémica de las cruces de madera La ausencia de la cruz metálica dio lugar también a una polémica sobre la instalación de símbolos religiosos en la montaña. En mayo, el joven francés Maël Le Lagadec, de 18 años, subió a la cumbre una cruz de madera de nogal de 35 kilos para ocupar provisionalmente el lugar de la original. La iniciativa tuvo repercusión en redes sociales, pero también recibió críticas del Movimiento Hacia un Estado Laico (MHUEL), que pidió al Seprona y al Gobierno de Aragón que investigaran la colocación y, si procedía, sancionaran al montañero. El colectivo consideraba que la instalación de elementos artificiales en un espacio natural protegido como el Parque Natural Posets-Maladeta podía contravenir la normativa ambiental y el principio de no dejar rastro en la montaña. El alcalde de Benasque, Manuel Mora, respaldó entonces la iniciativa del joven y confirmó que la cruz permanecería en la cima de forma provisional. Le Lagadec volvió a subir al Aneto en julio con una segunda cruz de madera, después de que la primera también fuera objeto de actos vandálicos. Esta última ha permanecido en la cumbre hasta este sábado, cuando ha sido retirada para devolver su sitio a la estructura histórica."
-  },
-  {
-    "titulo": "El Madrid sigue siendo otro y golea al Racing en 45 minutos",
-    "medio": "El Mundo",
-    "fecha": 1793553469.0,
-    "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/11/01/6ae757ffe85ece6b1c8b457c.html",
-    "resumen": "Los blancos solventan la visita a Santander con una extraordinaria primera parte. Los locales protestaron el penalti del 0-1 que marcó Mbappé. Bellingham y Diomandé también marcaron. Leer"
   },
   {
     "titulo": "El nido nazi reducido a cenizas: Alemania debate si debe reconstruir el refugio alpino de Hitler",
@@ -511,18 +609,11 @@
     "resumen": "Si ya te cansaste del bloatware y las funciones de IA instaladas a la fuerza en tu televisor, te traemos buenas noticias. Microsoft dejará de ofrecer soporte para usar Copilot desde un Smart TV, por lo que esta función desaparecerá de los dispositivos en cuestión muy pronto. La decisión no impacta en una sola marca […] Seguir leyendo: Hasta nunca, Copilot: la IA de Microsoft desaparecerá pronto de tu televisor"
   },
   {
-    "titulo": "Primer sondeo tras la tragedia: PP y Vox amplían su ventaja y Sánchez sigue cayendo pese a vaciar al Frente Amplio",
+    "titulo": "Primer sondeo tras la tragedia de Urda: PP con UPN sube a 139 escaños y Vox a 64; el PSOE cae a 106 y el Frente Amplio a 5",
     "medio": "El Español",
     "fecha": 1793552398.0,
     "link": "https://www.elespanol.com/espana/politica/20261101/primer-sondeo-tragedia-pp-vox-amplian-ventaja-sanchez-sigue-cayendo-pese-vaciar-frente-amplio/1003744442810_0.html",
-    "resumen": "EL ESPAÑOL publicará esta noche en La Edición de las 10 la nueva distribución de escaños.Más información: El miedo al fin de ciclo cunde en el PSOE y disipa la ilusión de la remontada, con Sánchez atado al futuro de Puente"
-  },
-  {
-    "titulo": "Cuando el 'seguro de los muertos' llama a tu puerta: uno de cada dos españoles tiene cubierto el coste de morirse",
-    "medio": "El Mundo",
-    "fecha": 1793551275.0,
-    "link": "https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html",
-    "resumen": "Cerca de 22 millones de españoles pagan periódicamente su cuota 'de los muertos' para cubrir su entierro. Es un seguro propio de la idiosincrasia de nuestro país, que se hereda de padres a hijos, aunque no suele ser rentable en condiciones normales Leer"
+    "resumen": "Las izquierdas nacionalistas (ERC, Bildu, Compromís, Adelante, BNG, CHA y Més) sumarían, entre todas, 25.El bloque de investidura de Sánchez se quedaría, en su conjunto, a 31 escaños de la mayoría absoluta y a 58 de distancia de la suma PP-Vox.Más información: El miedo al fin de ciclo cunde en el PSOE y disipa la ilusión de la remontada, con Sánchez atado al futuro de Puente"
   },
   {
     "titulo": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
@@ -539,32 +630,11 @@
     "resumen": "Me he pasado los 22 minutos que dura el vídeo Inside China's Mini PC Production: How Tiny Computers Are Made –y en realidad alguno más porque «rebobiné» para ver alguna cosa con más detenimiento– en el que se ve cómo se ensamblan los mini PC de Beelink. Creo que si eres de la rama del ASMR te gustará aún más. Va desde que se estampan los chasis metálicos hasta que los embalan de cuatro en cuatro para salir al mundo. Me gustaría saber más del proceso de producción de la caja para entender mejor qué están haciendo con ellas en los distintos baños por los que pasan tras prensarlas, aunque creo que es un proceso de galvanizado que remata cuando un láser graba el logo de la empresa en la parte superior. Es muy curioso ver como se mezclan procesos altamente automatizados que llevan a cabo máquinas de control numérico para tallarlas con los golpes con un martillo que le da alguien a las cajas para colocarlas en los moldes o con el pulido manual a las que las someten. Pasa lo mismo con las placas principales, en las que un robot con visión artificial coloca y suelda los componentes de montaje superficial mientras que los puertos que van soldados en la placa y los que van en placas que a su vez se conectan a la principal son colocados a mano. Lo de la pasta de limpieza aplicada con cepillos de dientes ya es para nota. Otro detalle muy curioso es que los pesan un par de veces para ver si a esas alturas del proceso llevan dentro todo lo que tienen que llevar, y eso por no hablar de cuando les dan unos golpecitos y los sacuden para ver si hay algo suelto. En fin, que a disfrutar del vídeo con calma. # Enlace permanente"
   },
   {
-    "titulo": "La Guardia Civil completa la recogida de enseres de los 525 viajeros de los trenes accidentados en Urda",
-    "medio": "El Español",
-    "fecha": 1793550415.0,
-    "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261101/guardia-civil-completa-recogida-enseres-viajeros-trenes-accidentados-urda/1003744442856_0.html",
-    "resumen": "Los objetos serán entregados a sus propietarios por las compañías ferroviarias, mientras unos 50 agentes continúan trabajando en la zona del siniestro.Más información: La jueza de Urda exige a Adif una búsqueda \"urgente\" de restos para entregarlos cuanto antes a las familias"
-  },
-  {
-    "titulo": "Mueren cuatro miembros de una familia, dos adultos y dos niños, al salirse de la vía el coche en el que viajaban en Zamora",
-    "medio": "El País",
-    "fecha": 1793549041.0,
-    "link": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
-    "resumen": "La Guardia Civil investiga la causa del accidente que ha implicado a un hombre de 59 años, su hija de 29 y sus dos nietos e hijos de la joven de dos y tres años"
-  },
-  {
     "titulo": "Freeform es app desconocida de Apple. Yo la uso en el iPad para organizarme la cabeza",
     "medio": "Applesfera",
     "fecha": 1793548888.0,
     "link": "https://www.applesfera.com/aplicaciones-ipados/freeform-app-desconocida-apple-yo-uso-ipad-para-organizarme-cabeza",
     "resumen": "Notas la conoce todo el mundo, pero Freeform es de esas apps de Apple que caen en el cajón del olvido. O peor, directamente se desinstala. Es una pena, porque es un lienzo sin límites en el que puedes juntar fotos, dibujos, enlaces y archivos, escribir a mano o con texto y mover todo a tu gusto. Sin preocuparte por el tamaño de una página. Además, lo que haces en el iPad lo tienes después en el iPhone y en el Mac gracias a iCloud. Yo la uso a diario en el iPad con el Apple Pencil. Me ayuda muchísimo a organizar mis semanas. En este artículo quiero ir a lo más sencillo: para qué la utilizo y por qué, si tienes un iPad, creo que merece que le des una oportunidad. Una pizarra de rotulador que cabe en el iPad Freeform es esa pizarra que teníamos de niños, aquella blanca que pintabas con rotulador y que luego se borraba. Freeform sigue el mismo espíritu: puedes escribir y plasmar todas tus ideas sin el límite que te encuentras en Notas. Además, tienes cuadros y formas para montar esquemas, textos e imágenes, de modo que todo se acaba pareciendo a una pizarra. La app incluye también notas adhesivas, herramientas de dibujo con las que ajustar grosor, transparencia o color y la posibilidad de invitar a otras personas a trabajar contigo en tiempo real en una misma pizarra. Es compatible con iPhone y Mac. Pero el iPad es su sitio natural, porque con el Apple Pencil la utilidad de la app se multiplica. Mi agenda de cada día ¿Para qué la utilizo yo? Muchas veces como agenda. Soy bastante simple en todo esto. No uso ni recordatorios ni nada parecido. Necesito apuntar las cosas que tengo que hacer durante el día e ir tachándolas. Un cuaderno o un papel valdrían perfectamente, pero ya que tengo un iPad, lo aprovecho. Lo bueno es que esa misma agenda la puedo revisar en el iPhone y en el Mac. Gracias a iCloud, todas las pizarras se mantienen actualizadas. Para soltar ideas y ordenar la cabeza El otro uso que le doy es para desarrollar ideas o ubicarme cuando no sé muy bien cómo afrontar un proyecto, ya sea personal o profesional. Lo que hago es empezar a soltar palabras e ideas tal como me vienen a la mente, sin orden. Después las voy reordenando hasta que aquello toma forma. Puede sonar a algo muy creativo, pero creo que da igual que tengas o no una mente creativa. Porque volcar en un tablero todo lo que se te pasa por la cabeza ayuda muchísimo. A eso se suma que escribir a mano fija mejor las ideas. Es parte de por qué me gusta tanto trabajar con el Apple Pencil y de por qué Freeform se me ha hecho esencial. Y no lo digo solo yo. Un estudio de la Universidad de Tokio descubrió que quienes tomaban notas a mano mostraban mayor actividad cerebral y recordaban la información con más facilidad y rapidez que quienes usaban dispositivos digitales. Y la Universidad Noruega de Ciencia y Tecnología concluyó que escribir a mano activa una red cerebral más amplia y compleja que hacerlo a máquina, algo que favorece la comprensión, la retención y la conexión entre conceptos. Si tienes un iPad, mi consejo es que le des una oportunidad. A mí me encanta que tenga modo oscuro, algo que se agradece cuando te viene la inspiración o el trabajo por la noche. En el iPhone sirve un poco menos, porque sin Apple Pencil pierde buena parte de su gracia. Aunque con el iPhone Duo y el Apple Pencil la cosa podría cambiar, porque la combinación pinta bien para una app así. Freeform Da vida a tus ideas. Descargar gratis Mientras tanto, si tienes un iPad en casa, ábrela un día con el Apple Pencil en la mano y suelta ahí lo primero que se te pase por la cabeza. Con un poco de suerte, te pasará como a mí, que ahora me toca presentársela a mis amigos y compañeros de trabajo para ver cómo ponen cara de \"¿qué app es esa?\". Imagen de portada | Applesfera En Applesfera | ¿Cómo funciona la app Disposición? La forma que tiene el Apple Watch de medir nuestro cansancio En Applesfera | 12 atajos que puedes instalar ya en tu iPhone (o pedirle a su IA que los genere) - La noticia Freeform es app desconocida de Apple. Yo la uso en el iPad para organizarme la cabeza fue publicada originalmente en Applesfera por Guille Lomener ."
-  },
-  {
-    "titulo": "Sam Altman cree que ejecutar IA local es \"una terrible asignación de un recurso escaso\"",
-    "medio": "Xataka",
-    "fecha": 1793548887.0,
-    "link": "https://www.xataka.com/empresas-y-economia/sam-altman-cree-que-ejecutar-ia-local-terrible-asignacion-recurso-escaso",
-    "resumen": "John Collison es el cofundador de la plataforma Stripe y tiene un podcast llamado Cheeky Pint en el que altos mandos de empresas tecnológicas pasan a hablar de sus cosas. Un ejemplo reciente es el de Susan Li, CFO de Meta. Sam Altman, por su parte, no necesita presentación, y hace unos días pasó por el programa de Collison para hablar de varios temas. Entre ellos, uno que parece quitarle el sueño: que cada usuario pueda montar una IA local. Apunta a un desperdicio de recursos, pero de fondo está el meme de \"que me quedo sin comer\". En corto. En el podcast hablaron de varios temas, pero lo que no ha pasado desapercibido en las redes es el comentario del mandamás de OpenAI sobre la actualidad tecnológica en la que hay usuarios tomando modelos abiertos y ejecutándolos en su propio hardware sin depender de la nube de nadie más. Para Altman, la inferencia local es un terrible desperdicio de un recurso tan escaso como la memoria DRAM: \"La inferencia local es una terrible asignación de recursos escasos. Mucha gente quiere inferencia local y, de algún modo, asume que el problema está resuelto porque tenemos modelos de código abierto que podemos ejecutar en nuestros ordenadores y, así, no necesitar todas esas cosas que permiten los centros de datos.Pero, desde una perspectiva de asignación global, en realidad es bastante terrible que todo el mundo tenga su propio ordenador con una DRAM que se utiliza apenas el 5% del tiempo cuando estamos en un momento en el que éste es un recurso tan limitado.En ese entorno en el que ese suministro crítico es tan restringido, quieres la máxima concentración en la nube. Pero, de algún modo, la idea de la gente es la contraria.\"Long story short: si tienes una IA local, estás desperdiciando recursos que podrían haber ido para alimentar un centro de datos, según Altman. En Xataka Sam Altman: \"No encuentro una palabra lo bastante dramática para describir el problema que se nos viene encima\" Lo de la DRAM. La cifra del 5% es de Altman y por eso estima que es un desperdicio que cada uno tenga algo así en su casa cuando, en un entorno con tan poca oferta, lo que se busca es la máxima utilización que sólo se consigue en un centro de datos. Claro, esa es su perspectiva, ya que en la otra cara de la moneda está esa gente que tiene su \"propia IA\" gracias a que los modelos abiertos ya resuelven el problema que quieren resolver y, además, buscan una mayor privacidad que la que se consigue usando ChatGPT. Desde el punto de vista del CEO de OpenAI, esta afirmación tiene todo el sentido debido a que (y esto es algo que nos afecta a todos y, en especial, a los consumidores) en un entorno en el que Micron, Samsung o SK Hynix, que son los que controlan la producción de DRAM a nivel global no pueden aumentar esa producción al ritmo que los hiperescaladores necesitan, toda la capacidad mundial debería ir en estos momentos a los centros de datos, y no a los equipos caseros. Nadie lo habría adivinado hace cinco años cuando los precios estaban por los suelos, pero la DRAM es un bien crítico y escaso en estos momentos, con precios que, según TrendForce, aumentaron entre un 90% y un 95% en el primer trimestre de 2026... y nada apunta a que vayan a caer a corto plazo. Más bien lo contrario. Inteligencia artificial en tu PC: las mejores herramientas gratis para instalar modelos de IA como DeepSeek, Llama, Mistral, Gemma y más Contexto. Y ese comentario llegó en un punto de la conversación en la que se trataba la escasez de cómputo. Altman sostiene que el mercado no está respondiendo como debería y que los grandes fabricantes de memoria están, pese a los tremendos beneficios que han conseguido estos últimos doce meses, manteniendo una inversión conservadora en relación con lo que la situación requiere. Las tres grandes se han movido para habilitar nuevas plantas de producción, incluso limitando la producción de chips de consumo para que toda la maquinaria se ponga con la memoria HBM necesaria para los centros de datos, pero precisamente este es un segmento en el que no es fácil cambiar las cosas de la noche a la mañana y abrir nuevas plantas de memoria de alto rendimiento. Que se lo digan a China, que lleva meses postulándose como una opción en el segmento de la DRAM, pero que de momento más que para HBM, están posicionados en el de la memoria de consumo debido a esas exigencias en los chips de vanguardia que comentaba hace un momento. Solución. Aparte de que seas generoso y no compres componentes que podría usar OpenAI, Altman plantea como remedio que nuevos actores entren en la cadena de suministro. Por ejemplo, OpenAI está desarrollando chips propios de la mano de Broadcom (Jalapeño) y, aunque seguirían necesitando DRAM, fabricar un chip a su medida permite optimizar todo mucho más. SpaceX está en las mismas, al igual que Amazon, Meta, Microsoft o una Google que tiene algo más de experiencia con sus TPU. En Xataka Satya Nadella, CEO de Microsoft: \"Nuestro objetivo es llevar inteligencia gratis a cada hogar y a cada escritorio\" Nicho. Pese a todo, OpenAI lanzó en agosto de 2025 gpt-oss, sus primeros pesos abiertos desde GPT-2 pensados para poder ejecutarse en local y el propio Altman dijo en enero de ese año que OpenAI había estado equivocado respecto al código abierto. Claro, a comienzos de 2025 no estaba la crisis actual de la DRAM,. Al final, mi duda aquí es si tan grande considera Altman que es el segmento de usuarios que usan una IA local y si tanto daño realmente hacen a la cadena de suministro cuando estamos viendo que la gente no paga por la IA porque lo que se ofrece \"\"gratuitamente\"\" ya cumple las necesidades que se puedan tener. Quien tenga una máquina capaz de correr un modelo local sabe perfectamente por qué lo hace y puede ser por unas necesidades específicas, por poder usarlo sin conexión o, simplemente, porque no se fía de la seguridad de una empresa como OpenAI. Imagen | Cheeky Pint (editada) En Xataka | Nvidia quiere que RTX Spark marque un antes y un después en el PC: después de verlo en acción, no parece una locura - La noticia Sam Altman cree que ejecutar IA local es \"una terrible asignación de un recurso escaso\" fue publicada originalmente en Xataka por Alejandro Alcolea ."
   },
   {
     "titulo": "Esta es la cronología de todo el escándalo de J.K. Rowling y el motivo de la polémica más reciente",
@@ -574,25 +644,11 @@
     "resumen": "J.K. Rowling es, para varias generaciones de lectores, un ícono literario. No en vano, la saga Harry Potter se ha convertido en una de las más leídas de la historia. También, en una franquicia cinematográfica multimillonaria que, además, está cerca de volverse un éxito televisivo. Lo cierto es que la autora reivindicó la fantasía desde […] Seguir leyendo: Esta es la cronología de todo el escándalo de J.K. Rowling y el motivo de la polémica más reciente"
   },
   {
-    "titulo": "Juan Carlos Ferrero entrenará a Ben Shelton",
-    "medio": "El País",
-    "fecha": 1793548738.0,
-    "link": "https://elpais.com/deportes/tenis/2026-11-01/juan-carlos-ferrero-entrenara-a-ben-shelton.html",
-    "resumen": "El diario ‘The Times’ adelanta que el técnico español dirigirá en 2027 al estadounidense, cuarto del mundo y verdugo de Alcaraz en el US Open"
-  },
-  {
     "titulo": "Cuatro muertos, dos adultos y dos menores, en un accidente en Malva, Zamora",
     "medio": "eldiario.es",
     "fecha": 1793547832.0,
     "link": "https://www.eldiario.es/castilla-y-leon/cuatro-muertos-adultos-menores-salida-via-malva-zamora_1_13630758.html",
     "resumen": "El turismo se ha salido de la vía y ha colisionado por causas que se desconocenUn camionero detenido tras un accidente mortal con un muerto y ocho heridos en la A-62 a su paso por Tordesillas Cuatro personas -dos adultos y dos menores- han muerto este domingo, sobre las 13:45 horas, al sufrir un accidente de tráfico en una carretera provincial de Zamora, dentro del término municipal de Malva, según ha informado el servicio de Emergencias 112 de Castilla y León. El siniestro se ha producido por una salida de vía en el kilómetro 16 de la ZA-P-2314, hasta donde se han desplazado los servicios sanitarios de Emergencias después de que una persona alertara al 112 de que había tres personas heridas y atrapadas en un vehículo. Posteriormente, los medios sanitarios desplazados al lugar, entre ellos un helicóptero medicalizado, han confirmado el fallecimiento de los cuatro ocupantes del vehículo. El accidente, según han informado a EFE fuentes municipales y de la Guardia Civil, ha tenido lugar en un tramo recto de la carretera y, por causas que aún se desconocen, el turismo ha sufrido una salida de vía y ha colisionado con una tajea de hormigón. Por el momento se desconoce la identidad de las cuatro personas que viajaban en el vehículo aunque vecinos de Malva, localidad de unos 90 habitantes, han indicado a EFE que no era de ninguno de ellos. Tampoco lo han identificado como de vecinos de la localidad de Aspariegos (220 habitantes), ya que el siniestro ha ocurrido en el tramo de vía que comunica ambos pueblos, situadas entre el alfoz de Toro y la comarca de Tierra del Pan de Zamora."
-  },
-  {
-    "titulo": "Carlos Alcaraz conquista el título en Viena y lanza un aviso para el tramo final de la temporada",
-    "medio": "El Mundo",
-    "fecha": 1793546591.0,
-    "link": "https://www.elmundo.es/deportes/tenis/2026/11/01/6ae74db7fdddff026e8b4587.html",
-    "resumen": "Arrolla a De Miñaur en la final (6-1 y 6-4), conquista su segundo título indoor y confirma que llega fresco y en plena forma al Masters 1000 de París, las ATP Finals y la Copa Davis. Leer"
   },
   {
     "titulo": "Adiós a las rutinas de skincare de 10 pasos: así es la rutina minimalista para un efecto buena cara inmediato",
@@ -602,39 +658,11 @@
     "resumen": "Si eres de las que piensa que la cosmética ecológica es poco eficaz, prepárate, porque Mádara Organic Skincare ha venido a desmontar el mito por completo. Directa desde Letonia y con el magnetismo del mar Báltico, esta firma ha revolucionado el universo beauty demostrando que lo natural también puede ser de altísima tecnología, sofisticado y, sobre todo, eficaz. ¿Su secreto? Sus fórmulas a base de plantas nórdicas que, para sobrevivir a los inviernos más extremos, concentran unos niveles de antioxidantes brutales que son auténtico oro líquido para la piel. Las rutinas infinitas de coreanas y las bases de maquillaje efecto máscara pasaron a la historia, por difíciles de seguir las primeras y pastosas las segundas. El trono es del clean look: esa piel ultra luminosa, fresca, jugosa y de aspecto tan saludable que parece que te has levantado así de perfecta por arte de magia. Para conseguir ese efecto \"buena cara\" no se necesita un arsenal de productos que sature el armarito del baño. Solo hacen falta estos cinco best sellers de Mádara para armar la rutina minimalista definitiva y presumir de belleza natural en tiempo récord. ¡Toma nota y vete preparando tu Gua Sha! La rutina \"efecto buena cara\" en 5 pasosPaso 1: Limpieza equilibrante con la Espuma Purificante Espuma purificante Mádara Todo cutis radiante comienza con una piel limpia. Esta limpiadora cremosa y sumamente ligera elimina las impurezas acumuladas y el exceso de sebo de manera suave. Tan suave que incluso se puede utilizar en la zona del contorno de ojos. Gracias al extracto de milenrama nórdica, calma el rostro y evita esa incómoda sensación de tirantez tras el aclarado, dejándolo elástico y listo para los siguientes pasos. El precio de la Espuma Purificante Mádara es de 20,95 euros en la tienda oficial de la marca. <img alt=\"Espuma purificante Mádara \" height=\"1638\" src=\"https://i.blogs.es/c149db/blob/original.jpeg\" width=\"1638\" /> Espuma purificante Mádara PVP en Mádara — 20,95 € El precio podría variar. Obtenemos comisión por estos enlaces Paso 2: Escudo diario con CITY CC Cream SPF15 Mádara Si buscas unificar el tono a diario y proteger tu piel a la vez, este híbrido es tu mejor aliado. Ofrece una cobertura sutil que disimula rojeces y falta de luminosidad mientras crea una barrera contra la contaminación urbana. Al estar enriquecida con ácido hialurónico y filtros 100% minerales, mantiene el rostro profundamente hidratado y protegido del sol sin texturas pesadas. El plus: su textura aterciopelada. Para el día a día, ir a la oficina o hacer recados, la CITY CC Cream es la opción ideal, ya que ofrece hidratación, protección rápida contra la polución urbana y unifica el tono en un solo gesto. ¿Su precio? 32,95 euros. <img alt=\"CITY CC Hyaluronic Anti-Pollution CC Crema Correctora FPS15: Light\" height=\"1638\" src=\"https://i.blogs.es/cac81a/blob/original.jpeg\" width=\"1638\" /> CITY CC Hyaluronic Anti-Pollution CC Crema Correctora FPS15: Light PVP en Mádara — 32,95 € El precio podría variar. Obtenemos comisión por estos enlaces Paso 3: Perfección luminosa con la base Skin Equal FPS20 Mádara Para esos días en los que necesitamos un extra de cobertura o vamos a salir de noche, la base Skin Equal es el paso ideal. Su fórmula es modulable, lo que significa que podemos aplicar una fina capa para un acabado traslúcido o añadir más cantidad donde se necesite. Sus antioxidantes a base de arándano y peonía cuidan de la barrera cutánea, regalándonos ese acabado jugoso (dewy) tan deseado. Reserva esta base para esos días en los que buscas una mayor cobertura, vas a asistir a un evento o tienes una cena especial. Al alternar el producto con la CC Cream según la ocasión, no solo logras el acabado idóneo para cada momento, sino que también consigues que tus productos duren el doble. Cuesta 36,95 euros. <img alt=\"SKIN EQUAL Base de Maquillaje Brillo Suave FPS20: Porcelain\" height=\"1638\" src=\"https://i.blogs.es/302b36/blob/original.jpeg\" width=\"1638\" /> SKIN EQUAL Base de Maquillaje Brillo Suave FPS20: Porcelain PVP en Mádara — 36,95 € El precio podría variar. Obtenemos comisión por estos enlaces Paso 4: Mirada despierta con el Rímel Bold Volume Mádara Ningún look rápido está completo sin abrir la mirada. La máscara de pestañas Deep Matter utiliza pigmentos minerales puros para lograr un color negro azabache de alta intensidad. Su cepillo de precisión alarga y separa las pestañas logrando un efecto abanico natural. Lo mejor es que incluye aceite de ricino orgánico y péptidos, por lo que las nutre y fortalece con cada aplicación. Ahora por 22,95 euros. <img alt=\"DEEP MATTER Rímel Bold Volume\" height=\"1638\" src=\"https://i.blogs.es/34fb18/blob/original.jpeg\" width=\"1638\" /> DEEP MATTER Rímel Bold Volume PVP en Mádara — 22,95 € El precio podría variar. Obtenemos comisión por estos enlaces Paso 5: Labios jugosos con Plum Plum Bálsamo Labial Mádara El toque final para culminar el efecto \"buena cara\". Este bálsamo labial aporta nutrición extrema gracias a la manteca de karité y al aceite de ciruela, rescatando al instante los labios secos. Deja un acabado transparente, elástico y con un sutil volumen natural, acompañado de un aroma irresistible a frutos rojos, vainilla, almendra y mazapán que hace que aplicárselo sea un auténtico placer (y que en esta época se despierten tus deseos navideños). ¿Su precio? 10,95 euros. <img alt=\"CUIDADO LABIAL Plum Plum Bálsamo Labial\" height=\"1638\" src=\"https://i.blogs.es/02bde8/blob/original.jpeg\" width=\"1638\" /> CUIDADO LABIAL Plum Plum Bálsamo Labial PVP en Mádara — 10,95 € El precio podría variar. Obtenemos comisión por estos enlaces Conclusión: ¿Vale la pena invertir en Mádara Cosmetics?Invertir en Mádara Cosmetics significa mucho más que lucir un rostro bonito en el espejo. Elegir fórmulas ecocertificadas y enriquecidas con activos nórdicos significa alimentar la piel con ingredientes reales, libres de tóxicos y respetuosos con el medio ambiente. Para todos los amantes de lo saludable y lo clean, es un total must en su neceser. Esta rutina minimalista de cinco pasos demuestra que es posible lograr un efecto \"buena cara\" impecable cuidando la salud cutánea desde el interior. Dar el salto a la cosmética orgánica avanzada de Mádara es el mejor regalo que podemos hacerle a nuestra piel para mantenerla protegida, equilibrada y radiante a largo plazo. Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @courtneecrews | Mádara cosmetics En Trendencias | Los mejores champús anticaída | ¿Cuál comprar? Consejos y recomendaciones En Xataka| \"Es una cuestión de salud mental\": cada vez más padres están pagando hasta 260 euros la noche a niñeras nocturnas En Motorpasión| Los intermitentes llevan más de 100 años haciendo lo mismo, pero Audi ha encontrado una forma de reinventarlos: los ha estrenado el Q7 - La noticia Adiós a las rutinas de skincare de 10 pasos: así es la rutina minimalista para un efecto buena cara inmediato fue publicada originalmente en Trendencias por Patricia García Varela ."
   },
   {
-    "titulo": "Irán continúa las negociaciones indirectas con EEUU para reabrir el estrecho de Ormuz en dos días",
-    "medio": "Expansión",
-    "fecha": 1793545032.0,
-    "link": "https://www.expansion.com/economia/2026/11/01/iran-continua-negociaciones-indirectas-eeuu-reabrir-estrecho-ormuz-dos-dias.html",
-    "resumen": "Irán informó este domingo de que continúan las conversaciones indirectas con Estados Unidos, con la mediación de Catar, acerca de un plan de dos días para reabrir el estrecho de Ormuz, aunque todavía no se ha alcanzado un resultado concreto tras una semana de intensos esfuerzos diplomáticos para poner fin a la guerra de ocho meses. Leer"
-  },
-  {
-    "titulo": "Renfe refuerza la seguridad en el AVE Madrid-Sevilla con un protocolo que habría impedido el \"suceso no deseado\" de Urda",
-    "medio": "El Español",
-    "fecha": 1793544904.0,
-    "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261101/renfe-refuerza-seguridad-madrid-sevilla-protocolo-impedido-suceso-no-deseado-urda/1003744442806_0.html",
-    "resumen": "Tras 69 muertos en Urda, Renfe limita a 40 km/h la marcha con el LZB caído y exige cantón vacío.El PP denuncia que este cambio llega \"cinco días tarde\" y significa admitir que el protocolo anterior era erróneo.Más información: La jueza instructora de Urda pide a Adif más operarios para localizar \"todos los restos\" y trabajar ininterrumpidamente"
-  },
-  {
-    "titulo": "TVE aplaza el debate electoral de los candidatos por Barcelona del 29-N y Albiol acusa al ente público de ayudar al PSOE: \"No quieren debatir\"",
-    "medio": "El Mundo",
-    "fecha": 1793543879.0,
-    "link": "https://www.elmundo.es/cataluna/2026/11/01/6ae73a0b21efa06e278b4581.html",
-    "resumen": "El cabeza de lista del PP señala a Televisión Española por buscar \"un clima más favorable para el Partido Socialista\" tras el accidente de tren en Urda Leer"
-  },
-  {
     "titulo": "En 2023, unos trabajadores encontraron dos viejos ordenadores entre cajas en una casa de Londres. Eran dos de los tres únicos Q1 conocidos y uno se vendió por 37.179 libras",
     "medio": "Genbeta",
     "fecha": 1793543487.0,
     "link": "https://www.genbeta.com/actualidad/2023-unos-trabajadores-encontraron-dos-viejos-ordenadores-cajas-casa-londres-eran-dos-tres-unicos-q1-conocidos-uno-se-vendio-37-179-libras",
     "resumen": "<img alt=\"En 2023, unos trabajadores encontraron dos viejos ordenadores entre cajas en una casa de Londres. Eran dos de los tres únicos Q1 conocidos y uno se vendió por 37.179 libras \" src=\"https://i.blogs.es/3de888/pc-antiguo-genbeta-4/1024_2000.jpeg\" /> Una historia que parecía destinada a convertirse en una limpieza rutinaria de un trastero terminó convirtiéndose en un descubrimiento histórico para la informática. En 2023, trabajadores de la empresa británica Just Clear encontraron dos ordenadores antiguos que llevaban años olvidados en Londres entre cajas. Sin embargo, lo que no imaginaban es que estaban ante algunos de los primeros microordenadores de sobremesa de la historia. Los dispositivos eran un Q1 de 1972 y un Q1 Lite, dos máquinas de las que apenas se conservan ejemplares conocidos. De hecho, la casa de subastas Heritage Auctions explicó que los equipos encontrados representan dos de los tres únicos Q1 supervivientes de los que se tiene constancia cuando fueron descubiertos. Dos ordenadores que hicieron historia mucho antes de Apple Para ponerlo en perspectiva, el Q1 original se empezó a fabricar en diciembre de 1972, 4 años antes de la aparición del Apple I. Contaba con un microprocesador Intel 8008 de 8 bits y reunía pantalla, teclado e impresora en una misma estructura, una serie de características que lo convirtieron en uno de los primeros ordenadores de sobremesa integrados. Además de por su escasez, el Q1 es importante a nivel tecnológico por lo poco accesible que era. Como eran dispositivos destinados a entornos profesionales, contaban con un precio prohibitivo para la época. A pesar de ello, representaron un avance importante hacia la miniaturización de los ordenadores cuando buena parte de los sistemas informáticos todavía ocupaban espacios enormes. En Genbeta ¿Se ha acabado el espacio de almacenamiento del teléfono? La razón puede estar en otro lugar que no sean las fotos Durante febrero de 2024, varios meses después del descubrimiento, los equipos estuvieron expuestos en la Universidad de Kingston junto a otras máquinas históricas. Tras eso, Heritage Auctions organizó su primera subasta y ambos equipos alcanzaron precios muy interesantes: mientras el Q1 original alcanzó las 37.179 libras (poco más de 44.500 euros), el Q1 Lite se vendió por 8.316 libras (casi 10.000 euros). Este hallazgo permitió recuperar dos piezas fundamentales de aquellos primeros años de la informática personal en los que los fabricantes comenzaban a experimentar con equipos más compactos. Más de medio siglo después de su fabricación, y tras vete a saber cuántos años olvidados entre cajas, se convirtieron en objetos de colección y testimonios tangibles de los orígenes del PC moderno. Foto | Elaboración propia a partir de una fotografía de Heritage Auctions En Genbeta | La metamorfosis de la noche: por qué la Gen Z ya no va (casi) a discotecas - La noticia En 2023, unos trabajadores encontraron dos viejos ordenadores entre cajas en una casa de Londres. Eran dos de los tres únicos Q1 conocidos y uno se vendió por 37.179 libras fue publicada originalmente en Genbeta por Redacción de Genbeta ."
-  },
-  {
-    "titulo": "China investiga por corrupción al expresidente de Sinopec y CNOOC, dos de las mayores petroleras estatales",
-    "medio": "Expansión",
-    "fecha": 1793543369.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/11/01/china-investiga-corrupcion-expresidente-sinopec-cnooc-dos-mayores-petroleras-estatales.html",
-    "resumen": "Las autoridades chinas anunciaron este sábado la apertura de una investigación contra Fu Chengyu, expresidente de los gigantes petroleros estatales Sinopec y la Corporación Nacional de Petróleo Offshore de China (CNOOC), por presuntas \"graves violaciones de la disciplina y la ley\". Leer"
   },
   {
     "titulo": "El PP se une a Vox y anuncia que se personará como acusación particular en la causa judicial del accidente de Urda",
@@ -665,13 +693,6 @@
     "resumen": "El joven de 18 años fue detenido el pasado viernes en Barcelona por su vinculación con el grupo digital El joven de 18 años detenido el pasado viernes en Barcelona por su vinculación con el grupo digital violento Blocus deberá ingresar en prisión con carácter provisional y sin fianza, al ser considerado un “ideólogo” de los disturbios y saqueos registrados el sábado 24 de octubre en la capital catalana. El Tribunal Superior de Justicia de Cataluña (TSJC) ha informado de que el joven ha pasado este domingo a disposición del Juzgado de Instrucción número 14 de Barcelona, en funciones de guardia, que ha decretado su ingreso en prisión. El magistrado considera que existen “indicios de conspiración para cometer desórdenes” además del delito de pertenencia a grupo criminal. El sábado, un juzgado de Instrucción de Torrent (Valencia) decretó el ingreso en prisión provisional y sin fianza de otro de los presuntos cabecillas de Blocus en España. El considerado como “fundador e impulsor” del movimiento que alentó los disturbios fue detenido el viernes en la localidad valenciana de Picanya por la Guardia Civil."
   },
   {
-    "titulo": "Santander abona mañana un dividendo de 12,7 céntimos por acción",
-    "medio": "Expansión",
-    "fecha": 1793541536.0,
-    "link": "https://www.expansion.com/mercados/2026/11/01/santander-abona-manana-dividendo-12-7-centimos-accion.html",
-    "resumen": "Banco Santander abonará este lunes, 2 de noviembre, un dividendo a cuenta en efectivo de 0,127 euros por acción con cargo a los resultados de 2026. Esta retribución supone un desembolso total de aproximadamente 1.850 millones de euros para la entidad y representa un incremento del 10% respecto al importe distribuido el año pasado en este mismo periodo. Leer"
-  },
-  {
     "titulo": "La jueza requiere \"de forma urgente\" la disposición de todos los medios para localizar restos y prohíbe la difusión de imágenes de las víctimas de Urda",
     "medio": "El Independiente",
     "fecha": 1793540290.0,
@@ -684,20 +705,6 @@
     "fecha": 1793539800.0,
     "link": "https://jacobin.com/2026/11/california-anti-communism-nixon-reagan-vietnam",
     "resumen": "Donald Trump likes to brand California’s Democratic establishment as a nest of “far-left communists.” This unhinged rhetoric can still find a ready audience because it resonates with a deep-rooted Californian tradition of lurid, authoritarian red-baiting."
-  },
-  {
-    "titulo": "La OPEP+ decide mantener congelada su oferta de petróleo en diciembre",
-    "medio": "Expansión",
-    "fecha": 1793539789.0,
-    "link": "https://www.expansion.com/empresas/energia/2026/11/01/opep-decide-mantener-congelada-oferta-petroleo-diciembre.html",
-    "resumen": "La alianza OPEP+, liderada por Arabia Saudí y Rusia, decidió este domingo mantener sin cambios el nivel de su oferta de crudo en diciembre, por tercer mes consecutivo. Leer"
-  },
-  {
-    "titulo": "Qué dice el segundo informe sobre el accidente ferroviario de Urda",
-    "medio": "eldiario.es",
-    "fecha": 1793539666.0,
-    "link": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/dice-segundo-informe-accidente-ferroviario-urda_1_13630575.html",
-    "resumen": "El documento repasa la secuencia del accidente, detalla la cadena de fallos tras la avería del sistema LZB y explica la investigación de las comunicaciones, pero con todas las hipótesis abiertasSigue en directo toda la información sobre el accidente de Urda Este domingo, el Ministerio de Transportes ha vuelto a publicar el informe que difundió el pasado 30 de octubre sobre el accidente ferroviario de Urda, tras subsanar la omisión de un párrafo. Se trata de un documento, ya se publicó un primer informe, elaborado por la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes Ferroviarios, Marítimos y de Aviación Civil (AIAT) que recoge el balance provisional de personas fallecidas, que se mantiene en 69, y más de 200 heridos de diversa consideración. Este nuevo informe desarrolla con más detalle la secuencia de fallos operativos y la situación de la investigación, pero mantiene abiertas todas las hipótesis sobre las causas del siniestro. La AITAT ha recopilado información sobre las condiciones operativas deficientes que surgieron tras fallar el sistema LZB, a las 8:31 de la mañana. En estas condiciones, los trenes continuaron operando bajo el sistema de bloqueo de señalización en la vía (BSL). Para gestionar la situación, el Centro de Regulación y Control (CRC) y los operadores de trenes tuvieron que intercambiar información e instrucciones por teléfono. “La cadena de fallos, instrucciones y acciones habría provocado una colisión, y las medidas de mitigación necesarias no habrían funcionado”, según el informe, en el que se matiza que la investigación posterior debe analizar las causas y circunstancias que la provocaron y que condujeron al accidente. Los registradores de datos, bajo custodia de la Guardia Civil Los registradores de datos han quedado bajo custodia de la Guardia Civil, en su calidad de policía judicial competente. Los datos contenidos en estos dispositivos se extraerán en los próximos días, dentro de un procedimiento que lidera el Juzgado de Primera Instancia de Orgaz, en concreto el juzgado número 2, sección de lo Civil e Instrucción que este domingo ha tenido que pedir más medios “con urgencia” para agilizar los trabajos de búsqueda de restos biológicos. El equipo de investigación ha colaborado con la policía judicial y las empresas ferroviarias para recuperar los registradores de datos a bordo de los trenes. En algunos casos, se explica, “el estado del material rodante ha dificultado el acceso a dichos dispositivos”. También deben analizarse “en profundidad” otras cuestiones contando con posibles factores ambientales, organizativos y procedimentales que podrían haber mitigado o agravado cualquier fallo potencial. También se analizarán los fallos de funcionamiento del sistema LZB que dieron lugar a la situación de peligro que desembocó en el accidente. La secuencia del accidente Según el informe el miércoles 28 de octubre, a las 8:53 horas, se produjo una colisión por alcance entre dos trenes en el punto kilométrico 118, en la vía 2 de la línea de alta velocidad Madrid-Sevilla y a la entrada de la estación de Urda (Toledo). Los trenes implicados fueron un Iryo 6076 Madrid-Sevilla (modelo Hitachi ETR1000, unidad 109.015), compuesto por ocho coches y con 147 pasajeros y cinco miembros de la tripulación a bordo y también un tren Renfe AVE 2080 Madrid-Sevilla (modelo Siemens 103.006), también de ocho coches, que transportaba a 379 pasajeros y siete miembros de la tripulación. El tren Iryo se encontraba detenido ante la señal E242 (señal de entrada) de la estación de Urda cuando fue embestido por detrás por el tren AVE. La colisión se produjo a una velocidad estimada de entre 160 y 200 km/horas, aunque este dato deberá confirmarse. No se conocerá hasta que se extraigan los datos del registrador de eventos a bordo. El impacto provocó que el coche delantero del tren AVE (coche número 8) quedara incrustado en el último coche del tren Iryo (coche número uno). Ambos vehículos terminaron “volcados y retorcidos” al pie del terraplén de la vía, según el informe. El resto del tren AVE descarriló por completo: los seis últimos coches (en el sentido de la marcha, numerados del uno al seis) permanecieron sobre la vía, mientras que el coche 7 cayó por el terraplén. Asimismo, el coche número 3 (el tercero empezando por el final, en el sentido de la marcha) fue atravesado por un tramo de carril que se deformó a consecuencia de la colisión. También descarrilaron todos los vagones del tren Iryo a excepción de los dos primeros (el siete y el ocho) y el vagón de cola, el penúltimo y el antepenúltimo cayeron por el terraplén. El informe también habla de daños “considerables” en la infraestructura, que ha llevado a suspender el servicio de la línea y sin previsiones para su reapertura. El suceso está clasificado como “grave” por lo que la AITAT debe iniciar una investigación técnica obligatoria e inmediata, según la Ley 2/2024, de 1 de agosto. Inspecciones en Urda y en el centro de control de Adif El suceso se notificó a la Dirección de Investigación Técnica de Accidentes e Incidentes Ferroviarios a las 9:10 horas del 28 de octubre y fue entonces cuando se movilizó un equipo compuesto por tres investigadores técnicos, que partió de sus oficinas en Madrid alrededor de las 10:20 horas y llegó al lugar del accidente hacia las 12:15 horas. El equipo inspeccionó el punto de la colisión, la infraestructura en dicha ubicación, los vehículos implicados y los daños ocasionados. También tomó fotografías y recabó información inicial de las personas presentes. Posteriormente, el equipo se desplazó al Puesto de Operaciones Local de Urda para inspeccionar y recopilar los registros de eventos del sistema de señalización. “En todo momento, el equipo trabajó en coordinación con los servicios de seguridad y emergencia presentes en el lugar, así como con las empresas ferroviarias implicadas y el administrador de la infraestructura”, añade. Al mismo tiempo, un segundo equipo (integrado por el director de investigación técnica de accidentes ferroviarios y un consejero del sector ferroviario de la AITAT) se desplazó al Centro de Regulación y Control (CRC) de alta velocidad de Adif, ubicado en la estación de Atocha, en Madrid. Allí inspeccionaron la sala de control del controlador de tráfico (RC) responsable del tramo donde ocurrió el accidente, revisaron el registro de llamadas, visualizaron las grabaciones de vídeo y escucharon las grabaciones de las comunicaciones previas a la colisión, recabando información del personal de Adif presente y obteniendo copias de todos los documentos mencionados. En el momento de la redacción del informe las personas clave involucradas aún no han sido entrevistadas, “ya que no se encuentran en condiciones de prestar declaración”. El equipo de tres investigadores desplazado a Urda abandonó el lugar poco después de las 21:00 horas y regresó al día siguiente (jueves 29) alrededor de las 08:00 horas, con el apoyo de dos investigadores adicionales de la AITAT. Durante toda la jornada del jueves, continuaron con la inspección del lugar del siniestro, prestando especial atención al estado de los trenes implicados y a sus sistemas de seguridad. Se considera que la investigación se halla “en una etapa inicial” y por eso todas las hipótesis sobre las posibles causas y factores que pudieron contribuir al suceso permanecen “abiertas”. De hecho el informe final será el que concluya sobre lo ocurrido. Para publicarlo la AITAT tiene plazo de un año."
   },
   {
     "titulo": "Los entrenadores coinciden: \"A partir de los 55, dos o tres sesiones de fuerza a la semana son suficientes para mantener la masa muscular\"",
@@ -714,11 +721,11 @@
     "resumen": "A new poll shows significant support for nationalization of health care, railroads, and artificial intelligence among Democratic voters. Public ownership can be part of a winning pitch for addressing the cost-of-living crisis."
   },
   {
-    "titulo": "PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
-    "medio": "Expansión",
-    "fecha": 1793537326.0,
-    "link": "https://www.expansion.com/economia/2026/11/01/pp-vox-personaran-causa-accidente-urda-exigen-gobierno-asuma-responsabilidades.html",
-    "resumen": "El Partido Popular se personará en la causa judicial por el accidente ferroviario de Urda (Toledo) para que se investiguen los hechos hasta el final y se depuren las responsabilidades que correspondan, según ha anunciado este domingo la vicesecretaria de Regeneración Institucional del PP, Alma Ezcurra, en un vídeo remitido por la formación. Leer"
+    "titulo": "El PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
+    "medio": "El Independiente",
+    "fecha": 1793537315.0,
+    "link": "https://www.elindependiente.com/espana/2026/11/01/el-pp-y-vox-se-personaran-en-la-causa-por-el-accidente-de-urda-y-exigen-al-gobierno-que-asuma-responsabilidades/",
+    "resumen": "El Partido Popular se personará en la causa judicial por el accidente ferroviario de Urda (Toledo) para que se investiguen […]"
   },
   {
     "titulo": "Harold Cruse, the Loneliest Black Radical Intellectual",
@@ -952,13 +959,6 @@
     "resumen": "Si digo que a día de hoy YouTube se ha convertido en un pozo de mierda infecto no descubro la pólvora, obviamente: miniaturas con caretos ridículos por doquier, títulos que son más cebos que algo informativo y TODOS EN MAYÚSCULAS, shorts repelentes y repetitivos (no solo para autopromocionar canales sino copiados entre creadores), el omnipresente slop y, cómo no, el infame algoritmo que parece empeñado en recomendarte vídeos de la más baja estofa en vez de algo realmente personalizado para tus intereses. Por suerte Andrew Karpathy ha creado HackerTube con un poco de vibe coding y la ayuda de Claude Opus 5.5. Es una especie de YouTube alternativo con vídeos recomendados por los usuarios de Hacker News, ese pozo de sabiduría con una comunidad geek especialmente interesada en programación, ciencia y tecnología, pero que tampoco hace asco a otros temas: naturaleza, sociología, medio ambiente o juegos. (Aquí se nos ve el sesgo plumero, claro.) El resultado es una colección de 6.454 vídeos clasificados en unos 150 temas, con una interfaz estilo YouTube bastante familiar pero con menos ruido: cuando haces clic en cualquiera de ellos lo que hay debajo son los vídeos de YouTube originales, con su calidad de imagen, subtítulos y demás. Pero se puede llegar a ellos sin pasar por el infierno. Entrar y ver recomendados vídeos de Richard Feynman, James Burke, Alan Kay o canales dignos como Veritasium, Technology Connections o Numberphile hacen recordar los tiempos en los que YouTube era bueno. Hay muchos más filtros: por tipo, duración, popularidad… incluso encontrar las llamadas «gemas ocultas», los recomendados más recientemente o los clásicos de toda la vida. El corazón de HackerTube son los comentarios publicados en Hacker News entre 2007 y 2026, donde la gente recomendaban honestamente vídeos, unos 39.834 en total. Con esa información Karpathy organizó en tiempo récord (incluso para el vibe coding) todos los resultados por categorías y filtros. Creó la interfaz, configuró el servidor y puso en marcha el servicio. Hackeo listo. HackerTube también tiene una sección For You personalizada, atajos de teclado y la posibilidad de exportar los datos para crear versiones propias. Pero ni siquiera exige registrarse: las preferencias se guardan localmente en el navegador. Otro detalle genial es que sustituye las miniaturas originales, tristemente diseñadas para llamar la atención a cualquier precio, por un fotograma situado aproximadamente a mitad del vídeo; así se puede ver cómo son y qué muestran en realidad. Desde luego será uno de los sitios que comience a visitar a diario, para encontrar aquello que YouTube parece relegar a lo más fondo del abismo del algoritmo, para desgracia de la humanidad. Relacionados: YouTube: vídeos iguales en títulos, duración y miniaturas DeArrow: títulos y miniaturas de YouTube contra el clickbait Los controles de YouTube no logran ajustar las recomendaciones Cinco ideas para mejorar YouTube Los canales de vídeos basura de IA triunfan en España Cinco patrones en los títulos de los youtubers más populares YouTube, trastero digital de vídeos irrelevantes # Enlace permanente"
   },
   {
-    "titulo": "Los expertos en maternidad coinciden: \"El tema de los 'opinólogos' es lo que más daño puede hacer a una madre primeriza. Si no he pedido opinión, por favor, no me la den\"",
-    "medio": "Trendencias",
-    "fecha": 1793480487.0,
-    "link": "https://www.trendencias.com/familia-maternidad-y-ninos/expertos-maternidad-coinciden-tema-opinologos-que-dano-puede-hacer-a-madre-primeriza-no-he-pedido-opinion-favor-no-me-den",
-    "resumen": "Hablar de maternidad es saber que cada una de nosotras, como mujer, es completamente distinta a las demás y esa debe ser la premisa de toda madre. Un tema que estaría bien recordar una y otra vez, especialmente cuando se reciben comentarios sentenciadores por parte de personas a las que queremos (y mucho). Ay, qué fácil es juzgar. A lo largo de la historia, las madres han tenido que lidiar con ello y enfrentarse a críticas hirientes, muchas veces camufladas con mensajes tipo 'te lo digo por tu bien' o 'yo que tú lo haría así'. Mensajes que suelen llegar por parte de la madre, la suegra o la amiga de turno... Como si la maternidad estuviese recogida en una Biblia de verdades absolutas. Se opina de todo y sobre todo. Así es como se sienten muchas mujeres que, tras escuchar ciertos comentarios constantes, se han dado cuenta de lo importante que es ser una misma durante todo este proceso y aprender a poner límites a todas esas opiniones o críticas feroces que tanto duelen (aunque aparentemente estén hechos con toda la buena intención del mundo). Cada maternidad es única y diferente\"Durante la maternidad, la mujer tiende a ser muy vulnerable, se siente desbordada y en consecuencia suele guiarse por referentes que ya han pasado por esa situación\", explica la psicóloga Eva Menéndez. \"Suelen ser personas a quien tenemos en gran estima. El problema viene cuando tomamos al pie de la letra todo lo que nos dicen, olvidando que cada bebé y cada madre tienen circunstancias diferentes. Al igual que no es comparable la época de la vida que a cada una le ha tocado vivir\", añade. Silvia Díaz, periodista especializada en maternidad y crianza en Bebés y Más, nos cuenta que \"a 'ser madre' nadie te tiene que enseñar, sino que vamos aprendiendo con el tiempo, el instinto y la experiencia\". \"No hay dos maternidades iguales, de ahí que lo que pueda funcionar con un niño no tenga por qué funcionar con otro. Por eso, los consejos no pedidos dañan la confianza de las madres, no tienen porqué funcionar con su bebé y, sobre todo y más importante, acallan su instinto\", asegura la experta. Juicios de valor: el peligro de los 'opinólogos'\"El tema de los 'opinólogos', como yo los llamo, es lo que más daño puede hacer a una madre primeriza. Si no he pedido opinión, por favor, no me la den. Porque ya bastante agobiada estoy yo con intentar que este bebé salga a flote, que esté bien alimentado, que esté bien, que no llore y que no grite, como para que encima alguien me venga a dar una opinión que no he pedido\", confiesa Cuca (33), madre de un bebé de siete meses. \"A mi madre se lo expliqué desde el principio y lo entendió. Pero con mi suegra me sigue costando mucho. Hemos llegado a tener problemas porque se mete demasiado en mi vida. Opina sobre todo. Que si le estaba dando mal el pecho, que si el bebé no dormía demasiado, sabía hasta por qué lloraba mi hijo y al parecer yo no. Después de pasarme horas intentando dormirle, ella llegaba y le despertaba porque quería tenerlo en brazos. Podemos llegar a ser muy egoístas sin darnos cuenta. Si no se lo consiento a mi madre, imagínate a ella. Nuestras madres y suegras deben aprender a no invadir, a querer sin chantajes emocionales\", dice Elena (36), con un niño de un año. Todo el mundo va a opinar\"Mi madre me lo avisó. Me dijo que no me preocupase porque todo el mundo iba a opinar y que partiese de esa base. Te hacen sentir que lo estás haciendo todo mal. Y dan ganas de decirles que se callen porque ellas también aprendieron andando. Tienes la sensación de que todo el mundo sabe de todo menos tú\", confiesa Elisa (31), con dos niños pequeños. \"Lo suele hacer la gente con la que más confianza tienes. Yo viví una situación surrealista con las hermanas de mi pareja. Fue una discusión absurda. Lo hacían con buena intención pero yo en el fondo estaba pensando que las quería mandar a paseo. Y me fui con un cabreo tremendo\". Poner límites: un tema complejo y delicadoLa psicóloga Eva Menéndez sostiene que es fundamental rebelarse contra comentarios gratuitos que lo único que hacen es entorpecernos por el camino. Especialmente cuando se es madre primeriza y te sientes súper insegura. \"La opinión, incluso a veces la imposición, puede llegar a generar un estrés en la madre que repercutirá también en el bebé. Si no tomamos cartas en el asunto desde el principio, podría convertirse en una dinámica habitual\", explica. \"Como poner límites es un tema complejo y delicado, especialmente cuando se trata de la propia familia y cuando además eres madre primeriza (creo a partir del segundo hijo las cosas se llevan de otro modo)\", recoge Silvia. La educadora y periodista sostiene que por no herir sentimientos de personas allegadas, hay madres que deciden callarse y aguantar críticas y juicios sobre la crianza de sus propios hijos, y eso hace mella. Apoyarse en la parejaPor eso, desde Bebés y Más nos recomiendan apoyarse en la pareja. \"Hay que expresarle lo que sientes y cómo te gustaría que la familia y amigos comunes se comportaran con respecto a la crianza de vuestro hijo (si quieres que se mantengan al margen, si te duelen ciertos comentarios, si prefieres que no opinen de nada, si te da igual que opinen de otros...). Es decir, hacerle partícipe de las cosas que realmente te desgastan o molestan para no 'quemarte' con batallas que quizá te dan más igual\", asegura Silvia. En este sentido, la pareja debe estar al tanto de todo y echar una mano siempre que pueda dejando las cosas claras a la persona que enjuicia o critica, porque quizá en esos momentos a la madre le pille \"baja de moral\" y no sepa cómo reaccionar. Desahogarse con la tribu que cada una elijaAunque este tipo de comentarios puedan dañar mucho la confianza en una misma y la autoestima, cuando hablamos de crianza, Silvia Díaz advierte: \"Con esto no quiero decir que las madres no necesiten una tribu en la que apoyarse, en la que buscar consuelo y desahogo, y en la que encontrar maravillosos consejos que pueden funcionarle. Pero es fundamental que esa tribu la elija la propia madre, rodeándose de otras madres que tienen su misma visión y postura con la crianza, y sobre todo que sean respetuosas y empáticas con ella y su maternidad\". Pedir ayuda profesionalEn cualquier caso, la especialista en maternidad y crianza sostiene que es fundamental pedir ayuda profesional cuando las cosas te superen o te sientas desbordada realmente por el entorno: \"Porque 'desahogarse' con tu amiga o con quien quieras está bien, pero no te va a ayudar a solucionar el problema, y las críticas y juicios te van a seguir desgastando día tras día\". Fotos | cottonbro studio, Quédate a mi lado, La fuerza del cariño, La habitación, Como la vida misma, Embarazados, Mamma Mia, Big Little Lies En Trendencias | \"Es una cuestión de salud mental\": cada vez más padres están pagando hasta 260 euros la noche a niñeras nocturnas En Xataka | Robert Lustig, neuroendocrinólogo: \"La idea de comer menos y hacer más ejercicio es lo que la industria alimentaria quería que creyeras\" En Xataka | El Plan 18.000: las familias madrileñas que pagaron sus casas hace 30 años y siguen sin ser dueñas del suelo - La noticia Los expertos en maternidad coinciden: \"El tema de los 'opinólogos' es lo que más daño puede hacer a una madre primeriza. Si no he pedido opinión, por favor, no me la den\" fue publicada originalmente en Trendencias por Marta Díaz de Santos ."
-  },
-  {
     "titulo": "El ordenador más arriesgado de la historia de Steve Jobs fue un fracaso comercial. Aun así, salvó a Apple y creó Internet tal como la conocemos",
     "medio": "Applesfera",
     "fecha": 1793466088.0,
@@ -1026,7 +1026,7 @@
     "medio": "Applesfera",
     "fecha": 1793446287.0,
     "link": "https://www.applesfera.com/seleccion/powerbank-refrigeracion-liquida-magsafe-a-precio-minimo-ugreen-tiene-10-000-mah",
-    "resumen": "Si eres de los que sufre para llegar al final del día con batería en el iPhone, una powerbank te puede venir genial para ganar un extra de autonomía. Hay muchos tipos de estas para elegir, aunque es muy difícil encontrar una con lo que tiene esta MagFlow Pro de Ugreen: un sistema de refrigeración líquida. Y además la tenemos rebajada hasta los 94,99 euros. UGREEN MagFlow Pro Power Bank Magnético 10000mAh 25W | USB C 45W Batería Externa MagSafe Portatil Pantalla Digital Compatible con iPhone 18 Pro Max 17 16 15 14 13 12 Hoy en Amazon — 94,99 € El precio podría variar. Obtenemos comisión por estos enlaces Una powerbank con MagSafe y refrigeración líquida Este descuento que tiene actualmente en Amazon deja la powerbank de Ugreen en el que es su nuevo precio mínimo histórico. Se trata de una batería con una capacidad de 10.000 mAh, pero, como ya hemos adelantado más arriba, lo que más destaca de la misma es su sistema de refrigeración líquida. Cuando utilizamos una powerbank, estas desprenden calor y, si este es demasiado elevado, puede ser negativo para la salud de la batería. En Applesfera Los cinco mejores accesorios MagSafe para estrenar con tu iPhone 17e: hay fundas, carteras, cargadores inalámbricos y más El sistema de refrigeración de la MagFlow Pro, llamado CryoPulse, consiste en una microbomba que hace circular un líquido refrigerante. Esto, sumado a otros componentes, hace que el calor se disipe de una forma mucho más eficiente y no se sobrecaliente. Además, podremos ver circular el líquido de forma virtual, lo que le da un toque muy vistoso a esta powerbank. Más allá de esto, cabe destacar también que es compatible con carga inalámbrica Qi2 a 25 W, aunque también viene con un cable USB-C integrado que nos permitirá cargar a 45 W. Y todo ello siendo compatible con MagSafe, así que la podremos adherir a nuestro iPhone. ⚡ EN RESUMEN: oferta de la ugreen maflow pro ✅ LO MEJORRefrigeración líquida: Este sistema hará que la powerbank no coja temperatura demasiado elevadas, lo que es mejor para la salud de la batería.Buena velocidad de carga: Carga rápido, tanto de forma inalámbrica como por cable. ❌ LO PEORSus dimensiones: Pesa 230 gramos y tiene 16,2 milímetros de grosor, lo que hace que sea un poco voluminosa. 💡 CÓMPRALO SI... Buscas una nueva powerbank para tu iPhone que tenga carga inalámbrica, MagSafe y te llama la atención su sistema de refrigeración líquida. ⛔ NO LO COMPRES SI... Prefieres una alternativa que sea ultradelgada o buscas una que tenga mucha más capacidad. En Xataka Action soluciona por 1,49 euros (sólo esta semana) un problema cotidiano en casa con su lámpara LED automática con sensor de movimiento También te puede interesar Xiaomi Ultrathin Magnetic Power Bank 5000mAh 15W Compatible con MagSafe para iPhone Batería Externa Ultrafina y Ligera con Carga inalámbrica, Compatible con iPhone 17/16/15/14/13/12, Gletscher Silber Hoy en Amazon — 49,99 € El precio podría variar. Obtenemos comisión por estos enlaces Baseus Picogo AM41 Power Bank, 10000mAh Qi2 Magsafe Powerbank 15W Wireless, Ultra Slim, PD 27W de Carga Rápida, Bateria Externa Magnética para iPhone 17/16/15/14/13/12, Gris Hoy en Amazon — 39,99 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Ugreen En Applesfera | Los cinco mejores accesorios MagSafe para estrenar con tu iPhone 17e: hay fundas, carteras, cargadores inalámbricos y más En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia Una powerbank con refrigeración líquida y MagSafe a precio mínimo: es de Ugreen y tiene 10.000 mAh fue publicada originalmente en Applesfera por Juan Lorente ."
+    "resumen": "Si eres de los que sufre para llegar al final del día con batería en el iPhone, una powerbank te puede venir genial para ganar un extra de autonomía. Hay muchos tipos de estas para elegir, aunque es muy difícil encontrar una con lo que tiene esta MagFlow Pro de Ugreen: un sistema de refrigeración líquida. Y además la tenemos rebajada hasta los 94,99 euros. UGREEN MagFlow Pro Power Bank Magnético 10000mAh 25W | USB C 45W Batería Externa MagSafe Portatil Pantalla Digital Compatible con iPhone 18 Pro Max 17 16 15 14 13 12 Hoy en Amazon — 105,99 € El precio podría variar. Obtenemos comisión por estos enlaces Una powerbank con MagSafe y refrigeración líquida Este descuento que tiene actualmente en Amazon deja la powerbank de Ugreen en el que es su nuevo precio mínimo histórico. Se trata de una batería con una capacidad de 10.000 mAh, pero, como ya hemos adelantado más arriba, lo que más destaca de la misma es su sistema de refrigeración líquida. Cuando utilizamos una powerbank, estas desprenden calor y, si este es demasiado elevado, puede ser negativo para la salud de la batería. En Applesfera Los cinco mejores accesorios MagSafe para estrenar con tu iPhone 17e: hay fundas, carteras, cargadores inalámbricos y más El sistema de refrigeración de la MagFlow Pro, llamado CryoPulse, consiste en una microbomba que hace circular un líquido refrigerante. Esto, sumado a otros componentes, hace que el calor se disipe de una forma mucho más eficiente y no se sobrecaliente. Además, podremos ver circular el líquido de forma virtual, lo que le da un toque muy vistoso a esta powerbank. Más allá de esto, cabe destacar también que es compatible con carga inalámbrica Qi2 a 25 W, aunque también viene con un cable USB-C integrado que nos permitirá cargar a 45 W. Y todo ello siendo compatible con MagSafe, así que la podremos adherir a nuestro iPhone. ⚡ EN RESUMEN: oferta de la ugreen maflow pro ✅ LO MEJORRefrigeración líquida: Este sistema hará que la powerbank no coja temperatura demasiado elevadas, lo que es mejor para la salud de la batería.Buena velocidad de carga: Carga rápido, tanto de forma inalámbrica como por cable. ❌ LO PEORSus dimensiones: Pesa 230 gramos y tiene 16,2 milímetros de grosor, lo que hace que sea un poco voluminosa. 💡 CÓMPRALO SI... Buscas una nueva powerbank para tu iPhone que tenga carga inalámbrica, MagSafe y te llama la atención su sistema de refrigeración líquida. ⛔ NO LO COMPRES SI... Prefieres una alternativa que sea ultradelgada o buscas una que tenga mucha más capacidad. En Xataka Action soluciona por 1,49 euros (sólo esta semana) un problema cotidiano en casa con su lámpara LED automática con sensor de movimiento También te puede interesar Xiaomi Ultrathin Magnetic Power Bank 5000mAh 15W Compatible con MagSafe para iPhone Batería Externa Ultrafina y Ligera con Carga inalámbrica, Compatible con iPhone 17/16/15/14/13/12, Gletscher Silber Hoy en Amazon — 49,99 € El precio podría variar. Obtenemos comisión por estos enlaces Baseus Picogo AM41 Power Bank, 10000mAh Qi2 Magsafe Powerbank 15W Wireless, Ultra Slim, PD 27W de Carga Rápida, Bateria Externa Magnética para iPhone 17/16/15/14/13/12, Gris Hoy en Amazon — 39,99 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Applesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | Ugreen En Applesfera | Los cinco mejores accesorios MagSafe para estrenar con tu iPhone 17e: hay fundas, carteras, cargadores inalámbricos y más En Applesfera | Mejores accesorios Magsafe para tu iPhone - La noticia Una powerbank con refrigeración líquida y MagSafe a precio mínimo: es de Ugreen y tiene 10.000 mAh fue publicada originalmente en Applesfera por Juan Lorente ."
   },
   {
     "titulo": "Bill Gates (70 años), fundador de Microsoft, advierte sobre la IA: \"Nunca ha existido un arma tan poderosa\" y exige límites obligatorios por seguridad",
