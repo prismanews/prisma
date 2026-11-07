@@ -1,17 +1,311 @@
 [
   {
-    "titulo": "Carlos Alcaraz - Taylor Fritz, el partido de cuartos de final del Masters ATP de París en vivo|Alcaraz se lleva el segundo set e iguala el partido",
+    "titulo": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
     "medio": "El País",
-    "fecha": 1794001305.0,
-    "link": "https://elpais.com/deportes/2026-11-06/carlos-alcaraz-taylor-fritz-el-partido-de-cuartos-de-final-del-masters-atp-de-paris-en-vivo.html",
-    "resumen": "El español busca acceder por primera vez a las semifinales de un torneo que se le ha complicado históricamente"
+    "fecha": 1794012941.0,
+    "link": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
+    "resumen": "Agentes federales han irrumpido en la residencia de ancianos donde vive Thomas Markle después de encontrar material pornográfico con menores en dos trasteros alquilados de Los Ángeles. Markle podría enfrentar 20 años de cárcel"
   },
   {
-    "titulo": "Alcaraz – Fritz en directo online gratis | Cómo va, resultado y dónde ver en streaming los cuartos de final del Masters 1000 de París",
+    "titulo": "La 'invasión' desde Marruecos superó la población de Ceuta: más de 100.000 personas entraron en 24 horas",
+    "medio": "El Mundo",
+    "fecha": 1794010788.0,
+    "link": "https://www.elmundo.es/espana/2026/11/07/6aee1271e9cf4ae17b8b458e.html",
+    "resumen": "La Guardia Civil asegura que volvieron a Marruecos 88.146 inmigrantes, que sumados a los más de 12.000 que continúan en la ciudad en el cálculo más conservador lleva la cifra total al centenar de millar. El Gobierno sólo llegó a hablar de 72.000 Leer"
+  },
+  {
+    "titulo": "El PNV confirma que salvará el 'decreto Maricarmen' pese a que la oferta de alquiler se hunde un 27% en el País Vasco: \"Protege a los que tienen dos viviendas o menos\"",
+    "medio": "El Mundo",
+    "fecha": 1794010787.0,
+    "link": "https://www.elmundo.es/economia/2026/11/07/6aedc605e9cf4aff5d8b4576.html",
+    "resumen": "El grupo nacionalista que gobierna con los socialistas vascos ratifica su dato a favor el día 12 tras los malos datos en su propio territorio: \"Incluye medidas necesarias\" Leer"
+  },
+  {
+    "titulo": "Los ferroviarios piden a la Agencia de Seguridad extender el doble control humano obligatorio a todos los procesos críticos que dependen de una sola persona",
+    "medio": "El Mundo",
+    "fecha": 1794010786.0,
+    "link": "https://www.elmundo.es/economia/2026/11/07/6aee0417e85eceae5a8b456d.html",
+    "resumen": "El sindicato Alferro avisa por carta a la AESF de que las nuevas medidas de control anunciadas por Puente no cubren todos los procedimientos Leer"
+  },
+  {
+    "titulo": "El Gobierno guarda bajo llave 188.000 toneladas de aceite por el excedente: alivio entre los olivareros y temor a que suba el precio de la botella",
+    "medio": "El Mundo",
+    "fecha": 1794010265.0,
+    "link": "https://www.elmundo.es/economia/2026/11/07/6aedff3ce4d4d8c9738b4582.html",
+    "resumen": "Las organizaciones agrarias consideran \"histórica\" la medida del Gobierno y la industria envasadora la recurrirá: \"No es el camino\" Leer"
+  },
+  {
+    "titulo": "Torturas inventadas, tensiones reales: el montaje con el que Rusia quiere boicotear la defensa de Ucrania",
+    "medio": "El Mundo",
+    "fecha": 1794010262.0,
+    "link": "https://www.elmundo.es/internacional/2026/11/07/6aee072ce4d4d87e3b8b45c6.html",
+    "resumen": "Una movilización contra el reclutamiento con agitadores fake en Kiev es utilizada por Moscú para boicotear la defensa de Ucrania Leer"
+  },
+  {
+    "titulo": "El Papa llega al país más laico de Sudamérica con un mensaje contra el aborto y la eutanasia",
+    "medio": "El País",
+    "fecha": 1794010228.0,
+    "link": "https://elpais.com/america/2026-11-07/el-papa-llega-al-pais-mas-laico-de-sudamerica-con-un-mensaje-contra-el-aborto-y-la-eutanasia.html",
+    "resumen": "La visita a Uruguay genera más interés en la clase política que en la ciudadanía. Su postura humanista y la preocupación por la justicia social, la migración y la IA coinciden con valores arraigados en los uruguayos"
+  },
+  {
+    "titulo": "La falta de tratamientos para la menopausia obliga a los hospitales a pagar el triple y a algunas pacientes hasta 20 veces más",
+    "medio": "El Mundo",
+    "fecha": 1794009615.0,
+    "link": "https://www.elmundo.es/salud/2026/11/07/6aee06b521efa0585e8b458d.html",
+    "resumen": "Un mes después de que Cataluña propusiera la formulación magistral para hacer frente a la falta de tratamientos hormonales para la menopausia, la Aemps autoriza ahora a los hospitales españoles a recurrir a los medicamentos extranjeros Leer"
+  },
+  {
+    "titulo": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+    "medio": "El País",
+    "fecha": 1794009414.0,
+    "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+    "resumen": "El Senado aprueba con los votos de todos los legisladores del oficialismo la muerte política del mandatario, alcanzado por un escándalo financiero. El vicepresidente Pedro Alliana es juramentado como nuevo jefe de Estado"
+  },
+  {
+    "titulo": "Chayo Mohedano sobre el divorcio de Rosa Benito y Amador Mohedano: «Mi madre hubiese perdonado las infidelidades de mi padre»",
     "medio": "OK Diario",
-    "fecha": 1794000927.0,
-    "link": "https://okdiario.com/deportes/alcaraz-fritz-directo-online-gratis-horario-donde-ver-tv-streaming-cuartos-final-del-masters-1000-paris-hoy-20716774",
-    "resumen": "Carlos Alcaraz disputa ante Taylor Fritz el partido de cuartos de final del Masters 1.000 de París. El tenista español, tras ganar en Viena, busca llegar a las semifinales del último Masters 1.000 de la temporada y el último gran torneo antes de las ATP Finals (Copa de Maestros). Sigue en vivo, en directo y … Continuar leyendo \"Alcaraz – Fritz en directo online gratis | Cómo va, resultado y dónde ver en streaming los cuartos de final del Masters 1000 de París\""
+    "fecha": 1794009378.0,
+    "link": "https://okdiario.com/cool/television/chayo-mohedano-sobre-divorcio-dde-rosa-benito-amador-mohedano-madre-hubiese-perdonado-infidelidades-padre-20720488",
+    "resumen": "Rosario Mohedano, conocida como Chayo, se ha sentado este viernes 6 de noviembre en ¡De viernes! para abordar algunos de los episodios más difíciles de su vida. La hija de Rosa Benito y Amador Mohedano ha hablado por primera vez del duro trance que vivió tras el intento de suicidio de su madre, de cómo … Continuar leyendo \"Chayo Mohedano sobre el divorcio de Rosa Benito y Amador Mohedano: «Mi madre hubiese perdonado las infidelidades de mi padre»\""
+  },
+  {
+    "titulo": "Pinganillos y otros problemas de España",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11678336/pinganillos-otros-grandes-problemas-espana.html",
+    "resumen": ""
+  },
+  {
+    "titulo": "No es un país para irónicos",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11678137/pais-ironicos.html",
+    "resumen": "Se jubila El Gran Wyoming, con lo que perdemos a un maestro de la sátira"
+  },
+  {
+    "titulo": "La guerra derrotó a Trump",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11677694/guerra-derroto-trump.html",
+    "resumen": "Ha soplado un viento de regeneración moral ante la corrupción y el nepotismo"
+  },
+  {
+    "titulo": "Formentor es nuestro Ostende",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11678127/formentor-nuestro-ostende.html",
+    "resumen": "A los premiados en Formentor les une la ética insobornable de la forma"
+  },
+  {
+    "titulo": "El individuo y el sistema",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11677735/individuo-sistema.html",
+    "resumen": "Lo lógico sería reconocer el error en el control de los trenes y que se minimice el riesgo de este tipo de fallos"
+  },
+  {
+    "titulo": "¿La culpa es del poder?",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11678274/culpa.html",
+    "resumen": "En las tertulias políticas basta con deshumanizar el adversario y la rabia del “¡y tú más!”"
+  },
+  {
+    "titulo": "La derrota del dinero",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11677695/derrota-dinero.html",
+    "resumen": "¿Pueden surgir y prosperar ideas nuevas, radicales, proyectos que no resulten atractivos para ningún millonario?"
+  },
+  {
+    "titulo": "Graznido de pato lejano",
+    "medio": "La Vanguardia",
+    "fecha": 1794007800.0,
+    "link": "https://www.lavanguardia.com/opinion/20261107/11677802/graznido-pato-lejano.html",
+    "resumen": "Sube o baja la escalera y, en un descuido imperdonable, no tiene nada a lo que enchufarse"
+  },
+  {
+    "titulo": "Victoria Luengo protagoniza la portada de un nuevo número de Yo Dona, el domingo 8 de noviembre en tu quiosco con El Mundo",
+    "medio": "El Mundo",
+    "fecha": 1794006420.0,
+    "link": "https://www.elmundo.es/yodona/actualidad/2026/11/07/6aec5ccae4d4d87a3b8b457a.html",
+    "resumen": "Entrevistamos a la actriz Victoria Luengo en el que sin duda ha sido su gran año, y que protagoniza la portada de un número de Yo Dona cargado de actualidad, moda, belleza, firmas y, sobre todo, de mujeres que rompen códigos y reconfiguran la realidad en su día a día. Leer"
+  },
+  {
+    "titulo": "¿Y si el retinol no es para ti? Los dermatólogos explican por qué no funciona en todas las pieles: \"Que sea un excelente activo antiedad no significa que sea el mejor para todas\"",
+    "medio": "El Mundo",
+    "fecha": 1794006418.0,
+    "link": "https://www.elmundo.es/yodona/belleza/2026/11/07/6ae9fe14fc6c836f168b458d.html",
+    "resumen": "El retinol no sólo tiene la fama de ser el activo antiedad más potente, también avalan su eficacia numerosos estudios científicos. Pero aún así, a veces parece no funcionar adecuadamente. ¿Es o no es un activo indicado para todos los tipos de piel? Leer"
+  },
+  {
+    "titulo": "Un inmigrante ilegal fuertemente armado es arrestado junto a la Casa Blanca por tratar de atentar contra Trump",
+    "medio": "OK Diario",
+    "fecha": 1794005959.0,
+    "link": "https://okdiario.com/internacional/hombre-fuertemente-armado-arrestado-junto-casa-blanca-tratar-atentar-contra-trump-20720596",
+    "resumen": "Un inmigrante ilegal procedente de Venezuela ha sido detenido este jueves cerca de la Casa Blanca tras ser descubierto dentro de un vehículo robado portando varias armas de fuego y amenazando con matar al presidente de EEUU, Donald Trump, según ha informado este viernes el Departamento de Seguridad Nacional de EEUU. El citado departamento ha … Continuar leyendo \"Un inmigrante ilegal fuertemente armado es arrestado junto a la Casa Blanca por tratar de atentar contra Trump\""
+  },
+  {
+    "titulo": "La Justicia de Paraguay ordena detener a Santiago Peña tras su destitución",
+    "medio": "The Objective",
+    "fecha": 1794005924.0,
+    "link": "https://theobjective.com/internacional/2026-11-06/justicia-paraguay-detener-santiago-pena-destitucion/",
+    "resumen": "La Fiscalía de Paraguay ordenó este viernes la detención del expresidente Santiago Peña por «lesión de confianza» y solo minutos después de que el Senado lo […]"
+  },
+  {
+    "titulo": "EUCOM activa la alerta por drones en Europa: la amenaza híbrida OTAN entra en las bases de España",
+    "medio": "Moncloa.com",
+    "fecha": 1794005539.0,
+    "link": "https://www.moncloa.com/2026/11/06/amenaza-hibrida-otan-eucom-drones-3463171/",
+    "resumen": "EUCOM activa 'See Something, Do Something' contra la amenaza híbrida de la OTAN: más vigilancia y menos rastro digital en las bases de Europa. La entrada EUCOM activa la alerta por drones en Europa: la amenaza híbrida OTAN entra en las bases de España aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Rassvet, los satélites militares de Rusia que dirigen los drones Shahed sobre Ucrania",
+    "medio": "Moncloa.com",
+    "fecha": 1794005460.0,
+    "link": "https://www.moncloa.com/2026/11/06/rassvet-satelites-rusia-starlink-militar-3463169/",
+    "resumen": "Rusia ya usa su red de satélites Rassvet para dirigir drones sobre Ucrania, según el GUR. Kiev sanciona a 10 empresas y reclama medidas a EE.UU. La entrada Rassvet, los satélites militares de Rusia que dirigen los drones Shahed sobre Ucrania aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Arturo Pérez-Reverte, sobre Pedro Sánchez: «Su desvergüenza política, su cinismo y su ambición lo convierten en un personaje único»",
+    "medio": "OK Diario",
+    "fecha": 1794005455.0,
+    "link": "https://okdiario.com/curiosidades/reflexion-arturo-perez-reverte-sobre-pedro-sanchez-desverguenza-politica-cinismo-ambicion-lo-convierten-personaje-unico-20706874",
+    "resumen": "Pocas voces resultan tan contundentes al hablar de política como la de Arturo Pérez-Reverte. El escritor y académico ha vuelto a ser protagonista en redes sociales por un fragmento de una de sus visitas a El Hormiguero, en la que hizo un demoledor retrato del presidente del Gobierno, Pedro Sánchez: «Su desvergüenza política, su cinismo, … Continuar leyendo \"Arturo Pérez-Reverte, sobre Pedro Sánchez: «Su desvergüenza política, su cinismo y su ambición lo convierten en un personaje único»\""
+  },
+  {
+    "titulo": "Putin confirma para la próxima semana negociaciones Ucrania Rusia-EEUU en Abu Dabi",
+    "medio": "Moncloa.com",
+    "fecha": 1794005449.0,
+    "link": "https://www.moncloa.com/2026/11/06/putin-negociaciones-ucrania-rusia-abu-dabi-3463167/",
+    "resumen": "Putin confirma una ronda trilateral con EE.UU. y Ucrania en Abu Dabi el 10 y 11 de noviembre; Europa queda fuera y España tampoco tiene asiento. La entrada Putin confirma para la próxima semana negociaciones Ucrania Rusia-EEUU en Abu Dabi aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Según la psicología los niños que crecen entre discusiones y cambios de humor desarrollan una mayor conciencia de las emociones de los demás",
+    "medio": "OK Diario",
+    "fecha": 1794005317.0,
+    "link": "https://okdiario.com/curiosidades/confirma-segun-psicologos-profesionales-oficial-ninos-crecen-discusiones-cambios-humor-desarrollan-mayor-conciencia-emociones-demas-personas-20576798",
+    "resumen": "Los niños que crecen en hogares donde las discusiones y los cambios de humor son frecuentes pueden aprender a detectar rápidamente las emociones de quienes les rodean. A veces, basta un cambio en el tono de voz o una expresión facial para que perciban que algo no va bien. Esta capacidad puede parecer una forma … Continuar leyendo \"Según la psicología los niños que crecen entre discusiones y cambios de humor desarrollan una mayor conciencia de las emociones de los demás\""
+  },
+  {
+    "titulo": "Cuatro estudiantes suizos cubren un glaciar de los Alpes con 200 m2 de lana de oveja y en 3 meses se dan cuenta que han ralentizado su deshielo en más de un 50%",
+    "medio": "OK Diario",
+    "fecha": 1794005288.0,
+    "link": "https://okdiario.com/naturaleza/cuatro-estudiantes-cubren-glaciar-alpes-200-m2-lana-oveja-3-meses-descubren-que-han-ralentizado-deshielo-mas-50-20444848",
+    "resumen": "Cuatro estudiantes universitarios impulsaron entre junio y septiembre de 2026 el proyecto «Keep It Wool», que cubrió con lana de oveja parte del glaciar 3000, en Les Diablerets, cantón de Vaud (Suiza), para comprobar si este material natural puede frenar el deshielo tanto como las coberturas sintéticas habituales. El 22 de junio se instalaron dos … Continuar leyendo \"Cuatro estudiantes suizos cubren un glaciar de los Alpes con 200 m2 de lana de oveja y en 3 meses se dan cuenta que han ralentizado su deshielo en más de un 50%\""
+  },
+  {
+    "titulo": "La psicología concluye que los adultos que dan las gracias al conductor del autobús no sólo son educados, en realidad están demostrando gran empatía y consideración por los demás",
+    "medio": "OK Diario",
+    "fecha": 1794005265.0,
+    "link": "https://okdiario.com/curiosidades/psicologia-concluye-fin-razon-adultos-que-dan-gracias-conductor-autobus-no-solo-son-educados-realidad-estan-demostrando-gran-empatia-consideracion-demas-20603876",
+    "resumen": "Dar las gracias al conductor del autobús antes de bajar es una costumbre que muchas personas mantienen incluso cuando tienen prisa o viajan en un vehículo lleno de pasajeros. Aunque pueda parecer una simple norma de cortesía, este pequeño gesto también puede reflejar consideración por los demás y reconocimiento hacia alguien que está trabajando. La … Continuar leyendo \"La psicología concluye que los adultos que dan las gracias al conductor del autobús no sólo son educados, en realidad están demostrando gran empatía y consideración por los demás\""
+  },
+  {
+    "titulo": "Carmen, jubilada con 45 años cotizados: «A pesar de todo mi esfuerzo, me han recortado la pensión injustamente, mes a mes, un 18%»",
+    "medio": "OK Diario",
+    "fecha": 1794005219.0,
+    "link": "https://okdiario.com/sociedad/carmen-jubilada-45-anos-cotizados-pesar-todo-esfuerzo-han-recortado-pension-injustamente-mes-mes-20640136",
+    "resumen": "Trabajar durante más de cuatro décadas no garantiza cobrar el 100% de la pensión cuando la jubilación se produce antes de la edad ordinaria, que oscila entre los 65 y los 67 años en función de cada caso. Carmen Morera, una jubilada que tuvo que abandonar el mercado laboral después de perder su empleo y … Continuar leyendo \"Carmen, jubilada con 45 años cotizados: «A pesar de todo mi esfuerzo, me han recortado la pensión injustamente, mes a mes, un 18%»\""
+  },
+  {
+    "titulo": "Sierra, sargento de las Fuerzas Armadas: «Hice mis siete años como soldado. Ascendí a cabo en 2022 y ese mismo año también aprobé la oposición para sargento»",
+    "medio": "OK Diario",
+    "fecha": 1794005219.0,
+    "link": "https://okdiario.com/sociedad/reflexion-sierra-sargento-fuerzas-armadas-hice-mis-siete-anos-como-soldado-ascendi-cabo-2022-ese-mismo-ano-tambien-aprobe-oposicion-sargento-20666169",
+    "resumen": "Las Fuerzas Armadas españolas, dependientes del Ministerio de Defensa, están formadas por el Ejército de Tierra, la Armada y el Ejército del Aire y del Espacio. Su principal cometido es garantizar la soberanía y la independencia de España, proteger su integridad territorial y defender el orden constitucional. El Rey ejerce el mando supremo, mientras que … Continuar leyendo \"Sierra, sargento de las Fuerzas Armadas: «Hice mis siete años como soldado. Ascendí a cabo en 2022 y ese mismo año también aprobé la oposición para sargento»\""
+  },
+  {
+    "titulo": "Algunos sistemas Linux permiten entrar sin conocer la contraseña: el fallo llevaba una década escondido",
+    "medio": "Xataka",
+    "fecha": 1794004465.0,
+    "link": "https://www.xataka.com/seguridad/algunos-sistemas-linux-permiten-entrar-conocer-contrasena-fallo-llevaba-decada-escondido",
+    "resumen": "Hay decisiones que tomamos para mejorar la seguridad de un sistema y que, sobre el papel, parecen difíciles de cuestionar. Una de ellas consiste en impedir que determinadas cuentas acepten contraseñas, de manera que solo puedan utilizarse otros métodos de autenticación. Es una práctica que tiene sentido en entornos donde el acceso debe estar especialmente controlado. El problema aparece cuando esa restricción, diseñada para impedir una entrada no autorizada, permite lo contrario. Entonces podemos encontrarnos con una situación desconcertante: una cuenta protegida frente al uso de contraseñas que termina aceptando un acceso que debería rechazar. La paradoja tiene ya un nombre: *sshole. Así se ha bautizado una vulnerabilidad, identificada como CVE-2026-123158, que permite entrar a distancia en determinadas cuentas de sistemas Linux sin conocer una contraseña válida. El problema se ha confirmado en configuraciones de Alpine Linux que combinan OpenSSH con musl, una biblioteca básica del sistema, y prescinden de PAM, un mecanismo utilizado para gestionar la autenticación. Otras plataformas podrían verse afectadas si reúnen las mismas condiciones. El investigador Özgün Kültekin, de Wakefield, descubrió el fallo y, el 5 de noviembre, tanto OpenSSH como Alpine publicaron correcciones para impedir ese acceso. Para entender cómo es posible algo así, primero debemos conocer una herramienta muy utilizada para administrar equipos a distancia: SSH. Este protocolo permite conectarse de forma segura a un ordenador a través de la red, por ejemplo, para gestionar un servidor sin estar físicamente delante de él. OpenSSH es una de sus implementaciones y permite identificarse mediante contraseñas o claves criptográficas, que acreditan la identidad del usuario de otra manera. En Linux, el archivo /etc/shadow almacena información utilizada para verificar las contraseñas de las cuentas. Cuando el campo correspondiente contiene un asterisco (*), la autenticación ordinaria por contraseña debería quedar bloqueada, aunque puedan seguir utilizándose otros métodos. El problema de una contraseña que nunca debería funcionarComo explica Kültekin en su investigación, el fallo aparece cuando OpenSSH comprueba una contraseña para una cuenta que no debería aceptarlas. Al no encontrar en ella los datos necesarios, utiliza información de otra cuenta para efectuar la verificación. Si la contraseña introducida tiene entre 257 y 1.024 bytes, la función encargada de procesarla en musl devuelve un asterisco para indicar un error. El problema es que ese mismo símbolo figura en la cuenta protegida: el servidor interpreta ambos valores como coincidentes y permite el acceso. La historia de este problema se remonta bastante más atrás de lo que parece. Según reconstruye el investigador, en 2012 musl modificó la forma de comunicar determinados errores y estableció un límite de longitud al procesar contraseñas para evitar ataques de denegación de servicio. Cuatro años después, OpenSSH introdujo cambios para impedir que alguien pudiera averiguar qué usuarios existían en un sistema midiendo sus tiempos de respuesta. En 2022, Alpine también ajustó la configuración de su cuenta de administrador para permitir el acceso mediante claves SSH. Eran soluciones a problemas diferentes que terminaron interactuando de una forma imprevista. La pregunta inevitable es qué equipos pueden estar afectados. En primer lugar, utilizar Alpine Linux no significa necesariamente ser vulnerable. Como explica la firma de ciberseguridad Check Point, el fallo exige que se cumplan varias condiciones simultáneamente, entre ellas que OpenSSH funcione sin PAM, admita contraseñas y encuentre una cuenta con el asterisco mencionado anteriormente. También debe existir otra cuenta local activa con un hash de contraseña generado mediante SHA-256 o SHA-512. Los sistemas que desactivan la autenticación por contraseña quedan fuera de este escenario, igual que aquellos que utilizan PAM para gestionarla. En Xataka La llegada de las IA con \"automejora recursiva\": qué significa que Astra haya ayudado a modificar otro modelo de IA Las consecuencias pueden ser especialmente graves cuando la cuenta comprometida dispone de permisos elevados. Alpine pone como ejemplo determinadas imágenes oficiales utilizadas en la nube, donde el usuario alpine puede ejecutar comandos de administrador mediante doas sin introducir una contraseña. Aunque estas imágenes son seguras en su primer arranque, pueden volverse vulnerables si posteriormente se configura una cuenta con un hash de contraseña compatible. En ese escenario, un atacante podría llegar a controlar el sistema. Y ya existen indicios de explotación: la firma Previdian asegura haber detectado ocho intentos desde una misma dirección IP y confirmado un acceso con privilegios de administrador en uno de sus servidores señuelo utilizados para detectar ataques. La respuesta al descubrimiento no se ha hecho esperar. OpenSSH publicó el 5 de noviembre la versión 10.6p2 para corregir el fallo, mientras que Alpine distribuyó actualizaciones para distintas ramas de su sistema, incluidas algunas antiguas. Sus responsables advierten de que instalar los parches no basta: también es necesario reiniciar el servicio SSH para que utilice el código corregido. Si todavía no es posible actualizar, recomiendan desactivar la autenticación mediante contraseña y reiniciar también el servicio para aplicar el cambio, comprobando antes que el acceso mediante claves funciona. Imágenes | Lukas En Xataka | Groenlandia se convierte en la pieza clave del internet europeo: Bruselas planea un cable submarino que esquive a EEUU - La noticia Algunos sistemas Linux permiten entrar sin conocer la contraseña: el fallo llevaba una década escondido fue publicada originalmente en Xataka por Javier Marquez ."
+  },
+  {
+    "titulo": "Adif reconoció en 2019 que su sistema fallaba: siete años después, la seguridad ferroviaria sigue sin digitalizar",
+    "medio": "Moncloa.com",
+    "fecha": 1794004300.0,
+    "link": "https://www.moncloa.com/2026/11/06/seguridad-ferroviaria-adif-urda-3463150/",
+    "resumen": "Adif admitió en 2019 que el telefonema era vulnerable al error y destinó 2,9 millones a digitalizarlo. Siete años después, sigue sin desplegarse. La entrada Adif reconoció en 2019 que su sistema fallaba: siete años después, la seguridad ferroviaria sigue sin digitalizar aparece primero en Moncloa."
+  },
+  {
+    "titulo": "El Cuerpo asume el pacto de Estado ferroviario y recibe las 11 propuestas de Adamuz antes del funeral de Urda",
+    "medio": "Moncloa.com",
+    "fecha": 1794004266.0,
+    "link": "https://www.moncloa.com/2026/11/06/cuerpo-pacto-estado-ferroviario-adamuz-3463139/",
+    "resumen": "Cuerpo recibe las once propuestas de las víctimas de Adamuz para un pacto de Estado ferroviario antes del funeral por los 69 muertos de Urda. La entrada El Cuerpo asume el pacto de Estado ferroviario y recibe las 11 propuestas de Adamuz antes del funeral de Urda aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez sitúa la convalidación de sus decretos de vivienda en el Congreso entre el 11-N y la campaña del 29-N",
+    "medio": "Moncloa.com",
+    "fecha": 1794004259.0,
+    "link": "https://www.moncloa.com/2026/11/06/decretos-vivienda-congreso-11n-campana-3463135/",
+    "resumen": "Moncloa fija para el 12-N la convalidación de sus decretos de vivienda, entre la huelga del 11-N y la campaña del 29-N, con el PNV como apoyo cerrado. La entrada Sánchez sitúa la convalidación de sus decretos de vivienda en el Congreso entre el 11-N y la campaña del 29-N aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Sánchez contrapone la dimisión de Puente al PP por Urda: «No asumen responsabilidades»",
+    "medio": "Moncloa.com",
+    "fecha": 1794004239.0,
+    "link": "https://www.moncloa.com/2026/11/06/sanchez-dimision-puente-pp-urda-3463133/",
+    "resumen": "Sánchez contrapone la dimisión de Puente al PP y convierte Urda en argumento de campaña; Génova replica que la responsabilidad exige gestión. La entrada Sánchez contrapone la dimisión de Puente al PP por Urda: «No asumen responsabilidades» aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Ouigo operará con 18 de sus 26 trenes en los servicios mínimos de la huelga general",
+    "medio": "The Objective",
+    "fecha": 1794004197.0,
+    "link": "https://theobjective.com/economia/transporte/2026-11-06/ouigo-operara-18-26-trenes-huelga/",
+    "resumen": "La compañía ferroviaria Ouigo ha informado este viernes a través de una nota de prensa de que 18 de los 26 trenes circularán durante la jornada […]"
+  },
+  {
+    "titulo": "La Fiscalía Europea abre una segunda investigación por fraude de fondos europeos AVE en Madrid-Sevilla",
+    "medio": "Moncloa.com",
+    "fecha": 1794004094.0,
+    "link": "https://www.moncloa.com/2026/11/06/fiscalia-europea-fondos-europeos-ave-3463134/",
+    "resumen": "La Fiscalía Europea registra Adif, la agencia ferroviaria y el Tribunal de Cuentas por el uso de fondos UE en la seguridad del AVE Madrid-Sevilla. La entrada La Fiscalía Europea abre una segunda investigación por fraude de fondos europeos AVE en Madrid-Sevilla aparece primero en Moncloa."
+  },
+  {
+    "titulo": "Un fragmento de cuero de 7.000 años revela el origen prehistórico de las cabras españolas",
+    "medio": "The Objective",
+    "fecha": 1794003954.0,
+    "link": "https://theobjective.com/sociedad/ciencia/2026-11-06/fragmento-cuero-7000-anos-revela-origen-prehistorico-cabras-espanolas/",
+    "resumen": "Reconstruir la historia del origen y comercio del ganado en el sur de Europa ha sido tremendamente complicado por una razón: salvo en entornos extremadamente fríos […]"
+  },
+  {
+    "titulo": "Alcaraz remonta a Fritz para pasar a las semis de París y meter a Rafael Jódar en las Finals",
+    "medio": "The Objective",
+    "fecha": 1794003805.0,
+    "link": "https://theobjective.com/deportes/2026-11-06/alcaraz-remonta-fritz-semis-paris-jodar-finals/",
+    "resumen": "El tenista español Carlos Alcaraz ha accedido este viernes a las semifinales del torneo de París, último Masters 1000 de la temporada y que bajo techo […]"
+  },
+  {
+    "titulo": "Alcaraz pone a París en pie y premia a Jódar, ya maestro",
+    "medio": "El País",
+    "fecha": 1794003242.0,
+    "link": "https://elpais.com/deportes/tenis/2026-11-06/alcaraz-pone-a-paris-en-pie-y-premia-a-jodar-ya-maestro.html",
+    "resumen": "El murciano salva dos bolas de partido ante Fritz (6-7(10), 7-5 y 6-3) y accede a las semifinales. Su triunfo y el de Shelton clasifican al madrileño para la cita de Turín"
+  },
+  {
+    "titulo": "Cómo eliminar el «efecto cebo» de las miniaturas clickbait de YouTube: la extensión Unclickbait muestra la cruda realidad tras los engaños",
+    "medio": "Microsiervos",
+    "fecha": 1794003186.0,
+    "link": "http://www.microsiervos.com/archivo/internet/miniaturas-clickbait-youtube.html",
+    "resumen": "▼▼+ Unclickbait▼▼ Si las miniaturas de arriba parecen vídeos irresistibles y las otras meros vídeos que cualquiera podría grabar con su móvil en el patio de su casa es porque las primeras son una versión diseñada, testeada, algorítmicamente optimizada, hipervitaminada y mineralizada para que la gente haga clic sobre ellas. Tranquilo, no eres tú: es tu cerebro siendo engañado. Por suerte alguien ha creado Unclickbait un antídoto rápido en forma de extensión para Chrome, Firefox y navegadores compatibles (como Brave). Resuelve el problema cambiando las miniaturas de los vídeos de YouTube por otras extraídas de más o menos el punto medio del vídeo real. De este modo lo que se ve es lo que hay. Se puede activar o desactivar haciéndole clic, y listo. Y no hay mucho más que contar, excepto que ojalá funcionara también con los títulos, especialmente los MAYUSCULIZADOS, dado que todos son por lo general tan engañosos y falsos como clickbaitianos. Hubo un tiempo en el que YouTube incluso eliminaba los vídeos por contener «miniaturas engañosas que no muestran la realidad». ¡Ah, qué tiempos! Hoy en día, hay barra libre. Eso por no hablar de que muchas (e incluso se reconoce en los propios vídeos) muestran escenas claramente falsas, normalmente generadas por IA, tan cutres a veces que los protagonistas ni se parecen, junto con títulos que completan el trabajo sucio. Bienvenido, Unclickbait, que tengas larga vida. Relacionados: DeArrow: una extensión que cambia títulos y miniaturas clickbait ¿Por qué los youtubers ponen caras de locos en sus miniaturas? Patrones en los títulos de los youtubers más populares Las caras surrealistas de las miniaturas de los youtubers Por qué los youtubers escriben sus títulos TODO EN MAYÚSCULAS Por qué tantos vídeos de YouTube se parecen en títulos y miniaturas # Enlace permanente"
+  },
+  {
+    "titulo": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
+    "medio": "Hipertextual",
+    "fecha": 1794002940.0,
+    "link": "https://hipertextual.com/software/windows-11-27h2-actualizacion-2027-novedades/",
+    "resumen": "Durante años, la industria tecnológica dio por hecho que el siguiente gran salto de Microsoft sería Windows 12. No obstante, la compañía ha cambiado la trayectoria y decidió enfocarse en mejorar la versión actual del sistema operativo antes de ofrecer una nueva versión. En 2027 el plan seguirá vigente y, según los rumores, Microsoft lanzaría […] Seguir leyendo: Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027"
+  },
+  {
+    "titulo": "Sánchez contrapone el ejemplo de la dimisión de Puente con la forma de actuar del PP en las tragedias",
+    "medio": "HuffPost",
+    "fecha": 1794001109.0,
+    "link": "https://www.huffingtonpost.es/politica/sanchez-contrapone-ejemplo-dimision-puente-forma-actuar-pp-tragedias-f202611.html",
+    "resumen": ""
   },
   {
     "titulo": "La Junta Electoral paraliza las papeletas de UPC hasta que se resuelva si induce a confusión",
@@ -42,27 +336,6 @@
     "resumen": "El ex ministro de Transportes y exsecretario de Organización del PSOE, José Luis Ábalos, ha subrayado este viernes la «evidente coincidencia temporal» entre el último registro […]"
   },
   {
-    "titulo": "La profunda lección de vida de Albert Einstein para los adultos: «La madurez comienza a manifestarse cuando sentimos que nuestra preocupación es mayor por los demás que por nosotros mismos»",
-    "medio": "OK Diario",
-    "fecha": 1793999441.0,
-    "link": "https://okdiario.com/curiosidades/profunda-leccion-vida-albert-einstein-adultos-madurez-comienza-manifestarse-cuando-sentimos-que-nuestra-preocupacion-mayor-demas-que-nosotros-mismos-20570469",
-    "resumen": "Cumplir años no implica necesariamente haber alcanzado la madurez emocional. Según una reflexión atribuida al físico alemán Albert Einstein, el auténtico crecimiento personal llega cuando dejamos de centrarnos únicamente en nuestras propias necesidades y empezamos a preocuparnos por el bienestar de quienes nos rodean. «La madurez comienza a manifestarse cuando sentimos que nuestra preocupación es … Continuar leyendo \"La profunda lección de vida de Albert Einstein para los adultos: «La madurez comienza a manifestarse cuando sentimos que nuestra preocupación es mayor por los demás que por nosotros mismos»\""
-  },
-  {
-    "titulo": "Ya está en vigor: los jóvenes que siguen viviendo con sus padres podrán cobrar el Ingreso Mínimo Vital y está confirmado por la Seguridad Social",
-    "medio": "OK Diario",
-    "fecha": 1793999437.0,
-    "link": "https://okdiario.com/economia/ya-esta-vigor-jovenes-que-siguen-viviendo-sus-padres-podran-cobrar-ingreso-minimo-vital-esta-confirmado-seguridad-social-20471234",
-    "resumen": "Los jóvenes que vivan con sus padres podrán recibir en España el Ingreso Mínimo Vital siempre que cumplan una serie de requisitos que establece la Seguridad Social. Los jóvenes de entre 18 años y 22 años también podrán recibir esta ayuda, que está destinada a las personas que están en una situación de vulnerabilidad económica … Continuar leyendo \"Ya está en vigor: los jóvenes que siguen viviendo con sus padres podrán cobrar el Ingreso Mínimo Vital y está confirmado por la Seguridad Social\""
-  },
-  {
-    "titulo": "Según la psicología, reírse en un funeral puede no significar una falta de respeto o frialdad, sino más bien ser una respuesta corporal involuntaria a la tensión excesiva y al malestar emocional",
-    "medio": "OK Diario",
-    "fecha": 1793999259.0,
-    "link": "https://okdiario.com/curiosidades/segun-psicologia-reirse-funeral-puede-no-significar-falta-respeto-o-frialdad-sino-mas-bien-ser-respuesta-corporal-involuntaria-tension-excesiva-malestar-emocional-20565215",
-    "resumen": "Reírse durante un funeral puede generar incomodidad, vergüenza e incluso críticas por parte de quienes interpretan el gesto como una señal de indiferencia. Sin embargo, la psicología contempla que esta reacción no siempre refleja lo que una persona siente realmente. En determinadas circunstancias, la risa puede surgir de manera involuntaria ante una situación emocionalmente intensa, … Continuar leyendo \"Según la psicología, reírse en un funeral puede no significar una falta de respeto o frialdad, sino más bien ser una respuesta corporal involuntaria a la tensión excesiva y al malestar emocional\""
-  },
-  {
     "titulo": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
     "medio": "El País",
     "fecha": 1793999247.0,
@@ -77,13 +350,6 @@
     "resumen": "Mucho antes de que su Gobierno gastara 6,3 millones de euros de dinero público en un ático de lujo en Chamberí, Isabel Díaz Ayuso creció en un piso de clase media de ese mismo barrio madrileño. La actual presidenta de la Comunidad de Madrid ha hablado en varias ocasiones de sus orígenes y de la educación que recibió en casa, pero también de cómo recuerda aquellos años, cuando buena parte de su tiempo libre transcurría jugando en la calle con otros niños. En una entrevista concedida en 2024, Ayuso describió aquella etapa: \"Yo soy de Madrid, soy de Chamberí. Mi infancia transcurre en un piso de Madrid, de clase media, donde los niños jugábamos en el asfalto y éramos felices también. Fui a un colegio concertado religioso\", explicaba. Una infancia urbana, marcada por la vida de barrio y una educación religiosa, que recuerda con cariño. En su relato, la felicidad de aquellos años no estaba relacionada con tener grandes comodidades. Ayuso habló de una vida familiar en la que los recursos no eran ilimitados, pero en la que encontraba espacio para disfrutar de su independencia. \"Tuve lo justo. Una educación de barrio y veranos en el pueblo, pero nunca dejé de buscar mi independencia\", señalaba. Esos veranos los pasaba en Sotillo de la Adrada, en Ávila, donde vivían sus abuelos maternos y donde pasaba largas horas al aire libre. La educación, sin embargo, no terminaba al salir del colegio. Ayuso también recordó el papel que desempeñaba, en su época, el entorno familiar en la crianza de los niños. \"Antes los niños eran más educados por todos: por tíos, abuelos, vecinos...\", explicaba al recordar esas temporadas que pasaba con sus abuelos. También habló de sus padres y de las diferencias en la relación que mantenía con cada uno de ellos. A su padre lo recordaba como un hombre honrado, aunque de carácter complicado y poco dado a expresar sus sentimientos. En su madre, en cambio, encontraba una mayor complicidad. \"Tenía más confianza para confesar mis sueños, mis aspiraciones, mis caídas\", reconocía. De ella aseguraba haber heredado la templanza y una manera serena de afrontar los problemas. Así, al mirar atrás, la presidenta madrileña presentaba una infancia repartida entre un piso de Chamberí y los veranos en Ávila, entre la educación religiosa del colegio y las enseñanzas que recibía en casa. Una etapa que recuerda como feliz y en la que sitúa buena parte de los valores que, según ella misma explica, la han acompañado durante su vida adulta. Foto de portada | Gtres En Trendencias | Qué leer en 2026: los mejores libros recomendados para todos los gustos En Motorpasión | Juan Carlos Toribio, ex guardia civil de Tráfico: \"Nos preparan para multar al conductor, no para investigar el estado de las carreteras\" En Xataka | Claudia Sheinbaum confirma incremento a la Pensión Bienestar para 2027. Esto recibirán los adultos mayores - La noticia Ayuso, 48 años, sobre su infancia: \"Fue en un piso de clase media y en un colegio concertado religioso. Era feliz\" fue publicada originalmente en Trendencias por María Yuste ."
   },
   {
-    "titulo": "Más de 2 toneladas y 15 años en órbita: Airbus fabricará dos satélites Galileo más para la ESA, con Getafe entre sus cinco plantas",
-    "medio": "OK Diario",
-    "fecha": 1793998834.0,
-    "link": "https://okdiario.com/techy/satelites-galileo-airbus-esa-segunda-generacion-getafe-20685354",
-    "resumen": "La Agencia Espacial Europea (ESA) ha encargado a Airbus Defence and Space dos satélites Galileo de segunda generación más, que se suman a los seis que la compañía fabrica desde 2021. El contrato se firmó el 26 de octubre en Ottobrunn (Alemania) y Airbus lo anunció al día siguiente en una nota de prensa en … Continuar leyendo \"Más de 2 toneladas y 15 años en órbita: Airbus fabricará dos satélites Galileo más para la ESA, con Getafe entre sus cinco plantas\""
-  },
-  {
     "titulo": "El próximo iPhone podría quedarse sin su botón más útil",
     "medio": "Hipertextual",
     "fecha": 1793998800.0,
@@ -91,11 +357,11 @@
     "resumen": "Apple prepararía un importante cambio para sus próximos iPhone, que perderían su botón físico más útil. Según recoge MacRumors, una nueva filtración apunta a que los de Cupertino podrían eliminar el botón de acción de los iPhone de 2027. De acuerdo con el rumor en cuestión, la eliminación del botón de acción del iPhone no […] Seguir leyendo: El próximo iPhone podría quedarse sin su botón más útil"
   },
   {
-    "titulo": "Abascal carga contra Sánchez por \"callarse como un muerto\" ante la invasión de Ceuta y lo acusa de estar \"comprado por Marruecos\"",
-    "medio": "El Mundo",
-    "fecha": 1793998163.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aee24dde4d4d896388b457e.html",
-    "resumen": "El líder de Vox cuestiona las relaciones diplomáticas del Gobierno con el Reino alauí tras polémicas como el control fronterizo establecido con Italia Leer"
+    "titulo": "León XIV asegura que está \"bastante bien\" tras ser operado por cáncer y defiende la sanidad como un derecho \"para todos\"",
+    "medio": "Europa Press",
+    "fecha": 1793998427.0,
+    "link": "https://www.europapress.es/sociedad/noticia-leon-xiv-asegura-bastante-bien-ser-operado-cancer-defiende-sanidad-derecho-todos-20261106215347.html",
+    "resumen": "El Papa León XIV ha afirmado este viernes que se siente \"bastante bien\" tras ser intervenido quirúrgicamente en el hospital Gemelli para la extirpación de un tumor, disipando las dudas sobre su estado de salud antes del comienzo de su gira por Latinoamérica y defendiendo que la sanidad \"debe ser un derecho para todos\"."
   },
   {
     "titulo": "Abascal avisa a Sánchez de que no lo «van a amordazar» ni durante un luto oficial",
@@ -103,34 +369,6 @@
     "fecha": 1793998055.0,
     "link": "https://theobjective.com/espana/politica/2026-11-06/abascal-avisa-sanchez-amordazar-luto/",
     "resumen": "El líder de Vox y candidato a la Presidencia del Gobierno, Santiago Abascal, ha manifestado este viernes, tras las críticas que ha recibido por sus actos […]"
-  },
-  {
-    "titulo": "La Bolsa española cae un 0,6 % arrastrada por el desplome en Wall Street en la jornada anterior",
-    "medio": "The Objective",
-    "fecha": 1793997659.0,
-    "link": "https://theobjective.com/economia/2026-11-06/bolsa-espanola-cae-arrastrada-desplome-wall-street/",
-    "resumen": "La Bolsa española ha cerrado este viernes con una caída del 0,6 %, arrastrada por el desplome de la jornada anterior en Wall Street, donde los […]"
-  },
-  {
-    "titulo": "El ICAM denuncia la desigualdad territorial en la justicia de familia y pide eliminar las trabas de los MASC",
-    "medio": "Moncloa.com",
-    "fecha": 1793997216.0,
-    "link": "https://www.moncloa.com/2026/11/06/icam-justicia-familia-trabas-masc-3462821/",
-    "resumen": "El ICAM reclama tribunales de familia especializados en todo el territorio y suprimir las trabas de los MASC que provocan inadmisiones de demandas. La entrada El ICAM denuncia la desigualdad territorial en la justicia de familia y pide eliminar las trabas de los MASC aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Abascal pide no confiarse el próximo 29-N y llama a la movilización masiva: «Las encuestas son el peor enemigo»",
-    "medio": "OK Diario",
-    "fecha": 1793997087.0,
-    "link": "https://okdiario.com/espana/abascal-pide-no-confiarse-proximo-29-n-llama-movilizacion-masiva-encuestas-son-peor-enemigo-20719566",
-    "resumen": "Santiago Abascal ha pedido este viernes a los españoles que no bajen la guardia de cara a las elecciones generales del próximo 29 de noviembre y ha llamado a mantener la movilización hasta el último momento. «Las encuestas son nuestro peor enemigo», ha advertido el presidente de Vox durante un acto multitudinario en Granada, donde … Continuar leyendo \"Abascal pide no confiarse el próximo 29-N y llama a la movilización masiva: «Las encuestas son el peor enemigo»\""
-  },
-  {
-    "titulo": "Anthropic no alcanzará los 2 billones: el batacazo tech enfría su salida a bolsa",
-    "medio": "Moncloa.com",
-    "fecha": 1793997069.0,
-    "link": "https://www.moncloa.com/2026/11/06/salida-bolsa-anthropic-valoracion-rebajada-3463045/",
-    "resumen": "Anthropic se queda sin el precio soñado: los inversores piden valorarla por debajo de los 1,5 billones y el Nasdaq le pasa factura antes de su OPV. La entrada Anthropic no alcanzará los 2 billones: el batacazo tech enfría su salida a bolsa aparece primero en Moncloa."
   },
   {
     "titulo": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
@@ -147,67 +385,11 @@
     "resumen": "El órgano consultivo frena la ofensiva judicial y reglamentaria de energéticas y tecnológicas al respaldar por unanimidad la competencia estatal, el rango normativo y la tramitación de urgencia"
   },
   {
-    "titulo": "Demandan a McDonald’s por su IA de precios: acusan al algoritmo de facilitar la colusión",
-    "medio": "Moncloa.com",
-    "fecha": 1793997053.0,
-    "link": "https://www.moncloa.com/2026/11/06/mcdonalds-ia-precios-demanda-colusion-3463048/",
-    "resumen": "Un consumidor de Illinois acusa a la IA de precios de McDonald's de facilitar la colusión entre franquiciados. La compañía niega precios dinámicos. La entrada Demandan a McDonald’s por su IA de precios: acusan al algoritmo de facilitar la colusión aparece primero en Moncloa."
-  },
-  {
-    "titulo": "El funeral en la catedral de Toledo por las 69 víctimas del accidente ferroviario de Urda",
-    "medio": "Moncloa.com",
-    "fecha": 1793997008.0,
-    "link": "https://www.moncloa.com/2026/11/06/funeral-victimas-urda-toledo-2-3463040/",
-    "resumen": "La catedral de Toledo acoge el martes 10 de noviembre el funeral por las 69 víctimas del accidente ferroviario de Urda, presidido por el arzobispo. La entrada El funeral en la catedral de Toledo por las 69 víctimas del accidente ferroviario de Urda aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Así es el Circuito de Interlagos del GP de Brasil de F1: dónde está, perfil, cuántos kilómetros y curvas tiene…",
-    "medio": "OK Diario",
-    "fecha": 1793996987.0,
-    "link": "https://okdiario.com/deportes/asi-circuito-interlagos-del-gp-brasil-f1-donde-esta-perfil-cuantos-kilometros-curvas-tiene-20712758",
-    "resumen": "Este domingo 8 de noviembre se celebra el Gran Premio de Brasil de Fórmula 1 que, como suele ser habitual, volverá a disputarse en el mítico Circuito de Interlagos. Kimi Antonelli llega como campeón a esta carrera en la que Fernando Alonso volverá a intentar hacer un milagro con Aston Martin. Consulta en este artículo … Continuar leyendo \"Así es el Circuito de Interlagos del GP de Brasil de F1: dónde está, perfil, cuántos kilómetros y curvas tiene…\""
-  },
-  {
-    "titulo": "El tiroteo sin heridos junto al hospital de Santa Coloma de Gramenet: un encapuchado dispara contra otro coche",
-    "medio": "Moncloa.com",
-    "fecha": 1793996984.0,
-    "link": "https://www.moncloa.com/2026/11/06/tiroteo-hospital-santa-coloma-gramenet-3463043/",
-    "resumen": "Un encapuchado dispara contra otro coche frente al hospital de Santa Coloma de Gramenet. Los Mossos hallan vainas en el suelo y buscan a los implicados. La entrada El tiroteo sin heridos junto al hospital de Santa Coloma de Gramenet: un encapuchado dispara contra otro coche aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Garriga señala a Transportes como «base operativa» de la corrupción del PSOE tras la UCO",
-    "medio": "Moncloa.com",
-    "fecha": 1793996933.0,
-    "link": "https://www.moncloa.com/2026/11/06/garriga-corrupcion-transportes-psoe-3463059/",
-    "resumen": "El secretario general de Vox acusa al Ministerio de Transportes de colocar afines y cobrar comisiones, y reclama responsabilidad judicial para Sánchez. La entrada Garriga señala a Transportes como «base operativa» de la corrupción del PSOE tras la UCO aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Cuponazo de la ONCE: comprobar sorteo del viernes 6 de noviembre",
-    "medio": "El País",
-    "fecha": 1793996913.0,
-    "link": "https://elpais.com/sorteos/2026-11-06/cuponazo-de-la-once-comprobar-sorteo-del-viernes-6-de-noviembre.html",
-    "resumen": "El premio principal es de 6.000.000 euros para aquellos que cuenten con las cinco cifras del número ganador y la serie"
-  },
-  {
     "titulo": "La Guardia Civil estima en 88.146 los migrantes que retornaron tras la entrada a Ceuta",
     "medio": "HuffPost",
     "fecha": 1793996880.0,
     "link": "https://www.huffingtonpost.es/politica/la-guardia-civil-estima-88146-migrantes-retornaron-entrada-ceuta-f202611.html",
     "resumen": ""
-  },
-  {
-    "titulo": "Vox en Aragón suprime la cooperación al desarrollo en los presupuestos: «los impuestos se quedan en Aragón»",
-    "medio": "Moncloa.com",
-    "fecha": 1793996857.0,
-    "link": "https://www.moncloa.com/2026/11/06/vox-aragon-cooperacion-presupuestos-3463061/",
-    "resumen": "El Gobierno PP-Vox de Aragón elimina la cooperación al desarrollo de sus presupuestos y Vox defiende que los impuestos se queden en Aragón. La entrada Vox en Aragón suprime la cooperación al desarrollo en los presupuestos: «los impuestos se quedan en Aragón» aparece primero en Moncloa."
-  },
-  {
-    "titulo": "Grande-Marlaska anuncia en Dakar 500.000 euros para la Marina de Senegal contra la inmigración irregular",
-    "medio": "Moncloa.com",
-    "fecha": 1793996838.0,
-    "link": "https://www.moncloa.com/2026/11/06/marlaska-senegal-500000-euros-inmigracion-3463078/",
-    "resumen": "Marlaska anuncia en Dakar 500.000 euros para la Marina de Senegal destinados a material de navegación y vigilancia contra la inmigración irregular. La entrada Grande-Marlaska anuncia en Dakar 500.000 euros para la Marina de Senegal contra la inmigración irregular aparece primero en Moncloa."
   },
   {
     "titulo": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
@@ -217,67 +399,11 @@
     "resumen": "El mitin de Valencia, más contenido que los anteriores y sin bailes, empieza con un minuto de silencio por las víctimas de Urda. El presidente reivindica “la ejemplaridad” por la dimisión de Puente en un acto que supera las expectativas de afluencia"
   },
   {
-    "titulo": "Emotivo homenaje a Jesús de Miguel en el Sevilla-Alavés",
+    "titulo": "Emotivo homenaje a Jesús de Miguel en el Sevilla-Alavés (0-0)",
     "medio": "El País",
     "fecha": 1793996814.0,
     "link": "https://elpais.com/deportes/futbol/2026-11-06/emotivo-homenaje-a-jesus-de-miguel-en-el-sevilla-alaves.html",
-    "resumen": "El Sánchez Pizjuán abre una jornada en recuerdo del tristemente fallecido delantero del Tenerife"
-  },
-  {
-    "titulo": "Rego sitúa el 29-N ante dos modelos: recortes y autoritarismo frente a derechos y servicios",
-    "medio": "The Objective",
-    "fecha": 1793996291.0,
-    "link": "https://theobjective.com/espana/politica/2026-11-06/rego-modelos-autoritarismo-derechos-servicios/",
-    "resumen": "La ministra de Juventud e Infancia, Sira Rego, ha advertido de que en las próximas elecciones generales del 29 de noviembre convergen «dos modelos de sociedad […]"
-  },
-  {
-    "titulo": "El PSOE convierte a Valencia en el revulsivo de la campaña para confrontar con el PP de la dana tras Urda: \"No somos iguales\"",
-    "medio": "El Mundo",
-    "fecha": 1793996229.0,
-    "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedeebee9cf4a41148b457b.html",
-    "resumen": "La provincia es un territorio clave para los socialistas, que podrían perder el quinto diputado a manos de Compromís Leer"
-  },
-  {
-    "titulo": "Pablo Motos, sobre ‘El Hormiguero’: «Esto va contra mis ingresos, pero el programa no tira bien porque se basa en mi personalidad»",
-    "medio": "OK Diario",
-    "fecha": 1793996136.0,
-    "link": "https://okdiario.com/cool/television/pablo-motos-sobre-hormiguero-esto-va-contra-mis-ingresos-pero-programa-no-tira-bien-porque-basa-personalidad-20712961",
-    "resumen": "Pablo Motos lleva casi dos décadas al frente de El Hormiguero, un programa que se ha convertido en una de las grandes apuestas de entretenimiento de Antena 3 y en una de las marcas más reconocibles de la televisión. Sin embargo, detrás de su éxito, el presentador tiene muy clara una cuestión: buena parte de … Continuar leyendo \"Pablo Motos, sobre ‘El Hormiguero’: «Esto va contra mis ingresos, pero el programa no tira bien porque se basa en mi personalidad»\""
-  },
-  {
-    "titulo": "La visita del Papa León XIV en Uruguay, en vivo | El Papa: “Estoy orgulloso de ser estadounidense y haber ejercido mi derecho al voto”",
-    "medio": "El País",
-    "fecha": 1793996031.0,
-    "link": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
-    "resumen": "El Pontífice inicia su gira sudamericana por Uruguay, Argentina y Perú, que se extenderá hasta el 17 de noviembre"
-  },
-  {
-    "titulo": "Tellado carga contra Sánchez: «Recibió un país que funcionaba y va a dejarlo ensangrentado»",
-    "medio": "The Objective",
-    "fecha": 1793995870.0,
-    "link": "https://theobjective.com/espana/politica/2026-11-06/tellado-carga-contra-sanchez-recibio-pais-funcionaba-va-dejarlo-ensangrentado/",
-    "resumen": "El secretario general del PP, Miguel Tellado, ha criticado este viernes al Gobierno del presidente Pedro Sánchez (PSOE), al afirmar que «recibió un país que funcionaba […]"
-  },
-  {
-    "titulo": "Trump asegura que Israel «no existiría» si no hubiera impedido a Irán tener un arma nuclear",
-    "medio": "The Objective",
-    "fecha": 1793995666.0,
-    "link": "https://theobjective.com/internacional/2026-11-06/trump-israel-no-existiria-impedido-iran-arma-nuclear/",
-    "resumen": "El presidente de Estados Unidos, Donald Trump, dijo este viernes que Israel y el conjunto de Oriente Medio «no existirían» si él «no hubiera impedido» a […]"
-  },
-  {
-    "titulo": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
-    "medio": "El País",
-    "fecha": 1793995489.0,
-    "link": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html",
-    "resumen": "El nombramiento del hasta ahora asesor de política interna apunta a un giro más duro de la Administración tras la derrota de los republicanos en las elecciones de mitad de mandato"
-  },
-  {
-    "titulo": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
-    "medio": "La Vanguardia",
-    "fecha": 1793995375.0,
-    "link": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
-    "resumen": "El presidente reanuda su precampaña en València para contrastar la gestión de la dana de Mazón con la “responsabilidad política” del exministro de Transportes al renunciar tras los siniestros ferroviarios"
+    "resumen": "El Sánchez Pizjuán abre una jornada en recuerdo del tristemente fallecido delantero del Tenerife; el choque acaba con empate sin goles en un gris partido, donde Sivera le detuvo un penalti a Vargas"
   },
   {
     "titulo": "Siete cortes de pelo rizado que favorecen especialmente a las mujeres de rostro redondo",
@@ -315,13 +441,6 @@
     "resumen": "La GPU es uno de los componentes que casi nunca recibe atención dentro de las herramientas para medir el rendimiento en Windows. Fuera de la temperatura o la carga de trabajo, los usuarios no saben con exactitud qué servicio o aplicación está consumiendo recursos, lo que sí ocurre con la memoria o el procesador. Un […] Seguir leyendo: Esta herramienta gratuita te muestra por fin qué está consumiendo la GPU de tu PC"
   },
   {
-    "titulo": "Tesla dejará de producir el Cybertruck en 2027",
-    "medio": "El Mundo",
-    "fecha": 1793994441.0,
-    "link": "https://www.elmundo.es/motor/2026/11/06/6aee2eb9e9cf4ae17b8b4597.html",
-    "resumen": "La producción del pickup eléctrico se ralentizará a mediados de 2027 para dar cabida a una mayor producción de sus robotaxis Leer"
-  },
-  {
     "titulo": "Primera decisión de Trump tras la debacle electoral: destituye a su jefa de gabinete Susie Wiles",
     "medio": "HuffPost",
     "fecha": 1793994216.0,
@@ -350,18 +469,18 @@
     "resumen": ""
   },
   {
-    "titulo": "Donald Trump sustituye a su jefa de gabinete por el más radical de sus asesores tras la debacle de las elecciones",
-    "medio": "El Mundo",
-    "fecha": 1793992861.0,
-    "link": "https://www.elmundo.es/internacional/2026/11/06/6aee2669e4d4d8c0098b4575.html",
-    "resumen": "Stephen Miller, el cerebro de la política migratoria y las deportaciones masivas, reemplaza a Susie Wiles, considerada el contrapeso sensato en la Casa Blanca Leer"
-  },
-  {
     "titulo": "Trump elige como nuevo jefe de gabinete a Stephen Miller, el arquitecto de su campaña de deportaciones masivas",
     "medio": "El Español",
     "fecha": 1793992763.0,
     "link": "https://www.elespanol.com/mundo/america/eeuu/20261106/trump-elige-nuevo-jefe-gabinete-stephen-miller-arquitecto-campana-deportaciones-masivas/1003744449735_0.html",
     "resumen": "Miller, ideólogo de línea dura, tomará el relevo de la veterana Susie Wiles, diagnosticada con cáncer en marzo.Más información: Trump anuncia que Susie Wiles, su jefa de Gabinete, tiene cáncer de mama: \"Seguirá trabajando\""
+  },
+  {
+    "titulo": "Trump destituye a su jefa de gabinete Susie Wiles y nombra a Stephen Miller días después de la debacle electoral",
+    "medio": "Europa Press",
+    "fecha": 1793992678.0,
+    "link": "https://www.europapress.es/internacional/noticia-trump-destituye-jefa-gabinete-susie-wiles-dias-despues-debacle-electoral-republicanos-20261106201758.html",
+    "resumen": "El presidente de Estados Unidos, Donald Trump, ha destituido a su jefa de gabinete, Susie Wiles, que será reemplazada este próximo lunes por uno de los principales ideólogos ultranacionalista del movimiento MAGA, Stephen Miller; una medida adoptada días después de la debacle de los republicanos en las elecciones legislativas de mitad de mandato y que ha enfurecido al nuevo liderazgo demócrata de la cámara por el giro todavía más extremista que ha adoptado el mandatario."
   },
   {
     "titulo": "Durante años Ueno Bank pareció conquistar las finanzas de Paraguay. Ahora ha reavivado el fantasma del \"corralito\"",
@@ -378,32 +497,11 @@
     "resumen": "El PP pide extender la condición de investigados a Isaías Taboas, expresidente de Renfe, y Óscar Gómez, exdirector gerente de Logirail.Más información: El juez investiga a Andrea, pareja de Ábalos, por blanqueo de comisiones de contratos de Adif con la compra de su piso"
   },
   {
-    "titulo": "Trump nombra al extremista Stephen Miller como nuevo jefe de Gabinete'",
-    "medio": "La Vanguardia",
-    "fecha": 1793992104.0,
-    "link": "https://www.lavanguardia.com/internacional/20261106/11678324/trump-nombra-extremista-stephen-miller-nuevo-jefe-gabinete-primera-rotacion-midterms.html",
-    "resumen": "El presidente degrada a Susie Wiles, que había ocupado el cargo desde su primer día en la Casa Blanca, e indica con este cambio que no pretende moderarse en el final de su mandato"
-  },
-  {
-    "titulo": "¿Ha crecido el gasto en mantenimiento de la alta velocidad tanto como dice el Gobierno?",
-    "medio": "La Vanguardia",
-    "fecha": 1793992093.0,
-    "link": "https://www.lavanguardia.com/vida/verificacion/20261106/11678319/crecido-gasto-mantenimiento-alta-velocidad-tanto-dice-gobierno.html",
-    "resumen": "Puente defiende un aumento del 70% desde la llegada de Sánchez a la Moncloa, pero la inflación y el gran incremento de pasajeros matizan el dato"
-  },
-  {
     "titulo": "Jesús Owono se plantea dejar el fútbol tras el fallecimiento de Jesús de Miguel: destrozado, recibe ayuda psicológica",
     "medio": "El Español",
     "fecha": 1793992015.0,
     "link": "https://www.elespanol.com/deportes/futbol/20261106/jesus-owono-plantea-dejar-futbol-fallecimiento-miguel-destrozado-recibe-ayuda-psicologica/1003744449710_0.html",
     "resumen": "El club le ha puesto especialistas que trabajan con él para que pueda gestionar el impacto emocional de la tragedia y comprender que se trató de un accidente.Más información: El fútbol español despide a Jesús de Miguel en Navahermosa: \"El mayor cariño que podemos darle es una jornada de luto\""
-  },
-  {
-    "titulo": "Peña no acude al Senado de Paraguay y delega la defensa de su 'impeachment' en sus abogados",
-    "medio": "La Vanguardia",
-    "fecha": 1793991729.0,
-    "link": "https://www.lavanguardia.com/internacional/20261106/11678312/pena-acude-senado-paraguay-delega-defensa-impeachment-abogados.html",
-    "resumen": "La renuncia no fue aceptada por el Congreso, que tiene la potestad de rechazarla, lo que permite avanzar el proceso de destitución dentro de la Constitución"
   },
   {
     "titulo": "El aire acondicionado puede calentar mejor y más barato en invierno de lo que piensas: pero solo si lo ajustas de una manera",
@@ -431,14 +529,7 @@
     "medio": "eldiario.es",
     "fecha": 1793991574.0,
     "link": "https://www.eldiario.es/internacional/trump-fulmina-jefa-gabinete-debacle-midterms-asciende-ultra-stephen-miller_1_13645625.html",
-    "resumen": "El presidente de EEUU da los primeros pasos tras la debacle electoral y sitúa como mano derecha al ideólogo de la represión migratoria y de la línea política más dura en la Casa Blanca Primeras consecuencias. El presidente de EEUU, Donald Trump, ha anunciado este viernes el cese de su jefa de Gabinete, Susie Wiles. Y, en el mismo post de Truth Social, el ascenso del ultra Stepehen Miller, en un mensaje de refuerzo del ala más dura de la Casa Blanca. “Me complace anunciar que Stephen Miller, actual subjefe de gabinete de la Administración Trump y uno de mis asesores de mayor confianza, asumirá el cargo de jefe de gabinete a partir del lunes 9 de noviembre de 2026”, ha anunciado el presidente de EEUU en sus redes sociales: “Susie Wiles, que ha realizado un trabajo excepcional, pasará a formar parte de la Operación Política de Trump. Quiero darle las gracias por su labor como jefa de gabinete: ¡ha hecho un trabajo magnífico!” Susie Wiles ha respondido en X: “Hoy es mi último día como jefe de gabinete de la Casa Blanca. Servir al presidente Trump en la Casa Blanca ha sido el mayor honor de mi vida. Me siento muy orgullosa de haber formado parte de lo que hemos logrado juntos, desde proteger nuestra frontera y reducir los impuestos hasta fortalecer nuestra economía y poner a EEUU primero. Por encima de todo, estoy agradecida a las personas extraordinarias con las que he tenido el privilegio de trabajar. Aunque mi función pueda cambiar, mi compromiso con el presidente y con la misión nunca lo hará”. Los jefes de Gabinete de la Casa Blanca son las personas de mayor confianza de los presidentes. A menudo llevan años trabajando con ellos, han compartido éxitos y fracasos y son las personas que estarían dispuestas a darlo todo por su líder. Y todo es todo. A cambio, tienen un acceso único, un nivel de información extraordinario. De alguna manera, los jefes de Gabinete son la voz del presidente en la tierra, aunque la mayoría de los mortales ni siquiera sepan cómo suena esa voz. Wiles, de 68 años, es la primera jefa de Gabinete de un presidente de Estados Unidos. “Es la mujer más poderosa del mundo. Con cinco llamadas podría destruir cinco países”, llegó a definir Trump a Wiles en un mitin. Según Politico, se describe a sí misma como una persona “moderada”, si bien trabajaba para uno de los líderes políticos más extremos y extremistas del mundo. Las fuentes consultadas por Politico definen a Wiles como una estratega astuta, una gestora capaz, una persona que detecta y cultiva el talento emergente, que establece y mantiene relaciones con los periodistas, y una hábil y sutil creadora de narrativas que ayudan a configurar las corrientes políticas que pueden marcar la diferencia entre la victoria y la derrota. Trump, según decía Wiles en una polémica conversación con Vanity Fair que hizo mucho ruido hace un año, “tiene una personalidad de un alcohólico, aunque no bebe, es alguien que se cree capaz de cualquier cosa”. Y ser una persona escuchada por alguien que se cree capaz de cualquier cosa no está alcance de cualquiera. Wiles dirió campañas fundamentales en 2010, 2016, 2018 y 2020 —Rick Scott, Trump, DeSantis, Trump de nuevo—, lo que la ha situado como la estratega republicana más exitosa y respetada. Según Joe Gruters, expresidente del Partido Republicano de Florida citado por Politico, era “la asesora política más valiosa del país”. En su puesto de jefa de Gabinete, dirige, gestiona y supervisa todo el desarrollo de políticas, las operaciones diarias y las actividades del personal del presidente. En su discurso de victoria, Trump la describió como una “dama de hielo”. “Trump tiene una personalidad de alcohólico” En diciembre de 2025, cuando se acercaba el final del primer año de Trump de nuevo como presidente, Wiles saltó a los titulares cuando la revista Vanity Fair publicó una serie de entrevistas con ella y otros altos cargos de la Administración Trump realizadas por el autor Chris Whipple, experto en jefes de gabinete de la Casa Blanca. Las entrevistas a Wiles destacaron por su franqueza, algo inusual en una jefa de gabinete de la Casa Blanca en activo. Afirmó que Trump tiene una “personalidad de alcohólico”, aunque el presidente no bebe, y señaló que la entonces fiscal general Pam Bondi había “metido la pata” en su gestión de los archivos de Jeffrey Epstein, al tiempo que comentó que el vicepresidente JD Vance ha sido un “defensor de las teorías de la conspiración desde hace aproximadamente una década”."
-  },
-  {
-    "titulo": "La directiva de Laporta incorpora a Joaquim Forn como nuevo ejecutivo de confianza",
-    "medio": "La Vanguardia",
-    "fecha": 1793991446.0,
-    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261106/11678299/directiva-laporta-incorpora-joaquim-forn-nuevo-ejecutivo-confianza.html",
-    "resumen": "Forn fue uno de los políticos encarcelados tras el proceso independentista en Catalunya"
+    "resumen": "El presidente de EEUU da los primeros pasos tras la debacle electoral y sitúa como mano derecha al ideólogo de la represión migratoria y de la línea política más dura en la Casa Blanca Primeras consecuencias. El presidente de EEUU, Donald Trump, ha anunciado este viernes el cese de su jefa de Gabinete, Susie Wiles. Y, en el mismo post de Truth Social, el ascenso del ultra Stepehen Miller, en un mensaje de refuerzo del ala más dura de la Casa Blanca. “Me complace anunciar que Stephen Miller, actual subjefe de gabinete de la Administración Trump y uno de mis asesores de mayor confianza, asumirá el cargo de jefe de gabinete a partir del lunes 9 de noviembre de 2026”, ha anunciado el presidente de EEUU en sus redes sociales: “Susie Wiles, que ha realizado un trabajo excepcional, pasará a formar parte de la Operación Política de Trump. Quiero darle las gracias por su labor como jefa de gabinete: ¡ha hecho un trabajo magnífico!” Susie Wiles ha respondido en X: “Hoy es mi último día como jefe de gabinete de la Casa Blanca. Servir al presidente Trump en la Casa Blanca ha sido el mayor honor de mi vida. Me siento muy orgullosa de haber formado parte de lo que hemos logrado juntos, desde proteger nuestra frontera y reducir los impuestos hasta fortalecer nuestra economía y poner a EEUU primero. Por encima de todo, estoy agradecida a las personas extraordinarias con las que he tenido el privilegio de trabajar. Aunque mi función pueda cambiar, mi compromiso con el presidente y con la misión nunca lo hará”. Los jefes de Gabinete de la Casa Blanca son las personas de mayor confianza de los presidentes. A menudo llevan años trabajando con ellos, han compartido éxitos y fracasos y son las personas que estarían dispuestas a darlo todo por su líder. Y todo es todo. A cambio, tienen un acceso único, un nivel de información extraordinario. De alguna manera, los jefes de Gabinete son la voz del presidente en la tierra, aunque la mayoría de los mortales ni siquiera sepan cómo suena esa voz. Wiles, de 68 años, es la primera jefa de Gabinete de un presidente de Estados Unidos. “Es la mujer más poderosa del mundo. Con cinco llamadas podría destruir cinco países”, llegó a definir Trump a Wiles en un mitin. Según Politico, se describe a sí misma como una persona “moderada”, si bien trabajaba para uno de los líderes políticos más extremos y extremistas del mundo. Las fuentes consultadas por Politico definen a Wiles como una estratega astuta, una gestora capaz, una persona que detecta y cultiva el talento emergente, que establece y mantiene relaciones con los periodistas, y una hábil y sutil creadora de narrativas que ayudan a configurar las corrientes políticas que pueden marcar la diferencia entre la victoria y la derrota. Trump, según decía Wiles en una polémica conversación con Vanity Fair que hizo mucho ruido hace un año, “tiene una personalidad de un alcohólico, aunque no bebe, es alguien que se cree capaz de cualquier cosa”. Y ser una persona escuchada por alguien que se cree capaz de cualquier cosa no está alcance de cualquiera. Wiles dirigió campañas fundamentales en 2010, 2016, 2018 y 2020 —Rick Scott, Trump, DeSantis, Trump de nuevo—, lo que la ha situado como la estratega republicana más exitosa y respetada. Según Joe Gruters, expresidente del Partido Republicano de Florida citado por Politico, era “la asesora política más valiosa del país”. En su puesto de jefa de Gabinete, dirige, gestiona y supervisa todo el desarrollo de políticas, las operaciones diarias y las actividades del personal del presidente. En su discurso de victoria, Trump la describió como una “dama de hielo”. “Trump tiene una personalidad de alcohólico” En diciembre de 2025, cuando se acercaba el final del primer año de Trump de nuevo como presidente, Wiles saltó a los titulares cuando la revista Vanity Fair publicó una serie de entrevistas con ella y otros altos cargos de la Administración Trump realizadas por el autor Chris Whipple, experto en jefes de gabinete de la Casa Blanca. Las entrevistas a Wiles destacaron por su franqueza, algo inusual en una jefa de gabinete de la Casa Blanca en activo. Afirmó que Trump tiene una “personalidad de alcohólico”, aunque el presidente no bebe, y señaló que la entonces fiscal general Pam Bondi había “metido la pata” en su gestión de los archivos de Jeffrey Epstein, al tiempo que comentó que el vicepresidente JD Vance ha sido un “defensor de las teorías de la conspiración desde hace aproximadamente una década”."
   },
   {
     "titulo": "La entrevista de Santiago Abascal en 'La Revuelta' será sin el público previsto \"por circunstancias especiales\"",
@@ -448,13 +539,6 @@
     "resumen": ""
   },
   {
-    "titulo": "Los Mossos detienen en Barcelona a otro menor por alentar las protestas de Blocus",
-    "medio": "La Vanguardia",
-    "fecha": 1793990886.0,
-    "link": "https://www.lavanguardia.com/sucesos/20261106/11678301/mossos-detienen-barcelona-menor-alentar-protestas-blocus.html",
-    "resumen": "Con este arresto, se elevan a una decena los detenidos en Catalunya por su presunta vinculación con la organización de los disturbios"
-  },
-  {
     "titulo": "Tu iPhone podría estar cambiando algunas palabras cuando escribes sin que lo notes",
     "medio": "Hipertextual",
     "fecha": 1793990181.0,
@@ -462,25 +546,11 @@
     "resumen": "La función de autocompletado es una de las características más útiles que nos han entregado los móviles. Millones de personas dependen de la escritura predictiva para redactar mensajes más rápido, pero una investigación reveló que el iPhone está limitando algunas palabras. Un investigador descubrió que el teclado de iOS evita algunas palabras y expresiones a […] Seguir leyendo: Tu iPhone podría estar cambiando algunas palabras cuando escribes sin que lo notes"
   },
   {
-    "titulo": "El actor de 'Stranger Things' Noah Schnapp carga contra los estándares de belleza: “¡Comamos de una vez!”",
-    "medio": "La Vanguardia",
-    "fecha": 1793990175.0,
-    "link": "https://www.lavanguardia.com/gente/20261106/11678282/actor-stranger-things-noah-schnapp-carga-estandares-belleza-comamos-vez.html",
-    "resumen": "El intérprete asegura que el mensaje de una joven seguidora le hizo reflexionar sobre la presión estética que soportan muchos jóvenes y reivindica una relación más sana con la comida"
-  },
-  {
     "titulo": "La pantalla sin recortes del iPhone 20 aniversario se complica porque el iPhone Duo muestra el precio de esconder la cámara",
     "medio": "Xataka",
     "fecha": 1793989867.0,
     "link": "https://www.xataka.com/moviles/pantalla-recortes-iphone-20-aniversario-se-complica-porque-iphone-duo-muestra-precio-esconder-camara",
     "resumen": "Para celebrar el décimo aniversario del iPhone en 2017, Apple lanzó un iPhone X que eliminó el botón 'Home' y dio paso a la pantalla de esquina a esquina. para el vigésimo aniversario el año que viene, los rumores y filtraciones apuntan a otro rediseño importante, con un iPhone 20, iPhone XX o como termine llamándose que llevará al límite esa promesa de \"frontal todo pantalla\". El problema es que habría que recortar en la calidad de la cámara selfie. Y el iPhone Duo ya nos ha demostrado el precio de dichos recortes. La filtración hasta ahora. Antes de nada, y como siempre decimos, se trata de una filtración, por lo que es posible que las cosas cambien. De hecho, lo que nos demuestra la última información es que uno de esos planes y objetivos de hacer un iPhone con un frontal totalmente limpio ya habría cambiado. Hasta ahora, lo que sabíamos apuntaba en esta dirección: Pantalla curvada por los cuatro lados con una curva suave, no los bordes pronunciados que Samsung usó durante años en algunos modelos de Galaxy.Marcos y traseras también curvados para mejorar el agarre, pero con menos metal que los modelos actuales.Trasera de cristal.Botones que serían hápticos para respetar ese diseño casi de \"cápsula\".Pantalla frontal sin Isla Dinámica y con todos los sistemas de Face ID y cámara frontal bajo el panel. Esto es lo que está en disputa. En Xataka Apple está ensayando para el iPhone 20 aniversario todo pantalla. La primera prueba es el iPhone 18 Pro Compromiso. Con el iPhone 18 Pro, Apple ya ha empezado a probar el esconder sistemas críticos de Face ID bajo el panel, pero también ha usado el iPhone Duo como banco de pruebas. La cámara de la pantalla interior está bajo el panel y, como vimos tanto en el análisis como en numerosas pruebas que han ido apareciendo estos días, la calidad deja bastante que desear. Las cámaras bajo el panel no son algo nuevo y, de hecho, la compañía ZTE lleva generaciones probándolo en móviles como los Nubia. Visualmente son imponentes porque ese frontal totalmente limpio mola muchísimo, pero si te gusta hacerte selfies, tendrás que pasar por el aro de una calidad muy, muy justita. Ese compromiso en un móvil que no apunta a ser barato y, además, de una compañía como Apple que no quiere crisis reputacionales es algo que los de la manzana no estarían dispuestos a asumir. Imagen de Raihan Han en X A medias. Eso nos ha llevado a la última filtración que recoge 9to5Mac. No se sabe si la Isla Dinámica tendrá el mismo tamaño en el iPhone 20, pero sí que estará presente de un modo u otro porque se pueden esconder los elementos de Face ID, pero no la cámara si se quiere mantener la calidad fotográfica. El resto del plan de diseño como ese cambio de material o la presencia de bordes curvados y una pantalla que se fundiría con ellos se mantendría, pero el frontal no sería tan \"limpio\" como se habría buscado en un principio. Simplemente, la tecnología aún no está lista. Otra opción sería, directamente, volver al botón de desbloqueo capacitivo. Sería extremadamente raro para un iPhone \"normal\" dar un paso atrás de esa manera, ya que Face ID no sólo es cómodo, sino que se ha convertido en un estándar de seguridad del iPhone, pero en el caso de un modelo conmemorativo como el que se plantea, sería una posibilidad. El propio iPhone Duo carece de Face ID y apuesta por el botón lateral. Imagen de Raihan Han en X Camino por recorrer. De la manera que sea, ya decimos que es pronto y que todo esto se basa en filtraciones que beben de la producción inicial del modelo y de lo que comenta Mark Gurman. No tenemos nombre comercial, no sabemos si finalmente meterán los elementos de la Isla Dinámica bajo el panel o el salto en precio. Pero en cuestión de horas hemos pasado de anticipar un iPhone todo pantalla de verdad... a un modelo que seguirá manteniendo las líneas de diseño de esas filtraciones, pero que no nos librará del recorte en la parte superior central. Una opción sería meter todo Face ID bajo el panel y dejar un único orificio en la parte superior para la cámara como hacen todas las demás marcas. Y no sé yo si Apple recurrirá a eso. Imágenes | Xataka, Raihan Han En Xataka | Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro - La noticia La pantalla sin recortes del iPhone 20 aniversario se complica porque el iPhone Duo muestra el precio de esconder la cámara fue publicada originalmente en Xataka por Alejandro Alcolea ."
-  },
-  {
-    "titulo": "Anticorrupción pide un nuevo juicio del 'caso Koldo' en la Audiencia Nacional contra 13 personas, incluidos Isabel Pardo de Vera, la ex pareja de Ábalos, Koldo y Aldama",
-    "medio": "El Mundo",
-    "fecha": 1793989652.0,
-    "link": "https://www.elmundo.es/espana/2026/11/06/6aee0f3fe4d4d89f718b4591.html",
-    "resumen": "Reclama al juez Ismael Moreno que dé por terminada la investigación vinculada a la compra de mascarillas que no se juzgó en el Tribunal Supremo Leer"
   },
   {
     "titulo": "Hallan muerto en su casa al director Sebastián Lelio, de 52 años, ganador del Oscar por 'Una mujer fantástica'",
@@ -494,7 +564,7 @@
     "medio": "Xataka",
     "fecha": 1793988906.0,
     "link": "https://www.xataka.com/seleccion/primer-sistema-mesh-wifi-8-mundo-oficial-asus-presenta-zenwifi-bn12-ambiciones-gama-alta",
-    "resumen": "La evolución de las redes domésticas inalámbricas sigue su curso y, tras la masificación del WiFi 7, la industria ya empieza a tantear el siguiente estándar. Asus ha anunciado el lanzamiento del Asus ZenWiFi BN12, un sistema de red mallada (Mesh) que se posiciona como la primera solución comercial del mundo basada en la tecnología WiFi 8. Más allá de la cifra comercial de velocidad y de las especificaciones sobre el papel, este lanzamiento sirve para entender hacia dónde evoluciona la conectividad en el hogar hiperconectado: menos obsesión exclusiva con el pico de velociddad bruta y más énfasis en la estabilidad a media y larga distancia, la gestión del tráfico y la convivencia con decenas de dispositivos IoT. El Asus ZenWiFi BN12 ya está disponible en el mercado español con un precio de venta de 1.205,12 euros. ASUS Zenwifi BN12, para módem Operador y ONT, WiFi 8, Blanco, 2 Unidades Hoy en Amazon — 1.205,12 € PcComponentes — 1.208,72 € El precio podría variar. Obtenemos comisión por estos enlaces ¿Qué supone dar el salto al WiFi 8 en un sistema Mesh? El ZenWiFi BN12 es un equipo de tres bandas capaz de alcanzar una velocidad combinada de hasta 19 Gbps. Sin embargo, la verdadera carta de presentación de este estándar no es solo que la cifra de pico sea alta, sino las tecnologías de transmisión que integra para solucionar los problemas clásicos de cobertura en casas grandes o con obstáculos arquitectónicos. Cuenta con nuevas modulaciones y codificación (MCS) y modulación desigual (UEQM), diseñadas para mantener el tipo cuando la señal atraviesa tabiques o se encuentra a varios metros del nodo principal. El acceso a canales no primarios (NPCA) y coordinación entre puntos de acceso permiten que los nodos se comuniquen entre sí de forma más limpia, reduciendo la congestión en entornos saturados de redes vecinas. Además, este router incluye Smart AiMesh, una evolución del sistema de nodos de la marca que combina el mallado tradicional con las directrices del WiFi 8 para optimizar el enlace de retorno (backhaul). Según los datos facilitados por la marca, un pack de dos unidades está pensado para cubrir grandes superficies de hasta 7.000 metros cuadrados. En Xataka Ya en Action (y rebajada a 5,95 euros) esta lámpara moderna ideal para disfrutar de luz ambiente en cualquier rincón de casa Gestión inteligente y control del tráfico En una casa actual no solo importa la velocidad de bajada de la fibra, sino cómo se reparte el ancho de banda cuando varios miembros de la familia hacen videollamadas de trabajo, juegan online, descargan archivos pesados y manejan docenas de bombillas, enchufes o cámaras de vigilancia al mismo tiempo. Para lidiar con esto, el equipo introduce el concepto de QoE (Calidad de Experiencia) adaptativa. A diferencia de las herramientas de QoS tradicionales (que suelen depender de reglas estáticas y prioridades predefinidas por el usuario), este sistema supervisa el tráfico en tiempo real y redistribuye los recursos dinámicamente según lo que demanden las aplicaciones en cada milisegundo. Además, incluye la herramienta WiFi Insight, una utilidad orientada a visualizar el estado de la red en tiempo real, auditar interferencias de todo el espectro y consultar un registro histórico de 24 horas para detectar cuellos de botella o anomalías en la señal. En Xataka Lidl vende (con un descuento de más del 50%) esta tele Philips QLED de 55 pulgadas con Dolby Atmos y HDR10+ Conectividad física y seguridad En el plano del hardware cableado, el sistema no escatima en puertos de alta velocidad, algo fundamental si se quiere aprovechar el backhaul por cable o conectar un NAS o un PC de alto rendimiento y cuenta con un amplio apartado de conectividad con: Dos puertos Ethernet de 10 Gbps (uno para WAM/LAN y otro dedicado a LAN).Tres puertos Ethernet de 2,5 Gbps (uno para WAN/LAN y dos para LAN).Un puerto USB-A a 5 Gbps. Todo ello viene respaldado por el ecosistema de seguridad de la casa, que incluye la plataforma de protección AiProtection, opciones de navegación segura, controles parentales avanzados, DNS protegido y compatibilidad nativa con VPN. ⚡ EN RESUMEN: router Asus ZenWiFi BN12 ✅ LO MEJORPrimer sistema Mesh WiFi 8 del mercado: pionero en integrar la modulación y codificación más avanzada del estándar para maximizar el rendimiento a media y larga distancia.Cobertura y estabilidad brutales: en un pack de dos nodos es capaz de cubrir hasta 7.000 metros cuadrados reduciendo interferencias gracias a la tecnología Smart AiMesh. ❌ LO PEORTecnología demasiado adelantada a su tiempo... La gran mayoría de dispositivos actuales (móviles, portátiles, consolas) aún funcionan con WiFi 6, 6E o WiFi 7, por lo que tardarán años en exprimir las ventajas nativas del WiFi 8.Precio muy elevado... su precio de salida lo convierten en una inversión desproporcionada para la mayoría de hogares convencionales. 💡 CÓMPRALO SI... Siempre buscas tener la última tecnología punta disponible en el mercado. ⛔ NO LO COMPRES SI... Tu presupuesto es ajustado y buscas solucionar problemas de cobertura cotidianos sin realizar un desembolso tan elevado. En Xataka Amazon está agotando esta casa prefabricada expandible: es solar, autosuficiente y cuesta poco más de 13.000 euros También pueden interesarte ASUS ROG Strix GS-BE7200 - Router gaming WiFi 7 de doble banda Hoy en Amazon — 191,83 € PcComponentes — 199,00 € El precio podría variar. Obtenemos comisión por estos enlaces <img alt=\"ASUS ProArt PRT-BE5000 - Router WiFi7 de doble banda para creadores \" height=\"500\" src=\"https://i.blogs.es/1c13b6/31em4rmvoll._sl500_/original.jpeg\" width=\"500\" /> ASUS ProArt PRT-BE5000 - Router WiFi7 de doble banda para creadores Hoy en Amazon — 160,65 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico. Imágenes | Asus En Xataka | Qué router WiFi 4G comprar. Mejores recomendaciones y nueve modelos para todos los bolsillos incluidos (router de viaje) En Xataka | El mejor sitio para el router WiFi en casa: dónde colocar el router para mejorar la cobertura y la velocidad de internet - La noticia El primer sistema Mesh WiFi 8 del mundo ya es oficial: ASUS presenta el ZenWiFi BN12 con ambiciones de gama alta fue publicada originalmente en Xataka por Fran León ."
+    "resumen": "La evolución de las redes domésticas inalámbricas sigue su curso y, tras la masificación del WiFi 7, la industria ya empieza a tantear el siguiente estándar. Asus ha anunciado el lanzamiento del Asus ZenWiFi BN12, un sistema de red mallada (Mesh) que se posiciona como la primera solución comercial del mundo basada en la tecnología WiFi 8. Más allá de la cifra comercial de velocidad y de las especificaciones sobre el papel, este lanzamiento sirve para entender hacia dónde evoluciona la conectividad en el hogar hiperconectado: menos obsesión exclusiva con el pico de velociddad bruta y más énfasis en la estabilidad a media y larga distancia, la gestión del tráfico y la convivencia con decenas de dispositivos IoT. El Asus ZenWiFi BN12 ya está disponible en el mercado español con un precio de venta de 1.205,12 euros. ASUS Zenwifi BN12, para módem Operador y ONT, WiFi 8, Blanco, 2 Unidades Hoy en Amazon — 1.201,12 € PcComponentes — 1.208,72 € El precio podría variar. Obtenemos comisión por estos enlaces ¿Qué supone dar el salto al WiFi 8 en un sistema Mesh? El ZenWiFi BN12 es un equipo de tres bandas capaz de alcanzar una velocidad combinada de hasta 19 Gbps. Sin embargo, la verdadera carta de presentación de este estándar no es solo que la cifra de pico sea alta, sino las tecnologías de transmisión que integra para solucionar los problemas clásicos de cobertura en casas grandes o con obstáculos arquitectónicos. Cuenta con nuevas modulaciones y codificación (MCS) y modulación desigual (UEQM), diseñadas para mantener el tipo cuando la señal atraviesa tabiques o se encuentra a varios metros del nodo principal. El acceso a canales no primarios (NPCA) y coordinación entre puntos de acceso permiten que los nodos se comuniquen entre sí de forma más limpia, reduciendo la congestión en entornos saturados de redes vecinas. Además, este router incluye Smart AiMesh, una evolución del sistema de nodos de la marca que combina el mallado tradicional con las directrices del WiFi 8 para optimizar el enlace de retorno (backhaul). Según los datos facilitados por la marca, un pack de dos unidades está pensado para cubrir grandes superficies de hasta 7.000 metros cuadrados. En Xataka Ya en Action (y rebajada a 5,95 euros) esta lámpara moderna ideal para disfrutar de luz ambiente en cualquier rincón de casa Gestión inteligente y control del tráfico En una casa actual no solo importa la velocidad de bajada de la fibra, sino cómo se reparte el ancho de banda cuando varios miembros de la familia hacen videollamadas de trabajo, juegan online, descargan archivos pesados y manejan docenas de bombillas, enchufes o cámaras de vigilancia al mismo tiempo. Para lidiar con esto, el equipo introduce el concepto de QoE (Calidad de Experiencia) adaptativa. A diferencia de las herramientas de QoS tradicionales (que suelen depender de reglas estáticas y prioridades predefinidas por el usuario), este sistema supervisa el tráfico en tiempo real y redistribuye los recursos dinámicamente según lo que demanden las aplicaciones en cada milisegundo. Además, incluye la herramienta WiFi Insight, una utilidad orientada a visualizar el estado de la red en tiempo real, auditar interferencias de todo el espectro y consultar un registro histórico de 24 horas para detectar cuellos de botella o anomalías en la señal. En Xataka Lidl vende (con un descuento de más del 50%) esta tele Philips QLED de 55 pulgadas con Dolby Atmos y HDR10+ Conectividad física y seguridad En el plano del hardware cableado, el sistema no escatima en puertos de alta velocidad, algo fundamental si se quiere aprovechar el backhaul por cable o conectar un NAS o un PC de alto rendimiento y cuenta con un amplio apartado de conectividad con: Dos puertos Ethernet de 10 Gbps (uno para WAM/LAN y otro dedicado a LAN).Tres puertos Ethernet de 2,5 Gbps (uno para WAN/LAN y dos para LAN).Un puerto USB-A a 5 Gbps. Todo ello viene respaldado por el ecosistema de seguridad de la casa, que incluye la plataforma de protección AiProtection, opciones de navegación segura, controles parentales avanzados, DNS protegido y compatibilidad nativa con VPN. ⚡ EN RESUMEN: router Asus ZenWiFi BN12 ✅ LO MEJORPrimer sistema Mesh WiFi 8 del mercado: pionero en integrar la modulación y codificación más avanzada del estándar para maximizar el rendimiento a media y larga distancia.Cobertura y estabilidad brutales: en un pack de dos nodos es capaz de cubrir hasta 7.000 metros cuadrados reduciendo interferencias gracias a la tecnología Smart AiMesh. ❌ LO PEORTecnología demasiado adelantada a su tiempo... La gran mayoría de dispositivos actuales (móviles, portátiles, consolas) aún funcionan con WiFi 6, 6E o WiFi 7, por lo que tardarán años en exprimir las ventajas nativas del WiFi 8.Precio muy elevado... su precio de salida lo convierten en una inversión desproporcionada para la mayoría de hogares convencionales. 💡 CÓMPRALO SI... Siempre buscas tener la última tecnología punta disponible en el mercado. ⛔ NO LO COMPRES SI... Tu presupuesto es ajustado y buscas solucionar problemas de cobertura cotidianos sin realizar un desembolso tan elevado. En Xataka Amazon está agotando esta casa prefabricada expandible: es solar, autosuficiente y cuesta poco más de 13.000 euros También pueden interesarte ASUS ROG Strix GS-BE7200 - Router gaming WiFi 7 de doble banda Hoy en Amazon — 190,59 € PcComponentes — 199,00 € El precio podría variar. Obtenemos comisión por estos enlaces <img alt=\"ASUS ProArt PRT-BE5000 - Router WiFi7 de doble banda para creadores \" height=\"500\" src=\"https://i.blogs.es/1c13b6/31em4rmvoll._sl500_/original.jpeg\" width=\"500\" /> ASUS ProArt PRT-BE5000 - Router WiFi7 de doble banda para creadores Hoy en Amazon — 159,75 € El precio podría variar. Obtenemos comisión por estos enlaces Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico. Imágenes | Asus En Xataka | Qué router WiFi 4G comprar. Mejores recomendaciones y nueve modelos para todos los bolsillos incluidos (router de viaje) En Xataka | El mejor sitio para el router WiFi en casa: dónde colocar el router para mejorar la cobertura y la velocidad de internet - La noticia El primer sistema Mesh WiFi 8 del mundo ya es oficial: ASUS presenta el ZenWiFi BN12 con ambiciones de gama alta fue publicada originalmente en Xataka por Fran León ."
   },
   {
     "titulo": "Cómo se sobrepone un vestuario a una tragedia como la de Jesús de Miguel: \"Dedicarle la temporada puede unir al grupo, el riesgo puede ser convertir ese homenaje en una obligación\"",
@@ -502,13 +572,6 @@
     "fecha": 1793988586.0,
     "link": "https://www.huffingtonpost.es/deporte/como-sobreponerse-vestuario-futbol-tragedia-delantero-tenerife-f202611.html",
     "resumen": ""
-  },
-  {
-    "titulo": "¿Vandalismo o 'guerra híbrida'? El extraño caso de las decenas de amenazas de bomba falsas contra aviones europeos en cuatro días",
-    "medio": "El Mundo",
-    "fecha": 1793988427.0,
-    "link": "https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html",
-    "resumen": "El régimen de Vladimir Putin ha llevado a cabo actos similares, combinando el gamberrismo o la pequeña delincuencia con los objetivos políticos Leer"
   },
   {
     "titulo": "Israel’s Shaky Democracy Continues to Crumble",
@@ -530,27 +593,6 @@
     "fecha": 1793988066.0,
     "link": "https://www.trendencias.com/shopping/este-viernes-13-lidl-lanza-solucion-ideal-para-ganar-orden-dormitorios-pequenos-40-euros",
     "resumen": "Contar con espacios y muebles que ofrezcan almacenaje extra en casa no es solo necesario, sino más bien imprescindible. Da igual que hablemos de viviendas de tamaño más o menos pequeño: siempre terminan apareciendo objetos que guardar y los zapateros nunca son suficientes. Banco de almacenamiento »Storage Bench«, con espacio de almacenamiento. PVP en Lidl — 42,99 € El precio podría variar. Obtenemos comisión por estos enlaces Por eso me he fijado en este banco con almacenaje que aparece en el folleto semanal de Lidl por 39,99 euros (en lugar de 42,99 euros), en tiendas físicas el viernes 13 de noviembre. Una oferta perfecta para poner orden en dormitorios, habitaciones infantiles o incluso en el recibidor. Lidl Este mueble con almacenaje tiene unas medidas compactas de 88 cm de largo x 43 cm de alto x 38 cm de fondo, por lo que aunque no nos sobre demadiado espacio seguro que encontramos cómo encajarlo. Su diseño estilo nórdico en color blanco con líneas rectas lo hace fácil de incluir en cualquier tipo de decoración moderna. Bajo su tapa abatible ofrece hasta 50 litros de capacidad de almacenaje para albergar la manta del sofá, juguetes, cojines para el sofá o la cama, el edredón nórdico o cualquier otra cosa que queramos oculta pero a mano. Una compra excelente. Otros bancos de almacenaje similares VASAGLE Puff Almacenaje con 2 Bisagras de Seguridad, 80 x 40 x 46 cm | Baúl, Banco Zapatero, Estilo de Campo, para Pasillo Dormitorio Salón, Blanco Nube, Colección SOFIE LSB063T14 Hoy en Amazon — 52,99 € El precio podría variar. Obtenemos comisión por estos enlaces Clevich Banco de Almacenamiento, Banco para Ventana con Zapatero, Beige | Baúl Pie de Zapatero de Terciopelo, Banco Alargado Acolchado con Botones Capitoné, Ideal para Entrada o Vestidor Hoy en Amazon — 113,99 € El precio podría variar. Obtenemos comisión por estos enlaces SONGMICS Puff Almacenaje Plegable de 76 cm, Banco de Almacenamiento, Reposapiés, Mesa de Centro, Asiento Acolchado, Piel Sintética, Soporta hasta 300 kg, Topo Claro LSF040R01 Hoy en Amazon — 27,99 € El precio podría variar. Obtenemos comisión por estos enlaces Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | @courtneecrews| Amazon, Kiabi En Trendencias | Los mejores aspiradores sin cable | ¿Cuál comprar? Consejos y recomendaciones En Motorpasión Moto| Juan Carlos Toribio, ex guardia civil de Tráfico: \"Nos preparan para multar al conductor, no para investigar el estado de las carreteras\" En DAP| Mónica Naranjo, 52 años, sobre su rutina de la mañana: “Desayuno fruta de temporada, medio litro de té frío con un poco de bebida de soja con vainilla y una tostada de pan de avena con aceite y queso blanco” - La noticia Este viernes 13 Lidl lanza la solución ideal para ganar orden en dormitorios pequeños por menos de 40 euros fue publicada originalmente en Trendencias por Patricia García Varela ."
-  },
-  {
-    "titulo": "Una sentencia obliga al SEPE a devolver el paro a un desempleado de Vigo que sacaba un dinero extra vendiendo uvas y madera",
-    "medio": "Xataka",
-    "fecha": 1793988000.0,
-    "link": "https://www.xataka.com/empresas-y-economia/sentencia-obliga-al-sepe-a-pagar-paro-a-desempleado-vigo-que-sacaba-dinero-extra-vendiendo-uvas-madera",
-    "resumen": "Si una persona está cobrando el ‘paro’, ¿puede realizar alguna actividad económica y ganar dinero con ella? ¿Y si los ingresos que percibe a través de esa vía son mínimos, de solo unos cientos de euros al mes? El Tribunal Superior de Xustiza de Galicia (TSXG) acaba de publicar una sentencia que despeja dudas sobre ese escenario y, de paso, da un toque de atención al Servicio Público de Empleo (SEPE). Y todo por un desempleado de Vigo que durante un tiempo se dedicó a vender uvas y madera para completar su economía doméstica. Para entender el caso hay que remontarse al verano de 2021, cuando la Dirección Provincia de Pontevedra del SEPE reconoció a Victorio el derecho a cobrar la prestación por desempleo. En concreto le correspondían 720 días que le garantizaban una fuente de ingresos hasta agosto de 2023. El caso es que el hombre no se contentó con el subsidio del SEPE y decidió completar su economía vendiendo lo que sacaba del campo y los montes. Las cifras las conocemos gracias al expediente del TSXG que analiza el caso y que ha avanzado, en exclusiva, La Voz de Galicia. Madera y uvasEn 2021 Victorio percibió 5.371 euros gracias a la venta de uvas y 3.571 comercializando con madera. Al año siguiente sacó 9.030 euros con los viñedos y 4.081 con la madera. Sin embargo, hay un matiz importante: esas cantidades muestran “ingresos brutos”, los “netos”, que se obtienen una vez descontados los gastos y reflejan el beneficio real que obtuvo el hombre, son muy inferiores. El primer año los ingresos netos sumaron 1.222 euros y el segundo 2.348. En total, poco más de 3.500 en dos años. Mucho o poco, lo cierto es que el SEPE acabó comunicando a Victorio el inicio de un “procedimiento de revocación de prestaciones por desempleo”. De poco sirvieron sus alegaciones. A comienzos de 2024 el organismo público tomó una decisión: “Revisar de oficio el derecho a la prestación reconocida desde el 13 de agosto de 2021 hasta el 12 de agosto de 2023, por proceder la suspensión de la misma durante un total de 213 días, 95 en 2021, 65 en 2022 y 53 en 2023, y declarar la percepción indebida que asciende a 2.520,97 euros”, precisa la resolución del SEPE antes de detallar los períodos que usa para el cálculo de esa cantidad. El afectado reclamó, pero volvió a toparse con la negativa de Empleo. El caso podría haber terminado ahí, pero se complicó con nuevos protagonistas. En abril de 2024 Inspección de Trabajo emitió un informe en el que advertía que la actividad agrícola y forestal de Victorio era “residual y esporádica” y que básicamente se orientaba al “autoconsumo familiar”. De ahí que no apreciara irregularidades que pudiesen afectar a su negociado. El asunto acabó en el Tribunal de Instancia de Vigo y ha terminado dirimiéndose en el TSXG. ¿Cuál es su conclusión? Confirma una sentencia anterior que da la razón en parte a Victorio y revoca la decisión tomada por el SEPE a comienzos de 2024. En la práctica, como señala La Voz de Galicia, eso se traduce en que el organismo público deberá devolver el subsidio al desempleado. Sin embargo, lo más interesante del fallo del TSXG no es su conclusión final sino el argumentario. Al repasar la jurisprudencia y reflexionar sobre el caso, el alto tribunal gallego deja varios comentarios interesantes. El primero está relacionado con los ingresos de Victorio. El TSXG recuerda que en general “cualquier actividad por cuenta propia o ajena […] es incompatible con el subsidio de desempleo”, pero añade: “Sin embargo, dicha actividad ha de tener alguna relevancia económica y esta no lo tiene, porque los ingresos netos obtenidos por la venta de uva y madera en cuantía de 1.222,3 euros en 2021; 2.348,45 en 2022 y aproximadamente unos 1.700 en 2023 carecen de la suficiente significación como para que conduzcan a una conclusión de la incompatibilidad del subsidio de desempleo reconocido, la devolución del mismo y a sanción de cualquier naturaleza”. Por si no quedase claro, el juez recuerda que las cantidades ingresadas con la venta de uvas y madera no llegaron a 200 euros ninguno de los meses analizados, muy por debajo del 75% del SMI. “Son insignificantes desde el punto de vista de su repercusión en la renta vital del recurrente y totalmente alejados conceptualmente de lo que pueda considerarse como un ‘trabajo’ sea por cuenta propia o ajena, ni a tiempo parcial, que le permita subsistir”. “No ofrece posibilidades de sustento personal, propio y de su familia, aunque revele una actividad esporádica y meramente marginal”. En Xataka Cambios para los trámites del paro online: esto es lo que el SEPE ha cambiado a partir del 16 de julio del 2026 En el documento del TSXG se lee también que, aunque la LGSS (la normativa de la Seguridad Social) habla de incompatibilidades relacionadas con explotaciones agrarias, “ha de excluirse tal incompatibilidad cuando la labor agraria se concreta, como en autos, a un reducido cultivo para consumo familiar, en términos tan limitados que excluyan palmariamente la posibilidad de fraude”. “Sostener lo contrario comporta desconocer una realidad sociológica y lleva, como en el caso, a consecuencias desproporcionadas”. En su web el SEPE detalla las circunstancias en las que es posible desempeñar trabajos a la vez que se percibe una prestación o subsidio. Como regla general, el organismo considera situaciones de incompatibilidad el trabajo por cuenta propia y por cuenta ajena, salvo cuando este último se realice “a tiempo parcial” y se haya solicitado la compatibilidad. En ese caso, se deducirá del importe de la prestación una parte proporcional al tiempo trabajado. Sí se consideran compatibles “cualquier tipo de rentas mínimas, salarios sociales o ayudas análogas de asistencia social”. El marco legal se actualizó con el Real Decreto ley 2/2024. Imágenes | Andrea Cairone (Unsplash) 1 y 2 Vía | La Voz de Galicia En Xataka | España no logra bajar del 10% de paro pese a sus excelentes resultados de empleo: la sospecha recae sobre la IA - La noticia Una sentencia obliga al SEPE a devolver el paro a un desempleado de Vigo que sacaba un dinero extra vendiendo uvas y madera fue publicada originalmente en Xataka por Carlos Prego ."
-  },
-  {
-    "titulo": "Los maquinistas valoran el \"cambio de talante\" con Cuerpo pero lo ven insuficiente para desconvocar la huelga",
-    "medio": "Europa Press",
-    "fecha": 1793987933.0,
-    "link": "https://www.europapress.es/economia/transportes-00343/noticia-maquinistas-valoran-cambio-talante-cuerpo-ven-insuficiente-desconvocar-huelga-20261106185853.html",
-    "resumen": "El Sindicato Español de Maquinistas Ferroviarios (Semaf) ha valorado \"positivamente\" el \"cambio de talante\" y la \"voluntad\" de llegar a acuerdos del vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, pero esperará a confirmar si se cumple lo prometido y considera que por ahora no es suficiente para desconvocar la huelga en Renfe de los días 10 y 12 de noviembre."
-  },
-  {
-    "titulo": "Muere el cineasta chileno Sebastián Lelio, ganador de un Óscar por 'Una mujer fantástica', a los 52 años",
-    "medio": "El Mundo",
-    "fecha": 1793987889.0,
-    "link": "https://www.elmundo.es/cultura/2026/11/06/6aee152d21efa08c348b458e.html",
-    "resumen": "El director y guionista, que se encontraba en Santiago grabando la adaptación cinematográfica de la reconocida novela 'Poeta chileno', de Alejandro Zambra, fue hallado muerto en su casa Leer"
   },
   {
     "titulo": "Becerra, el Tezanos de Paco Salazar contratado por el PSOE, reaparece en La Séptima como gurú de la supuesta remontada",
@@ -581,6 +623,13 @@
     "resumen": ""
   },
   {
+    "titulo": "Muere el cineasta chileno Sebastián Lelio, ganador de un Oscar por 'Una mujer fantástica'",
+    "medio": "eldiario.es",
+    "fecha": 1793986851.0,
+    "link": "https://www.eldiario.es/cultura/cine/muere-cineasta-chileno-sebastian-lelio-ganador-oscar-mujer-fantastica_1_13645413.html",
+    "resumen": "El director tenía 52 años y su cuerpo ha sido hallado en su casa de SantiagoHemeroteca - Sebastián Lelio confía en el poder de la ficción para acabar con los fanatismos en 'The wonder' El reconocido cineasta chileno Sebastián Lelio, ganador del Oscar por Una mujer fantástica en 2018, ha muerto este viernes a los 52 años de edad. Según medios locales, el director y guionista fue hallado en su casa del barrio de Las Condes, en Santiago de Chile. Lelio se encontraba rodando la adaptación cinematrográfica de la novela Poeta chileno, de Alejandro Zambra, que hubiera sido su décimo largometraje. En un comunicado en Instagram, su esposa, la actriz Amalia Kassai, ha confirmado el fallecimiento y ha señalado que la familia atraviesa “un momento de mucho dolor”. “Fue una hermosa persona que aportó a la cultura chilena en grandes momentos de su historia”, ha escrito. Sebastián Lelio nació en 1974 en Mendoza (Argentina), pero se consideraba chileno porque vivió en ese país desde los dos años. El director debutó con La sagrada familia (2006), tras haber participado en una película de varios directores. Gloria (2013) es otra de sus películas más destacadas, estrenada en la Berlinale y elegida para representar a Chile en la carrera a los Oscar. También estuvo nominada a los Premios Goya como mejor Película Iberoamericana. Una mujer fantástica (2017) producida entre otros por Pablo Larraín, retrata a una mujer trans que ha de enfrentarse a la muerte repentina de su pareja. La película ganó el Oscar en la categoría de Habla no inglesa —la segunda vez para la cinematografía chilena—, así como a la Mejor película iberoamericana en los premios Goya. En 2022, Lelio presentó su filme The Wonder a competición en el Festival de Cine de San Sebastián - Zinemaldia, una producción de Netflix protagonizada por Florence Pugh que adapta la novela de Emma Donoghue. “Una reflexión sobre el poder de la ficción, sobre los mecanismos de la ficción y los efectos políticos de la ficción”, según explicó a elDiario.es. “Las historias pueden usarse perversamente o de manera virtuosa, pero son poder”, reflexionó en esa ocasión el chileno sobre la responsabilidad de las películas."
+  },
+  {
     "titulo": "El encanto del pasado: una app que convierte el Mac en un manipulador Morse",
     "medio": "Microsiervos",
     "fecha": 1793986344.0,
@@ -607,13 +656,6 @@
     "fecha": 1793986043.0,
     "link": "https://www.eldiario.es/motor/competicion-y-estilo/f1-llega-brasil-podio-marcas-abierto_1_13645221.html",
     "resumen": "La competición llega al GP de Brasil que se disputa en el prometedor circuito de Interlagos con el Mundial de pilotos resuelto pero con el podio de marcas todavía por decidir. Lo analiza el Podcast Técnica Fórmula 1F1 2027: 24 carreras, 10 sprints y un calendario que llega casi a Navidad La Fórmula 1 llega al GP de Brasil que se disputa en el circuito de Interlagos con el Mundial de pilotos resuelto pero con el podio de marcas todavía abierto y una petición bastante sencilla: que volvamos a ver una buena carrera. Brasil siempre ha sido un buen escenario para esta petición, pero no sabemos qué ocurrirá este año, con estos coches. El Podcast Técnica Fórmula 1 trata de adelantarlo. Mucha emoción, pero poca en pista Antonelli celebró su título en México, pero el gran premio dejó pocas luchas y demasiados momentos en los que un coche podía seguir a otro sin encontrar cómo adelantarlo. Brasil ofrece un escenario que invita al entusiasmo. Interlagos es una de las citas que más apetece seguir, una pista a la que llegamos esperando competición de la buena. Esta vez la expectativa incluye una duda que nos acompaña durante toda la temporada: ¿cuánto permitirán estos coches aprovechar lo que ofrece el Autódromo José Carlos Pace de Sao Paulo? El último gran premio del triplete llega, además, con Antonelli liberado de la necesidad de cerrar matemáticamente el campeonato. Será interesante ver cómo afronta el siguiente fin de semana después de conseguir el objetivo más importante de su año. El campeón todavía tiene carreras por ganar El título de pilotos ya decidido no elimina el interés de comparar a los equipos. Mercedes ha sido la estructura más sólida de la temporada, pero Red Bull llega después de otra victoria de Verstappen y Ferrari acaba de demostrar en México que puede conseguir la pole. A falta de disputar cuatro carreras para finalizar la temporada, Mercedes encabeza en el podio con 630 puntos seguida por Ferrari con 504 y por Red Bull con 382. Son referencias suficientes para preparar un fin de semana abierto, aunque todavía haya que comprobar cómo se adapta cada coche a Interlagos: el resultado de una pista no se traslada automáticamente a la siguiente. Antonelli puede afrontar esa comparación desde una posición distinta. Ya no tiene que proteger una posibilidad de campeonato, pero sigue encontrándose con rivales que quieren ganar. Verstappen mantiene su recuperación y Ferrari necesita convertir su velocidad en un resultado completo. La previa de Brasil parte de ahí: qué puede ofrecer cada equipo y qué exige el trazado para que ese potencial aparezca durante todo el fin de semana. Entender Interlagos antes de hacer pronósticos El programa aborda las características del circuito y las decisiones que deben tomar los equipos, con las referencias de Pirelli y Brembo como apoyo. El objetivo es entender qué conviene observar desde los entrenamientos y por qué una configuración puede funcionar mejor que otra. Después será la pista la que confirme o desmonte las expectativas. También habrá espacio para la historia del gran premio con Daniel Pérez y para la habitual apuesta por la pole y el podio. Brasil es una de esas carreras que nos hacen llegar con ganas, aunque esta temporada haya enseñado a desconfiar de los pronósticos demasiado cómodos. Que la carrera no dependa de una interrupción México volvió a dejar una sensación preocupante: los mayores cambios llegaron con los coches de seguridad y la bandera roja, mientras adelantar seguía siendo muy difícil. Y ni siquiera eso evitó que la carrera fuera un poco aburrida. Interlagos plantea otra oportunidad para comprobar si podemos disfrutar de batallas que se desarrollen en pista, con pilotos capaces de preparar un ataque y rivales que tengan que defenderse. Esa es la expectativa que debería acompañar a cualquier carrera. Ojalá el domingo podamos hablar tanto de las peleas como de quién terminó delante."
-  },
-  {
-    "titulo": "El 'Financial Times' ve lo que ha pasado en España con el aceite de oliva y lo resume en un titular: \"Sin precedentes\"",
-    "medio": "HuffPost",
-    "fecha": 1793985128.0,
-    "link": "https://www.huffingtonpost.es/virales/el-financial-times-ve-pasado-espana-aceite-oliva-resume-titular-sin-precedentes-f202611.html",
-    "resumen": ""
   },
   {
     "titulo": "Frente Amplio lanza una 'app' que simula la recaudación en las 50 grandes fortunas de su impuesto a ultrarricos",
@@ -651,7 +693,7 @@
     "resumen": "Lula da Silva beat Flávio Bolsonaro to win a fourth term as Brazil’s president. Political scientist André Singer says the hardest fight is still ahead: Brazil’s bourgeoisie wants harsh austerity, and Lula’s coalition is split over it."
   },
   {
-    "titulo": "Anticorrupción pide acercar a juicio a Pardo de Vera y a la ex de Ábalos y pide archivar para excargos de Transportes",
+    "titulo": "Anticorrupción reclama acercar a juicio a Pardo de Vera y a la ex de Ábalos y pide archivar para excargos de Transportes",
     "medio": "Europa Press",
     "fecha": 1793984358.0,
     "link": "https://www.europapress.es/nacional/noticia-anticorrupcion-reclama-acercar-juicio-pardo-vera-ex-abalos-pide-archivar-excargos-transportes-20261106175918.html",
@@ -672,18 +714,11 @@
     "resumen": "El Eurogrupo ha confirmado este viernes que el español Pablo Hernández de Cos, exgobernador del Banco de España, y el neerlandés Klaas Knot, antiguo responsable del banco central de Países Bajos, son los dos únicos candidatos a suceder a Christine Lagarde al frente del Banco Central Europeo (BCE), una vez concluido el plazo para presentar las propuestas de los países de la zona euro."
   },
   {
-    "titulo": "El Cabildo de El Hierro declara la emergencia migratoria ante la llegada de 8.000 personas en cinco semanas",
-    "medio": "Europa Press",
-    "fecha": 1793983331.0,
-    "link": "https://www.europapress.es/islas-canarias/noticia-cabildo-hierro-declara-emergencia-migratoria-llegada-8000-personas-cinco-semanas-20261106174211.html",
-    "resumen": "El Cabildo de El Hierro ha declarado este viernes la emergencia social y la necesidad de colaboración con las instituciones superiores para la gestión de la actual crisis migratoria en la isla, con la llegada de más de 8.000 personas en las últimas cinco semanas."
-  },
-  {
     "titulo": "Okdiario amenaza con demandar a elDiario.es por la información sobre sus pagos a la abogada de Koldo García",
     "medio": "eldiario.es",
     "fecha": 1793983213.0,
     "link": "https://www.eldiario.es/politica/okdiario-amenaza-demandar-eldiario-informacion-pagos-abogada-koldo-garcia_1_13644826.html",
-    "resumen": "El digital que dirige Eduardo Inda exige rectificar la información de este medio sobre los 242.000 euros que abonó mientras pide a su abogada que cambie, un año después, el concepto de las facturas¿Por qué pagó Okdiario la defensa de Koldo García? Okdiario y su director, Eduardo Inda, se han dirigido a elDiario.es para exigir la publicación de una rectificación de la información sobre sus pagos a Koldo García bajo amenaza de acudir a la vía judicial en caso de no acceder. El medio califica de “absolutamente falsa” la información, que está basada en las facturas aportadas por la abogada del condenado, Leticia de la Hoz, a un juzgado de la Audiencia Nacional. Mientras tanto, Okdiario también exige a la letrada que cambie, un año después, el concepto de esas facturas, según ha podido saber elDiario.es. El concepto de ese recibo era: “Honorarios, aranceles y gastos por asesoramiento jurídico y procedimientos del señor D. Koldo García”. La abogada Leticia de la Hoz defendió a Koldo García en el proceso judicial del Tribunal Supremo que terminó con una condena firme de casi 20 años de cárcel para él por un rosario de delitos relacionados con la corrupción cometidos al amparo de su cercanía con José Luis Ábalos, entonces ministro de Transportes. La letrada se encuentra actualmente imputada en otra causa distinta, el conocido como 'caso Leire', acusada de participar en un intento de soborno a la empresaria Carmen Pano que ella niega. De la Hoz pidió permiso al juzgado para explicar al juez quién había pagado la defensa de Koldo García ante la sospecha de que hubiera sido el PSOE. La letrada aportó entonces dos facturas en las que podía comprobarse que fue Dos Mil Palabras, empresa editora del digital Okdiario, quien realizó dos pagos por un valor total de 242.000 euros a su despacho por el concepto “Honorarios, aranceles y gastos por asesoramiento jurídico y procedimientos del señor D. Koldo García”. Aportó también las órdenes de transferencia que documentan los pagos. La información publicada por elDiario.es aportaba también el contexto en que se produjeron esos pagos. La primera factura está fechada el 27 de noviembre de 2025, el mismo día en que Koldo García dio diversas entrevistas al digital de Eduardo Inda con varias afirmaciones carentes de pruebas contra el Ejecutivo: “Escuché a Sánchez decir que su suegro aportaba 100.000 euros para las primarias”; “se hizo pitufeo en las primarias con inmigrantes rumanos, marroquíes y sudamericanos”; “no pongo la mano en el fuego por Sánchez, Begoña, Marlaska, Chivite ni Zapatero”. El digital de Eduardo Inda ha calificado en los últimos días esa información de “bulo” y ha justificado que, en realidad, esos pagos no se corresponden con lo que pone en las facturas que abonó, sino con otra cosa: los derechos audiovisuales de Koldo García. El contrato, según Okdiario, se firmó un día antes del primer pago, aunque las facturas que pagó y aceptó tenían un concepto distinto. Ahora, Okdiario se ha dirigido por escrito a elDiario.es calificando de “absolutamente falsa” la información y exigiendo su rectificación. Según Okdiario, los pagos que hizo al despacho de la abogada de Koldo “no guardan relación alguna” con el proceso judicial contra él sino con la “cesión de los derechos de imagen y propiedad intelectual” del condenado. Avisa también de las consecuencias de no publicar la rectificación: el “ejercicio de cuantas acciones judiciales pudieran corresponder por lesión del Derecho al Honor y del prestigio profesional del medio de comunicación y de su administrador habida cuenta de las importantes falsedades en las que se incurre en su redacción”. La publicación de la noticia, que ahora Okdiario pide rectificar, ya tuvo una primera reacción por parte del digital de Eduardo Inda cuando un hombre abordó a dos periodistas de elDiario.es –su director, Ignacio Escolar, y su director adjunto, José Manuel Romero– a la salida de un encuentro con la letrada De la Hoz después de trascender la información. El hombre comunicó que había hecho fotos del encuentro por orden de Eduardo Inda, imágenes que efectivamente fueron publicadas en su periódico horas después. En paralelo, la representación legal del periódico también ha contactado con la letrada Leticia de la Hoz exigiendo que rectifique, casi un año después, el concepto de las dos facturas que pagó y que figure así que, en realidad, ese dinero se correspondía con los derechos de imagen de Koldo García. “Dos medios se reunieron conmigo” La documentación sobre esos pagos ha sido recientemente aportada por la abogada al juzgado de la Audiencia Nacional que investiga el conocido como ‘caso Leire’, a la espera de que la Fiscalía Anticorrupción y el juez tomen alguna decisión sobre cómo afecta esta información al desarrollo del caso. Mientras tanto, las últimas revelaciones del propio Koldo García sobre cómo el PP ofreció dinero a cambio de perjudicar al Gobierno han llevado al PSOE a estudiar la posible interposición de una querella. El propio Koldo García afirmó en su última palabra durante el juicio ante el Tribunal Supremo: “A mí se me ofreció que se me iba a quedar esto en nada si decía o me metía con el Gobierno. Hay dos medios de comunicación que se reunieron conmigo, y lo que estoy diciendo lo puedo demostrar, para que mienta y engañe a todos los españoles”. En audios remitidos a diversos medios de comunicación en los últimos días, publicado el primero por la Cadena SER, el exasesor de Ábalos ha añadido que un abogado vinculado al PP le ofreció un millón de euros por mentir en contra del ejecutivo de Pedro Sánchez."
+    "resumen": "El digital que dirige Eduardo Inda exige rectificar la información de este medio sobre los 242.000 euros que abonó la empresa editora de Okdiario al despacho de abogados que defiende a Koldo García¿Por qué pagó Okdiario la defensa de Koldo García? Okdiario y su director, Eduardo Inda, se han dirigido a elDiario.es para exigir la publicación de una rectificación de la información sobre sus pagos a Koldo García bajo amenaza de acudir a la vía judicial en caso de no acceder. El medio califica de “absolutamente falsa” la información, que está basada en las facturas aportadas por la abogada del condenado, Leticia de la Hoz, a un juzgado de la Audiencia Nacional. La abogada Leticia de la Hoz defendió a Koldo García en el proceso judicial del Tribunal Supremo que terminó con una condena firme de casi 20 años de cárcel para él por un rosario de delitos relacionados con la corrupción cometidos al amparo de su cercanía con José Luis Ábalos, entonces ministro de Transportes. La letrada se encuentra actualmente imputada en otra causa distinta, el conocido como 'caso Leire', acusada de participar en un intento de soborno a la empresaria Carmen Pano que ella niega. De la Hoz pidió permiso al juzgado para explicar al juez quién había pagado la defensa de Koldo García ante la sospecha de que hubiera sido el PSOE. La letrada aportó entonces dos facturas en las que podía comprobarse que fue Dos Mil Palabras, empresa editora del digital Okdiario, quien realizó dos pagos por un valor total de 242.000 euros a su despacho por el concepto “Honorarios, aranceles y gastos por asesoramiento jurídico y procedimientos del señor D. Koldo García”. Aportó también las órdenes de transferencia que documentan los pagos. La información publicada por elDiario.es detallaba también el contexto en que se produjeron esos pagos. La primera factura está fechada el 27 de noviembre de 2025, el mismo día en que Koldo García dio diversas entrevistas al digital de Eduardo Inda con varias afirmaciones carentes de pruebas contra el Ejecutivo: “Escuché a Sánchez decir que su suegro aportaba 100.000 euros para las primarias”; “se hizo pitufeo en las primarias con inmigrantes rumanos, marroquíes y sudamericanos”; “no pongo la mano en el fuego por Sánchez, Begoña, Marlaska, Chivite ni Zapatero”. El digital de Eduardo Inda ha calificado en los últimos días esa información de “bulo” y ha justificado que, en realidad, esos pagos no se corresponden con lo que pone en las facturas que abonó, sino con otra cosa: los derechos audiovisuales de Koldo García. El contrato, según Okdiario, se firmó un día antes del primer pago, aunque las facturas que pagó y aceptó tenían un concepto distinto. Ahora, Okdiario se ha dirigido por escrito a elDiario.es calificando de “absolutamente falsa” la información y exigiendo su rectificación. Según Okdiario, los pagos que hizo al despacho de la abogada de Koldo “no guardan relación alguna” con el proceso judicial contra él sino con la “cesión de los derechos de imagen y propiedad intelectual” del condenado. Avisa también de las consecuencias de no publicar la rectificación: el “ejercicio de cuantas acciones judiciales pudieran corresponder por lesión del Derecho al Honor y del prestigio profesional del medio de comunicación y de su administrador habida cuenta de las importantes falsedades en las que se incurre en su redacción”. La publicación de la noticia, que ahora Okdiario pide rectificar, ya tuvo una primera reacción por parte del digital de Eduardo Inda cuando un hombre abordó a dos periodistas de elDiario.es –su director, Ignacio Escolar, y su director adjunto, José Manuel Romero– a la salida de un encuentro con la letrada De la Hoz después de trascender la información. El hombre comunicó que había hecho fotos del encuentro por orden de Eduardo Inda, imágenes que efectivamente fueron publicadas en su periódico horas después. “Dos medios se reunieron conmigo” La documentación sobre esos pagos ha sido recientemente aportada por la abogada al juzgado de la Audiencia Nacional que investiga el conocido como ‘caso Leire’, a la espera de que la Fiscalía Anticorrupción y el juez tomen alguna decisión sobre cómo afecta esta información al desarrollo del caso. Mientras tanto, las últimas revelaciones del propio Koldo García sobre cómo el PP ofreció dinero a cambio de perjudicar al Gobierno han llevado al PSOE a estudiar la posible interposición de una querella. El propio Koldo García afirmó en su última palabra durante el juicio ante el Tribunal Supremo: “A mí se me ofreció que se me iba a quedar esto en nada si decía o me metía con el Gobierno. Hay dos medios de comunicación que se reunieron conmigo, y lo que estoy diciendo lo puedo demostrar, para que mienta y engañe a todos los españoles”. En audios remitidos a diversos medios de comunicación en los últimos días, publicado el primero por la Cadena SER, el exasesor de Ábalos ha añadido que un abogado vinculado al PP le ofreció un millón de euros por mentir en contra del ejecutivo de Pedro Sánchez."
   },
   {
     "titulo": "Condenado el líder de una secta en Kenia por el asesinato de 191 personas a las que coaccionó para ayunar hasta la muerte",
@@ -861,13 +896,6 @@
     "resumen": "He estado probando el monitor portátil AOC 16T20E2. No es un producto para todo el mundo, pero si encajas dentro de alguno de sus casos de uso desde luego es una opción a tener en cuenta. El AOC 16T20E2 monta un panel IPS Full HD de 15,6 pulgadas con una frecuencia de 60 Hz, un tiempo de respuesta de 4 ms, y una resolución de 1.920×1.080, lo que son 141,21 pixeles por pulgada, y 16,7 millones de colores que le dan una calidad de imagen más que adecuada. Aunque un brillo de sólo 250 nits hace que en según qué entornos quede un poco apagado. Pero la gracia es que viene montado en un chasis negro sin marco en tres de sus lados que mide 356×224×11 milímetros y pesa 700 gramos. Aunque también incluye una funda magnética que deja las dimensiones en 356×226×15 mm y el peso en 1,1 kilos. Vamos, que te lo puedes llevar a cualquier parte sin pensártelo. La funda, aparte de protegerlo cuando te lo lo lleves por ahí, aunque la superficie del monitor tiene una dureza 3H ofrece resistencia frente a arañazos, hace las funciones de peana. Y para ello tiene un par de ranuras con las que puedes fijarlo en dos ángulos de inclinación distintos, aunque nada te impide colocarlo en una posición que no se corresponda con ellas. Así que puedes colocarlo sobre una mesa al lado de un portátil o un ordenador de sobremesa, un móvil o una tablet sin necesidad de soluciones más low tech como apoyarlo en una pila de libros o algo parecido. Yo lo estuve utilizando en la posición en la que queda más inclinado hacia atrás. Pero eso es porque soy tirando a alto. Aún así me pareció cómodo aún a pesar de tener que inclinar un poco la cabeza hacia abajo, lo que por otra parte me pasa con mi portátil habitual cuando no tengo un soporte sobre el que colocarlo. Otra cosa sería si colocas el portátil sobre un soporte, pues el monitor quedaría más abajo, lo que es tirando a nada cómodo. Pero de todos modos yo creo que ese no es el caso de uso de este monitor: su sitio está en una bolsa o mochila para levártelo de viaje con el portátil –o con un mini PC– y en el hotel o dónde sea tener una segunda pantalla. Lo mismo si viajes con el móvil o una tablet y quieres una segunda pantalla. Y también me parece muy recomendable si necesitas montar un equipo de forma temporal en algún lugar o conectarlo a algún equipo que esté, por ejemplo, en un rack. También es compatible con montaje VESA en pared si eso es lo que necesitas. Mira, mamá, sin alimentador (o casi) La conectividad viene asegurada por dos puertos USB-C con DisplayPort Alt Mode y un mini HDMI. Los puertos USB llevan la señal de vídeo y audio y la alimentación. Así que si conectas el 16T20E2 a un puerto USB-C con Power Delivery no necesitarás nada más para que funcione. Eso sí, son dos puertos independientes, así que aunque conectes un pincho USB o algún que otro periférico al puerto que queda libre el ordenador no se va a enterar de ello. Vamos, que no hace de hub USB. Si, por el contrario, utilizas el puerto mini HDMI, no tienes alimentación. Así que tendrás que buscarte un cargador USB capaz de entregar hasta 15 vatios (5 voltios y 3 amperios, algo bastante estándar y barato), que es el consumo pico del monitor, aunque el típico sea de 5. El cargador no viene incluido. Pero sí un cable USB A-C, otro UCB C, y un HDMI a mini HDMI. Así que en la caja tienes casi todo lo necesario para empezar a utilizarlo salvo que lo vayas a conectar por HDMI. Todos los conectores van en el lado derecho del monitor, salvo el de auriculares de 3,5 mm, que va en el izquierdo justo encima de los botones que permiten acceder a las opciones del monitor. Lo de los conectores saliendo por los lados es quizás un poco extraño. Y es muy extraño si quieres utilizar el monitor en vertical. Pero es que tampoco parece factible montarlos por detrás y que el monitor siga siendo igual de delgado. La parte inferior del monitor, la que sí tiene borde, esconde dos altavoces estéreo de un vatio cada uno. Aunque lo mejor que se puede decir de ellos es que están ahí. Porque sonar, lo que se dice sonar, no suenan muy bien. Pero menos da una piedra. O no tenerlos, claro. Como decía al principio el 16T20E2 no es un monitor para todo el mundo ni para todos los usos. Pero dentro de sus limitaciones me ha parecido que está muy bien. Probablemente no como monitor principal para cuando estás en la oficina o en casa, aunque para gustos, colores. Pero sí para llevártelo por ahí. O, por ejemplo en mi caso, para tenerlo a mano cuando me llega algún equipo para probar que normalmente monto en otra mesa porque en la mía habitualmente no caben más cosas. Así que, de hecho, estoy pensando en comprarme uno para casa. Su precio, además, no es nada descabellado: 95 euros en Amazon. Que para lo que ofrece este monitor me parece muy adecuado. Y si no te convence siempre puedes devolverlo. _____El enlace a Amazon lleva nuestro código de asociado. Así que si compras el monitor o incluso alguna cosa más tras seguirlo, aunque no tenga nada que ver, lo mismo recibimos una pequeña comisión. # Enlace permanente"
   },
   {
-    "titulo": "El PP apuesta por una reforma del SNS con un enfoque preventivo, planificado y visión a 20 años",
-    "medio": "Europa Press",
-    "fecha": 1793962628.0,
-    "link": "https://www.infosalus.com/actualidad/noticia-pp-apuesta-reforma-sns-enfoque-preventivo-planificado-vision-20-anos-20261106115708.html",
-    "resumen": "La vicesecretaria de Sanidad y Política Social del Partido Popular, Carmen Fúnez, ha defendido una reforma del Sistema Nacional de Salud (SNS) para pasar del actual enfoque reactivo a uno preventivo y planificado, que permita \"preparar la sanidad para los próximos 20 años\"."
-  },
-  {
     "titulo": "He probado el Lepas L6 PHEV en China: ¿va a reventar el mercado este nuevo SUV?",
     "medio": "Hipertextual",
     "fecha": 1793960171.0,
@@ -880,13 +908,6 @@
     "fecha": 1793959200.0,
     "link": "https://www.applesfera.com/servicios-apple/he-probado-alternativas-a-apple-pay-algun-banco-decide-quitarlo",
     "resumen": "Apple Pay lleva casi diez años en España. Unos tardaron más que otros en cogerle confianza, pero pagar con el Apple Watch o con el iPhone es todo un gusto. Raro es el banco que no lo admite ya, y yo me plantearía mucho seguir en uno que no ofreciera un servicio así. Y, sin embargo, en España están surgiendo alternativas a Apple Pay bastante interesantes. Quería contarte cómo es usarlas por si algún día a algún banco se le ocurre quitar el soporte. ¿Sería suficiente para quedarte con él o razón de sobra para irte? He probado Santander Wallet, BBVA Wallet y Bizum Pay, y tengo una ganadora entre las alternativas: Bizum Pay. Apple Pay sigue por delante en integración, pero Bizum Pay me ha sorprendido mucho. Santander y BBVA ya tienen su propia carteraBanco Santander y BBVA tienen cada uno la suya, y se lo debemos en buena parte a la Unión Europea. Fue ella quien pidió a Apple que abriese el chip NFC del iPhone. Esa apertura también nos ha traído a Barcelona la tarjeta del metro y el bus en el iPhone sin pasar por Apple Pay. BBVA Wallet Las dos viven dentro de la app del banco, en la sección de tarjetas. Para usarlas como si fueran Apple Pay: Entra en los ajustes del iPhoneVa abajo del todo > AppsEn \"aplicaciones por defecto\" escoge otra app diferente a Cartera de Apple Desde ese momento, un doble clic en el botón lateral abre la cartera del banco igual que abriría Apple Pay. Tarda un poco más porque, en el fondo, estás cargando la app del banco, pero ya tienen su propia alternativa sin tener que pagar las comisiones de Apple. Algo que veremos más adelante y que puede llegar a impulsar su uso. Bizum Pay, la que más me ha convencido Y empiezo por lo más evidente: la gente ya no le tiene miedo a Bizum. Todo el mundo sabe hacer un Bizum, así que añadir la opción de pagar con Bizum Pay tiene gran parte del trabajo hecho, que es el de marketing. Además, es la más transversal, porque cada vez hay más bancos compatibles: CaixaBank, Sabadell, Unicaja, Bankinter, Ibercaja, Abanca o ING, entre otros. Ojo con el nombre. Bizum sirve para enviar dinero de una cuenta a otra, y Bizum Pay es una plataforma de pago por NFC (como Apple Pay) a la que se apuntan los bancos. Para saber si el tuyo está, descarga la app e introduce tu número de teléfono. Ella te dice si es compatible. En mi caso, es CaixaBank y sí lo es. Una vez dentro, la app enlaza tu cuenta bancaria y te crea esa especie de \"tarjeta\", aunque no es una tarjeta como tal. Es pagar con NFC, pero enlazado con tu cuenta bancaria. Desde el punto de vista de la privacidad es muy interesante, porque no hay datos de tarjeta que luego se puedan copiar. Un punto muy positivo. Si prefieres algo más tradicional, Bizum Pay también te permite añadir otras tarjetas de crédito y débito. De esta forma, acaba siendo una app cartera como Wallet de Apple. Como se integra con el NFC, también se configura desde los ajustes y se abre con un doble clic en el botón de bloqueo. He de decir que funciona muy bien. Es completa y rápida, casi casi tanto como Apple Pay. Hay que reconocer que está bien hecha. Apple Pay sigue siendo el mejor integrado A día de hoy, Apple Pay se lleva el gato al agua. Está en el Apple Watch y Bizum Pay solo en el iPhone. Ya solo por eso gana. Además, cuenta con las animaciones y la rapidez propias de una app integrada como Wallet. Aun así, Bizum Pay y las apps de BBVA o Santander son alternativas que, como país y como sector bancario, debemos tener. Si te apetece ver cómo funcionan, te recomiendo instalar Bizum Pay, aunque solo sea para probarla. El dilema de los bancos Apple Pay no es gratis para los bancos. Nosotros usamos todo igual, pero se calcula que la comisión que pagan por las operaciones con Apple Pay puede rondar el 0,15 %, aunque depende de los acuerdos y las condiciones de cada entidad. Por ejemplo, en mil euros de gastos, Apple se llevaría 1,50 euros si aplicamos esa tasa. Sí, no es mucho. Pero multipliquemos esa cifra por los millones de clientes y las millones de compras que se hacen en un solo mes. Al final, la cantidad puede ser considerable. Este asunto también está en los tribunales de Estados Unidos, donde se cuestionan las condiciones que Apple impone para utilizar su sistema de pagos. Veremos cómo termina el proceso. En Europa pasó otra cosa, porque aquí se obligó a Apple a abrir el chip NFC. Así, los bancos que desarrollasen su propia plataforma podrían evitar la comisión de Apple asociada a su sistema de pagos. De ahí salieron Santander Wallet, BBVA Wallet y Bizum Pay. Actualmente conviven las dos opciones y quizás sea demasiado pronto para que un gran banco se atreva a quitar Apple Pay. Pero la posibilidad de hacerlo ya la tienen. Otra cosa es que les compense, teniendo en cuenta el revuelo que puede causar entre los clientes. Un plan B por si algún día... Pero hay otra razón para tener alternativas, y a mí me parece la más importante. Apple Pay es americano, y las tarjetas que metemos dentro también: Visa y Mastercard. Las carteras de Santander y BBVA nos dan independencia de Apple, pero siguen apoyándose en esas tarjetas. Bizum Pay va por otro camino, porque permite pagar sin necesidad de utilizar una tarjeta y cargar directamente el importe a tu cuenta bancaria. Pongámonos en el peor de los casos, y lo digo solo como suposición. Imaginemos un bloqueo como el que ha habido entre Estados Unidos y China, o el que afecta a Europa y Rusia, que llegase a afectar a las empresas de pagos y a los servicios que utilizamos a diario. En un escenario así, podríamos encontrarnos con problemas para utilizar Apple Pay y las tarjetas Visa o Mastercard. Dependiendo del alcance del bloqueo, incluso podría haber dificultades para sacar dinero en un cajero. Adiós Visa, adiós Mastercard. Aquí es donde Bizum Pay podría tener todo el sentido, porque permite pagar desde la cuenta bancaria sin pasar por una red de tarjetas. Es una alternativa interesante desde el punto de vista estratégico. Aunque solo sea como salvaguarda política, tener otra vía de pago puede ser importante. Bizum Pay Bizum Pay vive en tu dispositivo y es la app donde guardar de forma segura tu método de pago presencial Bizum, tus tarjetas de crédito y débito, tus tarjetas de embarque, pases, tickets y demás en un único punto. Descargar gratis Descargar gratis De momento, no hay ningún indicio de que nada de esto vaya a pasar, y Apple Pay sigue siendo la mejor opción por comodidad e integración. Pero, tras unos días pagando con Bizum Pay, podría adaptarme perfectamente a ella. Todo un plan B que ya está montado y que, además, funciona bien. De momento, Apple Pay sigue ahí. Seguirá siendo la opción número uno. No hay razón para que no lo sea. Pero lo bueno es que ya hay más de una forma de pagar con el iPhone. Imagen de portada | Applesfera En Applesfera | Nuevos iPhone 18 - Todo lo que creemos saber sobre ellos En Applesfera | Apple Music esconde música gratis y para siempre: así puedes escuchar canciones sin pagar un euro - La noticia He probado las alternativas a Apple Pay por si algún banco decide quitarlo fue publicada originalmente en Applesfera por Guille Lomener ."
-  },
-  {
-    "titulo": "La película de animación de ‘John Wick’ recibe la luz verde definitiva: Keanu Reeves volverá",
-    "medio": "Hipertextual",
-    "fecha": 1793958848.0,
-    "link": "https://hipertextual.com/cine-television/la-pelicula-de-animacion-de-john-wick-recibe-la-luz-verde-definitiva-keanu-reeves-volvera/",
-    "resumen": "La saga John Wick ya está lista para volver. En 2025 se estrenó Ballerina, el spin-off protagonizado por Ana de Armas que, por el momento, se ha convertido en la última entrega de la franquicia. Pero mientras los fans esperan con ansias novedades sobre una posible quinta entrega de la historia principal, ahora se ha […] Seguir leyendo: La película de animación de ‘John Wick’ recibe la luz verde definitiva: Keanu Reeves volverá"
   },
   {
     "titulo": "La Fiscalía Europea abre una segunda investigación por un posible fraude en el mantenimiento del AVE",
@@ -957,13 +978,6 @@
     "fecha": 1793941266.0,
     "link": "https://www.infolibre.es/club-infolibre/librepensadores/ultimo-escano_129_2239410.html",
     "resumen": "El viernes 30 de octubre, el grupo autodenominado Izquierda Confederal publicó en infoLibre su análisis sobre a qué opción de izquierdas habría que votar en cada circunscripción para intentar evitar que en las próximas elecciones generales acceda a gobernar este país la reunión de las ultraderechas y el capitalismo salvaje. Desde mi punto de vista ese análisis requiere un poco más de concreción, porque los datos sugieren algunas discrepancias, ofrecen algunas alternativas y suscitan enfatizar más y con más precisión lo que se proponía.El punto de partida no puede ser otro que el de los resultados de las anteriores elecciones generales matizado, sí, por los resultados de las elecciones autonómicas intermedias y cierta mirada sobre las encuestas. Pero solo matizado, porque quienquiera que observe el resultado de la secuencia histórica de las diferentes elecciones puede ver perfectamente cómo varía el voto depositado en elecciones generales y en elecciones autonómicas. El votante, especialmente el de izquierdas, participa más y matiza mucho más su voto en las autonómicas que en las generales, porque la administración le queda más cerca y ve más posible cambiarla. Como si por un lado entendiéramos (y así es) que lo que se pone en juego son cosas diferentes, y por otro supiésemos de la menor influencia de un voto más definido en unas generales.Pero es que en estas elecciones nos jugamos, en un solo día, continuar adelante —incluso sufriendo por la lentitud del avanzar—, o retroceder a lo bestia. No hay término medio. O seguir, o retroceder. Lo que nos jugamos es una involución en derechos y el aumento de la desigualdad, las discriminaciones y la censura; la extorsión a trabajadores e inquilinos, otra duplicación del presupuesto militar, la persecución de las lenguas, de los partidos e ideologías nacionalistas o de izquierdas e, incluso, la disminución de competencias de las comunidades autónomas; y, a buen seguro, el incremento de la privatización de la Sanidad, la Educación y las Pensiones, junto a un largo etcétera de desgracias más puntuales consecuencia de las anteriores que hoy no llaman la atención, pero lo harían mañana, cuando nos las impusieran, si no lo impedimos desde el día 29.Una catástrofe de este calibre exige ser conscientes de dónde estamos y por qué (en términos de votos), para hacer lo posible por evitar que la desgracia nos asole.Dejando aparte al PNV, devenido en una rara avis de derecha civilizada, el equilibrio de la legislatura que acaba ha dado 178 escaños a las ultraderechas de PP, Vox, Junts y UPN, pese a no llegar a 11.700.000 votos, y 167 escaños al resto, pese a acumular más de 11.800.000 votos: 157.000 votos más y 11 escaños menos. Una distorsión que en esencia se debe a qué formación política obtuvo el último escaño de cada circunscripción, aprovechando con ello todos los votos recibidos. Las opciones políticas que lo obtuvieron saben, y debemos saberlo los demás, que en esas circunscripciones no pueden crecer en escaños porque les haría falta un crecimiento desmesurado de su respaldo en votos. Pero también saben (y los demás no podemos consentirnos ignorarlo) que es justamente atacando ese último escaño donde pueden cambiarse las tornas porque aquellas opciones que consiguieron el último escaño en cada circunscripción son las que tienen más riesgo de perder uno. De modo que quienes deseemos ganárselo debemos centrar nuestros esfuerzos en cómo conseguirlo.Que las ultraderechas dispongan de 11 escaños más pese a contar (insisto, PNV aparte) con 157.000 votos menos, se debe a que el PP se llevó el último escaño en 23 circunscripciones —entre ellas Madrid, Valencia, Alicante, Málaga y Cádiz—, Vox se lo llevó en ocho —seis de las que reparten cinco escaños y dos de las que reparten tres—, Junts en dos y UPN en una. Entre esos cuatro partidos se llevaron el último escaño en 34 de 52 circunscripciones.Fijando la mirada circunscripción a circunscripción sobre ese último escaño voy a señalar, diciendo por qué, aquellas en las que la izquierda a la izquierda del PSOE tenemos en nuestra mano alguna acción extraordinaria para decantar el resultado, toda vez que ya se han presentado las candidaturas y no cabe barajar alianzas. Y creo imprescindible hacerlo en dos direcciones igualmente importantes: que la izquierda no pierda escaños en algunas circunscripciones y que apueste por ganarlos en otras.Hay seis escaños de izquierdas en riesgo muy alto de perderse en favor de las derechas, cuatro a favor de Vox y dos a favor del PP. Y los escaños los perderían tres el PSOE y tres la antigua Sumar. Tengámoslo claro: perder seis escaños es darle a las ultraderechas 12 escaños de ventaja.Del PSOE son los de Albacete, Burgos y León. En Albacete, en 2023 a Vox le faltaron 1412 votos. No necesita el crecimiento general del 50% que vaticinan las encuestas (pasar del 12% al 18% en votos). Con que en Albacete crezca solo un 5%, podría lograrlo. Sumar recabó más de 15.000 votos que lo impedirían. En Burgos, Vox necesita crecer un 35% (unos 9.000 votos) para quitarle su segundo escaño al PSOE. También por debajo del 50% vaticinado. Sumar obtuvo 17.000, la mitad de los imprescindibles para conseguir un escaño, pero que dirigidos al PSOE impedirían que Vox tuviese ninguna opción de quitárselo a las izquierdas. Y en León, a Vox le basta con crecer un 31%, menos de ese 50%, unos 11.000 votos. Sumar obtuvo 18.000, no llegó ni a la mitad de los necesarios para acceder a un escaño, pero serían suficientes para evitar que Vox acuda con un escaño más al Congreso. En estas tres circunscripciones donde a Vox le basta con los votantes que le roba al PP sin que el PP pierda escaños, y donde la izquierda a la izquierda del PSOE carece de escaño y, además, es imposible que consiga el aumento de voto necesario para obtenerlo, habría que acumular voto en el PSOE para evitar que esos tres escaños pasen a Vox. O PSOE, o Vox. El votante de izquierdas de Albacete, Burgos y León tiene ese dilema: o votar PSOE o que un escaño hoy del PSOE se lo lleve Vox.Los tres escaños que la izquierda a la izquierda del PSOE tiene más claramente en riesgo en favor de las derechas, por la división del voto entre el Frente amplio y Adelante Andalucía, son los de Cádiz y Córdoba, y uno de los de Sevilla. Esta división puede darle el escaño de Cádiz al PSOE, pero también a Vox, porque los restos de ambos estaban por encima del 50% de los votos recabados por Sumar. El de Córdoba porque la división lleva casi inexorablemente a regalar el escaño al PP, cuyo resto fue del 75% del voto recibido por Sumar. Y en Sevilla, en cambio, el beneficiado de la división es Vox. Dejar los conseguidos en Sevilla a ver cuál de las dos opciones obtiene más respaldo garantiza perder el segundo escaño, quedando al albur cuál de las dos opciones se hace con el primero. No cabe un consejo de voto porque ninguno garantiza nada para que la izquierda no pierda escaños. A eso nos han abocado. Pero el riesgo de perder dos o los tres escaños mencionados hace que resulte colectivamente imprescindible intentar ganarlos en otras circunscripciones. Lo que nos va a afectar a todos será la composición final del Congreso. Por eso es que, ahora, la batalla hay que presentarla desde todas partes.Aunque en Lugo y en Ourense la izquierda a la izquierda del PSOE votase toda ella al BNG —como se sugería en el articulo mencionado— (o todo el BNG lo hiciese al Frente, da lo mismo), no se conseguiría ningún escaño. Pero destinar al PSOE un 30% del voto que reúnen haría que el PP gallego perdiese su tercer escaño en cada una de las dos circunscripciones. Pediría a los votantes del BNG y del Frente que lo considerasen. El placer añadido de ser responsables de que el ciudadano Núñez pierda dos escaños de Galicia en el Congreso de los Diputados y puede que su silla en el PP no sería cosa menor.En Badajoz, en cambio, se le puede arrebatar su escaño a Vox si la izquierda a la izquierda del PSOE nos animamos a votarle, porque teniendo radicalmente imposible conseguir escaño (se necesitaría crecer un 100%), tenemos en nuestras manos el enorme beneficio de conseguir que lo pierda Vox. Como sucede en Palencia, Salamanca, Valladolid y Zamora, donde la izquierda a la izquierda del PSOE carecemos de representación en el Congreso, y tenemos imposible conseguirla, y donde votar al PSOE con la nariz tapada provocaría, en cambio, que el PP perdiera un diputado en cada una de esas cuatro circunscripciones. Cuatro escaños para impedir un gobierno del PP con Vox. Y exactamente lo mismo sucede en Cuenca, Guadalajara y Toledo: la izquierda a la izquierda del PSOE podemos, votándole, ser quienes le quitemos su último escaño al PP en dos de ellas, y a Vox en la de en medio. Como también podemos despojar a Vox de su escaño por Cantabria por este medio. Son 11 circunscripciones en total en las que, teniendo absolutamente imposible conseguir escaño, los votantes a la izquierda del PSOE tenemos en nuestras manos que las ultraderechas pierdan nada menos que 11 escaños, dos de ellos actualmente de Vox. Once diputados más para la izquierda, sí, del PSOE, pero once diputados menos para las ultraderechas. 22 diputados de diferencia. La maniobra más efectiva que la izquierda a la izquierda del PSOE tenemos para impedir un gobierno de las ultraderechas y el capitalismo salvaje, porque esa es la alternativa. ¿De verdad puede nadie de izquierdas preferir un gobierno del PP con Vox sabiendo las desgracias a las que se condena a la mayoría de la sociedad?Una última cuestión sobre el análisis de Izquierda Confederal, en este caso una discrepancia. En Navarra, PP y UPN se han aliado para garantizar sus dos escaños actuales ante el temor de que el voto que pudiera restarles Vox provocase que uno de esos escaños lo ganase el Frente. Sumar se quedó a 4000 votos de UPN, y si Vox le restase 3000, dejaría al Frente a solo 1000 de quitarle el escaño, sin que esa atracción de votos le sirviera a Vox, porque necesita crecer más de un imposible 100% para conseguir escaño. Y, pese a la alianza de UPN y PP, el Frente todavía podría quitarles un escaño, mientras que es imposible que Bildu lo consiga porque para obtener su segundo tendría que crecer un también imposible 80%. Así, en Navarra, solo votando al Frente podemos intentar conseguir otro escaño. Ni votando al PSOE ni a Bildu puede conseguirse. El Frente puede lograrlo aunque con la duda de a costa de quién, si del PSOE o de las derechas; porque las tres opciones estarían disputándoselo en un puño. No estaría nada mal que se saldase en contra de las derechas.En fin, desde la izquierda a la izquierda del PSOE tenemos la posibilidad de garantizar el conservar o ganar estos últimos escaños a la entente PP/Vox. Aunque sea votando al PSOE. Mantendrá o conseguirá escaño solo porque desde su izquierda hemos apostado por que no gobierne el PP con Vox. Por la necesidad y el orgullo de impedir un gobierno del PP con Vox, y habrá que cobrárselo. Pero, o eso, o la garantía de un frío invierno para la inmensa mayoría, incluida, aunque no quieran darse cuenta, buena parte de los votantes del PP y de Vox y de sus familias. A mí no me cabe la duda.________________Guillermo Sánchez es socio de infoLibre."
-  },
-  {
-    "titulo": "Queda instalado y en funcionamiento el octavo y último panel solar desenrollable de la Estación Espacial Internacional",
-    "medio": "Microsiervos",
-    "fecha": 1793917800.0,
-    "link": "http://www.microsiervos.com/archivo/espacio/instalado-funcionamiento-octavo-ultimo-panel-solar-desenrollable-estacion-espacial.html",
-    "resumen": "Los astronautas Anil Menon de la NASA y Joshua Kutryk de la CSA (Agencia Espacial Canadiense) dejaron instalado y en funcionamiento el octavo y último panel desenrollable iROSA, de International Space Station Roll-Out Solar Array, Panel solar desenrollable de la Estación Espacial Internacional. Es el que se corresponde con el canal 3B de sus sistema eléctrico. El séptimo había sido instalado por ellos dos hace justo una semana. Esto completa el programa de modernización del sistema eléctrico de la Estación, que también ha incluido un cambio completo de sus baterías llevado a cabo entre 2017 y 2021. Los paneles iROSA, por su parte, fueron instalados entre junio de 2021 y esta tarde, tras una prueba con un primer panel desenrollable en 2017 y que una vez comprobado su funcionamiento fue «tirado por la borda» para que se desintegrara en la atmósfera. Con los ocho paneles solares instalados –originalmente iban a ser seis pero funcionaron tan bien que los socios de la Estación decidieron montar ocho, que son todos los que caben– la Estación genera ahora 215 kW, una mejora considerable frente a los 160 de máximo que llegó a producir con los paneles originales, paneles que además tras muchos años en el espacio ya no rendían como al principio. Así, salvo avería muy gorda, y aún así el sistema tiene las suficientes redundancias como para que esto no tenga que ser necesario, ya no habrá que tocar más los paneles ni las baterías hasta que la EEI sea retirada, algo que no ocurrirá en cualquier caso hasta al menos 2030. Aunque al escaso ritmo que está yendo el desarrollo de estaciones espaciales comerciales que la NASA está impulsando con la idea de que tomen el papel de la Estación, probablemente será aún más tarde. Fue el paseo espacial 101 llevado a cabo por la NASA para la construcción, mantenimiento y reparación de la Estación Espacial Internacional y el número 286 en total. Fue el quinto para Menon y el segundo para Kutryk. Relacionado, La ESA encarga dos estudios de viabilidad para una posible estación espacial europea La tripulación Crew 13 de la NASA llega en un tiempo récord a la Estación Espacial Internacional La astronauta de la ESA Sophie Adenot vuelve tierra con la tripulación Crew 12 y con un nuevo récord de permanencia en el espacio para Europa Termina la misión de la cápsula de carga Cygnus 24 con un experimento sobre nuevos materiales y diseños para escudos térmicos Una pertinaz fuga de aire deja prácticamente fuera de servicio uno de los puertos de atraque de la Estación Espacial Internacional # Enlace permanente"
   },
   {
     "titulo": "The UAW Bet on Abdul El-Sayed and Won",
